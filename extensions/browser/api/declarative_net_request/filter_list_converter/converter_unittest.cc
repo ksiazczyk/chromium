@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the filter list converter
+// summary: Verifies that filter list rules convert to the expected Declarative Net Request JSON output for both ruleset and extension write types.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/filter_list_converter/converter.h"
 
 #include <optional>

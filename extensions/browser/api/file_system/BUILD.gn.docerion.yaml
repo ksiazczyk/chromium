@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the file system extension API
+summary: GN build file that defines the file_system source set, listing its sources and public and private dependencies for the extension file system API.

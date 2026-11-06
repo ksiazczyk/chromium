@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen document manager implementation
+// summary: Implements the per-browser-context keyed service that creates, tracks and shuts down offscreen documents for extensions.
+// ---
+
 #include "extensions/browser/api/offscreen/offscreen_document_manager.h"
 
 #include "base/check.h"

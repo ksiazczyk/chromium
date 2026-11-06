@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base offscreen document lifetime enforcer declaration
+// summary: Declares the abstract base class that tracks offscreen document activity, notifies on inactivity and terminates documents on hard limits.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_OFFSCREEN_OFFSCREEN_DOCUMENT_LIFETIME_ENFORCER_H_
 #define EXTENSIONS_BROWSER_API_OFFSCREEN_OFFSCREEN_DOCUMENT_LIFETIME_ENFORCER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the messaging API
+summary: Defines the GN source sets for extension messaging, listing messaging and native messaging sources together with their public and private dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMessagePort class declaration
+// summary: Declares NativeMessagePort, a MessagePort subclass that manages communication between extension messaging channels and native applications.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MESSAGING_NATIVE_MESSAGE_PORT_H_
 #define EXTENSIONS_BROWSER_API_MESSAGING_NATIVE_MESSAGE_PORT_H_
 

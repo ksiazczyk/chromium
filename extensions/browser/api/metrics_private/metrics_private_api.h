@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of metricsPrivate extension API functions
+// summary: Declares the ExtensionFunction classes backing the chrome.metricsPrivate API, covering metric recording, field trial lookup and crash reporting queries.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_METRICS_PRIVATE_METRICS_PRIVATE_API_H_
 #define EXTENSIONS_BROWSER_API_METRICS_PRIVATE_METRICS_PRIVATE_API_H_
 

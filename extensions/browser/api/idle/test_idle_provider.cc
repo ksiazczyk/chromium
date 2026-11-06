@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestIdleProvider fake idle provider implementation
+// summary: Implements a fake IdleTimeProvider that reports configurable idle time and lock state so tests can control idle state calculations.
+// ---
+
 #include "extensions/browser/api/idle/test_idle_provider.h"
 
 namespace extensions {

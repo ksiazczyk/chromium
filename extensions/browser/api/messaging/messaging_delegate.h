@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingDelegate interface for embedder messaging support
+// summary: Declares the MessagingDelegate interface for embedder-specific messaging support, including native app receivers, tab lookup and incognito connectability checks.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MESSAGING_MESSAGING_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_MESSAGING_MESSAGING_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test rules registry declaration
+// summary: Declares TestRulesRegistry, a minimal rules registry for tests that can return a preset result message.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_TEST_RULES_REGISTRY_H__
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_TEST_RULES_REGISTRY_H__
 

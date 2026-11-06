@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RulesRegistry base class declaration
+// summary: Declares the RulesRegistry base class that manages api::events::Rule objects with atomic add, remove and get operations on the registry thread.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_RULES_REGISTRY_H__
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_RULES_REGISTRY_H__
 

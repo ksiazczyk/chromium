@@ -4,6 +4,12 @@
 
 // Implements the Chrome Extensions Cookies API.
 
+// ---docerion
+// type: source
+// title: Chrome Extensions Cookies API implementation
+// summary: Implements the chrome.cookies extension API functions, including host permission checks, URL and store parsing, and cookie change event dispatch.
+// ---
+
 #include "extensions/browser/api/cookies/cookies_api.h"
 
 #include <memory>

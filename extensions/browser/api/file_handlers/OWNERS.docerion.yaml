@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the file handlers directory
+summary: Lists the code owners for the file handlers directory, pointing to the file manager OWNERS file and sammc@chromium.org.

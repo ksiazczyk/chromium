@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offscreen extension API function declarations
+// summary: Declares the extension functions for creating, closing and checking offscreen documents, observing extension hosts to reply asynchronously.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_OFFSCREEN_OFFSCREEN_API_H_
 #define EXTENSIONS_BROWSER_API_OFFSCREEN_OFFSCREEN_API_H_
 

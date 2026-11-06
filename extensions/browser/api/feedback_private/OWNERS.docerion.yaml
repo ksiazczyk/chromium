@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to feedback component owners
+summary: Delegates code ownership for this directory to the owners listed in components/feedback.

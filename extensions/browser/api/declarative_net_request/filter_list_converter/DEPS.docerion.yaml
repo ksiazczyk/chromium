@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the filter list converter directory
+summary: DEPS file allowing includes from the subresource filter ruleset converter tools that the filter list converter builds on.

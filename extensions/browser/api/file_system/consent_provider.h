@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentProvider interface for volume access consent
+// summary: Defines an interface for requesting user consent to grant an extension access to a volume and for checking whether an extension is grantable.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FILE_SYSTEM_CONSENT_PROVIDER_H_
 #define EXTENSIONS_BROWSER_API_FILE_SYSTEM_CONSENT_PROVIDER_H_
 

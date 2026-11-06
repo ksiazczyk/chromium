@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: HID API directory owners
+summary: Lists the code owners responsible for reviewing changes to the HID extension API directory.

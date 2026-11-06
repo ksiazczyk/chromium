@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative Web Request action implementations
+// summary: Implements WebRequestAction subclasses for canceling, redirecting, header and cookie modifications, including parsing of their JSON descriptions.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_action.h"
 
 #include <limits>

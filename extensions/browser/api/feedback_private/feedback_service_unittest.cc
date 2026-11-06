@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FeedbackService feedback report sending
+// summary: Unit tests for FeedbackService that use mock uploaders and delegates to verify report sending, including ChromeOS variations fetching and HPKE key handling.
+// ---
+
 #include "extensions/browser/api/feedback_private/feedback_service.h"
 
 #include "base/check.h"

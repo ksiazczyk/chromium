@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingPrivateDelegate default implementation
+// summary: Implements default behavior for the NetworkingPrivateDelegate base class, including observer methods that are not supported and a failing StartActivate.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_delegate.h"
 
 #include "extensions/browser/api/networking_private/networking_private_api.h"

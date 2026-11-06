@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for cookies API common functionality
+// summary: Unit tests for store ID to profile conversion, cookie object creation, and domain filter matching in the cookies API helpers.
+// ---
+
 #include <array>
 
 // Tests common functionality used by the Chrome Extensions Cookies API

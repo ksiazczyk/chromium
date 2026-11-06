@@ -4,6 +4,12 @@
 
 // Constants used for the WebRequest API.
 
+// ---docerion
+// type: source
+// title: Declarative WebRequest API constant declarations
+// summary: Declares string constants for the declarative WebRequest API, covering event signals, dictionary keys, enum values, and action instance type names.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_WEBREQUEST_WEBREQUEST_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_WEBREQUEST_WEBREQUEST_CONSTANTS_H_
 

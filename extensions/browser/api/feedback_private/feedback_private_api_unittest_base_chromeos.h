@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test base header for the feedbackPrivate API on ChromeOS
+// summary: Declares FeedbackPrivateApiUnittestBase, an ApiUnitTest subclass that sets up an ExtensionsAPIClient and a delegate able to create test SystemLogsSource instances.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_FEEDBACK_PRIVATE_API_UNITTEST_BASE_CHROMEOS_H_
 #define EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_FEEDBACK_PRIVATE_API_UNITTEST_BASE_CHROMEOS_H_
 

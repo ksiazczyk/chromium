@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the guest_view API folder
+summary: Points to the shared guest_view directory metadata mixins used for Chromium directory routing and tracking.

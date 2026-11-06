@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rule counts implementation
+// summary: Implements the RuleCounts struct with addition and equality operators for combining ruleset rule counts.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/rule_counts.h"
 
 #include "base/check_op.h"

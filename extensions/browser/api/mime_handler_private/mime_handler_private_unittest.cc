@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MimeHandlerServiceImpl
+// summary: Tests that SetPdfPluginAttributes accepts valid background colors and rejects non-integer or out-of-range values before storing attributes on the StreamContainer.
+// ---
+
 #include "extensions/browser/api/mime_handler_private/mime_handler_private.h"
 
 #include <stdint.h>

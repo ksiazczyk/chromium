@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory utility implementation
+// summary: Implements asynchronous checks of whether local paths are directories, handling non-native ChromeOS file system paths via a delegate.
+// ---
+
 #include "extensions/browser/api/file_handlers/directory_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for app file handler utilities
+// summary: Unit tests verifying file handler matching by extension, combined extensions, MIME type, and directory inclusion rules.
+// ---
+
 #include "extensions/browser/api/file_handlers/app_file_handler_util.h"
 
 #include <set>

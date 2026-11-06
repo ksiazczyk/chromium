@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS networkingPrivate event router implementation
+// summary: Forwards ChromeOS network, device, portal and certificate state changes from NetworkStateHandler to chrome.networkingPrivate extension event listeners.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_event_router.h"
 
 #include <memory>

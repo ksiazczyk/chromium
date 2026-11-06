@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message service implementation
+// summary: Implements MessageService, the browser-side service that opens, routes, and closes extension message channels between renderers and native hosts.
+// ---
+
 #include "extensions/browser/api/messaging/message_service.h"
 
 #include <stdint.h>

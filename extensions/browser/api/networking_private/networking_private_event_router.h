@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingPrivateEventRouter base class
+// summary: Declares the keyed service that broadcasts chrome.networkingPrivate events to JavaScript listeners, from NetworkStateHandler on ChromeOS or the delegate elsewhere.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_EVENT_ROUTER_H_
 #define EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_EVENT_ROUTER_H_
 

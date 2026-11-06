@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics sendPacket extension function declaration
+// summary: Declares the DiagnosticsSendPacketFunction extension function that handles the diagnostics.sendPacket API call and reports ICMP test results.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DIAGNOSTICS_DIAGNOSTICS_API_H_
 #define EXTENSIONS_BROWSER_API_DIAGNOSTICS_DIAGNOSTICS_API_H_
 

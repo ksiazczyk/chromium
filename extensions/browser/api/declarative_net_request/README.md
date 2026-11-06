@@ -1,3 +1,13 @@
+---
+type: readme
+title: Declarative Net Request
+summary: Overview of the declarativeNetRequest API implementation covering rule indexing into flatbuffers, ruleset types, integrity, schema versioning, matching, threading, and webRequest interaction.
+relations:
+  - references /extensions/browser/api/declarative_net_request/flat/extension_ruleset.fbs
+  - references /extensions/browser/api/declarative_net_request/indexed_rule.h
+  - references /components/url_pattern_index/flat/url_pattern_index.fbs
+---
+
 # Declarative Net Request
 
 This doc gives a brief overview of the implementation of the

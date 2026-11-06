@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants for the chrome.management extension API
+// summary: Defines JSON keys, values, and error message strings used by the management API implementation for arguments, errors, and user gesture requirements.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MANAGEMENT_MANAGEMENT_API_CONSTANTS_H_
 #define EXTENSIONS_BROWSER_API_MANAGEMENT_MANAGEMENT_API_CONSTANTS_H_
 

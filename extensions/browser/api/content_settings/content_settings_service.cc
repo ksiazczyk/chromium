@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingsService implementation
+// summary: Implements the per-browser-context service that keeps the ContentSettingsStore in sync with extension registration, load state, and content settings prefs.
+// ---
+
 #include "extensions/browser/api/content_settings/content_settings_service.h"
 
 #include "base/lazy_instance.h"

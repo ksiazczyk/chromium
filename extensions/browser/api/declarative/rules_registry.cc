@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RulesRegistry base class implementation
+// summary: Implements the RulesRegistry base class for adding, removing and retrieving declarative event rules per extension, including manifest-declared rules.
+// ---
+
 #include "extensions/browser/api/declarative/rules_registry.h"
 
 #include <algorithm>

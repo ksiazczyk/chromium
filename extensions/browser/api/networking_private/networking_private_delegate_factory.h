@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: NetworkingPrivateDelegateFactory class declaration
+// summary: Declares the keyed service factory for NetworkingPrivateDelegate, including an optional UIDelegateFactory supplied by the embedding application.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_DELEGATE_FACTORY_H_
 #define EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_DELEGATE_FACTORY_H_
 

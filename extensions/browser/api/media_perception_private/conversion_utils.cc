@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto to IDL conversion utilities implementation
+// summary: Implements conversions between media perception proto messages and the IDL types generated for the media_perception_private extension API.
+// ---
+
 #include "extensions/browser/api/media_perception_private/conversion_utils.h"
 #include "base/notreached.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS unit tests for the feedbackPrivate API
+// summary: Tests the feedbackPrivate API on Chrome OS, including readLogSource behavior, using a mock feedback service.
+// ---
+
 #include "extensions/browser/api/feedback_private/feedback_private_api.h"
 
 #include "base/json/json_writer.h"

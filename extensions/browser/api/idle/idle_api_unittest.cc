@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the idle extension API
+// summary: Tests the idle API functions and IdleManager state transitions using a mock idle provider and event delegate.
+// ---
+
 #include "extensions/browser/api/idle/idle_api.h"
 
 #include <limits.h>

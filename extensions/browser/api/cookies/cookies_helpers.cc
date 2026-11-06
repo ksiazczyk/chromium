@@ -4,6 +4,12 @@
 
 // Implements common functionality for the Chrome Extensions Cookies API.
 
+// ---docerion
+// type: source
+// title: Cookies API helper implementation
+// summary: Implements shared cookies API functionality such as store ID resolution, cookie conversion, and matching cookies against filters and host permissions.
+// ---
+
 #include "extensions/browser/api/cookies/cookies_helpers.h"
 
 #include <stddef.h>

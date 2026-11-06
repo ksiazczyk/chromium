@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for content settings extensions API
+summary: Points to the OWNERS file of components/content_settings to delegate code ownership and review for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMessagePort implementation
+// summary: Implements NativeMessagePort, forwarding messages between the channel delegate and a native messaging host via its dispatcher on the UI thread.
+// ---
+
 #include "extensions/browser/api/messaging/native_message_port.h"
 
 #include <memory>

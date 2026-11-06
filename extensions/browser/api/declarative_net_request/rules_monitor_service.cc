@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rules monitor service implementation
+// summary: Implements RulesMonitorService, which loads and unloads extension rulesets, updates dynamic rules, and logs load results and metrics for the Declarative Net Request API.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/rules_monitor_service.h"
 
 #include <algorithm>

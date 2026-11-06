@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File sequence helper unit tests
+// summary: Unit tests for FileSequenceHelper covering dynamic rule updates and ruleset loading outcomes and statuses.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/file_sequence_helper.h"
 
 #include <functional>

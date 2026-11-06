@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Chrome OS networkingPrivate delegate
+// summary: Declares NetworkingPrivateChromeOS, the Chrome OS implementation of NetworkingPrivateDelegate backing the networkingPrivate extension API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_CHROMEOS_H_
 #define EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_CHROMEOS_H_
 

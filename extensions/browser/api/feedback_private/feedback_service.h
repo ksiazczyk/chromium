@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackService class for gathering and sending feedback reports
+// summary: Declares FeedbackParams and the ref-counted FeedbackService class that coordinates gathering the pieces of a feedback report and sending it once all data is available.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_FEEDBACK_SERVICE_H_
 #define EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_FEEDBACK_SERVICE_H_
 

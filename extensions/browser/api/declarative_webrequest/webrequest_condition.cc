@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestCondition implementation
+// summary: Implements WebRequestCondition evaluation and the WebRequestData structs that carry request information while matching declarative rules.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_condition.h"
 
 #include "base/functional/bind.h"

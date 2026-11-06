@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DeclarativeRule condition and action sets
+// summary: Unit tests for the DeclarativeConditionSet and DeclarativeActionSet templates, covering creation, error handling and condition fulfillment.
+// ---
+
 #include "extensions/browser/api/declarative/declarative_rule.h"
 
 #include <memory>

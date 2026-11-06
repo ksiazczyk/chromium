@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the feedback private proto library
+summary: Defines a proto_library GN target that compiles hpke.proto for the feedback private extension API.

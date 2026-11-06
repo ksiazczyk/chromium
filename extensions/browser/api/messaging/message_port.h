@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port base class declaration
+// summary: Declares MessagePort, one side of a communication channel handled by MessageService, with a ChannelDelegate interface for closing channels and posting messages.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MESSAGING_MESSAGE_PORT_H_
 #define EXTENSIONS_BROWSER_API_MESSAGING_MESSAGE_PORT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the mime_handler_private source set
+summary: Defines the mime_handler_private source_set with its sources and dependencies on base, extensions, net, and the mime_handler mojom target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingPrivateLinux class declaration
+// summary: Declares NetworkingPrivateLinux, the Linux NetworkingPrivateDelegate subclass offering network property, connect, disconnect, and cellular SIM operations for the networkingPrivate API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_LINUX_H_
 #define EXTENSIONS_BROWSER_API_NETWORKING_PRIVATE_NETWORKING_PRIVATE_LINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset checksum implementation
+// summary: Implements the RulesetChecksum constructor pairing a ruleset ID with its indexed ruleset checksum.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/ruleset_checksum.h"
 
 namespace extensions::declarative_net_request {

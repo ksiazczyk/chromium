@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the LogSourceResource API resource
+// summary: Implements LogSourceResource, an ApiResource wrapping a SystemLogsSource for extension log reads, together with its ApiResourceManager factory registration.
+// ---
+
 #include "extensions/browser/api/feedback_private/log_source_resource.h"
 
 #include "base/lazy_instance.h"

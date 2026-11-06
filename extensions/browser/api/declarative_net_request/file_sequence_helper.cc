@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File sequence helper implementation
+// summary: Implements file task runner operations for loading, indexing, and updating Declarative Net Request rulesets, including dynamic rule changes.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/file_sequence_helper.h"
 
 #include <algorithm>

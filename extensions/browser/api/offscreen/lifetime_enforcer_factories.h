@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lifetime enforcer factories class declaration
+// summary: Declares LifetimeEnforcerFactories, a registry that creates the appropriate lifetime enforcer for each offscreen document reason, with a testing override.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_OFFSCREEN_LIFETIME_ENFORCER_FACTORIES_H_
 #define EXTENSIONS_BROWSER_API_OFFSCREEN_LIFETIME_ENFORCER_FACTORIES_H_
 

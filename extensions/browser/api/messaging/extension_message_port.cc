@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension message port implementation
+// summary: Implements ExtensionMessagePort, managing message channels tied to tabs, extension frames, and service workers, including context tracking and channel error messages.
+// ---
+
 #include "extensions/browser/api/messaging/extension_message_port.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for appViewGuestInternal extension functions
+// summary: Declares the AppViewGuestInternalAttachFrameFunction and AppViewGuestInternalDenyRequestFunction extension function classes for the appViewGuestInternal API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_GUEST_VIEW_APP_VIEW_APP_VIEW_GUEST_INTERNAL_API_H_
 #define EXTENSIONS_BROWSER_API_GUEST_VIEW_APP_VIEW_APP_VIEW_GUEST_INTERNAL_API_H_
 

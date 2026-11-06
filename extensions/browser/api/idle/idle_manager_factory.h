@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleManagerFactory class declaration
+// summary: Declares the BrowserContextKeyedServiceFactory singleton that provides IdleManager instances for browser contexts.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_IDLE_IDLE_MANAGER_FACTORY_H__
 #define EXTENSIONS_BROWSER_API_IDLE_IDLE_MANAGER_FACTORY_H__
 

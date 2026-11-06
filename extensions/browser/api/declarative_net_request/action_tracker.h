@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action tracker header
+// summary: Declares the ActionTracker class that tracks matched rules and action counts for the declarativeNetRequest API, with test hooks and data-clearing methods.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_ACTION_TRACKER_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_ACTION_TRACKER_H_
 

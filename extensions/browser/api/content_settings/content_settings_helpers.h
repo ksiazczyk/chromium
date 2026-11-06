@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings helpers declarations
+// summary: Declares helpers for converting extension match patterns to content settings patterns and mapping content settings type names to their enum values.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_CONTENT_SETTINGS_CONTENT_SETTINGS_HELPERS_H_
 #define EXTENSIONS_BROWSER_API_CONTENT_SETTINGS_CONTENT_SETTINGS_HELPERS_H_
 

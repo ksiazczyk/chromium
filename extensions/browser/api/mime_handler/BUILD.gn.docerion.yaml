@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the mime_handler API
+summary: Defines the mime_handler source_set, listing its sources and its dependencies on base, content, extensions, and net for the extensions build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentRulesRegistry interface for declarative content rules
+// summary: Declares the abstract extensions-side ContentRulesRegistry interface that rules registries implement to evaluate declarative content rules for web contents, navigation, and CSS selector changes.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_CONTENT_CONTENT_RULES_REGISTRY_H__
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_CONTENT_CONTENT_RULES_REGISTRY_H__
 

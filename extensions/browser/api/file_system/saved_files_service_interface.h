@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for the saved files LRU service
+// summary: Declares an interface for an LRU of saved file entries persisting across app reloads, supporting registration, enqueueing, and lookup by id.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FILE_SYSTEM_SAVED_FILES_SERVICE_INTERFACE_H_
 #define EXTENSIONS_BROWSER_API_FILE_SYSTEM_SAVED_FILES_SERVICE_INTERFACE_H_
 

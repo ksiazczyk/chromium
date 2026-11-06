@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingPrivateEventRouterFactory implementation
+// summary: Implements the keyed service factory that instantiates the networkingPrivate event router per browser context and declares its dependencies.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_event_router_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

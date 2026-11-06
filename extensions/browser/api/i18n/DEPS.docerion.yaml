@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the i18n API folder
+summary: Grants the i18n API folder permission to include components/language/core/browser/pref_names.h.

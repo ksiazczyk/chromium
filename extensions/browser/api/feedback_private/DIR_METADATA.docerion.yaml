@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with bug tracking component
+summary: Maps the directory to the Platform>Apps>Feedback monorail component and a Buganizer component ID.

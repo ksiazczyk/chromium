@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative API implementation for extension event rules
+// summary: Implements the declarative extension API functions for adding, removing and getting event rules, including UMA metrics and base64 encoding of binary values.
+// ---
+
 #include "extensions/browser/api/declarative/declarative_api.h"
 
 #include <stddef.h>

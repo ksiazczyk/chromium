@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of appViewGuestInternal attachFrame and denyRequest functions
+// summary: Implements the appViewGuestInternal.attachFrame and denyRequest extension functions, which complete or deny pending AppViewGuest requests for embedding extension URLs in appview guests.
+// ---
+
 #include "extensions/browser/api/guest_view/app_view/app_view_guest_internal_api.h"
 
 #include "content/public/browser/render_frame_host.h"

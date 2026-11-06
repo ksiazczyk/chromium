@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS implementation of the networkingPrivate delegate
+// summary: Implements NetworkingPrivateDelegate for Chrome OS using the ash network state, configuration and connection handlers.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_chromeos.h"
 
 #include <memory>

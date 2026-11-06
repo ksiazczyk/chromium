@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerServiceImpl class declaration
+// summary: Declares the MimeHandlerServiceImpl mojo service with GetStreamInfo and SetPdfPluginAttributes, plus a TypeConverter from StreamContainer to mime_handler StreamInfo.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MIME_HANDLER_PRIVATE_MIME_HANDLER_PRIVATE_H_
 #define EXTENSIONS_BROWSER_API_MIME_HANDLER_PRIVATE_MIME_HANDLER_PRIVATE_H_
 

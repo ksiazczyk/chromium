@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-backed ruleset source implementation
+// summary: Reads and parses JSON ruleset files with size limits and supports indexing and persisting rulesets for Declarative Net Request.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/file_backed_ruleset_source.h"
 
 #include <memory>

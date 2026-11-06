@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingsStore class declaration
+// summary: Declares the thread-safe backend for extension-defined content settings, used by the custom provider and the content settings extension API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_CONTENT_SETTINGS_CONTENT_SETTINGS_STORE_H_
 #define EXTENSIONS_BROWSER_API_CONTENT_SETTINGS_CONTENT_SETTINGS_STORE_H_
 

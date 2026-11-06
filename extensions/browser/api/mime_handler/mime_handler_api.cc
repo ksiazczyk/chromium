@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the mimeHandler extension API functions
+// summary: Implements browser-side mimeHandler extension functions, resolving MIME handler streams for extension child frames and returning stream info or user-facing errors.
+// ---
+
 #include "extensions/browser/api/mime_handler/mime_handler_api.h"
 
 #include <algorithm>

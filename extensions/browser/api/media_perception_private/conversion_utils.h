@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring proto and IDL conversion functions
+// summary: Declares functions that convert State, MediaPerception, and Diagnostics between proto messages and IDL objects.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MEDIA_PERCEPTION_PRIVATE_CONVERSION_UTILS_H_
 #define EXTENSIONS_BROWSER_API_MEDIA_PERCEPTION_PRIVATE_CONVERSION_UTILS_H_
 

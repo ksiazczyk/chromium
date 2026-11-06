@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefsHelper class declaration
+// summary: Declares PrefsHelper, a stateless ExtensionPrefs helper for Declarative Net Request preference operations like disabled rules and checksums.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_PREFS_HELPER_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_PREFS_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkManager D-Bus constants for Linux
+// summary: Defines D-Bus constant strings for NetworkManager interfaces, methods and properties used by the Linux networking implementation.
+// ---
+
 #include "extensions/browser/api/networking_private/network_config_dbus_constants_linux.h"
 
 namespace extensions::networking_private {

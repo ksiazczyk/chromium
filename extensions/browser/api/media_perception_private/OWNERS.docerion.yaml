@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for media_perception_private
+summary: Lists tbarzic@chromium.org as the owner responsible for this directory.

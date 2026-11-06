@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for mimeHandler extension API function classes
+// summary: Declares the ExtensionFunction subclasses for mimeHandler.getStreamInfo, abortAndFallbackToNativeHandler, and the MIME handler option getters and setters.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MIME_HANDLER_MIME_HANDLER_API_H_
 #define EXTENSIONS_BROWSER_API_MIME_HANDLER_MIME_HANDLER_API_H_
 

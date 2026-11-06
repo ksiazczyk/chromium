@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the networking_private source set
+summary: GN build file defining the networking_private source set with platform-specific sources and dependencies for Linux, Windows, macOS, ChromeOS and stub builds.

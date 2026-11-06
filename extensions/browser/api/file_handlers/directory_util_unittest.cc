@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for directory utilities
+// summary: Tests that IsDirectoryCollector correctly identifies a directory among given paths using a temporary directory and file.
+// ---
+
 #include "extensions/browser/api/file_handlers/directory_util.h"
 
 #include <memory>

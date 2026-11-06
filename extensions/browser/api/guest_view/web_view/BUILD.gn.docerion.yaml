@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the web_view extension API
+summary: Defines the web_view source set with the web_view_internal_api sources and its public and private dependencies, guarded by extension and guest view build flags.

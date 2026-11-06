@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action tracker implementation
+// summary: Implements ActionTracker, which records matched rules and action counts per extension and tab, including permission checks and timed trimming of tracked rules.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/action_tracker.h"
 
 #include <list>

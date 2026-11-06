@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative Net Request preferences helper implementation
+// summary: Implements PrefsHelper, which reads and writes Declarative Net Request preferences such as ruleset checksums, disabled rule ids and enabled rulesets.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/prefs_helper.h"
 
 #include <string>

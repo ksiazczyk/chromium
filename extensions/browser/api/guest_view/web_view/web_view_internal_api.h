@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for WebView internal extension API functions
+// summary: Declares the WebView internal extension function classes, including capture, navigate, and execute code functions that validate the embedder process before running.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_GUEST_VIEW_WEB_VIEW_WEB_VIEW_INTERNAL_API_H_
 #define EXTENSIONS_BROWSER_API_GUEST_VIEW_WEB_VIEW_WEB_VIEW_INTERNAL_API_H_
 

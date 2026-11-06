@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomExtensionProvider implementation
+// summary: Implements a content settings provider that delegates rule lookup to extension-defined settings in the ContentSettingsStore and forwards change notifications.
+// ---
+
 #include "extensions/browser/api/content_settings/content_settings_custom_extension_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test base implementation for the feedbackPrivate API on ChromeOS
+// summary: Implements the FeedbackPrivateApiUnittestBase with a fake SystemLogsSource and delegate so feedbackPrivate API unit tests can run without real system logs on ChromeOS.
+// ---
+
 #include "extensions/browser/api/feedback_private/feedback_private_api_unittest_base_chromeos.h"
 
 #include <memory>

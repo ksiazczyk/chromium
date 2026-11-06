@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MimeHandlerServiceImpl implementation
+// summary: Implements the MimeHandlerService mojo service that returns stream info from a StreamContainer, sets PDF plugin attributes, and converts StreamContainer to a mojo StreamInfo.
+// ---
+
 #include "extensions/browser/api/mime_handler_private/mime_handler_private.h"
 
 #include <cmath>

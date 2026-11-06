@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRequestCondition unit tests
+// summary: Unit tests for creating WebRequestCondition objects from JSON and checking their fulfillment against matched requests.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_condition.h"
 
 #include <memory>

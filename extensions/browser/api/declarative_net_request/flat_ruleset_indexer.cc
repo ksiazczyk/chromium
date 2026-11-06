@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flat ruleset indexer implementation
+// summary: Implements FlatRulesetIndexer, which converts indexed Declarative Net Request rules into a flatbuffer ruleset with URL pattern and regex indexes.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/flat_ruleset_indexer.h"
 
 #include <string>

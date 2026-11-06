@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the idle extension API
+summary: Defines the GN source_set for the idle extension API, listing its sources and dependencies, including Chrome OS power support.

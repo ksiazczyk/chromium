@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative Net Request utilities header
+// summary: Declares helper functions for the Declarative Net Request API covering ruleset versioning, checksums, indexed ruleset persistence, request details creation and ruleset ID resolution.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_UTILS_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_NET_REQUEST_UTILS_H_
 

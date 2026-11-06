@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeMessagePortDispatcher interface
+// summary: Declares the dispatcher interface that NativeMessagePort uses to dispatch messages to the target native host.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_MESSAGING_NATIVE_MESSAGE_PORT_DISPATCHER_H_
 #define EXTENSIONS_BROWSER_API_MESSAGING_NATIVE_MESSAGE_PORT_DISPATCHER_H_
 

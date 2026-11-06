@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME utility implementation
+// summary: Implements MIME type detection by sniffing file contents, extension lookup, and metadata queries for non-native ChromeOS paths.
+// ---
+
 #include "extensions/browser/api/file_handlers/mime_util.h"
 
 #include <memory>

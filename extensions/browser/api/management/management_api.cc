@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the chrome.management extension API
+// summary: Implements the chrome.management extension functions, including listing and inspecting extensions, enabling, uninstalling, launching apps, and reporting permission warnings.
+// ---
+
 #include "extensions/browser/api/management/management_api.h"
 
 #include <algorithm>

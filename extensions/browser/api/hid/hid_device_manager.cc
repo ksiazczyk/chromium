@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID device manager implementation
+// summary: Implements the keyed service that enumerates HID devices, filters protected reports, checks extension permissions, and maps devices to API resource IDs.
+// ---
+
 #include "extensions/browser/api/hid/hid_device_manager.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParseInfo implementation
+// summary: Implements ParseInfo constructors and move operations for successful and failed JSON ruleset indexing results.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/parse_info.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the offscreen API source set
+summary: Defines the offscreen source_set, listing its sources and public and private dependencies for building the offscreen document API.

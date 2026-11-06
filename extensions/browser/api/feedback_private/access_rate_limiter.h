@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessRateLimiter class declaration
+// summary: Declares a rate limiter that uses a rechargeable time counter to limit how often a resource may be accessed.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_ACCESS_RATE_LIMITER_H_
 #define EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_ACCESS_RATE_LIMITER_H_
 

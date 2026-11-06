@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indexed ruleset format version test
+// summary: Unit test verifying the indexed ruleset flatbuffer schema matches the expected format, guarding against unintended format changes.
+// ---
+
 #include <string>
 
 #include "base/base_paths.h"

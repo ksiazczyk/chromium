@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogSourceAccessManager header for rate-limited log source reads
+// summary: Declares LogSourceAccessManager, which bookkeeps SingleLogSource usage so each extension has one handle per source, reads are rate-limited, and at most ten readers access a source.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_LOG_SOURCE_ACCESS_MANAGER_H_
 #define EXTENSIONS_BROWSER_API_FEEDBACK_PRIVATE_LOG_SOURCE_ACCESS_MANAGER_H_
 

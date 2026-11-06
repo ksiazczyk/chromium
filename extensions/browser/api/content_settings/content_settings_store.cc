@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingsStore implementation
+// summary: Implements the backend that stores extension-defined content settings rules per extension and scope, and serves rule iterators and lookups under a lock.
+// ---
+
 #include "extensions/browser/api/content_settings/content_settings_store.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestIdleProvider class declaration
+// summary: Declares a fake IdleManager idle time provider with setters for idle time and locked state, intended for use in tests.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_IDLE_TEST_IDLE_PROVIDER_H_
 #define EXTENSIONS_BROWSER_API_IDLE_TEST_IDLE_PROVIDER_H_
 

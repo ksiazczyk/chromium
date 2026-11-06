@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings helpers unit tests
+// summary: Unit tests for ParseExtensionPattern, verifying conversion of extension URL patterns into content settings patterns and expected errors for invalid patterns.
+// ---
+
 #include <stddef.h>
 
 #include <string>

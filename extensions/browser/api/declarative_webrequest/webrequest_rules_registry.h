@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequest rules registry interface
+// summary: Declares the WebRequestRulesRegistry class that manages rules for the Declarative Web Request API, using URLMatcher to evaluate URL conditions and create request modification deltas.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_WEBREQUEST_WEBREQUEST_RULES_REGISTRY_H_
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_WEBREQUEST_WEBREQUEST_RULES_REGISTRY_H_
 

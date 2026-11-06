@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio lifetime enforcer class declaration
+// summary: Declares AudioLifetimeEnforcer, which keeps an offscreen document active only while it plays audio, with a test-only timeout override.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_OFFSCREEN_AUDIO_LIFETIME_ENFORCER_H_
 #define EXTENSIONS_BROWSER_API_OFFSCREEN_AUDIO_LIFETIME_ENFORCER_H_
 

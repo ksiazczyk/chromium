@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the diagnostics extension API
+summary: Defines the GN source_set for the Chrome OS diagnostics extension API, listing its sources and dependencies on the extensions browser and common API targets.

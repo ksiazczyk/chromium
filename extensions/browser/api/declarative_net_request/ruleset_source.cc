@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset source implementation for indexing rules
+// summary: Implements RulesetSource, indexing extension rules into a flatbuffer ruleset while enforcing duplicate ID checks, rule limits, and parse flags.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/ruleset_source.h"
 
 #include <utility>

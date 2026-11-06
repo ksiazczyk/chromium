@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App file handler utility implementation
+// summary: Implements helpers that match extension and web app file handlers to file entries by extension or MIME type and create granted file entries.
+// ---
+
 #include "extensions/browser/api/file_handlers/app_file_handler_util.h"
 
 #include <set>

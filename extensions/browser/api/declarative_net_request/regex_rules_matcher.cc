@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regex rules matcher implementation
+// summary: Implements RegexRulesMatcher, which matches declarative regex rules against requests using FilteredRE2 and substring set matching.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/regex_rules_matcher.h"
 
 #include <algorithm>

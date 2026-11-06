@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkingPrivateServiceClient implementation
+// summary: Implements NetworkingPrivateServiceClient, which dispatches networkingPrivate delegate calls to a WiFiService on a sequenced worker task runner and forwards network change events.
+// ---
+
 #include "extensions/browser/api/networking_private/networking_private_service_client.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Declarative Net Request build configuration
+summary: GN build file defining the declarative_net_request source set with its sources and public dependencies for the extensions browser API.

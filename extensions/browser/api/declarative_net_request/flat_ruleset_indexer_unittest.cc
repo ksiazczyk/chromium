@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flat ruleset indexer unit tests
+// summary: Unit tests for FlatRulesetIndexer covering rule indexing, header modification metadata, and URL transforms in the flatbuffer ruleset.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/flat_ruleset_indexer.h"
 
 #include <stdint.h>

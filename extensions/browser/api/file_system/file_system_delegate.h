@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate interface for embedder file system access
+// summary: Defines an interface for embedder-specific behavior such as file selection dialogs, sensitive directory confirmation, and ChromeOS volume access.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FILE_SYSTEM_FILE_SYSTEM_DELEGATE_H_
 #define EXTENSIONS_BROWSER_API_FILE_SYSTEM_FILE_SYSTEM_DELEGATE_H_
 

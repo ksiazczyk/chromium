@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedFileEntry struct for retained file entries
+// summary: Defines a serializable struct representing a file entry a user has granted an app permission to access, with LRU sequence tracking.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_FILE_SYSTEM_SAVED_FILE_ENTRY_H_
 #define EXTENSIONS_BROWSER_API_FILE_SYSTEM_SAVED_FILE_ENTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio lifetime enforcer implementation
+// summary: Implements AudioLifetimeEnforcer, which marks an offscreen document inactive after 30 seconds without audible audio and notifies the manager.
+// ---
+
 #include "extensions/browser/api/offscreen/audio_lifetime_enforcer.h"
 
 #include "base/auto_reset.h"

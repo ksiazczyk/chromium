@@ -7,6 +7,12 @@
 // templated on the Condition and Action types that define the behavior of a
 // particular declarative event.
 
+// ---docerion
+// type: source
+// title: DeclarativeRule, condition and action set templates
+// summary: Defines templated DeclarativeRule, DeclarativeConditionSet and DeclarativeActionSet classes shared by declarative event systems such as declarativeContent and declarativeWebRequest.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_DECLARATIVE_DECLARATIVE_RULE_H__
 #define EXTENSIONS_BROWSER_API_DECLARATIVE_DECLARATIVE_RULE_H__
 

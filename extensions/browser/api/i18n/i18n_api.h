@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the i18n.getAcceptLanguages extension function class
+// summary: Declares the I18nGetAcceptLanguagesFunction ExtensionFunction subclass that backs the i18n.getAcceptLanguages API.
+// ---
+
 #ifndef EXTENSIONS_BROWSER_API_I18N_I18N_API_H_
 #define EXTENSIONS_BROWSER_API_I18N_I18N_API_H_
 

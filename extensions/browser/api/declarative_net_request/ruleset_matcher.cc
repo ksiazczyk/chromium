@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset matcher implementation with evaluation timing metrics
+// summary: Implements RulesetMatcher, including UMA histograms that record request evaluation time against a single DNR ruleset and unsafe rule counting.
+// ---
+
 #include "extensions/browser/api/declarative_net_request/ruleset_matcher.h"
 
 #include <iterator>

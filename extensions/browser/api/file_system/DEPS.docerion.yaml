@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the file system API directory
+summary: Declares the allowed include paths for filename_generation and shell_dialogs within the file system API directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handlers MIME util unit tests
+// summary: Unit tests verifying GetMimeTypeForLocalPath returns correct MIME types for local file paths, including case-insensitive extensions and HTML files.
+// ---
+
 #include "extensions/browser/api/file_handlers/mime_util.h"
 
 #include <memory>
