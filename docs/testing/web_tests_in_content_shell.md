@@ -1,3 +1,13 @@
+---
+type: guide
+title: Running web tests using the content shell
+summary: Explains how to build and run web tests with content shell, including HTTP and WPT tests, simple browser mode, and debugging options.
+relations:
+  - references /content/web_test/browser/test_info_extractor.h
+  - references /docs/testing/web_tests.md
+  - references /third_party/blink/tools/run_web_tests.py
+---
+
 # Running web tests using the content shell
 
 [TOC]

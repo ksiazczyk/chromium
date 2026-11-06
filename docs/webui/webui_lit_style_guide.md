@@ -1,3 +1,11 @@
+---
+type: guide
+title: WebUI Lit Style Guide
+summary: Style guide with coding standards and best practices for Chromium WebUI development using Lit, covering element structure, templates, naming, and DOM access.
+relations:
+  - references /styleguide/web/web.md
+---
+
 # WebUI Lit Style Guide
 
 [TOC]

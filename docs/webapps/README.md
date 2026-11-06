@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web Apps in Chromium
+summary: Overview of web app support in Chromium covering user entry points, the manifest-based developer interface, and subsystem architecture with pointers to the relevant code directories.
+relations:
+  - references /chrome/android/webapk/README.md
+  - references /chrome/browser/ui/views/web_apps/README.md
+  - references /chrome/browser/ui/web_applications/README.md
+---
+
 # Web Apps in Chromium
 
 Web apps are websites with app-like qualities or capabilities. Chromium supports

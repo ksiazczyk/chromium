@@ -1,3 +1,12 @@
+---
+type: guide
+title: Night Mode (aka Dark Theme) on Chrome Android
+summary: Explains how to implement and test night mode (dark theme) UI for Chrome Android features, covering adaptive colors, styles, themes, troubleshooting, and per-Activity control.
+relations:
+  - references /ui/android/java/res/values/color_palette.xml
+  - references /ui/android/java/res/values/semantic_colors_non_adaptive.xml
+---
+
 # Night Mode (aka Dark Theme) on Chrome Android
 
 Night mode (aka Dark Theme) enables users to experience UI surfaces, rendered as Android views, in dark colors. All existing or new user-facing features on Chrome Android should implement a night mode variant of the relevant UI surfaces on Milestone M75+.

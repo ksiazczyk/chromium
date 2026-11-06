@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for updater docs
+summary: Chromium metadata file that applies the chrome/updater common metadata mixins to the docs/updater directory.
+relations:
+  - references /chrome/updater/COMMON_METADATA

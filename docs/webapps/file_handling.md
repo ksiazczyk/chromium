@@ -1,3 +1,13 @@
+---
+type: reference
+title: Web App File Handling
+summary: Explains how installed web apps register as OS file handlers via the manifest, with links to desktop and Android implementations and related web standards.
+relations:
+  - references /chrome/browser/ui/views/web_apps/file_handler_launch_dialog_view.h
+  - references /chrome/browser/web_applications/docs/os_integration.md
+  - references /chrome/browser/web_applications/os_integration/os_integration_manager.h
+---
+
 # Web App File Handling
 
 Web App File Handling allows installed web apps to register as file handlers

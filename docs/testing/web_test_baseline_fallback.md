@@ -1,3 +1,12 @@
+---
+type: reference
+title: Web Test Baseline Fallback
+summary: Explains how platform-specific web test baselines are structured, searched via fallback paths including virtual suites, and optimized or rebaselined.
+relations:
+  - references /docs/testing/web_test_expectations.md
+  - references /docs/testing/web_tests.md
+---
+
 # Web Test Baseline Fallback
 
 

@@ -1,3 +1,11 @@
+---
+type: note
+title: What's Up With DCHECKs
+summary: Transcript of the 'What's Up With That' episode 2 video discussion with Peter explaining DCHECKs, CHECKs, static_assert, and their use in Chromium code.
+relations:
+  - references /docs/transcripts/wuwt-e01-pointers.md
+---
+
 # What’s Up With DCHECKs
 
 This is a transcript of [What's Up With

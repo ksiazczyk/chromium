@@ -1,3 +1,11 @@
+---
+type: guide
+title: Sharing Code in WebUI
+summary: Guide to deciding where widely and narrowly shared WebUI TypeScript, CSS, and HTML code should live and how to add it.
+relations:
+  - references /docs/webui/images/webui_code_sharing.png
+---
+
 <style>
 .doc h1 {
   margin: 0;

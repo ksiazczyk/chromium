@@ -1,3 +1,13 @@
+---
+type: reference
+title: Display Cutout and Safe Area Insets
+summary: Outlines the architecture and data flow for display cutouts and safe area insets in Chromium across Blink, the C++ browser layer and the Java UI layer.
+relations:
+  - references /docs/ui/android/display_cutout_flow.png
+  - references /third_party/blink/renderer/core/frame/viewport_data.h
+  - references /content/browser/display_cutout/safe_area_insets_host_impl.h
+---
+
 # Display Cutout and Safe Area Insets
 
 This document outlines the architecture and data flow for handling display cutouts (i.e., "notches") and their associated safe area insets in Chromium. This mechanism allows web content to utilize the entire screen on devices with cutouts, using web standards like the `viewport-fit` meta tag and the `env()` CSS function.

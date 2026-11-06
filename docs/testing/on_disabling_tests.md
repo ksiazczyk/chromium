@@ -1,3 +1,11 @@
+---
+type: guide
+title: On disabling tests
+summary: Overview of ways to disable tests, from not building test binaries to compile-time exclusion, framework skip features, expectations files and runtime early exits.
+relations:
+  - references /base/test/android/javatests/src/org/chromium/base/test/util/DisabledTest.java
+---
+
 # On disabling tests
 
 Sometimes you don't want to run a test that you've written (or that

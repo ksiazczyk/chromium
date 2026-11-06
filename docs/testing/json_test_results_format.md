@@ -1,3 +1,11 @@
+---
+type: reference
+title: The JSON Test Results Format
+summary: Specification of the JSON test results format used to record per-test results, covering top-level fields, per-test fields, result types and full versus failing results files.
+relations:
+  - references /docs/testing/resultdb.md
+---
+
 # The JSON Test Results Format
 
 *** note

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Code Coverage in Gerrit
+summary: Explains per-CL code coverage in Gerrit, how to read absolute and incremental coverage, how low-coverage blocks work and the Low-Coverage-Reason footer bypass categories.
+relations:
+  - references /docs/testing/images/code_coverage_annotations.png
+  - references /docs/testing/images/code_coverage_percentages.png
+  - references /docs/testing/images/low_coverage_message.png
+---
+
 # Code Coverage in Gerrit
 
 Tests are critical because they find bugs and regressions, enforce better

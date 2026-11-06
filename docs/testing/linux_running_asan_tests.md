@@ -1,3 +1,11 @@
+---
+type: guide
+title: Running Chrome tests with AddressSanitizer and LeakSanitizer
+summary: Instructions for building and running Chrome tests with ASan and LSan on Linux, including args.gn settings, environment variables and stack trace symbolization.
+relations:
+  - references /tools/valgrind/asan/asan_symbolize.py
+---
+
 # Running Chrome tests with AddressSanitizer (asan) and LeakSanitizer (lsan)
 
 Running asan/lsan tests requires changing the build and setting a few

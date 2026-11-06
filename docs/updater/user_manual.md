@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chromium Updater User Manual
+summary: Manual for integrating applications with Chromium Updater, covering installation scopes, app registration, update and uninstall flows, command lines, error codes, and debugging.
+---
+
 # Chromium Updater User Manual
 
 This is the user manual for

@@ -1,3 +1,9 @@
+---
+type: note
+title: What's Up With BUILD.gn
+summary: Transcript of the 'What's Up With That' episode 5 video discussion with Nico on building Chrome, covering depot_tools, GN, and Ninja.
+---
+
 # What’s Up With BUILD.gn
 
 This is a transcript of [What's Up With

@@ -1,3 +1,12 @@
+---
+type: guide
+title: 'Best practice: layout'
+summary: Best practices for Views layout in Chromium, covering logical layout values, provider objects, LayoutManagers, intrinsic constraints, and event handling.
+relations:
+  - references /chrome/browser/ui/views/chrome_layout_provider.h
+  - references /ui/views/layout/layout_provider.h
+---
+
 # Best practice: layout
 
 The most important principles when working with Views layout are abstraction

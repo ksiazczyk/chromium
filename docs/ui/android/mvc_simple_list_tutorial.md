@@ -1,3 +1,9 @@
+---
+type: guide
+title: 'Simple lists in MVC: menu list tutorial'
+summary: Tutorial on implementing a simple icon-and-label menu list in the Chrome Android MVC framework using ModelList, ModelListAdapter and property keys.
+---
+
 # Simple Lists in MVC Land
 
 ### Overview

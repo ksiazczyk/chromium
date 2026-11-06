@@ -1,3 +1,11 @@
+---
+type: decision
+title: Chromium Updater Design Document
+summary: Design document for the Chromium Updater covering installation, updating, uninstalling, tools, testing, release, and Windows-specific installer and COM details.
+relations:
+  - references /docs/updater/images/architecture.svg
+---
+
 # Chromium Updater Design Document
 
 This is the design document for [Chromium Updater](https://source.chromium.org/chromium/chromium/src/+/main:chrome/updater/).

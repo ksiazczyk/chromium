@@ -1,3 +1,9 @@
+---
+type: reference
+title: Updater History Event Schema
+summary: Defines the JSON schema for updater history events recorded as JSONL, covering event types such as install, uninstall, qualification, and update checks.
+---
+
 # Updater History Event Schema
 
 This document describes the JSON schema for events recorded by the updater. Each

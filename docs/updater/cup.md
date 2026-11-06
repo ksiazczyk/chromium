@@ -1,3 +1,9 @@
+---
+type: reference
+title: Client Update Protocol (CUP)
+summary: Specifies the CUP HTTP protocol extension that secures request and response integrity and freshness when TLS is untrustworthy, including key rotation and HTTP details.
+---
+
 # Client Update Protocol (CUP)
 
 CUP is an HTTP protocol extension used to secure communication with CUP-capable

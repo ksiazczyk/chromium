@@ -1,3 +1,12 @@
+---
+type: guide
+title: ActivityResultTracker
+summary: Explains how to use ActivityResultTracker in Chromium for Android so activity results survive the base Activity being destroyed and recreated.
+relations:
+  - documents /ui/android/java/src/org/chromium/ui/base/ActivityResultTracker.java
+  - references /ui/android/java/src/org/chromium/ui/base/IntentRequestTracker.java
+---
+
 # ActivityResultTracker
 
 ## Overview

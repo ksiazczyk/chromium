@@ -1,3 +1,13 @@
+---
+type: guide
+title: Running Web Platform Tests on Android
+summary: Guide to setting up and running web platform tests on Android emulators and real devices with Chrome Android or WebView, including CQ/CI suites and expectations.
+relations:
+  - references /docs/testing/run_web_platform_tests.md
+  - references /docs/android_build_instructions.md
+  - references /docs/android_emulator.md
+---
+
 # Running Web Platform Tests on Android
 
 ## Overview

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chrome Android Bottom Sheet MVC UI Architecture
+summary: Describes the design of Chrome Android's bottom sheet MVC architecture, covering BottomSheetContent, BottomSheetController, BottomSheetObserver and coordinator ownership.
+relations:
+  - references /docs/ui/android/bottomsheet_mvc_architecture.png
+---
+
 # Chrome Android Bottom Sheet MVC UI Architecture
 
 The Bottom Sheet is a versatile UI component that slides up from the bottom of

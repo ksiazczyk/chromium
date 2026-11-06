@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: UI directory metadata
+summary: Maps the docs/ui directory to the UI monorail component and the public Buganizer component ID 1457123.

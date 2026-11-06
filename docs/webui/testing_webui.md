@@ -1,3 +1,13 @@
+---
+type: guide
+title: Testing WebUI Pages
+summary: Guide to testing WebUI pages with Mocha-based browser tests, covering setup, running, debugging, disabling tests, and reporting results to LUCI.
+relations:
+  - references /docs/webui/webui_build_configuration.md
+  - references /chrome/test/base/web_ui_mocha_browser_test.h
+  - references /ui/webui/resources/test_loader.html
+---
+
 <style>
 .note::before {
   content: 'Note: ';

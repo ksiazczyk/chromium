@@ -1,3 +1,13 @@
+---
+type: guide
+title: Testing Chrome browser UI with Pixel Tests
+summary: Guide to writing and running Chrome browser UI pixel tests with Skia Gold, covering baseline CLs, Kombucha screenshot verbs and the legacy TestBrowserUi API.
+relations:
+  - references /chrome/test/interaction/README.md
+  - references /chrome/test/interaction/interactive_browser_test.h
+  - references /docs/ui/learn/glossary.md
+---
+
 # Testing Chrome browser UI with Pixel Tests
 
 Pixel Tests compare one or more screenshots with already-approved images using

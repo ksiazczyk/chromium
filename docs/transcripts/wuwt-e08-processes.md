@@ -1,3 +1,13 @@
+---
+type: note
+title: What's Up With Processes
+summary: Transcript of the 'What's Up With That' episode 8 video discussion with Darin on Chrome's process types and the multi-process architecture.
+relations:
+  - references /docs/transcripts/wuwt-e07-mojo.md
+  - references /docs/transcripts/wuwt-e06-open-source.md
+  - references /docs/transcripts/wuwt-e03-content.md
+---
+
 # What’s Up With Processes
 
 This is a transcript of [What's Up With

@@ -1,3 +1,13 @@
+---
+type: reference
+title: Browser Controls
+summary: Explains how the browser controls system keeps Android UI in sync with web content scrolling, including composited textures, renderer communication and browser controls in viz.
+relations:
+  - references /components/browser_ui/widget/android/java/src/org/chromium/components/browser_ui/widget/ViewResourceFrameLayout.java
+  - references /chrome/browser/ui/android/layouts/scene_layer.h
+  - references /cc/layers/layer.h
+---
+
 # Browser Controls
 
 The browser controls system provides a way to move the core browser UI synchronously with the changes in the web content size and offset. The primary goal of this system is to maximize the web content the user can see by hiding the UI components smoothly when the user is scrolling through the website and showing them smoothly when the user needs them again. The interactions of the Java Android views (the core UI) with the web content are accommodated by this system. The browser controls system is dynamic, and it interacts with the web contents to position the controls.  This is one of the reasons why these seemingly simple browser controls are complicated and difficult to work with.

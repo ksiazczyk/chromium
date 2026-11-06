@@ -1,3 +1,13 @@
+---
+type: guide
+title: Android Testing in Chromium
+summary: Instructions for Android testing in Chromium, covering test types, physical device and emulator setup, building and running tests, symbolizing crashes and debugging.
+relations:
+  - references /docs/testing/android_gtests.md
+  - references /docs/testing/android_instrumentation_tests.md
+  - references /docs/testing/android_robolectric_tests.md
+---
+
 # Android Testing in Chromium
 
 [TOC]

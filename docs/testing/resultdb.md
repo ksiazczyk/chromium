@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chromium Integration with ResultDB
+summary: Explains how Chromium uploads test results to the ResultDB LUCI service via ResultSink and result_adapter, and how integration is configured in //testing/buildbot/.
+relations:
+  - references /docs/testing/json_test_results_format.md
+  - references /third_party/blink/tools/blinkpy/web_tests/controllers/test_result_sink.py
+  - references /ios/build/bots/scripts/result_sink_util.py
+---
+
 [TOC]
 
 # Chromium Integration with ResultDB

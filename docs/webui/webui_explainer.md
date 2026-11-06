@@ -1,3 +1,11 @@
+---
+type: reference
+title: WebUI Explainer
+summary: 'Explains how WebUI works in Chromium, covering chrome: URLs, C++ classes, data sources, and browser-renderer communication via Mojo and chrome.send.'
+relations:
+  - references /chrome/browser/ui/webui/chrome_web_ui_configs.cc
+---
+
 # WebUI Explainer
 
 [TOC]

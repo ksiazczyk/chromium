@@ -1,3 +1,11 @@
+---
+type: guide
+title: Code Coverage in Chromium
+summary: Describes Chromium's code coverage infrastructure and the local script workflow for building instrumented targets, generating profiles and reading HTML or lcov reports.
+relations:
+  - references /docs/testing/code_coverage_in_gerrit.md
+---
+
 # Code Coverage in Chromium
 
 ### Coverage Dashboard: [link](https://analysis.chromium.org/coverage/p/chromium)

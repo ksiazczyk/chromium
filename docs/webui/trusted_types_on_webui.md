@@ -1,3 +1,9 @@
+---
+type: guide
+title: Trusted Types on WebUI
+summary: Explains Trusted Types as an XSS mitigation and shows how to convert WebUI code to use them, disable them, and add tests for them.
+---
+
 # Trusted Types on WebUI
 
 [TOC]

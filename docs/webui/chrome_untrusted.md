@@ -1,3 +1,12 @@
+---
+type: reference
+title: FAQ for the chrome-untrusted WebUI scheme
+summary: Answers common questions about the chrome-untrusted scheme, which serves Chrome-bundled resources that process untrustworthy content in a sandboxed, non-privileged WebUI context.
+relations:
+  - references /docs/security/rule-of-2.md
+  - references /docs/webui/webui_explainer.md
+---
+
 # chrome-untrusted:// FAQ
 
 [TOC]

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Writing Web Tests
+summary: Guide to writing web tests for Blink, covering test types, general principles, JavaScript, reference, pixel, text, and audio tests, and directory structure.
+relations:
+  - references /docs/testing/web_platform_tests.md
+  - references /docs/testing/web_test_expectations.md
+  - references /docs/testing/web_tests_in_content_shell.md
+---
+
 # Writing Web Tests
 
 [TOC]

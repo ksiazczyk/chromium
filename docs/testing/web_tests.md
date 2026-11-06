@@ -1,3 +1,13 @@
+---
+type: guide
+title: Web Tests (formerly known as "Layout Tests" or "LayoutTests")
+summary: Guide to running, debugging, and rebaselining Blink web tests with run_web_tests.py, covering platforms, expectations, virtual suites, and bisection.
+relations:
+  - references /docs/testing/run_web_platform_tests.md
+  - references /docs/testing/web_platform_tests.md
+  - references /docs/testing/web_test_expectations.md
+---
+
 # Web Tests (formerly known as "Layout Tests" or "LayoutTests")
 
 Web tests are used by Blink to test many components, including but not

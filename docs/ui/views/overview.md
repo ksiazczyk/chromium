@@ -1,3 +1,13 @@
+---
+type: reference
+title: Views Overview
+summary: Introduces Views concepts, terminology, and architecture, covering views, borders, backgrounds, layout managers, painting, widgets, dialogs, and bubbles.
+relations:
+  - references /ui/views/view.h
+  - references /ui/views/border.h
+  - references /ui/views/background.h
+---
+
 # Views Overview
 
 This document is an overview of Views concepts, terminology, and architecture.

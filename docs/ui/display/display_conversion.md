@@ -1,3 +1,11 @@
+---
+type: guide
+title: DIP to Screen Conversion in Chromium
+summary: Explains how converting between screen physical pixels and DIPs works in Chromium on Windows versus other platforms, and how to perform the conversion using ScreenWin or scale factors.
+relations:
+  - documents /ui/display/win/screen_win.cc
+---
+
 # DIP to Screen/Screen to DIP Conversion
 
 ## Overview

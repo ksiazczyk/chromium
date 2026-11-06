@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the extensions directory
+summary: Lists extensions and apps team reviewers and also serves as OWNERS for several Chrome extension directories.

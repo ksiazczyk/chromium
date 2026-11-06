@@ -1,3 +1,13 @@
+---
+type: guide
+title: Running web tests on Linux
+summary: Linux-specific instructions for running web tests, covering pixel tests, fonts, plugins, debugging, and embedded X server setup.
+relations:
+  - references /docs/testing/web_tests.md
+  - references /docs/linux/using_a_chroot.md
+  - references /third_party/blink/tools/run_web_tests.py
+---
+
 # Running web tests on Linux
 
 1.  Build `blink_tests` (see [Linux-specific build instructions](https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md))

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Welcome!
+summary: Landing page for Chromium UI documentation with quick links to create recipes, learning resources, and ways to get help.
+relations:
+  - references /docs/ui/animation_builder/animation_builder.md
+  - references /docs/ui/ask/index.md
+  - references /docs/ui/aura/index.md
+---
+
 # Welcome!
 Developing in Chromium UI? Trying to figure out how to create your UI? Need to
 contact the Views team? You've reached the right place.

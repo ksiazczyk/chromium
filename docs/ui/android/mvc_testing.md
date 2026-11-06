@@ -1,3 +1,13 @@
+---
+type: guide
+title: So, you want to test MVC
+summary: Best practices for testing MVC components, with guidance on testing Mediators and Views independently, assertion style, and example Mediator/Test and View/Test pairs.
+relations:
+  - references /chrome/android/features/tab_ui/java/src/org/chromium/chrome/browser/tasks/tab_management/TabGridViewBinder.java
+  - references /chrome/android/features/tab_ui/java/src/org/chromium/chrome/browser/tasks/tab_management/TabListMediator.java
+  - references /chrome/android/features/tab_ui/java/src/org/chromium/chrome/browser/tasks/tab_management/TabStripViewBinder.java
+---
+
 # So, you want to test MVC...
 
 ## Overview

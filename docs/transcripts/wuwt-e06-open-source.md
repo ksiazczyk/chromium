@@ -1,3 +1,12 @@
+---
+type: note
+title: What's Up With Open Source
+summary: Transcript of the 'What's Up With That' episode 6 video discussion with Elly on open source, the difference between Chrome and Chromium, and ways to contribute.
+relations:
+  - references /docs/transcripts/wuwt-e05-build-gn.md
+  - references /docs/transcripts/wuwt-e03-content.md
+---
+
 # What’s Up With Open Source
 
 This is a transcript of [What's Up With

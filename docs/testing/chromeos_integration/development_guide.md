@@ -1,3 +1,13 @@
+---
+type: guide
+title: Crosier Development Guide
+summary: Developer guide covering demo tests, how to run Ash tests, adding test metadata, debugging Crosier tests, and the continuous builders that run them.
+relations:
+  - references /chrome/test/base/chromeos/crosier/demo_integration_test.cc
+  - references /chrome/browser/ash/bluetooth/bluetooth_integration_test.cc
+  - references /docs/testing/chromeos_integration/crosier_metadata.md
+---
+
 # Crosier Development Guide
 
 This doc assumes you're already familiar with ChromeOS on-device development.

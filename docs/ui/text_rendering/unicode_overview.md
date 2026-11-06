@@ -1,3 +1,9 @@
+---
+type: reference
+title: Unicode Overview
+summary: Explains Unicode concepts behind text rendering, covering codepoint encodings, codepoints, graphemes, and glyphs, plus pitfalls and recommendations.
+---
+
 # Unicode Overview
 
 This document goes over general concepts of Unicode and text rendering.

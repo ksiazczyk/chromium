@@ -1,3 +1,12 @@
+---
+type: guide
+title: 'Best practice: colors'
+summary: Best practices for using logical color identifiers instead of physical color values in Chromium Views UI, including theming, OnThemeChanged, and color ID organization.
+relations:
+  - references /ui/views/bubble/tooltip_icon.cc
+  - references /chrome/browser/ui/views/file_system_access/file_system_access_usage_bubble_view.cc
+---
+
 # Best practice: colors
 
 Product colors can be defined physically or logically. Physical colors can be

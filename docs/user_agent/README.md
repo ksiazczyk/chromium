@@ -1,3 +1,13 @@
+---
+type: readme
+title: User-Agent
+summary: Explains how Chrome builds the default User-Agent string, how User-Agent Client Hints relate to it, and how User-Agent overrides from the browser process and DevTools work.
+relations:
+  - references /docs/client_hints/README.md
+  - references /components/embedder_support/user_agent_utils.cc
+  - references /components/client_hints/README.md
+---
+
 ## User-Agent
 
 The User-Agent request header is a characteristic string that allows servers and

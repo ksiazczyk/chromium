@@ -1,0 +1,4 @@
+# Docerion header of UI_OWNERS.
+type: config
+title: Owners for extension UI code
+summary: Lists UI owners for extensions as a superset of the directory's main owners list.

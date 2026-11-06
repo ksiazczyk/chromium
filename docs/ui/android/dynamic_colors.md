@@ -1,3 +1,12 @@
+---
+type: guide
+title: How to Develop With Dynamic Colors
+summary: Explains how Material You dynamic colors work in Chrome Android and how to apply semantic names, macros, color state lists and surface colors when developing UI.
+relations:
+  - references /chrome/android/java/src/org/chromium/chrome/browser/ChromeBaseAppCompatActivity.java
+  - references /components/browser_ui/styles/android/java/res/values/semantic_colors_dynamic.xml
+---
+
 # How to Develop With Dynamic Colors
 
 ## Background

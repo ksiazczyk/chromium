@@ -1,3 +1,12 @@
+---
+type: reference
+title: Omaha Protocol Version 4 Draft
+summary: Draft specification of Omaha protocol 4.0 describing update checks, downloads, and ping-backs, extending prior protocol versions with pipelines.
+relations:
+  - references /docs/updater/protocol_3_1.md
+  - references /docs/updater/cup.md
+---
+
 Previous versions are described at:
  * [Version 3.1](https://chromium.googlesource.com/chromium/src.git/+/master/docs/updater/protocol_3_1.md)
  * [Version 3](https://github.com/google/omaha/blob/master/doc/ServerProtocolV3.md)

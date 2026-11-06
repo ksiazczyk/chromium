@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chrome Android MVC UI Architecture
+summary: Describes the goals, principles and design of the Chrome Android MVC UI architecture, including components, model, coordinator, mediator and testing.
+relations:
+  - references /docs/ui/android/mvc_architecture_tutorial.md
+  - references /docs/ui/android/mvc_coordinator_hierarchy.png
+  - references /docs/ui/android/mvc_detailed_component_architecture.png
+---
+
 # Chrome Android MVC UI Architecture
 
 ### Goals and principles

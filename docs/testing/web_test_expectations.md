@@ -1,3 +1,13 @@
+---
+type: reference
+title: Web Test Expectations and Baselines
+summary: Describes web test baselines and expectations files, how to handle failing and flaky tests, and how to rebaseline using try jobs or scripts.
+relations:
+  - references /docs/testing/web_test_baseline_fallback.md
+  - references /third_party/blink/web_tests/NeverFixTests
+  - references /third_party/blink/web_tests/TestExpectations
+---
+
 # Web Test Expectations and Baselines
 
 The primary function of the web tests is as a regression test suite; this

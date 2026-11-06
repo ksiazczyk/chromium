@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'Stint 4: Views Cleanup Continued'
+summary: Index page listing Chrome Views cleanup stints with schedules, participants, summary discussions, and links to bug queries and related spreadsheets.
+---
+
 # Stint 4: Views Cleanup Continued
 Schedule: May 12-31, 2019  
 Participants: kylixrd, pkasting, robliao, 2 external contributors  

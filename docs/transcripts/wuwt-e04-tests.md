@@ -1,3 +1,9 @@
+---
+type: note
+title: What's Up With Tests
+summary: Transcript of the 'What's Up With That' episode 4 video discussion with Stephen covering the kinds of tests in Chromium, from unit and browser tests to web tests.
+---
+
 # What’s Up With Tests
 
 This is a transcript of [What's Up With

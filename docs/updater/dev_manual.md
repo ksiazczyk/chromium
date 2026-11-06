@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chromium Updater Developer's Manual
+summary: Developer manual with instructions for building, testing, debugging, code coverage, and CI bot configuration for the Chromium Updater.
+relations:
+  - references /tools/mb/mb_config.pyl
+  - references /testing/buildbot/waterfalls.pyl
+  - references /infra/config/subprojects/chromium/ci/chromium.updater.star
+---
+
 # Chromium Updater Developer's Manual
 
 This manual provides information on how to develop the

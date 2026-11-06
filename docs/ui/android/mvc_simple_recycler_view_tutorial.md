@@ -1,3 +1,11 @@
+---
+type: guide
+title: Simple RecyclerView use in MVC
+summary: Tutorial on using RecyclerViews in an MVC component, covering SimpleRecyclerViewAdapter setup, fast view lookup with ViewLookupCachingFrameLayout, and cleanup of recycled views.
+relations:
+  - references /docs/ui/android/mvc_architecture_tutorial.md
+---
+
 # Simple RecyclerView use in MVC
 
 ### Overview

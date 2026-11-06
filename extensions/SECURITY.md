@@ -1,3 +1,9 @@
+---
+type: note
+title: Extensions security
+summary: Points to the extensions security FAQ that explains what is and is not considered a security vulnerability.
+---
+
 # Extensions Security
 
 For information about the extensions security model, in particular what is and

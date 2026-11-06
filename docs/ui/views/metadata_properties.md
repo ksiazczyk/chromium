@@ -1,3 +1,12 @@
+---
+type: guide
+title: Advanced Views Metadata Definitions and Usages
+summary: Covers advanced cases for adding Views metadata, including nested or private classes, read-only properties, and custom type converters for POD types.
+relations:
+  - references /ui/views/view.h
+  - references /ui/views/metadata/type_conversion.h
+---
+
 # Advanced Metadata Definitions and Usages
 
 The core documentation for Views Metadata and properties usage can be found

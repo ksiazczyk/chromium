@@ -1,3 +1,13 @@
+---
+type: guide
+title: Running Web Platform Tests with run_wpt_tests.py
+summary: Guide to running web platform tests with run_wpt_tests.py on desktop platforms and Android, covering local runs, CQ/CI suites, expectations, and debugging support.
+relations:
+  - documents /third_party/blink/tools/run_wpt_tests.py
+  - references /docs/testing/web_platform_tests.md
+  - references /docs/testing/web_tests.md
+---
+
 # Running Web Platform Tests with run_wpt_tests.py
 
 `run_web_tests.py` runs web tests with content shell through [protocol mode].

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Starter Guide
+summary: Starter tutorial for engineers new to building Chrome UI with the Views toolkit, covering general principles, necessary background, and build steps.
+relations:
+  - references /docs/ui/create/examples/login_dialog.md
+  - references /docs/ui/create/examples/theme_aware.md
+  - references /docs/ui/learn/glossary.md
+---
+
 # Starter Guide
 
 You just got tasked with implementing some new UI surface in Chrome, the UX

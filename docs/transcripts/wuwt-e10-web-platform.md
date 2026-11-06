@@ -1,3 +1,9 @@
+---
+type: note
+title: What's Up With Web Platform
+summary: Transcript of the 'What's Up With That' episode 10 video discussion with Rick on what the web platform is and how Chrome relates to it.
+---
+
 # What’s Up With Web Platform
 
 This is a transcript of [What's Up With

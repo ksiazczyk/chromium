@@ -1,3 +1,13 @@
+---
+type: note
+title: What's Up With //content
+summary: Transcript of the 'What's Up With That' episode 3 video discussion with John on the content layer, its history, and how it fits into Chrome's architecture.
+relations:
+  - references /content/README.md
+  - references /content/public/README.md
+  - references /docs/transcripts/wuwt-e01-pointers.md
+---
+
 # What’s Up With //content
 
 This is a transcript of [What's Up With

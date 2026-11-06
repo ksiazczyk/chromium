@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chromium Desktop UI Debugging Tools and Tips
+summary: Describes tools for debugging Chromium desktop UI, including debug shortcuts, UI DevTools, debugger extensions, and the views_examples programs.
+relations:
+  - references /ui/views/view.h
+---
+
 # Chromium Desktop UI Debugging Tools and Tips
 
 To help develop and debug Chromium desktop UI, this doc shares a set of

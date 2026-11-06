@@ -1,3 +1,12 @@
+---
+type: guide
+title: Life of Increasing Code Coverage
+summary: Guidance on using code coverage information to write better tests, covering untested code, dead code removal, refactoring and adding missing tests during code review.
+relations:
+  - references /docs/testing/code_coverage.md
+  - references /docs/testing/code_coverage_in_gerrit.md
+---
+
 # Life of Increasing Code Coverage
 
 The goal of this doc is to provide guidance on how to write better tests using

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the extensions module
+summary: Defines build targets, resource generation, and test support for Chrome's core extensions code.

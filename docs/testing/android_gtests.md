@@ -1,3 +1,9 @@
+---
+type: reference
+title: How GTests work on Android
+summary: Explains how googletest-based C++ tests run on Android, covering APK and executable packaging, GN build targets, the test harness and the runtime flow.
+---
+
 # How GTests work on Android
 
 gtests are [googletest](https://github.com/google/googletest)-based C++ tests.

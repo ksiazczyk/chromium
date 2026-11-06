@@ -1,3 +1,9 @@
+---
+type: note
+title: What's Up With Mojo
+summary: Transcript of the 'What's Up With That' episode 7 video discussion with Daniel on Mojo, Chrome's inter-process communication system, and how to use it safely.
+---
+
 # What’s Up With Mojo
 
 This is a transcript of [What's Up With
