@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge safe area host implementation
+// summary: Implements the edge-to-edge safe area host, storing per-frame viewport-fit data and dispatching safe area insets on navigation and fullscreen changes.
+// ---
+
 #include "content/browser/display_cutout/safe_area_insets_host_impl.h"
 
 #include "content/browser/display_cutout/display_cutout_constants.h"

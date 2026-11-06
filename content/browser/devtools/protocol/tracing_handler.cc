@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing DevTools protocol handler implementation
+// summary: Implements the Tracing DevTools domain, managing Perfetto tracing sessions, trace data streaming, memory dumps and screenshot capture.
+// ---
+
 #include "content/browser/devtools/protocol/tracing_handler.h"
 
 #include <algorithm>

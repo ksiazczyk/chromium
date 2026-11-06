@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn DevTools protocol handler implementation
+// summary: Implements the WebAuthn DevTools domain, managing virtual authenticators, credentials and response override bits for WebAuthn testing.
+// ---
+
 #include "content/browser/devtools/protocol/webauthn_handler.h"
 
 #include <cmath>

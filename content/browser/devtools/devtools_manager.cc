@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsManager implementation
+// summary: Implements the DevToolsManager singleton that owns the global DevTools delegate and reports DevTools session counts as a memory dump provider.
+// ---
+
 #include "content/browser/devtools/devtools_manager.h"
 
 #include "base/task/single_thread_task_runner.h"

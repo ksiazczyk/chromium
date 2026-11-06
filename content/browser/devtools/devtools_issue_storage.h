@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools issue storage class declaration
+// summary: Declares DevToolsIssueStorage, a PageUserData that stores inspector issues associated with render frames.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_ISSUE_STORAGE_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_ISSUE_STORAGE_H_
 

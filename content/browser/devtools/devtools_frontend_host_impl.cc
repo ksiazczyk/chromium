@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools frontend host implementation
+// summary: Implements the browser-side host for the DevTools frontend, handling embedder messages and frontend resources.
+// ---
+
 #include "content/browser/devtools/devtools_frontend_host_impl.h"
 
 #include <stddef.h>

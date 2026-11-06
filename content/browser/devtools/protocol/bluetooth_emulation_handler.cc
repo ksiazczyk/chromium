@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth emulation DevTools domain handler implementation
+// summary: Implements the BluetoothEmulation CDP domain, converting protocol parameters into Mojo structures to simulate virtual Bluetooth peripherals, advertisements, and GATT operations.
+// ---
+
 #include "content/browser/devtools/protocol/bluetooth_emulation_handler.h"
 
 #include <map>

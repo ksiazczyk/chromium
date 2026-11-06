@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools HTTP handler unit tests
+// summary: Unit tests for DevToolsHttpHandler using dummy server socket factories to exercise HTTP and WebSocket request handling.
+// ---
+
 #include "content/browser/devtools/devtools_http_handler.h"
 
 #include <stdint.h>

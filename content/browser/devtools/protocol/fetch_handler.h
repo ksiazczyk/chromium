@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch DevTools protocol handler header
+// summary: Declares FetchHandler, the browser-side backend for the Fetch DevTools domain that intercepts network requests and can fail, fulfill, or continue them.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_FETCH_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_FETCH_HANDLER_H_
 

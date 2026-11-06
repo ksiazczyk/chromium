@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirewallHoleDelegate implementation
+// summary: Implements opening, tracking, sharing and closing of ChromeOS firewall holes for TCP and UDP Direct Sockets connections in the browser process.
+// ---
+
 #include "content/browser/direct_sockets/firewall_hole_delegate.h"
 
 #include <utility>

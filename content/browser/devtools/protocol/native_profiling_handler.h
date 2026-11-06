@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native profiling DevTools domain handler header
+// summary: Declares NativeProfilingHandler, the DevTools domain backend for dumping native profiling data from all processes in PGO instrumented builds.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_NATIVE_PROFILING_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_NATIVE_PROFILING_HANDLER_H_
 

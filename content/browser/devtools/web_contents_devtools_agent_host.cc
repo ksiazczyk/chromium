@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsDevToolsAgentHost implementation
+// summary: Implements the per-tab DevTools agent host, including auto-attaching to child frames, prerender targets, and exposing DevToolsAgentHost::GetForTab.
+// ---
+
 #include "content/browser/devtools/web_contents_devtools_agent_host.h"
 
 #include "base/memory/raw_ptr.h"

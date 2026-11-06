@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools protocol browser tests
+// summary: Large browser test suite covering DevTools protocol behavior across downloads, navigation, tracing, zoom, prerendering, and other domains.
+// ---
+
 #include <stddef.h>
 
 #include <cstddef>

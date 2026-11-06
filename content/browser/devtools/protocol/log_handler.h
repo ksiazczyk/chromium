@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log DevTools protocol handler class declaration
+// summary: Declares LogHandler, the browser-side handler for the Log DevTools domain that forwards entries to the frontend when enabled.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_LOG_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_LOG_HANDLER_H_
 

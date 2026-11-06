@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display cutout browser tests
+// summary: Browser tests covering viewport-fit changes, fullscreen behavior, and safe area inset handling for display cutout on Android.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/files/scoped_temp_dir.h"
 #include "base/run_loop.h"

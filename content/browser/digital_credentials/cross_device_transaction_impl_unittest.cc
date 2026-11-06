@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-Device Transaction Unit Tests
+// summary: Tests TransactionImpl behavior with a mock Bluetooth adapter and tunnel server, covering error cases such as missing BLE support.
+// ---
+
 #include "content/browser/digital_credentials/cross_device_transaction_impl.h"
 
 #include <variant>

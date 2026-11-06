@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay DevTools domain handler header
+// summary: Declares OverlayHandler, the DevTools Overlay domain backend for inspect mode and paused-in-debugger message handling.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_OVERLAY_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_OVERLAY_HANDLER_H_
 

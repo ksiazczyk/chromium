@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM DevTools handler implementation
+// summary: Implements the DevTools DOM domain commands for setting file input files and getting file info, gated by a file access permission flag.
+// ---
+
 #include "content/browser/devtools/protocol/dom_handler.h"
 
 #include "base/strings/utf_string_conversions.h"

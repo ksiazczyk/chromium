@@ -1,3 +1,11 @@
+---
+type: readme
+title: Digital Credentials Browser-Side Implementation
+summary: Describes the browser-side Digital Credentials API implementation and its testing strategy of hanging requests plus a fake auto-resolving UI.
+relations:
+  - references /third_party/blink/web_tests/VirtualTestSuites
+---
+
 # Digital Credentials Browser-Side Implementation
 
 This directory contains the browser-side implementation of the Digital

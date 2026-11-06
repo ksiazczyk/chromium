@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCm DevTools handler implementation
+// summary: Implements the DevTools FedCm domain, exposing federated identity dialogs, accounts, and dialog actions for automation of FedCM flows.
+// ---
+
 #include "content/browser/devtools/protocol/fedcm_handler.h"
 
 #include <optional>

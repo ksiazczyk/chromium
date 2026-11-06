@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsPipeHandler class declaration
+// summary: Declares the handler that bridges read and write file descriptors to a DevTools agent host client with disconnect callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_PIPE_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_PIPE_HANDLER_H_
 

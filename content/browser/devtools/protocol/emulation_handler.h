@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulation DevTools handler header
+// summary: Declares the Emulation DevTools handler interface for applying device, sensor, geolocation, idle, and user agent overrides to a DevTools session.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_EMULATION_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_EMULATION_HANDLER_H_
 

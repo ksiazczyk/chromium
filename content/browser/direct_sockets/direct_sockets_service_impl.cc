@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectSocketsServiceImpl implementation
+// summary: Implements the DirectSocketsService Mojo service, enforcing context, permissions policy, and local network checks before forwarding socket creation to the Network Service.
+// ---
+
 #include "content/browser/direct_sockets/direct_sockets_service_impl.h"
 
 #include <optional>

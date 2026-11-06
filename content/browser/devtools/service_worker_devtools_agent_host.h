@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker DevTools agent host declarations
+// summary: Declares ServiceWorkerDevToolsAgentHost, the DevTools agent host for service workers, with worker lifecycle, client security state, and browser context APIs.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_SERVICE_WORKER_DEVTOOLS_AGENT_HOST_H_
 #define CONTENT_BROWSER_DEVTOOLS_SERVICE_WORKER_DEVTOOLS_AGENT_HOST_H_
 

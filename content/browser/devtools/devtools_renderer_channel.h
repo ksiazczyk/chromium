@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools renderer channel header
+// summary: Declares DevToolsRendererChannel, which encapsulates the Mojo connection to the renderer's DevToolsAgent and handles session attachment, child targets, and inspector events.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_RENDERER_CHANNEL_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_RENDERER_CHANNEL_H_
 

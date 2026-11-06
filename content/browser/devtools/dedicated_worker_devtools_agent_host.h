@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker DevTools agent host declaration
+// summary: Declares DedicatedWorkerDevToolsAgentHost, which manages DevTools sessions for dedicated workers and tracks worker creation and termination state.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEDICATED_WORKER_DEVTOOLS_AGENT_HOST_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEDICATED_WORKER_DEVTOOLS_AGENT_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarding agent host class header
+// summary: Declares ForwardingAgentHost, which wraps a DevToolsExternalAgentProxyDelegate as a DevTools agent host.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_FORWARDING_AGENT_HOST_H_
 #define CONTENT_BROWSER_DEVTOOLS_FORWARDING_AGENT_HOST_H_
 

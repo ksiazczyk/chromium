@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service DevTools observer header
+// summary: Declares a self-owned DevToolsObserver that binds to the network service and forwards network events without requiring a DevToolsAgentHostImpl.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_NETWORK_SERVICE_DEVTOOLS_OBSERVER_H_
 #define CONTENT_BROWSER_DEVTOOLS_NETWORK_SERVICE_DEVTOOLS_OBSERVER_H_
 

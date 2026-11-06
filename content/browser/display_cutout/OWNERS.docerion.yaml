@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Display cutout directory owners
+summary: Points to the shared OWNERS file of the Chrome Android display cutout code as the approvers for this directory.

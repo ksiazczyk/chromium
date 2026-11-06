@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools MHTML snapshot helper declarations
+// summary: Declares DevToolsMHTMLHelper, a thread-safe helper that captures page MHTML snapshots and reports success or failure via a callback.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DEVTOOLS_MHTML_HELPER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DEVTOOLS_MHTML_HELPER_H_
 

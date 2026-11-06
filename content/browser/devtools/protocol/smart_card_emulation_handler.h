@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card emulation DevTools protocol handler header
+// summary: Declares the browser-side PC/SC smart card emulation handler that intercepts renderer Mojo calls and translates them into DevTools Protocol events.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_SMART_CARD_EMULATION_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_SMART_CARD_EMULATION_HANDLER_H_
 

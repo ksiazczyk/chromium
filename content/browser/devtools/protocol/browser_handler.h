@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser DevTools domain handler header
+// summary: Declares BrowserHandler, the CDP Browser domain backend handling version info, histograms, permissions, download behavior, and browser or GPU process crashes.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_BROWSER_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_BROWSER_HANDLER_H_
 

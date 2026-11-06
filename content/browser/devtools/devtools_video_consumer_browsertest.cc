@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools video consumer browser tests
+// summary: Browser tests verifying that DevToolsVideoConsumer captures frames with the expected pixel format and dimensions when frame size constraints change.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

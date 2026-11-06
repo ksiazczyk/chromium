@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-level DevTools agent host implementation
+// summary: Implements the browser-wide DevTools agent host, attaching browser protocol handlers and auto-attaching to service and shared workers.
+// ---
+
 #include "content/browser/devtools/browser_devtools_agent_host.h"
 
 #include "base/auto_reset.h"

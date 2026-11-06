@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info DevTools protocol handler implementation
+// summary: Implements the DevTools SystemInfo domain, collecting GPU and process information with platform-specific watchdog timeouts for GPU data retrieval.
+// ---
+
 #include "content/browser/devtools/protocol/system_info_handler.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Digital Credentials Directory Owners
+summary: Lists the directory owners and inherits owners from the WebID and device/fido directories.

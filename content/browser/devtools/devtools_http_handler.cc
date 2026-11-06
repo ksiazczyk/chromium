@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools HTTP handler implementation
+// summary: Implements the DevTools remote debugging HTTP and WebSocket server that lists debuggable targets and serves the DevTools frontend.
+// ---
+
 #include "content/browser/devtools/devtools_http_handler.h"
 
 #include <stddef.h>

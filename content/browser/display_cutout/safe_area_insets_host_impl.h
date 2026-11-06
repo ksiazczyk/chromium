@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe area insets host implementation header
+// summary: Declares SafeAreaInsetsHostImpl, which tracks viewport-fit values per frame and routes safe area insets to the fullscreen or primary main frame of a WebContents.
+// ---
+
 #ifndef CONTENT_BROWSER_DISPLAY_CUTOUT_SAFE_AREA_INSETS_HOST_IMPL_H_
 #define CONTENT_BROWSER_DISPLAY_CUTOUT_SAFE_AREA_INSETS_HOST_IMPL_H_
 

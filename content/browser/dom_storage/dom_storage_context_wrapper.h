@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage context wrapper class declaration
+// summary: Declares DOMStorageContextWrapper, the ref-counted owner of a storage partition's DOM storage state and its Mojo connections.
+// ---
+
 #ifndef CONTENT_BROWSER_DOM_STORAGE_DOM_STORAGE_CONTEXT_WRAPPER_H_
 #define CONTENT_BROWSER_DOM_STORAGE_DOM_STORAGE_CONTEXT_WRAPPER_H_
 

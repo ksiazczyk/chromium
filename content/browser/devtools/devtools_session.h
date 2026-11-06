@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools session header
+// summary: Declares DevToolsSession, the frontend channel linking a DevTools client to agent hosts, protocol domain handlers, and external agent proxies.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_SESSION_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_SESSION_H_
 

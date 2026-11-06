@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Frame auto attacher class header
+// summary: Declares FrameAutoAttacher, which auto-attaches DevTools agents to render frames and observes service worker creation and destruction.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_FRAME_AUTO_ATTACHER_H_
 #define CONTENT_BROWSER_DEVTOOLS_FRAME_AUTO_ATTACHER_H_
 

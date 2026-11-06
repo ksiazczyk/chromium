@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalCredentials DevTools handler implementation
+// summary: Implements the DevTools DigitalCredentials domain, configuring a virtual wallet (respond, decline, wait, clear) for automated testing of the Digital Credentials API.
+// ---
+
 #include "content/browser/devtools/protocol/digital_credentials_handler.h"
 
 #include "base/check.h"

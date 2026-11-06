@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Firewall hole browser tests for Direct Sockets
+// summary: Browser test verifying UDP firewall hole opening with a delayed fake permission broker client to exercise concurrent requests for the same port.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools agent host refcount unit tests
+// summary: Unit tests verifying that WorkerOrWorkletDevToolsAgentHost does not underflow its refcount when Disconnected() is called multiple times.
+// ---
+
 #include "base/test/bind.h"
 #include "content/browser/devtools/worker_or_worklet_devtools_agent_host.h"
 #include "content/public/test/browser_task_environment.h"

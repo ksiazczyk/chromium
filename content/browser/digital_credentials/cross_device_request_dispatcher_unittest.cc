@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-Device Request Dispatcher Unit Tests
+// summary: Tests the request dispatcher against a mock cable v2 tunnel server and Bluetooth adapter for get and create request types.
+// ---
+
 #include "content/browser/digital_credentials/cross_device_request_dispatcher.h"
 
 #include "base/json/json_reader.h"

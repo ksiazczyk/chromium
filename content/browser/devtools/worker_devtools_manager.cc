@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerDevToolsManager implementation
+// summary: Implements the UI-thread singleton that creates, looks up, and tears down DevTools agent hosts for dedicated workers and throttles their main script fetches.
+// ---
+
 #include "content/browser/devtools/worker_devtools_manager.h"
 
 #include "base/metrics/histogram_functions.h"

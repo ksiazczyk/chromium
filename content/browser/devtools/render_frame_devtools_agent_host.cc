@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render frame DevTools agent host implementation
+// summary: Implements the DevTools agent host for render frames, wiring protocol handlers and tracking navigations, frames, and WebContents lifetime.
+// ---
+
 #include "content/browser/devtools/render_frame_devtools_agent_host.h"
 
 #include <algorithm>

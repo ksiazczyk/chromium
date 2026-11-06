@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Service DevTools domain handler implementation
+// summary: Implements the BackgroundService CDP domain, mapping service names and protobuf events for observing, recording, and clearing background service events.
+// ---
+
 #include "content/browser/devtools/protocol/background_service_handler.h"
 
 #include "base/metrics/histogram_functions.h"

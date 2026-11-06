@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingProcessSetMonitor implementation
+// summary: Implements a monitor that tracks process IDs of agent hosts attached to a root DevTools tracing session and runs a callback for each newly added process.
+// ---
+
 #include "content/browser/devtools/tracing_process_set_monitor.h"
 
 #include "base/auto_reset.h"

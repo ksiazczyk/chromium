@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network DevTools domain handler implementation
+// summary: Implements the browser-side Network domain, covering cookies, request interception, signed exchanges, resource loading and network error reporting for DevTools clients.
+// ---
+
 #include "content/browser/devtools/protocol/network_handler.h"
 
 #include <stddef.h>

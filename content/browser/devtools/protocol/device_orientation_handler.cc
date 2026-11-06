@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceOrientation DevTools domain handler implementation
+// summary: Implements the DeviceOrientation CDP domain by converting Euler angle overrides into a virtual relative-orientation sensor.
+// ---
+
 #include "content/browser/devtools/protocol/device_orientation_handler.h"
 
 #include "base/functional/bind.h"

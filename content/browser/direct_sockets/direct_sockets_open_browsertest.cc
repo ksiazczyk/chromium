@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Direct Sockets open socket browser tests
+// summary: Browser tests for DNS resolution and opening TCP and UDP sockets, using a mock NetworkContext implementation.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <string_view>

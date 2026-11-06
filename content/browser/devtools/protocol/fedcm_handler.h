@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCm DevTools handler header
+// summary: Declares the FedCm DevTools handler for enabling FedCM automation, intercepting requests and dialogs, and handling account selection and dialog buttons.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_FEDCM_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_FEDCM_HANDLER_H_
 

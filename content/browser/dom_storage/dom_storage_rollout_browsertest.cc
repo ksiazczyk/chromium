@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM Storage SQLite rollout browser tests
+// summary: Browser tests guarding the DOM Storage SQLite rollout's disk checks and experimental tagging across rollout stages.
+// ---
+
 #include <vector>
 
 #include "base/files/file_path.h"

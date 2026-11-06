@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRecorder unit tests
+// summary: Unit tests for MediaRecorder covering start and stop behavior, stream output, and error cases such as recording without libaom enabled.
+// ---
+
 #include "content/browser/devtools/protocol/media_recorder.h"
 
 #include <memory>

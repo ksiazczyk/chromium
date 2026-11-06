@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Device Transaction Class Declaration
+// summary: Declares TransactionImpl, which exchanges digital identities with mobile devices that scanned a QR code over an encrypted BLE tunnel.
+// ---
+
 #ifndef CONTENT_BROWSER_DIGITAL_CREDENTIALS_CROSS_DEVICE_TRANSACTION_IMPL_H_
 #define CONTENT_BROWSER_DIGITAL_CREDENTIALS_CROSS_DEVICE_TRANSACTION_IMPL_H_
 

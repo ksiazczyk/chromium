@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audits DevTools domain handler header
+// summary: Declares the AuditsHandler class implementing the Audits CDP domain backend and issue-added notification for the content layer.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_AUDITS_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_AUDITS_HANDLER_H_
 

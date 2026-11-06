@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsPreloadStorage class declaration
+// summary: Declares document-scoped storage of prefetch and prerender statuses and speculation candidates reported to DevTools.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_PRELOAD_STORAGE_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_PRELOAD_STORAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render frame DevTools agent host browser tests
+// summary: Browser tests exercising RenderFrameDevToolsAgentHost behavior such as pending navigation target retention across commits.
+// ---
+
 
 #include "content/browser/devtools/render_frame_devtools_agent_host.h"
 

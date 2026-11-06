@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools agent host unit tests
+// summary: Unit tests for DevToolsAgentHostImpl covering attaching and closing client hosts and renderer unresponsive handling.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

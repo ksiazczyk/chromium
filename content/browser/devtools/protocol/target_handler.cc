@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target DevTools protocol handler implementation
+// summary: Implements the DevTools Target domain, including target discovery, auto-attach, session attachment, proxy configuration, and message routing to targets.
+// ---
+
 #include "content/browser/devtools/protocol/target_handler.h"
 
 #include <algorithm>

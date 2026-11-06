@@ -1,3 +1,13 @@
+---
+type: readme
+title: DOM Storage
+summary: Explains how //content connects renderers to the Storage Service for Local and Session Storage, covering namespaces, lifetime, session restore, renderer access and cloning.
+relations:
+  - documents /components/services/storage/dom_storage/local_storage_impl.h
+  - documents /components/services/storage/dom_storage/session_storage_area_impl.h
+  - documents /components/services/storage/dom_storage/session_storage_namespace_impl.h
+---
+
 # DOM Storage
 
 DOM Storage includes Local Storage and Session Storage. Code in `//content`

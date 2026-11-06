@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM storage context wrapper unit tests
+// summary: Unit tests verifying that storage area requests from processes locked to other storage keys trigger bad-message handling.
+// ---
+
 #include "content/browser/dom_storage/dom_storage_context_wrapper.h"
 
 #include <string_view>

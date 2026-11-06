@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools domain handler base class header
+// summary: Declares DevToolsDomainHandler, the base class giving CDP domain handlers a name, session access and dispatcher wiring hooks.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DEVTOOLS_DOMAIN_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DEVTOOLS_DOMAIN_HANDLER_H_
 

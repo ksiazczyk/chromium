@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input DevTools protocol handler implementation
+// summary: Implements the Input DevTools domain, dispatching synthetic key, mouse, touch, drag and gesture events to the renderer.
+// ---
+
 #include "content/browser/devtools/protocol/input_handler.h"
 
 #include <stddef.h>

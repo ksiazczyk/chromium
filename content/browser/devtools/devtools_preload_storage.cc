@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools preload storage implementation
+// summary: Implements per-document storage of prefetch and prerender status updates so newly enabled DevTools sessions can receive past preloading details.
+// ---
+
 #include "content/browser/devtools/devtools_preload_storage.h"
 
 #include <optional>

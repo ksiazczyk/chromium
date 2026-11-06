@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsStreamPipe implementation
+// summary: Implements a Mojo data pipe-backed DevTools IO stream that buffers pipe data and fulfills queued read requests.
+// ---
+
 #include "content/browser/devtools/devtools_stream_pipe.h"
 
 #include "base/base64.h"

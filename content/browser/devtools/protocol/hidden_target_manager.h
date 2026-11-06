@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hidden target manager header
+// summary: Declares HiddenTargetManager, which owns hidden WebContents for DevTools hidden targets and disposes them when sessions close.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_HIDDEN_TARGET_MANAGER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_HIDDEN_TARGET_MANAGER_H_
 

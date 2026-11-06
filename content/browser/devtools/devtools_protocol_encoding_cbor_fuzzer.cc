@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBOR protocol encoding fuzzer
+// summary: Fuzzer that exercises conversion of CBOR-encoded DevTools protocol messages to JSON through the inspector protocol library.
+// ---
+
 #include "third_party/inspector_protocol/crdtp/json.h"
 
 // A corpus for this fuzzer is located in

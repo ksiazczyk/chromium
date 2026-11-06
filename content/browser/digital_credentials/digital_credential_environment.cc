@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalCredentialEnvironment implementation
+// summary: Implements the DigitalCredentialEnvironment singleton that enables, disables, and looks up per-frame virtual wallets for the Digital Credentials API, cleaning up on frame destruction and DevTools detach.
+// ---
+
 #include "content/browser/digital_credentials/digital_credential_environment.h"
 
 #include "base/no_destructor.h"

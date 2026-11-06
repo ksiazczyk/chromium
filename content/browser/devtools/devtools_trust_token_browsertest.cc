@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools trust token browser tests
+// summary: Browser tests verifying trust token issuance and redemption events reported through the DevTools Network domain.
+// ---
+
 #include <string_view>
 
 #include "build/build_config.h"

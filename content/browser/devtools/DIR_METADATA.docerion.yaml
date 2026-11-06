@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DevTools directory bug tracking metadata
+summary: Maps the directory to the Platform>DevTools monorail component and a Buganizer component for issue routing.

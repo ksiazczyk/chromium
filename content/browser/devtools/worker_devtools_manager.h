@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerDevToolsManager class declaration
+// summary: Declares the singleton manager that retains DedicatedWorkerDevToolsAgentHost instances for as long as their dedicated workers are alive.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_WORKER_DEVTOOLS_MANAGER_H_
 #define CONTENT_BROWSER_DEVTOOLS_WORKER_DEVTOOLS_MANAGER_H_
 

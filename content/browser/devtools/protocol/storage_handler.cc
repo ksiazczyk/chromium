@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage DevTools protocol handler implementation
+// summary: Implements the DevTools Storage domain, covering cookie management, usage and quota reporting, quota overrides, and cache storage and IndexedDB tracking.
+// ---
+
 #include "content/browser/devtools/protocol/storage_handler.h"
 
 #include <stdint.h>

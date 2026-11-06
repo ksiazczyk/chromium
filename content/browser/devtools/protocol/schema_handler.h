@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Schema domain handler header
+// summary: Declares SchemaHandler, the backend for the DevTools Schema domain that serves the list of protocol domains.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_SCHEMA_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_SCHEMA_HANDLER_H_
 

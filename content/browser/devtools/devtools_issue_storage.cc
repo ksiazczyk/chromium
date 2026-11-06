@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools issue storage implementation
+// summary: Implements per-page storage of inspector issues, keeping at most 1000 issues and resolving them for agent hosts.
+// ---
+
 #include "content/browser/devtools/devtools_issue_storage.h"
 
 #include <bit>

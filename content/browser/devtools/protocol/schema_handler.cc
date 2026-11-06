@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Schema domain handler implementation
+// summary: Implements the Schema domain's GetDomains command, returning a hardcoded list of supported DevTools protocol domains.
+// ---
+
 #include "content/browser/devtools/protocol/schema_handler.h"
 
 

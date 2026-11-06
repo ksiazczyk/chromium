@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory DevTools protocol handler implementation
+// summary: Implements the Memory DevTools domain, providing browser sampling heap profiles, simulated memory pressure notifications, and leak detection support.
+// ---
+
 #include "content/browser/devtools/protocol/memory_handler.h"
 
 #include <cinttypes>

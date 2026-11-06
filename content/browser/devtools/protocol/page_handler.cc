@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page DevTools domain handler implementation
+// summary: Implements the browser-side Page domain, handling navigation, screenshots, MHTML capture, back-forward cache state and media recording for DevTools clients.
+// ---
+
 #include "content/browser/devtools/protocol/page_handler.h"
 
 #include <algorithm>

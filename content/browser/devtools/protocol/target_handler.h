@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target DevTools protocol handler header
+// summary: Declares the TargetHandler class implementing the DevTools Target domain with access modes for auto-attach, discovery, and browser-wide connections.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_TARGET_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_TARGET_HANDLER_H_
 

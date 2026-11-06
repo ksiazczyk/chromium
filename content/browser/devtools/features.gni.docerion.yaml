@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: DevTools frontend build feature flag
+summary: GN configuration defining enable_devtools_frontend, which is enabled everywhere except iOS and Fuchsia.

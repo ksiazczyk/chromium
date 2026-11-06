@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsStreamFile class header
+// summary: Declares a file-backed DevTools IO context stream that reads and appends data on a sequenced file task runner.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_STREAM_FILE_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_STREAM_FILE_H_
 

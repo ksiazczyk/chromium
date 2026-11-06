@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools network resource loader declarations
+// summary: Declares DevToolsNetworkResourceLoader, which fetches network resources for DevTools and delivers responses to completion callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DEVTOOLS_NETWORK_RESOURCE_LOADER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DEVTOOLS_NETWORK_RESOURCE_LOADER_H_
 

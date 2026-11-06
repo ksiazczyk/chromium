@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools video consumer unit tests
+// summary: Unit tests for DevToolsVideoConsumer using a mocked FrameSinkVideoCapturer to verify capture parameter handling and frame delivery.
+// ---
+
 #include <utility>
 #include <vector>
 

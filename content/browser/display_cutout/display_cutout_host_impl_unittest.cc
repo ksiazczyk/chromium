@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display cutout host unit tests
+// summary: Unit tests verifying when and with which insets the display cutout host sends safe area values to frames.
+// ---
+
 #include "content/browser/display_cutout/display_cutout_host_impl.h"
 
 #include "base/memory/raw_ptr.h"

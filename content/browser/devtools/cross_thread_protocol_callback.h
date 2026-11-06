@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-thread DevTools protocol callback wrapper
+// summary: Template wrapper that ensures DevTools protocol callbacks are invoked on the UI thread when commands are handled on other threads.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_CROSS_THREAD_PROTOCOL_CALLBACK_H_
 #define CONTENT_BROWSER_DEVTOOLS_CROSS_THREAD_PROTOCOL_CALLBACK_H_
 

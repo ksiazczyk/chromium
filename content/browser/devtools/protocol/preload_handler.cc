@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Preload domain handler implementation
+// summary: Implements the DevTools Preload domain, mapping prefetch and prerender statuses such as PrerenderFinalStatus values to protocol enums and events.
+// ---
+
 #include "content/browser/devtools/protocol/preload_handler.h"
 
 #include <memory>

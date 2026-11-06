@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe area insets host class declaration
+// summary: Declares the abstract WebContents-scoped host connecting Blink and the embedder for safe area insets and viewport-fit metadata.
+// ---
+
 #ifndef CONTENT_BROWSER_DISPLAY_CUTOUT_SAFE_AREA_INSETS_HOST_H_
 #define CONTENT_BROWSER_DISPLAY_CUTOUT_SAFE_AREA_INSETS_HOST_H_
 

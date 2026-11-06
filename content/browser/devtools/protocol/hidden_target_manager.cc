@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hidden target manager implementation
+// summary: Implements HiddenTargetManager, which creates and owns hidden WebContents for DevTools hidden targets and keeps their renderer process unthrottled.
+// ---
+
 #include "content/browser/devtools/protocol/hidden_target_manager.h"
 
 #include "content/browser/devtools/web_contents_devtools_agent_host.h"

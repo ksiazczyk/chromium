@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools pipe handler implementation
+// summary: Implements the pipe-based DevTools transport, handling ASCII and CBOR binary protocol modes over file descriptors on Windows and POSIX.
+// ---
+
 #include "content/browser/devtools/devtools_pipe_handler.h"
 
 #include "base/containers/span.h"

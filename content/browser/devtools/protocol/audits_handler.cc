@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audits DevTools domain handler implementation
+// summary: Implements the browser-side Audits CDP domain, enabling the domain and forwarding stored inspector issues for a frame to the DevTools frontend.
+// ---
+
 #include "content/browser/devtools/protocol/audits_handler.h"
 
 #include "content/browser/devtools/devtools_agent_host_impl.h"

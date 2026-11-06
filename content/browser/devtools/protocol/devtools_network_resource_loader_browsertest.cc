@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools network resource loader browser tests
+// summary: Browser tests exercising DevToolsNetworkResourceLoader fetching of resources like source maps against an embedded test server.
+// ---
+
 #include "content/browser/devtools/protocol/devtools_network_resource_loader.h"
 
 #include "base/files/file_util.h"

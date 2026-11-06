@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools agent host implementation
+// summary: Implements the browser-process DevTools agent host, managing agent instances, observers, and the HTTP and pipe handlers.
+// ---
+
 #include "content/browser/devtools/devtools_agent_host_impl.h"
 
 #include <map>

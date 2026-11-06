@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirewallHoleDelegate class header
+// summary: Declares FirewallHoleDelegate and FirewallHoleTracker, which reuse firewall holes per UDP port and track socket connection lifetimes via Mojo.
+// ---
+
 #ifndef CONTENT_BROWSER_DIRECT_SOCKETS_FIREWALL_HOLE_DELEGATE_H_
 #define CONTENT_BROWSER_DIRECT_SOCKETS_FIREWALL_HOLE_DELEGATE_H_
 

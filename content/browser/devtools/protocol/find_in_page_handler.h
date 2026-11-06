@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindInPage DevTools protocol handler header
+// summary: Declares FindInPageHandler, which implements the FindInPage DevTools domain via WebContents::Find and tracks the active find session state.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_FIND_IN_PAGE_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_FIND_IN_PAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Security domain handler implementation
+// summary: Implements the DevTools Security domain, including certificate error notifications, certificate error overrides and visible security state events.
+// ---
+
 #include "content/browser/devtools/protocol/security_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Digital Credentials Include Rules
+summary: Defines include rules permitting dependencies on device/fido and components/device_event_log for cross-device Web Platform interactions.

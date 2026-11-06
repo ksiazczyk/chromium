@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inspector DevTools protocol handler implementation
+// summary: Implements the Inspector DevTools domain, reporting target crashes, reloads after crash and detachment to the DevTools client.
+// ---
+
 #include "content/browser/devtools/protocol/inspector_handler.h"
 
 #include <memory>
