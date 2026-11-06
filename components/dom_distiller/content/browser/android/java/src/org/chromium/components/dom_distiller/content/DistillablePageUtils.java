@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DistillablePageUtils Java bridge for page distillability
+// summary: Java class that exposes the native dom_distiller IsPageDistillable check to Android, managing delegates that receive distillability updates for WebContents.
+// ---
+
 package org.chromium.components.dom_distiller.content;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryContentStore implementation
+// summary: Implements an in-memory cache that saves and loads distilled article content, maintaining URL to entry ID mappings for lookups.
+// ---
+
 #include "components/dom_distiller/core/distilled_content_store.h"
 #include "base/task/single_thread_task_runner.h"
 

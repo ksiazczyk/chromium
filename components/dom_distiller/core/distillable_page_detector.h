@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DistillablePageDetector class declaration
+// summary: Declares a detector that decides whether a page is likely distillable using an AdaBoost-trained model over derived page features.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DISTILLABLE_PAGE_DETECTOR_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DISTILLABLE_PAGE_DETECTOR_H_
 

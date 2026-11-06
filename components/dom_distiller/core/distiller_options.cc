@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller options implementation
+// summary: Implements DistillerOptions constructors that wrap either proto-based DOM distiller options or readability options used to configure the distiller.
+// ---
+
 #include "components/dom_distiller/core/distiller_options.h"
 
 namespace dom_distiller {

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DOM distiller dependency rules
+summary: Defines include rules for the component, permitting core dependencies while requiring subdirectories to opt in to the content layer explicitly.

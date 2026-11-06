@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability context manager implementation
+// summary: Implements the context manager that owns DomainReliabilityContexts, routes beacons to exact or superdomain matches, and creates Google config contexts on demand.
+// ---
+
 #include "components/domain_reliability/context_manager.h"
 
 #include <utility>

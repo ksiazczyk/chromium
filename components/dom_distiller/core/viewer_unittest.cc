@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the distilled page viewer
+// summary: Tests view request creation and handling of valid and invalid distiller URLs using fake service and delegate implementations.
+// ---
+
 #include "components/dom_distiller/core/viewer.h"
 
 #include <memory>

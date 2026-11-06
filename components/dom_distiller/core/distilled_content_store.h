@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distilled content store interface and in-memory cache
+// summary: Declares the DistilledContentStore interface for saving and loading distilled article content, plus an InMemoryContentStore that caches entries in an LRU map keyed by entry ID and URL.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DISTILLED_CONTENT_STORE_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DISTILLED_CONTENT_STORE_H_
 

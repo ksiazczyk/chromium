@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native distiller JavaScript implementation
+// summary: Implements the distiller JavaScript object that exposes openSettings and preference storing functions and forwards them to the browser via Mojo.
+// ---
+
 #include "components/dom_distiller/content/renderer/distiller_native_javascript.h"
 
 #include <string>

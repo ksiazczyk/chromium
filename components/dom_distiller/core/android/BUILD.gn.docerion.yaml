@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Dom distiller core Android BUILD.gn
+summary: GN build file that generates JNI headers and defines the dom_distiller_core_java Android library with its sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR metadata for the DOM distiller strings folder
+summary: Declares the Chromium issue tracker components (UI>Browser>ReaderMode and Buganizer 1457181) for the dom_distiller_strings_grdp directory.

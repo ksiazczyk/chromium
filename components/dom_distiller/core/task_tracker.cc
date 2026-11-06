@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task tracker implementation
+// summary: Implements TaskTracker and ViewerHandle to coordinate distillation, content fetching, viewing and saving of article content.
+// ---
+
 #include "components/dom_distiller/core/task_tracker.h"
 
 #include <stddef.h>

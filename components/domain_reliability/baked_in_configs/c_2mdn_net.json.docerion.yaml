@@ -1,0 +1,4 @@
+# Docerion header of c_2mdn_net.json.
+type: config
+title: Domain reliability config for c.2mdn.net
+summary: Baked-in domain reliability config for c.2mdn.net that lists beacon collector URLs, success and failure sampling rates, and monitored path prefixes.

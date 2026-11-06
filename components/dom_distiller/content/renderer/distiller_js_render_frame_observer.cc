@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller JS render frame observer implementation
+// summary: Implements the observer that injects the native distiller JavaScript object into distilled pages when their script context is created.
+// ---
+
 #include "components/dom_distiller/content/renderer/distiller_js_render_frame_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomDistillerJs runner
+// summary: Applies DomDistillerJs to the page content with runtime options and returns the distillation results.
+// ---
+
 // Applies DomDistillerJs to the content of the page and returns a
 // DomDistillerResults (as a javascript object/dict).
 (function(options) {

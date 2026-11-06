@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google configs interface
+// summary: Declares MaybeGetGoogleConfig, which returns a matching Domain Reliability config for a hostname, plus a helper to get all configs for testing.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_GOOGLE_CONFIGS_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_GOOGLE_CONFIGS_H_
 

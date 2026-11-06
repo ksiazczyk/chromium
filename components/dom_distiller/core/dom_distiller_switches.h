@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller switch declarations
+// summary: Declares exported command-line switch constants controlling DOM distiller features, reader mode heuristics, and feedback form display.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_SWITCHES_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_SWITCHES_H_
 

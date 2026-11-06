@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS DOM distiller
+summary: Defines the iOS source set and unit test target for the DOM distiller component, listing sources and dependencies.

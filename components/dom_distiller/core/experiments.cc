@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller heuristics experiment resolution
+// summary: Resolves the distiller heuristics type from the ReaderModeUI field trial or the reader mode heuristics command-line switch.
+// ---
+
 #include "components/dom_distiller/core/experiments.h"
 
 #include "base/command_line.h"

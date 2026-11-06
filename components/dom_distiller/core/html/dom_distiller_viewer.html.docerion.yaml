@@ -1,0 +1,4 @@
+# Docerion header of dom_distiller_viewer.html.
+type: source
+title: DOM distiller viewer HTML template
+summary: HTML template for the DOM distiller viewer page, with internationalized strings and appearance controls for font family, theme, and font size.

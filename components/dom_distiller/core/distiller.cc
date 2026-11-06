@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Article distiller implementation
+// summary: Implements DistillerImpl and its factory, queueing and distilling multi-page articles while reporting incremental updates and finished results via callbacks.
+// ---
+
 #include "components/dom_distiller/core/distiller.h"
 
 #include <algorithm>

@@ -7,6 +7,12 @@
 /* Set the global 'box-sizing' state to 'border-box'.
  * *::after and *::before used to select pseudo-elements not selectable by *. */
 
+/*docerion
+type: source
+title: Common distilled page styles shared by all platforms
+summary: Common CSS for the distilled page viewer defining color variables, light, dark and sepia themes, base layout and per-platform font settings.
+*/
+
 :root {
   --google-blue-300: 138, 180, 248;
   --google-blue-600: 26, 115, 232;

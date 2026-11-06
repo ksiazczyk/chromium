@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: DOM distiller material spinner
+summary: Material design circular activity spinner SVG with embedded CSS3 animation, used as a loading indicator in the DOM distiller.
+-->
+
 <svg version="1" xmlns="http://www.w3.org/2000/svg"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
      width="16px" height="16px" viewBox="0 0 28 28">

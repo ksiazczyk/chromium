@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomDistillerRequestViewBase class declaration
+// summary: Declares the view request delegate base that forwards distilled article data and distilled page preference changes to a viewer via buffered JavaScript.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_REQUEST_VIEW_BASE_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_REQUEST_VIEW_BASE_H_
 

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: New distilled page styles for A/B testing
+summary: New CSS for the distilled page with responsive layout, vertical spacing, typography, image, list and table rules, used in the A/B test against legacy styles.
+*/
+
 html {
     width: 100%;
     margin: auto;

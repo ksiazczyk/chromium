@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArticleDistillationUpdate implementation
+// summary: Implements the ArticleDistillationUpdate class that holds distilled pages of an article plus flags for next and previous pages still being distilled.
+// ---
+
 #include "components/dom_distiller/core/article_distillation_update.h"
 
 #include "base/check_op.h"

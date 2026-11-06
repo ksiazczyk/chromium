@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for distiller URL utilities
+// summary: Exposes distiller URL helpers such as view URL creation, original URL extraction and distilled page checks to Java through JNI for Android.
+// ---
+
 #include <string>
 
 #include "base/android/jni_string.h"

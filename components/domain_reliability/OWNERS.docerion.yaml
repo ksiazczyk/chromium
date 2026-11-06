@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Delegates code ownership to the net and net/network_error_logging OWNERS files.

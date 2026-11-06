@@ -1,0 +1,4 @@
+# Docerion header of distiller_page_ios.mm.
+type: source
+title: iOS distiller page implementation
+summary: Implements iOS page distillation by loading URLs in a WebState, blocking media content, and evaluating the distillation script.

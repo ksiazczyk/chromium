@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller heuristics type declarations
+// summary: Declares the DistillerHeuristicsType enum and the function returning the active heuristics type for reader mode.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_EXPERIMENTS_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_EXPERIMENTS_H_
 

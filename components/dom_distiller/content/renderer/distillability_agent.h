@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DistillabilityAgent class declaration
+// summary: Declares the RenderFrameObserver that returns distillability results to the DistillabilityDriver and records UKM metrics.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CONTENT_RENDERER_DISTILLABILITY_AGENT_H_
 #define COMPONENTS_DOM_DISTILLER_CONTENT_RENDERER_DISTILLABILITY_AGENT_H_
 

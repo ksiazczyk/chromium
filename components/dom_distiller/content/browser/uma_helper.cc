@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA helper implementation
+// summary: Implements UMA metric logging, including a timer that tracks active time on distillable and distilled pages.
+// ---
+
 #include "components/dom_distiller/content/browser/uma_helper.h"
 
 #include "base/metrics/histogram_functions.h"

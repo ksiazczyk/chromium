@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Readability engine options
+// summary: Defines a struct of configuration options for the Readability distillation engine, including a regex for allowed video elements.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_READABILITY_OPTIONS_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_READABILITY_OPTIONS_H_
 

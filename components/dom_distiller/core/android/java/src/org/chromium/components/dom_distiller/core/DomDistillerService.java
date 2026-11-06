@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomDistillerService
+// summary: Java JNI wrapper for the native dom_distiller DomDistillerService, created by native code and providing access to the DistilledPagePrefs.
+// ---
+
 package org.chromium.components.dom_distiller.core;
 
 import org.jni_zero.CalledByNative;

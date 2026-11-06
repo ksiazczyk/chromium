@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability monitor interface
+// summary: Declares DomainReliabilityMonitor and its RequestInfo, the top-level object that measures requests and hands measurements to the proper context.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_MONITOR_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data clear modes
+// summary: Defines the enum passed to ClearBrowsingData to choose between clearing accumulated beacons or registered contexts.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_CLEAR_MODE_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_CLEAR_MODE_H_
 

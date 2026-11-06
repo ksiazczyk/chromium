@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extraction utils unit tests
+// summary: Verifies that the readability triggering script has its minimum score and content length placeholders replaced with the configured values.
+// ---
+
 #include "components/dom_distiller/core/extraction_utils.h"
 
 #include <string>

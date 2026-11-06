@@ -4,6 +4,12 @@
 
 /* This file should contain style used on desktop but not Android or iOS. */
 
+/*docerion
+type: source
+title: Desktop-specific distilled page styles
+summary: CSS applied to the distilled page viewer on desktop only, covering the settings dialog, theme picker, font family and font size controls.
+*/
+
 :root {
   --google-grey-500: 154, 160, 166;
   --google-grey-700: 95, 99, 104;

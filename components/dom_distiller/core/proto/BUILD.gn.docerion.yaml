@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the dom_distiller proto library
+summary: Defines the proto_library build target that compiles the adaboost, distilled_article and distilled_page protobuf sources.

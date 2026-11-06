@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side driver for page distillability results
+// summary: Implements the Mojo DistillabilityService and DistillabilityDriver that receive renderer notifications about whether a page is distillable and forward them to observers.
+// ---
+
 #include "components/dom_distiller/content/browser/distillability_driver.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distilled page viewer implementation
+// summary: Assembles the HTML template, CSS, themes, fonts and JavaScript snippets used to render distilled article pages and handles view requests.
+// ---
+
 #include "components/dom_distiller/core/viewer.h"
 
 #include <memory>

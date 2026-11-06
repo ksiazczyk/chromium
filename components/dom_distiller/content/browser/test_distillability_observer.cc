@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test distillability observer implementation
+// summary: Implements a test helper that records distillability results and blocks until an expected result is observed.
+// ---
+
 #include "components/dom_distiller/content/browser/test_distillability_observer.h"
 
 #include "components/dom_distiller/content/browser/distillability_driver.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page feature calculation for distillation
+// summary: Calculates derived URL and content features in the same order as model training to support distillation heuristics.
+// ---
+
 #include "components/dom_distiller/core/page_features.h"
 
 #include <stddef.h>

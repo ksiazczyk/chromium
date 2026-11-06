@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for DOM distiller CSS
+summary: Lists platform owners who can approve trivial or mechanical JS, CSS and HTML changes in this directory.

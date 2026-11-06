@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dom distiller viewer source header
+// summary: Declares DomDistillerViewerSource, a URLDataSource that serves HTML and resources for viewing distilled articles.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_DOM_DISTILLER_VIEWER_SOURCE_H_
 #define COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_DOM_DISTILLER_VIEWER_SOURCE_H_
 

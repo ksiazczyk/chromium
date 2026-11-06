@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinch-to-zoom font scaling for Reader Mode
+// summary: Emulates pinch-to-zoom and text reflow for Reader Mode on Android using CSS transforms and font scaling.
+// ---
+
 // The zooming speed relative to pinching speed.
 const FONT_SCALE_MULTIPLIER = 0.5;
 

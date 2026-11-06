@@ -4,6 +4,12 @@
 //
 // Distilled page content.
 
+// ---docerion
+// type: source
+// title: 'distilled_page.proto: distilled page protobuf definition'
+// summary: Defines DistilledPageProto with URL, distilled HTML, images, title, debug info, text direction, pagination info and plain text content.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Domain Reliability monitor unit tests
+// summary: Tests the monitor's request handling and beacon queuing behavior using a test URL request context, mock time, and test configs.
+// ---
+
 #include "components/domain_reliability/monitor.h"
 
 #include <stddef.h>

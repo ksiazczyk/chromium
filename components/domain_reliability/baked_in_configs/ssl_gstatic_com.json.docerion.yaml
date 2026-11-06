@@ -1,0 +1,4 @@
+# Docerion header of ssl_gstatic_com.json.
+type: config
+title: Domain reliability config for ssl.gstatic.com
+summary: Baked-in domain reliability configuration monitoring ssl.gstatic.com accounts, analytics, and images paths.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test request view handle
+// summary: Test-only handle that collects the JavaScript buffer sent by the distilled page view request so tests can inspect it.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_TEST_REQUEST_VIEW_HANDLE_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_TEST_REQUEST_VIEW_HANDLE_H_
 

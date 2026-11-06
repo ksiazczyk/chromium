@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font size slider for distilled pages
+// summary: Implements the desktop font size slider that scales distilled page text and stores the chosen scaling preference.
+// ---
+
 // TODO(crbug.com/40108835): Consider making this a custom HTML element.
 // The font size slider is visible on desktop platforms.
 class FontSizeSlider {

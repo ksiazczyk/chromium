@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distiller script and extraction helpers
+// summary: Builds distiller and readability JavaScript scripts with injected options and converts readability results into DomDistillerResult values.
+// ---
+
 #include "components/dom_distiller/core/extraction_utils.h"
 
 #include <string>

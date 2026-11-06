@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the in-memory distilled content store
+// summary: Unit tests verifying save and load behavior of InMemoryContentStore, including single and multiple articles, cache limits, and failed loads of unknown entries.
+// ---
+
 #include "components/dom_distiller/core/distilled_content_store.h"
 
 #include <memory>

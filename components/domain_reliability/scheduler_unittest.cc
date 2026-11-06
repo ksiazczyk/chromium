@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler unit tests
+// summary: Tests upload scheduling behavior including delays, retries, retry-after handling, and collector selection.
+// ---
+
 #include "components/domain_reliability/scheduler.h"
 
 #include <stddef.h>

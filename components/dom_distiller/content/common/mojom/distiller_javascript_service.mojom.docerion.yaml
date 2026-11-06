@@ -1,0 +1,4 @@
+# Docerion header of distiller_javascript_service.mojom.
+type: source
+title: DistillerJavaScriptService Mojom interface
+summary: Defines the browser-implemented DistillerJavaScriptService Mojom interface that handles distiller JavaScript calls for opening settings and storing theme and font preferences.

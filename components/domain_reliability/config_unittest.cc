@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Domain Reliability config unit tests
+// summary: Unit tests verifying DomainReliabilityConfig validity rules and JSON parsing of origin, collectors, path prefixes, and sample rates.
+// ---
+
 #include "components/domain_reliability/config.h"
 
 #include <memory>

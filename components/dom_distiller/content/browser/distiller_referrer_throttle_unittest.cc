@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the distiller referrer throttle
+// summary: Unit tests checking that the throttle is added only for distiller-initiated navigations and that it sets the expected referrer URL and policy.
+// ---
+
 #include "components/dom_distiller/content/browser/distiller_referrer_throttle.h"
 
 #include <memory>

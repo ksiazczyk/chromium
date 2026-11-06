@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomDistillerFeatures
+// summary: Utility class defining reader mode feature names and mutable feature flags with safe defaults for the dom_distiller component.
+// ---
+
 package org.chromium.components.dom_distiller.core;
 
 import org.chromium.base.MutableFlagWithSafeDefault;

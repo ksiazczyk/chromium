@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents-based distiller page declarations
+// summary: Declares SourcePageHandleWebContents, the DistillerPageWebContentsFactory, and the DistillerPageWebContents class that loads pages in WebContents for distillation.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_DISTILLER_PAGE_WEB_CONTENTS_H_
 #define COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_DISTILLER_PAGE_WEB_CONTENTS_H_
 

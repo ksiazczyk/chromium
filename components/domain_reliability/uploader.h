@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain reliability report uploader header
+// summary: Declares the uploader interface for sending reports and reporting upload results.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_UPLOADER_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_UPLOADER_H_
 

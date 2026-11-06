@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContents-based distiller page implementation
+// summary: Implements loading and distilling pages in WebContents, including a navigation throttle that blocks redirects for web contents created for distillation viewing.
+// ---
+
 #include "components/dom_distiller/content/browser/distiller_page_web_contents.h"
 
 #include <memory>

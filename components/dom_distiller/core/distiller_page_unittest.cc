@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DistillerPage
+// summary: Tests DistillerPage result parsing and histogram metrics using a mock distiller page that simulates success, failure, and empty outcomes.
+// ---
+
 #include "components/dom_distiller/core/distiller_page.h"
 
 #include <optional>

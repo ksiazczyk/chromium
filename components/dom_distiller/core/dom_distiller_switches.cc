@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller command-line switch constants
+// summary: Defines command-line switch names for enabling the DOM distiller and distillability service plus reader mode heuristics, feedback, and discoverability options.
+// ---
+
 #include "components/dom_distiller/core/dom_distiller_switches.h"
 
 namespace switches {

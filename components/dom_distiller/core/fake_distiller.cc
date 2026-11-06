@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake distiller implementation
+// summary: Implements a fake distiller and mock factory that post configurable distillation callbacks for use in tests.
+// ---
+
 #include "components/dom_distiller/core/fake_distiller.h"
 
 #include <utility>

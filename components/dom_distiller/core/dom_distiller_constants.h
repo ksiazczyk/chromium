@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller constants header
+// summary: Declares the DistillerType enum selecting the distillation technique and external constants for the distiller's chrome UI address and host name.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_CONSTANTS_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_DOM_DISTILLER_CONSTANTS_H_
 

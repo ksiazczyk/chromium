@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the DOM distiller browser library
+summary: Defines the browser static library, unit test and test support targets for the DOM distiller content browser code, including Android-specific sources.

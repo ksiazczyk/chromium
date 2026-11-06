@@ -1,3 +1,9 @@
+---
+type: readme
+title: DOM distiller component overview
+summary: Describes the DOM Distiller prototype for distilling the core of a web page, how to enable it, and the core and webui folder structure.
+---
+
 The DOM Distiller component contains code for an experimental prototype for
 distilling the core part of a web page.
 

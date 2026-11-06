@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for dom_distiller content
+summary: Defines the allowed include dependencies for the dom_distiller content directory, permitting keyed_service, content, ipc, net, and blink web_preferences headers.

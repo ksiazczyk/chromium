@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the distillability driver WebContents helper
+// summary: Declares the DistillabilityDriver WebContentsUserData that tracks the latest distillability result, manages observers, and supports secure-page checks and UMA timing.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_DISTILLABILITY_DRIVER_H_
 #define COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_DISTILLABILITY_DRIVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArticleEntry implementation
+// summary: Implements ArticleEntry default constructors and the IsEntryValid helper that checks for a non-empty entry ID and valid page URLs.
+// ---
+
 #include "components/dom_distiller/core/article_entry.h"
 
 

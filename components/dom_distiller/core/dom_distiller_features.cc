@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller feature flags
+// summary: Implements command-line switch checks and base::Feature declarations for reader mode and distiller features, including Android JNI exposure.
+// ---
+
 #include "components/dom_distiller/core/dom_distiller_features.h"
 
 #include <optional>

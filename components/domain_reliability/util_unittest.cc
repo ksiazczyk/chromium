@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Domain Reliability utility unit tests
+// summary: Unit tests for the MockTime helper, covering time advancement, scheduled tasks, and timer creation, running, stopping, restarting, and reentrant start behavior.
+// ---
+
 #include "components/domain_reliability/util.h"
 
 #include "base/functional/bind.h"

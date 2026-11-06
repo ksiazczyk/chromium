@@ -1,3 +1,9 @@
+---
+type: readme
+title: Domain Reliability
+summary: Explains that the directory implements out-of-band reporting of network errors for Google properties, a precursor to Network Error Logging and Reporting.
+---
+
 # Domain Reliability
 
 This directory contains the implementation of Domain Reliability, which provides

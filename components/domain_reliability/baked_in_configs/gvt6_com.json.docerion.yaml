@@ -1,0 +1,4 @@
+# Docerion header of gvt6_com.json.
+type: config
+title: Domain reliability config for gvt6.com
+summary: Baked-in domain reliability configuration monitoring gvt6.com including subdomains, reporting to shared Google beacon collectors.

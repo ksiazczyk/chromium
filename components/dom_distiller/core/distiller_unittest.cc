@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Distiller
+// summary: Tests multi-page article distillation, including page ordering, image handling, pagination, and incremental updates.
+// ---
+
 #include "components/dom_distiller/core/distiller.h"
 
 #include <stddef.h>

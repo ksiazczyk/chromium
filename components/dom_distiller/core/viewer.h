@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Distilled page viewer interface
+// summary: Declares functions that generate viewer HTML, CSS and JavaScript for themes, fonts, scaling and content updates, plus view request creation.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_VIEWER_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_VIEWER_H_
 

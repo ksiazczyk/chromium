@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability dispatcher implementation
+// summary: Implements the DomainReliabilityDispatcher, which runs scheduled tasks between minimum and maximum delays using mockable timers.
+// ---
+
 #include "components/domain_reliability/dispatcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake distiller declarations
+// summary: Declares FakeDistiller and MockDistillerFactory test doubles that simulate page distillation with controllable callbacks.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CORE_FAKE_DISTILLER_H_
 #define COMPONENTS_DOM_DISTILLER_CORE_FAKE_DISTILLER_H_
 

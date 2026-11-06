@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA helper header
+// summary: Declares UMAHelper with the ReaderModePageType enum and a timer class for logging reader mode usage metrics.
+// ---
+
 #ifndef COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_UMA_HELPER_H_
 #define COMPONENTS_DOM_DISTILLER_CONTENT_BROWSER_UMA_HELPER_H_
 

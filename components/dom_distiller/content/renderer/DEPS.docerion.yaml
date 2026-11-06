@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the renderer directory
+summary: DEPS file listing the include dependencies such as gin, mojo, blink and v8 that are allowed for this directory.

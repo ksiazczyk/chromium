@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DomDistillerService unit tests
+// summary: Unit tests covering URL viewing requests, task tracker reuse across viewers, and distillation callbacks using fake distillers and mock delegates.
+// ---
+
 #include "components/dom_distiller/core/dom_distiller_service.h"
 
 #include <memory>

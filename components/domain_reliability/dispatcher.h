@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Domain Reliability dispatcher header
+// summary: Declares the DomainReliabilityDispatcher class that schedules tasks to run within a delay interval, with early runs for eligible tasks.
+// ---
+
 #ifndef COMPONENTS_DOMAIN_RELIABILITY_DISPATCHER_H_
 #define COMPONENTS_DOMAIN_RELIABILITY_DISPATCHER_H_
 

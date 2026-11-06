@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for DOM distiller browser tests
+// summary: Implements FakeDistilledPage and helpers that configure the embedded test server and serve resources for DOM distiller browser tests.
+// ---
+
 #include "components/dom_distiller/content/browser/test/test_util.h"
 
 #include "base/base_paths.h"
