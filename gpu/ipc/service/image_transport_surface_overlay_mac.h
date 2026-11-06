@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac overlay image transport surface class
+// summary: Declares ImageTransportSurfaceOverlayMacEGL, a gl::Presenter that schedules CALayers and manages swaps, pending swap limits, and vsync presentation on Mac and iOS.
+// ---
+
 #ifndef GPU_IPC_SERVICE_IMAGE_TRANSPORT_SURFACE_OVERLAY_MAC_H_
 #define GPU_IPC_SERVICE_IMAGE_TRANSPORT_SURFACE_OVERLAY_MAC_H_
 

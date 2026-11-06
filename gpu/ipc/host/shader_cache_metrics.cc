@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader cache disk size metrics implementation
+// summary: Records the total on-disk size of a shader cache directory to the GPU.ShaderCache.DiskSize histogram for the given cache name.
+// ---
+
 #include "gpu/ipc/host/shader_cache_metrics.h"
 
 #include <stdint.h>

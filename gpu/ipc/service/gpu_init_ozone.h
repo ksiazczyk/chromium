@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone GPU initialization helper declarations
+// summary: Declares Ozone-specific GPU initialization helper functions and the parameter struct used to set DRM modifiers filters after sandbox entry.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_INIT_OZONE_H_
 #define GPU_IPC_SERVICE_GPU_INIT_OZONE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows DirectComposition texture implementation
+// summary: Implements DCOMPTexture, which proxies a DirectComposition surface and backs it with a shared image for video overlays on Windows.
+// ---
+
 #include "gpu/ipc/service/dcomp_texture_win.h"
 
 #include <string.h>

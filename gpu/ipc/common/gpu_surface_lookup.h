@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU surface lookup interface
+// summary: Declares SurfaceRecord and the GpuSurfaceLookup interface for acquiring Android Java surfaces whose handles cannot be sent through IPC.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_SURFACE_LOOKUP_H_
 #define GPU_IPC_COMMON_GPU_SURFACE_LOOKUP_H_
 

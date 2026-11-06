@@ -1,0 +1,4 @@
+# Docerion header of gpu_peak_memory.mojom.
+type: source
+title: GPU peak memory allocation source Mojom enum
+summary: Mojom definition mirroring the native GpuPeakMemoryAllocationSource enum so allocation sources can be sent over IPC.

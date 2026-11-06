@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU command-line switch definitions
+// summary: Defines the string constants for GPU-related command-line switches covering rasterization, blocklists, shader disk cache, Dawn and WebGPU options.
+// ---
+
 #include "gpu/config/gpu_switches.h"
 
 namespace switches {

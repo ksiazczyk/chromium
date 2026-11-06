@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuChannelSharedImageInterface header
+// summary: Declares the GpuChannelSharedImageInterface class that schedules shared image tasks on GPU channel scheduler sequences.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_CHANNEL_SHARED_IMAGE_INTERFACE_H_
 #define GPU_IPC_SERVICE_GPU_CHANNEL_SHARED_IMAGE_INTERFACE_H_
 

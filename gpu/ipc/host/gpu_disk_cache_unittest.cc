@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU disk cache unit tests
+// summary: Unit tests for GpuDiskCache covering cache creation, blob caching, clearing, size queries, and backend initialization failure handling.
+// ---
+
 #include "gpu/ipc/host/gpu_disk_cache.h"
 
 #include <string>

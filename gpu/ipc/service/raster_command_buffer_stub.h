@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster command buffer stub class header
+// summary: Declares RasterCommandBufferStub, the CommandBufferStub subclass that sets up raster decoder contexts for a GPU channel.
+// ---
+
 #ifndef GPU_IPC_SERVICE_RASTER_COMMAND_BUFFER_STUB_H_
 #define GPU_IPC_SERVICE_RASTER_COMMAND_BUFFER_STUB_H_
 

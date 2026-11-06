@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU driver bug list class header
+// summary: Declares the GpuDriverBugList control list class for creating driver bug lists and merging workarounds from the command line.
+// ---
+
 #ifndef GPU_CONFIG_GPU_DRIVER_BUG_LIST_H_
 #define GPU_CONFIG_GPU_DRIVER_BUG_LIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia cache limits header
+// summary: Declares functions for determining Skia Ganesh and Graphite cache limits and the default limits used in tests.
+// ---
+
 #ifndef GPU_CONFIG_SKIA_LIMITS_H_
 #define GPU_CONFIG_SKIA_LIMITS_H_
 

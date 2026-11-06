@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU channel test common header
+// summary: Declares the GpuChannelTestCommon base fixture with helpers for creating channels and command buffers in tests.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_CHANNEL_TEST_COMMON_H_
 #define GPU_IPC_SERVICE_GPU_CHANNEL_TEST_COMMON_H_
 

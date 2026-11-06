@@ -1,0 +1,4 @@
+# Docerion header of luid.mojom.
+type: source
+title: Luid IPC struct definition
+summary: Defines the gpu.mojom Luid struct mirroring the Windows DXGI LUID for IPC, enabled only on Windows builds.

@@ -1,0 +1,4 @@
+# Docerion header of vulkan_ycbcr_info.mojom.
+type: source
+title: VulkanYCbCrInfo Mojom IPC struct
+summary: Defines the Mojo struct carrying sampler YCbCr conversion parameters that are passed opaquely over IPC.

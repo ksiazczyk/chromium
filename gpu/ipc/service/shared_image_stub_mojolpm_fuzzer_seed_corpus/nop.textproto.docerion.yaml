@@ -1,0 +1,4 @@
+# Docerion header of nop.textproto.
+type: data
+title: Minimal nop fuzzer seed for shared image stub
+summary: Minimal valid fuzzer seed of nop deferred requests that gives libprotobuf-mutator a structurally valid starting point to grow from.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU constants Mojom traits implementation
+// summary: Implements Mojo enum conversions between gpu error, context loss, and command buffer namespace types and their Mojom counterparts.
+// ---
+
 #include "gpu/ipc/common/constants_mojom_traits.h"
 
 #include "base/notreached.h"

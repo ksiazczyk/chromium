@@ -1,0 +1,4 @@
+# Docerion header of gpu_workaround_list.txt.
+type: data
+title: GPU workaround list
+summary: Plain-text list of GPU driver bug workaround names used by the GPU config system and its build tooling.

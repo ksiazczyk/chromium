@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU utility unit tests
+// summary: Unit tests verifying GPU feature info computation, including driver bug workarounds applied from command line switches and feature flags.
+// ---
+
 #include "gpu/config/gpu_util.h"
 
 #include "base/command_line.h"

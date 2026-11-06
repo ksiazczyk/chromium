@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExportedSharedImage mojom traits
+// summary: Declares mojo StructTraits for converting gpu::ExportedSharedImage and SharedImageExportResult between native and mojom types with validation.
+// ---
+
 #ifndef GPU_IPC_COMMON_EXPORTED_SHARED_IMAGE_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_EXPORTED_SHARED_IMAGE_MOJOM_TRAITS_H_
 

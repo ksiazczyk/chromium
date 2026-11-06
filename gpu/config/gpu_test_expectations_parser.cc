@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU test expectations parser implementation
+// summary: Parses GPU test expectation files that map test names and bot configurations to pass, fail, flaky, timeout or skip outcomes.
+// ---
+
 #include "gpu/config/gpu_test_expectations_parser.h"
 
 #include <stddef.h>

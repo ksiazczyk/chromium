@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuPreferences struct and GPU settings enums
+// summary: Defines the GpuPreferences struct and related enums that configure GPU process behavior, such as video decode, Vulkan, WebGPU and Skia backend settings.
+// ---
+
 #ifndef GPU_CONFIG_GPU_PREFERENCES_H_
 #define GPU_CONFIG_GPU_PREFERENCES_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit check for sorted GPU workaround list
+# summary: Presubmit script that fails changes when gpu_workaround_list.txt entries are not alphabetically sorted.
+# ---
+
 """Enforces workaround list is alphabetically sorted.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

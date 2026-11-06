@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deserialization traits for GPU capabilities mojom
+// summary: Implements mojo StructTraits Read functions that convert mojom capability structs into gpu::Capabilities and GLCapabilities objects.
+// ---
+
 #include "gpu/ipc/common/capabilities_mojom_traits.h"
 
 namespace mojo {

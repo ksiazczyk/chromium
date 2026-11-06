@@ -1,0 +1,4 @@
+# Docerion header of gpu_preferences.mojom.
+type: source
+title: GPU preferences Mojom definitions
+summary: Mojom definition of the GpuPreferences struct and related Vulkan, WebGPU, and GrContext enums mirroring gpu::GpuPreferences for IPC.

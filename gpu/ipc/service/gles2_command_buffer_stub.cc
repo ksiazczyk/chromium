@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 command buffer stub implementation
+// summary: Implements the GLES2 command buffer stub, initializing the decoder, context group, and GL context for command buffers on a GPU channel.
+// ---
+
 #include "gpu/ipc/service/gles2_command_buffer_stub.h"
 
 #include <memory>

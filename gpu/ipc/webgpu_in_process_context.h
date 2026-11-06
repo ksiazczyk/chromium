@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU in-process context header
+// summary: Declares WebGPUInProcessContext, which runs client and server side WebGPU command buffer code in process and supports only WebGPUInterface.
+// ---
+
 #ifndef GPU_IPC_WEBGPU_IN_PROCESS_CONTEXT_H_
 #define GPU_IPC_WEBGPU_IN_PROCESS_CONTEXT_H_
 

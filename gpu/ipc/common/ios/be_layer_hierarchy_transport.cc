@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BELayerHierarchyTransport implementation
+// summary: Implements the singleton instance accessors for BELayerHierarchyTransport, storing and returning the process-wide instance used for iOS layer hierarchy transport.
+// ---
+
 #include "gpu/ipc/common/ios/be_layer_hierarchy_transport.h"
 
 #include "base/check.h"

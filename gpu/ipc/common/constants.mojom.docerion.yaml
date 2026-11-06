@@ -1,0 +1,4 @@
+# Docerion header of constants.mojom.
+type: source
+title: GPU IPC Mojom constants
+summary: Defines Mojom enums for command buffer namespaces, errors, and context loss reasons mirroring the GPU command buffer constants.

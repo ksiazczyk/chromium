@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuInit2 class header
+// summary: Declares the GpuInit2 class, an alternative GPU initialization path selected by the kGpuInitOptimization feature, with sandbox startup and initialization step helpers.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_INIT_2_H_
 #define GPU_IPC_SERVICE_GPU_INIT_2_H_
 

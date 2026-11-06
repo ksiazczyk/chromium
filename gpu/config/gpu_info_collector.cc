@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info collector implementation
+// summary: Implements cross-platform GPU info collection by initializing GL surfaces and contexts, querying GL strings, ANGLE features, and Dawn adapter information.
+// ---
+
 #include "gpu/config/gpu_info_collector.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone platform GPU initialization helpers
+// summary: Implements Ozone-specific GPU init helpers that initialize the Ozone platform for the GPU process, query native pixmap support and set DRM modifiers filters for Vulkan and Dawn.
+// ---
+
 #include "gpu/ipc/service/gpu_init_ozone.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command buffer stub implementation
+// summary: Implements CommandBufferStub, the GPU-service-side base for command buffers, handling IPC, scheduling, memory tracking, swap results, and DevTools trace data.
+// ---
+
 #include "gpu/ipc/service/command_buffer_stub.h"
 
 #include <utility>

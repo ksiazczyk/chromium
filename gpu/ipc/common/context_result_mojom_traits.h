@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context result Mojom traits
+// summary: Declares Mojo EnumTraits converting gpu::ContextResult to and from its Mojom representation for GPU IPC.
+// ---
+
 #ifndef GPU_IPC_COMMON_CONTEXT_RESULT_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_CONTEXT_RESULT_MOJOM_TRAITS_H_
 

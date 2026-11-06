@@ -1,0 +1,4 @@
+# Docerion header of software_rendering_list.json.
+type: data
+title: Software rendering blocklist
+summary: JSON entries that blocklist GPU features for specific hardware, driver, and OS combinations known to be buggy or crash-prone.

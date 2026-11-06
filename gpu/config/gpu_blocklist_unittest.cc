@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuBlocklist unit tests
+// summary: Verifies that the GPU blocklist flags each supported feature for a matching NVIDIA test GPU configuration.
+// ---
+
 #include <vector>
 
 #include "gpu/config/gpu_blocklist.h"

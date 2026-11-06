@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GPU channel header
+// summary: Declares a gmock MockGpuChannel stubbing the mojom::GpuChannel IPC interface, including Windows, Android and Fuchsia-specific methods.
+// ---
+
 #ifndef GPU_IPC_COMMON_MOCK_GPU_CHANNEL_H_
 #define GPU_IPC_COMMON_MOCK_GPU_CHANNEL_H_
 

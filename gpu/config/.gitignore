@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for generated GPU lists version header
+# summary: Keeps the generated gpu_lists_version.h build output out of version control.
+# ---
+
 /gpu_lists_version.h

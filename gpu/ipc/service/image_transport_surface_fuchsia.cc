@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia image transport surface factory
+// summary: Implements ImageTransportSurface on Fuchsia, returning stub surfaces for mock GL implementations and view GL surfaces otherwise.
+// ---
+
 #include "gpu/ipc/service/image_transport_surface.h"
 
 #include "ui/gl/gl_surface.h"

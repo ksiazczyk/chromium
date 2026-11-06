@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferProxyImpl class declaration
+// summary: Declares the client-side proxy that forwards messages synchronously to a CommandBufferStub, implementing the CommandBuffer and GpuControl interfaces.
+// ---
+
 #ifndef GPU_IPC_CLIENT_COMMAND_BUFFER_PROXY_IMPL_H_
 #define GPU_IPC_CLIENT_COMMAND_BUFFER_PROXY_IMPL_H_
 

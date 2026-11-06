@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command buffer trace ID utility
+// summary: Header with an inline helper that combines a GPU channel ID and local flush ID into a global flush tracing ID.
+// ---
+
 #ifndef GPU_IPC_COMMON_COMMAND_BUFFER_TRACE_UTILS_H_
 #define GPU_IPC_COMMON_COMMAND_BUFFER_TRACE_UTILS_H_
 

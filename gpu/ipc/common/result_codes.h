@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU result codes
+// summary: Defines the gpu::ResultCode enum with a hung-process code matching content's RESULT_CODE_HUNG.
+// ---
+
 #ifndef GPU_IPC_COMMON_RESULT_CODES_H_
 #define GPU_IPC_COMMON_RESULT_CODES_H_
 

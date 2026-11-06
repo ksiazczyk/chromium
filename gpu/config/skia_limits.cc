@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia cache limits implementation
+// summary: Computes Ganesh resource and glyph cache limits from device memory plus Graphite image provider cache limits for the GPU main thread and viz compositor.
+// ---
+
 #include "gpu/config/skia_limits.h"
 
 #include <inttypes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU test expectations parser interface
+// summary: Declares the parser that loads GPU test expectations and queries the expected result for a given test and bot configuration.
+// ---
+
 #ifndef GPU_CONFIG_GPU_TEST_EXPECTATIONS_PARSER_H_
 #define GPU_CONFIG_GPU_TEST_EXPECTATIONS_PARSER_H_
 

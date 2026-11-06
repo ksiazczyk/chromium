@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU feature info Mojo traits implementation
+// summary: Implements StructTraits reading of GpuFeatureInfo from Mojom, validating GPU blocklist and driver bug list entry indices during deserialization.
+// ---
+
 #include "gpu/ipc/common/gpu_feature_info_mojom_traits.h"
 
 #include <algorithm>

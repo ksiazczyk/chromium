@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for in-process GL context components
+summary: Defines GN build components for the in-process GL context and GPU thread holder, listing test-only sources, defines and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSharedImageInterface implementation
+// summary: Implements the client-side SharedImageInterface that tracks created shared images and forwards creation, update, and sync token operations to the SharedImageInterfaceProxy.
+// ---
+
 #include "gpu/ipc/client/client_shared_image_interface.h"
 
 #include "build/build_config.h"

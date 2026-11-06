@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSharedImageInterface class declaration
+// summary: Declares the client-side shared image interface that tracks shared images created by a single context and ensures they are deleted when the context is lost.
+// ---
+
 #ifndef GPU_IPC_CLIENT_CLIENT_SHARED_IMAGE_INTERFACE_H_
 #define GPU_IPC_CLIENT_CLIENT_SHARED_IMAGE_INTERFACE_H_
 

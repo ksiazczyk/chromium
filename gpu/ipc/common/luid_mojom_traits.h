@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Luid Mojo traits declaration
+// summary: Declares Mojo StructTraits mapping CHROME_LUID high and low parts to and from the Luid IPC message struct.
+// ---
+
 #ifndef GPU_IPC_COMMON_LUID_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_LUID_MOJOM_TRAITS_H_
 

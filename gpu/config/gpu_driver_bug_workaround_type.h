@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU driver bug workaround type enum
+// summary: Defines the GpuDriverBugWorkaroundType enum enumerating all GPU driver bug workarounds plus a type-to-string conversion helper.
+// ---
+
 #ifndef GPU_CONFIG_GPU_DRIVER_BUG_WORKAROUND_TYPE_H_
 #define GPU_CONFIG_GPU_DRIVER_BUG_WORKAROUND_TYPE_H_
 

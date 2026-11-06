@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for gpu/ipc/service
+summary: Defines DEPS include rules restricting which headers the GPU IPC service sources may use, with per-file exceptions for specific implementations and tests.

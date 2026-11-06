@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU control list entry unit tests
+// summary: Unit tests verifying that individual GPU control list entries parse and match sample GPU info by OS, vendor, and driver conditions.
+// ---
+
 #include <stddef.h>
 
 #include "build/build_config.h"

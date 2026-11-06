@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info structure definitions
+// summary: Declares the GPUInfo structure with GPU device details, Intel GPU series types, video codec profiles, and overlay information for the running system.
+// ---
+
 #ifndef GPU_CONFIG_GPU_INFO_H_
 #define GPU_CONFIG_GPU_INFO_H_
 

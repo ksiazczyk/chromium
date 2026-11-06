@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU peak memory allocation source enum
+// summary: Defines the GpuPeakMemoryAllocationSource enum listing GPU memory allocation sources and a helper returning their display names.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_PEAK_MEMORY_H_
 #define GPU_IPC_COMMON_GPU_PEAK_MEMORY_H_
 

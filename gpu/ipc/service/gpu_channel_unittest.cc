@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuChannel unit tests
+// summary: Tests GpuChannel offscreen command buffer creation and failure behavior during context-loss shutdown.
+// ---
+
 #include "gpu/ipc/service/gpu_channel.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPUInfo enumerator unit tests
+// summary: Tests GPUInfo field enumeration behavior, checking that enumerator state flags are inactive after EnumerateFields is called.
+// ---
+
 #include "gpu/config/gpu_info.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

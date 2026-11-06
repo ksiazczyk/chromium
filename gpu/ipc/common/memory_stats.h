@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video memory usage stats types
+// summary: Declares VideoMemoryUsageStats describing per-process GPU memory consumption and total bytes allocated, sent over IPC.
+// ---
+
 #ifndef GPU_IPC_COMMON_MEMORY_STATS_H_
 #define GPU_IPC_COMMON_MEMORY_STATS_H_
 

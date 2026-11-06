@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster in-process context implementation
+// summary: Implements RasterInProcessContext, which runs client and service raster command buffer code in process and exposes raster interfaces for tests.
+// ---
+
 #include "gpu/ipc/raster_in_process_context.h"
 
 #include <utility>

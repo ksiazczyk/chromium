@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for gpu/ipc/host
+summary: Grants the gpu/ipc/host directory permission to include headers from the net component.

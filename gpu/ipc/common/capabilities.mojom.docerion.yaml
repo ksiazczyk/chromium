@@ -1,0 +1,4 @@
+# Docerion header of capabilities.mojom.
+type: source
+title: Mojom definitions for GPU capabilities
+summary: Defines mojom structs mirroring gpu::Capabilities and GLCapabilities, including shader precision, texture limits and DRM format fields, for IPC.

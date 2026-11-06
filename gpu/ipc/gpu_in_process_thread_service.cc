@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuInProcessThreadService implementation
+// summary: Implements the in-process GPU service as a CommandBufferTaskExecutor, creating scheduler sequences and scheduling tasks on a single-thread task runner.
+// ---
+
 #include "gpu/ipc/gpu_in_process_thread_service.h"
 
 #include <utility>

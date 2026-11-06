@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSharedImageInterface class declaration
+// summary: Declares ArcSharedImageInterface, a SharedImageInterface used by ArcVideoEncodeAccelerator to create mappable SharedImages from ARC GpuMemoryBufferHandles.
+// ---
+
 #ifndef GPU_IPC_SERVICE_ARC_SHARED_IMAGE_INTERFACE_H_
 #define GPU_IPC_SERVICE_ARC_SHARED_IMAGE_INTERFACE_H_
 

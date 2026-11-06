@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shader cache disk size metrics unit tests
+// summary: Unit tests verifying that shader cache disk size metrics include subdirectory files and that missing directories record no samples.
+// ---
+
 #include "gpu/ipc/host/shader_cache_metrics.h"
 
 #include <string>

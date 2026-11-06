@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android image transport surface factory
+// summary: Implements ImageTransportSurface on Android, creating presenters and native GL surfaces from Java surfaces acquired via GpuSurfaceLookup, including EGL SurfaceControl support.
+// ---
+
 #include "gpu/ipc/service/image_transport_surface.h"
 
 #include <android/native_window_jni.h>

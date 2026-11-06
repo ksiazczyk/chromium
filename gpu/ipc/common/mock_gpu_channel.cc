@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GPU channel implementation
+// summary: Provides the constructor and destructor for the MockGpuChannel test double.
+// ---
+
 #include "gpu/ipc/common/mock_gpu_channel.h"
 
 namespace gpu {

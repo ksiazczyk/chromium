@@ -1,0 +1,4 @@
+# Docerion header of shared_image_pool_id.mojom.
+type: source
+title: SharedImagePoolId mojom definition
+summary: Mojom struct wrapping SharedImagePoolId as an unguessable token for IPC serialization, matching gpu/command_buffer/common/shared_image_pool_id.h.

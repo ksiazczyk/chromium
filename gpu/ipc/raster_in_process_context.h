@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster in-process context header
+// summary: Declares RasterInProcessContext, which runs client and server side raster command buffer code in process and supports only RasterInterface.
+// ---
+
 #ifndef GPU_IPC_RASTER_IN_PROCESS_CONTEXT_H_
 #define GPU_IPC_RASTER_IN_PROCESS_CONTEXT_H_
 

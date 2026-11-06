@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevicePerfInfo struct and Intel GPU generation enums
+// summary: Declares DevicePerfInfo with memory, disk, and GPU fields plus enums for Intel GPU generations and discrete GPU presence.
+// ---
+
 #ifndef GPU_CONFIG_DEVICE_PERF_INFO_H_
 #define GPU_CONFIG_DEVICE_PERF_INFO_H_
 

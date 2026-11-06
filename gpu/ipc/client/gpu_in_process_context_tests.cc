@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process GPU context test base
+// summary: Defines ContextTestBase that creates an in-process GL context and includes the shared GPU context tests.
+// ---
+
 #include <stdio.h>
 
 #include <cmath>

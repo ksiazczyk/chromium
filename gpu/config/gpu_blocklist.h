@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuBlocklist class declaration
+// summary: Declares the GpuBlocklist subclass of GpuControlList used to decide blocked GPU features.
+// ---
+
 #ifndef GPU_CONFIG_GPU_BLOCKLIST_H_
 #define GPU_CONFIG_GPU_BLOCKLIST_H_
 

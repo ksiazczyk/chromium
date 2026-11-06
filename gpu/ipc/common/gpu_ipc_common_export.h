@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU IPC common export macros
+// summary: Defines the GPU_IPC_COMMON_EXPORT macro controlling symbol visibility and export for the gpu_ipc_common component across build configurations.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_IPC_COMMON_EXPORT_H_
 #define GPU_IPC_COMMON_GPU_IPC_COMMON_EXPORT_H_
 

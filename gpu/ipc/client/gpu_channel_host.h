@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuChannelHost class declaration
+// summary: Declares GpuChannelHost, which encapsulates the IPC channel between the client and one GPU process, along with its builder and channel establishment factory.
+// ---
+
 #ifndef GPU_IPC_CLIENT_GPU_CHANNEL_HOST_H_
 #define GPU_IPC_CLIENT_GPU_CHANNEL_HOST_H_
 

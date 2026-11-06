@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU watchdog thread unit tests
+// summary: Unit tests for the GPU watchdog thread covering timeout kills, progress reporting, power state transitions and platform-specific slow machine configurations.
+// ---
+
 #include "gpu/ipc/service/gpu_watchdog_thread.h"
 
 #include <memory>

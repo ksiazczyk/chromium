@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GPU IPC common build targets
+summary: Defines GN source sets and mojom targets for the GPU IPC common directory, including platform-specific sources for Windows, Android and iOS.

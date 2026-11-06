@@ -1,0 +1,4 @@
+# Docerion header of gpu_control_list_testing.json.
+type: data
+title: GPU control list test entries
+summary: JSON entries covering GPU control list matching scenarios such as OS type, vendor, GL version, and multi-GPU styles for unit tests.

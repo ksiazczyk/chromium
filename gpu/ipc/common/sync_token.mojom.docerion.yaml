@@ -1,0 +1,4 @@
+# Docerion header of sync_token.mojom.
+type: source
+title: SyncToken Mojom IPC struct
+summary: Defines the Mojo IPC struct for GPU sync tokens, mirroring gpu/command_buffer/common/sync_token.h.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows GPU initialization helpers
+// summary: Implements Windows-specific GPU initialization such as preloading SwiftShader and DXC DLLs, DirectComposition setup, overlay settings and optional ANGLE debug layer enablement.
+// ---
+
 #include "gpu/ipc/service/gpu_init_win.h"
 
 #include "base/base_paths.h"

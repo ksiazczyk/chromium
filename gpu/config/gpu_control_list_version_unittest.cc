@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU control list version comparison tests
+// summary: Tests version containment and comparison across numerical, lexical, date, and Intel and Nvidia driver version schemas.
+// ---
+
 #include <stddef.h>
 
 #include "gpu/config/gpu_control_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextUrl wrapper declaration
+// summary: Declares ContextUrl, a GURL wrapper identifying a context, with a static setter for the active URL crash key on the GPU main thread.
+// ---
+
 #ifndef GPU_IPC_SERVICE_CONTEXT_URL_H_
 #define GPU_IPC_SERVICE_CONTEXT_URL_H_
 

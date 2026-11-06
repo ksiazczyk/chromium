@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info collector for Windows
+// summary: Windows implementation that gathers GPU info through D3D11, DXGI, and D3D12, logging feature level and shader model histograms.
+// ---
+
 #include "gpu/config/gpu_info_collector.h"
 
 // C system before C++ system.

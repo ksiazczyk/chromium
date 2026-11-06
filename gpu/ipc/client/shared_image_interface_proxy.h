@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageInterfaceProxy class declaration
+// summary: Declares the proxy that manages shared images over GPU channel IPCs, including mailbox references and sync token handling.
+// ---
+
 #ifndef GPU_IPC_CLIENT_SHARED_IMAGE_INTERFACE_PROXY_H_
 #define GPU_IPC_CLIENT_SHARED_IMAGE_INTERFACE_PROXY_H_
 

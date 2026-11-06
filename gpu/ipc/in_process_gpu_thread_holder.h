@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process GPU thread holder for tests
+// summary: Declares InProcessGpuThreadHolder, a test-only class that starts a GPU thread and task executor with default GpuPreferences and GpuFeatureInfo.
+// ---
+
 #ifndef GPU_IPC_IN_PROCESS_GPU_THREAD_HOLDER_H_
 #define GPU_IPC_IN_PROCESS_GPU_THREAD_HOLDER_H_
 

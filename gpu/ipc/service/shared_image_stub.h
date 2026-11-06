@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image stub class header
+// summary: Declares SharedImageStub, which owns a per-channel SharedImageFactory and handles deferred shared image requests over the GPU channel.
+// ---
+
 #ifndef GPU_IPC_SERVICE_SHARED_IMAGE_STUB_H_
 #define GPU_IPC_SERVICE_SHARED_IMAGE_STUB_H_
 

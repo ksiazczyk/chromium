@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC shared image interface implementation
+// summary: Implements ArcSharedImageInterface, creating and destroying mappable shared images for ARC video encoding on the GPU thread via a SharedImageFactory.
+// ---
+
 #include "gpu/ipc/service/arc_shared_image_interface.h"
 
 #include "base/notimplemented.h"

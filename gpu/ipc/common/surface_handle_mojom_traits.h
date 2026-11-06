@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface handle mojom traits
+// summary: Mojo StructTraits header converting gpu::SurfaceHandle to and from its uint64 mojom representation, with reinterpret handling on Windows.
+// ---
+
 #ifndef GPU_IPC_COMMON_SURFACE_HANDLE_MOJOM_TRAITS_H_
 #define GPU_IPC_COMMON_SURFACE_HANDLE_MOJOM_TRAITS_H_
 

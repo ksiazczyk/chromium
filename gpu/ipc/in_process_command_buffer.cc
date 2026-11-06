@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProcessCommandBuffer implementation
+// summary: Implements the thread-safe in-process command buffer that drives the GPU service in single-process mode, including GPU-thread initialization and client command buffer operations.
+// ---
+
 #include "gpu/ipc/in_process_command_buffer.h"
 
 #include <stddef.h>

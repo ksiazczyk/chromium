@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU watchdog thread class header
+// summary: Declares the GpuWatchdogThread class and its UMA event enums for monitoring watched GPU message loops and terminating the GPU process when they hang.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_WATCHDOG_THREAD_H_
 #define GPU_IPC_SERVICE_GPU_WATCHDOG_THREAD_H_
 

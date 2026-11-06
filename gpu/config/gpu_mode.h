@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuMode enum
+// summary: Header defining the GpuMode enum describing what the GPU process runs for, such as hardware GL, Vulkan, Graphite, or software WebGL.
+// ---
+
 #ifndef GPU_CONFIG_GPU_MODE_H_
 #define GPU_CONFIG_GPU_MODE_H_
 

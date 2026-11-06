@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the gpu config component
+summary: Defines the config component sources and build actions that generate GPU blocklist and workaround headers from JSON data.

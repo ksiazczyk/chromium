@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU channel test common helpers
+// summary: Provides the GpuChannelTestCommon fixture and a stub delegate used to set up scheduler, shared image, and channel manager state for GPU channel tests.
+// ---
+
 #include "gpu/ipc/service/gpu_channel_test_common.h"
 
 #include <memory>

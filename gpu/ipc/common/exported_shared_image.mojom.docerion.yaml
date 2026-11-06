@@ -1,0 +1,4 @@
+# Docerion header of exported_shared_image.mojom.
+type: source
+title: ExportedSharedImage mojom definitions
+summary: Defines mojom structs for exported shared images, carrying mailbox, metadata, sync tokens, and optional GPU memory buffer handle.

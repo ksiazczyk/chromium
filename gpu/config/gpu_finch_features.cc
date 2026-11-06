@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU Finch features implementation
+// summary: Implements GPU-related base::Feature definitions and field trial parameters, including Skia Graphite feature params and platform-specific GPU behavior.
+// ---
+
 #include "gpu/config/gpu_finch_features.h"
 
 #include <string_view>

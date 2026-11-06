@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU preferences implementation
+// summary: Implements GpuPreferences helpers including default GPU disk cache size, Skia backend type strings, and base64 serialization to and from switch values.
+// ---
+
 #include "gpu/config/gpu_preferences.h"
 
 #include <string_view>

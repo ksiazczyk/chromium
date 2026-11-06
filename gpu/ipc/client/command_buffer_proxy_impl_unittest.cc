@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommandBufferProxyImpl unit tests
+// summary: Unit tests for CommandBufferProxyImpl using a mock GPU channel, covering feature-flag combinations for flush skipping and sync point validation.
+// ---
+
 #include "gpu/ipc/client/command_buffer_proxy_impl.h"
 
 #include <limits>

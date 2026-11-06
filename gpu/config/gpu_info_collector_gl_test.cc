@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU info collector GL test
+// summary: Verifies that collecting Dawn info for the OpenGLES backend does not change the current EGL context.
+// ---
+
 #include <vector>
 
 #include "gpu/config/gpu_info_collector.h"

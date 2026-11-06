@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU disk cache implementation
+// summary: Implements the GPU process on-disk cache for shader and Dawn blobs, including entry write, read, and clear helpers plus disk size metric reporting.
+// ---
+
 #include "gpu/ipc/host/gpu_disk_cache.h"
 
 #include <string>

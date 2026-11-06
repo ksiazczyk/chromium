@@ -1,0 +1,4 @@
+# Docerion header of context_type.mojom.
+type: source
+title: Context type Mojom enum
+summary: Defines the Mojom ContextType enum covering WebGL1, WebGL2, and OpenGL ES 2 context types for GPU IPC.

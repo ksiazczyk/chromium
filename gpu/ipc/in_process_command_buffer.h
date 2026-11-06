@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProcessCommandBuffer class declaration
+// summary: Declares InProcessCommandBuffer, a thread-safe interface to the global GPU service for single-process mode, implementing CommandBuffer, GpuControl and decoder client interfaces.
+// ---
+
 #ifndef GPU_IPC_IN_PROCESS_COMMAND_BUFFER_H_
 #define GPU_IPC_IN_PROCESS_COMMAND_BUFFER_H_
 

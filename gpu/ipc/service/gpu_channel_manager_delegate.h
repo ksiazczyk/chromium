@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuChannelManagerDelegate interface
+// summary: Abstract delegate interface that exposes GPU service events such as context loss, channel destruction, and shader disk caching to embedders.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_CHANNEL_MANAGER_DELEGATE_H_
 #define GPU_IPC_SERVICE_GPU_CHANNEL_MANAGER_DELEGATE_H_
 

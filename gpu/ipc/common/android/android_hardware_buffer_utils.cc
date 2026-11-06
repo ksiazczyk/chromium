@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Hardware Buffer utilities implementation
+// summary: Implements creation of Android AHardwareBuffers, mapping Chromium shared image formats and buffer usages to AHardwareBuffer descriptors and returning a scoped handle.
+// ---
+
 #include "gpu/ipc/common/android/android_hardware_buffer_utils.h"
 
 #include <android/hardware_buffer.h>

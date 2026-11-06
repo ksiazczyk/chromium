@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuInProcessThreadService class declaration
+// summary: Declares GpuInProcessThreadService and its delegate, the default CommandBufferTaskExecutor used by Mus and unit tests.
+// ---
+
 #ifndef GPU_IPC_GPU_IN_PROCESS_THREAD_SERVICE_H_
 #define GPU_IPC_GPU_IN_PROCESS_THREAD_SERVICE_H_
 

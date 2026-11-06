@@ -1,0 +1,4 @@
+# Docerion header of memory_stats.mojom.
+type: source
+title: Video memory usage stats IPC definition
+summary: Defines Mojo structs for per-process video memory statistics and total allocated bytes exchanged over IPC.

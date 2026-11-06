@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dawn texture solid color pool unit tests
+// summary: Unit tests for DawnTextureSolidColorPool using D3D12, DirectComposition, and Dawn mocks to exercise entry creation, filling, and fence handling.
+// ---
+
 #include "gpu/ipc/service/dawn_texture_solid_color_pool.h"
 
 #include <memory>

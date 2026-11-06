@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux image transport surface factory
+// summary: Implements ImageTransportSurface on Linux, creating surfaceless view GL surfaces under Ozone and regular view GL surfaces otherwise.
+// ---
+
 #include "gpu/ipc/service/image_transport_surface.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLInProcessContext implementation
+// summary: Implements GLInProcessContext by initializing an in-process command buffer, GLES2 command helper, transfer buffer and GLES2 implementation.
+// ---
+
 #include "gpu/ipc/gl_in_process_context.h"
 
 #include <GLES2/gl2.h>

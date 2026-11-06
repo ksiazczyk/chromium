@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU surface tracker implementation
+// summary: Implements a thread-safe singleton registry that assigns handles to native widget surfaces and serves Java surface records on Android.
+// ---
+
 #include "gpu/ipc/common/gpu_surface_tracker.h"
 
 #include <utility>

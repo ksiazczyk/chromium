@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for gpu IPC common
+summary: Specifies allowed header includes for the directory, with extra per-file rules for DXGI helpers and shared image mojom traits headers.

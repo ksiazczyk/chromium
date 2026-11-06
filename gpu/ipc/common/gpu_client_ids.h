@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reserved GPU client IDs
+// summary: Defines constants for reserved GPU client IDs such as the display compositor and shader cache clients.
+// ---
+
 #ifndef GPU_IPC_COMMON_GPU_CLIENT_IDS_H_
 #define GPU_IPC_COMMON_GPU_CLIENT_IDS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuInit interface for GPU process startup
+// summary: Declares the GpuInit interface, sandbox helper, and legacy implementation that expose GPU initialization state to consumers such as VizMainImpl.
+// ---
+
 #ifndef GPU_IPC_SERVICE_GPU_INIT_H_
 #define GPU_IPC_SERVICE_GPU_INIT_H_
 

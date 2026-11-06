@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU info collector API
+// summary: Declares functions for collecting basic and context graphics info, identifying the active GPU, and gathering DirectX, overlay, and Dawn details.
+// ---
+
 #ifndef GPU_CONFIG_GPU_INFO_COLLECTOR_H_
 #define GPU_CONFIG_GPU_INFO_COLLECTOR_H_
 

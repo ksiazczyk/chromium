@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GPU info collector
+// summary: Implements Android-specific GPU info collection, filling GPUInfo from ANGLE system info and GL graphics info with the device model name.
+// ---
+
 #include "gpu/config/gpu_info_collector.h"
 
 #include <stddef.h>
