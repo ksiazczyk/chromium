@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseProxyTabHelper class declaration
+// summary: Declares a per-tab WebContentsObserver that tracks navigation IDs for enterprise proxy authentication challenges, with a Delegate interface for sign-in handling.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CONTENT_ENTERPRISE_PROXY_TAB_HELPER_H_
 #define COMPONENTS_ENTERPRISE_NET_CONTENT_ENTERPRISE_PROXY_TAB_HELPER_H_
 

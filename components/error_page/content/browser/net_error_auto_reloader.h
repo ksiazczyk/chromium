@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetErrorAutoReloader class declaration
+// summary: Declares the NetErrorAutoReloader class, a WebContents user data helper that schedules auto-reloads of network error pages and reacts to connection changes.
+// ---
+
 #ifndef COMPONENTS_ERROR_PAGE_CONTENT_BROWSER_NET_ERROR_AUTO_RELOADER_H_
 #define COMPONENTS_ERROR_PAGE_CONTENT_BROWSER_NET_ERROR_AUTO_RELOADER_H_
 

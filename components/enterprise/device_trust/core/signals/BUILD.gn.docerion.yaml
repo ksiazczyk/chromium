@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for device trust signals
+summary: Defines GN build targets for the device trust signals source set, its test support mocks, and its unit tests, with dependencies on base, metrics, and decorator test support.

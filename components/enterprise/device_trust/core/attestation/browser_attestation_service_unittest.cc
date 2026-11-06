@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser attestation service unit tests
+// summary: Unit tests for the browser attestation service, using sample Verified Access v2 challenges and a mock attester to verify challenge parsing and response building.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/browser_attestation_service.h"
 
 #include "base/base64.h"

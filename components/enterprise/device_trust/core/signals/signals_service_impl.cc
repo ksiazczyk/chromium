@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsServiceImpl implementation
+// summary: Implements the signals service that collects device signals through decorators, filters the results, and logs collection latency before invoking the callback.
+// ---
+
 #include "components/enterprise/device_trust/core/signals/signals_service_impl.h"
 
 #include <memory>

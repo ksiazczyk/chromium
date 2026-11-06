@@ -1,3 +1,13 @@
+---
+type: readme
+title: How to obfuscate new dino game art before a surprise launch
+summary: Explains how to generate a secret key, obfuscate dino game art into alt_game_images.cc, debug it with the NetErrorAltGameMode feature, and reveal the art at launch via a feature param.
+relations:
+  - documents /components/error_page/common/alt_game_images/generate_key.py
+  - documents /components/error_page/common/alt_game_images/create_alt_game_images_cc.py
+  - references /components/error_page/common/localized_error.cc
+---
+
 # How to obfuscate new dino game art before a surprise launch
 
 The tools in this directory make it possible to add art to the dino game but

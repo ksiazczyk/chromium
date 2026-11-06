@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature flag definitions for Enterprise Isolated Mode
+// summary: Defines the base features for Enterprise Isolated Mode and Milestone 2, plus a helper reporting whether CAA is enabled in Isolated Mode.
+// ---
+
 #include "components/enterprise/isolated_mode/isolated_mode_features.h"
 
 namespace enterprise_isolated_mode {

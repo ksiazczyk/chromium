@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the encryption component
+summary: Defines the shared Buganizer component ID and team email address applied to the encryption component directory.

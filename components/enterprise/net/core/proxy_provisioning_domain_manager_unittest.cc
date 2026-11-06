@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyProvisioningDomainManager unit tests
+// summary: Unit tests for the provisioning domain manager, exercising refresh flows, state transitions, expiration timers, observers, and proxy-match configurations.
+// ---
+
 #include "components/enterprise/net/core/proxy_provisioning_domain_manager.h"
 
 #include <memory>

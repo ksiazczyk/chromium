@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download obfuscator unit tests
+// summary: Unit tests verifying chunk obfuscation, deobfuscation, overhead calculation, hash verification, and disabled-feature behavior of the download obfuscator.
+// ---
+
 #include "components/enterprise/obfuscation/core/download_obfuscator.h"
 
 #include <optional>

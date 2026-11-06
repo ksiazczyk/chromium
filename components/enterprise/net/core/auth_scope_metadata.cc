@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth scope metadata implementation
+// summary: Implements lookup of auth scope metadata and validation of destination URLs allowed to receive OAuth tokens, including feature-parameter domains on non-stable channels.
+// ---
+
 #include "components/enterprise/net/core/auth_scope_metadata.h"
 
 #include <memory>

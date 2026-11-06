@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Idle timeout metrics enum value tests
+// summary: Unit tests verifying that the idle timeout metrics enum values for timeout case, dialog events, and launch screen events remain unchanged.
+// ---
+
 #include "components/enterprise/idle/metrics.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

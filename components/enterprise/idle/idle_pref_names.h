@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout preference name declarations
+// summary: Declares the idle timeout preference name constants shared across the component.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_IDLE_IDLE_PREF_NAMES_H_
 #define COMPONENTS_ENTERPRISE_IDLE_IDLE_PREF_NAMES_H_
 

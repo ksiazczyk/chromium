@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped extra allowed domains for testing helper
+// summary: RAII helper that temporarily allows extra destination domains, such as mock test servers, to receive OAuth tokens during testing.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_SCOPED_EXTRA_ALLOWED_DOMAINS_FOR_TESTING_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_SCOPED_EXTRA_ALLOWED_DOMAINS_FOR_TESTING_H_
 

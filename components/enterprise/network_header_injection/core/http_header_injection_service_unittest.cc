@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HTTP header injection service
+// summary: Unit tests covering the initially empty state, loading rules from preferences at startup and dynamic rule updates when the policy preference changes.
+// ---
+
 #include "components/enterprise/network_header_injection/core/http_header_injection_service.h"
 
 #include <memory>

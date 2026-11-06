@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout metrics recording implementation
+// summary: Implements UMA histogram recording for enterprise idle timeout actions, covering action time taken, timeout case, action success, and dialog and launch screen events.
+// ---
+
 #include "components/enterprise/idle/metrics.h"
 
 #include "base/metrics/histogram_functions.h"

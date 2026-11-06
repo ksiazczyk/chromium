@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error class interface for error pages
+// summary: Declares the Error value class that carries url, domain, reason codes, resolve error info, and stale cache state for error pages.
+// ---
+
 #ifndef COMPONENTS_ERROR_PAGE_COMMON_ERROR_H_
 #define COMPONENTS_ERROR_PAGE_COMMON_ERROR_H_
 

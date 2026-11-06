@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device trust BUILD.gn build definition
+summary: Defines the device_trust source_set with the prefs sources and dependencies on base and components/prefs.

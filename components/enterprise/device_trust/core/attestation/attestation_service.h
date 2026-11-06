@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationService interface
+// summary: Declares the AttestationService interface for building challenge responses that enable the handshake between Chrome, an IdP, and Verified Access.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_ATTESTATION_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_ATTESTATION_SERVICE_H_
 

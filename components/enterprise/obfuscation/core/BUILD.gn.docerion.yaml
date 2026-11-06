@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise obfuscation build targets
+summary: Defines the enterprise_obfuscation component and its unit test source set, listing the obfuscation sources and their base, crypto, and test dependencies.

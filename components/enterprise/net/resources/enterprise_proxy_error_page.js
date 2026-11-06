@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy error page behavior script
+// summary: JavaScript that classifies the error category, wires the primary button to go back or open sign-in, and sends commands to the native iOS interstitial handler.
+// ---
+
 // Should match enterprise_net::EnterpriseProxyErrorData::ErrorCategory.
 const EnterpriseProxyErrorCategory = {
   AUTHENTICATION: '0',

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain type implementations
+// summary: Implements constructors and equality operators for proxy auth, extra header, and provisioning domain configuration structs.
+// ---
+
 #include "components/enterprise/net/core/types.h"
 
 #include <utility>

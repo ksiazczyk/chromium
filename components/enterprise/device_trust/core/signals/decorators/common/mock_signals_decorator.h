@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSignalsDecorator class
+// summary: Declares a gmock mock of the SignalsDecorator interface that stubs the Decorate call for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_DECORATORS_COMMON_MOCK_SIGNALS_DECORATOR_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_DECORATORS_COMMON_MOCK_SIGNALS_DECORATOR_H_
 

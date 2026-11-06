@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Isolated Mode settings service
+// summary: Tests how the service evaluates the feature flag, policy pref, and command-line switch across channels, including that pref changes after startup are ignored.
+// ---
+
 #include "components/enterprise/isolated_mode/isolated_mode_settings_service.h"
 
 #include "base/command_line.h"

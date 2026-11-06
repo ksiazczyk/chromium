@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google keys header
+// summary: Declares the GoogleKeys class that manages the Verified Access signing and encryption public keys together with their key IDs.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_GOOGLE_KEYS_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_GOOGLE_KEYS_H_
 

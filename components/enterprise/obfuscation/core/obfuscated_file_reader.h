@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obfuscated file reader class declaration
+// summary: Declares ObfuscatedFileReader, which reads and deobfuscates obfuscated files with seek operations and on-demand chunk deobfuscation.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_OBFUSCATION_CORE_OBFUSCATED_FILE_READER_H_
 #define COMPONENTS_ENTERPRISE_OBFUSCATION_CORE_OBFUSCATED_FILE_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download obfuscator implementation
+// summary: Implements chunk-wise obfuscation and deobfuscation of download data, including header handling, incremental deobfuscation, overhead calculation, and hashing of the original data.
+// ---
+
 #include "components/enterprise/obfuscation/core/download_obfuscator.h"
 
 namespace enterprise_obfuscation {

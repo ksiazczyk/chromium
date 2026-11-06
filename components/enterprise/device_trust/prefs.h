@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device trust prefs header
+// summary: Declares the device trust connector preference constants and the profile preference registration function.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_PREFS_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_PREFS_H_
 

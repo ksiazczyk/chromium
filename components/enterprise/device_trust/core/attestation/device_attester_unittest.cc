@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device attester unit tests
+// summary: Tests that DeviceAttester adds the DM token, device ID, customer ID and public key to key info and signs responses, including invalid-token and failure cases.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/device_attester.h"
 
 #include "base/run_loop.h"

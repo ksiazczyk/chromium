@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the obfuscation component
+summary: Lists the code owners and review alias for the enterprise obfuscation component, preferring the cep-review@ alias for reviews and referencing the shared CEP_OWNERS file.

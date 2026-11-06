@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: 'DEPS: allowed include rules for enterprise net'
+summary: Declares the directories the enterprise net component may include from, such as error page, tabs, content browser, and UI base APIs.

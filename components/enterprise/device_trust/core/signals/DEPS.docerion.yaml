@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the signals directory
+summary: Allows the signals directory to include headers from components/device_signals/core/common.

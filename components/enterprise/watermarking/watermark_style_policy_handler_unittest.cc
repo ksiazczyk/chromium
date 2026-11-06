@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WatermarkStyle policy handler tests
+// summary: Unit tests verifying that valid and invalid WatermarkStyle policy values are validated and applied to preferences correctly.
+// ---
+
 #include "components/enterprise/watermarking/watermark_style_policy_handler.h"
 
 #include "base/json/json_reader.h"

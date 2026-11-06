@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crypto utility header
+// summary: Declares the CryptoUtility functions for OAEP key wrapping and RSA key construction from a hex modulus.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_CRYPTO_UTILITY_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_CRYPTO_UTILITY_H_
 

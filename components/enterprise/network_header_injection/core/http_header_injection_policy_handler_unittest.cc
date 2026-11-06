@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HTTP header injection policy handler
+// summary: Tests validation and application of the HttpHeaderInjection policy, including invalid rules and limit handling.
+// ---
+
 #include "components/enterprise/network_header_injection/core/http_header_injection_policy_handler.h"
 
 #include <memory>

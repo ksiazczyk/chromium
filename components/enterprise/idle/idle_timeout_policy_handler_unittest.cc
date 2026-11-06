@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for idle timeout policy handlers
+// summary: Tests validation and application of the IdleTimeout and IdleTimeoutActions policies, covering errors, dependencies, and resulting preferences.
+// ---
+
 #include "components/enterprise/idle/idle_timeout_policy_handler.h"
 
 #include <algorithm>

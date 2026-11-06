@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain data type definitions
+// summary: Defines authentication enums and provisioning domain proxy configuration structs, including fetch lifecycle states.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_TYPES_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_TYPES_H_
 

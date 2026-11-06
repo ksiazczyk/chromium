@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseProxyTabHelper implementation
+// summary: Implements the per-tab helper that tracks the active primary main frame navigation ID and clears disguised error state in EnterpriseProxyErrorService when navigations finish.
+// ---
+
 #include "components/enterprise/net/content/enterprise_proxy_tab_helper.h"
 
 #include "components/enterprise/net/core/enterprise_proxy_error_service.h"

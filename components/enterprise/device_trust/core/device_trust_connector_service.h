@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust connector service interface
+// summary: Declares the keyed service that tracks Device Trust connector enablement per policy level and exposes URL watching and observer registration.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_DEVICE_TRUST_CONNECTOR_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_DEVICE_TRUST_CONNECTOR_SERVICE_H_
 

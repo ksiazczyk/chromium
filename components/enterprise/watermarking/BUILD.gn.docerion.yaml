@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Watermarking build targets
+summary: Defines GN source sets for the watermark renderer, the WatermarkStyle policy handler, unit tests, and test utilities with their dependencies.

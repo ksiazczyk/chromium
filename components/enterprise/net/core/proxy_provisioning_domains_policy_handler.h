@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyProvisioningDomainsPolicyHandler declaration
+// summary: Declares the schema-validating policy handler class for the ProxyProvisioningDomains policy, including settings checks and pref application.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_PROXY_PROVISIONING_DOMAINS_POLICY_HANDLER_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_PROXY_PROVISIONING_DOMAINS_POLICY_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of watermark.mojom.
+type: source
+title: WatermarkBlock Mojom struct definition
+summary: Defines a stable WatermarkBlock struct carrying a serialized SkPicture in a read-only shared memory region plus width and height.

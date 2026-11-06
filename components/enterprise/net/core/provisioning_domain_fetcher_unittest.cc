@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProvisioningDomainFetcher unit tests
+// summary: Unit tests for the provisioning domain fetcher, covering OAuth token use, HTTP and parse errors, JSON responses, and custom headers via a test URL loader factory.
+// ---
+
 #include "components/enterprise/net/core/provisioning_domain_fetcher.h"
 
 #include <optional>

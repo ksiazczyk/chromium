@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection service implementation
+// summary: Implements the service that observes the HTTP header injection policy preference, parses rules on change and delegates header lookup to the matcher.
+// ---
+
 #include "components/enterprise/network_header_injection/core/http_header_injection_service.h"
 
 #include "base/functional/bind.h"

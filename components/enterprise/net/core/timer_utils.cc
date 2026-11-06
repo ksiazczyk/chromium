@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timer delay calculation implementation
+// summary: Implements proactive refresh delay and exponential backoff retry delay calculations for provisioning domain configuration timers.
+// ---
+
 #include "components/enterprise/net/core/timer_utils.h"
 
 #include <algorithm>

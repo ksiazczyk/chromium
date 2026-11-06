@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyProvisioningDomainManager class declaration
+// summary: Declares an autonomous state machine managing the lifecycle, TTL-based refresh, observers, and cached configuration of a single proxy provisioning domain.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_PROXY_PROVISIONING_DOMAIN_MANAGER_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_PROXY_PROVISIONING_DOMAIN_MANAGER_H_
 

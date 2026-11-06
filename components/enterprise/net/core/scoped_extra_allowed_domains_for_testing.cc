@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped extra allowed domains test helper
+// summary: RAII helper that temporarily overrides the extra allowed domains list so tests can exercise provisioning domain fetching against test domains.
+// ---
+
 #include "components/enterprise/net/core/scoped_extra_allowed_domains_for_testing.h"
 
 #include <utility>

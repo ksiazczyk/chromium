@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for error page common library
+summary: Defines the static library sources and dependencies for the error page common component in the GN build system.

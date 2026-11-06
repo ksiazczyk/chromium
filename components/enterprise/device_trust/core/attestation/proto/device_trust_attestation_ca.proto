@@ -6,6 +6,12 @@
 // third_party/cros_system_api/dbus/attestation/attestation_ca.proto
 // third_party/cros_system_api is only for ChromeOS.
 
+// ---docerion
+// type: source
+// title: Attestation CA protobuf message definitions
+// summary: Defines protobuf messages for the enterprise attestation challenge-response protocol, adapted from the ChromeOS attestation CA definitions.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock attestation service header
+// summary: Declares a gmock-based MockAttestationService for faking challenge-response building in tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_MOCK_ATTESTATION_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_MOCK_ATTESTATION_SERVICE_H_
 

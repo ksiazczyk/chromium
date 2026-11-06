@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy policy affiliation validation utilities
+// summary: Implements checks that user-scoped proxy policies require an affiliated user unless the machine-scoped EnableProxyOverrideRulesForAllUsers policy is enabled.
+// ---
+
 #include "components/enterprise/net/core/proxy_policy_utils.h"
 
 #include <string>

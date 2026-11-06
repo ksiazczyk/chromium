@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsDecorator interface
+// summary: Defines the abstract interface for decorators that asynchronously add signals data to Device Trust signals and invoke a done closure.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_DECORATORS_COMMON_SIGNALS_DECORATOR_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_DECORATORS_COMMON_SIGNALS_DECORATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared directory metadata
+summary: Declares the Buganizer component ID and team email used for the enterprise watermarking directory.

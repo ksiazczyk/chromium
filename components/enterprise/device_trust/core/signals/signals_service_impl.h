@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsServiceImpl class declaration
+// summary: Declares the SignalsServiceImpl class, which implements the SignalsService interface using a list of signal decorators and a signals filterer.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_SIGNALS_SERVICE_IMPL_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_SIGNALS_SERVICE_IMPL_H_
 

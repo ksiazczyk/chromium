@@ -1,0 +1,4 @@
+# Docerion header of url_session_test_util.mm.
+type: test
+title: Stub NSURLProtocol implementation for tests
+summary: Implements a stub NSURLProtocol that returns configured HTTP responses, OS errors, hangs and redirects according to the test ResponseConfig.

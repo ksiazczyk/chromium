@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the enterprise idle component
+summary: Defines GN source sets for the idle timeout component and its unit tests, listing their sources and dependencies.

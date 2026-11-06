@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy service implementation
+// summary: Implements the EnterpriseProxyService state machine that manages provisioning domain proxy configs and classifies 407 challenges and disguised errors.
+// ---
+
 #include "components/enterprise/net/core/enterprise_proxy_service.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsFilterer interface
+// summary: Declares the SignalsFilterer interface responsible for removing or modifying signals in the payload, for example for privacy reasons.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_SIGNALS_FILTERER_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_SIGNALS_FILTERER_H_
 

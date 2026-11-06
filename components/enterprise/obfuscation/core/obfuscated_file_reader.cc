@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obfuscated file reader implementation
+// summary: Implements reading and on-demand deobfuscation of files produced by the download obfuscator, with chunk indexing, seek support, and histogram logging.
+// ---
+
 #include "components/enterprise/obfuscation/core/obfuscated_file_reader.h"
 
 #include "base/files/file.h"

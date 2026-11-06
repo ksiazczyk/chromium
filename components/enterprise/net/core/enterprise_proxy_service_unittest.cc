@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise proxy service unit tests
+// summary: Unit tests for EnterpriseProxyService covering dynamic route fetching, config updates, network changes, and proxy auth challenge handling.
+// ---
+
 #include "components/enterprise/net/core/enterprise_proxy_service.h"
 
 #include <memory>

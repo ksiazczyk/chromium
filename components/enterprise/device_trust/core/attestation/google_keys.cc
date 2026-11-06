@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Verified Access keys
+// summary: Provides the production and QA Verified Access signing and encryption RSA public keys and key IDs used by the attestation service.
+// ---
+
 #include "components/enterprise/device_trust/core/attestation/google_keys.h"
 
 #include "base/compiler_specific.h"

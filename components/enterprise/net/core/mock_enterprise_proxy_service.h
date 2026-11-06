@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock enterprise proxy service
+// summary: Declares a GoogleMock EnterpriseProxyService with mocked routing config, debug info, and refresh methods, plus observer list support for tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_MOCK_ENTERPRISE_PROXY_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_MOCK_ENTERPRISE_PROXY_SERVICE_H_
 

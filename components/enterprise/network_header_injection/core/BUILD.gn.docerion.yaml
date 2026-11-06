@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for network header injection core
+summary: GN build file defining the core, policy, and unit test targets for the HTTP header injection component.

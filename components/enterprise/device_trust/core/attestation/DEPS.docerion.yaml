@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Attestation include rules
+summary: DEPS file allowing includes from the ChromeOS attestation DBus bindings, crypto, and BoringSSL headers within this directory.

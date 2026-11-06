@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preference and enum declarations for Isolated Mode settings
+// summary: Declares the IsolatedModeSetting enum for the IsolatedModeSettings policy, the preference name, and the profile pref registration function.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_ISOLATED_MODE_PREFS_H_
 #define COMPONENTS_ENTERPRISE_ISOLATED_MODE_PREFS_H_
 

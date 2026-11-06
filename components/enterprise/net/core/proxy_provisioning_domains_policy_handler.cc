@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyProvisioningDomains policy handler
+// summary: Implements a schema-validating policy handler that checks affiliation rules and applies the ProxyProvisioningDomains policy value to prefs.
+// ---
+
 #include "components/enterprise/net/core/proxy_provisioning_domains_policy_handler.h"
 
 #include <memory>

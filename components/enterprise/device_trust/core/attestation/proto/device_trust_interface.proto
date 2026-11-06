@@ -6,6 +6,12 @@
 // third_party/cros_system_api/dbus/attestation/interface.proto
 // third_party/cros_system_api is only for ChromeOS.
 
+// ---docerion
+// type: source
+// title: Verified Access type enum protobuf
+// summary: Defines the VAType protobuf enum that distinguishes default and test Verified Access servers for attestation flows.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

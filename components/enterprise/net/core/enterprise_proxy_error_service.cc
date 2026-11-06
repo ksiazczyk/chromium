@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy error service implementation
+// summary: Implements storage and retrieval of disguised enterprise proxy errors per navigation and builds error page parameters for displaying them.
+// ---
+
 #include "components/enterprise/net/core/enterprise_proxy_error_service.h"
 
 #include <utility>

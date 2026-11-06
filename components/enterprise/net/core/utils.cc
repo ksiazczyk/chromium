@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain parsing and serialization utilities
+// summary: Implements parsing of policy entries and PvD JSON responses, extra header resolution, endpoint matching, and serialization.
+// ---
+
 #include "components/enterprise/net/core/utils.h"
 
 #include <algorithm>

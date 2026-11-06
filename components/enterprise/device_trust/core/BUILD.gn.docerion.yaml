@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device Trust core build configuration
+summary: Defines GN source sets for the Device Trust core, metrics, connector service, service, test support and unit tests along with their sources and dependencies.

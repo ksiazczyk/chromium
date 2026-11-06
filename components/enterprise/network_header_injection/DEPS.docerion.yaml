@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for network_header_injection
+summary: Defines directory-specific dependency rules, allowing includes from components/url_matcher.

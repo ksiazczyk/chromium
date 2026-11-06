@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust connector service implementation
+// summary: Implements a keyed service that watches connector policy prefs, maintains URL matchers per policy level and notifies observers of policy changes.
+// ---
+
 #include "components/enterprise/device_trust/core/device_trust_connector_service.h"
 
 #include "base/check.h"

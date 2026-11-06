@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Watermark API declarations
+// summary: Declares functions to size, create, and draw watermark blocks on PaintCanvas or SkCanvas surfaces.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_WATERMARKING_WATERMARK_H_
 #define COMPONENTS_ENTERPRISE_WATERMARKING_WATERMARK_H_
 

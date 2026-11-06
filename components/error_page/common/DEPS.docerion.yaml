@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for error page common
+summary: Declares the allowed include dependencies for code in the error page common directory.

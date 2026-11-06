@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alternate game images feature declarations
+// summary: Declares the kNetErrorAltGameMode feature, its parameters, and functions for alternate game image selection.
+// ---
+
 #ifndef COMPONENTS_ERROR_PAGE_COMMON_ALT_GAME_IMAGES_H_
 #define COMPONENTS_ERROR_PAGE_COMMON_ALT_GAME_IMAGES_H_
 

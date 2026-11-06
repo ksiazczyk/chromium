@@ -1,0 +1,4 @@
+# Docerion header of alt_game_images.cc.template.
+type: source
+title: Template for generating obfuscated dino game image C++ source
+summary: Jinja2 template rendered into the generated C++ file that embeds obfuscated 1x and 2x game image data and exposes lookup functions for the net error page.

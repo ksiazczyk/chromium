@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceTrustService implementation
+// summary: Implements the Device Trust service by parsing Verified Access JSON challenges, collecting device signals, and delegating attestation response building to the attestation service.
+// ---
+
 #include "components/enterprise/device_trust/core/device_trust_service.h"
 
 #include "base/base64.h"

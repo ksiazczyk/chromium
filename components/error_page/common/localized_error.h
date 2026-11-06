@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalizedError class interface
+// summary: Declares the LocalizedError API that builds PageState descriptions of error page elements for HTTP and network errors, plus helpers for offline and administrator-blocked errors.
+// ---
+
 #ifndef COMPONENTS_ERROR_PAGE_COMMON_LOCALIZED_ERROR_H_
 #define COMPONENTS_ERROR_PAGE_COMMON_LOCALIZED_ERROR_H_
 

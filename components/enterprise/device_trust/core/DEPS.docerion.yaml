@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device Trust core include rules
+summary: Sets include_rules for the directory, allowing sync_preferences and url_matcher includes while disallowing content.

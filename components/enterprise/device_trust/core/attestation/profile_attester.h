@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttester class declaration
+// summary: Declares the ProfileAttester class, which populates profile-specific details such as profile ID and user policy identifiers during the attestation process.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_PROFILE_ATTESTER_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_PROFILE_ATTESTER_H_
 

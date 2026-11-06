@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the obfuscation core directory
+summary: Grants this directory include access to the crypto headers used by the obfuscation implementation.

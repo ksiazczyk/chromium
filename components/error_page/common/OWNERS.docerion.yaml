@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for localized_error.cc
+summary: Assigns edwardjung@chromium.org as per-file owner of localized_error.cc in this directory.

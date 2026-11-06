@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise cache encryption
+summary: GN build file defining the cache source set with utils sources and dependencies on base, enterprise connectors, encryption features and prefs.

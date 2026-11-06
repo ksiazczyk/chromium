@@ -1,0 +1,4 @@
+# Docerion header of url_session_url_loader_bridge.mm.
+type: source
+title: URLSessionURLLoader bridge implementation
+summary: Implements the bridge functions that forward loader creation to URLSessionURLLoader, with a test-guarded variant for testing setups.

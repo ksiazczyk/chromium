@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy error data implementation
+// summary: Implements constructors and default members of the EnterpriseProxyErrorData value object for intercepted enterprise proxy errors.
+// ---
+
 #include "components/enterprise/net/core/enterprise_proxy_error_data.h"
 
 #include <utility>

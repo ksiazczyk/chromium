@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for Enterprise Isolated Mode features and switches
+// summary: Declares the Isolated Mode feature flags, the CAA helper, and the force-enterprise-isolated-mode command-line switch constant.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_ISOLATED_MODE_ISOLATED_MODE_FEATURES_H_
 #define COMPONENTS_ENTERPRISE_ISOLATED_MODE_ISOLATED_MODE_FEATURES_H_
 

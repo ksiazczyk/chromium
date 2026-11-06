@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain client
+// summary: Declares ProvisioningDomainClient, a SimpleURLLoader wrapper for fetching PvD JSON over HTTPS with extra headers, access tokens, and typed results and errors.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_PROVISIONING_DOMAIN_CLIENT_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_PROVISIONING_DOMAIN_CLIENT_H_
 

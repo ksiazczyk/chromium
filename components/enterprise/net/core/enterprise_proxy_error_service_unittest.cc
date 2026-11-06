@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise proxy error service unit tests
+// summary: Unit tests for EnterpriseProxyErrorService covering disguised error recording, error page parameters, and 407 challenge interception and resolution.
+// ---
+
 #include "components/enterprise/net/core/enterprise_proxy_error_service.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the enterprise platform auth component
+summary: Defines the enterprise_platform_auth component and its unit test source set, listing sources, dependencies, frameworks and defines for macOS.

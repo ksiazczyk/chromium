@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain client implementation
+// summary: Implements the low-level HTTPS client that fetches Provisioning Domain JSON configurations, including traffic annotation, fetch metrics, and callback queuing.
+// ---
+
 #include "components/enterprise/net/core/provisioning_domain_client.h"
 
 #include <utility>

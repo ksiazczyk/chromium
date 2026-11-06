@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Okta SSO feature flags and parameters
+// summary: Defines the kOktaSSO base feature and its parameters for request header allowlists, fixed headers and the Okta SSO URL path pattern.
+// ---
+
 #include "components/enterprise/platform_auth/platform_auth_features.h"
 
 namespace enterprise_auth {

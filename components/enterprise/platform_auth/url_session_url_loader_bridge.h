@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLSessionURLLoader bridge header
+// summary: Declares exported C++ bridge functions so non-Objective-C++ code can create and start the URLSessionURLLoader, including a testing-only variant.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_PLATFORM_AUTH_URL_SESSION_URL_LOADER_BRIDGE_H_
 #define COMPONENTS_ENTERPRISE_PLATFORM_AUTH_URL_SESSION_URL_LOADER_BRIDGE_H_
 

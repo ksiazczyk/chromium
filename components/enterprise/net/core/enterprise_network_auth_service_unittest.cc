@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the enterprise network auth service
+// summary: Unit tests covering access token fetching, managed account checks, error mapping and histogram metrics for the enterprise network auth service.
+// ---
+
 #include "components/enterprise/net/core/enterprise_network_auth_service.h"
 
 #include <optional>

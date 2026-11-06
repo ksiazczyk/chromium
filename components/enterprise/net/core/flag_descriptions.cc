@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise net flag descriptions
+// summary: Provides user-facing names and descriptions for the dynamic route fetching and enterprise proxy error handling feature flags.
+// ---
+
 #include "components/enterprise/net/core/flag_descriptions.h"
 
 #if BUILDFLAG(ENTERPRISE_PROXY)

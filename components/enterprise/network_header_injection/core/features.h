@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection feature flag declaration
+// summary: Declares the kHttpHeadersInjection feature and a helper that reports whether header injection is enabled.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NETWORK_HEADER_INJECTION_CORE_FEATURES_H_
 #define COMPONENTS_ENTERPRISE_NETWORK_HEADER_INJECTION_CORE_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network error info helpers implementation
+// summary: Implements conversion of DNS probe statuses to strings, a finished-status check, and UMA histogram recording for network error page events.
+// ---
+
 #include "components/error_page/common/net_error_info.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSignalsService class
+// summary: Declares a gmock mock of SignalsService whose CollectSignals method can be stubbed in tests.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_MOCK_SIGNALS_SERVICE_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_SIGNALS_MOCK_SIGNALS_SERVICE_H_
 

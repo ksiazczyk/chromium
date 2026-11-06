@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsAggregatorDecorator implementation
+// summary: Implements the decorator that converts device signals aggregator responses, including OS and profile signals, into the Device Trust signals dictionary.
+// ---
+
 #include "components/enterprise/device_trust/core/signals/decorators/common/signals_aggregator_decorator.h"
 
 #include <optional>

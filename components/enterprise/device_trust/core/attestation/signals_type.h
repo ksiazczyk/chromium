@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalsType platform alias header
+// summary: Defines the SignalsType alias, selecting Chrome OS or browser device trust signals definitions depending on the build platform.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_SIGNALS_TYPE_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_ATTESTATION_SIGNALS_TYPE_H_
 

@@ -6,6 +6,12 @@
 // third_party/cros_system_api/dbus/attestation/google_key.proto
 // third_party/cros_system_api is only for ChromeOS.
 
+// ---docerion
+// type: source
+// title: Google attestation key protobuf definitions
+// summary: Defines protobuf messages describing Google RSA public keys and key sets used internally by the attestation service.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

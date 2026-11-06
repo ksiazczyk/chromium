@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth scope metadata declarations
+// summary: Declares the AuthScopeMetadata struct and helpers that map auth scopes to OAuth consumer IDs, policy strings and allowed destination domains.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_AUTH_SCOPE_METADATA_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_AUTH_SCOPE_METADATA_H_
 

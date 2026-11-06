@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the encryption component
+summary: Includes the common metadata file so its Buganizer component and team email settings apply to this directory.

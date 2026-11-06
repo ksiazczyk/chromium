@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Enterprise proxy error page styles
+summary: Stylesheet for the enterprise proxy error interstitial, setting fonts and button styling, category-specific icons, and dark mode adjustments.
+*/
+
 body {
   font-family: $i18nRaw{fontfamily};
   font-size: $i18n{fontsize};

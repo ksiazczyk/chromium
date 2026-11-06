@@ -1,0 +1,4 @@
+# Docerion header of enterprise_proxy_error_page.html.
+type: source
+title: Enterprise proxy error page markup
+summary: HTML template for the enterprise proxy error interstitial, with i18n placeholders, shared interstitial stylesheets, error debugging sections, and a primary action button.

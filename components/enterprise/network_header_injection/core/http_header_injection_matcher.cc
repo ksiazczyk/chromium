@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection URL matcher implementation
+// summary: Implements URL pattern matching with specificity-based precedence to compute the headers to inject for a URL.
+// ---
+
 #include "components/enterprise/network_header_injection/core/http_header_injection_matcher.h"
 
 #include <algorithm>

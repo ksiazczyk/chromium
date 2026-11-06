@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle timeout metrics declarations and enums
+// summary: Declares UMA histogram names, idle timeout action, case, dialog, and launch screen event enums, and the functions that record these enterprise idle timeout metrics.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_IDLE_METRICS_H_
 #define COMPONENTS_ENTERPRISE_IDLE_METRICS_H_
 

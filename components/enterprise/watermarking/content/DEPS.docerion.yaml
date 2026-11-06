@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the watermarking content directory
+summary: Grants this directory permission to include headers from content/public via the Chromium DEPS include_rules mechanism.

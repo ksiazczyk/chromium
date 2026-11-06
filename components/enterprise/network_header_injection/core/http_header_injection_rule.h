@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection rule struct
+// summary: Defines the HttpHeaderInjectionRule struct representing an HTTP header injection policy rule with URL patterns and headers, plus keys and a parser from base::Value.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NETWORK_HEADER_INJECTION_CORE_HTTP_HEADER_INJECTION_RULE_H_
 #define COMPONENTS_ENTERPRISE_NETWORK_HEADER_INJECTION_CORE_HTTP_HEADER_INJECTION_RULE_H_
 

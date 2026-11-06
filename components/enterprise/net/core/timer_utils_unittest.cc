@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timer utils unit tests
+// summary: Unit tests verifying proactive refresh delay computation and transient retry exponential backoff behavior.
+// ---
+
 #include "components/enterprise/net/core/timer_utils.h"
 
 #include "base/time/time.h"

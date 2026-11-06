@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for auth scope metadata
+// summary: Unit tests verifying auth scope metadata lookup, OAuth consumer mapping and destination URL validation across schemes, domains, channels and unsupported scopes.
+// ---
+
 #include "components/enterprise/net/core/auth_scope_metadata.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the enterprise idle directory
+summary: Specifies allowed include dependencies for the directory, with an extra allowance for the policy handler unit test.

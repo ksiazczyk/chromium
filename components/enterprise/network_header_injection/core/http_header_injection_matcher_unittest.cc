@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the HTTP header injection matcher
+// summary: Tests URL pattern matching, exact versus wildcard matching, and rule precedence for injected headers.
+// ---
+
 #include "components/enterprise/network_header_injection/core/http_header_injection_matcher.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of url_session_helper.mm.
+type: source
+title: Implementation of URLSession conversion helpers
+summary: Implements request and response conversion for Apple's URLSession, header allowlisting with fixed headers, and Okta SSO URL pattern matching.

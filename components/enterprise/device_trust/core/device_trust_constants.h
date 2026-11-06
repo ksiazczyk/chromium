@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device Trust error and timeout constant declarations
+// summary: Declares the error string constants and timeout constants used throughout the Device Trust flow.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_DEVICE_TRUST_CONSTANTS_H_
 #define COMPONENTS_ENTERPRISE_DEVICE_TRUST_CORE_DEVICE_TRUST_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Device Trust connector service
+// summary: Tests policy updates, URL matching, signals policy scope and observer notifications using a testing pref service and mock observer.
+// ---
+
 #include "components/enterprise/device_trust/core/device_trust_connector_service.h"
 
 #include <utility>

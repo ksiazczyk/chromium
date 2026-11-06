@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the enterprise idle directory
+summary: Lists nicolaso@chromium.org as the owner responsible for reviewing changes in this directory.

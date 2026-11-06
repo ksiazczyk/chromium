@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning domain utility function declarations
+// summary: Declares utilities for parsing policy and PvD configurations, resolving extra headers, matching proxy endpoints, and serialization.
+// ---
+
 #ifndef COMPONENTS_ENTERPRISE_NET_CORE_UTILS_H_
 #define COMPONENTS_ENTERPRISE_NET_CORE_UTILS_H_
 
