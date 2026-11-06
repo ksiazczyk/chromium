@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerViewController header
+// summary: Declares the abstract scanner view controller that wires the scanner view and camera controller for QR code or credit card scanning.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_VIEW_CONTROLLER_H_
 

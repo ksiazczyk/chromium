@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_client_impl.mm.
+type: source
+title: Safe Browsing client implementation
+summary: Implements SafeBrowsingClientImpl, supplying Safe Browsing dependencies and deciding blocking behavior for unsafe resources, such as those in prerendered tabs.

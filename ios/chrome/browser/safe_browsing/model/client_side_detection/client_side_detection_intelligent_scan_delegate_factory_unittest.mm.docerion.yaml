@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_intelligent_scan_delegate_factory_unittest.mm.
+type: test
+title: ClientSideDetectionIntelligentScanDelegateFactory unit tests
+summary: Tests delegate factory creation across feature flags, missing Optimization Guide service, off-the-record profiles, and instance reuse.

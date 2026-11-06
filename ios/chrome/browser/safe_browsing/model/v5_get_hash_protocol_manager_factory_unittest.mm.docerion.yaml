@@ -1,0 +1,4 @@
+# Docerion header of v5_get_hash_protocol_manager_factory_unittest.mm.
+type: test
+title: V5GetHashProtocolManagerFactory unit tests
+summary: Unit tests checking that the V5 get-hash protocol manager factory provides instances for regular and incognito profiles.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOS Chrome Safety Check manager utils header
+// summary: Declares helpers for computing password safety check states, converting pref dictionaries to insecure password counts, and deciding when Safety Check can run automatically.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFETY_CHECK_MODEL_IOS_CHROME_SAFETY_CHECK_MANAGER_UTILS_H_
 #define IOS_CHROME_BROWSER_SAFETY_CHECK_MODEL_IOS_CHROME_SAFETY_CHECK_MANAGER_UTILS_H_
 

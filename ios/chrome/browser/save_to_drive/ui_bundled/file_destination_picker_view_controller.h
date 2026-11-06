@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File destination picker view controller interface
+// summary: Declares the table view controller that lets users choose between Files and Drive as the download destination.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_FILE_DESTINATION_PICKER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_FILE_DESTINATION_PICKER_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Photos coordinator interface
+// summary: Declares the SaveToPhotosCoordinator, a ChromeCoordinator initialized with an image URL, referrer, web state, and frame details.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVE_TO_PHOTOS_UI_BUNDLED_SAVE_TO_PHOTOS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SAVE_TO_PHOTOS_UI_BUNDLED_SAVE_TO_PHOTOS_COORDINATOR_H_
 

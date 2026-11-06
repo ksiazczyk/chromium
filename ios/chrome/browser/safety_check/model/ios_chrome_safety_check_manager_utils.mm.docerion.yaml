@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_safety_check_manager_utils.mm.
+type: source
+title: IOS Chrome Safety Check manager utils implementation
+summary: Implements Safety Check manager utilities, mapping password check states to safety check states and handling insecure password counts and automatic run timing.

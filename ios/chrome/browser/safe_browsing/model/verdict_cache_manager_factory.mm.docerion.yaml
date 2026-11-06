@@ -1,0 +1,4 @@
+# Docerion header of verdict_cache_manager_factory.mm.
+type: source
+title: VerdictCacheManagerFactory implementation
+summary: Builds a VerdictCacheManager per profile using history, content settings, prefs and sync services.

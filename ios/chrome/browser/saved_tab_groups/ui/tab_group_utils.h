@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color utilities header
+// summary: Declares utility functions that list all possible tab group colors and map a tab group color ID to a foreground UIColor.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_TAB_GROUP_UTILS_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_TAB_GROUP_UTILS_H_
 

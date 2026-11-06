@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for scoped UI blocker
+summary: Defines GN source sets for the scoped UI blocker protocols and implementation, listing their sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Safety Check notifications model
+summary: Specifies which directories code in the Safety Check notifications model folder is allowed to include from.

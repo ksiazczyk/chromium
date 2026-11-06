@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera state enum
+// summary: Defines the scanner::CameraState enum distinguishing camera states such as available, in use, permission denied or unavailable.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_CAMERA_STATE_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_CAMERA_STATE_H_
 

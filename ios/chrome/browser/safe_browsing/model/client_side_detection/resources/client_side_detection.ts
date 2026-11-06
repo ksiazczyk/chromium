@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing Client-Side Detection Copy Listener
+// summary: TypeScript script that listens for copy events on iOS Chrome pages and forwards trusted, non-empty copied text to the browser for Safe Browsing client-side phishing detection.
+// ---
+
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing client implementation header
+// summary: Declares SafeBrowsingClientImpl, the ios/chrome implementation of SafeBrowsingClient exposing prefs, lookup services and client-side detection host creation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_SAFE_BROWSING_CLIENT_IMPL_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_SAFE_BROWSING_CLIENT_IMPL_H_
 

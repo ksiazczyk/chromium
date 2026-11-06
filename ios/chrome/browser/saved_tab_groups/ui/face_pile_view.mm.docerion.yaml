@@ -1,0 +1,4 @@
+# Docerion header of face_pile_view.mm.
+type: source
+title: FacePileView implementation
+summary: Implements the face pile view with overlapping avatars, a plus-X member label, a people-waiting icon, and a share button.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OHTTP key service factory header
+// summary: Declares the profile-keyed factory that owns an OhttpKeyService per active profile, returning null for incognito, with a default testing factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_OHTTP_KEY_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_OHTTP_KEY_SERVICE_FACTORY_H_
 

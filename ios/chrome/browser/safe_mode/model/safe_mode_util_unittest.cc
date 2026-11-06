@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe mode util unit tests
+// summary: GoogleTest suite verifying GetLoadedImages returns loaded images including libSystem and correctly filters by path.
+// ---
+
 #include "ios/chrome/browser/safe_mode/model/safe_mode_util.h"
 
 #include <mach-o/dyld.h>

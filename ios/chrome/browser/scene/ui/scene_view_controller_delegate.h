@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneViewControllerDelegate protocol
+// summary: Defines the delegate protocol for SceneViewController, notifying it to show or hide the Gemini floaty when invoked.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCENE_UI_SCENE_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SCENE_UI_SCENE_VIEW_CONTROLLER_DELEGATE_H_
 

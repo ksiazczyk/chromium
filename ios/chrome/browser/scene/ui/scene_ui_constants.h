@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scene UI constants header
+// summary: Declares the accessibility identifier constant for the app content view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCENE_UI_SCENE_UI_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SCENE_UI_SCENE_UI_CONSTANTS_H_
 

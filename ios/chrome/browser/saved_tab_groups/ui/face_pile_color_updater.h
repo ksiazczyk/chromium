@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacePileColorUpdater protocol
+// summary: Declares a protocol that lets FacePileView update the share button background color.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FACE_PILE_COLOR_UPDATER_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FACE_PILE_COLOR_UPDATER_H_
 

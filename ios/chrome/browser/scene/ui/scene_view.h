@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneView interface
+// summary: Declares the root app view with a weak scene view delegate property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCENE_UI_SCENE_VIEW_H_
 #define IOS_CHROME_BROWSER_SCENE_UI_SCENE_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of app_container_view.mm.
+type: source
+title: AppContainerView implementation
+summary: Implements hit testing so touches landing on the container itself pass through to views behind it.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preview overlay view interface
+// summary: Declares a UIView subclass that redraws the scanner preview overlay and viewport border when the preview size changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_PREVIEW_OVERLAY_VIEW_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_PREVIEW_OVERLAY_VIEW_H_
 

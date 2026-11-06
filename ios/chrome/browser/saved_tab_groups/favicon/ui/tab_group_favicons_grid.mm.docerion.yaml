@@ -1,0 +1,4 @@
+# Docerion header of tab_group_favicons_grid.mm.
+type: source
+title: TabGroupFaviconsGrid view implementation
+summary: Implements the favicons grid layout with corner radii, spacing, constraints, and a configuration token that guards asynchronous configuration during cell reuse.

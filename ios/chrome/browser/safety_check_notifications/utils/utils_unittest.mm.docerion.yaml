@@ -1,0 +1,4 @@
+# Docerion header of utils_unittest.mm.
+type: test
+title: Unit tests for Safety Check notification utilities
+summary: Verifies notification content, titles, bodies, and user info for compromised, weak, reused passwords, update Chrome, and Safe Browsing states.

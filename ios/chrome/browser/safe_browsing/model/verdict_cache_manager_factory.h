@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VerdictCacheManagerFactory header
+// summary: Declares the profile-keyed factory that owns a VerdictCacheManager for each active profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_VERDICT_CACHE_MANAGER_FACTORY_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_VERDICT_CACHE_MANAGER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotMetricsRecorder header
+// summary: Declares the ScreenshotMetricsRecorder public interface for starting UMA screenshot metric collection.
+// ---
+
 #import <Foundation/Foundation.h>
 
 #ifndef IOS_CHROME_BROWSER_SCREENSHOT_MODEL_SCREENSHOT_METRICS_RECORDER_H_

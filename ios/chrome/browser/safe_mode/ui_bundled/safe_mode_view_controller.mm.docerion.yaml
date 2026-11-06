@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_view_controller.mm.
+type: source
+title: Safe Mode view controller implementation
+summary: Implements the iOS Chrome Safe Mode screen that detects third-party tweaks and blocklisted OS builds, offers crash report upload with a progress bar, and lets the user resume the browser.

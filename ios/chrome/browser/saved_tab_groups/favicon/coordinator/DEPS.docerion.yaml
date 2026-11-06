@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the favicon coordinator
+summary: Restricts includes in this directory to saved tab groups public, favicon model, and share kit model paths.

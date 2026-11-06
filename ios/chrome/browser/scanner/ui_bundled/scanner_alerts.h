@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner alerts interface
+// summary: Declares DialogForCameraState, which returns a dialog for a given camera state with an optional cancel action.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_ALERTS_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_ALERTS_H_
 

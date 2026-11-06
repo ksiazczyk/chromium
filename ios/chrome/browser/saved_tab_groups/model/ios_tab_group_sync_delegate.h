@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS tab group sync delegate header
+// summary: Declares the iOS TabGroupSyncDelegate subclass handling batch operations, opening, creating, and updating local tab groups.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_MODEL_IOS_TAB_GROUP_SYNC_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_MODEL_IOS_TAB_GROUP_SYNC_DELEGATE_H_
 

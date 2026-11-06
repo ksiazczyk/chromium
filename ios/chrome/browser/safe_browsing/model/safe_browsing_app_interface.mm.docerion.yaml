@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_app_interface.mm.
+type: test
+title: Safe Browsing app interface for Earl Grey tests
+summary: Implements SafeBrowsingAppInterface test hooks that let UI tests set a mock scorer, inspect verdict caches and cache real-time Safe Browsing lookup responses.

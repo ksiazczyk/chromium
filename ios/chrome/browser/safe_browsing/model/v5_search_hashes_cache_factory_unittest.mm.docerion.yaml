@@ -1,0 +1,4 @@
+# Docerion header of v5_search_hashes_cache_factory_unittest.mm.
+type: test
+title: V5SearchHashesCacheFactory unit tests
+summary: Unit tests verifying the cache factory returns non-null and distinct instances for regular and incognito profiles.

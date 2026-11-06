@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerTransitioningDelegate class header
+// summary: Declares the transition delegate that supplies custom animations for presenting and dismissing the scanner.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_TRANSITIONING_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_TRANSITIONING_DELEGATE_H_
 

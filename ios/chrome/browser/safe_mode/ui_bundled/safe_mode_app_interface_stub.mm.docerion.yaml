@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_app_interface_stub.mm.
+type: source
+title: Stub for the Safe Mode app interface
+summary: Provides an Earl Grey stub implementation of the Safe Mode app interface for test builds that run outside the app.

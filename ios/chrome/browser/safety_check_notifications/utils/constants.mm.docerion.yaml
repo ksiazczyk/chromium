@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Safety Check notification constant definitions
+summary: Defines the NSString notification IDs and UserInfo keys declared in the constants header.

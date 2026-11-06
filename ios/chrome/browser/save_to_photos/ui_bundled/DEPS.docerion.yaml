@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Save to Photos UI DEPS include rules
+summary: Restricts which headers the Save to Photos UI code may include, with per-file exceptions for the coordinator and mediator implementations.

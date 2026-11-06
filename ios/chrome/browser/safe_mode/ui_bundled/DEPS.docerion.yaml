@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Safe Mode UI
+summary: Restricts includes in this directory to the crash report model headers used by Safe Mode.

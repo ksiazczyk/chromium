@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the saved tab groups UI directory
+summary: Defines GN source sets for the face pile UI, tab group utilities, and test support, listing their sources and dependencies.

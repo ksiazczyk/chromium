@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing test app interface
+// summary: App interface exposing Safe Browsing test hooks for mock scorers, cached real-time verdicts, visual classification triggers, and a mock phishing report server.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_SAFE_BROWSING_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_SAFE_BROWSING_APP_INTERFACE_H_
 

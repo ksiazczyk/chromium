@@ -1,0 +1,4 @@
+# Docerion header of save_to_photos_coordinator_unittest.mm.
+type: test
+title: Save to Photos coordinator unit tests
+summary: Unit tests for SaveToPhotosCoordinator using fake identities, test browsers, and OCMock to exercise signin, account picker, and StoreKit flows.

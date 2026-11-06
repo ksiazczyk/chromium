@@ -1,0 +1,4 @@
+# Docerion header of real_time_url_lookup_service_factory.mm.
+type: source
+title: Real-time URL lookup service factory
+summary: Builds per-profile real-time Safe Browsing URL lookup services, wiring in identity, sync, verdict cache, user population, and variations service dependencies.

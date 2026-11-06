@@ -1,0 +1,4 @@
+# Docerion header of scene_view.mm.
+type: source
+title: SceneView implementation
+summary: Implements the root view, notifying its delegate on window move and correcting the iOS 26 landscape top safe area inset.

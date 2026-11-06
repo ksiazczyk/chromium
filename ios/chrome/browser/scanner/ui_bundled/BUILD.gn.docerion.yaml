@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Scanner UI build targets
+summary: Defines the GN source sets, sources, dependencies and frameworks for the iOS scanner UI bundle.

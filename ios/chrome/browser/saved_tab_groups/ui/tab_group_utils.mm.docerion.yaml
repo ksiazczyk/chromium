@@ -1,0 +1,4 @@
+# Docerion header of tab_group_utils.mm.
+type: source
+title: Tab group color utilities implementation
+summary: Implements the tab group color utilities, returning every supported TabGroupColorId and the foreground UIColor for light and dark mode.

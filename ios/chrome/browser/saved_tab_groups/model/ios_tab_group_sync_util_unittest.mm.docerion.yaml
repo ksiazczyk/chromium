@@ -1,0 +1,4 @@
+# Docerion header of ios_tab_group_sync_util_unittest.mm.
+type: test
+title: iOS tab group sync utilities unit tests
+summary: Unit tests for the tab group sync utility helpers using mock services, test browsers, and fake navigation contexts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Photos mediator delegate protocol
+// summary: Protocol for the mediator's UI actions, such as showing the account picker, reauth, try-again alerts, StoreKit, snackbars, and sign-in.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVE_TO_PHOTOS_UI_BUNDLED_SAVE_TO_PHOTOS_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SAVE_TO_PHOTOS_UI_BUNDLED_SAVE_TO_PHOTOS_MEDIATOR_DELEGATE_H_
 

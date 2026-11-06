@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Check notification utility functions
+// summary: Declares functions to build notification requests and content for password, update Chrome, and Safe Browsing checks, plus opt-in logging and resolution helpers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFETY_CHECK_NOTIFICATIONS_UTILS_UTILS_H_
 #define IOS_CHROME_BROWSER_SAFETY_CHECK_NOTIFICATIONS_UTILS_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenType enum for startup screens
+// summary: Defines the ScreenType enum listing startup screens such as sign-in, history sync, and default browser promo, plus post first-run actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCREEN_UI_BUNDLED_SCREEN_TYPE_H_
 #define IOS_CHROME_BROWSER_SCREEN_UI_BUNDLED_SCREEN_TYPE_H_
 

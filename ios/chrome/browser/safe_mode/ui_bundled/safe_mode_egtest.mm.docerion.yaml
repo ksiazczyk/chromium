@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_egtest.mm.
+type: test
+title: Earl Grey tests for the Safe Mode UI
+summary: Earl Grey integration tests covering Safe Mode screens for crash report upload, jailbreak-related messages, and other error states.

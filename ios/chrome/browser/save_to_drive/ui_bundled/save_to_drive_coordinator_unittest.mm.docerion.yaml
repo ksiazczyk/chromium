@@ -1,0 +1,4 @@
+# Docerion header of save_to_drive_coordinator_unittest.mm.
+type: test
+title: Save to Drive coordinator unit tests
+summary: Unit tests for SaveToDriveCoordinator that exercise destination picking, sign-in, and command handling using fake profiles, identities, and download tasks.

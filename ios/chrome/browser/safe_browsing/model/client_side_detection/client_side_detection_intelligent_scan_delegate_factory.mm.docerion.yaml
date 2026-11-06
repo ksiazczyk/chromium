@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_intelligent_scan_delegate_factory.mm.
+type: source
+title: ClientSideDetectionIntelligentScanDelegateFactory implementation
+summary: Creates the intelligent scan delegate per profile when client-side detection is enabled and the Optimization Guide service is available.

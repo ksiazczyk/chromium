@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacePileConfiguration interface for face pile view settings
+// summary: Declares a configuration object holding group ID, background color, empty state visibility and avatar size for a FacePileView.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_COORDINATOR_FACE_PILE_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_COORDINATOR_FACE_PILE_CONFIGURATION_H_
 

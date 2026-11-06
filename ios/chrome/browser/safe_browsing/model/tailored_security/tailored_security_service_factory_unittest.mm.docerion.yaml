@@ -1,0 +1,4 @@
+# Docerion header of tailored_security_service_factory_unittest.mm.
+type: test
+title: Tailored security service factory unit tests
+summary: Checks that the factory returns null for off-the-record profiles and a service instance for regular profiles.

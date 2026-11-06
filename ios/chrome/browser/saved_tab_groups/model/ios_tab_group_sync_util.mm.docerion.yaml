@@ -1,0 +1,4 @@
+# Docerion header of ios_tab_group_sync_util.mm.
+type: source
+title: iOS tab group sync utilities implementation
+summary: Implements helpers that map saved tab groups to local browsers and web states, close or move groups, and evaluate navigations for saving.

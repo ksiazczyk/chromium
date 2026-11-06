@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Scanner UI code owners
+summary: Lists the owner responsible for reviewing changes to the scanner UI directory.

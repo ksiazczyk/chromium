@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_crashing_modules_config.mm.
+type: source
+title: SafeModeCrashingModulesConfig implementation
+summary: Implements the singleton that loads the SafeModeCrashingModules plist and looks up friendly names for crashing module paths.

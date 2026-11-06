@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_helper_factory.mm.
+type: source
+title: Safe Browsing helper factory implementation
+summary: Implements the Safe Browsing helper factory, building SafeBrowsingHelper instances from profile prefs, the Safe Browsing service, and the metrics collector.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeFacePileConsumer test fake
+// summary: Declares a fake FacePileConsumer that records the latest values passed to its methods for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FAKE_FACE_PILE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FAKE_FACE_PILE_CONSUMER_H_
 

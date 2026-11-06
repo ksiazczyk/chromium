@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome enterprise real-time URL lookup service factory
+// summary: Declares a profile-keyed service factory that owns ChromeEnterpriseRealTimeUrlLookupService instances and returns null for incognito profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_CHROME_ENTERPRISE_URL_LOOKUP_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_CHROME_ENTERPRISE_URL_LOOKUP_SERVICE_FACTORY_H_
 

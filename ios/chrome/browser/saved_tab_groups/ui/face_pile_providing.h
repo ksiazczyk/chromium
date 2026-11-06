@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacePileProviding protocol
+// summary: Declares a protocol for objects that supply an up-to-date face pile view, its computed width, and equality checks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FACE_PILE_PROVIDING_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FACE_PILE_PROVIDING_H_
 

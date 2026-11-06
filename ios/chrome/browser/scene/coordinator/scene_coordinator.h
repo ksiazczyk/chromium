@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneCoordinator interface
+// summary: Declares the SceneCoordinator class and SceneUIHandler protocol that manage top-level scene UI, commands, and browser state for iOS Chrome.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCENE_COORDINATOR_SCENE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SCENE_COORDINATOR_SCENE_COORDINATOR_H_
 

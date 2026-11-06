@@ -1,0 +1,4 @@
+# Docerion header of save_to_photos_egtest.mm.
+type: test
+title: Save to Photos Earl Grey UI tests
+summary: Earl Grey tests for saving images to Google Photos from the context menu, including a regression test for cancelling account reauthentication.

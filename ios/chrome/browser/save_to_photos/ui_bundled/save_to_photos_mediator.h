@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Photos mediator interface
+// summary: Declares the SaveToPhotosMediator that fetches an image, selects a destination account, and uploads it to the Photos service, plus Photos-related constants.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVE_TO_PHOTOS_UI_BUNDLED_SAVE_TO_PHOTOS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SAVE_TO_PHOTOS_UI_BUNDLED_SAVE_TO_PHOTOS_MEDIATOR_H_
 

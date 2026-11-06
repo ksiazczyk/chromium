@@ -1,0 +1,4 @@
+# Docerion header of scene_view_controller.mm.
+type: source
+title: SceneViewController implementation
+summary: Implements SceneViewController, observing scene layout state and managing the app bar, tab grid, assistant container, app content views, and IPH promo presentation.

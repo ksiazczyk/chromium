@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for scene UI
+summary: Defines GN source sets for scene UI views, protocols and constants together with their build dependencies.

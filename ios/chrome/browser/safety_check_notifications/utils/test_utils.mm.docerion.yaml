@@ -1,0 +1,4 @@
+# Docerion header of test_utils.mm.
+type: test
+title: Test helper implementation for notification permissions
+summary: Updates the local state push notification permissions dictionary to enable or disable Safety Check notifications in tests.

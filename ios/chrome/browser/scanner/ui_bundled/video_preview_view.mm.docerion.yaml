@@ -1,0 +1,4 @@
+# Docerion header of video_preview_view.mm.
+type: source
+title: VideoPreviewView implementation
+summary: Implements the video preview view, computing normalized and camera-coordinate rectangles of interest for code recognition.

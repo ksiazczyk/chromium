@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File destination picker action delegate protocol
+// summary: Declares a delegate protocol for destination selection and for checking whether downloads to Files are blocked.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_FILE_DESTINATION_PICKER_ACTION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_FILE_DESTINATION_PICKER_ACTION_DELEGATE_H_
 

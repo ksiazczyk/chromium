@@ -1,0 +1,4 @@
+# Docerion header of file_destination_picker_constants.mm.
+type: source
+title: File destination picker accessibility identifier definitions
+summary: Defines the accessibility identifier string constants for the file destination picker cells.

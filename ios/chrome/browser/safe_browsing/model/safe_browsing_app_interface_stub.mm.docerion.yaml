@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_app_interface_stub.mm.
+type: test
+title: Stub for the Safe Browsing app interface
+summary: Provides a no-op Earl Grey stub registration of SafeBrowsingAppInterface for builds that do not include the test implementation.

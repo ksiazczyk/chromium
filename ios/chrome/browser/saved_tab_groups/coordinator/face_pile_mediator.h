@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacePileMediator interface for face pile data updates
+// summary: Declares the mediator that fetches group data from services and communicates updates to its FacePileConsumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_COORDINATOR_FACE_PILE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_COORDINATOR_FACE_PILE_MEDIATOR_H_
 

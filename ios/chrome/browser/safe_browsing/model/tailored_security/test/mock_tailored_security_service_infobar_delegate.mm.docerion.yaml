@@ -1,0 +1,4 @@
+# Docerion header of mock_tailored_security_service_infobar_delegate.mm.
+type: test
+title: Mock tailored security service infobar delegate implementation
+summary: Implements the mock tailored security service infobar delegate's factory method, constructor and destructor.

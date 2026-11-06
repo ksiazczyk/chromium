@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Safe Browsing model
+summary: Lists allowed include dependencies for this directory, covering strings, content settings, enterprise connectors, history, passwords, policy, signin, and sync models.

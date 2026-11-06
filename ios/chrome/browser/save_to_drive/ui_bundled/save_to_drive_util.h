@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive utility header
+// summary: Declares drive namespace helpers that format file sizes and build the account picker body text and configuration for a download task.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_SAVE_TO_DRIVE_UTIL_H_
 #define IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_SAVE_TO_DRIVE_UTIL_H_
 

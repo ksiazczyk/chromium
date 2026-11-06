@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for saved tab groups model
+summary: Lists allowed include directories for this folder, with extra rules for the tab group sync service factory.

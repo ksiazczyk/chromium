@@ -1,0 +1,4 @@
+# Docerion header of chrome_enterprise_url_lookup_service_factory.mm.
+type: source
+title: Chrome enterprise real-time URL lookup service factory implementation
+summary: Implements the factory, building per-profile lookup services with dependencies on identity, sync, verdict cache, policy, and enterprise connectors services.

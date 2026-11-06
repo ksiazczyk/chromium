@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera controller interface
+// summary: Declares the CameraController class and delegate protocol that manage the AVCaptureSession, authorization, viewport and torch for the scanner.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_CAMERA_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_CAMERA_CONTROLLER_H_
 

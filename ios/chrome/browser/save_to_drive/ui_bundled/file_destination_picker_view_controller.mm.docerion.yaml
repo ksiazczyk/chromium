@@ -1,0 +1,4 @@
+# Docerion header of file_destination_picker_view_controller.mm.
+type: source
+title: File destination picker view controller implementation
+summary: Implements the file destination picker table view with Files and Drive items, selection state, icons and styling.

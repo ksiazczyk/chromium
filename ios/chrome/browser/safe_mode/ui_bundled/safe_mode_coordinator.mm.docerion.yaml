@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_coordinator.mm.
+type: source
+title: Safe Mode coordinator implementation
+summary: Starts Safe Mode when a startup crash loop is detected, shows the Safe Mode view controller, and resets the crash counter on exit.

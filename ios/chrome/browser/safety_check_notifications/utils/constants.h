@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Check notification constants and histogram enums
+// summary: Declares opt-in source and notification type enums, timing constants, and notification ID and UserInfo key strings for Safety Check push notifications.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFETY_CHECK_NOTIFICATIONS_UTILS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SAFETY_CHECK_NOTIFICATIONS_UTILS_CONSTANTS_H_
 

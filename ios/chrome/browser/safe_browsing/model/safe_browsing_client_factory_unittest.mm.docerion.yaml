@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_client_factory_unittest.mm.
+type: test
+title: Safe Browsing client factory unit tests
+summary: Tests that SafeBrowsingClientFactory returns distinct instances per profile and selects the consumer or enterprise URL lookup service according to policy settings.

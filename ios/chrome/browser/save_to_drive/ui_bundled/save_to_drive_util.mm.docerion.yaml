@@ -1,0 +1,4 @@
+# Docerion header of save_to_drive_util.mm.
+type: source
+title: Save to Drive utility implementation
+summary: Implements helpers that format byte counts, build localized account picker body text, and create the account picker configuration for a download task.

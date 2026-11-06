@@ -1,0 +1,4 @@
+# Docerion header of screenshot_metrics_recorder.mm.
+type: source
+title: ScreenshotMetricsRecorder implementation
+summary: Records the MobileSingleScreenScreenshot UMA action when a screenshot notification occurs with a single foreground scene.

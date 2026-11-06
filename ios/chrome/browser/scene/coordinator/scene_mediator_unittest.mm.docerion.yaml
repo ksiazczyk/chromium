@@ -1,0 +1,4 @@
+# Docerion header of scene_mediator_unittest.mm.
+type: test
+title: SceneMediator unit tests
+summary: Unit tests for SceneMediator verifying the new IA promo trigger logic with mock trackers and fake scene consumers.

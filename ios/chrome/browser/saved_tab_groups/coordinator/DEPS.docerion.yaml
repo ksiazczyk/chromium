@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the face pile coordinator
+summary: Specifies the allowed include directories for code in the saved tab groups coordinator folder.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for Safety Check notification utilities
+summary: Defines GN source sets for the constants, utils, test_utils, and unit_tests targets with their dependencies and frameworks.

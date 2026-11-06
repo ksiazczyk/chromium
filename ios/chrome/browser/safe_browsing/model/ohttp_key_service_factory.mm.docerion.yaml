@@ -1,0 +1,4 @@
+# Docerion header of ohttp_key_service_factory.mm.
+type: source
+title: OHTTP key service factory
+summary: Creates the per-profile OHTTP key service used for hash-prefix real-time checks, starting async key fetch early with the Safe Browsing service's URL loader factory.

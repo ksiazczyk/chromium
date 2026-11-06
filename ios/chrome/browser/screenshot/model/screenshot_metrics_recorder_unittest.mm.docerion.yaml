@@ -1,0 +1,4 @@
+# Docerion header of screenshot_metrics_recorder_unittest.mm.
+type: test
+title: ScreenshotMetricsRecorder unit tests
+summary: Unit tests verifying screenshot metric recording across single and multi-window scene configurations using OCMock.

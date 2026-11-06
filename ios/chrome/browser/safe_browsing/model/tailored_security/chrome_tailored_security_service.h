@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tailored security service header
+// summary: Declares the iOS tailored security service that bridges account-level and Chrome-level Enhanced Safe Browsing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_TAILORED_SECURITY_CHROME_TAILORED_SECURITY_SERVICE_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_TAILORED_SECURITY_CHROME_TAILORED_SECURITY_SERVICE_H_
 

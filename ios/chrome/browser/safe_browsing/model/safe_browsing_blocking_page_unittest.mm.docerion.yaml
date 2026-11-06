@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_blocking_page_unittest.mm.
+type: test
+title: Safe Browsing blocking page unit tests
+summary: Unit tests for SafeBrowsingBlockingPage covering interstitial commands, malware decision metrics and navigation behavior using fake web state and profile fixtures.

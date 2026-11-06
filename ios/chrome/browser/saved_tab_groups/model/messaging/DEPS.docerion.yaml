@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for saved tab groups messaging
+summary: Defines include rules that restrict which directories the saved tab groups messaging model code may depend on.

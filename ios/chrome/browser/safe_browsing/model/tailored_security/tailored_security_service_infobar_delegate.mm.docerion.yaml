@@ -1,0 +1,4 @@
+# Docerion header of tailored_security_service_infobar_delegate.mm.
+type: source
+title: Tailored security infobar delegate implementation
+summary: Implements infobar message texts, descriptions and actions for tailored security prompts, logging outcome histograms.

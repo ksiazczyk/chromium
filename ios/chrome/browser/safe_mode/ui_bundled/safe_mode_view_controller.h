@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Mode view controller interface
+// summary: Declares the Safe Mode view controller, its delegate protocol for restarting the browser, and the hasSuggestions check.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_MODE_UI_BUNDLED_SAFE_MODE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SAFE_MODE_UI_BUNDLED_SAFE_MODE_VIEW_CONTROLLER_H_
 

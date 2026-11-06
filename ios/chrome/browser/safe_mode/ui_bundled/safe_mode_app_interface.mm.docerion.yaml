@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_app_interface.mm.
+type: source
+title: Safe Mode app interface implementation
+summary: Implements helpers that present the Safe Mode view controller and store the failed startup attempt count in user defaults.

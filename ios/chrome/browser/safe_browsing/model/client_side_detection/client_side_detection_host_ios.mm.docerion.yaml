@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_host_ios.mm.
+type: source
+title: ClientSideDetectionHostIOS implementation
+summary: Implements the iOS phishing detection host, handling navigation events, snapshots, classification, and unsafe resource reporting.

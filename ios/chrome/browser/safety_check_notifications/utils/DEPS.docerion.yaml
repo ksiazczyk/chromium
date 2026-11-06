@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Safety Check notification utilities
+summary: Allows includes from the passwords, push notification, and safety check model directories for this folder.

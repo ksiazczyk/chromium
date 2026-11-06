@@ -1,0 +1,4 @@
+# Docerion header of safety_check_notification_client_unittest.mm.
+type: test
+title: SafetyCheckNotificationClient unit tests
+summary: Unit tests for the Safety Check notification client covering notification delivery, provisional notifications and multi-profile behavior using mock profiles and OCMock.

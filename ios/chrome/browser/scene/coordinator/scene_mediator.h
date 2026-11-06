@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneMediator interface
+// summary: Declares SceneMediator, a SceneMutator mediator that connects fullscreen controllers, feature engagement tracker, and Gemini service to the scene consumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCENE_COORDINATOR_SCENE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SCENE_COORDINATOR_SCENE_MEDIATOR_H_
 
