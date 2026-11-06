@@ -1,0 +1,4 @@
+# Docerion header of linux-perf-fyi_map.json.
+type: config
+title: Linux perf FYI shard map
+summary: Shard map for the Linux perf FYI builder assigning Speedometer benchmarks and crossbench suites to a single shard.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GMA embedder crossbench story set
+# summary: Story set for the gma.embedder.crossbench benchmark with its Android archive data file.
+# ---
+
 import os
 
 from core import path_util

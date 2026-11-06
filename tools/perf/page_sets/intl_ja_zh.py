@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Japanese and Chinese page cycler story set
+# summary: Story set of popular Japanese and Chinese pages run as page cycler stories with cold and warm cache temperatures.
+# ---
+
 from page_sets import page_cycler_story
 from telemetry.page import cache_temperature as cache_temperature_module
 from telemetry.page import shared_page_state

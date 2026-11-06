@@ -1,6 +1,12 @@
 -- Copyright 2019 Google LLC.
 -- SPDX-License-Identifier: Apache-2.0
 
+-- ---docerion
+-- type: source
+-- title: Console error metric SQL queries
+-- summary: SQL views that count console error events from blink and V8 trace slices and split them into all, JavaScript, and network errors.
+-- ---
+
 CREATE VIEW console_error_events AS
 SELECT args.string_value as source
 from slices

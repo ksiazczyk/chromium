@@ -1,0 +1,4 @@
+# Docerion header of mac-laptop_low_end-perf_timing.json.
+type: data
+title: Mac low-end laptop perf timing data
+summary: Durations of perf tests on the low-end Mac laptop bot, used for shard map calculations.

@@ -4,6 +4,12 @@
 -- See go/power-mobile-benchmark for the list of supported devices.
 -- Output values are in Joules (Watt-seconds).
 
+-- ---docerion
+-- type: source
+-- title: Power rails metric SQL query
+-- summary: Computes on-device power drain per subsystem over story runs and interaction events and emits the power rails metric output.
+-- ---
+
 SELECT RUN_METRIC('android/power_drain_in_watts.sql');
 
 CREATE VIEW run_story_event AS

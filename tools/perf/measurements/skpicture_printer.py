@@ -1,6 +1,13 @@
 # Copyright 2012 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: SkPicture printer page test
+# summary: Legacy page test that saves a page as .skp SkPicture files via GPU benchmarking and reports the saved picture count, unsupported on Android and ChromeOS.
+# ---
+
 import glob
 import os
 

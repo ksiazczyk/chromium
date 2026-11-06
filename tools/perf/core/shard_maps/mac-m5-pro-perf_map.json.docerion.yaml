@@ -1,0 +1,4 @@
+# Docerion header of mac-m5-pro-perf_map.json.
+type: config
+title: Mac M5 Pro perf shard map
+summary: Shard map distributing blink_perf, desktop benchmarks, executables and crossbench tests for the Mac M5 Pro performance builder.

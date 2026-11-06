@@ -1,6 +1,12 @@
 -- Copyright 2020 Google LLC.
 -- SPDX-License-Identifier: Apache-2.0
 
+-- ---docerion
+-- type: source
+-- title: Dummy metric SQL queries
+-- summary: SQL view that outputs fixed dummy values for simple, repeated, and nested metric fields, likely for testing the metric computation pipeline.
+-- ---
+
 CREATE VIEW dummy_metric_output AS
 SELECT DummyMetric(
   'simple_field', 42,

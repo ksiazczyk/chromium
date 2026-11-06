@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Speedometer 2 benchmark stories
+# summary: Defines telemetry stories for Apple's Speedometer 2 benchmark with suite filtering and per-suite timing measurements.
+# ---
+
 """Apple's Speedometer 2 performance benchmark pages"""
 
 import re

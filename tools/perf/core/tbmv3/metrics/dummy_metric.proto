@@ -1,6 +1,12 @@
 // Copyright 2019 Google LLC.
 // SPDX-License-Identifier: Apache-2.0
 
+// ---docerion
+// type: source
+// title: Dummy metric proto definition
+// summary: Defines the DummyMetric protobuf message with simple, repeated, and nested fields, apparently a sample metric for exercising metric proto features.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos;

@@ -1,0 +1,4 @@
+# Docerion header of android-pixel6-pro-perf-pgo_map.json.
+type: config
+title: Pixel 6 Pro PGO perf shard map
+summary: Shard map distributing PGO performance benchmarks including blink_perf, rendering.mobile, and media.mobile across shards on Pixel 6 Pro.

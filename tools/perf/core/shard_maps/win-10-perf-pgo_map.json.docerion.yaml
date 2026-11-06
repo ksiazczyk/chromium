@@ -1,0 +1,4 @@
+# Docerion header of win-10-perf-pgo_map.json.
+type: config
+title: Windows 10 perf PGO shard map
+summary: Shard map distributing blink_perf, desktop benchmarks and perftest executables across shards for the Windows 10 PGO performance builder.

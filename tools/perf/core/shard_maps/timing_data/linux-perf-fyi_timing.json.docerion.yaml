@@ -1,0 +1,4 @@
+# Docerion header of linux-perf-fyi_timing.json.
+type: data
+title: Linux perf FYI timing data
+summary: Benchmark durations for Speedometer2 and Speedometer3 on the linux-perf-fyi builder, used for perf shard mapping.

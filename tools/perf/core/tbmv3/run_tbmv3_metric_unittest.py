@@ -1,6 +1,13 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Integration tests for run_tbmv3_metric
+# summary: Integration tests that run run_tbmv3_metric end to end with the real trace processor, including all SQL metrics on an empty trace.
+# ---
+
 """Integration tests for run_tbmv3_metric.py.
 
 These test check run_tbmv3_metric works end to end, using the real trace

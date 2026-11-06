@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Power rails metric proto definition
+// summary: Defines the PowerRailsMetric protobuf with per-subsystem energy readings in Joules over story runs and interaction events.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos;

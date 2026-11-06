@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Top 25 smooth scrolling story set
+# summary: Defines smooth-scrolling page classes for top sites such as Gmail, Calendar, Docs and ESPN used in scrolling benchmarks.
+# ---
+
 from telemetry.page import shared_page_state
 from telemetry import story
 

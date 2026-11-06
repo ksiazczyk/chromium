@@ -1,0 +1,4 @@
+# Docerion header of android-pixel4-perf-pgo_timing.json.
+type: data
+title: Pixel 4 perf PGO timing data
+summary: Single-entry timing list giving the components_perftests duration for the Android Pixel 4 perf PGO builder's shard map.

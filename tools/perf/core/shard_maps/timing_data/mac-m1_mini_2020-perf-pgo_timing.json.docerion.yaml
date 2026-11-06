@@ -1,0 +1,4 @@
+# Docerion header of mac-m1_mini_2020-perf-pgo_timing.json.
+type: data
+title: Mac M1 mini 2020 PGO perf timing data
+summary: Durations of benchmark perf tests on the Mac M1 mini 2020 PGO bot, used for shard map calculations.

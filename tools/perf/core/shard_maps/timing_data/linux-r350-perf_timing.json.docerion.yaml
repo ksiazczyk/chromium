@@ -1,0 +1,4 @@
+# Docerion header of linux-r350-perf_timing.json.
+type: data
+title: Linux R350 perf timing data
+summary: Durations of perf tests on the Linux R350 bot, used for shard map calculations.

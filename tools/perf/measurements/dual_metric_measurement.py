@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Dual metric measurement combining ad hoc and trace based metrics
+# summary: Defines a story test measurement that runs timeline-based tracing metrics when configured and otherwise collects ad hoc measurements from PressStory pages.
+# ---
+
 from telemetry.web_perf import story_test
 from telemetry.web_perf import timeline_based_measurement
 

@@ -1,0 +1,4 @@
+# Docerion header of win-10_laptop_low_end-perf_hp-candidate_map.json.
+type: config
+title: Windows 10 low-end laptop perf HP candidate shard map
+summary: Shard map assigning rendering.desktop and v8.browsing_desktop stories to a single shard for the win-10_laptop_low_end perf HP candidate bot.

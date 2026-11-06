@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: WebView power usage metric proto definition
+// summary: Defines the WebViewPowerUsageMetric protobuf estimating WebView power use per app and core type in milliampere-seconds.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos;

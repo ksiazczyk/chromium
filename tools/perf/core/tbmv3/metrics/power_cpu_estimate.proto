@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Power CPU estimate proto definition
+// summary: Defines the PowerCpuEstimate protobuf message with story power in ampere-hours and story duration fields, extending Perfetto TraceMetrics.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos;

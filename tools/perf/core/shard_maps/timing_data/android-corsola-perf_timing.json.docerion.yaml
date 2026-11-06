@@ -1,0 +1,4 @@
+# Docerion header of android-corsola-perf_timing.json.
+type: data
+title: Android corsola perf timing data
+summary: Empty timing data list for the android-corsola perf builder, containing no benchmark duration entries.

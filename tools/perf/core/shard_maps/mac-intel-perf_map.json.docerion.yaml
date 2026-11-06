@@ -1,0 +1,4 @@
+# Docerion header of mac-intel-perf_map.json.
+type: data
+title: Mac Intel perf shard map
+summary: Shard map splitting Mac Intel performance benchmarks, perftest executables and crossbench suites across numbered test shards.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Static top 25 pages story set
+# summary: Defines a story set that loads 25 static top-site pages from local files for Chromium performance testing.
+# ---
+
 from telemetry.page import page
 from telemetry.page import shared_page_state
 from telemetry import story

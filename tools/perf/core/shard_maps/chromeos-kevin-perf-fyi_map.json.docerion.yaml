@@ -1,0 +1,4 @@
+# Docerion header of chromeos-kevin-perf-fyi_map.json.
+type: config
+title: ChromeOS kevin perf FYI shard map
+summary: Shard map splitting the rendering.desktop benchmark across four shards for the ChromeOS kevin perf FYI builder, with predicted per-shard run times.

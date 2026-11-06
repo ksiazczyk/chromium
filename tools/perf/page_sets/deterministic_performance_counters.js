@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deterministic performance counters monkey patch
+// summary: Monkey patches the window.performance API with deterministic now() and timing values so page load benchmarks produce repeatable results.
+// ---
+
 // Monkey patch performance to get deterministic results.
 (function () {
   // Web page replay patches Data.now().

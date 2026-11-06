@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: WasmPsPdfKit benchmark story set
+# summary: Defines a story set running the PSPDFKit WebAssembly benchmark and parsing total, rendering, searching and other scores.
+# ---
+
 from telemetry import story
 
 from page_sets import press_story

@@ -1,0 +1,4 @@
+# Docerion header of mac-laptop_low_end-perf_map.json.
+type: data
+title: Mac low-end laptop perf shard map
+summary: Shard map splitting Mac low-end laptop performance benchmarks, executables and crossbench suites across numbered test shards.

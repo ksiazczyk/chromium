@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Embedder crossbench story set
+# summary: Story set for the embedder.crossbench benchmark using Android archive data from the partner bucket.
+# ---
+
 import os
 
 from core import path_util

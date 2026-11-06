@@ -1,0 +1,4 @@
+# Docerion header of android-pixel4-perf_timing.json.
+type: data
+title: Pixel 4 perf timing data
+summary: Measured durations for blink_perf and other benchmarks on the Android Pixel 4 perf builder, used to balance perf trybot shard maps.

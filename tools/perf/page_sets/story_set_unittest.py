@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Story set smoke unit test
+# summary: Runs smoke tests over all story sets in the directory and asserts that every story has a name.
+# ---
+
 import os
 
 from telemetry import decorators

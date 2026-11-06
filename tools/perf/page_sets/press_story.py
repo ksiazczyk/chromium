@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Press story base class
+# summary: Defines the PressStory base class that benchmark stories extend to execute tests on pages and record ad-hoc measurements.
+# ---
+
 from telemetry.page import page as page_module
 
 

@@ -1,0 +1,4 @@
+# Docerion header of android-go-wembley-perf_map.json.
+type: data
+title: Android Go wembley perf shard map
+summary: Distributes Android Go wembley perf benchmarks like speedometer3, startup, and system health across five shards with predicted per-shard run times.

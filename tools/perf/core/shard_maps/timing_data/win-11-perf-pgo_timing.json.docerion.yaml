@@ -1,0 +1,4 @@
+# Docerion header of win-11-perf-pgo_timing.json.
+type: data
+title: Windows 11 perf-pgo timing data
+summary: Empty benchmark duration list for the win-11 perf-pgo configuration in the perf shard map timing data.

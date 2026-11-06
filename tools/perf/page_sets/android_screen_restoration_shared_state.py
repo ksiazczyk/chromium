@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Android screen restoration shared page state
+# summary: Shared page state that turns the Android screen on before and after each story runs.
+# ---
+
 from telemetry.page import shared_page_state
 
 

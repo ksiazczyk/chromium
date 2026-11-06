@@ -1,0 +1,4 @@
+# Docerion header of fuchsia-perf-nsn_timing.json.
+type: data
+title: Fuchsia perf NSN timing data
+summary: Empty benchmark duration list for the fuchsia-perf-nsn perf builder, used in shard map timing calculations.

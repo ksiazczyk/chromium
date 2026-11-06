@@ -1,6 +1,13 @@
 # Copyright 2017 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Idle story set with timed idle stories
+# summary: Defines an idle story set whose stories simply sleep for 10, 60 and 120 seconds to measure idle platform behavior.
+# ---
+
 import time
 
 from telemetry.page import shared_page_state

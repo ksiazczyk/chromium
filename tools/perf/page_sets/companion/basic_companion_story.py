@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Basic companion benchmark stories
+# summary: Defines companion story classes that open the Companion side panel, log in, and verify Companion histograms during performance benchmarks.
+# ---
+
 import json
 import subprocess
 from page_sets.desktop_ui.multitab_story import MultiTabStory

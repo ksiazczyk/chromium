@@ -1,0 +1,4 @@
+# Docerion header of fuchsia-perf-nsn-pgo_timing.json.
+type: data
+title: Fuchsia perf NSN PGO timing data
+summary: Benchmark durations for media and Speedometer2 tests on the fuchsia-perf-nsn-pgo builder, used for perf shard mapping.

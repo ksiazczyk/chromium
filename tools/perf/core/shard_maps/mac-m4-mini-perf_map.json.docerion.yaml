@@ -1,0 +1,4 @@
+# Docerion header of mac-m4-mini-perf_map.json.
+type: config
+title: Mac M4 Mini perf shard map
+summary: Shard map distributing benchmarks, executables and crossbench tests across shards for the Mac M4 Mini performance builder.

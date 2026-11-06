@@ -1,0 +1,4 @@
+# Docerion header of win-10_laptop_low_end-perf-pgo_map.json.
+type: config
+title: Windows 10 low-end laptop perf PGO shard map
+summary: Shard map splitting blink_perf and other desktop benchmarks across many shards for the win-10_laptop_low_end perf PGO bot.

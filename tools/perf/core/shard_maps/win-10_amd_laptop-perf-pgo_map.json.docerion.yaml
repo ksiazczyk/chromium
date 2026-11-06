@@ -1,0 +1,4 @@
+# Docerion header of win-10_amd_laptop-perf-pgo_map.json.
+type: config
+title: Windows 10 AMD laptop perf PGO shard map
+summary: Shard map assigning Jetstream2 and Speedometer2 benchmarks to shards for the win-10_amd_laptop perf PGO bot, with predicted shard timings.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Rasterize and record micro benchmark unit test
+# summary: Functional smoke test that runs rasterize_and_record_micro on a blank page and checks all expected metrics are present and non-zero.
+# ---
+
 from telemetry import decorators
 from telemetry.testing import legacy_page_test_case
 

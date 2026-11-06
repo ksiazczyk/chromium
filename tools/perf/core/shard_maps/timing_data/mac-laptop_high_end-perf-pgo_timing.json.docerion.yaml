@@ -1,0 +1,4 @@
+# Docerion header of mac-laptop_high_end-perf-pgo_timing.json.
+type: data
+title: Mac high-end laptop PGO perf timing data
+summary: Durations of gtest-based perf tests on the high-end Mac laptop PGO bot, used for shard map calculations.

@@ -1,0 +1,4 @@
+# Docerion header of android-pixel-tangor-perf_map.json.
+type: data
+title: Pixel tangor perf shard map
+summary: Shard map assigning blink perf, rendering, media, and system health benchmarks to shards for the Android pixel tangor device.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Simple benchmark test case classes
+# summary: Defines simple sample PerfBenchmark subclasses that other test fixture modules build upon.
+# ---
+
 from core import perf_benchmark
 
 

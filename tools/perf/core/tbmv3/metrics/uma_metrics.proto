@@ -1,6 +1,12 @@
 // Copyright 2020 Google LLC.
 // SPDX-License-Identifier: Apache-2.0
 
+// ---docerion
+// type: source
+// title: UMA metrics proto definition
+// summary: Defines the UMAMetrics protobuf covering compositor latency, event jank, scroll jank, graphics smoothness and memory histograms.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos;

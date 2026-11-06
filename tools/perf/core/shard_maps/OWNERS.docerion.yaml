@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Perf shard maps OWNERS
+summary: Delegates ownership of the shard_maps directory to the perf group owners defined in infra/config.

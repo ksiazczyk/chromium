@@ -1,0 +1,4 @@
+# Docerion header of test_timing_data_1_build.json.
+type: data
+title: Benchmark story timing data for one build
+summary: Contains per-story benchmark durations from a single build, serving as timing input for sharding tests.

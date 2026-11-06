@@ -1,6 +1,12 @@
 -- Copyright 2020 Google LLC.
 -- SPDX-License-Identifier: Apache-2.0
 
+-- ---docerion
+-- type: source
+-- title: Accessibility metric SQL queries
+-- summary: SQL views that measure browser and renderer accessibility event durations from trace slices to populate the accessibility metric output.
+-- ---
+
 CREATE VIEW browser_accessibility_events
 AS SELECT slice.dur / 1e6 as time
 FROM slice

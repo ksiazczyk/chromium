@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Package init that discovers page set story classes
+# summary: Imports and re-exports all StorySet subclasses discovered in the page_sets package for telemetry.
+# ---
+
 import inspect
 import os
 import sys

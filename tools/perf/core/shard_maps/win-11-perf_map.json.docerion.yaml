@@ -1,0 +1,4 @@
+# Docerion header of win-11-perf_map.json.
+type: config
+title: Windows 11 perf shard map
+summary: Shard map distributing benchmarks, perftest executables, and crossbench suites such as Jetstream and Speedometer across shards for the win-11 perf bot.

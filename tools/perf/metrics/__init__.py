@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Metric base class for telemetry measurements
+# summary: Defines the Metric base class with Start, Stop and AddResults methods that page tests use to collect and report measurement data.
+# ---
+
 
 class Metric(object):
   """Base class for all the metrics that are used by telemetry measurements.

@@ -1,0 +1,4 @@
+# Docerion header of win-arm64-snapdragon-elite-perf_map.json.
+type: config
+title: Windows ARM64 Snapdragon Elite perf shard map
+summary: Shard map distributing benchmarks, perftest executables, and crossbench suites across shards for the win-arm64-snapdragon-elite perf bot.

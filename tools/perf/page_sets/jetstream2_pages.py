@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JetStream2 benchmark stories
+# summary: Defines telemetry stories and story sets that run the JetStream2 JavaScript benchmark and record per-benchmark scores, iterations, and sub-results.
+# ---
+
 from page_sets import press_story
 from telemetry import story
 

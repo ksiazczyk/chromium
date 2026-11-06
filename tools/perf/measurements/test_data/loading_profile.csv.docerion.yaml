@@ -1,0 +1,4 @@
+# Docerion header of loading_profile.csv.
+type: data
+title: Loading profile test data
+summary: CSV of per-URL page loading profiles recording function-level sampling periods and load times, used as test data for performance measurement tooling.

@@ -1,0 +1,4 @@
+# Docerion header of benchmarks_to_shard.json.
+type: data
+title: Benchmarks to shard with story lists
+summary: Lists performance benchmark suites with their stories and repeat counts, used for sharding benchmarks.

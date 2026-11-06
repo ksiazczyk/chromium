@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Measurement smoke test for page test constructibility
+# summary: Smoke test that discovers all measurement and benchmark page test instances and verifies each can be constructed.
+# ---
+
 import os
 import unittest
 

@@ -1,0 +1,4 @@
+# Docerion header of smoke_test_benchmark_shard_map.json.
+type: config
+title: Smoke test benchmark shard map
+summary: Shard map used for smoke tests, assigning the dummy stable and noisy benchmarks to two shards.

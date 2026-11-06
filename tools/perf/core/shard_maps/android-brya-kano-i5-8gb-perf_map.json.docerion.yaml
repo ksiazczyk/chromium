@@ -1,0 +1,4 @@
+# Docerion header of android-brya-kano-i5-8gb-perf_map.json.
+type: data
+title: Brya kano i5 8GB perf shard map
+summary: Maps perf benchmarks and crossbench suites such as Jetstream2, MotionMark, and Speedometer to shards for the brya-kano i5 8GB device, with predicted shard timings.

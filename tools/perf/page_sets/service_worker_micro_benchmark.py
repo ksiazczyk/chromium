@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Service worker micro benchmark page set
+# summary: Defines a page set for micro benchmarking service worker functions such as many concurrent fetches against a local test server.
+# ---
+
 from telemetry.page import page
 from telemetry import story
 

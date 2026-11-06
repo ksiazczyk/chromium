@@ -1,6 +1,12 @@
 // Copyright 2020 Google LLC.
 // SPDX-License-Identifier: Apache-2.0
 
+// ---docerion
+// type: source
+// title: CPU time metric proto definition
+// summary: Defines the CpuTimeMetric protobuf message with a CPU time percentage field, extending Perfetto TraceMetrics.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos;

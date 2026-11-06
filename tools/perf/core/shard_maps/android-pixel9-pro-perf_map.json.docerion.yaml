@@ -1,0 +1,4 @@
+# Docerion header of android-pixel9-pro-perf_map.json.
+type: config
+title: Pixel 9 Pro perf shard map
+summary: Shard map assigning performance benchmarks and crossbench suites such as speedometer3 and motionmark to shards on Pixel 9 Pro.

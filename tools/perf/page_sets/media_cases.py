@@ -7,6 +7,12 @@
 # Silverlight). These scenarios simply exercise the Chromium code in particular
 # ways. The metrics that are produced are calculated in a separate step.
 
+# ---docerion
+# type: source
+# title: Media playback performance scenarios
+# summary: Defines page stories for HTML5 audio and video playback performance tests with codec, network, and interaction filter tags.
+# ---
+
 import abc
 
 from telemetry.page import page as page_module

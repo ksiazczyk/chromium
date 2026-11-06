@@ -1,0 +1,4 @@
+# Docerion header of linux-perf-rel_timing.json.
+type: data
+title: Linux perf release timing data
+summary: Benchmark durations for base, tint, tracing and load library perftests on the linux-perf-rel builder for shard mapping.

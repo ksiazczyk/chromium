@@ -1,0 +1,4 @@
+# Docerion header of fuchsia-perf-shk_timing.json.
+type: data
+title: Fuchsia perf SHK timing data
+summary: Benchmark durations for media, Speedometer2 and v8 browsing tests on the fuchsia-perf-shk builder for shard mapping.

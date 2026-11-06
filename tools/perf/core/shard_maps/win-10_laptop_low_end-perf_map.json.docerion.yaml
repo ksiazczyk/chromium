@@ -1,0 +1,4 @@
+# Docerion header of win-10_laptop_low_end-perf_map.json.
+type: config
+title: Windows 10 low-end laptop perf shard map
+summary: Shard map distributing desktop benchmarks including blink_perf, rendering, memory, and power across shards for the win-10_laptop_low_end perf bot.

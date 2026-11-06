@@ -1,6 +1,12 @@
 -- Copyright 2020 Google LLC.
 -- SPDX-License-Identifier: Apache-2.0
 
+-- ---docerion
+-- type: source
+-- title: CPU time metric SQL queries
+-- summary: SQL views that compute CPU time of top-level slices as a percentage of the total trace duration for the CPU time metric.
+-- ---
+
 -- First create a view that exposes cpu time of all slices.
 -- TODO(dproy): Extract this view into a common helper file.
 CREATE VIEW cpu_slices

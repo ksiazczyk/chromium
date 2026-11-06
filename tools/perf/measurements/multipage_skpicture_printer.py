@@ -1,6 +1,13 @@
 # Copyright 2016 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Multipage SkPicture printer page test
+# summary: Legacy page test that saves loaded pages as multi-page .mskp SkPicture files via GPU benchmarking and fails on Android and ChromeOS.
+# ---
+
 import os
 
 from telemetry.page import legacy_page_test

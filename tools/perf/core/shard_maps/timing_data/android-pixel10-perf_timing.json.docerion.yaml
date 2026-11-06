@@ -1,0 +1,4 @@
+# Docerion header of android-pixel10-perf_timing.json.
+type: data
+title: Pixel 10 perf timing data
+summary: Benchmark durations for the Pixel 10 perf builder, covering blink_perf, rendering.mobile, and system_health benchmarks.

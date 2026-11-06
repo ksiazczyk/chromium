@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: SkPicture printer unit test
+# summary: Runs the SkPicture printer on a blank page and asserts that at least one picture was saved.
+# ---
+
 from telemetry import decorators
 from telemetry.testing import legacy_page_test_case
 

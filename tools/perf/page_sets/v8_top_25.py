@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: V8 top 25 story set
+# summary: Defines a V8 benchmark story set migrated from a non-telemetry benchmark, with URL lists and ad-script measurement pages.
+# ---
+
 from page_sets import page_cycler_story
 from telemetry import story
 from telemetry.page import cache_temperature as cache_temperature_module

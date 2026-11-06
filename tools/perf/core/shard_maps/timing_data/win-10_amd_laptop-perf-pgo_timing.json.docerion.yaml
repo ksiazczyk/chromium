@@ -1,0 +1,4 @@
+# Docerion header of win-10_amd_laptop-perf-pgo_timing.json.
+type: data
+title: Windows 10 AMD laptop PGO perf test timing data
+summary: Empty timing data list for the win-10_amd_laptop-perf-pgo builder, currently recording no benchmark test durations.

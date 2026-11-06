@@ -1,0 +1,4 @@
+# Docerion header of linux-perf-rel_map.json.
+type: config
+title: Linux perf release shard map
+summary: Shard map splitting system_health.common_desktop and perftest executables across two shards for the Linux perf release builder.
