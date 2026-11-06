@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared Module extension manifest
+summary: Minimal manifest for a shared module extension used as test data in Chromium's policy shared module extension tests.

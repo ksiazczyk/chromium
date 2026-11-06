@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Search provider override long name locale messages
+summary: Chrome extension locale messages fixture defining the url_domain entry used by the search provider override long name test.

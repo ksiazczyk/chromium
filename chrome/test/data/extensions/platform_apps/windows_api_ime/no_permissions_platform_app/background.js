@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for no-permission IME window tests
+// summary: Runs chrome.app.window.create tests that expect failure when the ime option is set by a platform app lacking the app.window.ime permission.
+// ---
+
 var error = "The \"ime\" option is not supported for platform app.";
 
 function testImeEnabled(setOption, opt_setValue) {

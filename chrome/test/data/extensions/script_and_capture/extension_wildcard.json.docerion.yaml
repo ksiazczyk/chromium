@@ -1,0 +1,4 @@
+# Docerion header of extension_wildcard.json.
+type: test
+title: Test manifest with wildcard URL permission
+summary: Test extension manifest granting tabs and *://*/ wildcard host permissions, used as a fixture for script and capture permission tests.

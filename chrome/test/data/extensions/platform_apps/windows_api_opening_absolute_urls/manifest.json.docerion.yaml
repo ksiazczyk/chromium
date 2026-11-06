@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the absolute URL opening test app
+summary: Manifest version 2 app definition that registers background.js for the test app used to exercise opening absolute URLs.

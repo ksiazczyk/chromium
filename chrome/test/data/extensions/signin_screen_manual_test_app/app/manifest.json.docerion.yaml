@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Sign-in Screen Manual Test App manifest
+summary: Chrome extension manifest declaring the sign-in screen manual test app with its background script and the certificateProvider permission.

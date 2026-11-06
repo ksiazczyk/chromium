@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple extension with icon manifest
+summary: Manifest for a simple Chrome extension test fixture that declares version 0.1, manifest version 3, and a 128-pixel icon.

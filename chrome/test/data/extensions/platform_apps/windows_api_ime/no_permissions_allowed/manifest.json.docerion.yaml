@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no-permission IME window test app
+summary: Manifest version 2 extension manifest for the test app that runs the IME window tests, listing a background script and no permissions.

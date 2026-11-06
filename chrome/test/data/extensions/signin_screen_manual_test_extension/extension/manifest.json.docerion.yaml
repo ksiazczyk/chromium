@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Sign-in screen test extension manifest
+summary: Manifest v3 definition for the extension used to manually test extension installation in the Chrome OS sign-in profile, registering background.js as its service worker.

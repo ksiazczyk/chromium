@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the absolute URL window opening test
+// summary: Runs browser test cases verifying that a component Chrome app can open chrome:-scheme URLs in app windows but fails to open file URLs.
+// ---
+
 chrome.test.runTests([
   function openChromeUrl() {
     // The app is loaded as a component, so it should be able to load

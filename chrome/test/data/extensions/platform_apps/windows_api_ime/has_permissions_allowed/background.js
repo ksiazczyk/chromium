@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME window creation tests with app.window.ime permission
+// summary: Runs chrome.test cases verifying that IME extensions may only create windows with ime set to true and frame set to none, expecting failures for other option combinations.
+// ---
+
 var error = 'IME extensions must create an IME window ( with "ime: true" and ' +
     '"frame: \'none\'"). Panels are no longer supported for IME extensions.';
 

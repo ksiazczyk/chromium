@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: Shared styles for the feed preview
+summary: Defines CSS styles shared between the iframe and the parent document of the feed subscription extension, such as item titles and descriptions.
+*/
+
 /**
  * Styles that are shared between the iframe and the parent document.
  */

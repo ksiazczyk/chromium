@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug tracker components
+summary: Maps the directory to Buganizer components for public and internal ChromeOS Smartcard issue tracking.

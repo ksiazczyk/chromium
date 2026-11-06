@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: en_GB locale messages for the RSS Subscription extension
+summary: Provides British English UI strings for the RSS Subscription extension, used as test data for the subscribe page action feature.

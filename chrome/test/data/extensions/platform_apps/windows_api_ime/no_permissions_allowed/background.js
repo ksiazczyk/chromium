@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for IME window no-permission tests
+// summary: Runs Chrome tests that expect creating app windows with the ime option to fail when the app.window.ime permission is not granted.
+// ---
+
 var error =
     "Extensions require the \"app.window.ime\" permission to create windows.";
 

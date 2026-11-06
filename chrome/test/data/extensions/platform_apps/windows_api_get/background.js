@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for Windows API get/getAll tests
+// summary: Runs chrome.test suites that create windows and verify chrome.app.window.get and getAll behavior, including empty, single, and multiple window cases.
+// ---
+
 function compareId(a, b) {
   return a.id.localeCompare(b.id);
 }

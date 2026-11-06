@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Sign-in screen managed storage test profile preferences
+summary: Preferences fixture for a Chrome test profile that pre-installs the signin screen managed storage test extension with a managed schema.

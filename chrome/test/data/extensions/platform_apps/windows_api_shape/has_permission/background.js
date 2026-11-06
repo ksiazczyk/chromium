@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window shape test background script
+// summary: Runs chrome.app.window tests that set window shapes using single, multiple, empty, and null rect regions.
+// ---
+
 function testWindowShape(testId, region) {
   var createOptions = { id: testId, frame: 'none' };
 

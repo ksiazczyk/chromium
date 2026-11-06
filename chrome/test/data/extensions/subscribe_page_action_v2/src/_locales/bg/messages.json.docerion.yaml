@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Bulgarian messages for RSS Subscription test extension
+summary: Bulgarian localization strings for the RSS Subscription extension, stored as Chrome test data for the subscribe page action.

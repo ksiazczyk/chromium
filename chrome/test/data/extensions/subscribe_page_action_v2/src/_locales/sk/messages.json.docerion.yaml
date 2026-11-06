@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Slovak locale messages for RSS Subscription test extension
+summary: Slovak translations of UI strings for the RSS Subscription extension, provided as test data under chrome/test/data.

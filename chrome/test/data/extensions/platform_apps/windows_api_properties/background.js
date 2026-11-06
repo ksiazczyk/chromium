@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background page counting app window events
+// summary: Background page of the test app that counts chrome.app.window events such as onMinimized and onBoundsChanged and exposes the counts to the main window.
+// ---
+
 var eventCounts = {};
 var eventCallback = null;
 

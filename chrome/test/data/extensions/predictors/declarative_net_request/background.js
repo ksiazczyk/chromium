@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the reactive prefetch test extension
+// summary: Service worker that records requests blocked by declarativeNetRequest rules and signals the test when a given URL has been blocked.
+// ---
+
 const requestsBlocked = new Set();
 
 async function waitUntilRequestBlocked(url) {

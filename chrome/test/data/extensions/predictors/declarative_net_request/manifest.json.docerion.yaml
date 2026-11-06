@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the reactive prefetch test extension
+summary: Manifest declaring declarativeNetRequest permissions, host permissions and the ruleset used to check that extensions can block predictor-triggered prefetches.

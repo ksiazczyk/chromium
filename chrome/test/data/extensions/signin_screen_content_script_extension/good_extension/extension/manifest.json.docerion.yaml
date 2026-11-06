@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Sign-in screen test extension manifest
+summary: Manifest for a test extension verifying installation of an extension with an allowlisted content script in the Chrome OS sign-in profile.

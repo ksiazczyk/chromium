@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Test extension index page foo
+summary: Minimal HTML page used as test data for a simple Chrome extension that serves an index.html.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: manifest.json
+summary: Chrome extension manifest fixture for a content scripts test, declaring script.js to run on file and http pages.

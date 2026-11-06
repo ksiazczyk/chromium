@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Simplified Chinese locale messages for RSS Subscription extension
+summary: Simplified Chinese UI strings for the RSS Subscription extension, provided as test data under Chromium's extension test fixtures.

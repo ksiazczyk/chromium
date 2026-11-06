@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed detection and debug logging helpers
+// summary: Shared script for the subscription extension that detects RSS, Atom or RDF feed documents and provides debug logging used during feed sniffing.
+// ---
+
 // The possible log levels.
 const logLevels = {
   'none': 0,

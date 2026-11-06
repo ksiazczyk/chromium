@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest with alwaysOnTop permission
+summary: Manifest for the Windows API AlwaysOnTop test app, declaring the app.window.alwaysOnTop permission and the background script entry point.

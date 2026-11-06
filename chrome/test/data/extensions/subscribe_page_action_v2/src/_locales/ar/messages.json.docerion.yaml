@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Arabic locale messages for RSS Subscription test extension
+summary: Arabic localization strings for the RSS Subscription extension, provided as test data for Chrome extension browser tests.

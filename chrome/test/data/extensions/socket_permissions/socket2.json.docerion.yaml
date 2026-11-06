@@ -1,0 +1,4 @@
+# Docerion header of socket2.json.
+type: test
+title: Socket permission manifest with detailed patterns
+summary: Manifest version 2 app fixture listing tcp-connect, tcp-listen, udp-bind and udp-send-to socket permission patterns for permission tests.

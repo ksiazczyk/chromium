@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Storage Limited Quota Test Extension Manifest
+summary: Manifest for a test extension named Storage_LimitedQuota that does not request unlimited storage, used as fixture data in Chrome storage quota tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension Service Requirements Test manifest.json
+summary: Minimal Manifest V3 extension manifest fixture used by the extension service requirements tests.

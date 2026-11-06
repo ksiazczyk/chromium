@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Dutch locale messages for RSS Subscription Extension
+summary: Dutch translations for the RSS Subscription Extension's UI strings, provided as test extension data.

@@ -1,2 +1,8 @@
+---
+type: readme
+title: README for signin screen managed storage test extension
+summary: Explains that the actual extension contents for this test profile must be copied by the test setup code from chrome/test/data/extensions/signin_screen_managed_storage/.
+---
+
 The actual extension contents have to be copied by the test setup code from
 chrome/test/data/extensions/signin_screen_managed_storage/.

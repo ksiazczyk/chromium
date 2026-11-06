@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for long-name search provider override extension
+summary: Test fixture manifest defining an extension whose name exceeds the truncation threshold and which overrides the default search provider via chrome_settings_overrides.

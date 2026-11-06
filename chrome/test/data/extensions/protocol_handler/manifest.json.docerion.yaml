@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Protocol handler test extension manifest
+summary: Manifest for a test extension that verifies protocol handlers work from extension pages, exposing test.html as a web-accessible resource.

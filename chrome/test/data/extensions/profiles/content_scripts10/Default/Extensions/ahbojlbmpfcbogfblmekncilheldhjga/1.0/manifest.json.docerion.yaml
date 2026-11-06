@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest.json
+summary: Manifest for the test10 extension fixture, registering script.js as a content script that matches file and http URLs.

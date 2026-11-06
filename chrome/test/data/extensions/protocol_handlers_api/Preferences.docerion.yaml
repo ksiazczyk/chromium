@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Protocol handlers test extension preferences
+summary: Preferences fixture registering a test extension with an ipfs protocol handler for exercising the protocol_handlers manifest key.

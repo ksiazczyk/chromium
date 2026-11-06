@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for Windows API setShape test app
+summary: Chrome app manifest granting the app.window.shape permission for the window shape tests.

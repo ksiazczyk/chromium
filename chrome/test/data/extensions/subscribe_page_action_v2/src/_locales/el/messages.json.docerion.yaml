@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Greek locale messages for RSS subscription extension
+summary: Greek translations of the RSS subscription extension UI strings, used as test data in Chrome's extension tests.

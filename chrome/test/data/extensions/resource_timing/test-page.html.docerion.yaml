@@ -1,0 +1,4 @@
+# Docerion header of test-page.html.
+type: test
+title: Resource Fetched That Are Initiated from Content Script
+summary: Test page that verifies resources fetched from a content script do not trigger performance timeline resource timing entries, with helpers counting 24.png entries.

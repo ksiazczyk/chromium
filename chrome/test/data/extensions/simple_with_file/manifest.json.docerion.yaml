@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the simple_with_file test extension
+summary: Minimal Manifest V3 JSON defining the foo extension used by Chrome extension tests in this directory.

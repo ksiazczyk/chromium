@@ -1,3 +1,9 @@
+/*docerion
+type: source
+title: Shared styles for iframe and parent document
+summary: Stylesheet shared between the feed preview iframe and its parent document, styling item titles and descriptions.
+*/
+
 /**
  * Styles that are shared between the iframe and the parent document.
  */

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: English locale messages for RSS Subscription Extension
+summary: English UI strings for the RSS Subscription test extension, covering feed subscription actions, feed reader management, and options page labels.

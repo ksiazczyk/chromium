@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Swedish locale messages for RSS subscription test extension
+summary: Swedish localization strings for the RSS Subscription extension, serving as test fixture data for the subscribe page action in Chromium browser tests.

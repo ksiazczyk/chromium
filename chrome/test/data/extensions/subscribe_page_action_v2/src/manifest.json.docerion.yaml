@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: RSS subscription extension manifest
+summary: Manifest for the RSS subscription test extension, declaring content scripts, a background page, page action, options page, and permissions.

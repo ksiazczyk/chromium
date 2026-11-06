@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed preview iframe script
+// summary: Builds the sanitized feed preview inside an iframe, receiving feed XML over a MessageChannel and rendering up to ten items.
+// ---
+
 goog.provide('RSSExtension.IFrame');
 
 goog.require('goog.html.sanitizer.HtmlSanitizer');

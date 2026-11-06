@@ -1,0 +1,4 @@
+# Docerion header of extension_http_favicon.json.
+type: test
+title: HTTP favicon host permission test extension manifest
+summary: Test fixture manifest for an extension requesting the tabs permission and host access to a favicon host over HTTP, used by script and capture extension tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension Service Requirements Test Manifest
+summary: Test manifest for an extension requirements test, declaring manifest version 3 with the tabs permission in a bad-permissions test fixture.

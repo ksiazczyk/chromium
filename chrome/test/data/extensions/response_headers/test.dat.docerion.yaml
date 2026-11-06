@@ -1,0 +1,4 @@
+# Docerion header of test.dat.
+type: test
+title: Hello text test data file
+summary: Small text fixture containing the word Hello, used as test data for extension response header tests.

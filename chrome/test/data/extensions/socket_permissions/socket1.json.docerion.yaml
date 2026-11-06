@@ -1,0 +1,4 @@
+# Docerion header of socket1.json.
+type: test
+title: Socket permission manifest without patterns
+summary: Manifest version 2 app fixture declaring the plain socket permission with a background script, used in effective host permissions tests.

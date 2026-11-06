@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AlwaysOnTop test background script
+// summary: Background script that runs chrome.app.window tests verifying isAlwaysOnTop and setAlwaysOnTop behavior with the legacy alwaysOnTopWindows permission.
+// ---
+
 var callbackPass = chrome.test.callbackPass;
 
 function testAlwaysOnTop(testId, initValue, setOption) {

@@ -1,0 +1,4 @@
+# Docerion header of extension_component_google.json.
+type: test
+title: Google host permission test extension manifest
+summary: Test fixture manifest for an extension requesting the tabs permission and host access to a Google web page, used by script and capture extension tests.

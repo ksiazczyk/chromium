@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Indonesian locale messages for the RSS Subscription test extension
+summary: Provides Indonesian translations of the RSS Subscription extension's UI strings, used as test fixture data in Chrome's extension test suite.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple MV2 Extension manifest
+summary: Minimal Manifest V2 manifest for a simple extension used as test data in Chrome's extension tests.

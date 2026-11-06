@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Danish locale messages for the RSS Subscription test extension
+summary: Danish localization strings for the RSS Subscription extension, provided as test data for Chrome's extension tests.

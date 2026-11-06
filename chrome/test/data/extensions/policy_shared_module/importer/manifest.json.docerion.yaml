@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest importing a shared module
+summary: Manifest for a Chrome test app that imports the shared module with ID nfgclafboonjbiafbllihiailjlhelpm and uses main.html as its background page.

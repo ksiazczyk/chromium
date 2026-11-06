@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Slovenian messages for the RSS Subscription extension
+summary: Slovenian locale strings for the RSS Subscription extension UI, such as subscription prompts and reader options, provided as test data under chrome/test/data.

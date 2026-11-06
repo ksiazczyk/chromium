@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the sign-in screen disallowed content script test extension
+summary: Manifest V3 manifest used to test installing an extension with a non-allowlisted content script in the Chrome OS sign-in profile.

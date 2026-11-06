@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Empty profile Preferences fixture
+summary: Minimal Chrome Preferences JSON serving as the Default profile fixture for extension tests with an empty profile.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension Service Requirements Test manifest
+summary: Minimal manifest fixture for a good-case extension service requirements test in Chrome.

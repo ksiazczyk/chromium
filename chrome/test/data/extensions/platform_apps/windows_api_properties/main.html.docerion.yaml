@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Test app page that loads the window test script
+summary: Minimal HTML page opened by the background page that loads main.js to run the window event tests.

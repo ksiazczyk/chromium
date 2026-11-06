@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: register_handlers extension manifest for protocol handler tests
+summary: Manifest for a test extension that registers web+ecsearch and web+ducksearch protocol handlers pointing to Ecosia and DuckDuckGo search URL templates.

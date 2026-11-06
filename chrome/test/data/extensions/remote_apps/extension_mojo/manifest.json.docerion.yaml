@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Remote Apps Mojo test extension manifest
+summary: Manifest for a Chrome browser test extension named Remote Apps Mojo that loads test.js in the background to exercise the Remote Apps Mojo Private API.

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Turkish messages for RSS Subscription extension test data
+summary: Turkish localized UI strings for the RSS Subscription extension, used as test data in Chrome's extension tests.

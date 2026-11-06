@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Minimal manifest for the foo test extension in the simple_with_index_html fixture used by Chrome extension tests.

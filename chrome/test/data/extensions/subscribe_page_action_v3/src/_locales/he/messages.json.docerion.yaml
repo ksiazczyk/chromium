@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Hebrew locale messages for RSS Subscription extension test
+summary: Hebrew localization strings for the RSS Subscription extension, stored as test data for Chrome extension tests.

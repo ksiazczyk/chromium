@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared helpers for the RSS subscription extension
+// summary: Shared helpers providing the default feed reader list, default reader checks, and i18n message replacement for the extension pages.
+// ---
+
 // Whether we can modify the list of readers.
 const storageEnabled = window.localStorage !== null;
 

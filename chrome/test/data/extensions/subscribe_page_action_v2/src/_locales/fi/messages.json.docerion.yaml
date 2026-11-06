@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Finnish locale messages for RSS Subscription extension
+summary: Finnish translations of the RSS Subscription extension's UI strings, provided as test fixture data for Chrome's extension tests.

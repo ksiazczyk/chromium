@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Remote Apps Extension API browser test extension
+summary: Manifest for a browser test extension that exercises the enterprise.remoteApps API via a test.js service worker.

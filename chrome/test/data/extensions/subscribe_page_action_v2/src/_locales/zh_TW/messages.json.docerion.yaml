@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Traditional Chinese locale messages for RSS Subscription test extension
+summary: Supplies Traditional Chinese UI strings for the RSS Subscription extension, used as test data under Chrome's extension test resources.

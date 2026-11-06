@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Thai locale messages for RSS Subscription extension test data
+summary: Provides Thai translations of the RSS Subscription extension's UI strings, used as test fixture data for the subscribe page action extension.

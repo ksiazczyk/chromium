@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IME window fullscreen test background script
+// summary: Runs a Chrome test asserting that an IME app window created with specific bounds is not forced into fullscreen.
+// ---
+
 var testBounds = {left: 0, top: 0, width: 24, height: 24};
 
 chrome.test.runTests([

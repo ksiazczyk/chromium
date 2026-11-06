@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the fetch resource test extension
+summary: Manifest v3 definition for the test extension, declaring the content script, web-accessible resources, host permissions and background service worker.

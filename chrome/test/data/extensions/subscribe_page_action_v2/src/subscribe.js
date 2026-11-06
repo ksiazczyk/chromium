@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscribe page script
+// summary: 'Drives the subscribe page: fetches the feed, populates the reader dropdown and navigates to the chosen reader, storing defaults in localStorage.'
+// ---
+
 // Grab the querystring, removing question mark at the front and splitting on
 // the ampersand.
 const queryString = location.search.substring(1).split('&');

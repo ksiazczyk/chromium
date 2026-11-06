@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Default profile Preferences for extension webRequest test
+summary: Chrome profile Preferences fixture that registers a test Webrequest extension with experimental and webRequest permissions for extension webRequest tests.

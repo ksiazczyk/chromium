@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Search provider override en locale messages
+summary: Chrome extension test fixture defining the en locale message that supplies the TLD for the search provider under test.

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Portuguese (pt_PT) locale messages for RSS subscription extension test
+summary: Supplies Portuguese (Portugal) UI strings for the RSS Subscription extension, used as test data in Chrome's extension test suite.

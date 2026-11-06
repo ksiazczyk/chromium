@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Romanian locale messages for RSS Subscription extension
+summary: Romanian translations of the RSS Subscription extension's UI strings, stored as a messages.json fixture in Chromium's extension test data.

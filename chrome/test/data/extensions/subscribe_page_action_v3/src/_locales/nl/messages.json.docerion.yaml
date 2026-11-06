@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Dutch locale messages for RSS Subscription extension test
+summary: Dutch localization strings for the RSS Subscription Extension, stored as test data for Chrome's extension tests.

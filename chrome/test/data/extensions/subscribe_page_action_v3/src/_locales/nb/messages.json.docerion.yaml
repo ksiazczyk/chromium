@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Norwegian Bokmål messages for the RSS Subscription extension
+summary: Norwegian Bokmål UI strings for the RSS Subscription extension, provided as test data under Chrome's extension test directory.

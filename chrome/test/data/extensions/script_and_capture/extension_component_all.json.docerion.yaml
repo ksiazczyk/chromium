@@ -1,0 +1,4 @@
+# Docerion header of extension_component_all.json.
+type: test
+title: Test manifest with all-URLs host permission
+summary: Test extension manifest granting tabs and <all_urls> permissions, used as a fixture for script and capture permission tests.

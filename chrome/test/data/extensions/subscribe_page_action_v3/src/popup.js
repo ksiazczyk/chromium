@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feed popup page logic
+// summary: Populates the popup with the feeds stored for the active tab and opens the subscribe page or the default reader when one is chosen.
+// ---
+
 function feedLink(url) {
   const feed_link = document.createElement('a');
   feed_link.href = url;

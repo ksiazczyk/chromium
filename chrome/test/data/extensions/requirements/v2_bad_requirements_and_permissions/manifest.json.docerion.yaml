@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension Service Requirements Test manifest
+summary: Test manifest fixture declaring a WebGL 3D requirement and the tabs permission, used to exercise extension requirements and permissions handling.

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Latvian locale messages for RSS subscription test extension
+summary: Latvian UI message strings for the RSS subscription extension, stored as test data for Chrome's subscribe page action extension tests.

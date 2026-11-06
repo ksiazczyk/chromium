@@ -1,0 +1,4 @@
+# Docerion header of file.html.
+type: test
+title: Test HTML page for the simple_with_file extension
+summary: Minimal HTML page titled foo used as test data for a simple Chrome extension test involving file access.

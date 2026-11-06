@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AlwaysOnTop window API test background script
+// summary: Runs chrome.app.window tests that create windows with alwaysOnTop set true, false, or unset and verify isAlwaysOnTop toggling via setAlwaysOnTop.
+// ---
+
 var callbackPass = chrome.test.callbackPass;
 
 function testAlwaysOnTop(testId, initValue, setOption) {

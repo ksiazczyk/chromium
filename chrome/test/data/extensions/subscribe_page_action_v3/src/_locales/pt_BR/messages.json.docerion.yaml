@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Portuguese (Brazil) messages for the RSS Subscription extension
+summary: Brazilian Portuguese UI strings for the Google RSS Subscription extension, stored as test data for the subscribe page action sample in Chrome.

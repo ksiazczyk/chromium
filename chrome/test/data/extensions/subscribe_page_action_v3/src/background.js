@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RSS subscription extension background service worker
+// summary: Service worker of the RSS subscription test extension that validates feed URLs, enables the page action icon, and opens the subscribe page for feed documents.
+// ---
+
 function goBackIfPossible() {
   if (history.length > 1) {
     history.go(-1);

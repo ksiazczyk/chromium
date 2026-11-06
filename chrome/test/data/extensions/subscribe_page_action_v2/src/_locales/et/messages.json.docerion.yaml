@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Estonian locale messages for RSS Subscription extension test data
+summary: Estonian translations of the RSS Subscription extension UI strings, stored as test fixture data for the subscribe page action sample.

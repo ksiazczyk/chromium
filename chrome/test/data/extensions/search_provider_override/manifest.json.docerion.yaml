@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Search provider override test extension manifest
+summary: Manifest for a test extension that overrides Chrome's default search provider with a localized example search URL.

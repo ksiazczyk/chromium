@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: German locale messages for settings override test
+summary: German locale messages file defining a search provider top-level domain string, used as test data for extension settings override.

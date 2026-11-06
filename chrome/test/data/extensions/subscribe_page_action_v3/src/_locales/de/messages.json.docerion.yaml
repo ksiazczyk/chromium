@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: German locale messages for RSS Subscription extension test
+summary: German-language UI strings for the RSS Subscription extension, provided as test fixture data under Chrome's extension test data directory.

@@ -1,0 +1,4 @@
+# Docerion header of messages.json.
+type: test
+title: Polish locale messages for RSS Subscription test extension
+summary: Polish translations of the RSS Subscription extension UI strings, provided as test data for the subscribe page action extension.
