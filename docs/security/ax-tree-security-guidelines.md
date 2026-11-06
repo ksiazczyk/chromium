@@ -1,3 +1,13 @@
+---
+type: reference
+title: Security Guidelines for the Accessibility Tree
+summary: Provides guidance on safely handling accessibility tree data from potentially compromised renderers, including FAQs on common security questions.
+relations:
+  - references /ui/accessibility/mojom/ax_tree_data.mojom
+  - references /ui/accessibility/mojom/ax_tree_update.mojom
+  - references /ui/accessibility/ax_tree.h
+---
+
 # Security Guidelines for the Accessibility Tree
 
 TL;DR; The existing

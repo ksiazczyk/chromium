@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web Vitals Changelogs
+summary: Introduces the Web Vitals changelog directory, linking metric changelogs for LCP, CLS, INP, FCP, soft navigations, and the deprecated FID.
+relations:
+  - references /docs/speed/metrics_changelog/cls.md
+  - references /docs/speed/metrics_changelog/fcp.md
+  - references /docs/speed/metrics_changelog/fid.md
+---
+
 # Web Vitals Changelogs
 
 This directory contains changelogs for [Web Vitals](https://web.dev/vitals/) available via web performance APIs:

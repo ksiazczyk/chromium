@@ -1,3 +1,11 @@
+---
+type: reference
+title: Speed Domains
+summary: Lists Chrome's speed performance domains such as memory, power, and loading, with their focus areas, mailing lists, and bug queues.
+relations:
+  - references /docs/speed/binary_size/metrics.md
+---
+
 # Speed Domains
 
 This organization of Speed into domain areas allows us to:

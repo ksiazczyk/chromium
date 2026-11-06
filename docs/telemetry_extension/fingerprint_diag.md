@@ -1,3 +1,11 @@
+---
+type: guide
+title: Customization Guide - Fingerprint Diagnostics
+summary: Explains how to configure fingerprint diagnostic routine parameters for ChromeOS models with and without Boxster in config.star or model.yaml.
+relations:
+  - references /docs/telemetry_extension/README.md
+---
+
 # Customization Guide - Fingerprint Diagnostics
 
 # Objective

@@ -1,3 +1,12 @@
+---
+type: guide
+title: Security for Agents
+summary: Describes Chromium's security architecture and assumptions as advice for AI agents auditing for bugs, covering sandboxing, site isolation, attacks, and reporting.
+relations:
+  - references /docs/security/compromised-renderers.md
+  - references /content/SECURITY.md
+---
+
 # Security for Agents
 
 This document describes the fundamental security architecture and assumptions of

@@ -1,3 +1,8 @@
+---
+type: changelog
+title: Cumulative Layout Shift Changes in Chrome 97
+summary: Changelog entry explaining how the January 2022 BFCache rollout skips layout shifts on back/forward restores, bringing large CLS improvements across the web.
+---
 
 # Cumulative Layout Shift Changes in Chrome 97
 

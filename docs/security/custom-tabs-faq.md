@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome Custom Tabs Security FAQ
+summary: Answers security questions about Chrome Custom Tabs, covering the security model, data access boundaries, and embedder limitations.
+---
+
 # Chrome Custom Tabs Security FAQ
 
 ## Should apps use WebView when building a browser?

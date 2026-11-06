@@ -1,3 +1,13 @@
+---
+type: guide
+title: ClusterFuzz Instructions for Security Shepherds
+summary: Instructions for security shepherds on using ClusterFuzz to reproduce, label, and bisect security bugs in Chromium.
+relations:
+  - references /docs/security/severity-guidelines.md
+  - references /docs/security/shepherd.md
+  - references /mojo/public/js/README.md
+---
+
 # Security Shepherd ClusterFuzz instructions
 
 [TOC]

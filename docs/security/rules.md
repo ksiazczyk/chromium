@@ -1,3 +1,13 @@
+---
+type: reference
+title: Security rules
+summary: Lists the security policies Chromium has published, linking to the Rule of Two, IPC rules, renderer assumptions, URL display, and LLM guidelines.
+relations:
+  - references /docs/security/android-ipc.md
+  - references /docs/security/behavior-over-the-internet.md
+  - references /docs/security/compromised-renderers.md
+---
+
 # Security rules
 
 This is a list of the security policies Chromium has published.

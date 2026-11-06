@@ -1,3 +1,9 @@
+---
+type: reference
+title: Stop Leaks Policy
+summary: Policy for preventing XS-Leaks, giving web API design and implementation rules for timers, memory and CPU information, and global state.
+---
+
 # Stop leaks policy
 
 ## What leaks?

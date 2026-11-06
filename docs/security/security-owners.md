@@ -1,3 +1,11 @@
+---
+type: reference
+title: SECURITY_OWNERS Policy
+summary: Explains requirements for SECURITY_OWNERS membership, such as mandatory two-factor auth, and the review process by senior security engineers.
+relations:
+  - references /SECURITY_OWNERS
+---
+
 # SECURITY_OWNERS Policy
 
 The Chromium project imposes additional requirements on the OWNERS of certain

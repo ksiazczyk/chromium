@@ -1,3 +1,9 @@
+---
+type: guide
+title: Use origin (rather than URL) for security decisions
+summary: Explains why security decisions should use origins rather than URLs and shows good, bad, and risky patterns for obtaining and storing origins in Chromium code.
+---
+
 # Use origin (rather than URL) for security decisions.
 
 URLs are often not sufficient for security decisions, since the origin

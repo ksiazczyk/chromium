@@ -1,3 +1,9 @@
+---
+type: plan
+title: Controlling Access to Powerful Web Platform Features
+summary: Proposal setting out principles for controlling access to powerful web platform APIs, including user consent, installation-based persistence, and disclosure, with a File System Access case study.
+---
+
 # Controlling Access to Powerful Web Platform Features
 
 _Author: [dominickn@chromium.org](mailto:dominickn@chromium.org)_

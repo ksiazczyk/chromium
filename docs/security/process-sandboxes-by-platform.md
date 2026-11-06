@@ -1,3 +1,13 @@
+---
+type: reference
+title: Unsandboxed Processes by Platform
+summary: Summarises which Chrome processes and services are sandboxed on each platform, informing severity triage of security issues.
+relations:
+  - references /docs/security/severity-guidelines.md
+  - references /docs/security/x11-threat-model.md
+  - references /sandbox/policy/mojom/sandbox.mojom
+---
+
 # Unsandboxed Processes by Platform
 
 This document summarises the sandboxes used for different processes or services

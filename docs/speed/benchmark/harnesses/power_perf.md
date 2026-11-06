@@ -1,3 +1,9 @@
+---
+type: guide
+title: Power Telemetry Tests
+summary: Describes the Telemetry power benchmarks that measure power indirectly via CPU time, listing power metrics and benchmarks and how to add, run, and view power test results.
+---
+
 # Power Telemetry tests
 
 [TOC]

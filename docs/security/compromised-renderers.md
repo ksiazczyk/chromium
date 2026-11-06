@@ -1,3 +1,9 @@
+---
+type: reference
+title: Threat Model and Defenses Against Compromised Renderers
+summary: Documents Chrome's defense-in-depth threat model against compromised renderer processes, covering site isolation, cookies, passwords, permissions, and messaging protections.
+---
+
 # Threat Model And Defenses Against Compromised Renderers
 
 Given the complexity of the browser, our threat model must use a "defense

@@ -1,3 +1,9 @@
+---
+type: guide
+title: TLS SHA-1 Server Signatures
+summary: Explains Chrome's removal of SHA-1 TLS server signatures and how website operators can test for and troubleshoot the resulting failures.
+---
+
 # TLS SHA-1 Server Signatures
 
 * Specification: [RFC 9155](https://www.rfc-editor.org/rfc/rfc9155.html)

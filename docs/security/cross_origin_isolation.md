@@ -1,3 +1,9 @@
+---
+type: reference
+title: Cross-Origin Isolation in Chromium
+summary: Explains how Cross-Origin Isolation is represented in web specifications and translated into the Chromium codebase.
+---
+
 # Cross Origin Isolation
 
 [TOC]

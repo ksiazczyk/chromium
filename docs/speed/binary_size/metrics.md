@@ -1,3 +1,12 @@
+---
+type: reference
+title: Binary size metrics
+summary: Lists the binary size metrics collected for desktop and Android, including normalized APK size, with links to telemetry graphs and alerting details.
+relations:
+  - references /docs/speed/apk_size_regressions.md
+  - references /build/android/resource_sizes.py
+---
+
 # Binary Size Metrics
 
 This document lists metrics used to track binary size.

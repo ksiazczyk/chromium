@@ -1,3 +1,9 @@
+---
+type: guide
+title: Security Shepherd
+summary: Guide for the security shepherding rotation, covering bug triage steps, severity assessment, bug labels, and scheduling.
+---
+
 # Security Shepherd
 
 ## What is Security Shepherding?

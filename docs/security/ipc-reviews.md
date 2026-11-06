@@ -1,3 +1,9 @@
+---
+type: guide
+title: IPC Reviews
+summary: Describes Chromium's IPC security review process, what reviewers look for, and guidelines and best practices for security-sensitive IPC changes.
+---
+
 # IPC Reviews
 
 [TOC]

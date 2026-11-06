@@ -1,3 +1,13 @@
+---
+type: decision
+title: The browser process should not handle messages from web content
+summary: Explains why Chrome's browser process must not handle messages directly from web content and requires such communication to go through reviewed Mojo IPC APIs.
+relations:
+  - references /docs/security/good-bad-ipc.png
+  - references /docs/security/mojo.md
+  - references /docs/security/rule-of-2.md
+---
+
 # The browser process should not handle messages from web content
 
 ![alt text](good-bad-ipc.png "Safe flow of IPC messages from renderer to

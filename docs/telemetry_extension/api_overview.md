@@ -1,3 +1,9 @@
+---
+type: reference
+title: Telemetry Extension API overview
+summary: Function-level reference of the Telemetry Extension API across the telemetry, diagnostics, events and management namespaces, including types, permissions and Chrome versions.
+---
+
 # Telemetry Extension API overview
 
 This document gives a function-level documentation of the Telemetry Extension

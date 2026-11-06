@@ -1,3 +1,11 @@
+---
+type: reference
+title: Properties of a Good Top Level Metric
+summary: Outlines the desirable properties, such as representativeness, accuracy, and stability, to consider when defining Chrome performance top-level metrics.
+relations:
+  - references /docs/speed/diagnostic_metrics.md
+---
+
 # Properties of a Good Top Level Metric
 
 When defining a top level metric, there are several desirable properties which are frequently in tension. This document attempts to roughly outline the desirable properties we should keep in mind when defining a metric. Also see the document on improving the actionability of a top level metric via [diagnostic metrics](diagnostic_metrics.md).

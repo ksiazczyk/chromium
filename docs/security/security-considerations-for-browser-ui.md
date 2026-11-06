@@ -1,3 +1,9 @@
+---
+type: guide
+title: Security Considerations for Browser UI
+summary: Guidelines for designing browser UI against spoofing and clickjacking, covering security indicators, UI patterns, and demarcation of untrustworthy content.
+---
+
 # Security Considerations for Browser UI
 
 Users expect to be able to use browsers to visit any website, including those

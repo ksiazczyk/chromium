@@ -1,0 +1,7 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for published positions
+summary: Lists the owners who help ensure published positions follow the README guidelines, while noting they do not approve the positions themselves.
+relations:
+  - references /ATL_OWNERS
+  - references /third_party/blink/API_OWNERS

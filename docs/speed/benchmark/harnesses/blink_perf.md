@@ -1,3 +1,13 @@
+---
+type: guide
+title: Blink Performance Tests
+summary: Explains how to write and run Blink performance micro-benchmarks that measure the web-exposed surface of Blink, covering synchronous, asynchronous, service worker, and tracing-based tests.
+relations:
+  - references /docs/testing/web_tests.md
+  - references /third_party/blink/perf_tests/test_data/append-child-measure-time.html
+  - references /third_party/blink/perf_tests/test_data/simple-html-measure-page-load-time.html
+---
+
 # Blink Performance Tests
 
 [TOC]

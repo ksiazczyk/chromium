@@ -1,3 +1,9 @@
+---
+type: guide
+title: Adding tests and bots
+summary: Explains how to add performance tests under the new benchmark policy and how to request or learn about perf lab hardware.
+---
+
 # Adding tests and bots
 
 ## Adding performance tests

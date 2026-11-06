@@ -1,3 +1,9 @@
+---
+type: plan
+title: Web Performance Objectives
+summary: Lists the team's quarterly web performance objectives and progress reports from 2020 to 2021, covering APIs like responsiveness, CLS, and JS Sampling Profiler.
+---
+
 # Web Performance Objectives
 
 [TOC]

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Graphics Metrics Definitions
+summary: Defines graphics performance metrics including latency, throughput, dropped frames, and jank for interactions like scrolling and animation.
+---
+
 # Graphics metrics: Definitions
 
 We need to have a metric to understand the smoothness of a particular

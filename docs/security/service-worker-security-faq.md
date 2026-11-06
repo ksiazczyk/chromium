@@ -1,3 +1,11 @@
+---
+type: reference
+title: Service Worker Security FAQ
+summary: Answers common questions about Service Worker security, including sandboxing, same-origin policy, API access, and bug bounty eligibility.
+relations:
+  - references /docs/security/faq.md
+---
+
 # Service Worker Security FAQ
 
 [TOC]

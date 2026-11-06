@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for docs/security
+summary: Directory metadata assigning the Security monorail component, security-dev team email and Buganizer component for issue tracking.

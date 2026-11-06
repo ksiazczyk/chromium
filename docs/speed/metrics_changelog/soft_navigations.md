@@ -1,3 +1,9 @@
+---
+type: changelog
+title: Soft Navigation Heuristics Changelog
+summary: Chronological list of changes, bug fixes and API updates to the Soft Navigation Heuristics across Chrome releases, with links to Chromium commits.
+---
+
 # Soft Navigation Heuristics Changelog
 
 This is a list of changes to [Soft Navigation Heuristics](https://developer.chrome.com/docs/web-platform/soft-navigations-experiment).

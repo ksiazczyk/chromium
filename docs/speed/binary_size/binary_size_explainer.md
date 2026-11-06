@@ -1,3 +1,13 @@
+---
+type: reference
+title: Binary size explainer
+summary: Explains why Chrome's binary size matters and the overhead of each size type, focusing on Android packaging such as APK splits.
+relations:
+  - references /docs/android_build_instructions.md
+  - references /docs/android_dynamic_feature_modules.md
+  - references /docs/speed/binary_size/android_binary_size_trybot.md
+---
+
 # Binary Size Explainer
 
 This document explains the overhead of each kind of binary size, where

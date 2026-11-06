@@ -1,3 +1,9 @@
+---
+type: reference
+title: Mixed content Autoupgrade
+summary: Briefly describes Chrome's automatic upgrading of audio, video and image mixed content to HTTPS starting in M80 and how to opt out.
+---
+
 # Mixed content Autoupgrade
 
 ## Description

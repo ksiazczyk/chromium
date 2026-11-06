@@ -1,3 +1,12 @@
+---
+type: guide
+title: Setting up devices for Telemetry benchmarks
+summary: Instructions for preparing desktop, ChromeOS, and Android devices to run Telemetry benchmarks.
+relations:
+  - references /tools/perf/run_benchmark
+  - references /vpython.toml
+---
+
 # Setting up devices for Telemetry benchmarks
 
 [TOC]

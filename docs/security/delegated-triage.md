@@ -1,3 +1,12 @@
+---
+type: guide
+title: Delegated Security Bug Triage Process
+summary: Describes the delegated triage process for security bugs in specific Chromium areas, including steps for validation, reproduction, annotation, and assignment.
+relations:
+  - references /docs/security/severity-guidelines.md
+  - references /docs/security/shepherd.md
+---
+
 # Delegated Triage
 
 For certain areas of Chromium, security bug triage is delegated from the core

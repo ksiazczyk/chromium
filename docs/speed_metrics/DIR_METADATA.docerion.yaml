@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR metadata for Chrome Speed Metrics
+summary: Configures issue tracking for the directory, mapping it to the Monorail component Blink>PerformanceAPIs and a Buganizer component ID.

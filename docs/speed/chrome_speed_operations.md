@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chrome Speed Operations
+summary: Describes the Chrome Speed Operations teams, their leads, and the benchmarking, tooling, and releasing work they provide for tracking Chrome performance.
+relations:
+  - references /docs/speed/bisects.md
+  - references /docs/speed/chrome_speed_tooling.md
+  - references /docs/speed/perf_trybots.md
+---
+
 # Chrome Speed Operations
 
 Chrome Speed Operations provides tools, framework, and infrastructure

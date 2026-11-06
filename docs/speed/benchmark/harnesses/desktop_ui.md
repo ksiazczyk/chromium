@@ -1,3 +1,13 @@
+---
+type: guide
+title: Desktop UI Benchmark
+summary: Documents the Telemetry-based Desktop UI Benchmark for desktop UI performance and how to run it, add metrics, and write, add, and record user journey stories.
+relations:
+  - references /tools/perf/page_sets/desktop_ui/multitab_story.py
+  - references /tools/perf/page_sets/desktop_ui/tab_search_story.py
+  - references /tools/perf/run_benchmark
+---
+
 # Desktop UI Benchmark
 
 ## Overview

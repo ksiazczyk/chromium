@@ -1,3 +1,13 @@
+---
+type: guide
+title: Security issue guide for developers
+summary: Walks developers through validating, reproducing, and fixing an assigned security bug, including reporting criteria, merging fixes, and FAQs.
+relations:
+  - references /docs/security/life-of-a-security-issue.md
+  - references /docs/security/severity-guidelines.md
+  - references /docs/security/security-labels.md
+---
+
 # You’ve just been assigned a security bug…
 
 If you have just been assigned a security bug, **don’t panic!** Security bugs

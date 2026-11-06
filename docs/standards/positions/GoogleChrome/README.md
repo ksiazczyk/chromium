@@ -1,3 +1,9 @@
+---
+type: readme
+title: Positions from Google Chrome Teams on Web Standards
+summary: Explains the purpose of the directory holding Google Chrome feature-team positions on web standards and the process for approving and publishing such position documents.
+---
+
 # Positions from Google Chrome Teams on Web Standards
 
 Google Chrome delegates decisions about what web features we implement and ship

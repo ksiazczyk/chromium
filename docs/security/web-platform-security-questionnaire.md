@@ -1,3 +1,9 @@
+---
+type: guide
+title: Web Platform Security Questionnaire
+summary: Questionnaire that helps developers determine whether a new web API has security impact and therefore needs a security review.
+---
+
 # Web Platform Security Questionnaire
 
 The goal of this questionnaire is to help you understand if your web API might have a security impact. If you answer yes to any of the following question, your feature needs a security review. Note that even if you answer no to all of those questions, you can still benefit from a security review.

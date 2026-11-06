@@ -1,3 +1,9 @@
+---
+type: readme
+title: Security Takes
+summary: Introduces the Security Takes directory of non-normative position papers from the Chromium Security team and advises checking their dates.
+---
+
 # Security Takes
 
 This directory contains "takes" - position papers from the Chromium Security

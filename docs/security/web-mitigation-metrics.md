@@ -1,3 +1,9 @@
+---
+type: reference
+title: Web Mitigation Metrics
+summary: Outlines the usage metrics Chrome collects for web platform security mitigations such as CSP, Trusted Types, cross-origin isolation, the Sanitizer API, and Private Network Access.
+---
+
 # Web Mitigation Metrics
 
 The web platform offers a number of tools to web developers which enable

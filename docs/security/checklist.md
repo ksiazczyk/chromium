@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chromium Security Checklist for Developers
+summary: A checklist of security do's and don'ts for Chromium developers, covering safe coding practices, object lifetimes, and common pitfalls.
+relations:
+  - references /docs/security/faq.md
+  - references /docs/security/rules.md
+  - references /docs/security/security-issue-guide-for-devs.md
+---
+
 # Top security things for Chromies to remember
 
 ## Why:

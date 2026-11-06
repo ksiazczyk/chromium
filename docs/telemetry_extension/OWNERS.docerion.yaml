@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Telemetry Extension docs
+summary: Lists the code owners for the telemetry extension documentation directory, delegating to the cros_healthd OWNERS file with backup reviewers.
+relations:
+  - references /chromeos/ash/services/cros_healthd/OWNERS

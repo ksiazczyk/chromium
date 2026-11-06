@@ -1,3 +1,9 @@
+---
+type: guide
+title: Web Platform Security Guidelines
+summary: Guidelines from the Web Platform Security team to help feature teams design new web platform APIs with security boundaries, security policy integration, and security UX in mind.
+---
+
 # Web Platform Security guidelines
 
 [TOC]

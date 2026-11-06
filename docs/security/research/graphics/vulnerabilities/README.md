@@ -1,3 +1,9 @@
+---
+type: readme
+title: 'Vulnerability Discovery: Chromium Graphics'
+summary: Introduces a directory of notes on vulnerabilities found while studying Chromium graphics subsystems, kept separate from general feature documentation to avoid exposing unfixed issues and to discuss the discovery process.
+---
+
 # Vulnerability Discovery: Chromium Graphics
 
 This directory contains notes on vulnerabilities found during the study of

@@ -1,3 +1,13 @@
+---
+type: guide
+title: WebRTC Telemetry Tests
+summary: Describes the WebRTC Telemetry benchmarks built on WebRTC test and sample pages, including how to run the tests and add new telemetry test pages.
+relations:
+  - references /tools/perf/benchmarks/webrtc.py
+  - references /tools/perf/page_sets/update_webrtc_cases
+  - references /tools/perf/page_sets/webrtc_cases.py
+---
+
 # WebRTC Telemetry Tests
 
 [TOC]

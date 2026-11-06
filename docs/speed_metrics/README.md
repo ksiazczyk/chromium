@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chrome Speed Metrics
+summary: Describes the Chrome Speed Metrics team's mission and goals, contact information, owned web performance APIs, and links to objectives, changelog, docs, and talks.
+relations:
+  - references /docs/speed_metrics/webperf_okrs.md
+---
+
 # Chrome Speed Metrics
 
 [TOC]

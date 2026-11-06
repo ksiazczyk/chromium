@@ -1,3 +1,13 @@
+---
+type: reference
+title: Android IPC Security Considerations
+summary: Explains security concerns and best practices for Android-specific IPC mechanisms such as Intents, PendingIntents and Binder in Chrome.
+relations:
+  - references /docs/security/mojo.md
+  - references /docs/security/rule-of-2.md
+  - references /mojo/README.md
+---
+
 # Android IPC Security Considerations
 
 Generally Chrome communicates between its processes using the

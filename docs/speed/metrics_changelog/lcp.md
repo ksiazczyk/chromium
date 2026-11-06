@@ -1,3 +1,13 @@
+---
+type: changelog
+title: Largest Contentful Paint Changelog
+summary: Chronological list of changes, bug fixes and definition updates to the Largest Contentful Paint metric across Chrome releases, with links to Chromium commits.
+relations:
+  - references /docs/speed/metrics_changelog/2020_04_lcp.md
+  - references /docs/speed/metrics_changelog/2020_05_lcp.md
+  - references /docs/speed/metrics_changelog/2020_08_lcp.md
+---
+
 # Largest Contentful Paint Changelog
 
 This is a list of changes to [Largest Contentful Paint](https://web.dev/lcp).
