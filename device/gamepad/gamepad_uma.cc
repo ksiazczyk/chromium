@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad UMA metrics recording
+// summary: Records UMA histograms for connected and unknown gamepads plus Mac connection outcomes for GameController, GamepadPlatform, and Xbox fetchers.
+// ---
+
 #include "device/gamepad/gamepad_uma.h"
 
 #include <type_traits>

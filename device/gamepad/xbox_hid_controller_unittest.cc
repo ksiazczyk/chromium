@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Xbox HID controller unit tests
+// summary: Unit tests verifying that XboxHidController sends the expected start and stop vibration reports through a fake HID writer.
+// ---
+
 #include "device/gamepad/xbox_hid_controller.h"
 
 #include <memory>

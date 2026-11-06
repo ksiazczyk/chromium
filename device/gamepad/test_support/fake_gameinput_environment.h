@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GameInput environment header
+// summary: Declares the GameInputTestErrorCode enum and the FakeGameInputEnvironment class that wraps fake GameInput API creation and error simulation for tests.
+// ---
+
 #ifndef DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_GAMEINPUT_ENVIRONMENT_H_
 #define DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_GAMEINPUT_ENVIRONMENT_H_
 

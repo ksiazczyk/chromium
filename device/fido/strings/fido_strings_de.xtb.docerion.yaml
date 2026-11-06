@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_de.xtb.
+type: data
+title: German FIDO strings translation bundle
+summary: XML translation bundle with the German FIDO string for confirming your identity with an app, using the APP_NAME placeholder.

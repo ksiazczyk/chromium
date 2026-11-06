@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIGameInputReading implementation
+// summary: Implements a fake IGameInputReading that returns a stored gamepad state and stubs out other input kinds such as keys, touch, and motion.
+// ---
+
 #include "device/gamepad/test_support/fake_igameinputreading.h"
 
 namespace device {

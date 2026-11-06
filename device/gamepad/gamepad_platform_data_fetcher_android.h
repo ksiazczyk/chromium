@@ -5,6 +5,12 @@
 // Define the data fetcher that GamepadProvider will use for android port.
 // (GamepadPlatformDataFetcher).
 
+// ---docerion
+// type: source
+// title: Android gamepad data fetcher header
+// summary: Declares GamepadPlatformDataFetcherAndroid, the Android GamepadDataFetcher that reads gamepad data via JNI and manages dual-rumble vibration actuators.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_PLATFORM_DATA_FETCHER_ANDROID_H_
 #define DEVICE_GAMEPAD_GAMEPAD_PLATFORM_DATA_FETCHER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GameInput gamepad device header
+// summary: Declares GameInputGamepadDevice, an AbstractHapticGamepad wrapping an IGameInputDevice to provide rumble support and expose the product identifier.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEINPUT_GAMEPAD_DEVICE_H_
 #define DEVICE_GAMEPAD_GAMEINPUT_GAMEPAD_DEVICE_H_
 

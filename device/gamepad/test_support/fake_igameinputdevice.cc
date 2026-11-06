@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIGameInputDevice implementation
+// summary: Implements a fake IGameInputDevice with configurable vendor and product IDs, rumble motor support, and stubbed or unimplemented device methods.
+// ---
+
 #include "device/gamepad/test_support/fake_igameinputdevice.h"
 
 #include "device/gamepad/test_support/fake_gameinput_environment.h"

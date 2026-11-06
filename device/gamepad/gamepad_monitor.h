@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadMonitor header
+// summary: Declares GamepadMonitor, a Mojo GamepadMonitor implementation that notifies observers of gamepad connect, disconnect and raw input changes and handles start and stop polling requests.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_MONITOR_H_
 #define DEVICE_GAMEPAD_GAMEPAD_MONITOR_H_
 

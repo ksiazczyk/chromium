@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad blocklist implementation
+// summary: Implements GamepadIsExcluded, which checks vendor and product IDs against lists of blocked vendors and specific devices that must not be treated as gamepads.
+// ---
+
 #include "device/gamepad/gamepad_blocklist.h"
 
 #include <stddef.h>

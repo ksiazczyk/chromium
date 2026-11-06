@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad standard mappings for Windows
+// summary: Implements controller-to-standard-gamepad mappings for Windows, including Logitech DInput, Dualshock 4, DualSense, and Buffalo controllers.
+// ---
+
 
 #include "device/gamepad/gamepad_standard_mappings.h"
 

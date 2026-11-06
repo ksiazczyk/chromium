@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GameController gamepad device header
+// summary: Declares GameControllerGamepad, an AbstractHapticGamepad wrapping a GCController with CoreHaptics engines, touch state, and test-only injection hooks.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAME_CONTROLLER_GAMEPAD_H_
 #define DEVICE_GAMEPAD_GAME_CONTROLLER_GAMEPAD_H_
 

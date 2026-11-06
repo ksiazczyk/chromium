@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad axis and button normalization helpers
+// summary: Provides helper templates that scale raw gamepad axis and button values to normalized ranges according to the W3C Gamepad specification.
+// ---
+
 #ifndef DEVICE_GAMEPAD_NORMALIZATION_H_
 #define DEVICE_GAMEPAD_NORMALIZATION_H_
 

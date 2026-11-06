@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_is.xtb.
+type: data
+title: FIDO strings in Icelandic
+summary: Icelandic translation bundle with the FIDO string for verifying the user's identity in a named app.

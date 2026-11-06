@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadService implementation
+// summary: Implements the GamepadService singleton that manages gamepad consumers and starts, pauses, and resumes the underlying provider.
+// ---
+
 
 #include "device/gamepad/gamepad_service.h"
 

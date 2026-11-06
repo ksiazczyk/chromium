@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadPadStateProvider header
+// summary: Declares the GamepadSource enum, the PadState struct with per-gamepad state and sanitization masks, and the GamepadPadStateProvider class that reserves and tracks pad slots.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_PAD_STATE_PROVIDER_H_
 #define DEVICE_GAMEPAD_GAMEPAD_PAD_STATE_PROVIDER_H_
 

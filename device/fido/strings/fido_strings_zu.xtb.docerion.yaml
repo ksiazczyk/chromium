@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_zu.xtb.
+type: data
+title: FIDO strings for Zulu (zu)
+summary: Zulu translation bundle providing the FIDO prompt that asks the user to verify their identity to an app.

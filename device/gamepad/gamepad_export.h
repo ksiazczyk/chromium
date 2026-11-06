@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad export macros for component builds
+// summary: Defines the DEVICE_GAMEPAD_EXPORT macro that controls symbol visibility for the gamepad module in component and static builds.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_EXPORT_H_
 #define DEVICE_GAMEPAD_GAMEPAD_EXPORT_H_
 

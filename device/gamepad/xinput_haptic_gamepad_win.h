@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XInput haptic gamepad header
+// summary: Declares XInputHapticGamepadWin, an AbstractHapticGamepad that sets vibration on an XInput pad via an XInputSetState function pointer.
+// ---
+
 #ifndef DEVICE_GAMEPAD_XINPUT_HAPTIC_GAMEPAD_WIN_H_
 #define DEVICE_GAMEPAD_XINPUT_HAPTIC_GAMEPAD_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simulated gamepad data fetcher declaration
+// summary: Declares SimulatedGamepadDataFetcher, which creates, removes, and feeds input frames to simulated gamepads identified by tokens.
+// ---
+
 #ifndef DEVICE_GAMEPAD_SIMULATED_GAMEPAD_DATA_FETCHER_H_
 #define DEVICE_GAMEPAD_SIMULATED_GAMEPAD_DATA_FETCHER_H_
 

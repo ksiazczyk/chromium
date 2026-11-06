@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UdevWatcher implementation
+// summary: Implements UdevWatcher, which sets up a udev monitor with subsystem and devtype filters, enumerates existing devices, and reports device events to an observer.
+// ---
+
 #include "device/udev_linux/udev_watcher.h"
 
 #include <utility>

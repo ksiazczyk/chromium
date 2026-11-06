@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_bn.xtb.
+type: data
+title: FIDO strings translation for Bengali
+summary: Bengali translation bundle containing the FIDO prompt that asks the user to verify their identity in an app.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UdevLoader abstract interface
+// summary: Declares the UdevLoader abstract interface whose virtual methods mirror libudev function signatures, with Get() and SetForTesting() accessors.
+// ---
+
 #ifndef DEVICE_UDEV_LINUX_UDEV_LOADER_H_
 #define DEVICE_UDEV_LINUX_UDEV_LOADER_H_
 

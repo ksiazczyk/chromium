@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows XInput data fetcher implementation
+// summary: Implements the Windows XInput data fetcher that loads the XInput DLL, enumerates connected gamepads, reads their state, and drives vibration.
+// ---
+
 #include "device/gamepad/xinput_data_fetcher_win.h"
 
 #include <stddef.h>

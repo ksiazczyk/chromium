@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standard gamepad mapping declarations
+// summary: Declares canonical button and axis indices, bus and driver types, and the interface for selecting standard mapping functions per device.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_STANDARD_MAPPINGS_H_
 #define DEVICE_GAMEPAD_GAMEPAD_STANDARD_MAPPINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Nintendo gamepad data fetcher
+// summary: Unit tests for NintendoDataFetcher that use a mock HID service to verify device handling, including that unsupported non-Nintendo devices are ignored.
+// ---
+
 #include "device/gamepad/nintendo_data_fetcher.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Gamepad directory metadata
+summary: Declares the IO>Gamepad monorail component used for issue tracking of this directory.

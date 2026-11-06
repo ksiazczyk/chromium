@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nintendo gamepad data fetcher class declaration
+// summary: Declares NintendoDataFetcher, which uses the HID backend to enumerate and manage Nintendo Switch Joy-Con and Pro Controller gamepads.
+// ---
+
 #ifndef DEVICE_GAMEPAD_NINTENDO_DATA_FETCHER_H_
 #define DEVICE_GAMEPAD_NINTENDO_DATA_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'GamepadMappings: controller button and axis mappings'
+// summary: Java class that selects button and axis mappings for supported controllers such as Xbox, PlayStation, NVIDIA Shield, Stadia and unknown pads.
+// ---
+
 package org.chromium.device.gamepad;
 
 import android.os.Build;

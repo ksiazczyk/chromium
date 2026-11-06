@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Raw Input gamepad data fetcher class declaration
+// summary: Declares RawInputDataFetcher, the Windows data fetcher that monitors Raw Input events and manages connected gamepad devices.
+// ---
+
 #ifndef DEVICE_GAMEPAD_RAW_INPUT_DATA_FETCHER_WIN_H_
 #define DEVICE_GAMEPAD_RAW_INPUT_DATA_FETCHER_WIN_H_
 

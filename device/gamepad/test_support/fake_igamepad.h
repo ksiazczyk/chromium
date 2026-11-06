@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIGamepad header
+// summary: Declares FakeIGamepad, a fake WinRT implementation of IGamepad, IGamepad2, and IGameController with setters for readings, ID, and paddle support.
+// ---
+
 #ifndef DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IGAMEPAD_H_
 #define DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IGAMEPAD_H_
 

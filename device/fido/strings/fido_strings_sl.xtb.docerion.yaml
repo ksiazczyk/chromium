@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_sl.xtb.
+type: data
+title: FIDO strings in Slovenian
+summary: Slovenian translation bundle for the FIDO message about verifying the user's identity in an app.

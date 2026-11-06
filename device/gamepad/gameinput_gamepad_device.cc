@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GameInput gamepad device implementation
+// summary: Implements GameInputGamepadDevice, translating gamepad vibration parameters into GameInput rumble state for a connected IGameInputDevice.
+// ---
+
 #include "device/gamepad/gameinput_gamepad_device.h"
 
 #include "device/gamepad/abstract_haptic_gamepad.h"

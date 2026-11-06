@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad ID list with known vendor and product IDs
+// summary: Maintains the table of known gamepad vendor and product IDs used to assign GamepadId values and record metrics for connected devices.
+// ---
+
 #include "device/gamepad/gamepad_id_list.h"
 
 #include <algorithm>

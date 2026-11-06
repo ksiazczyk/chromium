@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dualshock 4 controller header
+// summary: Declares the Dualshock4Controller class for detecting the transport type, processing input reports, and playing haptic effects on Dualshock 4 gamepads.
+// ---
+
 #ifndef DEVICE_GAMEPAD_DUALSHOCK4_CONTROLLER_H_
 #define DEVICE_GAMEPAD_DUALSHOCK4_CONTROLLER_H_
 

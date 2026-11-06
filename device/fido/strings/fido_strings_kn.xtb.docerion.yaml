@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_kn.xtb.
+type: data
+title: FIDO strings translation bundle (Kannada)
+summary: XML translation bundle providing the Kannada localization of the FIDO string that asks users to verify their identity in the app named by the APP_NAME placeholder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android haptic gamepad class declaration
+// summary: Declares HapticGamepadAndroid, an AbstractHapticGamepad subclass that triggers vibration on Android gamepad devices.
+// ---
+
 #ifndef DEVICE_GAMEPAD_HAPTIC_GAMEPAD_ANDROID_H_
 #define DEVICE_GAMEPAD_HAPTIC_GAMEPAD_ANDROID_H_
 

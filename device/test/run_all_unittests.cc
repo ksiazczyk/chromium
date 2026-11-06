@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test runner for the device layer
+// summary: Sets up a test suite that initializes UI resources and Mojo, then launches the device layer unit tests.
+// ---
+
 #include "base/files/file.h"
 #include "base/functional/bind.h"
 #include "base/path_service.h"

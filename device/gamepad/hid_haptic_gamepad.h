@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID haptic gamepad class and report data declaration
+// summary: Declares the HidHapticGamepad class and HapticReportData struct describing HID output report layouts for haptic-capable gamepads.
+// ---
+
 #ifndef DEVICE_GAMEPAD_HID_HAPTIC_GAMEPAD_H_
 #define DEVICE_GAMEPAD_HID_HAPTIC_GAMEPAD_H_
 

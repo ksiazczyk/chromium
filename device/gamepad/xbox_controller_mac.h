@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Xbox controller interface for macOS
+// summary: Declares XboxControllerMac, an IOKit-based Xbox 360 and Xbox One controller class with LED patterns, haptics and a delegate interface.
+// ---
+
 #ifndef DEVICE_GAMEPAD_XBOX_CONTROLLER_MAC_H_
 #define DEVICE_GAMEPAD_XBOX_CONTROLLER_MAC_H_
 

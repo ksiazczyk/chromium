@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac gamepad data fetcher header
+// summary: Declares GamepadPlatformDataFetcherMac, the macOS GamepadDataFetcher that uses IOHIDManager to track HID gamepads and handle haptic effects.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_PLATFORM_DATA_FETCHER_MAC_H_
 #define DEVICE_GAMEPAD_GAMEPAD_PLATFORM_DATA_FETCHER_MAC_H_
 

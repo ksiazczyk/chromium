@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: FIDO strings build rules
+summary: GN build configuration that generates localized FIDO string resources from fido_strings.grd and repacks the English strings into a test resource bundle.

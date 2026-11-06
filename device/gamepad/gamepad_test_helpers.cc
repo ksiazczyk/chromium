@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gamepad test helpers implementation
+// summary: Implements a mock gamepad data fetcher and service test constructors that supply canned gamepad data and synchronization for tests.
+// ---
+
 #include "device/gamepad/gamepad_test_helpers.h"
 
 #include "base/compiler_specific.h"

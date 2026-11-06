@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_zh-TW.xtb.
+type: data
+title: FIDO strings for Traditional Chinese (zh-TW)
+summary: Traditional Chinese translation bundle providing the FIDO prompt that asks the user to verify their identity to an app.

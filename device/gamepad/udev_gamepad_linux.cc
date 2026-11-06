@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux udev gamepad device implementation
+// summary: Implements UdevGamepadLinux, which classifies udev device nodes as evdev, joydev, or hidraw and computes syspath prefixes to match nodes of the same physical device.
+// ---
+
 #include "device/gamepad/udev_gamepad_linux.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS HID output report writer declaration
+// summary: Declares HidWriterMac, a HidWriter implementation that sends output reports to an IOHIDDevice on macOS.
+// ---
+
 #ifndef DEVICE_GAMEPAD_HID_WRITER_MAC_H_
 #define DEVICE_GAMEPAD_HID_WRITER_MAC_H_
 

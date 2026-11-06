@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WebAuthn API authenticator implementation
+// summary: Implements WinWebAuthnApiAuthenticator, which forwards WebAuthn make credential, get assertion and credential management requests to the native Windows WebAuthentication API.
+// ---
+
 #include "device/fido/win/authenticator.h"
 
 #include <windows.h>

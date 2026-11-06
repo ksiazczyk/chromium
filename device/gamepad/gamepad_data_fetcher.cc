@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad data fetcher base implementation
+// summary: Implements the GamepadDataFetcher base class with HID manager binding, vibration callback helpers and gamepad ID string initialization.
+// ---
+
 #include "device/gamepad/gamepad_data_fetcher.h"
 
 #include "base/functional/bind.h"

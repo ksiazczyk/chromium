@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Raw Input gamepad device implementation
+// summary: Implements a Windows Raw Input gamepad device that queries HID device info, maps buttons and axes to the standard gamepad state, and supports vibration effects.
+// ---
+
 #include "device/gamepad/raw_input_gamepad_device_win.h"
 
 #include <string_view>

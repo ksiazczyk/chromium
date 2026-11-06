@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad data fetcher manager implementation
+// summary: Implements the GamepadDataFetcherManager singleton that registers fetcher factories and attaches their fetchers to the gamepad provider.
+// ---
+
 #include "device/gamepad/gamepad_data_fetcher_manager.h"
 
 #include "device/gamepad/gamepad_data_fetcher.h"

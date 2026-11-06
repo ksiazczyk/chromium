@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nintendo Switch controller class declaration
+// summary: Declares the NintendoController class, which represents Switch Joy-Con and Pro Controller devices, including composite Joy-Con pairs, with calibration and vibration support.
+// ---
+
 #ifndef DEVICE_GAMEPAD_NINTENDO_CONTROLLER_H_
 #define DEVICE_GAMEPAD_NINTENDO_CONTROLLER_H_
 

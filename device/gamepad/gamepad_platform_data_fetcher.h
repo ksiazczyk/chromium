@@ -5,6 +5,12 @@
 // Define the default data fetcher that GamepadProvider will use if none is
 // supplied. (GamepadPlatformDataFetcher).
 
+// ---docerion
+// type: source
+// title: Platform gamepad data fetcher registration header
+// summary: Registers platform-specific gamepad data fetcher factories for Android, Windows, macOS and Linux with the GamepadDataFetcherManager, selected by build and feature flags.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_PLATFORM_DATA_FETCHER_H_
 #define DEVICE_GAMEPAD_GAMEPAD_PLATFORM_DATA_FETCHER_H_
 

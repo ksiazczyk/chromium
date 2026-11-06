@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad monitor Mojo service implementation
+// summary: Implements the GamepadMonitor Mojo interface, handling polling start and stop, shared memory handoff and gamepad connection notifications.
+// ---
+
 #include "device/gamepad/gamepad_monitor.h"
 
 #include <utility>

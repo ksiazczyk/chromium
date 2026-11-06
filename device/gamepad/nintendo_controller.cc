@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nintendo Switch controller support implementation
+// summary: Implements support for Nintendo Switch Joy-Con and Pro Controller gamepads, including initialization, calibration handling, and rumble effects.
+// ---
+
 #include "device/gamepad/nintendo_controller.h"
 
 #include <algorithm>

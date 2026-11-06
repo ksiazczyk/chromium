@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_hy.xtb.
+type: data
+title: FIDO strings in Armenian
+summary: Armenian translation bundle with the FIDO string for verifying the user's identity in a named app.

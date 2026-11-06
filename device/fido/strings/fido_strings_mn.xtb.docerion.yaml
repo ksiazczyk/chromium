@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_mn.xtb.
+type: data
+title: FIDO strings translation bundle (Mongolian)
+summary: XML translation bundle providing the Mongolian localization of the FIDO string that asks users to authenticate in the app named by the APP_NAME placeholder.

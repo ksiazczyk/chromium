@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversions between Chromium Fido and Windows WebAuthn types
+// summary: Implements conversions between Chromium Fido and WebAuthn data types and the Windows WEBAUTHN structures, including transports, requests and responses.
+// ---
+
 #include "device/fido/win/type_conversions.h"
 
 #include <algorithm>

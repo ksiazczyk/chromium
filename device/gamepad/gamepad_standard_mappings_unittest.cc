@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gamepad standard mappings unit tests
+// summary: Unit tests verifying that standard gamepad button types correctly skip null and extended buttons during mapping and sanitization.
+// ---
+
 #include "device/gamepad/gamepad_pad_state_provider.h"
 #include "device/gamepad/public/cpp/gamepad.h"
 #include "testing/gtest/include/gtest/gtest.h"

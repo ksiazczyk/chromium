@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux gamepad data fetcher implementation
+// summary: Implements the Linux udev-based gamepad data fetcher, watching input, hidraw and evdev devices, reading vendor and product IDs and managing GamepadDeviceLinux instances.
+// ---
+
 #include "device/gamepad/gamepad_platform_data_fetcher_linux.h"
 
 #include <stddef.h>

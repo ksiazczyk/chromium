@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_ky.xtb.
+type: data
+title: FIDO strings translation bundle (Kyrgyz)
+summary: XML translation bundle providing the Kyrgyz localization of the FIDO string that asks users to authenticate in the app named by the APP_NAME placeholder.

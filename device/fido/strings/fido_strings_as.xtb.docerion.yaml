@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_as.xtb.
+type: data
+title: FIDO strings translation for Assamese
+summary: Assamese translation bundle containing the FIDO prompt that asks the user to verify their identity in an app.

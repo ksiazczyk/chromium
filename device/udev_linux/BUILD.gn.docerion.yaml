@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the udev_linux component
+summary: GN build configuration defining the udev_linux component with its libudev pkg_config dependency and a test_support target containing the fake loader.

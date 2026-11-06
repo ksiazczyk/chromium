@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows WebAuthn API authenticator
+// summary: Unit tests for WinWebAuthnApiAuthenticator covering make credential, get assertion, credential enumeration and deletion using a fake Windows WebAuthn API.
+// ---
+
 #include "device/fido/win/authenticator.h"
 
 #include <stdint.h>

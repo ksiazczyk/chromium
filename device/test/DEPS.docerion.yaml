@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the device test directory
+summary: Defines include rules that allow the device test runner to depend on the Mojo core embedder and the UI stack.

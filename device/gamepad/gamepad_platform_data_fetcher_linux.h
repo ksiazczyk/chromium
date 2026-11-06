@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux gamepad data fetcher header
+// summary: Declares GamepadPlatformDataFetcherLinux, a udev-watching GamepadDataFetcher that refreshes joydev, evdev and hidraw devices and supports haptic effects.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_PLATFORM_DATA_FETCHER_LINUX_H_
 #define DEVICE_GAMEPAD_GAMEPAD_PLATFORM_DATA_FETCHER_LINUX_H_
 

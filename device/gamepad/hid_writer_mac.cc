@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS HID output report writer
+// summary: Writes HID output reports on macOS via IOHIDDeviceSetReport.
+// ---
+
 #include "device/gamepad/hid_writer_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

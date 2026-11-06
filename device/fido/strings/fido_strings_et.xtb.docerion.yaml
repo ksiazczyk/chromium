@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_et.xtb.
+type: data
+title: Estonian FIDO strings translation bundle
+summary: XML translation bundle with the Estonian FIDO string for confirming your identity in an app, using the APP_NAME placeholder.

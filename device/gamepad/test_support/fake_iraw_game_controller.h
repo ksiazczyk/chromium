@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IRawGameController class declaration
+// summary: Declares FakeIRawGameController, a WinRT runtime class faking IRawGameController and IRawGameController2 with configurable gamepad ID, hardware IDs and display name.
+// ---
+
 #ifndef DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IRAW_GAME_CONTROLLER_H_
 #define DEVICE_GAMEPAD_TEST_SUPPORT_FAKE_IRAW_GAME_CONTROLLER_H_
 

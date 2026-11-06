@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux HID output report writer declaration
+// summary: Declares HidWriterLinux, a HidWriter implementation that writes output reports to a Linux HID device file descriptor.
+// ---
+
 #ifndef DEVICE_GAMEPAD_HID_WRITER_LINUX_H_
 #define DEVICE_GAMEPAD_HID_WRITER_LINUX_H_
 

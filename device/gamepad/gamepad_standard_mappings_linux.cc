@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad standard mappings for Linux
+// summary: Implements controller-to-standard-gamepad mappings for Linux, covering Sony, Xbox, and Stadia devices with kernel and firmware version handling.
+// ---
+
 #include "device/gamepad/gamepad_standard_mappings.h"
 
 #include <stddef.h>

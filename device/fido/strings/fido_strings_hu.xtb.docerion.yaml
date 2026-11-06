@@ -1,0 +1,4 @@
+# Docerion header of fido_strings_hu.xtb.
+type: data
+title: FIDO strings in Hungarian
+summary: Hungarian translation bundle with the FIDO string for verifying the user's identity in a named app.

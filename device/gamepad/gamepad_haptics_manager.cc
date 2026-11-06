@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad haptics manager Mojo service implementation
+// summary: Implements the GamepadHapticsManager Mojo interface, forwarding vibration effect and actuator reset requests to the GamepadService.
+// ---
+
 #include "device/gamepad/gamepad_haptics_manager.h"
 
 #include <utility>

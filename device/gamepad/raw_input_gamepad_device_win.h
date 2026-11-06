@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Raw Input gamepad device class declaration
+// summary: Declares RawInputGamepadDeviceWin, which validates Raw Input devices as gamepads, queries HID capabilities, reads pad state, and supports vibration effects.
+// ---
+
 #ifndef DEVICE_GAMEPAD_RAW_INPUT_GAMEPAD_DEVICE_WIN_H_
 #define DEVICE_GAMEPAD_RAW_INPUT_GAMEPAD_DEVICE_WIN_H_
 

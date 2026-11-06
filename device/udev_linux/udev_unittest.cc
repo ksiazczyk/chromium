@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Udev unit tests
+// summary: Unit tests for udev helpers covering string decoding, loader availability, and device property and sysattr access via a fake udev loader.
+// ---
+
 #include "device/udev_linux/udev.h"
 #include <vector>
 

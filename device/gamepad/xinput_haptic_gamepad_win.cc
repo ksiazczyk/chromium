@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XInput haptic gamepad implementation
+// summary: Implements XInputHapticGamepadWin, which maps dual-rumble magnitudes to an XINPUT_VIBRATION call to vibrate XInput gamepads.
+// ---
+
 #include "device/gamepad/xinput_haptic_gamepad_win.h"
 
 #include "base/trace_event/trace_event.h"

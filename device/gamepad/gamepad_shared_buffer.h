@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadSharedBuffer class declaration
+// summary: Declares the shared memory buffer holding gamepad hardware data, shared between the browser poller and consumers with seqlock synchronization.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_SHARED_BUFFER_H_
 #define DEVICE_GAMEPAD_GAMEPAD_SHARED_BUFFER_H_
 

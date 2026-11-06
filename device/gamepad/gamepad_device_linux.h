@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadDeviceLinux interface for Linux gamepad devices
+// summary: Declares the GamepadDeviceLinux class that manages a gamepad's joydev, evdev and hidraw nodes on Linux, covering state polling, special keys and haptics.
+// ---
+
 #ifndef DEVICE_GAMEPAD_GAMEPAD_DEVICE_LINUX_H_
 #define DEVICE_GAMEPAD_GAMEPAD_DEVICE_LINUX_H_
 
