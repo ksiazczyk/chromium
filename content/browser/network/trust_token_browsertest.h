@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens browser test fixture
+// summary: Header declaring the TrustTokenBrowsertest fixture that sets up an HTTPS test server and Trust Token issuance, redemption and signing handlers for browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_TRUST_TOKEN_BROWSERTEST_H_
 #define CONTENT_BROWSER_NETWORK_TRUST_TOKEN_BROWSERTEST_H_
 

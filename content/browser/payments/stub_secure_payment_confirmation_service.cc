@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub secure payment confirmation service implementation
+// summary: Implements a stub SecurePaymentConfirmationService that reports the feature unavailable and delegates credential creation to AuthenticatorCommonImpl for browsertests.
+// ---
+
 #include "content/browser/payments/stub_secure_payment_confirmation_service.h"
 
 #include "content/browser/webauth/authenticator_common_impl.h"

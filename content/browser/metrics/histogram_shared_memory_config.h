@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram shared memory configuration header
+// summary: Declares GetHistogramSharedMemoryConfig, which returns the optional histogram shared memory configuration for a given process type.
+// ---
+
 #ifndef CONTENT_BROWSER_METRICS_HISTOGRAM_SHARED_MEMORY_CONFIG_H_
 #define CONTENT_BROWSER_METRICS_HISTOGRAM_SHARED_MEMORY_CONFIG_H_
 

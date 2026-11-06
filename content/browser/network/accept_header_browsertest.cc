@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accept header browser test
+// summary: Browser test that checks the Accept header values sent for main frame, subframe, stylesheet and other resource types, including optional image codecs.
+// ---
+
 #include <map>
 
 #include "base/feature_list.h"

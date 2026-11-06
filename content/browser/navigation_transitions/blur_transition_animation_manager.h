@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blur transition animation manager header
+// summary: Declares the WebContentsUserData manager that shows a blurred layer of the previous page during load and falls back to a solid color if rendering stalls.
+// ---
+
 #ifndef CONTENT_BROWSER_NAVIGATION_TRANSITIONS_BLUR_TRANSITION_ANIMATION_MANAGER_H_
 #define CONTENT_BROWSER_NAVIGATION_TRANSITIONS_BLUR_TRANSITION_ANIMATION_MANAGER_H_
 

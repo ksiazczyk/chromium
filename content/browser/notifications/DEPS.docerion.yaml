@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Notifications dependency rules
+summary: Dependency rules allowing includes of the leveldatabase third-party library and the blink notification service mojom header in this directory.

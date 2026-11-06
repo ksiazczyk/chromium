@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment manager header
+// summary: Declares the PaymentManager class implementing the payments::mojom::PaymentManager interface for a payment handler's service worker scope.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_PAYMENT_MANAGER_H_
 #define CONTENT_BROWSER_PAYMENTS_PAYMENT_MANAGER_H_
 

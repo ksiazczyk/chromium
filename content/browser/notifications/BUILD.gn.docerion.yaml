@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notifications BUILD.gn build rules
+summary: GN build rules defining the notification_proto target that compiles the notification database data and resources protobuf files.

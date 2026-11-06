@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the permissions directory
+summary: Designates reviewers for this directory by pointing to the shared permissions owners list in components/permissions.

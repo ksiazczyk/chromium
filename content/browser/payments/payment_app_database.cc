@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppDatabase implementation
+// summary: Implements storage of payment apps and instruments in service worker storage, including reading all apps, setting user hints, and enabling delegations.
+// ---
+
 #include "content/browser/payments/payment_app_database.h"
 
 #include <map>

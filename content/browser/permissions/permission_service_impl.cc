@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionServiceImpl implementation
+// summary: Implements the Mojo PermissionService interface, validating permission descriptors and handling permission queries, requests, revocation and observers for renderer frames and workers.
+// ---
+
 #include "content/browser/permissions/permission_service_impl.h"
 
 #include <stddef.h>

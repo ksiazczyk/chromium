@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub secure payment confirmation service header
+// summary: Declares StubSecurePaymentConfirmationService, a DocumentService stub of SecurePaymentConfirmationService used by content browsertests.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_STUB_SECURE_PAYMENT_CONFIRMATION_SERVICE_H_
 #define CONTENT_BROWSER_PAYMENTS_STUB_SECURE_PAYMENT_CONFIRMATION_SERVICE_H_
 

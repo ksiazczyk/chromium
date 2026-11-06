@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Android back-forward transition animation
+// summary: Browser tests covering gesture-driven back/forward navigation transition animations, including screenshots, progress bar, and physics behavior on Android.
+// ---
+
 #include "content/browser/navigation_transitions/back_forward_transition_animation_manager_android.h"
 
 #include <sstream>

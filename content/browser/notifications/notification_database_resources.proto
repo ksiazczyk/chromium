@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationDatabaseResourcesProto protocol buffer schema
+// summary: Defines the protocol buffer message serializing blink::NotificationResources, storing the notification image, icon, badge, and action icons as serialized PNGs.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

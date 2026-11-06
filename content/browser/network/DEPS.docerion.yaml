@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content/browser/network
+summary: Defines extra include permissions for Trust Token tests and the DNS HTTPS protocol upgrade browsertest in the network browser directory.

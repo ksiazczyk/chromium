@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram synchronizer class declaration
+// summary: Declares the HistogramSynchronizer singleton that uploads histogram data from child processes to the browser for metrics logs and about:histograms.
+// ---
+
 #ifndef CONTENT_BROWSER_METRICS_HISTOGRAM_SYNCHRONIZER_H_
 #define CONTENT_BROWSER_METRICS_HISTOGRAM_SYNCHRONIZER_H_
 

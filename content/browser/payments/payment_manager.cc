@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment manager implementation
+// summary: Implements the PaymentManager Mojo interface, validating scope URLs and forwarding user hints and delegation changes to the payment app database.
+// ---
+
 #include "content/browser/payments/payment_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform notification context trigger unit tests
+// summary: Unit tests for writing notification data with show trigger timestamps and verifying trigger scheduling in the platform notification context.
+// ---
+
 #include <stdint.h>
 
 #include "base/functional/bind.h"

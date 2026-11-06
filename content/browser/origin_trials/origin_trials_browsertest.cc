@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin trials browser tests
+// summary: Browser tests verifying origin trial activation during navigations, using a URL loader interceptor to serve responses with fixed-origin trial tokens.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/test/bind.h"
 #include "content/public/browser/navigation_handle.h"

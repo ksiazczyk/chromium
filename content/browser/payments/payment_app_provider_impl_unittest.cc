@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentAppProviderImpl unit tests
+// summary: Unit tests for PaymentAppProviderImpl covering app installation, invocation, CanMakePayment, and abort flows with mocked permissions and test web contents.
+// ---
+
 #include "content/browser/payments/payment_app_provider_impl.h"
 
 #include <cstddef>

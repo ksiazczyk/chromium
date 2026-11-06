@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser online state observer header
+// summary: Declares an observer that forwards network connection changes and initial connection state to renderers through RenderProcessHost IPC.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_BROWSER_ONLINE_STATE_OBSERVER_H_
 #define CONTENT_BROWSER_NETWORK_BROWSER_ONLINE_STATE_OBSERVER_H_
 

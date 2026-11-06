@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram shared memory configuration unit tests
+// summary: Parameterized unit tests verifying per-process-type histogram shared memory configurations and the pass-on-command-line feature behavior.
+// ---
+
 #include "content/browser/metrics/histogram_shared_memory_config.h"
 
 #include <string_view>

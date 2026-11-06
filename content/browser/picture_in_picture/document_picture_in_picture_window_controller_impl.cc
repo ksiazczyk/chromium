@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture window controller implementation
+// summary: Implements the controller for document picture-in-picture windows, managing child WebContents lifecycle and screen capture coordination.
+// ---
+
 #include "content/browser/picture_in_picture/document_picture_in_picture_window_controller_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture navigation throttle header
+// summary: Declares the DocumentPictureInPictureNavigationThrottle class that prevents document picture-in-picture windows from navigating.
+// ---
+
 #ifndef CONTENT_BROWSER_PICTURE_IN_PICTURE_DOCUMENT_PICTURE_IN_PICTURE_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_PICTURE_IN_PICTURE_DOCUMENT_PICTURE_IN_PICTURE_NAVIGATION_THROTTLE_H_
 

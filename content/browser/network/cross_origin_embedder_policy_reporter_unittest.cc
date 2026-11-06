@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrossOriginEmbedderPolicyReporter unit tests
+// summary: Unit tests for the CrossOriginEmbedderPolicyReporter, verifying COEP report bodies and delivery to the network context and reporting observers.
+// ---
+
 #include "content/browser/network/cross_origin_embedder_policy_reporter.h"
 
 #include <optional>

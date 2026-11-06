@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User level memory pressure signal generator implementation
+// summary: Implements the Android user-level memory pressure signal generator that periodically measures renderer private memory footprint against device-specific thresholds and emits extra memory pressure signals beyond OS-generated ones.
+// ---
+
 #include "content/browser/memory_pressure/user_level_memory_pressure_signal_generator.h"
 
 #include <fcntl.h>

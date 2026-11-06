@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blur transition animation manager implementation
+// summary: Implements the Android blur transition that overlays a blurred reference to the outgoing page during navigation, with configurable hold, fade, and blur parameters.
+// ---
+
 #include "content/browser/navigation_transitions/blur_transition_animation_manager.h"
 
 #include <algorithm>

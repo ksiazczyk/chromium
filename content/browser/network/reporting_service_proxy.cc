@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting service proxy implementation
+// summary: Implements the blink ReportingServiceProxy that queues intervention, deprecation and CSP violation reports from frames and workers to the network service.
+// ---
+
 #include "content/browser/network/reporting_service_proxy.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Origin-Embedder-Policy reporter header
+// summary: Declares the mojo reporter class that queues COEP violation reports and can be shared with the network service via Clone.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_CROSS_ORIGIN_EMBEDDER_POLICY_REPORTER_H_
 #define CONTENT_BROWSER_NETWORK_CROSS_ORIGIN_EMBEDDER_POLICY_REPORTER_H_
 

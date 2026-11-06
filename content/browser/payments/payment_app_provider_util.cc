@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppProviderUtil implementation
+// summary: Implements payment app utilities for UKM source ids, installability validation of manifest and service worker URLs, and creation of blank response objects.
+// ---
+
 #include "content/public/browser/payment_app_provider_util.h"
 
 #include "content/browser/service_worker/service_worker_loader_helpers.h"

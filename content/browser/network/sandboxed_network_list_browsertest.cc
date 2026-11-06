@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed network list browser test
+// summary: Browser test checking network interface listing works with the network service sandbox, including Windows LPAC variants.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

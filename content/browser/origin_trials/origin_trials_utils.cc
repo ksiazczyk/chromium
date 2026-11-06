@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trial header utility functions
+// summary: Provides helpers that extract Origin-Trial and Critical-Origin-Trial header values from HTTP response headers.
+// ---
+
 #include "content/browser/origin_trials/origin_trials_utils.h"
 
 #include <string_view>

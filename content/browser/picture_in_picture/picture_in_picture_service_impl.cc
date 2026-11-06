@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture service implementation
+// summary: Implements the mojo PictureInPictureService that starts video picture-in-picture sessions, including pending sessions and immersive playback handling.
+// ---
+
 #include "content/browser/picture_in_picture/picture_in_picture_service_impl.h"
 
 #include <utility>

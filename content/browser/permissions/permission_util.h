@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionUtil helper class declaration
+// summary: Declares PermissionUtil static helpers for status conversion, embedding origin resolution, domain override handling, and device or embeddable permission checks.
+// ---
+
 #ifndef CONTENT_BROWSER_PERMISSIONS_PERMISSION_UTIL_H_
 #define CONTENT_BROWSER_PERMISSIONS_PERMISSION_UTIL_H_
 

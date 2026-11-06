@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child memory consumer registry host unit tests
+// summary: Unit tests for the child registry host using mocked controllers and coordinators to exercise registration, updates, and diagnostics.
+// ---
+
 #include "content/browser/memory_coordinator/child_memory_consumer_registry_host.h"
 
 #include <memory>

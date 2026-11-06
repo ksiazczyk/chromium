@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistogramsMonitor unit tests
+// summary: Unit tests for HistogramsMonitor covering baseline snapshots, diff computation, and case-insensitive query filtering of histogram names.
+// ---
+
 #include "content/browser/metrics/histograms_monitor.h"
 
 #include "base/metrics/histogram.h"

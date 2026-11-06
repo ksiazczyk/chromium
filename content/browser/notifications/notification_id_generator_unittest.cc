@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification ID generator unit tests
+// summary: Unit tests verifying that generated persistent and non-persistent notification IDs are deterministic and sensitive to origin, tag and notification ID.
+// ---
+
 #include <stdint.h>
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionServiceImpl unit tests
+// summary: Unit tests exercising the Mojo PermissionService, including HasPermission and permission request flows with content settings and permission overrides.
+// ---
+
 #include "content/browser/permissions/permission_service_impl.h"
 
 #include <memory>

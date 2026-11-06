@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network errors listing WebUI controller header
+// summary: Declares the network errors listing WebUI controller class and its internal WebUI configuration for the browser process.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_NETWORK_ERRORS_LISTING_UI_H_
 #define CONTENT_BROWSER_NETWORK_NETWORK_ERRORS_LISTING_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the indeterminate navigation progress bar
+// summary: Declares the ProgressBar class that renders an indeterminate progress bar between navigation start and commit.
+// ---
+
 #ifndef CONTENT_BROWSER_NAVIGATION_TRANSITIONS_PROGRESS_BAR_H_
 #define CONTENT_BROWSER_NAVIGATION_TRANSITIONS_PROGRESS_BAR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Respond-with callback header
+// summary: Declares the abstract RespondWithCallback base class and its CanMakePayment and Invoke subclasses for handling payment handler respondWith() resolutions.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_RESPOND_WITH_CALLBACK_H_
 #define CONTENT_BROWSER_PAYMENTS_RESPOND_WITH_CALLBACK_H_
 

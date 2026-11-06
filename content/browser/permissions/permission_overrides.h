@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionOverrides class declaration
+// summary: Declares the PermissionOverrides class that maintains per-origin permission status overrides and can create content settings patterns for them.
+// ---
+
 #ifndef CONTENT_BROWSER_PERMISSIONS_PERMISSION_OVERRIDES_H_
 #define CONTENT_BROWSER_PERMISSIONS_PERMISSION_OVERRIDES_H_
 

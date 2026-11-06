@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppProviderImpl implementation
+// summary: Implements invoking, installing, and updating payment apps plus CanMakePayment and AbortPayment flows, dispatching events to payment handler service workers.
+// ---
+
 #include "content/browser/payments/payment_app_provider_impl.h"
 
 #include <map>

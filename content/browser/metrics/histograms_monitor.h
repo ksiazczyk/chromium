@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistogramsMonitor class header for histogram monitoring
+// summary: Declares HistogramsMonitor, which records a baseline snapshot of current histograms and returns diffs of histograms logged since monitoring started, filtered by a query string.
+// ---
+
 #ifndef CONTENT_BROWSER_METRICS_HISTOGRAMS_MONITOR_H_
 #define CONTENT_BROWSER_METRICS_HISTOGRAMS_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPictureSession implementation
+// summary: Implements a video Picture-in-Picture session that manages the media player connection, window state and session lifecycle.
+// ---
+
 #include "content/browser/picture_in_picture/picture_in_picture_session.h"
 
 #include <utility>

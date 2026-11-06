@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionUtil unit tests
+// summary: Unit tests for PermissionUtil covering domain override detection, extraction, and validation of storage access permission descriptors.
+// ---
+
 #include "content/browser/permissions/permission_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentEventDispatcher implementation
+// summary: Implements dispatching payment request, CanMakePayment, and abort events to payment handler service workers and logging responses to DevTools background services.
+// ---
+
 #include "content/browser/payments/payment_event_dispatcher.h"
 
 #include "base/feature_list.h"

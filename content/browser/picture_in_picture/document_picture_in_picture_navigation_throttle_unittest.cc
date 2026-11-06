@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document Picture-in-Picture navigation throttle unit tests
+// summary: Unit tests verifying that cross-document navigation fails and closes the picture-in-picture window while same-document navigation succeeds.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_impl.h"
 #include "content/public/test/test_renderer_host.h"
 #include "content/test/navigation_simulator_impl.h"

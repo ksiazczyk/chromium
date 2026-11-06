@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Notifications common metadata
+summary: Directory metadata declaring the UI>Notifications monorail component, the pwa-dev team email and the public Buganizer component.

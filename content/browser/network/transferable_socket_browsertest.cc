@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transferable socket browser test
+// summary: Browser test verifying that a socket created in the browser process can be transferred to the network service process and used to send an HTTP request.
+// ---
+
 #include "base/feature_list.h"
 #include "base/process/process_handle.h"
 #include "base/run_loop.h"

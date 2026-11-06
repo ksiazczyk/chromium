@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram shared memory configuration implementation
+// summary: Implements GetHistogramSharedMemoryConfig, mapping each child process type to an allocator name and shared memory size for histograms.
+// ---
+
 #include "content/browser/metrics/histogram_shared_memory_config.h"
 
 #include "content/public/common/process_type.h"

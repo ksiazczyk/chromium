@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionSubscriptionImpl implementation
+// summary: Implements a permission change subscription that unsubscribes from the permission controller on destruction and supports releasing the subscription ID.
+// ---
+
 #include "content/browser/permissions/permission_subscription_impl.h"
 
 #include <utility>

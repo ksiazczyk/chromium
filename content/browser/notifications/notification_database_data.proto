@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationDatabaseDataProto protocol buffer schema
+// summary: Defines the protocol buffer message serializing NotificationDatabaseData, covering the notification payload, click metrics, closed reasons, and browser-shown notification flags.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trial header utility declarations
+// summary: Declares helper functions for reading Origin-Trial and Critical-Origin-Trial header values from response headers.
+// ---
+
 #ifndef CONTENT_BROWSER_ORIGIN_TRIALS_ORIGIN_TRIALS_UTILS_H_
 #define CONTENT_BROWSER_ORIGIN_TRIALS_ORIGIN_TRIALS_UTILS_H_
 

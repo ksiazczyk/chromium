@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Origin trials directory owners
+summary: Delegates code ownership for this directory to the owners listed in the Blink common origin trials OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppInstaller implementation
+// summary: Implements installation of web payment apps by reusing or registering service workers and storing default payment instruments via a self-deleting installer helper.
+// ---
+
 #include "content/browser/payments/payment_app_installer.h"
 
 #include <utility>

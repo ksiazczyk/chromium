@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical origin trials throttle implementation
+// summary: Implements a URLLoaderThrottle that validates Critical-Origin-Trial headers on navigation responses and restarts requests so trials can be persisted.
+// ---
+
 #include "content/browser/origin_trials/critical_origin_trials_throttle.h"
 
 #include "base/metrics/histogram_macros.h"

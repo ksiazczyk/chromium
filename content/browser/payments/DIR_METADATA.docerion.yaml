@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the payments browser code
+summary: Metadata file linking the payments browser directory to the shared components/payments COMMON_METADATA mixins.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPictureInPictureWindowControllerImpl implementation
+// summary: Implements the per-WebContents controller that owns Picture-in-Picture sessions and drives the overlay window and media actions.
+// ---
+
 #include "content/browser/picture_in_picture/video_picture_in_picture_window_controller_impl.h"
 
 #include <set>

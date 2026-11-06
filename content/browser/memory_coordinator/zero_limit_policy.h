@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroLimitPolicy class header
+// summary: Declares ZeroLimitPolicy, a MemoryCoordinator policy that sets the memory limit of all stateful MemoryConsumers to zero for Finch experimentation.
+// ---
+
 #ifndef CONTENT_BROWSER_MEMORY_COORDINATOR_ZERO_LIMIT_POLICY_H_
 #define CONTENT_BROWSER_MEMORY_COORDINATOR_ZERO_LIMIT_POLICY_H_
 

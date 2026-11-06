@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the payment app unit test base fixture
+// summary: Declares the PaymentAppContentUnitTestBase fixture used by payment manager unit tests, with helpers to register service workers and create payment managers.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_PAYMENT_APP_CONTENT_UNITTEST_BASE_H_
 #define CONTENT_BROWSER_PAYMENTS_PAYMENT_APP_CONTENT_UNITTEST_BASE_H_
 

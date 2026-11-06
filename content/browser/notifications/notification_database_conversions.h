@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification database conversion declarations
+// summary: Declares serialize and deserialize helpers that convert notification database data and resources between C++ structures and their protocol buffer representations.
+// ---
+
 #ifndef CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_DATABASE_CONVERSIONS_H_
 #define CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_DATABASE_CONVERSIONS_H_
 

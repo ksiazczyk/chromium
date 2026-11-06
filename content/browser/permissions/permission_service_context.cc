@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionServiceContext implementation
+// summary: Implements the per-document or per-worker context that creates permission services, manages observer subscriptions and handles back-forward cache status updates.
+// ---
+
 #include "content/browser/permissions/permission_service_context.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary utility header
+// summary: Declares CalculateAndSetSharedDictionaryCacheMaxSize, which computes and sets the shared dictionary cache size for a storage partition.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_SHARED_DICTIONARY_UTIL_H_
 #define CONTENT_BROWSER_NETWORK_SHARED_DICTIONARY_UTIL_H_
 

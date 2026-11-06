@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppInstaller class header
+// summary: Declares the PaymentAppInstaller static Install API that installs a web payment app with a default instrument and returns the registration id through a callback.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_PAYMENT_APP_INSTALLER_H_
 #define CONTENT_BROWSER_PAYMENTS_PAYMENT_APP_INSTALLER_H_
 

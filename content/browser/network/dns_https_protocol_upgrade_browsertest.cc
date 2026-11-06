@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DoH HTTPS protocol upgrade browser tests
+// summary: Browser tests verifying HTTPS protocol upgrades driven by DNS HTTPS/SVCB records, using a test DoH server and the kUseDnsHttpsSvcb feature.
+// ---
+
 #include <string_view>
 
 #include "base/test/bind.h"

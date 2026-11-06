@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform notification context unit tests
+// summary: Unit tests covering read, write, delete, and close operations for notification data in the platform notification context and its database.
+// ---
+
 #include <stdint.h>
 
 #include "base/files/file_util.h"

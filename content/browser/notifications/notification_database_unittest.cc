@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification database unit tests
+// summary: Unit tests for the NotificationDatabase exercising in-memory and filesystem databases, writing notifications, and populating example data across origins and service worker registrations.
+// ---
+
 #include "content/browser/notifications/notification_database.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification event dispatcher implementation
+// summary: Dispatches notification click, close, and show events to service workers, converting service worker status codes into persistent notification statuses for reporting.
+// ---
+
 #include "content/browser/notifications/notification_event_dispatcher_impl.h"
 
 #include <optional>

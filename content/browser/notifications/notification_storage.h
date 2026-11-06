@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification storage header
+// summary: Declares NotificationStorage, a wrapper around the Service Worker database exposing read and write APIs for persistent notification data.
+// ---
+
 #ifndef CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_STORAGE_H_
 #define CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_STORAGE_H_
 

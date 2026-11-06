@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationDatabase class declaration
+// summary: Declares the NotificationDatabase class, a LevelDB-backed persistent notification database with UMA status codes and methods to open, read, and write notification data and resources.
+// ---
+
 #ifndef CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_DATABASE_H_
 #define CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_DATABASE_H_
 

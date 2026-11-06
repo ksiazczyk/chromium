@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installed payment apps finder implementation
+// summary: Implements the browser-side installed payment apps finder, reading all payment apps from the database and filtering them by payment handler permission.
+// ---
+
 #include "content/browser/payments/installed_payment_apps_finder_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment manager unit tests
+// summary: Unit tests for PaymentManager, verifying that calls on an uninitialized manager disconnect with a NOT_FOUND status instead of crashing.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

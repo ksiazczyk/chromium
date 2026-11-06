@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document Picture-in-Picture window controller unit tests
+// summary: Unit tests using a mock screen capture coordinator to verify controller notifications when child WebContents are set or visibility changes.
+// ---
+
 #include "content/browser/picture_in_picture/document_picture_in_picture_window_controller_impl.h"
 
 #include "content/browser/media/capture/pip_screen_capture_coordinator.h"

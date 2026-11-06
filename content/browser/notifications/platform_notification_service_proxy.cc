@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform notification service proxy implementation
+// summary: Implements a proxy that displays and closes persistent notifications through the platform notification service after verifying the service worker registration.
+// ---
+
 #include "content/browser/notifications/platform_notification_service_proxy.h"
 
 #include <memory>

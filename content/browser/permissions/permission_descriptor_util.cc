@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission descriptor creation utilities
+// summary: Creates blink permission descriptors for each permission type, including MIDI, clipboard, camera, and fullscreen descriptor extensions.
+// ---
+
 #include "content/public/browser/permission_descriptor_util.h"
 
 namespace {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink notification service implementation
+// summary: Implements the Mojo NotificationService for web notifications, handling display, close and lookup of persistent and non-persistent notifications with input validation.
+// ---
+
 #include "content/browser/notifications/blink_notification_service_impl.h"
 
 #include <string>

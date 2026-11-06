@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality observer implementation
+// summary: Implements the browser-side observer that forwards meaningful network quality changes, such as RTT, throughput and connection type, to renderers via mojo.
+// ---
+
 #include "content/browser/network/network_quality_observer_impl.h"
 
 #include "base/metrics/histogram_macros.h"

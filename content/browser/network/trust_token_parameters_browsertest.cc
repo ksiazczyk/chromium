@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens parameters browser test
+// summary: Parameterized browser tests checking that Fetch API Trust Tokens parameters are propagated into the downstream network ResourceRequest.
+// ---
+
 #include "base/strings/escape.h"
 #include "base/strings/strcat.h"
 #include "base/test/bind.h"

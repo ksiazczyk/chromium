@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histograms monitor implementation
+// summary: Snapshots all recorded histograms as a baseline and computes filtered diffs of histogram samples since monitoring started.
+// ---
+
 #include "content/browser/metrics/histograms_monitor.h"
 
 #include "base/containers/map_util.h"
