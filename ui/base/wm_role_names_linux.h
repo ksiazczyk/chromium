@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux window manager role name constants
+// summary: Defines the kStatusIconWmRoleName constant used to construct status-icon windows under X11 on Linux.
+// ---
+
 #ifndef UI_BASE_WM_ROLE_NAMES_LINUX_H_
 #define UI_BASE_WM_ROLE_NAMES_LINUX_H_
 

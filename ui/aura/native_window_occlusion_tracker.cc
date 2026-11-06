@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native window occlusion tracker implementation
+// summary: Implements the NativeWindowOcclusionTracker shim that enables, disables and queries native window occlusion tracking for WindowTreeHosts on Windows.
+// ---
+
 #include "ui/aura/native_window_occlusion_tracker.h"
 
 #include "base/metrics/field_trial_params.h"

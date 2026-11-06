@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor shape client implementation
+// summary: Implements setter and getter functions that store the cursor shape client on the global aura Env instance.
+// ---
+
 #include "ui/aura/client/cursor_shape_client.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor client property helpers
+// summary: Implements helpers that store and retrieve the cursor client property on a window.
+// ---
+
 #include "ui/aura/client/cursor_client.h"
 
 #include "ui/aura/window.h"

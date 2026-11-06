@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device form factor enum and accessors
+// summary: Declares the DeviceFormFactor enum, its EnumSet type, and functions to query the current form factor and its string representation.
+// ---
+
 #ifndef UI_BASE_DEVICE_FORM_FACTOR_H_
 #define UI_BASE_DEVICE_FORM_FACTOR_H_
 

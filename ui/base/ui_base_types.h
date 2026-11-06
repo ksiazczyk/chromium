@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI base shared types and enums
+// summary: Defines shared UI structs and enums including window tiled edges, button styles, z-order levels, and owned window anchoring for Wayland-style positioning.
+// ---
+
 #ifndef UI_BASE_UI_BASE_TYPES_H_
 #define UI_BASE_UI_BASE_TYPES_H_
 

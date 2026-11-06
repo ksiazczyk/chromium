@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowTreeHostPlatform implementation
+// summary: Implements the unified WindowTreeHost for platforms that use PlatformWindow, creating platform windows and forwarding native events and state changes to aura.
+// ---
+
 #include "ui/aura/window_tree_host_platform.h"
 
 #include <memory>

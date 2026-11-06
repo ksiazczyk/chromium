@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemedVectorIcon class header
+// summary: Declares the ThemedVectorIcon class wrapping a vector icon with a color variant, size, and optional badge for themed rendering.
+// ---
+
 #ifndef UI_BASE_THEMED_VECTOR_ICON_H_
 #define UI_BASE_THEMED_VECTOR_ICON_H_
 

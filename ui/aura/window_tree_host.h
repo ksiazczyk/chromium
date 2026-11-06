@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowTreeHost class declaration
+// summary: Declares the WindowTreeHost interface that connects a native window to the aura root window, providing accelerated widget access, transforms, and event translation.
+// ---
+
 #ifndef UI_AURA_WINDOW_TREE_HOST_H_
 #define UI_AURA_WINDOW_TREE_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWindowBuilder implementation
+// summary: Implements the fluent TestWindowBuilder API that creates configured aura::Window instances for tests, applying parent, type, id, bounds, delegate and show settings on Build.
+// ---
+
 #include "ui/aura/test/test_window_builder.h"
 
 #include "ui/aura/client/aura_constants.h"

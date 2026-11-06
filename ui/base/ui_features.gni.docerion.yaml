@@ -1,0 +1,4 @@
+# Docerion header of ui_features.gni.
+type: config
+title: UI feature build configuration
+summary: GN build arguments controlling UI features such as xkbcommon usage, native and platform accessibility support, message center, and HiDPI.

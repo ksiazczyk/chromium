@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window stacking client interface
+// summary: Interface invoked by window stacking functions to adjust the source, target or direction of stacking, or to veto the operation.
+// ---
+
 #ifndef UI_AURA_CLIENT_WINDOW_STACKING_CLIENT_H_
 #define UI_AURA_CLIENT_WINDOW_STACKING_CLIENT_H_
 

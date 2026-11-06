@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window event dispatcher implementation
+// summary: Implements event dispatch within a window tree, including held and reposted events, mouse exit dispatch, capture and gesture recognition coordination.
+// ---
+
 #include "ui/aura/window_event_dispatcher.h"
 
 #include <stddef.h>

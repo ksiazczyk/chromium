@@ -7,6 +7,12 @@
 // linker will know to include the symbols, defined by these headers, in the
 // resulting dynamic library (ui.dll).
 
+// ---docerion
+// type: source
+// title: UI base export symbol anchor
+// summary: Includes observer and model headers not referenced elsewhere so the linker keeps their symbols in the ui dynamic library.
+// ---
+
 #include "ui/base/accelerators/accelerator.h"
 #include "ui/base/models/combobox_model_observer.h"
 #include "ui/base/models/list_model_observer.h"

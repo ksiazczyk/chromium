@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ChromeOS global accelerator listener
+// summary: Tests registration, unregistration and null-delegate teardown behavior of the ChromeOS listener using a fake delegate.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener_chromeos.h"
 
 #include <memory>

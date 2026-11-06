@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows InputStateLookup implementation
+// summary: Implements InputStateLookup on Windows using GetKeyState to detect mouse button state.
+// ---
+
 #include "ui/aura/input_state_lookup_win.h"
 
 #include <windows.h>

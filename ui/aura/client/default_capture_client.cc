@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultCaptureClient implementation
+// summary: Implements the default capture client that tracks the capture window per root window and globally, notifying observers of capture changes.
+// ---
+
 #include "ui/aura/client/default_capture_client.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux global accelerator listener class declaration
+// summary: Declares the Linux-specific GlobalAcceleratorListener that manages XDG desktop portal sessions, shortcut binding states, and bound commands for global shortcuts.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_GLOBAL_ACCELERATOR_LISTENER_GLOBAL_ACCELERATOR_LISTENER_LINUX_H_
 #define UI_BASE_ACCELERATORS_GLOBAL_ACCELERATOR_LISTENER_GLOBAL_ACCELERATOR_LISTENER_LINUX_H_
 

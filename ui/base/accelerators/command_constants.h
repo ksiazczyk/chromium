@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keybinding platform and key name constants
+// summary: Declares constants for keybinding platform identifiers and key names used when parsing accelerator strings.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_COMMAND_CONSTANTS_H_
 #define UI_BASE_ACCELERATORS_COMMAND_CONSTANTS_H_
 

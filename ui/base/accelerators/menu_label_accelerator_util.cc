@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu label mnemonic and ampersand escaping helpers
+// summary: Implements extracting a mnemonic character from a menu label and escaping ampersands so they are not treated as accelerators.
+// ---
+
 #include "ui/base/accelerators/menu_label_accelerator_util.h"
 
 #include "base/i18n/case_conversion.h"

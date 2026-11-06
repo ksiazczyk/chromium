@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command class for accelerator parsing
+// summary: Defines the ui::Command class that parses shortcut strings into accelerators, reports parse errors, and maps command names to command objects.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_COMMAND_H_
 #define UI_BASE_ACCELERATORS_COMMAND_H_
 

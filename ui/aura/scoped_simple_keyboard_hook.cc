@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSimpleKeyboardHook implementation
+// summary: Implements a keyboard hook that reports locked keys from a stored DomCode set without installing a system-level keyboard hook.
+// ---
+
 #include "ui/aura/scoped_simple_keyboard_hook.h"
 
 #include <utility>

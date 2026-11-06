@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window open disposition enum
+// summary: Defines the WindowOpenDisposition enum describing how a link or URL should be opened, such as in the current tab, a new tab, a popup, or a split view.
+// ---
+
 #ifndef UI_BASE_WINDOW_OPEN_DISPOSITION_H_
 #define UI_BASE_WINDOW_OPEN_DISPOSITION_H_
 

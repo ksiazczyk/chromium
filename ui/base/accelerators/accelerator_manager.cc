@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator manager implementation
+// summary: Implements registration, unregistration and priority-based processing of keyboard accelerators for registered targets.
+// ---
+
 #include "ui/base/accelerators/accelerator_manager.h"
 
 #include <algorithm>

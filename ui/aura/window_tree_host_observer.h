@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowTreeHostObserver interface
+// summary: Defines the observer interface for WindowTreeHost events such as resize, move, close requests, occlusion state changes, and surface id updates.
+// ---
+
 #ifndef UI_AURA_WINDOW_TREE_HOST_OBSERVER_H_
 #define UI_AURA_WINDOW_TREE_HOST_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowTargeter class header
+// summary: Declares a scoped helper for temporarily replacing a window's event targeter with another one.
+// ---
+
 #ifndef UI_AURA_SCOPED_WINDOW_TARGETER_H_
 #define UI_AURA_SCOPED_WINDOW_TARGETER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window targeter unit tests
+// summary: Unit tests for event targeting behavior, including basic hit testing, root window target lookup, and scoped window targeters.
+// ---
+
 #include "ui/aura/window_targeter.h"
 
 #include <utility>

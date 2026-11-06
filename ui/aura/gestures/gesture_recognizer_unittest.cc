@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gesture recognizer unit tests
+// summary: Unit tests for Aura gesture recognition that verify tap, scroll, pinch, swipe, fling, and long-press events via test window delegates and an event generator.
+// ---
+
 #include <stdint.h>
 
 #include <array>

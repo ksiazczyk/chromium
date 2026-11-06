@@ -1,0 +1,4 @@
+# Docerion header of device_form_factor_ios.mm.
+type: source
+title: iOS implementation of device form factor
+summary: Returns tablet or phone based on the UIKit user interface idiom of the current device.

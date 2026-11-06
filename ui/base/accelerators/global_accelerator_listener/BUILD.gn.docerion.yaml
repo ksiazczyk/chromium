@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for global accelerator listener
+summary: Defines the global_accelerator_listener component with platform-specific sources and dependencies for Android, Mac, Windows, Ozone, Linux and ChromeOS.

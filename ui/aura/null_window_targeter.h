@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null window targeter header
+// summary: Declares NullWindowTargeter, which can be installed on a root window to prevent event dispatch, such as during shutdown.
+// ---
+
 #ifndef UI_AURA_NULL_WINDOW_TARGETER_H_
 #define UI_AURA_NULL_WINDOW_TARGETER_H_
 

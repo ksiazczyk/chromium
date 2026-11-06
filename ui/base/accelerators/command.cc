@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command class implementation
+// summary: Implements the Command class for parsing, validating and serializing keyboard shortcut commands across platforms, including media key handling.
+// ---
+
 #include "ui/base/accelerators/command.h"
 
 #include <string>

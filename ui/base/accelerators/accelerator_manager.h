@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator manager header
+// summary: Declares the AcceleratorManager that registers keyboard accelerators with priorities and dispatches them to the most recently registered target.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_ACCELERATOR_MANAGER_H_
 #define UI_BASE_ACCELERATORS_ACCELERATOR_MANAGER_H_
 

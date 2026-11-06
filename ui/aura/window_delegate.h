@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window delegate interface
+// summary: Defines the WindowDelegate interface with callbacks for sizing, painting, focus, capture loss, visibility, occlusion and hit-test masks for aura windows.
+// ---
+
 #ifndef UI_AURA_WINDOW_DELEGATE_H_
 #define UI_AURA_WINDOW_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window occlusion change builder
+// summary: Builds and applies accumulated window occlusion state changes, pausing frame eviction until all occlusion updates have been applied.
+// ---
+
 #include "ui/aura/window_occlusion_change_builder.h"
 
 #include "base/check_op.h"

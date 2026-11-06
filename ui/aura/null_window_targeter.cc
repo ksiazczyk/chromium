@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Null window targeter implementation
+// summary: Implements NullWindowTargeter, an event targeter that drops all events by never finding a target for them.
+// ---
+
 #include "ui/aura/null_window_targeter.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Linux global accelerator listener
+// summary: Tests the Linux global accelerator listener's portal session handling, shortcut binding, pruning of stale commands, and command execution using mock D-Bus objects.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener_linux.h"
 
 #include <algorithm>

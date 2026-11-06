@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropClient interface
+// summary: Defines the interface controlling drag and drop sessions, including StartDragAndDrop, drag image updates, cancellation and observer management.
+// ---
+
 #ifndef UI_AURA_CLIENT_DRAG_DROP_CLIENT_H_
 #define UI_AURA_CLIENT_DRAG_DROP_CLIENT_H_
 

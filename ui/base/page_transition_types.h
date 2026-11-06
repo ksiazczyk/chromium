@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageTransition enum definition
+// summary: Defines the PageTransition enum of core navigation types and qualifiers that are persisted in the history database, with documentation of each value.
+// ---
+
 #ifndef UI_BASE_PAGE_TRANSITION_TYPES_H_
 #define UI_BASE_PAGE_TRANSITION_TYPES_H_
 

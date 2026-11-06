@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowCaptureRequest class header
+// summary: Declares a scoped move-only object that tracks a request making a window capturable by a FrameSinkVideoCapturer.
+// ---
+
 #ifndef UI_AURA_SCOPED_WINDOW_CAPTURE_REQUEST_H_
 #define UI_AURA_SCOPED_WINDOW_CAPTURE_REQUEST_H_
 

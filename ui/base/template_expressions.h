@@ -5,6 +5,12 @@
 // This file defines utility functions for replacing template expressions.
 // For example "Hello ${name}" could have ${name} replaced by the user's name.
 
+// ---docerion
+// type: source
+// title: Template expressions utility declarations
+// summary: Declares utilities for replacing $i18n{key} template expressions in strings and in Polymer HTML templates embedded in JavaScript sources.
+// ---
+
 #ifndef UI_BASE_TEMPLATE_EXPRESSIONS_H_
 #define UI_BASE_TEMPLATE_EXPRESSIONS_H_
 

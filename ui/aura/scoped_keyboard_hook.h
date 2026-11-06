@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped keyboard hook header
+// summary: Declares ScopedKeyboardHook, which cleans up the WindowTreeHost's KeyboardHook on destruction and checks whether a key is locked by KeyboardLock.
+// ---
+
 #ifndef UI_AURA_SCOPED_KEYBOARD_HOOK_H_
 #define UI_AURA_SCOPED_KEYBOARD_HOOK_H_
 

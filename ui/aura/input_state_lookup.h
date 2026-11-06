@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputStateLookup
+// summary: Declares the interface for querying input device state, such as whether mouse buttons are down.
+// ---
+
 #ifndef UI_AURA_INPUT_STATE_LOOKUP_H_
 #define UI_AURA_INPUT_STATE_LOOKUP_H_
 

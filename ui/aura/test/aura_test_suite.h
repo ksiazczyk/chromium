@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnvReinstaller for the Aura test suite
+// summary: Declares EnvReinstaller, which lets an individual test destroy and later reinstate the Env instance shared across the Aura test suite.
+// ---
+
 #ifndef UI_AURA_TEST_AURA_TEST_SUITE_H_
 #define UI_AURA_TEST_AURA_TEST_SUITE_H_
 

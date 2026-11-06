@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String mapping for device form factors
+// summary: Maps each DeviceFormFactor enum value to a stable string used in telemetry and metrics.
+// ---
+
 #include "ui/base/device_form_factor.h"
 
 #include <string_view>

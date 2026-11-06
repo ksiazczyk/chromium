@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator unit tests
+// summary: Tests for the Accelerator class covering repeat flags, timestamps, shortcut text rendering and conversion to and from key events.
+// ---
+
 #include "ui/base/accelerators/accelerator.h"
 
 #include <string>

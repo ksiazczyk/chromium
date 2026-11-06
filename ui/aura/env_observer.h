@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnvObserver interface
+// summary: Declares EnvObserver, an interface notified of window initialization, host lifecycle and Env destruction events.
+// ---
+
 #ifndef UI_AURA_ENV_OBSERVER_H_
 #define UI_AURA_ENV_OBSERVER_H_
 

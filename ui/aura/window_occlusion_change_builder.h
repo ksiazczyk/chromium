@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window occlusion change builder interface
+// summary: Interface used by WindowOcclusionTracker to queue occlusion state and region changes for aura windows, applied when the builder is committed.
+// ---
+
 #ifndef UI_AURA_WINDOW_OCCLUSION_CHANGE_BUILDER_H_
 #define UI_AURA_WINDOW_OCCLUSION_CHANGE_BUILDER_H_
 

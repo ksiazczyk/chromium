@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusClient accessor implementation
+// summary: Implements SetFocusClient and GetFocusClient, storing the focus client property on the aura root window.
+// ---
+
 #include "ui/aura/client/focus_client.h"
 
 #include "ui/aura/client/aura_constants.h"

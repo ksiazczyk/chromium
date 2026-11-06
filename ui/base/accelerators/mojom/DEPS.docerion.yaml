@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for accelerator Mojom
+summary: Grants include access to mojo/public/cpp/base for code in this directory.

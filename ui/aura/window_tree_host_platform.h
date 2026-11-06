@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowTreeHostPlatform class declaration
+// summary: Declares the PlatformWindow-based WindowTreeHost implementation, including its delegate callbacks and a testing hook for custom platform window creation.
+// ---
+
 #ifndef UI_AURA_WINDOW_TREE_HOST_PLATFORM_H_
 #define UI_AURA_WINDOW_TREE_HOST_PLATFORM_H_
 

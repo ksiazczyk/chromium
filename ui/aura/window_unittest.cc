@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window unit tests
+// summary: Extensive unit tests for the aura Window class covering layout, properties, visibility, capture, animations, and event targeting.
+// ---
+
 #include "ui/aura/window.h"
 
 #include <limits.h>

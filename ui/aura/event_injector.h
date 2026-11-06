@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventInjector
+// summary: Declares EventInjector, which injects events into a host as if they came from the OS, with coordinates in DIPs.
+// ---
+
 #ifndef UI_AURA_EVENT_INJECTOR_H_
 #define UI_AURA_EVENT_INJECTOR_H_
 

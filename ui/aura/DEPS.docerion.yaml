@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Aura include rules
+summary: DEPS file specifying which external includes the aura directory may use, with a special rule for the event dispatcher unittest.

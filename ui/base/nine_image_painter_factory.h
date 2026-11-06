@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nine-image painter factory header
+// summary: Defines IMAGE_GRID macros for building nine-image IDR arrays and declares CreateNineImagePainter for image grid painting.
+// ---
+
 #ifndef UI_BASE_NINE_IMAGE_PAINTER_FACTORY_H_
 #define UI_BASE_NINE_IMAGE_PAINTER_FACTORY_H_
 

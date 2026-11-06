@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWindowTargeter implementation
+// summary: Implements a test WindowTargeter whose FindTargetForEvent and FindNextBestTarget simply return the given or previous event target unchanged.
+// ---
+
 #include "ui/aura/test/test_window_targeter.h"
 
 namespace aura {

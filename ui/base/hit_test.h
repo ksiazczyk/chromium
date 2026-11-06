@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-platform hit test constants header
+// summary: Defines HT* hit test constants matching Windows WM_NCHITTEST values on all platforms and declares drag and resize component helpers.
+// ---
+
 #ifndef UI_BASE_HIT_TEST_H_
 #define UI_BASE_HIT_TEST_H_
 

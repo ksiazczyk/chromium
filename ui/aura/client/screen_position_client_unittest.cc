@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenPositionClient unit tests
+// summary: Unit tests verifying ConvertPointToRootWindowIgnoringTransforms behavior with nested windows and transforms using a test ScreenPositionClient.
+// ---
+
 #include "ui/aura/client/screen_position_client.h"
 
 #include <memory>

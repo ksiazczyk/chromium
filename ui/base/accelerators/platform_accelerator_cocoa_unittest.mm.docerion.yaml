@@ -1,0 +1,4 @@
+# Docerion header of platform_accelerator_cocoa_unittest.mm.
+type: test
+title: Platform accelerator Cocoa unit tests
+summary: Unit tests verifying that accelerators map to the expected Cocoa key equivalents and modifier masks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaKeysListener interface
+// summary: Defines the MediaKeysListener interface and delegate for receiving media key accelerators, plus a factory supporting global or focused listening scopes.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_MEDIA_KEYS_LISTENER_H_
 #define UI_BASE_ACCELERATORS_MEDIA_KEYS_LISTENER_H_
 

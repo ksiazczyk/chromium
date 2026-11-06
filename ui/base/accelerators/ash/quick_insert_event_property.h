@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick insert event property header
+// summary: Declares the ui functions for setting and checking the quick insert property that marks events used as the quick insert key for accelerators.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_ASH_QUICK_INSERT_EVENT_PROPERTY_H_
 #define UI_BASE_ACCELERATORS_ASH_QUICK_INSERT_EVENT_PROPERTY_H_
 

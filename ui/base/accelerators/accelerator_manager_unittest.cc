@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator manager unit tests
+// summary: Unit tests covering registration, multiple targets, unregistration and processing behavior of the AcceleratorManager.
+// ---
+
 #include "ui/base/accelerators/accelerator_manager.h"
 
 #include "build/build_config.h"

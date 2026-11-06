@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropDelegate property helpers
+// summary: Implements DragUpdateInfo and functions to set and get the drag drop delegate property on windows.
+// ---
+
 #include "ui/aura/client/drag_drop_delegate.h"
 
 #include "ui/base/class_property.h"

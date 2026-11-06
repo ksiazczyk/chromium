@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture delegate interface
+// summary: Defines a delegate interface for updating root window capture state and native capture without exposing root window APIs.
+// ---
+
 #ifndef UI_AURA_CLIENT_CAPTURE_DELEGATE_H_
 #define UI_AURA_CLIENT_CAPTURE_DELEGATE_H_
 

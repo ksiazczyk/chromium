@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture client property helpers
+// summary: Implements helpers that set and get the capture client on a root window and look up the current capture window.
+// ---
+
 #include "ui/aura/client/capture_client.h"
 
 #include "ui/aura/window.h"

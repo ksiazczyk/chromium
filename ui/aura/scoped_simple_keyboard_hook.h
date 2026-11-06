@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSimpleKeyboardHook class header
+// summary: Declares a ScopedKeyboardHook subclass that supports browser-level keyboard lock while disabling system-level keyboard lock functionality.
+// ---
+
 #ifndef UI_AURA_SCOPED_SIMPLE_KEYBOARD_HOOK_H_
 #define UI_AURA_SCOPED_SIMPLE_KEYBOARD_HOOK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone global accelerator listener class declaration
+// summary: Declares the Ozone global accelerator listener that bridges Aura accelerators with the Ozone platform global shortcut listener and converts between key codes and accelerators.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_GLOBAL_ACCELERATOR_LISTENER_GLOBAL_ACCELERATOR_LISTENER_OZONE_H_
 #define UI_BASE_ACCELERATORS_GLOBAL_ACCELERATOR_LISTENER_GLOBAL_ACCELERATOR_LISTENER_OZONE_H_
 

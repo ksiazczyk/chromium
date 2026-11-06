@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Env input state controller declaration
+// summary: Declares EnvInputStateController, which keeps Env's mouse and touch input state up to date.
+// ---
+
 #ifndef UI_AURA_ENV_INPUT_STATE_CONTROLLER_H_
 #define UI_AURA_ENV_INPUT_STATE_CONTROLLER_H_
 

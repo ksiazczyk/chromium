@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewProp implementation
+// summary: Implements per-view key/value property storage that mimics Win32 SetProp semantics without using window manager memory.
+// ---
+
 #include "ui/base/view_prop.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elastic overscroll switch utilities implementation
+// summary: Implements helpers that report whether elastic overscroll is supported and enabled on the root scroller, with platform-specific handling for Android and Apple platforms.
+// ---
+
 #include "ui/base/ui_base_switches_util.h"
 
 #include "base/command_line.h"

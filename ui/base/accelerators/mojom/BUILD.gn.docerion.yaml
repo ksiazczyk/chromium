@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for accelerator Mojom
+summary: Defines GN targets that generate Mojom bindings for accelerator.mojom, build the traits source set, and compile the traits unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media hardware key action enum and histogram name
+// summary: Defines the MediaHardwareKeyAction enum values persisted to logs and the histogram name used to record media key presses.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_MEDIA_KEYS_UTIL_H_
 #define UI_BASE_ACCELERATORS_MEDIA_KEYS_UTIL_H_
 

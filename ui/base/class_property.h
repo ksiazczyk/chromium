@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI class property system with PropertyHandler
+// summary: Defines the ClassProperty template, PropertyHandler, and macros for declaring typed, owned, and cascading properties on UI instances.
+// ---
+
 #ifndef UI_BASE_CLASS_PROPERTY_H_
 #define UI_BASE_CLASS_PROPERTY_H_
 

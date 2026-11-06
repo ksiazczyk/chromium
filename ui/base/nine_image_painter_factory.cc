@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nine-image painter factory implementation
+// summary: Creates gfx::NineImagePainter objects by loading the nine image resources referenced by a NineImageIds array from the ResourceBundle.
+// ---
+
 #include "ui/base/nine_image_painter_factory.h"
 
 #include <stddef.h>

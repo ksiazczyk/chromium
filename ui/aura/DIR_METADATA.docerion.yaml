@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Aura directory metadata
+summary: Maps the aura directory to the UI>Aura monorail component and a Buganizer component ID for issue tracking.

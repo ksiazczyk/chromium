@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows media keys listener creation
+// summary: Creates the platform media keys listener on Windows, returning a global listener for global scope and null otherwise.
+// ---
+
 #include "ui/base/accelerators/media_keys_listener.h"
 
 #include "ui/base/accelerators/global_media_keys_listener_win.h"

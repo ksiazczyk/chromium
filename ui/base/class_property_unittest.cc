@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the UI class property system
+// summary: Verifies PropertyHandler get and set behavior, default values, owned property lifetime, and cascading property lookup.
+// ---
+
 #include "ui/base/class_property.h"
 
 #include <limits.h>

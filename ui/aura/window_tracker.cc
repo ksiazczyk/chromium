@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window tracker implementation
+// summary: Implements WindowTracker methods that maintain an ordered list of observed windows and remove entries when windows are destroyed.
+// ---
+
 #include "ui/aura/window_tracker.h"
 
 #include <algorithm>

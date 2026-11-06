@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient window client observer interface
+// summary: Observer interface notified when a window is added or removed as a transient child, before any restacking occurs.
+// ---
+
 #ifndef UI_AURA_CLIENT_TRANSIENT_WINDOW_CLIENT_OBSERVER_H_
 #define UI_AURA_CLIENT_TRANSIENT_WINDOW_CLIENT_OBSERVER_H_
 

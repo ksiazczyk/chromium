@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu source type helpers header
+// summary: Declares helpers that determine the menu source type from an event or event flags, with a ChromeOS and Google branding variant.
+// ---
+
 #ifndef UI_BASE_MENU_SOURCE_UTILS_H_
 #define UI_BASE_MENU_SOURCE_UTILS_H_
 

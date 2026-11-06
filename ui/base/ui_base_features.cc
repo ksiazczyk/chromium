@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI base feature flag definitions
+// summary: Defines base::Feature flags and field trial parameters for UI behaviors such as native window occlusion, fling curves, and forced colors per platform.
+// ---
+
 #include "ui/base/ui_base_features.h"
 
 #include <stdlib.h>

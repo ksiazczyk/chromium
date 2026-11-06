@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowEventTargetingBlocker implementation
+// summary: Implements a scoped blocker that sets a window's event targeting policy to kNone and restores the original policy when all blockers are removed.
+// ---
+
 #include "ui/aura/scoped_window_event_targeting_blocker.h"
 
 #include "ui/aura/window.h"

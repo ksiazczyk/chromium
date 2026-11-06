@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux menu label accelerator conversion
+// summary: Converts Windows-style ampersand accelerators to GTK underscore style and removes them from Linux menu labels.
+// ---
+
 #include "ui/base/accelerators/menu_label_accelerator_util_linux.h"
 
 #include <stddef.h>

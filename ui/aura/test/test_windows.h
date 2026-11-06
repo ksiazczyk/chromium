@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura test window helpers
+// summary: Declares helpers to create test windows and to inspect window and layer stacking order and child window IDs in Aura tests.
+// ---
+
 #ifndef UI_AURA_TEST_TEST_WINDOWS_H_
 #define UI_AURA_TEST_TEST_WINDOWS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostFrameRateThrottler implementation
+// summary: Throttles the frame rate of registered WindowTreeHosts by updating the host frame sink manager with their frame sink IDs.
+// ---
+
 #include "ui/aura/host_frame_rate_throttler.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura window class implementation
+// summary: Implements the aura::Window class, covering hierarchy, visibility, properties, event targeting, occlusion state and compositor layer management for Chromium's windowing system.
+// ---
+
 #include "ui/aura/window.h"
 
 #include <stddef.h>

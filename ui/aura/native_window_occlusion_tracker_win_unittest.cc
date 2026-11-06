@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows native window occlusion tracker unit tests
+// summary: Unit tests for the Windows native window occlusion tracker, covering occlusion state updates, window destruction and display on/off handling.
+// ---
+
 #include "ui/aura/native_window_occlusion_tracker_win.h"
 
 #include <windows.h>

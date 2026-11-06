@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub media keys listener factory
+// summary: Placeholder MediaKeysListener::Create that returns nullptr on platforms lacking a media keys listener implementation.
+// ---
+
 #include "ui/base/accelerators/media_keys_listener.h"
 
 namespace ui {

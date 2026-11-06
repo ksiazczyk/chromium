@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android global accelerator listener implementation
+// summary: Provides the Android singleton instance with no-op listening methods, since global accelerators are not supported there.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener_android.h"
 
 #include "base/memory/ptr_util.h"

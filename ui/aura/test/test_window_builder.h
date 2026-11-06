@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWindowBuilder header for creating simple test windows
+// summary: Declares WindowBuilderParams and the single-use TestWindowBuilder, which builds plain aura::Window objects with delegates, titles, bounds and properties for testing purposes.
+// ---
+
 #ifndef UI_AURA_TEST_TEST_WINDOW_BUILDER_H_
 #define UI_AURA_TEST_TEST_WINDOW_BUILDER_H_
 

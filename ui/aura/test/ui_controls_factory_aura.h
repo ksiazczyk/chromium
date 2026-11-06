@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura UI controls factory header
+// summary: Declares a factory that creates UIControlsAura instances for the ChromeOS and Windows test environments.
+// ---
+
 #ifndef UI_AURA_TEST_UI_CONTROLS_FACTORY_AURA_H_
 #define UI_AURA_TEST_UI_CONTROLS_FACTORY_AURA_H_
 

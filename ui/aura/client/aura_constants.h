@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura window property key declarations
+// summary: Declares the Aura window property keys and constants such as resize behavior and workspace values that clients use to attach data to windows.
+// ---
+
 #ifndef UI_AURA_CLIENT_AURA_CONSTANTS_H_
 #define UI_AURA_CLIENT_AURA_CONSTANTS_H_
 

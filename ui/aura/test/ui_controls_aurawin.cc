@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows UI controls for Aura tests
+// summary: Implements UIControlsAura for Windows so tests can synthesize key, mouse and touch input events against native windows.
+// ---
+
 #include "base/check.h"
 #include "base/functional/callback.h"
 #include "base/task/single_thread_task_runner.h"

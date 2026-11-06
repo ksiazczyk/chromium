@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for aura_extra
+summary: Sets the include rules allowing the aura_extra module to depend on ui/aura and ui/gfx.

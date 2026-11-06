@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWindowTargeter implementation
+// summary: Implements a scoped object that installs a new event targeter on a window and restores the previous targeter on destruction.
+// ---
+
 #include "ui/aura/scoped_window_targeter.h"
 
 #include <utility>

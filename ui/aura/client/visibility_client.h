@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visibility client interface
+// summary: Interface for an object that manages layer visibility as window visibility changes, with functions to set and get the client on a window.
+// ---
+
 #ifndef UI_AURA_CLIENT_VISIBILITY_CLIENT_H_
 #define UI_AURA_CLIENT_VISIBILITY_CLIENT_H_
 

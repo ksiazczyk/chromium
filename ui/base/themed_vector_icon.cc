@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemedVectorIcon implementation
+// summary: Implements ThemedVectorIcon, which renders vector icons with colors resolved from a ColorProvider, optionally adding a badge icon.
+// ---
+
 #include "ui/base/themed_vector_icon.h"
 
 #include "ui/color/color_provider.h"

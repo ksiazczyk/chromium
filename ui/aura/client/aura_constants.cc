@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura window property key definitions
+// summary: Defines exported UI class property types and property keys for Aura windows covering focus, modal state, icons, bounds, show state and related window attributes.
+// ---
+
 #include "ui/aura/client/aura_constants.h"
 
 #include "ui/base/class_property.h"

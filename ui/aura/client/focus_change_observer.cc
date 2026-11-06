@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusChangeObserver property implementation
+// summary: Implements per-window storage of the FocusChangeObserver property with getter and setter functions for aura windows.
+// ---
+
 #include "ui/aura/client/focus_change_observer.h"
 
 #include "ui/aura/window.h"

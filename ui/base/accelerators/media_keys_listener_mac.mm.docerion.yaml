@@ -1,0 +1,4 @@
+# Docerion header of media_keys_listener_mac.mm.
+type: source
+title: macOS media keys listener implementation
+summary: Implements media key listening on macOS with a CGEventTap, mapping system media key events to accelerators and checking event-posting access permissions.

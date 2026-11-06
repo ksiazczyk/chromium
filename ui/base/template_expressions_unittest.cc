@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Template expressions unit tests
+// summary: Unit tests for template expression replacement covering escaping, raw substitution, Polymer quoting, dollar signs, and placeholder checks.
+// ---
+
 #include "ui/base/template_expressions.h"
 
 #include "base/test/gtest_util.h"

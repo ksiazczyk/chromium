@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AURA_EXPORT macro definitions
+// summary: Defines the AURA_EXPORT macro so aura symbols are exported to consumers in component builds.
+// ---
+
 #ifndef UI_AURA_AURA_EXPORT_H_
 #define UI_AURA_AURA_EXPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura demo main program
+// summary: Standalone demo that initializes Aura, an in-process viz service, and GL bindings, then creates windows with a simple colored-background delegate to exercise the windowing and compositor stack.
+// ---
+
 #include <memory>
 
 #include "base/at_exit.h"

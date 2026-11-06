@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu source type helpers implementation
+// summary: Maps events and event flags to mojom MenuSourceType values such as keyboard, touch, and mouse.
+// ---
+
 #include "ui/base/menu_source_utils.h"
 
 #include "ui/base/mojom/menu_source_type.mojom.h"

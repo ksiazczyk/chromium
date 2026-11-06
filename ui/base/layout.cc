@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scale factor lookup implementation
+// summary: Implements GetScaleFactorForNativeView, returning the preferred display scale factor for a native view with a fallback of 1.0.
+// ---
+
 #include "ui/base/layout.h"
 
 #include "ui/display/display.h"

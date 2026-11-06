@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropDelegate interface
+// summary: Defines the delegate interface for drag and drop events on aura windows, including drag enter, update, exit and deferred drop callbacks.
+// ---
+
 #ifndef UI_AURA_CLIENT_DRAG_DROP_DELEGATE_H_
 #define UI_AURA_CLIENT_DRAG_DROP_DELEGATE_H_
 

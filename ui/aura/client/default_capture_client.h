@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultCaptureClient class declaration
+// summary: Declares DefaultCaptureClient, the CaptureClient implementation that manages window capture state and capture observers.
+// ---
+
 #ifndef UI_AURA_CLIENT_DEFAULT_CAPTURE_CLIENT_H_
 #define UI_AURA_CLIENT_DEFAULT_CAPTURE_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator class implementation
+// summary: Implements the keyboard accelerator class, including shortcut text generation, key event conversion and platform-specific handling such as the macOS globe key detection.
+// ---
+
 #include "ui/base/accelerators/accelerator.h"
 
 #include <stdint.h>

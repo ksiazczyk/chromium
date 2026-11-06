@@ -1,0 +1,4 @@
+# Docerion header of platform_accelerator_cocoa.mm.
+type: source
+title: Platform accelerator Cocoa implementation
+summary: Converts ui::Accelerator key codes and modifier flags into Cocoa key equivalents and modifier masks for macOS menus.

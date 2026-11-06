@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window occlusion tracker implementation
+// summary: Implements occlusion state computation for aura windows, handling layer animations, transforms, opaque regions, and occlusion recomputation.
+// ---
+
 #include "ui/aura/window_occlusion_tracker.h"
 
 #include <ranges>

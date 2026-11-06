@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test accelerator target header
+// summary: Declares TestAcceleratorTarget, an AcceleratorTarget test double that tracks accelerator handling and configured return values.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_TEST_ACCELERATOR_TARGET_H_
 #define UI_BASE_ACCELERATORS_TEST_ACCELERATOR_TARGET_H_
 

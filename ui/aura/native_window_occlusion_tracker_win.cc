@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native window occlusion tracker implementation
+// summary: Implements Windows native window occlusion tracking, computing which HWNDs occlude app windows and notifying hosts of occlusion state changes.
+// ---
+
 #include "ui/aura/native_window_occlusion_tracker_win.h"
 
 #include <dwmapi.h>

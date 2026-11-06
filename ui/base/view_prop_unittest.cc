@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewProp unit tests
+// summary: Unit tests verifying ViewProp value registration, replacement, and lifetime semantics for view/key pairs.
+// ---
+
 #include "ui/base/view_prop.h"
 
 #include <memory>

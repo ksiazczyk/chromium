@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu label accelerator utility declarations
+// summary: Declares GetMnemonic and EscapeMenuLabelAmpersands for handling accelerator mnemonics in menu labels.
+// ---
+
 #ifndef UI_BASE_ACCELERATORS_MENU_LABEL_ACCELERATOR_UTIL_H_
 #define UI_BASE_ACCELERATORS_MENU_LABEL_ACCELERATOR_UTIL_H_
 

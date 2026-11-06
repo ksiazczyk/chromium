@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Gestures directory metadata
+summary: Directory metadata for the Aura gestures folder, specifying the issue tracker component, team email, and Buganizer component ID.

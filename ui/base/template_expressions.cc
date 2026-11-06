@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template expression replacement implementation
+// summary: Implements $i18n placeholder substitution in HTML and JS templates, including escaping, Polymer quoting, and HTML template detection.
+// ---
+
 #include "ui/base/template_expressions.h"
 
 #include <stddef.h>

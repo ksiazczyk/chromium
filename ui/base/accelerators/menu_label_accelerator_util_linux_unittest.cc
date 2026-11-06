@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux menu label accelerator conversion tests
+// summary: Unit tests verifying conversion and removal of Windows-style accelerators in menu labels across many ampersand cases.
+// ---
+
 #include "ui/base/accelerators/menu_label_accelerator_util_linux.h"
 
 #include <stddef.h>

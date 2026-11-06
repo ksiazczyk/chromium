@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows global media keys listener implementation
+// summary: Registers Windows hot keys through SingletonHwndHotKeyObserver to deliver global media key accelerators to a delegate.
+// ---
+
 #include "ui/base/accelerators/global_media_keys_listener_win.h"
 
 #include <windows.h>

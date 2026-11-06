@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for aura_extra
+summary: Defines the aura_extra component target and its test source set, listing sources, defines, and dependencies for the GN build.

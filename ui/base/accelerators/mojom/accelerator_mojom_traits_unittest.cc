@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator Mojom traits unit tests
+// summary: Verifies that ui::Accelerator instances survive Mojom serialization round trips in gtest cases.
+// ---
+
 #include "ui/base/accelerators/mojom/accelerator_mojom_traits.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test focus client implementation
+// summary: Implements TestFocusClient, a simple FocusClient that tracks the focused window and notifies focus change observers during Aura tests.
+// ---
+
 #include "ui/aura/test/test_focus_client.h"
 
 #include "ui/aura/client/focus_change_observer.h"

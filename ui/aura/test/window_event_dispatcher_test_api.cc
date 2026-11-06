@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window event dispatcher test API implementation
+// summary: Implements a test API that reports whether pointer moves are held and waits until the dispatcher dispatches them.
+// ---
+
 #include "ui/aura/test/window_event_dispatcher_test_api.h"
 
 #include "base/run_loop.h"

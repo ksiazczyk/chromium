@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the aura demo
+summary: Defines the additional include paths allowed for code in the aura demo directory, such as viz host and service, Mojo embedder, display, and GL headers.

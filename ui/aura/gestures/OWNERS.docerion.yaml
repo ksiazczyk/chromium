@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Gestures directory owners
+summary: OWNERS file listing flackr@chromium.org as the code owner for the Aura gestures directory.

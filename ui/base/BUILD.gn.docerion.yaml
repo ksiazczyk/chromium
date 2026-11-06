@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for //ui/base targets
+summary: Defines the GN build targets for //ui/base, including the ui_data_pack component, buildflag headers, and the main ui_base component with its sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform-neutral global accelerator listener implementation
+// summary: Implements registering, unregistering and suspending global accelerators in a shared map and notifying observers of key presses.
+// ---
+
 #include "ui/base/accelerators/global_accelerator_listener/global_accelerator_listener.h"
 
 #include <vector>

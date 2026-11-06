@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowTreeHost implementation
+// summary: Implements the WindowTreeHost base class that bridges native windows and the aura root window, handling the compositor, input method, capture, and occlusion tracking.
+// ---
+
 #include "ui/aura/window_tree_host.h"
 
 #include <optional>
