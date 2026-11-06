@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver element utility declarations
+// summary: Declares helpers for finding elements, querying attributes, styles, size, visibility and option element state.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_ELEMENT_UTIL_H_
 #define CHROME_TEST_CHROMEDRIVER_ELEMENT_UTIL_H_
 

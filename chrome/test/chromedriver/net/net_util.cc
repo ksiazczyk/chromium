@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network utilities implementation
+// summary: Implements the NetAddress host-port wrapper and a synchronous URL fetcher that chromedriver uses for blocking HTTP GET requests.
+// ---
+
 #include "chrome/test/chromedriver/net/net_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network conditions implementation
+// summary: Defines NetworkConditions and FindPresetNetwork, which looks up named network presets from an embedded JSON list.
+// ---
+
 #include "chrome/test/chromedriver/chrome/network_conditions.h"
 
 #include "base/json/json_reader.h"

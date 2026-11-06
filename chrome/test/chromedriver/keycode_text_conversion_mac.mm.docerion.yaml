@@ -1,0 +1,4 @@
+# Docerion header of keycode_text_conversion_mac.mm.
+type: source
+title: Mac keycode text conversion
+summary: macOS implementation of key code to text and character to key code conversion using Carbon keyboard layout APIs.

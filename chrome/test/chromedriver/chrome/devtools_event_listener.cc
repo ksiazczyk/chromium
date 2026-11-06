@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools event listener implementation
+// summary: Implements default DevToolsEventListener behavior for connection, event and command success notifications.
+// ---
+
 #include "chrome/test/chromedriver/chrome/devtools_event_listener.h"
 
 #include "chrome/test/chromedriver/chrome/status.h"

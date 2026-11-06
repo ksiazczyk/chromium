@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command ID classification header
+// summary: Declares the CommandId helper used to determine whether DevTools commands originate from ChromeDriver or the client for routing and logging.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_COMMAND_ID_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_COMMAND_ID_H_
 

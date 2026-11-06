@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FedCM tracker unit tests
+// summary: Unit tests verifying FedCmTracker enables FedCm events and stores dialog id, title, type and accounts from dialogShown events.
+// ---
+
 #include "chrome/test/chromedriver/chrome/fedcm_tracker.h"
 
 #include "base/values.h"

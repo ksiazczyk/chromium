@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adb interface for Android device control
+// summary: Declares the Adb interface for Android Debug Bridge operations such as port forwarding, app management, and preference updates.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_ADB_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_ADB_H_
 

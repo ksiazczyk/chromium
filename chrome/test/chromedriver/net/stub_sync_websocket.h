@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubSyncWebSocket class header
+// summary: Declares StubSyncWebSocket, a test double for SyncWebSocket with configurable command handlers, queued responses, and disconnect controls.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_STUB_SYNC_WEBSOCKET_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_STUB_SYNC_WEBSOCKET_H_
 

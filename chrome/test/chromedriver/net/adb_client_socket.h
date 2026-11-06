@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB client socket class declaration
+// summary: Declares the AdbClientSocket class providing static ADB query, transport, HTTP, and file-send operations over a stream socket.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_ADB_CLIENT_SOCKET_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_ADB_CLIENT_SOCKET_H_
 

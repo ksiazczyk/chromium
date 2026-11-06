@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubChrome class header
+// summary: Declares StubChrome, a no-op Chrome implementation used as a test double in ChromeDriver tests.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_STUB_CHROME_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_STUB_CHROME_H_
 

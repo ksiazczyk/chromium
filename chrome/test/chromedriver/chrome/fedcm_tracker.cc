@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM dialog tracker implementation
+// summary: Implements FedCmTracker, recording FedCM dialog shown and closed events over DevTools, including dialog id, title, type and accounts.
+// ---
+
 #include "chrome/test/chromedriver/chrome/fedcm_tracker.h"
 
 #include "base/logging.h"

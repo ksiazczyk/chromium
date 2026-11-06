@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub DevTools client implementation
+// summary: Implements StubDevToolsClient, a no-op DevToolsClient test double whose commands succeed without contacting a browser.
+// ---
+
 #include "chrome/test/chromedriver/chrome/stub_devtools_client.h"
 
 #include <memory>

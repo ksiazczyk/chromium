@@ -1,0 +1,4 @@
+# Docerion header of truncatedJSON.log.
+type: test
+title: Truncated JSON test log
+summary: Replay fixture with a truncated JSON payload used to test handling of incomplete DevTools messages.

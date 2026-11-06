@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network conditions header
+// summary: Declares the NetworkConditions struct and the FindPresetNetwork helper for preset network lookup.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_NETWORK_CONDITIONS_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_NETWORK_CONDITIONS_H_
 

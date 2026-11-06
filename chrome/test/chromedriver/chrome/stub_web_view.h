@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub WebView header
+// summary: Declares StubWebView, a test double implementing the WebView interface with no-op behavior for chromedriver unit tests.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_STUB_WEB_VIEW_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_STUB_WEB_VIEW_H_
 

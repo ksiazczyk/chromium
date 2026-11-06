@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keycode text conversion interface
+// summary: Declares platform functions that convert key codes and modifiers to text and characters to key codes, plus layout helpers.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_KEYCODE_TEXT_CONVERSION_H_
 #define CHROME_TEST_CHROMEDRIVER_KEYCODE_TEXT_CONVERSION_H_
 

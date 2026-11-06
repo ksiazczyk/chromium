@@ -1,0 +1,4 @@
+# Docerion header of embed_user_data_dir_in_cpp.py.
+type: script
+title: Embed user data files in C++
+summary: Script that embeds Chrome user data files as string constants in generated C++ source.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: ChromeDriver Log-Replay component
+summary: Documents the usage, architecture, testing, and maintenance of the ChromeDriver log-replay component.
+relations:
+  - documents /chrome/test/chromedriver/log_replay/client_replay.py
+  - documents /chrome/test/chromedriver/log_replay/devtools_log_reader.h
+  - documents /chrome/test/chromedriver/log_replay/client_replay_unittest.py
+---
+
 # ChromeDriver Log-Replay component
 This directory contains a component of ChromeDriver that allows developers to
 "replay" ChromeDriver sessions using a ChromeDriver log file.

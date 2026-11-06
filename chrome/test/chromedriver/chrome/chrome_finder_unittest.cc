@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome finder unit tests
+// summary: Unit tests verifying the Chrome browser executable search order, path matching, and crash safety of FindBrowser.
+// ---
+
 #include "chrome/test/chromedriver/chrome/chrome_finder.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver JSON serialization declarations
+// summary: Declares SerializeAsJson overloads for dictionaries, values, and strings used by ChromeDriver to serialize data as JSON.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_UTIL_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_UTIL_H_
 

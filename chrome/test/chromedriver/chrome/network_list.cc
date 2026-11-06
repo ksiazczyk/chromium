@@ -7,6 +7,12 @@
 //     chrome/test/chromedriver/chrome/
 //     third_party/WebKit/Source/devtools/front_end/toolbox/OverridesUI.js
 
+// ---docerion
+// type: source
+// title: Generated network condition presets list
+// summary: Generated source defining the kNetworks string of preset network conditions such as offline, GPRS, 2G, 3G, 4G, DSL, and WiFi with throughput and latency values.
+// ---
+
 #include "chrome/test/chromedriver/chrome/network_list.h"
 
 const char kNetworks[] =

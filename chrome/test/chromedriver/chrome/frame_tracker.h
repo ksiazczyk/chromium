@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame tracker header
+// summary: Declares FrameTracker, which maps frames to execution contexts and child WebView targets and reports known frames.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_FRAME_TRACKER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_FRAME_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeConnectionWin class header
+// summary: Declares PipeConnectionWin, a SyncWebSocket implementation over Windows pipe handles backed by internal pipe reader and writer objects.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_PIPE_CONNECTION_WIN_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_PIPE_CONNECTION_WIN_H_
 

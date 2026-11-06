@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools HTTP client unit tests
+// summary: Unit tests for parsing web views info from DevTools JSON responses, covering target types and malformed input.
+// ---
+
 #include <string>
 
 #include "chrome/test/chromedriver/chrome/devtools_http_client.h"

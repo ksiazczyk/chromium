@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows key code to text conversion
+// summary: Implements key code to text and character to key code conversion using the Windows API, including switching the process to a US keyboard layout.
+// ---
+
 #include "chrome/test/chromedriver/keycode_text_conversion.h"
 
 // windows.h must be included before versionhelpers.h

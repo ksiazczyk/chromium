@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebElement client wrapper for HTML element commands
+# summary: Wraps an HTML element id and issues element commands such as finding children, clicking, sending keys, and taking screenshots through the ChromeDriver client.
+# ---
+
 from command_executor import Command
 
 

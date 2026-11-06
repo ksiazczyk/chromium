@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session implementation
+// summary: Implements the ChromeDriver session state, including frame tracking, input cancel entries, BiDi connections, and default timeouts.
+// ---
+
 #include "chrome/test/chromedriver/session.h"
 
 #include <algorithm>

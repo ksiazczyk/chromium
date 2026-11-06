@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command callback types
+// summary: Defines the Command and CommandCallback callback types used to dispatch WebDriver commands and report their results.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_COMMAND_H_
 #define CHROME_TEST_CHROMEDRIVER_COMMAND_H_
 

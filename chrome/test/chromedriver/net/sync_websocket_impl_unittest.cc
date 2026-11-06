@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncWebSocketImpl unit tests
+// summary: Unit tests for SyncWebSocketImpl covering connect success and failure, send/receive, timeouts, and message recipient filtering via a test HTTP server.
+// ---
+
 #include <string>
 
 #include "base/compiler_specific.h"

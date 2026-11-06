@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM dialog tracker header
+// summary: Declares FedCmTracker, a DevTools event listener that tracks FedCM dialog state and exposes the last dialog's details.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_FEDCM_TRACKER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_FEDCM_TRACKER_H_
 

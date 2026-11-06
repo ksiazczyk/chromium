@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network conditions override manager implementation
+// summary: Applies and re-applies network condition emulation through DevTools Network commands on connect and navigation.
+// ---
+
 #include "chrome/test/chromedriver/chrome/network_conditions_override_manager.h"
 
 #include "chrome/test/chromedriver/chrome/devtools_client.h"

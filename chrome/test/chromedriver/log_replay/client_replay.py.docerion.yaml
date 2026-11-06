@@ -1,0 +1,4 @@
+# Docerion header of client_replay.py.
+type: script
+title: Client-side ChromeDriver log replay script
+summary: Replays client-side ChromeDriver commands from a log file, substituting session, window, and element IDs to match the new session.

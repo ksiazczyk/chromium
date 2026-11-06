@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page tracker implementation
+// summary: Implements PageTracker, which creates, activates, and removes child page WebViews within a tab by handling DevTools target events.
+// ---
+
 #include "chrome/test/chromedriver/chrome/page_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebShadowRoot client wrapper for shadow root commands
+# summary: Represents an HTML shadow root and executes find-element commands scoped to the shadow root via the ChromeDriver client.
+# ---
+
 from command_executor import Command
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools events logger implementation
+// summary: Implements a DevTools event listener that logs selected DevTools events as JSON entries in the ChromeDriver log.
+// ---
+
 #include "chrome/test/chromedriver/devtools_events_logger.h"
 
 #include "base/json/json_writer.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeDriver GN build file
+summary: Defines ChromeDriver build targets, code-generation actions for embedding JS and device data, and test targets in the GN build system.

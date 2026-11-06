@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance logger declarations
+// summary: Declares the PerformanceLogger class that converts DevTools profiler and trace events into info-level log messages.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_PERFORMANCE_LOGGER_H_
 #define CHROME_TEST_CHROMEDRIVER_PERFORMANCE_LOGGER_H_
 

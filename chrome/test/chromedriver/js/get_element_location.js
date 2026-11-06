@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver element location script
+// summary: JavaScript injected by ChromeDriver that computes an element's center or top-left coordinates, checking DOM attachment through shadow roots and scrolling the element into view when needed.
+// ---
+
 /**
  * Constructs new error to be thrown with given code and message.
  *

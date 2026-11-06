@@ -1,0 +1,4 @@
+# Docerion header of execute_script_test.html.
+type: test
+title: Tests for execute_script behavior
+summary: Browser test page verifying error propagation, await handling and argument injection for the executeScript helper.

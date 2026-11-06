@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools client implementation unit tests
+// summary: Unit tests for the ChromeDriver DevTools client, covering command sending, event handling and response parsing.
+// ---
+
 #include "chrome/test/chromedriver/chrome/devtools_client_impl.h"
 
 #include <algorithm>

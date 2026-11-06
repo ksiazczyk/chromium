@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows pipe connection implementation
+// summary: Implements PipeConnectionWin as a SyncWebSocket over Windows pipes, with a background read thread and routing of messages between Chrome and chromedriver.
+// ---
+
 #include "chrome/test/chromedriver/net/pipe_connection_win.h"
 
 #include <windows.h>

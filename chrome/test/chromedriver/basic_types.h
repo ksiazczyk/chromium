@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Basic geometric type declarations
+// summary: Declares the WebPoint, WebSize, and WebRect structs for representing coordinates, dimensions, and rectangles.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_BASIC_TYPES_H_
 #define CHROME_TEST_CHROMEDRIVER_BASIC_TYPES_H_
 

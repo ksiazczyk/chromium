@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download directory override manager header
+// summary: Declares DownloadDirectoryOverrideManager, which overrides the browser's default download directory via DevTools for the client's lifetime.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_DOWNLOAD_DIRECTORY_OVERRIDE_MANAGER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_DOWNLOAD_DIRECTORY_OVERRIDE_MANAGER_H_
 

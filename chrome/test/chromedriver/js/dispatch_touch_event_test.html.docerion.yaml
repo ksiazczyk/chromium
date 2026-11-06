@@ -1,0 +1,4 @@
+# Docerion header of dispatch_touch_event_test.html.
+type: test
+title: Tests for synthetic touch event dispatch
+summary: Browser test page checking that dispatched touch events hit the correct element and carry the right coordinates for touchstart, touchmove and touchend.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript test harness for injected scripts
+// summary: Minimal test harness providing assert and assertEquals helpers and running all window test functions, reporting results via the CDCJStestRunStatus variable.
+// ---
+
 /**
  * Asserts the value is true.
  * @param {*} x The value to assert.

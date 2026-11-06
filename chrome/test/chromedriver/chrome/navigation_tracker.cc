@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation tracker implementation
+// summary: Tracks page navigation and loading state over DevTools, handling network errors, dialogs, and frame changes.
+// ---
+
 #include "chrome/test/chromedriver/chrome/navigation_tracker.h"
 
 #include <unordered_map>

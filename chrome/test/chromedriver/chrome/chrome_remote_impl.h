@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeRemoteImpl class declaration
+// summary: Declares ChromeRemoteImpl, a ChromeImpl subclass for browsers controlled through remote debugging.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_CHROME_REMOTE_IMPL_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_CHROME_REMOTE_IMPL_H_
 

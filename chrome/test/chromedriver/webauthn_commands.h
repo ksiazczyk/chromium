@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn command declarations
+// summary: Declares ChromeDriver WebAuthn command handlers for adding, removing, and querying virtual authenticators and their credentials.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_WEBAUTHN_COMMANDS_H_
 #define CHROME_TEST_CHROMEDRIVER_WEBAUTHN_COMMANDS_H_
 

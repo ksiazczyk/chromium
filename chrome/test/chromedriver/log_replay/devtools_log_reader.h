@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: DevTools log reader class declarations
+// summary: Declares LogEntry and DevToolsLogReader, which read DevTools HTTP and WebSocket entries from a log file.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_LOG_REPLAY_DEVTOOLS_LOG_READER_H_
 #define CHROME_TEST_CHROMEDRIVER_LOG_REPLAY_DEVTOOLS_LOG_READER_H_
 

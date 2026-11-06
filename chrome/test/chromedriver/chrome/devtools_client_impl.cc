@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools client implementation
+// summary: Implements the DevTools client that sends CDP commands over a WebSocket, parses events and responses, and handles BiDi message tunneling and error mapping.
+// ---
+
 #include "chrome/test/chromedriver/chrome/devtools_client_impl.h"
 
 #include <cstring>

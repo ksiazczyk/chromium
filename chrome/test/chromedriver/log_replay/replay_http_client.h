@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ReplayHttpClient header
+// summary: Declares ReplayHttpClient, a DevToolsHttpClient subclass that redirects DevTools HTTP communication to a ChromeDriver log reader for replay.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_LOG_REPLAY_REPLAY_HTTP_CLIENT_H_
 #define CHROME_TEST_CHROMEDRIVER_LOG_REPLAY_REPLAY_HTTP_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mobile emulation override manager unit tests
+// summary: Tests that the manager sends correct device metrics and user agent override commands, including client hints metadata.
+// ---
+
 #include "chrome/test/chromedriver/chrome/mobile_emulation_override_manager.h"
 #include "base/values.h"
 #include "chrome/test/chromedriver/chrome/client_hints.h"

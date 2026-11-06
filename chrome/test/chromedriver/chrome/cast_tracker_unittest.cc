@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastTracker unit tests
+// summary: Unit tests for CastTracker verifying sink list and issue message updates using a mock DevTools client.
+// ---
+
 #include "chrome/test/chromedriver/chrome/cast_tracker.h"
 
 #include "base/values.h"

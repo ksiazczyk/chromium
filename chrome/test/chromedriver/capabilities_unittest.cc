@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capabilities unit tests
+// summary: Unit tests verifying parsing of switches, client hints, and user agent based capabilities for ChromeDriver sessions.
+// ---
+
 #include "chrome/test/chromedriver/capabilities.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI event structs and key event builder
+// summary: Implements mouse, touch, and keyboard event structs plus KeyEventBuilder, which builds DevTools input event sequences.
+// ---
+
 #include "chrome/test/chromedriver/chrome/ui_events.h"
 
 #include "base/check.h"

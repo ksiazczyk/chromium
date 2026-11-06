@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Android implementation header
+// summary: Declares ChromeAndroidImpl, a ChromeImpl subclass that owns an Android Device and overrides platform-specific behavior.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_CHROME_ANDROID_IMPL_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_CHROME_ANDROID_IMPL_H_
 

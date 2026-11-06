@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHttpServer unit tests
+// summary: Unit tests for TestHttpServer verifying startup, URL exposure, missing-resource responses, and SetDataForPath resource serving.
+// ---
+
 #include "chrome/test/chromedriver/net/test_http_server.h"
 
 #include <memory>

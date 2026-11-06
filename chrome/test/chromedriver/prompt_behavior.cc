@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prompt behavior implementation
+// summary: Implements parsing of the unhandledPromptBehavior capability into per-dialog prompt handler configurations for alerts, confirms, prompts, and beforeunload.
+// ---
+
 #include "chrome/test/chromedriver/prompt_behavior.h"
 
 #include <algorithm>

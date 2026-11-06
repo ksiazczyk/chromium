@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation override manager unit tests
+// summary: Unit tests verifying that GeolocationOverrideManager sends Page.setGeolocationOverride commands on override, on connect, and on main frame navigation.
+// ---
+
 #include "base/values.h"
 #include "chrome/test/chromedriver/chrome/geolocation_override_manager.h"
 #include "chrome/test/chromedriver/chrome/geoposition.h"

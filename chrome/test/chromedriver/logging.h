@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDriver log declarations for ChromeDriver
+// summary: Declares the WebDriverLog class that accumulates WebDriver logging API entries, plus functions to initialize logging and create logs from preferences.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_LOGGING_H_
 #define CHROME_TEST_CHROMEDRIVER_LOGGING_H_
 

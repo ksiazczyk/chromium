@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastTracker class header
+// summary: Declares the CastTracker class, a DevTools event listener that tracks Cast sink lists and issue state.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_CAST_TRACKER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_CAST_TRACKER_H_
 

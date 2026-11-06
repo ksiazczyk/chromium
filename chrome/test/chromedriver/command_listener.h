@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command listener interface
+// summary: Declares the CommandListener interface that is notified before session-scoped WebDriver commands are executed.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_COMMAND_LISTENER_H_
 #define CHROME_TEST_CHROMEDRIVER_COMMAND_LISTENER_H_
 

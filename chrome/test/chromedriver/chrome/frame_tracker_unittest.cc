@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame tracker unit tests
+// summary: Unit tests covering frame-to-context lookup, context clearing, destroyed frames and auxData handling in FrameTracker.
+// ---
+
 #include <string>
 
 #include "base/test/values_test_util.h"

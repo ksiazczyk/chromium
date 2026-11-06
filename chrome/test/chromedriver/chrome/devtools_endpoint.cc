@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools endpoint implementation
+// summary: Implements the DevToolsEndpoint class that builds debugger, version and list URLs from a port, address or URL.
+// ---
+
 #include "chrome/test/chromedriver/chrome/devtools_endpoint.h"
 
 #include "chrome/test/chromedriver/chrome/devtools_http_client.h"

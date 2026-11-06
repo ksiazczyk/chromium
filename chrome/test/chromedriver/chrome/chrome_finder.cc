@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser executable finder
+// summary: Finds the Chrome or Headless Shell executable by searching platform-specific installation directories and PATH entries.
+// ---
+
 #include "chrome/test/chromedriver/chrome/chrome_finder.h"
 
 #include <stddef.h>

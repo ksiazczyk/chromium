@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BidiTracker class declaration
+// summary: Declares BidiTracker, a DevTools event listener that tracks BiDi messages coming from the browser.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_BIDI_TRACKER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_BIDI_TRACKER_H_
 

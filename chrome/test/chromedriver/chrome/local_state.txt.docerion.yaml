@@ -1,0 +1,4 @@
+# Docerion header of local_state.txt.
+type: config
+title: Chrome local state test fixture
+summary: JSON settings disabling background mode and SSL certificate revocation checking, used as Chrome local state for chromedriver testing.

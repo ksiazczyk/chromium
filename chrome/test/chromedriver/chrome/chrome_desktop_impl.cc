@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome desktop implementation
+// summary: Implements the desktop Chrome variant, managing the browser process, user data and extension directories, network emulation, and quit behavior.
+// ---
+
 #include "chrome/test/chromedriver/chrome/chrome_desktop_impl.h"
 
 #include <stddef.h>

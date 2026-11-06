@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Status class
+// summary: Unit tests verifying Status codes, messages, added details, and error cause chaining.
+// ---
+
 #include "chrome/test/chromedriver/chrome/status.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

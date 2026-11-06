@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Call function helpers for WebDriver script execution
+// summary: Injected JavaScript that executes WebDriver scripts, serializing arguments and results and resolving element, shadow root, frame and window references.
+// ---
+
 /**
  * Enum for WebDriver status codes.
  * @enum {number}

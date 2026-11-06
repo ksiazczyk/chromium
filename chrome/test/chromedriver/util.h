@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver utility function declarations
+// summary: Declares shared ChromeDriver helpers such as ID generation, key sending, base64 decoding, zip extraction, and optional WebDriver value getters.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_UTIL_H_
 #define CHROME_TEST_CHROMEDRIVER_UTIL_H_
 

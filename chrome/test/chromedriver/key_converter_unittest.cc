@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key converter unit tests
+// summary: Unit tests verifying that key sequences and characters convert into the expected key events and modifier states.
+// ---
+
 
 #include "chrome/test/chromedriver/key_converter.h"
 

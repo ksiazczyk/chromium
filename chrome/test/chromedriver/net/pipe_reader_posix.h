@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeReaderPosix class header
+// summary: Declares PipeReaderPosix, a non-blocking POSIX pipe reader built on MessagePumpForIO file descriptor watching with asynchronous read support.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_PIPE_READER_POSIX_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_PIPE_READER_POSIX_H_
 

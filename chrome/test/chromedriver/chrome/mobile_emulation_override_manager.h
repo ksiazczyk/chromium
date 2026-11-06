@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile emulation override manager header
+// summary: Declares MobileEmulationOverrideManager, a DevTools event listener that overrides device metrics for the client's lifetime.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_MOBILE_EMULATION_OVERRIDE_MANAGER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_MOBILE_EMULATION_OVERRIDE_MANAGER_H_
 

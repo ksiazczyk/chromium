@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome finder header
+// summary: Declares FindBrowser, which resolves the executable path for Chrome or chrome-headless-shell by browser name.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_CHROME_FINDER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_CHROME_FINDER_H_
 

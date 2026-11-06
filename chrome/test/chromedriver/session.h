@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session class header
+// summary: Declares the Session struct with W3C mode flag, timeouts, frame switching, and BiDi connection management for ChromeDriver.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_SESSION_H_
 #define CHROME_TEST_CHROMEDRIVER_SESSION_H_
 

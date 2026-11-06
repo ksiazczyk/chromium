@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver logging implementation
+// summary: Implements ChromeDriver logging, mapping log levels to WebDriver level names and routing messages to session and driver logs.
+// ---
+
 
 #include "chrome/test/chromedriver/logging.h"
 

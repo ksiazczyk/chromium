@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket unit tests
+// summary: Unit tests for the WebSocket client covering connection, message send and receive, and close behavior against a test HTTP server.
+// ---
+
 #include "chrome/test/chromedriver/net/websocket.h"
 
 #include <stddef.h>

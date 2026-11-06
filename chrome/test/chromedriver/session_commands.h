@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session commands header
+// summary: Declares ChromeDriver session command handlers for session lifecycle, capabilities, windows, and timeouts.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_SESSION_COMMANDS_H_
 #define CHROME_TEST_CHROMEDRIVER_SESSION_COMMANDS_H_
 

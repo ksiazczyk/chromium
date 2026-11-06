@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Alert command declarations
+// summary: Declares the alert command callback type and functions for executing WebDriver alert operations.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_ALERT_COMMANDS_H_
 #define CHROME_TEST_CHROMEDRIVER_ALERT_COMMANDS_H_
 

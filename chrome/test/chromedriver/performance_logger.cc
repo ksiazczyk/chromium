@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance logger implementation
+// summary: Translates DevTools Network and Page events and buffered trace events into WebDriver performance log entries.
+// ---
+
 #include "chrome/test/chromedriver/performance_logger.h"
 
 #include <string>

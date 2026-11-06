@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 key code to text conversion
+// summary: Implements key code to text conversion on X11 by mapping Chrome keyboard codes to X key codes and translating modifier masks.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <string.h>

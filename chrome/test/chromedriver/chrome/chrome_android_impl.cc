@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Android implementation
+// summary: Implements the Android variant of ChromeImpl, handling device teardown, touchscreen support, and unsupported desktop operations.
+// ---
+
 #include "chrome/test/chromedriver/chrome/chrome_android_impl.h"
 
 #include <utility>

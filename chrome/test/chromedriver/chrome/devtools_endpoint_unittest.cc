@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools endpoint unit tests
+// summary: Unit tests verifying DevToolsEndpoint URL construction from ports, net addresses and HTTP or HTTPS URLs.
+// ---
+
 #include "chrome/test/chromedriver/chrome/devtools_endpoint.h"
 #include "chrome/test/chromedriver/net/net_util.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic touch event dispatcher
+// summary: Injected JavaScript that dispatches a fake single-point touch event of a given type at viewport coordinates for chromedriver automation.
+// ---
+
 /**
  * Dispatches a fake touch event with a single touch point.
  *

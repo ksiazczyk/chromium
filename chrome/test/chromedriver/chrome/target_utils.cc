@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools target utilities
+// summary: Helpers to fetch top-level target info, wait for a tab to appear, and attach a DevTools client to a page or tab target.
+// ---
+
 #include "chrome/test/chromedriver/chrome/target_utils.h"
 
 #include <memory>

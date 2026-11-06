@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key to key event converter
+// summary: Converts WebDriver key sequences into UI key events, mapping special WebDriver code points to keyboard codes and handling modifiers.
+// ---
+
 #include "chrome/test/chromedriver/key_converter.h"
 
 #include <stddef.h>

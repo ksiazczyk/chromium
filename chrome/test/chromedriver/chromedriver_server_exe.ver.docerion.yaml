@@ -1,0 +1,4 @@
+# Docerion header of chromedriver_server_exe.ver.
+type: config
+title: chromedriver server version info
+summary: Version resource values setting the internal name and original filename for the chromedriver server executable.

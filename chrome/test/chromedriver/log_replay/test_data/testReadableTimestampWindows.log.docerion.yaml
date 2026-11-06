@@ -1,0 +1,4 @@
+# Docerion header of testReadableTimestampWindows.log.
+type: test
+title: Readable timestamp Windows test log
+summary: Replay fixture with Windows-style readable timestamps used to test timestamp parsing in chromedriver log replay.

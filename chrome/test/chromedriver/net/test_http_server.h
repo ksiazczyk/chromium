@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHttpServer class header
+// summary: Declares TestHttpServer, a thread-safe HTTP and WebSocket server for testing with configurable request and message actions.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_TEST_HTTP_SERVER_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_TEST_HTTP_SERVER_H_
 

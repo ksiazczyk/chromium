@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Option element toggleable check script
+// summary: JavaScript that reports whether an option element is toggleable by walking up the DOM to see if it belongs to a multiple-selection select element.
+// ---
+
 function isOptionElementToggleable(option) {
   if (option.tagName.toLowerCase() != 'option')
     throw new Error('element is not an option');

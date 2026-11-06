@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver element command implementations
+// summary: Implements WebDriver element commands such as finding, clicking, clearing, sending keys and touch gestures on page elements.
+// ---
+
 #include "chrome/test/chromedriver/element_commands.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextGetter class header
+// summary: Declares a net::URLRequestContextGetter subclass that provides a request context bound to a given network task runner.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_NET_URL_REQUEST_CONTEXT_GETTER_H_
 #define CHROME_TEST_CHROMEDRIVER_NET_URL_REQUEST_CONTEXT_GETTER_H_
 

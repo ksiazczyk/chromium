@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipeWriterPosix unit tests
+// summary: Unit tests for the POSIX pipe writer, verifying creation, binding, connection state, and writing data through a pipe to a reader.
+// ---
+
 #include "chrome/test/chromedriver/net/pipe_writer_posix.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM WebDriver command declarations
+// summary: Declares the FedCM command handler functions for dialog dismissal, account selection, dialog info, and cooldown controls.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_FEDCM_COMMANDS_H_
 #define CHROME_TEST_CHROMEDRIVER_FEDCM_COMMANDS_H_
 

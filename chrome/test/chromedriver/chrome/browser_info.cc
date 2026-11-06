@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserInfo parsing implementation
+// summary: Implements parsing of browser version responses, including browser string, user agent, and File-Path-Style metadata.
+// ---
+
 #include "chrome/test/chromedriver/chrome/browser_info.h"
 
 #include <stddef.h>

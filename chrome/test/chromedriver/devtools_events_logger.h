@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools events logger class declaration
+// summary: Declares DevToolsEventsLogger, which collects configured DevTools events into info-level log messages.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_DEVTOOLS_EVENTS_LOGGER_H_
 #define CHROME_TEST_CHROMEDRIVER_DEVTOOLS_EVENTS_LOGGER_H_
 

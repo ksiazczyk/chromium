@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation tracker unit tests
+// summary: Tests navigation state tracking using stub DevTools clients and web views to simulate loading events.
+// ---
+
 #include "chrome/test/chromedriver/chrome/navigation_tracker.h"
 
 #include <string>

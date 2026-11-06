@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools target utilities header
+// summary: Declares the target_utils namespace with functions for listing targets, waiting for tabs, and attaching to page or tab targets.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_TARGET_UTILS_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_TARGET_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipe builder implementation
+// summary: Creates OS pipes for DevTools communication with a launched Chrome process and builds a PipeConnection-backed SyncWebSocket on POSIX and Windows.
+// ---
+
 
 #include "chrome/test/chromedriver/net/pipe_builder.h"
 

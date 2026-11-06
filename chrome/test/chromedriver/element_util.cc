@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDriver element utility implementations
+// summary: Implements helpers for locating elements, reading attributes, styles and geometry, and calling Selenium atoms via JavaScript.
+// ---
+
 #include "chrome/test/chromedriver/element_util.h"
 
 #include <memory>

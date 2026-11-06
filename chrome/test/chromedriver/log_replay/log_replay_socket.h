@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: LogReplaySocket header
+// summary: Declares LogReplaySocket, a SyncWebSocket subclass that serves commands and events from a ChromeDriver log to enable replay of past sessions.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_LOG_REPLAY_LOG_REPLAY_SOCKET_H_
 #define CHROME_TEST_CHROMEDRIVER_LOG_REPLAY_LOG_REPLAY_SOCKET_H_
 

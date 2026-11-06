@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebViewImpl unit tests
+// summary: Unit tests for WebViewImpl covering element references, navigation, commands, and status codes using stub DevTools clients and websockets.
+// ---
+
 #include "chrome/test/chromedriver/chrome/web_view_impl.h"
 
 #include <initializer_list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window command implementations
+// summary: Implements WebDriver window-level commands such as navigation, script execution, frame switching, cookies, and pointer input actions.
+// ---
+
 #include "chrome/test/chromedriver/window_commands.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-blocking navigation tracker header
+// summary: Declares NonBlockingNavigationTracker, a PageLoadStrategy implementation that performs no navigation tracking.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_NON_BLOCKING_NAVIGATION_TRACKER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_NON_BLOCKING_NAVIGATION_TRACKER_H_
 

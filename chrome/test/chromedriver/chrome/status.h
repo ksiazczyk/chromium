@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDriver status codes and Status class
+// summary: Defines the StatusCode enum of WebDriver and Chrome-specific error codes plus the Status class interface.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_STATUS_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_STATUS_H_
 

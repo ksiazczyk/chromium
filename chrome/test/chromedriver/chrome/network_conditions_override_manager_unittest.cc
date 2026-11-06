@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network conditions override manager unit tests
+// summary: Unit tests verifying that network condition overrides send the correct Network.emulateNetworkConditions commands on override, on connect, and on navigation events.
+// ---
+
 #include "chrome/test/chromedriver/chrome/network_conditions_override_manager.h"
 #include "base/values.h"
 #include "chrome/test/chromedriver/chrome/network_conditions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device manager implementation
+// summary: Implements Device and DeviceManager for Android devices over ADB, handling package setup, command line files, port forwarding and DevTools socket discovery.
+// ---
+
 #include "chrome/test/chromedriver/chrome/device_manager.h"
 
 #include <algorithm>

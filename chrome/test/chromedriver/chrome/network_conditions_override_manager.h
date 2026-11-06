@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network conditions override manager header
+// summary: Declares NetworkConditionsOverrideManager, a DevTools event listener that applies requested network condition overrides for the lifetime of a DevTools client.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_NETWORK_CONDITIONS_OVERRIDE_MANAGER_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_NETWORK_CONDITIONS_OVERRIDE_MANAGER_H_
 

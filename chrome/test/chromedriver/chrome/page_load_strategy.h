@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load strategy interface
+// summary: Declares the abstract PageLoadStrategy interface with loading states and methods for tracking pending navigation, plus the strategy name constants.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_PAGE_LOAD_STRATEGY_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_PAGE_LOAD_STRATEGY_H_
 

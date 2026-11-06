@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools client interface
+// summary: Declares the DevToolsClient interface for talking to a DevTools debugger, covering command sending, event handling, listeners and BiDi server support.
+// ---
+
 #ifndef CHROME_TEST_CHROMEDRIVER_CHROME_DEVTOOLS_CLIENT_H_
 #define CHROME_TEST_CHROMEDRIVER_CHROME_DEVTOOLS_CLIENT_H_
 

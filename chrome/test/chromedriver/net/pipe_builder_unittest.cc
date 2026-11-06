@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipeBuilder unit tests
+// summary: Unit tests for PipeBuilder covering pipe setup, protocol modes, and error cases using a multiprocess pipe echo helper on POSIX and Windows.
+// ---
+
 #include <cmath>
 #include <memory>
 #include <string>

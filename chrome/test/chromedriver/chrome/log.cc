@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromedriver logging implementation
+// summary: Implements the Log entry API plus helpers that pretty-print and truncate values and JSON for display in chromedriver logs.
+// ---
+
 #include "chrome/test/chromedriver/chrome/log.h"
 
 #include <stddef.h>

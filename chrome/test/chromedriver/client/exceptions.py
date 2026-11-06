@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: ChromeDriver client exception classes and error mapping
+# summary: Defines ChromeDriver exception classes for legacy and W3C errors and maps standard error strings to exception types through EXCEPTION_MAP.
+# ---
+
 
 class ChromeDriverException(Exception):
   pass

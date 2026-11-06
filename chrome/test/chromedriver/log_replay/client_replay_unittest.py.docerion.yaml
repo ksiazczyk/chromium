@@ -1,0 +1,4 @@
+# Docerion header of client_replay_unittest.py.
+type: test
+title: Unit tests for the CommandSequence class
+summary: Unit tests for client_replay.CommandSequence covering log parsing, ID substitution, and multi-session handling.

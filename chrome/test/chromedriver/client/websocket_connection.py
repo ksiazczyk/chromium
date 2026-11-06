@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: WebSocket connection for ChromeDriver commands and events
+# summary: Manages a WebSocket connection to ChromeDriver for attaching to sessions, sending commands, and collecting responses and events.
+# ---
+
 import json
 import os
 import sys

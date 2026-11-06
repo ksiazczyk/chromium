@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone keycode text conversion
+// summary: Ozone implementation converting key codes to text and characters to key codes through the keyboard layout engine.
+// ---
+
 #include <memory>
 #include <string>
 

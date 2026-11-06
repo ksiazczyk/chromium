@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandListenerProxy implementation
+// summary: Implements CommandListenerProxy, which forwards BeforeCommand notifications to an underlying command listener.
+// ---
+
 #include "chrome/test/chromedriver/chrome/devtools_client.h"
 #include "chrome/test/chromedriver/chrome/status.h"
 #include "chrome/test/chromedriver/command_listener_proxy.h"
