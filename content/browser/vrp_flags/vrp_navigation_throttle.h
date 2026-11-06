@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VrpNavigationThrottle class declaration
+// summary: Declares the CONTENT_EXPORT VrpNavigationThrottle that intercepts navigations to registered victim ports to connect spawned victim renderers to a VrpFlags Mojo receiver.
+// ---
+
 #ifndef CONTENT_BROWSER_VRP_FLAGS_VRP_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_VRP_FLAGS_VRP_NAVIGATION_THROTTLE_H_
 

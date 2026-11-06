@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Speech recognition manager unit tests
+// summary: Unit tests for SpeechRecognitionManagerImpl covering SODA on-device speech recognition availability, language support, and session behavior.
+// ---
+
 #include "content/browser/speech/speech_recognition_manager_impl.h"
 
 #include "base/functional/bind.h"

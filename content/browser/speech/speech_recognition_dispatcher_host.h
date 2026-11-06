@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition dispatcher host declaration
+// summary: Declares SpeechRecognitionDispatcherHost, the browser-side SpeechRecognizer implementation that forwards recognition requests to the SpeechRecognitionManager.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SPEECH_RECOGNITION_DISPATCHER_HOST_H_
 #define CONTENT_BROWSER_SPEECH_SPEECH_RECOGNITION_DISPATCHER_HOST_H_
 

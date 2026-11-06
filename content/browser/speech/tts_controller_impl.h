@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS controller implementation header
+// summary: Declares TtsControllerImpl, the browser-side singleton that queues utterances and coordinates text-to-speech engines, voices, and language install status across all TTS APIs.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_TTS_CONTROLLER_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_TTS_CONTROLLER_IMPL_H_
 

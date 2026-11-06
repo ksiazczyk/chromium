@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognizer base implementation
+// summary: Implements the SpeechRecognizer constructor that binds a session's event listener and session id.
+// ---
+
 #include "content/browser/speech/speech_recognizer.h"
 
 #include "content/public/browser/speech_recognition_event_listener.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS tracing agent implementation
+// summary: Implements the ChromeOS system tracing agent that starts and stops systrace via the debug daemon D-Bus client and exposes it as a Perfetto data source.
+// ---
+
 #include "content/browser/tracing/cros_tracing_agent.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tracing agent client implementation
+// summary: Browser-side implementation of the background tracing agent client that registers child-process agents with the background tracing manager and emits named triggers.
+// ---
+
 #include "content/browser/tracing/background_tracing_agent_client_impl.h"
 
 #include <stdint.h>

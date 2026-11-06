@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tracing manager implementation
+// summary: Implements the browser background tracing manager, activating agents for child processes and delegating recording rules, preferences, and trace storage to the delegate.
+// ---
+
 #include "content/browser/tracing/background_tracing_manager_impl.h"
 
 #include <algorithm>

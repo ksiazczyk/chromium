@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User consent handler unit tests
+// summary: Unit tests for the prompt-based user consent handler, covering prompt creation, confirmation, cancellation and inactive render frame behavior.
+// ---
+
 #include "content/browser/sms/user_consent_handler.h"
 
 #include "base/functional/callback.h"

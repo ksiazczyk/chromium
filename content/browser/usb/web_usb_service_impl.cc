@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB service implementation
+// summary: Implements the browser-side WebUSB service, wrapping a USB device manager and enforcing the WebUSB permission model and chooser-granted permissions.
+// ---
+
 #include "content/browser/usb/web_usb_service_impl.h"
 
 #include <memory>

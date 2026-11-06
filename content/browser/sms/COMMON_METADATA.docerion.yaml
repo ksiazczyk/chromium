@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the Web OTP component
+summary: Declares the monorail component Blink>WebOTP, the team email and the Buganizer component used for issue tracking in this directory.

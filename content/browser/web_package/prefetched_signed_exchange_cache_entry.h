@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetched signed exchange cache entry declaration
+// summary: Declares the entry struct of PrefetchedSignedExchangeCache, holding outer and inner URLs, responses, header integrity, blob handle, signature expiry and certificate details.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_PREFETCHED_SIGNED_EXCHANGE_CACHE_ENTRY_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_PREFETCHED_SIGNED_EXCHANGE_CACHE_ENTRY_H_
 

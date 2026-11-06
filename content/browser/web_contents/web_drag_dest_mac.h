@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDragDest macOS drag destination header
+// summary: Declares the WebDragDest Objective-C interface and DropContext structure used to track and process drag-and-drop events over web contents on macOS.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_CONTENTS_WEB_DRAG_DEST_MAC_H_
 #define CONTENT_BROWSER_WEB_CONTENTS_WEB_DRAG_DEST_MAC_H_
 

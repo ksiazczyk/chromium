@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingServiceController class declaration
+// summary: Declares the controller that registers client processes with the tracing service and exposes a remote TracingService interface on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_TRACING_SERVICE_CONTROLLER_H_
 #define CONTENT_BROWSER_TRACING_TRACING_SERVICE_CONTROLLER_H_
 

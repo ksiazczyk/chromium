@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange reporter browser tests
+// summary: Browser tests verifying that signed exchange reports are queued on the StoragePartition that performed the load, even after a cross-partition document commit.
+// ---
+
 #include "content/browser/web_package/signed_exchange_reporter.h"
 
 #include "base/run_loop.h"

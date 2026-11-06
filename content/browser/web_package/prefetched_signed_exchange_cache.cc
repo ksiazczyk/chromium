@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetched signed exchange cache implementation
+// summary: Implements a cache of prefetched and verified signed exchanges, including a synthesized redirect loader and a per-frame entry limit.
+// ---
+
 #include "content/browser/web_package/prefetched_signed_exchange_cache.h"
 
 #include <optional>

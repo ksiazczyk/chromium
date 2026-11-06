@@ -1,0 +1,4 @@
+# Docerion header of tts_mac_unittest.mm.
+type: test
+title: Mac TTS cached voice data unit test
+summary: Unit test for the macOS TTS platform implementation checking that voices load in the background and the cached list keeps serving during refreshes; currently disabled.

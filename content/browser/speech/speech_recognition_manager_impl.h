@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition manager class declaration
+// summary: Declares SpeechRecognitionManagerImpl, the single browser-process manager that arbitrates microphone access across sessions and relays recognition events to listeners.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SPEECH_RECOGNITION_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_SPEECH_RECOGNITION_MANAGER_IMPL_H_
 

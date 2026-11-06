@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange certificate fetcher factory implementation
+// summary: Implements SignedExchangeCertFetcherFactory, creating and starting certificate fetchers with the stored URL loader factory, throttle getter and isolation info.
+// ---
+
 #include "content/browser/web_package/signed_exchange_cert_fetcher_factory.h"
 
 #include <optional>

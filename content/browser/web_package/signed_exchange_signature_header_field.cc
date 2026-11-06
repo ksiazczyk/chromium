@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange signature header field parser
+// summary: Parses the Signature header of signed exchanges into signature entries with label, sig, integrity, cert-url, validity-url and date parameters.
+// ---
+
 #include "content/browser/web_package/signed_exchange_signature_header_field.h"
 
 #include <string_view>

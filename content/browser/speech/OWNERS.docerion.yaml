@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Speech directory owners
+summary: Lists owners for speech recognition and per-file owners for text-to-speech and speech synthesis files.

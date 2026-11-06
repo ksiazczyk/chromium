@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange prefetch handler header
+// summary: Declares SignedExchangePrefetchHandler, a URLLoaderClient attached to prefetch loaders for signed exchanges, with redirect following and cache entry extraction.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_PREFETCH_HANDLER_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_PREFETCH_HANDLER_H_
 

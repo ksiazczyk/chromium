@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange loader header
+// summary: Declares SignedExchangeLoader, a URLLoader and URLLoaderClient for signed exchange responses, including redirect-on-failure behavior and prefetch cache entry handling.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_LOADER_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_LOADER_H_
 

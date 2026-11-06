@@ -1,0 +1,4 @@
+# Docerion header of tts_mac.mm.
+type: source
+title: macOS TTS platform implementation
+summary: Implements macOS text-to-speech with AVSpeechSynthesizer, resolving the user-selected default voice from accessibility settings and reporting speech events.

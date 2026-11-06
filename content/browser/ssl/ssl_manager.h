@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL manager class declaration
+// summary: Declares SSLManager, the per-tab class that controls SSL UI elements and updates the security state on certificate errors and insecure content.
+// ---
+
 #ifndef CONTENT_BROWSER_SSL_SSL_MANAGER_H_
 #define CONTENT_BROWSER_SSL_SSL_MANAGER_H_
 

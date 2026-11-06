@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetched signed exchange cache adapter declarations
+// summary: Declares the adapter used by PrefetchURLLoader to store prefetched and verified signed exchanges into the cache.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_PREFETCHED_SIGNED_EXCHANGE_CACHE_ADAPTER_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_PREFETCHED_SIGNED_EXCHANGE_CACHE_ADAPTER_H_
 

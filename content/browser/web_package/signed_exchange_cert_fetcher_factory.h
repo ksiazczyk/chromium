@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange certificate fetcher factory interface
+// summary: Declares the factory interface for creating SignedExchangeCertFetcher objects that start fetching signed exchange certificates.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_CERT_FETCHER_FACTORY_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_CERT_FETCHER_FACTORY_H_
 

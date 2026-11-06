@@ -1,0 +1,4 @@
+# Docerion header of web_drag_dest_mac.mm.
+type: source
+title: WebDragDest macOS drag destination implementation
+summary: Implements macOS drag-and-drop handling for web contents, including building DropData from the pasteboard and asynchronously finishing drop operations.

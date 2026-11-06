@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux TTS platform via speech-dispatcher
+// summary: Implements the Linux TTS platform on top of the speech-dispatcher library, managing connections, voices, and utterance events from a background worker.
+// ---
+
 #include <math.h>
 #include <stddef.h>
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the vrp_flags browser directory
+summary: Defines the allowed include dependencies for content/browser/vrp_flags, permitting components/vrp_flags and the GPU process host header.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsViewDragSecurityInfo class declaration
+// summary: Declares a helper that tracks drag source details so WebContentsView implementations can validate drag targets and image accessibility.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_VIEW_DRAG_SECURITY_INFO_H_
 #define CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_VIEW_DRAG_SECURITY_INFO_H_
 

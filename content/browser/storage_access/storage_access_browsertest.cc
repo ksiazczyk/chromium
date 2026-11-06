@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage access browser tests
+// summary: Browser tests verifying that a StorageAccessHandle can only be bound when third-party cookie access is allowed and the frame context is unrestricted.
+// ---
+
 #include "base/strings/strcat.h"
 #include "base/test/bind.h"
 #include "content/browser/permissions/permission_controller_impl.h"

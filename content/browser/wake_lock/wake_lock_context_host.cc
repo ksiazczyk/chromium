@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wake lock context host implementation
+// summary: Maps wake lock context IDs to their WebContents so the device service can resolve the native view for screen locks.
+// ---
+
 #include "content/browser/wake_lock/wake_lock_context_host.h"
 
 #include "base/atomic_sequence_num.h"

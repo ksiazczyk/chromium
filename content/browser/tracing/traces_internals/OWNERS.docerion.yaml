@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for traces_internals
+summary: Lists code owners for the traces_internals directory and sets per-file owner rules for Mojo, traits, and WebUI files.

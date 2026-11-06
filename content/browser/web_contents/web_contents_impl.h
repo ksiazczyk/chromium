@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsImpl class declaration
+// summary: Declares the internal WebContents implementation with its observer, delegate and navigation interfaces used across the content layer.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_IMPL_H_
 #define CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_IMPL_H_
 

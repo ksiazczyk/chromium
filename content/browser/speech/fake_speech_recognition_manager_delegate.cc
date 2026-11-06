@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake speech recognition manager delegate
+// summary: Implements a mock on-device Web Speech recognition service and a fake speech recognition manager delegate for use in tests.
+// ---
+
 #include "content/browser/speech/fake_speech_recognition_manager_delegate.h"
 
 #include "base/notimplemented.h"

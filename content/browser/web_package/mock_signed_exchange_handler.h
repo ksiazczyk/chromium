@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock signed exchange handler declarations
+// summary: Declares mock signed exchange handler parameters, the handler itself, and a factory used to simulate signed exchange responses in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_MOCK_SIGNED_EXCHANGE_HANDLER_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_MOCK_SIGNED_EXCHANGE_HANDLER_H_
 

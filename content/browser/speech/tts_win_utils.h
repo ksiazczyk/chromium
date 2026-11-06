@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows TTS utility header
+// summary: Declares the exported RemoveXml helper that strips XML-related characters from utterances for SAPI security reasons.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_TTS_WIN_UTILS_H_
 #define CONTENT_BROWSER_SPEECH_TTS_WIN_UTILS_H_
 

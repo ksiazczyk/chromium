@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error handler class declaration
+// summary: Declares SSLErrorHandler, the UI-thread class for deciding whether to cancel, deny, or continue a request after an SSL certificate error.
+// ---
+
 #ifndef CONTENT_BROWSER_SSL_SSL_ERROR_HANDLER_H_
 #define CONTENT_BROWSER_SSL_SSL_ERROR_HANDLER_H_
 

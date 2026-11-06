@@ -1,0 +1,4 @@
+# Docerion header of web_drag_dest_mac_unittest.mm.
+type: test
+title: WebDragDest unit tests
+summary: Unit tests for the macOS WebDragDest class covering synchronous and asynchronous drag end behavior, pasteboard data population, and image type fallbacks.

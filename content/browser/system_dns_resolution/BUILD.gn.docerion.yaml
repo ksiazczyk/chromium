@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for system_dns_resolution
+summary: GN build file defining the system_dns_resolution source set for Android and Linux, with dependencies on base, net, Mojo bindings, and network mojom.

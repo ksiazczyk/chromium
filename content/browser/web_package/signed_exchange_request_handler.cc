@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange request handler implementation
+// summary: Implements the navigation loader interceptor that detects application/signed-exchange responses and delegates loading to SignedExchangeLoader or falls back to the network.
+// ---
+
 #include "content/browser/web_package/signed_exchange_request_handler.h"
 
 #include <memory>

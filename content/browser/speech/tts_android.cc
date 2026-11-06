@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android TTS platform implementation
+// summary: Implements the Android text-to-speech platform, speaking utterances through the Java TtsPlatformImpl after SSML stripping and reporting voices.
+// ---
+
 #include "content/browser/speech/tts_android.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange prefetch handler implementation
+// summary: Implements SignedExchangePrefetchHandler, which attaches a SignedExchangeLoader to prefetch requests for signed exchanges and exposes the resulting prefetch cache entry.
+// ---
+
 #include "content/browser/web_package/signed_exchange_prefetch_handler.h"
 
 #include "base/feature_list.h"

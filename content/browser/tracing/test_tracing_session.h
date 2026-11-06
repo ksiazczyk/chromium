@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Perfetto tracing session header
+// summary: Declares TestTracingSession, a fake perfetto::TracingSession used to simulate tracing sessions in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_TEST_TRACING_SESSION_H_
 #define CONTENT_BROWSER_TRACING_TEST_TRACING_SESSION_H_
 

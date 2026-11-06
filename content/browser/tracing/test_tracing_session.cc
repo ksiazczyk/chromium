@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Perfetto tracing session implementation
+// summary: Implements a fake perfetto::TracingSession that simulates start, stop, clone and error behavior for tracing tests.
+// ---
+
 #include "content/browser/tracing/test_tracing_session.h"
 
 #include "base/notimplemented.h"

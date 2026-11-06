@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traces internals WebUI controller implementation
+// summary: Implements the WebUI controller that registers resources, sets content security and TrustedTypes policies, enables Mojo JavaScript bindings, and creates the page handler.
+// ---
+
 #include "content/browser/tracing/traces_internals/traces_internals_ui.h"
 
 #include "content/browser/renderer_host/render_frame_host_impl.h"

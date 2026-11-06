@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File chooser implementation
+// summary: Implements the blink FileChooser mojo interface for a RenderFrameHost, filtering symlinks from folder uploads and reporting selections or cancellations.
+// ---
+
 #include "content/browser/web_contents/file_chooser_impl.h"
 
 #include <algorithm>

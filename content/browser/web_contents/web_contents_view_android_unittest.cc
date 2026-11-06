@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsViewAndroid unit tests
+// summary: Unit tests for WebContentsViewAndroid focusing on drag-and-drop behavior and data transfer policy enforcement.
+// ---
+
 #include "content/browser/web_contents/web_contents_view_android.h"
 
 #include <memory>

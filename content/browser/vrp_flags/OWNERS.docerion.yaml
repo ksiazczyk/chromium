@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to components/vrp_flags
+summary: Points reviewers and owners for this directory to the OWNERS file of components/vrp_flags.

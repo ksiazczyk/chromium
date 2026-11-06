@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsView interface header
+// summary: Declares WebContentsView, the platform-independent interface that WebContents uses to talk to platform-specific web contents views.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_VIEW_H_
 #define CONTENT_BROWSER_WEB_CONTENTS_WEB_CONTENTS_VIEW_H_
 

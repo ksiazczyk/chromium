@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File chooser browser tests
+// summary: Browser tests checking that file chooser calls after renderer death do not crash the browser and that cancellation callbacks still run.
+// ---
+
 #include "content/browser/web_contents/file_chooser_impl.h"
 
 #include "base/files/file_util.h"

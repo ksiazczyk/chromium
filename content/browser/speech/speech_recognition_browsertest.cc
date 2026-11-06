@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition browser tests
+// summary: Browser tests for Web Speech recognition covering permissions, audio capture, network and on-device SODA backends, and end-to-end recognition results in a content shell.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <string.h>

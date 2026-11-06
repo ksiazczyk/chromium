@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL manager implementation
+// summary: Implements SSLManager, which resolves certificate errors, records user allow decisions, and tracks mixed content and cert-error content for navigation entries.
+// ---
+
 #include "content/browser/ssl/ssl_manager.h"
 
 #include <set>

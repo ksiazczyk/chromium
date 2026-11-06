@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition manager implementation
+// summary: Implements the browser-process speech recognition manager that creates and routes recognition sessions, checks microphone permissions, and records WebSpeech usage metrics.
+// ---
+
 #include "content/browser/speech/speech_recognition_manager_impl.h"
 
 #include <algorithm>

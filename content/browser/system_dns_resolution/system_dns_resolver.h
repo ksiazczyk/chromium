@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemDnsResolverMojoImpl class declaration
+// summary: Declares SystemDnsResolverMojoImpl, a non-copyable Mojo implementation of network::mojom::SystemDnsResolver backed by //net/dns system resolution.
+// ---
+
 #ifndef CONTENT_BROWSER_SYSTEM_DNS_RESOLUTION_SYSTEM_DNS_RESOLVER_H_
 #define CONTENT_BROWSER_SYSTEM_DNS_RESOLUTION_SYSTEM_DNS_RESOLVER_H_
 

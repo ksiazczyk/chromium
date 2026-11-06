@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB service class declaration
+// summary: Declares WebUsbServiceImpl, which serves the WebUSB Mojo interface for documents and service workers and observes device and permission events.
+// ---
+
 #ifndef CONTENT_BROWSER_USB_WEB_USB_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_USB_WEB_USB_SERVICE_IMPL_H_
 

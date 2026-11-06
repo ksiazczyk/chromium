@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GMS SMS provider interface
+// summary: Declares SmsProviderGms, the Android SmsProvider backed by Google Play services, with JNI callbacks and test hooks.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_SMS_PROVIDER_GMS_H_
 #define CONTENT_BROWSER_SMS_SMS_PROVIDER_GMS_H_
 

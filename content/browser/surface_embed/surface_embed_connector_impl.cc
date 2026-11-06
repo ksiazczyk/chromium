@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceEmbedConnectorImpl implementation
+// summary: Implements the browser-side connector that links an embedded child WebContents to its parent, forwarding notifications for accessibility, visibility, input routing, and visual properties.
+// ---
+
 #include "content/browser/surface_embed/surface_embed_connector_impl.h"
 
 #include "base/check_is_test.h"

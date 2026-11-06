@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS parser interface
+// summary: Defines the SmsParser class that extracts origins and one-time codes from SMS messages and reports the parsing status.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_SMS_PARSER_H_
 #define CONTENT_BROWSER_SMS_SMS_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition dispatcher host implementation
+// summary: Implements the SpeechRecognizer mojo interface that lets render frames start speech recognition sessions and selects between cloud, SODA, small expert model, and Gemini Nano backends.
+// ---
+
 #include "content/browser/speech/speech_recognition_dispatcher_host.h"
 
 #include <memory>

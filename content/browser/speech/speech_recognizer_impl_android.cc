@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android speech recognizer implementation
+// summary: Implements the Android speech recognizer, delegating recognition to the Java SpeechRecognitionImpl class through JNI on UI and IO threads.
+// ---
+
 #include "content/browser/speech/speech_recognizer_impl_android.h"
 
 #include <stddef.h>

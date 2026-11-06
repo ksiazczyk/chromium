@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slow web preference cache implementation
+// summary: Implements a process-wide cache of slow-changing WebPreferences such as pointer and hover types, touch points, CPU core count and Android video fullscreen settings.
+// ---
+
 #include "content/browser/web_contents/slow_web_preference_cache.h"
 
 #include "base/command_line.h"

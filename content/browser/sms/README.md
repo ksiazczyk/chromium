@@ -1,3 +1,12 @@
+---
+type: readme
+title: Web OTP API
+summary: Overview of the WebOTP implementation covering exposed interfaces, test locations, Android platform support and links to design docs.
+relations:
+  - references /content/browser/sms/webotp_service_unittest.cc
+  - references /content/browser/sms/sms_browsertest.cc
+---
+
 # Web OTP API
 
 Android has [automatic and one-tap SMS verification](https://developers.google.com/identity/sms-retriever). We would like to cover the gap on web platform and implement the WebOTP Service API for web developers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingControllerImpl implementation
+// summary: Implements the browser-side tracing controller that starts and stops Perfetto sessions, gathers trace metadata, and delivers trace data to endpoints.
+// ---
+
 #include "content/browser/tracing/tracing_controller_impl.h"
 
 #include <inttypes.h>

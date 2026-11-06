@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake speech dispatcher state header
+// summary: Declares the FakeSpeechDispatcherState struct with atomic counters and flags that the fake speech-dispatcher implementation uses to track calls and control test behavior.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_TEST_FAKE_SPEECH_DISPATCHER_H_
 #define CONTENT_BROWSER_SPEECH_TEST_FAKE_SPEECH_DISPATCHER_H_
 

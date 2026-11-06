@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background tracing manager browser tests
+// summary: Browser tests covering background tracing scenarios, including startup tracing preferences, state transitions, and validation of captured trace data.
+// ---
+
 #include "services/tracing/public/cpp/background_tracing/background_tracing_manager.h"
 
 #include <stddef.h>

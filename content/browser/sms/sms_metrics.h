@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMS metrics declarations for the WebOTP API
+// summary: Declares functions that record WebOTP usage metrics such as SMS receive time, parsing status, outcomes, and user cancel or continue actions.
+// ---
+
 #ifndef CONTENT_BROWSER_SMS_SMS_METRICS_H_
 #define CONTENT_BROWSER_SMS_SMS_METRICS_H_
 

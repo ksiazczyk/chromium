@@ -1,0 +1,4 @@
+# Docerion header of web_drag_source_mac_unittest.mm.
+type: test
+title: WebDragSource unit tests
+summary: Unit tests for the macOS WebDragSource pasteboard output, checking escaped bookmarklet URLs and that multiple URLs and titles are exposed to drag readers.

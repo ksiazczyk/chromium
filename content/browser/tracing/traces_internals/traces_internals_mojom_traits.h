@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo typemap traits declarations for traces_internals
+// summary: Declares EnumTraits specializations that map traces_internals Mojo enums to their native tracing C++ counterparts.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_TRACES_INTERNALS_TRACES_INTERNALS_MOJOM_TRAITS_H_
 #define CONTENT_BROWSER_TRACING_TRACES_INTERNALS_TRACES_INTERNALS_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceEmbedConnectorImpl browser tests
+// summary: Content browser tests exercising the surface embed connector, including accessibility tree IDs, visual property synchronization, throttling, pointer lock, and delegate interactions.
+// ---
+
 #include "content/browser/surface_embed/surface_embed_connector_impl.h"
 
 #include <memory>

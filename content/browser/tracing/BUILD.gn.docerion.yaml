@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tracing resources build rules
+summary: GN build rules that generate the tracing resources grd file and compile it into grit outputs for the about_tracing WebUI assets.

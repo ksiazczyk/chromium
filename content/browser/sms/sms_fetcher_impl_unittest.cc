@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SMS fetcher
+// summary: Unit tests covering SmsFetcherImpl subscription, local and remote SMS delivery and failure handling using mock providers and subscribers.
+// ---
+
 #include "content/browser/sms/sms_fetcher_impl.h"
 
 #include "base/memory/ptr_util.h"

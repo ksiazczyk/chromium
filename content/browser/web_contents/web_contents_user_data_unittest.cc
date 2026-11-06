@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsUserData unit tests
+// summary: Unit tests for the WebContentsUserData helper, checking attachment, lookup, and idempotence of per-WebContents data classes.
+// ---
+
 #include "content/public/browser/web_contents_user_data.h"
 
 #include <memory>

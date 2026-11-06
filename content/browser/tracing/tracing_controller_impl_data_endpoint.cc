@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace data endpoint implementations
+// summary: Implements string, file, and gzip-compressing trace data endpoints that collect trace chunks and deliver them to callbacks or files.
+// ---
+
 #include <memory>
 #include <tuple>
 #include <utility>

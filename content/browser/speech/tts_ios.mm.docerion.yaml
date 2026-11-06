@@ -1,0 +1,4 @@
+# Docerion header of tts_ios.mm.
+type: source
+title: iOS TTS platform stub
+summary: Provides a dummy iOS TTS platform implementation that reports no support and fails speak requests.

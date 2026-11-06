@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Wake lock directory metadata
+summary: Declares the Blink>WakeLock monorail component, team email and Buganizer component for this directory.

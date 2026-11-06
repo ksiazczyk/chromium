@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsViewChildFrame implementation
+// summary: Implements WebContentsView for WebContents embedded in child frames, delegating native view, focus, and drag operations to the outer embedder view.
+// ---
+
 #include "content/browser/web_contents/web_contents_view_child_frame.h"
 
 #include <utility>

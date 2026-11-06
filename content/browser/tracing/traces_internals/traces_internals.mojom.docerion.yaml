@@ -1,0 +1,4 @@
+# Docerion header of traces_internals.mojom.
+type: source
+title: Traces internals Mojo interface definitions
+summary: Defines Mojo enums, structs, and interfaces used by the traces internals WebUI to manage trace reports, tracing scenarios, categories, and tracing sessions.

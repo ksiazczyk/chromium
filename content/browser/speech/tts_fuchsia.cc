@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia TTS platform stub
+// summary: Provides a dummy Fuchsia TTS platform implementation that reports no support so the browser does not crash until a real implementation is added.
+// ---
+
 #include "content/browser/speech/tts_platform_impl.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traces internals WebUI controller declarations
+// summary: Declares the WebUI controller and configuration classes that register the traces internals page, including a legacy host alias, and bind the handler factory.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_TRACES_INTERNALS_TRACES_INTERNALS_UI_H_
 #define CONTENT_BROWSER_TRACING_TRACES_INTERNALS_TRACES_INTERNALS_UI_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the SMS directory
+summary: Lists the primary code owner responsible for the Web OTP implementation in this directory.

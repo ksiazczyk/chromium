@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the SMS browser directory
+summary: GN build file defining the java_cpp_enum target that generates the SMS provider GMS backend enum from sms_provider_gms.h.

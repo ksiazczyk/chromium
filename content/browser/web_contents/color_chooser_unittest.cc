@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color chooser unit tests
+// summary: Unit tests verifying that the color chooser is ended when navigating away, including runs with the back-forward cache enabled.
+// ---
+
 #include "content/public/browser/color_chooser.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange envelope unit tests
+// summary: Unit tests for SignedExchangeEnvelope parsing, covering golden file parsing and CBOR response header construction for the b3 format.
+// ---
+
 #include "content/browser/web_package/signed_exchange_envelope.h"
 
 #include <string_view>

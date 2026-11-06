@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange prologue unit tests
+// summary: Unit tests for parsing the signed exchange prologue, covering encoded length fields, magic string and version checks, and fallback URL parsing.
+// ---
+
 #include "content/browser/web_package/signed_exchange_prologue.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

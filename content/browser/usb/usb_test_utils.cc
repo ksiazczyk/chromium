@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB test utility implementations
+// summary: Implements mock USB delegate and device manager client helpers that simulate chooser results and device events in USB tests.
+// ---
+
 #include "content/browser/usb/usb_test_utils.h"
 
 #include "base/functional/callback.h"

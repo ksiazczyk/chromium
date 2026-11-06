@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewStructureBuilder JNI bindings for Android
+// summary: Implements JNI entry points that populate Android view structure nodes with text, selection, bounds, HTML information and metadata.
+// ---
+
 #include "content/browser/web_contents/view_structure_builder_android.h"
 #include "content/public/android/content_jni_headers/ViewStructureBuilder_jni.h"
 

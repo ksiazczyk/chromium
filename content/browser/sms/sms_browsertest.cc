@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Web OTP service
+// summary: Content browser tests verifying WebOTP SMS verification flows, including UKM outcome and timing metrics and cross-origin frame behavior.
+// ---
+
 #include <memory>
 #include <string>
 

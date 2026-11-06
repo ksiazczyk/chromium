@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange loader implementation
+// summary: Implements SignedExchangeLoader, which handles origin-signed HTTP exchange responses by verifying them and forwarding the inner response, redirects or fallbacks to the client.
+// ---
+
 #include "content/browser/web_package/signed_exchange_loader.h"
 
 #include <memory>

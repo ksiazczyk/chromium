@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange loader unit tests
+// summary: Unit tests for SignedExchangeLoader that use mock URLLoader and URLLoaderClient endpoints to exercise signed exchange loading and client notification behavior.
+// ---
+
 #include "content/browser/web_package/signed_exchange_loader.h"
 
 #include <memory>

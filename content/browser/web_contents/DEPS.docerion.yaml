@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Web contents DEPS include rules
+summary: Defines per-file include allowlist rules for Mac, Aura unittest, and Android builder files in the web_contents directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebContentsViewAura unit tests
+// summary: Unit tests for the Aura implementation of WebContentsView, covering drag-and-drop, window activation, focus, and platform-specific drag data behavior.
+// ---
+
 #include "content/browser/web_contents/web_contents_view_aura.h"
 
 #include <memory>

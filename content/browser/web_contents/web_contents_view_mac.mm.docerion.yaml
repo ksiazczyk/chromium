@@ -1,0 +1,4 @@
+# Docerion header of web_contents_view_mac.mm.
+type: source
+title: WebContentsViewMac implementation
+summary: Implements the macOS WebContentsView, including NSView bridge hosting, drag destination handling, and promised file writing for dragged downloads.

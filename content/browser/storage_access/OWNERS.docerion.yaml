@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file redirecting to the storage access API owners
+summary: Delegates review ownership for the storage access directory to the Chrome storage access API OWNERS file.

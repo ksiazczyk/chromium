@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource signed exchange URLLoaderFactory implementation
+// summary: Implements a URLLoaderFactory that serves signed exchange subresource requests from a prefetched cache entry, validating request mode and initiator origin lock before loading.
+// ---
+
 #include "content/browser/web_package/subresource_signed_exchange_url_loader_factory.h"
 
 #include <stdint.h>

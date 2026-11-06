@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device speech recognition engine implementation
+// summary: Implements the on-device Web Speech recognition engine that streams audio to on-device models via the optimization guide model broker and records recognition duration metrics.
+// ---
+
 #include "content/browser/speech/on_device_speech_recognition_engine_impl.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange certificate chain parser implementation
+// summary: Parses CBOR-encoded certificate chain responses for signed HTTP exchanges, validating the magic string, DER certificates, OCSP and SCT fields.
+// ---
+
 #include "content/browser/web_package/signed_exchange_certificate_chain.h"
 
 #include <string_view>

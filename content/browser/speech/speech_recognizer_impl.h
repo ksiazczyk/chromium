@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognizerImpl class header
+// summary: Declares SpeechRecognizerImpl, which runs per-session speech recognition handling audio capture, endpointer silence detection and engine interaction.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SPEECH_RECOGNIZER_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_SPEECH_RECOGNIZER_IMPL_H_
 

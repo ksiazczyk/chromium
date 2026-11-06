@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client auth handler implementation
+// summary: Implements SSLClientAuthHandler, which queries the client cert store and forwards the user's certificate choice or cancellation for SSL client authentication.
+// ---
+
 #include "content/browser/ssl/ssl_client_auth_handler.h"
 
 #include <utility>

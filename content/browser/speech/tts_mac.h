@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS TTS platform header
+// summary: Declares the macOS TTS platform implementation and its background worker that loads AVSpeechSynthesis voices off the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_TTS_MAC_H_
 #define CONTENT_BROWSER_SPEECH_TTS_MAC_H_
 

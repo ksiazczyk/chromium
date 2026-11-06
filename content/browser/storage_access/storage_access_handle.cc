@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageAccessHandle implementation
+// summary: Implements the browser-side StorageAccessHandle, binding IndexedDB, locks, cache storage, blob storage, broadcast channels, and shared workers for eligible frames.
+// ---
+
 #include "content/browser/storage_access/storage_access_handle.h"
 
 #include "base/byte_size.h"

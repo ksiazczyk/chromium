@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device speech recognition engine class declaration
+// summary: Declares OnDeviceSpeechRecognitionEngine, a SpeechRecognitionEngine subclass that manages on-device ASR sessions through a UI-thread Core helper and model broker client.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_ON_DEVICE_SPEECH_RECOGNITION_ENGINE_IMPL_H_
 #define CONTENT_BROWSER_SPEECH_ON_DEVICE_SPEECH_RECOGNITION_ENGINE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client auth handler class declaration
+// summary: Declares SSLClientAuthHandler, a UI-thread class that handles approval and selection of a client certificate for SSL client authentication via a delegate.
+// ---
+
 #ifndef CONTENT_BROWSER_SSL_SSL_CLIENT_AUTH_HANDLER_H_
 #define CONTENT_BROWSER_SSL_SSL_CLIENT_AUTH_HANDLER_H_
 

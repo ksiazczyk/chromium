@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System DNS resolution browser tests
+// summary: Browser tests that resolve hostnames through the SYSTEM resolver via the network service, covering mocked successes, simulated failures, and performance measurements.
+// ---
+
 #include <list>
 
 #include "base/functional/callback.h"

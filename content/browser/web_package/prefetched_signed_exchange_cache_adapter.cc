@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetched signed exchange cache adapter implementation
+// summary: Implements the adapter that streams a prefetched signed exchange response body into a blob and stores the completed entry in the cache.
+// ---
+
 #include "content/browser/web_package/prefetched_signed_exchange_cache_adapter.h"
 
 #include "base/memory/ref_counted_memory.h"

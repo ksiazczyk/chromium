@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VrpFlagsFactoryImpl implementation
+// summary: Implements the VrpFlagsFactory Mojo interface, binding browser, network, and GPU VrpFlags receivers and starting victim renderer processes on unique localhost ports.
+// ---
+
 #include "content/browser/vrp_flags/vrp_flags_factory_impl.h"
 
 #include "base/logging.h"

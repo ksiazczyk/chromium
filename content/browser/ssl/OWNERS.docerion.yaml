@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: SSL directory owners
+summary: Points to the shared OWNERS file in chrome/browser/ssl to define code review ownership for this directory.

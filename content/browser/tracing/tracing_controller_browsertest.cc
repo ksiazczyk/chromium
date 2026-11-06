@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TracingController browser tests
+// summary: Browser tests covering start and stop of tracing via TracingController, checking protobuf trace output, categories, and trace data endpoint delivery.
+// ---
+
 #include "content/public/browser/tracing_controller.h"
 
 #include <stdint.h>

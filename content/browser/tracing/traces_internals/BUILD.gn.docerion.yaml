@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for traces_internals Mojo bindings
+summary: GN build configuration that defines the Mojo bindings target for the traces_internals WebUI, including typemaps and Windows-specific dependencies.

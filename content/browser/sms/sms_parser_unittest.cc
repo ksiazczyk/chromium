@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SMS parser
+// summary: Tests SmsParser parsing of valid and invalid SMS messages, covering origins, one-time codes, and formatting edge cases.
+// ---
+
 #include "content/browser/sms/sms_parser.h"
 
 #include <string>

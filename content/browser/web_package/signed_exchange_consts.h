@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange constants
+// summary: Defines constants and field names for the application/signed-exchange format, the certificate chain CBOR keys, and the SignedExchangeVersion enum.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_CONSTS_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_CONSTS_H_
 

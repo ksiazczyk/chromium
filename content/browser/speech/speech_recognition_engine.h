@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognitionEngine interface
+// summary: Defines the browser-side interface for local and network speech recognition engines, including delegate callbacks and the expected call sequence.
+// ---
+
 #ifndef CONTENT_BROWSER_SPEECH_SPEECH_RECOGNITION_ENGINE_H_
 #define CONTENT_BROWSER_SPEECH_SPEECH_RECOGNITION_ENGINE_H_
 

@@ -4,6 +4,12 @@
 
 // Unit tests for the TTS Controller.
 
+// ---docerion
+// type: test
+// title: TTS controller unit tests
+// summary: Unit tests for the TTS controller, using a mock TTS platform to cover utterance queueing, speaking, pausing, stopping, and voice handling.
+// ---
+
 #include "base/memory/ptr_util.h"
 #include "base/memory/raw_ptr.h"
 #include "base/values.h"

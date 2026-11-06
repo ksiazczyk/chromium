@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wake lock context host class declaration
+// summary: Declares WakeLockContextHost, which associates wake lock context IDs with the WebContents that own them, mainly for Android.
+// ---
+
 #ifndef CONTENT_BROWSER_WAKE_LOCK_WAKE_LOCK_CONTEXT_HOST_H_
 #define CONTENT_BROWSER_WAKE_LOCK_WAKE_LOCK_CONTEXT_HOST_H_
 

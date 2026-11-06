@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS platform implementation
+// summary: Implements the base TtsPlatformImpl class, resolving the platform TTS instance through the content client and providing default error and lifecycle behavior.
+// ---
+
 #include "content/browser/speech/tts_platform_impl.h"
 
 #include "build/build_config.h"

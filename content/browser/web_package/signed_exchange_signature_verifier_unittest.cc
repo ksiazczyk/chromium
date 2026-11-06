@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed exchange signature verifier unit tests
+// summary: Unit tests verifying signed exchange signatures with ECDSA P-256 and P-384 keys, covering success cases, invalid expiry periods, and recorded histogram results.
+// ---
+
 #include "content/browser/web_package/signed_exchange_signature_verifier.h"
 
 #include "base/files/file_path.h"

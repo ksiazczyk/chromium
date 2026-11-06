@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory instrumentation utility implementation
+// summary: Registers the browser process as a memory-instrumentation client so its data is available in memory dumps.
+// ---
+
 #include "content/browser/tracing/memory_instrumentation_util.h"
 
 #include "base/trace_event/trace_event.h"

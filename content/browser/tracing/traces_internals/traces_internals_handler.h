@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Traces internals page handler declarations
+// summary: Declares the browser-side handler class that communicates between the browser and the traces internals WebUI, covering tracing sessions, trace reports, and scenario settings.
+// ---
+
 #ifndef CONTENT_BROWSER_TRACING_TRACES_INTERNALS_TRACES_INTERNALS_HANDLER_H_
 #define CONTENT_BROWSER_TRACING_TRACES_INTERNALS_TRACES_INTERNALS_HANDLER_H_
 

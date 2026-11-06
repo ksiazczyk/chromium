@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed exchange certificate chain class declaration
+// summary: Declares SignedExchangeCertificateChain, which holds a parsed certificate chain with OCSP and SCT data, plus an SPKI list for ignoring certificate errors.
+// ---
+
 #ifndef CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_CERTIFICATE_CHAIN_H_
 #define CONTENT_BROWSER_WEB_PACKAGE_SIGNED_EXCHANGE_CERTIFICATE_CHAIN_H_
 
