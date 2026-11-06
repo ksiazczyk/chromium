@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender No-Vary-Search hint commit deferring condition implementation
+// summary: Implements a commit deferring condition that waits for the prerender's main page response headers so No-Vary-Search header matching can be checked before activation.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_no_vary_search_hint_commit_deferring_condition.h"
 
 #include <memory>

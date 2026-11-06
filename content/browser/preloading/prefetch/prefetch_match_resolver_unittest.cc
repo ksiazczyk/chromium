@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchMatchResolver unit tests
+// summary: Unit tests for prefetch match candidate collection and serving behavior using mock prefetch containers and requests.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_match_resolver.h"
 
 #include "base/memory/scoped_refptr.h"

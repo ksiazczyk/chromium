@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaManagerHost class declaration
+// summary: Declares QuotaManagerHost, the per-StorageKey Quota API implementation that must be used on the browser IO thread.
+// ---
+
 #ifndef CONTENT_BROWSER_QUOTA_QUOTA_MANAGER_HOST_H_
 #define CONTENT_BROWSER_QUOTA_QUOTA_MANAGER_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeculationHostImpl implementation
+// summary: Implements the browser-side SpeculationHost receiver that validates speculation candidates from the renderer and enacts prerenders and prefetches.
+// ---
+
 #include "content/browser/preloading/speculation_rules/speculation_host_impl.h"
 
 #include <functional>

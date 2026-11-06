@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchNetworkContext unit tests
+// summary: Unit tests verifying creation of the isolated network context and URL loader factory for prefetch requests.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/preloading/prefetch/prefetch_isolated_network_context.h"

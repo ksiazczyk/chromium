@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrePrefetchHandleImpl implementation
+// summary: Implements the pre-prefetch handle that owns a PrePrefetchContainer and releases it on the UI thread.
+// ---
+
 #include "content/browser/preloading/prefetch/pre_prefetch_handle_impl.h"
 
 #include "content/public/browser/browser_thread.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resolve host client implementation
+// summary: Performs speculative DNS host resolution for preconnect via the network context, records latency metrics, and reports success through a callback.
+// ---
+
 #include "content/browser/preloading/resolve_host_client_impl.h"
 
 #include <utility>

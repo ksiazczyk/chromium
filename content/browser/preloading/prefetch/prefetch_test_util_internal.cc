@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internal prefetch test utilities implementation
+// summary: Implements internal helpers that create prefetch streaming URL loaders, response readers, and container observers for browser-side tests.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_test_util_internal.h"
 
 #include "base/containers/span.h"

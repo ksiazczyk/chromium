@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch deduplication implementation
+// summary: Implements IsPrefetchDuplicate, which detects duplicate prefetches by comparing URLs against existing entries using matching no-vary-search hints for determinism.
+// ---
+
 #include "content/public/browser/prefetch_deduplication_utils.h"
 
 namespace content {

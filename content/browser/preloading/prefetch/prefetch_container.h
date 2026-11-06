@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchContainer class declaration
+// summary: Declares the prefetch container, its load state machine, response size struct, and related types used to track and serve prefetched responses.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CONTAINER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CONTAINER_H_
 

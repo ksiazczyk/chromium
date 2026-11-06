@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading attempt implementation
+// summary: Implements PreloadingAttemptImpl, tracking eligibility, holdback, and triggering outcomes and recording preloading attempt UKM metrics.
+// ---
+
 #include "content/browser/preloading/preloading_attempt_impl.h"
 
 #include "base/containers/span.h"

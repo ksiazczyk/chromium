@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchRequest implementation
+// summary: Implements PrefetchRequest and the renderer/browser initiator info classes that carry parameters and status listeners for renderer- and browser-initiated prefetches.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_request.h"
 
 #include <variant>

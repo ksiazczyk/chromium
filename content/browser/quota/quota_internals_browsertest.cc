@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for the quota internals WebUI page
+// summary: Browser test that loads the quota internals WebUI page and checks that storage usage, eviction, and error sections render correctly; currently disabled as flaky.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "content/browser/quota/quota_internals_ui.h"
 #include "content/public/browser/web_contents.h"

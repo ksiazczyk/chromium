@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch streaming URL loader unit tests
+// summary: Unit tests for PrefetchStreamingURLLoader that simulate response heads, bodies, redirects, and completion statuses through a test URL loader factory.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_streaming_url_loader.h"
 
 #include "base/containers/span.h"

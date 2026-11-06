@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderHandleImpl implementation
+// summary: Implements the PrerenderHandle interface, tracking prerender state and deciding when error callbacks should fire for failed or cancelled prerenders.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_handle_impl.h"
 
 #include <limits>

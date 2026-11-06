@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender No-Vary-Search commit deferring condition declaration
+// summary: Declares a commit deferring condition that defers prerender activation commit to update the renderer's URL for No-Vary-Search or custom URL match predicates.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NO_VARY_SEARCH_COMMIT_DEFERRING_CONDITION_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NO_VARY_SEARCH_COMMIT_DEFERRING_CONDITION_H_
 

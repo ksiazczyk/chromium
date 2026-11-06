@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch URL loader factory utilities implementation
+// summary: Implements creation of URL loader factories for prefetch and pre-prefetch requests, including network restrictions and test request interception.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_url_loader_factory_utils.h"
 
 #include "base/check_is_test.h"

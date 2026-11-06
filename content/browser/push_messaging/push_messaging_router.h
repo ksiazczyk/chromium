@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushMessagingRouter class declaration
+// summary: Declares PushMessagingRouter, a static helper for delivering push messages and subscription change events to service workers, called on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_ROUTER_H_
 #define CONTENT_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_ROUTER_H_
 

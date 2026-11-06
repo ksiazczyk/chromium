@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Preloading issue tracker metadata
+summary: Configures the Monorail component and public Buganizer component ID used for issues in the preloading directory.

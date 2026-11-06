@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Push messaging DIR_METADATA
+summary: Directory metadata that mixes in the common push messaging metadata file to reuse its tracker component and team settings.

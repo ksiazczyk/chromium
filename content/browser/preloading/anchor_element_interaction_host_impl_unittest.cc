@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Anchor element interaction host unit test
+// summary: Unit tests verifying that pointer down and hover events are forwarded with the correct URLs and eagerness to the preloading decider observer.
+// ---
+
 #include "content/browser/preloading/anchor_element_interaction_host_impl.h"
 
 #include "base/memory/raw_ptr.h"

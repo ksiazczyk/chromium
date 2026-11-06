@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload serving metrics implementation
+// summary: Implements recording of preload serving metrics, emitting UMA histograms for prefetch matching and prerender serving during navigations.
+// ---
+
 #include "content/browser/preloading/preload_serving_metrics.h"
 
 #include <sstream>

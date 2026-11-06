@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadPipelineInfoImpl header
+// summary: Declares PreloadPipelineInfoImpl, a ref-counted holder of a pipeline ID, planned maximum preloading type, prefetch eligibility and status, and prerender host IDs matched with prefetch.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOAD_PIPELINE_INFO_IMPL_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOAD_PIPELINE_INFO_IMPL_H_
 

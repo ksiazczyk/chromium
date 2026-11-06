@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchMatchResolver implementation
+// summary: Implements resolving which prefetch candidate matches a navigation, including waiting, serving decisions, and match metrics recording.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_match_resolver.h"
 
 #include "base/memory/ptr_util.h"

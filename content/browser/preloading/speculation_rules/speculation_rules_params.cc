@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeculationRulesParams implementation
+// summary: Implements constructors and copy and move operators for the SpeculationRulesParams struct.
+// ---
+
 #include "content/browser/preloading/speculation_rules/speculation_rules_params.h"
 
 namespace content {

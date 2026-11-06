@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderNewTabHandle implementation
+// summary: Implements PrerenderNewTabHandle, which creates a hidden WebContents for prerendering a page destined for a new tab navigation and starts the prerendering attempt.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_new_tab_handle.h"
 
 #include "base/check_op.h"

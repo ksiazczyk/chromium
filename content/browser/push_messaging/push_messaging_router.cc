@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushMessagingRouter implementation
+// summary: Implements PushMessagingRouter, which finds service worker registrations and delivers push messages or fires pushsubscriptionchange events to the active worker version.
+// ---
+
 #include "content/browser/push_messaging/push_messaging_router.h"
 
 #include <string>

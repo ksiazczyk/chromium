@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchor element interaction host implementation
+// summary: Implements the per-frame Mojo host that receives anchor element interaction events and triggers HTTP disk cache prewarming and service worker warm-up.
+// ---
+
 #include "content/browser/preloading/anchor_element_interaction_host_impl.h"
 
 #include "content/browser/preloading/preloading.h"

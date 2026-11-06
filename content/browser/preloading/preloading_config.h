@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadingConfig class declaration
+// summary: Declares the PreloadingConfig singleton that decides holdback and sampling likelihood for preloading type and predictor pairs from field trial parameters.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOADING_CONFIG_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOADING_CONFIG_H_
 

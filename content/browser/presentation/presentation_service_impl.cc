@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PresentationServiceImpl implementation
+// summary: Implements the browser-side Mojo PresentationService, handling Presentation API requests from the renderer and delegating them to the embedder's media router via presentation delegates.
+// ---
+
 #include "content/browser/presentation/presentation_service_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaContext class declaration
+// summary: Declares QuotaContext, the ref-counted owner of the quota subsystem for a StoragePartition that binds QuotaManagerHost receivers on the IO thread.
+// ---
+
 #ifndef CONTENT_BROWSER_QUOTA_QUOTA_CONTEXT_H_
 #define CONTENT_BROWSER_QUOTA_QUOTA_CONTEXT_H_
 

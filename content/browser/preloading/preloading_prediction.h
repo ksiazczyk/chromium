@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading prediction header
+// summary: Declares the PreloadingPrediction class that tracks predictor confidence, prediction accuracy, and time to next navigation for UKM reporting.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOADING_PREDICTION_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOADING_PREDICTION_H_
 

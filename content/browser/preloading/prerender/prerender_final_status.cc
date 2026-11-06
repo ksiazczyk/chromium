@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender final status conversion helpers
+// summary: Converts PrerenderFinalStatus values into PreloadingFailureReason values used for prerender failure reporting.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_final_status.h"
 
 #include "content/public/browser/preloading.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch cookie listener declaration
+// summary: Declares PrefetchCookieListener, a CookieChangeListener that records whether host or domain cookies for a URL changed since the object was created.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_COOKIE_LISTENER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_COOKIE_LISTENER_H_
 

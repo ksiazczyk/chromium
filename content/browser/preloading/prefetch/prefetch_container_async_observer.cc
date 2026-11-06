@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchContainerAsyncObserver implementation
+// summary: Implements the async observer base that dispatches prefetch container observer callbacks via posted tasks, safely skipping notifications for destroyed containers.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_container_async_observer.h"
 
 #include "base/task/sequenced_task_runner.h"

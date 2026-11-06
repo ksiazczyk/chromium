@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Quota directory owners
+summary: Delegates code ownership of the quota directory to the owners file of storage/browser/quota.

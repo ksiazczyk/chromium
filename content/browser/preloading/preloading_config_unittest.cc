@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreloadingConfig unit tests
+// summary: Unit tests covering PreloadingConfig parsing of empty, invalid, and valid JSON configs and the resulting holdback and sampling likelihood behavior.
+// ---
+
 #include "content/browser/preloading/preloading_config.h"
 
 #include "base/test/scoped_feature_list.h"

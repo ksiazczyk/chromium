@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender subframe navigation throttle implementation
+// summary: Implements a navigation throttle that defers or cancels subframe navigations during prerendering, covering downloads and cross-origin subframes lacking the required loading mode header.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_subframe_navigation_throttle.h"
 
 #include "base/memory/ptr_util.h"

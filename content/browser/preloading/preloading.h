@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading predictor definitions
+// summary: Declares content-internal preloading predictors such as SpeculationRules variants and helper functions for preloading type conversion.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOADING_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOADING_H_
 

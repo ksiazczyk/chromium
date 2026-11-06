@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PushMessagingManager unit tests
+// summary: Unit tests for PushMessagingManager using a mock push messaging service, verifying origin security checks including a TOCTOU race with dormant service worker registrations.
+// ---
+
 #include "content/browser/push_messaging/push_messaging_manager.h"
 
 #include <memory>

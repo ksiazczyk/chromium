@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preload activation report utils unit tests
+// summary: Unit tests verifying activation beacon feature state across default-disabled, globally enabled, kill-switched, and Origin Trial token scenarios for prefetch and prerender.
+// ---
+
 #include "content/browser/preloading/preload_activation_report_utils.h"
 
 #include "base/test/scoped_feature_list.h"

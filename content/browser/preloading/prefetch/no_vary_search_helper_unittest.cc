@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-Vary-Search helper unit tests
+// summary: Unit tests for matching prefetched URLs via No-Vary-Search headers and hints across document tokens.
+// ---
+
 #include "content/browser/preloading/prefetch/no_vary_search_helper.h"
 
 #include "content/browser/preloading/prefetch/prefetch_container.h"

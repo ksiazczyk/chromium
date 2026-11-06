@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preload activation report utils header
+// summary: Declares enums for activation beacon feature state, handling status, and non-preload navigation types, plus helpers to evaluate beacon feature state from response headers.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOAD_ACTIVATION_REPORT_UTILS_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOAD_ACTIVATION_REPORT_UTILS_H_
 

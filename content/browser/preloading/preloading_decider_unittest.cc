@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preloading decider unit tests
+// summary: Unit tests for the preloading decider using mock preconnector and prerenderer to verify speculation candidate processing and trigger type handling.
+// ---
+
 #include "content/browser/preloading/preloading_decider.h"
 
 #include <algorithm>

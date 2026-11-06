@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PreconnectManagerImpl
+// summary: Unit tests for the preconnect manager that verify preresolve and preconnect behavior using mocked delegate and network context implementations.
+// ---
+
 #include "content/browser/preloading/preconnect/preconnect_manager_impl.h"
 
 #include <algorithm>

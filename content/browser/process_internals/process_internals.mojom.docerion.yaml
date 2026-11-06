@@ -1,0 +1,4 @@
+# Docerion header of process_internals.mojom.
+type: source
+title: Process internals Mojo interface definitions
+summary: Defines the structs and handler interface the process internals WebUI uses to query process counts, SiteInstance and frame details, and isolated origins from the browser.

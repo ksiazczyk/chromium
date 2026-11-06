@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchContainerObserver interface header
+// summary: Defines the observer interface for PrefetchContainer lifecycle events, documenting callback timing rules and allowed or disallowed operations during notifications.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CONTAINER_OBSERVER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CONTAINER_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchStreamingURLLoader implementation
+// summary: Implements the streaming URL loader that performs the prefetch network request, handling responses, redirects, timeouts, and service worker interception.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_streaming_url_loader.h"
 
 #include "base/check_is_test.h"

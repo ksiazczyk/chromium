@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchServableState and match resolver action declarations
+// summary: Declares the PrefetchServableState enum and PrefetchMatchResolverAction describing whether a prefetch can be served, waited on, or dropped during matching.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_SERVABLE_STATE_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_SERVABLE_STATE_H_
 

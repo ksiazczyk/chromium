@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: process_internals_handler_impl.cc implementation
+// summary: Implements the ProcessInternalsHandler Mojo interface, gathering process counts, isolation modes, isolated origins, and WebContents frame info for the WebUI.
+// ---
+
 #include "content/browser/process_internals/process_internals_handler_impl.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch proxy configurator unit tests
+// summary: Unit tests covering custom proxy config creation, tunnel headers, fallback backoff behavior and proxy availability for the prefetch proxy configurator.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_proxy_configurator.h"
 
 #include "base/run_loop.h"

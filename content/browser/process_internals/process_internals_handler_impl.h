@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process internals handler implementation header
+// summary: Declares the handler class that answers WebUI queries about process counts, isolation modes, isolated origins, and WebContents information.
+// ---
+
 #ifndef CONTENT_BROWSER_PROCESS_INTERNALS_PROCESS_INTERNALS_HANDLER_IMPL_H_
 #define CONTENT_BROWSER_PROCESS_INTERNALS_PROCESS_INTERNALS_HANDLER_IMPL_H_
 

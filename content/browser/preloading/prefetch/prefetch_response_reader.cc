@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchResponseReader implementation
+// summary: Implements storage and serving of prefetched response data, tracking servability, cookie index matching, redirects, and UKM metrics for prefetch responses.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_response_reader.h"
 
 #include "base/byte_size.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Push messaging OWNERS
+summary: Lists the owners responsible for reviewing push messaging changes, also covering related Chrome, Android and Blink push messaging directories.

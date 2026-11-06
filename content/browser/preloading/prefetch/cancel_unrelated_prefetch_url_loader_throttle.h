@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelUnrelatedPrefetchURLLoaderThrottle class declaration
+// summary: Declares a URLLoaderThrottle that cancels unrelated prefetches on main frame navigations to prevent network congestion.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_CANCEL_UNRELATED_PREFETCH_URL_LOADER_THROTTLE_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_CANCEL_UNRELATED_PREFETCH_URL_LOADER_THROTTLE_H_
 

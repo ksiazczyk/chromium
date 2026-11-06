@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderAttributes implementation
+// summary: Implements construction and tracing of PrerenderAttributes, capturing URL, trigger type, initiator details and prerender options.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_attributes.h"
 
 #include <optional>

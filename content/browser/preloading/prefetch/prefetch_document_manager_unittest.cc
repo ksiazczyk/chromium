@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch document manager unit tests
+// summary: Unit tests for PrefetchDocumentManager covering candidate processing, prefetch behavior across origins, and No-Vary-Search parse error reporting.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_document_manager.h"
 
 #include <string>

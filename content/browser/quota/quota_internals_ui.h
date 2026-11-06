@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller and config declarations for the quota internals page
+// summary: Declares the WebUI controller and its WebUIConfig that serve the browser's quota internals debugging page and expose the quota internals Mojo interface.
+// ---
+
 #ifndef CONTENT_BROWSER_QUOTA_QUOTA_INTERNALS_UI_H_
 #define CONTENT_BROWSER_QUOTA_QUOTA_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender navigation throttle declaration
+// summary: Declares PrerenderNavigationThrottle, which applies cross-origin restrictions to prerendering main frame navigations.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NAVIGATION_THROTTLE_H_
 

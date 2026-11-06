@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender commit deferring condition implementation
+// summary: Defers prerender activation navigation commit until the ongoing prerender main frame navigation finishes, recording defer timing metrics.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_commit_deferring_condition.h"
 
 #include "base/memory/ptr_util.h"

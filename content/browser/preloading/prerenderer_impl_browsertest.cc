@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrerendererImpl browser tests
+// summary: Browser tests for PrerendererImpl covering speculation-rules prerendering, Sec-Purpose headers, and prerender host behavior over embedded test servers.
+// ---
+
 #include "content/browser/preloading/prerenderer_impl.h"
 
 #include "base/strings/utf_string_conversions.h"

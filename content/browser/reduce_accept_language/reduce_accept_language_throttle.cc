@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reduce Accept-Language throttle implementation
+// summary: Implements a URL loader throttle that restarts navigations when Content-Language and Avail-Language headers indicate a better language, logging metrics.
+// ---
+
 #include "content/browser/reduce_accept_language/reduce_accept_language_throttle.h"
 
 #include <algorithm>

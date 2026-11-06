@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for process internals Mojo bindings
+summary: Defines the build target that compiles the process internals Mojom interface into Mojo bindings used by the WebUI.

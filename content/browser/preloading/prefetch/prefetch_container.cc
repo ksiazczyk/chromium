@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchContainer implementation
+// summary: Implements the core prefetch container that manages prefetch request state, eligibility checks, serving, redirects, and metrics for the prefetch pipeline.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_container.h"
 
 #include "base/byte_size.h"

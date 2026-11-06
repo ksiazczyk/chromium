@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchService implementation
+// summary: Implements the browser-side service that checks prefetch eligibility, performs prefetch network requests, and serves prefetched resources to navigations.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_service.h"
 
 #include <optional>

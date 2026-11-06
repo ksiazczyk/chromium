@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreloadingAttemptImpl unit tests
+// summary: Unit tests verifying that PreloadingAttemptImpl records UMA triggering outcome histograms and UKM entries correctly across predictors and preloading types.
+// ---
+
 #include "content/browser/preloading/preloading_attempt_impl.h"
 
 #include "base/strings/stringprintf.h"

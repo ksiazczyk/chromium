@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Speculation rules directory owners
+summary: Points to the Blink speculation rules OWNERS file to define code ownership for this directory.

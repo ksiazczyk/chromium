@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReservedPrerenderHostInfo implementation
+// summary: Implements the ReservedPrerenderHostInfo constructor, storing a reserved prerender host's ID, trigger type, histogram suffix and reuse flag.
+// ---
+
 #include "content/browser/preloading/prerender/reserved_prerender_host_info.h"
 
 #include "base/check.h"

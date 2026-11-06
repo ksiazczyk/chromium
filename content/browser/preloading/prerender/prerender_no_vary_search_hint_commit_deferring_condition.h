@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender No-Vary-Search hint commit deferring condition declaration
+// summary: Declares a commit deferring condition that blocks prerender activation until response headers arrive, with a timeout timer and test hooks for timing control.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NO_VARY_SEARCH_HINT_COMMIT_DEFERRING_CONDITION_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_NO_VARY_SEARCH_HINT_COMMIT_DEFERRING_CONDITION_H_
 

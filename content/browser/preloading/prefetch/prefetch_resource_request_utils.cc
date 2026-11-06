@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch resource request header utilities
+// summary: Builds request headers and network ResourceRequest objects for prefetches, including traffic annotation, client hints, variations headers, and redirect handling.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_resource_request_utils.h"
 
 #include "base/trace_event/trace_event.h"

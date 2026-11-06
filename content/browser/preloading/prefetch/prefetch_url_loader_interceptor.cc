@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchURLLoaderInterceptor implementation
+// summary: Implements the navigation loader interceptor that matches navigations against prefetched resources and serves them, including service worker state checks and redirect chain metrics.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_url_loader_interceptor.h"
 
 #include "base/check_is_test.h"

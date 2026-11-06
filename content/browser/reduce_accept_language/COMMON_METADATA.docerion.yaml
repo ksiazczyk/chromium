@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the reduce_accept_language directory
+summary: Declares the issue tracker components (Privacy>Fingerprinting and Buganizer 1456351) used for this directory.

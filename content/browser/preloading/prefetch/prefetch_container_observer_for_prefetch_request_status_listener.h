@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch request status listener adapter declaration
+// summary: Declares PrefetchContainerObserverForPrefetchRequestStatusListener, which wraps a PrefetchRequestStatusListener as a PrefetchContainerObserver.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CONTAINER_OBSERVER_FOR_PREFETCH_REQUEST_STATUS_LISTENER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CONTAINER_OBSERVER_FOR_PREFETCH_REQUEST_STATUS_LISTENER_H_
 

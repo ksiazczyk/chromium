@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushMessagingContext implementation
+// summary: Implements PushMessagingContext, which observes service worker registration deletions and storage wipes and notifies the browser context's push messaging service.
+// ---
+
 #include "content/browser/push_messaging/push_messaging_context.h"
 
 #include "content/browser/service_worker/service_worker_context_wrapper.h"

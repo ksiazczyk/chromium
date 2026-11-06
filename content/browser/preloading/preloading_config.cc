@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadingConfig implementation
+// summary: Implements parsing of the preloading_config field trial JSON that sets holdback and UKM sampling likelihood per preloading type and predictor combination.
+// ---
+
 #include "content/browser/preloading/preloading_config.h"
 
 #include <string_view>

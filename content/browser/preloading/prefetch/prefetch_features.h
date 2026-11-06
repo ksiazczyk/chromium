@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch feature flag declarations
+// summary: Declares prefetch feature flags and field trial parameters, including client hints cross-site behavior, scheduler testing limits, and burst query parameters.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_FEATURES_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_FEATURES_H_
 

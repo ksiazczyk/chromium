@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchIsolatedNetworkContext implementation
+// summary: Implements the wrapper around an isolated network context for prefetches, exposing a URL loader factory, cookie manager, and idle connection closing.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_isolated_network_context.h"
 
 #include "base/functional/callback_helpers.h"

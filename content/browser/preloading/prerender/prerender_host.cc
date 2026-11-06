@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderHost implementation
+// summary: Implements PrerenderHost, which creates and manages the prerendered frame tree, starts prerendering, and handles activation, matching, and destruction of hosts.
+// ---
+
 #include "content/browser/preloading/prerender/prerender_host.h"
 
 #include <algorithm>

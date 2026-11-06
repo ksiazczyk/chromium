@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuotaManagerHost implementation
+// summary: Implements the Mojo QuotaManagerHost that forwards storage usage and quota queries for a single storage key to the QuotaManager.
+// ---
+
 #include "content/browser/quota/quota_manager_host.h"
 
 #include <stdint.h>

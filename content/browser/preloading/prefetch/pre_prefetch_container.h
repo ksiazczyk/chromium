@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrePrefetchContainer class declaration
+// summary: Declares the pre-prefetch request container, its thread and lifetime model, and UI-thread resource handoff accessors.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PRE_PREFETCH_CONTAINER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PRE_PREFETCH_CONTAINER_H_
 

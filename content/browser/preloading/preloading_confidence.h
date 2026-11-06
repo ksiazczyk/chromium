@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreloadingConfidence type definition
+// summary: Defines a PreloadingConfidence strong alias over int that validates a predictor's preloading prediction confidence stays within the 0 to 100 range.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRELOADING_CONFIDENCE_H_
 #define CONTENT_BROWSER_PRELOADING_PRELOADING_CONFIDENCE_H_
 

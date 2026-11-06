@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchCanaryChecker class declaration
+// summary: Declares the canary checker that probes a host via DNS or TLS so ISPs can filter prefetched resources, including retry policy, cache entry, and check type definitions.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CANARY_CHECKER_H_
 #define CONTENT_BROWSER_PRELOADING_PREFETCH_PREFETCH_CANARY_CHECKER_H_
 

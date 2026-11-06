@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preloading helper implementations
+// summary: Implements helpers that convert preloading types and trigger types to predictor names used for logging.
+// ---
+
 #include "content/browser/preloading/preloading.h"
 
 #include <string_view>

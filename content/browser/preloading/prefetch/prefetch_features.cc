@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch feature flag definitions
+// summary: Defines base::Feature flags and parameters controlling prefetch behavior such as client hints, scheduler limits, contamination mitigation, and service worker support.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_features.h"
 
 #include "base/feature_list.h"

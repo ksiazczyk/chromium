@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Push messaging common directory metadata
+summary: Chromium metadata setting the Blink>PushAPI issue tracker component, platform-capabilities team email and Buganizer component for the push messaging directory.

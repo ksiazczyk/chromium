@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI controller implementation for the quota internals page
+// summary: Implements the WebUI controller for the quota internals page, registering its data source, content security policies, and Mojo binding to the quota manager's internals handler.
+// ---
+
 
 #include "content/browser/quota/quota_internals_ui.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Quota directory metadata
+summary: Directory metadata pointing to the common storage quota metadata mixin and the storage-dev@chromium.org team for the quota directory.

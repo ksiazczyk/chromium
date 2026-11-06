@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchDataPipeTee implementation
+// summary: Implements PrefetchDataPipeTee, which duplicates a prefetch data pipe into cloned consumer pipes with buffering and size limits for serving.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_data_pipe_tee.h"
 
 #include "base/containers/span.h"

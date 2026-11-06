@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the process internals directory
+summary: Lists the reviewers who own changes to the process internals directory, with Mojom files requiring additional security review approval.

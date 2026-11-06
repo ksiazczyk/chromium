@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch proxy configurator implementation
+// summary: Implements configuration of the IP-masking CONNECT tunnel proxy used for prefetches, including custom proxy config updates, tunnel headers and connection error handling.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_proxy_configurator.h"
 
 #include "base/barrier_closure.h"

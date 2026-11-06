@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchContainer unit tests
+// summary: Unit tests for PrefetchContainer covering prefetch creation, lifecycle states, eligibility, and UKM metrics using speculation rules prefetch requests.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_container.h"
 
 #include <algorithm>

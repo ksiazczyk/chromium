@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefetch feature parameter accessors
+// summary: Implements field trial and command line parameter accessors controlling prefetch behavior such as decoy requests, timeouts, body length limits, spare renderers and canary checks.
+// ---
+
 #include "content/browser/preloading/prefetch/prefetch_params.h"
 
 #include <string>

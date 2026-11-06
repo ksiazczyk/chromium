@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prerender feature flags declarations
+// summary: Declares Prerender2 feature flags and field trial parameters covering fallback prefetch, No-Vary-Search timeouts, compositor warm-up, prerender-until-script, and initiator process reuse.
+// ---
+
 #ifndef CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_FEATURES_H_
 #define CONTENT_BROWSER_PRELOADING_PRERENDER_PRERENDER_FEATURES_H_
 

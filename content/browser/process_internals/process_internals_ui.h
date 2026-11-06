@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process internals WebUI controller declarations
+// summary: Declares the WebUI controller and its configuration class that register and serve the process internals page and bind its handler interface.
+// ---
+
 #ifndef CONTENT_BROWSER_PROCESS_INTERNALS_PROCESS_INTERNALS_UI_H_
 #define CONTENT_BROWSER_PROCESS_INTERNALS_PROCESS_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reduce Accept-Language throttle class declaration
+// summary: Declares the ReduceAcceptLanguageThrottle class, a blink::URLLoaderThrottle that handles language negotiation restarts once per origin.
+// ---
+
 #ifndef CONTENT_BROWSER_REDUCE_ACCEPT_LANGUAGE_REDUCE_ACCEPT_LANGUAGE_THROTTLE_H_
 #define CONTENT_BROWSER_REDUCE_ACCEPT_LANGUAGE_REDUCE_ACCEPT_LANGUAGE_THROTTLE_H_
 
