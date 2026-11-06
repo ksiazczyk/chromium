@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PostMessage round-trip test script
+// summary: Sends messages to the MimeHandlerView plugin, verifies they are echoed back, and instructs the extension to report success or failure.
+// ---
+
 const messages = ['hey', 100, 25.0];
 let messagesSent = 0;
 let messagesReceived = 0;

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the connect_crash messaging test extension
+summary: Manifest for the connect_crash test extension that registers test.js as the background script and page.js as a content script to verify port disconnection when a tab crashes.

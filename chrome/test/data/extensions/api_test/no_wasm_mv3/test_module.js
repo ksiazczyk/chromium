@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests asserting WebAssembly instantiation is blocked
+// summary: Runs tests that fetch and instantiate a minimal Wasm module and assert both attempts fail under the default MV3 CSP.
+// ---
+
 export async function runTests() {
   chrome.test.runTests([
     // Attempts to fetch and instantiate a simple Wasm module.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the connect_nobackground test extension
+summary: Manifest version 2 extension manifest that injects contentscript.js into matching pages to test content script messaging without a background page.

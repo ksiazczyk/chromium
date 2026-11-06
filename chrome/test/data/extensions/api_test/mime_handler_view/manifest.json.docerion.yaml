@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Test MIMEHandlerView extension manifest
+summary: Manifest for the Test MIMEHandlerView extension that registers text/csv handling, a background page and tabs and windows permissions.

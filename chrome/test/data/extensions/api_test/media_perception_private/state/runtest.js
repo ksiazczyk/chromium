@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: mediaPerceptionPrivate get and set state test script
+// summary: Runs chrome.test cases verifying getState and setState behavior for mediaPerceptionPrivate, including valid state transitions and error cases for invalid parameters.
+// ---
+
 const whiteboardValues = {
   topLeft: {
     x: 0.001,

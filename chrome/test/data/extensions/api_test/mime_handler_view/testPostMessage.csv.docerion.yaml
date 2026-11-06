@@ -1,0 +1,4 @@
+# Docerion header of testPostMessage.csv.
+type: test
+title: PostMessage test CSV data
+summary: CSV payload served to the MimeHandlerView postMessage test; its contents are explicitly not important.

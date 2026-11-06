@@ -1,0 +1,4 @@
+# Docerion header of test_page.html.
+type: test
+title: Shared MimeHandlerView test page
+summary: Generic test page that optionally navigates to a URL from the query string or registers a beforeunload handler for various MimeHandlerView tests.

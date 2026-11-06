@@ -1,0 +1,4 @@
+# Docerion header of testBackgroundPage.csv.mock-http-headers.
+type: test
+title: Mock HTTP headers for background page test
+summary: Mock HTTP response headers declaring a 200 status and text/csv content type for the background page test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the networkingPrivate API test extension
+summary: Extension manifest declaring the networkingPrivate permission for the API interface test extension.

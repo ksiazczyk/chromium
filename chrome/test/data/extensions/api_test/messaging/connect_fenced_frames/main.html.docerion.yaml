@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main page embedding a fenced frame
+summary: Page that creates a FencedFrameConfig and loads fenced_frame.html inside a fencedframe element.

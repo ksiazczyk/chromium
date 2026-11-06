@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler view API test suite
+// summary: JavaScript test suite for the mimeHandlerPrivate API covering stream details, iframes, postMessage, fullscreen and beforeunload scenarios.
+// ---
+
 'use strict';
 
 // Tests don't start running until an async call to

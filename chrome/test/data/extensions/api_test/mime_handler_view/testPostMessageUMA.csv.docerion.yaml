@@ -1,0 +1,4 @@
+# Docerion header of testPostMessageUMA.csv.
+type: test
+title: PostMessage UMA test CSV fixture
+summary: CSV fixture served to the MimeHandlerView extension during the postMessage UMA API test.

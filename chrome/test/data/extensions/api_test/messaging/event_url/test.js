@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message verification script for the event URL test
+// summary: Collects messages received via chrome.test and verifies that the expected three messages arrive before reporting pass or fail.
+// ---
+
 const messages = [];
 
 function messageReceived(data) {

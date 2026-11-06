@@ -1,0 +1,4 @@
+# Docerion header of cross_origin.html.
+type: test
+title: Cross-origin iframe target for MIME handler isolation tests
+summary: Serves as a cross-origin iframe target page used by MIME handler process isolation tests.

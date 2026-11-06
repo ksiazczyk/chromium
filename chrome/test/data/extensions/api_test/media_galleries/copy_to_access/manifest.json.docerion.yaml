@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for mediaGalleries copyTo access test
+summary: Chrome extension test manifest declaring the mediaGalleries read, delete, and copyTo permissions used by the copyTo access API test app.

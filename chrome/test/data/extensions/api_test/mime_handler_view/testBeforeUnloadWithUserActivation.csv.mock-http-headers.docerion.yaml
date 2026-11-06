@@ -1,0 +1,4 @@
+# Docerion header of testBeforeUnloadWithUserActivation.csv.mock-http-headers.
+type: test
+title: BeforeUnload with user activation test mock HTTP headers
+summary: Mock HTTP response headers that serve the beforeunload with-user-activation CSV as text/csv for the MimeHandlerView API test.

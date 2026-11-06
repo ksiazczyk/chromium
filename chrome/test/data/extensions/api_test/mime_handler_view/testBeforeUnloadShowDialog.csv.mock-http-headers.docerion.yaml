@@ -1,0 +1,4 @@
+# Docerion header of testBeforeUnloadShowDialog.csv.mock-http-headers.
+type: test
+title: BeforeUnload show dialog test mock HTTP headers
+summary: Mock HTTP response headers that serve the beforeunload show-dialog CSV as text/csv for the MimeHandlerView API test.

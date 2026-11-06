@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Externally connectable messaging test assertions
+// summary: Test script that clobbers JavaScript builtins and asserts externally_connectable web messaging behavior for the extension API test.
+// ---
+
 (function() {
 
 // We are going to kill all of the builtins, so hold onto the ones we need.

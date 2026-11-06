@@ -1,0 +1,4 @@
+# Docerion header of testFullscreen.csv.
+type: test
+title: Fullscreen MIME handler view test CSV fixture
+summary: CSV payload served to the MimeHandlerView extension API test covering a fullscreen MIME handler view.

@@ -1,0 +1,4 @@
+# Docerion header of simple2.html.
+type: test
+title: Native bindings simple2 test page
+summary: Minimal HTML page displaying Simple 2, serving as fixture data for the native bindings extension API tests.

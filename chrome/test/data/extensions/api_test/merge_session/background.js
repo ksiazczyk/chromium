@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merge session XHR throttle test background script
+// summary: Background script of a test extension that sends Google and non-Google XHR requests and verifies they are delayed by the merge session throttle.
+// ---
+
 let googleResponseReceived = false;
 let googleRequestSent = false;
 let nonGoogleResponseReceived = false;

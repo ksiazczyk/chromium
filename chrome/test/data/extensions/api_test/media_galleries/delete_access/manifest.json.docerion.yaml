@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the mediaGalleries delete access test app
+summary: Manifest defining the test app for chrome.mediaGalleries.delete_access, requesting read, delete, and allAutoDetected media gallery permissions.

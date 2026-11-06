@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.mediaGalleries toUrl API test app
+summary: Extension manifest declaring the test app's background scripts and the mediaGalleries read permissions used by the toUrl API test.

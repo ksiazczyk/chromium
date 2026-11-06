@@ -6,6 +6,12 @@
 // can invoke API methods and listen to API events without encountering
 // API access problems.
 
+// ---docerion
+// type: test
+// title: Networking ONC alias permission API test
+// summary: Browser test verifying that apps with only the networking.onc alias permission can call API methods and listen to events while networkingPrivate-only methods are denied.
+// ---
+
 chrome.test.runTests([
   function onlyAliasBindingsPresent() {
     chrome.test.assertTrue(!!chrome.networking);

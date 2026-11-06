@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script verifying port disconnect after tab crash
+// summary: Background test script that listens for connections, signals readiness to crash the tab, and asserts the port disconnects and the response callback reports a closed message channel.
+// ---
+
 chrome.runtime.onConnect.addListener(function(port) {
   let isReadyToCrash = false;
   const succeed1 = chrome.test.callbackAdded();

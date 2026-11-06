@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries getMetadata browser test
+// summary: Runs chrome.test cases that verify MIME type, tags, raw tags, and attached images returned by chrome.mediaGalleries.getMetadata for JPEG, MP3, and invalid files.
+// ---
+
 const mediaGalleries = chrome.mediaGalleries;
 
 function RunMetadataTest(filename, callOptions, verifyMetadataFunction) {

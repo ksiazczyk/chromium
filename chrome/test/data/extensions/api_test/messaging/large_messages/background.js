@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for large message test
+// summary: Extension background script that attempts to send a 128 MiB runtime message and passes the test when a 64 MiB size-limit error is thrown.
+// ---
+
 try {
   // Passing super-large messages should be prevented by the renderer.
   const tooLarge = 1024 * 1024 * 128;

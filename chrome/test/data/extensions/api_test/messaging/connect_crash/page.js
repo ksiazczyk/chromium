@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script asserting no disconnect when the tab crashes
+// summary: Content script that opens a runtime port, fails the test if onDisconnect fires, and keeps the message channel open after receiving the 'Rob says hi' message.
+// ---
+
 const port = chrome.runtime.connect();
 port.onDisconnect.addListener(function() {
   chrome.test.fail(

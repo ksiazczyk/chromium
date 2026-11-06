@@ -1,0 +1,4 @@
+# Docerion header of testNonAsciiHeaders.csv.
+type: test
+title: Non-ASCII headers test CSV data
+summary: CSV payload served to the MimeHandlerView test that exercises non-ASCII HTTP headers.

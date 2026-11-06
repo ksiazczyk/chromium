@@ -1,0 +1,4 @@
+# Docerion header of testEmbedded.csv.
+type: test
+title: Embedded MIME handler view test CSV fixture
+summary: CSV payload served to the MimeHandlerView extension API test covering an embedded MIME handler view.

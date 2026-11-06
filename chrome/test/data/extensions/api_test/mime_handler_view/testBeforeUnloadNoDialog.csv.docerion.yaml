@@ -1,0 +1,4 @@
+# Docerion header of testBeforeUnloadNoDialog.csv.
+type: test
+title: BeforeUnload no dialog test CSV fixture
+summary: CSV payload served to the MimeHandlerView extension API test covering beforeunload without a dialog.

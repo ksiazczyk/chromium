@@ -1,0 +1,4 @@
+# Docerion header of testBeforeUnloadWithUserActivation.csv.
+type: test
+title: BeforeUnload with user activation test CSV fixture
+summary: CSV payload for the MimeHandlerView API test covering beforeunload with user activation; its content is not relevant to the test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame content script for messaging connect tests
+// summary: Content script injected into matching test frames that answers connect messages and reports its frame URL to the background script.
+// ---
+
 chrome.runtime.onConnect.addListener(function(port) {
   port.onMessage.addListener(function(msg) {
     if (msg.testSendMessageToFrame) {

@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Modules test background page
+summary: HTML background page for the modules extension test that loads background.js as an ES module.

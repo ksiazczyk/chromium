@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the no-Wasm MV3 extension test
+summary: Extension manifest declaring the MV3 test extension used to verify WebAssembly is not allowed without an explicit CSP.

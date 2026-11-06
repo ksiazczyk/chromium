@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Event URL messaging test extension manifest
+summary: Manifest for the event_url extension test, declaring the host permission and background page used to test messages that require permissions.

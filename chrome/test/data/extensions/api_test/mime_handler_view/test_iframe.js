@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Iframe print test script
+// summary: Prints the embedded iframe once its content has loaded, exercising printing of MimeHandlerView content inside an iframe.
+// ---
+
 const iframe = document.getElementById('iframe');
 
 function printIframe() {

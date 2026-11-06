@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the XHR merge session throttle test extension
+summary: Manifest version 2 extension manifest declaring the background script and host permissions used by the merge session XHR throttle tests.

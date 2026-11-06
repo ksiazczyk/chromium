@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Native messaging launch test extension manifest
+summary: Manifest for the test extension used in the native messaging launch API test, declaring the fixed key, native messaging permissions, and connectable hosts.

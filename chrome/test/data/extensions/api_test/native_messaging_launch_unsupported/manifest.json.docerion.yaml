@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Native messaging test extension manifest
+summary: Manifest for the test extension, pinning its extension ID via a key and declaring native messaging permissions and connectable host names.

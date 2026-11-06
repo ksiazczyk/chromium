@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries gallery watch API test script
+// summary: JavaScript test helper that exercises addGalleryWatch, removeGalleryWatch and onGalleryChanged, sending status messages back to the API test harness.
+// ---
+
 let galleries;
 const INVALID_GALLERY_ID = '11000';
 

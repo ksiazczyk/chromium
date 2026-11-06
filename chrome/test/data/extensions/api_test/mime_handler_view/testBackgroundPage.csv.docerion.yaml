@@ -1,0 +1,4 @@
+# Docerion header of testBackgroundPage.csv.
+type: test
+title: Background page test CSV content
+summary: CSV payload served as stream content for the background page MIME handler test.

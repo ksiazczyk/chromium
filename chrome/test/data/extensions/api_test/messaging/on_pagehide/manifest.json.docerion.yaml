@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the pagehide messaging test extension
+summary: Extension manifest declaring the background and content scripts used by the send-message-on-pagehide API test.

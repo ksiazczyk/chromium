@@ -5,6 +5,12 @@
 // Most of this file is copy-pasted from /api_test/native_messaging/lazy/test.js
 // and then adapted to use MV3 and test promises.
 
+// ---docerion
+// type: test
+// title: Native messaging sendNativeMessage tests for an MV3 service worker
+// summary: Service worker test script that exercises chrome.runtime.sendNativeMessage with callbacks and promises, covering invalid hosts, missing binaries, echo responses and oversized messages.
+// ---
+
 const extensionUrl = chrome.runtime.getURL('/');
 
 chrome.test.getConfig(async function(config) {

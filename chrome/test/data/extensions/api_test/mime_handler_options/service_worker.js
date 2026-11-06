@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MIME handler options API test service worker
+// summary: Runs a browser test verifying that setMimeHandlerOptions updates only the members passed in the call and leaves the others unchanged.
+// ---
+
 const kPdfMimeType = 'application/pdf';
 
 function getOptions() {

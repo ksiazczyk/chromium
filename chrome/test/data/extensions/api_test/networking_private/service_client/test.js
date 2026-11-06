@@ -6,6 +6,12 @@
 // Note: ServiceClient currently only implements WiFi networks. See
 // networking_private_service_client_apitest.cc for more info.
 
+// ---docerion
+// type: test
+// title: Networking private API ServiceClient tests
+// summary: JavaScript tests for chrome.networkingPrivate methods covering connect, disconnect, and network creation against the ServiceClient implementation.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 const callbackFail = chrome.test.callbackFail;
 const assertTrue = chrome.test.assertTrue;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging connect test script
+// summary: Background test script that connects to a native messaging host and verifies sender identity, message echoing, launch arguments, and host disconnect handling.
+// ---
+
 const APP_NAME = 'com.google.chrome.test.inbound_native_echo';
 
 chrome.runtime.onConnectNative.addListener(port => {

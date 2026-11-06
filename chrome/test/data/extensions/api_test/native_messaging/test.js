@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging API test script
+// summary: Browser test script that exercises chrome.runtime.sendNativeMessage, covering invalid and missing hosts, echo responses, oversized and invalid JSON messages on desktop and Android.
+// ---
+
 const inServiceWorker = 'ServiceWorkerGlobalScope' in self;
 const extensionUrl = chrome.runtime.getURL('/');
 

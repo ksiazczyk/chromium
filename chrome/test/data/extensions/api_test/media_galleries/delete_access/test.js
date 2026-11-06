@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test deleting a file from media galleries
+// summary: Browser test that lists media galleries, reads their directory entries, and deletes a file entry to verify delete access behavior.
+// ---
+
 const mediaGalleries = chrome.mediaGalleries;
 
 let galleries;

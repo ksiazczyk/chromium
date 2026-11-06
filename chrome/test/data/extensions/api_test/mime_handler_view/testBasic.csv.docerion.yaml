@@ -1,0 +1,4 @@
+# Docerion header of testBasic.csv.
+type: test
+title: Basic test CSV content
+summary: CSV payload served as stream content for the basic MIME handler test.

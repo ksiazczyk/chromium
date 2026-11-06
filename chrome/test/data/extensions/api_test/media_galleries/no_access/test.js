@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries no-access browser test
+// summary: Runs chrome.test cases asserting that media gallery file systems cannot be listed or copied when access is not granted.
+// ---
+
 const mediaGalleries = chrome.mediaGalleries;
 
 let galleries;

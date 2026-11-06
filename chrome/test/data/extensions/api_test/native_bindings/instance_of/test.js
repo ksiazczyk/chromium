@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Instanceof fileSystem API test
+// summary: Runs chrome.test checks that a chosen file entry has the expected name and that getDisplayPath returns a path containing native_bindings and text.txt.
+// ---
+
 chrome.test.runTests([
   function getDisplayPath() {
     chrome.fileSystem.chooseEntry(function(entry) {

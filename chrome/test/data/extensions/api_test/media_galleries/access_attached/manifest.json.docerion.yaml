@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Media galleries access attached test manifest
+summary: Manifest for the chrome.mediaGalleries.access_attached test app, granting mediaGalleries read permissions and loading test.js as the background script.

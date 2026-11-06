@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for large messages test extension
+summary: Manifest version 2 extension manifest that registers background.js for the large messages API test.

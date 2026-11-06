@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for unauthorized native messaging Android test
+summary: Chrome extension manifest (manifest version 3) declaring the nativeMessaging permission and a background service worker for the unauthorized native messaging API test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script for interstitial messaging API test
+// summary: Content script injected into certificate-error interstitial pages that connects runtime ports and runs messaging tests commanded by the background page.
+// ---
+
 const testPort = chrome.runtime.connect({
   name: 'port from interstitial',
 });

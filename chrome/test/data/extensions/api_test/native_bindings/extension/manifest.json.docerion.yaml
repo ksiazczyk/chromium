@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the native bindings test extension
+summary: Manifest version 2 definition of the Simple e2e test extension with permissions, background page and content script entries.

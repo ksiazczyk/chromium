@@ -1,0 +1,4 @@
+# Docerion header of testNonAsciiHeaders.csv.mock-http-headers.
+type: test
+title: Mock HTTP headers for testNonAsciiHeaders.csv
+summary: Mock HTTP response headers containing non-ASCII characters, served with testNonAsciiHeaders.csv to test header handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for extension messaging with fenced frames
+// summary: Test script that verifies sendMessage from a fenced frame, postMessage over a connected port, and disconnect events between the tab and the extension.
+// ---
+
 const listenOnce = chrome.test.listenOnce;
 const listenForever = chrome.test.listenForever;
 

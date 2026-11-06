@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media galleries toUrl image load test script
+// summary: Tests that images load only from valid media gallery filesystem URLs by attempting loads from bad mount points and the correct URL after granting read access.
+// ---
+
 function checkResultFactory(expected) {
   return function() {
     if (expected) {

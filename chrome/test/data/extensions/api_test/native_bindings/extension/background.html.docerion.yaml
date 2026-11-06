@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Native bindings test extension background page
+summary: HTML page that loads the background test script for the native bindings API test extension.

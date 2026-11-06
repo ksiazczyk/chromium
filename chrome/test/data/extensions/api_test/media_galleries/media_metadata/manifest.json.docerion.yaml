@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Media galleries metadata test extension manifest
+summary: Manifest for the chrome.mediaGalleries.getMetadata test app, loading test.js in the background and requesting mediaGalleries read permissions.

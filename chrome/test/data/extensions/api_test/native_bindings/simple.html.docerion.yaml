@@ -1,0 +1,4 @@
+# Docerion header of simple.html.
+type: test
+title: Native bindings test page with original title
+summary: Minimal HTML test page titled Original Title used as fixture data for the native bindings extension API tests.

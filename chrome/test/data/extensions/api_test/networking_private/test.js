@@ -6,6 +6,12 @@
 // that callbacks are correctly invoked, expected parameters are correct,
 // and failures are detected.
 
+// ---docerion
+// type: test
+// title: chrome.networkingPrivate interface tests
+// summary: Runs interface tests for chrome.networkingPrivate methods, verifying that callbacks are invoked with correct parameters and failures are detected.
+// ---
+
 const callbackPass = chrome.test.callbackPass;
 
 const FAILURE = 'Failure';

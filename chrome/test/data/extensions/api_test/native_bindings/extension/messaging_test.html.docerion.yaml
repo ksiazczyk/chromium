@@ -1,0 +1,4 @@
+# Docerion header of messaging_test.html.
+type: test
+title: Messaging test target page
+summary: Empty HTML page opened in a tab as the target for the extension messaging test.

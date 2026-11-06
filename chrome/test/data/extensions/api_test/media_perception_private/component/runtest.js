@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for mediaPerceptionPrivate setAnalyticsComponent
+// summary: Runs browser tests that set the analytics component to LIGHT and FULL, verifying install success, failure codes, and behavior while a process is running.
+// ---
+
 function setAnalyticsComponentLight() {
   chrome.mediaPerceptionPrivate.setAnalyticsComponent(
       {

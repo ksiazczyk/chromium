@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background test script for messaging connect tests
+// summary: Background script that runs the browser test suite verifying message senders, ports, and connect behavior across tabs and frames.
+// ---
+
 const listenOnce = chrome.test.listenOnce;
 const listenForever = chrome.test.listenForever;
 

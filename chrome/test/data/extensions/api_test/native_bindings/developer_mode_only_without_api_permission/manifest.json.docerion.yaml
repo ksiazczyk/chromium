@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for developer_mode_only without API permission
+summary: Manifest for a test extension that exercises the developer_mode_only native bindings feature without any API access permission.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the MIME Handler Isolation Test extension
+summary: Extension manifest registering viewer.html as the application/pdf handler and exposing helper.html as a web-accessible resource.
