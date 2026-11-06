@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward transition animator implementation
+// summary: Implements the per-gesture animator that updates the transition UI, drives spring physics and input prediction, and records navigation transition metrics.
+// ---
+
 #include "content/browser/navigation_transitions/back_forward_transition_animator.h"
 
 #include "base/debug/crash_logging.h"

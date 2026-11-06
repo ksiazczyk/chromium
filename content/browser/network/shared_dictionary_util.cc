@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary cache size utility
+// summary: Calculates the shared dictionary cache maximum size from system memory or disk space and applies it to the storage partition's network context.
+// ---
+
 #include "content/browser/network/shared_dictionary_util.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the payments browser directory
+summary: Lists the code owners for the payments browser directory, delegating to the components/payments owners plus zino@chromium.org.

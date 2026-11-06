@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Physics model for navigation transitions
+// summary: Implements the spring-based physics model that converts finger drag motion into animation positions and velocities for gesture-driven navigation transitions.
+// ---
+
 #include "content/browser/navigation_transitions/physics_model.h"
 
 #include <algorithm>

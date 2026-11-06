@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for content/browser/network
+summary: Lists code owners for the directory by referencing the net and services/network OWNERS files, with per-file rules for Trust Tokens and network quality.

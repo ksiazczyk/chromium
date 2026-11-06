@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux address map browser test
+// summary: Browser test that exercises the Linux network address map by mocking netlink messages and verifying address and interface tracking in the network service.
+// ---
+
 #include "net/base/address_map_linux.h"
 
 #include <linux/if.h>

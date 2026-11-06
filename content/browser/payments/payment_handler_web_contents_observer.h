@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler WebContents observer header
+// summary: Declares PaymentHandlerWebContentsObserver, which watches a payment handler's WebContents for renderer crashes and unresponsiveness.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_PAYMENT_HANDLER_WEB_CONTENTS_OBSERVER_H_
 #define CONTENT_BROWSER_PAYMENTS_PAYMENT_HANDLER_WEB_CONTENTS_OBSERVER_H_
 

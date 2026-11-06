@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the payments browser code
+summary: GN build configuration for the payments browser directory, defining the payment app proto library target.

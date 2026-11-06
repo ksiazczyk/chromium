@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histograms internals WebUI declarations
+// summary: Declares the WebUI controller class and its configuration for the browser's histograms internals page.
+// ---
+
 #ifndef CONTENT_BROWSER_METRICS_HISTOGRAMS_INTERNALS_UI_H_
 #define CONTENT_BROWSER_METRICS_HISTOGRAMS_INTERNALS_UI_H_
 

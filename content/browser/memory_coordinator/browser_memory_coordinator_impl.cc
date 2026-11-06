@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser memory coordinator implementation
+// summary: Implements the BrowserMemoryCoordinatorImpl singleton that binds child registry hosts, manages diagnostic observers, and initializes feature-gated policies.
+// ---
+
 #include "content/browser/memory_coordinator/browser_memory_coordinator_impl.h"
 
 #include <memory>

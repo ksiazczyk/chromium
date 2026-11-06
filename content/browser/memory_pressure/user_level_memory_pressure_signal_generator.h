@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User level memory pressure signal generator class declaration
+// summary: Declares the UserLevelMemoryPressureSignalGenerator class, a system memory pressure evaluator that generates extra memory pressure signals when memory usage exceeds a threshold on supported Android devices.
+// ---
+
 #ifndef CONTENT_BROWSER_MEMORY_PRESSURE_USER_LEVEL_MEMORY_PRESSURE_SIGNAL_GENERATOR_H_
 #define CONTENT_BROWSER_MEMORY_PRESSURE_USER_LEVEL_MEMORY_PRESSURE_SIGNAL_GENERATOR_H_
 

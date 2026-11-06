@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionServiceImpl class declaration
+// summary: Declares the Mojo PermissionService implementation that handles permission requests, queries and observers on behalf of a PermissionServiceContext.
+// ---
+
 #ifndef CONTENT_BROWSER_PERMISSIONS_PERMISSION_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_PERMISSIONS_PERMISSION_SERVICE_IMPL_H_
 

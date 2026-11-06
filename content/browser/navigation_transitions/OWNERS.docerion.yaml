@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for navigation transition reviews
+summary: Lists the reviewers responsible for reviewing navigation transition changes in this directory, while tricky navigation interactions use parent directory owners.

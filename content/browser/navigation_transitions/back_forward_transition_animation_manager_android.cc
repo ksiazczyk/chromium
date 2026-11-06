@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android back-forward transition animation manager implementation
+// summary: Implements the Android manager that receives back/forward gesture events and drives history navigation transition animations through a per-gesture animator.
+// ---
+
 #include "content/browser/navigation_transitions/back_forward_transition_animation_manager_android.h"
 
 #include "content/browser/navigation_transitions/back_forward_transition_animator.h"

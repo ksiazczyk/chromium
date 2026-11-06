@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for permissions unit tests
+summary: Allows unit tests in this directory to include headers from components/permissions/test via a specific include rule.

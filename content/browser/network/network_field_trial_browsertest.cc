@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service field trial browser test
+// summary: Browser test checking that a field trial activated in the out-of-process network service is reported back to the browser process.
+// ---
+
 #include "base/metrics/field_trial.h"
 #include "base/run_loop.h"
 #include "base/test/mock_entropy_provider.h"

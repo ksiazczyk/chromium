@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child memory consumer registry host implementation
+// summary: Implements the Mojo host that registers child-process memory consumer groups with the browser controller and cleans up state on process exit.
+// ---
+
 #include "content/browser/memory_coordinator/child_memory_consumer_registry_host.h"
 
 #include <memory>

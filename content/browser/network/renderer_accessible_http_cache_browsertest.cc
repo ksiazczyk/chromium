@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer-accessible HTTP cache browser tests
+// summary: Browser tests covering renderer access to the shared HTTP cache, including cross-origin script responses with CORS and Cross-Origin-Resource-Policy headers.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

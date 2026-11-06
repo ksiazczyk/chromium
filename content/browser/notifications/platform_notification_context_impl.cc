@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform notification context implementation
+// summary: Implements the Web Notification storage context, managing the notification database, owned notification services, stale notification cleanup and permissions.
+// ---
+
 #include "content/browser/notifications/platform_notification_context_impl.h"
 
 #include <set>

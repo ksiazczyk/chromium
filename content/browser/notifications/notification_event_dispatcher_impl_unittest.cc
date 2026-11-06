@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification event dispatcher unit tests
+// summary: Unit tests for NotificationEventDispatcherImpl verifying that show, click and close events are dispatched to registered non-persistent notification listeners.
+// ---
+
 #include "content/browser/notifications/notification_event_dispatcher_impl.h"
 
 #include <stdint.h>

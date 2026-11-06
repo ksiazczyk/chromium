@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network service process tracker browser tests
+// summary: Browser tests checking that the network service process handle is retrieved correctly and kept valid after a simulated crash on Windows.
+// ---
+
 #include "content/browser/network/network_service_process_tracker_win.h"
 
 #include <windows.h>

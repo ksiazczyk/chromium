@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed HTTP cache browser test
+// summary: Browser test verifying HTTP cache file operations work under the network service sandbox, including non-sandboxed comparison configurations.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification database conversion unit tests
+// summary: Unit tests verifying that notification database data and resources round-trip correctly through serialization and deserialization, including images, actions, and click metrics.
+// ---
+
 #include "content/browser/notifications/notification_database_conversions.h"
 
 #include <stddef.h>

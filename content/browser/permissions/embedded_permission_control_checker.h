@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission control checker class declaration
+// summary: Declares EmbeddedPermissionControlChecker, a per-page user data class that decides whether embedded permission control elements may register on a page.
+// ---
+
 #ifndef CONTENT_BROWSER_PERMISSIONS_EMBEDDED_PERMISSION_CONTROL_CHECKER_H_
 #define CONTENT_BROWSER_PERMISSIONS_EMBEDDED_PERMISSION_CONTROL_CHECKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie store factory
+// summary: Implements CookieStoreConfig and CreateCookieStore, building in-memory or SQLite-persisted CookieMonster instances with configurable task runners and schemes.
+// ---
+
 #include "content/public/browser/cookie_store_factory.h"
 
 #include <memory>

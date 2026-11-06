@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC connection migration browser tests for Android
+// summary: Browser tests that verify QUIC connection migration succeeds when the Android network changes while a resource is being fetched.
+// ---
+
 #include "base/base_switches.h"
 #include "base/test/bind.h"
 #include "base/test/metrics/histogram_tester.h"

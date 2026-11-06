@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame rate throttling helpers for frame sinks
+// summary: Implements functions to start, stop, and update throttling of all frame sinks or specific render frames by delegating to the host frame sink manager on the UI thread.
+// ---
+
 #include "content/public/browser/frame_rate_throttling.h"
 
 #include <vector>

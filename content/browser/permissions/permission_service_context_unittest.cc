@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionServiceContext unit tests
+// summary: Unit tests verifying subscription creation, permission change notifications and back-forward cache behavior of PermissionServiceContext.
+// ---
+
 #include "content/browser/permissions/permission_service_context.h"
 
 #include <memory>

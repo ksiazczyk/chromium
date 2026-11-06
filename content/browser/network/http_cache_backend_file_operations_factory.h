@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP cache backend file operations factory header
+// summary: Declares HttpCacheBackendFileOperationsFactory, which creates mojo file operation handlers bound to a fixed cache path in the browser process.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_HTTP_CACHE_BACKEND_FILE_OPERATIONS_FACTORY_H_
 #define CONTENT_BROWSER_NETWORK_HTTP_CACHE_BACKEND_FILE_OPERATIONS_FACTORY_H_
 

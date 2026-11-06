@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting service proxy header
+// summary: Declares factory functions that bind reporting service proxies for render frames, service workers, shared workers and dedicated workers.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_REPORTING_SERVICE_PROXY_H_
 #define CONTENT_BROWSER_NETWORK_REPORTING_SERVICE_PROXY_H_
 

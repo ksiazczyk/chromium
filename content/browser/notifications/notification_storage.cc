@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification storage implementation
+// summary: Implements persistent notification storage on top of the Service Worker database, writing and reading notification data and recording click interactions.
+// ---
+
 #include "content/browser/notifications/notification_storage.h"
 
 #include <utility>

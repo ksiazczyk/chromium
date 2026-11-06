@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification storage unit tests
+// summary: Unit tests for NotificationStorage that use an embedded service worker test helper to verify writing and reading notification data for a registered worker.
+// ---
+
 #include "content/browser/notifications/notification_storage.h"
 
 #include "base/functional/bind.h"

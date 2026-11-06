@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification trigger constants
+// summary: Defines kMaximumScheduledNotificationsPerOrigin, the constant limiting the number of currently scheduled notifications per origin to 30.
+// ---
+
 #ifndef CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_TRIGGER_CONSTANTS_H_
 #define CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_TRIGGER_CONSTANTS_H_
 

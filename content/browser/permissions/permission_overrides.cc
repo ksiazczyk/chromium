@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionOverrides implementation
+// summary: Implements the PermissionOverrides class that stores permission status overrides keyed by permission type and requesting and embedding origins, including wildcard and storage access keys.
+// ---
+
 #include "content/browser/permissions/permission_overrides.h"
 
 #include <algorithm>

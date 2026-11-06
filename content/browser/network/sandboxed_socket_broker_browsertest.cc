@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed socket broker browser test
+// summary: Browser test verifying socket brokering for TCP connections works with the network service sandbox enabled on Windows.
+// ---
+
 #include <optional>
 
 #include "base/feature_list.h"

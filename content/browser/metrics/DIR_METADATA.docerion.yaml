@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Metrics directory metadata
+summary: Directory metadata for content/browser/metrics that inherits mixins from the common base metrics metadata.

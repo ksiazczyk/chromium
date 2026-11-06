@@ -1,3 +1,13 @@
+---
+type: readme
+title: Browser Memory Coordinator
+summary: Explains the browser-side MemoryCoordinator implementation, how browser and child-process consumer groups are registered, and how policies aggregate the most restrictive memory limit.
+relations:
+  - references /base/memory_coordinator/memory_consumer.h
+  - documents /content/browser/memory_coordinator/child_memory_consumer_registry_host.cc
+  - documents /content/browser/memory_coordinator/child_memory_consumer_registry_host.h
+---
+
 # Browser Memory Coordinator
 
 This directory contains the browser-side implementation of the

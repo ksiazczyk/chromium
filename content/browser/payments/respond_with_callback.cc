@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Respond-with callback implementation
+// summary: Implements self-deleting RespondWithCallback classes that handle payment handler responses to CanMakePayment, PaymentRequest and AbortPayment events.
+// ---
+
 #include "content/browser/payments/respond_with_callback.h"
 
 #include "content/browser/payments/payment_app_provider_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network errors listing WebUI controller implementation
+// summary: Implements the WebUI controller for the network errors listing page, serving its resources and a JSON data file of network error codes.
+// ---
+
 
 #include "content/browser/network/network_errors_listing_ui.h"
 

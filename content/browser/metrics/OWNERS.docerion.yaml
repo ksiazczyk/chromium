@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Metrics directory owners
+summary: Owners file for the metrics directory that delegates ownership review to the base metrics OWNERS file.

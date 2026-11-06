@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission control checker implementation
+// summary: Implements per-page limits and registration checks for page embedded permission control elements such as usermedia, geolocation, and install elements.
+// ---
+
 #include "content/browser/permissions/embedded_permission_control_checker.h"
 
 #include <cstddef>

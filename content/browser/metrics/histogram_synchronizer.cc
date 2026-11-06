@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram synchronizer implementation
+// summary: Implements collection of histogram deltas from child processes, tracking outstanding requests with sequence numbers for synchronous and asynchronous fetches.
+// ---
+
 #include "content/browser/metrics/histogram_synchronizer.h"
 
 #include <utility>

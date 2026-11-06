@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the navigation transition physics model
+// summary: Tests the finger drag curve and spring models of PhysicsModel with simulated gestures and expected layer offsets.
+// ---
+
 #include "content/browser/navigation_transitions/physics_model.h"
 
 #include <memory>

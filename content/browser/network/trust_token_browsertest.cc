@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens browser test
+// summary: Browser tests covering Trust Tokens issuance, redemption and request signing against an HTTPS test server with embedded token request handlers.
+// ---
+
 #include "content/browser/network/trust_token_browsertest.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture navigation throttle implementation
+// summary: Implements a navigation throttle that blocks cross-document navigation in document picture-in-picture windows and asynchronously closes them.
+// ---
+
 #include "content/browser/picture_in_picture/document_picture_in_picture_navigation_throttle.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZeroLimitPolicy unit tests
+// summary: Unit tests verifying that ZeroLimitPolicy updates only stateful consumers to a zero limit with memory release requested and reverts them to the default on destruction.
+// ---
+
 #include "content/browser/memory_coordinator/zero_limit_policy.h"
 
 #include <cstdint>

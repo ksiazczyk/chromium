@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video Picture-in-Picture content browser tests
+// summary: Browser tests for video Picture-in-Picture covering overlay window behavior, playback controls and media session integration.
+// ---
+
 #include <optional>
 
 #include "base/command_line.h"

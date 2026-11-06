@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionOverrides unit tests
+// summary: Unit tests covering setting, getting, granting and enumerating permission overrides across origins and permission types, including approximate geolocation feature behavior.
+// ---
+
 #include "content/browser/permissions/permission_overrides.h"
 
 #include <optional>

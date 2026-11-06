@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink notification service unit tests
+// summary: Unit tests for BlinkNotificationServiceImpl covering permission status, persistent and non-persistent notification display and close, and bad-message validation.
+// ---
+
 #include "content/browser/notifications/blink_notification_service_impl.h"
 
 #include <stdint.h>

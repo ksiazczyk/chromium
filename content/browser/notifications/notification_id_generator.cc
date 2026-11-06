@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification ID generator implementation
+// summary: Implements deterministic notification ID generation for persistent and non-persistent web notifications based on origin, tag, browser flag and token.
+// ---
+
 #include "content/browser/notifications/notification_id_generator.h"
 
 #include <sstream>

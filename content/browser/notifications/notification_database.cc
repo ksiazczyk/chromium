@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification database implementation on LevelDB
+// summary: Implements the persistent notification database for web notifications, storing per-origin notification data and resources in a LevelDB database using compound DATA and RESOURCES keys.
+// ---
+
 #include "content/browser/notifications/notification_database.h"
 
 #include <string>

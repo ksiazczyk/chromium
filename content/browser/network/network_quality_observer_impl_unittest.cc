@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network quality observer unit tests
+// summary: Unit tests verifying that NetworkQualityObserverImpl reports meaningful network quality changes through the NQE.ContentObserver histogram.
+// ---
+
 #include "content/browser/network/network_quality_observer_impl.h"
 
 #include "base/run_loop.h"

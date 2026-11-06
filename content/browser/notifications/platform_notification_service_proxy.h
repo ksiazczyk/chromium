@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform notification service proxy header
+// summary: Declares the PlatformNotificationServiceProxy class that displays, closes, schedules, and logs persistent notifications on behalf of the browser context.
+// ---
+
 #ifndef CONTENT_BROWSER_NOTIFICATIONS_PLATFORM_NOTIFICATION_SERVICE_PROXY_H_
 #define CONTENT_BROWSER_NOTIFICATIONS_PLATFORM_NOTIFICATION_SERVICE_PROXY_H_
 

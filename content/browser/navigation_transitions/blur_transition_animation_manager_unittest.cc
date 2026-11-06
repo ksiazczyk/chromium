@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the blur transition animation manager
+// summary: Unit tests verifying blur transition states, hold timer expiry, and fallback behavior using mock delegates and a test subclass of the manager.
+// ---
+
 #include "content/browser/navigation_transitions/blur_transition_animation_manager.h"
 
 #include <memory>

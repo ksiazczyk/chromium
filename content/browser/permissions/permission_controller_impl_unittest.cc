@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the permission controller implementation
+// summary: Tests permission controller behavior including overrides, permission requests, and result change subscriptions using mock permission managers.
+// ---
+
 #include "content/browser/permissions/permission_controller_impl.h"
 
 #include <cstdlib>

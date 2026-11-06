@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android back-forward transition animation manager header
+// summary: Declares the class that forwards gesture event APIs to the animator and observes window, render widget, frame metadata, and navigation events.
+// ---
+
 #ifndef CONTENT_BROWSER_NAVIGATION_TRANSITIONS_BACK_FORWARD_TRANSITION_ANIMATION_MANAGER_ANDROID_H_
 #define CONTENT_BROWSER_NAVIGATION_TRANSITIONS_BACK_FORWARD_TRANSITION_ANIMATION_MANAGER_ANDROID_H_
 

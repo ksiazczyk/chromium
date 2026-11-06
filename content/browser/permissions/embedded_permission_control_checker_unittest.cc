@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the embedded permission control checker
+// summary: Tests registration limits and allowed or denied behavior of embedded permission control elements for usermedia, geolocation, and install sources.
+// ---
+
 #include "content/browser/permissions/embedded_permission_control_checker.h"
 
 #include <optional>

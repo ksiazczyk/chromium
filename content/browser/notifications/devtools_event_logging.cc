@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools notification event logging implementation
+// summary: Logs notification displayed, closed, scheduled and clicked events to the DevTools background services context for debugging.
+// ---
+
 #include "content/browser/notifications/devtools_event_logging.h"
 
 #include "base/functional/callback.h"

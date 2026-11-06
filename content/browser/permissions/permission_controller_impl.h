@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission controller class declaration
+// summary: Declares PermissionControllerImpl, the per-BrowserContext PermissionController implementation with permission override and subscription APIs.
+// ---
+
 #ifndef CONTENT_BROWSER_PERMISSIONS_PERMISSION_CONTROLLER_IMPL_H_
 #define CONTENT_BROWSER_PERMISSIONS_PERMISSION_CONTROLLER_IMPL_H_
 

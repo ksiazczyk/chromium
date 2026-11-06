@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Origin-Embedder-Policy reporter implementation
+// summary: Queues COEP violation reports for corp, navigation and worker initialization cases to reporting endpoints and reporting observers.
+// ---
+
 #include "content/browser/network/cross_origin_embedder_policy_reporter.h"
 
 #include <string_view>

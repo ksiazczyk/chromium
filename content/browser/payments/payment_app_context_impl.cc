@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment app context implementation
+// summary: Implements the per-storage-partition payment app context that creates PaymentManager instances and owns the PaymentAppDatabase.
+// ---
+
 #include "content/browser/payments/payment_app_context_impl.h"
 
 #include <utility>

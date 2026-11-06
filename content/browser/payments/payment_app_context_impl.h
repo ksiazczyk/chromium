@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppContextImpl header
+// summary: Declares PaymentAppContextImpl, a per-StoragePartition context on the UI thread that owns the payment app database and creates PaymentManager instances for origins.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_PAYMENT_APP_CONTEXT_IMPL_H_
 #define CONTENT_BROWSER_PAYMENTS_PAYMENT_APP_CONTEXT_IMPL_H_
 

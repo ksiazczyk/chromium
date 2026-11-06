@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser memory coordinator unit tests
+// summary: Unit tests for BrowserMemoryCoordinatorImpl covering duplicate bind rejection and rebinding after a child host disconnect.
+// ---
+
 #include "content/browser/memory_coordinator/browser_memory_coordinator_impl.h"
 
 #include <cstdint>

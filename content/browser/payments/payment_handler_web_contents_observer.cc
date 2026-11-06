@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment handler WebContents observer implementation
+// summary: Implements PaymentHandlerWebContentsObserver, which invokes an error callback when a payment handler's renderer crashes or becomes unresponsive.
+// ---
+
 #include "content/browser/payments/payment_handler_web_contents_observer.h"
 
 namespace content {

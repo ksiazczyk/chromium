@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPictureInPictureWindowControllerImpl class header
+// summary: Declares the WebContents-scoped controller managing video Picture-in-Picture sessions, window actions and session lifetime.
+// ---
+
 #ifndef CONTENT_BROWSER_PICTURE_IN_PICTURE_VIDEO_PICTURE_IN_PICTURE_WINDOW_CONTROLLER_IMPL_H_
 #define CONTENT_BROWSER_PICTURE_IN_PICTURE_VIDEO_PICTURE_IN_PICTURE_WINDOW_CONTROLLER_IMPL_H_
 

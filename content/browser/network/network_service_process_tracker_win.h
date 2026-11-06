@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows network service process tracker header
+// summary: Declares helpers that start the network service process listener and provide the current network service process handle on Windows.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_NETWORK_SERVICE_PROCESS_TRACKER_WIN_H_
 #define CONTENT_BROWSER_NETWORK_NETWORK_SERVICE_PROCESS_TRACKER_WIN_H_
 

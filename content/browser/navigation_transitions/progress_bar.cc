@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the indeterminate navigation progress bar
+// summary: Implements ProgressBar, animating pulsing solid color layers with keyframes to show progress between navigation start and commit.
+// ---
+
 #include "content/browser/navigation_transitions/progress_bar.h"
 
 #include "ui/android/progress_bar_config.h"

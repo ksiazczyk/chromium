@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PictureInPictureServiceImpl unit tests
+// summary: Unit tests for the browser-side Picture-in-Picture service, covering session handling, permissions policy checks and metrics.
+// ---
+
 #include "content/browser/picture_in_picture/picture_in_picture_service_impl.h"
 
 #include <memory>

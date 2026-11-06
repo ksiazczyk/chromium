@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser memory coordinator class declaration
+// summary: Declares the BrowserMemoryCoordinatorImpl singleton that owns the consumer registry, per-child hosts, and the policy manager.
+// ---
+
 #ifndef CONTENT_BROWSER_MEMORY_COORDINATOR_BROWSER_MEMORY_COORDINATOR_IMPL_H_
 #define CONTENT_BROWSER_MEMORY_COORDINATOR_BROWSER_MEMORY_COORDINATOR_IMPL_H_
 

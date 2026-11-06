@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared dictionary browser test
+// summary: Browser test covering shared dictionary compression, dictionary hashes, access tracking and clearing of shared dictionary data.
+// ---
+
 #include <string_view>
 #include <tuple>
 

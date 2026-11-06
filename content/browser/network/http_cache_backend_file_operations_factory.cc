@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP cache backend file operations implementation
+// summary: Implements mojo HttpCacheBackendFileOperations so the network service can perform HTTP cache file operations, such as enumeration and path checks, in the browser process.
+// ---
+
 #include "content/browser/network/http_cache_backend_file_operations_factory.h"
 
 #include <string_view>

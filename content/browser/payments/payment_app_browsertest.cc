@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for payment app installation and invocation
+// summary: Browser tests exercising payment app installation, canmakepayment, abort and invocation flows against an HTTPS embedded test server.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Physics model for session history navigation transition animations
+// summary: Declares PhysicsModel, which computes foreground and background layer offsets for swipe-driven session history navigation animations using drag curves and spring models.
+// ---
+
 #ifndef CONTENT_BROWSER_NAVIGATION_TRANSITIONS_PHYSICS_MODEL_H_
 #define CONTENT_BROWSER_NAVIGATION_TRANSITIONS_PHYSICS_MODEL_H_
 

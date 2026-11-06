@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment event dispatcher header
+// summary: Declares the PaymentEventDispatcher class that dispatches payment events such as CanMakePayment and PaymentRequest to payment handler service workers.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_PAYMENT_EVENT_DISPATCHER_H_
 #define CONTENT_BROWSER_PAYMENTS_PAYMENT_EVENT_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentAppDatabase class header
+// summary: Declares PaymentAppDatabase, which reads and writes stored payment app information through the service worker context using callbacks for each operation.
+// ---
+
 #ifndef CONTENT_BROWSER_PAYMENTS_PAYMENT_APP_DATABASE_H_
 #define CONTENT_BROWSER_PAYMENTS_PAYMENT_APP_DATABASE_H_
 

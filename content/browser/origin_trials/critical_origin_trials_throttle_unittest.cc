@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the critical origin trials throttle
+// summary: Tests critical origin trial header handling, token validation, and trial persistence using a mock origin trials controller delegate.
+// ---
+
 #include "content/browser/origin_trials/critical_origin_trials_throttle.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared unit test base for payment app tests
+// summary: Implements the shared unit test fixture for payment app tests, with service worker registration helpers and fake worker infrastructure.
+// ---
+
 #include "content/browser/payments/payment_app_content_unittest_base.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Picture-in-Picture directory metadata
+summary: Declares directory metadata for picture_in_picture, including common metadata mixins, monorail component and Buganizer component ID.

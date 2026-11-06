@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal network service process utilities implementation
+// summary: Implements internal helpers that force and report whether the network service runs in the browser process, with an Android RAM threshold.
+// ---
+
 #include "content/browser/network/network_service_util_internal.h"
 
 #include "base/byte_size.h"

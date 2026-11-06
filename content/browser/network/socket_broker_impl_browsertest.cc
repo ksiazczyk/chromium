@@ -6,6 +6,12 @@
 // a crash of the network service. This has to go in //content because the
 // network service can't implement browser tests.
 
+// ---docerion
+// type: test
+// title: Socket broker crash recovery browser test
+// summary: Browser test verifying TCP and UDP socket creation still works via SocketBrokerImpl after a network service crash.
+// ---
+
 #include "services/network/public/cpp/socket_broker_impl.h"
 
 #include <stdint.h>

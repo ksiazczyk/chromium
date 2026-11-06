@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero limit policy implementation
+// summary: Defines the feature-gated ZeroLimitPolicy that applies a zero memory limit with memory release to stateful consumers.
+// ---
+
 #include "content/browser/memory_coordinator/zero_limit_policy.h"
 
 #include <string_view>

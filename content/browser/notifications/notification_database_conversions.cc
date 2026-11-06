@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification database serialization conversions
+// summary: Converts notification database data and resources between C++ structures and serialized protocol buffer form, including PNG encoding and decoding of notification images.
+// ---
+
 #include "content/browser/notifications/notification_database_conversions.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward transition animator header
+// summary: Declares the animator class that tracks a single gesture's animation stages from swipe start through invoke, cancel, and BeforeUnload interactions.
+// ---
+
 #ifndef CONTENT_BROWSER_NAVIGATION_TRANSITIONS_BACK_FORWARD_TRANSITION_ANIMATOR_H_
 #define CONTENT_BROWSER_NAVIGATION_TRANSITIONS_BACK_FORWARD_TRANSITION_ANIMATOR_H_
 

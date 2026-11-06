@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network quality observer header
+// summary: Declares NetworkQualityObserverImpl, which listens to network quality tracker updates and sends them to each render process.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_NETWORK_QUALITY_OBSERVER_IMPL_H_
 #define CONTENT_BROWSER_NETWORK_NETWORK_QUALITY_OBSERVER_IMPL_H_
 

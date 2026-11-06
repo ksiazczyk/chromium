@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionUtil helper implementation
+// summary: Implements PermissionUtil helpers that convert permission statuses, build status details, resolve the embedding origin URL, and check domain overrides.
+// ---
+
 #include "content/browser/permissions/permission_util.h"
 
 #include "base/check.h"

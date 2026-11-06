@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification ID generator header
+// summary: Declares the NotificationIdGenerator class that produces deterministic notification IDs used for replacing and programmatically closing web notifications.
+// ---
+
 #ifndef CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_ID_GENERATOR_H_
 #define CONTENT_BROWSER_NOTIFICATIONS_NOTIFICATION_ID_GENERATOR_H_
 

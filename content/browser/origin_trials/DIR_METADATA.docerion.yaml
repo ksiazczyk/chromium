@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Origin trials directory metadata
+summary: Configures directory metadata for the browser-side origin trials code, inheriting mixins from the Blink common origin trials metadata.

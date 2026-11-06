@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture window controller header
+// summary: Declares DocumentPictureInPictureWindowControllerImpl, a WebContents-bound controller handling document picture-in-picture mode.
+// ---
+
 #ifndef CONTENT_BROWSER_PICTURE_IN_PICTURE_DOCUMENT_PICTURE_IN_PICTURE_WINDOW_CONTROLLER_IMPL_H_
 #define CONTENT_BROWSER_PICTURE_IN_PICTURE_DOCUMENT_PICTURE_IN_PICTURE_WINDOW_CONTROLLER_IMPL_H_
 

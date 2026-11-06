@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Picture-in-Picture directory owners
+summary: Sets the owners for this directory by referencing the chrome browser picture_in_picture OWNERS file.
