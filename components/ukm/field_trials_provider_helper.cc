@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM field trials provider helper implementation
+// summary: Implements a factory that creates a variations FieldTrialsProvider for UKM, appending the UKM suffix to field trial names.
+// ---
+
 #include "components/ukm/field_trials_provider_helper.h"
 
 namespace ukm {

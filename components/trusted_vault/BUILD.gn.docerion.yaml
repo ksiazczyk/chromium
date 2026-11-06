@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Trusted Vault build definition
+summary: GN build file defining the trusted_vault static library with its platform-specific sources, dependencies, and a unit_tests target.

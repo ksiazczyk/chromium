@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fakes and mocks for UI DevTools unit tests
+// summary: Implements test helpers such as FakeFrontendChannel, MockUIElementDelegate, and FakeUIElement used by UI DevTools unit tests.
+// ---
+
 #include "components/ui_devtools/ui_devtools_unittest_utils.h"
 
 #include <algorithm>

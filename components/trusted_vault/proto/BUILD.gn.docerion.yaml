@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Trusted vault proto GN build targets
+summary: GN build rules that compile the trusted vault .proto files into a C++ proto library and, on Android, a Java proto library.

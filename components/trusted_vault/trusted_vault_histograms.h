@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault histograms declarations
+// summary: Header defining UMA enums and recording function declarations for trusted vault metrics such as recovery factor registration state, outcomes, URL fetch reasons and download keys status.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_HISTOGRAMS_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_HISTOGRAMS_H_
 

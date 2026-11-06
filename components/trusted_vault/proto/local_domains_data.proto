@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local multi-domain trusted vault state proto
+// summary: Defines proto2 messages for per-user, per-domain local trusted vault storage, including vault keys, recovery factor registrations, and degraded recoverability state.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

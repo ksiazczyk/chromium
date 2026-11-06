@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake security domains URL loader factory implementation
+// summary: Implements a SharedURLLoaderFactory adapter that routes network requests to FakeSecurityDomainsServer entirely in memory, avoiding EmbeddedTestServer.
+// ---
+
 #include "components/trusted_vault/test/fake_security_domains_url_loader_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing agent for the UI DevTools performance panel
+// summary: Implements the TracingAgent that starts and stops Perfetto tracing sessions and streams trace data to the DevTools frontend for the performance panel.
+// ---
+
 #include "components/ui_devtools/tracing_agent.h"
 
 #include <algorithm>

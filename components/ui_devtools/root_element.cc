@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root UIElement implementation for UI DevTools
+// summary: Implements the root UIElement placeholder whose bounds, visibility and attribute accessors are intentionally unreachable.
+// ---
+
 #include "components/ui_devtools/root_element.h"
 
 #include "base/notreached.h"

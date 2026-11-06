@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Vault access token fetcher frontend unit tests
+// summary: Unit tests covering access token fetching for the primary account, rejection for non-primary accounts, and error handling using the identity test environment.
+// ---
+
 #include "components/trusted_vault/trusted_vault_access_token_fetcher_frontend.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac overlay agent class declaration
+// summary: Declares OverlayAgentMac, which manages per-widget pre-target handlers and resolves event targets for DevTools overlays on Mac.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_OVERLAY_AGENT_MAC_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_OVERLAY_AGENT_MAC_H_
 

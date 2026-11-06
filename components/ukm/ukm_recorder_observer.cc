@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmRecorderObserver default implementations
+// summary: Implements the no-op default method bodies of the UkmRecorderObserver interface used to observe UKM recorder events.
+// ---
+
 #include "components/ukm/ukm_recorder_observer.h"
 
 namespace ukm {

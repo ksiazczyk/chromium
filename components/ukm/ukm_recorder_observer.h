@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmRecorderObserver interface
+// summary: Declares the observer base class notified when UKM entries are added, source URLs change, recordings are purged, or consent state changes.
+// ---
+
 #ifndef COMPONENTS_UKM_UKM_RECORDER_OBSERVER_H_
 #define COMPONENTS_UKM_UKM_RECORDER_OBSERVER_H_
 

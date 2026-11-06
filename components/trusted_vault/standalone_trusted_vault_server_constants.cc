@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone trusted vault server constants
+// summary: Defines constants and URL builders for standalone trusted vault server requests such as security domain members, join, key rotation and Gaia password keys.
+// ---
+
 #include "components/trusted_vault/standalone_trusted_vault_server_constants.h"
 
 #include <string_view>

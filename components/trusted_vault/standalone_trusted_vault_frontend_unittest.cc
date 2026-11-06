@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standalone trusted vault frontend unit tests
+// summary: Tests that the frontend queues key operations until the backend is initialized and executes them once OSCryptAsync becomes ready.
+// ---
+
 #include "components/trusted_vault/standalone_trusted_vault_frontend.h"
 
 #include <cstdint>

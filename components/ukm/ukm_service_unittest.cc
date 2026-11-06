@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM service unit tests
+// summary: Unit tests for the UKM service covering recording, reporting, purging, consent state changes, and source handling.
+// ---
+
 #include "components/ukm/ukm_service.h"
 
 #include <algorithm>

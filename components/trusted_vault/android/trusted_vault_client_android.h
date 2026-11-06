@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultClientAndroid class declaration
+// summary: Declares the JNI bridge class implementing TrustedVaultClient on Android, with Java notification methods for key and recoverability changes plus observer management.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_ANDROID_TRUSTED_VAULT_CLIENT_ANDROID_H_
 #define COMPONENTS_TRUSTED_VAULT_ANDROID_TRUSTED_VAULT_CLIENT_ANDROID_H_
 

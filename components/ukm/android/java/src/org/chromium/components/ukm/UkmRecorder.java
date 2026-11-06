@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmRecorder Java class for recording UKM events
+// summary: Android Java class that builds a single UKM event with a WebContents, event name, and metrics, then records it through JNI into the native metrics code.
+// ---
+
 package org.chromium.components.ukm;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

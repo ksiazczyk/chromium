@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WidgetElement
+// summary: Unit tests verifying WidgetElement bounds, visibility, attributes, and delegate notifications against a real views::Widget.
+// ---
+
 #include "components/ui_devtools/views/widget_element.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureBox encryption API
+// summary: Declares SecureBox v2 symmetric encryption helpers and the SecureBoxKeyPair, SecureBoxPublicKey and SecureBoxPrivateKey classes for P-256 key handling.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_SECUREBOX_H_
 #define COMPONENTS_TRUSTED_VAULT_SECUREBOX_H_
 

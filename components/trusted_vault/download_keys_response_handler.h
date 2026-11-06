@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadKeysResponseHandler class declaration
+// summary: Declares a helper class that extracts and validates trusted vault keys for a security domain from a GetSecurityDomainMember response.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_DOWNLOAD_KEYS_RESPONSE_HANDLER_H_
 #define COMPONENTS_TRUSTED_VAULT_DOWNLOAD_KEYS_RESPONSE_HANDLER_H_
 

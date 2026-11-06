@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iCloud recovery key interface for macOS
+// summary: Declares ICloudRecoveryKey, a SecureBox key pair stored and synced via iCloud Keychain that serves as an additional recovery factor for Google products.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_ICLOUD_RECOVERY_KEY_MAC_H_
 #define COMPONENTS_TRUSTED_VAULT_ICLOUD_RECOVERY_KEY_MAC_H_
 

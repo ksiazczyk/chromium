@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Class declaration for the Aura DOM agent
+// summary: Declares DOMAgentAura, a DOMAgentViews that observes the Aura environment and windows to build the DOM tree.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_DOM_AGENT_AURA_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_DOM_AGENT_AURA_H_
 

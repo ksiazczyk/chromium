@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frontend trusted vault connection factory
+// summary: Implements NewFrontendTrustedVaultConnection, building a TrustedVaultConnection with an access token fetcher backed by the signin IdentityManager and a URL loader factory.
+// ---
+
 #include "components/trusted_vault/frontend_trusted_vault_connection.h"
 
 #include <memory>

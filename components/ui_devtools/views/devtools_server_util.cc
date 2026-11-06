@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for a UI DevTools server serving Views
+// summary: Creates a UiDevToolsServer for Views on the configured port and attaches DOM, page, CSS, overlay, and tracing agents.
+// ---
+
 #include "components/ui_devtools/views/devtools_server_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsentLogStoreMetricsImpl header for UKM log store metrics
+// summary: Declares the ukm namespace class that implements metrics::UnsentLogStoreMetrics to record metrics about the UKM unsent log store.
+// ---
+
 #ifndef COMPONENTS_UKM_UNSENT_LOG_STORE_METRICS_IMPL_H_
 #define COMPONENTS_UKM_UNSENT_LOG_STORE_METRICS_IMPL_H_
 

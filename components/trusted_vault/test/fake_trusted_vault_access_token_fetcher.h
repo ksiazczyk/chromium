@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake trusted vault access token fetcher declaration
+// summary: Declares FakeTrustedVaultAccessTokenFetcher, a test double that replies to token fetches with a fixed access token info or error.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TEST_FAKE_TRUSTED_VAULT_ACCESS_TOKEN_FETCHER_H_
 #define COMPONENTS_TRUSTED_VAULT_TEST_FAKE_TRUSTED_VAULT_ACCESS_TOKEN_FETCHER_H_
 

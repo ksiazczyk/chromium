@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Source URL recorder browser tests
+// summary: Browser tests verifying that UKM source URLs are recorded correctly for navigations, redirects, and downloads in a content shell.
+// ---
+
 #include <memory>
 
 #include "base/files/scoped_temp_dir.h"

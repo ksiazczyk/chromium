@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iCloud Keychain recovery factor implementation
+// summary: Implements the iCloud Keychain as a local recovery factor, handling key recovery, registration, and decryption of wrapped keys for security domains.
+// ---
+
 #include "components/trusted_vault/icloud_keychain_recovery_factor.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: UKM Android dependency include rules
+summary: Specifies include rules that permit the UKM Android component to depend on content public Android and browser headers.

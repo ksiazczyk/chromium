@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault access token fetcher implementation
+// summary: Implements thread-safe access token fetching by posting requests to the UI thread and delivering results back to the calling sequence.
+// ---
+
 #include "components/trusted_vault/trusted_vault_access_token_fetcher_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad Tab metrics event types
+// summary: Declares the SadTabEvent enum and reload and feedback histogram keys used to report Sad Tab interactions to UMA.
+// ---
+
 #ifndef COMPONENTS_UI_METRICS_SADTAB_METRICS_TYPES_H_
 #define COMPONENTS_UI_METRICS_SADTAB_METRICS_TYPES_H_
 

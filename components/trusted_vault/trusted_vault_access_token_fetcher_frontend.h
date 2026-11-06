@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault access token fetcher frontend
+// summary: Declares a class that fetches access tokens for the primary account on the UI thread and observes primary account changes through IdentityManager.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_ACCESS_TOKEN_FETCHER_FRONTEND_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_ACCESS_TOKEN_FETCHER_FRONTEND_H_
 

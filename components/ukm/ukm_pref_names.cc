@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM preference name constants
+// summary: Defines preference name constants for the UKM client id, persisted unsent log store and session id.
+// ---
+
 #include "components/ukm/ukm_pref_names.h"
 
 namespace ukm {

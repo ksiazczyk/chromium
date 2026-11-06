@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery key store connection implementation header
+// summary: Declares RecoveryKeyStoreConnectionImpl, the network-based implementation of RecoveryKeyStoreConnection using a URL loader factory and access token fetcher.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_RECOVERY_KEY_STORE_CONNECTION_IMPL_H_
 #define COMPONENTS_TRUSTED_VAULT_RECOVERY_KEY_STORE_CONNECTION_IMPL_H_
 

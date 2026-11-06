@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recovery key store connection unit tests
+// summary: Unit tests for the recovery key store connection implementation, covering vault updates, listing and certificate fetching with mocked network responses.
+// ---
+
 #include "components/trusted_vault/recovery_key_store_connection.h"
 
 #include <memory>

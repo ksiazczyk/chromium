@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto string bytes conversion unit tests
+// summary: Unit tests verifying conversion between protobuf string byte fields and byte vectors in both directions.
+// ---
+
 #include "components/trusted_vault/proto_string_bytes_conversion.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

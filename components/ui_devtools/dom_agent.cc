@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM agent implementation for UI DevTools
+// summary: Implements the DevTools DOM domain backend that exposes the native UI element tree, supporting search, event dispatch, bounds queries and serialization of elements to markup-like outer HTML.
+// ---
+
 #include "components/ui_devtools/dom_agent.h"
 
 #include <algorithm>

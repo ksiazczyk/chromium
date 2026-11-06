@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local domains storage class
+// summary: Declares LocalDomainsStorage, a multi-domain StandaloneTrustedVaultStorage implementation with a swappable file access interface for encrypted disk data.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_LOCAL_DOMAINS_STORAGE_H_
 #define COMPONENTS_TRUSTED_VAULT_LOCAL_DOMAINS_STORAGE_H_
 

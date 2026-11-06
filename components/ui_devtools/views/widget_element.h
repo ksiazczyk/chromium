@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetElement class declaration
+// summary: Declares the WidgetElement class, a widget observer-backed UIElementWithMetaData that represents a views::Widget in the UI DevTools element tree.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_WIDGET_ELEMENT_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_WIDGET_ELEMENT_H_
 

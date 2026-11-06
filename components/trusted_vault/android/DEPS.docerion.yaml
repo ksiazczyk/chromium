@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the android folder
+summary: Declares the allowed include dependencies of the trusted vault Android directory on sync service and browser content code.

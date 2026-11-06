@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recovery key store certificate test helpers
+// summary: Returns string views into embedded certificate and signature XML blobs for recovery key store certificate tests.
+// ---
+
 #include "components/trusted_vault/test/recovery_key_store_certificate_test_util.h"
 
 #include <string>

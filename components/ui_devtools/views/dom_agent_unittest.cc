@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Views DOM agent
+// summary: Unit tests that verify DOM tree construction, node lookup and attribute handling for widgets and views in the UI DevTools Views backend.
+// ---
+
 #include <memory>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay agent unit tests for Views UI DevTools
+// summary: Unit tests for the Views overlay agent, covering element lookup by mouse point, highlight and inspect protocol notifications, and window highlighting on Aura.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "components/ui_devtools/ui_devtools_unittest_utils.h"
 #include "components/ui_devtools/ui_element.h"

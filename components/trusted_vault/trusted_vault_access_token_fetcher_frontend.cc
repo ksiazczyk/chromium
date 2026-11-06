@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault access token fetcher frontend implementation
+// summary: Implements the UI-thread access token fetcher frontend, tracking the primary account via IdentityManager and fulfilling or rejecting pending token requests.
+// ---
+
 #include "components/trusted_vault/trusted_vault_access_token_fetcher_frontend.h"
 
 #include <utility>

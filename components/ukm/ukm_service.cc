@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM service implementation
+// summary: Implements the UKM service that gathers and uploads URL-keyed metrics reports, managing client and session IDs and log filtering.
+// ---
+
 #include "components/ukm/ukm_service.h"
 
 #include <memory>

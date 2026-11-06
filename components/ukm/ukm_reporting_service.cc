@@ -4,6 +4,12 @@
 
 // ReportingService specialized to report UKM metrics.
 
+// ---docerion
+// type: source
+// title: UKM reporting service implementation
+// summary: Implements the ReportingService specialization that stores and uploads UKM logs, including unsent log limits and server URL resolution.
+// ---
+
 #include "components/ukm/ukm_reporting_service.h"
 
 #include <memory>

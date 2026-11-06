@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM field trials provider helper declarations
+// summary: Declares CreateFieldTrialsProviderForUkm, which builds a field trials provider for use with UKM metrics.
+// ---
+
 #ifndef COMPONENTS_UKM_FIELD_TRIALS_PROVIDER_HELPER_H_
 #define COMPONENTS_UKM_FIELD_TRIALS_PROVIDER_HELPER_H_
 

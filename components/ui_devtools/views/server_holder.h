@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServerHolder class declaration
+// summary: Declares the ServerHolder singleton holding the UI DevTools server instance and its process observer with create, get, and destroy methods.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_SERVER_HOLDER_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_SERVER_HOLDER_H_
 

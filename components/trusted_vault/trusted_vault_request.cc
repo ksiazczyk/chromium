@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault request implementation
+// summary: Implements TrustedVaultRequest, which sends proto-over-HTTP requests to the vault service with OAuth2 access tokens, exponential backoff retries and network traffic annotation.
+// ---
+
 #include "components/trusted_vault/trusted_vault_request.h"
 
 #include <utility>

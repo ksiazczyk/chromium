@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMock matchers for UKM entry metrics
+// summary: Implements gmock matchers that check whether a UKM entry has a given metric or a metric with a specific value.
+// ---
+
 #include "components/ukm/gmock_matchers.h"
 
 #include <ostream>

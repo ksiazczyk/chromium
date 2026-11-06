@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock recovery key store connection
+// summary: Gmock mock of RecoveryKeyStoreConnection for stubbing UpdateRecoveryKeyStore requests in trusted vault tests.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TEST_MOCK_RECOVERY_KEY_STORE_CONNECTION_H_
 #define COMPONENTS_TRUSTED_VAULT_TEST_MOCK_RECOVERY_KEY_STORE_CONNECTION_H_
 

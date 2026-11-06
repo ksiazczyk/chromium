@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcBackend interface for TTC model backend sessions
+// summary: Declares the TtcBackend interface and its Observer for streaming sessions with a TTC model backend, covering audio, text input, context updates, tool calls and journal events.
+// ---
+
 #ifndef COMPONENTS_TTC_APP_TTC_BACKEND_H_
 #define COMPONENTS_TTC_APP_TTC_BACKEND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault connection implementation
+// summary: Implements TrustedVaultConnectionImpl, building protocol buffer requests for joining security domains, registering factors, downloading keys, and rotating shared keys against the Trusted Vault server.
+// ---
+
 #include "components/trusted_vault/trusted_vault_connection_impl.h"
 
 #include <algorithm>

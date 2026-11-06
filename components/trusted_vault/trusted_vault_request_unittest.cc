@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted vault request unit tests
+// summary: Unit tests for TrustedVaultRequest covering access token fetching, HTTP methods, retries, response handling and fetch status metrics using a test URL loader factory.
+// ---
+
 #include "components/trusted_vault/trusted_vault_request.h"
 
 #include <memory>

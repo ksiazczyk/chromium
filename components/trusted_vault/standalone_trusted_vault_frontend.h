@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone trusted vault frontend header
+// summary: Declares StandaloneTrustedVaultFrontend, a ref-counted UI-thread owner of a background backend shared by per-domain clients within a profile.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_STANDALONE_TRUSTED_VAULT_FRONTEND_H_
 #define COMPONENTS_TRUSTED_VAULT_STANDALONE_TRUSTED_VAULT_FRONTEND_H_
 

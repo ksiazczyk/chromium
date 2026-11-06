@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recovery key store certificate unit tests
+// summary: Unit tests for parsing and verifying recovery key store certificates, covering XML parsing edge cases and endpoint public key extraction.
+// ---
+
 #include "components/trusted_vault/recovery_key_store_certificate.h"
 
 #include <string>

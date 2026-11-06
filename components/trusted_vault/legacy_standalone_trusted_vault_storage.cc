@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy standalone trusted vault storage implementation
+// summary: Implements on-disk storage for legacy standalone trusted vault data, including file reading with MD5 and SHA-256 digest checks, version upgrades, and UMA metrics.
+// ---
+
 #include "components/trusted_vault/legacy_standalone_trusted_vault_storage.h"
 
 #include <memory>

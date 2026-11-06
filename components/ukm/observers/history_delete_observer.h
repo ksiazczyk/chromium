@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryDeleteObserver class declaration
+// summary: Declares an abstract UKM observer base class that watches multiple HistoryService objects for history deletion events and cleans up observations.
+// ---
+
 #ifndef COMPONENTS_UKM_OBSERVERS_HISTORY_DELETE_OBSERVER_H_
 #define COMPONENTS_UKM_OBSERVERS_HISTORY_DELETE_OBSERVER_H_
 

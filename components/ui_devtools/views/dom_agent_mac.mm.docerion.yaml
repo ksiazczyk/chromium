@@ -1,0 +1,4 @@
+# Docerion header of dom_agent_mac.mm.
+type: source
+title: Mac implementation of the UI DevTools DOM agent
+summary: Implements the Mac-specific DOM agent that observes open windows and builds widget elements for the UI DevTools DOM tree.

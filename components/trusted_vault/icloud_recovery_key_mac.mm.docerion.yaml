@@ -1,0 +1,4 @@
+# Docerion header of icloud_recovery_key_mac.mm.
+type: source
+title: iCloud recovery key macOS implementation
+summary: Implements creation and retrieval of iCloud recovery keys through the macOS Keychain, including legacy service attributes and key encoding for security domains.

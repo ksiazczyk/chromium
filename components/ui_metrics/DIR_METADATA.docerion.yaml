@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ui_metrics
+summary: Declares the Monorail component, owning team email and Buganizer component ID for the ui_metrics directory.

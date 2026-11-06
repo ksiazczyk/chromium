@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: UKM component build targets
+summary: GN build file defining the ukm_recorder, ukm, observers, test_support and unit_tests targets for the Url-Keyed Metrics component.

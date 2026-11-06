@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App source URL recorder header
+// summary: Declares the AppSourceUrlRecorder class with static helpers that build UKM app URLs and source identifiers for Chrome, ARC, PWA, Borealis and Crostini apps, plus a deletion marker.
+// ---
+
 #ifndef COMPONENTS_UKM_APP_SOURCE_URL_RECORDER_H_
 #define COMPONENTS_UKM_APP_SOURCE_URL_RECORDER_H_
 

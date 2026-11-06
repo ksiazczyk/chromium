@@ -5,6 +5,12 @@
 // This file contains protobuf messages for interacting with the Vault service
 // OnePlatform API.
 
+// ---docerion
+// type: source
+// title: Recovery key store service proto
+// summary: Defines proto3 messages for the Vault service OnePlatform API, covering vault parameters, metadata, recovery and application keys, and vault listing responses.
+// ---
+
 syntax = "proto3";
 
 option java_multiple_files = true;

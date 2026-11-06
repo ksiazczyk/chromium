@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI DevTools command-line switch
+// summary: Defines the enable-ui-devtools command-line switch that starts the UI DevTools server on a given port, defaulting to 9223.
+// ---
+
 #include "components/ui_devtools/switches.h"
 
 namespace ui_devtools {

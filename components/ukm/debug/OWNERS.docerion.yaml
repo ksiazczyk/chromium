@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the UKM debug directory
+summary: Delegates review of trivial or mechanical JS, CSS, and HTML changes in this directory to the WebUI platform owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools process observer implementation
+// summary: Implements a browser child process observer that keeps the tracing agent's GPU process id up to date across launches, crashes, and disconnects.
+// ---
+
 #include "components/ui_devtools/devtools_process_observer.h"
 
 #include "base/process/process.h"

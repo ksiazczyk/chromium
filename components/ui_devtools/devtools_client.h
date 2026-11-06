@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI DevTools client class declaration
+// summary: Declares UiDevToolsClient, which hosts protocol agents for an inspectable UI component and forwards messages through the UiDevToolsServer WebSocket.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_DEVTOOLS_CLIENT_H_
 #define COMPONENTS_UI_DEVTOOLS_DEVTOOLS_CLIENT_H_
 

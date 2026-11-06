@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultService keyed service header
+// summary: Declares TrustedVaultService, a keyed service that provides a trusted vault client for each security domain such as Chrome sync and passkeys.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_SERVICE_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_SERVICE_H_
 

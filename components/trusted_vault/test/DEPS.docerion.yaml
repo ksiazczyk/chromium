@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Trusted vault test directory dependency rules
+summary: Sets include rules for the trusted vault test directory, allowing dependencies on components/account_manager_core and Mojo public bindings.

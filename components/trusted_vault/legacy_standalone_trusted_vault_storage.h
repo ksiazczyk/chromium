@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy standalone trusted vault storage interfaces
+// summary: Declares legacy storage interfaces covering physical device and iCloud Keychain registration info plus vault key access and updates per Gaia ID.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_LEGACY_STANDALONE_TRUSTED_VAULT_STORAGE_H_
 #define COMPONENTS_TRUSTED_VAULT_LEGACY_STANDALONE_TRUSTED_VAULT_STORAGE_H_
 

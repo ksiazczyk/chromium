@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standalone trusted vault backend unit tests
+// summary: Unit tests for StandaloneTrustedVaultBackend covering key fetch and store, recovery factor registration and degraded recoverability using mocks and fakes.
+// ---
+
 #include "components/trusted_vault/standalone_trusted_vault_backend.h"
 
 #include <cstdint>

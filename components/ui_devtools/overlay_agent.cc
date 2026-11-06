@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay agent implementation for UI DevTools
+// summary: Implements the Overlay protocol backend, where inspect mode and node highlighting are unimplemented while hideHighlight returns success.
+// ---
+
 #include "components/ui_devtools/overlay_agent.h"
 
 namespace ui_devtools {

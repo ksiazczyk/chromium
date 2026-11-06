@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultThrottlingConnection interface header
+// summary: Declares the TrustedVaultThrottlingConnection interface, which extends TrustedVaultConnection with client-side request throttling checks.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_THROTTLING_CONNECTION_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_THROTTLING_CONNECTION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of icloud_recovery_key_mac_unittest.mm.
+type: test
+title: iCloud recovery key unit tests
+summary: Unit tests for ICloudRecoveryKey covering key creation, retrieval, and encryption round trips using a fake keychain.

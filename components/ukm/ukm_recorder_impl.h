@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmRecorderImpl class declaration
+// summary: Declares UkmRecorderImpl, the UKM recorder base implementing recording control, sampling, purging and observer notifications.
+// ---
+
 #ifndef COMPONENTS_UKM_UKM_RECORDER_IMPL_H_
 #define COMPONENTS_UKM_UKM_RECORDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone trusted vault backend implementation
+// summary: Implements the standalone trusted vault backend that stores and recovers vault keys, registers recovery factors, tracks refresh token errors and reports UMA metrics.
+// ---
+
 #include "components/trusted_vault/standalone_trusted_vault_backend.h"
 
 #include <algorithm>

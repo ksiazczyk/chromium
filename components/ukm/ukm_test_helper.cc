@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM test helper implementation
+// summary: Implements UkmTestHelper, a test utility to inspect UKM reports, sources, recording state, and to build and store logs from a UkmService.
+// ---
+
 #include "components/ukm/ukm_test_helper.h"
 
 #include <algorithm>

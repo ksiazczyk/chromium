@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake local domains storage file access declaration
+// summary: Declares FakeLocalDomainsStorageFileAccess, a test double for LocalDomainsStorage::StorageFileAccess that keeps local domains data in memory.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TEST_FAKE_LOCAL_DOMAINS_STORAGE_FILE_ACCESS_H_
 #define COMPONENTS_TRUSTED_VAULT_TEST_FAKE_LOCAL_DOMAINS_STORAGE_FILE_ACCESS_H_
 

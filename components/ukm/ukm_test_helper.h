@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmTestHelper header for accessing UkmService internals in tests
+// summary: Declares UkmTestHelper, a friend class that gives tests access to UkmService internals such as client ID, reports, sources, unsent logs, and consent state.
+// ---
+
 #ifndef COMPONENTS_UKM_UKM_TEST_HELPER_H_
 #define COMPONENTS_UKM_UKM_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Physical device recovery factor implementation
+// summary: Implements the physical device recovery factor, handling key recovery and registration requests through the throttled trusted vault connection.
+// ---
+
 #include "components/trusted_vault/physical_device_recovery_factor.h"
 
 #include "base/task/bind_post_task.h"

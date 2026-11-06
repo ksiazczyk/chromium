@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'TrustedVaultClient: Android client for sync encryption keys'
+// summary: Android client that communicates with GmsCore to fetch, store and retrieve sync encryption keys, including key retrieval intents and recoverability degradation checks.
+// ---
+
 package org.chromium.components.trusted_vault;
 
 import android.app.PendingIntent;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the iOS UKM directory
+summary: Restricts allowed includes in the iOS UKM directory to ios/web/public and net/test.

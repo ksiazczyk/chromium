@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Views UI DevTools sources
+summary: Defines the views and unit_tests source sets, listing platform-specific sources and dependencies for the UI DevTools views code.

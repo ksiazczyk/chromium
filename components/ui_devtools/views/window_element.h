@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowElement class declaration
+// summary: Declares the WindowElement class, an aura::WindowObserver-backed UIElementWithMetaData that represents an aura::Window in the UI DevTools element tree.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_WINDOW_ELEMENT_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_WINDOW_ELEMENT_H_
 

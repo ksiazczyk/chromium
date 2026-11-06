@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmConsentStateObserver class declaration
+// summary: Declares an observer that tracks whether UKM and DWA uploads are allowed across all profiles and notifies subclasses when consent state changes.
+// ---
+
 #ifndef COMPONENTS_UKM_OBSERVERS_UKM_CONSENT_STATE_OBSERVER_H_
 #define COMPONENTS_UKM_OBSERVERS_UKM_CONSENT_STATE_OBSERVER_H_
 

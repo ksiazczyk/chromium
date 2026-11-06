@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureBox encryption implementation
+// summary: Implements SecureBox v2 encryption and decryption using P-256 ECDH, HKDF-SHA256 key derivation and AES-128-GCM.
+// ---
+
 #include "components/trusted_vault/securebox.h"
 
 #include <algorithm>

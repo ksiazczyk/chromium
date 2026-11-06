@@ -5,6 +5,12 @@
  * This is the stylesheet used by chrome://ukm debug page.
  */
 
+/*docerion
+type: source
+title: Stylesheet for the UKM debug page
+summary: Stylesheet that provides layout, table, and event-metrics styling for the UKM debug page in Chromium.
+*/
+
 div {
   margin: auto;
   padding: 2px;

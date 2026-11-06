@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageAgentViews implementation
+// summary: Implements the Views page agent, building a frame resource tree from UI element sources and serving source file content for Chromium Code Search URLs.
+// ---
+
 #include "components/ui_devtools/views/page_agent_views.h"
 
 #include <iterator>

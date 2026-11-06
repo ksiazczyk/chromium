@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views DOM agent class declaration
+// summary: Declares DOMAgentViews, the platform-independent base class that builds DevTools DOM trees for windows, widgets and views.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_DOM_AGENT_VIEWS_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_DOM_AGENT_VIEWS_H_
 

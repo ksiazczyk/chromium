@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault request declarations
+// summary: Header declaring TrustedVaultRequest, a proto-over-HTTP client for the VaultService API with HTTP status and method enums, completion callbacks and retry duration handling.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_REQUEST_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_REQUEST_H_
 

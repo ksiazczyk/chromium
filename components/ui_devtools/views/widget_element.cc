@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetElement implementation for views::Widget
+// summary: Implements the WidgetElement node that wraps a views::Widget, syncing bounds, visibility, attributes, and destruction with the DevTools element tree and dispatching key events.
+// ---
+
 #include "components/ui_devtools/views/widget_element.h"
 
 #include "base/strings/to_string.h"

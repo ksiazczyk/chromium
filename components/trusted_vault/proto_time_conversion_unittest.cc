@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proto time conversion unit tests
+// summary: Unit tests verifying round-trip conversion between base::Time and protobuf time values.
+// ---
+
 #include "components/trusted_vault/proto_time_conversion.h"
 
 #include "base/time/time.h"

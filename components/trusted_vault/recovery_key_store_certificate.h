@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery key store certificate declarations
+// summary: Declares structures and functions for parsing cert.xml and sig.xml files and the RecoveryKeyStoreCertificate class representing a verified certificate chain.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_RECOVERY_KEY_STORE_CERTIFICATE_H_
 #define COMPONENTS_TRUSTED_VAULT_RECOVERY_KEY_STORE_CERTIFICATE_H_
 

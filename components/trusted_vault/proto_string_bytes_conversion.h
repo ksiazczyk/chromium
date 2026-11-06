@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto string to bytes conversion declaration
+// summary: Declares helper functions for converting protobuf bytes fields between std::string and std::vector<uint8_t> representations.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_PROTO_STRING_BYTES_CONVERSION_H_
 #define COMPONENTS_TRUSTED_VAULT_PROTO_STRING_BYTES_CONVERSION_H_
 

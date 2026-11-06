@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault access token fetcher interface
+// summary: Declares an interface for asynchronously fetching OAuth2 access tokens for the trusted vault service from sequences other than the UI thread.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_ACCESS_TOKEN_FETCHER_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_ACCESS_TOKEN_FETCHER_H_
 

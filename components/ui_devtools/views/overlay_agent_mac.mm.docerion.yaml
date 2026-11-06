@@ -1,0 +1,4 @@
+# Docerion header of overlay_agent_mac.mm.
+type: source
+title: Mac implementation of the UI DevTools overlay agent
+summary: Implements the Mac overlay agent, installing and removing pre-target handlers on open windows and finding the view under a point.

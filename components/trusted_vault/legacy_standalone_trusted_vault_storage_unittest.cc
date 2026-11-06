@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Legacy standalone trusted vault storage unit tests
+// summary: Unit tests covering reading and writing of legacy trusted vault files, digest verification, and version upgrade behavior using temporary directories.
+// ---
+
 #include "components/trusted_vault/legacy_standalone_trusted_vault_storage.h"
 
 #include <cstdint>

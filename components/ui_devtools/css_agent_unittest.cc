@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSS agent unit tests
+// summary: Unit tests for the UI DevTools CSS agent covering style text edits, stylesheet text retrieval, and styleSheetChanged notifications.
+// ---
+
 #include "components/ui_devtools/css_agent.h"
 
 #include "base/strings/string_number_conversions.h"

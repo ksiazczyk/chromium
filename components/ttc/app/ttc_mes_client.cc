@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcMesClient implementation
+// summary: Implements the MES streaming client, encoding tool responses as JSON, mapping journal event types and dispatching decoded server frames to the observer.
+// ---
+
 #include "components/ttc/app/ttc_mes_client.h"
 
 #include <stdint.h>

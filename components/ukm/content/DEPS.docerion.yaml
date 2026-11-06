@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the UKM content component
+summary: Grants the UKM content component include access to content public browser, common, test, shell, and net url_request headers.

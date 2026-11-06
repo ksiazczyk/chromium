@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page agent views unit tests
+// summary: Unit tests for PageAgentViews verifying the resource tree contents and source content retrieval, including failures for malformed or nonexistent URLs.
+// ---
+
 #include "components/ui_devtools/views/page_agent_views.h"
 
 #include "base/command_line.h"

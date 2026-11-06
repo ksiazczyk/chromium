@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DownloadKeysResponseHandler unit tests
+// summary: Unit tests covering key extraction, rotation proof validation, and error handling for downloaded trusted vault keys.
+// ---
+
 #include "components/trusted_vault/download_keys_response_handler.h"
 
 #include <vector>

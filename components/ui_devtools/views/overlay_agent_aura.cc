@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of the UI DevTools overlay agent
+// summary: Implements the Aura overlay agent that resolves the window or view targeted by pointer events for highlighting in DevTools.
+// ---
+
 #include "components/ui_devtools/views/overlay_agent_aura.h"
 
 #include "components/ui_devtools/dom_agent.h"

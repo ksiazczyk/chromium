@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for UKM observers
+summary: Defines allowed include dependencies for the UKM observers directory, with an extra include rule for the consent state observer unit test.

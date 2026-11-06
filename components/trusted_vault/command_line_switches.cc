@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault service URL from command line
+// summary: Implements extraction of the trusted vault service URL from the command line, falling back to the default Google securitydomain endpoint.
+// ---
+
 #include "components/trusted_vault/command_line_switches.h"
 
 #include "base/command_line.h"

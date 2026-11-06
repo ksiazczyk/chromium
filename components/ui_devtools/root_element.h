@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootElement class declaration for UI DevTools
+// summary: Declares RootElement, the root node of the UI element tree that UI DevTools exposes to the DevTools frontend.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_ROOT_ELEMENT_H_
 #define COMPONENTS_UI_DEVTOOLS_ROOT_ELEMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page agent implementation for UI DevTools
+// summary: Implements the PageAgent constructor and destructor for the Page protocol backend of UI DevTools.
+// ---
+
 #include "components/ui_devtools/page_agent.h"
 
 namespace ui_devtools {

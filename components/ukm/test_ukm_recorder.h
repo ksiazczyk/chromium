@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUkmRecorder header with test accessors for UKM entries
+// summary: Declares TestUkmRecorder, a UkmRecorderImpl wrapper offering human-readable accessors and helpers for checking UKM entries in tests.
+// ---
+
 #ifndef COMPONENTS_UKM_TEST_UKM_RECORDER_H_
 #define COMPONENTS_UKM_TEST_UKM_RECORDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local trusted vault state proto
+// summary: Defines proto2 messages for per-user local trusted vault keys, device and iCloud Keychain registration info, and degraded recoverability state used in histograms.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

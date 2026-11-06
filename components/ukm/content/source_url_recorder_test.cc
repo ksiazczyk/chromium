@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Source URL recorder unit tests
+// summary: Unit tests using navigation simulation to verify UKM source URL recording for basic navigations, redirects, and full redirect chains.
+// ---
+
 #include "components/ukm/content/source_url_recorder.h"
 
 #include "base/test/scoped_feature_list.h"

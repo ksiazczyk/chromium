@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the UI DevTools component
+summary: Defines GN targets for the ui_devtools component, including inspector protocol generation, the features component, test support and unit tests.

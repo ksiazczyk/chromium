@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServerHolder implementation
+// summary: Implements a singleton that creates, exposes, and destroys the UI DevTools server for browser UI, wiring a tracing connector and process observer.
+// ---
+
 #include "components/ui_devtools/views/server_holder.h"
 
 #include "base/path_service.h"

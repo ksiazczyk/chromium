@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewElement implementation for views::View in UI DevTools
+// summary: Implements the ViewElement DevTools node that wraps a views::View, exposing bounds, attributes, metadata properties, and mouse, key, and wheel event dispatch via the DevTools protocol.
+// ---
+
 #include "components/ui_devtools/views/view_element.h"
 
 #include <algorithm>

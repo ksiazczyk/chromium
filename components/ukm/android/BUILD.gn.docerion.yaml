@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: UKM Android build targets
+summary: Defines GN build targets for the UKM Android component, including the Java library, generated JNI headers, Robolectric unit tests, and the native ukm_recorder static library.

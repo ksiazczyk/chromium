@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone trusted vault backend header
+// summary: Declares the StandaloneTrustedVaultBackend class with its delegate and recovery factor factory interfaces for file-based key storage on a dedicated sequence.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_STANDALONE_TRUSTED_VAULT_BACKEND_H_
 #define COMPONENTS_TRUSTED_VAULT_STANDALONE_TRUSTED_VAULT_BACKEND_H_
 

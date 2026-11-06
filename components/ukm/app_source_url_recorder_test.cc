@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AppSourceUrlRecorder
+// summary: Verifies that source IDs and URLs are generated correctly for ARC package names and PWAs using a test UKM recorder.
+// ---
+
 #include "components/ukm/app_source_url_recorder.h"
 
 #include "base/test/scoped_feature_list.h"

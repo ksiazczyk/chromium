@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source file reading helper for agents
+// summary: Implements GetSourceCode, which safely reads a source file from the test data root for display in DevTools while guarding against directory traversal.
+// ---
+
 #include "components/ui_devtools/agent_util.h"
 
 #include "base/command_line.h"

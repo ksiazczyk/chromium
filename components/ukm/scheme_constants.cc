@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM URL scheme constants
+// summary: Defines URL scheme string constants such as app, chrome, chrome-extension, devtools, and isolated-app for UKM use.
+// ---
+
 #include "components/ukm/scheme_constants.h"
 
 namespace ukm {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault connection interface and status enums
+// summary: Declares the TrustedVaultConnection interface plus status enums for registration, key download, password public key download, and key rotation requests.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_CONNECTION_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_CONNECTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory fake TrustedVaultClient for tests
+// summary: In-memory fake of TrustedVaultClient with a fake server to simulate key storage, retrieval, rotation and recovery methods in tests.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TEST_FAKE_TRUSTED_VAULT_CLIENT_H_
 #define COMPONENTS_TRUSTED_VAULT_TEST_FAKE_TRUSTED_VAULT_CLIENT_H_
 

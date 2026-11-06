@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake legacy trusted vault file access implementation
+// summary: Implements LegacyFakeFileAccess by keeping the LocalTrustedVault proto in memory instead of reading and writing disk files.
+// ---
+
 #include "components/trusted_vault/test/legacy_fake_file_access.h"
 
 namespace trusted_vault {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for iOS UKM components
+summary: Defines GN build targets for the iOS UKM URL recorder, the reporting utility, and their unit tests, with their dependencies.

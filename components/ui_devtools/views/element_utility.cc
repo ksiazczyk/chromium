@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer property helpers for UI DevTools elements
+// summary: Implements helpers that read and set ui::Layer properties such as opacity, blur and rounded corners for display in DevTools.
+// ---
+
 #include "components/ui_devtools/views/element_utility.h"
 
 #include "base/strings/string_number_conversions.h"

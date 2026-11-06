@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault feature flag definitions
+// summary: Defines base::Feature flags for the trusted vault component, including the SHA-256 key hash migration and the shared recovery factors and encryption experiment.
+// ---
+
 #include "components/trusted_vault/features.h"
 
 #include "base/feature_list.h"

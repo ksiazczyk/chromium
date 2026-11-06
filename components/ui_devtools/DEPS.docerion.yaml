@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui_devtools
+summary: Sets the allowed include directories for the folder, with extra rules for the server unittest and process observer files.

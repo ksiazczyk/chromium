@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Physical device recovery factor class declaration
+// summary: Declares PhysicalDeviceRecoveryFactor, which stores private keys on disk and manages recovery and registration for a primary account.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_PHYSICAL_DEVICE_RECOVERY_FACTOR_H_
 #define COMPONENTS_TRUSTED_VAULT_PHYSICAL_DEVICE_RECOVERY_FACTOR_H_
 

@@ -1,3 +1,9 @@
+---
+type: readme
+title: TTC Component
+summary: Describes cross-platform TTC code shared across Desktop, Android, and iOS and outlines the app and app/public directory structure.
+---
+
 # TTC Component
 
 Cross-platform TTC code shared across Desktop, Android, and iOS.

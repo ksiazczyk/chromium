@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA source URL recorder implementation
+// summary: Implements IwaSourceUrlRecorder, which obtains UKM source IDs for isolated web app URLs and marks such sources for deletion.
+// ---
+
 #include "components/ukm/iwa_source_url_recorder.h"
 
 #include "base/logging.h"

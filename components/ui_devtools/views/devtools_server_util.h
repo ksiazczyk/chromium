@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the Views UI DevTools server factory
+// summary: Declares CreateUiDevToolsServerForViews, a factory helper that builds a UiDevToolsServer for Views with a tracing connector.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_DEVTOOLS_SERVER_UTIL_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_DEVTOOLS_SERVER_UTIL_H_
 

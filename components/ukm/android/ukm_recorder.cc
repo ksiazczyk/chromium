@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM recorder JNI bridge implementation
+// summary: Implements the native JNI bridge that converts metrics passed from Java into a UKM entry and records it for the current web contents.
+// ---
+
 #include "services/metrics/public/cpp/ukm_recorder.h"
 
 #include <string>

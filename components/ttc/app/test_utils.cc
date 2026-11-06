@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTtcBackend implementation
+// summary: Implements MockTtcBackend default gmock actions that track transport connection state and store the observer from the last Connect call.
+// ---
+
 #include "components/ttc/app/test_utils.h"
 
 namespace ttc {

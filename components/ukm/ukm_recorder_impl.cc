@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmRecorderImpl core recording implementation
+// summary: Implements the core UKM recorder, including consent handling, source allowlisting and scheme checks, sampling, purging and serialization of entries into report protos.
+// ---
+
 #include "components/ukm/ukm_recorder_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the UKM debug directory
+summary: Grants the UKM debug directory an include rule for Blink's use counter metrics mojom headers.

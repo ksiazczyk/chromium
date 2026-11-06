@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security domain name lookup implementation
+// summary: Implements bidirectional lookup between SecurityDomainId values and their server names such as chromesync and hw_protected for the trusted vault.
+// ---
+
 #include "components/trusted_vault/trusted_vault_server_constants.h"
 
 #include "base/containers/fixed_flat_map.h"

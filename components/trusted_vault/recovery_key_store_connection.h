@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery key store connection interface
+// summary: Defines the RecoveryKeyStoreConnection interface for updating, listing and fetching recovery key stores from the vault service, with status enums and entry struct.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_RECOVERY_KEY_STORE_CONNECTION_H_
 #define COMPONENTS_TRUSTED_VAULT_RECOVERY_KEY_STORE_CONNECTION_H_
 

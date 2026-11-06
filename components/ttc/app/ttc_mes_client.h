@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TtcMesClient class declaration
+// summary: Declares TtcMesClient, a TtcBackend implementation that maintains a bidirectional streaming session with the Model Execution Service via RemoteModelExecutor.
+// ---
+
 #ifndef COMPONENTS_TTC_APP_TTC_MES_CLIENT_H_
 #define COMPONENTS_TTC_APP_TTC_MES_CLIENT_H_
 

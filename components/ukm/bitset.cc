@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitSet implementation
+// summary: Implements a serializable bitset class used to track web feature usage across UKM sources.
+// ---
+
 #include "components/ukm/bitset.h"
 
 #include <cstring>

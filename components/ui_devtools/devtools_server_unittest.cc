@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI DevTools server unit tests
+// summary: Unit tests verifying that the Views UI DevTools server starts, accepts TCP connections, and handles unexpected WebSocket connection IDs safely.
+// ---
+
 #include "components/ui_devtools/devtools_server.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA source URL recorder declarations
+// summary: Declares IwaSourceUrlRecorder, a friend-restricted helper for creating and deleting UKM source IDs for isolated web app URLs.
+// ---
+
 #ifndef COMPONENTS_UKM_IWA_SOURCE_URL_RECORDER_H_
 #define COMPONENTS_UKM_IWA_SOURCE_URL_RECORDER_H_
 

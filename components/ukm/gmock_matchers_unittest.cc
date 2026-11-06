@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UKM gmock matchers
+// summary: Unit tests verifying the HasMetric and HasMetricWithValue matchers, including their descriptions and failure explanations.
+// ---
+
 #include "components/ukm/gmock_matchers.h"
 
 #include <memory>

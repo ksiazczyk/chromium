@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM debug data extractor implementation
+// summary: Implements UkmDebugDataExtractor, converting UKM service recordings into structured dictionaries for the debug WebUI page.
+// ---
+
 #include "components/ukm/debug/ukm_debug_data_extractor.h"
 
 #include <inttypes.h>

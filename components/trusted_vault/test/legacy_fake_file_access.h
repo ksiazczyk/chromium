@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake legacy trusted vault file access
+// summary: Declares LegacyFakeFileAccess, an in-memory stand-in for the legacy standalone trusted vault storage file access used in tests.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TEST_LEGACY_FAKE_FILE_ACCESS_H_
 #define COMPONENTS_TRUSTED_VAULT_TEST_LEGACY_FAKE_FILE_ACCESS_H_
 

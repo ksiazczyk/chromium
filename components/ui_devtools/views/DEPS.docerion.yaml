@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ui_devtools views directory
+summary: Specifies allowed include paths for the directory, with extra content browser includes granted only to server_holder.cc.

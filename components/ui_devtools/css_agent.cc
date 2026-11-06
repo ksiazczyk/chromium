@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSS agent implementation for UI elements
+// summary: Implements the CSS protocol backend that exposes UI element properties as CSS styles and applies style edits to bounds and visibility.
+// ---
+
 #include "components/ui_devtools/css_agent.h"
 
 #include "base/strings/string_number_conversions.h"
