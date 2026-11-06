@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printscanmgr client production implementation
+// summary: Production PrintscanmgrClient that sends Cups printer add, remove, and PPD retrieval method calls to the printscanmgr D-Bus daemon.
+// ---
+
 #include "chromeos/ash/components/dbus/printscanmgr/printscanmgr_client.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SwapManagementClient header
+// summary: Declares the fake SwapManagementClient, a no-op SwapManagementClient implementation used on Linux desktop builds.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SWAP_MANAGEMENT_FAKE_SWAP_MANAGEMENT_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SWAP_MANAGEMENT_FAKE_SWAP_MANAGEMENT_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpacedClient interface for the Spaced DBus service
+// summary: Declares the SpacedClient interface for querying disk space and quota information via the org.chromium.Spaced DBus service, including observer support.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SPACED_SPACED_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SPACED_SPACED_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hermes test utilities implementation
+// summary: Implements CopyHermesStatus, a test callback helper that captures HermesResponseStatus results in Hermes client tests.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_test_utils.h"
 
 #include "chromeos/ash/components/dbus/hermes/hermes_response_status.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillServiceClient interface declaration
+// summary: Declares the client for the Shill Service D-Bus service, including a stub-only test interface for adding, removing, and configuring services in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_SERVICE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_SERVICE_CLIENT_H_
 

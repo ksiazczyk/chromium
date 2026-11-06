@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pciguard D-Bus client implementation
+// summary: Implements the Pciguard D-Bus client, sending external PCI device permission state and handling blocked device signals from the pciguard daemon.
+// ---
+
 #include "chromeos/ash/components/dbus/pciguard/pciguard_client.h"
 
 #include "base/functional/callback_helpers.h"

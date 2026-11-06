@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill device client unit tests
+// summary: Unit tests for ShillDeviceClient covering property change notifications, GetProperties, SetProperty, and other device D-Bus method calls.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_device_client.h"
 
 #include <memory>

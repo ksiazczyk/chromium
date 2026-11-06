@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for ash D-Bus services
+summary: Defines the services, test_support, and unit_tests source sets for the Chrome OS ash D-Bus service code along with their sources and dependencies.

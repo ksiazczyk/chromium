@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy descriptor unit tests
+// summary: Unit tests verifying that MakePolicyDescriptor sets the expected account type, account id and domain for Chrome and extension-install policies.
+// ---
+
 #include "chromeos/ash/components/dbus/session_manager/policy_descriptor.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

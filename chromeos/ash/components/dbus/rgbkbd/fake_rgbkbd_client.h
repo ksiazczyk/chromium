@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake RGB keyboard DBus client header
+// summary: Declares the FakeRgbkbdClient test double with setters and getters for RGB keyboard capabilities, colors, and callback behavior.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_RGBKBD_FAKE_RGBKBD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_RGBKBD_FAKE_RGBKBD_CLIENT_H_
 

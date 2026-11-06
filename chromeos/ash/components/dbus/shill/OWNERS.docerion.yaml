@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for shill D-Bus clients
+summary: Delegates code review ownership for the shill D-Bus clients directory to the ChromeOS network components OWNERS file.

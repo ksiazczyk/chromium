@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Seneschal OWNERS file
+summary: Delegates review ownership of the Seneschal DBus client directory to the guest_os OWNERS file.

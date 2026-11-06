@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the kerberos DBus client
+summary: Points to the shared ChromeOS Kerberos common metadata via mixins for the kerberos D-Bus client directory.

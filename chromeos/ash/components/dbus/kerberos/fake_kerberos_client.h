@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Kerberos client header
+// summary: Declares FakeKerberosClient, a KerberosClient test double that stores account data and exposes a test interface for delays, recording, and simulated failures.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_KERBEROS_FAKE_KERBEROS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_KERBEROS_FAKE_KERBEROS_CLIENT_H_
 

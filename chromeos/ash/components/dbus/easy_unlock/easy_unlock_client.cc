@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EasyUnlockClient production implementation
+// summary: Implements the production EasyUnlockClient that issues D-Bus method calls to the EasyUnlock service for key generation, key wrapping, ECDH agreement, and secure message handling.
+// ---
+
 #include "chromeos/ash/components/dbus/easy_unlock/easy_unlock_client.h"
 
 #include <stddef.h>

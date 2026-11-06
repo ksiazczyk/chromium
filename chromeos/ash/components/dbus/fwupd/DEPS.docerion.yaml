@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the fwupd directory
+summary: Allows includes of ash constants, install attributes, and settings components within this directory.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the kerberos DBus client directory
+summary: Delegates ownership reviews to the owners file of the Chrome browser ash Kerberos component.

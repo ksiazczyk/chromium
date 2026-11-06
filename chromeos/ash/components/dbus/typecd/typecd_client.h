@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypecdClient interface and observer declaration
+// summary: Declares the TypecdClient interface with observer notifications and lifecycle methods for TypeCDaemon D-Bus signals.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_TYPECD_TYPECD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_TYPECD_TYPECD_CLIENT_H_
 

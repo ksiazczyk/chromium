@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill client unit test base header
+// summary: Declares ShillClientUnittestBase, a gtest fixture providing mock D-Bus bus and proxy setup, argument checkers, and a ValueEq matcher for base::Value expectations.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_CLIENT_UNITTEST_BASE_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_CLIENT_UNITTEST_BASE_H_
 

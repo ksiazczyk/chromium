@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ImageLoaderClient implementation
+// summary: Implements FakeImageLoaderClient, an in-memory fake of the ImageLoader D-Bus client that simulates component registration, loading and unmounting for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/image_loader/fake_image_loader_client.h"
 
 #include <optional>

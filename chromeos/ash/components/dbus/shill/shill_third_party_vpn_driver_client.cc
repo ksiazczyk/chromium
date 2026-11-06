@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill third-party VPN driver client implementation
+// summary: Implements the D-Bus client for the Shill ThirdPartyVpnDriver service, managing observers, VPN parameters, connection state updates and packet sending.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_third_party_vpn_driver_client.h"
 
 #include <stddef.h>

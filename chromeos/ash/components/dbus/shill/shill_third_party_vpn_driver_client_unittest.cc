@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill third-party VPN driver client unit tests
+// summary: Unit tests that verify signal handling and method calls of the third-party VPN driver client against a mock D-Bus bus.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

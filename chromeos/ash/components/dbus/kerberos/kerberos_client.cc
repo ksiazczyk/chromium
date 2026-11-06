@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Kerberos D-Bus client implementation
+// summary: Implements the real KerberosClient that sends protobuf requests to the kerberosd D-Bus service, parses responses, and subscribes to signals.
+// ---
+
 #include "chromeos/ash/components/dbus/kerberos/kerberos_client.h"
 
 #include <optional>

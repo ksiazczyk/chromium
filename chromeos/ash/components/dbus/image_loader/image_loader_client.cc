@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageLoaderClient D-Bus implementation
+// summary: Implements ImageLoaderClient by sending D-Bus method calls to the Chrome OS ImageLoader service and dispatching the responses to callbacks.
+// ---
+
 #include "chromeos/ash/components/dbus/image_loader/image_loader_client.h"
 
 #include <optional>

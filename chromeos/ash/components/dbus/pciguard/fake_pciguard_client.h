@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Pciguard D-Bus client header
+// summary: Declares FakePciguardClient, a test double for PciguardClient that simulates the blocked-device D-Bus signal.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_PCIGUARD_FAKE_PCIGUARD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_PCIGUARD_FAKE_PCIGUARD_CLIENT_H_
 

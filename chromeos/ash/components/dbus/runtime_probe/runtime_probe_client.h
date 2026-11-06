@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime probe D-Bus client interface
+// summary: Declares the RuntimeProbeClient interface used to communicate with the Runtime Probe D-Bus service for hardware telemetry data.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_RUNTIME_PROBE_RUNTIME_PROBE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_RUNTIME_PROBE_RUNTIME_PROBE_CLIENT_H_
 

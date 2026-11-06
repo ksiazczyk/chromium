@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Hermes D-Bus client library
+summary: Delegates code ownership for this directory to the ChromeOS network components OWNERS file.

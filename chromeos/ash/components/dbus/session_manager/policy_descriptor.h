@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy descriptor helper declaration
+// summary: Declares the exported MakePolicyDescriptor helper for creating PolicyDescriptor protos used to store and retrieve Chrome policy.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SESSION_MANAGER_POLICY_DESCRIPTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SESSION_MANAGER_POLICY_DESCRIPTOR_H_
 

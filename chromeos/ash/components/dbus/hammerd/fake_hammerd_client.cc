@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake hammerd client implementation
+// summary: Implements FakeHammerdClient, a test double that fires simulated hammerd DBus signals for base firmware updates and pairing events to registered observers.
+// ---
+
 #include "chromeos/ash/components/dbus/hammerd/fake_hammerd_client.h"
 
 namespace ash {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Runtime probe component build definition
+summary: GN build file defining the ash runtime_probe component and its protobuf library for the ChromeOS D-Bus runtime probe client.

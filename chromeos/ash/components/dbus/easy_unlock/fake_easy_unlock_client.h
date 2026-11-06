@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake EasyUnlockClient header
+// summary: Declares the FakeEasyUnlockClient class, including the IsEcP256KeyPair helper for checking fake key pairs, as a test stand-in for the real client.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_EASY_UNLOCK_FAKE_EASY_UNLOCK_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_EASY_UNLOCK_FAKE_EASY_UNLOCK_CLIENT_H_
 

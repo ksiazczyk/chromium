@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Modem3gppClient unit tests
+// summary: Unit tests for Modem3gppClient's SetCarrierLock using mock D-Bus bus and object proxies to verify requests and responses.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/modem_3gpp_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake modem messaging client implementation
+// summary: Implements FakeModemMessagingClient, a fake SMS messaging client that tracks handlers, message paths and pending delete requests for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_modem_messaging_client.h"
 
 #include <algorithm>

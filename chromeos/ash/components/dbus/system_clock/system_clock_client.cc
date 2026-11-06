@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemClockClient production D-Bus implementation
+// summary: Implements the production SystemClockClient that communicates with the ChromeOS system clock D-Bus service.
+// ---
+
 #include "chromeos/ash/components/dbus/system_clock/system_clock_client.h"
 
 #include <stdint.h>

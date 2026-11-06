@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GnubbyClient implementation
+// summary: Implements FakeGnubbyClient, a test double that tracks PromptUserAuth calls and forwards them to registered observers.
+// ---
+
 #include "chromeos/ash/components/dbus/gnubby/fake_gnubby_client.h"
 
 namespace ash {

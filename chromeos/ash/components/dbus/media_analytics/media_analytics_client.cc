@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media analytics D-Bus client production implementation
+// summary: Implements the production MediaAnalyticsClient that communicates with the media perception D-Bus service for state, diagnostics and mojo bootstrapping.
+// ---
+
 #include "chromeos/ash/components/dbus/media_analytics/media_analytics_client.h"
 
 #include <cstdint>

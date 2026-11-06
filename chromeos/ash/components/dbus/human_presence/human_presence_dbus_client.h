@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Human presence DBus client interface
+// summary: Declares the HumanPresenceDBusClient API and observer interface for user presence and snooping-protection features, plus global initialization methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HUMAN_PRESENCE_HUMAN_PRESENCE_DBUS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HUMAN_PRESENCE_HUMAN_PRESENCE_DBUS_CLIENT_H_
 

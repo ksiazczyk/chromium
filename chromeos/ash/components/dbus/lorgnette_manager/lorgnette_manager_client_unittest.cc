@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LorgnetteManagerClient unit tests
+// summary: Unit tests exercising the lorgnette D-Bus client with mock bus and object proxies, covering scanner discovery, capabilities, options, and scan flows.
+// ---
+
 #include "chromeos/ash/components/dbus/lorgnette_manager/lorgnette_manager_client.h"
 
 #include <cstdint>

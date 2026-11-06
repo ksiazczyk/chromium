@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes eUICC D-Bus client declaration
+// summary: Declares the client used to talk to Hermes eUICC objects, with install callbacks, a test interface, and installation step enums for metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_HERMES_EUICC_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_HERMES_EUICC_CLIENT_H_
 

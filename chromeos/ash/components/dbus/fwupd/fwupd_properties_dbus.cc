@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdDbusProperties implementation
+// summary: Implements FwupdDbusProperties by registering the Percentage and Status DBus properties and managing their values and validity.
+// ---
+
 #include "chromeos/ash/components/dbus/fwupd/fwupd_properties_dbus.h"
 
 #include <cstdint>

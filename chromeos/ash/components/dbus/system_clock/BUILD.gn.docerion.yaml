@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the system_clock D-Bus client
+summary: Defines the system_clock component build targets and the source set for its unit tests.

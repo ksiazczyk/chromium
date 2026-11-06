@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake human presence DBus client header
+// summary: Declares the fake HumanPresenceDBusClient with result setters, call counters, and reset helpers used to coordinate tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HUMAN_PRESENCE_FAKE_HUMAN_PRESENCE_DBUS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HUMAN_PRESENCE_FAKE_HUMAN_PRESENCE_DBUS_CLIENT_H_
 

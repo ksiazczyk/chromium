@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake implementation of the Spaced DBus client
+// summary: Implements FakeSpacedClient with settable disk space and quota values so tests can run without a real DBus connection.
+// ---
+
 #include "chromeos/ash/components/dbus/spaced/fake_spaced_client.h"
 
 #include <map>

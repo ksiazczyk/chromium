@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics recording for Flex OOBE config deletion
+// summary: Records the DeleteFlexOobeConfig DBus result histogram and maps DBus error codes to result enum values.
+// ---
+
 #include "chromeos/ash/components/dbus/oobe_config/oobe_configuration_metrics.h"
 
 #include <dbus/dbus-protocol.h>

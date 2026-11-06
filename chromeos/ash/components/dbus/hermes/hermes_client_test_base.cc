@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hermes client test base implementation
+// summary: Implements the HermesClientTestBase that queues mock D-Bus method call results and initializes a mock bus for Hermes client unittests.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_client_test_base.h"
 
 #include <utility>

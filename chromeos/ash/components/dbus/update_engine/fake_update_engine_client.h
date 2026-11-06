@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake update engine client header
+// summary: Declares FakeUpdateEngineClient, a test double for UpdateEngineClient with setters for fake statuses, EOL info, and call counters.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_UPDATE_ENGINE_FAKE_UPDATE_ENGINE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_UPDATE_ENGINE_FAKE_UPDATE_ENGINE_CLIENT_H_
 

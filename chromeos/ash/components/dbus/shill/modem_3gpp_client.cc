@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modem3gppClient implementation
+// summary: Implements the D-Bus client for the ModemManager 3GPP interface, including the SetCarrierLock call and mapping of error responses to CarrierLockResult values.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/modem_3gpp_client.h"
 
 #include <map>

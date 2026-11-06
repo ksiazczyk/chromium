@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Shill IPConfig client implementation
+// summary: Implements FakeShillIPConfigClient, a fake ShillIPConfigClient that stores stub IP config properties and supports adding configs in tests.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_shill_ipconfig_client.h"
 
 #include <memory>

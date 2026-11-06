@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Hermes manager client header
+// summary: Declares the fake HermesManagerClient with a test interface for adding and clearing available EUICCs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_FAKE_HERMES_MANAGER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_FAKE_HERMES_MANAGER_CLIENT_H_
 

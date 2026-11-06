@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSMSClient class declaration
+// summary: Declares FakeSMSClient, a fake SMSClient that simulates an asynchronous GetAll() call completed via CompleteGetAll().
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SMS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SMS_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard DBus client implementation
+// summary: Implements the DBus client for the org.chromium.Rgbkbd service, sending keyboard capability, color, and animation method calls.
+// ---
+
 #include "chromeos/ash/components/dbus/rgbkbd/rgbkbd_client.h"
 
 #include <utility>

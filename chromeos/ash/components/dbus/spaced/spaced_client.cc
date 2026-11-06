@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBus client implementation for the Spaced service
+// summary: Implements SpacedClient by sending DBus method calls to the org.chromium.Spaced service for disk space and quota queries.
+// ---
+
 #include "chromeos/ash/components/dbus/spaced/spaced_client.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pciguard D-Bus client interface
+// summary: Declares PciguardClient, the observer-based interface for sending D-Bus calls to the PciGuard daemon and managing the global instance.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_PCIGUARD_PCIGUARD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_PCIGUARD_PCIGUARD_CLIENT_H_
 

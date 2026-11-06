@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnubbyClient header
+// summary: Declares the GnubbyClient D-Bus client interface for the Gnubby service, including its observer class and global lifecycle methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_GNUBBY_GNUBBY_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_GNUBBY_GNUBBY_CLIENT_H_
 

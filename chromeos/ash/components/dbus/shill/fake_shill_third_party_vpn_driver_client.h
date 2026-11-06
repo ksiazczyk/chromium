@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake third-party VPN driver client header
+// summary: Declares FakeShillThirdPartyVpnDriverClient, a fake VPN driver client that can generate fake D-Bus signals through its test interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SHILL_THIRD_PARTY_VPN_DRIVER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SHILL_THIRD_PARTY_VPN_DRIVER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media analytics D-Bus client interface header
+// summary: Declares the MediaAnalyticsClient interface for communicating with the out-of-process media analytics service over D-Bus, including observer support.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_MEDIA_ANALYTICS_MEDIA_ANALYTICS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_MEDIA_ANALYTICS_MEDIA_ANALYTICS_CLIENT_H_
 

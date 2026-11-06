@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Seneschal client implementation
+// summary: Implements the fake Seneschal client for testing, recording share and unshare requests and returning configurable success responses.
+// ---
+
 #include "chromeos/ash/components/dbus/seneschal/fake_seneschal_client.h"
 
 #include <utility>

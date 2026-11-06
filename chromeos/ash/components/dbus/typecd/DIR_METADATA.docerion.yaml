@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the typecd D-Bus client
+summary: Maps the directory to the ChromeOS Peripherals team and its Buganizer component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosDBusService interface and service provider contract
+// summary: Declares the CrosDBusService class and its ServiceProviderInterface used to run D-Bus services inside Chrome for Chrome OS, with factory methods for real and stub implementations.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SERVICES_CROS_DBUS_SERVICE_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SERVICES_CROS_DBUS_SERVICE_H_
 

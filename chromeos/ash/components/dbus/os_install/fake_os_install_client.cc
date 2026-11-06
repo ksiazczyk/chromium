@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake OS install D-Bus client implementation
+// summary: Implements FakeOsInstallClient, which simulates OS install status updates by notifying registered observers for testing purposes.
+// ---
+
 #include "chromeos/ash/components/dbus/os_install/fake_os_install_client.h"
 
 namespace ash {

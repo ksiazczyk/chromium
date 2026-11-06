@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes D-Bus clients initialization
+// summary: Implements functions that initialize real or fake Hermes D-Bus clients in the correct order and shut them all down.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_clients.h"
 
 #include "chromeos/ash/components/dbus/hermes/fake_hermes_euicc_client.h"

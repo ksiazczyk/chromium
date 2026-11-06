@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake LorgnetteManagerClient implementation
+// summary: Fake D-Bus client that posts canned scanner responses and simulates scan progress and page callbacks for use in tests.
+// ---
+
 #include "chromeos/ash/components/dbus/lorgnette_manager/fake_lorgnette_manager_client.h"
 
 #include <utility>

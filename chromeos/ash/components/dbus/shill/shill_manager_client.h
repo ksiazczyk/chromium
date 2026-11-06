@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillManagerClient interface declaration
+// summary: Declares the client used to communicate with the Shill Manager D-Bus service, with callbacks, network throttling status, P2P group parameters, and a stub-only test interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_MANAGER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_MANAGER_CLIENT_H_
 

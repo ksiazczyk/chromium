@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Shill manager client header
+// summary: Declares FakeShillManagerClient, a fake ShillManagerClient with a test interface that coordinates with the fake service, device, and profile clients.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SHILL_MANAGER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_SHILL_MANAGER_CLIENT_H_
 

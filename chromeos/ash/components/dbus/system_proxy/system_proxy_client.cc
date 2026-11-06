@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Implementation of the SystemProxy D-Bus client
+// summary: Implements the real SystemProxyClient that sends proto-encoded D-Bus method calls to the SystemProxy daemon and handles its signals.
+// ---
+
 #include "chromeos/ash/components/dbus/system_proxy/system_proxy_client.h"
 
 #include <optional>

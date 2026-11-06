@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSMSClient implementation
+// summary: Implements a fake SMS D-Bus client that returns a test message via GetAll() only when the SMS test messages switch is enabled.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_sms_client.h"
 
 #include <string>

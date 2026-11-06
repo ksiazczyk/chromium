@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake printscanmgr client implementation
+// summary: Implements FakePrintscanmgrClient, an in-memory test double that simulates adding, removing, and retrieving printers over D-Bus.
+// ---
+
 #include "chromeos/ash/components/dbus/printscanmgr/fake_printscanmgr_client.h"
 
 #include "base/functional/bind.h"

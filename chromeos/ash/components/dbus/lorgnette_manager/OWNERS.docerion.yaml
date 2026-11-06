@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to the scanning component
+summary: Points to the chromeos scanning component OWNERS file so this directory inherits its code owners.

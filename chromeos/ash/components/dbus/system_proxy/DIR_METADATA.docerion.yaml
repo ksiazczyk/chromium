@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the system_proxy directory
+summary: Specifies the Buganizer component IDs and the chromeos-commercial-networking team email responsible for this directory.

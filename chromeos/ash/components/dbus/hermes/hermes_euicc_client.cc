@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes eUICC D-Bus client implementation
+// summary: Implements the D-Bus client for Hermes eUICC objects, covering profile installation from activation codes, profile refresh, and installation metrics.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_euicc_client.h"
 
 #include <optional>

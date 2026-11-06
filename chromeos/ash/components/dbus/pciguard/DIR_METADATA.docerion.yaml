@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for pciguard
+summary: Metadata mapping the pciguard directory to the ChromeOS Peripherals team and Buganizer component 1150827.

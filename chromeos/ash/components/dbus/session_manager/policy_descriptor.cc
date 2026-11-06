@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy descriptor helper implementation
+// summary: Implements MakePolicyDescriptor, which builds a PolicyDescriptor proto from a given account type, policy domain and account id.
+// ---
+
 #include "chromeos/ash/components/dbus/session_manager/policy_descriptor.h"
 
 namespace ash {

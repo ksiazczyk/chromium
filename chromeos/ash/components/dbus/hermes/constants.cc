@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hermes timeout constants implementation
+// summary: Defines D-Bus call timeout values for Hermes operations that require network calls and those that do not.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/constants.h"
 
 namespace ash::hermes_constants {

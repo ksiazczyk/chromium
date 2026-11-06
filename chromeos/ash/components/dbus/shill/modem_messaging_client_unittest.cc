@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModemMessagingClient unit tests
+// summary: Unit tests for ModemMessagingClient's Delete and List methods and SMS received handling using mock D-Bus bus and object proxies.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/modem_messaging_client.h"
 
 #include <memory>

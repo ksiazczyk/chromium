@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the lorgnette_manager component
+summary: GN build file defining the lorgnette_manager component, its unit_tests target, and the lorgnette protobuf library dependency.

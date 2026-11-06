@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RmadClient interface and observer declarations
+// summary: Declares the RmadClient interface, its observer for RMA signals, and lifecycle methods for the shimless RMA DBus client.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_RMAD_RMAD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_RMAD_RMAD_CLIENT_H_
 

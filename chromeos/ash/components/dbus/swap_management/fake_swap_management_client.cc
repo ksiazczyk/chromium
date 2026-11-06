@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SwapManagementClient implementation
+// summary: Implements the fake SwapManagementClient used on Linux desktop, whose Init does nothing and whose MGLRUSetEnable immediately reports success.
+// ---
+
 #include "chromeos/ash/components/dbus/swap_management/fake_swap_management_client.h"
 
 namespace {}  // namespace

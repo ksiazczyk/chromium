@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hermes client test base declaration
+// summary: Declares a test base class providing a mock D-Bus bus and queued method call results shared by Hermes client unittests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_HERMES_CLIENT_TEST_BASE_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_HERMES_HERMES_CLIENT_TEST_BASE_H_
 

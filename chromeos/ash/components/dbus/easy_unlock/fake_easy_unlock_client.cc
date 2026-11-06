@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake EasyUnlockClient implementation
+// summary: Provides a fake EasyUnlockClient that returns deterministic fake keys, wrapped keys, shared secrets, and secure messages so tests can run without the D-Bus service.
+// ---
+
 #include "chromeos/ash/components/dbus/easy_unlock/fake_easy_unlock_client.h"
 
 #include <optional>

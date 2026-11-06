@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill client unit test base implementation
+// summary: Implements the shared gtest fixture and base::Value matcher used by Shill D-Bus client unit tests, setting up a mock bus and object proxy with signal and method call expectations.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_client_unittest_base.h"
 
 #include <stddef.h>

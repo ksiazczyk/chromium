@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the os_install D-Bus client component
+summary: Defines the os_install component build target with its sources and dependencies on base, dbus, and ChromeOS D-Bus common libraries.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the system_proxy D-Bus client
+summary: Defines the GN build targets for the system_proxy component and its protobuf library, listing the client sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the OOBE configuration client
+// summary: Tests the client's DBus method calls and response handling using a mock bus, mock object proxy, and histogram testers.
+// ---
+
 #include "chromeos/ash/components/dbus/oobe_config/oobe_configuration_client.h"
 
 #include <dbus/dbus-protocol.h>

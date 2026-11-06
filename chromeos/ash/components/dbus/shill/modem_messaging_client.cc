@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModemMessagingClient implementation
+// summary: Implements the D-Bus client for the ModemManager Messaging interface, handling SMS list and delete calls and the SMS added signal.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/modem_messaging_client.h"
 
 #include <map>

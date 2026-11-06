@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemClockClient interface declaration
+// summary: Declares the SystemClockClient API for setting time, querying sync info, waiting for service availability, and observing updates.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_CLOCK_SYSTEM_CLOCK_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SYSTEM_CLOCK_SYSTEM_CLOCK_CLIENT_H_
 

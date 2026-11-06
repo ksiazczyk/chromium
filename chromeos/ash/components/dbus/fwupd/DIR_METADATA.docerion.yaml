@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the firmware updates team
+summary: Maps the directory to the ChromeOS peripherals firmware updates team and a Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CrosDBusService startup
+// summary: Uses mock bus and exported objects to verify that service providers are started before ownership of the D-Bus service name is requested.
+// ---
+
 #include "chromeos/ash/components/dbus/services/cros_dbus_service.h"
 
 #include <memory>

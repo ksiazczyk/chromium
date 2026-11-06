@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Shill profile client implementation
+// summary: Implements a fake Shill profile client that stores profile properties and service entries in memory and posts asynchronous callbacks.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_shill_profile_client.h"
 
 #include <memory>

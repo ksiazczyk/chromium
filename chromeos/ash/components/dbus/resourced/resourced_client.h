@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resourced D-Bus client interface header
+// summary: Declares the ResourcedClient interface for the org.chromium.ResourceManager service, covering game mode, memory margins and pressure observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_RESOURCED_RESOURCED_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_RESOURCED_RESOURCED_CLIENT_H_
 

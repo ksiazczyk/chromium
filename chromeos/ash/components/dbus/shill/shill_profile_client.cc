@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillProfileClient implementation
+// summary: Implements the D-Bus client for the Shill profile service, managing profile properties, entries, and per-profile client helpers.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_profile_client.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ImageLoaderClient class declaration
+// summary: Declares FakeImageLoaderClient, a test double of ImageLoaderClient that tracks registered, mounted and loaded components in memory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_IMAGE_LOADER_FAKE_IMAGE_LOADER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_IMAGE_LOADER_FAKE_IMAGE_LOADER_CLIENT_H_
 

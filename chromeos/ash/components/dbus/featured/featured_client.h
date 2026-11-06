@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeaturedClient class declaration
+// summary: Declares the DBus client that communicates seed state with the featured service and records early-boot trials to UMA.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_FEATURED_FEATURED_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_FEATURED_FEATURED_CLIENT_H_
 

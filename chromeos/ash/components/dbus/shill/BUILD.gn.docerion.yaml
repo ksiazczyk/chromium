@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shill D-Bus clients build configuration
+summary: GN build file defining the shill component with real and fake D-Bus client sources plus a testonly test_support source set containing the unit tests.

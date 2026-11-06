@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake RGB keyboard DBus client implementation
+// summary: Implements a fake RgbkbdClient that records keyboard state, colors, and call counts for use in tests.
+// ---
+
 #include "chromeos/ash/components/dbus/rgbkbd/fake_rgbkbd_client.h"
 
 #include <utility>

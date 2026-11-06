@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the update_engine DBus client
+summary: GN build file defining the ash_update_engine component with the update engine client sources and the update_engine protobuf library target.

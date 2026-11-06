@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: hammerd component build file
+summary: GN build definition for the hammerd DBus client component, listing its source files and dependencies on //base and //dbus.

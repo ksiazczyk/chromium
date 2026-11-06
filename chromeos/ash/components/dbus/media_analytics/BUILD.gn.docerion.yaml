@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the media analytics D-Bus client
+summary: Defines the GN build targets for the media_analytics component and its media_perception protobuf library on ChromeOS.

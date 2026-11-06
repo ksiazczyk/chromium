@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake OOBE configuration client header
+// summary: Declares FakeOobeConfigurationClient, a test double providing OOBE configuration specified via a command-line flag.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_OOBE_CONFIG_FAKE_OOBE_CONFIGURATION_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_OOBE_CONFIG_FAKE_OOBE_CONFIGURATION_CLIENT_H_
 

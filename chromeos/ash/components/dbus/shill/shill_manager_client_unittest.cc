@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShillManagerClient unit tests
+// summary: Unit tests for the Shill manager client, verifying property change signals, property retrieval and setting, and network throttling arguments against a mock D-Bus bus.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_manager_client.h"
 
 #include <memory>

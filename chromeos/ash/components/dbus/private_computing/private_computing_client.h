@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private computing client interface
+// summary: Declares the PrivateComputingClient interface used to communicate with the Chrome OS Private Computing D-Bus daemon for saving and reading last ping dates.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_PRIVATE_COMPUTING_PRIVATE_COMPUTING_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_PRIVATE_COMPUTING_PRIVATE_COMPUTING_CLIENT_H_
 

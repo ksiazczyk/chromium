@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake modem 3GPP client implementation
+// summary: Implements FakeModem3gppClient, a fake Modem3gppClient that stores carrier lock requests so tests can complete them with a chosen result.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_modem_3gpp_client.h"
 
 #include <algorithm>

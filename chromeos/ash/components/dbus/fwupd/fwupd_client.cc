@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: fwupd D-Bus client implementation
+// summary: Implements the client that communicates with the fwupd daemon, mapping D-Bus errors and update metadata.
+// ---
+
 #include "chromeos/ash/components/dbus/fwupd/fwupd_client.h"
 
 #include <cstdint>

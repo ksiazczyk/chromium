@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printscanmgr client unit tests
+// summary: Unit tests verifying PrintscanmgrClient's D-Bus method calls using a mock bus and object proxy with protobuf matchers.
+// ---
+
 #include "chromeos/ash/components/dbus/printscanmgr/printscanmgr_client.h"
 
 #include <cstdint>

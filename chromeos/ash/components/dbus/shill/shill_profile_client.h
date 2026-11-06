@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillProfileClient interface declaration
+// summary: Declares the client for the Shill Profile D-Bus service, including a test interface for adding profiles, entries, and services in stub implementations.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_PROFILE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_SHILL_PROFILE_CLIENT_H_
 

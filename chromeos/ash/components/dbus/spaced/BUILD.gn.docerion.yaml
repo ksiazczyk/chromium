@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the spaced DBus client
+summary: Defines the chromeos_dbus_spaced component and the spaced proto library target that build the spaced DBus client sources.

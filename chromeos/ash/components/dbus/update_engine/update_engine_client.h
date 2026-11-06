@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update engine D-Bus client interface
+// summary: Declares UpdateEngineClient, the interface for communicating with the Chrome OS update engine, with observers, EolInfo, and update check callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_UPDATE_ENGINE_UPDATE_ENGINE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_UPDATE_ENGINE_UPDATE_ENGINE_CLIENT_H_
 

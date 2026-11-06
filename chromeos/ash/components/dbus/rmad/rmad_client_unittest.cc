@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the RmadClient DBus client
+// summary: Tests the RmadClient implementation against a mock DBus bus and proxy, covering method calls, signal handling, and error paths.
+// ---
+
 #include "chromeos/ash/components/dbus/rmad/rmad_client.h"
 
 #include <memory>

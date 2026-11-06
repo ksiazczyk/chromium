@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake session manager client implementation
+// summary: Implements a fake SessionManagerClient that stores policy blobs on disk or in memory and returns them unmodified, for use in tests and fake D-Bus setups.
+// ---
+
 #include "chromeos/ash/components/dbus/session_manager/fake_session_manager_client.h"
 
 #include <map>

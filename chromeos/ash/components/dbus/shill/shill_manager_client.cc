@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillManagerClient implementation
+// summary: Implements the D-Bus client for the Shill manager service, including P2P group create/connect parameters, property handling, and DNS proxy configuration.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_manager_client.h"
 
 #include <ios>

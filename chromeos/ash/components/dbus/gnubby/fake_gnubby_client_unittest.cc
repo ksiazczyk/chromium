@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for FakeGnubbyClient
+// summary: Tests that FakeGnubbyClient notifies registered observers exactly once when PromptUserAuth is signalled.
+// ---
+
 #include "chromeos/ash/components/dbus/gnubby/fake_gnubby_client.h"
 
 #include "base/scoped_observation.h"

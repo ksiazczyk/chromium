@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake LorgnetteManagerClient class declaration
+// summary: Declares the fake LorgnetteManagerClient subclass with setters for canned responses to scanner D-Bus method calls.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_LORGNETTE_MANAGER_FAKE_LORGNETTE_MANAGER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_LORGNETTE_MANAGER_FAKE_LORGNETTE_MANAGER_CLIENT_H_
 

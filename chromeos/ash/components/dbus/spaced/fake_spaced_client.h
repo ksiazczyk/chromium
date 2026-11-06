@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the fake Spaced DBus client
+// summary: Declares FakeSpacedClient, a test double for SpacedClient with setters for disk space, quota, and connection state.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SPACED_FAKE_SPACED_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SPACED_FAKE_SPACED_CLIENT_H_
 

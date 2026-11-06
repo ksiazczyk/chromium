@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake runtime probe client implementation
+// summary: Fake RuntimeProbeClient that returns simulated battery and storage probe results with shifting live values for tests and Linux builds.
+// ---
+
 #include "chromeos/ash/components/dbus/runtime_probe/fake_runtime_probe_client.h"
 
 #include <utility>

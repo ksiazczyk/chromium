@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the fwupd D-Bus component
+summary: Defines the fwupd component and a test_support source set with their sources and dependencies.

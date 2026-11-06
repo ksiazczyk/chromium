@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SmbProviderClient implementation for tests
+// summary: Fake D-Bus client that simulates share listing, Kerberos setup, and NetBios packet parsing for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/smbprovider/fake_smb_provider_client.h"
 
 #include <utility>

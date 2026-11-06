@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FwupdProperties interface
+// summary: Declares an abstract interface mirroring the properties of a FWUPD DBus object, covering percentage and status getters, setters and validity checks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FWUPD_PROPERTIES_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_FWUPD_FWUPD_PROPERTIES_H_
 

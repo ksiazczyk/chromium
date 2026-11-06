@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Hermes EUICC client implementation
+// summary: Implements a fake HermesEuiccClient that simulates eSIM profile installation and interacts with fake shill clients for testing.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/fake_hermes_euicc_client.h"
 
 #include <algorithm>

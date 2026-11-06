@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RmadClient DBus client implementation
+// summary: Implements the RmadClient that talks to the RmaDaemon over DBus, handling method calls, signals, and RMA state detection.
+// ---
+
 #include "chromeos/ash/components/dbus/rmad/rmad_client.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the typecd D-Bus client component
+summary: Defines the GN build target and source files for the typecd D-Bus client component.

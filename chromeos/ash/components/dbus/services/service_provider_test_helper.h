@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceProviderTestHelper test support header
+// summary: Declares a helper that sets up D-Bus mocks for testing one method call or optional return signal of a service provider at a time.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SERVICES_SERVICE_PROVIDER_TEST_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SERVICES_SERVICE_PROVIDER_TEST_HELPER_H_
 

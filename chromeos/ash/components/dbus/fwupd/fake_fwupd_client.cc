@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake fwupd client implementation
+// summary: Implements a fake FwupdClient that simulates devices, updates, install flows, and test-triggered signals.
+// ---
+
 #include <string>
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ImageBurnerClient class declaration
+// summary: Declares FakeImageBurnerClient, a do-nothing fake implementation of ImageBurnerClient used for testing.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_IMAGE_BURNER_FAKE_IMAGE_BURNER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_IMAGE_BURNER_FAKE_IMAGE_BURNER_CLIENT_H_
 

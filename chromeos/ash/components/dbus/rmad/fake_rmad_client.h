@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake RmadClient header with test controls
+// summary: Declares the FakeRmadClient test double with setters and trigger methods for simulating RMA states, logs, and daemon signals.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_RMAD_FAKE_RMAD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_RMAD_FAKE_RMAD_CLIENT_H_
 

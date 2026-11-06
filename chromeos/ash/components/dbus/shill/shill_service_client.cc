@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShillServiceClient implementation
+// summary: Implements the D-Bus client for Shill network services, with per-path helpers, error logging, and property access for service objects.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/shill_service_client.h"
 
 #include <map>

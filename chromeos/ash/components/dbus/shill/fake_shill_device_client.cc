@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Shill device client implementation
+// summary: Implements FakeShillDeviceClient, a fake ShillDeviceClient with stub device properties, SIM PIN handling and configurable errors for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/shill/fake_shill_device_client.h"
 
 #include <algorithm>

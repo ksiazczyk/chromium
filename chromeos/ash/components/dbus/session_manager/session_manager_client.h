@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session manager D-Bus client interface
+// summary: Defines the SessionManagerClient interface, its observer class and supporting enums used to communicate with the Chrome OS session manager daemon.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SESSION_MANAGER_SESSION_MANAGER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SESSION_MANAGER_SESSION_MANAGER_CLIENT_H_
 

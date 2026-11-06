@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hermes profile client unit tests
+// summary: Unit tests verifying that HermesProfileClient issues the correct D-Bus method calls and maps success and error responses to status codes.
+// ---
+
 #include "chromeos/ash/components/dbus/hermes/hermes_profile_client.h"
 #include "base/memory/raw_ptr.h"
 #include "chromeos/ash/components/dbus/hermes/hermes_client_test_base.h"

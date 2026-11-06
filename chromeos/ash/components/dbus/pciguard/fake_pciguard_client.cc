@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Pciguard D-Bus client implementation
+// summary: Stub implementation of PciguardClient used in tests, which can emit a fake blocked Thunderbolt device signal.
+// ---
+
 #include "chromeos/ash/components/dbus/pciguard/fake_pciguard_client.h"
 
 #include "third_party/cros_system_api/dbus/pciguard/dbus-constants.h"

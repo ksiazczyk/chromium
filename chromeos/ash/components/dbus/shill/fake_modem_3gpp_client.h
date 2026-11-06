@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake modem 3GPP client header
+// summary: Declares FakeModem3gppClient, a fake Modem3gppClient with a CompleteSetCarrierLock hook for simulating carrier locking in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_MODEM_3GPP_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_SHILL_FAKE_MODEM_3GPP_CLIENT_H_
 

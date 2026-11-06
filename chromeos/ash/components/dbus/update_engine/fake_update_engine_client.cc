@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake update engine client implementation
+// summary: Implements FakeUpdateEngineClient, a stub update engine client that counts calls and returns configurable statuses and results for testing.
+// ---
+
 #include "chromeos/ash/components/dbus/update_engine/fake_update_engine_client.h"
 
 #include <optional>

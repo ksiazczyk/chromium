@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake media analytics D-Bus client implementation
+// summary: Implements a fake MediaAnalyticsClient that simulates the media analytics D-Bus service for tests, faking state, diagnostics and perception events.
+// ---
+
 #include "chromeos/ash/components/dbus/media_analytics/fake_media_analytics_client.h"
 
 #include <utility>
