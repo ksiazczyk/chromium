@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AI subscription tier names
+// summary: Tests default tier names, full and partial short name overrides, unknown tiers, explicit empty strings, and invalid JSON fallbacks.
+// ---
+
 #include "components/subscription_eligibility/ai_subscription_tier_names.h"
 
 #include <string>

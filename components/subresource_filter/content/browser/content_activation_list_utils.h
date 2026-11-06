@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content activation list utilities header
+// summary: Declares GetListForThreatTypeAndMetadata, which maps Safe Browsing threat types and subresource filter metadata to an activation list.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_CONTENT_ACTIVATION_LIST_UTILS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_CONTENT_ACTIVATION_LIST_UTILS_H_
 

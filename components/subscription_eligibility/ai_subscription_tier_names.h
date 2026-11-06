@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI subscription tier name API declarations
+// summary: Declares functions returning short and full AI subscription tier names plus the override feature and its JSON mapping parameter.
+// ---
+
 #ifndef COMPONENTS_SUBSCRIPTION_ELIGIBILITY_AI_SUBSCRIPTION_TIER_NAMES_H_
 #define COMPONENTS_SUBSCRIPTION_ELIGIBILITY_AI_SUBSCRIPTION_TIER_NAMES_H_
 

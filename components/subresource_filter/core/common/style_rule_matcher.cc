@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Style rule matcher implementation
+// summary: Implements lookup of style rule selectors for a document origin and by element class or ID, using the flatbuffer index and a bloom filter.
+// ---
+
 #include "components/subresource_filter/core/common/style_rule_matcher.h"
 
 #include <algorithm>

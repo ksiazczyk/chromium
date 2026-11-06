@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring ShouldInheritActivation for subresource filtering
+// summary: Declares ShouldInheritActivation and documents why certain child and root frame navigations must inherit activation from their parent or opener.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_COMMON_UTILS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_COMMON_UTILS_H_
 

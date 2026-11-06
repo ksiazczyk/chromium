@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter features implementation
+// summary: Implements parsing of field trial parameters into subresource filter configurations, including activation levels, scopes, activation lists, and preset configurations.
+// ---
+
 #include "components/subresource_filter/core/browser/subresource_filter_features.h"
 
 #include <algorithm>

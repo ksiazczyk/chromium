@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset indexing tool header
+// summary: Declares IndexAndWriteRuleset for converting unindexed rulesets to indexed flatbuffer form and WriteVersionMetadata for writing ruleset version JSON.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_TOOLS_INDEXING_TOOL_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_TOOLS_INDEXING_TOOL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ruleset creator implementation
+// summary: Implements helpers that serialize, write, open, and corrupt indexed and unindexed filtering rulesets for use in tests.
+// ---
+
 #include "components/subresource_filter/core/common/test_ruleset_creator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rule stream implementations for supported formats
+// summary: Implements input and output stream classes that read and write rules in FilterList, protobuf, and unindexed ruleset formats.
+// ---
+
 #include "components/subresource_filter/tools/ruleset_converter/rule_stream.h"
 
 #include <algorithm>

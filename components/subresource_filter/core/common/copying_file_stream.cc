@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copying file stream implementations
+// summary: Implements protobuf copying input and output streams that read from and write to base::File objects for the subresource filter.
+// ---
+
 #include "components/subresource_filter/core/common/copying_file_stream.h"
 
 #include "base/compiler_specific.h"

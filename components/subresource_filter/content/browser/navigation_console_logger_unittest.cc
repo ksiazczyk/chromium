@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation console logger unit tests
+// summary: Unit tests verifying console messages are logged only for successful navigation commits and suppressed for failed or error-page navigations.
+// ---
+
 #include "components/subresource_filter/content/browser/navigation_console_logger.h"
 
 #include <algorithm>

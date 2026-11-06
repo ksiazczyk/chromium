@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing child frame navigation throttle implementation
+// summary: Implements the Safe Browsing child frame navigation filtering throttle, deferring subframe navigations for ruleset checks and recording filtering delay metrics.
+// ---
+
 #include "components/subresource_filter/content/browser/safe_browsing_child_navigation_throttle.h"
 
 #include <optional>

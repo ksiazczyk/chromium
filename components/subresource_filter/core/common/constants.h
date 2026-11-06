@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter Safe Browsing ruleset constants
+// summary: Declares the kSafeBrowsingRulesetConfig constant that identifies the original Safe Browsing ruleset and its storage directory for the RulesetService.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_CONSTANTS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_CONSTANTS_H_
 

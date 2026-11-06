@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDocumentSubresourceFilterImpl class declaration
+// summary: Declares the renderer-side Blink subresource filter that applies the subresource filtering ruleset to document loads, including a builder for workers and worklets.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_RENDERER_WEB_DOCUMENT_SUBRESOURCE_FILTER_IMPL_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_RENDERER_WEB_DOCUMENT_SUBRESOURCE_FILTER_IMPL_H_
 

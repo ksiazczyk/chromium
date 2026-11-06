@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the rule parser
+// summary: Tests parsing of comments, URL rules, allowlist rules, and option handling against expected canonicalized rules.
+// ---
+
 #include "components/subresource_filter/tools/rule_parser/rule_parser.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools interaction tracker header
+// summary: Declares DevtoolsInteractionTracker, a WebContents-scoped tracker for whether ad blocking was force-activated via devtools.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_DEVTOOLS_INTERACTION_TRACKER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_DEVTOOLS_INTERACTION_TRACKER_H_
 

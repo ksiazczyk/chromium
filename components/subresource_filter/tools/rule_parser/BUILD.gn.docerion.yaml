@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for rule_parser
+summary: Defines the rule_parser source set, its unit test target, and a libFuzzer test for the subresource filter rule parser.

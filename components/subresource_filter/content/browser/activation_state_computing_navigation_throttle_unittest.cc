@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activation state computing navigation throttle unit tests
+// summary: Parameterized unit tests covering activation state computation for root and child frame navigations, using test rulesets, allowlist rules, and navigation simulation.
+// ---
+
 #include "components/subresource_filter/content/browser/activation_state_computing_navigation_throttle.h"
 
 #include <memory>

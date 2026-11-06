@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad tagging browser test utilities implementation
+// summary: Implements browser test helpers that create regular and ad-script frames and verify the ad evidence recorded for frames during ad tagging tests.
+// ---
+
 #include "components/subresource_filter/content/browser/ad_tagging_browser_test_utils.h"
 
 #include <string>

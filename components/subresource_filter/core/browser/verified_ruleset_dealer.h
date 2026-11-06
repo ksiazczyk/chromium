@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verified ruleset dealer header
+// summary: Declares VerifiedRulesetDealer and its Handle, adding one-time integrity verification of ruleset files and the RulesetVerificationStatus enum.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_BROWSER_VERIFIED_RULESET_DEALER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_BROWSER_VERIFIED_RULESET_DEALER_H_
 

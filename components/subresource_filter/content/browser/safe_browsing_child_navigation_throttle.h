@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing child frame navigation throttle declaration
+// summary: Declares SafeBrowsingChildNavigationThrottle, the Safe Browsing implementation of child frame navigation filtering with ad evidence tagging.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SAFE_BROWSING_CHILD_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SAFE_BROWSING_CHILD_NAVIGATION_THROTTLE_H_
 

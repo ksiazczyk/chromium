@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI subscription tier status enum and metrics declarations
+// summary: Declares the AiSubscriptionTierStatus enum, histogram and synthetic trial names, and helpers to compute the status for metrics.
+// ---
+
 #ifndef COMPONENTS_SUBSCRIPTION_ELIGIBILITY_SUBSCRIPTION_ELIGIBILITY_METRICS_UTIL_H_
 #define COMPONENTS_SUBSCRIPTION_ELIGIBILITY_SUBSCRIPTION_ELIGIBILITY_METRICS_UTIL_H_
 

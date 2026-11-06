@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unindexed ruleset stream generator header
+// summary: Declares a class that exposes unindexed ruleset data as a readable stream along with its size in bytes.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_UNINDEXED_RULESET_STREAM_GENERATOR_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_UNINDEXED_RULESET_STREAM_GENERATOR_H_
 

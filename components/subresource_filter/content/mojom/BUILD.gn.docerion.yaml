@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for subresource filter Mojom bindings
+summary: GN build file that defines the mojom target compiling subresource_filter.mojom, with dependencies on the core subresource filter mojom, Mojo base, and blink platform mojom.

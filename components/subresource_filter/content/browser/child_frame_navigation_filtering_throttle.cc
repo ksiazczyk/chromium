@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child frame navigation filtering throttle implementation
+// summary: Implements the navigation throttle that applies the parent frame's subresource filter to child frame navigations, including CNAME alias checks and deferral.
+// ---
+
 #include "components/subresource_filter/content/browser/child_frame_navigation_filtering_throttle.h"
 
 #include <stddef.h>

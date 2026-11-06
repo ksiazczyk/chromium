@@ -1,3 +1,11 @@
+---
+type: readme
+title: Subresource Filter
+summary: Overview of the subresource filter component, describing its purpose, high-level design, and detailed architecture across the core and content layers.
+relations:
+  - references /components/component_updater/README.md
+---
+
 # Subresource Filter
 The subresource_filter component deals with code that tags and filters
 subresource requests based on:

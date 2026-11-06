@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceFilterSafeBrowsingClientRequest class header
+// summary: Declares SubresourceFilterSafeBrowsingClientRequest, scoped to a single Safe Browsing database check on the UI thread, where timed-out checks are treated as safe.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SUBRESOURCE_FILTER_SAFE_BROWSING_CLIENT_REQUEST_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SUBRESOURCE_FILTER_SAFE_BROWSING_CLIENT_REQUEST_H_
 

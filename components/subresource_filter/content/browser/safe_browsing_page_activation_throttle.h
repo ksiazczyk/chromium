@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing page activation throttle declaration
+// summary: Declares SafeBrowsingPageActivationThrottle and its Delegate interface for computing and adjusting subresource filter activation decisions.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SAFE_BROWSING_PAGE_ACTIVATION_THROTTLE_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SAFE_BROWSING_PAGE_ACTIVATION_THROTTLE_H_
 

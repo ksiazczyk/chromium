@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-party origin implementation
+// summary: Implements third-party checks of URLs against a document's first-party origin using registry-controlled domains with a one-entry host cache.
+// ---
+
 #include "components/subresource_filter/core/common/first_party_origin.h"
 
 #include <string_view>

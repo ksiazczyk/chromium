@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads intervention manager implementation
+// summary: Implements ads intervention tracking per origin, persisting violation metadata in website settings and recording UMA metrics.
+// ---
+
 #include "components/subresource_filter/content/browser/ads_intervention_manager.h"
 
 #include <optional>

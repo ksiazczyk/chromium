@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load statistics header
+// summary: Declares a class that aggregates metrics recorded for individual sub-documents of a page and logs the aggregated metrics to UMA histograms at load completion.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_PAGE_LOAD_STATISTICS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_PAGE_LOAD_STATISTICS_H_
 

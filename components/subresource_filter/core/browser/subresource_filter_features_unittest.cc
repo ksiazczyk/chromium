@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter features unit tests
+// summary: Unit tests verifying that variation parameters and named presets produce the expected enabled subresource filter configurations and priorities.
+// ---
+
 #include "components/subresource_filter/core/browser/subresource_filter_features.h"
 
 #include <algorithm>

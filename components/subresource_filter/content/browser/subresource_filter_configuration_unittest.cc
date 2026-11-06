@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter configuration unit tests
+// summary: Parameterized tests verifying when the subresource filter activates across combinations of activation scope, activation list and activation level.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_test_harness.h"
 #include "components/subresource_filter/core/browser/subresource_filter_features.h"
 #include "components/subresource_filter/core/common/activation_list.h"

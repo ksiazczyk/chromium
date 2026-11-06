@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI subscription tier name lookup implementation
+// summary: Implements short and full AI subscription tier name lookups, including a feature-parameter-driven short name override parsed from JSON.
+// ---
+
 #include "components/subscription_eligibility/ai_subscription_tier_names.h"
 
 #include <algorithm>

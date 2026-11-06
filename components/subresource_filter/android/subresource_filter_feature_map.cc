@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter feature map for Java
+// summary: Exposes the SafeBrowsing subresource filter feature to Java through a JNI-backed base::android::FeatureMap.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/feature_list.h"
 #include "base/no_destructor.h"

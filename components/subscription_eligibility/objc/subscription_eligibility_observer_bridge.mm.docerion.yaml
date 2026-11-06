@@ -1,0 +1,4 @@
+# Docerion header of subscription_eligibility_observer_bridge.mm.
+type: source
+title: Subscription eligibility Objective-C observer bridge implementation
+summary: Implements the bridge that observes SubscriptionEligibilityService and forwards AI subscription tier updates to the Objective-C observer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load statistics implementation
+// summary: Aggregates per-document subresource load statistics and records them as UMA histograms, including incognito-specific and performance timing metrics, when a page load finishes.
+// ---
+
 #include "components/subresource_filter/content/browser/page_load_statistics.h"
 
 #include <string_view>

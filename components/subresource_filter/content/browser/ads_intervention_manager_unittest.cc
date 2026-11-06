@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ads intervention manager unit tests
+// summary: Unit tests for the ads intervention manager, verifying intervention recording, duration tracking, and activation decisions with a test clock.
+// ---
+
 #include "components/subresource_filter/content/browser/ads_intervention_manager.h"
 
 #include <memory>

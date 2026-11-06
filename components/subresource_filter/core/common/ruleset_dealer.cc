@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset dealer implementation
+// summary: Implements RulesetDealer, which hands out memory-mapped rulesets from a ruleset file using weak caching of the last ruleset.
+// ---
+
 #include "components/subresource_filter/core/common/ruleset_dealer.h"
 
 #include "base/check.h"

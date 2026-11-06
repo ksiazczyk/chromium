@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RulesetDealer unit tests
+// summary: Unit tests covering RulesetDealer ruleset file availability, caching and reuse of the mapped ruleset, and lazy memory mapping behavior.
+// ---
+
 #include "components/subresource_filter/core/common/ruleset_dealer.h"
 
 #include <memory>

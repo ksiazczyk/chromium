@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subscription Eligibility Service Unit Tests
+// summary: Unit tests covering tier retrieval, command-line forcing and invalid flag fallback, benefits reading, and observer notifications.
+// ---
+
 #include "components/subscription_eligibility/subscription_eligibility_service.h"
 
 #include <string>

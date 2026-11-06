@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing ruleset publisher header
+// summary: Declares SafeBrowsingRulesetPublisher, a RulesetPublisher that distributes the subresource filter ruleset to render processes.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SAFE_BROWSING_RULESET_PUBLISHER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SAFE_BROWSING_RULESET_PUBLISHER_H_
 

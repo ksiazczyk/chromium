@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools interaction tracker implementation
+// summary: Implements tracking of devtools-forced subresource filter activation per WebContents and logs when forced activation is first enabled.
+// ---
+
 #include "components/subresource_filter/content/browser/devtools_interaction_tracker.h"
 
 #include "components/subresource_filter/content/browser/content_subresource_filter_throttle_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedRule class header
+// summary: Declares ScopedRule, which pairs a filterlist rule with its ruleset so the rule stays valid for as long as the object exists.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_SCOPED_RULE_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_SCOPED_RULE_H_
 

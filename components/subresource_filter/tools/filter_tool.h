@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterTool class header
+// summary: Declares the FilterTool class, which matches a ruleset against single requests, request batches, or rule-counting queries and writes the results to an output stream.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_TOOLS_FILTER_TOOL_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_TOOLS_FILTER_TOOL_H_
 

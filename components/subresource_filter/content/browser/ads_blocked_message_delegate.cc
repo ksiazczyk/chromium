@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads blocked message delegate implementation
+// summary: Implements the Android ads blocked message delegate that shows, dismisses, and restores the ads blocked message and dialog when the subresource filter blocks ads.
+// ---
+
 #include "components/subresource_filter/content/browser/ads_blocked_message_delegate.h"
 
 #include <utility>

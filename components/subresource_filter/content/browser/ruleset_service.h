@@ -27,6 +27,12 @@
 // Note: UnverifiedRulesetDealer is shortened to *RulesetDealer above. There is
 // also a VerifiedRulesetDealer which is used similarly on the browser side.
 
+// ---docerion
+// type: source
+// title: RulesetService and IndexedRulesetLocator declarations
+// summary: Declares the RulesetService that indexes and stores ruleset versions and the IndexedRulesetLocator utilities governing the ruleset file layout on disk.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_RULESET_SERVICE_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_RULESET_SERVICE_H_
 

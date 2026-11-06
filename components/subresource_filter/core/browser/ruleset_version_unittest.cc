@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ruleset version unit tests
+// summary: Tests that indexed ruleset versions with arbitrary filter tags are saved to and read back from preferences correctly.
+// ---
+
 #include "components/subresource_filter/core/browser/ruleset_version.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource indexing tool command-line entry point
+// summary: Command-line entry point that indexes an unindexed subresource filter ruleset into an output file and optionally writes version metadata JSON.
+// ---
+
 #include <iostream>
 
 #include "base/check_op.h"

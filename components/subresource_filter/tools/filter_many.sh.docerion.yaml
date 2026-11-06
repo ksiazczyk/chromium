@@ -1,0 +1,4 @@
+# Docerion header of filter_many.sh.
+type: script
+title: Count filter rule matches over HTTP Archive requests
+summary: Shell script that runs a directory of gzipped HTTP Archive request logs against an indexed filter list and reports how often each rule matched, sorted in descending order.

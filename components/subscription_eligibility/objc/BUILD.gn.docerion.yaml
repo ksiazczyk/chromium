@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Objective-C subscription eligibility bridge
+summary: Defines the objc source set containing the observer bridge sources and its public dependency on the subscription eligibility component.

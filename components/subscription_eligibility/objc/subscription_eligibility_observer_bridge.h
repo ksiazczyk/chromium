@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subscription eligibility Objective-C observer bridge header
+// summary: Declares the SubscriptionEligibilityServiceObserving protocol and the C++ bridge class that forwards service observer callbacks to Objective-C.
+// ---
+
 #ifndef COMPONENTS_SUBSCRIPTION_ELIGIBILITY_OBJC_SUBSCRIPTION_ELIGIBILITY_OBSERVER_BRIDGE_H_
 #define COMPONENTS_SUBSCRIPTION_ELIGIBILITY_OBJC_SUBSCRIPTION_ELIGIBILITY_OBSERVER_BRIDGE_H_
 

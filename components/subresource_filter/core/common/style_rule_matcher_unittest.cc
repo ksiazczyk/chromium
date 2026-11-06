@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Style rule matcher unit tests
+// summary: Tests style rule matching by domain, class, and ID, building indexes with the style rule indexer and verifying returned selectors.
+// ---
+
 #include "components/subresource_filter/core/common/style_rule_matcher.h"
 
 #include <memory>

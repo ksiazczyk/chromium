@@ -15,6 +15,12 @@
 // TODO(pkalinnikov): Consider removing these classes, leaving only the
 // corresponding protobuf structures.
 
+// ---docerion
+// type: source
+// title: Data structures for parsed EasyList rules
+// summary: Declares UrlRule and StyleRule structures representing EasyList URL filtering and element hiding rules with their options.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULE_PARSER_RULE_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULE_PARSER_RULE_H_
 

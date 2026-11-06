@@ -1,3 +1,11 @@
+---
+type: guide
+title: Generating a Smaller Filter List
+summary: Guide explaining how to generate a reduced filter list from HttpArchive data and how to build and use a mock ruleset for development and testing.
+relations:
+  - documents /components/subresource_filter/tools/derive_filterlist.sh
+---
+
 # Generating a Smaller Filter List
 Filter lists can be quite large to store in memory, which is problematic on
 memory constrained devices. The following steps demonstrate how to generate a

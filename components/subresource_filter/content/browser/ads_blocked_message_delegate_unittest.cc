@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ads blocked message delegate unit tests
+// summary: Unit tests for the ads blocked message delegate, using mock dialogs and a message dispatcher bridge to verify message and dialog behavior.
+// ---
+
 #include "components/subresource_filter/content/browser/ads_blocked_message_delegate.h"
 
 #include "base/memory/raw_ptr.h"

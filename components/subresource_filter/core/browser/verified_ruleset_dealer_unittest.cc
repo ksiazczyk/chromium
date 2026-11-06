@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Verified ruleset dealer unit tests
+// summary: Unit tests for VerifiedRulesetDealer covering ruleset file opening, integrity verification outcomes, and distribution of memory-mapped rulesets.
+// ---
+
 #include "components/subresource_filter/core/browser/verified_ruleset_dealer.h"
 
 #include <memory>

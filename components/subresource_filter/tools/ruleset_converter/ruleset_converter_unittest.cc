@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RulesetConverter
+// summary: Tests failure cases for invalid inputs, formats, and Chrome versions, plus successful single and multi-file conversions.
+// ---
+
 #include "components/subresource_filter/tools/ruleset_converter/ruleset_converter.h"
 
 #include <string>

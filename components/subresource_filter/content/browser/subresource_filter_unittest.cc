@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter unit tests
+// summary: Unit tests for subresource filter activation decisions, subframe load blocking, and UI-shown metrics using the test harness.
+// ---
+
 #include <utility>
 
 #include "base/test/metrics/histogram_tester.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the renderer directory
+summary: DEPS file listing the directories that code in the renderer folder may include, such as content/public/renderer and Blink public headers.

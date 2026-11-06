@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of chunked unindexed ruleset reader and writer
+// summary: Implements reading and writing of unindexed filtering rulesets as protobuf chunks over zero-copy streams, including URL and style rule handling.
+// ---
+
 #include "components/subresource_filter/core/common/unindexed_ruleset.h"
 
 #include "base/check.h"

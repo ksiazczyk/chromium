@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content activation list utils unit tests
+// summary: Unit tests covering GetListForThreatTypeAndMetadata across phishing, Better Ads, and abusive threat combinations with the ad blocking on abusive sites feature.
+// ---
+
 #include "components/subresource_filter/content/browser/content_activation_list_utils.h"
 
 #include "base/test/scoped_feature_list.h"

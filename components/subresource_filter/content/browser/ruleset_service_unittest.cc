@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RulesetService unit tests
+// summary: Unit tests covering ruleset indexing, versioned storage, obsolete ruleset cleanup, and publishing behavior of RulesetService.
+// ---
+
 #include "components/subresource_filter/content/browser/ruleset_service.h"
 
 #include <stddef.h>

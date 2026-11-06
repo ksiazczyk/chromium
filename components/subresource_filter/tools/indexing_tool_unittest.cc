@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the subresource indexing tool
+// summary: Unit tests verifying IndexAndWriteRuleset behavior, covering missing files or directories, output correctness, and version metadata writing.
+// ---
+
 #include "components/subresource_filter/tools/indexing_tool.h"
 
 #include <memory>

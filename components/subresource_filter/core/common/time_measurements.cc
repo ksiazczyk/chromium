@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped UMA histogram timer implementation
+// summary: Implements scoped thread timers that export millisecond and microsecond duration measurements to UMA histograms.
+// ---
+
 #include "components/subresource_filter/core/common/time_measurements.h"
 
 #include "base/metrics/histogram.h"

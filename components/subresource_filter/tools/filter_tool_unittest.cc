@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FilterTool
+// summary: gtest unit tests covering FilterTool matching of blocklist and allowlist rules, no-match cases, and the batch and rule-count modes.
+// ---
+
 #include "components/subresource_filter/tools/filter_tool.h"
 
 #include <algorithm>

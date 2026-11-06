@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuleParser class declaration
+// summary: Declares the RuleParser class that parses lines into URL or style rules and exposes parse error diagnostics and rule accessors.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULE_PARSER_RULE_PARSER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULE_PARSER_RULE_PARSER_H_
 

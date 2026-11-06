@@ -1,3 +1,9 @@
+---
+type: readme
+title: Subscription Eligibility Component
+summary: Describes the component that manages user eligibility for subscription tiers and its core SubscriptionEligibilityService KeyedService class.
+---
+
 # Subscription Eligibility Component
 
 This component manages user eligibility for various subscriptions, specifically

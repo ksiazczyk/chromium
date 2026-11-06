@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async document subresource filter unit tests
+// summary: Unit tests covering activation state computation, load policy results and evaluation performance histograms for the async filter.
+// ---
+
 #include "components/subresource_filter/core/browser/async_document_subresource_filter.h"
 
 #include <array>

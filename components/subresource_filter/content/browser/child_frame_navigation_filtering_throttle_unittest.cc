@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child frame navigation filtering throttle unit tests
+// summary: Unit tests for child frame navigation filtering, covering load policy computation, redirects, deferral, and DNS alias handling.
+// ---
+
 #include "components/subresource_filter/content/browser/child_frame_navigation_filtering_throttle.h"
 
 #include <algorithm>

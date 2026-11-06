@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command-line entry point for subresource_filter_tool
+// summary: Main entry point for the subresource_filter_tool executable, parsing ruleset and request arguments for the match, match_batch, and match_rules commands.
+// ---
+
 #include <fstream>
 #include <iostream>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnverifiedRulesetDealer implementation
+// summary: Implements Mojo interface registration and handling of ruleset files received over IPC, including optional prewarming of the memory-mapped ruleset.
+// ---
+
 #include "components/subresource_filter/content/renderer/unverified_ruleset_dealer.h"
 
 #include "base/feature_list.h"

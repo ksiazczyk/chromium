@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EasyList rule parser implementation
+// summary: Implements the parser of EasyList rules, mapping option keywords via a keyword table and reporting detailed parse errors.
+// ---
+
 #include "components/subresource_filter/tools/rule_parser/rule_parser.h"
 
 #include <map>

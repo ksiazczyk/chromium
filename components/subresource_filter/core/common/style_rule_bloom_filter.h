@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Style rule bloom filter header
+// summary: Declares a bloom filter reader and builder for style rule hashes, using two bit indices derived from a 24-bit hash.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_STYLE_RULE_BLOOM_FILTER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_STYLE_RULE_BLOOM_FILTER_H_
 

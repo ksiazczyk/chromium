@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation console logger header
+// summary: Declares a navigation-scoped helper, stored as NavigationHandle user data, that logs console messages when an ongoing root frame navigation commits.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_NAVIGATION_CONSOLE_LOGGER_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_NAVIGATION_CONSOLE_LOGGER_H_
 

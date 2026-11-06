@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttle manager test support implementation
+// summary: Sets up content settings, cookie settings, and profile context dependencies needed by the throttle manager in unit tests.
+// ---
+
 #include "components/subresource_filter/content/browser/throttle_manager_test_support.h"
 
 #include "components/content_settings/browser/page_specific_content_settings.h"

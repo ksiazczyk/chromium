@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter content settings manager unit tests
+// summary: Unit tests for the content settings manager covering metadata persistence, activation state and smart UI behavior using mock time.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_content_settings_manager.h"
 
 #include <optional>

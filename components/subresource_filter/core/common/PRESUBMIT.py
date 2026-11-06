@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit check for IndexedRuleset format version
+# summary: Presubmit script that warns when indexed_ruleset changes may require updating the RulesetIndexer::kIndexedFormatVersion constant.
+# ---
+
 """Presubmit script for subresource_filter component's core/common directory.
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -1,0 +1,4 @@
+# Docerion header of subresource_filter.mojom.
+type: source
+title: Subresource filter Mojo IPC interfaces
+summary: Defines the per-frame SubresourceFilterAgent and SubresourceFilterHost Mojo interfaces for activating subresource filtering and reporting ad tagging, load statistics, and ads violations.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utility header for async document subresource filter
+// summary: Declares TestActivationStateCallbackReceiver, used to expect activation results when testing the async document subresource filter.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_BROWSER_ASYNC_DOCUMENT_SUBRESOURCE_FILTER_TEST_UTILS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_BROWSER_ASYNC_DOCUMENT_SUBRESOURCE_FILTER_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the RulesetConverter class
+// summary: Implements conversion of input ruleset files to the configured outputs, validating paths, formats, and Chrome version settings.
+// ---
+
 #include "components/subresource_filter/tools/ruleset_converter/ruleset_converter.h"
 
 #include <fstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UMA histogram time measurement macros
+// summary: Verifies that the scoped UMA histogram thread timer macros record the expected histogram counts using base::HistogramTester.
+// ---
+
 #include "components/subresource_filter/core/common/time_measurements.h"
 
 #include "base/test/metrics/histogram_tester.h"

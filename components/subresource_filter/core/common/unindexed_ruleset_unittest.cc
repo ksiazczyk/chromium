@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the unindexed ruleset reader and writer
+// summary: Tests chunked writing and reading of unindexed rulesets using a test builder over string and array output streams.
+// ---
+
 #include "components/subresource_filter/core/common/unindexed_ruleset.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceFilterProfileContext class header
+// summary: Declares SubresourceFilterProfileContext, a KeyedService that holds BrowserContext-scoped subresource filtering context, including the settings manager, ads intervention manager and embedder data.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SUBRESOURCE_FILTER_PROFILE_CONTEXT_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SUBRESOURCE_FILTER_PROFILE_CONTEXT_H_
 

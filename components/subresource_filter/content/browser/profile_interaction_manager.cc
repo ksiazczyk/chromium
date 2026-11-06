@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile interaction manager implementation
+// summary: Implements interaction between per-navigation subresource filter objects and per-profile state, handling reload requests, ads violations, and blocked-ads notifications.
+// ---
+
 #include "components/subresource_filter/content/browser/profile_interaction_manager.h"
 
 #include "base/check.h"

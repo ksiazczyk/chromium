@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activation state computing navigation throttle header
+// summary: Declares a navigation throttle that determines subresource filter activation state per navigation, with speculative child frame computation and page activation notifications.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_ACTIVATION_STATE_COMPUTING_NAVIGATION_THROTTLE_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_ACTIVATION_STATE_COMPUTING_NAVIGATION_THROTTLE_H_
 

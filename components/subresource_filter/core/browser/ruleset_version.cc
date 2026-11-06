@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ruleset version implementation
+// summary: Implements reading, saving and registering preferences that store indexed ruleset content version, format version and checksum.
+// ---
+
 #include "components/subresource_filter/core/browser/ruleset_version.h"
 
 #include <string>

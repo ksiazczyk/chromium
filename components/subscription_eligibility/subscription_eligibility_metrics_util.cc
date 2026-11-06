@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI subscription tier status metrics computation
+// summary: Computes the AI subscription tier status from profile subscription tiers and maps statuses to histogram and synthetic trial group names.
+// ---
+
 #include "components/subscription_eligibility/subscription_eligibility_metrics_util.h"
 
 #include "base/check.h"

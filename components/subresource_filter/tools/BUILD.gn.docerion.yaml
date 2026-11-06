@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Subresource filter tools build targets
+summary: GN build file defining the tools library, unit tests, command-line tool executables, ruleset converter, and the index_ruleset action for the subresource filter tools.

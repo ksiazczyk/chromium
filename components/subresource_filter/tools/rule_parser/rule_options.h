@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Element and activation type mask options
+// summary: Defines the TypeMask bitmask layout plus mappings between element and activation type options and their EasyList keyword names.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULE_PARSER_RULE_OPTIONS_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_TOOLS_RULE_PARSER_RULE_OPTIONS_H_
 

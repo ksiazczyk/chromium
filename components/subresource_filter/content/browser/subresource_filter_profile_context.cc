@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceFilterProfileContext implementation
+// summary: Implements SubresourceFilterProfileContext, a KeyedService holding the profile-scoped settings manager, ads intervention manager and cookie settings used for subresource filtering.
+// ---
+
 #include "components/subresource_filter/content/browser/subresource_filter_profile_context.h"
 
 #include <memory>

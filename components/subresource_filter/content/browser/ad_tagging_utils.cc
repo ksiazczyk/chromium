@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ad tagging load policy interpretation implementation
+// summary: Implements InterpretLoadPolicyAsEvidence, which maps filter list load policy outcomes to blink FilterListResult values used as ad tagging evidence.
+// ---
+
 #include "components/subresource_filter/content/browser/ad_tagging_utils.h"
 
 #include <optional>

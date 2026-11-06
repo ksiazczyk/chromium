@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceFilterSafeBrowsingClient class header
+// summary: Declares SubresourceFilterSafeBrowsingClient, used to communicate with the Safe Browsing service for a single navigation, managing multiple database requests and cancelling them on destruction.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SUBRESOURCE_FILTER_SAFE_BROWSING_CLIENT_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CONTENT_BROWSER_SUBRESOURCE_FILTER_SAFE_BROWSING_CLIENT_H_
 

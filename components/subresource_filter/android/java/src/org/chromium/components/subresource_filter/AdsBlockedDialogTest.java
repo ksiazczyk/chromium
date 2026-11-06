@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdsBlockedDialogTest
+// summary: Robolectric tests verifying the ads blocked dialog's title, message, buttons, dialog type, dismissal behavior, and native callback invocations.
+// ---
+
 package org.chromium.components.subresource_filter;
 
 import static org.mockito.ArgumentMatchers.anyLong;

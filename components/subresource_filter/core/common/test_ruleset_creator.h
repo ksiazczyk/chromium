@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ruleset creator declaration
+// summary: Declares TestRuleset, TestRulesetPair, and TestRulesetCreator for building temporary subresource filtering rulesets in tests.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_TEST_RULESET_CREATOR_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_TEST_RULESET_CREATOR_H_
 

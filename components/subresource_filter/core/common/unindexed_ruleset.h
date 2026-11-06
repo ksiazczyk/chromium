@@ -20,6 +20,12 @@
 // before reading the next one. In practice, this should not be an issue as
 // indexing of the ruleset is expected to be performed in an on-line fashion.
 
+// ---docerion
+// type: source
+// title: Chunked unindexed ruleset reader and writer declarations
+// summary: Declares classes that read and write rulesets split into chunks so the whole ruleset never needs to be deserialized at once.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_UNINDEXED_RULESET_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_CORE_COMMON_UNINDEXED_RULESET_H_
 

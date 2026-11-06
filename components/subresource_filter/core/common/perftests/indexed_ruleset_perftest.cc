@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indexed ruleset performance tests
+// summary: Benchmarks indexing time and URL matching performance of the subresource filter's indexed ruleset using top-100 Alexa page requests and synthetic domains.
+// ---
+
 #include "components/subresource_filter/core/common/indexed_ruleset.h"
 
 #include <algorithm>

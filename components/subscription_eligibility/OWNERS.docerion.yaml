@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the subscription eligibility component
+summary: Lists the component's code owner and delegates ownership to the optimization guide owners file.

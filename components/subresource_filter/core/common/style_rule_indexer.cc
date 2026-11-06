@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Style rule indexer implementation
+// summary: Indexes style rules from protobuf into a flatbuffer, building name-to-selector mappings and assigning rule indices for hiding and exclusion rules.
+// ---
+
 #include "components/subresource_filter/core/common/style_rule_indexer.h"
 
 #include <algorithm>

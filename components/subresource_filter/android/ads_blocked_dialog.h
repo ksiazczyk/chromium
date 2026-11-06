@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads blocked dialog class declarations
+// summary: Declares AdsBlockedDialog and its base interface for showing the Android ads blocked dialog from native code, with ownership and callback usage notes.
+// ---
+
 #ifndef COMPONENTS_SUBRESOURCE_FILTER_ANDROID_ADS_BLOCKED_DIALOG_H_
 #define COMPONENTS_SUBRESOURCE_FILTER_ANDROID_ADS_BLOCKED_DIALOG_H_
 
