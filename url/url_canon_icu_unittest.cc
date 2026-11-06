@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ICU charset conversion in URL canonicalization
+// summary: Unit tests verifying IcuCharsetConverter conversion across encodings such as UTF-8, Big5, and GB2312, including query canonicalization and output resizing.
+// ---
+
 #include "url/url_canon_icu.h"
 
 #include <stddef.h>

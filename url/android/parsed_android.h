@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parsed Android JNI bridge header
+// summary: Declares ParsedAndroid::InitFromParsed for building Java Parsed objects from native URL parse results.
+// ---
+
 #ifndef URL_ANDROID_PARSED_ANDROID_H_
 #define URL_ANDROID_PARSED_ANDROID_H_
 

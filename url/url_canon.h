@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL canonicalization header
+// summary: Declares the canonicalizer output buffer CanonOutputT, CanonMode for special and non-special URLs, and the canonicalization interfaces.
+// ---
+
 #ifndef URL_URL_CANON_H_
 #define URL_URL_CANON_H_
 

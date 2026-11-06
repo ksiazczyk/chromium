@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal URL parsing helpers
+// summary: Declares shared inline helpers for slash handling, URL trimming, and internal path and non-special URL parsing functions used across the parser and canonicalizer.
+// ---
+
 #ifndef URL_URL_PARSE_INTERNAL_H_
 #define URL_URL_PARSE_INTERNAL_H_
 

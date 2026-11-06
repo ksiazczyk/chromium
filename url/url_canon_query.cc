@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Query canonicalization
+// summary: Canonicalizes URL query strings, converting encodings via a charset converter and escaping non-ASCII and control characters in line with the URL spec.
+// ---
+
 #include <string_view>
 
 #include "base/compiler_specific.h"

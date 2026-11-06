@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDN to ASCII conversion utility for Unicode domain names
+// summary: Converts Unicode IDN hostnames to ASCII using IDNA2008 on newer Android versions or IDNA2003 otherwise, with RFC 1122/1123 validation.
+// ---
+
 package org.chromium.url;
 
 import android.icu.text.IDNA;

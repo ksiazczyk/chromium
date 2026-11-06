@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File URL parsing helpers
+// summary: Provides inline helpers for the file URL parser and canonicalizer that detect Windows drive specifications and UNC path prefixes in URL input.
+// ---
+
 #ifndef URL_URL_FILE_H_
 #define URL_URL_FILE_H_
 

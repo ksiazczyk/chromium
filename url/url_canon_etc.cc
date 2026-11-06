@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Miscellaneous URL canonicalizers
+// summary: Implements small canonicalization helpers such as URL whitespace removal, scheme canonicalization tables, and other odds and ends.
+// ---
+
 #include <array>
 #include <string_view>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StdStringCanonOutput class header
+// summary: Declares the StdStringCanonOutput adapter for writing canonicalizer output into a caller-owned std::string, with a Complete call to trim unused space.
+// ---
+
 #ifndef URL_URL_CANON_STDSTRING_H_
 #define URL_URL_CANON_STDSTRING_H_
 

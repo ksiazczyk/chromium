@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL Android JNI bridge implementation
+// summary: Implements conversion between Java GURL objects and native C++ GURL, including origin, domain checks, and component replacement.
+// ---
+
 #include "url/android/gurl_android.h"
 
 #include <cstdint>

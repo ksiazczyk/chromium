@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GURL Mojo traits unit test
+// summary: Unit tests that bounce GURL and Origin values through a Mojo interface to verify serialization of each URL component and edge cases like overly long URLs.
+// ---
+
 #include <utility>
 
 #include "base/test/task_environment.h"

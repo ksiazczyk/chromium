@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Abstract URL tests shared by GURL and KURL
+// summary: Provides a parameterized test suite covering about:blank and about:srcdoc behavior for both url::GURL and blink::KURL through a traits class.
+// ---
+
 #ifndef URL_GURL_ABSTRACT_TESTS_H_
 #define URL_GURL_ABSTRACT_TESTS_H_
 

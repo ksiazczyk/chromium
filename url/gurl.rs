@@ -6,6 +6,12 @@
 // be removed and replaced with directly using the C++ `GURL` type using
 // Crubit-generated `rs_bindings_from_cc`-based bindings.
 
+// ---docerion
+// type: source
+// title: Rust CXX bridge for GURL
+// summary: Exposes the C++ GURL type to Rust via a cxx bridge, adding Send, equality, ordering and debug implementations based on the possibly invalid spec.
+// ---
+
 use std::fmt::Debug;
 
 #[cxx::bridge]

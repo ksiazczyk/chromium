@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit test Origin factories for Robolectric tests
+// summary: Offers factory helpers that build Origin objects from their Mojo representation so Robolectric unit tests can create tuple origins without native code.
+// ---
+
 package org.chromium.url;
 
 /**

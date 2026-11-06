@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchemeHostPort class declaration
+// summary: Declares the SchemeHostPort class representing a URL's scheme, host, and port tuple, with usage documentation.
+// ---
+
 #ifndef URL_SCHEME_HOST_PORT_H_
 #define URL_SCHEME_HOST_PORT_H_
 

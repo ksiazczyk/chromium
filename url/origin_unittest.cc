@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for url::Origin
+// summary: Unit tests for url::Origin covering creation, serialization with nonces, opaque origins, and equality comparisons.
+// ---
+
 #include "url/origin.h"
 
 #include <stddef.h>

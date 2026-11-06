@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper wrapping an ICU UConverter
+// summary: Provides UConvScoper, an RAII wrapper that opens and closes ICU UConverter objects for use in URL canonicalization tests and fuzzers.
+// ---
+
 #ifndef URL_URL_CANON_ICU_TEST_HELPERS_H_
 #define URL_URL_CANON_ICU_TEST_HELPERS_H_
 

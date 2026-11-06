@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS URL scheme constants
+// summary: Declares iOS-specific URL scheme constants for FaceTime and tel-prompt schemes used on Apple platforms.
+// ---
+
 #ifndef URL_URL_CONSTANTS_IOS_H_
 #define URL_URL_CONSTANTS_IOS_H_
 

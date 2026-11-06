@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal scheme component comparison helpers
+// summary: Declares internal helpers that compare a scheme component within a URL string against a lower-case reference string for narrow and wide encodings.
+// ---
+
 #ifndef URL_URL_UTIL_INTERNAL_H_
 #define URL_URL_UTIL_INTERNAL_H_
 

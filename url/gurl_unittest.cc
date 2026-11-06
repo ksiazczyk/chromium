@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GURL unit tests
+// summary: Unit tests covering GURL canonicalization of URL types, relative URL resolution, and component replacement behavior across 8-bit and wide string paths.
+// ---
+
 #include "url/gurl.h"
 
 #include <stddef.h>

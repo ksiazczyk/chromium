@@ -1,0 +1,4 @@
+# Docerion header of url_test.mojom.
+type: test
+title: UrlTest Mojom test interface
+summary: Defines a synchronous Mojo test interface that echoes Url and Origin values back to the caller for serialization tests.

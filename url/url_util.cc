@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL utility implementation
+// summary: Implements the scheme registry and core URL helpers, including scheme classification lists for referrers, security, CORS and storage, plus canonicalization and relative URL resolution.
+// ---
+
 #include "url/url_util.h"
 
 #include <stddef.h>

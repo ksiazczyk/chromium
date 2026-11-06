@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlOriginTestTraits implementation for abstract origin tests
+// summary: Implements UrlOriginTestTraits so the abstract origin tests can run against the url::Origin implementation.
+// ---
+
 #include "url/origin_abstract_tests.h"
 
 namespace url {

@@ -6,6 +6,12 @@
 // should be removed and replaced by directly using the C++ `url::Origin` type
 // via Crubit-generated `rs_bindings_from_cc`-based bindings.
 
+// ---docerion
+// type: source
+// title: Rust bindings for url::Origin
+// summary: Defines a cxx FFI bridge exposing url::Origin and SchemeHostPort to Rust, with equality, ordering, and debug traits implemented via C++ shims.
+// ---
+
 use std::fmt::Debug;
 
 #[cxx::bridge]

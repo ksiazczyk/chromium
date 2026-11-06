@@ -6,6 +6,12 @@
 // of a URL, these are URLs that have no authority section, only a path. For
 // example, "javascript:" and "data:".
 
+// ---docerion
+// type: source
+// title: Path URL canonicalization
+// summary: 'Canonicalizes path-only URLs such as javascript: and data: that have no authority section, applying lax escaping rules to keep the path readable.'
+// ---
+
 #include "url/url_canon.h"
 #include "url/url_canon_internal.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL parsing performance tests
+// summary: Benchmarks parsing and canonicalization of full and typical URLs over roughly a million iterations, including GURL construction timing.
+// ---
+
 #include <string_view>
 
 #include "base/test/perf_time_logger.h"

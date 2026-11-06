@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the URL directory
+summary: Lists the Chromium developers responsible for reviewing changes to the URL directory and notes to keep the list in sync with the global owners override.

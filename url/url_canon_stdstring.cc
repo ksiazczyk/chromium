@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: std::string canonicalizer output
+// summary: Implements the StdStringCanonOutput class that appends canonicalized URL data directly into an existing std::string buffer.
+// ---
+
 #include "url/url_canon_stdstring.h"
 
 namespace url {

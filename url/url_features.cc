@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL feature flags implementation
+// summary: Defines base::Feature flags governing URL parsing behavior, such as space characters in hosts, IDNA ContextJ rules, and percent-encoded dots, with accessor functions that fall back to defaults before the FeatureList is ready.
+// ---
+
 #include "url/url_features.h"
 #include "base/feature_list.h"
 

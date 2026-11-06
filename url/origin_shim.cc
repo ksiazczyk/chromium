@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ shims for Origin Rust interop
+// summary: Implements C++ shim functions such as OriginCompare and origin creation helpers that are exposed to Rust via FFI.
+// ---
+
 #include "url/origin_shim.h"
 
 namespace url {

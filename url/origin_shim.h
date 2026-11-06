@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin Rust interop shim declarations
+// summary: Declares C++ shim functions that let Rust code compare, clone, and create url::Origin and read SchemeHostPort fields.
+// ---
+
 #ifndef URL_ORIGIN_SHIM_H_
 #define URL_ORIGIN_SHIM_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of url_idna_icu_alternatives_ios.mm.
+type: source
+title: iOS IDNA conversion stub
+summary: Provides an iOS IDNToASCII that only accepts ASCII hostnames and fails for non-ASCII input, since conversion is expected to happen via NSString+IDN beforehand.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal URL canonicalization helpers
+// summary: Implements shared escaping and UTF handling routines for URL canonicalization, including a SIMD fast path for validating long query strings.
+// ---
+
 #include "url/url_canon_internal.h"
 
 #include <errno.h>

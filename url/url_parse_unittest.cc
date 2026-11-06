@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL parser unit tests
+// summary: Verifies URL component parsing across standard, path, mailto, and filesystem URL cases, including component range and validity assertions.
+// ---
+
 #include "url/third_party/mozilla/url_parse.h"
 
 #include <stddef.h>

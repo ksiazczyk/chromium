@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL utility API
+// summary: Declares the public API for registering and querying URL scheme properties, scoped scheme registries for tests, Android WebView non-standard scheme support, and relative URL resolution.
+// ---
+
 #ifndef URL_URL_UTIL_H_
 #define URL_URL_UTIL_H_
 

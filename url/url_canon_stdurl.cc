@@ -5,6 +5,12 @@
 // Functions to canonicalize "standard" URLs, which are ones that have an
 // authority section including a host name.
 
+// ---docerion
+// type: source
+// title: Standard URL canonicalization
+// summary: Canonicalizes standard URLs with an authority section, handling scheme, user info, host, port, path, query, and ref according to scheme capabilities.
+// ---
+
 #include "base/compiler_specific.h"
 #include "url/url_canon.h"
 #include "url/url_canon_internal.h"

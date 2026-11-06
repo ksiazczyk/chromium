@@ -4,6 +4,12 @@
 
 // ICU-based IDNA converter.
 
+// ---docerion
+// type: source
+// title: ICU-based IDNA host conversion
+// summary: "Converts Unicode hostnames to ASCII using ICU's UTS #46/IDNA 2008 implementation, applying options that match the WHATWG URL Standard."
+// ---
+
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>

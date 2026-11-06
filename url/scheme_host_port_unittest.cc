@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SchemeHostPort unit tests
+// summary: Unit tests covering SchemeHostPort validity, construction from URLs and tuples, and serialization behavior.
+// ---
+
 #include "url/scheme_host_port.h"
 
 #include <stddef.h>

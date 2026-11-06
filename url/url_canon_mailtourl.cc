@@ -4,6 +4,12 @@
 
 // Functions for canonicalizing "mailto:" URLs.
 
+// ---docerion
+// type: source
+// title: Canonicalization of mailto URLs
+// summary: Implements canonicalization and replacement of mailto URLs, percent-encoding risky characters in the path to mitigate command injection.
+// ---
+
 #include "base/compiler_specific.h"
 #include "url/url_canon.h"
 #include "url/url_canon_internal.h"

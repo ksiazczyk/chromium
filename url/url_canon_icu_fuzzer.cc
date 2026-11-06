@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the ICU charset converter
+// summary: Fuzz target that feeds arbitrary input to IcuCharsetConverter::ConvertFromUtf16 through a UTF-8 converter to find crashes in the conversion path.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

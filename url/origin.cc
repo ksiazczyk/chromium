@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin class implementation
+// summary: Implements url::Origin, creating tuple and opaque origins from GURLs per the HTML and URL standards, including blob and filesystem handling.
+// ---
+
 #include "url/origin.h"
 
 #include <stdint.h>

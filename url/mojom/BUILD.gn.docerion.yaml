@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for url Mojom bindings
+summary: Defines GN targets for the url Mojom interfaces, typemaps mapping Mojom types to GURL, KURL, url::Origin and SchemeHostPort, and the mojom_traits component.

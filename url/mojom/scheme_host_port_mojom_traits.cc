@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deserialization of url::SchemeHostPort from Mojom
+// summary: Implements reading url::SchemeHostPort from Mojom data and rejects invalid non-empty values received over Mojo.
+// ---
+
 #include "url/mojom/scheme_host_port_mojom_traits.h"
 
 #include <string_view>

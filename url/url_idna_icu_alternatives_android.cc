@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android IDNA conversion via JNI
+// summary: Implements IDNToASCII on Android by delegating hostname conversion to the JDK's IDNA 2003 implementation through JNI.
+// ---
+
 #include <string.h>
 
 #include <string>

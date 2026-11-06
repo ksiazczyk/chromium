@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL canonicalization unit tests
+// summary: Extensive unit tests for URL canonicalization covering components, IP addresses, replacements, and special versus non-special path handling.
+// ---
+
 #include "url/url_canon.h"
 
 #include <errno.h>

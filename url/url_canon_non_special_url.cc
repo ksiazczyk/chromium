@@ -4,6 +4,12 @@
 
 // Functions to canonicalize non-special URLs.
 
+// ---docerion
+// type: source
+// title: Canonicalization of non-special URLs
+// summary: Implements canonicalization of non-special scheme URLs, handling authority, path, and query edge cases per the WHATWG URL Standard.
+// ---
+
 #include "url/url_canon.h"
 #include "url/url_canon_internal.h"
 

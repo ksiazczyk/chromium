@@ -1,0 +1,4 @@
+# Docerion header of gurl_fuzzer.dict.
+type: data
+title: GURL fuzzer dictionary
+summary: libFuzzer dictionary of URL-related tokens generated from RFC 3986 and Chromium URL constants to guide GURL fuzzing inputs.

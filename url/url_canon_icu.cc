@@ -4,6 +4,12 @@
 
 // ICU-based character set converter.
 
+// ---docerion
+// type: source
+// title: ICU charset converter for URL canonicalization
+// summary: Provides an ICU-based character set converter that escapes unrepresentable characters as numeric references during canonicalization.
+// ---
+
 #include "url/url_canon_icu.h"
 
 #include <stdint.h>

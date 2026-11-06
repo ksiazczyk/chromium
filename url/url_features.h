@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL feature flags declarations
+// summary: Declares the URL library's base::Feature flags and query functions covering host parsing, IDNA rules, non-special leading slash handling, and GURL scheme caching.
+// ---
+
 #ifndef URL_URL_FEATURES_H_
 #define URL_URL_FEATURES_H_
 

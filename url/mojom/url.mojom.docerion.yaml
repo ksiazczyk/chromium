@@ -1,0 +1,4 @@
+# Docerion header of url.mojom.
+type: source
+title: Url Mojom definition
+summary: Defines the Mojo Url struct and the kMaxURLChars constant limiting how long GURLs may be when passed over Mojo pipes.

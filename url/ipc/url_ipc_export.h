@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL IPC export macro header
+// summary: Header defining the URL_IPC_EXPORT macro for dllexport, dllimport, or default visibility depending on component build and platform.
+// ---
+
 #ifndef URL_IPC_URL_IPC_EXPORT_H_
 #define URL_IPC_URL_IPC_EXPORT_H_
 

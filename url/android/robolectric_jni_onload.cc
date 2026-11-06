@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Robolectric JNI_OnLoad for URL Android tests
+// summary: Defines the JNI_OnLoad entry point that initializes the Android Java VM and registers URL schemes for Robolectric test environments.
+// ---
+
 #include <jni.h>
 
 #include "base/android/base_jni_init.h"

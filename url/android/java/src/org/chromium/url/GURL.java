@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: "GURL: immutable Java wrapper for Chromium's native URL parser"
+// summary: Provides an immutable Java wrapper around native GURL for parsing URLs, caching components in Java and initializing the native library on demand.
+// ---
+
 package org.chromium.url;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

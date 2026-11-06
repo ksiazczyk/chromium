@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OriginJavaTest
+// summary: JUnit tests for the Origin Java class covering opaque origins, mojom constructors, creation from GURL, and string rendering with large port numbers.
+// ---
+
 package org.chromium.url;
 
 import androidx.test.filters.SmallTest;

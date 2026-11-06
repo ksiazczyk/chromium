@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java Origin equivalence test helper
+// summary: Native test helper that verifies Java and native Origin objects round-trip equivalently across several origin cases.
+// ---
+
 #include <stddef.h>
 
 #include <sstream>

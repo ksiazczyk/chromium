@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IP address parsing helpers for host canonicalization
+// summary: Header with template helpers that convert IPv4 and IPv6 host components to numbers, handling hex, decimal, and octal bases with overflow checks.
+// ---
+
 #ifndef URL_URL_CANON_IP_H_
 #define URL_URL_CANON_IP_H_
 
