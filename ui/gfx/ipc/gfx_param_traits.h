@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC param traits declarations for gfx types
+// summary: Declares IPC ParamTraits specializations for gfx::Range, SelectionBound, and Apple IOSurface types.
+// ---
+
 #ifndef UI_GFX_IPC_GFX_PARAM_TRAITS_H_
 #define UI_GFX_IPC_GFX_PARAM_TRAITS_H_
 

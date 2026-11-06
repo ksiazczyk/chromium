@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RectF to Rect conversion implementations
+// summary: Implements helpers that convert RectF to integer Rect by enclosing, enclosed, nearest, rounded and floored rounding, with error-tolerant edge snapping variants.
+// ---
+
 #include "ui/gfx/geometry/rect_conversions.h"
 
 #include <algorithm>

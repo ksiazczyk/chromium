@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PNG codec implementation
+// summary: Implements PNGCodec encoding and decoding using Skia's Rust PNG decoder and encoder, with dimension and memory limits.
+// ---
+
 #include "ui/gfx/codec/png_codec.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timing function implementation
+// summary: Implements cubic bezier and steps timing functions, including CSS preset easing curves and step position jump handling.
+// ---
+
 #include "ui/gfx/animation/keyframe/timing_function.h"
 
 #include <algorithm>

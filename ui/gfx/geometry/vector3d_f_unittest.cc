@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector3dF unit tests
+// summary: GoogleTest suite verifying Vector3dF behavior including IsZero, addition, subtraction, negation, scaling, and related vector operations.
+// ---
+
 #include "ui/gfx/geometry/vector3d_f.h"
 
 #include <stddef.h>

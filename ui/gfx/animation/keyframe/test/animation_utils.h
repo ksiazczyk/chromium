@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation test utilities header
+// summary: Declares test helper functions for creating transform, size, float and color keyframe animations plus time conversion utilities in the gfx namespace.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_TEST_ANIMATION_UTILS_H_
 #define UI_GFX_ANIMATION_KEYFRAME_TEST_ANIMATION_UTILS_H_
 

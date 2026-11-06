@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkiaRep platform header selector
+// summary: Header that selects and includes the platform-specific ImageSkiaRep definition, choosing the iOS variant or the default one.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_SKIA_REP_H_
 #define UI_GFX_IMAGE_IMAGE_SKIA_REP_H_
 

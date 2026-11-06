@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LinearGradient unit tests
+// summary: Unit tests for LinearGradient covering step handling, reversal of empty and filled gradients, and angle changes under Transform and AxisTransform2d.
+// ---
+
 #include "ui/gfx/geometry/linear_gradient.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG codec implementation
+// summary: Implements JPEGCodec encoding and decoding by wrapping Skia JPEG encoders and decoders, including the Rust variants, with size limits.
+// ---
+
 #include "ui/gfx/codec/jpeg_codec.h"
 
 #include <climits>

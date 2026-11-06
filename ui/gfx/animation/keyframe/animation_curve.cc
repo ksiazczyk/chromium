@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation curve base class implementation
+// summary: Implements the AnimationCurve base class with default behaviors and macro-generated Tick, Type, and casting methods for transform, float, size, color, and rect curves.
+// ---
+
 #include "ui/gfx/animation/keyframe/animation_curve.h"
 
 #include "base/check.h"

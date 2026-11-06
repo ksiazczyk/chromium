@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InsetsF and OutsetsF base implementation
+// summary: Implements ToString for the floating-point InsetsF and OutsetsF shared base template, formatting the edge values as a string.
+// ---
+
 #include "ui/gfx/geometry/insets_outsets_f_base.h"
 
 #include <string>

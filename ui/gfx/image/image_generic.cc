@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generic PNG conversion helpers for gfx::Image
+// summary: Platform-generic implementation converting PNG representations to ImageSkia and encoding 1x PNG bytes, with a red error image for decode failures.
+// ---
+
 #include <memory>
 #include <set>
 #include <utility>

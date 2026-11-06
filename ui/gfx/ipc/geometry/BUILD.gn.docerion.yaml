@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for gfx IPC geometry
+summary: GN build file defining the gfx_ipc_geometry component with its sources, implementation define, and dependencies on base, IPC, and ui/gfx/geometry.

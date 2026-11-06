@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC serialization for gfx geometry types
+// summary: Implements IPC ParamTraits Write and Read for gfx points, sizes, vectors, and rects, serializing their coordinates into base pickles.
+// ---
+
 #include "ui/gfx/ipc/geometry/gfx_param_traits.h"
 
 #include <stdint.h>

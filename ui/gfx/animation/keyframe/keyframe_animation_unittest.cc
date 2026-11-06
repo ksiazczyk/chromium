@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyframe animation unit tests
+// summary: Unit tests for KeyframeEffect covering adding and removing keyframe models, transitions, ticking, and animation of size, transform, float, color, and rect properties.
+// ---
+
 #include "ui/gfx/animation/keyframe/keyframe_effect.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

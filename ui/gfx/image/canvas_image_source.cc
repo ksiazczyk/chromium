@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanvasImageSource implementation
+// summary: Implements CanvasImageSource, rendering ImageSkia representations at requested scale factors via gfx::Canvas and providing padded image creation.
+// ---
+
 #include "ui/gfx/image/canvas_image_source.h"
 
 #include "base/check_op.h"

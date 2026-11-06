@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation test utilities implementation
+// summary: Implements helper functions that build transform, size, float and color keyframe animations and convert milliseconds or microseconds to time ticks and deltas for tests.
+// ---
+
 #include "ui/gfx/animation/keyframe/test/animation_utils.h"
 
 #include "base/time/time.h"

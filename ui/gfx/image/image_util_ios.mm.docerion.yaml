@@ -1,0 +1,4 @@
+# Docerion header of image_util_ios.mm.
+type: source
+title: iOS image utility implementations
+summary: Provides the iOS implementations of JPEG encoding and image resizing for search-by-image, using UIKit drawing helpers copied from google-toolbox-for-mac.

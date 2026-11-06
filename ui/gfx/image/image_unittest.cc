@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gfx::Image unit tests
+// summary: Unit tests for gfx::Image covering empty images, sizes, PNG representations, and platform conversions across Apple and non-Apple platforms.
+// ---
+
 #include <stddef.h>
 
 #include <utility>

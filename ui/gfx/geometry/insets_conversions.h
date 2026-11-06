@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insets conversion function declarations
+// summary: Declares gfx functions that convert floating-point InsetsF values to integer Insets by flooring, ceiling, or rounding each component.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_INSETS_CONVERSIONS_H_
 #define UI_GFX_GEOMETRY_INSETS_CONVERSIONS_H_
 

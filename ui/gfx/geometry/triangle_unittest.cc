@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Triangle unit tests
+// summary: Unit tests for PointIsInTriangle, covering points inside, outside, on an edge, and at a vertex of a triangle.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point class header
+// summary: Declares gfx::Point, an integer 2D point with clamped vector arithmetic, ordering, transposition, and platform conversion support.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_POINT_H_
 #define UI_GFX_GEOMETRY_POINT_H_
 

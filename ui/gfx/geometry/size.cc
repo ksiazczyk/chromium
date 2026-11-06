@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integer Size class implementation
+// summary: Implements gfx::Size operations such as enlargement, min and max, checked area computation and scaling helpers for integer sizes.
+// ---
+
 #include "ui/gfx/geometry/size.h"
 
 #include "base/numerics/clamped_math.h"

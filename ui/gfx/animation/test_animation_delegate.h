@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test animation delegate helper
+// summary: Trivial AnimationDelegate implementation for tests that records finished and canceled states and can quit the message loop.
+// ---
+
 #ifndef UI_GFX_ANIMATION_TEST_ANIMATION_DELEGATE_H_
 #define UI_GFX_ANIMATION_TEST_ANIMATION_DELEGATE_H_
 

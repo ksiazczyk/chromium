@@ -1,0 +1,4 @@
+# Docerion header of animation_mac.mm.
+type: source
+title: macOS animation platform implementation
+summary: Implements macOS-specific animation settings using Cocoa user defaults and the accessibility reduced motion preference.

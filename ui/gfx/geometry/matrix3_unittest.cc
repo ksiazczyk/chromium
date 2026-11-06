@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Matrix3F unit tests
+// summary: Unit tests for Matrix3F covering constructors, data access, determinant, inverse, transpose, and arithmetic operators.
+// ---
+
 #include <cmath>
 #include <limits>
 

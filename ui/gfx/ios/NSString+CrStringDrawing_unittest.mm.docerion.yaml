@@ -1,0 +1,4 @@
+# Docerion header of NSString+CrStringDrawing_unittest.mm.
+type: test
+title: NSString+CrStringDrawing unit tests
+summary: Platform unit tests verifying that the category methods return the same sizes as the deprecated UIKit sizeWithFont methods across fonts, strings, and sizes.

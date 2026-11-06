@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkiaRep iOS implementation
+// summary: Implements the iOS variant of ImageSkiaRep with SkBitmap-backed representations, since iOS does not use paint record buffers here.
+// ---
+
 #include "ui/gfx/image/image_skia_rep_ios.h"
 
 #include "base/check_op.h"

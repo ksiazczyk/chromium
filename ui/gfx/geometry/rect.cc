@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Integer rectangle implementation
+// summary: Implements the gfx::Rect integer rectangle class, including platform conversions, saturated range clamping, insets, offsets, containment and intersection operations.
+// ---
+
 #include "ui/gfx/geometry/rect.h"
 
 #include <algorithm>

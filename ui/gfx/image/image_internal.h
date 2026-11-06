@@ -5,6 +5,12 @@
 // This holds internal declarations for the machinery of gfx::Image. These are
 // only for the internal use of gfx::Image; do not use them elsewhere.
 
+// ---docerion
+// type: source
+// title: Internal declarations for gfx::Image representations
+// summary: Declares the internal ImageRep base class and ref-counted ImageStorage that hold and manage the representations backing a gfx::Image.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_INTERNAL_H_
 #define UI_GFX_IMAGE_IMAGE_INTERNAL_H_
 

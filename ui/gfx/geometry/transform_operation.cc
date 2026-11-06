@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform operation implementation
+// summary: Implements TransformOperation, covering identity checks, shared-axis rotation blending, and baking of translate, rotate, scale, and skew operations into a matrix.
+// ---
+
 
 #include "ui/gfx/geometry/transform_operation.h"
 

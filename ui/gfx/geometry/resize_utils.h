@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for aspect-ratio resize utilities and ResizeEdge enum
+// summary: Declares the ResizeEdge enum and SizeRectToAspectRatio helpers that constrain a rectangle to an aspect ratio with optional min, max, and excluded margin sizes.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_RESIZE_UTILS_H_
 #define UI_GFX_GEOMETRY_RESIZE_UTILS_H_
 

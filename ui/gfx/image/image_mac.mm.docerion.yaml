@@ -1,0 +1,4 @@
+# Docerion header of image_mac.mm.
+type: source
+title: Mac implementation of gfx::Image platform helpers
+summary: macOS-specific code implementing the Cocoa image representation and converting between PNG data and NSImage, with a red error image on failure.

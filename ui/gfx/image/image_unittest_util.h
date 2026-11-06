@@ -5,6 +5,12 @@
 // Because the unit tests for gfx::Image are spread across multiple
 // implementation files, this header contains the reusable components.
 
+// ---docerion
+// type: test
+// title: Shared gfx::Image test utilities header
+// summary: Declares reusable helpers for gfx::Image unit tests, including image and bitmap creation, comparison functions, and platform image typedefs.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_UNITTEST_UTIL_H_
 #define UI_GFX_IMAGE_IMAGE_UNITTEST_UTIL_H_
 

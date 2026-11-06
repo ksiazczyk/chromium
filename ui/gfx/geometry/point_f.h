@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointF class declaration
+// summary: Declares the gfx::PointF floating-point 2D point class with vector arithmetic, scaling, comparison, distance, transpose, and tracing support for the gfx geometry component.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_POINT_F_H_
 #define UI_GFX_GEOMETRY_POINT_F_H_
 

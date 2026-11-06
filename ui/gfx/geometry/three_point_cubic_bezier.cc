@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Three-point cubic bezier implementation
+// summary: Implements ThreePointCubicBezier, a curve composed of two cubic bezier curves sharing a common midpoint, with a Solve method to evaluate y at a given x.
+// ---
+
 #include "ui/gfx/geometry/three_point_cubic_bezier.h"
 
 #include <algorithm>

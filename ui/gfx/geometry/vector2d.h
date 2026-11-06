@@ -7,6 +7,12 @@
 // produce a vector, and adding a vector to a point produces the point at the
 // vector's distance from the original point.
 
+// ---docerion
+// type: source
+// title: Vector2d integer vector class
+// summary: Declares the gfx::Vector2d integer vector class with arithmetic, min/max, transpose, and length operations for 2D distances.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_VECTOR2D_H_
 #define UI_GFX_GEOMETRY_VECTOR2D_H_
 

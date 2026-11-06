@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector3dF float vector implementation
+// summary: Implements the three-dimensional float vector class with arithmetic, scaling, cross product, normalization, and angle helpers.
+// ---
+
 #include "ui/gfx/geometry/vector3d_f.h"
 
 #include <cmath>

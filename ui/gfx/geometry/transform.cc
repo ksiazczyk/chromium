@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform class implementation
+// summary: Implements the Transform class, a 4x4 transformation matrix that stores simple 2d scale and translation as AxisTransform2d and otherwise uses a full Matrix44.
+// ---
+
 #include "ui/gfx/geometry/transform.h"
 
 #include <array>

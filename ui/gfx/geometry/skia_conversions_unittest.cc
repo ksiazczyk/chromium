@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia conversions unit tests
+// summary: Unit tests verifying conversions between gfx geometry types and Skia types, including rect accuracy, clamping of extreme values, and matrix conversions.
+// ---
+
 #include "ui/gfx/geometry/skia_conversions.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

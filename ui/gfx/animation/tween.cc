@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tween implementation
+// summary: Implements Tween curve calculations, mapping animation state through linear, ease and cubic bezier based acceleration and deceleration curves.
+// ---
+
 #include "ui/gfx/animation/tween.h"
 
 #include <math.h>

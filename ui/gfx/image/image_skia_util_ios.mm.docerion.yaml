@@ -1,0 +1,4 @@
+# Docerion header of image_skia_util_ios.mm.
+type: source
+title: ImageSkia and UIImage conversion implementation for iOS
+summary: Implements conversion between ImageSkia and UIImage using Skia helpers, handling resizing failures and the device RGB color space.

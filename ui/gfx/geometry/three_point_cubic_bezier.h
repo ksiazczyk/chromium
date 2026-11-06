@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Three-point cubic bezier class
+// summary: Declares the ThreePointCubicBezier class, a curve of two cubic bezier segments sharing a midpoint that runs through (0,0), the midpoint, and (1,1).
+// ---
+
 #ifndef UI_GFX_GEOMETRY_THREE_POINT_CUBIC_BEZIER_H_
 #define UI_GFX_GEOMETRY_THREE_POINT_CUBIC_BEZIER_H_
 

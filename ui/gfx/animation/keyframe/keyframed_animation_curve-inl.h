@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyframed animation curve inline templates
+// summary: Inline template helpers for keyframed curves, handling keyframe insertion, timing function transformation, active keyframe lookup, and progress computation.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_KEYFRAMED_ANIMATION_CURVE_INL_H_
 #define UI_GFX_ANIMATION_KEYFRAME_KEYFRAMED_ANIMATION_CURVE_INL_H_
 

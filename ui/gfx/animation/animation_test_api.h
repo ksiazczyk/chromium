@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation test API declarations
+// summary: Declares AnimationTestApi and AnimationContainerTestApi for accessing animation internals and controlling animation time in tests.
+// ---
+
 #ifndef UI_GFX_ANIMATION_ANIMATION_TEST_API_H_
 #define UI_GFX_ANIMATION_ANIMATION_TEST_API_H_
 

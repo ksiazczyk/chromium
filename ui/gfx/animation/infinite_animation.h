@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfiniteAnimation class declaration
+// summary: Declares an animation that runs indefinitely at a set interval until Stop() is called, with no end state.
+// ---
+
 #ifndef UI_GFX_ANIMATION_INFINITE_ANIMATION_H_
 #define UI_GFX_ANIMATION_INFINITE_ANIMATION_H_
 

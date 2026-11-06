@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point implementation
+// summary: Implements gfx::Point with Windows and Apple platform point conversions, min/max helpers, and scaling helpers that floor, ceil, or round the result.
+// ---
+
 #include "ui/gfx/geometry/point.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux animation platform implementation
+// summary: Implements Linux-specific animation enablement and reduced motion checks using the Linux UI global setting.
+// ---
+
 #include "ui/gfx/animation/animation.h"
 
 #include "ui/linux/linux_ui.h"

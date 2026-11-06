@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VectorWStream implementation
+// summary: Implements VectorWStream, an SkWStream that writes bytes into a caller-owned std::vector buffer.
+// ---
+
 #include "ui/gfx/codec/vector_wstream.h"
 
 namespace gfx {

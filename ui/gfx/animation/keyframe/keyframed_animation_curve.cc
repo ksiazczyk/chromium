@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyframed animation curve implementation
+// summary: Implements keyframe classes and keyframed animation curves for color, float, transform, size and rect animations, including curve retargeting logic.
+// ---
+
 #include "ui/gfx/animation/keyframe/keyframed_animation_curve.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CODEC_EXPORT macro definitions
+// summary: Defines the CODEC_EXPORT macro for importing and exporting symbols when building the codec as a component.
+// ---
+
 #ifndef UI_GFX_CODEC_CODEC_EXPORT_H_
 #define UI_GFX_CODEC_CODEC_EXPORT_H_
 

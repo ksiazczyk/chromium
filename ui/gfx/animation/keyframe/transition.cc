@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transition implementation
+// summary: Implements Transition constructors and destructor, defaulting the transition duration to 225 milliseconds.
+// ---
+
 #include "ui/gfx/animation/keyframe/transition.h"
 
 namespace gfx {

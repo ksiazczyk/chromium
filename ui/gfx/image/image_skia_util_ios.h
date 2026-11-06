@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkia and UIImage conversion helpers for iOS
+// summary: Declares functions to convert between gfx::ImageSkia and UIImage, including conversions at explicit scale factors on iOS.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_SKIA_UTIL_IOS_H_
 #define UI_GFX_IMAGE_IMAGE_SKIA_UTIL_IOS_H_
 

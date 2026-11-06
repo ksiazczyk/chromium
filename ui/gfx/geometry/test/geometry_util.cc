@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gtest assertions for gfx geometry float equality
+// summary: Implements gtest predicate functions that compare gfx geometry types such as transforms, quaternions and boxes with floating-point tolerance.
+// ---
+
 
 #include "ui/gfx/geometry/test/geometry_util.h"
 

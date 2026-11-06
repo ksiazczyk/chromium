@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ui/gfx/image
+summary: Lists code owners for the image directory, assigning per-file ownership of ImageSkia-related classes to oshima@chromium.org.

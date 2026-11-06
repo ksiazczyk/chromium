@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InsetsF unit tests
+// summary: gtest unit tests covering InsetsF construction, setters, width and height, transpose, arithmetic operators, and outsets conversion.
+// ---
+
 #include "ui/gfx/geometry/insets_f.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationContainerObserver interface header
+// summary: Defines observer callbacks notified after animation container updates, when it empties and when it shuts down.
+// ---
+
 #ifndef UI_GFX_ANIMATION_ANIMATION_CONTAINER_OBSERVER_H_
 #define UI_GFX_ANIMATION_ANIMATION_CONTAINER_OBSERVER_H_
 

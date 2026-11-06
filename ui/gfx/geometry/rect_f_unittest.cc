@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RectF unit tests
+// summary: Unit tests for the RectF class covering point containment, inclusive containment, bounding rectangles, insets, offsets, intersection and union behavior.
+// ---
+
 #include "ui/gfx/geometry/rect_f.h"
 
 #include <cmath>

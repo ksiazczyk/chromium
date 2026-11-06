@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationRunner default implementation
+// summary: Provides a default timer-based AnimationRunner implementation plus base class start, step and testing methods.
+// ---
+
 #include "ui/gfx/animation/animation_runner.h"
 
 #include <utility>

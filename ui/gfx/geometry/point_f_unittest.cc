@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PointF unit tests
+// summary: gtest unit tests for PointF covering Point conversion, origin checks, rounding, scaling, min/max, distance, transpose, and string formatting.
+// ---
+
 #include "ui/gfx/geometry/point_f.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

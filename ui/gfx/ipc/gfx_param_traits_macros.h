@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC serialization macros for gfx swap and selection types
+// summary: Defines IPC enum and struct traits macros for gfx::SwapResult, SwapResponse, SwapTimings, and SelectionBound types.
+// ---
+
 // Singly or multiply-included shared traits file depending upon circumstances.
 // This allows the use of IPC serialization macros in more than one IPC message
 // file.

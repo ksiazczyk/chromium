@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AxisTransform2d class for 2D scale and translation
+// summary: Declares AxisTransform2d, a 2D transform limited to scaling and translation, with mapping, concatenation and inversion helpers.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_AXIS_TRANSFORM2D_H_
 #define UI_GFX_GEOMETRY_AXIS_TRANSFORM2D_H_
 

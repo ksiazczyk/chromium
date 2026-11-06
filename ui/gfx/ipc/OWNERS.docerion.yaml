@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file ownership rules for param traits files
+summary: Delegates review of all param traits files to the IPC security owners via per-file ownership rules.

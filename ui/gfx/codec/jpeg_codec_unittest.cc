@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JPEG codec unit tests
+// summary: Unit tests for JPEGCodec encode and decode, including oversized image rejection and Rust decoder feature coverage.
+// ---
+
 #include "ui/gfx/codec/jpeg_codec.h"
 
 #include <math.h>

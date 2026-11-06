@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target properties bitset definition
+// summary: Defines a bitset type representing sets of animation target properties, capped at 32 property indices.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_TARGET_PROPERTY_H_
 #define UI_GFX_ANIMATION_KEYFRAME_TARGET_PROPERTY_H_
 

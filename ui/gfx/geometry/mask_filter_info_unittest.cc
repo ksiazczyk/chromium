@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MaskFilterInfo unit tests
+// summary: Unit tests for MaskFilterInfo verifying transform application to rounded corners and gradient masks with Transform and AxisTransform2d, including invalid cases.
+// ---
+
 #include "ui/gfx/geometry/mask_filter_info.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

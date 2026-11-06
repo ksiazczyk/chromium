@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebP codec interface
+// summary: Declares the WebpCodec interface for lossy and animated WebP encoding, used by the devtools protocol for screenshots.
+// ---
+
 #ifndef UI_GFX_CODEC_WEBP_CODEC_H_
 #define UI_GFX_CODEC_WEBP_CODEC_H_
 

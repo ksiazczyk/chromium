@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutsetsF class header
+// summary: Declares gfx::OutsetsF, the floating-point version of Outsets for expanding a rectangle on all four sides, with conversion to InsetsF.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_OUTSETS_F_H_
 #define UI_GFX_GEOMETRY_OUTSETS_F_H_
 

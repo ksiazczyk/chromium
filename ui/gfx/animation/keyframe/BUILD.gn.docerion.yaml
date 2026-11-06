@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the keyframe component
+summary: GN build file that defines the keyframe component, listing its sources, dependencies, and compiler configurations.

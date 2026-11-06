@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PNG codec unit tests
+// summary: Unit tests for gfx::PNGCodec covering encoding and decoding of RGB, RGBA, palette, and grayscale PNG images.
+// ---
+
 #include "ui/gfx/codec/png_codec.h"
 
 #include <stddef.h>

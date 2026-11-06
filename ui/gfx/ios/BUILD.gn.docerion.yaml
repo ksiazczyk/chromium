@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for uikit_util
+summary: GN build file defining the uikit_util source set with its sources and the UIKit framework dependency.

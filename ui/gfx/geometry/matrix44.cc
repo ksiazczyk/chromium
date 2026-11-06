@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Matrix44 implementation
+// summary: Implements the Matrix44 4x4 double matrix, including SIMD-based inversion, column-major accessors, and pre/post translation operations backing gfx::Transform.
+// ---
+
 #include "ui/gfx/geometry/matrix44.h"
 
 #include <algorithm>

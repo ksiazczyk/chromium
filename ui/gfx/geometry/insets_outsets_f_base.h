@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InsetsF and OutsetsF base template
+// summary: Defines the common base template for floating-point InsetsF and OutsetsF with setters, scaling, transpose, arithmetic, and comparison operators.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_INSETS_OUTSETS_F_BASE_H_
 #define UI_GFX_GEOMETRY_INSETS_OUTSETS_F_BASE_H_
 

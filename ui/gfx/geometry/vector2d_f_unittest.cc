@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector2dF unit tests
+// summary: Unit tests for Vector2dF covering zero checks, arithmetic, negation, scaling, min/max, length, and conversion from Vector2d.
+// ---
+
 
 #include "ui/gfx/geometry/vector2d_f.h"
 

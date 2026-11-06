@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GFX IPC geometry export macro header
+// summary: Defines the GFX_IPC_GEOMETRY_EXPORT macro that controls symbol import and export for the component build on Windows and other platforms.
+// ---
+
 #ifndef UI_GFX_IPC_GEOMETRY_GFX_IPC_GEOMETRY_EXPORT_H_
 #define UI_GFX_IPC_GEOMETRY_GFX_IPC_GEOMETRY_EXPORT_H_
 

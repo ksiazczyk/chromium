@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanvasImageSource class declaration
+// summary: Declares CanvasImageSource, an ImageSkiaSource that draws images on a Canvas at a given scale factor, with a MakeImageSkia factory and CreatePadded helper.
+// ---
+
 #ifndef UI_GFX_IMAGE_CANVAS_IMAGE_SOURCE_H_
 #define UI_GFX_IMAGE_CANVAS_IMAGE_SOURCE_H_
 

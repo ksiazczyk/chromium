@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transform utility unit tests
+// summary: Unit tests for transform utilities such as anchored scale transforms, pivot transforms, decomposed blending and accumulation, and rect-to-rect mapping.
+// ---
+
 #include "ui/gfx/geometry/transform_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation base class interface
+// summary: Declares the Animation base class for building animation types, with start and stop control, current value helpers and rich animation settings.
+// ---
+
 #ifndef UI_GFX_ANIMATION_ANIMATION_H_
 #define UI_GFX_ANIMATION_ANIMATION_H_
 

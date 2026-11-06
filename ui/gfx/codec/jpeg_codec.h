@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEGCodec class interface
+// summary: Declares the JPEGCodec API for encoding and decoding JPEG images as a simpler wrapper around Skia image codecs for UI use.
+// ---
+
 #ifndef UI_GFX_CODEC_JPEG_CODEC_H_
 #define UI_GFX_CODEC_JPEG_CODEC_H_
 

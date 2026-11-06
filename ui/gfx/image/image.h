@@ -16,6 +16,12 @@
 // Images can be empty, in which case they have no backing representation.
 // Attempting to use an empty Image will result in a crash.
 
+// ---docerion
+// type: source
+// title: gfx::Image class declaration
+// summary: Declares Image, a wrapper for platform-native and Skia images that caches converted representations and supports creation from bitmaps or PNG bytes.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_H_
 #define UI_GFX_IMAGE_IMAGE_H_
 

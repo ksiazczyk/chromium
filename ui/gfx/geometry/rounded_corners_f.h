@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedCornersF class for four corner radii
+// summary: Defines a RoundedCornersF value type holding four clamped corner radii with constructors, setters, scaling, comparison, and emptiness checks.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_ROUNDED_CORNERS_F_H_
 #define UI_GFX_GEOMETRY_ROUNDED_CORNERS_F_H_
 

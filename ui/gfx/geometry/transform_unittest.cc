@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transform unit tests
+// summary: Extensive unit tests for the gfx::Transform matrix class, verifying matrix rows, rotations, point and rect mapping, and related geometry behavior.
+// ---
+
 #include "ui/gfx/geometry/transform.h"
 
 #include <stddef.h>

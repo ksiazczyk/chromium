@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkiaRep class declaration
+// summary: Declares ImageSkiaRep, a single-scale image representation backed by a bitmap or paint record, exposing pixel and DIP size accessors.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_SKIA_REP_DEFAULT_H_
 #define UI_GFX_IMAGE_IMAGE_SKIA_REP_DEFAULT_H_
 

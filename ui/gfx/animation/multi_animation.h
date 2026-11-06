@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiAnimation class header
+// summary: Declares MultiAnimation, an animation composed of sequential parts with per-part tween types, start and end values, and optional continuous cycling.
+// ---
+
 #ifndef UI_GFX_ANIMATION_MULTI_ANIMATION_H_
 #define UI_GFX_ANIMATION_MULTI_ANIMATION_H_
 

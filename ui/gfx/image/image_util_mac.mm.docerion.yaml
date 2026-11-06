@@ -1,0 +1,4 @@
+# Docerion header of image_util_mac.mm.
+type: source
+title: Mac image utility implementations
+summary: Implements JPEG encoding of gfx images on macOS via Cocoa bitmap representations, falling back to the Skia representation path when needed.

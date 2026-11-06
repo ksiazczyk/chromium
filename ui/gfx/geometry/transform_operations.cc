@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransformOperations implementation
+// summary: Implements applying, blending and computing animated bounds for lists of transform operations, with discrete fallback when matrices cannot be blended.
+// ---
+
 #include "ui/gfx/geometry/transform_operations.h"
 
 #include <stddef.h>

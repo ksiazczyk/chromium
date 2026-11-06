@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkia and NSImage conversion helpers for Mac
+// summary: Declares functions to convert between gfx::ImageSkia and NSImage, including resizing to a DIP size before conversion on macOS.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_SKIA_UTIL_MAC_H_
 #define UI_GFX_IMAGE_IMAGE_SKIA_UTIL_MAC_H_
 

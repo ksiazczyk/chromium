@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector2dF float vector implementation
+// summary: Implements the float two-dimensional vector class with arithmetic, scaling, length, dot and cross products, and slope angle.
+// ---
+
 #include "ui/gfx/geometry/vector2d_f.h"
 
 #include <cmath>

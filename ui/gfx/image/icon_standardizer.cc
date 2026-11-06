@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon standardizer implementation
+// summary: Implements creation of standardized app icons by detecting circle-shaped icons, scaling them, and drawing them over a background circle.
+// ---
+
 #include "ui/gfx/image/icon_standardizer.h"
 
 #include "base/compiler_specific.h"

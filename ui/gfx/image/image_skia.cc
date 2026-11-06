@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkia implementation
+// summary: Implements the ImageSkia multi-density image container, including its internal storage, representation lookup, rescaling, and single-sequence mutation rules.
+// ---
+
 #include "ui/gfx/image/image_skia.h"
 
 #include <stddef.h>

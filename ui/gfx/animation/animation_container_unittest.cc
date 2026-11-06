@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationContainer unit tests
+// summary: Unit tests verifying AnimationContainer ownership ref counting, management of multiple animations and observer notifications.
+// ---
+
 #include "ui/gfx/animation/animation_container.h"
 
 #include <memory>

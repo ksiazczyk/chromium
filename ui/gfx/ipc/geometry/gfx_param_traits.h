@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC ParamTraits declarations for gfx geometry
+// summary: Declares IPC ParamTraits specializations for gfx geometry types such as Point, Size, Vector2d, and Rect used for message serialization.
+// ---
+
 #ifndef UI_GFX_IPC_GEOMETRY_GFX_PARAM_TRAITS_H_
 #define UI_GFX_IPC_GEOMETRY_GFX_PARAM_TRAITS_H_
 

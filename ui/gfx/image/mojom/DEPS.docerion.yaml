@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/gfx/image/mojom
+summary: Restricts includes in this directory to mojo/public, skia/public/mojom, and ui/gfx/image.

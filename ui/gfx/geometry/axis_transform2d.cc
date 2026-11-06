@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AxisTransform2d implementation
+// summary: Implements decomposition into a DecomposedTransform and string output for the 2D axis-aligned transform class.
+// ---
+
 
 #include "ui/gfx/geometry/axis_transform2d.h"
 

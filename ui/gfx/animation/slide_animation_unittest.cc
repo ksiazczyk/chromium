@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SlideAnimation unit tests
+// summary: Unit tests covering SlideAnimation initial state, show and hide transitions, delegate notification on deletion, and dampening behavior.
+// ---
+
 #include "ui/gfx/animation/slide_animation.h"
 
 #include <memory>

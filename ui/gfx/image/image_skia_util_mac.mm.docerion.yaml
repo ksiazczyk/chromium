@@ -1,0 +1,4 @@
+# Docerion header of image_skia_util_mac.mm.
+type: source
+title: ImageSkia and NSImage conversion implementation for Mac
+summary: Implements conversion between ImageSkia and NSImage by selecting the best representation per supported scale factor and using the sRGB color space.

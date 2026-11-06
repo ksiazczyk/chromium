@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows-specific animation implementation
+// summary: Implements Windows reduced-motion detection via SystemParametersInfo and decides whether rich animations should render.
+// ---
+
 #include "ui/gfx/animation/animation.h"
 
 #include <windows.h>

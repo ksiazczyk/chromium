@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for gfx image Mojo bindings
+summary: Defines GN targets for the gfx image Mojom bindings, the shared traits source set, test interfaces, and the unit test target.

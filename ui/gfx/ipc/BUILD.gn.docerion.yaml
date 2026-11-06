@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the gfx IPC component
+summary: Defines the gfx_ipc component target, listing its sources, dependencies, and Apple frameworks for the ui/gfx IPC code.

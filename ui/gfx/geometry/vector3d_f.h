@@ -7,6 +7,12 @@
 // produce a vector, and adding a vector to a point produces the point at the
 // vector's distance from the original point.
 
+// ---docerion
+// type: source
+// title: Vector3dF float 3D vector class header
+// summary: Declares the gfx::Vector3dF class, a float-based 3D vector with arithmetic, scaling, length, cross and dot product, and normalization operations.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_VECTOR3D_F_H_
 #define UI_GFX_GEOMETRY_VECTOR3D_F_H_
 

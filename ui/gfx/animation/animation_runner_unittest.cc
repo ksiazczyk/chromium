@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationRunner stop-during-step unit test
+// summary: Unit test verifying that calling Stop() on the default animation runner during a timer step halts further callbacks.
+// ---
+
 #include "ui/gfx/animation/animation_runner.h"
 
 #include "base/test/bind.h"

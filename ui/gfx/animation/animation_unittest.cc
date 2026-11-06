@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation unit tests
+// summary: Tests LinearAnimation run, cancel, end, and delegate deletion behavior, plus platform rich-animation rendering checks.
+// ---
+
 #include "base/command_line.h"
 #include "base/run_loop.h"
 #include "base/test/task_environment.h"

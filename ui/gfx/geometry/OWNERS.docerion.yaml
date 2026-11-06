@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for gfx geometry
+summary: Lists code owners for the geometry directory, including per-file owners for cubic_bezier and box files.

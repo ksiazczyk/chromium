@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageSkia Mojo traits header
+// summary: Declares Mojo StructTraits specializations mapping gfx::ImageSkia and ImageSkiaRep to their Mojom data views.
+// ---
+
 #ifndef UI_GFX_IMAGE_MOJOM_IMAGE_SKIA_MOJOM_TRAITS_H_
 #define UI_GFX_IMAGE_MOJOM_IMAGE_SKIA_MOJOM_TRAITS_H_
 

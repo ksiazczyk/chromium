@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinearAnimation class declaration
+// summary: Declares a linear time-bounded animation with configurable duration, frame rate, and overridable state progression.
+// ---
+
 #ifndef UI_GFX_ANIMATION_LINEAR_ANIMATION_H_
 #define UI_GFX_ANIMATION_LINEAR_ANIMATION_H_
 

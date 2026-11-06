@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationDelegate interface header
+// summary: Defines the interface for receiving animation ended, progressed, canceled and container-was-set notifications.
+// ---
+
 #ifndef UI_GFX_ANIMATION_ANIMATION_DELEGATE_H_
 #define UI_GFX_ANIMATION_ANIMATION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuadF unit tests
+// summary: gtest unit tests for gfx::QuadF covering construction, vector arithmetic, rectilinear checks, and other quad operations.
+// ---
+
 #include "ui/gfx/geometry/quad_f.h"
 
 #include <stddef.h>

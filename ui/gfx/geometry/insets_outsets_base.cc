@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insets and Outsets base implementation
+// summary: Implements ToString for the integer Insets and Outsets shared base template, formatting the edge values as a string.
+// ---
+
 #include "ui/gfx/geometry/insets_outsets_base.h"
 
 #include <string>

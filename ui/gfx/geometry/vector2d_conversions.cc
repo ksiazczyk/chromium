@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector2dF to Vector2d conversions
+// summary: Implements floored, ceiled, and rounded conversion of float vectors to integer vectors using safe clamped math.
+// ---
+
 #include "ui/gfx/geometry/vector2d_conversions.h"
 
 #include "base/numerics/safe_conversions.h"

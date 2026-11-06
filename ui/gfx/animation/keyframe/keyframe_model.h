@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyframeModel class declaration
+// summary: Declares KeyframeModel, which wraps an animation curve with run states, direction, fill mode, playback rate, and timing controls following the Web Animations model.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_KEYFRAME_MODEL_H_
 #define UI_GFX_ANIMATION_KEYFRAME_KEYFRAME_MODEL_H_
 

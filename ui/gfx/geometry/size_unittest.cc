@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Size unit tests
+// summary: Unit tests for the gfx Size class covering SetToMax and SetToMin, Enlarge, integer overflow clamping, arithmetic and comparison operators, and transposition.
+// ---
+
 #include "ui/gfx/geometry/size.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outsets class header
+// summary: Declares gfx::Outsets, an integer type representing space surrounding a rectangle by expanding it on all four sides, with conversion to Insets.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_OUTSETS_H_
 #define UI_GFX_GEOMETRY_OUTSETS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating-point InsetsF class
+// summary: Declares the floating-point InsetsF class with scaling helpers, arithmetic operators, and gtest printing support.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_INSETS_F_H_
 #define UI_GFX_GEOMETRY_INSETS_F_H_
 

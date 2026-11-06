@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiAnimation unit tests
+// summary: Unit tests verifying MultiAnimation part progression, cycling, non-continuous stopping, and current value derivation from part start and end values.
+// ---
+
 #include "ui/gfx/animation/multi_animation.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

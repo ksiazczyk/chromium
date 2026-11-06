@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImagePNGRep declaration
+// summary: Declares the ImagePNGRep struct that holds PNG-encoded bitmap data together with the scale factor the data was intended for.
+// ---
+
 #ifndef UI_GFX_IMAGE_IMAGE_PNG_REP_H_
 #define UI_GFX_IMAGE_IMAGE_PNG_REP_H_
 

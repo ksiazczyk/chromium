@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Point unit tests
+// summary: gtest unit tests for the integer gfx::Point class, covering origin checks, vector arithmetic, offsets, min/max, integer overflow behavior, and transpose.
+// ---
+
 #include "ui/gfx/geometry/point.h"
 
 #include <stddef.h>

@@ -9,6 +9,12 @@
 // rectangles with negative width and/or height), but there will be assertions
 // in the operations (such as Contains()) to complain in this case.
 
+// ---docerion
+// type: source
+// title: Integer rectangle class declaration
+// summary: Declares gfx::Rect, a simple integer rectangle class with origin and size accessors, array-like containment semantics and platform-specific RECT and CGRect conversions.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_RECT_H_
 #define UI_GFX_GEOMETRY_RECT_H_
 

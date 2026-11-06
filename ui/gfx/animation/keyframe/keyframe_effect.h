@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyframeEffect class declaration
+// summary: Declares KeyframeEffect, a simplified version of cc::KeyframeEffect that manages a collection of keyframe models and provides transition configuration and query methods.
+// ---
+
 #ifndef UI_GFX_ANIMATION_KEYFRAME_KEYFRAME_EFFECT_H_
 #define UI_GFX_ANIMATION_KEYFRAME_KEYFRAME_EFFECT_H_
 

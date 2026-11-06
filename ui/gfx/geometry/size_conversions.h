@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Size conversion helpers declaration
+// summary: Declares ToFlooredSize, ToCeiledSize and ToRoundedSize for converting SizeF to integer Size.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_SIZE_CONVERSIONS_H_
 #define UI_GFX_GEOMETRY_SIZE_CONVERSIONS_H_
 

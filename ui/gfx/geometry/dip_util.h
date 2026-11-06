@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DIP conversion utilities header
+// summary: Declares helper functions to convert points, sizes, rects, and insets between DIPs and physical pixels by scaling with the device scale factor.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_DIP_UTIL_H_
 #define UI_GFX_GEOMETRY_DIP_UTIL_H_
 

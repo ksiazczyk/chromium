@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia conversions header
+// summary: Declares conversion functions between gfx geometry types and Skia types, including points, rects, sizes, rounded rects, and matrices.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_SKIA_CONVERSIONS_H_
 #define UI_GFX_GEOMETRY_SKIA_CONVERSIONS_H_
 

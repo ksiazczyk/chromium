@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaskFilterInfo class declaration
+// summary: Declares the MaskFilterInfo class holding rounded corner bounds, an optional linear gradient mask, and a clip id, with transform support.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_MASK_FILTER_INFO_H_
 #define UI_GFX_GEOMETRY_MASK_FILTER_INFO_H_
 

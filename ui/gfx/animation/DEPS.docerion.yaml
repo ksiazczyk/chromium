@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the animation directory
+summary: Specifies the allowed include dependency rules for code in the ui/gfx/animation directory.

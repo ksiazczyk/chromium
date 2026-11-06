@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClampFloatGeometry float clamping helper
+// summary: Header providing ClampFloatGeometry, which clamps geometry values away from NaN and infinity to keep float math stable.
+// ---
+
 #ifndef UI_GFX_GEOMETRY_CLAMP_FLOAT_GEOMETRY_H_
 #define UI_GFX_GEOMETRY_CLAMP_FLOAT_GEOMETRY_H_
 

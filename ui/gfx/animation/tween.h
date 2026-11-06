@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tween class header
+// summary: Declares the Tween type enum of animation curves and helpers for interpolating values, colors, rectangles, sizes and transforms.
+// ---
+
 #ifndef UI_GFX_ANIMATION_TWEEN_H_
 #define UI_GFX_ANIMATION_TWEEN_H_
 

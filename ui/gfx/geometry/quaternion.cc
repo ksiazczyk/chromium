@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quaternion implementation
+// summary: Implements gfx::Quaternion math including axis-angle construction, rotation between vectors, slerp and lerp interpolation, normalization, and string output.
+// ---
+
 #include "ui/gfx/geometry/quaternion.h"
 
 #include <algorithm>
