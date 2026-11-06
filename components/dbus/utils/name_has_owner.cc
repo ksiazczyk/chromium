@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NameHasOwner D-Bus call implementation
+// summary: Implements the NameHasOwner helper that queries the D-Bus daemon whether a service name has an owner and reports the result via callback.
+// ---
+
 #include "components/dbus/utils/name_has_owner.h"
 
 #include <utility>

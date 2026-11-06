@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for database_utils
+summary: Defines the database_utils static library listing the upper_bound_string and url_converter sources with a dependency on //url.

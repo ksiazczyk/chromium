@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android test support for the data sharing SDK delegate
+// summary: Test helper that supplies a DataSharingSDKDelegateTestImpl to the DataSharingSDKDelegateBridge over JNI for native tests.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import org.jni_zero.CalledByNative;

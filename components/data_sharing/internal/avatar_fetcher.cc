@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar fetcher implementation
+// summary: Implements fetching of shared tab group member avatars through the image fetcher, applying sign-in avatar URL options and a network traffic annotation.
+// ---
+
 #include "components/data_sharing/internal/avatar_fetcher.h"
 
 #include "base/strings/stringprintf.h"

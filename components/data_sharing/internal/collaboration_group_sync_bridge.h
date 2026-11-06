@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration group sync bridge header
+// summary: Declares the sync bridge for the COLLABORATION_GROUP data type, including its observer interface and accessors for synced group specifics.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_COLLABORATION_GROUP_SYNC_BRIDGE_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_COLLABORATION_GROUP_SYNC_BRIDGE_H_
 

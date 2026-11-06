@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu item property computation for DBus
+// summary: Computes DBus menu item properties such as labels, icons, shortcuts, and toggle state from a ui::MenuModel and derives property change lists.
+// ---
+
 #include "components/dbus/menu/menu_property_list.h"
 
 #include <string>

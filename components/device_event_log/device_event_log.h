@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device event logging macros and public interface
+// summary: Declares logging macros such as NET_LOG, POWER_LOG, and USB_LOG that route device events by type and level into the device event log system.
+// ---
+
 #ifndef COMPONENTS_DEVICE_EVENT_LOG_DEVICE_EVENT_LOG_H_
 #define COMPONENTS_DEVICE_EVENT_LOG_DEVICE_EVENT_LOG_H_
 

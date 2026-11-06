@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the dbus component directory
+summary: Delegates code ownership of this directory to the top-level dbus OWNERS file.

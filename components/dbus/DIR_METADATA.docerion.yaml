@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for components/dbus
+summary: Points the directory at the shared dbus COMMON_METADATA mixins for Chromium metadata tooling.

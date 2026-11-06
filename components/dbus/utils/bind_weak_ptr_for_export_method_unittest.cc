@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BindWeakPtrForExportMethod
+// summary: Verifies that bound callbacks succeed while the object is alive and return a DBUS_ERROR_FAILED error after it is destroyed.
+// ---
+
 #include "components/dbus/utils/bind_weak_ptr_for_export_method.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_internals.html.
+type: source
+title: Data Sharing Internals page markup
+summary: HTML page with tabs for event logs and group information, linking the stylesheet and the page's TypeScript module.

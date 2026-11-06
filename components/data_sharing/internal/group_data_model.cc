@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group data model implementation
+// summary: Implements GroupDataModel, keeping group data synchronized between the persistent store, the collaboration group sync bridge, and the SDK delegate.
+// ---
+
 #include "components/data_sharing/internal/group_data_model.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for D-Bus signature utilities
+// summary: Unit tests verifying computed D-Bus signatures for C++ types and compile-time parsing of signature strings into the expected types.
+// ---
+
 #include "components/dbus/utils/signature.h"
 
 #include <map>

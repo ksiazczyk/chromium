@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the device event log component
+summary: Defines the GN build targets for the device_event_log component and its unit tests, with dependencies on base, ICU, and gtest.

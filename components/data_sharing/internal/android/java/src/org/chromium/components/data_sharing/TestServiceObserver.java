@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test observer notifying native tests of data sharing events
+// summary: Test observer registered on the Java service that counts group notifications and reports them to the native test via JNI.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import org.jni_zero.CalledByNative;

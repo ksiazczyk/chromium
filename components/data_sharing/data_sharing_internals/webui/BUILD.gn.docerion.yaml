@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for data sharing internals WebUI
+summary: Defines GN targets for the WebUI static library, the Mojo bindings for the internals page, and its unit tests.

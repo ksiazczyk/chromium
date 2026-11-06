@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DbusProperties class header
+// summary: Declares the DbusProperties class for exporting the standard D-Bus properties interface, registering interfaces, and setting or deleting properties.
+// ---
+
 #ifndef COMPONENTS_DBUS_PROPERTIES_DBUS_PROPERTIES_H_
 #define COMPONENTS_DBUS_PROPERTIES_DBUS_PROPERTIES_H_
 

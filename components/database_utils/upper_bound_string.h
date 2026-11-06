@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpperBoundString header
+// summary: Declares UpperBoundString, which returns an exclusive upper bound matching all strings that start with a given UTF-8 prefix.
+// ---
+
 #ifndef COMPONENTS_DATABASE_UTILS_UPPER_BOUND_STRING_H_
 #define COMPONENTS_DATABASE_UTILS_UPPER_BOUND_STRING_H_
 

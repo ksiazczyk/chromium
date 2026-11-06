@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device event log buffer and formatting implementation
+// summary: Implements the DeviceEventLogImpl circular buffer, log type and level handling, and formatting of entries as text, HTML, or JSON.
+// ---
+
 
 #include "components/device_event_log/device_event_log_impl.h"
 

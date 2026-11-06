@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk storage metrics utilities header
+// summary: Declares histogram name constants and functions for recording saved desk template size metrics.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_DESK_STORAGE_METRICS_UTIL_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_DESK_STORAGE_METRICS_UTIL_H_
 

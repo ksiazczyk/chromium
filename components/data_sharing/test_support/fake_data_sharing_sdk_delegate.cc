@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data sharing SDK delegate implementation
+// summary: Implements an in-memory fake DataSharingSDKDelegate that simulates group creation, reads, and member management for unit tests.
+// ---
+
 #include "components/data_sharing/test_support/fake_data_sharing_sdk_delegate.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for data sharing migration internal
+summary: GN build file defining the migration state proto library, the internal source set, and the unit test target with their dependencies.

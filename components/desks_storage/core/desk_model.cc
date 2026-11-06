@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk model base implementation
+// summary: Implements result types, observer handling and parsing of policy desk templates for the DeskModel base class.
+// ---
+
 #include "components/desks_storage/core/desk_model.h"
 
 #include <string_view>

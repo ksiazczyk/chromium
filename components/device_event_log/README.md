@@ -1,3 +1,12 @@
+---
+type: readme
+title: Device Event Log
+summary: Explains how to use the device event log macros to record device and system events in a circular buffer, view and filter them on the device log page, and query them programmatically, with usage examples.
+relations:
+  - documents /components/device_event_log/device_event_log.h
+  - documents /components/device_event_log/device_event_log_impl.cc
+---
+
 # Device Event Log
 
 This directory contains code for logging device and system events.

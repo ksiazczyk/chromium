@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDeskSyncService header
+// summary: Declares a fake DeskSyncService keyed service for desk template sync, with hooks to control first-sync callbacks in tests.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_FAKE_DESK_SYNC_SERVICE_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_FAKE_DESK_SYNC_SERVICE_H_
 

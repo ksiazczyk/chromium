@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing conversion bridge header
+// summary: Declares the DataSharingConversionBridge class with static JNI conversion helpers for group data, action outcomes, parse URL results and shared data previews.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_DATA_SHARING_CONVERSION_BRIDGE_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_DATA_SHARING_CONVERSION_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDeskSyncBridge header
+// summary: Declares FakeDeskSyncBridge, an in-memory fake DeskModel implementation used as a test double for desk template storage and sync.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_FAKE_DESK_SYNC_BRIDGE_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_FAKE_DESK_SYNC_BRIDGE_H_
 

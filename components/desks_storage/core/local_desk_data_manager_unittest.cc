@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalDeskDataManager unit tests
+// summary: Unit tests covering local desk data manager operations such as entry CRUD, template limits, admin templates, and metrics.
+// ---
+
 #include "components/desks_storage/core/local_desk_data_manager.h"
 
 #include <stddef.h>

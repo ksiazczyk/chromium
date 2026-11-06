@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for data sharing internal
+summary: Delegates ownership of sync bridge files to the components/sync OWNERS via a per-file rule.

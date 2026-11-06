@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer bridge forwarding native data sharing events to Java
+// summary: Holds Java observers of the data sharing service and forwards group change notifications received from the native GroupDataObserverBridge.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import org.jni_zero.CalledByNative;

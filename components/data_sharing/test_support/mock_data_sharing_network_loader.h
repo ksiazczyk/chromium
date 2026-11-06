@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock data sharing network loader header
+// summary: Declares a gmock mock of DataSharingNetworkLoader that stubs the LoadUrl method for use in data sharing tests.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_TEST_SUPPORT_MOCK_DATA_SHARING_NETWORK_LOADER_H_
 #define COMPONENTS_DATA_SHARING_TEST_SUPPORT_MOCK_DATA_SHARING_NETWORK_LOADER_H_
 

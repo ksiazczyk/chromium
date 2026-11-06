@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the data sharing internals page handler
+// summary: Tests the page handler against a mock data sharing service, covering empty and non-empty services and group retrieval.
+// ---
+
 #include "components/data_sharing/data_sharing_internals/webui/data_sharing_internals_page_handler_impl.h"
 
 #include <set>

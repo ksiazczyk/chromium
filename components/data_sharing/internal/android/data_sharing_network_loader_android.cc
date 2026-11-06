@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing network loader Android bridge implementation
+// summary: Implements the native side of the DataSharingNetworkLoader JNI bridge, forwarding URL load requests from Java to the C++ network loader and returning results via callback.
+// ---
+
 #include "components/data_sharing/internal/android/data_sharing_network_loader_android.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the shared Linux D-Bus thread and bus API
+// summary: Declares the dbus_thread_linux API for initializing, accessing and shutting down the shared D-Bus thread and buses.
+// ---
+
 #ifndef COMPONENTS_DBUS_THREAD_LINUX_DBUS_THREAD_LINUX_H_
 #define COMPONENTS_DBUS_THREAD_LINUX_DBUS_THREAD_LINUX_H_
 

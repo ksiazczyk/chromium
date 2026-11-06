@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock personal collaboration data service implementation
+// summary: Provides the constructor and destructor for the mock PersonalCollaborationDataService test double.
+// ---
+
 #include "components/data_sharing/test_support/mock_personal_collaboration_data_service.h"
 
 namespace data_sharing {

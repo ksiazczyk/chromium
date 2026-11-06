@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group data proto conversion utilities
+// summary: Implements conversion of data_sharing_pb::GroupData protobuf messages into GroupData structs, mapping member roles, filtering members, and computing the group enabled status.
+// ---
+
 #include "components/data_sharing/internal/group_data_proto_utils.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for connect_to_signal
+// summary: Unit tests for the D-Bus signal connection helper, using mock bus and object proxy to verify connection success, failure and signal argument handling.
+// ---
+
 #include "components/dbus/utils/connect_to_signal.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for data sharing internal component
+summary: Defines GN build targets, sources, and dependencies for the data sharing internal library, its Android additions, and its unit tests.

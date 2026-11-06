@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for data sharing migration internal
+summary: Grants the internal data sharing migration code access to the sqlite_proto and sql components via include rules.

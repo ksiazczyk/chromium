@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing internals page handler implementation
+// summary: Implements the browser-side Mojo page handler that reports service state, all groups, and logger events to the internals WebUI.
+// ---
+
 #include "components/data_sharing/data_sharing_internals/webui/data_sharing_internals_page_handler_impl.h"
 
 #include "base/task/sequenced_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DbusProperties implementation
+// summary: Implements the org.freedesktop.DBus.Properties interface, handling Get, GetAll, and Set methods and emitting PropertiesChanged signals.
+// ---
+
 #include "components/dbus/properties/dbus_properties.h"
 
 #include <dbus/dbus-shared.h>

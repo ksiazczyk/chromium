@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop to mobile promos type definitions
+// summary: Defines the PromoType and BubbleType enums that identify which feature a desktop-to-mobile promo highlights and whether the bubble shows a QR code or reminder.
+// ---
+
 #ifndef COMPONENTS_DESKTOP_TO_MOBILE_PROMOS_PROMOS_TYPES_H_
 #define COMPONENTS_DESKTOP_TO_MOBILE_PROMOS_PROMOS_TYPES_H_
 

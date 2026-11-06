@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk sync service class declaration
+// summary: Declares DeskSyncService, a keyed service responsible for workspace desk template sync.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_DESK_SYNC_SERVICE_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_DESK_SYNC_SERVICE_H_
 

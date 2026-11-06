@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileTransferPortal unit tests
+// summary: Tests FileTransferPortal against a mocked D-Bus bus and portal proxy, covering availability, registration, and retrieval with temporary files.
+// ---
+
 #include "components/dbus/xdg/file_transfer_portal.h"
 
 #include <memory>

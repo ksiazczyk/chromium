@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmock mock for device auth availability checker
+// summary: Declares a gmock mock of DeviceAuthAvailabilityChecker that fakes biometric and screen lock availability checks for unit tests.
+// ---
+
 #ifndef COMPONENTS_DEVICE_REAUTH_MOCK_DEVICE_AUTH_AVAILABILITY_CHECKER_H_
 #define COMPONENTS_DEVICE_REAUTH_MOCK_DEVICE_AUTH_AVAILABILITY_CHECKER_H_
 

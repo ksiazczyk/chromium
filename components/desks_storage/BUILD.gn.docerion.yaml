@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the desks_storage component
+summary: Defines the desks_storage static library, test support, unit tests, and a desk template libFuzzer target with their sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for desks_storage
+summary: Lists the directories and headers that files in this component are allowed to include from.

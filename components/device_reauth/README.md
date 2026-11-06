@@ -1,3 +1,9 @@
+---
+type: readme
+title: Device reauth
+summary: Describes the device reauth component, which provides stubs for device-level re-authentication covering biometric reauthentication and is shared with iOS.
+---
+
 #Device reauth
 
 Provides stubs for device level re-authentication capabilities. Currently, covers only biometric reauthentication.

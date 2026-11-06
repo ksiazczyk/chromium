@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration group sync bridge implementation
+// summary: Implements the read-only sync bridge for the COLLABORATION_GROUP data type, applying sync changes to an in-memory map and a data type store.
+// ---
+
 #include "components/data_sharing/internal/collaboration_group_sync_bridge.h"
 
 #include <memory>

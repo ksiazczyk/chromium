@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk template conversion implementation
+// summary: Implements conversions between desk templates, JSON values, admin policy templates, and workspace desk sync protos.
+// ---
+
 #include "components/desks_storage/core/desk_template_conversion.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk template fuzzer
+// summary: libFuzzer harness that parses fuzz input as a desk template and checks semantic equivalence across sync proto and JSON round trips.
+// ---
+
 #include "base/json/json_string_value_serializer.h"
 #include "components/account_id/account_id.h"
 #include "components/desks_storage/core/desk_template_conversion.h"

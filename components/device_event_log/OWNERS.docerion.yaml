@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for device event log
+summary: Lists mattreynolds@chromium.org and reillyg@chromium.org as owners of the device event log directory.

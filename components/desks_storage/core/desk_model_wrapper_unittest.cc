@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk model wrapper unit tests
+// summary: Unit tests for the desk model wrapper, covering desk template storage operations such as adding, deleting, entry limits, and admin templates from policy.
+// ---
+
 #include "components/desks_storage/core/desk_model_wrapper.h"
 
 #include <stddef.h>

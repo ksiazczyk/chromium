@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus value writer
+// summary: Header providing WriteValue to serialize supported C++ types, including arrays, maps, structs and Variants, into D-Bus message writers.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_WRITE_VALUE_H_
 #define COMPONENTS_DBUS_UTILS_WRITE_VALUE_H_
 

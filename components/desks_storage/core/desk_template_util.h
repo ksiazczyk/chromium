@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk template utility declarations
+// summary: Declares helpers for finding duplicate desk template names and comparing desk templates for equality.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_DESK_TEMPLATE_UTIL_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_DESK_TEMPLATE_UTIL_H_
 

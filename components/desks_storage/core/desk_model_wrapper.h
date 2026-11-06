@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk model wrapper declaration
+// summary: Declares a DeskModel that routes operations between the sync bridge and local save-and-recall desk storage.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_DESK_MODEL_WRAPPER_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_DESK_MODEL_WRAPPER_H_
 

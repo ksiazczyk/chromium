@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG desktop portal registrar declaration
+// summary: Declares RequestXdgDesktopPortal and testing helpers for portal setup state and interface version overrides.
+// ---
+
 #ifndef COMPONENTS_DBUS_XDG_PORTAL_H_
 #define COMPONENTS_DBUS_XDG_PORTAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL to database URL converter implementation
+// summary: Implements GurlToDatabaseUrl, which strips username and password from a GURL before it is stored in a database.
+// ---
+
 #include "components/database_utils/url_converter.h"
 
 #include "url/gurl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG Desktop Portal request helper
+// summary: Declares the Request class that issues XDG Desktop Portal D-Bus method calls and reports results or error codes through a callback.
+// ---
+
 #ifndef COMPONENTS_DBUS_XDG_REQUEST_H_
 #define COMPONENTS_DBUS_XDG_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedDeskBuilder header
+// summary: Declares BuiltApp and saved desk app builder classes used to create restore data for saved desk apps.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_SAVED_DESK_BUILDER_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_SAVED_DESK_BUILDER_H_
 

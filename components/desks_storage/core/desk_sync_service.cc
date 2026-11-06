@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk sync service implementation
+// summary: Implements the keyed service that owns the desk sync bridge and exposes the desk model and sync controller delegate.
+// ---
+
 #include "components/desks_storage/core/desk_sync_service.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalDeskDataManager implementation
+// summary: Implements file-based local storage of desk templates and save-and-recall desks behind the DeskModel interface, including limits and metrics.
+// ---
+
 #include "components/desks_storage/core/local_desk_data_manager.h"
 
 #include <utility>

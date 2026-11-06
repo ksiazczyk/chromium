@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group data model header
+// summary: Declares GroupDataModel and its observer interface for storing, querying, and notifying changes to shared group data.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_GROUP_DATA_MODEL_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_GROUP_DATA_MODEL_H_
 

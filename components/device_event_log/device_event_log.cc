@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device event log public API implementation
+// summary: Implements the public device_event_log API, including initialization, shutdown, entry addition, string output, clearing, and scoped slow-method logging.
+// ---
+
 #include "components/device_event_log/device_event_log.h"
 
 #include <string>

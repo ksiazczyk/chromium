@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileTransferPortal implementation
+// summary: Implements the D-Bus client for org.freedesktop.portal.FileTransfer, batching file registration and retrieving transfer keys and file lists.
+// ---
+
 #include "components/dbus/xdg/file_transfer_portal.h"
 
 #include <fcntl.h>

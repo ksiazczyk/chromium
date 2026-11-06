@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device reauth build targets
+summary: GN build file defining the device_reauth static library, test support mocks, Android Java enums, and unit test targets.

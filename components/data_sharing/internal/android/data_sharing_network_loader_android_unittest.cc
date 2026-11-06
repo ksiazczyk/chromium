@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the data sharing network loader Android bridge
+// summary: Unit test verifying that the Android network loader bridge forwards LoadUrl calls with the expected request type to the mocked C++ network loader.
+// ---
+
 #include "components/data_sharing/internal/android/data_sharing_network_loader_android.h"
 
 #include <memory>

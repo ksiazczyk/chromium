@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock data sharing network loader implementation
+// summary: Provides the constructor and destructor for the mock DataSharingNetworkLoader test double.
+// ---
+
 #include "components/data_sharing/test_support/mock_data_sharing_network_loader.h"
 
 namespace data_sharing {

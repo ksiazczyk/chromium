@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared directory metadata for data sharing
+summary: Declares the Buganizer and Monorail components and the team email address used for the data sharing directory.

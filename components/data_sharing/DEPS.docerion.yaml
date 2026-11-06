@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for data sharing
+summary: Lists the dependencies that code in the data sharing directory is allowed to include, such as collaboration, signin, sync, net, and network services.

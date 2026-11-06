@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing test utility header
+// summary: Declares the GetDataSharingUrl test helper that returns a data sharing link for a group token.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_TEST_SUPPORT_TEST_UTILS_H_
 #define COMPONENTS_DATA_SHARING_TEST_SUPPORT_TEST_UTILS_H_
 

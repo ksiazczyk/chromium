@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal collaboration data service implementation
+// summary: Implements PersonalCollaborationDataService, managing shared tab group account specifics with typed storage keys and queuing actions until the sync bridge is initialized.
+// ---
+
 #include "components/data_sharing/internal/personal_collaboration_data/personal_collaboration_data_service_impl.h"
 
 #include "base/functional/bind.h"

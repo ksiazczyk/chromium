@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing logger implementation
+// summary: Implements the data sharing logger, buffering log entries and notifying observers, with a command-line switch to keep logging enabled without observers.
+// ---
+
 #include "components/data_sharing/internal/logger_impl.h"
 
 #include "base/command_line.h"

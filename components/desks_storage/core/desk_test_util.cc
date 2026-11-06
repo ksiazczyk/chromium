@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk test utility functions
+// summary: Test helpers that populate app registry caches with sample apps for desk storage tests.
+// ---
+
 #include "components/desks_storage/core/desk_test_util.h"
 
 #include "components/app_constants/constants.h"

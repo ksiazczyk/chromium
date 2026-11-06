@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Desktop to mobile promos build targets
+summary: Defines source sets and dependencies for the desktop-to-mobile promos component and its unit tests.

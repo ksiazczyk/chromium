@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base migratable sync service implementation
+// summary: Implements BaseMigratableSyncService, delegating stage and commit migration calls to the bridge mediator.
+// ---
+
 #include "components/data_sharing/migration/public/base_migratable_sync_service.h"
 
 #include <utility>

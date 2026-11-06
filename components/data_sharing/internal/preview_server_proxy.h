@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreviewServerProxy class declaration
+// summary: Declares the PreviewServerProxy class that retrieves a preview of shared data for a group token before a user joins, using identity manager and URL loader factory dependencies.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_PREVIEW_SERVER_PROXY_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_PREVIEW_SERVER_PROXY_H_
 

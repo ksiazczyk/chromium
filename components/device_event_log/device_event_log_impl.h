@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device event log implementation class header
+// summary: Declares the DeviceEventLogImpl class that stores log entries in a bounded list and supports adding, querying, clearing, and test hooks.
+// ---
+
 #ifndef COMPONENTS_DEVICE_EVENT_LOG_DEVICE_EVENT_LOG_IMPL_H_
 #define COMPONENTS_DEVICE_EVENT_LOG_DEVICE_EVENT_LOG_IMPL_H_
 

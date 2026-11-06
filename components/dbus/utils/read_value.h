@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus value deserialization helper
+// summary: Header providing ReadValue, a template that deserializes supported D-Bus types including primitives, arrays, maps, structs and variants from a message reader.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_READ_VALUE_H_
 #define COMPONENTS_DBUS_UTILS_READ_VALUE_H_
 

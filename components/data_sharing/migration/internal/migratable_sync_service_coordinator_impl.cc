@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Migratable sync service coordinator implementation
+// summary: Implements the migratable sync service coordinator, initializing the migration state database and managing registered migratable services.
+// ---
+
 #include "components/data_sharing/migration/internal/migratable_sync_service_coordinator_impl.h"
 
 #include "base/files/file_path.h"

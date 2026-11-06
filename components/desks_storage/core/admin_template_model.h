@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Admin template model interface
+// summary: Defines a reduced DeskModel interface used by admin templates to list and update policy-provided desk templates.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_ADMIN_TEMPLATE_MODEL_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_ADMIN_TEMPLATE_MODEL_H_
 

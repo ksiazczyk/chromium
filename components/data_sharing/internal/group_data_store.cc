@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group data store implementation
+// summary: Implements the SQLite-backed persistent store for group data, initializing the database and proto tables on a background task runner and loading group entities into memory.
+// ---
+
 #include "components/data_sharing/internal/group_data_store.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Avatar fetcher unit tests
+// summary: Verifies that AvatarFetcher retrieves images through a mock image fetcher and returns the expected image to the callback.
+// ---
+
 #include "components/data_sharing/internal/avatar_fetcher.h"
 
 #include <memory>

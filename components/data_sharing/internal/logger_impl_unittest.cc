@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing logger unit tests
+// summary: Tests logger behavior with and without observers and verifies that the debug logging command-line switch forces logging regardless of observer registration.
+// ---
+
 #include "components/data_sharing/internal/logger_impl.h"
 
 #include "base/command_line.h"

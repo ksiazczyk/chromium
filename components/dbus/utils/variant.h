@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus Variant class
+// summary: Declares a move-only Variant that wraps D-Bus values with an explicit signature, providing Wrap to store values and Take to extract them.
+// ---
+
 #ifndef COMPONENTS_DBUS_UTILS_VARIANT_H_
 #define COMPONENTS_DBUS_UTILS_VARIANT_H_
 

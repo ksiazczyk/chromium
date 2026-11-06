@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing logger header
+// summary: Declares LoggerImpl, the Logger implementation that keeps a running list of log entries and dispatches them to registered observers.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_LOGGER_IMPL_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_LOGGER_IMPL_H_
 

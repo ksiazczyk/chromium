@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Systemd scope unit tests
+// summary: Unit tests for setting the systemd scope unit name, covering Flatpak, Snap, missing systemd service, and transient unit startup.
+// ---
+
 #include "components/dbus/xdg/systemd.h"
 
 #include <optional>

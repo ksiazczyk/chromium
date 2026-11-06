@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the XDG D-Bus portal component
+summary: Defines the xdg source set and its unit test target, listing portal sources and dependencies on base, dbus, and components/dbus utilities.

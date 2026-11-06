@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk model wrapper implementation
+// summary: Implements combined storage operations across the sync desk template model and the local saved desks model.
+// ---
+
 #include "components/desks_storage/core/desk_model_wrapper.h"
 
 #include "ash/public/cpp/desk_template.h"

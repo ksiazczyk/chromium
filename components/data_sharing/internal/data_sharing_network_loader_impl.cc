@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing network loader implementation
+// summary: Implements network requests to Google DataSharing SDK APIs for creating, reading, and deleting collaboration groups using EndpointFetcher.
+// ---
+
 #include "components/data_sharing/internal/data_sharing_network_loader_impl.h"
 
 #include "base/time/time.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Defines include rules permitting dependencies on components/keyed_service/core within the device_reauth directory.

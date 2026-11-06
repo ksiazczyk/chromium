@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the D-Bus utils component
+summary: Defines the utils source set and its unit test target with visibility, dependencies, and the IS_COMPONENTS_DBUS_IMPL define.

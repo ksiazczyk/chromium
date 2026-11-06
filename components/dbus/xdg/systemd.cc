@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Systemd scope unit implementation
+// summary: Implements starting and watching a systemd transient scope unit so xdg-desktop-portal can identify the application by unit name.
+// ---
+
 #include "components/dbus/xdg/systemd.h"
 
 #include <memory>

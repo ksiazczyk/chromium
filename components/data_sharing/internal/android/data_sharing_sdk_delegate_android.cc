@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing SDK delegate Android bridge implementation
+// summary: Implements the Android SDK delegate that forwards data sharing SDK operations such as create group, read groups, membership changes and token lookups to a lazily created Java bridge.
+// ---
+
 #include "components/data_sharing/internal/android/data_sharing_sdk_delegate_android.h"
 
 #include <vector>

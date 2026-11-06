@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SuccessBarrierCallback unit tests
+// summary: Verifies that the barrier callback fires after the expected number of successful calls and only once on failure.
+// ---
+
 #include "components/dbus/properties/success_barrier_callback.h"
 
 #include "base/functional/bind.h"

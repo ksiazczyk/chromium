@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the dbus component
+summary: Defines the dbus GN component with public dependencies on properties, utils, and Linux-only thread_linux and xdg targets, plus an aggregated unit_tests group.

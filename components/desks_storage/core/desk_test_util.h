@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desk test utility declarations
+// summary: Declares test app IDs, sample policy template JSON strings, and helper functions for populating app registry caches in desk storage tests.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_DESK_TEST_UTIL_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_DESK_TEST_UTIL_H_
 

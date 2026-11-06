@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL to database URL converter header
+// summary: Declares GurlToDatabaseUrl, which converts a GURL into a sanitized string suitable for database storage.
+// ---
+
 #ifndef COMPONENTS_DATABASE_UTILS_URL_CONVERTER_H_
 #define COMPONENTS_DATABASE_UTILS_URL_CONVERTER_H_
 

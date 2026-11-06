@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile promo on desktop feature declarations
+// summary: Declares promo feature flags, enums, parameters, and eligibility functions for desktop-to-mobile promos.
+// ---
+
 #ifndef COMPONENTS_DESKTOP_TO_MOBILE_PROMOS_FEATURES_H_
 #define COMPONENTS_DESKTOP_TO_MOBILE_PROMOS_FEATURES_H_
 

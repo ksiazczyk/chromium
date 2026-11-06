@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Sharing Internals page logic
+// summary: Populates the event log table and group member list, converting mojo times and mapping log sources and member roles to readable strings.
+// ---
+
 import 'chrome://resources/cr_elements/cr_tab_box/cr_tab_box.js';
 
 import {assert, assertNotReachedCase} from 'chrome://resources/js/assert.js';

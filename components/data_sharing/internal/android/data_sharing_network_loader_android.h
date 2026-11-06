@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing network loader Android bridge header
+// summary: Declares DataSharingNetworkLoaderAndroid, a helper that bridges the data sharing network loader between C++ and Java and handles URL load requests and responses.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_DATA_SHARING_NETWORK_LOADER_ANDROID_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_DATA_SHARING_NETWORK_LOADER_ANDROID_H_
 

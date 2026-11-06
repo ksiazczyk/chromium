@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ownership pointer for the xdg D-Bus component
+summary: Points to the components/dbus/properties OWNERS file so the same reviewers own this directory.

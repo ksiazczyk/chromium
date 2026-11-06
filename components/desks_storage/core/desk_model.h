@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk model interface
+// summary: Abstract interface for accessing desk templates, with status codes and callbacks so storage backends can use asynchronous I/O.
+// ---
+
 #ifndef COMPONENTS_DESKS_STORAGE_CORE_DESK_MODEL_H_
 #define COMPONENTS_DESKS_STORAGE_CORE_DESK_MODEL_H_
 

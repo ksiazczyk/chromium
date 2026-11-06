@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the com.canonical.dbusmenu interface
+// summary: Implements DbusMenu, exporting menu models over DBus with methods like GetLayout and Event and emitting layout and property update signals.
+// ---
+
 #include "components/dbus/menu/menu.h"
 
 #include <algorithm>

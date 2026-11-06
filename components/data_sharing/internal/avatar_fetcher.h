@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar fetcher header
+// summary: Declares the AvatarFetcher wrapper that requests avatar images for given URLs and reports results via callback, owned by DataSharingServiceImpl.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_AVATAR_FETCHER_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_AVATAR_FETCHER_H_
 

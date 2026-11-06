@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing SDK delegate Android bridge header
+// summary: Declares DataSharingSDKDelegateAndroid, the C++ to Java bridge implementing SDK delegate operations like group creation, membership changes and Gaia ID lookups.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_DATA_SHARING_SDK_DELEGATE_ANDROID_H_
 #define COMPONENTS_DATA_SHARING_INTERNAL_ANDROID_DATA_SHARING_SDK_DELEGATE_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing JNI conversion utility for result types
+// summary: Provides CalledByNative factory methods that build GroupDataOrFailureOutcome, ParseUrlResult and other result objects for the data sharing JNI layer.
+// ---
+
 package org.chromium.components.data_sharing;
 
 import org.jni_zero.CalledByNative;

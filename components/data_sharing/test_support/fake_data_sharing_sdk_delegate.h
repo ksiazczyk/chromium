@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data sharing SDK delegate header
+// summary: Declares the in-memory fake DataSharingSDKDelegate class used to stand in for the data sharing SDK in unit tests.
+// ---
+
 #ifndef COMPONENTS_DATA_SHARING_TEST_SUPPORT_FAKE_DATA_SHARING_SDK_DELEGATE_H_
 #define COMPONENTS_DATA_SHARING_TEST_SUPPORT_FAKE_DATA_SHARING_SDK_DELEGATE_H_
 

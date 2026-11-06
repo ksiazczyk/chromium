@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the device event log implementation
+// summary: Tests DeviceEventLogImpl entry addition, ordering, filtering, formatting, and clearing using a simple test task runner.
+// ---
+
 #include "components/device_event_log/device_event_log_impl.h"
 
 #include <stddef.h>

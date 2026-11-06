@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake preview server proxy implementation
+// summary: Implements a fake PreviewServerProxy that returns canned shared data preview results for a group during testing.
+// ---
+
 #include "components/data_sharing/internal/android/fake_preview_server_proxy.h"
 
 #include "base/types/expected.h"
