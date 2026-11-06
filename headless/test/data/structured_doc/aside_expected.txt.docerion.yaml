@@ -1,0 +1,4 @@
+# Docerion header of aside_expected.txt.
+type: test
+title: Expected structure tree for the aside test
+summary: Expected structured document tree output for the aside and complementary role test page.

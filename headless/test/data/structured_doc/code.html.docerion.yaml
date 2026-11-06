@@ -1,0 +1,4 @@
+# Docerion header of code.html.
+type: test
+title: Code element test page
+summary: HTML test page containing a code element, used as input for structured tree conversion.

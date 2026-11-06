@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time test for cookie updated from JS
+// summary: Headless protocol test verifying that JavaScript can read and update an existing cookie, logging the resulting document title.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: cookie updated from js.');

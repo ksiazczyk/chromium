@@ -1,0 +1,4 @@
+# Docerion header of popup_button.html.
+type: test
+title: Popup button test page
+summary: HTML fixture with buttons using aria-haspopup and aria-label, used as input for structured document tests.

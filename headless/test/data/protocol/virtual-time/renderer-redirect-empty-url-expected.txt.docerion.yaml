@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-empty-url-expected.txt.
+type: test
+title: Expected output for redirect with empty URL test
+summary: Expected output for the virtual time renderer test that navigates a 302 redirect response with an empty Location header.

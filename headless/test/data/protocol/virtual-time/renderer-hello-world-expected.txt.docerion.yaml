@@ -1,0 +1,4 @@
+# Docerion header of renderer-hello-world-expected.txt.
+type: test
+title: Expected output for renderer hello world test
+summary: Expected output for the headless virtual time hello world test showing the requested URL, page content and frame state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time controller test
+// summary: Protocol test that exercises the virtual time controller by granting virtual time budgets and logging expiration and animation frame callbacks.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const VirtualTimeController =
       await testRunner.loadScript('virtual-time-controller.js');

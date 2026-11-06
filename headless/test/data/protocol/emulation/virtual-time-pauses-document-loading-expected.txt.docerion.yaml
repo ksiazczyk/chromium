@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-pauses-document-loading-expected.txt.
+type: test
+title: Virtual time pauses document loading expected output
+summary: Expected output for the test verifying that document loading is paused while virtual time is paused.

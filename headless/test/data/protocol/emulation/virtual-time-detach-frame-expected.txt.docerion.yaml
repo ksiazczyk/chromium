@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-detach-frame-expected.txt.
+type: test
+title: Virtual time detach frame expected output
+summary: Expected output for the protocol test verifying that detaching a frame while a request is in flight does not break virtual time.

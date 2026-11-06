@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-base-url-expected.txt.
+type: test
+title: Renderer redirect base URL expected output
+summary: Expected output for the virtual time renderer test verifying the base URL after a 302 redirect between hosts.

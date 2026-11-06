@@ -1,0 +1,4 @@
+# Docerion header of file3.txt.
+type: test
+title: file3.txt
+summary: Test fixture text file used as input for the file input directory upload sanity tests.

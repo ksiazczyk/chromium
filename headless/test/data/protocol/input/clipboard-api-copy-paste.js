@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard API copy/paste protocol test
+// summary: Headless protocol test that grants clipboard permissions and verifies copying input1's value to input2 with navigator.clipboard.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const html = `<!doctype html>
     <html> <body>

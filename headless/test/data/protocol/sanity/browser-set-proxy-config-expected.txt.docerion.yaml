@@ -1,0 +1,4 @@
+# Docerion header of browser-set-proxy-config-expected.txt.
+type: test
+title: Browser set proxy config expected output
+summary: Expected output for the sanity test checking that headless sessions can configure a proxy.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer mixed redirect chain test
+// summary: Virtual-time protocol test that walks a mixed redirection chain using meta refresh, JavaScript navigation and HTTP redirects.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: mixed redirection chain.');

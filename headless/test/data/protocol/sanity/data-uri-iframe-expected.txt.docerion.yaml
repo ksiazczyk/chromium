@@ -1,0 +1,4 @@
+# Docerion header of data-uri-iframe-expected.txt.
+type: test
+title: Data URI iframe expected output
+summary: Expected protocol event output for the sanity test covering navigation events of a data-URI iframe.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools interception with auth proxy test
+// summary: Sanity test that intercepts requests via the Fetch domain and answers an auth challenge from a proxy with credentials.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   testRunner.log('Tests network interception with auth proxy.\n');
   const {result: {sessionId}} =

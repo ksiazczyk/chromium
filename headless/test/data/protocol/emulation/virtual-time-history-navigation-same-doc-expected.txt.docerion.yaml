@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-history-navigation-same-doc-expected.txt.
+type: test
+title: Virtual time history navigation same document expected output
+summary: Expected output for the test covering virtual time behavior during same-document history navigation.

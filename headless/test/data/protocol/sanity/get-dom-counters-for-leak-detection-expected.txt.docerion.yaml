@@ -1,0 +1,4 @@
+# Docerion header of get-dom-counters-for-leak-detection-expected.txt.
+type: test
+title: Get DOM counters for leak detection expected output
+summary: Expected DOM counter values such as live documents and nodes from the leak detection sanity test.

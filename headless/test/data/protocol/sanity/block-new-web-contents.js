@@ -5,6 +5,12 @@
 // META: --block-new-web-contents
 // META: --disable-popup-blocking
 
+// ---docerion
+// type: test
+// title: Block new web contents sanity test
+// summary: Sanity test verifying that --block-new-web-contents makes window.open return null and prevents new page targets.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests that --block-new-web-contents blocks new web contents creation.');

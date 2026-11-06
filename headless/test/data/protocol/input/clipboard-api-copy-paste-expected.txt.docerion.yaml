@@ -1,0 +1,4 @@
+# Docerion header of clipboard-api-copy-paste-expected.txt.
+type: test
+title: Clipboard API copy/paste expected output
+summary: Expected output for the headless protocol test that copies input1's value to input2 via the clipboard API.

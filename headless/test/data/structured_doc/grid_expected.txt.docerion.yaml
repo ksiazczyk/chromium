@@ -1,0 +1,4 @@
+# Docerion header of grid_expected.txt.
+type: test
+title: Grid expected document structure
+summary: Expected structured document tree for the grid role test, mapping grid roles to a Table with TH and TD cells.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker virtual time helper
+// summary: Helper class that initializes virtual time and loads a web worker with intercepted network responses for protocol tests.
+// ---
+
 /**
  * A helper class to initialize virtual time and load a worker.
  */

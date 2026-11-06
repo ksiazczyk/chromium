@@ -1,0 +1,4 @@
+# Docerion header of known-permission-types-expected.txt.
+type: test
+title: Known permission types expected output
+summary: Expected output listing all known permission types granted via the DevTools protocol plus the failure for an unknown type.

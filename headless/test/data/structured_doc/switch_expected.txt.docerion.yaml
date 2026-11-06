@@ -1,0 +1,4 @@
+# Docerion header of switch_expected.txt.
+type: test
+title: Expected structure for switch role elements
+summary: Expected structured document tree verifying that ARIA switch elements become checkbox form fields with descriptions in the output.

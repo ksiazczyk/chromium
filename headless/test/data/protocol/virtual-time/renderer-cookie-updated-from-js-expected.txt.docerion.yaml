@@ -1,0 +1,4 @@
+# Docerion header of renderer-cookie-updated-from-js-expected.txt.
+type: test
+title: Renderer cookie updated from JS expected output
+summary: Expected output for the virtual time test that verifies a cookie updated from JavaScript.

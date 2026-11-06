@@ -1,0 +1,4 @@
+# Docerion header of compositor-css-animation-test-expected.txt.
+type: test
+title: Compositor CSS animation test expected output
+summary: Expected output for the compositor CSS animation test, recording elapsed time, animation events and screenshot colors across virtual time budget expirations.

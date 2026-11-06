@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer redirect after completion test
+// summary: Headless Chrome protocol test verifying a meta refresh navigation scheduled during load is not started before virtual time grants it.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: redirection after completion.');

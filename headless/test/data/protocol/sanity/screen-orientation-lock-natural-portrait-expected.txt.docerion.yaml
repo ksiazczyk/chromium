@@ -1,0 +1,4 @@
+# Docerion header of screen-orientation-lock-natural-portrait-expected.txt.
+type: test
+title: Screen orientation lock natural portrait expected output
+summary: Expected output for locking screen orientations on a device whose natural orientation is portrait.

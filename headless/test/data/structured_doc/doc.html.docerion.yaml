@@ -1,0 +1,4 @@
+# Docerion header of doc.html.
+type: test
+title: Structured document test page
+summary: HTML test page combining headings, paragraphs, lists, links, tables, images and language attributes for structured tree conversion.

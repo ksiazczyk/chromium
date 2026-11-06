@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer redirect 307 POST method test
+// summary: Headless Chrome protocol test that checks a 307 temporary redirect keeps the POST method during form submission under virtual time.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: redirection 307 post method.');

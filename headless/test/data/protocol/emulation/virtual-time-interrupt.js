@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time interrupt test
+// summary: Protocol test verifying that a virtual time fence does not block interrupting protocol commands such as Performance.getMetrics.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       'Tests that virtual time fence does not block interrupting protocol' +

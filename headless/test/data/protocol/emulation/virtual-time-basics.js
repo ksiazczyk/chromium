@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time basics protocol test
+// summary: Tests basic virtual time policy behavior with a budgeted navigation to a blank page.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   var {page, session, dp} = await testRunner.startBlank(
       `Tests virtual time basics.`);

@@ -1,0 +1,4 @@
+# Docerion header of renderer-server-redirect-relative-chain-expected.txt.
+type: test
+title: Renderer server redirect relative chain expected output
+summary: Expected output for the virtual time test covering server redirects that use relative Location headers across hosts.

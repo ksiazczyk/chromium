@@ -1,0 +1,4 @@
+# Docerion header of ordered_list.html.
+type: test
+title: Ordered list test page
+summary: HTML fixture with an ordered list of two items used as input for structured document conversion tests.

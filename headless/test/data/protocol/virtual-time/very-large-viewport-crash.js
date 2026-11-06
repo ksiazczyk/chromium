@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Very large viewport crash virtual time test
+// summary: Headless protocol test that checks the renderer survives emulation of a very large viewport using virtual time and BeginFrame control.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startWithFrameControl(
       `Tests that renderer survives emulation of a very large viewport.`);

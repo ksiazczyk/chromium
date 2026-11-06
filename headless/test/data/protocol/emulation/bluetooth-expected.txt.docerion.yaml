@@ -1,0 +1,4 @@
+# Docerion header of bluetooth-expected.txt.
+type: test
+title: Bluetooth emulation test expected output
+summary: Expected output for the headless Web Bluetooth device request protocol test.

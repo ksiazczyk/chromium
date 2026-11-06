@@ -1,0 +1,4 @@
+# Docerion header of headless-createContext-disposeOnDetach-expected.txt.
+type: test
+title: Expected output for headless disposeOnDetach context test
+summary: Expected log output verifying that browser contexts created with disposeOnDetach are destroyed when their sessions detach.

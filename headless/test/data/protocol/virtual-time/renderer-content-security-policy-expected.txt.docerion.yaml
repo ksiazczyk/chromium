@@ -1,0 +1,4 @@
+# Docerion header of renderer-content-security-policy-expected.txt.
+type: test
+title: Renderer content security policy expected output
+summary: Expected console output for the content security policy script hash test under virtual time.

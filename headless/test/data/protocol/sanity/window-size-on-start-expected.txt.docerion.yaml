@@ -1,0 +1,4 @@
+# Docerion header of window-size-on-start-expected.txt.
+type: test
+title: Window size on start expected output
+summary: Expected output for the sanity test checking the window size when a page starts.

@@ -1,0 +1,4 @@
+# Docerion header of universal-network-access-expected.txt.
+type: test
+title: Universal network access expected output
+summary: Expected output for the sanity test of originsWithUniversalNetworkAccess handling for privileged and non-privileged pages.

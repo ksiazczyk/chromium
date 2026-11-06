@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer JavaScript console errors test
+// summary: Virtual-time protocol test that verifies the renderer reports JavaScript console errors thrown by a page.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: verify JavaScript console errors reporting.');

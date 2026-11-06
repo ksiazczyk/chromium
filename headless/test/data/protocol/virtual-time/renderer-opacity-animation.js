@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer opacity animation test
+// summary: Virtual-time protocol test that captures screenshots before and after an opacity animation to check layer transparency rendering.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests that animating layer transparency produces correct pixels');

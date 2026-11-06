@@ -1,0 +1,4 @@
+# Docerion header of renderer-client-redirect-chain-expected.txt.
+type: test
+title: Renderer client redirect chain expected output
+summary: Expected frames and scheduled navigations for the chained client-side redirect test under virtual time.

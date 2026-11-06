@@ -1,0 +1,4 @@
+# Docerion header of article.html.
+type: test
+title: Article element test input
+summary: HTML test page with an article element used to check structured document tree extraction.

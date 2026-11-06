@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-local-storage-detached-frame-expected.txt.
+type: test
+title: Virtual time local storage detached frame expected output
+summary: Expected output for the test verifying virtual time works with storage, listing the document requests made during the run.

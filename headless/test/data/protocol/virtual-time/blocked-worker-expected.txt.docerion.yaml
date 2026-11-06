@@ -1,0 +1,4 @@
+# Docerion header of blocked-worker-expected.txt.
+type: test
+title: Blocked worker test expected output
+summary: Expected output for the test verifying that a worker start aborted due to CDP does not block virtual time.

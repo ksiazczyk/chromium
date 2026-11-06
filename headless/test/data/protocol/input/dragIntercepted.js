@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input.dragIntercepted protocol test
+// summary: Headless protocol test that enables drag interception and dispatches mouse events on a link to trigger and log the Input.dragIntercepted event.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   var {page, session, dp} = await testRunner.startHTML(`
     <a href="https://example.com">Drag Me!</a>

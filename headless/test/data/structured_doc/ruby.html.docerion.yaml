@@ -1,0 +1,4 @@
+# Docerion header of ruby.html.
+type: test
+title: Ruby annotation test page
+summary: Japanese-language HTML fixture with ruby annotations used as input for structured document tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Redirect keeps fragment virtual time test
+// summary: Headless browser test verifying that a chain of 302 redirects preserves the URL fragment, executed under virtual time.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: redirect keeps fragment.');

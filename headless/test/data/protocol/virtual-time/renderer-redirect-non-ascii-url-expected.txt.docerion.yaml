@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-non-ascii-url-expected.txt.
+type: test
+title: Expected output for redirect with non-ASCII URL test
+summary: Expected output for the virtual time renderer test covering redirects to percent-encoded non-ASCII URLs.

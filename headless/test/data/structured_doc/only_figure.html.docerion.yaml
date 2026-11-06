@@ -1,0 +1,4 @@
+# Docerion header of only_figure.html.
+type: test
+title: Only figure test page
+summary: HTML fixture with a figure element containing an image and figcaption, used as structure extraction input.

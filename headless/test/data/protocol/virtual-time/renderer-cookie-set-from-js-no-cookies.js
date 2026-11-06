@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time test for cookie set from JS with cookies disabled
+// summary: Headless protocol test checking that a cookie set via JavaScript is not stored when document cookies are disabled, using virtual time control.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: cookie set from js with cookies disabled.');

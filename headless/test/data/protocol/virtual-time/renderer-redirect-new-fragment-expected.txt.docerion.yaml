@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-new-fragment-expected.txt.
+type: test
+title: Expected output for redirect with new fragment test
+summary: Expected output for the virtual time renderer test verifying that redirects can introduce a new URL fragment.

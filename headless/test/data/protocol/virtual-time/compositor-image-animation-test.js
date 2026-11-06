@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor image animation virtual time test
+// summary: Test script loading an animated GIF with BeginFrame control and verifying that its animation advances with virtual time and is not resynced after the first iteration.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests compositor animated image handling.');

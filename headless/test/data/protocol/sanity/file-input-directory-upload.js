@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File input directory upload test
+// summary: Sanity test that assigns a directory to a file input via DOM.setFileInputFiles and logs the resulting files.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startHTML(
       `<input type="file" id="file" webkitdirectory multiple>`,

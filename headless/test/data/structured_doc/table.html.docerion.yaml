@@ -1,0 +1,4 @@
+# Docerion header of table.html.
+type: test
+title: Table test page
+summary: HTML fixture with a simple table containing header and data cells used to test table conversion in structured documents.

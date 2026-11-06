@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Universal network access test
+// summary: Sanity test that fetches a cross-origin resource from a privileged and a non-privileged context configured via originsWithUniversalNetworkAccess.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const resourcePath = 'protocol/sanity/resources/body.html';
   const port = window.location.port;

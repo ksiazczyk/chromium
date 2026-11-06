@@ -1,0 +1,4 @@
+# Docerion header of popup_button_expected.txt.
+type: test
+title: Popup button expected output
+summary: Expected structured document tree for the popup button HTML fixture, with form print field nodes.

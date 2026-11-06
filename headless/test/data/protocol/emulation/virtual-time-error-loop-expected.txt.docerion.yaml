@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-error-loop-expected.txt.
+type: test
+title: Virtual time error loop expected output
+summary: Expected output for the protocol test verifying virtual time advances 10ms on every navigation, expecting 500 resources to be loaded.

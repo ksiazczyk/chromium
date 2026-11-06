@@ -1,0 +1,4 @@
+# Docerion header of radio_expected.txt.
+type: test
+title: Radio button expected output
+summary: Expected structured document tree for the radio button HTML fixture, including descriptions and checked attributes.

@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-timer-order-expected.txt.
+type: test
+title: Virtual time timer order expected output
+summary: Expected output for the test checking that DOM timers respect virtual time ordering.

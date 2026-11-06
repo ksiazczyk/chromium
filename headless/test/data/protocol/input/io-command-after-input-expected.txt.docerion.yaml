@@ -1,0 +1,4 @@
+# Docerion header of io-command-after-input-expected.txt.
+type: test
+title: IO command after input expected output
+summary: Expected output for the headless protocol test verifying the sequence of input event processing, ending with a PASSED result.

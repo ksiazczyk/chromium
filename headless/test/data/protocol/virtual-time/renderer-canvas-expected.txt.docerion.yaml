@@ -1,0 +1,4 @@
+# Docerion header of renderer-canvas-expected.txt.
+type: test
+title: Renderer canvas expected output
+summary: Expected screenshot size and pixel colors for the renderer canvas test under virtual time.

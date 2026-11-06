@@ -1,0 +1,4 @@
+# Docerion header of get-client-capabilities-expected.txt.
+type: test
+title: Get client capabilities expected output
+summary: Expected output of the sanity test calling PublicKeyCredential.getClientCapabilities() in a secure context.

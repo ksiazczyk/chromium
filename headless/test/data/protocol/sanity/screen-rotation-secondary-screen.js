@@ -5,6 +5,13 @@
 //
 // META: --screen-info={label='1st screen'}{600x800 label='2nd screen'}
 //
+
+// ---docerion
+// type: test
+// title: Screen rotation on secondary screen test
+// summary: DevTools protocol sanity test that opens a popup on a secondary screen and verifies rotating it to landscape via the screen orientation lock.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests screen rotation on a secondary screen.');

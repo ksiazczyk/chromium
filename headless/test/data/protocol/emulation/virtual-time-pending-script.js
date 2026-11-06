@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time pending script test
+// summary: Headless DevTools protocol test that serves a large asynchronously parsed script via fetch interception to check that pending scripts do not break virtual time.
+// ---
+
 // We want to pad |kLargeDotJS| out with some dummy code which is parsed
 // asynchronously to make sure the virtual_time_pauser in PendingScript
 // actually does something. We construct a large number of long unused

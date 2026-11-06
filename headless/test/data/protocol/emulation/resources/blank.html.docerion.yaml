@@ -1,0 +1,4 @@
+# Docerion header of blank.html.
+type: test
+title: Blank HTML test page
+summary: Minimal blank HTML page serving as a simple test resource for headless protocol emulation tests.

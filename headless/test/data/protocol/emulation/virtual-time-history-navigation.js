@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time history navigation test
+// summary: Protocol test that exercises virtual time with history navigation across origins and nested iframes, logging each navigation.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests virtual time with history navigation.`);

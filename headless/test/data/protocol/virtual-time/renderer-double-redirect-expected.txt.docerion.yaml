@@ -1,0 +1,4 @@
+# Docerion header of renderer-double-redirect-expected.txt.
+type: test
+title: Expected output for renderer double redirect test
+summary: Expected output for the headless virtual time test that verifies a renderer handling two script-initiated redirects during page load.

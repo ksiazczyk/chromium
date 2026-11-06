@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot optimize for speed test
+// summary: Headless protocol test comparing slow and fast PNG encodings to verify the optimizeForSpeed screenshot parameter.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, dp} = await testRunner.startWithFrameControl(
       'Tests screenshot produced by beginFrame honors optimizeForSpeed param');

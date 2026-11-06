@@ -1,0 +1,4 @@
+# Docerion header of page-before-unload-expected.txt.
+type: test
+title: Page beforeunload expected output
+summary: Expected output for the headless test that checks the beforeunload dialog shown when closing a page.

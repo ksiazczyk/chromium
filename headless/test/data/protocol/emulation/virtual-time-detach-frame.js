@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time detach frame test
+// summary: Protocol test that removes an iframe while its stylesheet request is pending and verifies virtual time continues to work correctly.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests that detaching frame while issuing request doesn't break virtual time.`);

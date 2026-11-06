@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time controller helper
+// summary: Helper class that manages virtual time budgets and animation frames, including screenshot capture, for headless protocol tests.
+// ---
+
 /**
  * A helper class to manage virtual time and automatically generate animation
  * frames within the granted virtual time interval.

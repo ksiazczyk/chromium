@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-commit-while-resuming-loaders-expected.txt.
+type: test
+title: Virtual time loader resume commit test expected output
+summary: Expected output for navigations committing while paused document loaders are resumed.

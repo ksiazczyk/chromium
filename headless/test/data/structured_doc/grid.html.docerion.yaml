@@ -1,0 +1,4 @@
+# Docerion header of grid.html.
+type: test
+title: Grid role test page
+summary: HTML fixture using ARIA grid, row, columnheader and gridcell roles as input for structure extraction testing.

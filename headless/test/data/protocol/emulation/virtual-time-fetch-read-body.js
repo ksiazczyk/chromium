@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time fetch read body test
+// summary: Protocol test verifying that virtual time pauses while fetch response bodies are read in one go as array buffer, blob, form data, JSON and text.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank('Tests that ' +
       'Virtual Time is paused while reading fetch response body at once');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup window open sanity test
+// summary: Sanity test using an HTTP interceptor to check whether a page's popup request is blocked depending on new web contents blocking.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests pop ups can be blocked.');

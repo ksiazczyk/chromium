@@ -1,0 +1,4 @@
+# Docerion header of emphasis.html.
+type: test
+title: Emphasis test page
+summary: HTML test page comparing the em element with a span using the ARIA emphasis role.

@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Virtual time same-document history navigation test
+// summary: Protocol test that verifies virtual time behaviour during same-document history navigation using pushState, back and forward.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests virtual time with same document history navigation.`);

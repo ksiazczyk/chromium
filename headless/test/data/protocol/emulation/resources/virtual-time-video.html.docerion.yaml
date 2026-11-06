@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-video.html.
+type: test
+title: Virtual time video playback test page
+summary: Test page embedding a video element that plays video.webm for virtual time testing of media playback.

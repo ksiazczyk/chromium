@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer canvas test
+// summary: Protocol test that draws on an HTML canvas and verifies captured screenshot pixel colors under virtual time.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} =
       await testRunner.startWithFrameControl('Tests renderer: canvas.');

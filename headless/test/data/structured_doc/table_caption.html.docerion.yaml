@@ -1,0 +1,4 @@
+# Docerion header of table_caption.html.
+type: test
+title: Table caption test page
+summary: HTML fixture with a table caption placed between rows to test caption handling in structured document conversion.

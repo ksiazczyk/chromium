@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page beforeunload dialog test
+// summary: Headless test script that verifies the beforeunload dialog opens and can be dismissed or accepted when closing a page via the DevTools protocol.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests beforeunload dialog.`);

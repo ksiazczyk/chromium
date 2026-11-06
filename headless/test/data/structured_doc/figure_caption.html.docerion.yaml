@@ -1,0 +1,4 @@
+# Docerion header of figure_caption.html.
+type: test
+title: Figure caption test page
+summary: HTML test page with a figure containing an image and a figcaption element.

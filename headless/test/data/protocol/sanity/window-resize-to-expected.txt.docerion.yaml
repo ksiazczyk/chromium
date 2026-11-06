@@ -1,0 +1,4 @@
+# Docerion header of window-resize-to-expected.txt.
+type: test
+title: Window resize-to expected output
+summary: Expected output for the sanity test verifying that window.resizeTo() adjusts the window's outer size.

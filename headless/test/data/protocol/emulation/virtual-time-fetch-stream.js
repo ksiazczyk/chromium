@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time fetch stream test
+// summary: Protocol test verifying that fetching a stream with back pressure does not stall while virtual time is enabled.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       'Tests that fetching a stream with back pressure ' +

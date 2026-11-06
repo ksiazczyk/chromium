@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-worker-basic-expected.txt.
+type: test
+title: Worker virtual time basic expected output
+summary: Expected output for the test of basic virtual time functionality in workers.

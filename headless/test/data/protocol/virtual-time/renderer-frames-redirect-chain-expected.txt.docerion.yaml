@@ -1,0 +1,4 @@
+# Docerion header of renderer-frames-redirect-chain-expected.txt.
+type: test
+title: Expected output for renderer frames redirect chain test
+summary: Expected output for the headless virtual time test covering a redirection chain across frames and an iframe.

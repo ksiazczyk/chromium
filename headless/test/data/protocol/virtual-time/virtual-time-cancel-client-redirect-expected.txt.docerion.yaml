@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-cancel-client-redirect-expected.txt.
+type: test
+title: Virtual time cancel client redirect expected output
+summary: Expected output for the headless test verifying that virtual time is not stalled by an aborted client-side redirect.

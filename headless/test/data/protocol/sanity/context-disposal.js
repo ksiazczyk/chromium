@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context disposal sanity test
+// summary: Sanity test verifying that browser contexts created with disposeOnDetach are disposed when the session detaches.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   testRunner.log(
       'Tests context disposal on detach from page exposing DevTools protocol.');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker virtual time fetch test
+// summary: Tests that virtual time is paused while a fetch is pending inside a worker.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests virtual time is paused while a fetched is pending in workers.`);

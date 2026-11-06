@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser set initial proxy config sanity test
+// summary: Sanity test that creates browser contexts with different initial proxy servers and dumps the resulting page titles.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   testRunner.log('Tests that headless session can configure proxy.\n');
   const { result: { sessionId } } =

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless session basics test
+// summary: Protocol test verifying that Target.createTarget responses include the sessionId when using the headless DevTools session.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   testRunner.log('Tests headless session basics.\n');
 

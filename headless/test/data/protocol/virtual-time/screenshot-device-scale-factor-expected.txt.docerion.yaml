@@ -1,0 +1,4 @@
+# Docerion header of screenshot-device-scale-factor-expected.txt.
+type: test
+title: Screenshot device scale factor test expectations
+summary: Expected output for the test verifying screenshots taken with an overridden device scale factor.

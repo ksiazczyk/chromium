@@ -1,0 +1,4 @@
+# Docerion header of strong.html.
+type: test
+title: Strong element test page
+summary: HTML fixture with strong and ARIA role=strong elements used as input for structured document tests.

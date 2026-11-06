@@ -1,0 +1,4 @@
+# Docerion header of renderer-server-redirect-to-failure-expected.txt.
+type: test
+title: Renderer server redirect to failure expected output
+summary: Expected output for the virtual time test where server redirects lead to a URL that returns a 404 failure.

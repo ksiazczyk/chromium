@@ -1,0 +1,4 @@
+# Docerion header of compositor-css-animation.html.
+type: test
+title: Compositor CSS animation test page
+summary: Test page running a CSS keyframe animation on a box element while logging animation start, iteration and end events.

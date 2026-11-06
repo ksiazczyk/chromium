@@ -1,0 +1,4 @@
+# Docerion header of doc_expected.txt.
+type: test
+title: Structured document expected output
+summary: Expected structured tree for the full document test, covering headings, lists, tables, figures and language attributes.

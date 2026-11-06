@@ -1,0 +1,4 @@
+# Docerion header of context-disposal-expected.txt.
+type: test
+title: Context disposal test expected output
+summary: Expected output for the sanity test checking context disposal on detach from a DevTools protocol page.

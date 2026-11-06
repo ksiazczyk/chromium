@@ -1,0 +1,4 @@
+# Docerion header of treegrid_expected.txt.
+type: test
+title: Treegrid expected structure tree
+summary: Expected structured document tree for the treegrid fixture, showing table rows, header cells and data cells.

@@ -1,0 +1,4 @@
+# Docerion header of screenshot-after-metrics-override-expected.txt.
+type: test
+title: Screenshot after metrics override test expectations
+summary: Expected output for the test checking that a screenshot taken right after a viewport resize does not hang.

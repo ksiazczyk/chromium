@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time test for CSS url filter rendering
+// summary: 'Headless protocol test ensuring filter: url(...) with an SVG blur does not cause an infinite style update loop, capturing screenshot pixel values.'
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: canvas.', {width: 100, height: 100});

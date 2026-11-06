@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time fetch keepalive test
+// summary: Protocol test verifying that virtual time does not hang when a fetch is cancelled because the pending keepalive data size is exceeded.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       'Tests that virtual time does not hang when a fetch is cancelled ' +

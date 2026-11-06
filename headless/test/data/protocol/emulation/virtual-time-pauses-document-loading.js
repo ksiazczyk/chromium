@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time pauses document loading test
+// summary: Protocol test verifying that document loading stays paused while virtual time is paused, comparing timestamps of eval and inline script.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       'Tests that document loading is paused while virtual time is paused');

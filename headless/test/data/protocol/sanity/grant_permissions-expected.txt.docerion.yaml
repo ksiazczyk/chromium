@@ -1,0 +1,4 @@
+# Docerion header of grant_permissions-expected.txt.
+type: test
+title: Grant permissions expected output
+summary: Expected output for the sanity test that grants geolocation permission and resets permissions via the DevTools protocol.

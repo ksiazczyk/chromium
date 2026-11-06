@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data URI iframe protocol events test
+// summary: Sanity test that logs Page protocol events fired when a data-URI iframe is added to a page.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests protocol events for a data-URI iframes');
