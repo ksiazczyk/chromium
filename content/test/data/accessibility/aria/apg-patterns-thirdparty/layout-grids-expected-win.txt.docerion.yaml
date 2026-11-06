@@ -1,0 +1,4 @@
+# Docerion header of layout-grids-expected-win.txt.
+type: test
+title: Layout grids expected Windows accessibility tree
+summary: Expected Windows IAccessible2 accessibility tree for the ARIA Authoring Practices layout grids example, used as test expectation data.

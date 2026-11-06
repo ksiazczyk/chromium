@@ -1,0 +1,4 @@
+# Docerion header of disclosure-image-description-expected-android-external.txt.
+type: test
+title: Disclosure image description expected tree, Android external
+summary: Expected Android external accessibility tree snapshot of the disclosure image description example, recording roles, actions and text for ARIA APG test verification.

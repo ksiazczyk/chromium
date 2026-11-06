@@ -1,0 +1,4 @@
+# Docerion header of switch-expected-blink.txt.
+type: test
+title: Switch example expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the Switch Example, capturing the switch node for Notifications with checkedState false and its static text children.

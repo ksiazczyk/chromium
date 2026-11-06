@@ -1,0 +1,4 @@
+# Docerion header of feed-expected-blink.txt.
+type: test
+title: Feed example expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot of the Infinite Scrolling Feed Example page, used as reference output for accessibility tests.

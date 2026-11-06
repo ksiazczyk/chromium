@@ -1,0 +1,4 @@
+# Docerion header of accordion-expected-blink.txt.
+type: test
+title: Accordion expected Blink accessibility tree
+summary: Expected Blink accessibility tree for the ARIA accordion example, capturing headings, buttons and text fields for test verification.

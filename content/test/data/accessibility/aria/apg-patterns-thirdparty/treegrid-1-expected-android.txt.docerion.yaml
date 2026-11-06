@@ -1,0 +1,4 @@
+# Docerion header of treegrid-1-expected-android.txt.
+type: test
+title: Treegrid example expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot of the treegrid email inbox example, serving as a test baseline.

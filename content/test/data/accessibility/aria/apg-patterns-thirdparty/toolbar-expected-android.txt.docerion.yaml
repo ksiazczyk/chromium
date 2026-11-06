@@ -1,0 +1,4 @@
+# Docerion header of toolbar-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for toolbar example
+summary: Expected Android accessibility tree snapshot for the ARIA toolbar example, listing roles, names and states of the toolbar's formatting controls.

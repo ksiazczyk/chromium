@@ -1,0 +1,4 @@
+# Docerion header of radio-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for radio group with roving tabindex
+summary: Expected Android accessibility tree snapshot for the APG radio group example using roving tabindex, describing radio groups, headings and radio buttons with their states.

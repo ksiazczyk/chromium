@@ -1,0 +1,4 @@
+# Docerion header of radio-rating-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for rating radio group example
+summary: Expected Blink accessibility tree snapshot for the APG rating radio group example, showing the rating radio group and its five star radio buttons.

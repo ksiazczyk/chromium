@@ -1,0 +1,4 @@
+# Docerion header of table-expected-android.txt.
+type: test
+title: Table example expected Android accessibility tree
+summary: Expected Android accessibility tree for the Table Example, describing the WAI-ARIA 101 students table with row and column indices for each header and cell.

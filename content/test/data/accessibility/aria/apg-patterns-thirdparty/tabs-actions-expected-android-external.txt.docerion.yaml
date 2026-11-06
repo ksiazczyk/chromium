@@ -1,0 +1,4 @@
+# Docerion header of tabs-actions-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for tabs with action buttons
+summary: Expected Android external accessibility tree snapshot for the tabs with action buttons example, describing views, tabs, pop-up buttons and the nurse shark tab panel.

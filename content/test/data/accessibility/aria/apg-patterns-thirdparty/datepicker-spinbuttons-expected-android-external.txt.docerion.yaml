@@ -1,0 +1,4 @@
+# Docerion header of datepicker-spinbuttons-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for date picker spin buttons
+summary: Expected Android external accessibility tree snapshot for the date picker spin buttons ARIA APG example, listing WebView nodes, spin buttons and previous/next navigation buttons.

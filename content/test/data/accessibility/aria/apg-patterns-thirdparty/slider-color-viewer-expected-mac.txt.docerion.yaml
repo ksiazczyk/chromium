@@ -1,0 +1,4 @@
+# Docerion header of slider-color-viewer-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the color viewer slider example
+summary: Expected macOS AX accessibility tree snapshot for the color viewer slider example, listing headings, sliders and text fields for test verification.

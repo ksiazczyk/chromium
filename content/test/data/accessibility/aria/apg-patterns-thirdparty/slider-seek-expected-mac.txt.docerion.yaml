@@ -1,0 +1,4 @@
+# Docerion header of slider-seek-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for media seek slider
+summary: Expected macOS accessibility tree snapshot for the media seek slider example, with an AXSlider at 90 seconds and time tick labels from 0:00 to 5:00.

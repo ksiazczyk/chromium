@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-expected-android-external.txt.
+type: test
+title: Disclosure navigation expected tree, Android external
+summary: Expected Android external accessibility tree snapshot of the disclosure navigation menu example, capturing the navigation landmark, list buttons and content region.

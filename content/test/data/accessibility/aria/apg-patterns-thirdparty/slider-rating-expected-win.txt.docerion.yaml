@@ -1,0 +1,4 @@
+# Docerion header of slider-rating-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for rating slider
+summary: Expected Windows accessibility tree snapshot for the rating slider example, with a horizontal slider role carrying the rating value text.

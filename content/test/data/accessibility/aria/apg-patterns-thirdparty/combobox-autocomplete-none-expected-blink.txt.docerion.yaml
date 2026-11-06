@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-none-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for combobox without autocomplete
+summary: Expected Blink accessibility tree snapshot of the ARIA Editable Combobox without Autocomplete Example, used as a test expectation.

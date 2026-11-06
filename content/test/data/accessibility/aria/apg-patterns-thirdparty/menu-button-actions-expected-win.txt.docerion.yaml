@@ -1,0 +1,4 @@
+# Docerion header of menu-button-actions-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for menu-button-actions
+summary: Expected Windows accessibility tree snapshot for the ARIA actions menu button example using element.focus(), used by accessibility tests.

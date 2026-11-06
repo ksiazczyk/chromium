@@ -1,0 +1,4 @@
+# Docerion header of checkbox-mixed-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for mixed-state checkbox example
+summary: Expected Blink accessibility tree snapshot for the mixed-state checkbox example, verifying roles, names and mixed checked states in accessibility tests.

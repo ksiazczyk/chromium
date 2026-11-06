@@ -1,0 +1,4 @@
+# Docerion header of feed-display-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for feed display
+summary: Expected Windows accessibility tree snapshot for the feed display ARIA example, describing IAccessible2 roles for the restaurant feed articles.

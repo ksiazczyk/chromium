@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-both-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for combobox with both autocomplete
+summary: Expected Android accessibility tree snapshot for the editable combobox with both list and inline autocomplete example, verifying combobox and button states.

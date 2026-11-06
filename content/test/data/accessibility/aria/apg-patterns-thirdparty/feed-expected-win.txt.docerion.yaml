@@ -1,0 +1,4 @@
+# Docerion header of feed-expected-win.txt.
+type: test
+title: Feed example expected Windows accessibility tree
+summary: Expected Windows IAccessible2 accessibility tree snapshot of the Infinite Scrolling Feed Example page, used as test expectation data.

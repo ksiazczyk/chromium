@@ -1,0 +1,4 @@
+# Docerion header of combobox-select-only-expected-android.txt.
+type: test
+title: Select-only combobox expected Android accessibility tree
+summary: Expected Android accessibility tree for the Select-Only Combobox Example, describing widget types, names and states.

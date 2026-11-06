@@ -1,0 +1,4 @@
+# Docerion header of slider-temperature-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for temperature slider example
+summary: Expected Windows (MSAA/IA2) accessibility tree snapshot for the vertical temperature slider ARIA example, used to verify platform accessibility output in tests.

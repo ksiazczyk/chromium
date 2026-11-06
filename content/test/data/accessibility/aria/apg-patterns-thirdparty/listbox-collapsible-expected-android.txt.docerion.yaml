@@ -1,0 +1,4 @@
+# Docerion header of listbox-collapsible-expected-android.txt.
+type: test
+title: Expected Android tree for collapsible dropdown listbox example
+summary: Expected Android accessibility tree snapshot for the deprecated collapsible dropdown listbox APG pattern example, used to verify rendered accessibility output.

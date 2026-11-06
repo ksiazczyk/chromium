@@ -1,0 +1,4 @@
+# Docerion header of disclosure-faq-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for disclosure FAQ example
+summary: Expected Android accessibility tree snapshot in external format for the disclosure FAQ ARIA APG example with parking question buttons.

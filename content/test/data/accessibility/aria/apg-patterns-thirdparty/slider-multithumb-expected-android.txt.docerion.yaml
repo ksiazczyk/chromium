@@ -1,0 +1,4 @@
+# Docerion header of slider-multithumb-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the multi-thumb slider example
+summary: Expected Android accessibility tree snapshot for the horizontal multi-thumb slider example, describing the hotel minimum and maximum price seek bars.

@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-android-external.txt.
+type: test
+title: Meter expected Android external accessibility tree
+summary: Expected Android accessibility tree snapshot in the external format for the ARIA meter example, capturing roles, ranges and actions for test verification.

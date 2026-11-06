@@ -1,0 +1,4 @@
+# Docerion header of radio-activedescendant-expected-mac.txt.
+type: test
+title: Radio activedescendant expected Mac accessibility tree
+summary: Expected macOS accessibility tree snapshot for the radio group example using aria-activedescendant, describing radio groups and buttons for pizza crust and delivery choices.

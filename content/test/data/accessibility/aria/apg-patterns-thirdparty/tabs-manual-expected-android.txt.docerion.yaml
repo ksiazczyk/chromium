@@ -1,0 +1,4 @@
+# Docerion header of tabs-manual-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for tabs manual activation example
+summary: Expected Android accessibility tree snapshot for the ARIA tabs with manual activation example, listing roles, names and states of tabs and tab panels.

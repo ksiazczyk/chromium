@@ -1,0 +1,4 @@
+# Docerion header of radio-rating-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for rating radio group example
+summary: Expected Android external accessibility tree snapshot for the APG rating radio group example, with star radio buttons described by content and state descriptions.

@@ -1,0 +1,4 @@
+# Docerion header of button-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for APG button examples
+summary: Expected Android accessibility tree snapshot for the WAI-ARIA button examples, including a Print Page button and a Mute toggle button.

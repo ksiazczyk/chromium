@@ -1,0 +1,4 @@
+# Docerion header of radio-rating-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for rating radio group example
+summary: Expected macOS accessibility tree snapshot for the APG rating radio group example, listing the rating group and its five star AXRadioButton nodes.

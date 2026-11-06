@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-auralinux.txt.
+type: test
+title: Meter expected auralinux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the ARIA meter example, used as test expectation data.

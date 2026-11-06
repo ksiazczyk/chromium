@@ -1,0 +1,4 @@
+# Docerion header of disclosure-image-description-expected-win.txt.
+type: test
+title: Disclosure image description expected tree, Windows
+summary: Expected Windows accessibility tree snapshot of the disclosure image description example using MSAA and IA2 roles for accessibility test verification.

@@ -1,0 +1,4 @@
+# Docerion header of menu-button-links-expected-win.txt.
+type: test
+title: Menu button links expected Windows accessibility tree
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the Navigation Menu Button Example, used as test data for the APG menu button links pattern.

@@ -1,0 +1,4 @@
+# Docerion header of menubar-navigation-expected-win.txt.
+type: test
+title: Menubar navigation expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree snapshot for the ARIA menubar navigation example, used as test expectation data.

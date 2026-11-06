@@ -1,0 +1,4 @@
+# Docerion header of link-expected-android.txt.
+type: test
+title: Link examples expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the ARIA Authoring Practices link examples page, used as test expectation data.

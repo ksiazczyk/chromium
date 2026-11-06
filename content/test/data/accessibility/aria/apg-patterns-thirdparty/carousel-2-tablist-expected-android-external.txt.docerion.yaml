@@ -1,0 +1,4 @@
+# Docerion header of carousel-2-tablist-expected-android-external.txt.
+type: test
+title: Carousel tablist expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot for the auto-rotating carousel with tabs example, used as test data for ARIA APG third-party pattern checks.

@@ -1,0 +1,4 @@
+# Docerion header of treeview-1a-expected-android-external.txt.
+type: test
+title: Treeview 1a expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot of the file directory treeview example, serving as a test baseline.

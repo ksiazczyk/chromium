@@ -1,0 +1,4 @@
+# Docerion header of breadcrumb-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for APG breadcrumb example
+summary: Expected Blink accessibility tree for the WAI-ARIA breadcrumb example, describing navigation, list items, links and static text nodes.

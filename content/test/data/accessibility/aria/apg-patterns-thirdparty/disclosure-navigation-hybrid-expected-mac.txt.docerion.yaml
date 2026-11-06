@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-hybrid-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for disclosure navigation hybrid
+summary: Expected macOS accessibility tree snapshot for the disclosure navigation hybrid ARIA example, describing AX roles and landmarks of the Mythical University page.

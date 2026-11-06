@@ -1,0 +1,4 @@
+# Docerion header of disclosure-faq-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for disclosure FAQ example
+summary: Expected Android accessibility tree snapshot for the disclosure FAQ ARIA APG example listing collapsed question buttons.

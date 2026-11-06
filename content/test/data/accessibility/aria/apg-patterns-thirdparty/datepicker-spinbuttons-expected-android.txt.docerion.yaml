@@ -1,0 +1,4 @@
+# Docerion header of datepicker-spinbuttons-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for date picker spin buttons
+summary: Expected Android accessibility tree snapshot for the date picker spin buttons example, describing buttons and spin button EditText nodes with range values.

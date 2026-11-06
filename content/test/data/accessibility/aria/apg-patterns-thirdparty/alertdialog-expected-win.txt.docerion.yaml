@@ -1,0 +1,4 @@
+# Docerion header of alertdialog-expected-win.txt.
+type: test
+title: Alert dialog pattern expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the ARIA alert dialog example, using IA2 roles for dialog, heading, paragraph, and pushbuttons.

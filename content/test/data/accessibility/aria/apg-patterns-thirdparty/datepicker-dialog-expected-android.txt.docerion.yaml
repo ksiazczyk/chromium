@@ -1,0 +1,4 @@
+# Docerion header of datepicker-dialog-expected-android.txt.
+type: test
+title: Date picker dialog expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the ARIA date picker dialog example with the date input and Choose Date button.

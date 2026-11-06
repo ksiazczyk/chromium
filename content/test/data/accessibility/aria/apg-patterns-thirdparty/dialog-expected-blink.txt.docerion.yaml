@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for dialog example
+summary: Expected Blink accessibility tree snapshot for the modal dialog example, including many ignored invisible nodes of the dialog content.

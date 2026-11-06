@@ -1,0 +1,4 @@
+# Docerion header of grid-combo-expected-android.txt.
+type: test
+title: Grid combobox example expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot of the Editable Combobox with Grid Popup Example page, used as reference output for accessibility tests.

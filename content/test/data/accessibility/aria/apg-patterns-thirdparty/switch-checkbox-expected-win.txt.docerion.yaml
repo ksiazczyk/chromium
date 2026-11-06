@@ -1,0 +1,4 @@
+# Docerion header of switch-checkbox-expected-win.txt.
+type: test
+title: Switch checkbox expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the Switch Example Using HTML Checkbox Input, exposing the reduced motion and captions toggles as checkable buttons for test verification.

@@ -1,0 +1,4 @@
+# Docerion header of slider-temperature-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for temperature slider example
+summary: Expected Blink accessibility tree snapshot for the vertical temperature slider ARIA example, used to verify rendered accessibility output in tests.

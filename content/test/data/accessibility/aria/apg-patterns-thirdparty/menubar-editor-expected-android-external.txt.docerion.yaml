@@ -1,0 +1,4 @@
+# Docerion header of menubar-editor-expected-android-external.txt.
+type: test
+title: Menubar editor expected Android external accessibility tree
+summary: Expected Android accessibility tree with supplemental descriptions for the Editor Menubar Example, used as test data for the APG menubar editor pattern.

@@ -1,0 +1,4 @@
+# Docerion header of toolbar-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for toolbar example
+summary: Expected Android accessibility tree snapshot in external format for the ARIA toolbar example, covering controls such as toggle buttons, radio buttons and menus.

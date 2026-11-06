@@ -1,0 +1,4 @@
+# Docerion header of listbox-scrollable-expected-android.txt.
+type: test
+title: Listbox scrollable expected Android tree
+summary: Expected Android accessibility tree snapshot of the scrollable listbox example, used as test data for accessibility tree comparisons.

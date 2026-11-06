@@ -1,0 +1,4 @@
+# Docerion header of combobox-datepicker-expected-win.txt.
+type: test
+title: Date picker combobox expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree for the Date Picker Combobox Example with roles, states and descriptions.

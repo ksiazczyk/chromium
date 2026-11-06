@@ -1,0 +1,4 @@
+# Docerion header of slider-multithumb-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the multi-thumb slider example
+summary: Expected Blink accessibility tree snapshot for the horizontal multi-thumb slider example, including the USD abbreviation and the hotel price sliders.

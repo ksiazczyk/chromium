@@ -1,0 +1,4 @@
+# Docerion header of alert-expected-android-external.txt.
+type: test
+title: Alert pattern expected Android external accessibility tree
+summary: Expected Android WebView accessibility tree snapshot for the ARIA alert example, listing the trigger button with chromeRole annotations for third-party APG pattern verification.

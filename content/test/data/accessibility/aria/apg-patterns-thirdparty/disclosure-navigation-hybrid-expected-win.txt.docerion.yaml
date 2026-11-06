@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-hybrid-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for disclosure navigation hybrid
+summary: Expected Windows accessibility tree snapshot for the disclosure navigation hybrid ARIA example, describing IAccessible2 roles and states of the Mythical University page.

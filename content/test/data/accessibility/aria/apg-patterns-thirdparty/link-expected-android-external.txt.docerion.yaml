@@ -1,0 +1,4 @@
+# Docerion header of link-expected-android-external.txt.
+type: test
+title: Link examples expected Android external accessibility tree
+summary: Expected Android external-format accessibility tree for the ARIA Authoring Practices link examples page, used as test expectation data.

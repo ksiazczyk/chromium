@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-hybrid-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for disclosure navigation hybrid
+summary: Expected Blink accessibility tree snapshot for the disclosure navigation hybrid ARIA example, describing the rendered node hierarchy of the Mythical University page.

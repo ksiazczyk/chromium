@@ -1,0 +1,4 @@
+# Docerion header of slider-color-viewer-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the color viewer slider example
+summary: Expected Android accessibility tree snapshot for the color viewer slider example, describing headings, red, green and blue seek bars and editable color text fields.

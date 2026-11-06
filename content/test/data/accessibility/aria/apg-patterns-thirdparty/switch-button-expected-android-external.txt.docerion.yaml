@@ -1,0 +1,4 @@
+# Docerion header of switch-button-expected-android-external.txt.
+type: test
+title: Switch button expected Android accessibility tree (external format)
+summary: Expected Android accessibility tree for the Switch Example Using HTML Button in the external dump format, with actions, state descriptions, and chromeRole bundles for the Environmental Controls switches.

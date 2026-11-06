@@ -1,0 +1,4 @@
+# Docerion header of tabs-automatic-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for tabs with automatic activation
+summary: Expected Android accessibility tree snapshot for the tabs with automatic activation example, describing the Danish Composers tab list and Maria Ahlefeldt panel.

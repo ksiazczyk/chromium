@@ -1,0 +1,4 @@
+# Docerion header of dialog-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for dialog example
+summary: Expected Windows accessibility tree snapshot for the modal dialog example with the Add Delivery Address button.

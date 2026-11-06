@@ -1,0 +1,4 @@
+# Docerion header of button_idl-expected-android.txt.
+type: test
+title: Button IDL expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the Button Examples (IDL Version) page, used as test expectations for the ARIA button IDL example.

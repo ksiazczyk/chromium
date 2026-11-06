@@ -1,0 +1,4 @@
+# Docerion header of carousel-1-prev-next-expected-win.txt.
+type: test
+title: Carousel prev-next expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree snapshot for the auto-rotating carousel example with previous and next slide control buttons.

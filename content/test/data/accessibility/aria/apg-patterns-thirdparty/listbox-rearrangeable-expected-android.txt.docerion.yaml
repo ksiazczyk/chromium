@@ -1,0 +1,4 @@
+# Docerion header of listbox-rearrangeable-expected-android.txt.
+type: test
+title: Listbox rearrangeable expected Android tree
+summary: Expected Android accessibility tree snapshot of the rearrangeable listbox example, used as test data for accessibility tree comparisons.

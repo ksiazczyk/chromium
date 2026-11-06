@@ -1,0 +1,4 @@
+# Docerion header of menubar-navigation-expected-blink.txt.
+type: test
+title: Menubar navigation expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the ARIA menubar navigation example, used to verify the rendered accessibility node structure.

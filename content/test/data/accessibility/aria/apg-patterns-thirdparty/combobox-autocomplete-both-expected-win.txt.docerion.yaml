@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-both-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for combobox with both autocomplete
+summary: Expected Windows accessibility tree snapshot for the editable combobox with both list and inline autocomplete example, verifying roles and collapsed states.

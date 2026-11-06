@@ -1,0 +1,4 @@
+# Docerion header of radio-activedescendant-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for radio group using aria-activedescendant
+summary: Expected Windows accessibility tree snapshot for the APG radio group example using aria-activedescendant, listing roles, names and states of the pizza crust and delivery radio buttons.

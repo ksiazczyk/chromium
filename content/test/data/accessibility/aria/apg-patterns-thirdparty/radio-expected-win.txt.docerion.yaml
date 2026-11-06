@@ -1,0 +1,4 @@
+# Docerion header of radio-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for radio group with roving tabindex
+summary: Expected Windows accessibility tree snapshot for the APG radio group example using roving tabindex, listing roles, names and checkable states of the radio buttons.

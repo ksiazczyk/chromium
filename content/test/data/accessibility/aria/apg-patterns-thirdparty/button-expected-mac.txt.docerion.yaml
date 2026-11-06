@@ -1,0 +1,4 @@
+# Docerion header of button-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for APG button examples
+summary: Expected macOS AX accessibility tree for the WAI-ARIA button examples, including AXButton and AXToggleButton nodes.

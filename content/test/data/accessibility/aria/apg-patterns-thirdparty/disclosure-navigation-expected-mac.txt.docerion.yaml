@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-expected-mac.txt.
+type: test
+title: Disclosure navigation expected tree, macOS
+summary: Expected macOS AX accessibility tree snapshot of the disclosure navigation menu example with navigation and region landmarks for accessibility test verification.

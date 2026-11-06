@@ -1,0 +1,4 @@
+# Docerion header of button-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for APG button examples
+summary: Expected Android accessibility tree in the external chromeRole format for the WAI-ARIA button examples, covering an action button and a toggle button.

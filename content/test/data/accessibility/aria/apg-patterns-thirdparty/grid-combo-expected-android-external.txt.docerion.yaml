@@ -1,0 +1,4 @@
+# Docerion header of grid-combo-expected-android-external.txt.
+type: test
+title: Grid combobox example expected Android accessibility tree (external format)
+summary: Expected accessibility tree of the Editable Combobox with Grid Popup Example page in the Android external serialization format, used as test expectation data.

@@ -1,0 +1,4 @@
+# Docerion header of listbox-collapsible-expected-mac.txt.
+type: test
+title: Expected macOS tree for collapsible dropdown listbox example
+summary: Expected macOS accessibility tree snapshot for the deprecated collapsible dropdown listbox APG pattern example, used to verify rendered accessibility output.

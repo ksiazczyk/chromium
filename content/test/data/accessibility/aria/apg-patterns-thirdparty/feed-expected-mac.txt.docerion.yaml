@@ -1,0 +1,4 @@
+# Docerion header of feed-expected-mac.txt.
+type: test
+title: Feed example expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot of the Infinite Scrolling Feed Example page, used as test expectation data.

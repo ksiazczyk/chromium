@@ -1,0 +1,4 @@
+# Docerion header of button_idl-expected-mac.txt.
+type: test
+title: Button IDL expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the Button Examples (IDL Version) page, used as test expectations for the ARIA button IDL example.

@@ -1,0 +1,4 @@
+# Docerion header of tabs-manual-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for tabs manual activation example
+summary: Expected Android accessibility tree snapshot in external format for the ARIA tabs with manual activation example, used to verify platform-specific accessibility output.

@@ -1,0 +1,4 @@
+# Docerion header of slider-seek-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for media seek slider
+summary: Expected Android accessibility tree snapshot in the external format for the media seek slider example, including the SeekBar state description and minute tick labels.

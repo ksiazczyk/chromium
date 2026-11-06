@@ -1,0 +1,4 @@
+# Docerion header of listbox-collapsible-expected-win.txt.
+type: test
+title: Expected Windows tree for collapsible dropdown listbox example
+summary: Expected Windows accessibility tree snapshot for the deprecated collapsible dropdown listbox APG pattern example, used to verify rendered accessibility output.

@@ -1,0 +1,4 @@
+# Docerion header of slider-multithumb-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for multi-thumb slider
+summary: Expected Windows accessibility tree snapshot for the horizontal multi-thumb slider example, listing roles, names and values for the hotel minimum and maximum price sliders.

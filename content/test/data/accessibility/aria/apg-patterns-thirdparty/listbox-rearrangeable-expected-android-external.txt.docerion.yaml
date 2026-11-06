@@ -1,0 +1,4 @@
+# Docerion header of listbox-rearrangeable-expected-android-external.txt.
+type: test
+title: Listbox rearrangeable expected Android external tree
+summary: Expected Android external-format accessibility tree snapshot of the rearrangeable listbox example, used as test data for accessibility tree comparisons.

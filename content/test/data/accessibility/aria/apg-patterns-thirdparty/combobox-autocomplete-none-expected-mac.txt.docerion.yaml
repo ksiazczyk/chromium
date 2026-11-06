@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-none-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for combobox without autocomplete
+summary: Expected macOS accessibility tree snapshot of the ARIA Editable Combobox without Autocomplete Example, used as a test expectation.

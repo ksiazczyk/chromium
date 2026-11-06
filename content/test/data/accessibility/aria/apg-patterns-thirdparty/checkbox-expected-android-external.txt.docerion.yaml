@@ -1,0 +1,4 @@
+# Docerion header of checkbox-expected-android-external.txt.
+type: test
+title: Checkbox expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot for the two-state checkbox example, used as test data for ARIA APG third-party pattern checks.

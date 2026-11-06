@@ -1,0 +1,4 @@
+# Docerion header of data-grids-expected-win.txt.
+type: test
+title: Data grids expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the ARIA data grids example, with table rows, column headers, cells and links.

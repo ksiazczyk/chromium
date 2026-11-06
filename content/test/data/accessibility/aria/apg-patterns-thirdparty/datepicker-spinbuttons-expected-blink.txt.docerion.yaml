@@ -1,0 +1,4 @@
+# Docerion header of datepicker-spinbuttons-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for date picker spin buttons
+summary: Expected Blink accessibility tree snapshot for the date picker spin buttons example, including spin buttons with range values and inline text boxes.

@@ -1,0 +1,4 @@
+# Docerion header of disclosure-navigation-expected-win.txt.
+type: test
+title: Disclosure navigation expected tree, Windows
+summary: Expected Windows accessibility tree snapshot of the disclosure navigation menu example using IA2 roles for landmarks, lists and buttons in test verification.

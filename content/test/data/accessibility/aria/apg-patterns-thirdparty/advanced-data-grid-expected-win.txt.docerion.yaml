@@ -1,0 +1,4 @@
+# Docerion header of advanced-data-grid-expected-win.txt.
+type: test
+title: Advanced data grid expected Win accessibility tree
+summary: Expected Windows IAccessible2 accessibility tree for the advanced data grid example, currently containing two introductory paragraphs.

@@ -1,0 +1,4 @@
+# Docerion header of disclosure-card-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for disclosure card example
+summary: Expected Android accessibility tree snapshot in external format for the disclosure (show/hide) card ARIA APG example, used to verify accessibility output in tests.

@@ -1,0 +1,4 @@
+# Docerion header of disclosure-faq-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for disclosure FAQ example
+summary: Expected Windows accessibility tree snapshot for the disclosure FAQ ARIA APG example with push buttons for each parking question.

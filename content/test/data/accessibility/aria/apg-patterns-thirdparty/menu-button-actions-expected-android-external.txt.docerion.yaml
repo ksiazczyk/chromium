@@ -1,0 +1,4 @@
+# Docerion header of menu-button-actions-expected-android-external.txt.
+type: test
+title: Expected Android external tree for menu-button-actions
+summary: Expected Android accessibility tree snapshot in external format for the ARIA actions menu button example using element.focus(), used by accessibility tests.

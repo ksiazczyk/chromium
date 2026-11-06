@@ -1,0 +1,4 @@
+# Docerion header of sortable-table-expected-android-external.txt.
+type: test
+title: Expected external Android accessibility tree for sortable table example
+summary: Expected Android external accessibility tree snapshot for the sortable table ARIA example, used to verify rendered accessibility output in tests.

@@ -1,0 +1,4 @@
+# Docerion header of menubar-navigation-expected-mac.txt.
+type: test
+title: Menubar navigation expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the ARIA menubar navigation example, used as test expectation data.

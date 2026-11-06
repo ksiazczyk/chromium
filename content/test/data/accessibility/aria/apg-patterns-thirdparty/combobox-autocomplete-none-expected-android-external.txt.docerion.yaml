@@ -1,0 +1,4 @@
+# Docerion header of combobox-autocomplete-none-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for combobox without autocomplete
+summary: Expected accessibility tree snapshot of the ARIA Editable Combobox without Autocomplete Example in the Android external dump format, used as a test expectation.

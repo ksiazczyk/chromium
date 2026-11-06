@@ -1,0 +1,4 @@
+# Docerion header of radio-rating-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for rating radio group example
+summary: Expected Android accessibility tree snapshot for the APG rating radio group example, describing a five-star radio group with content descriptions and option states.

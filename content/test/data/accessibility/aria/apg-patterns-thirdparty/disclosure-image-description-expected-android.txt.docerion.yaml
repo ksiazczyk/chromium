@@ -1,0 +1,4 @@
+# Docerion header of disclosure-image-description-expected-android.txt.
+type: test
+title: Disclosure image description expected tree, Android
+summary: Expected Android accessibility tree snapshot of the disclosure image description example, listing widget classes, roles and names for accessibility test comparison.

@@ -1,0 +1,4 @@
+# Docerion header of slider-rating-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for rating slider
+summary: Expected Android accessibility tree snapshot in the external format for the rating slider example, describing the SeekBar with its one-to-ten satisfaction rating description.

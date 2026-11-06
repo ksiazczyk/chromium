@@ -1,0 +1,4 @@
+# Docerion header of switch-checkbox-expected-android-external.txt.
+type: test
+title: Switch checkbox expected Android accessibility tree (external format)
+summary: Expected Android accessibility tree for the Switch Example Using HTML Checkbox Input in the external dump format, with actions and chromeRole bundles for the Reduced motion and Show captions switches.

@@ -1,0 +1,4 @@
+# Docerion header of table-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for table example
+summary: Expected Windows accessibility tree snapshot for the APG table example, listing roles, names and states for the student table with column headers and data cells.

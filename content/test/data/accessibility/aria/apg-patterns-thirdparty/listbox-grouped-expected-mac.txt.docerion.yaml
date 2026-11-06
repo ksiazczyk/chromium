@@ -1,0 +1,4 @@
+# Docerion header of listbox-grouped-expected-mac.txt.
+type: test
+title: Expected macOS tree for grouped listbox example
+summary: Expected macOS accessibility tree snapshot for the listbox example with grouped options, used to verify rendered accessibility output.

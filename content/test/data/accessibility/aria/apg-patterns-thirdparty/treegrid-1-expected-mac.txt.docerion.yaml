@@ -1,0 +1,4 @@
+# Docerion header of treegrid-1-expected-mac.txt.
+type: test
+title: Treegrid example expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot of the treegrid email inbox example, serving as a test baseline.

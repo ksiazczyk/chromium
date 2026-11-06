@@ -1,0 +1,4 @@
+# Docerion header of datepicker-spinbuttons-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for date picker spin buttons
+summary: Expected macOS accessibility tree snapshot for the date picker spin buttons example, with AXIncrementor nodes for day, month and year.
