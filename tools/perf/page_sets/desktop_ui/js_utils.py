@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: JavaScript measurement snippets
+# summary: Contains JavaScript snippets for measuring frame time and JS heap memory during desktop UI benchmark stories.
+# ---
+
 MEASURE_FRAME_TIME_SCRIPT = '''
 window.__webui_startMeasuringFrameTime = function(name) {
   if (window.__webui_onRequestAnimationFrame) {

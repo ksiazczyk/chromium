@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Key no-op rendering story cases
+# summary: Defines mobile no-op stories checking that idle rAF loops, setTimeout loops, and touch scrolling incur minimal activity.
+# ---
+
 from telemetry.page import shared_page_state
 
 from page_sets.rendering import rendering_story

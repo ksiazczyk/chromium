@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Pathological mobile sites rendering stories
+# summary: Defines mobile-only rendering benchmark stories for pathological sites such as CNN, ESPN, LinkedIn and Yahoo Sports, each run with a scrolling interaction.
+# ---
+
 from telemetry.page import shared_page_state
 
 from page_sets.rendering import rendering_story

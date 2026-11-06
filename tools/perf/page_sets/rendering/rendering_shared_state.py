@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Rendering shared page state
+# summary: Provides shared page state classes for rendering benchmarks, adding WebGL and GPU vendor checks, SwiftShader prevention, Android screen-on handling and Motionmark result reporting.
+# ---
+
 import logging
 
 from page_sets.rendering import story_tags

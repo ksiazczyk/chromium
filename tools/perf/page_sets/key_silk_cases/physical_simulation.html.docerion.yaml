@@ -1,0 +1,4 @@
+# Docerion header of physical_simulation.html.
+type: test
+title: Physical simulation demo page
+summary: JS Bin-saved page simulating touch-driven eased movement of chat message bubbles for performance testing.

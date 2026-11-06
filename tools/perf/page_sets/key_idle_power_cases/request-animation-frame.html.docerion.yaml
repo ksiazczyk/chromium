@@ -1,0 +1,4 @@
+# Docerion header of request-animation-frame.html.
+type: test
+title: requestAnimationFrame Test Page
+summary: Test page that continuously cycles a background color via requestAnimationFrame as an idle power test case.

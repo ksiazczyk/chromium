@@ -1,0 +1,4 @@
+# Docerion header of infinite_scrolling.html.
+type: test
+title: Infinite scrolling list demo page
+summary: Demo page rendering an infinitely scrolling list of fake email conversations for performance testing.

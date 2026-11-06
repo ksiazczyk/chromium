@@ -1,0 +1,4 @@
+# Docerion header of performance.html.
+type: test
+title: Maps performance test page
+summary: HTML page that loads the tracker and an optional WTF tracing framework to run the Maps performance test.

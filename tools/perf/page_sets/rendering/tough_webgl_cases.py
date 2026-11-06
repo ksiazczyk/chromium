@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Tough WebGL benchmark stories
+# summary: Defines rendering benchmark stories that run WebGL demos with draft extensions enabled to measure WebGL rendering performance.
+# ---
+
 from page_sets.rendering import rendering_story
 from page_sets.rendering import story_tags
 from page_sets.system_health import platforms

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome Gaia account login helper
+# summary: Logs a Gaia account into Chrome via the chrome-signin page by driving the Gaia webview context with stored credentials.
+# ---
+
 from page_sets.login_helpers import login_utils
 from telemetry.page import action_runner as action_runner_module
 

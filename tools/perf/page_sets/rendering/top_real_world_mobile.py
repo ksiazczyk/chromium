@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Top real-world mobile rendering stories
+# summary: Defines rendering benchmark stories for popular 2018 mobile websites such as Facebook, CNN, The Verge and LinkedIn, driven with scroll interactions.
+# ---
+
 from telemetry.page import shared_page_state
 
 from page_sets.login_helpers import linkedin_login

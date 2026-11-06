@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Autodesk login helper
+# summary: Automates signing into an Autodesk account on the desktop site using credentials from the credentials file.
+# ---
+
 from page_sets.login_helpers import login_utils
 
 

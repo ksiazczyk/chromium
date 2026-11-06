@@ -1,0 +1,4 @@
+# Docerion header of set-timeout.html.
+type: test
+title: setTimeout Test Page
+summary: Test page that continuously cycles a background color via setTimeout as an idle power test case.

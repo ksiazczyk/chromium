@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Desktop repaint stories
+# summary: Defines desktop-only repaint benchmark stories that run the invalidation micro benchmark on snapshot pages such as Amazon, CNN, Facebook and Twitter.
+# ---
+
 from telemetry.page import legacy_page_test
 from telemetry.page import shared_page_state
 

@@ -1,0 +1,4 @@
+# Docerion header of webp_decoding.html.
+type: test
+title: WebP image decoding page
+summary: Benchmark page that cycles through base64-encoded WebP squares to exercise WebP image decoding in performance tests.

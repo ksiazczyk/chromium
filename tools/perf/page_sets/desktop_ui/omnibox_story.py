@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Omnibox benchmark stories
+# summary: Defines omnibox performance stories (search, pedal, scoped search) that type into the omnibox via UI DevTools and enable omnibox UMA histograms for tracing.
+# ---
+
 from page_sets.desktop_ui.browser_element_identifiers import kOmniboxElementId
 from page_sets.desktop_ui.multitab_story import MultiTabStory
 from page_sets.desktop_ui.ui_devtools_utils import (

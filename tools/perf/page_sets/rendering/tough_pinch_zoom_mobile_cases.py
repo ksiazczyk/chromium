@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Tough mobile pinch zoom rendering stories
+# summary: Defines mobile-only rendering benchmark stories that run repeated pinch zoom gestures on sites like Google Search, LinkedIn, Twitch and eBay.
+# ---
+
 from telemetry.page import shared_page_state
 
 from page_sets.rendering import rendering_story

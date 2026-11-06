@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Tough path rendering stories
+# summary: Defines rendering benchmark stories that stress path rendering with GUI Mark vector charts, MotionMark canvas shapes and the IE chalkboard test.
+# ---
+
 from page_sets.rendering import rendering_story
 from page_sets.rendering import story_tags
 

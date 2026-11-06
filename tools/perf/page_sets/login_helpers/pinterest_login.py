@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Pinterest login helper
+# summary: Provides desktop and mobile Pinterest login routines, waiting on search box or local storage state to confirm success.
+# ---
+
 from page_sets.login_helpers import login_utils
 
 from page_sets.helpers import override_online

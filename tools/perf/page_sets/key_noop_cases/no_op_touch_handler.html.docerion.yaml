@@ -1,0 +1,4 @@
+# Docerion header of no_op_touch_handler.html.
+type: test
+title: No-op touch handler
+summary: Test page registering no-op touch handlers that call preventDefault on touch events, used as a benchmark case in the performance page set.

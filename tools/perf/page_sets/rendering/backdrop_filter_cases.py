@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Backdrop filter rendering story cases
+# summary: Defines rendering benchmark stories that exercise backdrop filter effects such as blurring a rotating background.
+# ---
+
 from telemetry.page import shared_page_state
 
 from page_sets.rendering import rendering_story

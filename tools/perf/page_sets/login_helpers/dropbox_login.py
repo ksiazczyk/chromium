@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Dropbox login helper
+# summary: Automates signing into a Dropbox account for performance page sets, waiting for the sign-in button to become enabled.
+# ---
+
 from page_sets.login_helpers import login_utils
 
 

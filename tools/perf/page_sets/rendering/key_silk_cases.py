@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Key silk rendering story cases
+# summary: Defines mobile key silk case stories covering scrolling, card expansion, and animation performance scenarios.
+# ---
+
 from telemetry.page import shared_page_state
 from telemetry import story
 

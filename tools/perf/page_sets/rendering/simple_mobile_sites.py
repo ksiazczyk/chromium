@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Simple mobile sites stories
+# summary: Defines mobile-only scrolling stories for simple sites such as eBay, Flickr, NYC.gov and the New York Times used in rendering benchmarks.
+# ---
+
 from telemetry.page import shared_page_state
 
 from page_sets.rendering import rendering_story

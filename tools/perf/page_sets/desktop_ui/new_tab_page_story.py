@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: New tab page performance story
+# summary: Defines a MultiTabStory-based performance story that loads the Chrome new tab page, enables UMA histogram tracing, and waits during page interactions to benchmark loading and UI shown times.
+# ---
+
 from page_sets.desktop_ui.multitab_story import MultiTabStory
 
 NEW_TAB_PAGE_BENCHMARK_UMA = [

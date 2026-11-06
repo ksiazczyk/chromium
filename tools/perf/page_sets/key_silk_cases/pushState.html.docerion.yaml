@@ -1,0 +1,4 @@
+# Docerion header of pushState.html.
+type: test
+title: pushState animation demo page
+summary: Page rotating a div with requestAnimationFrame while pushing history states, a key Silk performance case.

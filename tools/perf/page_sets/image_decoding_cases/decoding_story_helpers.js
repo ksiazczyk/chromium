@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image decoding story helper
+// summary: Defines drawColorfulSquares, which swaps base64 image data into an img element every 450 ms for the image decoding benchmark pages.
+// ---
+
 /* Given |array| of base64 data or image paths, this function successively
  * replaces the source of <img id="img"> with elements
  * {0, 1, ..., |numSquares| - 1} for |numSquares| from the initial call.

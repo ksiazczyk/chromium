@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Desktop UI story set
+# summary: Defines the DesktopUIStorySet that assembles tab search, omnibox, and new tab page benchmark stories with their browser flags.
+# ---
+
 from telemetry import story
 from page_sets.desktop_ui import (
   new_tab_page_story,
