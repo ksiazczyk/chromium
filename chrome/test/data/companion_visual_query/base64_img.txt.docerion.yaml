@@ -1,0 +1,4 @@
+# Docerion header of base64_img.txt.
+type: test
+title: Base64-encoded PNG test image
+summary: Test fixture holding a base64-encoded PNG data URI that serves as sample image input for companion visual query tests.

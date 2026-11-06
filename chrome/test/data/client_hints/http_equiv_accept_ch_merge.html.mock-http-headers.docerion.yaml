@@ -1,0 +1,4 @@
+# Docerion header of http_equiv_accept_ch_merge.html.mock-http-headers.
+type: test
+title: Mock HTTP Headers for Accept-CH Merge Test
+summary: Mock response headers that set an initial Accept-CH client hint list for the meta tag merge test page.

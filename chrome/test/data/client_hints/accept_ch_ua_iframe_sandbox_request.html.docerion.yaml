@@ -1,0 +1,4 @@
+# Docerion header of accept_ch_ua_iframe_sandbox_request.html.
+type: test
+title: accept_ch_ua_iframe_sandbox_request test page
+summary: Test page that embeds a sandboxed iframe loading simple.html to exercise client hints in sandboxed frames.

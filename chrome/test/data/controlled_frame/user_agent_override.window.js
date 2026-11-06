@@ -4,6 +4,12 @@
 
 // META script=resources/controlled_frame_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame user agent override tests
+// summary: Browser tests verifying that setUserAgentOverride reloads the controlled frame and that isUserAgentOverridden reflects the override state.
+// ---
+
 const getControlledFrameUserAgent =
     async function(controlledFrame) {
   const checkScript = `

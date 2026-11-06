@@ -1,0 +1,4 @@
+# Docerion header of accept_ch.html.mock-http-headers.
+type: test
+title: accept_ch mock HTTP headers
+summary: Mock HTTP response that advertises a long list of client hints such as dpr, device-memory and viewport-width via Accept-CH.

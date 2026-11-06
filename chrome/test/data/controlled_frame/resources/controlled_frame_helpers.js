@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame test helpers
+// summary: Helper functions to create, navigate, and execute scripts inside Controlled Frame elements for browser tests.
+// ---
+
 // Returns a Promise containing a new Controlled Frame element that has been
 // added to the document and navigated to the specified url. If `url` isn't
 // absolute, it will be resolved relative to the `https_origin` parameter given

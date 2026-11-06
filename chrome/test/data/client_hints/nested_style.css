@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: Nested style CSS fixture
+summary: CSS fixture setting the h1 font family to Roboto, served as a nested style resource in client hints tests.
+*/
+
 h1 {
   font-family: Roboto;
 }

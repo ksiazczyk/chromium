@@ -1,0 +1,4 @@
+# Docerion header of side_panel.html.
+type: test
+title: Side panel test page
+summary: HTML page shown in the extension side panel during the test, loading the side panel script that reports the test result.

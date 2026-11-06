@@ -10,6 +10,12 @@
 // changes are in place to restrict those asynchronous calls so the callback is
 // not available.
 
+// ---docerion
+// type: test
+// title: Controlled Frame callback deprecation tests
+// summary: Verifies that callback forms of executeScript, addContentScripts and contextMenus methods throw a deprecation error because the API is promise-based.
+// ---
+
 const kCallbackErr = "Callback form deprecated, see API doc for correct usage.";
 
 function expectCallbackDeprecationError(f) {

@@ -5,6 +5,12 @@
 // This file is used as dedicated, shared and service worker for
 // DlpScopedFileAccessDelegate browser tests.
 
+// ---docerion
+// type: test
+// title: DLP file access test worker script
+// summary: Worker script used as dedicated, shared and service worker in DlpScopedFileAccessDelegate browser tests to write, read and slice files via handles.
+// ---
+
 addEventListener("install", (e) => {
 });
 

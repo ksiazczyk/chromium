@@ -1,0 +1,4 @@
+# Docerion header of description.aff.
+type: test
+title: Morphological description test fixture
+summary: Test affix file combining affix rules with an AM morphological description table that Hunspell does not need for spellchecking.

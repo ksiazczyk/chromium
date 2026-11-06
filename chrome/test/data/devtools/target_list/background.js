@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote debugger test extension background script
+// summary: Background script of a Chrome test extension that queries the remote debugging endpoint at localhost:9222 and verifies discovered DevTools targets.
+// ---
+
 var REMOTE_DEBUGGER_HOST = 'localhost:9222';
 
 function requestUrl(path, callback, opt_method) {

@@ -1,0 +1,4 @@
+# Docerion header of mixed_script_in_cross_site_iframe.html.
+type: test
+title: Mixed content cross-site iframe test page
+summary: Test page that creates an iframe using a URL supplied as the query parameter for cross-site iframe mixed content tests.

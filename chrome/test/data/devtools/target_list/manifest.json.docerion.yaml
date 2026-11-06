@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Remote Debugger Test extension
+summary: Manifest version 2 extension manifest declaring the background script plus tabs and HTTP permissions for the remote debugger test.

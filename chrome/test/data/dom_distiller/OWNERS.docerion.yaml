@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for dom_distiller test data
+summary: Delegates ownership of the test data directory to the dom_distiller component owners file.

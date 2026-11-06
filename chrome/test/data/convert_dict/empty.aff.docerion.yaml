@@ -1,0 +1,4 @@
+# Docerion header of empty.aff.
+type: test
+title: Empty affix test fixture
+summary: Empty test affix file used to exercise the converter's handling of files with no content.

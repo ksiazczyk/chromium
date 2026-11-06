@@ -1,0 +1,4 @@
+# Docerion header of mixed_script.html.
+type: test
+title: Mixed content test page
+summary: Test page that loads a script over plain HTTP to trigger mixed content and also loads mixed_script.js.

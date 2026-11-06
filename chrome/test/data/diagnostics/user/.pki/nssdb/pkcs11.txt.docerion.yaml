@@ -1,0 +1,4 @@
+# Docerion header of pkcs11.txt.
+type: test
+title: pkcs11.txt
+summary: Empty pkcs11.txt placeholder in the test NSS database directory used as fixture data for Chrome diagnostics tests.

@@ -1,0 +1,4 @@
+# Docerion header of critical_ch_dpr_deprecated.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for critical_ch_dpr_deprecated.html
+summary: Mock response headers advertising dpr and sec-ch-ua-full-version via Accept-CH with dpr marked as critical.

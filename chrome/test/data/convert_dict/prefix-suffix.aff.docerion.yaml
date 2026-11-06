@@ -1,0 +1,4 @@
+# Docerion header of prefix-suffix.aff.
+type: test
+title: Prefix and suffix rules test fixture
+summary: Test affix file defining prefix and suffix rules for a VERB affix class, including a re prefix and ed/ied suffixes.

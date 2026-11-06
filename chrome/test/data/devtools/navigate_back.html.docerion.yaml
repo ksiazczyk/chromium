@@ -1,0 +1,4 @@
+# Docerion header of navigate_back.html.
+type: test
+title: Back navigation test page
+summary: Test page that clicks a hash link to examine console logging across back navigation.

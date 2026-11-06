@@ -1,0 +1,4 @@
+# Docerion header of Preferences.
+type: test
+title: Chrome profile Preferences test data
+summary: Sample Chrome browser profile preferences covering search provider, DNS prefetch, extension, and HTTP server settings, used as test data for diagnostics.

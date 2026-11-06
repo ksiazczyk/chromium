@@ -1,0 +1,4 @@
+# Docerion header of results.html.
+type: test
+title: Continuous search results test fixture
+summary: Mock HTML search results page with a heading link, used as test data for continuous search tests.

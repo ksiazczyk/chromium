@@ -4,6 +4,12 @@
 
 // META script=resources/controlled_frame_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame new window event tests
+// summary: Tests that window.open fires a newwindow event whose window can be attached to a new controlledframe element and loads the popup.
+// ---
+
 promise_test(async (test) => {
   const controlledFrame = await createControlledFrame('/simple.html');
 

@@ -1,0 +1,4 @@
+# Docerion header of page_with_iframe.html.
+type: test
+title: Page with iframe
+summary: Test page titled Page with iframe that embeds /devtools/iframe.html inside its main body.

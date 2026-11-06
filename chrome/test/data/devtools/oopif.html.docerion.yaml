@@ -1,0 +1,4 @@
+# Docerion header of oopif.html.
+type: test
+title: OOPIF host page embedding a cross-origin iframe
+summary: Test page that rewrites its URL from a.com to b.com and loads oopif_frame.html in an iframe to exercise out-of-process iframes.

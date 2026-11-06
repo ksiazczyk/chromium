@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple background page test extension manifest
+summary: Manifest v2 definition for the test extension that registers background.js as its background script for DevTools testing.

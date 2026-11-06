@@ -1,0 +1,4 @@
+# Docerion header of flash_embed_test.html.
+type: test
+title: Flash Embed Test
+summary: Test page that dynamically appends a Flash-based video embed to the DOM, simulating a common real-world resource load for DevTools protocol testing.

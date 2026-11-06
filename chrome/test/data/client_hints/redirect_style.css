@@ -3,6 +3,13 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file.
  */
+
+/*docerion
+type: test
+title: Redirect style CSS fixture
+summary: CSS fixture setting the body font size to 20px, used as a redirected style resource in client hints tests.
+*/
+
 body {
   font-size: 20px;
 }

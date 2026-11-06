@@ -1,0 +1,4 @@
+# Docerion header of TransportSecurity.
+type: test
+title: Chrome TransportSecurity HSTS test data
+summary: Sample Chrome HSTS state with a force-https domain entry and expiry, used as test data for diagnostics.

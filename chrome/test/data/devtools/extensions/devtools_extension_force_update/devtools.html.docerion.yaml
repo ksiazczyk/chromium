@@ -1,0 +1,4 @@
+# Docerion header of devtools.html.
+type: test
+title: DevTools page HTML for the force update test extension
+summary: Devtools_page entry point of the test extension that loads devtools.js to set up the test panel.

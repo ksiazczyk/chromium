@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple Side Panel test extension manifest
+summary: Manifest for the Simple Side Panel test extension, declaring the sidePanel permission, the background service worker and the default side panel page.

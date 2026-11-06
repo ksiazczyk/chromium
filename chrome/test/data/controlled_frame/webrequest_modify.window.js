@@ -5,6 +5,12 @@
 // META script=resources/controlled_frame_helpers.js
 // META script=resources/event_handler_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame WebRequest request modification tests
+// summary: Tests blocking requests via preventDefault and modifying request and response headers through WebRequest interceptors.
+// ---
+
 promise_test(async (test) => {
   const controlledframe = await createControlledFrame('/simple.html');
   controlledframe.stop();

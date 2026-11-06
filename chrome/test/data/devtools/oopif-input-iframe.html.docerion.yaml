@@ -1,0 +1,4 @@
+# Docerion header of oopif-input-iframe.html.
+type: test
+title: OOPIF input iframe page
+summary: Iframe content page that loads oopif-input.js for out-of-process iframe input tests.

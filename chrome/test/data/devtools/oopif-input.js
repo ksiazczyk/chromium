@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOPIF input event logging script
+// summary: Script that logs mouse, keyboard, and touch events for out-of-process iframe input tests.
+// ---
+
 var logs = [];
 function log(text) {
     logs.push(text);

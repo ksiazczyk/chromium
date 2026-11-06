@@ -4,6 +4,12 @@
 
 // META script=resources/controlled_frame_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame geolocation permission tests
+// summary: Tests that a geolocation permission request is handled by the embedder and granting it allows getCurrentPosition inside the frame.
+// ---
+
 promise_setup(async () => {
   await test_driver.set_permission({ name: "geolocation" }, "granted", window);
 });

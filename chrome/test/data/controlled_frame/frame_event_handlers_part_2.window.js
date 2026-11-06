@@ -5,6 +5,12 @@
 // META script=resources/controlled_frame_helpers.js
 // META script=resources/event_handler_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame frame event handlers tests, part 2
+// summary: Tests the second half of controlledframe events, covering newwindow, permissionrequest, zoomchange and sizechanged.
+// ---
+
 // Listing part 2/2 of all the frame events. Frame events are events directly
 // associated with <controlledframe> and not part of WebRequest or ContextMenus
 // API. These events are split into 2 tests to reduce test flakiness due to

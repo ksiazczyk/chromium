@@ -1,0 +1,4 @@
+# Docerion header of new_window.html.
+type: test
+title: New window target page
+summary: Simple target page that the click modifier test pages open in a new window to verify the result.

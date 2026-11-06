@@ -1,0 +1,4 @@
+# Docerion header of topsites_content.
+type: data
+title: Topsites content test data
+summary: List of URLs and expected page titles used by the Chrome content functional test to exercise the Content source.

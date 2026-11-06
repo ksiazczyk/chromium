@@ -1,0 +1,3 @@
+# Docerion header of test-model-quantized.tflite.
+type: test
+title: test-model-quantized.tflite

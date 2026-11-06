@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content Index browser test JavaScript helpers
+// summary: Shared JavaScript for Content Index browser tests that registers the service worker and adds, deletes, and lists indexed content via the registration index.
+// ---
+
 function WrapFunction(fn) {
   return fn().then(result => `ok - ${result}`)
       .catch(formatError);

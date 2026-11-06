@@ -1,0 +1,4 @@
+# Docerion header of tab-separated.aff.
+type: test
+title: Tab-separated fields test fixture
+summary: Test affix file separating SFX line fields with tabs instead of spaces, requiring continuation classes to be converted into indexes.

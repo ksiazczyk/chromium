@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Devtools test extension manifest
+summary: Manifest for the Devtools Test extension that registers devtools.html as its devtools page.

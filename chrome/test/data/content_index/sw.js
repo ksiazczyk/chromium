@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content Index test service worker
+// summary: Service worker for Content Index browser tests that skips waiting, claims clients, and posts contentdelete event IDs to open window clients.
+// ---
+
 // Service Worker initialization listeners.
 self.addEventListener('install', e => e.waitUntil(skipWaiting()));
 self.addEventListener('activate', e => e.waitUntil(clients.claim()));

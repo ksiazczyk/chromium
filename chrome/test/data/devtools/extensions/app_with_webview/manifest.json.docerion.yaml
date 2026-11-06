@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webview test platform app
+summary: Chrome app manifest declaring the background script and the webview permission for the test app.

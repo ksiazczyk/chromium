@@ -1,0 +1,4 @@
+# Docerion header of rep.aff.
+type: test
+title: REP replacement test fixture
+summary: Test affix file exercising the REP syntax for replacement rules.

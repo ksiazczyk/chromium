@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools messaging test extension test script
+// summary: Devtools page script that steps through request and port messaging checks and reports PASS or FAIL to the inspected window console.
+// ---
+
 function output(msg) {
   chrome.devtools.inspectedWindow.eval("console.log(unescape('" +
       escape(msg) + "'));")

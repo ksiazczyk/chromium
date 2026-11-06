@@ -1,0 +1,4 @@
+# Docerion header of accept_ch_img_localhost.html.mock-http-headers.
+type: test
+title: accept_ch_img_localhost mock HTTP headers
+summary: Mock HTTP response that advertises the full set of client hints via Accept-CH for the image request test page.

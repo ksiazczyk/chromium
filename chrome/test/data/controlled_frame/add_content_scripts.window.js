@@ -4,6 +4,12 @@
 
 // META script=resources/controlled_frame_helpers.js
 
+// ---docerion
+// type: test
+// title: Controlled Frame addContentScripts tests
+// summary: Tests that content scripts added via addContentScripts run on reload and can be removed, and that invalid URL patterns cause the promise to reject.
+// ---
+
 function reload(controlledFrame) {
   return new Promise((resolve, reject) => {
     const onAbort = () => {

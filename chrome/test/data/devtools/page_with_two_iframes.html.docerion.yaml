@@ -1,0 +1,4 @@
+# Docerion header of page_with_two_iframes.html.
+type: test
+title: Page with two iframes
+summary: Test page that embeds two iframes, one pointing to iframe.html and one to empty.html, for multi-frame testing.

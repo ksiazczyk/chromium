@@ -12,6 +12,12 @@
 // successfully authenticate, but a shared partition for others to speed up the
 // tests because partition creation is expensive.
 
+// ---docerion
+// type: test
+// title: Controlled Frame WebRequest authrequired tests
+// summary: Tests the WebRequest authrequired event, covering async and synchronous credential supply and failed authentication retry behavior.
+// ---
+
 async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }

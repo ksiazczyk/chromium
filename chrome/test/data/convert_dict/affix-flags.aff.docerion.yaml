@@ -1,0 +1,4 @@
+# Docerion header of affix-flags.aff.
+type: test
+title: Affix flags test fixture
+summary: Test affix file defining a group of affixes with the AF keyword for the dictionary converter.
