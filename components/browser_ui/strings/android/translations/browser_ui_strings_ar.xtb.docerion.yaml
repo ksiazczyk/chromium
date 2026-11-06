@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_ar.xtb.
+type: data
+title: Arabic browser UI strings translation bundle
+summary: XML translation bundle with Chrome Android browser UI strings localized into Arabic, keyed by numeric message IDs.

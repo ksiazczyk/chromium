@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_hu.xtb.
+type: data
+title: Hungarian browser UI strings for Chrome on Android
+summary: Hungarian translation bundle with localized Chrome Android browser UI strings for settings, site permissions, downloads and feature prompts.

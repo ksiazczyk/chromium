@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_hr.xtb.
+type: data
+title: Croatian browser UI strings for Chrome on Android
+summary: Croatian translation bundle with localized Chrome Android browser UI strings for settings, site permissions, downloads and feature prompts.

@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_ml.xtb.
+type: data
+title: Malayalam browser UI strings translation bundle
+summary: Malayalam translations of Chrome for Android browser UI strings, stored as an XTB XML bundle of message IDs, placeholders, and localized text.

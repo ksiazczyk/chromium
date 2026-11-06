@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_lv.xtb.
+type: data
+title: Latvian browser UI strings translation bundle
+summary: Latvian translations of Chrome for Android browser UI strings, stored as an XTB XML bundle of message IDs, placeholders, and localized text.

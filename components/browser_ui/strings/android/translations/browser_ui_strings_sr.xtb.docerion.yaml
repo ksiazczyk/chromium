@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_sr.xtb.
+type: data
+title: Serbian Cyrillic translation bundle for Android browser UI strings
+summary: Serbian (Cyrillic script) translations of Chrome Android browser UI strings, stored as an XML translation bundle keyed by numeric message IDs.

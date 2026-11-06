@@ -1,0 +1,4 @@
+# Docerion header of browser_ui_strings_mn.xtb.
+type: data
+title: Mongolian browser UI strings translation bundle
+summary: Mongolian translations of Chrome for Android browser UI strings, stored as an XTB XML bundle of message IDs, placeholders, and localized text.
