@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox test utilities implementation
+// summary: Implements shared helpers that apply test state, provide inputs, and check outputs for declarative Privacy Sandbox test cases.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_test_util.h"
 
 #include <tuple>

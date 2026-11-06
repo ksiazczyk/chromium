@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Privacy Sandbox Attestations preload manifest
+summary: Component manifest declaring the pre-installed Privacy Sandbox Attestations component and its version.

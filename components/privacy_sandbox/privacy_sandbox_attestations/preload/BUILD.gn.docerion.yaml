@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Privacy Sandbox attestations preload build configuration
+summary: Defines GN targets that copy the attestations manifest and data, bundle them for macOS and Android APK assets, and generate the Android asset header.

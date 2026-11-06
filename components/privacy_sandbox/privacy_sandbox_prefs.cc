@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox preference registration
+// summary: Registers Privacy Sandbox profile preferences and clears ad privacy prefs when the deprecation feature is enabled.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_prefs.h"
 
 #include "base/time/time.h"

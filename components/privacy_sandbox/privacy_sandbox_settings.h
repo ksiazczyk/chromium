@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox settings service interface
+// summary: Declares the PrivacySandboxSettings keyed service interface and enums that gate when Privacy Sandbox APIs are allowed to run.
+// ---
+
 #ifndef COMPONENTS_PRIVACY_SANDBOX_PRIVACY_SANDBOX_SETTINGS_H_
 #define COMPONENTS_PRIVACY_SANDBOX_PRIVACY_SANDBOX_SETTINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox settings implementation
+// summary: Implements PrivacySandboxSettingsImpl, wiring preferences and content settings to answer attestation and Related Website Sets queries.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_settings_impl.h"
 
 #include <algorithm>

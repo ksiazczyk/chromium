@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the attestations component
+summary: Lists the allowed include paths for code in the Privacy Sandbox attestations component.

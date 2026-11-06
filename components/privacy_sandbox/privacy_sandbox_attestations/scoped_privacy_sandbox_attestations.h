@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Privacy Sandbox Attestations test helper declaration
+// summary: Declares a test helper class that initializes the PrivacySandboxAttestations singleton with a given instance and restores the previous one on destruction.
+// ---
+
 #ifndef COMPONENTS_PRIVACY_SANDBOX_PRIVACY_SANDBOX_ATTESTATIONS_SCOPED_PRIVACY_SANDBOX_ATTESTATIONS_H_
 #define COMPONENTS_PRIVACY_SANDBOX_PRIVACY_SANDBOX_ATTESTATIONS_SCOPED_PRIVACY_SANDBOX_ATTESTATIONS_H_
 

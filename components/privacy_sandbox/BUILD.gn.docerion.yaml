@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Privacy Sandbox build targets
+summary: Defines GN build targets for the Privacy Sandbox component, including prefs, features, settings implementation, test support, and unit tests.

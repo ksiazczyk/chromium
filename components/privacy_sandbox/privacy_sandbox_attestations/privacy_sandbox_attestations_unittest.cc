@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox Attestations unit tests
+// summary: Unit tests for the Privacy Sandbox Attestations component, covering loading and parsing of attestation files with histogram, feature and scoped-instance testing.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_attestations/privacy_sandbox_attestations.h"
 
 #include <string>

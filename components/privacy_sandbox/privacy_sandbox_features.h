@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox feature declarations
+// summary: Declares the Privacy Sandbox feature flags, including Android-only attestation loading and Ad Privacy deprecation behavior.
+// ---
+
 #include "base/component_export.h"
 #include "base/feature_list.h"
 #include "base/metrics/field_trial_params.h"

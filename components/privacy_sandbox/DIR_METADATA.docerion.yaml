@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Privacy Sandbox tracker metadata
+summary: Specifies the issue tracker component, team email, and Buganizer component associated with the Privacy Sandbox directory.

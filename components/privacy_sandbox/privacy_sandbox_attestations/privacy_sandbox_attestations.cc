@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox Attestations implementation
+// summary: Implements loading and parsing of the attestations file, site attestation checks, metrics recording, and Android APK asset support.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_attestations/privacy_sandbox_attestations.h"
 
 #include <algorithm>

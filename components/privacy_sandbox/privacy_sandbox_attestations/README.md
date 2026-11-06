@@ -1,3 +1,9 @@
+---
+type: readme
+title: Privacy Sandbox Attestations
+summary: Explains that this component contains code related to Privacy Sandbox enrollment and attestation.
+---
+
 # Privacy Sandbox Attestations
 
 This component contains code related to [Privacy Sandbox
