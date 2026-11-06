@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: In-scope page for the scoped install test app
+summary: HTML test fixture page that links to the scoped install app manifest and serves as an in-scope page for web app install tests.

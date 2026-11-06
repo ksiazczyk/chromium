@@ -1,0 +1,4 @@
+# Docerion header of theme_color.json.
+type: test
+title: Theme color web app manifest
+summary: Web app manifest with a blue theme color and standalone display, used for theme color tests.

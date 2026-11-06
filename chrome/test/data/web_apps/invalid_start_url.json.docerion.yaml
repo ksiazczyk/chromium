@@ -1,0 +1,4 @@
+# Docerion header of invalid_start_url.json.
+type: test
+title: Manifest with invalid start URL
+summary: Test manifest whose start URL points to a different origin, used to test start URL validation.

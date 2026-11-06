@@ -1,0 +1,4 @@
+# Docerion header of manifest_wco.json.
+type: test
+title: Web app manifest with window controls overlay for nav capture test
+summary: Web app manifest variant that enables the window-controls-overlay display override for WCO navigation capture testing.

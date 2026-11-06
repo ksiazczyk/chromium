@@ -1,0 +1,4 @@
+# Docerion header of manifest_window_controls_overlay.json.
+type: test
+title: Site B manifest with window-controls-overlay display override
+summary: Alternative Site B manifest that overrides the display mode with window-controls-overlay for testing that mode.

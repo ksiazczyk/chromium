@@ -1,0 +1,4 @@
+# Docerion header of navigation_capturing_no_browser_BothStandalone_CaptureOn.json.
+type: test
+title: Navigation capturing expectations with no browser (BothStandalone)
+summary: Expected app window and browser states for navigation capturing tests where navigations land outside any app scope and are not handled.

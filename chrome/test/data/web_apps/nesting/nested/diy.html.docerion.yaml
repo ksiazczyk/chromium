@@ -1,0 +1,4 @@
+# Docerion header of diy.html.
+type: test
+title: DIY nested web app page without manifest
+summary: Test page for a nested web app that has no manifest of its own and only links a favicon.

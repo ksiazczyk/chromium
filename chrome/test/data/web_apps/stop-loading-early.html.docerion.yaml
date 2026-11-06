@@ -1,0 +1,4 @@
+# Docerion header of stop-loading-early.html.
+type: test
+title: Stop loading early page
+summary: Basic web app page that calls window.stop() during load to test early load interruption.

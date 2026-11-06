@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_customizations.json.
+type: test
+title: Tab strip customizations web app manifest
+summary: Web app manifest with the tabbed display override defining home tab icons, scope patterns and a new tab button for tab strip tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest_navigate.json.
+type: test
+title: Web app manifest with navigate-existing launch handler for nav capture test
+summary: Web app manifest variant that sets the launch handler client mode to navigate-existing so launches navigate the existing client during navigation capture testing.

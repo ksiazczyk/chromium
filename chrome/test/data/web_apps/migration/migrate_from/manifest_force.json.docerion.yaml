@@ -1,0 +1,4 @@
+# Docerion header of manifest_force.json.
+type: test
+title: Forced migration web app manifest
+summary: Web app manifest that forces migration by declaring a migrate_to target with an install URL.

@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_BothBrowser_CaptureOn.json.
+type: test
+title: Navigation capture expectations, BothBrowser, CaptureOn
+summary: Expected browser and tab states for web app navigation capturing tests with both apps in browser windows and capture on, covering link click scenarios across scopes.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web app manifest with custom id
+summary: Manifest declaring a simple web app with custom id some_id, launcher icons, start_url index.html, and standalone display.

@@ -1,0 +1,4 @@
+# Docerion header of direct_sockets.html.
+type: test
+title: Direct Sockets policy test page
+summary: Test page for the Direct Sockets policy that loads direct_sockets.js.

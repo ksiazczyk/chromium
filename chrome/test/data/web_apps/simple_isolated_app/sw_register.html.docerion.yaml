@@ -1,0 +1,4 @@
+# Docerion header of sw_register.html.
+type: test
+title: Service worker registration page
+summary: Test page that registers sw.js under the sw/ scope and exposes a promise resolving once the service worker is activated.

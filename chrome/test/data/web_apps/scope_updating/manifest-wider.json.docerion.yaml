@@ -1,0 +1,4 @@
+# Docerion header of manifest-wider.json.
+type: test
+title: Wider scope manifest for scope updating test app
+summary: Web app manifest defining a wider scope covering /web_apps/scope_updating/, used to test scope widening during app updates.

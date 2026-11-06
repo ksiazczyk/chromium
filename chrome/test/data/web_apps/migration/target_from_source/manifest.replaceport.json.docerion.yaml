@@ -1,0 +1,4 @@
+# Docerion header of manifest.replaceport.json.
+type: test
+title: Target App manifest with migration sources
+summary: Web app manifest for the Target App test that declares migrate_from entries with $PORT placeholders to test app migration.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Sub apps test app web app manifest
+summary: Web app manifest serving as test data for the sub-apps isolated app, declaring icons, display settings, and a permissions policy granting sub-apps and cross-origin-isolated to self.

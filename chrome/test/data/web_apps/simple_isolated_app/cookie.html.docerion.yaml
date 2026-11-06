@@ -1,0 +1,4 @@
+# Docerion header of cookie.html.
+type: test
+title: Cookie and cross-origin header test page
+summary: Test page whose response sets a cookie along with COOP, COEP and CORP headers.

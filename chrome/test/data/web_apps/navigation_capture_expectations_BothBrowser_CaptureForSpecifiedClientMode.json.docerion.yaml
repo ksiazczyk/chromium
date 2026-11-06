@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_BothBrowser_CaptureForSpecifiedClientMode.json.
+type: test
+title: Navigation capture expectations, BothBrowser, CaptureForSpecifiedClientMode
+summary: Empty expectations file for web app navigation capture tests in the BothBrowser CaptureForSpecifiedClientMode configuration, containing no test cases.

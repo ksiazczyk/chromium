@@ -1,0 +1,4 @@
+# Docerion header of controlled_frame_redirect.html.
+type: test
+title: Controlled Frame Web Request redirect test page
+summary: Page that Web Request intercepts and redirects to controlled_frame_redirect_target.html in redirect tests.

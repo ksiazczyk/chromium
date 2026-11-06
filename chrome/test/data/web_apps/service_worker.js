@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker caching basic assets
+// summary: Service worker that caches basic web app files on install and serves them from cache on fetch.
+// ---
+
 'use strict';
 
 const urlsToCache = [

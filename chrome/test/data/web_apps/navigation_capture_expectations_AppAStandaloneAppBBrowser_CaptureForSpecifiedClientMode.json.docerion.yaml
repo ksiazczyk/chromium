@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_AppAStandaloneAppBBrowser_CaptureForSpecifiedClientMode.json.
+type: test
+title: Navigation capture expectations for specified client mode
+summary: Expected browser and app window states for navigation capturing tests where App A is standalone, App B is a browser, and capture follows the specified client mode.

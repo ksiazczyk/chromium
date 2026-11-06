@@ -1,0 +1,4 @@
+# Docerion header of page_update.html.
+type: test
+title: Updated page with wider scope manifest
+summary: Test page that links the wider manifest to trigger a scope widening update of the web app.

@@ -1,0 +1,4 @@
+# Docerion header of usb_all.html.mock-http-headers.
+type: test
+title: Mock HTTP headers allowing USB on all origins
+summary: Mock HTTP response headers for usb_all.html that set Permissions-Policy usb=* to allow USB on all origins.

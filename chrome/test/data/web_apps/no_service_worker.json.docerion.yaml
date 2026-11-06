@@ -1,0 +1,4 @@
+# Docerion header of no_service_worker.json.
+type: test
+title: Web app manifest with no service worker
+summary: Web app manifest fixture for a standalone app without a service worker, used in installation tests.

@@ -1,0 +1,4 @@
+# Docerion header of suggest.html.
+type: test
+title: Migrate From suggested migration test page
+summary: Test page for the 'migrate from' web app whose manifest suggests migration.

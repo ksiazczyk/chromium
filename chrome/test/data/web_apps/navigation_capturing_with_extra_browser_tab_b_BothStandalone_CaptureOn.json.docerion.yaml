@@ -1,0 +1,4 @@
+# Docerion header of navigation_capturing_with_extra_browser_tab_b_BothStandalone_CaptureOn.json.
+type: test
+title: Navigation capturing expectations with extra browser tab B (BothStandalone)
+summary: Expected browser and app window states for navigation capturing tests where app B is open in an extra browser tab.

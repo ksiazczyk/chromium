@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web app manifest for the second simple test app
+summary: Manifest fixture defining the app name, 48px and 192px icons, start URL, standalone display and dot scope.

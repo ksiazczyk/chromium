@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated app service worker
+// summary: Service worker with a fetch handler serving an offline fallback, plus push notification and notification click handling for tests.
+// ---
+
 self.addEventListener('fetch', e => {
   e.respondWith((async () => {
     try {

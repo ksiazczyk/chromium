@@ -1,0 +1,4 @@
+# Docerion header of install_url.html.
+type: test
+title: Install URL page within app scope but not the start URL
+summary: Test page at a URL inside the app's scope but different from the start_url, for web app install testing.

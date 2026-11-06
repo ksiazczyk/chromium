@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Start page with narrow scope manifest
+summary: Test start page that links the narrow manifest and limits the app scope to page* URLs.

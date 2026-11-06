@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Site B web app manifest with minimal-ui display
+summary: Web app manifest for Site B defining icons, scope, minimal-ui display and file handlers used by dPWA integration tests.

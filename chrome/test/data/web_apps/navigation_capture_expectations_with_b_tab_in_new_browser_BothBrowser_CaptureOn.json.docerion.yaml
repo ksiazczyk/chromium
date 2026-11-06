@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_with_b_tab_in_new_browser_BothBrowser_CaptureOn.json.
+type: test
+title: Navigation capture expectations with B tab in new browser (BothBrowser)
+summary: Expected browser tab states for a link capturing test where app B opens in a new browser window with both apps in browser display and capture on.

@@ -1,0 +1,4 @@
+# Docerion header of manifest_with_id.json.
+type: test
+title: Parent web app manifest with custom app id
+summary: Variant web app manifest that sets a custom app id and scope for the parent app, used in web app nesting tests.

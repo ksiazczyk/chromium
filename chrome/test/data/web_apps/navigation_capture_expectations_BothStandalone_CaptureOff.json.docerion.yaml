@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_BothStandalone_CaptureOff.json.
+type: test
+title: Navigation capture expectations, BothStandalone, CaptureOff
+summary: Expected browser and tab states for web app navigation capturing tests with both apps standalone and link capture off, covering button and link clicks with various openers and targets.

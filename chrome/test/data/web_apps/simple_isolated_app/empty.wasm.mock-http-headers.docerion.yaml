@@ -1,0 +1,4 @@
+# Docerion header of empty.wasm.mock-http-headers.
+type: test
+title: Empty WASM mock HTTP headers
+summary: Mock HTTP response headers that serve empty.wasm with the application/wasm content type in browser tests.

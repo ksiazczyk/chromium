@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Standalone web app test page Site A
+summary: HTML test page for dPWA integration tests that injects a manifest link tag and registers the standalone service worker.

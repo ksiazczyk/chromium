@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_fixed_home_scope.json.
+type: test
+title: Tab strip fixed home scope manifest
+summary: Web app manifest with the tabbed display override and fixed home tab scope patterns plus a new tab button URL for tab strip tests.

@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_with_b_launched_in_setup_BothBrowser_CaptureOn.json.
+type: test
+title: Navigation capture expectations, BothBrowser, CaptureOn, B launched in setup
+summary: Expected states for navigation capture tests with both apps in browser windows, capture on, and app B launched in setup, including server-side redirect scenarios.

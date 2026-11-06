@@ -1,0 +1,4 @@
+# Docerion header of display_fullscreen.html.
+type: test
+title: Fullscreen web app test page
+summary: Test page for a web app whose manifest uses the fullscreen display mode.

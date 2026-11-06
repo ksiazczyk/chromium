@@ -1,0 +1,4 @@
+# Docerion header of manifest_suggest.json.
+type: test
+title: Migrate To suggested migration manifest
+summary: Web app manifest with a migrate_from entry whose behavior is suggest, used by the suggested migration test page.

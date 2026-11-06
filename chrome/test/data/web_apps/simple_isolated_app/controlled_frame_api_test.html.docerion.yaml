@@ -1,0 +1,4 @@
+# Docerion header of controlled_frame_api_test.html.
+type: test
+title: Controlled Frame API test page with script
+summary: HTML page that includes controlled_frame_api_test.js to run Controlled Frame API tests.

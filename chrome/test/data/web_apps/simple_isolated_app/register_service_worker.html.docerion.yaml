@@ -1,0 +1,4 @@
+# Docerion header of register_service_worker.html.
+type: test
+title: Service worker registration page
+summary: Test page that loads the script registering the isolated app's service worker.

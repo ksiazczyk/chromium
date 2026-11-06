@@ -1,0 +1,4 @@
+# Docerion header of page_same_scope.html.
+type: test
+title: Sub App 1 same-scope test page
+summary: HTML test page for the sub1 sub app that links the manifest_same_scope.webmanifest manifest and the shared subapps icon.

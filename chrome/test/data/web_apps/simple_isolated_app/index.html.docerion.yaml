@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Isolated Web App index page
+summary: Entry HTML page of the simple isolated web app used as a test fixture.

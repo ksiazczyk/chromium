@@ -1,0 +1,4 @@
+# Docerion header of suggest.html.
+type: test
+title: Migrate To suggested migration test page
+summary: Test page for the 'migrate to' web app whose manifest suggests migration via migrate_from info.

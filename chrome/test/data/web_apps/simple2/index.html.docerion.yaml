@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Second basic web app test page with separate scope
+summary: Simple HTML test fixture for a second web app with its own scope, linking a manifest and a 48px icon.

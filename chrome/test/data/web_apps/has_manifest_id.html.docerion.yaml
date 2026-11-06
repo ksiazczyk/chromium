@@ -1,0 +1,4 @@
+# Docerion header of has_manifest_id.html.
+type: test
+title: Web app page with manifest id
+summary: Test page for a basic web app whose manifest specifies an id field.

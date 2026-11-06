@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Basic web app test page
+summary: Test page for a basic web app that links a manifest and icon and registers a service worker.

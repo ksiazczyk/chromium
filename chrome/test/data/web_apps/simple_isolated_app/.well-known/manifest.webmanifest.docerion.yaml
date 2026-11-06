@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Simple Isolated App web app manifest
+summary: Web app manifest for the Simple Isolated App test fixture, declaring its scope, start URL, update manifest URL, permissions policy, and icon.

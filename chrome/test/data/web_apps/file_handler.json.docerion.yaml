@@ -1,0 +1,4 @@
+# Docerion header of file_handler.json.
+type: test
+title: Web app manifest with file handlers
+summary: Test manifest declaring a standalone web app with a file handler that accepts plain text files.

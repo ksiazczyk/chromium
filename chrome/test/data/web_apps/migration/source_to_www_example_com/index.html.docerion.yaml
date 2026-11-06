@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Source to example.com
+summary: Test page for a Chrome web app migration scenario, acting as the source app and linking the manifest that defines its migration target.

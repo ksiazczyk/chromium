@@ -1,0 +1,4 @@
+# Docerion header of launch_handler_client_mode_navigate_existing.json.
+type: test
+title: Launch handler client mode navigate-existing test manifest
+summary: Web app manifest used in Chromium tests to exercise launch_handler with client_mode set to navigate-existing.

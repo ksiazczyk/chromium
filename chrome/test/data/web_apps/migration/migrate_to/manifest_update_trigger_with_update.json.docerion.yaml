@@ -1,0 +1,4 @@
+# Docerion header of manifest_update_trigger_with_update.json.
+type: test
+title: Migrate To update trigger with update manifest
+summary: Web app manifest for the update-trigger scenario where a new manifest from the migrate_from app is installed.

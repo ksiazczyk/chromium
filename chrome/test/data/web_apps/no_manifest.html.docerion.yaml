@@ -1,0 +1,4 @@
+# Docerion header of no_manifest.html.
+type: test
+title: Web page with no manifest
+summary: Test page without a manifest link for web app installations configured entirely in code.

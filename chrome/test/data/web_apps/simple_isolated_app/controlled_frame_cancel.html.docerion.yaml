@@ -1,0 +1,4 @@
+# Docerion header of controlled_frame_cancel.html.
+type: test
+title: Controlled Frame Web Request cancel test page
+summary: Page used to test the cancel case of the Controlled Frame Web Request API.

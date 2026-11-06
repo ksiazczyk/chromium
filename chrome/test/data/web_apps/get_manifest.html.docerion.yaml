@@ -1,0 +1,4 @@
+# Docerion header of get_manifest.html.
+type: test
+title: Manifest loader test page
+summary: Test page that sets its manifest link href from the query string so tests can load arbitrary manifests.

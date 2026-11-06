@@ -1,0 +1,4 @@
+# Docerion header of force.html.
+type: test
+title: Migrate From forced migration test page
+summary: Test page for the 'migrate from' web app whose manifest forces migration to another app.

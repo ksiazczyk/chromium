@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_with_large_home_tab_icon.json.
+type: test
+title: Tab strip manifest with large home tab icon
+summary: Web app manifest with the tabbed display override defining a multi-size home tab icon and a new tab button URL.

@@ -1,0 +1,4 @@
+# Docerion header of usb_self.html.mock-http-headers.
+type: test
+title: Mock HTTP headers allowing USB on same origin
+summary: Mock HTTP response headers for usb_self.html that set Permissions-Policy usb=(self) to allow USB only on the same origin.

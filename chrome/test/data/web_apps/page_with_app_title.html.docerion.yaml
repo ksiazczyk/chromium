@@ -1,0 +1,4 @@
+# Docerion header of page_with_app_title.html.
+type: test
+title: Page with app title meta tag
+summary: Test page that sets an application-title meta tag alongside its document title.

@@ -1,0 +1,4 @@
+# Docerion header of dedicated_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for dedicated_worker.js
+summary: Mock HTTP response headers serving dedicated_worker.js as JavaScript with cross-origin isolation headers.

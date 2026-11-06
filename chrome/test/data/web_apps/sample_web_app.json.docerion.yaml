@@ -1,0 +1,4 @@
+# Docerion header of sample_web_app.json.
+type: test
+title: Sample web app record
+summary: Large sample web app JSON record with icons, file handlers, shortcuts and OS integration states for tests.

@@ -1,0 +1,4 @@
+# Docerion header of text_handler.html.
+type: test
+title: Site B text file handler test page
+summary: Handler page for text file launches in the Site B test app, with a TODO to verify that loaded text files are correct.

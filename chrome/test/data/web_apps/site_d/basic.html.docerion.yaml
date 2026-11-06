@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site D dPWA integration test page
+summary: HTML test page for the dPWA integration testing framework that injects a manifest link tag and starts the Site D service worker on load.

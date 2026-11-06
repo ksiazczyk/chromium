@@ -1,0 +1,4 @@
+# Docerion header of clear_site_data.html.
+type: test
+title: Clear-Site-Data test page
+summary: Test page whose response clears cache, cookies and storage via the Clear-Site-Data header.

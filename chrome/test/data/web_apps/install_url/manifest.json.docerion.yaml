@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple web app manifest for install URL tests
+summary: Web app manifest defining a simple standalone app with PNG icons, start_url index.html and scope '.', used as a fixture for install URL tests.

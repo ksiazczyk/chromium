@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Basic web app test page with separate scope
+summary: Test page for a basic web app whose scope is separate from other test sites, linking to manifest.json for install URL tests.

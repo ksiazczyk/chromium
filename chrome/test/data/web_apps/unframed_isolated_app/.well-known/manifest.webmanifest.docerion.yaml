@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Unframed Isolated Web App manifest
+summary: Web app manifest test fixture for an unframed isolated web app, declaring standalone display with unframed override, a window-management permissions policy, and a green PNG icon.

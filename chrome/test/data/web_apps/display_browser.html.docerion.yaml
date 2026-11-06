@@ -1,0 +1,4 @@
+# Docerion header of display_browser.html.
+type: test
+title: Display browser web app test page
+summary: Test page for a web app whose manifest uses the browser display mode.

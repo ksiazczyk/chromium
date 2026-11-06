@@ -1,0 +1,4 @@
+# Docerion header of identical_scope_sub_app_manifest.webmanifest.
+type: test
+title: Identical Scope Sub App Manifest
+summary: Web app manifest for the identical scope sub app, defining its name, icon, start URL and standalone display for sub apps testing.

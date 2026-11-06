@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Sub App 1 test page
+summary: HTML test page for the sub1 sub app that links the manifest.webmanifest manifest and the shared subapps icon.

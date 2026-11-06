@@ -1,0 +1,4 @@
+# Docerion header of bad_title_only.html.
+type: test
+title: Incorrect app name test page
+summary: Test page whose title and heading give an incorrect app name for web app install testing.

@@ -1,0 +1,4 @@
+# Docerion header of manifest_no_migration.json.
+type: test
+title: Migrate To manifest without migration info
+summary: Web app manifest containing no migrate_from data, used for the no-migration test case.

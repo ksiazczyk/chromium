@@ -1,0 +1,4 @@
+# Docerion header of file_handler_index.html.
+type: test
+title: File handler web app index page
+summary: Test start page that links the file handler manifest and registers a service worker for the file handler web app.

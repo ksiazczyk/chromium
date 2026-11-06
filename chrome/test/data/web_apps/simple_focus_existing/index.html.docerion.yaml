@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Basic web app test page with separate scope
+summary: Test web app start page that links its manifest and icon and loads the launch params detector, with a scope separate from other test sites.

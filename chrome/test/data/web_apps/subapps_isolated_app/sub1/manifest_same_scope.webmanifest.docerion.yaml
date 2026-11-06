@@ -1,0 +1,4 @@
+# Docerion header of manifest_same_scope.webmanifest.
+type: test
+title: Sub1 same-scope web app manifest
+summary: Web app manifest named sub1_same_scope for the sub apps test data, using /sub1/page_same_scope.html as its start URL with standalone display.

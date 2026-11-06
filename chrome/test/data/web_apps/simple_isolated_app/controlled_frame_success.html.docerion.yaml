@@ -1,0 +1,4 @@
+# Docerion header of controlled_frame_success.html.
+type: test
+title: Controlled Frame success page
+summary: Landing page for the success case of the Controlled Frame Web Request API test.

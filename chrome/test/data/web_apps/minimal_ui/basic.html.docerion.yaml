@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site B basic page for dPWA integration tests
+summary: HTML test page for Site B that injects a manifest link tag and registers the minimal_ui service worker for desktop PWA integration tests.

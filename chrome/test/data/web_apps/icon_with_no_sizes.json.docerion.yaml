@@ -1,0 +1,4 @@
+# Docerion header of icon_with_no_sizes.json.
+type: test
+title: Manifest with icon missing sizes
+summary: Test manifest declaring an icon without a sizes attribute to exercise icon size handling.

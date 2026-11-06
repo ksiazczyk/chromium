@@ -1,0 +1,4 @@
+# Docerion header of direct_sockets.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for direct_sockets.html
+summary: Mock HTTP response headers for direct_sockets.html with cross-origin isolation headers.

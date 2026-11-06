@@ -1,0 +1,4 @@
+# Docerion header of install_url.html.
+type: test
+title: Install URL test page with manifest link
+summary: Test page that is not the start_url but links the manifest, used to verify web app installation from such a URL.

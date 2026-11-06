@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Nested web app index page
+summary: Test start page of the nested web app, linking to manifest.json and a 48px icon.

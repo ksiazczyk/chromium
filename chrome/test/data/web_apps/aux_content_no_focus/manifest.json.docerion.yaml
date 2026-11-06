@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web app manifest for the aux content focus test
+summary: Manifest for the test web app, declaring icons, start URL, standalone display and scope for the focus test fixture.

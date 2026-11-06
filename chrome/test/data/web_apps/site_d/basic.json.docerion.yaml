@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Site D web app manifest
+summary: Web app manifest for Site D used in dPWA integration tests, declaring icons, start URL, scope and standalone display.

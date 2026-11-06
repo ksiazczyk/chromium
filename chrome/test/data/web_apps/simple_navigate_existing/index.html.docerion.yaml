@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: index.html
+summary: Test page for a basic web app with a scope separate from other test sites, used to exercise launch handler navigation behavior.

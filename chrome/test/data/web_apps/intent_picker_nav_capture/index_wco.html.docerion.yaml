@@ -1,0 +1,4 @@
+# Docerion header of index_wco.html.
+type: test
+title: Intent Picker Navigation Capture WCO test page
+summary: Test page that uses the window controls overlay manifest and updates its title based on WCO visibility changes during navigation capture testing.

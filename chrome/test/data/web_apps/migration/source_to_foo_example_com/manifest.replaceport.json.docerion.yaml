@@ -1,0 +1,4 @@
+# Docerion header of manifest.replaceport.json.
+type: test
+title: Source app manifest for migration to foo.example.com
+summary: Web app manifest test fixture declaring migration of the source app to foo.example.com with a port placeholder.

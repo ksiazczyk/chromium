@@ -1,0 +1,4 @@
+# Docerion header of no_migration_info.html.
+type: test
+title: Migrate From no migration info test page
+summary: Test page for the 'migrate from' web app whose manifest contains no migration info.

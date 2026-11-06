@@ -1,0 +1,4 @@
+# Docerion header of controlled_frame_redirect_target.html.
+type: test
+title: Controlled Frame redirect target page
+summary: Target page that the Controlled Frame Web Request API redirect test should land on after redirection.

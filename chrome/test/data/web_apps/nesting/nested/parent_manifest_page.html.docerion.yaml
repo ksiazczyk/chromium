@@ -1,0 +1,4 @@
+# Docerion header of parent_manifest_page.html.
+type: test
+title: Page controlled by the parent manifest
+summary: Test page referencing the parent directory's manifest_with_id.json so it falls under the parent web app manifest.

@@ -1,0 +1,4 @@
+# Docerion header of out_of_scope.html.
+type: test
+title: Out-of-scope page linking the scoped install test app
+summary: HTML test page outside the app's declared scope that links the same manifest to exercise scoped install behavior.

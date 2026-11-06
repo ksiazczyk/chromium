@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Frame API test script
+// summary: JavaScript helpers and tests for Controlled Frame navigation APIs such as back, forward and go.
+// ---
+
 const ORIGINAL_PATH = '/controlled_frame.html';
 const TEST_PAGE_1_PATH = '/controlled_frame_api_test_page1.html';
 const TEST_PAGE_2_PATH = '/controlled_frame_api_test_page2.html';

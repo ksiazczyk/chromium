@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site D offline fallback service worker
+// summary: Service worker for the Site D test site that responds with an offline fallback message when a network fetch fails.
+// ---
+
 'use strict';
 
 self.addEventListener('fetch', event => {
