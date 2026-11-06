@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceChannelDowngradeBehavior policy definition
+# summary: Defines the DeviceChannelDowngradeBehavior device policy that sets how enrolled devices handle downgrades to a more stable channel.
+# ---
+
 caption: Channel downgrade behavior
 default: 1
 desc: |-

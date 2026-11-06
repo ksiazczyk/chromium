@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Cryptography compliance policy group details
+# summary: Group metadata giving the caption and description for the cryptography compliance policy set, which covers user and device policies for specific cryptographic compliance regimes.
+# ---
+
 caption: Cryptography compliance policies
 desc: Configures user and device policies related to specific cryptographic compliance regimes

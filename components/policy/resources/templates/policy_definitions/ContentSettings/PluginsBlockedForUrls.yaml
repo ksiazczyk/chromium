@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: PluginsBlockedForUrls policy
+# summary: Deprecated policy definition listing URL patterns for sites blocked from running the Flash plugin.
+# ---
+
 caption: Block the <ph name="FLASH_PLUGIN_NAME">Flash</ph> plugin on these sites
 deprecated: true
 desc: |-

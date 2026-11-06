@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SmartTabSharingSettings policy definition
+# summary: Policy that controls the smart tab sharing feature of Google AI Mode in Chrome's side panel or tabs, and is ignored when SearchContentSharingSettings is disabled.
+# ---
+
 caption: Smart tab sharing settings
 desc: |-
   This policy controls the smart tab sharing feature of <ph name="GOOGLE_AI_MODE_PRODUCT_NAME">Google AI Mode</ph> through <ph name="PRODUCT_NAME">Google Chrome</ph> side panel or tabs.

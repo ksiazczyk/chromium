@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultSearchProviderName policy definition
+# summary: Defines the Chrome policy that sets the default search provider's name, falling back to the hostname from the search URL when unset.
+# ---
+
 caption: Default search provider name
 desc: |-
   If <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME">DefaultSearchProviderEnabled</ph> is on, then setting <ph name="DEFAULT_SEARCH_PROVIDER_NAME_POLICY_NAME">DefaultSearchProviderName</ph> specifies the default search provider's name.

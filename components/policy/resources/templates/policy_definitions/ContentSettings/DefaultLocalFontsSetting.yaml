@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Local Fonts permission setting policy
+# summary: Defines the Chrome policy setting the default Local Fonts permission to blocked or prompt, limiting or extending sites' access to local font information.
+# ---
+
 caption: Default Local Fonts permission setting
 default: null
 desc: |-

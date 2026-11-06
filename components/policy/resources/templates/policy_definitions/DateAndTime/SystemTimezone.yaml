@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SystemTimezone policy definition
+# summary: Defines the device-only policy that sets a fixed ChromeOS time zone and prevents users from changing it.
+# ---
+
 caption: Timezone
 desc: |-
   Setting the policy specifies a device's time zone and turns off location-based automatic time zone adjustment while overriding the <ph name="SYSTEM_TIMEZONE_AUTOMATIC_DETECTION_POLICY_NAME">SystemTimezoneAutomaticDetection</ph> policy. Users can't change the time zone.

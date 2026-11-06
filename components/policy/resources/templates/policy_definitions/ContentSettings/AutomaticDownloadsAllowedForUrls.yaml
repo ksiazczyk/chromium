@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutomaticDownloadsAllowedForUrls policy definition
+# summary: Defines the Chrome policy listing sites allowed to download multiple files automatically, falling back to DefaultAutomaticDownloadsSetting when unset.
+# ---
+
 caption: Allow automatic downloads on these sites
 desc: |-
   Allows you to set a list of URL patterns that specify sites which are allowed to download multiple files automatically.

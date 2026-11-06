@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CookiesBlockedForUrls policy definition
+# summary: Defines a Chrome policy listing URL patterns where sites are not allowed to set cookies.
+# ---
+
 caption: Block cookies on these sites
 desc: |-
   Setting the policy lets you make a list of URL patterns that specify sites that can't set cookies.

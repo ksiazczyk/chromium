@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Settings for the GenAI local foundational model
+# summary: Chrome enterprise policy definition that controls whether Chrome downloads the foundational GenAI model and uses it for local inference.
+# ---
+
 caption: Settings for GenAI local foundational model
 
 desc: |-

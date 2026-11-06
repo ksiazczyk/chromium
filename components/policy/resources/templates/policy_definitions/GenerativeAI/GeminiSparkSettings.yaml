@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow Gemini Spark to connect to Chrome and use auto browse
+# summary: Chrome enterprise policy definition that controls whether the Gemini Spark agent may connect to Chrome and use auto browse, with a security warning about autonomous actions.
+# ---
+
 caption: Allows <ph name="GEMINI_SPARK_PRODUCT_NAME">Gemini Spark</ph> to connect to <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> and use auto browse via Gemini in Chrome
 desc: |-
   Controls if the <ph name="GEMINI_SPARK_PRODUCT_NAME">Gemini Spark</ph> agent is allowed to connect to <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> and use auto browse. <ph name="GEMINI_SPARK_PRODUCT_NAME">Gemini Spark</ph> might not be available to your organization.

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Crostini policy group details
+# summary: Defines the caption and description for the Crostini (Linux container) policy group.
+# ---
+
 caption: Linux container
 desc: Controls settings for the Linux container (Crostini).

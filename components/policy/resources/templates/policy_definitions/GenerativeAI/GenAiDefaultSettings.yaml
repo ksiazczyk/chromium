@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GenAiDefaultSettings policy definition
+# summary: Policy that sets the default value for all covered generative AI features in Chrome across platforms, defining allow, allow-without-logging, and disable defaults.
+# ---
+
 caption: Set the default policy value for <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>'s covered generative AI features
 
 desc: |-

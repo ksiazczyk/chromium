@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Auto-grant sites permission to connect to HID devices with given HID usages
+# summary: Policy definition granting listed sites access to HID devices whose top-level collections match given HID usages, taking precedence over WebHidBlockedForUrls.
+# ---
+
 caption: Automatically grant permission to these sites to connect to HID devices containing
   top-level collections with the given HID usage.
 desc: |-

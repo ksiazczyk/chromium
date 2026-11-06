@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default File Handling Guard Setting policy definition
+# summary: Defines the deprecated Chrome policy that lets web apps ask for or be denied access to file types via the File Handling API on Chrome 91 to 96.
+# ---
+
 caption: Control use of the File Handling API
 default: null
 deprecated: true

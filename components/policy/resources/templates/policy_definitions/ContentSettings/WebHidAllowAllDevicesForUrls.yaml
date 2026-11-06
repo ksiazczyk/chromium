@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Automatically grant permission to sites to connect to any HID device
+# summary: Policy definition listing sites automatically granted permission to connect to any HID device, overriding the default WebHID guard setting and user preferences.
+# ---
+
 caption: Automatically grant permission to sites to connect to any HID device.
 desc: |-
   Setting the policy allows you to list sites which are automatically granted permission to access all available devices.

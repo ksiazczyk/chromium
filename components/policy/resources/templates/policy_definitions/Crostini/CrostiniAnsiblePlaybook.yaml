@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CrostiniAnsiblePlaybook policy definition
+# summary: Defines the deprecated CrostiniAnsiblePlaybook policy for supplying an Ansible playbook to the default Crostini container.
+# ---
+
 caption: Crostini Ansible playbook
 desc: |-
   Provides an Ansible playbook that should be executed in the default Crostini container.

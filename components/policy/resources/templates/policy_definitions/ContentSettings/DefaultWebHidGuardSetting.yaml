@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default WebHID Guard Setting policy
+# summary: Defines the Chrome policy that controls website access to HID devices via the WebHID API, overridable per URL with WebHidAskForUrls and WebHidBlockedForUrls.
+# ---
+
 caption: Control use of the WebHID API
 default: null
 desc: |-

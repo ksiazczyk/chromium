@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DriveFileSyncAvailable policy definition
+# summary: Policy definition controlling the ChromeOS file sync feature that keeps Google Drive files available offline on Chromebook Plus devices.
+# ---
+
 caption: <ph name="PRODUCT_OS_NAME">$2<ex>ChromeOS</ex></ph> file sync
 default: visible
 desc: |-

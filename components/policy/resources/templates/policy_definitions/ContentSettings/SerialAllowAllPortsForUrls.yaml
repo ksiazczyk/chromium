@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SerialAllowAllPortsForUrls policy definition
+# summary: Defines a policy that automatically grants listed sites permission to access all available serial ports.
+# ---
+
 caption: Automatically grant permission to sites to connect all serial ports.
 desc: |-
   Setting the policy allows you to list sites which are automatically granted permission to access all available serial ports.

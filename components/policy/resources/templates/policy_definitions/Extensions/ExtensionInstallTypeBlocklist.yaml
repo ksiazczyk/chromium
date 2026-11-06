@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionInstallTypeBlocklist policy definition
+# summary: Defines the Chrome policy blocking disallowed extension install types, such as extensions loaded from the command line.
+# ---
+
 caption: Blocklist for install types of extensions
 desc: |-
   The blocklist controls which extensions install types are disallowed.

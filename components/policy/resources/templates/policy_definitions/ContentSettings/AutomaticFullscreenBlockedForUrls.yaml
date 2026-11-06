@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutomaticFullscreenBlockedForUrls policy definition
+# summary: Defines the Chrome policy blocking matching origins from calling requestFullscreen() without a prior user gesture, superseding user personal settings.
+# ---
+
 caption: Block automatic fullscreen on these sites
 desc: |-
   For security reasons, the

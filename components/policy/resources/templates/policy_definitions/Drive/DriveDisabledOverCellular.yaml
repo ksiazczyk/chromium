@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DriveDisabledOverCellular policy definition
+# summary: Policy definition that disables Google Drive syncing over cellular connections in the ChromeOS Files app, allowing sync only via Wi-Fi or Ethernet.
+# ---
+
 arc_support: This policy has no effect on the Android Google Drive app. If you want
   to prevent use of Google Drive over cellular connections, you should disallow installation
   of the Android Google Drive app.

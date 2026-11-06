@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebUsbBlockedForUrls policy definition
+# summary: Defines the Chrome policy listing URL patterns for sites that cannot ask users to grant WebUSB device access.
+# ---
+
 caption: Block WebUSB on these sites
 desc: |-
   Setting the policy lets you list the URL patterns that specify which sites can't ask users to grant them access to a USB device.

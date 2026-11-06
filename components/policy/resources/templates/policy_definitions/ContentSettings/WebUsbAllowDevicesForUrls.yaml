@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebUsbAllowDevicesForUrls policy definition
+# summary: Defines the Chrome policy that automatically grants listed sites access to USB devices with given vendor and product IDs, overriding default WebUSB settings.
+# ---
+
 caption: Automatically grant permission to these sites to connect to USB devices with
   the given vendor and product IDs.
 desc: |-

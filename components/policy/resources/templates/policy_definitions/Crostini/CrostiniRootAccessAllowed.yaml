@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CrostiniRootAccessAllowed policy definition
+# summary: Defines the policy granting or denying users root access to Crostini containers.
+# ---
+
 caption: User is allowed to have root access to Crostini containers
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default key generation setting policy (deprecated)
+# summary: Defines the deprecated Chrome policy controlling whether websites can use key generation, supported only through Chrome 56.
+# ---
+
 caption: Default key generation setting
 deprecated: true
 desc: |-

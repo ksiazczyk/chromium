@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Prefer specific encryption cipher algorithms for TLS
+# summary: Chrome and ChromeOS policy definition that orders preferred TLS 1.3 ciphers, optionally preferring CNSA 1.0 and 2.0 approved algorithms, settable at machine and user level.
+# ---
+
 caption: Prefer specific encryption cipher algorithms for TLS
 desc: |-
   This policy configures <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> to order its preferred encryption ciphers in TLS 1.3 to reflect a preference for algorithms that have been approved by a specific compliance regime.

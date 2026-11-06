@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: EnableMediaRouter policy definition
+# summary: Policy definition that enables or disables Google Cast, which users launch from the app menu, context menus, media controls and the toolbar icon.
+# ---
+
 caption: Enable <ph name="PRODUCT_NAME">Google Cast</ph>
 default: true
 desc: |-

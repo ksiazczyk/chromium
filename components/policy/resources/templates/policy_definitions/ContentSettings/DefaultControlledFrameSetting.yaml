@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultControlledFrameSetting policy definition
+# summary: Defines the default Chrome policy allowing or blocking Isolated Web App origins from using the Controlled Frame API.
+# ---
+
 caption: Control use of the Controlled Frame API
 default: null
 desc: |-

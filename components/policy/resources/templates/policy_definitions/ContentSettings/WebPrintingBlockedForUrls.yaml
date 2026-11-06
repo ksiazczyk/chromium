@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block WebPrinting API on these sites
+# summary: Policy definition listing Isolated Web App URL patterns denied access to local printers via the WebPrinting API.
+# ---
+
 caption: Block WebPrinting API on these sites
 desc: |-
   Setting the policy lets you list the URL patterns that specify which sites are automatically denied access to local printers via the WebPrinting API.

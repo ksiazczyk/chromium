@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: MediaRouterCastAllowAllIPs policy definition
+# summary: Policy definition controlling whether Google Cast may connect to Cast devices on all IP addresses or only RFC1918/RFC4193 private addresses.
+# ---
+
 caption: Allow <ph name="PRODUCT_NAME">Google Cast</ph> to connect to Cast devices
   on all IP addresses.
 default: null

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Cross-origin HTTP authentication prompts
+# summary: Chrome policy that controls whether third-party images on a page may show an authentication prompt, typically disabled as a phishing defense.
+# ---
+
 caption: Cross-origin HTTP Authentication prompts
 default: false
 desc: |-

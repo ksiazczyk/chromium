@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: PopupsAllowedForUrls policy
+# summary: Defines a policy listing URL patterns for sites that are allowed to open pop-ups.
+# ---
+
 caption: Allow pop-ups on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify the sites that can open pop-ups.

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: First-Party Sets Settings group metadata
+# summary: Group metadata describing the First-Party Sets policy group that controls policies for the First-Party Sets feature.
+# ---
+
 caption: First-Party Sets Settings
 desc: Controls policies for the First-Party Sets feature.

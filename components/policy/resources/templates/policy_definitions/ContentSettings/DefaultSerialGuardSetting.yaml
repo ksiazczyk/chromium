@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Serial Guard setting policy
+# summary: Defines the Chrome policy controlling use of the Serial API, either blocking serial port access or letting sites ask the user for permission.
+# ---
+
 caption: Control use of the Serial API
 default: null
 desc: |-

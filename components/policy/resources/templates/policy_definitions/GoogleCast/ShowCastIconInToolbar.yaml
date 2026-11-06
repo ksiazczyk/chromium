@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowCastIconInToolbar policy definition
+# summary: Policy definition controlling whether the Google Cast toolbar icon is always shown or left for users to pin or remove.
+# ---
+
 caption: Show the <ph name="PRODUCT_NAME">Google Cast</ph> toolbar icon
 default: false
 desc: |-

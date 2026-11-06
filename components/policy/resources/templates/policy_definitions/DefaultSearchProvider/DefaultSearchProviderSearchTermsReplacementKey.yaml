@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultSearchProviderSearchTermsReplacementKey policy definition
+# summary: Defines the deprecated Chrome policy naming the query or fragment parameter that makes omnibox suggestions show search terms instead of the raw URL.
+# ---
+
 caption: Parameter controlling search term placement for the default search provider
 deprecated: true
 desc: |-

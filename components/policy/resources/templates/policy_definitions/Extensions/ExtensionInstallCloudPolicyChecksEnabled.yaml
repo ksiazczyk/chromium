@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionInstallCloudPolicyChecksEnabled policy definition
+# summary: Defines the Chrome policy enabling additional cloud-based checks to allow or block extension installations based on Admin console rules.
+# ---
+
 caption: Enables additional cloud policy checks to allow/block installation of extensions.
 default: false
 desc: |-

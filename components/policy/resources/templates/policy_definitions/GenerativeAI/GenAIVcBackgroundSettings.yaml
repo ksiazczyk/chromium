@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GenAIVcBackgroundSettings policy definition
+# summary: ChromeOS policy that controls the Generative AI video conferencing background feature, allowing it with or without model improvement or disabling it entirely.
+# ---
+
 caption: Settings for Generative AI VC Background feature
 desc: |-
   Generative AI VC Background allows users to self-express using generative AI features to create personalized video conferencing backgrounds in <ph name="PRODUCT_OS_NAME">$1<ex>Google ChromeOS</ex></ph>.

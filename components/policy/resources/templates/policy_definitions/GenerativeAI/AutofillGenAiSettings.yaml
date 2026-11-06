@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Autofill generative AI settings policy
+# summary: Policy controlling generative AI features in Autofill such as smarter form understanding and Find and Fill with Gemini, including model-improvement data choices.
+# ---
+
 caption: Settings for generative AI features in Autofill
 
 desc: |-

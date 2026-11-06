@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: NotificationsBlockedForUrls policy
+# summary: Defines a policy listing URL patterns for sites that are blocked from displaying notifications.
+# ---
+
 caption: Block notifications on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify the sites that can't display notifications.

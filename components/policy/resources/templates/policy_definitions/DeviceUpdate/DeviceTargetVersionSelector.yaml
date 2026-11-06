@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow devices to select a specific version to update to
+# summary: Deprecated ChromeOS device policy that let devices select a specific update target version, checked by the update service before DeviceTargetVersionPrefix.
+# ---
+
 caption: Allow devices to select a specific version to update to
 deprecated: true
 desc: |-

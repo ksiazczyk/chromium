@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultSearchProviderSearchURL policy definition
+# summary: Defines the Chrome policy that sets the search engine URL used for default searches, including the {searchTerms} placeholder for user query terms.
+# ---
+
 caption: Default search provider search URL
 desc: |-
   If <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME">DefaultSearchProviderEnabled</ph> is on, then setting <ph name="DEFAULT_SEARCH_PROVIDER_SEARCH_URL_POLICY_NAME">DefaultSearchProviderSearchURL</ph> specifies the URL of the search engine used during a default search. The URL should include the string <ph name="SEARCH_TERM_MARKER">'{searchTerms}'</ph>, replaced in the query by the user's search terms.

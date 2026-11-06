@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Kerberos delegation server allowlist
+# summary: Chrome policy listing the servers to which Chrome may delegate user credentials, with wildcards allowed; unset means no delegation.
+# ---
+
 caption: Kerberos delegation server allowlist
 desc: |-
   Setting the policy assigns servers that <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> may delegate to. Separate multiple server names with commas. Wildcards, <ph name="WILDCARD_VALUE">*</ph>, are allowed.

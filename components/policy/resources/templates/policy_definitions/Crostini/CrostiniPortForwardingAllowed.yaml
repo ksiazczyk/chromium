@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CrostiniPortForwardingAllowed policy definition
+# summary: Defines the policy that allows or blocks port forwarding into Crostini containers.
+# ---
+
 caption: Allow users to [enable/configure] Crostini port forwarding
 default: true
 desc: |-

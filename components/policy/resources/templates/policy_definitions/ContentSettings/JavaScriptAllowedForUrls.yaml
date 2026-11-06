@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: JavaScriptAllowedForUrls policy
+# summary: Lists URL patterns of sites that can run JavaScript, overriding DefaultJavaScriptSetting or the user's personal setting when unset.
+# ---
+
 caption: Allow JavaScript on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify the sites that can run JavaScript.

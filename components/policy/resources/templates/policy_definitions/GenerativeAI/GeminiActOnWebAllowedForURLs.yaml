@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gemini Act on Web allowed URLs policy
+# summary: Policy setting a URL pattern allowlist for sites where Gemini app integrations may directly act on web pages, complementing GeminiActOnWebSettings.
+# ---
+
 caption: Allow Gemini app integrations to directly act on specified sites
 desc: |-
   Allows to set a list of URL patterns that specify on which sites Gemini app integrations can directly act on web pages.

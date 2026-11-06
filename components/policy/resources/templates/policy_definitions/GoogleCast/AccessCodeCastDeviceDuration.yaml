@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AccessCodeCastDeviceDuration policy definition
+# summary: Policy definition setting how long, in seconds, a cast device chosen via access code or QR code stays listed in the Google Cast menu.
+# ---
+
 caption: Specifies how long (in seconds) a cast device selected with an access code
   or QR code stays in the <ph name="PRODUCT_NAME">Google Cast</ph> menu's list of
   cast devices.

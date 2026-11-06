@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Assistant onboarding mode policy definition
+# summary: Defines a deprecated ChromeOS policy that selects the default or education mode of the Assistant onboarding experience.
+# ---
+
 caption: Mode of the Assistant onboarding experience
 default: Default
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Web Printing Setting policy
+# summary: Defines the Chrome policy that controls whether Isolated Web App origins can use the WebPrinting API to access local printers.
+# ---
+
 caption: Control use of the WebPrinting API
 default: null
 desc: |-

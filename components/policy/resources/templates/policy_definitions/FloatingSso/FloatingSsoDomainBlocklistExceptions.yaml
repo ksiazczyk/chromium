@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FloatingSsoDomainBlocklistExceptions policy definition
+# summary: Defines cookie domains exempted from the Floating SSO blocklist so their cookies are included when moving between ChromeOS devices.
+# ---
+
 caption: Floating SSO Service domain blocklist exception list
 desc: |-
   Configures the list of blocklist excepted cookie domains to be moved when a user switches between <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> devices, when the Floating SSO Service is enabled.

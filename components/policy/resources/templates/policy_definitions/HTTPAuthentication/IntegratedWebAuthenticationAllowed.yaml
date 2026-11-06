@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'Policy: Allow reusing ChromeOS login credentials for network authentication'
+# summary: Defines the deprecated ChromeOS policy that allowed reusing login credentials for managed proxy network authentication, replaced by Kerberos policies.
+# ---
+
 caption: Allow reusing the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>
   login credentials for network authentication
 default: false

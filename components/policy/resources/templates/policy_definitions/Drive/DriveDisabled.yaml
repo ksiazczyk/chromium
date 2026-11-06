@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DriveDisabled policy definition
+# summary: Policy definition that disables Google Drive syncing in the ChromeOS Files app when enabled, with notes on Android app behavior.
+# ---
+
 arc_support: This policy does not prevent the user from using the Android Google Drive
   app. If you want to prevent access to Google Drive, you should disallow installation
   of the Android Google Drive app as well.

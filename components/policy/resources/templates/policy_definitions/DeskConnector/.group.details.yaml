@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Desk Connector Settings group details
+# summary: Group metadata describing the Desk Connector Settings policy group, which controls settings for the desk connector API.
+# ---
+
 caption: Desk Connector Settings
 desc: Controls settings for the desk connector API.

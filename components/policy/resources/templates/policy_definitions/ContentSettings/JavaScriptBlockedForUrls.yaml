@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: JavaScriptBlockedForUrls policy
+# summary: Lists URL patterns of sites that cannot run JavaScript, noting it matches only top-level document origins and is unsuitable for supply-chain mitigation.
+# ---
+
 caption: Block JavaScript on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify the sites that can't run JavaScript.

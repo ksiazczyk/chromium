@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CookiesAllowedForUrls policy definition
+# summary: Defines a Chrome policy listing URL patterns whose sites are allowed to set cookies, with defaults applying when unset.
+# ---
+
 caption: Allow cookies on these sites
 desc: |-
   Allows you to set a list of url patterns that specify sites which are allowed to set cookies.

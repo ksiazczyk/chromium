@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default notification setting policy
+# summary: Defines the Chrome policy controlling whether websites may show desktop notifications by default, with allow, block, and ask values.
+# ---
+
 caption: Default notification setting
 default: null
 desc: |-

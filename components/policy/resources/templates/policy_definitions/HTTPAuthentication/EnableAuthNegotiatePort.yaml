@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'Policy: Include non-standard port in Kerberos SPN'
+# summary: Defines the Chrome policy that controls whether a non-standard port is included in the generated Kerberos SPN for Negotiate authentication.
+# ---
+
 caption: Include non-standard port in Kerberos SPN
 default: false
 desc: |-

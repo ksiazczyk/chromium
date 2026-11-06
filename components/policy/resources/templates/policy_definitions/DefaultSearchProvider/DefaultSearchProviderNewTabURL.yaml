@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultSearchProviderNewTabURL policy definition
+# summary: Defines the Chrome policy that specifies the search engine URL used for the New Tab page, with no new tab page provided when unset.
+# ---
+
 caption: Default search provider new tab page URL
 desc: |-
   If <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME">DefaultSearchProviderEnabled</ph> is on, then setting <ph name="DEFAULT_SEARCH_PROVIDER_NEW_TAB_URL_POLICY_NAME">DefaultSearchProviderNewTabURL</ph> specifies the URL of the search engine used to provide a New Tab page.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAutoUpdateP2PEnabled policy definition
+# summary: Defines the DeviceAutoUpdateP2PEnabled device policy that controls peer-to-peer sharing and consumption of OS update payloads on the LAN.
+# ---
+
 caption: Auto update P2P enabled
 default: false
 default_for_managed_devices_doc_only: false

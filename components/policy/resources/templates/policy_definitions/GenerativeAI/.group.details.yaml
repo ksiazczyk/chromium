@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Generative AI policy group details
+# summary: Defines the caption and description for the Generative AI policy group that bundles the related generative AI feature policies.
+# ---
+
 caption: Generative AI
 desc: Configure the various features that use Generative AI.

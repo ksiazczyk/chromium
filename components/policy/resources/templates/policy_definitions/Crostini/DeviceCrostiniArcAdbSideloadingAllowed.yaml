@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceCrostiniArcAdbSideloadingAllowed policy definition
+# summary: Defines the device-level policy controlling ADB sideloading of Android apps, including powerwash behavior.
+# ---
+
 caption: Control usage of Android apps from untrusted sources for the device
 default: 0
 desc: |-

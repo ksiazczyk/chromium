@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Try on You settings policy
+# summary: Policy for the AI-powered virtual clothing try-on feature in Chrome, with options for model improvement, restricted data collection, or disabling the feature.
+# ---
+
 caption: Settings for Try on You.
 default: 0
 desc: |-

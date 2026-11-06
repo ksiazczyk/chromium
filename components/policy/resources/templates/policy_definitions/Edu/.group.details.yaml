@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: EDU settings group details
+# summary: Group metadata for the Edu policy definitions, providing the caption and description for the EDU settings group.
+# ---
+
 caption: EDU settings
 desc: Controls settings for EDU users

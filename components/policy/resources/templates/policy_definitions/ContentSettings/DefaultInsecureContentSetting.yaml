@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Default Insecure Content Setting policy definition
+# summary: Defines the Chrome policy controlling whether users can add exceptions to allow mixed content, overridable per site via InsecureContentAllowedForUrls policies.
+# ---
+
 caption: Control use of insecure content exceptions
 default: 3
 desc: |-

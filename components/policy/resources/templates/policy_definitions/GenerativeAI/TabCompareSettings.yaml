@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Tab Compare settings policy
+# summary: Defines the Chrome Tab Compare policy that controls the AI-powered tab comparison feature and whether Google may use related data to improve AI models.
+# ---
+
 caption: Tab Compare settings
 default: 0
 desc: |-

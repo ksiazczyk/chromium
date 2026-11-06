@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: PdfLocalFileAccessAllowedForDomains policy definition
+# summary: Chromium policy definition listing domains allowed to access local files in the PDF viewer, including supported platforms, per-profile behavior, default value, and example values.
+# ---
+
 caption: Allow local file access to file:// URLs on these sites in the PDF Viewer
 
 desc: |-

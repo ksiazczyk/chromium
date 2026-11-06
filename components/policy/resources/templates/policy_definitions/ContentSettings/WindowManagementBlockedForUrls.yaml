@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WindowManagementBlockedForUrls policy definition
+# summary: Defines the Chrome policy that automatically denies the window management permission on listed sites, replacing the deprecated WindowPlacementBlockedForUrls.
+# ---
+
 caption: Block Window Management permission on these sites
 desc: |-
   Allows you to set a list of site url patterns that specify sites which will automatically deny the window management permission. This will limit the ability of sites to see information about the device's screens and use that information to open and place windows or request fullscreen on specific screens.

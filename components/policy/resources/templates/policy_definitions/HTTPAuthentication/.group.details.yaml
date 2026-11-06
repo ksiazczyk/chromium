@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: HTTP authentication policy group details
+# summary: Group metadata giving the caption and description for the HTTP authentication policy definitions in this folder.
+# ---
+
 caption: HTTP authentication
 desc: Policies related to integrated HTTP authentication.

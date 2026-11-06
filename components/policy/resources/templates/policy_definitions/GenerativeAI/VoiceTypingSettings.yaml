@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Talk to type settings policy
+# summary: Policy for the AI-based voice typing feature that lets users input and edit text by voice, with options for data collection and feature availability.
+# ---
+
 caption: Settings for Talk to type
 
 desc: |-

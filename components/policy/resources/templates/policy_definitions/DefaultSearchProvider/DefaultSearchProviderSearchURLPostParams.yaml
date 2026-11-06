@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultSearchProviderSearchURLPostParams policy definition
+# summary: Defines the Chrome policy holding comma-separated name-value POST parameters for search requests, falling back to GET when unset.
+# ---
+
 caption: Parameters for search URL which uses POST
 desc: |-
   If <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME">DefaultSearchProviderEnabled</ph> is on, then setting <ph name="DEFAULT_SEARCH_PROVIDER_SEARCH_URL_POST_PARAMS_POLICY_NAME">DefaultSearchProviderSearchURLPostParams</ph> specifies the parameters when searching a URL with POST. It consists of comma-separated, name-value pairs. If a value is a template parameter, such as <ph name="SEARCH_TERM_MARKER">'{searchTerms}'</ph>, real search terms data replaces it.

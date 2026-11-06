@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Set the target date for device migration to Next OS
+# summary: ChromeOS device policy that controls if and when a device is targeted for migration from ChromeOS to the Next OS, using a Unix-epoch deadline or Google defaults.
+# ---
+
 caption: Set the target date for device migration to Next OS
 desc: |-
   This policy controls if and when a device is targeted for migration from ChromeOS to the Next OS.

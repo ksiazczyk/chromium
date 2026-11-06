@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AI Mode settings policy
+# summary: Chrome policy that controls Google's AI Mode integrations in the address bar and New Tab page search box, with a fallback to GenAiDefaultSettings.
+# ---
+
 caption: Settings for Google's AI Mode integrations in the address bar and New Tab page search box.
 
 desc: |-

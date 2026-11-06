@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: IdleDetectionBlockedForUrls policy
+# summary: Lists URL patterns of sites that are not allowed to use the Idle Detection API, falling back to the default idle detection setting otherwise.
+# ---
+
 caption: Block idle detection on these sites
 desc: |-
   Allows you to set a list of URL patterns that specify the sites that are not allowed to use the Idle Detection API.

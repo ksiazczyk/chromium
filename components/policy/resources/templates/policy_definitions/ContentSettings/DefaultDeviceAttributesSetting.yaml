@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DefaultDeviceAttributesSetting policy definition
+# summary: Defines the default ChromeOS policy for Isolated Web App and kiosk access to the Device Attributes API.
+# ---
+
 caption: Control use of the Device Attributes API
 default: null
 desc: |-

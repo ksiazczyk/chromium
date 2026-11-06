@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block JavaScript optimizations on these sites
+# summary: Chrome policy definition listing site URL patterns where advanced JavaScript optimizations are disabled, with DefaultJavaScriptOptimizerSetting as fallback.
+# ---
+
 caption: Block JavaScript optimizations on these sites
 desc: |-
   Allows you to set a list of site url patterns that specify sites for which

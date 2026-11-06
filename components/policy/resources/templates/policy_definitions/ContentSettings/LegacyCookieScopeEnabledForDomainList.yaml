@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Legacy Cookie Scope behavior for a list of domains
+# summary: Chrome policy granting listed domains a temporary exemption from origin-bound cookie behavior, letting cookies be shared across schemes and ports.
+# ---
+
 caption: Enable Legacy Cookie Scope behavior for a list of domains
 desc: |-
  This policy provides a temporary exemption for specified domains from the new origin-bound cookie behavior.

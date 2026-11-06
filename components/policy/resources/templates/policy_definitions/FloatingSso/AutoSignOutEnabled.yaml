@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutoSignOutEnabled policy definition
+# summary: Defines the ChromeOS policy that signs a user out of their previous session when they sign in to a new device.
+# ---
+
 caption: Enable Automatic Sign-out Service
 default: false
 desc: |-

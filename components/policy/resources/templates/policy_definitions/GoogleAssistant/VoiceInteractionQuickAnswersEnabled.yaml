@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Quick Answers content access policy definition
+# summary: Defines a deprecated policy that let Quick Answers access selected content and send it to a server, removed in ChromeOS 89.
+# ---
+
 caption: Allow Quick Answers to access selected content
 deprecated: true
 desc: |-

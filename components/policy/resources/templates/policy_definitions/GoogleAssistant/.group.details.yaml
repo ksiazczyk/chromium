@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Google Assistant policy group metadata
+# summary: Defines the caption and description for the Google Assistant group of policy definitions.
+# ---
+
 caption: Google Assistant
 desc: Controls settings for Google Assistant.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'Policy: GSSAPI library name'
+# summary: Defines the Chrome Linux policy that specifies which GSSAPI library, by name or full path, is used for HTTP authentication.
+# ---
+
 caption: GSSAPI library name
 desc: |-
   Setting the policy specifies which GSSAPI library to use for HTTP authentication. Set the policy to either a library name or a full path.

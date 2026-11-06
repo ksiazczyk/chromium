@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: MandatoryExtensionsForIncognitoNavigation policy definition
+# summary: Defines the Chrome policy listing extension IDs users must allow in Incognito mode, blocking Incognito navigation otherwise.
+# ---
+
 caption: Extensions that have to be allowed to run in Incognito by the user in order to navigate in Incognito mode
 desc: |-
   This policy allows administrators to configure a list of extension ids required for Incognito mode navigation.

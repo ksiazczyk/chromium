@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: AutomaticFullscreenAllowedForUrls policy definition
+# summary: Defines the Chrome policy letting matching origins call requestFullscreen() without a prior user gesture, superseding user personal settings.
+# ---
+
 caption: Allow automatic fullscreen on these sites
 desc: |-
   For security reasons, the

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DisplayRotationDefault policy definition
+# summary: Defines the ChromeOS device policy that reapplies a default display rotation on every reboot, with rotation values from 0 to 270 degrees.
+# ---
+
 caption: Set default display rotation, reapplied on every reboot
 default: 0
 desc: |-

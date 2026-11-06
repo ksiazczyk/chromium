@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HistorySearchSettings policy definition
+# summary: Policy that controls AI-powered History Search, which generates answers from browsing history page contents, with allow, allow-without-logging, and disable options.
+# ---
+
 caption: Settings for AI-powered History Search
 
 desc: |-

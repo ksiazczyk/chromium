@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FileSystemSyncAccessHandleAsyncInterfaceEnabled policy definition
+# summary: Deprecated boolean policy that temporarily re-enables asynchronous invocation of FileSystemSyncAccessHandle methods in the File System Access API for Chrome 108 to 110.
+# ---
+
 caption: Re-enable the deprecated async interface for <ph name="FILE_SYSTEM_SYNC_ACCESS_HANDLE">FileSystemSyncAccessHandle</ph>
   in File System Access API
 deprecated: true

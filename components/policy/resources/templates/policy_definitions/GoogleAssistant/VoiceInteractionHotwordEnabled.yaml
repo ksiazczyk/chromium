@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Assistant hotword policy definition
+# summary: Defines a deprecated policy controlling whether Google Assistant may listen for the voice activation phrase.
+# ---
+
 caption: Allow Google Assistant to listen for the voice activation phrase
 default: null
 deprecated: true

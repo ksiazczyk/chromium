@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionExtendedBackgroundLifetimeForPortConnectionsToUrls policy definition
+# summary: Defines a list policy naming origins that keep connecting extensions running as long as their port connection stays open.
+# ---
+
 caption: Configure a list of origins that grant extended background lifetime to the connecting extensions.
 desc: |-
   Extensions that connect to one of these origins will be be kept running as long as the port is connected.

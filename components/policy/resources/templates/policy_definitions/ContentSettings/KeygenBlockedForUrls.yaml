@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block key generation on these sites
+# summary: Deprecated Chrome policy listing URL patterns blocked from using key generation, supported only in Chrome 49 to 56 and overriding KeygenAllowedForUrls.
+# ---
+
 caption: Block key generation on these sites
 deprecated: true
 desc: |-

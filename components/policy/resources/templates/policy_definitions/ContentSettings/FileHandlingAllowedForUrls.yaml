@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FileHandlingAllowedForUrls policy definition
+# summary: Deprecated policy definition listing URL patterns of web apps granted File Handling API access, supported only on Chrome 91 to 96.
+# ---
+
 caption: Allow the File Handling API on these web apps
 deprecated: true
 desc: |-

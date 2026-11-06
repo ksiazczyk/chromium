@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Configure Gemini Enterprise settings (deprecated)
+# summary: Deprecated Chrome enterprise policy definition that configured the Gemini Enterprise web application URL and is now ignored in favor of GeminiEnterpriseUrl.
+# ---
+
 owners:
 - alexwchen@google.com
 - austinzzr@google.com

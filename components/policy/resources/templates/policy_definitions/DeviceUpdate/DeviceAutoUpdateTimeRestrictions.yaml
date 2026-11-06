@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceAutoUpdateTimeRestrictions policy definition
+# summary: Defines the DeviceAutoUpdateTimeRestrictions device policy listing weekly time intervals during which automatic update checks are blocked.
+# ---
+
 caption: Update Time Restrictions
 desc: |-
   This policy controls the time frames during which the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> device is not allowed to check for updates automatically.

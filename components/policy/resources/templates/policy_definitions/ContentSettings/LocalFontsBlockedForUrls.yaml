@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: LocalFontsBlockedForUrls policy
+# summary: Defines a policy listing URL patterns for sites where the local fonts permission is automatically denied.
+# ---
+
 caption: Block Local Fonts permission on these sites
 desc: |-
   Sets a list of site url patterns that specify sites which will automatically deny the local fonts permission. This will limit the ability of sites to see information about local fonts.

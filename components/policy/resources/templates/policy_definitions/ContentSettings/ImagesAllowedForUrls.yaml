@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: ImagesAllowedForUrls policy
+# summary: Lists URL patterns of sites that may display images, overriding DefaultImagesSetting or the user's personal setting when unset.
+# ---
+
 caption: Allow images on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify sites that may display images.

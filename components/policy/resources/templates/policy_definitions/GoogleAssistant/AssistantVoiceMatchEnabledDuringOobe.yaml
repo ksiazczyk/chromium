@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Assistant voice match during setup policy definition
+# summary: Defines a deprecated policy controlling whether the Google Assistant voice match flow is shown during initial device setup.
+# ---
+
 caption: Enable Google Assistant voice match flow
 default: true
 deprecated: true

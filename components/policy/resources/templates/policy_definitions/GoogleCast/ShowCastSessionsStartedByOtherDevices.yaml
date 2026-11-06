@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ShowCastSessionsStartedByOtherDevices policy definition
+# summary: Policy definition controlling whether media controls appear for Google Cast sessions started by other devices on the local network.
+# ---
+
 caption: Show media controls for <ph name="PRODUCT_NAME">Google Cast</ph> sessions started by other devices on the local network
 default: true
 default_for_enterprise_users: false

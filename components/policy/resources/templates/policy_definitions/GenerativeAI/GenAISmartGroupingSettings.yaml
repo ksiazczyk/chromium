@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: GenAISmartGroupingSettings policy (Suggested Groups)
+# summary: ChromeOS policy that controls whether groups of similar tabs and apps are suggested, with options to allow with or without AI model improvement or to disable the feature.
+# ---
+
 caption: Settings for Suggested Groups
 desc: |-
   This policy controls whether groups based on similar content will be suggested for <ph name="PRODUCT_OS_NAME">$1<ex>Google ChromeOS</ex></ph>. Content can include browser tabs and apps. Groups will be suggested when users login. Suggested desks for a group will be available during a session.

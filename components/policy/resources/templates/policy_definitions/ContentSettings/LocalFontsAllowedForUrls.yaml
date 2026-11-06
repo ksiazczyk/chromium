@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow Local Fonts permission on these sites
+# summary: Chrome policy listing site URL patterns that automatically grant the local fonts permission, with DefaultLocalFontsSetting as the fallback.
+# ---
+
 caption: Allow Local Fonts permission on these sites
 desc: |-
   Sets a list of site url patterns that specify sites which will automatically grant the local fonts permission. This will extend the ability of sites to see information about local fonts.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Extensions page developer mode availability policy
+# summary: Policy definition controlling whether users can turn on Developer Mode on the extensions page, overriding the DeveloperToolsAvailability policy when set on platforms that support extensions.
+# ---
+
 caption: Control the availability of developer mode on extensions page
 desc: |-
   Control if users can turn on Developer Mode on chrome://extensions.

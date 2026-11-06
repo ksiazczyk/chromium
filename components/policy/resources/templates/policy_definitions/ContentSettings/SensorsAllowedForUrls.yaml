@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SensorsAllowedForUrls policy definition
+# summary: Defines a policy listing URL patterns of sites allowed to access motion and light sensors.
+# ---
+
 caption: Allow access to sensors on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify the sites that can access sensors like motion and light sensors.

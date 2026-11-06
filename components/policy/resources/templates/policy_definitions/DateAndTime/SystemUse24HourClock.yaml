@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SystemUse24HourClock policy definition
+# summary: Defines the device-only policy choosing a 24-hour or 12-hour clock format for the sign-in screen and default user sessions.
+# ---
+
 caption: Use 24 hour clock by default
 default: null
 desc: |-

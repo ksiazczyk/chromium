@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CalendarIntegrationEnabled policy definition
+# summary: Defines the ChromeOS policy that enables or disables fetching Google Calendar events for the status bar calendar widget.
+# ---
+
 caption: Enable <ph name="GOOGLE_CALENDAR_NAME">Google Calendar</ph> Integration
 default: true
 desc: |-

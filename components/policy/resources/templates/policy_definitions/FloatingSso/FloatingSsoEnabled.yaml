@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: FloatingSsoEnabled policy definition
+# summary: Defines the policy that enables Floating SSO, restoring web service authentication cookies from a user's previous ChromeOS device at sign-in.
+# ---
+
 caption: Enable Floating SSO Service
 default: false
 desc: |-

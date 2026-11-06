@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Use KDC policy to delegate credentials
+# summary: Chrome policy that controls whether HTTP authentication respects KDC OK-AS-DELEGATE approval when delegating user credentials.
+# ---
+
 caption: Use KDC policy to delegate credentials.
 default: false
 desc: |-

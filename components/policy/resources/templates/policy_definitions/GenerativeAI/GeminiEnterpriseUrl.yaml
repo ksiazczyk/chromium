@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Configure the Gemini Enterprise web application URL
+# summary: Chrome enterprise policy definition that sets the https URL of the Gemini Enterprise web application that Chrome connects to.
+# ---
+
 owners:
 - alexwchen@google.com
 - austinzzr@google.com

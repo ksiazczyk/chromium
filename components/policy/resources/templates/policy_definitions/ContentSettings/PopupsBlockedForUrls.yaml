@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: PopupsBlockedForUrls policy
+# summary: Defines a policy listing URL patterns for sites that are blocked from opening pop-ups.
+# ---
+
 caption: Block pop-ups on these sites
 desc: |-
   Setting the policy lets you set a list of URL patterns that specify the sites that can't open pop-ups.

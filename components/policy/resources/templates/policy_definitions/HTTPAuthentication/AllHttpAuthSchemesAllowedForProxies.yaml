@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: List of proxy servers allowing all HTTP authentication schemes
+# summary: Chrome policy that specifies proxy servers allowed to use all supported HTTP authentication schemes regardless of the AuthSchemes policy.
+# ---
+
 caption: List of proxy servers allowing all HTTP authentication schemes
 desc: |-
   Setting the policy specifies for which proxy servers to allow all the HTTP authentication schemes <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> supports, regardless of the <ph name="AUTH_SCHEMES_POLICY_NAME">AuthSchemes</ph> policy.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Drive policy atomic group definition
+# summary: Defines the Drive atomic policy group containing DriveDisabled, DriveDisabledOverCellular, and DriveFileSyncAvailable.
+# ---
+
 Drive:
   caption: Drive
   policies:

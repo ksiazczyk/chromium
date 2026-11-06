@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SmartCardConnectAllowedForUrls policy definition
+# summary: Defines a policy letting Isolated Web Apps connect to smart cards without a user permission prompt.
+# ---
+
 caption: Allow Smart Card connection by Isolated Apps
 desc: |-
   Setting the policy specifies which Isolated Web Apps (IWAs) can connect to smart cards using Web Smart Card API without having the user prompted for permission.

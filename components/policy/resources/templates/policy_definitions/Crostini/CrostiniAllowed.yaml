@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CrostiniAllowed policy definition
+# summary: Defines the CrostiniAllowed policy that lets administrators allow or block users from running Crostini.
+# ---
+
 caption: User is enabled to run Crostini
 default: true
 desc: Setting the policy to Enabled or leaving it unset lets users run <ph name="PRODUCT_CROSTINI_NAME">Crostini</ph>,

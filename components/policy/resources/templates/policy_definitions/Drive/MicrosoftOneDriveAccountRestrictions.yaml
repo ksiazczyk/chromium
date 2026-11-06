@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: MicrosoftOneDriveAccountRestrictions policy definition
+# summary: Policy definition restricting which accounts can sign in to the Microsoft OneDrive integration, supporting common, organizations, consumers, domains, or tenant IDs.
+# ---
+
 caption: Restricts accounts that can use the <ph name="MICROSOFT_ONE_DRIVE_NAME">Microsoft OneDrive</ph> integration
 desc: |-
   This policy allows admins to restrict which accounts are allowed to sign-in for <ph name="MICROSOFT_ONE_DRIVE_NAME">Microsoft OneDrive</ph> when the <ph name="MICROSOFT_ONE_DRIVE_MOUNT_POLICY_NAME">MicrosoftOneDriveMount</ph> policy is enabled.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: reference
+# title: InsecureContentAllowedForUrls policy
+# summary: Lists sites allowed to display blockable active mixed content and disables optionally blockable mixed content upgrades for them.
+# ---
+
 caption: Allow insecure content on these sites
 desc: |-
   Allows you to set a list of url patterns that specify sites which are allowed to display blockable (i.e. active) mixed content (i.e. HTTP content on HTTPS sites) and for which optionally blockable mixed content upgrades will be disabled.

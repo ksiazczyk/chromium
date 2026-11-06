@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Supported authentication schemes
+# summary: Chrome policy specifying which HTTP authentication schemes Chrome supports, such as basic, digest, ntlm and negotiate.
+# ---
+
 caption: Supported authentication schemes
 desc: |-
   Setting the policy specifies which HTTP authentication schemes <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> supports.

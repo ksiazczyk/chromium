@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow autoupdate downloads via HTTP
+# summary: ChromeOS device policy that allows auto-update payloads to be downloaded via HTTP instead of HTTPS to enable transparent HTTP caching.
+# ---
+
 caption: Allow autoupdate downloads via HTTP
 default: false
 desc: |-

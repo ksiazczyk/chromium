@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebUsbAskForUrls policy definition
+# summary: Defines the Chrome policy listing URL patterns for sites that may ask users to grant WebUSB device access, falling back to default or user settings.
+# ---
+
 caption: Allow WebUSB on these sites
 desc: |-
   Setting the policy lets you list the URL patterns that specify which sites can ask users to grant them access to a USB device.

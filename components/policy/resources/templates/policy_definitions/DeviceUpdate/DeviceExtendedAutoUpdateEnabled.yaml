@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceExtendedAutoUpdateEnabled policy definition
+# summary: Defines the DeviceExtendedAutoUpdateEnabled device policy that lets eligible devices keep receiving updates after the Auto Update Expiration date.
+# ---
+
 owners:
 - rbock@google.com
 - chromeos-commercial-remote-management@google.com

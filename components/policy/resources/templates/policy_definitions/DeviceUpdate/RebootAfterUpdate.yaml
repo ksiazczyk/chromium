@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: RebootAfterUpdate policy definition
+# summary: ChromeOS device policy that schedules an automatic reboot after an update is applied, currently active only at the login screen or in kiosk sessions.
+# ---
+
 caption: Automatically reboot after update
 default: false
 desc: |-

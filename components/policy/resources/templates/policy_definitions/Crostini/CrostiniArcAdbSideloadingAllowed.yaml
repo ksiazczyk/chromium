@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CrostiniArcAdbSideloadingAllowed policy definition
+# summary: Defines the user-level policy controlling the use of Android apps from untrusted sources via ADB sideloading.
+# ---
+
 caption: Control usage of Android apps from untrusted sources for the user
 default: 0
 desc: |-

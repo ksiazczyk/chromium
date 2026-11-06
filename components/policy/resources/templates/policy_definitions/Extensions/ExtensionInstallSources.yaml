@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ExtensionInstallSources policy definition
+# summary: Defines the Chrome policy specifying URL patterns from which extensions, apps, and user scripts may be installed.
+# ---
+
 caption: Configure extension, app, and user script install sources
 desc: |-
   Setting the policy specifies which URLs may install extensions, apps, and themes. Before <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> 21, users could click on a link to a *.crx file, and <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> would offer to install the file after a few warnings. Afterwards, such files must be downloaded and dragged to the <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> settings page. This setting allows specific URLs to have the old, easier installation flow.

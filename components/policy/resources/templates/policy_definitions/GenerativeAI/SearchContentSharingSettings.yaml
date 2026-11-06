@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SearchContentSharingSettings policy definition
+# summary: Policy that controls sharing of page and file content with Google AI Mode and Lens through Chrome's side panel or tabs, independent of the AIModeSettings policy.
+# ---
+
 caption: Enable content sharing with <ph name="GOOGLE_AI_MODE_PRODUCT_NAME">Google AI Mode</ph> and <ph name="GOOGLE_LENS_PRODUCT_NAME">Lens</ph> integrations
 
 desc: |-

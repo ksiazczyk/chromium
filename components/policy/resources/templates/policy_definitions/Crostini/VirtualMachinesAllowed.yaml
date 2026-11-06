@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VirtualMachinesAllowed ChromeOS policy definition
+# summary: Defines the ChromeOS device policy VirtualMachinesAllowed, which controls whether a device may run virtual machines, including its schema, default value, example, owners and supported versions.
+# ---
+
 caption: Allow devices to run virtual machines on ChromeOS
 default: false
 default_for_managed_devices_doc_only: false

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ClearWindowNameForNewBrowsingContextGroup policy definition
+# summary: Defines the Chrome policy controlling whether window.name is cleared on cross-site top-level navigations that create a new browsing context group.
+# ---
+
 caption: Choose whether to allow clearing window.name for cross-site top-level
   navigations resulting in a new browsing context group.
 

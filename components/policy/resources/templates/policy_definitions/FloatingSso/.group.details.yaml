@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Floating SSO Settings group details
+# summary: Provides the caption and description for the Floating SSO policy group shown in ChromeOS policy documentation.
+# ---
+
 caption: Floating SSO Settings
 desc: Controls if Floating SSO is enabled and the cookie domain blocklist and its exceptions.

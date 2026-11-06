@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Block Isolated Web Apps from using Sub Apps Add API without user prompt
+# summary: Policy definition letting admins list Isolated Web App origins blocked from adding Sub Apps without a user prompt, overriding the default and allowed-origins policies.
+# ---
+
 caption: Block Isolated Web Apps from using Sub Apps Add API without user prompt
 desc: |-
   By default, Isolated Web Apps (IWAs) can add Sub Apps provided that user confirms the prompt interactively.
