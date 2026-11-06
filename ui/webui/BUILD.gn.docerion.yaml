@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the ui/webui library
+summary: Defines the webui static library, a test_support source set, and buildflag headers for WebUI features in GN.

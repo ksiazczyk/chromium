@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeWidgetAura interactive UI tests
+// summary: Interactive UI tests verifying that view focus requests from non-activatable Aura windows are deferred until the widget becomes active.
+// ---
+
 #include "ui/aura/window.h"
 #include "ui/views/controls/textfield/textfield.h"
 #include "ui/views/test/native_widget_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura TooltipManager class declaration
+// summary: Declares TooltipManagerAura, the Aura implementation of TooltipManager that manages tooltip updates and capture handling for native widgets.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_TOOLTIP_MANAGER_AURA_H_
 #define UI_VIEWS_WIDGET_TOOLTIP_MANAGER_AURA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pen ID handler class declaration
+// summary: Declares PenIdHandler, which queries Windows PenDevice statics for pen GUIDs and maps them to unique IDs, with a scoped test hook for overriding statics.
+// ---
+
 #ifndef UI_VIEWS_WIN_PEN_ID_HANDLER_H_
 #define UI_VIEWS_WIN_PEN_ID_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for desktop focus rules
+// summary: Declares DesktopFocusRules, a wm::BaseFocusRules subclass tailoring activation and focus behavior for DesktopNativeWidgetAura.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_DESKTOP_AURA_DESKTOP_FOCUS_RULES_H_
 #define UI_VIEWS_WIDGET_DESKTOP_AURA_DESKTOP_FOCUS_RULES_H_
 

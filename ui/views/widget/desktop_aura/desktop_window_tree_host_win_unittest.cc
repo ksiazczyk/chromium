@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopWindowTreeHostWin unit tests
+// summary: Unit tests for the Windows desktop window tree host covering debugging IDs, capture handling, move loops and accessibility integration.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_window_tree_host_win.h"
 
 #include <windows.h>

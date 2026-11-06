@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SublevelManager implementation
+// summary: Implements tracking and enforcement of widget sublevels, ordering child widgets among siblings with platform-specific stacking workarounds for macOS and X11.
+// ---
+
 #include "ui/views/widget/sublevel_manager.h"
 
 #include <algorithm>

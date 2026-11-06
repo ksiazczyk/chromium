@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hit-test component lookup for views
+// summary: Implements GetHitTestComponent and SetHitTestComponent, resolving the innermost kHitTestComponentKey property at a widget point by walking the view hierarchy.
+// ---
+
 #include "ui/views/window/hit_test_utils.h"
 
 #include "ui/base/hit_test.h"

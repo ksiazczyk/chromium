@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac widget size utility header
+// summary: Declares GetWindowSizeForClientSize, which converts a client size to the corresponding full window size on macOS.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_UTILS_MAC_H_
 #define UI_VIEWS_WIDGET_WIDGET_UTILS_MAC_H_
 

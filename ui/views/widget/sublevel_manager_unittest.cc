@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SublevelManager unit tests
+// summary: Parameterized unit tests verifying that widgets are stacked according to their sublevel regardless of show order, across native widget, show type, and activatable variants.
+// ---
+
 #include "ui/views/widget/sublevel_manager.h"
 
 #include <algorithm>

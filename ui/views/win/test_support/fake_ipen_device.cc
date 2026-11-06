@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIPenDevice implementation
+// summary: Implements a fake Windows IPenDevice that returns a randomly generated GUID as the pen ID and exposes a helper to get it as a string for tests.
+// ---
+
 #include "ui/views/win/test_support/fake_ipen_device.h"
 
 #include <combaseapi.h>

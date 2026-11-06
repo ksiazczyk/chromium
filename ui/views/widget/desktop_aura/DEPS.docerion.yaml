@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for desktop_aura
+summary: Chromium DEPS rule allowing desktop_screen_win_headless.cc to include components/headless/screen_info.

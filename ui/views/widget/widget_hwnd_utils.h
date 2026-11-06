@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget HWND window style utilities header
+// summary: Declares helpers shared by hwnd_message_handler and desktop_window_tree_host_win for configuring window styles and detecting client area or minimized state changes.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_HWND_UTILS_H_
 #define UI_VIEWS_WIDGET_WIDGET_HWND_UTILS_H_
 

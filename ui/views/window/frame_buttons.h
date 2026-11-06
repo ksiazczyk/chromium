@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameButton enum
+// summary: Defines the FrameButton enum that identifies window frame buttons as minimize, maximize, or close.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_FRAME_BUTTONS_H_
 #define UI_VIEWS_WINDOW_FRAME_BUTTONS_H_
 

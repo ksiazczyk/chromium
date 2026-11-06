@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWND utility function declarations
+// summary: Declares views helpers for obtaining HWNDs from views, widgets and native windows, plus window bounds, headless bounds, system menu, accessibility and size-constraint functions.
+// ---
+
 #ifndef UI_VIEWS_WIN_HWND_UTIL_H_
 #define UI_VIEWS_WIN_HWND_UTIL_H_
 

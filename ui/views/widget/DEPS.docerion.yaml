@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/views/widget
+summary: DEPS allowlist granting widget_hwnd_utils.cc an include dependency on components/viz/common.

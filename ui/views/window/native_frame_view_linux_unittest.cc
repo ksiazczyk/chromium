@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NativeFrameViewLinux
+// summary: Tests NativeFrameViewLinux using fake NavButtonProvider and WindowFrameProvider implementations, checking button images, margins, spacing, and frame metrics.
+// ---
+
 #include "ui/views/window/native_frame_view_linux.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the pen ID handler
+// summary: Unit tests for pen ID mapping using fake IPenDevice statics, covering GUID mapping, missing or bad statics, and unsupported Windows versions.
+// ---
+
 #include "ui/views/win/pen_id_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopWindowTreeHostWin implementation
+// summary: Implements the Windows desktop window tree host, wiring widgets to HWNDMessageHandler for capture, tooltips, drag-drop, display affinity and touch-initiated drags.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_window_tree_host_win.h"
 
 #include <dwmapi.h>

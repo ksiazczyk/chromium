@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption button layout constants implementation
+// summary: Implements functions returning caption button width and layout sizes for window frames, with ChromeOS rounded-window and touch UI variations.
+// ---
+
 #include "ui/views/window/caption_button_layout_constants.h"
 
 #include "ui/base/pointer/touch_ui_controller.h"

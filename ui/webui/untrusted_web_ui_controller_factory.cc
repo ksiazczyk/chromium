@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted WebUI controller factory implementation
+// summary: Implements the factory that looks up registered WebUI configs for chrome-untrusted pages and creates the matching WebUI controllers.
+// ---
+
 #include "ui/webui/untrusted_web_ui_controller_factory.h"
 
 #include "content/public/browser/web_contents.h"

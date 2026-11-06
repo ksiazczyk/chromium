@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reference pointing to ui/views
+summary: Designates the ui/views OWNERS file as the owner list for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameBackground implementation
+// summary: Implements painting of window frame backgrounds for restored and maximized windows using frame colors plus edge, corner, and theme images.
+// ---
+
 #include "ui/views/window/frame_background.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UntrustedWebUIController class declaration
+// summary: Declares UntrustedWebUIController, a WebUIController for WebUI pages that process untrusted content and must never request WebUI bindings.
+// ---
+
 #ifndef UI_WEBUI_UNTRUSTED_WEB_UI_CONTROLLER_H_
 #define UI_WEBUI_UNTRUSTED_WEB_UI_CONTROLLER_H_
 

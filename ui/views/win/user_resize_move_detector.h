@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserResizeMoveDetector class declaration
+// summary: Declares a detector that tracks the start and end of user window resizing and dragging and reports whether any window is in a move or resize loop.
+// ---
+
 #ifndef UI_VIEWS_WIN_USER_RESIZE_MOVE_DETECTOR_H_
 #define UI_VIEWS_WIN_USER_RESIZE_MOVE_DETECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameViewLayoutLinux class declaration
+// summary: Declares the layout manager for FrameViewLinux that positions window control buttons, the titlebar, and the client view, with overridable frame geometry metrics.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_FRAME_VIEW_LAYOUT_LINUX_H_
 #define UI_VIEWS_WINDOW_FRAME_VIEW_LAYOUT_LINUX_H_
 

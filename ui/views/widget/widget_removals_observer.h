@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetRemovalsObserver interface
+// summary: Declares an observer that is notified immediately before a descendant view is removed from a widget during teardown.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_REMOVALS_OBSERVER_H_
 #define UI_VIEWS_WIDGET_WIDGET_REMOVALS_OBSERVER_H_
 

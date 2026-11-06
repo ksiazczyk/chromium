@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeFrameViewMac class declaration for macOS frame views
+// summary: Declares the macOS NativeFrameView subclass that converts client bounds to window bounds for a widget.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_NATIVE_FRAME_VIEW_MAC_H_
 #define UI_VIEWS_WINDOW_NATIVE_FRAME_VIEW_MAC_H_
 

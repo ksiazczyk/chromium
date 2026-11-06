@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS main parts implementation
+// summary: Implements the ChromeOS main parts, using WMTestHelper to set up a root window and notify the views content client before the message loop runs.
+// ---
+
 #include "content/public/browser/context_factory.h"
 #include "content/public/common/result_codes.h"
 #include "content/shell/browser/shell_browser_context.h"

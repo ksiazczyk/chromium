@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the pen event processor
+// summary: Unit tests covering pen event generation with direct manipulation enabled and disabled, including mouse and touch event mapping and stylus handwriting features.
+// ---
+
 #include "ui/views/win/pen_event_processor.h"
 
 #include <combaseapi.h>

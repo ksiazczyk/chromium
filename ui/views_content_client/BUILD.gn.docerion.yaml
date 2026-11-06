@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the views_content_client component
+summary: Defines the testonly views_content_client component with platform-specific sources and dependencies on content, ui/views, aura, and ui resources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window reorderer unit tests
+// summary: Unit tests verifying child window reordering with associated and unassociated windows under the NativeViewHostManagesLayers feature.
+// ---
+
 #include "ui/views/widget/window_reorderer.h"
 
 #include <initializer_list>

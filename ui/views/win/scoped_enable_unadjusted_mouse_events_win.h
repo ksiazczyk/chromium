@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedEnableUnadjustedMouseEventsWin class declaration
+// summary: Declares a scoped helper that registers and unregisters raw mouse input on a window so unadjusted mouse events are handled while the instance is alive.
+// ---
+
 #ifndef UI_VIEWS_WIN_SCOPED_ENABLE_UNADJUSTED_MOUSE_EVENTS_WIN_H_
 #define UI_VIEWS_WIN_SCOPED_ENABLE_UNADJUSTED_MOUSE_EVENTS_WIN_H_
 

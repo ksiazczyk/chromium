@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for HWNDMessageHandler
+// summary: Interactive UI tests that drive HWNDMessageHandler through a test delegate and mock input method, covering accelerators and window event handling.
+// ---
+
 #include <algorithm>
 #include <memory>
 

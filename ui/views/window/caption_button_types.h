@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption button icon types
+// summary: Defines the CaptionButtonIcon enum listing the icon types a window caption button can display, including a custom icon type for client-specific buttons.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_CAPTION_BUTTON_TYPES_H_
 #define UI_VIEWS_WINDOW_CAPTION_BUTTON_TYPES_H_
 

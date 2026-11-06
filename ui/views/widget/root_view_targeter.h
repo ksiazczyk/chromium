@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootViewTargeter class header
+// summary: Declares a ViewTargeter subclass that adds gesture targeting logic requiring access to RootView members, such as the previously established gesture handler.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_ROOT_VIEW_TARGETER_H_
 #define UI_VIEWS_WIDGET_ROOT_VIEW_TARGETER_H_
 

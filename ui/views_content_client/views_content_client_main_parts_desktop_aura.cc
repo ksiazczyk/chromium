@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Aura main parts implementation
+// summary: Implements the desktop Aura main parts, creating a desktop screen and notifying the views content client before the message loop runs.
+// ---
+
 #include "content/public/common/result_codes.h"
 #include "content/shell/browser/shell_browser_context.h"
 #include "ui/display/screen.h"

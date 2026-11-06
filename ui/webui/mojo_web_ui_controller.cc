@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo WebUI controller implementation
+// summary: Implements EnableMojoWebUI and MojoWebUIController, which set Mojo bindings policies for WebUI pages.
+// ---
+
 #include "ui/webui/mojo_web_ui_controller.h"
 
 #include "content/public/common/bindings_policy.h"

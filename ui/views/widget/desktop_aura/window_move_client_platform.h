@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowMoveClientPlatform class declaration
+// summary: Declares the wm::WindowMoveClient subclass that reroutes move loop requests to a DesktopWindowTreeHostPlatform host.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_DESKTOP_AURA_WINDOW_MOVE_CLIENT_PLATFORM_H_
 #define UI_VIEWS_WIDGET_DESKTOP_AURA_WINDOW_MOVE_CLIENT_PLATFORM_H_
 

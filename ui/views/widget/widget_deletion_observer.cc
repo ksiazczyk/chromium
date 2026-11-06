@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget deletion observer implementation
+// summary: Implements an observer that tracks whether a widget is still alive and stops observing when the widget is destroyed.
+// ---
+
 #include "ui/views/widget/widget_deletion_observer.h"
 
 #include "base/scoped_observation.h"

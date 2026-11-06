@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsContentClientMainParts implementation
+// summary: Implements ViewsContentClientMainParts, setting up a shell browser context, test views delegate, input method, and run loop around the main message loop.
+// ---
+
 #include "ui/views_content_client/views_content_client_main_parts.h"
 
 #include <utility>

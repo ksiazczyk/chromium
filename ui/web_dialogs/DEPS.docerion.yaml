@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Web dialogs include rules
+summary: Defines the allowed include paths for the ui/web_dialogs directory, covering content public APIs, selected Blink headers, and ui dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget utility implementations
+// summary: Implements WidgetOpenTimer, root window lookup, and analysis of the relationship between two layers in the layer tree.
+// ---
+
 #include "ui/views/widget/widget_utils.h"
 
 #include <algorithm>

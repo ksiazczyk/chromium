@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonClientView implementation for widget non-client areas
+// summary: Implements NonClientView, managing frame view replacement, overlay views, close requests, and non-client hit testing.
+// ---
+
 #include "ui/views/window/non_client_view.h"
 
 #include <memory>

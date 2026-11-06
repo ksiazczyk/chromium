@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for desktop focus rules
+// summary: Verifies that windows in other widget hierarchies are not focused and that root windows cannot be activated under DesktopFocusRules.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_focus_rules.h"
 
 #include "ui/aura/client/focus_client.h"

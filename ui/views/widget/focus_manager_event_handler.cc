@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusManagerEventHandler implementation
+// summary: Implements the handler that forwards key events from a window to the widget's focus manager before other event targets.
+// ---
+
 #include "ui/views/widget/focus_manager_event_handler.h"
 
 #include <string_view>

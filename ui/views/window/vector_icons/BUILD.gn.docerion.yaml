@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Window control vector icons build file
+summary: GN build file that aggregates the window control .icon files and defines the vector_icons source set with its dependencies.

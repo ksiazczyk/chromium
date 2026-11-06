@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of ViewsContentClientMainParts
+// summary: Implements the Aura variant of the main parts, initializing window manager state during toolkit setup except on ChromeOS.
+// ---
+
 #include "ui/views_content_client/views_content_client_main_parts_aura.h"
 
 #include <utility>

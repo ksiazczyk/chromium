@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption button layout constants header
+// summary: Declares the CaptionButtonLayoutSize enum and exported functions for caption button width and preferred layout size used on ChromeOS and desktop Linux.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_CAPTION_BUTTON_LAYOUT_CONSTANTS_H_
 #define UI_VIEWS_WINDOW_CAPTION_BUTTON_LAYOUT_CONSTANTS_H_
 

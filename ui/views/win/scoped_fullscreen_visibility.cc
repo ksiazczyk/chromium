@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFullscreenVisibility implementation
+// summary: Tracks HWNDs entering or leaving fullscreen and keeps them hidden with SetWindowPos to reduce flicker jank, exposing IsHiddenForFullscreen for queries.
+// ---
+
 #include "ui/views/win/scoped_fullscreen_visibility.h"
 
 #include <utility>

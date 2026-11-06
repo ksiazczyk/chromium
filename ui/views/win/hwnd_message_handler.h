@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWNDMessageHandler class declaration
+// summary: Declares the class that handles messages for an HWND implementing the views custom frame look, intended for use by both NativeWidget and WindowTreeHost implementations.
+// ---
+
 #ifndef UI_VIEWS_WIN_HWND_MESSAGE_HANDLER_H_
 #define UI_VIEWS_WIN_HWND_MESSAGE_HANDLER_H_
 

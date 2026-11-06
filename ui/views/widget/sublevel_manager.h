@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SublevelManager class header
+// summary: Declares SublevelManager, a WidgetObserver that tracks a widget's sublevel and the stacking order of its child widgets so they are shown at the correct z-order position.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_SUBLEVEL_MANAGER_H_
 #define UI_VIEWS_WIDGET_SUBLEVEL_MANAGER_H_
 

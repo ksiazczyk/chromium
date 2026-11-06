@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common issue tracker metadata for ui/webui
+summary: Sets the Monorail component and Buganizer component ID used for issues filed against the ui/webui directory.

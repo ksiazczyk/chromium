@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless HWND message handler implementation
+// summary: Implements the headless variant of HWNDMessageHandler that cloaks the platform window, disables transitions and tracks simulated window bounds and state.
+// ---
+
 #include "ui/views/win/hwnd_message_handler_headless.h"
 
 #include <dwmapi.h>

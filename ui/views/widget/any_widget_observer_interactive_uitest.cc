@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnyWidgetObserver interactive UI tests
+// summary: Interactive UI tests verifying AnyWidgetObserver reports widget activation as widgets are shown, activated, and destroyed.
+// ---
+
 #include <memory>
 
 #include "base/test/bind.h"

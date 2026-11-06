@@ -1,0 +1,4 @@
+# Docerion header of widget_utils_mac.mm.
+type: source
+title: Mac widget size utility implementation
+summary: Implements macOS helpers that map a client size to a window size via the NSWindow bridge and detect NSToolbarFullScreenWindow instances.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowMoveClientPlatform implementation
+// summary: Implements the move loop client that forwards window drag and move loop requests to DesktopWindowTreeHostPlatform and reports success or cancellation.
+// ---
+
 #include "ui/views/widget/desktop_aura/window_move_client_platform.h"
 
 #include "ui/views/widget/desktop_aura/desktop_window_tree_host_platform.h"

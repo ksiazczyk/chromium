@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootView class header
+// summary: Declares the views-internal RootView class that hosts a single contents view, forwards events into the View hierarchy, and provides focus, system-event, and accessibility APIs.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_ROOT_VIEW_H_
 #define UI_VIEWS_WIDGET_ROOT_VIEW_H_
 

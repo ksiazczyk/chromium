@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget utility declarations
+// summary: Declares WidgetOpenTimer for measuring widget open time for UMA metrics, plus helpers for root windows and layer relations.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_UTILS_H_
 #define UI_VIEWS_WIDGET_WIDGET_UTILS_H_
 

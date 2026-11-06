@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDialogDelegate class header
+// summary: Declares the WebDialogDelegate interface that implementers override to configure web dialogs and receive dialog lifecycle notifications.
+// ---
+
 #ifndef UI_WEB_DIALOGS_WEB_DIALOG_DELEGATE_H_
 #define UI_WEB_DIALOGS_WEB_DIALOG_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWND utility implementations for views
+// summary: Implements helpers that map views, widgets and native windows to HWNDs, convert client bounds to window bounds, show the system menu, and retrieve parent accessibility objects on Windows.
+// ---
+
 #include "ui/views/win/hwnd_util.h"
 
 #include <windows.h>

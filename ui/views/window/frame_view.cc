@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameView base class implementation
+// summary: Implements the base FrameView with non-client hit testing, client view bounds and clipping, layout, and z-order handling for window frames.
+// ---
+
 #include "ui/views/window/frame_view.h"
 
 #include <memory>

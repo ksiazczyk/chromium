@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Ozone drag-drop client implementation
+// summary: Implements the Linux-specific location delegate that updates the drag widget position and drag cursor for Ozone Linux platforms.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_drag_drop_client_ozone_linux.h"
 
 #include "base/functional/bind.h"

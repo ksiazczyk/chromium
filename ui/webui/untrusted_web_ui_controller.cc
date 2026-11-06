@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UntrustedWebUIController implementation
+// summary: Implements the WebUI controller for untrusted WebUI pages, ensuring WebUI bindings are never enabled and reporting an untrusted trust policy.
+// ---
+
 #include "ui/webui/untrusted_web_ui_controller.h"
 
 #include "content/public/browser/web_ui.h"

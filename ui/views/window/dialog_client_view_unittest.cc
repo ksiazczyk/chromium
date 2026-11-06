@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dialog client view unit tests
+// summary: Unit tests for DialogClientView covering dialog button layout, contents sizing, accelerators, and client view behavior in the Views framework.
+// ---
+
 #include "ui/views/window/dialog_client_view.h"
 
 #include <algorithm>

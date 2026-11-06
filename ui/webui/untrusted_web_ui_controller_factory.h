@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted WebUI controller factory class declaration
+// summary: Declares the factory class that supplies WebUI controllers for untrusted WebUI pages, with subclasses providing per-host WebUI config maps.
+// ---
+
 #ifndef UI_WEBUI_UNTRUSTED_WEB_UI_CONTROLLER_FACTORY_H_
 #define UI_WEBUI_UNTRUSTED_WEB_UI_CONTROLLER_FACTORY_H_
 

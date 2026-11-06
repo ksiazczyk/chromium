@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI utility functions
+// summary: Implements helpers that configure WebUI data sources with default content security policies, resource paths, and localization support.
+// ---
+
 #include "ui/webui/webui_util.h"
 
 #include <string>

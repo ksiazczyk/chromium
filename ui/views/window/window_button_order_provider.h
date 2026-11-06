@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowButtonOrderProvider class declaration
+// summary: Declares the singleton storing window control button order, which on Linux can be overridden via configuration.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_WINDOW_BUTTON_ORDER_PROVIDER_H_
 #define UI_VIEWS_WINDOW_WINDOW_BUTTON_ORDER_PROVIDER_H_
 

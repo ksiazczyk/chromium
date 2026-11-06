@@ -1,0 +1,4 @@
+# Docerion header of webui_features.gni.
+type: config
+title: WebUI build feature flags
+summary: GN build arguments defining WebUI feature flags such as optimize_webui, code cache generation, and toggles for History, NTP, and tab strip UIs.

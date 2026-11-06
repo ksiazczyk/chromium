@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebDialogUI unit tests
+// summary: Verifies that WebDialogUI sets no bindings while MojoWebDialogUI enables both chrome.send and Mojo bindings.
+// ---
+
 #include "ui/web_dialogs/web_dialog_ui.h"
 
 #include "content/public/common/bindings_policy.h"

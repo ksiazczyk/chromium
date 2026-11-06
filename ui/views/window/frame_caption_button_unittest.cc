@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameCaptionButton unit tests
+// summary: Unit tests verifying themed color contrast, icon color behavior, accessibility focus, and view metadata for frame caption buttons.
+// ---
+
 #include "ui/views/window/frame_caption_button.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

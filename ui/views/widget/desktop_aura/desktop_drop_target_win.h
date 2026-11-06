@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Windows desktop drop target
+// summary: Declares DesktopDropTargetWin, which manages drag and drop for DesktopWindowTreeHostWin by converting OLE drop messages into Aura delegate calls.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_DESKTOP_AURA_DESKTOP_DROP_TARGET_WIN_H_
 #define UI_VIEWS_WIDGET_DESKTOP_AURA_DESKTOP_DROP_TARGET_WIN_H_
 

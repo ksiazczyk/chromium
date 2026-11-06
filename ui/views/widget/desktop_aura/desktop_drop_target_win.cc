@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows drop target for desktop Aura
+// summary: Translates Windows OLE drag and drop messages into aura DragDropDelegate calls for DesktopWindowTreeHostWin, including drag enter, over, leave, and drop handling.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_drop_target_win.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Color change listener OWNERS file
+summary: Delegates code ownership to the shared OWNERS file of the cr_components color change listener component.

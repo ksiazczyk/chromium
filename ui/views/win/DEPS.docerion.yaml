@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ui/views/win directory
+summary: Defines allowed include dependencies for the Windows views code, granting specific exceptions such as hwnd_util and pen event files while keeping the rest independent of views internals.

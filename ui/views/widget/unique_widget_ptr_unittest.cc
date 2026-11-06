@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UniqueWidgetPtr unit tests
+// summary: Parameterized unit tests verifying that UniqueWidgetPtr closes widgets on reset, scope exit, and move construction or assignment.
+// ---
+
 #include "ui/views/widget/unique_widget_ptr.h"
 
 #include <memory>

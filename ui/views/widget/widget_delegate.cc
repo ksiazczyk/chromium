@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget delegate implementation
+// summary: Implements WidgetDelegate defaults for window titles, activation, accessibility, and client, frame and overlay view creation.
+// ---
+
 #include "ui/views/widget/widget_delegate.h"
 
 #include <memory>

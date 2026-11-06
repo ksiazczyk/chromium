@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameViewLinux unit tests
+// summary: Unit tests covering caption button layout, ordering, visibility, and frame geometry for the Linux client-side-decorated frame view.
+// ---
+
 #include "ui/views/window/frame_view_linux.h"
 
 #include <memory>

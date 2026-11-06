@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native cursor manager for desktop Aura
+// summary: Implements DesktopNativeCursorManager, loading platform cursors and applying cursor visibility, display, and mouse-event state across registered window tree hosts.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_native_cursor_manager.h"
 
 #include "base/notimplemented.h"

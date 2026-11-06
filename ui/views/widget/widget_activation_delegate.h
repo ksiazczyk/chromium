@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WidgetActivationDelegate interface declaration
+// summary: Declares the WidgetActivationDelegate interface for widget activation control, intended for emulating activation in unit tests.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_WIDGET_ACTIVATION_DELEGATE_H_
 #define UI_VIEWS_WIDGET_WIDGET_ACTIVATION_DELEGATE_H_
 

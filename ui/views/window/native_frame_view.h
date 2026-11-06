@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeFrameView class declaration
+// summary: Declares NativeFrameView, a FrameView subclass for natively framed widgets that forwards bounds, hit testing, and sizing to the client view.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_NATIVE_FRAME_VIEW_H_
 #define UI_VIEWS_WINDOW_NATIVE_FRAME_VIEW_H_
 

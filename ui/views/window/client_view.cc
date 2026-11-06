@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientView implementation
+// summary: Implements ClientView, the view occupying a widget's client area, providing non-client hit testing, sizing, and close-request handling defaults.
+// ---
+
 #include "ui/views/window/client_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Widget interactive UI tests
+// summary: Interactive UI tests covering widget activation, capture, drag-and-drop, focus, and input handling across platforms.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

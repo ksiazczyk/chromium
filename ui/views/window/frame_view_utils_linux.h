@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux frame view utilities declaration
+// summary: Declares shared helpers for Linux frame views, including frame button image caching, border painting, restored clip regions, and opaque region computation.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_FRAME_VIEW_UTILS_LINUX_H_
 #define UI_VIEWS_WINDOW_FRAME_VIEW_UTILS_LINUX_H_
 

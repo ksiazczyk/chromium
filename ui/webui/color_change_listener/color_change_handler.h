@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorChangeHandler class declaration
+// summary: Declares the ColorChangeHandler class, a WebContentsObserver and DocumentUserData that relays color provider changes to WebUI pages over Mojo.
+// ---
+
 #ifndef UI_WEBUI_COLOR_CHANGE_LISTENER_COLOR_CHANGE_HANDLER_H_
 #define UI_WEBUI_COLOR_CHANGE_LISTENER_COLOR_CHANGE_HANDLER_H_
 

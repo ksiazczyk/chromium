@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LegacyWindowReorderer unit tests
+// summary: Unit tests verifying that views with layers and views with associated windows are reordered per the view hierarchy.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

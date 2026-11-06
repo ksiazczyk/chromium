@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWNDMessageHandlerDelegate interface
+// summary: Declares the delegate interface through which HWNDMessageHandler notifies its owner of window events and requests data such as frame mode, sizes and accessibility.
+// ---
+
 #ifndef UI_VIEWS_WIN_HWND_MESSAGE_HANDLER_DELEGATE_H_
 #define UI_VIEWS_WIN_HWND_MESSAGE_HANDLER_DELEGATE_H_
 

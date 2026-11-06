@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hit-test component utilities header
+// summary: Declares GetHitTestComponent and SetHitTestComponent helpers that map a widget-space point to a hit-test component via view properties.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_HIT_TEST_UTILS_H_
 #define UI_VIEWS_WINDOW_HIT_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultFrameView class declaration
+// summary: Declares DefaultFrameView, a FrameView subclass that renders frame borders, title bar, and window control buttons as a fallback on all platforms.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_DEFAULT_FRAME_VIEW_H_
 #define UI_VIEWS_WINDOW_DEFAULT_FRAME_VIEW_H_
 

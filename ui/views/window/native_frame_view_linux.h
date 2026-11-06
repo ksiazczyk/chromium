@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeFrameViewLinux class declaration
+// summary: Declares a FrameViewLinux subclass that renders frame decoration via WindowFrameProvider and window control button images via NavButtonProvider.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_NATIVE_FRAME_VIEW_LINUX_H_
 #define UI_VIEWS_WINDOW_NATIVE_FRAME_VIEW_LINUX_H_
 

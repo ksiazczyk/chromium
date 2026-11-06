@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopWindowTreeHostPlatform unit tests
+// summary: Unit tests for DesktopWindowTreeHostPlatform covering visibility, show state, capture, focus and widget lifecycle behavior.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_window_tree_host_platform.h"
 
 #include <array>

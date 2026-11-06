@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonClientView class declaration for window frame hierarchy
+// summary: Declares NonClientView, the logical root view that owns the FrameView and forwards client area handling to the ClientView.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_NON_CLIENT_VIEW_H_
 #define UI_VIEWS_WINDOW_NON_CLIENT_VIEW_H_
 

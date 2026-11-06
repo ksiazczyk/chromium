@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ui/webui
+summary: Points the ui/webui directory to the shared metadata mixins defined in COMMON_METADATA.

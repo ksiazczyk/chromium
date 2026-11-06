@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogDelegate implementation
+// summary: Implements DialogDelegate, providing dialog widget creation, button and title handling, accessibility, and window close callbacks for Views dialogs.
+// ---
+
 #include "ui/views/window/dialog_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogClientView class declaration
+// summary: Declares DialogClientView, an internal ClientView subclass that decorates dialog content with labeled buttons, accelerators, and an extra view row.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_DIALOG_CLIENT_VIEW_H_
 #define UI_VIEWS_WINDOW_DIALOG_CLIENT_VIEW_H_
 

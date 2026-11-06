@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDialogUI implementation
+// summary: Implements the WebDialogUI controller that stores the delegate as WebContents user data, registers the dialogClose message, and passes dialog arguments.
+// ---
+
 #include "ui/web_dialogs/web_dialog_ui.h"
 
 #include "base/functional/bind.h"

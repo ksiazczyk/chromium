@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux frame view utilities implementation
+// summary: Implements helpers for painting restored frame borders, deriving border insets from shadows, and building clip and opaque regions for Linux client-side frames.
+// ---
+
 #include "ui/views/window/frame_view_utils_linux.h"
 
 #include <cmath>

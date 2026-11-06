@@ -1,0 +1,4 @@
+# Docerion header of ax_native_widget_mac_unittest.mm.
+type: test
+title: Mac native widget accessibility tests
+summary: macOS widget tests checking accessibility behavior of views such as buttons, comboboxes, labels, and text fields through NSAccessibility.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnyWidgetObserverSingleton class declaration
+// summary: Declares the internal singleton that every Widget notifies so AnyWidgetObserver instances receive lifecycle events.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_ANY_WIDGET_OBSERVER_SINGLETON_H_
 #define UI_VIEWS_WIDGET_ANY_WIDGET_OBSERVER_SINGLETON_H_
 

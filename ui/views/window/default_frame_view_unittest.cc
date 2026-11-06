@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultFrameView unit tests
+// summary: Unit tests verifying DefaultFrameView caption button ordering, placement relative to the title, and visibility of the restore button.
+// ---
+
 #include "ui/views/window/default_frame_view.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus and activation rules for desktop Aura
+// summary: Implements DesktopFocusRules that determine which windows can be activated or focused in desktop Aura, handling minimized, root, and content windows.
+// ---
+
 #include "ui/views/widget/desktop_aura/desktop_focus_rules.h"
 
 #include "ui/aura/client/aura_constants.h"

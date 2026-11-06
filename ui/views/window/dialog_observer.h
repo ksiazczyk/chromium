@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogObserver interface
+// summary: Defines a small observer interface that is notified when a DialogDelegate signals a model change, such as enabled buttons or button titles.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_DIALOG_OBSERVER_H_
 #define UI_VIEWS_WINDOW_DIALOG_OBSERVER_H_
 

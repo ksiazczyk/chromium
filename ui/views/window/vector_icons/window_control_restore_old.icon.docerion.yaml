@@ -1,0 +1,4 @@
+# Docerion header of window_control_restore_old.icon.
+type: asset
+title: Old window control restore vector icon
+summary: Vector icon definition for the old window control restore button, providing 24 and 12 canvas path drawing commands used to render the glyph in Chromium's Views UI.

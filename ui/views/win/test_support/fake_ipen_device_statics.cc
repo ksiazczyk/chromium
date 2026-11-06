@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIPenDeviceStatics implementation
+// summary: Implements a singleton fake IPenDeviceStatics that maps pointer IDs to pen devices and supports simulating pen events and removal of all pen devices in tests.
+// ---
+
 #include "ui/views/win/test_support/fake_ipen_device_statics.h"
 
 #include "base/no_destructor.h"

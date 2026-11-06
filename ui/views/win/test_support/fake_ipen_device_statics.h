@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIPenDeviceStatics class header
+// summary: Declares FakeIPenDeviceStatics, a singleton fake of the Windows IPenDeviceStatics interface with test methods to simulate pen device events and removal.
+// ---
+
 #ifndef UI_VIEWS_WIN_TEST_SUPPORT_FAKE_IPEN_DEVICE_STATICS_H_
 #define UI_VIEWS_WIN_TEST_SUPPORT_FAKE_IPEN_DEVICE_STATICS_H_
 

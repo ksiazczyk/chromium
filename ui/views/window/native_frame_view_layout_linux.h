@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeFrameViewLayoutLinux class declaration
+// summary: Declares a FrameViewLayoutLinux subclass that overrides shadow-based defaults with metrics from the native toolkit's NavButtonProvider and WindowFrameProvider.
+// ---
+
 #ifndef UI_VIEWS_WINDOW_NATIVE_FRAME_VIEW_LAYOUT_LINUX_H_
 #define UI_VIEWS_WINDOW_NATIVE_FRAME_VIEW_LAYOUT_LINUX_H_
 

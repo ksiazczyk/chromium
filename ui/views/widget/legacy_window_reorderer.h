@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowReorderer class declaration
+// summary: Declares a legacy reorderer that keeps widget child windows and layers stacked to match the view tree z-order.
+// ---
+
 #ifndef UI_VIEWS_WIDGET_LEGACY_WINDOW_REORDERER_H_
 #define UI_VIEWS_WIDGET_LEGACY_WINDOW_REORDERER_H_
 

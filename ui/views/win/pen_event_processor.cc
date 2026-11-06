@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pen event processor implementation
+// summary: Converts Windows WM_POINTER pen messages into ui::Event mouse or touch events, handling eraser detection, pressure, tilt, rotation and stylus handwriting details.
+// ---
+
 #include "ui/views/win/pen_event_processor.h"
 
 #include "base/check.h"
