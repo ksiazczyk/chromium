@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group provider unit tests
+// summary: Unit tests for TabGroupProvider covering no results, title matches and skipping results in incognito mode using a fake tab group sync service.
+// ---
+
 #include "components/omnibox/browser/tab_group_provider.h"
 
 #include <memory>

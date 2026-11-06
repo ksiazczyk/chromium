@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Omnibox and location bar dimension values
+summary: Defines Android dimension resources for the tablet location bar fusebox popup and the omnibox suggestion dropdown corner radius.
+-->
+
 <resources>
 <!-- Amount of expansion for when the tablet fusebox "pops up" over adjacent views -->
 <dimen name="location_bar_tablet_fusebox_popup_inset">8dp</dimen>

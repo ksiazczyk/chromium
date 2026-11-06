@@ -1,0 +1,4 @@
+# Docerion header of navigational.
+type: test
+title: 'Fuzz corpus: navigational suggest response'
+summary: Sample Google suggest response for fb.com containing navigation suggestions, used as fuzzing input for omnibox suggest parsing.

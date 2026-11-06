@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL scoring signals annotator unit tests
+// summary: Unit tests for UrlScoringSignalsAnnotator verifying computed scoring signals such as URL match lengths and host match positions.
+// ---
+
 #include "components/omnibox/browser/url_scoring_signals_annotator.h"
 
 #include <optional>

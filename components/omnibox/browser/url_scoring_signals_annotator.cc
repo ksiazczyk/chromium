@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scoring signals annotator implementation
+// summary: Implements the annotator that populates ML scoring signals for URL suggestions, including query-URL match lengths and host-only flags.
+// ---
+
 #include "components/omnibox/browser/url_scoring_signals_annotator.h"
 
 #include <optional>

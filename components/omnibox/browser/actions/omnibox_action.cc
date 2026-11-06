@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox action base class implementation
+// summary: Implements the OmniboxAction base class with label strings, execution context, default URL opening, and Android JNI teardown.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_action.h"
 
 #include "base/logging.h"

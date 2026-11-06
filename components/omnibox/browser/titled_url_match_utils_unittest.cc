@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for titled URL match conversion utilities
+// summary: Unit tests verifying conversion of titled URL matches into autocomplete matches, including match classifications and rich autocompletion behavior.
+// ---
+
 #include "components/omnibox/browser/titled_url_match_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL prefix matching header
+// summary: Declares the URLPrefix struct with a static prefix list and helpers for finding the best URL prefix and inline autocomplete offset.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_URL_PREFIX_H_
 #define COMPONENTS_OMNIBOX_BROWSER_URL_PREFIX_H_
 

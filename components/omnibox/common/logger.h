@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox debug logger interface
+// summary: Declares the Logger class, its observer interface, and the OMNIBOX_LOG macros for recording debug log messages and protos.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_LOGGER_H_
 #define COMPONENTS_OMNIBOX_COMMON_LOGGER_H_
 

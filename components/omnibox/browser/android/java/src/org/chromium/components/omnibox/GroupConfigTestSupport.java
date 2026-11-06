@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GroupConfigTestSupport
+// summary: Test utility providing predefined GroupConfig instances for building AutocompleteResult definitions in omnibox tests.
+// ---
+
 package org.chromium.components.omnibox;
 
 import androidx.annotation.NonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroSuggestCacheService implementation
+// summary: Implements the zero suggest cache service that stores, reads, parses, and clears cached zero-prefix suggest responses in user preferences and notifies observers of updates.
+// ---
+
 #include "components/omnibox/browser/zero_suggest_cache_service.h"
 
 #include <algorithm>

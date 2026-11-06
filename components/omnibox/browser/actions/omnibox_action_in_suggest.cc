@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxActionInSuggest implementation
+// summary: Implements OmniboxActionInSuggest, mapping suggest template action types to UMA histograms and localized hints, with Android JNI support.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_action_in_suggest.h"
 
 #include "base/metrics/histogram_functions.h"

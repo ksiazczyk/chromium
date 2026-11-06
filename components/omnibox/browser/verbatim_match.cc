@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Verbatim match implementation
+// summary: Implements helpers that build verbatim omnibox matches for URLs and inputs, including Android scheme restrictions and default relevance handling.
+// ---
+
 #include "components/omnibox/browser/verbatim_match.h"
 
 #include "base/containers/fixed_flat_set.h"

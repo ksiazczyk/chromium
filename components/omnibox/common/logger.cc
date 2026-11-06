@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox debug logger implementation
+// summary: Implements the omnibox Logger singleton that records recent debug log messages, including base64-encoded protos, for display on an internals page.
+// ---
+
 #include "components/omnibox/common/logger.h"
 
 #include "base/base64.h"

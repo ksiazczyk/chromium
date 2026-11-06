@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxAction base class for omnibox match actions
+// summary: Abstract Android class defining omnibox actions attached to omnibox matches, including chip icon decoration, hints, presentation mode, and native instance linkage.
+// ---
+
 package org.chromium.components.omnibox.action;
 
 import android.text.TextUtils;

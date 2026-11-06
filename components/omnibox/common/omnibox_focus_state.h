@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox focus state enums
+// summary: Defines enums for omnibox focus states and the reasons focus can change, such as explicit changes, tab switches, and typing.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_OMNIBOX_FOCUS_STATE_H_
 #define COMPONENTS_OMNIBOX_COMMON_OMNIBOX_FOCUS_STATE_H_
 

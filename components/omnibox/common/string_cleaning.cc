@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL and title cleaning for matching
+// summary: Implements truncation, unescaping, and lower-casing of URLs and titles to prepare them for omnibox substring matching.
+// ---
+
 #include "components/omnibox/common/string_cleaning.h"
 
 #include <string>

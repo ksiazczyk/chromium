@@ -1,0 +1,4 @@
+# Docerion header of tail.
+type: test
+title: 'Fuzz corpus: tail suggest response'
+summary: Sample Google suggest response for a long query with tail suggestions, used as fuzzing input for omnibox suggest parsing.

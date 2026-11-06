@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggest inventory fallback prompt resource IDs
+// summary: Defines arrays of short and long fallback prompt resource ID pairs for the brainstorm, help me learn, and write or edit suggest inventories.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SUGGEST_INVENTORY_FALLBACK_PROMPTS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SUGGEST_INVENTORY_FALLBACK_PROMPTS_H_
 

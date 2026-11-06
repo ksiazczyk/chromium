@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Omnibox popover suggestion background color (night)
+summary: Android color selector that gives omnibox popover suggestions the surface container background color in dark theme.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="?attr/colorSurfaceContainer"/>
 </selector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox feature flag declarations
+// summary: Declares omnibox feature flags and parameters, organized into categorized lists covering suggestion counts, zero-suggest, providers, and suggestions UI.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_OMNIBOX_FEATURES_H_
 #define COMPONENTS_OMNIBOX_COMMON_OMNIBOX_FEATURES_H_
 

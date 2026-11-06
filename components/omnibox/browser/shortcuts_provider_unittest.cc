@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcuts provider unit tests
+// summary: Unit tests covering matching, scoring, deduping, and deletion behavior of the omnibox shortcuts provider using a fixture shortcut database.
+// ---
+
 #include "components/omnibox/browser/shortcuts_provider.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggest template info Mojo utils implementation
+// summary: Converts autocomplete match classifications, secondary text placement, images and icons into the client-side SuggestTemplateInfo mojom used to render omnibox suggestions.
+// ---
+
 #include "components/omnibox/browser/suggest_template_info_mojo_utils.h"
 
 #include <cstdint>

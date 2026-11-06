@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroSuggestCacheServiceInterface
+// summary: Minimal interface for the ZeroSuggestCacheService that exposes cached zero-suggest responses, parsed suggest results, and observer notifications while avoiding a dependency cycle in the omnibox components.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_ZERO_SUGGEST_CACHE_SERVICE_INTERFACE_H_
 #define COMPONENTS_OMNIBOX_COMMON_ZERO_SUGGEST_CACHE_SERVICE_INTERFACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL index private data header
+// summary: Declares URLIndexPrivateData, the internal data structure of InMemoryURLIndex for restoring, rebuilding, updating and scoring history index entries.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_URL_INDEX_PRIVATE_DATA_H_
 #define COMPONENTS_OMNIBOX_BROWSER_URL_INDEX_PRIVATE_DATA_H_
 

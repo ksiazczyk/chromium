@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxClient class declaration
+// summary: Declares a fake OmniboxClient implementation with mockable favicon, icon and autocomplete-accept methods for omnibox testing.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_TEST_OMNIBOX_CLIENT_H_
 #define COMPONENTS_OMNIBOX_BROWSER_TEST_OMNIBOX_CLIENT_H_
 

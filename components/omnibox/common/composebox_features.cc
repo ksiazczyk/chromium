@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox feature flags
+// summary: Defines base::Feature flags and parameters for composebox context management, skills, AIM button, animation limiting, and related omnibox behaviors.
+// ---
+
 #include "components/omnibox/common/composebox_features.h"
 
 #include "build/build_config.h"

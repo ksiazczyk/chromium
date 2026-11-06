@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroSuggestCacheService class header
+// summary: Declares ZeroSuggestCacheService, a keyed service that caches zero-prefix suggest responses per page URL with composebox isolation and observer support.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ZERO_SUGGEST_CACHE_SERVICE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ZERO_SUGGEST_CACHE_SERVICE_H_
 

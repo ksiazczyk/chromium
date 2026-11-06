@@ -1,0 +1,4 @@
+# Docerion header of suggest_template_info.mojom.
+type: source
+title: Suggest template info Mojo definitions
+summary: Defines Mojo structs and enums for suggestion presentation, including formatted strings, styles, icon types, secondary text placement, and images.

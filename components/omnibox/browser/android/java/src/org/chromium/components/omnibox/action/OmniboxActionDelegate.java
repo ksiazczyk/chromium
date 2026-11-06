@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxActionDelegate interface for action chip interactions
+// summary: Interface handling interactions for omnibox action chips, covering tab loading, incognito, settings, password manager, clear browsing data, site search, and Lens overlay.
+// ---
+
 package org.chromium.components.omnibox.action;
 
 import android.content.Intent;

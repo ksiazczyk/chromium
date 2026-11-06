@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox metrics utility implementations
+// summary: Implements string conversions for tool mode, model mode, and context type enums plus histogram logging of early exit reasons.
+// ---
+
 #include "components/omnibox/common/omnibox_metrics_utils.h"
 
 #include <string>

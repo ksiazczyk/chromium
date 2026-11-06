@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion group unit tests
+// summary: Unit tests for suggestion group defaults, group ID lookup and group configuration behavior such as render types for the mobile most visited section.
+// ---
+
 #include "base/strings/string_util.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/buildflag.h"

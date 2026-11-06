@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteResult
+// summary: Manages a set of autocomplete results, wrapping suggestion matches, group information, and an optional native counterpart.
+// ---
+
 package org.chromium.components.omnibox;
 
 import androidx.annotation.IntDef;

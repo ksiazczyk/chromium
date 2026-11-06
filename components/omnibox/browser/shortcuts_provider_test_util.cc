@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcuts provider test helpers
+// summary: Implements helpers that populate the shortcuts backend with test shortcut data and run shortcuts provider autocomplete checks against expected results.
+// ---
+
 #include "components/omnibox/browser/shortcuts_provider_test_util.h"
 
 #include <algorithm>

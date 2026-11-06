@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL and title cleaning declarations
+// summary: Declares functions that clean up URLs and titles for matching, including offset adjustments that map cleaned text back to original strings.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_STRING_CLEANING_H_
 #define COMPONENTS_OMNIBOX_COMMON_STRING_CLEANING_H_
 

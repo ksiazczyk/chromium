@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox pedal provider implementation
+// summary: Implements OmniboxPedalProvider, which tokenizes match text against localized synonym data to find pedals matching omnibox suggestions.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_pedal_provider.h"
 
 #include <numeric>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unscoped extension autocomplete provider implementation
+// summary: Implements the autocomplete provider that forwards omnibox input to extensions allowed in unscoped mode, handling start, stop and match deletion.
+// ---
+
 #include "components/omnibox/browser/unscoped_extension_provider.h"
 
 #include <set>

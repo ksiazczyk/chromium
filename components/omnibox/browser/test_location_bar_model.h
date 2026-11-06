@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLocationBarModel class declaration
+// summary: Declares a test-only LocationBarModel backed by instance variables with setters for URL, security level, icon and other display properties.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_TEST_LOCATION_BAR_MODEL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_TEST_LOCATION_BAR_MODEL_H_
 

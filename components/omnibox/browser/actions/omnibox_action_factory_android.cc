@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI omnibox action factory implementation
+// summary: Implements Android JNI helpers that build Java counterparts for omnibox actions including cross-device tab, pedals, site search, action-in-suggest, and Lens overlay actions.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_action_factory_android.h"
 
 #include <vector>

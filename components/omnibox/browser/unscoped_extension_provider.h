@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unscoped extension autocomplete provider header
+// summary: Declares the autocomplete provider that supplies suggestions from extensions running in unscoped mode without requiring keyword mode.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_UNSCOPED_EXTENSION_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_UNSCOPED_EXTENSION_PROVIDER_H_
 

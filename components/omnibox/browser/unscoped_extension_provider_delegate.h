@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unscoped extension provider delegate interface
+// summary: Defines the abstract delegate interface for starting, stopping and deleting extension suggestion requests in unscoped mode.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_UNSCOPED_EXTENSION_PROVIDER_DELEGATE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_UNSCOPED_EXTENSION_PROVIDER_DELEGATE_H_
 

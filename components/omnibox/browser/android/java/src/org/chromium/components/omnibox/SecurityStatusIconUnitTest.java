@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurityStatusIcon unit tests
+// summary: Robolectric unit tests for SecurityStatusIcon checking the icon resource returned for each security level, HTTPS-first warnings, and managed policy or billing statuses.
+// ---
+
 package org.chromium.components.omnibox;
 
 import static org.junit.Assert.assertEquals;

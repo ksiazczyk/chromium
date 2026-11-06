@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSchemeClassifier implementation
+// summary: Implements a test scheme classifier that maps known URL schemes to omnibox input types, treating the file scheme as a query on iOS.
+// ---
+
 #include <stddef.h>
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestion group utility implementation
+// summary: Builds default omnibox suggestion group configurations for various surfaces and contexts, including hub, tab search overlay and incognito variants.
+// ---
+
 #include "components/omnibox/browser/suggestion_group_util.h"
 
 #include <optional>

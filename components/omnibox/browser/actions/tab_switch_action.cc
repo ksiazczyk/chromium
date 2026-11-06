@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab switch action implementation
+// summary: Implements TabSwitchAction, an omnibox action that opens a URL with switch-to-tab disposition and supplies its icon and action identifier.
+// ---
+
 #include "components/omnibox/browser/actions/tab_switch_action.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of rich1.
+type: test
+title: 'Fuzz corpus: rich weather suggest response'
+summary: Sample Google suggest response for weather with a rich weather answer detail, used as fuzzing input for omnibox suggest parsing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceSuggestProvider class header
+// summary: Declares VoiceSuggestProvider, an Android autocomplete provider that converts voice recognition matches with confidence scores into ranked search suggestions for the omnibox.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_VOICE_SUGGEST_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_VOICE_SUGGEST_PROVIDER_H_
 

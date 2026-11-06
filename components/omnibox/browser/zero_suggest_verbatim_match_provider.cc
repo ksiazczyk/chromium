@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZeroSuggestVerbatimMatchProvider implementation
+// summary: Implements the provider that supplies a verbatim match for the currently visited website when the omnibox is focused or cleared, including eligibility rules and composebox handling.
+// ---
+
 #include "components/omnibox/browser/zero_suggest_verbatim_match_provider.h"
 
 #include <string>

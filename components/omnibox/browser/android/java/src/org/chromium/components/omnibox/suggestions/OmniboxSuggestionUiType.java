@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox suggestion UI type annotation
+// summary: Defines an IntDef annotation enumerating the view types an omnibox suggestion can have, with values also recorded in histogram metrics.
+// ---
+
 package org.chromium.components.omnibox.suggestions;
 
 import androidx.annotation.IntDef;

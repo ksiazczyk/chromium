@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ZeroSuggestProvider unit tests
+// summary: Unit tests for ZeroSuggestProvider covering suggest request URLs, eligibility and result types, cached responses, observer behavior, and matches across platforms and feature flags.
+// ---
+
 #include "components/omnibox/browser/zero_suggest_provider.h"
 
 #include <list>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggest inventory fallback utilities unit tests
+// summary: Unit tests verifying fallback prompt retrieval counts and fallback match creation for supported, unsupported, and limited-count inventories.
+// ---
+
 #include "components/omnibox/browser/suggest_inventory_fallback_utils.h"
 
 #include <memory>

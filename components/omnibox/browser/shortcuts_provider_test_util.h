@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcuts provider test helper declarations
+// summary: Declares the TestShortcutData struct and helper functions for filling the shortcuts backend with test data and verifying provider autocomplete results.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_PROVIDER_TEST_UTIL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_PROVIDER_TEST_UTIL_H_
 

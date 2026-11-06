@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Omnibox vector icons directory metadata
+summary: Metadata for the omnibox vector icons directory, inheriting the common metadata mixins from components/vector_icons.

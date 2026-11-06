@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Titled URL match conversion utilities header
+// summary: Declares functions that convert titled URL matches into autocomplete matches and compute the total title match length for the omnibox.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_TITLED_URL_MATCH_UTILS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_TITLED_URL_MATCH_UTILS_H_
 

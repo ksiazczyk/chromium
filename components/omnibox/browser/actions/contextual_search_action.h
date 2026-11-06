@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search omnibox action declarations
+// summary: Declares ContextualSearchFulfillmentAction and ContextualSearchOpenLensAction for Lens-based contextual search fulfillment in the omnibox.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ACTIONS_CONTEXTUAL_SEARCH_ACTION_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ACTIONS_CONTEXTUAL_SEARCH_ACTION_H_
 

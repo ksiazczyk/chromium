@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual search Mojom traits unit tests
+// summary: Unit tests verifying round-trip serialization of composebox Mojom types, including unknown enum values and icon resource handling.
+// ---
+
 #include "components/omnibox/composebox/contextual_search_mojom_traits.h"
 
 #include "components/omnibox/composebox/composebox_query.mojom.h"

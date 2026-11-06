@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxActionSiteSearch implementation
+// summary: Implements OmniboxActionSiteSearch, an omnibox action that enters keyword mode for a specific site, including creation of its Android Java object.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_action_site_search.h"
 
 #include "build/build_config.h"

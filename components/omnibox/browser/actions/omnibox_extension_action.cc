@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxExtensionAction implementation
+// summary: Implements OmniboxExtensionAction, an omnibox action that runs an extension-provided callback and shows the extension's label, tooltip, and icon.
+// ---
+
 #include "components/omnibox/browser/actions/omnibox_extension_action.h"
 
 #include <utility>

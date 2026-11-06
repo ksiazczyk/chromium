@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Omnibox suggestion dropdown background (night)
+summary: Android color selector that gives the omnibox suggestion dropdown the high surface container background color in dark theme.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="?attr/colorSurfaceContainerHigh"/>
 </selector>

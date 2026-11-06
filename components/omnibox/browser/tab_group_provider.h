@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group provider header
+// summary: Declares TabGroupProvider, a non-default autocomplete provider that matches user input against saved tab groups.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_TAB_GROUP_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_TAB_GROUP_PROVIDER_H_
 

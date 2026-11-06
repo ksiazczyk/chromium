@@ -1,0 +1,4 @@
+# Docerion header of tab.icon.
+type: asset
+title: Tab vector icon
+summary: Defines the vector path data for the tab icon drawn on a 24px canvas for use in the omnibox.

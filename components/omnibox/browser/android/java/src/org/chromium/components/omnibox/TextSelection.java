@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox text selection value class
+// summary: Immutable value class representing a directed text selection with anchor and cursor points, including constants and helpers for clamping, bounds, and select-all checks.
+// ---
+
 package org.chromium.components.omnibox;
 
 import org.chromium.build.annotations.NullMarked;

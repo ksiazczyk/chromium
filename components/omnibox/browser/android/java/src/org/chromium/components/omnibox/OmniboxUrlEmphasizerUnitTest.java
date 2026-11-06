@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxUrlEmphasizer unit tests
+// summary: Robolectric unit tests for OmniboxUrlEmphasizer that mock the JNI interface and verify URL component parsing and emphasis spans across many scheme and URL variants.
+// ---
+
 package org.chromium.components.omnibox;
 
 import static org.junit.Assert.assertEquals;

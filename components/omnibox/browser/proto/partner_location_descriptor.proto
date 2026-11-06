@@ -10,6 +10,12 @@
 // jumps in values. New fields cannot be added to this proto directly. See
 // https://goto.google.com/partner_location_proto
 
+// ---docerion
+// type: source
+// title: Partner location descriptor protocol buffer
+// summary: Protocol buffer definition for location descriptors sent to the default search engine in omnibox queries when location permissions are granted, using a Google-defined structure.
+// ---
+
 syntax = "proto2";
 
 package omnibox;

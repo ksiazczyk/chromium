@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox word deletion boundary helper
+// summary: Java bridge that asks native code for the offset a word-granularity delete starting at the cursor should extend to, in either forward or backward direction.
+// ---
+
 package org.chromium.components.omnibox;
 
 import org.jni_zero.JniType;

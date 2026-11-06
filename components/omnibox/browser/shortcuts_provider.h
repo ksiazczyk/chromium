@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts provider class declaration
+// summary: Declares ShortcutsProvider, which supplies autocomplete suggestions from previously selected suggestions ranked by how often they were chosen.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_PROVIDER_H_
 

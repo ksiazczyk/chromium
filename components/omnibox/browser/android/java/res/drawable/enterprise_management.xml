@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Enterprise management omnibox icon
+summary: Vector drawable of a building icon representing enterprise management, sized 20dp for omnibox use.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="20dp"
     android:height="20dp"

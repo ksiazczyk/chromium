@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputState struct definition
+// summary: Defines the InputState struct describing allowed, active, and disabled tools, models, and input types for the searchbox, with configs and input limits.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_COMMON_INPUT_STATE_H_
 #define COMPONENTS_OMNIBOX_COMMON_INPUT_STATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of answer_default.icon.
+type: asset
+title: Default answer vector icon
+summary: Vector icon used as the default answer icon in the omnibox, derived from a monochrome Google G on a 16px canvas.

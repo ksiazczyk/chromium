@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxFeatures
+// summary: Defines the Omnibox cached feature flags and parameters, including their production and test default states and limits such as prefetch counts and inline autocomplete thresholds.
+// ---
+
 package org.chromium.components.omnibox;
 
 import android.content.Context;

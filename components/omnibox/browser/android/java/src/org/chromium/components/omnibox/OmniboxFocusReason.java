@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxFocusReason
+// summary: IntDef annotation enumerating the mechanisms that focus the omnibox, such as taps, long presses, keyboard navigation, and state restoration.
+// ---
+
 package org.chromium.components.omnibox;
 
 import androidx.annotation.IntDef;

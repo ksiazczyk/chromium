@@ -1,0 +1,4 @@
+# Docerion header of rich2.
+type: test
+title: 'Fuzz corpus: rich entity suggest response'
+summary: Sample Google suggest response for lakers with an entity suggestion detail, used as fuzzing input for omnibox suggest parsing.

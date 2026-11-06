@@ -1,0 +1,4 @@
+# Docerion header of share_windows.icon.
+type: asset
+title: Windows share vector icon
+summary: Vector icon definition of the share icon for Windows in the omnibox, built from arc and cubic curve commands.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Android bindings for the Omnibox Component
+summary: Explains that this folder hosts the API declarations, such as data types and interfaces, exchanged between the Omnibox native component and the Android Java UI.
+---
+
 # Android bindings for the Omnibox Component.
 
 This folder contains declaration (data types, interfaces) enabling the Omnibox

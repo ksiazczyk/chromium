@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TailoredWordBreakIterator unit tests
+// summary: Unit tests verifying that the tailored word break iterator splits text on underscores, digits and standard boundaries as expected.
+// ---
+
 #include <stddef.h>
 
 #include <string>

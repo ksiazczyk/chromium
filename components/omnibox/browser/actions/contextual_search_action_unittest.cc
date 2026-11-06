@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual search action unit tests
+// summary: Unit tests verifying CTR metric recording and execution routing of the Lens action to CoBrowse, Composebox, or the Lens overlay.
+// ---
+
 #include "components/omnibox/browser/actions/contextual_search_action.h"
 
 #include <map>
