@@ -1,0 +1,4 @@
+# Docerion header of inline_script.html.
+type: test
+title: Inline script beacon test page
+summary: Test page whose inline script records the prerendering state and sends a beacon so tests can verify execution resumes after activation.

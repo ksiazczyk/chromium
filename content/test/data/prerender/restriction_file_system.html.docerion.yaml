@@ -1,0 +1,4 @@
+# Docerion header of restriction_file_system.html.
+type: test
+title: File System Access API restriction during prerendering
+summary: Test page that verifies navigator.storage.getDirectory() is deferred until a prerendered page is activated, recording prerenderingchange events.

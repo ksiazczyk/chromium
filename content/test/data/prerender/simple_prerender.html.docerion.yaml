@@ -1,0 +1,4 @@
+# Docerion header of simple_prerender.html.
+type: test
+title: Prerender Test
+summary: Minimal page using speculation rules to prerender /empty.html and providing a link to trigger activation.

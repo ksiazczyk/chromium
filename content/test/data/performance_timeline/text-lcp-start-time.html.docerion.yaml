@@ -1,0 +1,4 @@
+# Docerion header of text-lcp-start-time.html.
+type: test
+title: 'Largest Contentful Paint: text render time'
+summary: Test page rendering an h1 heading so the Largest Contentful Paint start time for text can be observed.

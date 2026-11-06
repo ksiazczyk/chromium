@@ -1,0 +1,4 @@
+# Docerion header of playback-test.html.
+type: test
+title: Test AudioContextManager Audible Playback
+summary: HTML test page that starts a silent oscillator via an AudioContext so a browser test can raise the gain and verify audible playback messages.

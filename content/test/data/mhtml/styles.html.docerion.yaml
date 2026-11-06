@@ -1,0 +1,4 @@
+# Docerion header of styles.html.
+type: test
+title: Stylesheet serialization test page for MHTML
+summary: Test page combining inline styles, linked and imported stylesheets and script-modified rules to verify MHTML stylesheet serialization and ordering.

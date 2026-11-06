@@ -1,0 +1,4 @@
+# Docerion header of manifest_new.json.
+type: test
+title: Manifest_New test manifest
+summary: Minimal web app manifest named Manifest_New with start_url, scope and id, used as a switch target in manifest tests.

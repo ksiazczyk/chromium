@@ -1,0 +1,4 @@
+# Docerion header of custom_element_defined_in_frame.html.
+type: test
+title: Custom element iframe test page for MHTML serialization
+summary: Test page that embeds custom_element_defined.html in an iframe so the custom element remains undefined outside the frame.

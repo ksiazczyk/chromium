@@ -1,0 +1,4 @@
+# Docerion header of icon-manifest.json.
+type: test
+title: Web app manifest with icon
+summary: Manifest for a test app declaring a 128x128 PNG icon, standalone display and landscape orientation.

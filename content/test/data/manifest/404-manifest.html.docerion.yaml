@@ -1,0 +1,4 @@
+# Docerion header of 404-manifest.html.
+type: test
+title: 404 manifest test page
+summary: HTML test page that links to a non-existent manifest resource, for testing manifest fetches that return 404.

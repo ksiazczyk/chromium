@@ -1,0 +1,4 @@
+# Docerion header of autoplay-enabled.html.
+type: test
+title: Autoplay enabled activation delegation test page
+summary: HTML test fixture with a video element and an iframe that allows autoplay, used to test activation delegation when autoplay is enabled.

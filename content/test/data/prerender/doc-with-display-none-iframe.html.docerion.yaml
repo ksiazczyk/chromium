@@ -1,0 +1,4 @@
+# Docerion header of doc-with-display-none-iframe.html.
+type: test
+title: Document with hidden iframe test page
+summary: Test page containing a display:none iframe whose load event resolves a promise, for prerendering tests.

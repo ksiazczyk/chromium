@@ -1,0 +1,4 @@
+# Docerion header of sample-manifest.json.
+type: test
+title: Sample web app manifest
+summary: Minimal manifest fixture containing only a name field, used by manifest parsing tests.

@@ -1,0 +1,4 @@
+# Docerion header of canonical_link_in_body.html.
+type: test
+title: Canonical link in body test page
+summary: Test fixture page placing a canonical link element inside the body instead of the head, for testing nonstandard canonical link placement.

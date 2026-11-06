@@ -1,0 +1,4 @@
+# Docerion header of embed-unload.html.
+type: test
+title: Media session playback state unload test page
+summary: Test page that sets the media session playback state to playing and resets it to none when the page unloads.

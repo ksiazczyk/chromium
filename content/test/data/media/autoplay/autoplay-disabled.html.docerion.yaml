@@ -1,0 +1,4 @@
+# Docerion header of autoplay-disabled.html.
+type: test
+title: Autoplay disabled activation delegation test page
+summary: HTML test fixture with a video element and an iframe without autoplay permission, used to test activation delegation when autoplay is disabled.

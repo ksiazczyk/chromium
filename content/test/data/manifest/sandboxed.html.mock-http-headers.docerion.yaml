@@ -1,0 +1,4 @@
+# Docerion header of sandboxed.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for sandboxed.html
+summary: Mock HTTP response headers that serve sandboxed.html with a Content-Security-Policy sandbox allow-scripts header.

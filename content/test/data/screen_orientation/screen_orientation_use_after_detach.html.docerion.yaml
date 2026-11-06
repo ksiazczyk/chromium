@@ -1,0 +1,4 @@
+# Docerion header of screen_orientation_use_after_detach.html.
+type: test
+title: Screen orientation use after detach test page
+summary: Loads an iframe, removes it, and calls unlock on the detached screen orientation object to verify post-detach use does not crash.

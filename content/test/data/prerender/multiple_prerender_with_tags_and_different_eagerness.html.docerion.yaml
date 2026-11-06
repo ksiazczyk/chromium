@@ -1,0 +1,4 @@
+# Docerion header of multiple_prerender_with_tags_and_different_eagerness.html.
+type: test
+title: Speculation rules prerender test page with tags and different eagerness
+summary: Test page with speculation rules prerendering empty.html at moderate and conservative eagerness, for testing eagerness handling.

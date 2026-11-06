@@ -1,0 +1,4 @@
+# Docerion header of session_storage.html.
+type: test
+title: Session storage prerendering test page
+summary: Test page that writes sessionStorage entries while prerendering and exposes the keys seen at prerenderingchange for verification.

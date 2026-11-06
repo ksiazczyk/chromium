@@ -1,0 +1,4 @@
+# Docerion header of another.txt.
+type: test
+title: Test data file for file enumerator
+summary: Plain text fixture in the test data directory used by the cache file enumerator tests.

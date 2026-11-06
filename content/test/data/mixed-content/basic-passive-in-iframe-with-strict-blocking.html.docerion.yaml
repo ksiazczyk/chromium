@@ -1,0 +1,4 @@
+# Docerion header of basic-passive-in-iframe-with-strict-blocking.html.
+type: test
+title: Passive mixed content in iframe with strict blocking CSP
+summary: Test page that embeds the passive mixed content page in an iframe under a block-all-mixed-content CSP.

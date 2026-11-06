@@ -1,0 +1,4 @@
+# Docerion header of payment_app_window.html.
+type: test
+title: Payment app window test page
+summary: Test page opened by the payment app service worker that signals readiness and replies with a test payment method response.

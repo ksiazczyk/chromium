@@ -1,0 +1,4 @@
+# Docerion header of detached-iframe.html.
+type: test
+title: Detached iframe helper for screen orientation test
+summary: Helper page that calls parent.iframeLoaded() on load so the embedding test page can proceed after the iframe loads.

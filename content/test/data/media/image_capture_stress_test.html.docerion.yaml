@@ -1,0 +1,4 @@
+# Docerion header of image_capture_stress_test.html.
+type: test
+title: Image Capture stress test page
+summary: Stress test page that repeatedly opens the camera and takes ten photos via the ImageCapture API to verify that repeated takePhoto calls succeed.

@@ -1,0 +1,4 @@
+# Docerion header of manifest-cors.json.
+type: test
+title: CORS test manifest
+summary: Minimal manifest named foo, presumably used for cross-origin manifest fetch testing.

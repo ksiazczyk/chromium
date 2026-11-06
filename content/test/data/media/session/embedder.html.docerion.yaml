@@ -1,0 +1,4 @@
+# Docerion header of embedder.html.
+type: test
+title: Embedder page for embed-unload test
+summary: Test page that embeds embed-unload.html in an iframe for embedded playback state testing.

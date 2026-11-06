@@ -1,0 +1,4 @@
+# Docerion header of video-player-autoplay.html.
+type: test
+title: Video player autoplay test page
+summary: Minimal test page that autoplays a muted bear.webm video element to verify autoplay behavior.

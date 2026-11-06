@@ -1,0 +1,4 @@
+# Docerion header of two-videos.html.
+type: test
+title: Multiple videos picture-in-picture test page
+summary: Test fixture page with two videos and an iframe video that reports playing and picture-in-picture events through the document title.

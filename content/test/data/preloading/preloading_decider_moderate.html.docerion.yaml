@@ -1,0 +1,4 @@
+# Docerion header of preloading_decider_moderate.html.
+type: test
+title: Preloading Decider Browser Test Moderate
+summary: HTML test page applying moderate-eagerness speculation rules for prefetch and prerender on selected links to test non-immediate preloading behavior.

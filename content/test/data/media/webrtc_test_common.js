@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC peer connection negotiation helpers
+// summary: JavaScript helpers that negotiate offer and answer between two RTCPeerConnections with optional SDP transform hooks.
+// ---
+
 // Default transform functions, overridden by some test cases.
 var transformSdp = function(sdp) { return sdp; };
 var transformRemoteSdp = function(sdp) { return sdp; };

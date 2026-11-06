@@ -1,0 +1,4 @@
+# Docerion header of notrial.html.
+type: test
+title: No origin trial test page
+summary: Minimal HTML page without an origin trial token, used as an iframe target in origin trial tests.

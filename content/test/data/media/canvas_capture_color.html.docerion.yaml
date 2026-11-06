@@ -1,0 +1,4 @@
+# Docerion header of canvas_capture_color.html.
+type: test
+title: Canvas capture color test page
+summary: Browser test page verifying color fidelity of canvas-captured video for 2D and WebGL contexts within a YUV conversion tolerance.

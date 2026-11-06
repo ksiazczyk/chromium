@@ -1,0 +1,4 @@
+# Docerion header of reload-with-url-anchor.html.
+type: test
+title: Reload with URL anchor test page
+summary: Test page with tall spacer sections and a center element, used to test reloading with a URL anchor.

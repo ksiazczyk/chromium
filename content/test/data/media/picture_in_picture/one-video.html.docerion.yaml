@@ -1,0 +1,4 @@
+# Docerion header of one-video.html.
+type: test
+title: Single video picture-in-picture test page
+summary: Test fixture page with a single looping video exposing helpers for picture-in-picture, fullscreen, MediaSession actions, and playback state reporting via the document title.

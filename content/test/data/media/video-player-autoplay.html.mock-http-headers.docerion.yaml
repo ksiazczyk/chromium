@@ -1,0 +1,4 @@
+# Docerion header of video-player-autoplay.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the video player autoplay test page
+summary: Mock HTTP response headers served with the autoplay test page, adding a fenced-frame Supports-Loading-Mode header.

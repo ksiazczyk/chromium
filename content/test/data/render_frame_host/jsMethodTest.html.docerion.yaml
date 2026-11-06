@@ -1,0 +1,4 @@
+# Docerion header of jsMethodTest.html.
+type: test
+title: JavaScript method test page
+summary: Test fixture page defining window.someMethod, which returns a string of its arguments, for testing JavaScript method invocation.

@@ -1,0 +1,4 @@
+# Docerion header of autoplay-muted.html.
+type: test
+title: Media session autoplay muted test page
+summary: Test page for MediaSession.java that autoplays a muted video and provides play and unmute buttons.

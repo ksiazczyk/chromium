@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video detection utilities
+// summary: JavaScript utilities that inspect canvas pixels to detect video playing, stopping, black frames, and expected resolution.
+// ---
+
 // These must match with how the video and canvas tags are declared in html.
 const VIDEO_TAG_WIDTH = 320;
 const VIDEO_TAG_HEIGHT = 240;

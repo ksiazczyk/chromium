@@ -1,0 +1,4 @@
+# Docerion header of external_sync_script.html.
+type: test
+title: External synchronous script test page
+summary: Test page that loads status_script.js synchronously plus an image, to exercise prerendering of external scripts.

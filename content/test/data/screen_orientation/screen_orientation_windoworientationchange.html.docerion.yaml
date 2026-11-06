@@ -1,0 +1,4 @@
+# Docerion header of screen_orientation_windoworientationchange.html.
+type: test
+title: Window orientation change event test page
+summary: Registers a window onorientationchange handler that reports the new window orientation value through the URL hash.

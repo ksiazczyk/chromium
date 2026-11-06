@@ -1,0 +1,4 @@
+# Docerion header of canonical_links_with_fragments.html.
+type: test
+title: Canonical links with fragments test page
+summary: Test fixture page with two canonical links whose URLs include fragments, used to test canonical URL fragment handling.

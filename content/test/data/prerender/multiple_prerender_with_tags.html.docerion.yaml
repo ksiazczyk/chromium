@@ -1,0 +1,4 @@
+# Docerion header of multiple_prerender_with_tags.html.
+type: test
+title: Speculation rules prerender test page with tags
+summary: Test page with two tagged speculation rules prerendering empty.html and a link, for testing multiple prerenders distinguished by tags.

@@ -1,0 +1,4 @@
+# Docerion header of resource_loading_non_mobile.html.
+type: test
+title: Resource loading test page for non-mobile
+summary: HTML test page that loads blocking CSS and scripts plus responsive images and counts loaded resources via the Performance API.

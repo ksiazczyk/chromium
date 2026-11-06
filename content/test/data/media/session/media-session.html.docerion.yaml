@@ -1,0 +1,4 @@
+# Docerion header of media-session.html.
+type: test
+title: Media session audio and video test page
+summary: Test page for MediaSession.java with several audio and video elements of different lengths, silent and looping variants.

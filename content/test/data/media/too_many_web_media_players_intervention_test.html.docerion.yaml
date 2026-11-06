@@ -1,0 +1,4 @@
+# Docerion header of too_many_web_media_players_intervention_test.html.
+type: test
+title: Too many web media players intervention test page
+summary: Test page that creates video players from a template to exercise the too-many-web-media-players intervention.

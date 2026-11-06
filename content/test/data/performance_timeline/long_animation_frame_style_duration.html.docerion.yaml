@@ -1,0 +1,4 @@
+# Docerion header of long_animation_frame_style_duration.html.
+type: test
+title: Long Animation Frame style duration test page
+summary: Test page measuring style recalculation duration in long animation frames, with a two-phase ResizeObserver test and polling for LoAF entries.

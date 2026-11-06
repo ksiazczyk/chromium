@@ -1,0 +1,4 @@
+# Docerion header of elements.html.
+type: test
+title: Image element test page for MHTML serialization
+summary: Test page with an SVG image and an img element that should load, plus an SVG image without a href that should not.

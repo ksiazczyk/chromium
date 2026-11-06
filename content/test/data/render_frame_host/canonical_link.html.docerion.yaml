@@ -1,0 +1,4 @@
+# Docerion header of canonical_link.html.
+type: test
+title: Canonical link in head test page
+summary: Test fixture page declaring a canonical link element in the head, used to verify canonical URL handling.

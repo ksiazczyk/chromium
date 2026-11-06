@@ -1,0 +1,4 @@
+# Docerion header of file-handler-manifest.html.
+type: test
+title: File handler manifest test page
+summary: HTML test page linking to a manifest that declares file handling for the web app.

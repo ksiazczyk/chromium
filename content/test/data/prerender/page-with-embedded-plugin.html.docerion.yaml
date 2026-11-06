@@ -1,0 +1,4 @@
+# Docerion header of page-with-embedded-plugin.html.
+type: test
+title: Embedded plugin test page
+summary: Test page embedding a Chromium test default plugin via an embed element, for prerendering tests involving plugins.

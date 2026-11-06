@@ -1,0 +1,4 @@
+# Docerion header of basic-passive-in-iframe-with-upgrade.html.
+type: test
+title: Passive mixed content in iframe with upgrade CSP
+summary: Test page that embeds the passive mixed content page in an iframe under an upgrade-insecure-requests CSP.

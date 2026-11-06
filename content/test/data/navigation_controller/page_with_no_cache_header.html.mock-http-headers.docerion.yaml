@@ -1,0 +1,4 @@
+# Docerion header of page_with_no_cache_header.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for the no-cache page
+summary: 'Mock HTTP headers file that serves page_with_no_cache_header.html with a 200 response and Cache-Control: no-cache.'

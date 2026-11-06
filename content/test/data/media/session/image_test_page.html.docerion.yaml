@@ -1,0 +1,4 @@
+# Docerion header of image_test_page.html.
+type: test
+title: Media session image test page
+summary: Test page that sets media session metadata artwork from test_image.jpg and shows a video for artwork image testing.

@@ -1,0 +1,4 @@
+# Docerion header of file-handler-manifest.json.
+type: test
+title: File handler web app manifest
+summary: Web app manifest declaring a file handler that accepts PNG images with an action URL and a start_url.

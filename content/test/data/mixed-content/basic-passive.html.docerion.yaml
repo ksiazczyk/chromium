@@ -1,0 +1,4 @@
+# Docerion header of basic-passive.html.
+type: test
+title: Passive mixed content test page
+summary: Test page that loads an insecure HTTP image to exercise passive mixed content handling.

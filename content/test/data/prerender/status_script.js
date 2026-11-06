@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerendering status beacon script
+// summary: Script that records document.prerendering and sends a beacon so tests can confirm execution resumes after activation via server logs.
+// ---
+
 const executed_during_prerendering = document.prerendering;
 
 // Let the script send a fetch request, so that the test suite can verify the

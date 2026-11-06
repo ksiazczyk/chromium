@@ -1,0 +1,4 @@
+# Docerion header of cross_origin_prerender.html.
+type: test
+title: Cross-origin prerendering state test page
+summary: Test page that records the initial document.prerendering value and whether a prerenderingchange event fires.

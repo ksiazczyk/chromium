@@ -1,0 +1,4 @@
+# Docerion header of no-manifest.html.
+type: test
+title: Page without a manifest
+summary: Empty HTML page with no manifest link, serving as a control case for manifest-related tests.

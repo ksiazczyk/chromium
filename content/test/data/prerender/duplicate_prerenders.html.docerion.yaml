@@ -1,0 +1,4 @@
+# Docerion header of duplicate_prerenders.html.
+type: test
+title: Duplicate prerender links test page
+summary: Test page declaring duplicate and distinct link rel=prerender hints to verify deduplication of prerendered pages.

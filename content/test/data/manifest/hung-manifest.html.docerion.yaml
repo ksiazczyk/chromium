@@ -1,0 +1,4 @@
+# Docerion header of hung-manifest.html.
+type: test
+title: Hung manifest test page
+summary: HTML test page linking to a manifest URL that presumably never responds, for testing hung manifest fetches.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerender test helper utilities
+// summary: Shared helpers that create iframes, images and popup windows with load promises for prerendering test pages.
+// ---
+
 // Creates a new iframe with the URL, and returns a promise.
 function add_iframe(url) {
   const frame = document.createElement('iframe');

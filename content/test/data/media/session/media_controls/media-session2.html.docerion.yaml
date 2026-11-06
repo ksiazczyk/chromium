@@ -1,0 +1,4 @@
+# Docerion header of media-session2.html.
+type: test
+title: Test page for SystemMediaControlsBridge.h
+summary: HTML test page that embeds a short looping video to exercise media session and system media controls behavior.
