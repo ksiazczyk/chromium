@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote support host struct definitions
+// summary: Declares the RemoteSupportHostStruct holding host public key, version, helper email, Tachyon account and operating system info.
+// ---
+
 #ifndef REMOTING_PROTO_REMOTE_SUPPORT_SERVICE_H_
 #define REMOTING_PROTO_REMOTE_SUPPORT_SERVICE_H_
 

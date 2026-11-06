@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows URL forwarder configurator
+// summary: Windows implementation that launches the configurator process under the user's token and handles session changes during setup.
+// ---
+
 #include "remoting/host/remote_open_url/url_forwarder_configurator_win.h"
 
 #include <windows.h>

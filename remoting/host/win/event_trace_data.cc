@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event trace data parsing
+// summary: Parses Windows ETW EVENT_TRACE payloads, including LOG_MESSAGE and LOG_MESSAGE_FULL formats, into an EventTraceData structure.
+// ---
+
 #include "remoting/host/win/event_trace_data.h"
 
 #include <string_view>

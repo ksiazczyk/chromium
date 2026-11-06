@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake security key message reader test double header
+// summary: Declares a test double for SecurityKeyMessageReader that exposes the registered message callback for testing.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_FAKE_SECURITY_KEY_MESSAGE_READER_H_
 #define REMOTING_HOST_SECURITY_KEY_FAKE_SECURITY_KEY_MESSAGE_READER_H_
 

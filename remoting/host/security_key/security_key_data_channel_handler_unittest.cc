@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security key data channel handler unit tests
+// summary: Unit tests for SecurityKeyDataChannelHandler that verify message handling over a fake message pipe with a mock security key auth handler.
+// ---
+
 #include "remoting/host/security_key/security_key_data_channel_handler.h"
 
 #include <cstdint>

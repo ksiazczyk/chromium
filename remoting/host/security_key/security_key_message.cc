@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key message implementation
+// summary: Implements parsing and validation of security key messages, including message size limits and conversion of raw values to message types.
+// ---
+
 #include "remoting/host/security_key/security_key_message.h"
 
 #include <cstdint>

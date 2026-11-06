@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopSessionType enum header
+// summary: Declares the DesktopSessionType enum and GetDesktopSessionType() used to classify sessions as remote-only, local-only, or unspecified.
+// ---
+
 #ifndef REMOTING_HOST_WEBAUTHN_DESKTOP_SESSION_TYPE_UTIL_H_
 #define REMOTING_HOST_WEBAUTHN_DESKTOP_SESSION_TYPE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RdpClient class header
+// summary: Declares RdpClient, which establishes a loopback RDP connection to spawn a new Windows session and exposes SAS injection and resolution changes.
+// ---
+
 #ifndef REMOTING_HOST_WIN_RDP_CLIENT_H_
 #define REMOTING_HOST_WIN_RDP_CLIENT_H_
 

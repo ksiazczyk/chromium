@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows daemon controller delegate implementation
+// summary: Implements the Windows DaemonController delegate, managing host config files with security descriptors and guarding against junction-based privilege escalation.
+// ---
+
 #include "remoting/host/setup/daemon_controller_delegate_win.h"
 
 #include <windows.h>

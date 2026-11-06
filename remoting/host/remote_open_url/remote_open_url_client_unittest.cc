@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteOpenUrlClient unit tests
+// summary: Unit tests for RemoteOpenUrlClient covering fallback browser opening, invalid URLs and remote URL opening through mocked IPC services.
+// ---
+
 #include "remoting/host/remote_open_url/remote_open_url_client.h"
 
 #include <memory>

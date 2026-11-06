@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WtsTerminalMonitor header
+// summary: Declares the WtsTerminalMonitor interface and helpers for registering observers and resolving terminal and session IDs.
+// ---
+
 #ifndef REMOTING_HOST_WIN_WTS_TERMINAL_MONITOR_H_
 #define REMOTING_HOST_WIN_WTS_TERMINAL_MONITOR_H_
 

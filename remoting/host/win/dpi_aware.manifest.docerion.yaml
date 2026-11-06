@@ -1,0 +1,4 @@
+# Docerion header of dpi_aware.manifest.
+type: config
+title: DPI awareness manifest
+summary: Windows application manifest enabling per-monitor DPI awareness for the remoting host.

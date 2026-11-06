@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake security key message writer implementation for tests
+// summary: Implements a fake SecurityKeyMessageWriter that records written message types and payloads and signals a write callback in tests.
+// ---
+
 #include "remoting/host/security_key/fake_security_key_message_writer.h"
 
 #include <string>

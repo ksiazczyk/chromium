@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStarter interface
+// summary: Defines the HostStarter interface and Params used to register and start a remote access host, covering result codes and the OAuth, corp, and cloud workflows.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_HOST_STARTER_H_
 #define REMOTING_HOST_SETUP_HOST_STARTER_H_
 

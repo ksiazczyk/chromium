@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted caller security checks for remote WebAuthn
+// summary: Implements platform-specific checks that verify the host was launched by a trusted Chrome process or an allowed remote WebAuthn extension.
+// ---
+
 #include "remoting/host/webauthn/remote_webauthn_caller_security_utils.h"
 
 #include <algorithm>

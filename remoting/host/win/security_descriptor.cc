@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security descriptor helpers implementation
+// summary: Implements conversions between SDDL strings, security descriptors and SIDs, including logon SID retrieval and absolute security descriptor creation.
+// ---
+
 #include "remoting/host/win/security_descriptor.h"
 
 #include <sddl.h>

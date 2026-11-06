@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key IPC client implementation
+// summary: Implements the client side of the IPC channel used to forward security key requests between the remote_security_key process and the network process.
+// ---
+
 #include "remoting/host/security_key/security_key_ipc_client.h"
 
 #include <memory>

@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: ICE server configuration protos
+// summary: Defines messages for requesting ICE server configuration, including STUN/TURN server details, used to establish P2P connections.
+// ---
+
 syntax = "proto2";
 
 package remoting.apis.v1;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the remoting cloud v1 proto library
+summary: GN build file that defines the proto_library target compiling provisioning_service.proto in the remoting cloud v1 package.

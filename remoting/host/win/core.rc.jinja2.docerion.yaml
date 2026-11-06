@@ -1,0 +1,4 @@
+# Docerion header of core.rc.jinja2.
+type: source
+title: Localized core resource template
+summary: Jinja2 template that generates localized Windows resources for the host core, including service strings, an icon, and disconnect and continue dialogs.

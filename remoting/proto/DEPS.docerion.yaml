@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for protobuf dependencies
+summary: Directory dependency rules that allow includes from third_party/protobuf within this folder.

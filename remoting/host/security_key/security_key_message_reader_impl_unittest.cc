@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security key message reader implementation unit tests
+// summary: Unit tests for SecurityKeyMessageReaderImpl that write messages to a pipe and verify message parsing, invalid sizes and EOF error handling.
+// ---
+
 #include "remoting/host/security_key/security_key_message_reader_impl.h"
 
 #include <cstdint>

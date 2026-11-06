@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows daemon controller delegate unit tests
+// summary: Unit tests for the Windows daemon controller delegate covering config reading and updating, permission checks, and rejection of reparse-point config directories.
+// ---
+
 #include "remoting/host/setup/daemon_controller_delegate_win.h"
 
 #include <memory>

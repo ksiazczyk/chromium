@@ -5,6 +5,12 @@
 // This file implements the Windows service controlling Me2Me host processes
 // running within user sessions.
 
+// ---docerion
+// type: source
+// title: Windows host service implementation
+// summary: Implements the Windows service controlling Me2Me host processes in user sessions, including service control handling, COM security descriptors, and console mode.
+// ---
+
 #include "remoting/host/win/host_service.h"
 
 #include <windows.h>

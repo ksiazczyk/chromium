@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host executable entry point
+// summary: Common entry point for remoting_host.exe and remoting_desktop.exe that calls HostMain and exits without linking the CRT.
+// ---
+
 #include <windows.h>
 
 #include "base/clang_profiling_buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud host starter header
+// summary: Declares the ProvisionCloudInstance factory that creates a HostStarter for provisioning cloud remote desktop hosts.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_CLOUD_HOST_STARTER_H_
 #define REMOTING_HOST_SETUP_CLOUD_HOST_STARTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key auth handler factory implementation
+// summary: Implements SecurityKeyAuthHandler::Create(), selecting between the Mojo and POSIX handler implementations and supporting test-injected creation callbacks.
+// ---
+
 #include "remoting/host/security_key/security_key_auth_handler.h"
 
 #include <atomic>

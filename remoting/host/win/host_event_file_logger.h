@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host event file logger
+// summary: Declares HostEventFileLogger, a HostEventLogger that writes ETW event trace data to a unique log file located next to the host executable.
+// ---
+
 #ifndef REMOTING_HOST_WIN_HOST_EVENT_FILE_LOGGER_H_
 #define REMOTING_HOST_WIN_HOST_EVENT_FILE_LOGGER_H_
 

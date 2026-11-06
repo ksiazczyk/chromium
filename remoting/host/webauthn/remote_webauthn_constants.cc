@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote WebAuthn message constants and extension IDs
+// summary: Defines data channel name, message type and key constants, and the list of extension IDs allowed to use the remote WebAuthn host.
+// ---
+
 #include "remoting/host/webauthn/remote_webauthn_constants.h"
 
 #include <array>

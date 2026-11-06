@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security descriptor helpers header
+// summary: Declares SDDL constants and helper functions for converting and manipulating Windows security descriptors and SIDs.
+// ---
+
 #ifndef REMOTING_HOST_WIN_SECURITY_DESCRIPTOR_H_
 #define REMOTING_HOST_WIN_SECURITY_DESCRIPTOR_H_
 

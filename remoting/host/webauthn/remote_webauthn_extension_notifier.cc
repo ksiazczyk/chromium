@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote WebAuthn extension notifier implementation
+// summary: Writes per-extension wakeup files into Chrome's default user data directories so the WebAuthn proxy extension fires the onRemoteSessionStateChange event.
+// ---
+
 
 #include "remoting/host/webauthn/remote_webauthn_extension_notifier.h"
 

@@ -4,6 +4,12 @@
 
 // Protocol for video messages.
 
+// ---docerion
+// type: source
+// title: Video messaging protocol messages
+// summary: Defines protobuf messages for video packets, including frame encoding, screen dimensions, dirty rectangles, capture timing, and frame acknowledgements.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

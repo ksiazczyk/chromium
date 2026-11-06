@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start host as root implementation
+// summary: Implements StartHostAsRoot, validating user-related command-line switches and configuring the host service to run as a local account.
+// ---
+
 #include "remoting/host/setup/start_host_as_root.h"
 
 #include <errno.h>

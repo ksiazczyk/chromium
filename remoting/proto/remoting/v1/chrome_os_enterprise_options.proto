@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Chrome OS enterprise session options proto
+// summary: Defines the ChromeOsEnterpriseOptions message controlling UX and capabilities such as troubleshooting, file transfer, reconnection, and input for Chrome OS enterprise sessions.
+// ---
+
 syntax = "proto2";
 
 package remoting.apis.v1;

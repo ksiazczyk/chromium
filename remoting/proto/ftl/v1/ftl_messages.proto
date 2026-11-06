@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL signaling message definitions
+// summary: Defines protobuf enums and request/response messages for the FTL signaling service, covering registration, sign-in, ICE server lookup, and message delivery.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

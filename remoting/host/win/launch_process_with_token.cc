@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch process with token implementation
+// summary: Implements creation of session tokens with the SE_TCB_NAME privilege and launching processes in a user's security context, including AppContainer sandbox support.
+// ---
+
 #include "remoting/host/win/launch_process_with_token.h"
 
 #include <windows.h>

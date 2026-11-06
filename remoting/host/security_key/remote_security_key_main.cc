@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote security key process startup and message handling
+// summary: Implements startup of the remote security key process, wiring stdin and stdout files, Mojo IPC support, and the security key message handler.
+// ---
+
 #include "remoting/host/security_key/remote_security_key_main.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM security initialization
+// summary: Implements InitializeComSecurity, converting an SDDL descriptor to absolute form and applying it to the process-wide COM security settings.
+// ---
+
 #include "remoting/host/win/com_security.h"
 
 #include <objidl.h>

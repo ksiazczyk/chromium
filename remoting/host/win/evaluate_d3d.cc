@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3D capability evaluator
+// summary: Evaluates DirectX capturer support and D3D feature levels of the system and reports capabilities for the remote desktop host.
+// ---
+
 #include "remoting/host/win/evaluate_d3d.h"
 
 #include <D3DCommon.h>

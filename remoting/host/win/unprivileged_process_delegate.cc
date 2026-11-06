@@ -5,6 +5,12 @@
 // This file implements the Windows service controlling Me2Me host processes
 // running within user sessions.
 
+// ---docerion
+// type: source
+// title: UnprivilegedProcessDelegate implementation
+// summary: Implements launching and monitoring of remoting worker processes under low or untrusted integrity levels, with AppContainer and security descriptor setup.
+// ---
+
 #include "remoting/host/win/unprivileged_process_delegate.h"
 
 // clang-format off

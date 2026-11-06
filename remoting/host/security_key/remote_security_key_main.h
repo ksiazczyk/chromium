@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote security key main entry point declaration
+// summary: Declares the RemoteSecurityKeyMain entry point exported from remoting_core.dll for the remote security key host binary.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_REMOTE_SECURITY_KEY_MAIN_H_
 #define REMOTING_HOST_SECURITY_KEY_REMOTE_SECURITY_KEY_MAIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard layout key function enum
+// summary: Defines a protobuf enum listing functional, non-character-generating keys such as modifiers, locks, navigation, and function keys for keyboard layouts.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

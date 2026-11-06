@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseCursorMonitorWin implementation
+// summary: Windows implementation of the mouse cursor monitor that captures cursor image and position using an event-driven delegate with a 100 Hz image polling fallback.
+// ---
+
 #include "remoting/host/win/mouse_cursor_monitor_win.h"
 
 #include <windows.h>

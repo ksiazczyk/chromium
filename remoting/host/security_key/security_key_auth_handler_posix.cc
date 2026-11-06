@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX security key auth handler implementation
+// summary: Implements SecurityKeyAuthHandlerPosix, listening on a Unix domain socket restricted to the current uid and managing security key connections and socket files.
+// ---
+
 #include "remoting/host/security_key/security_key_auth_handler_posix.h"
 
 #include <unistd.h>

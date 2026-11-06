@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote open URL utility implementation
+// summary: Implements IsRemoteOpenUrlSupported, checking platform support and the Windows RegisteredApplications registry entry for the URL forwarder.
+// ---
+
 #include "remoting/host/remote_open_url/remote_open_url_util.h"
 
 #include "base/logging.h"

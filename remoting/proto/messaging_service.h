@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging service struct declarations
+// summary: Declares structs for signaling addresses, Jingle messages, WebRTC transport info, and session messaging used by the internal MessagingService.
+// ---
+
 #ifndef REMOTING_PROTO_MESSAGING_SERVICE_H_
 #define REMOTING_PROTO_MESSAGING_SERVICE_H_
 

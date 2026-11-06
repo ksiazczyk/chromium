@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityKeyAuthHandlerPosix class header
+// summary: Declares SecurityKeyAuthHandlerPosix, which accepts security key requests over a Unix domain socket and manages active sockets and request timeouts.
+// ---
+
 #ifndef REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_AUTH_HANDLER_POSIX_H_
 #define REMOTING_HOST_SECURITY_KEY_SECURITY_KEY_AUTH_HANDLER_POSIX_H_
 

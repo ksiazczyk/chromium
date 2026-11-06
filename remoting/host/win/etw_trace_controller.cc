@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW trace controller implementation
+// summary: Implements the ETW trace controller that starts and stops the realtime trace session for the remoting host log provider.
+// ---
+
 #include "remoting/host/win/etw_trace_controller.h"
 
 #include <stdint.h>

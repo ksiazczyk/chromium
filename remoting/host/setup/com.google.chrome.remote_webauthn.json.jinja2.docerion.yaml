@@ -1,0 +1,4 @@
+# Docerion header of com.google.chrome.remote_webauthn.json.jinja2.
+type: config
+title: Chrome native messaging manifest template for remote webauthn
+summary: Jinja2 template for the Chrome native messaging manifest that allows remote webauthn and security key extensions to launch the remote webauthn host.

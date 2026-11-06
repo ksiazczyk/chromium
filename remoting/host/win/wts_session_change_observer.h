@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WtsSessionChangeObserver header
+// summary: Declares a helper class that observes WM_WTSSESSION_CHANGE messages and invokes a callback with the session event and session ID.
+// ---
+
 #ifndef REMOTING_HOST_WIN_WTS_SESSION_CHANGE_OBSERVER_H_
 #define REMOTING_HOST_WIN_WTS_SESSION_CHANGE_OBSERVER_H_
 

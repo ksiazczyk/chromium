@@ -4,6 +4,12 @@
 
 // Protocol for event messages.
 
+// ---docerion
+// type: source
+// title: Event message protocol definitions
+// summary: Defines protobuf messages for keyboard, mouse, text, clipboard, and touch events exchanged between remote desktop client and host.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

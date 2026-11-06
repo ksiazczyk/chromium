@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows daemon controller delegate interface
+// summary: Declares the Windows DaemonController delegate for controlling the host daemon and its configuration directory.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_DAEMON_CONTROLLER_DELEGATE_WIN_H_
 #define REMOTING_HOST_SETUP_DAEMON_CONTROLLER_DELEGATE_WIN_H_
 

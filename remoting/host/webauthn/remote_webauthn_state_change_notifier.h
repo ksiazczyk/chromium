@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote WebAuthn state change notifier interface
+// summary: Defines an interface for notifying possible changes to whether WebAuthn proxying is allowed in the current desktop session.
+// ---
+
 #ifndef REMOTING_HOST_WEBAUTHN_REMOTE_WEBAUTHN_STATE_CHANGE_NOTIFIER_H_
 #define REMOTING_HOST_WEBAUTHN_REMOTE_WEBAUTHN_STATE_CHANGE_NOTIFIER_H_
 

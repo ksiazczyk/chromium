@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ACL access-right helpers header
+// summary: Declares functions that add access rights for well-known SIDs to the DACLs of the current process and its token.
+// ---
+
 #ifndef REMOTING_HOST_WIN_ACL_UTIL_H_
 #define REMOTING_HOST_WIN_ACL_UTIL_H_
 

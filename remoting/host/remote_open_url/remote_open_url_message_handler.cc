@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote open URL message handler implementation
+// summary: Handles remote open URL protocol messages, dispatching open URL requests to IPC clients and reporting results or local fallback on disconnect.
+// ---
+
 #include "remoting/host/remote_open_url/remote_open_url_message_handler.h"
 
 #include "base/functional/bind.h"

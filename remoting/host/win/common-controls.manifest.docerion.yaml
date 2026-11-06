@@ -1,0 +1,4 @@
+# Docerion header of common-controls.manifest.
+type: config
+title: Common Controls dependency manifest
+summary: Application manifest declaring the assembly's dependency on Microsoft Windows Common Controls 6.0.

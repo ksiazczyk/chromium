@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MouseCursorMonitorWin unit tests
+// summary: Unit tests verifying cursor shape and cursor position callbacks of MouseCursorMonitorWin using a fake display info monitor and mock callback.
+// ---
+
 #include "remoting/host/win/mouse_cursor_monitor_win.h"
 
 #include <memory>

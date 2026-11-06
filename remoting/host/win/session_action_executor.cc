@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session action executor implementation
+// summary: Executes session actions such as injecting the Secure Attention Sequence and locking the workstation on a dedicated task runner.
+// ---
+
 #include "remoting/host/win/session_action_executor.h"
 
 #include "base/functional/bind.h"

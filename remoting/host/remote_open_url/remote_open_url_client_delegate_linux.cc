@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteOpenUrlClientDelegateLinux implementation
+// summary: Linux delegate that opens URLs in a fallback browser and uses GTK dialogs to show errors and let the user choose a fallback browser.
+// ---
+
 #include "remoting/host/remote_open_url/remote_open_url_client_delegate_linux.h"
 
 #include <gtk/gtk.h>

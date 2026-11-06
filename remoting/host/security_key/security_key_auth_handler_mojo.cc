@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo-based security key auth handler implementation
+// summary: Implements SecurityKeyAuthHandlerMojo, managing Mojo IPC security key forwarding connections with request timeouts and disconnect handling.
+// ---
+
 #include "remoting/host/security_key/security_key_auth_handler_mojo.h"
 
 #include <cstdint>

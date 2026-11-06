@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW trace controller header
+// summary: Declares a class that starts and stops ETW trace sessions for events logged by the remote access host, allowing only one active instance.
+// ---
+
 #ifndef REMOTING_HOST_WIN_ETW_TRACE_CONTROLLER_H_
 #define REMOTING_HOST_WIN_ETW_TRACE_CONTROLLER_H_
 

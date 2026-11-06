@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RDP desktop session class factory implementation
+// summary: Implements the COM class factory that creates RdpDesktopSession instances for the Windows remoting host.
+// ---
+
 #include "remoting/host/win/rdp_desktop_session_class_factory.h"
 
 #include <wrl/client.h>

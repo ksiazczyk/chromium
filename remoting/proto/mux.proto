@@ -4,6 +4,12 @@
 //
 // Protocol for the mux channel that multiplexes multiple channels.
 
+// ---docerion
+// type: source
+// title: Mux channel multiplexing protocol
+// summary: Defines the protobuf messages used by the mux channel to multiplex multiple channels, identifying them by channel ID and name.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

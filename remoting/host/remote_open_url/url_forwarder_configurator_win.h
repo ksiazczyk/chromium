@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows URL forwarder configurator header
+// summary: Declares UrlForwarderConfiguratorWin, the Windows implementation of UrlForwarderConfigurator that requires elevated privileges.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_OPEN_URL_URL_FORWARDER_CONFIGURATOR_WIN_H_
 #define REMOTING_HOST_REMOTE_OPEN_URL_URL_FORWARDER_CONFIGURATOR_WIN_H_
 

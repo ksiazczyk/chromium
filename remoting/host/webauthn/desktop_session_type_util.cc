@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop session type detection for remote WebAuthn
+// summary: Implements GetDesktopSessionType, which on Linux detects whether the desktop session is remote-only or local-only via an environment variable.
+// ---
+
 #include "remoting/host/webauthn/desktop_session_type_util.h"
 
 #include "base/environment.h"

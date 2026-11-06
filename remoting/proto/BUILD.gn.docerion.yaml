@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for remoting protocol targets
+summary: Build file defining the proto_library and source_set targets that compile the remoting protocol protos, internal structs, and stubs.

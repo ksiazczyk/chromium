@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN validator header
+// summary: Declares the IsPinValid function used to check whether a remote access PIN is valid.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_PIN_VALIDATOR_H_
 #define REMOTING_HOST_SETUP_PIN_VALIDATOR_H_
 

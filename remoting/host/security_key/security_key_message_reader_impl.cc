@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key message reader implementation
+// summary: Implements SecurityKeyMessageReader by reading length-prefixed security key messages from a pipe on a dedicated IO thread and reporting errors.
+// ---
+
 
 #include "remoting/host/security_key/security_key_message_reader_impl.h"
 

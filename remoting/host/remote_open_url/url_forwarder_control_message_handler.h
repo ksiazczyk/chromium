@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL forwarder control message handler header
+// summary: Declares UrlForwarderControlMessageHandler, the message handler for the url-forwarder-control data channel.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_OPEN_URL_URL_FORWARDER_CONTROL_MESSAGE_HANDLER_H_
 #define REMOTING_HOST_REMOTE_OPEN_URL_URL_FORWARDER_CONTROL_MESSAGE_HANDLER_H_
 

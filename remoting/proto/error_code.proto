@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Chromoting error code enum
+// summary: Defines the shared ErrorCode enum covering connection, authentication, policy, and host errors across Chromoting user journeys.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

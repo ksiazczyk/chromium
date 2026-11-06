@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RdpClient unit tests
+// summary: Unit tests for RdpClient that set up an ATL module and mock event handler to exercise RDP connection and terminal ID lookup behavior.
+// ---
+
 #include "remoting/host/win/rdp_client.h"
 
 #include <cstdint>

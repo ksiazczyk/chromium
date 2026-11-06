@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows host service header
+// summary: Declares the HostService singleton, a WtsTerminalMonitor that parses command line actions, runs the daemon process service, and dispatches session change notifications.
+// ---
+
 #ifndef REMOTING_HOST_WIN_HOST_SERVICE_H_
 #define REMOTING_HOST_WIN_HOST_SERVICE_H_
 

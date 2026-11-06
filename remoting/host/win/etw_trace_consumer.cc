@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW trace consumer implementation
+// summary: Implements an ETW trace consumer that listens for remoting host ETW events and dispatches them to host event loggers.
+// ---
+
 #include "remoting/host/win/etw_trace_consumer.h"
 
 #include <stdint.h>

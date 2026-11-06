@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote WebAuthn data channel protocol
+// summary: Defines protobuf messages for the remote-webauthn data channel, forwarding WebAuthn create, get, cancel and availability requests to the client.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

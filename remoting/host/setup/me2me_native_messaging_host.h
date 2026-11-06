@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me native messaging host header
+// summary: Declares the Me2MeNativeMessagingHost class implementing the extensions native message host interface for Chrome Remote Desktop setup requests.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_ME2ME_NATIVE_MESSAGING_HOST_H_
 #define REMOTING_HOST_SETUP_ME2ME_NATIVE_MESSAGING_HOST_H_
 

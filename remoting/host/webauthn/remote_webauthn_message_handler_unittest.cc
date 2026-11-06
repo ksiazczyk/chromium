@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote WebAuthn message handler unit tests
+// summary: Unit tests using a fake message pipe and mock notifier to verify WebAuthn request and response handling, error mapping and cancellation.
+// ---
+
 #include "remoting/host/webauthn/remote_webauthn_message_handler.h"
 
 #include <stdint.h>

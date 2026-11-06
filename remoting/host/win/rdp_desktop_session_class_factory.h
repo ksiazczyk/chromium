@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RDP desktop session class factory header
+// summary: Declares the WRL-based COM class factory used to instantiate RdpDesktopSession objects.
+// ---
+
 #ifndef REMOTING_HOST_WIN_RDP_DESKTOP_SESSION_CLASS_FACTORY_H_
 #define REMOTING_HOST_WIN_RDP_DESKTOP_SESSION_CLASS_FACTORY_H_
 

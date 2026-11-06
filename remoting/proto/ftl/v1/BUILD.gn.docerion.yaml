@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: FTL v1 protobuf library build target
+summary: Defines the proto_library build target that compiles the four FTL v1 protobuf source files.

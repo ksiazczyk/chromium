@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RdpClient implementation
+// summary: Implements the loopback RDP client that connects, disconnects, injects SAS, and changes resolution while notifying events on the caller task runner.
+// ---
+
 #include "remoting/host/win/rdp_client.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fractional coordinate message
+// summary: Defines a protobuf message representing fractional coordinates relative to a monitor identified by screen_id.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

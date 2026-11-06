@@ -1,0 +1,4 @@
+# Docerion header of enable_uiaccess_require_admin.manifest.
+type: config
+title: UIAccess with administrator manifest
+summary: Windows manifest requesting the requireAdministrator execution level with UIAccess enabled.

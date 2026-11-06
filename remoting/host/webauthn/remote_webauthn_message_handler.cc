@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote WebAuthn message handler implementation
+// summary: Handles remote WebAuthn protocol messages, dispatching IsUvpaa, Create, Get and Cancel responses to pending Mojo callbacks and mapping errors.
+// ---
+
 #include "remoting/host/webauthn/remote_webauthn_message_handler.h"
 
 #include <stdint.h>

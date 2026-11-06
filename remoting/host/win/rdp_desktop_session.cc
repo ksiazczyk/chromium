@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RdpDesktopSession implementation
+// summary: Implements the IRdpDesktopSession COM interface by delegating connect, disconnect, resolution change, and SAS injection to an RdpClient instance.
+// ---
+
 #include "remoting/host/win/rdp_desktop_session.h"
 
 #include <memory>

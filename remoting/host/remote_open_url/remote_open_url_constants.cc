@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote open URL constants
+// summary: Defines constants for the remote open URL feature, including the data channel name and Windows URL forwarder ProgIDs.
+// ---
+
 #include "remoting/host/remote_open_url/remote_open_url_constants.h"
 
 #include "build/build_config.h"

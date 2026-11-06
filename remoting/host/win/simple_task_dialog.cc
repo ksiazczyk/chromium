@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleTaskDialog implementation
+// summary: Implements a helper that shows a Windows task dialog with a title, message, buttons, and optional timeout, keeping the dialog on top.
+// ---
+
 #include "remoting/host/win/simple_task_dialog.h"
 
 #include <algorithm>

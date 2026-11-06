@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ACL access-right helpers implementation
+// summary: Grants well-known SIDs additional access rights on the current process and its token by editing their security descriptors.
+// ---
+
 #include "remoting/host/win/acl_util.h"
 
 #include <windows.h>

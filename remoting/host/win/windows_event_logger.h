@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowsEventLogger header
+// summary: Declares WindowsEventLogger, which registers an application event source and logs event messages to the Windows event log.
+// ---
+
 #ifndef REMOTING_HOST_WIN_WINDOWS_EVENT_LOGGER_H_
 #define REMOTING_HOST_WIN_WINDOWS_EVENT_LOGGER_H_
 

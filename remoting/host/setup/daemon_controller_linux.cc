@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux daemon controller creation and delegate selection
+// summary: Creates the Linux DaemonController, selecting the multi-process or single-process delegate based on the configured host type.
+// ---
+
 #include "remoting/host/setup/daemon_controller.h"
 
 #include <memory>

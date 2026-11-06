@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurityKeyAuthHandlerMojo unit tests
+// summary: Unit tests for SecurityKeyAuthHandlerMojo covering IPC connection establishment, request and response flow, and connection timeout and disconnect handling.
+// ---
+
 #include "remoting/host/security_key/security_key_auth_handler_mojo.h"
 
 #include <cstdint>

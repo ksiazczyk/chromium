@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake security key IPC client implementation for tests
+// summary: Implements a fake SecurityKeyIpcClient that simulates IPC connections and security key requests with configurable behavior for tests.
+// ---
+
 #include "remoting/host/security_key/fake_security_key_ipc_client.h"
 
 #include <memory>

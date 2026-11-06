@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RdpClientWindow class header
+// summary: Declares the RdpClientWindow ATL window class that hosts the RDP ActiveX control and notifies an event handler of connect and disconnect events.
+// ---
+
 #ifndef REMOTING_HOST_WIN_RDP_CLIENT_WINDOW_H_
 #define REMOTING_HOST_WIN_RDP_CLIENT_WINDOW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartHostMain declaration
+// summary: Declares the exported StartHostMain entry point for the remoting_start_host tool.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_START_HOST_MAIN_H_
 #define REMOTING_HOST_SETUP_START_HOST_MAIN_H_
 

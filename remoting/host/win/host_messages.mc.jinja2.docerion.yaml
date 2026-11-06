@@ -1,0 +1,4 @@
+# Docerion header of host_messages.mc.jinja2.
+type: source
+title: Host event message template
+summary: Jinja2 template that generates the Windows message compiler input defining host event categories and localized event log messages for multiple languages.

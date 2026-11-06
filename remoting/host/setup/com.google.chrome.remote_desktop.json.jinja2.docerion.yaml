@@ -1,0 +1,4 @@
+# Docerion header of com.google.chrome.remote_desktop.json.jinja2.
+type: config
+title: Chrome native messaging manifest template for the remote desktop host
+summary: Jinja2 template for the Chrome native messaging manifest granting companion Chrome extensions access to the me2me native messaging host.

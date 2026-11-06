@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth host starter implementation
+// summary: Implements a host starter that registers and starts a remote host using OAuth tokens and the directory service client.
+// ---
+
 #include "remoting/host/setup/oauth_host_starter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key data channel protocol
+// summary: Defines the protobuf message sent over the security-key data channel, carrying multiplexed SSH agent payloads with size limits and error flags.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

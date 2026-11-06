@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowStationAndDesktop header
+// summary: Declares a scoper class that owns a window station and desktop handle pair, closing both handles when it goes out of scope.
+// ---
+
 #ifndef REMOTING_HOST_WIN_WINDOW_STATION_AND_DESKTOP_H_
 #define REMOTING_HOST_WIN_WINDOW_STATION_AND_DESKTOP_H_
 

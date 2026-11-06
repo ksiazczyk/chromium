@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the remote security key targets
+summary: Defines GN build targets for the security_key source set, the Windows remote_security_key executable, and its unit tests and test support library.

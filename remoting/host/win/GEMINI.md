@@ -1,3 +1,13 @@
+---
+type: note
+title: Windows host implementation notes
+summary: Describes the Windows host processes, RDP integration, COM security pitfalls, and troubleshooting guidance for this directory.
+relations:
+  - documents /remoting/host/win/host_service.cc
+  - documents /remoting/host/win/rdp_desktop_session.cc
+  - documents /remoting/host/win/rdp_client.cc
+---
+
 # Windows Host Implementation Details
 
 This directory contains Windows-specific implementations for the CRD host. It

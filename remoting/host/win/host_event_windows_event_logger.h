@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows event log host event logger header
+// summary: Declares HostEventWindowsEventLogger, a HostEventLogger that logs ETW event trace data to the Windows event log via a registered WindowsEventLogger.
+// ---
+
 #ifndef REMOTING_HOST_WIN_HOST_EVENT_WINDOWS_EVENT_LOGGER_H_
 #define REMOTING_HOST_WIN_HOST_EVENT_WINDOWS_EVENT_LOGGER_H_
 

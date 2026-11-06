@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows event log host event logger
+// summary: Implements HostEventWindowsEventLogger, which writes host event trace data to the Windows event log with severity mapping and structured payload fields.
+// ---
+
 #include "remoting/host/win/host_event_windows_event_logger.h"
 
 #include <utility>

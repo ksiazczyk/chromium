@@ -1,0 +1,4 @@
+# Docerion header of native_messaging_host-InfoPlist.strings.jinja2.
+type: asset
+title: Native messaging host InfoPlist strings template
+summary: Jinja2 template for the localized InfoPlist.strings file containing the copyright notice for the macOS host bundle.

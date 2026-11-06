@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core resource identifiers
+// summary: Defines resource IDs for the host core's service names, dialogs, and controls, which must match values hardcoded in the installer script.
+// ---
+
 #ifndef REMOTING_HOST_WIN_CORE_RESOURCE_H_
 #define REMOTING_HOST_WIN_CORE_RESOURCE_H_
 

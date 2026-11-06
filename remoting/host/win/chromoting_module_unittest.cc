@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromotingModule unit tests
+// summary: Unit tests that run ChromotingModule on a dedicated thread and verify RdpDesktopSession creation through its production COM class factory.
+// ---
+
 #include "remoting/host/win/chromoting_module.h"
 
 #include <objbase.h>

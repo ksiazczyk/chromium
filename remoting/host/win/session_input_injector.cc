@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session input injector implementation
+// summary: Implements Windows input injection that forwards key, mouse, touch and clipboard events and detects Ctrl+Alt+Del and Win+L key sequences.
+// ---
+
 #include "remoting/host/win/session_input_injector.h"
 
 #include <stddef.h>

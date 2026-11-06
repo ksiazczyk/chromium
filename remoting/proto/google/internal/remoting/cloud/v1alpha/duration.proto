@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Duration proto message
+// summary: Defines a lite-runtime Duration message copied from protobuf because the full protobuf source is too large for Chromium.
+// ---
+
 syntax = "proto3";
 
 package google.internal.remoting.cloud.v1alpha;

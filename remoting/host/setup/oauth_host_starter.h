@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth host starter header
+// summary: Declares the factory function that creates an OAuth-based host starter instance.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_OAUTH_HOST_STARTER_H_
 #define REMOTING_HOST_SETUP_OAUTH_HOST_STARTER_H_
 

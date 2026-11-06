@@ -1,0 +1,4 @@
+# Docerion header of chromoting_lib.rc.
+type: source
+title: Chromoting type library resource script
+summary: Resource script that embeds the chromoting_lib.tlb type library into the built binary.

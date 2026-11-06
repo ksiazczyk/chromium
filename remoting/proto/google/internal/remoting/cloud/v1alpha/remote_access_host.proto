@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteAccessHost proto message
+// summary: Defines the RemoteAccessHost message describing a host instance with its keys, accounts, timestamps, and status.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

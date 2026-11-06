@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStarterBase class header
+// summary: Declares the HostStarterBase class that provides common registration steps for subclasses provisioning new remote access host instances in the CRD backend.
+// ---
+
 #ifndef REMOTING_HOST_SETUP_HOST_STARTER_BASE_H_
 #define REMOTING_HOST_SETUP_HOST_STARTER_BASE_H_
 

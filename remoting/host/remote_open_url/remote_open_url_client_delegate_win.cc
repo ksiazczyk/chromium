@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteOpenUrlClientDelegateWin implementation
+// summary: Windows delegate that launches the previously configured fallback browser via registry ProgID and prompts when configuration is incorrect.
+// ---
+
 #include "remoting/host/remote_open_url/remote_open_url_client_delegate_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL forwarder control message handler
+// summary: Handles messages on the url-forwarder-control data channel, dispatching query and setup requests to the URL forwarder configurator.
+// ---
+
 #include "remoting/host/remote_open_url/url_forwarder_control_message_handler.h"
 
 #include "base/functional/bind.h"

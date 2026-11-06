@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key message handler implementation
+// summary: Implements routing of security key messages between local security key tools and the IPC client, handling connect requests and responses.
+// ---
+
 #include "remoting/host/security_key/security_key_message_handler.h"
 
 #include <cstdint>

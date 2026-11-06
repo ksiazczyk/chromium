@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security key data channel handler implementation
+// summary: Implements SecurityKeyDataChannelHandler, relaying security key messages between a WebRTC named message pipe and the auth handler with 64KB payload limits.
+// ---
+
 #include "remoting/host/security_key/security_key_data_channel_handler.h"
 
 #include <utility>

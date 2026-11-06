@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteOpenUrlClient implementation
+// summary: Implements RemoteOpenUrlClient, which opens a URL through the running host via IPC and falls back to the local browser on failure or timeout.
+// ---
+
 #include "remoting/host/remote_open_url/remote_open_url_client.h"
 
 #include "base/files/file_path.h"
