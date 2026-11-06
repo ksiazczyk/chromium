@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the login component
+summary: Defines the login GN component, listing its sources, the LOGIN_IMPLEMENTATION define, and its dependencies on base, account_id and ui/base.

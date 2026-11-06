@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Tips config implementation
+// summary: Implements the global Safety Tips configuration singleton, compiling target regexes and checking URLs and hostnames against the component updater allowlist.
+// ---
+
 #include "components/lookalikes/core/safety_tips_config.h"
 
 #include <algorithm>

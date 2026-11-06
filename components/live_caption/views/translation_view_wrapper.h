@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation view wrapper header
+// summary: Declares TranslationViewWrapper, a wrapper around TranslationViewWrapperBase that exposes the caption bubble settings.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_VIEWS_TRANSLATION_VIEW_WRAPPER_H_
 #define COMPONENTS_LIVE_CAPTION_VIEWS_TRANSLATION_VIEW_WRAPPER_H_
 

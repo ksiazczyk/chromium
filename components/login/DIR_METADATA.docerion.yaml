@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker mappings
+summary: Maps the directory to Monorail and Buganizer components for OOBE issues and lists the owning team email address.

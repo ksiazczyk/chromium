@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Translate controller implementation
+// summary: Implements the Live Translate controller that routes caption translation requests to on-device or Google API dispatchers and records UMA metrics for results and latency.
+// ---
+
 #include "components/live_caption/live_translate_controller.h"
 
 #include <memory>

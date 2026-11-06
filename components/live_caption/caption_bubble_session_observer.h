@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble session observer interface
+// summary: Declares the observer interface that registers an end-session callback fired when a caption bubble session ends.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_SESSION_OBSERVER_H_
 #define COMPONENTS_LIVE_CAPTION_CAPTION_BUBBLE_SESSION_OBSERVER_H_
 

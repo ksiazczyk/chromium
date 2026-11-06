@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live caption bubble settings unit tests
+// summary: Unit tests for live caption bubble settings using a testing pref service and mock observer to verify getters, setters, and change notifications.
+// ---
+
 #include "components/live_caption/live_caption_bubble_settings.h"
 
 #include "base/i18n/language_tag.h"

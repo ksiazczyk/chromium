@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lookalike URL utility unit tests
+// summary: Unit tests for lookalike URL detection utilities, covering edit distance, combo squatting and target embedding using test top domain lists instead of production data.
+// ---
+
 #include "components/lookalikes/core/lookalike_url_util.h"
 
 #include <array>

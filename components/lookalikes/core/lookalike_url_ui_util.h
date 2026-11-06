@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL interstitial UI utility declarations
+// summary: Declares functions for UKM reporting and for populating shared and lookalike-specific interstitial HTML strings.
+// ---
+
 #ifndef COMPONENTS_LOOKALIKES_CORE_LOOKALIKE_URL_UI_UTIL_H_
 #define COMPONENTS_LOOKALIKES_CORE_LOOKALIKE_URL_UI_UTIL_H_
 

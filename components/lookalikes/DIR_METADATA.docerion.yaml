@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Lookalikes issue tracker metadata
+summary: Specifies the Monorail and Buganizer components used for filing bugs against the lookalikes directory.

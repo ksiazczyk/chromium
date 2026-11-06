@@ -7,6 +7,12 @@
  * This is used to debug the contents of the Local State file.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript controller for the local state debug page
+// summary: TypeScript that requests the JSON local state data from the native side on page load and renders it as text in the debug page.
+// ---
+
 // <if expr="is_ios">
 // This is needed for the iOS implementation of chrome.send (to communicate
 // between JS and native).

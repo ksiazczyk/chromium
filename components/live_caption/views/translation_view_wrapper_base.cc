@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation view wrapper base implementation
+// summary: Implements TranslationViewWrapperBase, providing language buttons, dropdown menus, and label styling shared by Live Caption translation views in the captions namespace.
+// ---
+
 #include "components/live_caption/views/translation_view_wrapper_base.h"
 
 #include <cstddef>

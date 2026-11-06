@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Greedy text stabilizer implementation
+// summary: Implements stabilization of streaming caption text by tracking token frequencies across partial recognition results and returning only the stable portion.
+// ---
+
 #include "components/live_caption/greedy_text_stabilizer.h"
 
 #include <string>

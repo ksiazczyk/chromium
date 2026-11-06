@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation dispatcher interface
+// summary: Declares the abstract TranslationDispatcher interface through which owning classes send translation requests to the Cloud Translate API with an API key.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_TRANSLATION_DISPATCHER_H_
 #define COMPONENTS_LIVE_CAPTION_TRANSLATION_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Tip test utilities declarations
+// summary: Declares test helpers for initializing Safety Tips configs, setting allowlist patterns and adding heuristic launch configs in lookalike tests.
+// ---
+
 #ifndef COMPONENTS_LOOKALIKES_CORE_SAFETY_TIP_TEST_UTILS_H_
 #define COMPONENTS_LOOKALIKES_CORE_SAFETY_TIP_TEST_UTILS_H_
 

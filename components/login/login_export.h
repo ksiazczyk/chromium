@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: login_export.h
+// summary: Defines the LOGIN_EXPORT macro controlling symbol export and import when building the login component as a shared library.
+// ---
+
 #ifndef COMPONENTS_LOGIN_LOGIN_EXPORT_H_
 #define COMPONENTS_LOGIN_LOGIN_EXPORT_H_
 

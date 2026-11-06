@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live caption controller implementation
+// summary: Implements the per-profile live caption controller that registers preferences, reacts to enable and language changes, and starts or stops SODA captioning.
+// ---
+
 #include "components/live_caption/live_caption_controller.h"
 
 #include <memory>

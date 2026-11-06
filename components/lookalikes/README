@@ -1,3 +1,9 @@
+---
+type: readme
+title: Lookalikes component overview
+summary: Explains that the directory holds shared code for Chrome's lookalike URL warnings, shown as interstitials or pop-ups for likely malicious sites.
+---
+
 This directory contains shared code related to Chrome's lookalike warnings.
 
 If Chrome believes a site a user is visiting is a lookalike URL, Chrome may

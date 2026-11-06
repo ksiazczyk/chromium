@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationSettingsDialogOutcome enum
+// summary: 'Enum describing the outcome of a system location setting prompt: granted, denied, or no prompt.'
+// ---
+
 #ifndef COMPONENTS_LOCATION_ANDROID_LOCATION_SETTINGS_DIALOG_OUTCOME_H_
 #define COMPONENTS_LOCATION_ANDROID_LOCATION_SETTINGS_DIALOG_OUTCOME_H_
 

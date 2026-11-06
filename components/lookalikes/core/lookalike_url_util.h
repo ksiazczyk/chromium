@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL utility declarations
+// summary: Declares lookalike URL detection APIs, match type and user action enums, histogram names, console messages and preference registration.
+// ---
+
 #ifndef COMPONENTS_LOOKALIKES_CORE_LOOKALIKE_URL_UTIL_H_
 #define COMPONENTS_LOOKALIKES_CORE_LOOKALIKE_URL_UTIL_H_
 

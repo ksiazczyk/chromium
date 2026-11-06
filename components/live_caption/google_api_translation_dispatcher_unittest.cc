@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google API translation dispatcher unit tests
+// summary: Unit tests for the Google API translation dispatcher that simulate network responses and verify successful and failed translation requests.
+// ---
+
 #include "components/live_caption/google_api_translation_dispatcher.h"
 
 #include "base/json/json_reader.h"

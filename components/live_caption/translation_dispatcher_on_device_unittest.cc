@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device translation dispatcher unit tests
+// summary: Tests the on-device translation dispatcher's success and error paths using a mock service controller, fake installer, and fake translator.
+// ---
+
 #include "components/live_caption/translation_dispatcher_on_device.h"
 
 #include "base/memory/raw_ptr.h"

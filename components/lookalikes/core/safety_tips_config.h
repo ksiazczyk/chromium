@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Tips config interface
+// summary: Declares functions for installing and querying the Safety Tips remote config, including URL, target host and common word allowlist checks.
+// ---
+
 #ifndef COMPONENTS_LOOKALIKES_CORE_SAFETY_TIPS_CONFIG_H_
 #define COMPONENTS_LOOKALIKES_CORE_SAFETY_TIPS_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationSettings
+// summary: JNI bridge class that exposes Android location permission checks and system location setting queries and prompts to native code, delegating to LocationUtils.
+// ---
+
 package org.chromium.components.location;
 
 import android.Manifest;

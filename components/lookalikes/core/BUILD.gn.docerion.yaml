@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the lookalikes core component
+summary: Defines static libraries, unit tests, proto and fuzzer targets with their sources and dependencies for the lookalikes core component.

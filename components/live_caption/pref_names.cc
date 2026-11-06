@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption preference helpers
+// summary: Implements helper functions that read the Live Caption language code preference and check whether it matches a given SODA speech language code.
+// ---
+
 #include "components/live_caption/pref_names.h"
 
 #include <string>

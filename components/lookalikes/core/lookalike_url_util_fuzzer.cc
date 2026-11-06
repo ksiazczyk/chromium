@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for suggested URL generation
+// summary: Fuzzes GetSuggestedURL with random match types, URLs and hostnames to find crashes in lookalike URL suggestion handling.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include "base/i18n/icu_util.h"
 #include "components/lookalikes/core/lookalike_url_util.h"

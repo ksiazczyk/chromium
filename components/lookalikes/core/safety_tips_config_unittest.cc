@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Tips config unit tests
+// summary: Unit tests for the Safety Tips config, verifying unscoped and scoped URL allowlists, target host allowlisting and handling of invalid cohort indices.
+// ---
+
 #include "components/lookalikes/core/safety_tips_config.h"
 
 #include <string>

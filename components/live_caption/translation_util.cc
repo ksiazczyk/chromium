@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Live caption translation utilities implementation
+// summary: Implements sentence splitting with ICU, trailing space and punctuation helpers, ideographic locale detection, and a TranslationCache for live caption translations.
+// ---
+
 #include "components/live_caption/translation_util.h"
 
 #include <utility>

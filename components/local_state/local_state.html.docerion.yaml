@@ -1,0 +1,4 @@
+# Docerion header of local_state.html.
+type: source
+title: Local state debug page HTML shell
+summary: HTML shell for the local state debug WebUI page that loads its script and shows a placeholder while the Local State contents load.

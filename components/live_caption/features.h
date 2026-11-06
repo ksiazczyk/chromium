@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Caption feature flag declarations
+// summary: Declares live caption feature flags and inline feature parameters for Live Translate debounce and maximum translation durations.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_FEATURES_H_
 #define COMPONENTS_LIVE_CAPTION_FEATURES_H_
 

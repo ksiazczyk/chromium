@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble model implementation
+// summary: Implements the per-media-stream caption model that stores partial and final transcription text, download progress, and error state for the bubble.
+// ---
+
 #include "components/live_caption/views/caption_bubble_model.h"
 
 #include "base/feature_list.h"

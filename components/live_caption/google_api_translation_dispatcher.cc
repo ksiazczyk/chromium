@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google API translation dispatcher implementation
+// summary: Sends caption text to the Google Cloud Translation API over HTTP, parses responses and records load and parse result histograms for Live Translate.
+// ---
+
 #include "components/live_caption/google_api_translation_dispatcher.h"
 
 #include <memory>

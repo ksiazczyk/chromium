@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL detection heuristics
+// summary: Implements heuristics that flag lookalike URLs, including edit distance, skeleton, target embedding, punycode and combo squatting checks.
+// ---
+
 #include "components/lookalikes/core/lookalike_url_util.h"
 
 #include <algorithm>

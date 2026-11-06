@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationSettingsDialogContext enum
+// summary: Enum describing the context in which a system location setting prompt is triggered, shared with Java via generated enums.
+// ---
+
 #ifndef COMPONENTS_LOCATION_ANDROID_LOCATION_SETTINGS_DIALOG_CONTEXT_H_
 #define COMPONENTS_LOCATION_ANDROID_LOCATION_SETTINGS_DIALOG_CONTEXT_H_
 

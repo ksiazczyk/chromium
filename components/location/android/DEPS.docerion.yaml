@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android location component
+summary: DEPS file that allows includes from ui/android within the location android component.

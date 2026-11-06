@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live caption translation utilities header
+// summary: Declares sentence splitting and text normalization helpers plus the TranslationCache class that caches live caption translations keyed by language pair and text.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_TRANSLATION_UTIL_H_
 #define COMPONENTS_LIVE_CAPTION_TRANSLATION_UTIL_H_
 

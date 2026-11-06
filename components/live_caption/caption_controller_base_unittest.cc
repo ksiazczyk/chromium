@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CaptionControllerBase
+// summary: Unit tests exercising transcription dispatch, listener lifetime and caption bubble controller interaction using mock listeners, contexts and controllers.
+// ---
+
 #include "components/live_caption/caption_controller_base.h"
 
 #include <memory>

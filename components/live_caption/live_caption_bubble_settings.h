@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live caption bubble settings class declaration
+// summary: Declares LiveCaptionBubbleSettings, a CaptionBubbleSettings implementation that reads and writes live caption preferences from a PrefService.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_LIVE_CAPTION_BUBBLE_SETTINGS_H_
 #define COMPONENTS_LIVE_CAPTION_LIVE_CAPTION_BUBBLE_SETTINGS_H_
 

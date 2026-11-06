@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the flat safety tips allowlist
+// summary: Tests allowlist extraction and URL allowlisting lookups against a Safety Tips config covering cohorts, invalid indices and duplicate patterns.
+// ---
+
 #include "components/lookalikes/core/flat_safety_tips_allowlist.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Translate controller header
+// summary: Declares the LiveTranslateController KeyedService, one per profile, which registers Live Translate preferences and dispatches translation requests.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_LIVE_TRANSLATE_CONTROLLER_H_
 #define COMPONENTS_LIVE_CAPTION_LIVE_TRANSLATE_CONTROLLER_H_
 

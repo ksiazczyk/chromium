@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure module utility implementation for Chrome OS
+// summary: Detects whether the device uses a Cr50 or TPM secure module by checking indicator files on the filesystem, caching the result, and reporting it via an asynchronous callback.
+// ---
+
 #include "components/login/secure_module_util_chromeos.h"
 
 #include "base/files/file_path.h"

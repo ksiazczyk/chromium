@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble controller implementation
+// summary: Implements the views caption bubble controller that routes transcriptions, errors, and audio stream events to the caption bubble and observes SODA and translation installers.
+// ---
+
 #include "components/live_caption/views/caption_bubble_controller_views.h"
 
 #include <memory>

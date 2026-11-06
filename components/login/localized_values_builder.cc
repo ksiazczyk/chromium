@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: localized_values_builder.cc
+// summary: Implements LocalizedValuesBuilder methods that add plain and formatted localized strings from l10n_util into a dictionary.
+// ---
+
 #include "components/login/localized_values_builder.h"
 
 #include "base/values.h"

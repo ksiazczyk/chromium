@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ implementation of prefs-to-JSON conversion
+// summary: Serializes preferences filtered by accepted prefixes into pretty-printed JSON, adding per-pref metadata such as store type and modifiability.
+// ---
+
 #include "components/local_state/local_state_utils.h"
 
 #include <string>

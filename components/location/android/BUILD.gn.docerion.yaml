@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Android location component
+summary: GN build file defining Java and C++ targets, JNI header generation, and Java enum generation for the Android location component.

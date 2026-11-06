@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationSettingsImpl class declaration
+// summary: Declares the JNI-backed implementation of the LocationSettings interface for Android.
+// ---
+
 #ifndef COMPONENTS_LOCATION_ANDROID_LOCATION_SETTINGS_IMPL_H_
 #define COMPONENTS_LOCATION_ANDROID_LOCATION_SETTINGS_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Live Caption controller unit tests
+// summary: Unit tests for the Live Caption controller, registering caption and SODA preferences and mocking the caption bubble controller and SODA installer.
+// ---
+
 #include "components/live_caption/live_caption_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption bubble format constants
+// summary: Defines layout, font, spacing, and sizing constants used to format and position the caption bubble UI.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_VIEWS_FORMAT_CONSTANTS_H_
 #define COMPONENTS_LIVE_CAPTION_VIEWS_FORMAT_CONSTANTS_H_
 

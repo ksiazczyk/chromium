@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation dispatcher header
+// summary: Declares TranslationDispatcherOnDevice and the OnDeviceTranslationErrorReason enum used for UMA logging, with handling of pending translation callbacks.
+// ---
+
 #ifndef COMPONENTS_LIVE_CAPTION_TRANSLATION_DISPATCHER_ON_DEVICE_H_
 #define COMPONENTS_LIVE_CAPTION_TRANSLATION_DISPATCHER_ON_DEVICE_H_
 

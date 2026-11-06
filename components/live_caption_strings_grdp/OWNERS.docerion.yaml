@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for live caption strings
+summary: Points to the components/live_caption OWNERS file to define ownership of the live caption strings directory.
