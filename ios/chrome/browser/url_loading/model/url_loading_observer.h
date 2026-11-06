@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlLoadingObserver interface
+// summary: Declares the observer interface used to update listeners about changes in URL loading state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_OBSERVER_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_OBSERVER_H_
 

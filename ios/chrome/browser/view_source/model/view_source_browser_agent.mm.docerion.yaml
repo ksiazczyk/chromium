@@ -1,0 +1,4 @@
+# Docerion header of view_source_browser_agent.mm.
+type: source
+title: ViewSourceBrowserAgent implementation
+summary: Implements the agent by evaluating JavaScript to fetch page HTML and opening a new tab showing the source as a base64 data URL.

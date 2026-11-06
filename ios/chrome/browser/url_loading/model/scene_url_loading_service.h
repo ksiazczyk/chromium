@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scene URL loading service
+// summary: Declares the scene-level URL loading service, its Objective-C delegate protocol, and URL interceptor registration APIs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_SCENE_URL_LOADING_SERVICE_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_SCENE_URL_LOADING_SERVICE_H_
 

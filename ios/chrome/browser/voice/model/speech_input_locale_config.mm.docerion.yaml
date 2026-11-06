@@ -1,0 +1,4 @@
+# Docerion header of speech_input_locale_config.mm.
+type: source
+title: SpeechInputLocaleConfig singleton factory
+summary: Creates the singleton SpeechInputLocaleConfigImpl from provider languages and loaded speech input locale matches.

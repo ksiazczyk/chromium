@@ -1,0 +1,4 @@
+# Docerion header of voice_search_navigations_tab_helper_unittest.mm.
+type: test
+title: Voice search navigations tab helper unit tests
+summary: Unit tests verifying that a navigation commit resets the voice search expectation flag on the tab helper.

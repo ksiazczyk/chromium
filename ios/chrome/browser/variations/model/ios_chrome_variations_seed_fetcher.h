@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS variations seed fetcher interface
+// summary: Declares IOSChromeVariationsSeedFetcher and its delegate protocol for fetching the variations seed before Chrome components initialize.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VARIATIONS_MODEL_IOS_CHROME_VARIATIONS_SEED_FETCHER_H_
 #define IOS_CHROME_BROWSER_VARIATIONS_MODEL_IOS_CHROME_VARIATIONS_SEED_FETCHER_H_
 

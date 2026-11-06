@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_parser_unittest.mm.
+type: test
+title: Text-to-speech parser unit tests
+summary: Unit tests for the TTS parser covering valid voice search HTML containing audio data and HTML without TTS data.

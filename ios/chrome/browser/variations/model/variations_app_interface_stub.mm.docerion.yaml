@@ -1,0 +1,4 @@
+# Docerion header of variations_app_interface_stub.mm.
+type: test
+title: VariationsAppInterface Earl Grey stub
+summary: Registers VariationsAppInterface as a stub class in the app main queue so Earl Grey tests can invoke its methods.

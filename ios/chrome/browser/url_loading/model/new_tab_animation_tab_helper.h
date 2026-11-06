@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab animation tab helper
+// summary: Declares a WebState user data tab helper that records whether a newly added tab should be animated in.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_NEW_TAB_ANIMATION_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_NEW_TAB_ANIMATION_TAB_HELPER_H_
 

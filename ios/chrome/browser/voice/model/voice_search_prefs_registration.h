@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice search preference registration header
+// summary: Declares the function that registers the preferences needed by voice search.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_PREFS_REGISTRATION_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_PREFS_REGISTRATION_H_
 

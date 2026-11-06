@@ -1,0 +1,4 @@
+# Docerion header of variations_client_service.mm.
+type: source
+title: VariationsClientService implementation
+summary: Implements incognito checks and builds variations headers based on the profile's signin state.

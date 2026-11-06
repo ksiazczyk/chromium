@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_app_interface.mm.
+type: source
+title: Unit conversion app interface implementation
+summary: Implements the app interface by invoking the browser's unit conversion commands to show the feature with a sample mass unit or hide it.

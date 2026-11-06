@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeUpdateQueryParamsDelegate header
+// summary: Declares the singleton delegate for update query params, providing extra parameters and the application language for the current locale.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UPDATE_CLIENT_MODEL_IOS_CHROME_UPDATE_QUERY_PARAMS_DELEGATE_H_
 #define IOS_CHROME_BROWSER_UPDATE_CLIENT_MODEL_IOS_CHROME_UPDATE_QUERY_PARAMS_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the variations client
+summary: Defines the client source set listing its sources and dependencies for the GN build.

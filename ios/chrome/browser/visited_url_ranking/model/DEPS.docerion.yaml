@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the visited URL ranking model
+summary: Lists the allowed dependency include rules for the visited URL ranking model directory.

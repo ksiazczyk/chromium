@@ -1,0 +1,4 @@
+# Docerion header of eligibility_utils_unittest.mm.
+type: test
+title: Unit tests for universal opt-out eligibility utils
+summary: Tests eligibility state and GPC extension enablement across feature flags, preferences, profiles and eligibility overrides.

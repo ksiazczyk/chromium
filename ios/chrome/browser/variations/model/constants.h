@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS variations seed fetch exception constants
+// summary: Declares the IOSSeedFetchException enum used for seed fetch result histograms and kept in sync with enums.xml.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VARIATIONS_MODEL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_VARIATIONS_MODEL_CONSTANTS_H_
 

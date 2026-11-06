@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetcher-only category for the iOS variations seed store
+// summary: Exposes the shared seed update method of IOSChromeVariationsSeedStore for exclusive use by the seed fetcher.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VARIATIONS_MODEL_IOS_CHROME_VARIATIONS_SEED_STORE_FETCHER_H_
 #define IOS_CHROME_BROWSER_VARIATIONS_MODEL_IOS_CHROME_VARIATIONS_SEED_STORE_FETCHER_H_
 

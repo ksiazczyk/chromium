@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_variations_seed_fetcher.mm.
+type: source
+title: iOS variations seed fetcher implementation
+summary: Implements first-run variations seed fetching, including request construction, timeouts, platform overrides, and fetch metrics.

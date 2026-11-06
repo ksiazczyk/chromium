@@ -1,0 +1,4 @@
+# Docerion header of speech_input_locale_config_impl.mm.
+type: source
+title: SpeechInputLocaleConfigImpl implementation
+summary: Implements locale initialization, matching with en-US fallback, and text-to-speech language checks.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for iOS variations model targets
+summary: Defines source_set targets, sources, and dependencies for the iOS variations model code, test support, and tests.

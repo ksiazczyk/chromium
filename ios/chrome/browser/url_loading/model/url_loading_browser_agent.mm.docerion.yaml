@@ -1,0 +1,4 @@
+# Docerion header of url_loading_browser_agent.mm.
+type: source
+title: URL loading browser agent implementation
+summary: Implements URL loading dispatch across dispositions, query loading, tab switching, and debug helpers that induce freezes, leaks, or crashes.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_variations_service_client.mm.
+type: source
+title: IOSChromeVariationsServiceClient implementation
+summary: Implements the iOS Chrome variations service client, providing URL loader, network time, channel, enterprise and profile key access.

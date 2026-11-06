@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceSearchNavigationTabHelper header
+// summary: Declares a WebStateUserData tab helper that tracks which navigation items were created as a result of voice search queries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_NAVIGATIONS_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_NAVIGATIONS_TAB_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_app_interface_stub.mm.
+type: test
+title: Unit conversion app interface Earl Grey stub
+summary: Registers the unit conversion app interface as a stub class in the app main queue for Earl Grey test support builds.

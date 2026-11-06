@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_playback_controller_factory.mm.
+type: source
+title: Text-to-speech playback controller factory implementation
+summary: Implements the factory that builds a TextToSpeechPlaybackController instance for each profile.

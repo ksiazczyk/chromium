@@ -1,0 +1,4 @@
+# Docerion header of fake_url_loading_browser_agent.mm.
+type: source
+title: Fake URL loading browser agent implementation
+summary: Implements the fake browser agent that records load parameters and call counts instead of loading URLs.

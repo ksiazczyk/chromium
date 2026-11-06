@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_parser.mm.
+type: source
+title: Text-to-speech parser implementation
+summary: Implements extraction of base64-encoded TTS audio data from Google voice search result page HTML between start and end tags.

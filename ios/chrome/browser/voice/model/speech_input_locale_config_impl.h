@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechInputLocaleConfigImpl class declaration
+// summary: Declares the concrete locale config built from S3Kit languages and locale match data, with lookup helpers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_SPEECH_INPUT_LOCALE_CONFIG_IMPL_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_SPEECH_INPUT_LOCALE_CONFIG_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnitConversionService header
+// summary: Declares the UnitConversionService KeyedService that caches default target units per source unit.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIT_CONVERSION_MODEL_UNIT_CONVERSION_SERVICE_H_
 #define IOS_CHROME_BROWSER_UNIT_CONVERSION_MODEL_UNIT_CONVERSION_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextToSpeechListener class header
+// summary: Declares TextToSpeechListener, which observes page loads on a WebState and notifies its delegate when text-to-speech audio data is extracted.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_TEXT_TO_SPEECH_LISTENER_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_TEXT_TO_SPEECH_LISTENER_H_
 

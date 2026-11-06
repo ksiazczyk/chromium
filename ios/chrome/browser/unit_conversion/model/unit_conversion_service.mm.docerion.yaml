@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_service.mm.
+type: source
+title: UnitConversionService implementation
+summary: Implements the default conversion cache and falls back to the provider when a source unit is not cached.

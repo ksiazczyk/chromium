@@ -1,0 +1,4 @@
+# Docerion header of universal_optout_service_factory.mm.
+type: source
+title: Universal opt-out service factory implementation
+summary: Builds UniversalOptOutService per profile and propagates the effective enabled state to regular and incognito profiles.

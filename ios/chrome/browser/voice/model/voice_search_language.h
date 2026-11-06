@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceSearchLanguage class header
+// summary: Declares VoiceSearchLanguage, a model holding the BCP 47 identifier, display name and localization preference of a supported voice search language.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_LANGUAGE_H_
 #define IOS_CHROME_BROWSER_VOICE_MODEL_VOICE_SEARCH_LANGUAGE_H_
 

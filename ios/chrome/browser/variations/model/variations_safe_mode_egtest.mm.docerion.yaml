@@ -1,0 +1,4 @@
+# Docerion header of variations_safe_mode_egtest.mm.
+type: test
+title: Variations safe mode Earl Grey tests
+summary: Earl Grey tests verifying variations safe mode behavior after Chrome crashes and relaunches, outside the seed file experiment.

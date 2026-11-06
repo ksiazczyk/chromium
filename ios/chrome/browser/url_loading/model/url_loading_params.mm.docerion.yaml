@@ -1,0 +1,4 @@
+# Docerion header of url_loading_params.mm.
+type: source
+title: UrlLoadParams implementation
+summary: Implements UrlLoadParams factory methods for current tab, new tab, switch to tab, and OpenNewTabCommand based loads.

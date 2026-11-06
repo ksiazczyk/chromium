@@ -1,0 +1,4 @@
+# Docerion header of unit_type_value_field_cell.mm.
+type: source
+title: UnitTypeValueFieldCell implementation
+summary: Implements the table view cell that hosts a decimal-pad text field for entering a unit conversion value, including layout constraints and reuse preparation.

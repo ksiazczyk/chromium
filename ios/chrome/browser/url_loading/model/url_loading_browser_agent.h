@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loading browser agent
+// summary: Declares the per-browser agent that loads URLs in the current tab, a new tab, or an existing tab, with interceptor and delegate support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_BROWSER_AGENT_H_
 

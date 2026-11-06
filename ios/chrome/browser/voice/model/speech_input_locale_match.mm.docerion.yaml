@@ -1,0 +1,4 @@
+# Docerion header of speech_input_locale_match.mm.
+type: source
+title: SpeechInputLocaleMatch implementation
+summary: Implements locale match objects and loads them from SpeechInputLocaleMatches.plist in the framework bundle.

@@ -1,0 +1,4 @@
+# Docerion header of fake_url_loading_delegate.mm.
+type: source
+title: Fake URL loading delegate implementation
+summary: Implements a no-op URLLoadingDelegate handling background tab open animation callbacks in tests.

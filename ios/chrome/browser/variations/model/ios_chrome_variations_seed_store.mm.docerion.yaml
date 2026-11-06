@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_variations_seed_store.mm.
+type: source
+title: iOS variations seed store implementation
+summary: Implements shared seed storage, seed swapping, and seed application stage progression for the variations service.

@@ -1,0 +1,4 @@
+# Docerion header of text_to_speech_notification_handler.mm.
+type: source
+title: Text-to-speech notification handler implementation
+summary: Implements the handler that starts TTS playback when an audio-ready notification arrives and cancels playback when disabled.

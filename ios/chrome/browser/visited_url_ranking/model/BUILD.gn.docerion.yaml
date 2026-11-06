@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the visited URL ranking model
+summary: Defines GN build targets and dependencies for the visited URL ranking model sources and their unit tests.

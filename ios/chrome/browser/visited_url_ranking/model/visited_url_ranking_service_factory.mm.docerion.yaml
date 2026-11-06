@@ -1,0 +1,4 @@
+# Docerion header of visited_url_ranking_service_factory.mm.
+type: source
+title: Visited URL ranking service factory implementation
+summary: Builds the VisitedURLRankingService for a profile, wiring tab model, session and history data fetchers with ranking transformers.

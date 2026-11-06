@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Upgrade model BUILD.gn
+summary: GN build definition for the iOS Chrome upgrade model source set, listing the upgrade constants, details, and utils sources with base and url dependencies.

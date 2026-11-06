@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for universal opt-out model
+summary: Allows this directory to include the iOS identity manager factory header from the signin model.

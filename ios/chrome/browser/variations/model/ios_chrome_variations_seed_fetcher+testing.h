@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing category for the iOS variations seed fetcher
+// summary: Exposes private fetcher methods and test hooks of IOSChromeVariationsSeedFetcher so they can be exercised in unit tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VARIATIONS_MODEL_IOS_CHROME_VARIATIONS_SEED_FETCHER_TESTING_H_
 #define IOS_CHROME_BROWSER_VARIATIONS_MODEL_IOS_CHROME_VARIATIONS_SEED_FETCHER_TESTING_H_
 

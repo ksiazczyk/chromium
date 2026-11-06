@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlLoadingNotifierBrowserAgent header
+// summary: Declares a browser agent that notifies registered observers of URL loading state changes in existing and new tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_NOTIFIER_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_LOADING_NOTIFIER_BROWSER_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of voice_search_language.mm.
+type: source
+title: VoiceSearchLanguage implementation
+summary: Implements VoiceSearchLanguage's designated initializer, copying the identifier, display name and localization preference strings.

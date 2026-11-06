@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpgradeRecommendedDetails struct header
+// summary: Declares the UpgradeRecommendedDetails struct holding the upgrade URL, next version, and up-to-date flag for the iOS upgrade flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UPGRADE_MODEL_UPGRADE_RECOMMENDED_DETAILS_H_
 #define IOS_CHROME_BROWSER_UPGRADE_MODEL_UPGRADE_RECOMMENDED_DETAILS_H_
 

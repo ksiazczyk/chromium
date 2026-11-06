@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_variations_seed_fetcher_unittest.mm.
+type: test
+title: Unit tests for the iOS variations seed fetcher
+summary: Tests seed fetcher behavior such as fetch enabling, request handling, HTTP headers, and histogram reporting using OCMock.

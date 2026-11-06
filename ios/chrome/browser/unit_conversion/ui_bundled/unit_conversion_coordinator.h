@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit conversion coordinator declaration
+// summary: Declares the coordinator that presents the unit conversion sheet, initialized with the detected source unit, its value, and the tap location.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_CONVERSION_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_CONVERSION_COORDINATOR_H_
 

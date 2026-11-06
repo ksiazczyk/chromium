@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake URL loading browser agent for tests
+// summary: Declares a fake UrlLoadingBrowserAgent that records load calls and parameters for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_FAKE_URL_LOADING_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_FAKE_URL_LOADING_BROWSER_AGENT_H_
 

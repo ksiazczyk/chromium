@@ -1,0 +1,4 @@
+# Docerion header of url_loading_util.mm.
+type: source
+title: URL loading utilities for iOS Chrome
+summary: Implements helper functions for URL loading in iOS Chrome, including incognito URL checks, JavaScript URL execution, tab restoration, and omnibox load parameter creation.

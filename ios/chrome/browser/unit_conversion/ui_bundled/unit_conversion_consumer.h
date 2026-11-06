@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit conversion consumer protocol
+// summary: Defines the UnitConversionConsumer protocol with methods to update the view controller's unit type, source and target units, and their values.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_CONVERSION_CONSUMER_H_
 #define IOS_CHROME_BROWSER_UNIT_CONVERSION_UI_BUNDLED_UNIT_CONVERSION_CONSUMER_H_
 

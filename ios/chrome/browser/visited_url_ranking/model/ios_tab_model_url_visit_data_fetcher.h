@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS tab model URL visit data fetcher header
+// summary: Declares IOSTabModelURLVisitDataFetcher, the iOS URLVisitDataFetcher implementation that gathers currently opened normal tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_VISITED_URL_RANKING_MODEL_IOS_TAB_MODEL_URL_VISIT_DATA_FETCHER_H_
 #define IOS_CHROME_BROWSER_VISITED_URL_RANKING_MODEL_IOS_TAB_MODEL_URL_VISIT_DATA_FETCHER_H_
 

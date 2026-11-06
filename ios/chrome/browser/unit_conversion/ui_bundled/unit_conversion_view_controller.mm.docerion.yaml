@@ -1,0 +1,4 @@
+# Docerion header of unit_conversion_view_controller.mm.
+type: source
+title: Unit conversion view controller implementation
+summary: Implements the unit conversion UI with source and target sections, unit type and value field cells, a report-an-issue button, and layout constants.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the voice search model directory
+summary: Lists the code owner responsible for changes in the voice search model directory.

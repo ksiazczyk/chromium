@@ -1,0 +1,4 @@
+# Docerion header of ios_tab_model_url_visit_data_fetcher.mm.
+type: source
+title: iOS tab model URL visit data fetcher implementation
+summary: Implements fetching URL visit data from open tabs in the browser list, deduplicating URLs and skipping off-the-record profiles.

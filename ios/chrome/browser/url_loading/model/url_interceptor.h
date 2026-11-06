@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL interceptor
+// summary: Declares the URLInterceptor base class that runs custom logic when matching URLs are intercepted before the normal opening flow.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_INTERCEPTOR_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_URL_INTERCEPTOR_H_
 

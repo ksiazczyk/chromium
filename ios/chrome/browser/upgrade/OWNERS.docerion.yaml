@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for iOS Chrome upgrade directory
+summary: Lists the code owners responsible for reviewing changes in the ios/chrome/browser/upgrade directory.

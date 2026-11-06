@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test scene URL loading service
+// summary: Declares a test double of the scene URL loading service that records LoadUrlInNewTab calls and exposes configurable browsers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_URL_LOADING_MODEL_TEST_SCENE_URL_LOADING_SERVICE_H_
 #define IOS_CHROME_BROWSER_URL_LOADING_MODEL_TEST_SCENE_URL_LOADING_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Unit conversion model build targets
+summary: GN build file defining source sets for the unit conversion service, its profile-keyed factory and the unit tests.
