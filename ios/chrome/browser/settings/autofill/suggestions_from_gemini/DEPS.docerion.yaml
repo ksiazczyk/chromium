@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for suggestions_from_gemini
+summary: Defines include rules for the folder, allowing dependencies on components/personal_context/core and the iOS Chrome URL header.

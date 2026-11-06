@@ -1,0 +1,4 @@
+# Docerion header of shopping_mediator.mm.
+type: source
+title: Shopping mediator implementation
+summary: Implements the Shopping settings mediator, managing pref-backed toggles and splitting order and shipment entities for the consumer.

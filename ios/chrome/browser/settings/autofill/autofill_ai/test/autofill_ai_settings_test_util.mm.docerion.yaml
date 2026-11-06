@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_settings_test_util.mm.
+type: test
+title: Autofill AI settings test utility implementation
+summary: Implements Earl Grey matchers and actions to navigate settings, tap entities and verify the Autofill AI entity edit view.

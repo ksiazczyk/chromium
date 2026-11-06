@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the clear browsing data test directory
+summary: DEPS file restricting allowed includes in this test directory to data sharing feature and signin model headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill and passwords sign-in promo consumer protocol
+// summary: Declares the AutofillAndPasswordsSigninPromoConsumer protocol for configuring the sign-in promo view and its delegate on the settings page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_UI_AUTOFILL_AND_PASSWORDS_SIGNIN_PROMO_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_UI_AUTOFILL_AND_PASSWORDS_SIGNIN_PROMO_CONSUMER_H_
 

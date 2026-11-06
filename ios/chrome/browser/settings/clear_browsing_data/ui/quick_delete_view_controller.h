@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickDeleteViewController interface
+// summary: Declares the bottom sheet view controller for Quick Delete, the new version of the Clear Browsing Data UI, with its mutator and presentation handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_QUICK_DELETE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_QUICK_DELETE_VIEW_CONTROLLER_H_
 

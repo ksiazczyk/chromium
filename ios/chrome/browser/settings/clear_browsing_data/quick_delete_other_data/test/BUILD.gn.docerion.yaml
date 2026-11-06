@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build definition for Quick Delete Other Data EG2 tests
+summary: GN build file defining the eg2_tests source_set that builds the Quick Delete Other Data Earl Grey test target and its dependencies.

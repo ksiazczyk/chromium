@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Autofill AI entity edit coordinator
+summary: Lists the headers and directories that files in this coordinator folder are allowed to include.

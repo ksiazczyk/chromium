@@ -1,0 +1,4 @@
+# Docerion header of autofill_settings_table_view_controller.mm.
+type: source
+title: Autofill settings table view controller implementation
+summary: Implements the Autofill settings page with the enhanced autofill switch, verification toggle, informational sections and Google Wallet promo.

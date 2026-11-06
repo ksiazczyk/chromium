@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_mediator.mm.
+type: source
+title: QuickDeleteMediator implementation
+summary: Implements Quick Delete mediator logic such as data counters, time range preferences, histogram logging and triggering data removal.

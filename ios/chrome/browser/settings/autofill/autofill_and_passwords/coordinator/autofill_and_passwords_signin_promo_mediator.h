@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill and passwords sign-in promo mediator interface
+// summary: Declares the mediator that sets up the sign-in promo view mediator and observes authentication, identity and sync state for the Autofill and Passwords settings page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_COORDINATOR_AUTOFILL_AND_PASSWORDS_SIGNIN_PROMO_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_COORDINATOR_AUTOFILL_AND_PASSWORDS_SIGNIN_PROMO_MEDIATOR_H_
 

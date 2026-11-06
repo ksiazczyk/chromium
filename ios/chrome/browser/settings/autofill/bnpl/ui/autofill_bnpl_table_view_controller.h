@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillBnplTableViewController interface header
+// summary: Declares the view controller for the Buy Now Pay Later settings page and its delegate protocol for switch changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_BNPL_UI_AUTOFILL_BNPL_TABLE_VIEW_CONTROLLER_H_
 

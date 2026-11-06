@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_help_improve_mediator_unittest.mm.
+type: test
+title: Suggestions from Gemini Help Improve mediator unit tests
+summary: Tests that managed policy changes for the Gemini setting propagate as policy state updates to the mock consumer.

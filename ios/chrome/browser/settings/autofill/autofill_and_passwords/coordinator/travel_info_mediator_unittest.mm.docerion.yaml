@@ -1,0 +1,4 @@
+# Docerion header of travel_info_mediator_unittest.mm.
+type: test
+title: Travel Info mediator unit tests
+summary: Unit tests for the Travel Info mediator covering consumer setup, toggle state updates, and forwarding of entity selection to the delegate.

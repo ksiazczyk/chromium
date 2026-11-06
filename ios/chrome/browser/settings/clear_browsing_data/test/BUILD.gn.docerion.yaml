@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for clear browsing data Earl Grey tests
+summary: GN build file defining the eg2_tests source set with its sources and dependencies for the Quick Delete Earl Grey tests.

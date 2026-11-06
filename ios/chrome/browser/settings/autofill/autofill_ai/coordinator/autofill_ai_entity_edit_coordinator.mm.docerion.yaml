@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_edit_coordinator.mm.
+type: source
+title: Autofill AI entity edit coordinator implementation
+summary: Implements the coordinator that drives the entity edit flow, including entity creation, view controller presentation, and command handling.

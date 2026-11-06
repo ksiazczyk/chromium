@@ -1,0 +1,4 @@
+# Docerion header of autofill_settings_coordinator.mm.
+type: source
+title: Autofill settings coordinator implementation
+summary: Implements the Autofill settings coordinator, building its view controller and mediator and handling enhanced autofill toggles and the Google Wallet promo.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the autofill settings UI
+summary: Defines the source_set build target listing the controller sources and its dependencies within the autofill settings UI directory.

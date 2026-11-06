@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk upload coordinator delegate protocol header
+// summary: Defines the BulkUploadCoordinatorDelegate protocol with a method asking the delegate to stop the coordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_BULK_UPLOAD_COORDINATOR_BULK_UPLOAD_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_BULK_UPLOAD_COORDINATOR_BULK_UPLOAD_COORDINATOR_DELEGATE_H_
 

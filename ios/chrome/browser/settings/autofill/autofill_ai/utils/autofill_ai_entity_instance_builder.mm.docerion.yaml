@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_instance_builder.mm.
+type: source
+title: Entity instance builder implementation
+summary: Implements the EntityInstanceBuilder, including per-entity-type primary attribute selection and construction of the final EntityInstance.

@@ -1,0 +1,4 @@
+# Docerion header of travel_info_table_view_controller.mm.
+type: source
+title: Travel Info settings table view controller implementation
+summary: Implements the Travel Info settings page with a toggle, Suggestions from Gemini entry point, and sections for flights, traveler numbers, redress numbers, and vehicles.

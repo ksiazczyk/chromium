@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill credit card coordinator header
+// summary: Declares the coordinator for the Autofill Credit Card and Payment Methods settings screen, including a flag for the Level Up payment methods walkthrough IPH.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_CREDIT_CARD_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_CREDIT_CARD_COORDINATOR_H_
 

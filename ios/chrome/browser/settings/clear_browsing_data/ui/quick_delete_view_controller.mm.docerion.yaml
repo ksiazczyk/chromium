@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_view_controller.mm.
+type: source
+title: QuickDeleteViewController implementation
+summary: Implements the Quick Delete bottom sheet with time range and browsing data sections, deletion confirmation UI, radial wipe handling, and user metrics.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions from Gemini entry point consumer protocol
+// summary: Declares the consumer protocol for displaying the Suggestions from Gemini entry point and its enabled state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_UI_SUGGESTIONS_FROM_GEMINI_ENTRY_POINT_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AND_PASSWORDS_UI_SUGGESTIONS_FROM_GEMINI_ENTRY_POINT_CONSUMER_H_
 

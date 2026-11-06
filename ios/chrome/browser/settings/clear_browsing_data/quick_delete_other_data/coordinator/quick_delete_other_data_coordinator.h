@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete Other Data coordinator interface
+// summary: Declares the coordinator that presents the Quick Delete Other Data page and exposes its command handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_OTHER_DATA_COORDINATOR_QUICK_DELETE_OTHER_DATA_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_QUICK_DELETE_OTHER_DATA_COORDINATOR_QUICK_DELETE_OTHER_DATA_COORDINATOR_H_
 

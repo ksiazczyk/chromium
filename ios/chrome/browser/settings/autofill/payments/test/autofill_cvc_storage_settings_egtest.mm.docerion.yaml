@@ -1,0 +1,4 @@
+# Docerion header of autofill_cvc_storage_settings_egtest.mm.
+type: test
+title: Earl Grey tests for CVC storage settings
+summary: Earl Grey UI tests for the CVC storage setting in iOS Chrome, checking the switch state and deletion of saved security codes.

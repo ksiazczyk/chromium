@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillBnplCoordinator header
+// summary: Declares the AutofillBnplCoordinator Chrome coordinator that manages the BNPL settings subpage.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_BNPL_COORDINATOR_AUTOFILL_BNPL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_BNPL_COORDINATOR_AUTOFILL_BNPL_COORDINATOR_H_
 

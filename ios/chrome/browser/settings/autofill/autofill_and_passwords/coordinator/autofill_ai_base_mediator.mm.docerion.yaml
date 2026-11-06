@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_base_mediator.mm.
+type: source
+title: Autofill AI base mediator implementation
+summary: Implements the base mediator, observing entity data manager changes and preference updates to build and push entity items.

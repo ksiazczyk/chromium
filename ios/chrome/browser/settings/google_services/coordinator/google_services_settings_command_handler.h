@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google services settings command handler protocol
+// summary: Declares the protocol the mediator uses to forward user actions, such as showing the sign-out dialog, to the coordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_COORDINATOR_GOOGLE_SERVICES_SETTINGS_COMMAND_HANDLER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_COORDINATOR_GOOGLE_SERVICES_SETTINGS_COMMAND_HANDLER_H_
 

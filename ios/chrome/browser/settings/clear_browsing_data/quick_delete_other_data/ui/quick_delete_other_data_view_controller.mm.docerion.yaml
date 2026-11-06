@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_other_data_view_controller.mm.
+type: source
+title: Quick Delete Other Data view controller implementation
+summary: Implements the Other Data table view with passwords and passkeys, search history, and My Activity cells, including their titles, icons, and accessibility identifiers.

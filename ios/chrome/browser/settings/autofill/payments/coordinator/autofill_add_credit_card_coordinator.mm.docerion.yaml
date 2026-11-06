@@ -1,0 +1,4 @@
+# Docerion header of autofill_add_credit_card_coordinator.mm.
+type: source
+title: Autofill add credit card coordinator implementation
+summary: Implements the add credit card coordinator, presenting the view controller and showing alerts for invalid card number, expiration date, or nickname.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the autofill and passwords coordinator
+summary: GN build configuration defining the coordinator source set and its unit test target, with the sources and dependencies they need.

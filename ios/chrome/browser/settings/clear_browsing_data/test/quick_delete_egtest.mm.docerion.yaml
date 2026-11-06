@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_egtest.mm.
+type: test
+title: Quick Delete Earl Grey UI tests
+summary: Earl Grey tests covering the iOS Quick Delete flow, including tab groups, recent tabs, history entries, and browsing data clearing.

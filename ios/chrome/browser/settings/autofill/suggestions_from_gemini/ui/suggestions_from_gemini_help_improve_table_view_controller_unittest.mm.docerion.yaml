@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_help_improve_table_view_controller_unittest.mm.
+type: test
+title: Suggestions from Gemini Help Improve settings controller unit tests
+summary: Unit tests verifying the layout and content of the Help improve settings page under different Suggestions from Gemini policy states.

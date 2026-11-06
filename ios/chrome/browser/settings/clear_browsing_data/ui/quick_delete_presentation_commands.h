@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickDeletePresentationCommands protocol
+// summary: Declares commands for dismissing Quick Delete, opening the browsing data page, triggering the radial wipe animation, and blocking other scenes during deletion.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_QUICK_DELETE_PRESENTATION_COMMANDS_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_QUICK_DELETE_PRESENTATION_COMMANDS_H_
 

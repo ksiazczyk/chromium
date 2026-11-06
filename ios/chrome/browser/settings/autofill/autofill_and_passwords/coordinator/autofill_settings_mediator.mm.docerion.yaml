@@ -1,0 +1,4 @@
+# Docerion header of autofill_settings_mediator.mm.
+type: source
+title: Autofill settings mediator implementation
+summary: Implements the Autofill settings mediator, observing preference changes and exposing enhanced autofill, user verification and wallet promo state to the consumer.

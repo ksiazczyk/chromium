@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_help_improve_mediator.mm.
+type: source
+title: Suggestions from Gemini Help Improve mediator implementation
+summary: Implements the Help Improve mediator, observing the Gemini settings preference and updating the consumer with the policy state.

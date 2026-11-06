@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the autofill payments coordinator
+summary: Declares the allowed include rules for files in the autofill payments coordinator directory.

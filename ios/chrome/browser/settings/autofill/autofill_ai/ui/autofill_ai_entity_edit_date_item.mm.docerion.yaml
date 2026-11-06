@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_edit_date_item.mm.
+type: source
+title: Autofill AI entity edit date item implementation
+summary: Implements the date field table view item, building a custom date picker input view or popover and forwarding date changes, clearing, and dismissal to its delegate.

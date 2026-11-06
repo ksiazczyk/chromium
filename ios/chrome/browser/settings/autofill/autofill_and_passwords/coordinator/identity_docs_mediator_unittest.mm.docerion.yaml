@@ -1,0 +1,4 @@
+# Docerion header of identity_docs_mediator_unittest.mm.
+type: test
+title: Identity Docs mediator unit tests
+summary: Unit tests for the Identity Docs settings mediator, covering consumer setup, toggle state, and entity selection behavior.

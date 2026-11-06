@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Quick Delete Other Data coordinator
+summary: Restricts includes in the coordinator directory to ios/chrome/browser/signin/model.

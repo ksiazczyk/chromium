@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Quick Delete Browsing Data tests
+summary: DEPS file specifying the allowed include rules for the test directory, permitting headers from ios/chrome/browser/signin/model.

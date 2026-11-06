@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the autofill settings UI
+summary: Declares the allowed include directories for this folder, covering autofill form input accessory and autofill UI bundled paths.

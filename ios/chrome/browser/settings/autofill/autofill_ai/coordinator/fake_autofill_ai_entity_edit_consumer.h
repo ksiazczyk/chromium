@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Autofill AI entity edit consumer declaration
+// summary: Declares a fake AutofillAIEntityEditConsumer that records loading-state and save callbacks for use in mediator and coordinator tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_COORDINATOR_FAKE_AUTOFILL_AI_ENTITY_EDIT_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_COORDINATOR_FAKE_AUTOFILL_AI_ENTITY_EDIT_CONSUMER_H_
 

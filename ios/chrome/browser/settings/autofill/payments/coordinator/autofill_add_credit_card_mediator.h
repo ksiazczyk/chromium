@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill add credit card mediator header
+// summary: Declares the mediator that validates and saves credit card data for the add credit card view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_ADD_CREDIT_CARD_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_ADD_CREDIT_CARD_MEDIATOR_H_
 

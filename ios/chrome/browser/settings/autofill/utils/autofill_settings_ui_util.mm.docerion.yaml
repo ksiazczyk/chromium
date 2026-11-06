@@ -1,0 +1,4 @@
+# Docerion header of autofill_settings_ui_util.mm.
+type: source
+title: Autofill settings UI utility implementation
+summary: Implements deletion confirmation strings for local, account and home/work address profiles plus Autofill AI entities, and helpers to detect deletable local items.

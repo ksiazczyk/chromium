@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_coordinator.mm.
+type: source
+title: QuickDeleteCoordinator implementation
+summary: Implements the Quick Delete flow, including presentation, radial wipe animation, scoped UI blocking and browsing data deletion.

@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_help_improve_coordinator.mm.
+type: source
+title: Suggestions from Gemini Help Improve coordinator implementation
+summary: Implements the Help Improve subscreen coordinator, creating its table view controller and mediator from the profile prefs.

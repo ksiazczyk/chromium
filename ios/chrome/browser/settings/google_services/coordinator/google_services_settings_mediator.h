@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google services settings mediator interface
+// summary: Declares the mediator that supplies the Google services settings view with identity, preference and sync data.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_COORDINATOR_GOOGLE_SERVICES_SETTINGS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_COORDINATOR_GOOGLE_SERVICES_SETTINGS_MEDIATOR_H_
 

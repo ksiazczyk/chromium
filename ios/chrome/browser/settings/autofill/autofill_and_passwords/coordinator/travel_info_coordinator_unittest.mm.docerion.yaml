@@ -1,0 +1,4 @@
+# Docerion header of travel_info_coordinator_unittest.mm.
+type: test
+title: Travel Info coordinator unit tests
+summary: Unit tests for the Travel Info coordinator using test profiles and browsers plus mock wallet pass access, sync, and account setting services.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_add_entities_menu_builder.mm.
+type: source
+title: Autofill AI Add Entities menu builder implementation
+summary: Builds the Add Entities UI menu with actions for adding an address or entity types, applying icons, enabled state, and ordering.

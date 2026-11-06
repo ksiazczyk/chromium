@@ -1,0 +1,4 @@
+# Docerion header of google_services_settings_coordinator.mm.
+type: source
+title: Google services settings coordinator implementation
+summary: Implements the coordinator that presents the settings view controller and handles sign-out, sync and navigation actions.

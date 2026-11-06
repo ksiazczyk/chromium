@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Google services settings UI
+summary: Restricts the directories that files in the Google services settings UI folder may include from.

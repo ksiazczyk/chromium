@@ -1,0 +1,4 @@
+# Docerion header of autofill_settings_table_view_controller_unittest.mm.
+type: test
+title: Autofill settings table view controller unit tests
+summary: Unit tests for the Autofill settings table view controller covering initialization, model layout and toggle behavior using fake delegate and mutator objects.

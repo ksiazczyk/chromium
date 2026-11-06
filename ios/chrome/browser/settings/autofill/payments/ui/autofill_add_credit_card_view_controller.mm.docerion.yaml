@@ -1,0 +1,4 @@
+# Docerion header of autofill_add_credit_card_view_controller.mm.
+type: source
+title: Add credit card view controller implementation
+summary: Implements the table view form for entering card holder name, number, expiration, nickname and CVC with Add and Cancel actions.

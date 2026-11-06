@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google services settings test app interface header
+// summary: Declares the app interface for Google services settings tests with helpers to block navigation and check metrics consent.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_TEST_GOOGLE_SERVICES_SETTINGS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_TEST_GOOGLE_SERVICES_SETTINGS_APP_INTERFACE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_mediator_unittest.mm.
+type: test
+title: Suggestions from Gemini mediator unit tests
+summary: Unit tests verifying that the mediator initializes correctly and propagates preference and policy state changes to its consumer.

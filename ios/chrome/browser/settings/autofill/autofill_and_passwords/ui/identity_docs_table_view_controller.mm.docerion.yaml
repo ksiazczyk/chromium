@@ -1,0 +1,4 @@
+# Docerion header of identity_docs_table_view_controller.mm.
+type: source
+title: Identity Docs settings table view controller implementation
+summary: Implements the Identity Docs settings page with a toggle, Suggestions from Gemini entry point and sections for driver licenses, national ID cards and passports.

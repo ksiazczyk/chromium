@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI settings test utility header
+// summary: Declares the AutofillAISettingsTestUtil helpers for opening the Autofill AI settings page and asserting on entity edit UI elements.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_TEST_AUTOFILL_AI_SETTINGS_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_TEST_AUTOFILL_AI_SETTINGS_TEST_UTIL_H_
 

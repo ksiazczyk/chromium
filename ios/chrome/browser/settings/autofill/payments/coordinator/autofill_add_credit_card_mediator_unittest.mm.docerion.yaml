@@ -1,0 +1,4 @@
+# Docerion header of autofill_add_credit_card_mediator_unittest.mm.
+type: test
+title: Autofill add credit card mediator unit tests
+summary: Unit tests for the add credit card mediator covering invalid card numbers, expiration months, nicknames, and card saving behavior using OCMock.

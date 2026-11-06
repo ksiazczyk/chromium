@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk upload mutator protocol
+// summary: Declares the BulkUploadMutator protocol for toggling data type selection and requesting the bulk upload save.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_BULK_UPLOAD_UI_BULK_UPLOAD_MUTATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_BULK_UPLOAD_UI_BULK_UPLOAD_MUTATOR_H_
 

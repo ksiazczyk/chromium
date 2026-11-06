@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_edit_mediator_unittest.mm.
+type: test
+title: Autofill AI entity edit mediator unit tests
+summary: Unit tests covering the mediator's entity editing, wallet save behavior, metrics, and disclosure handling using fakes and mocks.

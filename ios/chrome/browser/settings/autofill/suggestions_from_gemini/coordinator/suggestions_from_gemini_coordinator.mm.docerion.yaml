@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_coordinator.mm.
+type: source
+title: Suggestions from Gemini settings coordinator implementation
+summary: Implements the coordinator, wiring the settings view controller and mediator and handling connected apps and help improve actions.

@@ -1,0 +1,4 @@
+# Docerion header of travel_info_coordinator.mm.
+type: source
+title: Travel Info coordinator implementation
+summary: Implements the coordinator for the Travel Info settings page, wiring its view controller, mediator, entity edit flow, and Suggestions from Gemini coordinator.

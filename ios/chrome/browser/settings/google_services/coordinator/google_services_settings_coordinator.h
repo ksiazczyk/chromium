@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google services settings coordinator interface
+// summary: Declares the coordinator for the Google services settings view, which applies sync changes when stopped or deallocated.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_COORDINATOR_GOOGLE_SERVICES_SETTINGS_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_GOOGLE_SERVICES_COORDINATOR_GOOGLE_SERVICES_SETTINGS_COORDINATOR_H_
 

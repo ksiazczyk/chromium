@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickDeleteConsumer protocol
+// summary: Declares the protocol the mediator uses to update the Quick Delete view controller with time range, data summaries, selections, and deletion progress.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_QUICK_DELETE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_CLEAR_BROWSING_DATA_UI_QUICK_DELETE_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of google_services_settings_app_interface_stub.mm.
+type: test
+title: Google services settings test app interface stub
+summary: Stub implementation that registers the Google services settings app interface in the app main queue for Earl Grey test support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI date utility header
+// summary: Declares helpers to convert autofill AI date attributes to and from NSDate, get the date format string, and decide popover use for the date picker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_UTILS_AUTOFILL_AI_DATE_UTIL_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_UTILS_AUTOFILL_AI_DATE_UTIL_H_
 

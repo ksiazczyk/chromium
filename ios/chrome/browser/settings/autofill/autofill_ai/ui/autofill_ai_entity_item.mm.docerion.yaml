@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_item.mm.
+type: source
+title: Autofill AI entity item cell configuration
+summary: Implements AutofillAIEntityItem, configuring its table view cell with title, subtitle, trailing text, a tinted symbol icon and a disclosure indicator.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the coordinator directory
+summary: Lists the allowed include directories for code in the clear browsing data coordinator folder.

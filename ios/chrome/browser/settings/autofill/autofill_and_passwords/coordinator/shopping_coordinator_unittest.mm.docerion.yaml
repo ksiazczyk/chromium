@@ -1,0 +1,4 @@
+# Docerion header of shopping_coordinator_unittest.mm.
+type: test
+title: Shopping coordinator unit tests
+summary: Unit tests for the Shopping settings coordinator, covering start and stop and launching the entity edit coordinator.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_entity_edit_table_view_controller_unittest.mm.
+type: test
+title: Autofill AI entity edit table view controller unit tests
+summary: Unit tests for the Autofill AI entity edit table view controller, covering save and cancel actions, edit mode, local save fallback and date picker popover layout on iPad.

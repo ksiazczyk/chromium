@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the autofill payments UI
+summary: Restricts the directories this folder may include from using Chromium DEPS include rules.

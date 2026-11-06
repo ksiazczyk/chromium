@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill and passwords settings
+summary: Defines the allowed include dependencies for the iOS autofill and passwords settings directory, listing permitted Chrome iOS paths such as authentication, autofill model, and signin model.

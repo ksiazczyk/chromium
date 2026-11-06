@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for autofill and passwords item utils
+summary: GN build definition for the autofill_and_passwords_item_utils source set, listing its sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CVC storage view mediator header
+// summary: Declares the mediator that controls enabling and disabling CVC storage and deleting saved CVCs via the personal data manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_CVC_STORAGE_VIEW_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_PAYMENTS_COORDINATOR_AUTOFILL_CVC_STORAGE_VIEW_MEDIATOR_H_
 

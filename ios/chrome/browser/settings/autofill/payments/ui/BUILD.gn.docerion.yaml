@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the autofill payments settings UI
+summary: Defines the source_set listing the folder's view controller sources and its build dependencies.

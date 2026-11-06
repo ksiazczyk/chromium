@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_mediator.mm.
+type: source
+title: Suggestions from Gemini mediator implementation
+summary: Mediator that binds the Suggestions from Gemini toggle and enterprise policy preferences to the settings UI consumer.

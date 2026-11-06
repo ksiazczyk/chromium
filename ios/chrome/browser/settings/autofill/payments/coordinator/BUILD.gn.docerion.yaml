@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD file for autofill payments coordinator source sets
+summary: Defines GN source sets for the add credit card, CVC storage, and credit card coordinators, with their dependencies and a unit test target.

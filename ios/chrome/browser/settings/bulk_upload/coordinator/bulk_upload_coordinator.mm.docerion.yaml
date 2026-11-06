@@ -1,0 +1,4 @@
+# Docerion header of bulk_upload_coordinator.mm.
+type: source
+title: Bulk upload coordinator implementation (bulk_upload_coordinator.mm)
+summary: Implements the coordinator by creating the mediator and view controller, presenting the navigation controller, and handling dismissal and snackbar actions.

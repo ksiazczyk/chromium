@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI Add Entities menu builder interface
+// summary: Declares the AutofillAIAddEntitiesMenuBuilder class and its delegate protocol for building the Add Entities context menu.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_UI_AUTOFILL_AI_ADD_ENTITIES_MENU_BUILDER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_UI_AUTOFILL_AI_ADD_ENTITIES_MENU_BUILDER_H_
 

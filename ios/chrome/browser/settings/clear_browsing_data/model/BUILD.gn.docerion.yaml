@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for clear browsing data model
+summary: Defines the model and test_support source sets for the clear browsing data counter wrapper producer and their build dependencies.

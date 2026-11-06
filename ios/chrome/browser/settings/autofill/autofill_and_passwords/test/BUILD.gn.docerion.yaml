@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Autofill and Passwords Earl Grey tests
+summary: GN build configuration defining the eg2_tests source set for the Autofill and Passwords settings UI tests and listing their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity instance builder header
+// summary: Declares a fluent builder for autofill EntityInstance with setters for GUID, nickname, usage metadata, record type data, and attributes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_UTILS_AUTOFILL_AI_ENTITY_INSTANCE_BUILDER_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_AUTOFILL_AI_UTILS_AUTOFILL_AI_ENTITY_INSTANCE_BUILDER_H_
 

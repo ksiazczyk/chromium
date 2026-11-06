@@ -1,0 +1,4 @@
+# Docerion header of fake_browsing_data_counter_wrapper_producer.mm.
+type: source
+title: Fake browsing data counter wrapper producer implementation
+summary: Implements the fake producer, storing per-preference UI update callbacks and letting tests trigger them with counter results.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Suggestions from Gemini settings UI
+summary: Defines the GN source sets for the Suggestions from Gemini settings UI and its unit tests, listing sources and dependencies.

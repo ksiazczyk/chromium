@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Autofill AI entity edit coordinator
+summary: Defines the coordinator source_set and its unit_tests target with sources and dependencies for the Autofill AI entity edit feature.

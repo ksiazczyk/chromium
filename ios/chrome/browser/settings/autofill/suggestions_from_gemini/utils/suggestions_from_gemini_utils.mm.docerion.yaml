@@ -1,0 +1,4 @@
+# Docerion header of suggestions_from_gemini_utils.mm.
+type: source
+title: Implementation of the Suggestions from Gemini policy state check
+summary: Implements GetSuggestionsFromGeminiPolicyState by reading the managed Find and Fill with Gemini preference to map enterprise policy to allowed, logging-disabled, or disabled states.

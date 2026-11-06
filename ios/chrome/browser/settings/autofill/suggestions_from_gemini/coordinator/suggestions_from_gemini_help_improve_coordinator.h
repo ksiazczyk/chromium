@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions from Gemini Help Improve coordinator header
+// summary: Declares the coordinator for the Suggestions from Gemini Help Improve settings subscreen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_SUGGESTIONS_FROM_GEMINI_COORDINATOR_SUGGESTIONS_FROM_GEMINI_HELP_IMPROVE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SETTINGS_AUTOFILL_SUGGESTIONS_FROM_GEMINI_COORDINATOR_SUGGESTIONS_FROM_GEMINI_HELP_IMPROVE_COORDINATOR_H_
 

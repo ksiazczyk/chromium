@@ -1,0 +1,4 @@
+# Docerion header of quick_delete_other_data_coordinator.mm.
+type: source
+title: Quick Delete Other Data coordinator implementation
+summary: Implements the coordinator by creating the mediator and view controller and pushing the page onto the navigation controller.

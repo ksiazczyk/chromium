@@ -1,0 +1,4 @@
+# Docerion header of autofill_bnpl_coordinator.mm.
+type: source
+title: AutofillBnplCoordinator implementation
+summary: Implements the BNPL settings coordinator, creating the view controller and mediator and pushing the subpage on start.
