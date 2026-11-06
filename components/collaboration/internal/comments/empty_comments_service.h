@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty comments service header
+// summary: Declares EmptyCommentsService, a do-nothing implementation of the CommentsService interface used when comment functionality is unavailable.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_COMMENTS_EMPTY_COMMENTS_SERVICE_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_COMMENTS_EMPTY_COMMENTS_SERVICE_H_
 

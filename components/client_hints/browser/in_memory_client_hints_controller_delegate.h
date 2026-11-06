@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory client hints controller delegate declaration
+// summary: Declares the in-memory manager of the Accept-CH cache used by the client hints infrastructure, with the same lifetime as the delegate.
+// ---
+
 #ifndef COMPONENTS_CLIENT_HINTS_BROWSER_IN_MEMORY_CLIENT_HINTS_CONTROLLER_DELEGATE_H_
 #define COMPONENTS_CLIENT_HINTS_BROWSER_IN_MEMORY_CLIENT_HINTS_CONTROLLER_DELEGATE_H_
 

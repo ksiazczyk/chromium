@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDD and CJT JSON constant definitions
+// summary: Defines JSON key constants such as version and option keys used in the common parts of CDD and CJT representations.
+// ---
+
 #include "components/cloud_devices/common/cloud_device_description_consts.h"
 
 namespace cloud_devices {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging backend store implementation header
+// summary: Declares the MessagingBackendStoreImpl class and the MessagesPerGroup struct that stores tab, tab group, and collaboration messages per collaboration group.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_STORAGE_MESSAGING_BACKEND_STORE_IMPL_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_STORAGE_MESSAGING_BACKEND_STORE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientHints keyed service declaration
+// summary: Declares the ClientHints keyed service that implements the client hints controller delegate interface for the browser.
+// ---
+
 #ifndef COMPONENTS_CLIENT_HINTS_BROWSER_CLIENT_HINTS_H_
 #define COMPONENTS_CLIENT_HINTS_BROWSER_CLIENT_HINTS_H_
 

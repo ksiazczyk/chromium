@@ -1,0 +1,4 @@
+# Docerion header of mjpeg_decode_accelerator.mojom.
+type: source
+title: MJPEG decode accelerator Mojom interface
+summary: Defines the GPU process Mojo interface for decoding MJPEG streams from shared memory or DMA-buf buffers, with decode errors and a BitstreamBuffer transport struct.

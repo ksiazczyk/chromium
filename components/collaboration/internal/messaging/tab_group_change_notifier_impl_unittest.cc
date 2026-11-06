@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group change notifier implementation unit tests
+// summary: Unit tests for the tab group change notifier implementation, verifying observer notifications for shared tab group and tab changes using mocked sync services and test tab group utilities.
+// ---
+
 #include "components/collaboration/internal/messaging/tab_group_change_notifier_impl.h"
 
 #include <memory>

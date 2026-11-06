@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color ID definitions for components
+// summary: Defines the ComponentsColorIds enum with cross-platform and Aura-only color IDs via macro-generated lists.
+// ---
+
 #ifndef COMPONENTS_COLOR_COLOR_ID_H_
 #define COMPONENTS_COLOR_COLOR_ID_H_
 

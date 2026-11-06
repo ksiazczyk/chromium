@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration finder unit tests
+// summary: Unit tests for CollaborationFinderImpl covering observer registration, availability checks and group-added notifications.
+// ---
+
 #include "components/collaboration/internal/collaboration_finder_impl.h"
 
 #include <memory>

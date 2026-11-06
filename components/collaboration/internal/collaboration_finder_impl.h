@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration finder class declaration
+// summary: Declares CollaborationFinderImpl, which reports whether a collaboration is available and observes data sharing group additions.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_COLLABORATION_FINDER_IMPL_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_COLLABORATION_FINDER_IMPL_H_
 

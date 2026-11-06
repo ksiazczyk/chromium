@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ChromeOS camera component
+summary: Defines GN source sets and test targets for the JPEG encode and MJPEG decode accelerators, utilities and their Mojo services.

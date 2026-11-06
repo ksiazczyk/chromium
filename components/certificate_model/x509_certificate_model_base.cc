@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X.509 certificate model base implementation
+// summary: Implements parsing and formatting helpers for X.509 certificate data, including algorithm identifiers, hashes, and name attribute lookups.
+// ---
+
 #include "components/certificate_model/x509_certificate_model_base.h"
 
 #include <ranges>

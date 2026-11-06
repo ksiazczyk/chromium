@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for certificate_model
+summary: DEPS file listing the headers and directories that code in components/certificate_model is allowed to include.

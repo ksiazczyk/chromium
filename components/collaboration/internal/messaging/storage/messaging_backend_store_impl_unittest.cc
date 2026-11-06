@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the messaging backend store
+// summary: Unit tests for MessagingBackendStoreImpl using a mocked messaging backend database to exercise message creation, dirty-state queries, and store initialization.
+// ---
+
 #include "components/collaboration/internal/messaging/storage/messaging_backend_store_impl.h"
 
 #include "base/files/scoped_temp_dir.h"

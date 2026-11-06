@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo MJPEG decode accelerator service implementation
+// summary: Implements the GPU-process Mojo MJPEG decode accelerator service, validating decode parameters and handling shared-memory and DMA-buffer decode tasks.
+// ---
+
 #include "components/chromeos_camera/mojo_mjpeg_decode_accelerator_service.h"
 
 #include <stdint.h>

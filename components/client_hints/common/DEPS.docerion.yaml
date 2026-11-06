@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the client hints common component
+summary: Chromium DEPS file allowing includes of the network trustworthiness helper and the blink enabled client hints headers within this directory.

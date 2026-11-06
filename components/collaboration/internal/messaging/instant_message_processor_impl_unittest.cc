@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Instant message processor unit tests
+// summary: Unit tests for InstantMessageProcessorImpl covering message display, aggregation, and hiding behavior using mock delegates and messaging services.
+// ---
+
 #include "components/collaboration/internal/messaging/instant_message_processor_impl.h"
 
 #include <optional>

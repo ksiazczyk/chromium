@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo MJPEG decode accelerator header
+// summary: Declares the MojoMjpegDecodeAccelerator class, a browser-process MJPEG decode accelerator that forwards decode calls to a remote Mojo decoder.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_MOJO_MJPEG_DECODE_ACCELERATOR_H_
 #define COMPONENTS_CHROMEOS_CAMERA_MOJO_MJPEG_DECODE_ACCELERATOR_H_
 

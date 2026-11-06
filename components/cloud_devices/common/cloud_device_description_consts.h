@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDD and CJT JSON constant declarations
+// summary: Declares shared JSON key constants for the common parts of the Cloud Device Description and Cloud Job Ticket formats.
+// ---
+
 #ifndef COMPONENTS_CLOUD_DEVICES_COMMON_CLOUD_DEVICE_DESCRIPTION_CONSTS_H_
 #define COMPONENTS_CLOUD_DEVICES_COMMON_CLOUD_DEVICE_DESCRIPTION_CONSTS_H_
 

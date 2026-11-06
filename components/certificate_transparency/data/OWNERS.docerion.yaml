@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for log_list.json updates
+summary: Grants per-file ownership of log_list.json to the Chrome PKI metadata bot accounts that handle automated log list updates.

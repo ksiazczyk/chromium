@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty messaging backend database implementation
+// summary: Implements a no-op messaging backend database that immediately reports a successful load and discards updates and deletions.
+// ---
+
 #include "components/collaboration/internal/messaging/storage/empty_messaging_backend_database.h"
 
 #include "base/task/single_thread_task_runner.h"

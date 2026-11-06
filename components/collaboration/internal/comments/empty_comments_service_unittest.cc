@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty comments service unit tests
+// summary: Unit test verifying that EmptyCommentsService reports itself as both an empty service and initialized.
+// ---
+
 #include "components/collaboration/internal/comments/empty_comments_service.h"
 
 #include <memory>

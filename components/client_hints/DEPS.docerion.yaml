@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory dependency rules
+summary: Specifies include rules that allow dependencies on content settings and content public common code.

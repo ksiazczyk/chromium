@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments service bridge implementation
+// summary: Native C++ implementation of the JNI bridge that exposes the collaboration comments service to Java on Android, handling add, edit, delete, and query comment operations.
+// ---
+
 #include "components/collaboration/internal/android/comments/comments_service_bridge.h"
 
 #include <memory>

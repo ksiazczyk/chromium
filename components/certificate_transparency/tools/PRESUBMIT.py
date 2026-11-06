@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit script for CT log list tools
+# summary: Chromium presubmit script that runs the make_ct_known_logs_list unittests when the log list generator, its tests, or log_list.json are modified.
+# ---
+
 
 """Chromium presubmit script for src/net/tools/ct_log_list."""
 

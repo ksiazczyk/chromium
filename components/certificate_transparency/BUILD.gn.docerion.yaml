@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the certificate transparency component
+summary: Defines GN build targets for the CT proto files, the certificate_transparency component, and its unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for components color
+summary: Points to //ui/color/OWNERS so the same owners review changes in components/color.

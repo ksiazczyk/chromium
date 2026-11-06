@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of collaboration messaging JNI conversion helpers
+// summary: Declares helper functions that convert persistent and instant messages, UUID sets, and activity log items to Java objects.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_ANDROID_MESSAGING_CONVERSION_UTILS_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_ANDROID_MESSAGING_CONVERSION_UTILS_H_
 

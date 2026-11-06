@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the components color library
+summary: GN build file defining the color_headers source set and the color static library with platform-conditional dependencies.

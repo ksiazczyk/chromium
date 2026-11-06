@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake MJPEG decode accelerator declaration
+// summary: Declares a software-based MjpegDecodeAccelerator subclass used to test communication without an actual hardware decoder.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_FAKE_MJPEG_DECODE_ACCELERATOR_H_
 #define COMPONENTS_CHROMEOS_CAMERA_FAKE_MJPEG_DECODE_ACCELERATOR_H_
 

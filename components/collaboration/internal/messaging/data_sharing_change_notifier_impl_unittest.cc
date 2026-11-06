@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataSharingChangeNotifierImpl unit tests
+// summary: Tests the data sharing change notifier behavior using a mock DataSharingService and a mock observer.
+// ---
+
 #include "components/collaboration/internal/messaging/data_sharing_change_notifier_impl.h"
 
 #include "base/test/gmock_callback_support.h"

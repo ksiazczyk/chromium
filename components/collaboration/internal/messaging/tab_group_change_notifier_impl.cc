@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group change notifier implementation
+// summary: Implements TabGroupChangeNotifierImpl, computing added, removed, and updated tab group and tab deltas from TabGroupSyncService events and notifying observers.
+// ---
+
 #include "components/collaboration/internal/messaging/tab_group_change_notifier_impl.h"
 
 #include <unordered_map>

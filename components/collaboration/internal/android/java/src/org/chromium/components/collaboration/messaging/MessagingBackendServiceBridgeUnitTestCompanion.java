@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagingBackendServiceBridgeUnitTestCompanion
+// summary: Companion for the native MessagingBackendServiceBridgeTest that exercises the service and verifies observer, delegate, and message behavior using Mockito captors.
+// ---
+
 package org.chromium.components.collaboration.messaging;
 
 import static org.mockito.Mockito.mock;

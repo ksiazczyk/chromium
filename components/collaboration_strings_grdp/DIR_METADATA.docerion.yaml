@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for collaboration strings
+summary: Points the directory metadata at the shared COMMON_METADATA mixin of the collaboration component.

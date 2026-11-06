@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty collaboration service implementation
+// summary: Implements a no-op CollaborationService used when the data sharing feature is disabled, returning empty results and success callbacks for all operations.
+// ---
+
 #include "components/collaboration/internal/empty_collaboration_service.h"
 
 namespace collaboration {

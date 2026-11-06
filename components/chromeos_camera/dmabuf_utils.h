@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DMA-buf video frame construction header
+// summary: Declares ConstructVideoFrame, which builds a video frame from DMA-buf planes, a pixel format and a coded size.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_DMABUF_UTILS_H_
 #define COMPONENTS_CHROMEOS_CAMERA_DMABUF_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Collaboration dependency include rules
+summary: Lists the include rules defining which dependencies the collaboration component may use, such as data sharing, prefs, saved tab groups, sign-in, and sync.

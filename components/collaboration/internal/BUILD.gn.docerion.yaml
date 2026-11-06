@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Collaboration internal GN build targets
+summary: Defines the GN build targets, sources and dependencies for the internal collaboration component, including core, finder, comments and messaging libraries.

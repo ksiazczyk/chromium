@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the certificate transparency directory
+summary: Lists the include rules restricting which directories and headers this component may depend on.

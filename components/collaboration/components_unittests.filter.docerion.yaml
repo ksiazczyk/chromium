@@ -1,0 +1,4 @@
+# Docerion header of components_unittests.filter.
+type: test
+title: Collaboration unit test filter
+summary: Specifies the gtest filter patterns that select collaboration-related unit tests for the components_unittests test runner.

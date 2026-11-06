@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging backend database interface source
+// summary: Defines the virtual destructor for the MessagingBackendDatabase interface.
+// ---
+
 #include "components/collaboration/internal/messaging/storage/messaging_backend_database.h"
 
 namespace collaboration::messaging {

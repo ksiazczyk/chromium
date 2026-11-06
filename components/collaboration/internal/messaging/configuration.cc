@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingBackendConfiguration implementation
+// summary: Provides the default constructor, copy operations, and destructor for the messaging backend configuration struct.
+// ---
+
 #include "components/collaboration/internal/messaging/configuration.h"
 
 namespace collaboration::messaging {

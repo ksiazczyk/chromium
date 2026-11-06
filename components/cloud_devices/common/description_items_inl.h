@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template implementations for description items
+// summary: Implements the templates from description_items.h for loading, saving and validating capability and ticket item options; meant to be included from device-specific CC files.
+// ---
+
 #ifndef COMPONENTS_CLOUD_DEVICES_COMMON_DESCRIPTION_ITEMS_INL_H_
 #define COMPONENTS_CLOUD_DEVICES_COMMON_DESCRIPTION_ITEMS_INL_H_
 

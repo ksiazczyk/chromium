@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client Update Protocol implementation
+// summary: Implements the Cup class, parsing ETag signatures and preparing and validating update pings with ML-DSA-44 keys and SHA-256 hashes.
+// ---
+
 #include "components/client_update_protocol/cup.h"
 
 #include <stdint.h>

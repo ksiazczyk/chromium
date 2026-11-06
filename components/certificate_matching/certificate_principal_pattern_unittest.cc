@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CertificatePrincipalPattern
+// summary: Covers empty patterns, matching on individual and all principal fields, and parsing behavior from null, empty and populated dictionaries using gtest.
+// ---
+
 #include "components/certificate_matching/certificate_principal_pattern.h"
 
 #include "base/values.h"

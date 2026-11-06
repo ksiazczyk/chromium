@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingBackendServiceBridge
+// summary: Java JNI bridge implementing MessagingBackendService, forwarding message queries and observer or delegate registration to the native collaboration messaging backend.
+// ---
+
 package org.chromium.components.collaboration.messaging;
 
 import org.jni_zero.CalledByNative;

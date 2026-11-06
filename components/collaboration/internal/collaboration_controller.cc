@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration controller implementation
+// summary: Implements the state machine that drives collaboration group flows such as join, share, manage, leave and delete, with logging and timeouts.
+// ---
+
 #include "components/collaboration/internal/collaboration_controller.h"
 
 #include <optional>

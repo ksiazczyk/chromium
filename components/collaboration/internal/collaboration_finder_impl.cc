@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration finder implementation
+// summary: Implements collaboration availability checks and group-added notifications on top of the data sharing service for saved tab groups.
+// ---
+
 #include "components/collaboration/internal/collaboration_finder_impl.h"
 
 #include "components/data_sharing/public/data_sharing_service.h"

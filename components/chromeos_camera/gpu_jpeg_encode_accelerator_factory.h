@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU JPEG encode accelerator factory header
+// summary: Declares the GpuJpegEncodeAcceleratorFactory class that queries accelerated JPEG encode support and provides platform-specific accelerator creation callbacks.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_GPU_JPEG_ENCODE_ACCELERATOR_FACTORY_H_
 #define COMPONENTS_CHROMEOS_CAMERA_GPU_JPEG_ENCODE_ACCELERATOR_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Chrome OS camera Mojom interfaces
+summary: Defines the GN target that generates Mojo bindings for the camera Mojom files, with typemaps wiring the JPEG encode and decode traits sources.

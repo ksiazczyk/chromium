@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments service implementation
+// summary: Implements the CommentsService interface with stubbed methods for adding, editing, deleting, and querying comments, currently returning NOTIMPLEMENTED results.
+// ---
+
 #include "components/collaboration/internal/comments/comments_service_impl.h"
 
 #include "base/functional/callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X509CertificateModelBase class declaration
+// summary: Declares the base class and helper types for parsing X.509 certificates and accessing fields such as hashes, version, serial number, and issuer and subject names.
+// ---
+
 #ifndef COMPONENTS_CERTIFICATE_MODEL_X509_CERTIFICATE_MODEL_BASE_H_
 #define COMPONENTS_CERTIFICATE_MODEL_X509_CERTIFICATE_MODEL_BASE_H_
 

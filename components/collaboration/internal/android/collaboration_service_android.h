@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration service Android bridge class declaration
+// summary: Declares the CollaborationServiceAndroid helper class that bridges the C++ CollaborationService to its Java counterpart, exposing the collaboration service Java API and observer callbacks.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_ANDROID_COLLABORATION_SERVICE_ANDROID_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_ANDROID_COLLABORATION_SERVICE_ANDROID_H_
 

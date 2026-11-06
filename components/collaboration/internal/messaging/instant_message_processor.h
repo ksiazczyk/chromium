@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstantMessageProcessor interface
+// summary: Declares the interface for queueing, aggregating, and displaying instant messages through a platform-specific delegate.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_INSTANT_MESSAGE_PROCESSOR_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_INSTANT_MESSAGE_PROCESSOR_H_
 

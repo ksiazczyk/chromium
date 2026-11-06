@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertificatePrincipalPattern class header
+// summary: Declares the CertificatePrincipalPattern class for representing and comparing X.509 certificate principal fields, including dictionary-based parsing and accessor methods.
+// ---
+
 #ifndef COMPONENTS_CERTIFICATE_MATCHING_CERTIFICATE_PRINCIPAL_PATTERN_H_
 #define COMPONENTS_CERTIFICATE_MATCHING_CERTIFICATE_PRINCIPAL_PATTERN_H_
 

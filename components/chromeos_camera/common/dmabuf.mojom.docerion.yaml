@@ -1,0 +1,4 @@
+# Docerion header of dmabuf.mojom.
+type: source
+title: DMA-buf video frame Mojom definitions
+summary: Defines Mojo structures for DMA-buf buffer planes and a simplified DMA-buf-backed video frame used by Chrome OS camera accelerators.

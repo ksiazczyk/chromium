@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments service implementation header
+// summary: Declares the CommentsServiceImpl class, which implements the CommentsService interface for comment management within a collaboration.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_COMMENTS_COMMENTS_SERVICE_IMPL_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_COMMENTS_COMMENTS_SERVICE_IMPL_H_
 

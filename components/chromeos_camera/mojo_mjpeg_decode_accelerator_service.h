@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo MJPEG decode accelerator service header
+// summary: Declares MojoMjpegDecodeAcceleratorService, a GPU-process Mojo service wrapping an MjpegDecodeAccelerator to serve MJPEG decode requests.
+// ---
+
 #ifndef COMPONENTS_CHROMEOS_CAMERA_MOJO_MJPEG_DECODE_ACCELERATOR_SERVICE_H_
 #define COMPONENTS_CHROMEOS_CAMERA_MOJO_MJPEG_DECODE_ACCELERATOR_SERVICE_H_
 

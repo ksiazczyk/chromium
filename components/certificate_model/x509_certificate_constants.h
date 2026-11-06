@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X.509 certificate OID constants
+// summary: Header defining byte-array constants for X.509 name attributes, extensions, and signature algorithm object identifiers used by the certificate model.
+// ---
+
 #ifndef COMPONENTS_CERTIFICATE_MODEL_X509_CERTIFICATE_CONSTANTS_H_
 #define COMPONENTS_CERTIFICATE_MODEL_X509_CERTIFICATE_CONSTANTS_H_
 

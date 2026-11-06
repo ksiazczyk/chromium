@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo MJPEG decode accelerator implementation
+// summary: Implements the browser-process MojoMjpegDecodeAccelerator that proxies MJPEG decode requests to a remote GPU decoder over Mojo and reports results to its client.
+// ---
+
 #include "components/chromeos_camera/mojo_mjpeg_decode_accelerator.h"
 
 #include <stddef.h>

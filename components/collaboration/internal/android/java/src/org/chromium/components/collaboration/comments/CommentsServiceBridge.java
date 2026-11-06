@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'CommentsServiceBridge: JNI bridge for the comments service'
+// summary: Java implementation of CommentsService that forwards comment operations such as add, edit, delete, query and observer management to the native counterpart via JNI.
+// ---
+
 package org.chromium.components.collaboration.comments;
 
 import org.jni_zero.CalledByNative;

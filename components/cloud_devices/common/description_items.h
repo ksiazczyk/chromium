@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Templates for CDD capabilities and CJT items
+// summary: Defines common templates like ListCapability and SelectionCapability that device-specific capabilities and print ticket items build on, with trait-based serialization and validation.
+// ---
+
 #ifndef COMPONENTS_CLOUD_DEVICES_COMMON_DESCRIPTION_ITEMS_H_
 #define COMPONENTS_CLOUD_DEVICES_COMMON_DESCRIPTION_ITEMS_H_
 

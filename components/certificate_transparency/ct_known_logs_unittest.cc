@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CT known logs unit test
+// summary: Verifies that the list of disqualified Certificate Transparency logs is sorted by log ID.
+// ---
+
 #include "components/certificate_transparency/ct_known_logs.h"
 
 #include <stddef.h>

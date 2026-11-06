@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for certificate_model
+summary: OWNERS file that delegates code review ownership to the owners of net/cert.

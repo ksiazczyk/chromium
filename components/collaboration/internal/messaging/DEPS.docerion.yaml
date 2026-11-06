@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the messaging component
+summary: Defines allowed include dependencies for the collaboration messaging directory, covering strings, tab groups, SQL, and other components.

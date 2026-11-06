@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommentsServiceBridgeUnitTestCompanion
+// summary: Java companion called by the native CommentsServiceBridgeTest to exercise CommentsService methods and verify success callbacks using Mockito.
+// ---
+
 package org.chromium.components.collaboration.comments;
 
 import android.os.Looper;

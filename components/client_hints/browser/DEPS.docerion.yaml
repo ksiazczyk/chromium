@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the client hints browser directory
+summary: Lists the directories and headers that the client hints browser code is allowed to include, restricting its dependencies.

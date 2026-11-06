@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Comments service implementation unit tests
+// summary: Unit tests for CommentsServiceImpl covering construction, comment add, edit, delete, query, and observer registration against the stub implementation.
+// ---
+
 #include "components/collaboration/internal/comments/comments_service_impl.h"
 
 #include <memory>

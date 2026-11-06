@@ -1,0 +1,4 @@
+# Docerion header of log_list.json.
+type: data
+title: Certificate Transparency log list
+summary: JSON list of known CT log operators and logs with log IDs, keys, URLs, states and temporal intervals, versioned and timestamped for bot updates.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for certificate_model
+summary: Directory metadata mapping the component to the UI>Browser>CertificateViewer monorail component and a Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG encode accelerator Mojom traits implementation
+// summary: Implements Mojo enum traits that convert JPEG encode accelerator status codes between the C++ and Mojom representations.
+// ---
+
 #include "components/chromeos_camera/common/jpeg_encode_accelerator_mojom_traits.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant message processor class declaration
+// summary: Declares InstantMessageProcessorImpl, the concrete instant message processor that queues and aggregates messages before notifying the UI delegate.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_INSTANT_MESSAGE_PROCESSOR_IMPL_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_MESSAGING_INSTANT_MESSAGE_PROCESSOR_IMPL_H_
 

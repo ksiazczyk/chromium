@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the collaboration messaging Android directory
+summary: DEPS file restricting includes in this directory to the data sharing public and tab groups components.

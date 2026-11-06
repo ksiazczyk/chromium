@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the cloud_devices common library
+summary: Defines the cloud_devices_common static library sources and the unit_tests source_set with their dependencies and build configs.

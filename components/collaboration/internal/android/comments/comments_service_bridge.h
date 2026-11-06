@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments service bridge header
+// summary: Declares the CommentsServiceBridge class that connects the native comments service to its Java counterpart via JNI for Android collaboration comments.
+// ---
+
 #ifndef COMPONENTS_COLLABORATION_INTERNAL_ANDROID_COMMENTS_COMMENTS_SERVICE_BRIDGE_H_
 #define COMPONENTS_COLLABORATION_INTERNAL_ANDROID_COMMENTS_COMMENTS_SERVICE_BRIDGE_H_
 

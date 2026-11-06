@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration service implementation
+// summary: Implements the internal CollaborationService, managing join, share, leave and delete flows, service status and group operations.
+// ---
+
 #include "components/collaboration/internal/collaboration_service_impl.h"
 
 #include "base/logging.h"

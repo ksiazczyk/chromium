@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for the empty collaboration service
+// summary: Unit test verifying that EmptyCollaborationService can be constructed and reports itself as an empty service.
+// ---
+
 #include "components/collaboration/internal/empty_collaboration_service.h"
 
 #include <memory>

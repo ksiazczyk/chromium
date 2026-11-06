@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the ChromeOS camera component
+summary: Sets the Monorail component OS>Kernel>Camera and the chromeos-camera team email for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSharingChangeNotifierImpl implementation
+// summary: Implements observation of the DataSharingService, initialization, and publishing of group and member change deltas to observers.
+// ---
+
 #include "components/collaboration/internal/messaging/data_sharing_change_notifier_impl.h"
 
 #include "base/functional/bind.h"

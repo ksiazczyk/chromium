@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudDeviceDescription implementation
+// summary: Implements parsing, serialization and validation of Cloud Device Description and Cloud Job Ticket JSON, including path-based access to dict and list items.
+// ---
+
 #include "components/cloud_devices/common/cloud_device_description.h"
 
 #include <string_view>
