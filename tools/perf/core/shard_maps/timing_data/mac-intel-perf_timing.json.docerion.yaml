@@ -1,0 +1,4 @@
+# Docerion header of mac-intel-perf_timing.json.
+type: data
+title: Mac Intel perf timing data
+summary: Durations of perf tests on the Intel Mac perf bot, used for shard map calculations.

@@ -1,0 +1,4 @@
+# Docerion header of android-pixel-fold-perf_map.json.
+type: data
+title: Pixel Fold perf shard map
+summary: Shard map spreading blink perf, rendering, system health, and crossbench workloads across shards for Pixel Fold perf runs.

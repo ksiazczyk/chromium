@@ -1,0 +1,4 @@
+# Docerion header of mac-m1_mini_2020-perf_map.json.
+type: config
+title: Mac M1 Mini 2020 perf shard map
+summary: Shard map distributing performance benchmarks, executables and crossbench tests across shards for the Mac M1 Mini 2020 perf builder.

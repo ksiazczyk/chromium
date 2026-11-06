@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Google page classes with login and deterministic counters
+# summary: Provides Google page classes including a Gmail page with account login that inject the deterministic performance counters script for benchmark story sets.
+# ---
+
 import os
 
 from page_sets.login_helpers import google_login

@@ -1,0 +1,4 @@
+# Docerion header of mac-m1_mini_2020-no-brp-perf_map.json.
+type: data
+title: Mac M1 mini 2020 no-brp perf shard map
+summary: Shard map repeating rendering.desktop.notracing and speedometer3 with pageset_repeat across many shards on the Mac M1 mini 2020 no-brp configuration.

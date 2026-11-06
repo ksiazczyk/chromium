@@ -1,6 +1,12 @@
 // Copyright 2019 Google LLC.
 // SPDX-License-Identifier: Apache-2.0
 
+// ---docerion
+// type: source
+// title: Console error metric proto definition
+// summary: Defines the ConsoleErrorMetric protobuf message counting all, JavaScript, and network console errors, extending Perfetto TraceMetrics.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos;

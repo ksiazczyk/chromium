@@ -9,6 +9,12 @@
 # Please keep the names in this file in sync with
 # `chrome/browser/ui/browser_element_identifiers.h`
 
+# ---docerion
+# type: source
+# title: Browser element identifiers for the Companion benchmark
+# summary: Defines browser element identifier constants used by the Companion benchmark, kept in sync with browser_element_identifiers.h.
+# ---
+
 kOmniboxElementId = 'kOmniboxElementId'
 kSideSearchButtonElementId = 'kSideSearchButtonElementId'
 kToolbarTabCounterButtonElementId = 'kToolbarTabCounterButtonElementId'

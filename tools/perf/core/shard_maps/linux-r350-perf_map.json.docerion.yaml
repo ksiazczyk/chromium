@@ -1,0 +1,4 @@
+# Docerion header of linux-r350-perf_map.json.
+type: data
+title: Linux R350 perf shard map
+summary: Shard map distributing Linux R350 performance benchmarks, executables and crossbench suites across numbered shards for the perf test framework.

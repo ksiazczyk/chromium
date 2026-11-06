@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Speedometer 1 benchmark story
+# summary: Defines a telemetry story and story set that run the Speedometer 1 benchmark and record total, runs-per-minute, and per-suite timings.
+# ---
+
 from telemetry import story
 
 from page_sets import press_story

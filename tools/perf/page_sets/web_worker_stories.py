@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Web worker stories
+# summary: Defines a telemetry story set that creates 1000 web workers in a page and optionally measures memory in deterministic mode.
+# ---
+
 from telemetry.page import page
 from telemetry.page import shared_page_state
 from telemetry import story

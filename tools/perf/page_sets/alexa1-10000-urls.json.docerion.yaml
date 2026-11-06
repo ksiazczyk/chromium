@@ -1,0 +1,4 @@
+# Docerion header of alexa1-10000-urls.json.
+type: data
+title: Alexa top 10000 URL list
+summary: JSON list of the top Alexa website URLs used to build page sets for performance testing.

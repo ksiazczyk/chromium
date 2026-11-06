@@ -1,0 +1,4 @@
+# Docerion header of update_webrtc_cases.
+type: script
+title: WebRTC test pages update script
+summary: Downloads WebRTC test pages from GitHub repositories and processes them into the webrtc_cases directory for WPR recording.

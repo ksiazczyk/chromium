@@ -1,0 +1,4 @@
+# Docerion header of mac-m1-pro-perf_timing.json.
+type: data
+title: Mac M1 Pro perf timing data
+summary: Durations of benchmark perf tests on the Mac M1 Pro bot, used for shard map calculations.

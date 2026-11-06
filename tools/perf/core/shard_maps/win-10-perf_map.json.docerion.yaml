@@ -1,0 +1,4 @@
+# Docerion header of win-10-perf_map.json.
+type: config
+title: Windows 10 perf shard map
+summary: Shard map distributing benchmarks, executables and crossbench tests across shards for the Windows 10 performance builder.

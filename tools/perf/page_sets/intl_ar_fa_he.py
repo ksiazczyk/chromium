@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Arabic, Farsi and Hebrew page cycler story set
+# summary: Story set of popular right-to-left Arabic, Farsi and Hebrew pages run as page cycler stories with cold and warm cache temperatures.
+# ---
+
 from page_sets import page_cycler_story
 from telemetry.page import cache_temperature as cache_temperature_module
 from telemetry.page import shared_page_state

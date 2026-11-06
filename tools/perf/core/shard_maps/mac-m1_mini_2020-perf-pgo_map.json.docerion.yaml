@@ -1,0 +1,4 @@
+# Docerion header of mac-m1_mini_2020-perf-pgo_map.json.
+type: config
+title: Mac M1 Mini 2020 perf PGO shard map
+summary: Shard map assigning JetStream, Speedometer and other crossbench benchmarks to shards for the Mac M1 Mini 2020 PGO performance builder.

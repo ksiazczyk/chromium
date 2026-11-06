@@ -1,0 +1,4 @@
+# Docerion header of win-10_laptop_low_end-perf_hp-candidate_timing.json.
+type: data
+title: Windows 10 low-end laptop perf HP candidate timing data
+summary: Benchmark durations for rendering.desktop and v8.browsing_desktop tests on the win-10 low-end laptop perf HP candidate bot, used for shard planning.

@@ -1,0 +1,4 @@
+# Docerion header of android-pixel6-perf-pgo_timing.json.
+type: data
+title: Pixel 6 perf PGO timing data
+summary: Measured durations for rendering.mobile, JetStream2 and other benchmarks on the Android Pixel 6 perf PGO builder, used to balance perf trybot shard maps.

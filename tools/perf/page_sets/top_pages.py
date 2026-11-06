@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Top pages page classes
+# summary: Defines page classes for popular sites like Google Search, Gmail, Calendar and Docs, including login and navigation steps.
+# ---
+
 from telemetry.page import page as page_module
 from telemetry.page import shared_page_state
 

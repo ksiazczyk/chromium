@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Key mobile sites smoothness story set
+# summary: Defines a story set of popular mobile websites with scroll interactions used for smoothness performance testing.
+# ---
+
 from telemetry.page import page as page_module
 from telemetry.page import shared_page_state
 from telemetry import story

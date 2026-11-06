@@ -1,0 +1,4 @@
+# Docerion header of linux-nvidia-dgx-spark-arm-perf_map.json.
+type: config
+title: Linux NVIDIA DGX Spark ARM perf shard map
+summary: Shard map for the Linux NVIDIA DGX Spark ARM perf builder listing GPU-focused benchmarks, perftest executables and crossbench suites in one shard.

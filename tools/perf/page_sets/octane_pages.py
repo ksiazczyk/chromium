@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Octane benchmark story
+# summary: Defines a telemetry story and story set that run the Octane JavaScript benchmark and record individual and geometric-mean total scores.
+# ---
+
 from telemetry import story
 from telemetry.util import statistics
 

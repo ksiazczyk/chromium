@@ -1,0 +1,4 @@
+# Docerion header of android-pixel4-perf-pgo_map.json.
+type: config
+title: Pixel 4 PGO perf shard map
+summary: Shard map distributing PGO performance benchmarks such as blink_perf, rendering.mobile, and components_perftests across shards on Pixel 4.

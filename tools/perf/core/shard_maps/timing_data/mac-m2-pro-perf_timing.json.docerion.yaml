@@ -1,0 +1,4 @@
+# Docerion header of mac-m2-pro-perf_timing.json.
+type: data
+title: Mac M2 Pro perf test timing data
+summary: Measured durations of benchmark tests on the mac-m2-pro perf builder, used to balance performance test shard maps.

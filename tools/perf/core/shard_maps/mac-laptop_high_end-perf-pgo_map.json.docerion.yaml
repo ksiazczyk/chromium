@@ -1,0 +1,4 @@
+# Docerion header of mac-laptop_high_end-perf-pgo_map.json.
+type: data
+title: Mac high-end laptop PGO perf shard map
+summary: Shard map splitting Mac high-end laptop PGO performance benchmarks such as blink_perf suites and desktop_ui across numbered shards.

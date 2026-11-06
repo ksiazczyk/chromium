@@ -1,0 +1,4 @@
+# Docerion header of android-pixel-fold-perf_timing.json.
+type: data
+title: Pixel Fold perf timing data
+summary: Benchmark durations for the Pixel Fold perf builder, covering blink_perf, rendering.mobile, and system_health benchmarks.

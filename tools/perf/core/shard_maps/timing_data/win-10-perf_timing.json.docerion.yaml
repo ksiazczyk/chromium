@@ -1,0 +1,4 @@
+# Docerion header of win-10-perf_timing.json.
+type: data
+title: Windows 10 perf test timing data
+summary: Measured durations of benchmark tests on the win-10-perf builder, used to balance performance test shard maps.

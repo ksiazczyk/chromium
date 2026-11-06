@@ -1,0 +1,4 @@
+# Docerion header of win-10-perf-pgo_timing.json.
+type: data
+title: Windows 10 PGO perf test timing data
+summary: Durations for gtest-based perftests such as base_perftests and dawn_perf_tests on the win-10-perf-pgo builder.

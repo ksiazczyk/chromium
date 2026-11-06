@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Loading crossbench story set
+# summary: Story set for the loading.crossbench benchmark using Android loading archive data.
+# ---
+
 import os
 
 from core import path_util

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Desktop power measurement story set
+# summary: Combines trivial scrolling, animation, and video pages with idle sites to measure desktop power use.
+# ---
+
 from telemetry.page import page as page_module
 from telemetry.page import shared_page_state
 from telemetry import story

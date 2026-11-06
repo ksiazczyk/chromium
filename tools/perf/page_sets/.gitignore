@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gitignore for page set binaries and archives
+# summary: Ignores media files, WPR archives, and fetched-file timestamps under tools/perf/page_sets.
+# ---
+
 *.gif
 *.jpeg
 *.jpg

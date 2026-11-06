@@ -1,0 +1,4 @@
+# Docerion header of blur_rotating_background.html.
+type: test
+title: Backdrop filter blur rotating background test page
+summary: HTML animation page for Chromium performance tests that measures backdrop-filter blur over a rotating background with animated foreground layers and a warm-up phase.

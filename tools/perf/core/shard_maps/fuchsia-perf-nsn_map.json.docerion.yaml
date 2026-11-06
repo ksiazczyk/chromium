@@ -1,0 +1,4 @@
+# Docerion header of fuchsia-perf-nsn_map.json.
+type: config
+title: Fuchsia NSN perf shard map
+summary: Shard map assigning media.mobile, speedometer2 and v8.browsing_mobile to a single shard for the Fuchsia NSN perf builder.

@@ -1,0 +1,4 @@
+# Docerion header of mac-m1-pro-perf_map.json.
+type: data
+title: Mac M1 Pro perf shard map
+summary: Shard map assigning Mac M1 Pro performance benchmarks and crossbench suites like Speedometer 3 and JetStream to four shards, with predicted shard timings.

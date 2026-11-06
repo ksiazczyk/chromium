@@ -1,0 +1,4 @@
+# Docerion header of android-brya-kano-i5-8gb-perf_timing.json.
+type: data
+title: Android brya-kano-i5-8gb perf timing data
+summary: Timing data for the android-brya-kano-i5-8gb perf builder, listing durations for JetStream2 and Speedometer2 benchmarks.

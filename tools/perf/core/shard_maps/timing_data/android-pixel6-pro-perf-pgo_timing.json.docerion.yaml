@@ -1,0 +1,4 @@
+# Docerion header of android-pixel6-pro-perf-pgo_timing.json.
+type: data
+title: Pixel 6 Pro perf PGO timing data
+summary: Empty timing list for the Android Pixel 6 Pro perf PGO builder, providing no per-benchmark durations for its shard map.

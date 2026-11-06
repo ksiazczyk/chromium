@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Trace processor integration for TBMv3
+# summary: Module that fetches or locates the Perfetto trace processor shell, runs metrics on traces, and converts proto traces to JSON.
+# ---
+
 import csv
 import json
 import logging

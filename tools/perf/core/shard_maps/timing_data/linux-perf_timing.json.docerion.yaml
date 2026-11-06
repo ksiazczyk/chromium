@@ -1,0 +1,4 @@
+# Docerion header of linux-perf_timing.json.
+type: data
+title: Linux perf timing data
+summary: Durations of perf tests on the Linux perf bot, used for shard map calculations.

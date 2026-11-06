@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: WebRTC benchmark cases
+# summary: Defines WebRTC performance stories for HD local stream capture, data channel transfer, canvas capture, video codec constraints and multiple peer connections.
+# ---
+
 from page_sets import press_story
 from telemetry import story
 

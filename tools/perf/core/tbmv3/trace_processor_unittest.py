@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for trace_processor
+# summary: Unit tests that mock trace processor execution to verify binary fallback, trace conversion, and metric output handling.
+# ---
+
 import os
 import shutil
 import tempfile

@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Speedometer 3 benchmark stories
+# summary: Defines telemetry stories for the Speedometer 3 benchmark with suite filtering, iteration control, and optional memory measurement.
+# ---
+
 """Speedometer 3 Web Interaction Benchmark Pages"""
 
 import os

@@ -1,0 +1,4 @@
+# Docerion header of linux-nvidia-dgx-spark-arm-perf_timing.json.
+type: data
+title: Linux NVIDIA DGX Spark ARM perf timing data
+summary: Benchmark durations for base, tint, tracing and load library perftests on the linux-nvidia-dgx-spark-arm builder.

@@ -1,6 +1,12 @@
 // Copyright 2020 Google LLC.
 // SPDX-License-Identifier: Apache-2.0
 
+// ---docerion
+// type: source
+// title: Accessibility metric proto definition
+// summary: Defines the AccessibilityMetric protobuf message with timing fields for browser and renderer accessibility events, extending Perfetto TraceMetrics.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos;

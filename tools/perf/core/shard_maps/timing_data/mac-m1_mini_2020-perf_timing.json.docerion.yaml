@@ -1,0 +1,4 @@
+# Docerion header of mac-m1_mini_2020-perf_timing.json.
+type: data
+title: Mac M1 Mini 2020 perf test timing data
+summary: Measured durations of blink_perf and other benchmark tests on the mac-m1-mini_2020 perf builder, used to balance performance test shard maps.

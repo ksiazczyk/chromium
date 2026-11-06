@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for WebRTC page set files
+summary: Assigns per-file owners for WebRTC story set files in the page_sets directory.

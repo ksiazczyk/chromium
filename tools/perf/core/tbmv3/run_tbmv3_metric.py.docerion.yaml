@@ -1,0 +1,4 @@
+# Docerion header of run_tbmv3_metric.py.
+type: script
+title: Run TBMv3 metrics on local traces
+summary: Command-line tool that runs a chosen TBMv3 metric on a trace file and writes the resulting histograms as JSON.

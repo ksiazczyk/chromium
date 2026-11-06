@@ -1,0 +1,4 @@
+# Docerion header of android-pixel10_webview-perf_timing.json.
+type: data
+title: Pixel 10 WebView perf timing data
+summary: Measured durations for blink_perf and other benchmarks on the Android Pixel 10 WebView perf builder, used to balance perf trybot shard maps.

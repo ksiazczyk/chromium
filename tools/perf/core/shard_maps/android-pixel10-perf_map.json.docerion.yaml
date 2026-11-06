@@ -1,0 +1,4 @@
+# Docerion header of android-pixel10-perf_map.json.
+type: data
+title: Pixel 10 perf shard map
+summary: Large shard map assigning benchmarks and crossbench suites including Speedometer and MotionMark variants to shards for Pixel 10 perf tests.

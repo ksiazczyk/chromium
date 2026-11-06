@@ -1,0 +1,4 @@
+# Docerion header of mac-m2-pro-perf_map.json.
+type: config
+title: Mac M2 Pro perf shard map
+summary: Shard map distributing blink_perf, desktop, media and crossbench benchmarks across shards for the Mac M2 Pro performance builder.

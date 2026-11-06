@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: ChromeOS desktop UI cases story set
+# summary: Defines overview-mode and multiwindow pages that test ChromeOS desktop UI performance.
+# ---
+
 import logging
 
 from telemetry.page import page as page_module

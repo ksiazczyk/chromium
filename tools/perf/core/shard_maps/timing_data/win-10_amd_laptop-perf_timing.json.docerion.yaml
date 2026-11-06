@@ -1,0 +1,4 @@
+# Docerion header of win-10_amd_laptop-perf_timing.json.
+type: data
+title: Windows 10 AMD laptop perf test timing data
+summary: Durations for browser benchmarks like JetStream2 and Speedometer on the win-10_amd_laptop perf builder.

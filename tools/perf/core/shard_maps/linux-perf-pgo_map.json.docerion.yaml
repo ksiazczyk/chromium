@@ -1,0 +1,4 @@
+# Docerion header of linux-perf-pgo_map.json.
+type: config
+title: Linux perf PGO shard map
+summary: Shard map distributing Blink, media, memory and desktop benchmarks plus perftest executables across many shards for the Linux perf PGO builder.

@@ -1,0 +1,4 @@
+# Docerion header of android-pixel-tangor-perf_timing.json.
+type: data
+title: Android pixel-tangor perf timing data
+summary: Benchmark durations for the android-pixel-tangor perf builder, covering blink_perf, rendering, and system_health benchmarks.

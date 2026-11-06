@@ -1,6 +1,13 @@
 # Copyright 2015 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: WebGL supported shared state
+# summary: Shared page state that skips pages when the browser lacks WebGL support or the GPU vendor is listed in the page's skipped_gpus.
+# ---
+
 import logging
 
 from telemetry.page import shared_page_state

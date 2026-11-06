@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Dummy web page replay story set
+# summary: Defines a dummy story set backed by a web page replay archive of google.com for testing WPR-based benchmarks.
+# ---
+
 from telemetry.page import page as page_module
 from telemetry import story
 

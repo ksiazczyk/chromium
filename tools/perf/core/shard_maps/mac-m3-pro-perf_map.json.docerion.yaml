@@ -1,0 +1,4 @@
+# Docerion header of mac-m3-pro-perf_map.json.
+type: config
+title: Mac M3 Pro perf shard map
+summary: Shard map assigning Speedometer, JetStream and MotionMark crossbench runs to four shards for the Mac M3 Pro perf builder, with timing estimates.

@@ -6,6 +6,12 @@
 -- profile data.
 -- Output values are in milliampere-seconds.
 
+-- ---docerion
+-- type: source
+-- title: WebView power usage metric SQL query
+-- summary: Estimates WebView power usage from CPU time at core frequencies and emits per-app and device totals in milliampere-seconds.
+-- ---
+
 SELECT RUN_METRIC('webview/webview_power_usage.sql');
 
 CREATE VIEW webview_power_usage_metric_output AS

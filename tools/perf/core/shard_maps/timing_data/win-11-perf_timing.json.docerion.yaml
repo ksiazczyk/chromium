@@ -1,0 +1,4 @@
+# Docerion header of win-11-perf_timing.json.
+type: data
+title: Windows 11 perf timing data
+summary: Per-benchmark durations for blink_perf and other tests on the win-11 perf bot, used to balance perf test sharding.

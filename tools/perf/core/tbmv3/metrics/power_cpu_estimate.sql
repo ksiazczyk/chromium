@@ -3,6 +3,12 @@
 -- profile data.
 -- Output values are in Amper-hours.
 
+-- ---docerion
+-- type: source
+-- title: Power CPU estimate SQL queries
+-- summary: SQL views that estimate CPU and SoC power consumption from the device power profile and per-thread power over the duration of a story run.
+-- ---
+
 SELECT RUN_METRIC('android/android_proxy_power.sql');
 
 CREATE VIEW RunStory AS

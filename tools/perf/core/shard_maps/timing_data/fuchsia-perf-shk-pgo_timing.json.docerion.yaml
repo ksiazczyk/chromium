@@ -1,0 +1,4 @@
+# Docerion header of fuchsia-perf-shk-pgo_timing.json.
+type: data
+title: Fuchsia perf SHK PGO timing data
+summary: Benchmark durations for media and Speedometer2 tests on the fuchsia-perf-shk-pgo builder, used for perf shard mapping.

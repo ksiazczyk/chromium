@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Trivial sites story pages
+# summary: Defines trivial benchmark pages such as scrolling, canvas, WebGL and fullscreen video with optional memory measurement.
+# ---
+
 from telemetry.page import page as page_module
 from telemetry.page import shared_page_state
 from telemetry import story

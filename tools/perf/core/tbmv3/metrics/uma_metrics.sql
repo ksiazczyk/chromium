@@ -1,6 +1,12 @@
 -- Copyright 2020 Google LLC.
 -- SPDX-License-Identifier: Apache-2.0
 
+-- ---docerion
+-- type: source
+-- title: UMA metrics SQL query
+-- summary: Extracts UMA histogram samples from traces and scales them into the UMAMetrics output fields defined in the proto.
+-- ---
+
 -- A view of all histogram samples from a trace.
 CREATE VIEW histogram_samples AS
 SELECT

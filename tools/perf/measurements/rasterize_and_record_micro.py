@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Rasterize and record micro benchmark measurement
+# summary: Legacy page test that runs the rasterize_and_record micro benchmark in the renderer and reports rasterize and record timings, pixel counts and memory usage.
+# ---
+
 import time
 
 from telemetry.page import legacy_page_test

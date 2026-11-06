@@ -1,0 +1,4 @@
+# Docerion header of win-arm64-snapdragon-elite-perf_timing.json.
+type: data
+title: Windows ARM64 Snapdragon Elite perf timing data
+summary: Per-benchmark durations for blink_perf and other tests on the win-arm64 Snapdragon Elite perf bot, used to balance perf test sharding.

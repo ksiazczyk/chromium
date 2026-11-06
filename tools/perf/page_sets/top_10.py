@@ -1,6 +1,13 @@
 # Copyright 2014 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Top 10 Alexa sites story set
+# summary: Defines a story set of ten pages chosen from Alexa top sites, including Google, YouTube, Facebook and Wikipedia.
+# ---
+
 from telemetry.page import page as page_module
 from telemetry.page import shared_page_state
 from telemetry import story

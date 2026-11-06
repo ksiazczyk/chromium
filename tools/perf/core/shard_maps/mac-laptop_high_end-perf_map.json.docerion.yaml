@@ -1,0 +1,4 @@
+# Docerion header of mac-laptop_high_end-perf_map.json.
+type: data
+title: Mac high-end laptop perf shard map
+summary: Shard map splitting Mac high-end laptop performance benchmarks, executables and crossbench suites like Speedometer and JetStream across shards.

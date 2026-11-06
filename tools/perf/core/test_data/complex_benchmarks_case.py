@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Complex benchmark test case classes
+# summary: Defines sample PerfBenchmark subclasses with cross-module inheritance used as fixtures for benchmark logic tests.
+# ---
+
 
 from core import perf_benchmark
 from core.test_data import simple_benchmarks_case

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Companion story set
+# summary: Defines the CompanionStorySet that assembles the basic companion stories into a telemetry story set for benchmarking.
+# ---
+
 from telemetry import story
 from page_sets.companion import basic_companion_story
 
