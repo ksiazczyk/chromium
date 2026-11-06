@@ -1,0 +1,4 @@
+# Docerion header of permissions_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Permissions banner overlay mediator unit tests
+summary: Unit tests checking that the permissions banner mediator configures its consumer correctly and presents the modal or page actions depending on feature flags.

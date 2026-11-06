@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page image model BUILD.gn build definition
+summary: Defines the model source_set for the iOS page image service, listing its factory sources and dependencies on base, page_image_service, and related iOS browser components.

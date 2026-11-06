@@ -1,0 +1,4 @@
+# Docerion header of sync_error_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Sync error infobar banner overlay mediator unit tests
+summary: Unit tests for SyncErrorInfobarBannerOverlayMediator using a mock sync error delegate, fake banner consumer, and overlay request fixtures.

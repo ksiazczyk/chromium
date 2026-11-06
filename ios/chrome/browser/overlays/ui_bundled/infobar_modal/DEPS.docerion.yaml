@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Infobar modal overlay include dependency rules
+summary: Lists the allowed include directories for the infobar modal overlay code, covering infobar coordinators, modals, and presentation.

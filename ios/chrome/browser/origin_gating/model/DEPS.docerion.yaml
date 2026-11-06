@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Origin gating model dependency rules
+summary: Restricts includes in this directory to the components/origin_gating/core dependency.

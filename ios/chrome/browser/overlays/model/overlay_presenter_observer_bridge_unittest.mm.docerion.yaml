@@ -1,0 +1,4 @@
+# Docerion header of overlay_presenter_observer_bridge_unittest.mm.
+type: test
+title: OverlayPresenterObserverBridge unit tests
+summary: Unit tests verifying that OverlayPresenterObserverBridge forwards request support and presenter events such as show, hide and destruction to the Objective-C observer.

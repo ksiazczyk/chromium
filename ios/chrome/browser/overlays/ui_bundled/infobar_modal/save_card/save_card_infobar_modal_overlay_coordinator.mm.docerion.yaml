@@ -1,0 +1,4 @@
+# Docerion header of save_card_infobar_modal_overlay_coordinator.mm.
+type: source
+title: Save Card infobar modal overlay coordinator implementation
+summary: Implements the coordinator that creates the Save Card modal mediator and view controller and handles pending legal-message URL loading on dismissal.

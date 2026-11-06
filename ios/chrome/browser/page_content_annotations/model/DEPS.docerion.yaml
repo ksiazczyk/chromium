@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for page content annotations model
+summary: Restricts includes in this directory to optimization guide, page content annotations, variations, and related iOS model directories.

@@ -1,0 +1,4 @@
+# Docerion header of save_card_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Save card banner mediator unit tests
+summary: Unit tests for the save card banner mediator, verifying banner actions, snackbar messages, and save card prompt metrics histograms.

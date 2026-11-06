@@ -1,0 +1,4 @@
+# Docerion header of save_card_infobar_modal_overlay_mediator_unittest.mm.
+type: test
+title: Save Card infobar modal overlay mediator unit tests
+summary: Unit tests for the Save Card modal mediator covering consumer configuration, save prompt metrics histograms, and credit card upload completion flows.

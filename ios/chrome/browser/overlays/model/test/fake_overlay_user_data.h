@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake overlay user data for tests
+// summary: Declares a test OverlayUserData subclass that stores arbitrary pointers in overlay requests and responses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_TEST_FAKE_OVERLAY_USER_DATA_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_TEST_FAKE_OVERLAY_USER_DATA_H_
 

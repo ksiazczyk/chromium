@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for translate infobar banner overlays
+summary: Defines GN source sets for the translate infobar banner coordinator, mediator and unit tests together with their dependencies.

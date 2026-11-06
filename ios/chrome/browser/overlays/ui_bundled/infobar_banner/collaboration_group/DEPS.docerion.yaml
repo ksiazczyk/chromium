@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for collaboration group
+summary: Chromium DEPS allowlist permitting includes from the collaboration messaging infobar and share kit model directories.

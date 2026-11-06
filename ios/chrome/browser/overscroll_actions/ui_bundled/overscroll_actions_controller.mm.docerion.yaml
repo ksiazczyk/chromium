@@ -1,0 +1,4 @@
+# Docerion header of overscroll_actions_controller.mm.
+type: source
+title: Overscroll actions controller implementation
+summary: Implements pull-down gesture handling, action triggering, bounce animation, fullscreen interaction and histogram metrics for overscroll actions.

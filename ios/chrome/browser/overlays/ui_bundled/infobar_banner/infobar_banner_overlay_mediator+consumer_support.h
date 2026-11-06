@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar banner mediator consumer support category
+// summary: Declares a category that mediator subclasses implement to configure the banner consumer from the overlay request.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_INFOBAR_BANNER_OVERLAY_MEDIATOR_CONSUMER_SUPPORT_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_INFOBAR_BANNER_OVERLAY_MEDIATOR_CONSUMER_SUPPORT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_context_coordinator.mm.
+type: source
+title: Overlay presentation context coordinator implementation
+summary: Implements the presentation context coordinator, presenting and dismissing the overlay presentation context view controller on start and stop.

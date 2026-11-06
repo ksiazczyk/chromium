@@ -1,0 +1,4 @@
+# Docerion header of permissions_infobar_modal_overlay_mediator.mm.
+type: source
+title: Permissions infobar modal overlay mediator implementation
+summary: Implements the mediator that observes web state permission changes and updates the permissions modal consumer.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_overlay_mediator_unittest.mm.
+type: test
+title: InfobarModalOverlayMediator unit tests
+summary: Unit tests for InfobarModalOverlayMediator verifying dismissal and main action response dispatch via mock delegates and callback installers.

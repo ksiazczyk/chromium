@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayCallbackManagerImpl header
+// summary: Declares OverlayCallbackManagerImpl, which stores completion and dispatch callbacks and responses and executes the callbacks for overlay responses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_OVERLAY_CALLBACK_MANAGER_IMPL_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_OVERLAY_CALLBACK_MANAGER_IMPL_H_
 

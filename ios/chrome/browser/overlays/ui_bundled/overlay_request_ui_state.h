@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay request UI state header
+// summary: Declares OverlayRequestUIState, a container tracking presentation state, coordinator, and dismissal callbacks for an overlay request.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_REQUEST_UI_STATE_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_REQUEST_UI_STATE_H_
 

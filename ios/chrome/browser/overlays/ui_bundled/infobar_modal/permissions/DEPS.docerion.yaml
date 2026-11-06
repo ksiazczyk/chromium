@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for permissions infobar modal overlay
+summary: Sets include rules allowing this directory to depend on the iOS permissions UI bundled targets.

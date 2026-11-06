@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_overlay_coordinator.mm.
+type: source
+title: InfobarModalOverlayCoordinator implementation
+summary: Implements presentation and dismissal of infobar modal UI, including modal height calculation, navigation controller setup, and iOS 26 navigation bar padding.

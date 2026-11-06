@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay request coordinator factory interface
+// summary: Declares OverlayRequestCoordinatorFactory, which creates coordinators to show overlay UI for overlay requests in the iOS Chrome overlays system.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_COORDINATOR_FACTORY_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_COORDINATOR_FACTORY_H_
 

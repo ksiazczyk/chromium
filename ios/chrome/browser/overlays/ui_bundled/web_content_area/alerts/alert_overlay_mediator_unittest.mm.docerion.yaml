@@ -1,0 +1,4 @@
+# Docerion header of alert_overlay_mediator_unittest.mm.
+type: test
+title: Unit tests for AlertOverlayMediator
+summary: Tests consumer configuration, button tap handling, text field value collection, and response creation using fake request and data source objects.

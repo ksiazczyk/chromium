@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_mediator.mm.
+type: source
+title: OverlayRequestMediator implementation
+summary: Implements the overlay request mediator, resetting the request pointer on completion and dispatching responses through the callback manager.

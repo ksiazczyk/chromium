@@ -1,0 +1,4 @@
+# Docerion header of test_overlay_presentation_context.mm.
+type: test
+title: Test overlay presentation context implementation
+summary: Implements the test presentation context, wiring the testing modality to the test overlay request coordinator factory.

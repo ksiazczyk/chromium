@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card infobar banner overlay mediator header
+// summary: Declares the mediator that configures an infobar banner for a save card infobar, with a snackbar command handler property.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_SAVE_CARD_SAVE_CARD_INFOBAR_BANNER_OVERLAY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_SAVE_CARD_SAVE_CARD_INFOBAR_BANNER_OVERLAY_MEDIATOR_H_
 

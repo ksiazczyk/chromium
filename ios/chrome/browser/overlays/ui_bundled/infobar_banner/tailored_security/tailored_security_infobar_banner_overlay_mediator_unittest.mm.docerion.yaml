@@ -1,0 +1,4 @@
+# Docerion header of tailored_security_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Tailored security infobar banner mediator unit tests
+summary: Unit tests verifying that the mediator correctly sets up its fake banner consumer for different tailored security message states.

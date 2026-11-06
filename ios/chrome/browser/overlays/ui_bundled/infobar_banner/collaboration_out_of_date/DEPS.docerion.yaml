@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for collaboration_out_of_date
+summary: Specifies the allowed dependency include rules for the collaboration_out_of_date directory.

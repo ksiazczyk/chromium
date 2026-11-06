@@ -1,0 +1,4 @@
+# Docerion header of default_overlay_request_cancel_handler.mm.
+type: source
+title: DefaultOverlayRequestCancelHandler implementation
+summary: Cancels overlay requests for committed document-changing navigations, renderer crashes, and WebState destruction.

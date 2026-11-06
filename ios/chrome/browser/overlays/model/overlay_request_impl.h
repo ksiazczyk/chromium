@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayRequestImpl header
+// summary: Declares the internal OverlayRequest implementation holding the request ID, queue WebState, and callback manager.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_OVERLAY_REQUEST_IMPL_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_OVERLAY_REQUEST_IMPL_H_
 

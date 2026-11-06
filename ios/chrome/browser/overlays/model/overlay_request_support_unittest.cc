@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay request support unit tests
+// summary: Unit tests for OverlayRequestSupport covering All(), None(), config-specific template support and aggregated support.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_request_support.h"
 
 #include "ios/chrome/browser/overlays/model/public/overlay_request_config.h"

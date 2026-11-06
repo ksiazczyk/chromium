@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayCallbackManagerImpl implementation
+// summary: Implements storage and execution of completion and dispatch callbacks plus the completion response for overlay requests.
+// ---
+
 #include "ios/chrome/browser/overlays/model/overlay_callback_manager_impl.h"
 
 #include "base/check.h"

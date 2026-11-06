@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for translate infobar modal overlay
+summary: GN build file defining the translate infobar modal overlay source set and its unit test target together with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar modal overlay coordinator interface
+// summary: Declares the coordinator that presents the translate infobar modal UI through the overlay system.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_TRANSLATE_TRANSLATE_INFOBAR_MODAL_OVERLAY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_TRANSLATE_TRANSLATE_INFOBAR_MODAL_OVERLAY_COORDINATOR_H_
 

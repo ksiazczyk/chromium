@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarModalOverlayCoordinator modal configuration category
+// summary: Declares a category on InfobarModalOverlayCoordinator that subclasses use to create and configure the mediator and view controller for infobar modals.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_INFOBAR_MODAL_OVERLAY_COORDINATOR_MODAL_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_INFOBAR_MODAL_OVERLAY_COORDINATOR_MODAL_CONFIGURATION_H_
 

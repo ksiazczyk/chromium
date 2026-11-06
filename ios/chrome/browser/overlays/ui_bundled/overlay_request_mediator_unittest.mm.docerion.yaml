@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_mediator_unittest.mm.
+type: test
+title: OverlayRequestMediator unit tests
+summary: Tests that the mediator resets its request after destruction, dispatches responses correctly, and dismisses the overlay via its delegate.

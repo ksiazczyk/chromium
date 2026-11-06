@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_modal_overlay_coordinator.mm.
+type: source
+title: Translate infobar modal overlay coordinator implementation
+summary: Implements the translate modal coordinator, configuring the mediator and pushing source or target language selection screens.

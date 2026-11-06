@@ -1,0 +1,4 @@
+# Docerion header of test_overlay_request_coordinator_factory.mm.
+type: test
+title: Test overlay request coordinator factory implementation
+summary: Implements a factory that returns the test overlay coordinator class matching an overlay request's supported modality.

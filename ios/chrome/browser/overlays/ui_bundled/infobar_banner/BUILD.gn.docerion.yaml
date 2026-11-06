@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Infobar banner overlay build targets
+summary: GN build file defining source sets for infobar banner coordinators, mediators, mediator factory and unit tests.

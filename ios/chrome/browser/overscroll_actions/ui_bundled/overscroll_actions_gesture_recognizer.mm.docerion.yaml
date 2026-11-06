@@ -1,0 +1,4 @@
+# Docerion header of overscroll_actions_gesture_recognizer.mm.
+type: source
+title: Overscroll actions gesture recognizer implementation
+summary: Implements the pan gesture recognizer subclass that re-invokes the target action on reset to work around crbug 699655.

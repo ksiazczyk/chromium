@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay presentation context coordinator interface
+// summary: Declares a coordinator that presents a view controller to establish a UIKit presentation context for custom non-modal overlay presentation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_PRESENTATION_CONTEXT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_PRESENTATION_CONTEXT_COORDINATOR_H_
 

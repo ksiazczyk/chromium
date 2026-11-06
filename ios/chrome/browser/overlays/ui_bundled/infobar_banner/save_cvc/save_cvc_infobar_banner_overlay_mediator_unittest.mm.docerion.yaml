@@ -1,0 +1,4 @@
+# Docerion header of save_cvc_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Save CVC infobar banner overlay mediator unit tests
+summary: Unit tests verifying the mediator's consumer setup and save CVC prompt offer and result metrics for local and upload saves.

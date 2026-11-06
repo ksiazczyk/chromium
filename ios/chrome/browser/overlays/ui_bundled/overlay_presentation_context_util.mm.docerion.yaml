@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_context_util.mm.
+type: source
+title: Overlay presentation context utility implementation
+summary: Implements helpers that check an overlay presentation context's capabilities for contained and presented overlay UI support.

@@ -1,0 +1,4 @@
+# Docerion header of alert_overlay_mediator.mm.
+type: source
+title: AlertOverlayMediator implementation
+summary: Configures the alert consumer from the AlertRequest, builds alert actions from button configs, records user metrics, and dispatches alert responses.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollaborationOutOfDateInfobarBannerOverlayMediator header
+// summary: Declares the mediator class that configures an infobar banner for the out-of-date message about shared tab groups support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_COLLABORATION_OUT_OF_DATE_COLLABORATION_OUT_OF_DATE_INFOBAR_BANNER_OVERLAY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_COLLABORATION_OUT_OF_DATE_COLLABORATION_OUT_OF_DATE_INFOBAR_BANNER_OVERLAY_MEDIATOR_H_
 

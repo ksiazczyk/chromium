@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Save card infobar banner build configuration
+summary: Defines the GN build targets for the save card infobar banner overlay mediator and its unit tests, listing sources and dependencies.

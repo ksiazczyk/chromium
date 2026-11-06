@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay container fullscreen disabler interface
+// summary: Declares OverlayContainerFullscreenDisabler, a helper that disables fullscreen while overlays are displayed for a browser and modality.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_PRESENTATION_CONTEXT_FULLSCREEN_DISABLER_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_PRESENTATION_CONTEXT_FULLSCREEN_DISABLER_H_
 

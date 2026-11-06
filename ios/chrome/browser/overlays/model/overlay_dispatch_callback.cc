@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayDispatchCallback implementation
+// summary: Implements OverlayDispatchCallback, which runs its wrapped callback only when the response matches the configured response support.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_dispatch_callback.h"
 
 #include "base/check.h"

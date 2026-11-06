@@ -1,0 +1,4 @@
+# Docerion header of overscroll_actions_tab_helper_unittest.mm.
+type: test
+title: OverscrollActionsTabHelper unit tests
+summary: Unit tests for the tab helper that simulate pull-to-refresh scrolling with fake delegates and web state to verify controller behavior.

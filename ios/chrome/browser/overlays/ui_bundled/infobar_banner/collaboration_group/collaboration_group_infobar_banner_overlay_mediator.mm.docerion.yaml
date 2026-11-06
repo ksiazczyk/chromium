@@ -1,0 +1,4 @@
+# Docerion header of collaboration_group_infobar_banner_overlay_mediator.mm.
+type: source
+title: Collaboration group infobar banner overlay mediator implementation
+summary: Objective-C++ implementation configuring the banner's button, avatar or icon, and title text from the collaboration group delegate.

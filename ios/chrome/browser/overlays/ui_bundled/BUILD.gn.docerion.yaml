@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for overlay UI
+summary: Defines GN source sets and dependencies for the iOS overlay UI bundled code, including coordinators, view controllers, presentation context, and unit tests.

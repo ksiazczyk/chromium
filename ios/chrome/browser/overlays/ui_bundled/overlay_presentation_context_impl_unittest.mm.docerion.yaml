@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_context_impl_unittest.mm.
+type: test
+title: OverlayPresentationContextImpl unit tests
+summary: Unit tests for OverlayPresentationContextImpl covering presentation capability changes, observers, and delegate-driven view hierarchy setup.

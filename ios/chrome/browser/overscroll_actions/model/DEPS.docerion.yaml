@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for overscroll actions model
+summary: Specifies allowed header includes for the tab helper sources, with a TODO to remove these dependencies.

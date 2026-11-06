@@ -1,0 +1,4 @@
+# Docerion header of alert_overlay_coordinator.mm.
+type: source
+title: AlertOverlayCoordinator implementation
+summary: Presents the alert view controller via a contained presenter, supplies text field input to the mediator, and updates Gemini floaty visibility on presentation and dismissal.

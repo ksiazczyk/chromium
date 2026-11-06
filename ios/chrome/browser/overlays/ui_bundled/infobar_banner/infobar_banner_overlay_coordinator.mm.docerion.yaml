@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_coordinator.mm.
+type: source
+title: Infobar banner overlay coordinator implementation
+summary: Implements infobar banner presentation, including banner positioning relative to toolbars and mediator creation.

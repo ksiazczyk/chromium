@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_impl_unittest.mm.
+type: test
+title: OverlayRequestImpl unit tests
+summary: Unit test verifying that an overlay request executes its completion callbacks with the set response when destroyed.

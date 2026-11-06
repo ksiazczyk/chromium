@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for password infobar banner mediators
+summary: Defines the GN source_set targets and dependencies for the password infobar banner mediator and its unit tests.

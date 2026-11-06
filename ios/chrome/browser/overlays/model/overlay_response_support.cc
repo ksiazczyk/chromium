@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay response support implementation
+// summary: Implements OverlayResponseSupport, including the universal All() and None() supports and aggregation of multiple supports.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_response_support.h"
 
 #include "base/no_destructor.h"

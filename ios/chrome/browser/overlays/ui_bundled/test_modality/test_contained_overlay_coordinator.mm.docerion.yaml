@@ -1,0 +1,4 @@
+# Docerion header of test_contained_overlay_coordinator.mm.
+type: source
+title: TestContainedOverlayCoordinator implementation
+summary: Implements a test overlay coordinator that adds its overlay view to the base view controller as a child view controller.

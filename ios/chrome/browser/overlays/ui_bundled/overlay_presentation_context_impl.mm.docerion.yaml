@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_context_impl.mm.
+type: source
+title: Overlay presentation context implementation
+summary: Implements the overlay presentation context, creating coordinators via the factory and showing or dismissing overlay UI as requests are presented.

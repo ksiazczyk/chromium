@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Translate infobar banner overlay mediator unit tests
+summary: Tests that the mediator sets up its consumer correctly and that button presses after infobar removal do not crash.

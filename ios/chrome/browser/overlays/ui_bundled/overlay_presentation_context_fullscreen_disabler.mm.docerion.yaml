@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_context_fullscreen_disabler.mm.
+type: source
+title: Overlay container fullscreen disabler implementation
+summary: Implements the fullscreen disabler, observing the overlay presenter to disable fullscreen when overlays are shown, except for watermark overlays.

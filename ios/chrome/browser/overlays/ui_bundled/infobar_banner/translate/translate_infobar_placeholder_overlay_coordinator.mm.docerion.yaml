@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_placeholder_overlay_coordinator.mm.
+type: source
+title: Translate infobar placeholder overlay coordinator implementation
+summary: Implements the no-UI placeholder coordinator lifecycle and notifies the presentation context when dismissal finishes.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sync error infobar banner build configuration
+summary: Defines the GN source sets for the sync error infobar banner mediator and its unit tests, listing sources and dependencies.

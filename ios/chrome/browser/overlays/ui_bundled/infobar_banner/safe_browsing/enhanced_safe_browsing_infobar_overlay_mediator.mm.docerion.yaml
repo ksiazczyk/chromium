@@ -1,0 +1,4 @@
+# Docerion header of enhanced_safe_browsing_infobar_overlay_mediator.mm.
+type: source
+title: Enhanced Safe Browsing banner overlay mediator implementation
+summary: Implements the Enhanced Safe Browsing banner mediator, populating banner title, subtitle, button, and icon from the infobar delegate and handling the banner button press.

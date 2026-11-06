@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_ui_state.mm.
+type: source
+title: Overlay request UI state implementation
+summary: Implements OverlayRequestUIState lifecycle methods that store callbacks, track presentation, and run dismissal callbacks with a reason.

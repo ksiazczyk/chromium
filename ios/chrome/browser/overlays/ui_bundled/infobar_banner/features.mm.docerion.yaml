@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Infobar banner display length feature definitions
+summary: Defines the infobar display duration features and their default duration parameter values.

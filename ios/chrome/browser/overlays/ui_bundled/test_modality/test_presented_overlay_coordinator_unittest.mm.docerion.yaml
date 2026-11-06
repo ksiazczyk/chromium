@@ -1,0 +1,4 @@
+# Docerion header of test_presented_overlay_coordinator_unittest.mm.
+type: test
+title: TestPresentedOverlayCoordinator unit tests
+summary: Unit tests verifying the view hierarchy and delegate notifications for the presented overlay coordinator's asynchronous presentation.

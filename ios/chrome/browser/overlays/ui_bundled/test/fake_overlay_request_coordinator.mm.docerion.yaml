@@ -1,0 +1,4 @@
+# Docerion header of fake_overlay_request_coordinator.mm.
+type: test
+title: Fake overlay request coordinator implementation
+summary: Implements the fake coordinator with all-request support and no-op start and stop methods for overlay testing.

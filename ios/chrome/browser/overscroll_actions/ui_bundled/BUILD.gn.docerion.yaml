@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for overscroll actions UI and Earl Grey tests
+summary: GN build file defining the ui_bundled source set and the eg2_tests test target with their dependencies and frameworks for the iOS overscroll actions UI.

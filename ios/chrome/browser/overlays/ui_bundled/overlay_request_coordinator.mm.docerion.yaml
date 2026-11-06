@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_coordinator.mm.
+type: source
+title: OverlayRequestCoordinator implementation
+summary: Implements the base overlay request coordinator, including request completion callbacks, animated start and stop hooks, and the subclassing category.

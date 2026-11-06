@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay response support unit tests
+// summary: Unit tests verifying OverlayResponseSupport behavior for All, None, template-based, and aggregated response support.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_response_support.h"
 
 #include "ios/chrome/browser/overlays/model/public/overlay_response_info.h"

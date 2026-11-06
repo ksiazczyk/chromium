@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollActionsTabHelper class header
+// summary: Declares the OverscrollActionsTabHelper, a WebState user data class that owns the overscroll actions controller and manages its delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERSCROLL_ACTIONS_MODEL_OVERSCROLL_ACTIONS_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_OVERSCROLL_ACTIONS_MODEL_OVERSCROLL_ACTIONS_TAB_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_overlay_coordinator_unittest.mm.
+type: test
+title: InfobarModalOverlayCoordinator unit tests
+summary: Unit tests for InfobarModalOverlayCoordinator covering modal presentation and dismissal flows using fake coordinators and mock delegates.

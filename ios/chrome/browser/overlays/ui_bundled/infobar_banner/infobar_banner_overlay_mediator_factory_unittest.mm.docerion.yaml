@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_mediator_factory_unittest.mm.
+type: test
+title: Infobar banner overlay mediator factory unit tests
+summary: Unit tests verifying that the banner mediator factory supports expected overlay requests and returns the correct mediators for default and custom infobar requests.

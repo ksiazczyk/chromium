@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for contextual cue infobar banner
+summary: Defines the contextual_cue source set and its unit_tests target, listing sources and build dependencies.

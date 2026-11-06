@@ -1,0 +1,4 @@
+# Docerion header of overlay_container_coordinator_unittest.mm.
+type: test
+title: Overlay container coordinator unit tests
+summary: Unit tests verifying that OverlayContainerCoordinator updates its presentation context capabilities when started and stopped.

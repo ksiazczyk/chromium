@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Save Card infobar modal overlay build configuration
+summary: Defines the save_card source set and unit_tests target with their sources and dependencies for the Save Card infobar modal overlay.

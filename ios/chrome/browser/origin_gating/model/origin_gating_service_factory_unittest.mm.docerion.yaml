@@ -1,0 +1,4 @@
+# Docerion header of origin_gating_service_factory_unittest.mm.
+type: test
+title: OriginGatingServiceFactory unit tests
+summary: Verifies service instances are reused per profile and distinct across unrelated and off-the-record profiles.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Confirm infobar banner BUILD.gn build file
+summary: Defines GN source sets for the confirm infobar banner mediator and its unit tests with their dependencies.

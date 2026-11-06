@@ -1,0 +1,4 @@
+# Docerion header of default_overlay_request_cancel_handler_unittest.mm.
+type: test
+title: DefaultOverlayRequestCancelHandler unit tests
+summary: Verifies that overlay requests are removed from the queue after committed navigations and renderer crashes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultOverlayRequestCancelHandler class declaration
+// summary: Declares the default cancel handler that cancels overlay requests when navigation events occur in a WebState.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_DEFAULT_OVERLAY_REQUEST_CANCEL_HANDLER_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_DEFAULT_OVERLAY_REQUEST_CANCEL_HANDLER_H_
 

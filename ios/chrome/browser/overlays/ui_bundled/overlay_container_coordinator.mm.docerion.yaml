@@ -1,0 +1,4 @@
+# Docerion header of overlay_container_coordinator.mm.
+type: source
+title: Overlay container coordinator implementation
+summary: Implements the overlay container coordinator, creating the container view controller and wiring the overlay presentation context delegate.

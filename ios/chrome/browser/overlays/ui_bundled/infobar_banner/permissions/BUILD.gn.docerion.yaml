@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for permissions infobar banner
+summary: GN build file defining the permissions infobar banner source set and its unit tests together with their dependencies.

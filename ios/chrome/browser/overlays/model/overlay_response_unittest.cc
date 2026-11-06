@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay response unit tests
+// summary: Unit tests verifying that OverlayResponse objects can be created with info data and retrieved.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_response.h"
 
 #include "ios/chrome/browser/overlays/model/test/fake_overlay_user_data.h"

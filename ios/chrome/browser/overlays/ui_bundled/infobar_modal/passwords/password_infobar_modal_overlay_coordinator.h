@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password infobar modal overlay coordinator header
+// summary: Declares the coordinator that displays the password infobar modal UI using OverlayPresenter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_PASSWORDS_PASSWORD_INFOBAR_MODAL_OVERLAY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_PASSWORDS_PASSWORD_INFOBAR_MODAL_OVERLAY_COORDINATOR_H_
 

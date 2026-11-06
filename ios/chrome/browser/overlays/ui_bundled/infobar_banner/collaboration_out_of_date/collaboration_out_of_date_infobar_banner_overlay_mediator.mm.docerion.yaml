@@ -1,0 +1,4 @@
+# Docerion header of collaboration_out_of_date_infobar_banner_overlay_mediator.mm.
+type: source
+title: CollaborationOutOfDateInfobarBannerOverlayMediator implementation
+summary: Implements the banner mediator, configuring button text, icon and title from the delegate and handling banner button presses.

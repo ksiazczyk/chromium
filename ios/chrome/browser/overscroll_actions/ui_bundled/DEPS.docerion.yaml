@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the overscroll actions directory
+summary: DEPS file listing the include rules that define which dependencies the overscroll actions UI code may include.

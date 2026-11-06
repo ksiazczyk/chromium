@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlertOverlayMediator interface
+// summary: Declares the mediator superclass that configures alert consumers, along with data source and delegate protocols for text field input.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_WEB_CONTENT_AREA_ALERTS_ALERT_OVERLAY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_WEB_CONTENT_AREA_ALERTS_ALERT_OVERLAY_MEDIATOR_H_
 

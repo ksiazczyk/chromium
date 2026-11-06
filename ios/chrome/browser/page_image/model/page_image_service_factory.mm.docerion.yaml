@@ -1,0 +1,4 @@
+# Docerion header of page_image_service_factory.mm.
+type: source
+title: Page image service factory implementation
+summary: Implements PageImageServiceFactory, building an ImageServiceImpl from template URL, remote suggestions, optimization guide, and sync services for each profile.

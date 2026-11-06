@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test overlay presentation context declaration
+// summary: Declares TestOverlayPresentationContext, an OverlayPresentationContextImpl for the testing overlay modality.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_TEST_TEST_OVERLAY_PRESENTATION_CONTEXT_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_TEST_TEST_OVERLAY_PRESENTATION_CONTEXT_H_
 

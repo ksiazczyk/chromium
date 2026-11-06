@@ -1,0 +1,4 @@
+# Docerion header of overlay_browser_agent_base.mm.
+type: source
+title: OverlayBrowserAgentBase implementation
+summary: Implements the base browser agent that stores callback installers per modality and installs callbacks when overlays are shown.

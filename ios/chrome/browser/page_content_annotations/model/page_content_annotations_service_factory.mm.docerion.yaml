@@ -1,0 +1,4 @@
+# Docerion header of page_content_annotations_service_factory.mm.
+type: source
+title: PageContentAnnotationsServiceFactory implementation
+summary: Builds the page content annotations service for a profile, wiring optimization guide, history, template URL, and zero suggest dependencies behind a feature check.

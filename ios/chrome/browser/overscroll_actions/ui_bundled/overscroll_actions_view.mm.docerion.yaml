@@ -1,0 +1,4 @@
+# Docerion header of overscroll_actions_view.mm.
+type: source
+title: Overscroll actions view implementation
+summary: Implements rendering and animation of the pull-to-action UI, including the selection circle, action icons, labels and style variants.

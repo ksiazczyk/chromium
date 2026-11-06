@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OverlayRequestCallbackInstaller unit tests
+// summary: Unit tests verifying that callbacks are installed for supported requests, skipped for unsupported ones, and only installed once per request.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_request_callback_installer.h"
 
 #include "ios/chrome/browser/overlays/model/public/overlay_callback_manager.h"

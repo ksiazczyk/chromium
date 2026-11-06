@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the fake overlay request callback installer
+// summary: Implements the mock callback receiver and FakeOverlayRequestCallbackInstaller that attach completion and dispatch callbacks to overlay requests in tests.
+// ---
+
 #include "ios/chrome/browser/overlays/model/test/fake_overlay_request_callback_installer.h"
 
 #include "base/check.h"

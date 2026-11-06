@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayRequestCoordinator interface
+// summary: Declares the coordinator superclass that presents overlay UI for an OverlayRequest, with animated start and stop support and request metadata.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_REQUEST_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_REQUEST_COORDINATOR_H_
 
