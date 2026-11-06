@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service-less media notification controller tests
+// summary: Robolectric tests for MediaNotificationController in service-less mode, where notifications are posted directly as used by WebView.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native feature map exposing bottom sheet features to Java
+// summary: Implements the JNI bridge that exposes native bottom sheet feature flags through the Java BottomSheetFeatureMap API.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/no_destructor.h"
 #include "components/browser_ui/bottomsheet/android/features.h"

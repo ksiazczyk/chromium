@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Browser UI accessibility dependency rules
+summary: Defines the allowed include dependencies for the browser UI accessibility component, covering prefs, UKM, content, metrics, and ui/android.

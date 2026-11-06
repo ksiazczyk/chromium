@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseNotificationManagerProxy
+// summary: Base interface for notification manager proxies covering cancel, channel management and notify operations, intended for removal once the async proxy is the default.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.Notification;

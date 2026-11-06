@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomPreference
+// summary: Custom Android preference for the page zoom section of Accessibility Settings, providing zoom and text size contrast sliders with preview text and image.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Contacts picker top view layout
+summary: Android layout for the picker's top area with an explanation text, filter chips for icon, names, address, email and phone, and an included checkbox row.
+-->
+
 <org.chromium.components.browser_ui.contacts_picker.TopView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

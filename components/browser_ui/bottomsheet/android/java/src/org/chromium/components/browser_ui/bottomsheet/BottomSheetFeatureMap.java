@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetFeatureMap Java accessor for bottom sheet features
+// summary: Java accessor for base::Features of the bottom sheet component, exposing feature flags such as deferred content swap and sheet types.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import org.jni_zero.JNINamespace;

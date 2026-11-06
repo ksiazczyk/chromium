@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the HTTP auth Android component
+summary: Grants include access to the ui/android directory for code in this component.

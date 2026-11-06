@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomIndicatorCoordinatorUnitTest
+// summary: Robolectric unit tests for PageZoomIndicatorCoordinator verifying popup display and dismissal timer behavior for icon clicks and zoom shortcut events.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.junit.Assert.assertFalse;

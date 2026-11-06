@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media image manager
+// summary: Selects media session artwork by scoring image candidates and downloads the chosen image asynchronously via WebContents.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

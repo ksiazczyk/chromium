@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContactsPickerToolbar
+// summary: Toolbar for the contacts picker dialog handling back navigation, search, filter chip state, and enabling the Done button.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

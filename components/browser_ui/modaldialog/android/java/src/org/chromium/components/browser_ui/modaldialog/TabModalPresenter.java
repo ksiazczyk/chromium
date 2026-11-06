@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModalPresenter
+// summary: Abstract base class that presents a single tab modal dialog in the Chromium Android browser UI, handling dialog container creation, animations, dismissal causes, and property binding.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

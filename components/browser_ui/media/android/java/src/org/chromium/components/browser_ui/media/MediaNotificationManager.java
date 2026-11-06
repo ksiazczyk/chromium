@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaNotificationManager for media notification services
+// summary: Manages services and notifications for various media types, mapping notification IDs to MediaNotificationController instances and supporting multiple simultaneous notifications.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import android.app.Service;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android browser UI media
+summary: Lists the directories and targets that code in the Android browser UI media component is allowed to include or depend on.

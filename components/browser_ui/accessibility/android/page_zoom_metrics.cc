@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page zoom UKM logging implementation
+// summary: Implements the JNI entry point that logs page zoom slider values as Accessibility_PageZoom UKM metrics.
+// ---
+
 #include "components/browser_ui/accessibility/android/page_zoom_metrics.h"
 
 #include "base/android/scoped_java_ref.h"

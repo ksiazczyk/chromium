@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contacts picker feature declarations
+// summary: Declares the kContactsPickerSelectAll feature flag used by the Android contacts picker.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_CONTACTS_PICKER_ANDROID_FEATURES_H_
 #define COMPONENTS_BROWSER_UI_CONTACTS_PICKER_ANDROID_FEATURES_H_
 

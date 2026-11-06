@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Android notifications
+summary: GN build file defining the native source set, Java Android libraries, JNI header generation, and Robolectric unit tests for the notifications component.

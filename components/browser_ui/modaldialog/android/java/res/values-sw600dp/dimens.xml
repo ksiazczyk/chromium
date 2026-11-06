@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Modal dialog dimension values for sw600dp screens
+summary: Defines 560dp maximum width dimensions for modal dialogs on Android devices with a smallest screen width of 600dp or more.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <dimen name="modal_dialog_max_width_major">560dp</dimen>
     <dimen name="modal_dialog_max_width_minor">560dp</dimen>

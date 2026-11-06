@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetViewBinder
+// summary: Maps each BottomSheetProperties model key to the corresponding setter call on BottomSheetView for the property change processor.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import org.chromium.build.annotations.NullMarked;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Contacts picker suggestion chip style
+summary: Android resource XML defining the SuggestionChipContacts style with 16dp icon width and height for the contacts dialog.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Contacts Dialog -->
     <style name="SuggestionChipContacts" parent="SuggestionChip">

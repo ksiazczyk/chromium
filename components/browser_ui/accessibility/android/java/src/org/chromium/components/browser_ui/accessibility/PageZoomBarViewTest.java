@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomBarViewTest
+// summary: Unit tests for the page zoom bar view and view binder that exercise slider and button interactions against mocked zoom backends.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static androidx.test.espresso.Espresso.onView;

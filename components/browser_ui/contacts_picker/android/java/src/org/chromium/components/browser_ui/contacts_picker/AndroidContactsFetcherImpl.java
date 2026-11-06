@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android contacts fetcher implementation
+// summary: Implements the ContactsFetcher interface by launching worker tasks that retrieve contact data and icons from the Android Framework via a ContentResolver.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.content.ContentResolver;

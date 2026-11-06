@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Names icon vector drawable for the contacts picker
+summary: Android vector drawable defining a 24dp contact card icon with a person silhouette, used for names in the contacts picker UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

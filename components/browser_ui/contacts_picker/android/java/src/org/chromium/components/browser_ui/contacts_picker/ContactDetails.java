@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact details model
+// summary: Model class holding a contact's id, display name, emails, phone numbers, addresses and icons, including abbreviated details and self-contact handling.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.content.res.Resources;

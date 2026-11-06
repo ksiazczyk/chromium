@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Bottom sheet dimension resources
+summary: Defines dimension values for the Android bottom sheet, including peek height, shadow lengths, widths for narrow and large form factors, and desktop margins and padding.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="bottom_sheet_min_full_half_distance">140dp</dimen>
     <dimen name="bottom_sheet_peek_height">56dp</dimen>

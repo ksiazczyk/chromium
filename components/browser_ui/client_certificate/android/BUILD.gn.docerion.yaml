@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Android SSL client certificate component
+summary: Defines GN build targets for the Android SSL client certificate component, including Java resources, JNI headers, the native source set, and Robolectric tests.

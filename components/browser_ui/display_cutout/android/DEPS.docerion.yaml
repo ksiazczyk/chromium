@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the display cutout Android component
+summary: DEPS file granting include access to chrome/browser/tab, content/public/android, and ui/android for this component.

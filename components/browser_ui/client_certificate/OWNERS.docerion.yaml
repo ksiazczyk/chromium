@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the client certificate component
+summary: Lists the primary code owner for this directory and points to the Chrome Android OWNERS file as secondary owners for review approval.

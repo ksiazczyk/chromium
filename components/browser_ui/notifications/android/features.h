@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification feature flag declarations
+// summary: Header declaring the Android notification feature flags in the browser_ui namespace.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_NOTIFICATIONS_ANDROID_FEATURES_H_
 #define COMPONENTS_BROWSER_UI_NOTIFICATIONS_ANDROID_FEATURES_H_
 

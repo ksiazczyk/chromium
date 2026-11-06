@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Modal dialog dimension values
+summary: Defines Android dimension resources such as dialog widths, heights, paddings and button group radii used by the browser modal dialog UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <!-- go/keep-sorted start -->
     <dimen name="button_group_button_inset">2dp</dimen>

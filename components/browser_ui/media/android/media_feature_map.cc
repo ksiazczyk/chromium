@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media feature map exposing media features to Java
+// summary: Implements the native MediaFeatureMap that exposes media feature flags such as pause-on-sleep and headphone-unplug behavior to Java through JNI.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/no_destructor.h"
 #include "media/base/media_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetUtils helper methods for the bottom sheet
+// summary: Utility methods for the bottom sheet covering browser controls content checks, modality checks, and framework close button rules.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import org.chromium.build.annotations.NullMarked;

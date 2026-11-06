@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SSLClientCertificateRequest: Android client certificate selection'
+// summary: Java-side handler for selecting a client certificate for SSL authentication, retrieving the private key and certificate chain from the Android key store and returning results to native code.
+// ---
+
 package org.chromium.components.browser_ui.client_certificate;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

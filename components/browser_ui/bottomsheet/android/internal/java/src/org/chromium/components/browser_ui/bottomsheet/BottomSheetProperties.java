@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetProperties
+// summary: Defines the writable property keys that make up the bottom sheet's model, covering layout mode, colors, translations, content views, and callbacks.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import android.view.View;

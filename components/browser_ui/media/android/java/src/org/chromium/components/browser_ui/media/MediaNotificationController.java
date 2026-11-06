@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification controller
+// summary: Manages the media notification, foreground service, and media session for a specific type of media.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import static org.chromium.build.NullUtil.assertNonNull;

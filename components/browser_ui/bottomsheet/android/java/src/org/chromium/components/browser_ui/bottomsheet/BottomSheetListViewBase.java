@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetListViewBase base class for list-based bottom sheets
+// summary: Abstract base class for list-based bottom sheets that manages lifecycle, sizing, scroll behavior, and footer items using RecyclerView.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.chromium.build.NullUtil.assertNonNull;

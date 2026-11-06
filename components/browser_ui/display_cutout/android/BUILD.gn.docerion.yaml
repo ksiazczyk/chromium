@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the browser UI display cutout Android library
+summary: GN build file defining the java android_library target for DisplayCutoutController with its source file and dependency list.

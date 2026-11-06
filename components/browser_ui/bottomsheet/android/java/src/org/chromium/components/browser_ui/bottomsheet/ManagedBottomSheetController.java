@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedBottomSheetController.java
+// summary: Interface for the bottom sheet owner to manage system interaction, including suppressing and unsuppressing the sheet, handling back press, and updating browser control offsets.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import org.chromium.build.annotations.NullMarked;

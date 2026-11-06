@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact view for the contacts picker
+// summary: Selectable item view that renders a contact's name, email, phone number and address, and opens a details dialog on long press or overflow clicks.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

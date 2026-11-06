@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Android browser UI media
+summary: Defines build targets for the Android browser UI media component, including C++ and Java sources, JNI header generation, resources, and Robolectric tests.

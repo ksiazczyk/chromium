@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for MediaNotificationInfo
+// summary: Robolectric unit tests verifying MediaNotificationInfo builder validation, required fields, hash code behavior, and the copy constructor.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import static org.junit.Assert.assertEquals;

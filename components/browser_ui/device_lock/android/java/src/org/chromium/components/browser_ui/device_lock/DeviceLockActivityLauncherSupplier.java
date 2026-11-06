@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockActivityLauncherSupplier
+// summary: Supplies access to a DeviceLockActivityLauncher instance attached as unowned user data on a WindowAndroid host.
+// ---
+
 package org.chromium.components.browser_ui.device_lock;
 
 import org.chromium.base.UnownedUserDataHost;

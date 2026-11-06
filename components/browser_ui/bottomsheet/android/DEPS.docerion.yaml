@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the bottom sheet Android directory
+summary: Restricts the directories this component may include or depend on, such as base, UI, and related browser_ui components.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bottomsheet Android internal build targets
+summary: GN build configuration defining the Android library targets, source files, dependencies, and Robolectric unit tests for the bottomsheet component's internal implementation.

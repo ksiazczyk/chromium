@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomMenuItemMediator
+// summary: Mediator that handles zoom increase, decrease and immersive mode actions from the app menu item and updates the model's zoom percentage text and button states.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.chromium.content_public.browser.HostZoomMap.AVAILABLE_ZOOM_FACTORS;

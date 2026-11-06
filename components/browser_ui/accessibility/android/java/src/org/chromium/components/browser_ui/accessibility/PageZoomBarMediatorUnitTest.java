@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomBarMediatorUnitTest
+// summary: Robolectric unit tests for PageZoomBarMediator covering bar value changes, zoom button states, reset behavior and expected JNI zoom calls.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.hamcrest.Matchers.closeTo;

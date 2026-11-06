@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetObserverTest
+// summary: Instrumentation tests verifying that bottom sheet observers receive open, close, offset, margin, and content change events.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of bottom sheet feature flags
+// summary: Defines the bottom sheet feature flags, including the content swap deferral kill switch and the bottom sheet types feature.
+// ---
+
 #include "components/browser_ui/bottomsheet/android/features.h"
 
 #include "base/feature_list.h"

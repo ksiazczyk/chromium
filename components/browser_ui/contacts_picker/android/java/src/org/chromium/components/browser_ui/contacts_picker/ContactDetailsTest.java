@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContactDetails unit tests
+// summary: Robolectric tests covering ContactDetails fields, display name abbreviation, abbreviated contact details, self-contact behavior and icon handling.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import static org.junit.Assert.assertEquals;

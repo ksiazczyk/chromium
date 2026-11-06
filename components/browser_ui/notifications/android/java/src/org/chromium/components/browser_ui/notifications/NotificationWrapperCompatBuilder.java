@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationCompat.Builder wrapper implementation
+// summary: Implements NotificationWrapperBuilder by wrapping a NotificationCompat.Builder, initializing channels and resizing big picture bitmaps.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import static org.chromium.components.browser_ui.notifications.BitmapUtils.resizeBitmapByMemory;

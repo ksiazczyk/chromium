@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetUtilsUnitTest
+// summary: Unit tests for BottomSheetUtils, checking when sheet content acts as browser controls and whether the current sheet is non-modal.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.junit.Assert.assertFalse;

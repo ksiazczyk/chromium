@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility settings tests
+// summary: Espresso instrumented tests covering the accessibility settings menu, including force enable zoom and image description preferences.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static androidx.test.espresso.Espresso.onView;

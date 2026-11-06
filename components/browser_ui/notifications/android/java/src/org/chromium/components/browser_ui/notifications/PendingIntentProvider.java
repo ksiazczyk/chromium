@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingIntent provider with flags
+// summary: Creates and wraps Android PendingIntents for broadcasts, services and activities, keeping the flags and request code used to build them.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.PendingIntent;

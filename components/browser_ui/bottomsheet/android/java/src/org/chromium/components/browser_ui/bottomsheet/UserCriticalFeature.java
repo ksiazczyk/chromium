@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserCriticalFeature.java
+// summary: Annotation registry listing bottom sheet features approved as user critical, such as passkeys, payments, and autofill, whose suppression requires bottom sheet owner approval.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import androidx.annotation.IntDef;

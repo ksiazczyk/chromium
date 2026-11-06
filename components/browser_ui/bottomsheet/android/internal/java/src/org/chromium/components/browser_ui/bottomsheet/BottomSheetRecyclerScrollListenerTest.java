@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetRecyclerScrollListenerTest
+// summary: Robolectric unit tests verifying the scroll listener's scrolled-to-top state, reset behavior, and conditions for suppressing layout during sheet scrolling.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.junit.Assert.assertFalse;

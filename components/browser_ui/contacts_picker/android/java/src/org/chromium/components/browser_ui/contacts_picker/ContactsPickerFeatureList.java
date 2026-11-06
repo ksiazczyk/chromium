@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContactsPickerFeatureList
+// summary: Declares the contacts picker feature flag names exposed through ContactsPickerFeatureMap, kept in sync with native code.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import org.chromium.build.annotations.NullMarked;

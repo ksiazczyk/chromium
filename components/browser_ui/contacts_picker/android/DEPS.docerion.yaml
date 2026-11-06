@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules for the contacts picker
+summary: Lists the directories this component may include from, such as browser UI widgets, data decoder services, and Skia.

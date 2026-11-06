@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetCoordinatorUnitTest
+// summary: Robolectric unit tests for the bottom sheet coordinator, covering state transitions, layout, insets, touch handling, and content changes.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

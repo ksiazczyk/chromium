@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contacts picker Android build configuration
+summary: Defines the native source set, Java library, JNI header generation, and Android resources for the contacts picker component.

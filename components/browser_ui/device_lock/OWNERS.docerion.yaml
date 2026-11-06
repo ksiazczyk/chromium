@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the owners responsible for reviewing changes to the device_lock browser UI component.

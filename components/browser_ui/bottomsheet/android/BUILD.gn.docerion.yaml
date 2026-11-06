@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the Android bottom sheet component
+summary: Defines GN build targets for the component's native source set, Java libraries, resources, and generated JNI headers.

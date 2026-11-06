@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Large-screen theme overlay for BrowserUI modal dialogs
+summary: Defines the ThemeOverlay.BrowserUI.Fullscreen.DialogWhenLarge style for large screens, setting the background dim amount and window background to keep dialogs visually consistent.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="ThemeOverlay.BrowserUI.Fullscreen.DialogWhenLarge" parent="ThemeOverlay.Material3Expressive.Dialog">
         <item name="android:backgroundDimAmount">0.65</item>

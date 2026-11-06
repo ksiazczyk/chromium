@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page zoom bar coordinator
+// summary: Coordinator serving as the public API for the page zoom bar component, managing its view, model, mediator, and bottom sheet interactions.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

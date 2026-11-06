@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Page zoom style resources
+summary: Defines text appearance and slider styles used by the Android page zoom UI, referencing the dimension resources.
+-->
+
 <resources>
     <style name="TextAppearance.PageZoomResetButton" parent="TextButton">
         <item name="android:textSize">@dimen/text_size_large</item>

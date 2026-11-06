@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for SSL client certificate selection
+// summary: Browser tests verifying SSL client certificate selector behavior, including that prerendering navigations do not reset pending certificate request state.
+// ---
+
 #include "components/browser_ui/client_certificate/android/ssl_client_certificate_request.h"
 
 #include <array>

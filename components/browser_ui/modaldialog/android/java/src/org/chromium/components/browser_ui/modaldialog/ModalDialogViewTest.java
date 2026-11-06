@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModalDialogViewTest
+// summary: Espresso instrumentation tests for the modal dialog view covering buttons, title controls, custom views, and dismissal behavior.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

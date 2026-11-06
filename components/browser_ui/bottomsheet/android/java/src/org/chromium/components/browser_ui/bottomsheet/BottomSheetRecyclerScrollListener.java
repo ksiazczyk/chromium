@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetRecyclerScrollListener for RecyclerView scroll events
+// summary: Scroll listener for the RecyclerView inside a bottom sheet that conditionally suppresses layout passes in the half state on non-large form factors.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.chromium.components.browser_ui.bottomsheet.BottomSheetController.SheetState.HALF;

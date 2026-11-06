@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContactsPickerImageDecoder
+// summary: Utility that safely decodes contact photo images in a sandboxed utility process, rejecting data larger than 1 MiB.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.graphics.Bitmap;

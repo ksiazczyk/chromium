@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the banners Android directory
+summary: Restricts allowed dependencies in this directory to the content_public Java sources under content/public/android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client certificate request implementation for Android
+// summary: Implements the native side of the SSL client certificate selection dialog on Android, tracking pending requests and bridging to the Java UI via JNI.
+// ---
+
 #include "components/browser_ui/client_certificate/android/ssl_client_certificate_request.h"
 
 #include <stddef.h>

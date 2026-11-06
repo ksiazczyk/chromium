@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font size preferences
+// summary: Singleton that forwards the OS-level Android font scale factor to native code via JNI for use as the accessibility font scale in web preferences.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import android.annotation.SuppressLint;

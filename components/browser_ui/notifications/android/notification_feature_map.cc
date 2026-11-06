@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI feature map for notification features
+// summary: Exposes the native notification feature flags to Java through a base::android::FeatureMap accessed via JNI.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/no_destructor.h"
 #include "components/browser_ui/notifications/android/features.h"

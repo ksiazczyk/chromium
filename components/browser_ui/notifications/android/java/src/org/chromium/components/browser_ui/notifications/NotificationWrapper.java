@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification wrapper with metadata
+// summary: Wraps an Android Notification together with its metadata such as id and tag, and tracks whether the notification is silent.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.Notification;

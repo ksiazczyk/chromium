@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemContactsWorkerTask tests
+// summary: Robolectric unit tests for SystemContactsWorkerTask, checking that system contact rows for names, emails, phones, addresses and photos are parsed correctly.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.content.ContentResolver;

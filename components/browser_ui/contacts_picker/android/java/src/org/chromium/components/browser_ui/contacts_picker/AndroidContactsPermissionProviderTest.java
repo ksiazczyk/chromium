@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android contacts permission provider unit tests
+// summary: Robolectric unit tests verifying that the permission provider requests READ_CONTACTS when needed and skips permission checks when the system contacts picker is enabled.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import static org.mockito.ArgumentMatchers.any;

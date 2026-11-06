@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Modal dialog view layout
+summary: Android layout for the full modal dialog view combining title, scrollable content, custom views, button group and a checkbox.
+-->
+
 <org.chromium.components.browser_ui.modaldialog.ModalDialogView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

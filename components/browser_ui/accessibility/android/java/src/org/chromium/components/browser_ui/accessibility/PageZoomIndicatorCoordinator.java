@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomIndicatorCoordinator
+// summary: Coordinator that creates and manages the page zoom indicator popup, observing zoom events and handling display and auto-dismiss behavior.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio becoming noisy broadcast receiver
+// summary: Singleton broadcast receiver that notifies observers when audio becomes noisy, such as on headset unplug.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import android.content.BroadcastReceiver;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaNotificationInfo media notification data class
+// summary: Exposes information about the current media notification to external clients, with action flags, metadata, icons, IDs, and a builder for constructing instances.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import android.content.Intent;

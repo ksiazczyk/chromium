@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility settings delegate interface
+// summary: Interface implemented by the embedder to supply browser context, preference delegates, and navigation logic to the accessibility settings UI.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import android.content.Context;

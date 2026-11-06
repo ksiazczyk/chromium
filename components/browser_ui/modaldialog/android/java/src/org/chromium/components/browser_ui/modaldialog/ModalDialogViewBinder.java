@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogViewBinder
+// summary: Binds ModalDialogProperties from a PropertyModel to a ModalDialogView, updating title, messages, buttons, and other dialog properties.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import android.text.TextUtils;

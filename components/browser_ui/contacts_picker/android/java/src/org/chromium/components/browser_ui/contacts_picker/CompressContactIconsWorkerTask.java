@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact icon compression worker task
+// summary: Asynchronous task that compresses cached contact icon bitmaps into PNG blobs and attaches them to the selected contacts before notifying the callback.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.graphics.Bitmap;

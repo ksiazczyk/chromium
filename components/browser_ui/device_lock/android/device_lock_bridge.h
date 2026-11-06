@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockBridge class declaration
+// summary: Declares the C++ DeviceLockBridge interface that launches device lock setup UI and reports whether a device lock is required for sign-in, sync, and autofill flows.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_DEVICE_LOCK_ANDROID_DEVICE_LOCK_BRIDGE_H_
 #define COMPONENTS_BROWSER_UI_DEVICE_LOCK_ANDROID_DEVICE_LOCK_BRIDGE_H_
 

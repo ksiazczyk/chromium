@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationManagerProxyImpl
+// summary: Default implementation of the notification manager proxy that passes cancel, channel and notify calls through to Android's NotificationManagerCompat.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.Notification;

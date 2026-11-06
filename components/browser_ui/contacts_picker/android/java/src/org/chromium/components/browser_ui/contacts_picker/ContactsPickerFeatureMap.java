@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContactsPickerFeatureMap
+// summary: Java singleton bridge to native contacts picker feature flags, including whether the system contacts picker should be used.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.os.Build;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Fullscreen dialog theme overlay
+summary: Declares a BrowserUI theme overlay that adapts the fullscreen theme for dialogs shown when large.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="ThemeOverlay.BrowserUI.Fullscreen.DialogWhenLarge" parent="ThemeOverlay.BrowserUI.Fullscreen"/>
 </resources>

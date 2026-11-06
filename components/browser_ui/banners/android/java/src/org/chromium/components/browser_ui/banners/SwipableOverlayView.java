@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwipableOverlayView for Android banners
+// summary: Abstract Android view that slides up from the bottom of the screen and shifts vertically as the user scrolls or flings the page, snapping into or out of view based on visibility and gesture state.
+// ---
+
 package org.chromium.components.browser_ui.banners;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

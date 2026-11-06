@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contacts picker feature definitions
+// summary: Defines the kContactsPickerSelectAll feature, disabled by default, for the Android contacts picker.
+// ---
+
 #include "components/browser_ui/contacts_picker/android/features.h"
 
 #include "base/feature_list.h"

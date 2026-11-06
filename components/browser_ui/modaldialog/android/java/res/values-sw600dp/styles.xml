@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Modal dialog theme overlay style for sw600dp screens
+summary: Defines the BrowserUI ModalDialog theme overlay that sets the dialog window minimum width for screens with a smallest width of 600dp or more.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="ThemeOverlay.BrowserUI.ModalDialog" parent="Base.ThemeOverlay.BrowserUI.ModalDialog">
         <item name="android:windowMinWidthMajor">@dimen/modal_dialog_min_width</item>

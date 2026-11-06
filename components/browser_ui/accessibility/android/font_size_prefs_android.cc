@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native FontSizePrefs implementation
+// summary: Implements the JNI bridge that stores the WebKit font scale factor in the browser context's pref service.
+// ---
+
 #include "components/browser_ui/accessibility/android/font_size_prefs_android.h"
 
 #include <memory>

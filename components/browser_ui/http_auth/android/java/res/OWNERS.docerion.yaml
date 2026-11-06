@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for http_auth Android resources
+summary: Restricts ownership of the http_auth resource directory and delegates layout file reviews to the ui/android LAYOUT_OWNERS rules.

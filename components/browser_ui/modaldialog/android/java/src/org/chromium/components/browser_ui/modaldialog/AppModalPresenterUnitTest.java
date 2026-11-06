@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppModalPresenterUnitTest
+// summary: Robolectric unit tests verifying AppModalPresenter dialog margins under system bar insets and edge-to-edge states.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static androidx.core.view.WindowInsetsCompat.Type.systemBars;

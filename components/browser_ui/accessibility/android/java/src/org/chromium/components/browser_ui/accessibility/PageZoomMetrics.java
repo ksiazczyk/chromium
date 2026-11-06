@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomMetrics
+// summary: JNI bridge that centralizes Page Zoom metrics collection by logging zoom level UKM events for the given web contents.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import org.jni_zero.JNINamespace;

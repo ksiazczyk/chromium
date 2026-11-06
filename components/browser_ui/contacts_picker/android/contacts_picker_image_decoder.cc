@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contacts picker image decoder implementation
+// summary: Decodes contact avatar images via the data decoder service with size caps and scales them to the desired icon size on a background thread.
+// ---
+
 #include "components/browser_ui/contacts_picker/android/contacts_picker_image_decoder.h"
 
 #include <algorithm>

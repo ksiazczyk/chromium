@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppModalPresenterTest
+// summary: Espresso instrumentation tests covering app modal dialog presentation, dismissal causes, and layout behavior with system insets.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static androidx.core.view.WindowInsetsCompat.Type.systemBars;

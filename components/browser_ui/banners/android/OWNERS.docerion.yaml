@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the banners Android directory
+summary: Points to the Chrome banners OWNERS file so that reviews in this directory use those owners for approval.

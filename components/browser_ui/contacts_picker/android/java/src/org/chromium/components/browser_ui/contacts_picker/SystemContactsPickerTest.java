@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System Contacts Picker integration tests
+// summary: Instrumented JUnit tests verifying the system Contacts Picker integration, including PickerCategoryView setup and picker result handling on recent Android versions.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.app.Activity;

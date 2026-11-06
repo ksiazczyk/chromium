@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseNotificationManagerProxyFactory
+// summary: Factory that returns the async or synchronous notification manager proxy based on a feature flag and allows tests to override the instance.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import org.chromium.base.ResettersForTesting;

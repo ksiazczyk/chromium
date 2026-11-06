@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppHeaderStateUnitTest
+// summary: Robolectric unit tests verifying AppHeaderState padding, height, caption offsets, empty and invalid states, and equality behavior.
+// ---
+
 package org.chromium.components.browser_ui.desktop_windowing;
 
 import static org.junit.Assert.assertEquals;

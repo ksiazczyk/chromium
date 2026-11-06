@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppHeaderState
+// summary: Holds app header state for desktop windowing, exposing window and unoccluded rects, padding, caption control offsets and height, and desktop window mode flag.
+// ---
+
 package org.chromium.components.browser_ui.desktop_windowing;
 
 import android.graphics.Rect;

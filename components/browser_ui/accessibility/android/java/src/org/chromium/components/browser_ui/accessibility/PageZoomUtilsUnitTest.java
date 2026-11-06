@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomUtils unit tests
+// summary: Robolectric unit tests verifying PageZoomUtils conversions between bar values, zoom factors and zoom levels, default zoom handling and zoom menu item visibility.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.mockito.Mockito.times;

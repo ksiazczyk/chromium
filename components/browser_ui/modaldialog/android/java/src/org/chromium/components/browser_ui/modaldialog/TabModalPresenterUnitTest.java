@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModalPresenterUnitTest
+// summary: Robolectric unit tests for TabModalPresenter that verify dialog view layout margins across large form factor and phone configurations.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static org.junit.Assert.assertEquals;

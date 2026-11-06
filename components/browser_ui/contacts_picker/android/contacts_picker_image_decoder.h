@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contacts picker image decoder header
+// summary: Declares ScaleContactIconBitmap, which resizes a contact icon bitmap to a square of the desired size.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_CONTACTS_PICKER_ANDROID_CONTACTS_PICKER_IMAGE_DECODER_H_
 #define COMPONENTS_BROWSER_UI_CONTACTS_PICKER_ANDROID_CONTACTS_PICKER_IMAGE_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationFeatureMap
+// summary: Java accessor for notification features defined in native code, exposing cached flags such as bitmap resizing and notification caching.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import org.jni_zero.JNINamespace;

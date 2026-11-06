@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetType describing sheet behavioral characteristics
+// summary: Encapsulates behavioral characteristics of sheet content such as modality and suppressibility, used to resolve conflicts between sheets.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import org.chromium.build.annotations.NullMarked;

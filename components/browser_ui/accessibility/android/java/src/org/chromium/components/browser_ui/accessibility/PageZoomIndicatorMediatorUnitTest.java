@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomIndicatorMediatorUnitTest
+// summary: Robolectric unit tests for PageZoomIndicatorMediator checking zoom percentage updates, button enablement at zoom limits and reset handling.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.junit.Assert.assertEquals;
