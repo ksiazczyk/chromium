@@ -1,0 +1,4 @@
+# Docerion header of choose_file_controller.mm.
+type: source
+title: ChooseFileController implementation
+summary: Implements selection submission, abort handling and observer notification for the choose file controller.

@@ -1,0 +1,4 @@
+# Docerion header of suppress_input_views_app_interface.mm.
+type: source
+title: Suppress input views app interface implementation
+summary: Implements the app interface by setting shouldSuppressInputViews on the current WebState's web view proxy during Earl Grey tests.

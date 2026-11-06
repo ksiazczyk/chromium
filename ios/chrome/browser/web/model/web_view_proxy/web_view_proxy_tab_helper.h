@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewProxyTabHelper header
+// summary: Declares WebViewProxyTabHelper, a WebStateUserData exposing the tab's CRWWebViewProxy with an overriding proxy and observer support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_WEB_VIEW_PROXY_WEB_VIEW_PROXY_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_WEB_VIEW_PROXY_WEB_VIEW_PROXY_TAB_HELPER_H_
 

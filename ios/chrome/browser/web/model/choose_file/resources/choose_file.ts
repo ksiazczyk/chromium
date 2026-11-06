@@ -6,6 +6,12 @@
  * @fileoverview Observes taps on Choose file inputs.
  */
 
+// ---docerion
+// type: source
+// title: Choose file input click observer for iOS Chrome
+// summary: JavaScript injected into web pages that observes clicks on file input elements and forwards them to the native browser via a WebKit message.
+// ---
+
 import {processHTMLInputElementClick} from '//ios/chrome/browser/web/model/choose_file/resources/choose_file_utils.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

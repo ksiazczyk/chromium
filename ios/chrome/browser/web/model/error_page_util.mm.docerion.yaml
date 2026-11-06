@@ -1,0 +1,4 @@
+# Docerion header of error_page_util.mm.
+type: source
+title: Error page utility implementation
+summary: Implements GetErrorPage, which builds localized HTML for network error pages shown in iOS Chrome.

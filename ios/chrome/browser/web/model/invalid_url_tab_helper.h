@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalid URL tab helper header
+// summary: Declares a tab helper that cancels navigations to invalid data URLs and excessively long URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_INVALID_URL_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_INVALID_URL_TAB_HELPER_H_
 

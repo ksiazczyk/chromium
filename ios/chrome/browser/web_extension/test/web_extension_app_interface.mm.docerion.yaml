@@ -1,0 +1,4 @@
+# Docerion header of web_extension_app_interface.mm.
+type: test
+title: WebExtension app interface implementation
+summary: Implements app interface methods that inspect ExtensionService state and profile init stages for EarlGrey tests.

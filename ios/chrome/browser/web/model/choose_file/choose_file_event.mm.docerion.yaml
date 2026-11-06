@@ -1,0 +1,4 @@
+# Docerion header of choose_file_event.mm.
+type: source
+title: ChooseFileEvent implementation
+summary: Implements the ChooseFileEvent builder setters, constructors, and assignment operators that store file input interaction details.

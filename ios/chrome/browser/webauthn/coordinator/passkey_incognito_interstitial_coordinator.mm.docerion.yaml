@@ -1,0 +1,4 @@
+# Docerion header of passkey_incognito_interstitial_coordinator.mm.
+type: source
+title: Passkey incognito interstitial coordinator implementation
+summary: Presents the incognito interstitial as a sheet, tracks whether the user continues or cancels, and runs the callback after dismissal to avoid presentation races.

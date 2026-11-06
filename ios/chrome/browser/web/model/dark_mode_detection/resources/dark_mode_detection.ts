@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dark mode detection script for iOS web pages
+// summary: TypeScript injected into web pages that detects native dark mode support via meta tags, CSS color-scheme, and prefers-color-scheme media queries, then reports the result to the native iOS handler.
+// ---
+
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 
 /**

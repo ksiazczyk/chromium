@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the iOS print feature
+summary: Defines the print source set, its unit test target, and the optimized print.js script used for window.print() support.

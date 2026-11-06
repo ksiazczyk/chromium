@@ -1,0 +1,4 @@
+# Docerion header of choose_file_controller_observer_bridge.mm.
+type: source
+title: ChooseFileControllerObserverBridge implementation
+summary: Forwards ChooseFileController destruction notifications to the wrapped Objective-C observer.

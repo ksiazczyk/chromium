@@ -1,0 +1,4 @@
+# Docerion header of java_script_console_feature_unittest.mm.
+type: test
+title: JavaScriptConsoleFeature unit tests
+summary: Unit tests verifying that JavaScriptConsoleFeature receives console messages of various log levels from pages and iframes and delivers them to its delegate.

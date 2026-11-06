@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the java_script_console directory
+summary: Lists michaeldo@chromium.org as the code owner of the java_script_console directory.

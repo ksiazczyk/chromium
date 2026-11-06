@@ -6,6 +6,12 @@
  * @fileoverview Add functionality related to getting image data.
  */
 
+// ---docerion
+// type: source
+// title: Image data fetching JavaScript bridge for iOS Chrome
+// summary: JavaScript API that retrieves image data as a base64 string via canvas or XMLHttpRequest and sends it to the native ImageFetchMessageHandler in iOS Chrome.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

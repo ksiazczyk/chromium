@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeMainParts header
+// summary: Declares IOSChromeMainParts, the iOS Chrome implementation of web::WebMainParts that initializes field trials, metrics, and the application context.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_CHROME_MAIN_PARTS_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_CHROME_MAIN_PARTS_H_
 

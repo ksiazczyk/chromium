@@ -1,0 +1,4 @@
+# Docerion header of tab_order_egtest.mm.
+type: test
+title: Tab order Earl Grey tests
+summary: Earl Grey tests verifying that child tabs opened from links are inserted after their parent tab in the tab order.

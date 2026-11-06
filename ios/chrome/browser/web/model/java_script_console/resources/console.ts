@@ -7,6 +7,12 @@
 
 /* eslint-disable no-console */
 
+// ---docerion
+// type: source
+// title: JavaScript console forwarding script for iOS web
+// summary: Overrides console.log, debug, info, warn and error to send page console messages with level, frame and URL to the host app via the ConsoleMessageHandler WebKit message.
+// ---
+
 import {gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

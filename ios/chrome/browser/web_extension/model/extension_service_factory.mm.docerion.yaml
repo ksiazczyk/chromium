@@ -1,0 +1,4 @@
+# Docerion header of extension_service_factory.mm.
+type: source
+title: ExtensionServiceFactory implementation
+summary: Implements the factory that builds the extension service based on universal opt-out state, feature flags, and iOS availability.

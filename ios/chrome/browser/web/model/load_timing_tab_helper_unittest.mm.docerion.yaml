@@ -1,0 +1,4 @@
+# Docerion header of load_timing_tab_helper_unittest.mm.
+type: test
+title: Load timing tab helper unit tests
+summary: Unit tests for LoadTimingTabHelper verifying metric reporting on successful loads, no reporting on failure or unstarted timers, and prerender promotion behavior.

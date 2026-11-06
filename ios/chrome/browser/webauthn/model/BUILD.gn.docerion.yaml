@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for WebAuthn model
+summary: Defines GN source sets and dependencies for the iOS WebAuthn model, passkey client, and device authorization profile agent targets.

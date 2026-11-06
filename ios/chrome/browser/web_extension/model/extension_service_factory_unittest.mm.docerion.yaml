@@ -1,0 +1,4 @@
+# Docerion header of extension_service_factory_unittest.mm.
+type: test
+title: ExtensionServiceFactory unit tests
+summary: Unit tests verifying when the factory creates or skips the extension service under different opt-out eligibility and flag conditions.

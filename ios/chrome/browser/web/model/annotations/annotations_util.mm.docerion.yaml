@@ -1,0 +1,4 @@
+# Docerion header of annotations_util.mm.
+type: source
+title: Annotations utility implementation
+summary: Reads the WebAnnotations policy from preferences and resolves per-type long press and one-tap detection settings.

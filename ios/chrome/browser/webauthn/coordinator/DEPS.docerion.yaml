@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the webauthn coordinator
+summary: Allows this directory to include headers from the password settings UI and signin model directories.

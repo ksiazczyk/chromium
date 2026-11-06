@@ -1,0 +1,4 @@
+# Docerion header of choose_file_util.mm.
+type: source
+title: Choose file utility implementation
+summary: Implements parsing of the file input accept attribute into MIME types and file extensions and maps input attributes to content states.

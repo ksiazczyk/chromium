@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the WebAuthn passkey interstitial UI
+summary: Defines the source_set targets for the passkey incognito interstitial view controller and its unit tests, along with their dependencies.

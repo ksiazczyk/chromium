@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web navigation NTP delegate protocol header
+// summary: Declares the WebNavigationNTPDelegate protocol used for web navigation interactions with the New Tab Page, such as reporting NTP activity and reloading it.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_WEB_NAVIGATION_NTP_DELEGATE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_WEB_NAVIGATION_NTP_DELEGATE_H_
 

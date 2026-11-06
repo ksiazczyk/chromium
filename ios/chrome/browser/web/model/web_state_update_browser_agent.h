@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateUpdateBrowserAgent header
+// summary: Declares the WebStateUpdateBrowserAgent class, a browser agent that observes web state list changes and manages web state lifecycle updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_WEB_STATE_UPDATE_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_WEB_STATE_UPDATE_BROWSER_AGENT_H_
 

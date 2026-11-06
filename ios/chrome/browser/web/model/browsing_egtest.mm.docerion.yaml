@@ -1,0 +1,4 @@
+# Docerion header of browsing_egtest.mm.
+type: test
+title: Earl Grey tests for web browsing scenarios
+summary: Earl Grey integration tests covering page loads, reloads, document.write, and popup blocking while browsing.

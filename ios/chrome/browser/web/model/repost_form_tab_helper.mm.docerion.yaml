@@ -1,0 +1,4 @@
+# Docerion header of repost_form_tab_helper.mm.
+type: source
+title: RepostFormTabHelper implementation
+summary: Implements repost form dialog presentation and dismissal, handling delegate callbacks and WebState lifecycle events.

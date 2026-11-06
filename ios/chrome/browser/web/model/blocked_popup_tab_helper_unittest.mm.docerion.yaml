@@ -1,0 +1,4 @@
+# Docerion header of blocked_popup_tab_helper_unittest.mm.
+type: test
+title: Blocked popup tab helper unit tests
+summary: Unit tests verifying popup blocking decisions, infobar behavior, and allow exceptions.

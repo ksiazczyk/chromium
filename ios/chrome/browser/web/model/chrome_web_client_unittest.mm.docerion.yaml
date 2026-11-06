@@ -1,0 +1,4 @@
+# Docerion header of chrome_web_client_unittest.mm.
+type: test
+title: ChromeWebClient unit tests
+summary: Unit tests for ChromeWebClient covering user agent selection, error page preparation, safe browsing interstitials, and related web behavior.

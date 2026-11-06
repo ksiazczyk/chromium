@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionService interface for the profile-keyed web extension service
+// summary: Declares the pure interface for the profile-keyed service managing web extensions, including observers, readiness, and load error state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_EXTENSION_SERVICE_H_
 #define IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_EXTENSION_SERVICE_H_
 

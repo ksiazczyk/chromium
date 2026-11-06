@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScriptConsoleMessage struct header
+// summary: Declares the JavaScriptConsoleMessage struct wrapping a console message's sender frame URL, log level, and message text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_JAVA_SCRIPT_CONSOLE_JAVA_SCRIPT_CONSOLE_MESSAGE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_JAVA_SCRIPT_CONSOLE_JAVA_SCRIPT_CONSOLE_MESSAGE_H_
 

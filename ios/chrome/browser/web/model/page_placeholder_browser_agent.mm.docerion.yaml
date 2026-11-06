@@ -1,0 +1,4 @@
+# Docerion header of page_placeholder_browser_agent.mm.
+type: source
+title: Page placeholder browser agent implementation
+summary: Implements the browser agent that installs page placeholders on inserted or realized WebStates, skipping NTP URLs.

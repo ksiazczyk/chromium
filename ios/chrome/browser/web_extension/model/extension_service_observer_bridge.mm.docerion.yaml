@@ -1,0 +1,4 @@
+# Docerion header of extension_service_observer_bridge.mm.
+type: source
+title: ExtensionService observer bridge implementation
+summary: Implements the bridge that forwards extension load error changes to the Objective-C delegate observer.

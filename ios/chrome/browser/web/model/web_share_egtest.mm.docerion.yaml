@@ -1,0 +1,4 @@
+# Docerion header of web_share_egtest.mm.
+type: test
+title: Web Share Earl Grey tests
+summary: Earl Grey UI tests that exercise navigator.share for URLs, files, relative links and URL objects using a local embedded test server.

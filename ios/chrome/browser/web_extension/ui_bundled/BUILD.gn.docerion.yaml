@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for web extension UI
+summary: Defines the ui_bundled source set and its unit test target, listing their sources and dependencies for the web extension error scene agent.

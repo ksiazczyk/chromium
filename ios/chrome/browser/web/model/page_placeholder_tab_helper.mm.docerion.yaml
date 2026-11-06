@@ -1,0 +1,4 @@
+# Docerion header of page_placeholder_tab_helper.mm.
+type: source
+title: Page placeholder tab helper implementation
+summary: Implements placeholder display with snapshot retrieval, a load timeout, and a fade-out animation over the WebState view.

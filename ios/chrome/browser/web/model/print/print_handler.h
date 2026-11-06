@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintHandler protocol header
+// summary: Declares the PrintHandler protocol that shows print UI for a view or image, used to implement the window.print JavaScript command.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_PRINT_PRINT_HANDLER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_PRINT_PRINT_HANDLER_H_
 

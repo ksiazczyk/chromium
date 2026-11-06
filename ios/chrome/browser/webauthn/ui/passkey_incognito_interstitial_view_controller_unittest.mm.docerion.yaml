@@ -1,0 +1,4 @@
+# Docerion header of passkey_incognito_interstitial_view_controller_unittest.mm.
+type: test
+title: Unit tests for the passkey incognito interstitial view controller
+summary: Verifies that the view controller sets the expected localized title, subtitle, and button strings when its view loads.

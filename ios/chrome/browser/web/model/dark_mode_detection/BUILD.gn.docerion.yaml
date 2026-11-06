@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for dark mode detection
+summary: GN build file defining the dark mode detection source set, its unit and Earl Grey test targets, and the optimized TypeScript script target.

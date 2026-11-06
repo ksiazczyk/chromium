@@ -1,0 +1,4 @@
+# Docerion header of web_usage_enabler_browser_agent.mm.
+type: source
+title: WebUsageEnablerBrowserAgent implementation
+summary: Implements the agent, applying the web usage setting to realized WebStates, loading the active one when needed, and notifying observers.

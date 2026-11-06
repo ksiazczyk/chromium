@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lookalike URL test app interface header
+// summary: Declares the Earl Grey app interface that installs a lookalike URL policy decider used by lookalike interstitial tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_LOOKALIKE_URL_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_LOOKALIKE_URL_APP_INTERFACE_H_
 

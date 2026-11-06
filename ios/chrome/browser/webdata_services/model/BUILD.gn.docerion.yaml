@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for web data services model
+summary: Defines the model source set containing the web data service factory sources and its base, components, and profile dependencies.

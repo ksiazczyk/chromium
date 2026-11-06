@@ -4,6 +4,12 @@
 
 // Adapted from chrome/common/profiler/thread_profiler.cc
 
+// ---docerion
+// type: source
+// title: iOS thread profiler implementation
+// summary: Implements startup and periodic stack sampling of Chrome threads on iOS, adapted from the desktop thread profiler.
+// ---
+
 #include "ios/chrome/browser/web/model/ios_thread_profiler.h"
 
 #include <string>

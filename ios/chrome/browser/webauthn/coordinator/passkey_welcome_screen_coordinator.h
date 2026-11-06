@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey welcome screen coordinator header
+// summary: Declares the passkey welcome screen coordinator, its delegate protocol, and the designated initializer taking a purpose and completion action.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBAUTHN_COORDINATOR_PASSKEY_WELCOME_SCREEN_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_WEBAUTHN_COORDINATOR_PASSKEY_WELCOME_SCREEN_COORDINATOR_H_
 

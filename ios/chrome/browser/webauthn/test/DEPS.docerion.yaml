@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the WebAuthn test directory
+summary: Restricts allowed includes for the test directory to headers from ios/chrome/browser/device_reauth/model.

@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_app_interface.mm.
+type: test
+title: Lookalike URL test app interface implementation
+summary: Implements the LookalikeUrlAppInterface test decider that allows allowed domains and blocks test lookalike paths to show interstitials with or without suggested URLs.

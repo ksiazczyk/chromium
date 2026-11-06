@@ -1,0 +1,4 @@
+# Docerion header of chrome_web_client.mm.
+type: source
+title: ChromeWebClient implementation
+summary: Implements ChromeWebClient behavior for iOS Chrome, including user agents, localized resources, JavaScript features, and error page preparation.

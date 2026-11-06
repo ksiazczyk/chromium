@@ -1,0 +1,4 @@
+# Docerion header of image_fetch_java_script_feature_fuzzer.mm.
+type: test
+title: ImageFetchJavaScriptFeature fuzzer
+summary: LibFuzzer proto fuzzer that feeds randomly generated script messages to ImageFetchJavaScriptFeature to exercise its message handling robustness.

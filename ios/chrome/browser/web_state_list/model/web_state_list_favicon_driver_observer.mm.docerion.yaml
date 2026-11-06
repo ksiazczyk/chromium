@@ -1,0 +1,4 @@
+# Docerion header of web_state_list_favicon_driver_observer.mm.
+type: source
+title: WebStateListFaviconDriverObserver implementation
+summary: Implements observing and unobserving WebFaviconDrivers as WebStates are inserted or removed and forwards OnFaviconUpdated calls to the favicon observer.

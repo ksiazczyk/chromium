@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_app_interface_stub.mm.
+type: test
+title: Lookalike URL app interface stub
+summary: Registers a stub LookalikeUrlAppInterface class in the app main queue for Earl Grey test builds.

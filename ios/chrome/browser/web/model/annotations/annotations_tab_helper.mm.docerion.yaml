@@ -1,0 +1,4 @@
+# Docerion header of annotations_tab_helper.mm.
+type: source
+title: Annotations tab helper implementation
+summary: Implements annotation processing, decoration caching, metrics recording and command dispatch for web states.

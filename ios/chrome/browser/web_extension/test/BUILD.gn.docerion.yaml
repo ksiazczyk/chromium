@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebExtension EarlGrey test targets
+summary: Defines GN source sets for the WebExtension EarlGrey app interface, its stub, and the startup test suite.

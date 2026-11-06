@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionServiceFactory header for per-profile service creation
+// summary: Declares the keyed-service factory that returns the ExtensionService for a profile and its default testing factory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_EXTENSION_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_WEB_EXTENSION_MODEL_EXTENSION_SERVICE_FACTORY_H_
 

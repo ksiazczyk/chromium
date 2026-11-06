@@ -1,0 +1,4 @@
+# Docerion header of http_auth_egtest.mm.
+type: test
+title: HTTP authentication Earl Grey tests
+summary: Earl Grey UI tests exercising the HTTP authentication dialog with good, bad, and cancelled credentials.

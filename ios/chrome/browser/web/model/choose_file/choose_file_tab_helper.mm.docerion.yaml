@@ -1,0 +1,4 @@
+# Docerion header of choose_file_tab_helper.mm.
+type: source
+title: ChooseFileTabHelper implementation
+summary: Implements the tab helper that starts and stops file selection, handles open panel requests, and tracks file URLs ready for selection.

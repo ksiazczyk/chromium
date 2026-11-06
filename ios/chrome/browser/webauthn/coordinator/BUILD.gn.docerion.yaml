@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the passkey coordinators
+summary: Defines the coordinator source set and its unit_tests target, listing sources and dependencies for the passkey incognito interstitial and welcome screen coordinators.

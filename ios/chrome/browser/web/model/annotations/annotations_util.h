@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations utility interface
+// summary: Declares annotation types, policy values and helper functions for detection settings and consent checks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_ANNOTATIONS_ANNOTATIONS_UTIL_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_ANNOTATIONS_ANNOTATIONS_UTIL_H_
 

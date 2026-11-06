@@ -1,0 +1,4 @@
+# Docerion header of error_page_util_unittest.mm.
+type: test
+title: Error page utility unit tests
+summary: Unit tests verifying the generated error page HTML for POST, non-POST, and off-the-record navigation errors.

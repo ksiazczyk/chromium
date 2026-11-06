@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJavaScriptFeature class header
+// summary: Declares a JavaScript feature that listens for window.print() commands from web pages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_PRINT_PRINT_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_PRINT_PRINT_JAVA_SCRIPT_FEATURE_H_
 

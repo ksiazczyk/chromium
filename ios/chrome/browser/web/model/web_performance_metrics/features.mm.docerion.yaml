@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Web performance metrics INP feature flag implementation
+summary: Defines the kIOSWebPerformanceMetricsINP feature flag, disabled by default, which controls INP monitoring on iOS.

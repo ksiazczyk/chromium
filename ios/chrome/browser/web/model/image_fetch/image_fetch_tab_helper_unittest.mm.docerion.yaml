@@ -1,0 +1,4 @@
+# Docerion header of image_fetch_tab_helper_unittest.mm.
+type: test
+title: ImageFetchTabHelper unit tests
+summary: Unit tests for ImageFetchTabHelper covering JavaScript and network-based image data retrieval, timeouts, and UMA histogram reporting.

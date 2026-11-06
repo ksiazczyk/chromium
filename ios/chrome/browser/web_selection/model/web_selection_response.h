@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web selection response header
+// summary: Declares the response object holding the selected text, source view, selection rectangle, and validity flag.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_SELECTION_MODEL_WEB_SELECTION_RESPONSE_H_
 #define IOS_CHROME_BROWSER_WEB_SELECTION_MODEL_WEB_SELECTION_RESPONSE_H_
 

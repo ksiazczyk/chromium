@@ -1,0 +1,4 @@
+# Docerion header of image_fetch_tab_helper.mm.
+type: source
+title: ImageFetchTabHelper implementation
+summary: Implements ImageFetchTabHelper, coordinating JavaScript image retrieval with a 300 ms timeout and a profile-attached image fetcher fallback for downloads.

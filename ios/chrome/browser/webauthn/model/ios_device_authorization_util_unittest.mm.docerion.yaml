@@ -1,0 +1,4 @@
+# Docerion header of ios_device_authorization_util_unittest.mm.
+type: test
+title: iOS device authorization utility unit tests
+summary: Unit tests verifying that BuildDeviceIntegrityContentBindings hashes and sorts the reauth proof token, trusted vault key availability, and salt correctly.

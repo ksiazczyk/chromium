@@ -1,0 +1,4 @@
+# Docerion header of java_script_console_feature.mm.
+type: source
+title: JavaScriptConsoleFeature implementation
+summary: Implements JavaScriptConsoleFeature, injecting the console script and parsing received script messages into JavaScriptConsoleMessage objects for the delegate.

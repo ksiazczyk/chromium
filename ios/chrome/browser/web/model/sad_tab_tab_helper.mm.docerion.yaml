@@ -1,0 +1,4 @@
+# Docerion header of sad_tab_tab_helper.mm.
+type: source
+title: SadTabTabHelper implementation
+summary: Implements Sad Tab presentation, reload, and dismissal logic on renderer crash, visibility changes, and app activation.

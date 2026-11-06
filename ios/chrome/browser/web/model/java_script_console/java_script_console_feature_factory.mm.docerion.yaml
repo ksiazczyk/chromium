@@ -1,0 +1,4 @@
+# Docerion header of java_script_console_feature_factory.mm.
+type: source
+title: JavaScriptConsoleFeatureFactory implementation
+summary: Implements JavaScriptConsoleFeatureFactory, building a JavaScriptConsoleFeature instance for each profile with its own instance in incognito.

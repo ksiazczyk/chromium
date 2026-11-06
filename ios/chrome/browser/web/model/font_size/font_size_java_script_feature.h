@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the FontSizeJavaScriptFeature class
+// summary: Declares the FontSizeJavaScriptFeature singleton that adjusts font size by a percentage in a WebState or single web frame.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_FONT_SIZE_FONT_SIZE_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_FONT_SIZE_FONT_SIZE_JAVA_SCRIPT_FEATURE_H_
 

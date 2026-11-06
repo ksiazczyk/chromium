@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for web model directory
+summary: Lists code owners responsible for reviewing changes in the web model directory.

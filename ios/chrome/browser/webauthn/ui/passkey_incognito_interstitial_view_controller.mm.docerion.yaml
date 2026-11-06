@@ -1,0 +1,4 @@
+# Docerion header of passkey_incognito_interstitial_view_controller.mm.
+type: source
+title: Passkey incognito interstitial view controller implementation
+summary: Implements the incognito passkey interstitial bottom sheet with localized title, subtitle, and buttons, dark appearance, and delegate notification when the view disappears.

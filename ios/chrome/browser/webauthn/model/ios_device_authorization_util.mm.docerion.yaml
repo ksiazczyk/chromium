@@ -1,0 +1,4 @@
+# Docerion header of ios_device_authorization_util.mm.
+type: source
+title: iOS device authorization utility implementation
+summary: Implements building of hashed content bindings covering the reauth proof token, trusted vault key availability, and salt for device integrity attestation.

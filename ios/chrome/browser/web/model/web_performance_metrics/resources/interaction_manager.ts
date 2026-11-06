@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionManager for INP interaction tracking
+// summary: TypeScript class that records and keeps the longest user interaction durations per frame, capped at ten entries, to support the Interaction to Next Paint metric.
+// ---
+
 // Maximum number of longest interactions to keep in memory for INP.
 // A cap of 10 matches Google's official web-vitals.js library and yields the
 // exact 98th percentile for up to 500 interactions per page.

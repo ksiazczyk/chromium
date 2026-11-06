@@ -1,0 +1,4 @@
+# Docerion header of web_extension_error_scene_agent_unittest.mm.
+type: test
+title: WebExtensionErrorSceneAgent unit tests
+summary: Unit tests for WebExtensionErrorSceneAgent using a fake extension service, fake scene state, and OCMock to verify snackbar and settings navigation behavior.

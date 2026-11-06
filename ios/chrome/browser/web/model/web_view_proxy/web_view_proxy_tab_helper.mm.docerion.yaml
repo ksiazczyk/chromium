@@ -1,0 +1,4 @@
+# Docerion header of web_view_proxy_tab_helper.mm.
+type: source
+title: WebViewProxyTabHelper implementation
+summary: Implements WebViewProxyTabHelper, returning the overriding proxy or the WebState default and notifying observers of changes and destruction.

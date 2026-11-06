@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SadTabTabHelper interface
+// summary: Declares SadTabTabHelper, which listens for renderer crashes and presents a Sad Tab view, detecting repeated failures within a time window.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_SAD_TAB_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_SAD_TAB_TAB_HELPER_H_
 

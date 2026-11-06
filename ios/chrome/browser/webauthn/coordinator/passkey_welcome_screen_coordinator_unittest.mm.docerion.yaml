@@ -1,0 +1,4 @@
+# Docerion header of passkey_welcome_screen_coordinator_unittest.mm.
+type: test
+title: Passkey welcome screen coordinator unit tests
+summary: Tests the welcome screen coordinator with a signed-in fake identity, covering enrollment presentation and dismissal behavior.

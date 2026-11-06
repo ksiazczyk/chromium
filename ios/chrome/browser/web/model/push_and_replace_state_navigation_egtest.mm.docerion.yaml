@@ -1,0 +1,4 @@
+# Docerion header of push_and_replace_state_navigation_egtest.mm.
+type: test
+title: Push and replace state navigation Earl Grey tests
+summary: Earl Grey tests for history.pushState and history.replaceState navigations, checking URL changes and back/forward behavior.

@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_constants.mm.
+type: test
+title: Lookalike URL constants implementation
+summary: Defines the test path constants /lookalike.html and /lookalike-empty.html used by lookalike URL interstitial tests.

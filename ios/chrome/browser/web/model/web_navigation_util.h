@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web navigation utility functions header
+// summary: Declares helpers to create web load parameters, build Chrome variations headers for a URL, and perform user-initiated back and forward navigation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_WEB_NAVIGATION_UTIL_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_WEB_NAVIGATION_UTIL_H_
 

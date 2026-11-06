@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromePasskeyClient class header
+// summary: Declares IOSChromePasskeyClient, the Chrome-side implementation of the IOSPasskeyClient interface for passkey requests and UI handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEBAUTHN_MODEL_IOS_CHROME_PASSKEY_CLIENT_H_
 #define IOS_CHROME_BROWSER_WEBAUTHN_MODEL_IOS_CHROME_PASSKEY_CLIENT_H_
 

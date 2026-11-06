@@ -1,0 +1,4 @@
+# Docerion header of web_view_proxy_tab_helper_observer_bridge_unittest.mm.
+type: test
+title: WebViewProxyTabHelperObserverBridge unit tests
+summary: Unit tests verifying that the bridge forwards web view proxy change and tab helper destruction events, using OCMock and a fake web state.

@@ -1,0 +1,4 @@
+# Docerion header of web_state_delegate_browser_agent_unittest.mm.
+type: test
+title: Web state delegate browser agent unit tests
+summary: Unit tests exercising the web state delegate browser agent, including app launch handling, dialogs, permissions and related tab helper interactions.

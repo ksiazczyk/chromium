@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_egtest.mm.
+type: test
+title: Lookalike URL interstitial Earl Grey tests
+summary: Earl Grey tests for lookalike URL blocking, covering interstitial display, suggested URL navigation, and opening lookalike pages in new tabs.

@@ -1,0 +1,4 @@
+# Docerion header of corpus2.
+type: data
+title: Image fetch fuzzer corpus entry corpus2
+summary: Seed input for the image fetch fuzzer holding a request-like record with a JSON body, user interaction and main frame flags, with a form action source URL.

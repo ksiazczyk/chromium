@@ -7,6 +7,12 @@
 // TODO(crbug.com/40778431): remove this once //chrome/common/profiler is moved
 // to components/profiler.
 
+// ---docerion
+// type: source
+// title: iOS thread profiler header
+// summary: Declares IOSThreadProfiler, which performs startup and periodic profiling of Chrome threads on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_IOS_THREAD_PROFILER_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_IOS_THREAD_PROFILER_H_
 

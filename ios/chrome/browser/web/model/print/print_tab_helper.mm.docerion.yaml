@@ -1,0 +1,4 @@
+# Docerion header of print_tab_helper.mm.
+type: source
+title: PrintTabHelper implementation
+summary: Prints the web state view with its tab title via the printer, unless printing is disabled by the printing-enabled preference.

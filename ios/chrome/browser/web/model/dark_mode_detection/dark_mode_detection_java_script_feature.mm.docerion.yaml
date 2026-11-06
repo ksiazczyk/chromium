@@ -1,0 +1,4 @@
+# Docerion header of dark_mode_detection_java_script_feature.mm.
+type: source
+title: Dark mode detection JavaScript feature implementation
+summary: Implements the feature by injecting the detection script into pages and logging UMA histograms of support crossed with device dark mode state.

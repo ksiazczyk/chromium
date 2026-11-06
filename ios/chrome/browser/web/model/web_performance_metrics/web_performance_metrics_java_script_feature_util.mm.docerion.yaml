@@ -1,0 +1,4 @@
+# Docerion header of web_performance_metrics_java_script_feature_util.mm.
+type: source
+title: Web performance metrics metric calculation utilities
+summary: Implements calculations for aggregate First Contentful Paint and the 98th percentile Interaction to Next Paint across frames, matching components/page_load_metrics logic.

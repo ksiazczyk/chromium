@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for web usage enabler
+summary: Defines the GN source sets for the web usage enabler browser agent and its unit tests, listing sources and dependencies.

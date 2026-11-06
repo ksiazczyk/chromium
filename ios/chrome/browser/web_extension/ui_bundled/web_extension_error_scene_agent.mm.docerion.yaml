@@ -1,0 +1,4 @@
+# Docerion header of web_extension_error_scene_agent.mm.
+type: source
+title: WebExtensionErrorSceneAgent implementation
+summary: Implements the scene agent that observes the extension service for load errors and shows a snackbar to open Universal Opt Out settings, honoring prefs and feature flags.

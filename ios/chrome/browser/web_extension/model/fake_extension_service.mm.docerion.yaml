@@ -1,0 +1,4 @@
+# Docerion header of fake_extension_service.mm.
+type: source
+title: FakeExtensionService implementation
+summary: Implements the fake ExtensionService for tests, managing observer registration, ready-state callbacks, and load error notifications.

@@ -1,0 +1,4 @@
+# Docerion header of web_extension_app_interface_stub.mm.
+type: test
+title: Stub for WebExtension app interface
+summary: Registers a stub of the WebExtension app interface for the app main queue in EarlGrey test support builds.

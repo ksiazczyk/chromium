@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the web_state_list model
+summary: Defines the model source set for the favicon driver observer and the unit_tests source set with their dependencies.

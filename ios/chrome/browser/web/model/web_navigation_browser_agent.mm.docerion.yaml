@@ -1,0 +1,4 @@
+# Docerion header of web_navigation_browser_agent.mm.
+type: source
+title: Web navigation browser agent implementation
+summary: Implements the web navigation browser agent, handling navigation, user agent reloads, and Lens view finder integration.

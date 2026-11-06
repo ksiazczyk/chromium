@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScriptConsoleFeature class header
+// summary: Declares JavaScriptConsoleFeature, a keyed service and web::JavaScriptFeature that listens for JavaScript console messages and forwards them to a delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_JAVA_SCRIPT_CONSOLE_JAVA_SCRIPT_CONSOLE_FEATURE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_JAVA_SCRIPT_CONSOLE_JAVA_SCRIPT_CONSOLE_FEATURE_H_
 

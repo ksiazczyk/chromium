@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageFetchJavaScriptFeature header
+// summary: Declares ImageFetchJavaScriptFeature, a JavaScript feature that retrieves image data from a webpage and reports success or failure to a handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_MODEL_IMAGE_FETCH_IMAGE_FETCH_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_WEB_MODEL_IMAGE_FETCH_IMAGE_FETCH_JAVA_SCRIPT_FEATURE_H_
 

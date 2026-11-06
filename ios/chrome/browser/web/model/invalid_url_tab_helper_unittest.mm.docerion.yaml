@@ -1,0 +1,4 @@
+# Docerion header of invalid_url_tab_helper_unittest.mm.
+type: test
+title: Invalid URL tab helper unit tests
+summary: Unit tests checking navigation allow, cancel, and error decisions for HTTPS, data, and over-long URLs.

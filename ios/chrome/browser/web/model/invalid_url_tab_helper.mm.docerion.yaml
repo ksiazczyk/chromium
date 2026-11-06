@@ -1,0 +1,4 @@
+# Docerion header of invalid_url_tab_helper.mm.
+type: source
+title: Invalid URL tab helper implementation
+summary: Implements the navigation policy check that blocks invalid data URLs and over-long URLs, showing errors for browser-initiated navigations.

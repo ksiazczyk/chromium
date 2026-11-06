@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: JavaScript console BUILD.gn build targets
+summary: Defines the java_script_console source set, the console TypeScript script target, and the unit test target for the iOS JavaScript console feature.

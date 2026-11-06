@@ -1,0 +1,4 @@
+# Docerion header of web_selection_tab_helper_unittest.mm.
+type: test
+title: WebSelectionTabHelper unit tests
+summary: Unit tests for the selection tab helper, covering empty selections, selections in iframes, observer notifications, and timeout behavior using mock time and test web states.

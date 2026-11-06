@@ -1,0 +1,4 @@
+# Docerion header of web_state_update_browser_agent.mm.
+type: source
+title: WebStateUpdateBrowserAgent implementation
+summary: Implements the WebStateUpdateBrowserAgent, handling web state removal, scroll offset translation for toolbar height, and active web state visibility changes.

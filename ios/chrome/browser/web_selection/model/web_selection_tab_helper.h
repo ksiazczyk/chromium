@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web selection tab helper header
+// summary: Declares a per-tab helper that retrieves the selected page text via callback, with a timeout when no selection exists.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_WEB_SELECTION_MODEL_WEB_SELECTION_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_WEB_SELECTION_MODEL_WEB_SELECTION_TAB_HELPER_H_
 

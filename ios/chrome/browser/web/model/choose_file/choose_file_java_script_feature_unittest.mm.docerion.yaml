@@ -1,0 +1,4 @@
+# Docerion header of choose_file_java_script_feature_unittest.mm.
+type: test
+title: ChooseFileJavaScriptFeature unit tests
+summary: Parameterized tests verifying that metrics are logged when tapping or simulating clicks on file inputs in various states.

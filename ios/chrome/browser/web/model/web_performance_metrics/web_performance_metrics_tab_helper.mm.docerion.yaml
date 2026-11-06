@@ -1,0 +1,4 @@
+# Docerion header of web_performance_metrics_tab_helper.mm.
+type: source
+title: Web performance metrics tab helper implementation
+summary: Implements WebPerformanceMetricsTabHelper, which tracks first contentful paint, first input delay and interaction-to-next-paint data per WebState and flushes the metrics to UMA histograms on committed cross-document navigations.
