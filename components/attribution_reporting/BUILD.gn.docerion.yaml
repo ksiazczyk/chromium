@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the attribution_reporting features component
+summary: GN build file defining the features component with its sources, dependencies, defines and compiler configs.

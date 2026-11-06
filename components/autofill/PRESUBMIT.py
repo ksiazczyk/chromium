@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Autofill presubmit checks
+# summary: Presubmit script that checks Autofill changes for forbidden patterns such as AutofillClock::Now() calls and unsafe casts to field type enums.
+# ---
+
 """Chromium presubmit script for src/components/autofill.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

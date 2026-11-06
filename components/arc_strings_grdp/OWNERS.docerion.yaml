@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reference for the arc_strings_grdp directory
+summary: Points to the shared ARC OWNERS file that defines the reviewers responsible for this directory.

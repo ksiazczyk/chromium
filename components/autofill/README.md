@@ -1,3 +1,9 @@
+---
+type: readme
+title: Autofill architecture and cheatsheet
+summary: Explains the Autofill layered component architecture and provides a cheatsheet on forms, field classification, data persistence, votes and address handling.
+---
+
 # Autofill
 
 Autofill is a [layered

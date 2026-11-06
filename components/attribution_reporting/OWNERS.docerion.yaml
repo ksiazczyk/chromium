@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for attribution_reporting
+summary: Delegates ownership to the browser-side OWNERS file and assigns IPC security owners to mojom and mojom traits files.

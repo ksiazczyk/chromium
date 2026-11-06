@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attribution Reporting feature flag declarations
+// summary: Declares the kConversionMeasurement feature, noting that Conversion Measurement is a legacy name for Attribution Reporting.
+// ---
+
 #ifndef COMPONENTS_ATTRIBUTION_REPORTING_FEATURES_H_
 #define COMPONENTS_ATTRIBUTION_REPORTING_FEATURES_H_
 
