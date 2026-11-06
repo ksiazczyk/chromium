@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard implementation
+// summary: Implements the exo Keyboard class that dispatches key events to clients, handling focus, accelerators, pending key acknowledgements and IME support.
+// ---
+
 
 #include "components/exo/keyboard.h"
 

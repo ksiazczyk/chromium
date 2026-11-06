@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceTreeHost test utilities interface
+// summary: Declares helpers for SurfaceTreeHost tests, including waits for frame acks and presentation plus buffer release callback factories.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_SURFACE_TREE_HOST_TEST_UTIL_H_
 #define COMPONENTS_EXO_TEST_SURFACE_TREE_HOST_TEST_UTIL_H_
 

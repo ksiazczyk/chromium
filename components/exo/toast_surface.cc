@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast surface implementation
+// summary: Implements the toast surface role, wrapping a surface as a non-activatable, non-movable overlay shell surface that registers itself with the toast surface manager on commit.
+// ---
+
 #include "components/exo/toast_surface.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad class header
+// summary: Declares the exo Gamepad class that represents a single gamepad device and forwards gamepad events to its delegate while notifying observers on destruction.
+// ---
+
 #ifndef COMPONENTS_EXO_GAMEPAD_H_
 #define COMPONENTS_EXO_GAMEPAD_H_
 

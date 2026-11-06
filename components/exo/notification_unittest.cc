@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification unit tests
+// summary: Unit tests verifying that the exo Notification class invokes close and click callbacks, including notification button clicks, via the message center.
+// ---
+
 #include "components/exo/notification.h"
 
 #include "base/functional/bind.h"

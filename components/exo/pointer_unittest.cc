@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointer unit tests
+// summary: Unit tests for the exo Pointer class covering cursor handling, drag and drop, pointer constraints, relative motion and stylus extensions.
+// ---
+
 #include "components/exo/pointer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer class declaration
+// summary: Declares the Pointer class, a client pointer representing input devices like mice, with cursor control, event handling, and delegate hooks for pinch gestures and stylus events.
+// ---
+
 #ifndef COMPONENTS_EXO_POINTER_H_
 #define COMPONENTS_EXO_POINTER_H_
 

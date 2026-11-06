@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and drop operation class
+// summary: Declares DragDropOperation, a self-managing class representing an ongoing drag-drop operation started by an exo client.
+// ---
+
 #ifndef COMPONENTS_EXO_DRAG_DROP_OPERATION_H_
 #define COMPONENTS_EXO_DRAG_DROP_OPERATION_H_
 

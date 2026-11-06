@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Exo GN build targets and dependencies
+summary: Defines the exo static library sources, dependencies, and build settings for the Wayland display server component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for sub-surface behavior
+// summary: Unit tests covering sub-surface position updates, stacking order changes above and below siblings, and commit behavior after parent commits.
+// ---
+
 #include "components/exo/sub_surface.h"
 
 #include "components/exo/buffer.h"

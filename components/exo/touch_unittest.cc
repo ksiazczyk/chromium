@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch unit tests
+// summary: Unit tests for the Touch class using mock touch and stylus delegates to verify touch down, up, motion, cancel and stylus event dispatch behavior.
+// ---
+
 #include "components/exo/touch.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

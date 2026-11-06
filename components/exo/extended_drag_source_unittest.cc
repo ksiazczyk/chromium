@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extended drag source unit tests
+// summary: Unit tests for ExtendedDragSource covering extended drag sessions, cursor locking, drop-anywhere behavior, and dragged window visibility and offsets.
+// ---
+
 #include "components/exo/extended_drag_source.h"
 
 #include <memory>

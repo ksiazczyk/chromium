@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock security delegate header
+// summary: Declares MockSecurityDelegate, a gmock mock of SecurityDelegate for stubbing activation, pointer locking, bounds, and data transfer policies in tests.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_MOCK_SECURITY_DELEGATE_H_
 #define COMPONENTS_EXO_TEST_MOCK_SECURITY_DELEGATE_H_
 

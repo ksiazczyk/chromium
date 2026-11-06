@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodSurface class header
+// summary: Declares the InputMethodSurface class, which handles the input method surface role of a surface and tracks its bounds in DIPs.
+// ---
+
 #ifndef COMPONENTS_EXO_INPUT_METHOD_SURFACE_H_
 #define COMPONENTS_EXO_INPUT_METHOD_SURFACE_H_
 

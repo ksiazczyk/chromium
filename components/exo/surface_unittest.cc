@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface unit tests
+// summary: Extensive unit tests for the exo Surface class covering hit testing, transforms, occlusion tracking, and buffer commits.
+// ---
+
 #include "components/exo/surface.h"
 
 #include <optional>

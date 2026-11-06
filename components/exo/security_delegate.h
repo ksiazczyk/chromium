@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security delegate interface for exo Wayland servers
+// summary: Defines the SecurityDelegate interface controlling security-sensitive Wayland server features such as self-activation, pointer lock, window bounds, remote shell access, and file info translation between endpoints.
+// ---
+
 #ifndef COMPONENTS_EXO_SECURITY_DELEGATE_H_
 #define COMPONENTS_EXO_SECURITY_DELEGATE_H_
 

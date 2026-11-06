@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandServerController class declaration
+// summary: Declares the controller API for creating the singleton, looking up servers by display, and listening on sockets with security delegates.
+// ---
+
 #ifndef COMPONENTS_EXO_SERVER_WAYLAND_SERVER_CONTROLLER_H_
 #define COMPONENTS_EXO_SERVER_WAYLAND_SERVER_CONTROLLER_H_
 

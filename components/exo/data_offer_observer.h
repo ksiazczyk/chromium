@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataOffer observer interface
+// summary: Defines the DataOfferObserver interface that lets observers react when a data offer is about to be destroyed.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_OFFER_OBSERVER_H_
 #define COMPONENTS_EXO_DATA_OFFER_OBSERVER_H_
 

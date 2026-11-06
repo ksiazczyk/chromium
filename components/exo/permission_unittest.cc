@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission unit tests
+// summary: Unit tests covering capability checks, revocation, and expiry behavior of the exo Permission class.
+// ---
+
 #include "components/exo/permission.h"
 
 #include "base/time/time.h"

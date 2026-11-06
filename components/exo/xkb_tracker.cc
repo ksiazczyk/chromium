@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbTracker implementation
+// summary: Implements XKB state tracking, updating keyboard layout and modifiers and exposing keysyms, keymap data, and current modifier state.
+// ---
+
 #include "components/exo/xkb_tracker.h"
 
 #if BUILDFLAG(USE_XKBCOMMON)

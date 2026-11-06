@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data source delegate interface
+// summary: Defines the DataSourceDelegate interface for handling data source events such as mime type targets, data sends, cancellation, and drag-and-drop actions.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_SOURCE_DELEGATE_H_
 #define COMPONENTS_EXO_DATA_SOURCE_DELEGATE_H_
 

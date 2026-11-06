@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification implementation
+// summary: Implements exo notifications shown in the Ash message center, mainly for Crostini, with close and click callbacks.
+// ---
+
 #include "components/exo/notification.h"
 
 #include <memory>

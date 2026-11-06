@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for shell surface utilities
+// summary: Unit tests verifying target surface resolution for located events and keyboard focus, plus crash-safety checks for client-controlled shell surfaces.
+// ---
+
 #include "components/exo/shell_surface_util.h"
 
 #include "components/exo/buffer.h"

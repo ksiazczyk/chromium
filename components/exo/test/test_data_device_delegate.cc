@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data device delegate implementation
+// summary: Implements a test DataDeviceDelegate that records data device events and creates test data offers for exo tests.
+// ---
+
 #include "components/exo/test/test_data_device_delegate.h"
 
 #include "components/exo/data_offer_delegate.h"

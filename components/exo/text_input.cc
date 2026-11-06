@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text input implementation
+// summary: Implements TextInput, bridging the ChromeOS input method with a text-input session on a surface, including activation and virtual keyboard control.
+// ---
+
 #include "components/exo/text_input.h"
 
 #include <algorithm>

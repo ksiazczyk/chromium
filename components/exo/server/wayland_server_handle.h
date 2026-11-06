@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandServerHandle class declaration
+// summary: Declares an opaque, non-copyable handle whose deletion tells exo to remove the corresponding Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_SERVER_WAYLAND_SERVER_HANDLE_H_
 #define COMPONENTS_EXO_SERVER_WAYLAND_SERVER_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text input class
+// summary: Declares TextInput, which bridges the ChromeOS input method and a text-input context, with a delegate interface for composition, keys, and keyboard events.
+// ---
+
 #ifndef COMPONENTS_EXO_TEXT_INPUT_H_
 #define COMPONENTS_EXO_TEXT_INPUT_H_
 

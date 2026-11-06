@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeFrameSinkHolder implementation
+// summary: Implements the holder that submits compositor frames to the layer tree frame sink, managing BeginFrame handling, cached frames, resource reclamation and lifetime.
+// ---
+
 #include "components/exo/layer_tree_frame_sink_holder.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeFrameSinkHolder class declaration
+// summary: Declares the LayerTreeFrameSinkHolder class, which talks to the compositor frame sink and keeps track of references to buffer contents.
+// ---
+
 #ifndef COMPONENTS_EXO_LAYER_TREE_FRAME_SINK_HOLDER_H_
 #define COMPONENTS_EXO_LAYER_TREE_FRAME_SINK_HOLDER_H_
 

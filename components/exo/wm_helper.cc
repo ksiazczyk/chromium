@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WM helper implementation
+// summary: Implements WMHelper, the singleton interface giving exo access to window manager features such as focus, capture, drag-and-drop, display, tooltip, and power events.
+// ---
+
 #include "components/exo/wm_helper.h"
 
 #include "ash/frame_throttler/frame_throttling_controller.h"

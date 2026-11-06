@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime utils implementation
+// summary: Implements GetCharset, which extracts the character set from a text MIME type, defaulting to US-ASCII and special-casing UTF-8 for X11 apps.
+// ---
+
 #include "components/exo/mime_utils.h"
 
 #include "ui/base/clipboard/clipboard_constants.h"

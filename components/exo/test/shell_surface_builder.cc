@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell surface builder implementation for exo tests
+// summary: Implements a builder that creates ShellSurface and ClientControlledShellSurface instances with buffers, sub-surfaces and security delegates for testing.
+// ---
+
 #include "components/exo/test/shell_surface_builder.h"
 
 #include <tuple>

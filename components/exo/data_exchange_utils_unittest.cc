@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data exchange utils unit tests
+// summary: Unit tests verifying that FilterCustomData removes fs/ prefixed keys while keeping other custom data entries in the resulting Pickle.
+// ---
+
 #include "components/exo/data_exchange_utils.h"
 
 #include "base/containers/flat_map.h"

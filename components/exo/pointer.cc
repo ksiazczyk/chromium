@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer implementation
+// summary: Implements the exo Pointer class, which represents client pointer devices such as mice, handling cursor surfaces, mouse, scroll, and gesture events, drag and drop, and stylus input.
+// ---
+
 #include "components/exo/pointer.h"
 
 #include <optional>

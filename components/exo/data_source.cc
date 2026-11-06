@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSource implementation
+// summary: Implements the DataSource class representing data offered by a client, including charset and image MIME type ranking and reading selection data from file descriptors.
+// ---
+
 #include "components/exo/data_source.h"
 
 #include <limits>

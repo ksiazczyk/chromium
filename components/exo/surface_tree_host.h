@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface tree host class
+// summary: Declares SurfaceTreeHost, which hosts a surface tree in a host window and manages frame callbacks, presentation callbacks, and scale factors.
+// ---
+
 #ifndef COMPONENTS_EXO_SURFACE_TREE_HOST_H_
 #define COMPONENTS_EXO_SURFACE_TREE_HOST_H_
 

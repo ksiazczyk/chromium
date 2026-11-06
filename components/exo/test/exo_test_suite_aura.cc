@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura test suite implementation
+// summary: Implements ExoTestSuiteAura, initializing and shutting down GL for a minimal Aura-based test suite.
+// ---
+
 #include "components/exo/test/exo_test_suite_aura.h"
 
 #include "ui/gl/test/gl_surface_test_support.h"

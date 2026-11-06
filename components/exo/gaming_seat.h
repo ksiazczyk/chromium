@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamingSeat class header
+// summary: Declares the GamingSeat class, which monitors gamepad connection changes and notifies a delegate about gamepad events for the focused surface.
+// ---
+
 #ifndef COMPONENTS_EXO_GAMING_SEAT_H_
 #define COMPONENTS_EXO_GAMING_SEAT_H_
 

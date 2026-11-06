@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Exo code owners
+summary: Lists code owners for the exo directory by area, including per-file owners for extended drag and Wayland files.

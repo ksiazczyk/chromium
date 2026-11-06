@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test security delegate header for Exo tests
+// summary: Declares TestSecurityDelegate, a test SecurityDelegate for Exo with setters to control permission results and a helper to run the SendPickle callback with given URLs.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_TEST_SECURITY_DELEGATE_H_
 #define COMPONENTS_EXO_TEST_TEST_SECURITY_DELEGATE_H_
 

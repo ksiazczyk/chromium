@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell surface class header
+// summary: Declares the ShellSurface class implementing shell-managed toplevel surfaces, with configure, origin change, focus rotation, and overview change callbacks plus window state operations.
+// ---
+
 #ifndef COMPONENTS_EXO_SHELL_SURFACE_H_
 #define COMPONENTS_EXO_SHELL_SURFACE_H_
 

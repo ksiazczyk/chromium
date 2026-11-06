@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag and drop operation unit tests
+// summary: Unit tests for DragDropOperation, verifying drag start, captured transfer data, and drag completion or cancellation behavior.
+// ---
+
 #include "components/exo/drag_drop_operation.h"
 
 #include <memory>

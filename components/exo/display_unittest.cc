@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display unit tests
+// summary: Unit tests for the exo Display class, covering creation of surfaces, shared memory, buffers, and shell surfaces.
+// ---
+
 #include "components/exo/display.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

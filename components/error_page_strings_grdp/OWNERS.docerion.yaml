@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for error page strings
+summary: Lists edwardjung@chromium.org as owner and refers to the components/error_page/OWNERS file for review ownership of this directory.

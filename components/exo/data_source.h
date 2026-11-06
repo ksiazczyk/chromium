@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSource class header
+// summary: Declares the DataSource class representing data offered by a client, with methods for offering MIME types, drag-and-drop actions and reading preferred MIME type data.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_SOURCE_H_
 #define COMPONENTS_EXO_DATA_SOURCE_H_
 

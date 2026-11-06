@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell surface base implementation
+// summary: Implements ShellSurfaceBase, the common base for toplevel, fullscreen, and popup shell surface widgets, covering activation, shadows, accessibility, closing accelerators, and window management.
+// ---
+
 #include "components/exo/shell_surface_base.h"
 
 #include <stdint.h>

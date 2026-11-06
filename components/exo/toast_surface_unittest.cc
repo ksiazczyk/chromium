@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toast surface unit test
+// summary: Unit test verifying that a toast surface's widget cannot be activated after creation and commit.
+// ---
+
 #include "components/exo/toast_surface.h"
 
 #include "components/exo/test/exo_test_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI lock controller unit tests
+// summary: Unit tests for UILockController covering escape from fullscreen and pointer lock, notification behavior, and reactions to power, session, and user activity events.
+// ---
+
 #include "components/exo/ui_lock_controller.h"
 
 #include "ash/constants/ash_features.h"

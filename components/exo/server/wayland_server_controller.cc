@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of WaylandServerController
+// summary: Implements the singleton controller that owns the exo display, starts the default Wayland server, and creates or closes on-demand servers listening on sockets.
+// ---
+
 #include "components/exo/server/wayland_server_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory buffer creation implementation
+// summary: Implements the SharedMemory class that wraps an unsafe shared memory region, validates supported pixel formats and strides, and creates display buffers from the memory.
+// ---
+
 #include "components/exo/shared_memory.h"
 
 #include <GLES2/gl2extchromium.h>

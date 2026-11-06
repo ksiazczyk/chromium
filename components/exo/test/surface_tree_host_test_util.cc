@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceTreeHost test utilities implementation
+// summary: Implements helpers that wait for compositor frame acks and presentation and create buffer release callbacks in SurfaceTreeHost tests.
+// ---
+
 #include "components/exo/test/surface_tree_host_test_util.h"
 
 #include "base/check.h"

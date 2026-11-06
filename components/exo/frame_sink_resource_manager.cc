@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame sink resource manager implementation
+// summary: Implements FrameSinkResourceManager, which allocates viz resource IDs and tracks, reclaims, and clears release callbacks for frame sink resources.
+// ---
+
 #include "components/exo/frame_sink_resource_manager.h"
 
 #include <utility>

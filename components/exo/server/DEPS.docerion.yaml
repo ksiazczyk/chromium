@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the exo server directory
+summary: DEPS file granting arc_overlay_manager_unittest.cc permission to include the ARC overlay manager header.

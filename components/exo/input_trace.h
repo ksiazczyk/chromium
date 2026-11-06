@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event tracing macro
+// summary: Header defining TRACE_EXO_INPUT_EVENT, a trace macro that logs input event type and timestamp in the exo trace category.
+// ---
+
 #ifndef COMPONENTS_EXO_INPUT_TRACE_H_
 #define COMPONENTS_EXO_INPUT_TRACE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exo test helper implementation
+// summary: Implements ExoTestHelper and a client-controlled shell surface delegate that create buffers and surfaces and signal state and bounds changes in tests.
+// ---
+
 #include "components/exo/test/exo_test_helper.h"
 
 #include <memory>

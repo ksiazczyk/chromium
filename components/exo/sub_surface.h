@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub-surface class declaration
+// summary: Declares the SubSurface class, which treats a surface as a sub-surface with one parent, providing position, transform, z-order, and commit behavior controls.
+// ---
+
 #ifndef COMPONENTS_EXO_SUB_SURFACE_H_
 #define COMPONENTS_EXO_SUB_SURFACE_H_
 

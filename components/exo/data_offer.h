@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataOffer class header
+// summary: Declares the DataOffer class representing transferred data offered to a client, with methods for accepting, receiving, finishing and setting drag-and-drop actions.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_OFFER_H_
 #define COMPONENTS_EXO_DATA_OFFER_H_
 

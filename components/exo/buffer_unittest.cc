@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Buffer unit tests
+// summary: Tests buffer release callbacks, transferable resource production, and sync token handling in compositor frames.
+// ---
+
 #include "components/exo/buffer.h"
 
 #include <GLES2/gl2extchromium.h>

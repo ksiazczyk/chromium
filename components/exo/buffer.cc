@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffer implementation for surface contents
+// summary: Implements the Buffer class that backs Surface content with GPU memory buffers and produces transferable resources for compositing.
+// ---
+
 #include "components/exo/buffer.h"
 
 #include <stdint.h>

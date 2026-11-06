@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard device configuration delegate
+// summary: Declares a delegate extension to KeyboardDelegate that is notified when the used keyboard type changes between physical and virtual.
+// ---
+
 #ifndef COMPONENTS_EXO_KEYBOARD_DEVICE_CONFIGURATION_DELEGATE_H_
 #define COMPONENTS_EXO_KEYBOARD_DEVICE_CONFIGURATION_DELEGATE_H_
 

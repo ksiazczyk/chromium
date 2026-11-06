@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method surface manager interface
+// summary: Defines the InputMethodSurfaceManager interface for adding, removing and querying the currently used InputMethodSurface and its touchable bounds.
+// ---
+
 #ifndef COMPONENTS_EXO_INPUT_METHOD_SURFACE_MANAGER_H_
 #define COMPONENTS_EXO_INPUT_METHOD_SURFACE_MANAGER_H_
 

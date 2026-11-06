@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window occlusion manager implementation
+// summary: Implements WindowOcclusionManager, which pauses occlusion tracking for exo windows while the screen is locked so clients do not react to occlusion changes.
+// ---
+
 #include "components/exo/window_occlusion_manager.h"
 
 #include "ash/session/session_controller_impl.h"

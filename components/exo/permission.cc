@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission implementation
+// summary: Implements the Permission class, which grants a window a capability such as self-activation with an optional expiry time and supports revocation.
+// ---
+
 #include "components/exo/permission.h"
 
 #include "base/time/time.h"

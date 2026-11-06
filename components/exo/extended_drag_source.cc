@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended drag source implementation
+// summary: Implements ExtendedDragSource, which drives toplevel window dragging for the extended drag Wayland protocol, tracking dragged windows, visibility, and drag events.
+// ---
+
 #include "components/exo/extended_drag_source.h"
 
 #include <memory>

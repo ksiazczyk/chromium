@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffer class for surface contents
+// summary: Declares the Buffer class that provides content for a Surface, with release callbacks and transferable resource production.
+// ---
+
 #ifndef COMPONENTS_EXO_BUFFER_H_
 #define COMPONENTS_EXO_BUFFER_H_
 

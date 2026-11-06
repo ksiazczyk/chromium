@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gamepad implementation
+// summary: Implements the Gamepad class, which wraps a gamepad device and dispatches button, axis, and frame events to its delegate while managing observers.
+// ---
+
 #include "components/exo/gamepad.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window occlusion manager
+// summary: Declares WindowOcclusionManager, which keeps window occlusion state locked during screen lock to stop exo clients from changing state, such as entering picture-in-picture.
+// ---
+
 #ifndef COMPONENTS_EXO_WINDOW_OCCLUSION_MANAGER_H_
 #define COMPONENTS_EXO_WINDOW_OCCLUSION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame sink resource manager class declaration
+// summary: Declares FrameSinkResourceManager, a helper managing resource IDs and release callbacks suitable for implementing a frame sink.
+// ---
+
 #ifndef COMPONENTS_EXO_FRAME_SINK_RESOURCE_MANAGER_H_
 #define COMPONENTS_EXO_FRAME_SINK_RESOURCE_MANAGER_H_
 

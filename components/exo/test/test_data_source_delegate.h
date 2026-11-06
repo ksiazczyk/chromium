@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data source delegate header for Exo tests
+// summary: Declares TestDataSourceDelegate, a test DataSourceDelegate for Exo that can be seeded with MIME-typed data and configured to accept or cancel data transfer events.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_TEST_DATA_SOURCE_DELEGATE_H_
 #define COMPONENTS_EXO_TEST_TEST_DATA_SOURCE_DELEGATE_H_
 

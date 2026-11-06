@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data exchange delegate header
+// summary: Declares TestDataExchangeDelegate, a configurable DataExchangeDelegate stub used to test data transfer behavior in Exo.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_EXO_TEST_DATA_EXCHANGE_DELEGATE_H_
 #define COMPONENTS_EXO_TEST_EXO_TEST_DATA_EXCHANGE_DELEGATE_H_
 

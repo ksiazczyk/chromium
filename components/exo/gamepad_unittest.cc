@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gamepad unit tests
+// summary: Unit tests for the exo Gamepad class covering observer registration, delegate callbacks, and event forwarding using mock objects.
+// ---
+
 #include "components/exo/gamepad.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

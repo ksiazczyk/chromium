@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface tree host unit tests
+// summary: Unit tests for SurfaceTreeHost covering display updates with leave/enter callbacks and host window bounds updates for shell and sub surfaces.
+// ---
+
 #include "components/exo/surface_tree_host.h"
 
 #include <memory>

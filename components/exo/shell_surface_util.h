@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell surface utility function declarations
+// summary: Declares helper functions for shell surfaces that set application and startup IDs, control fullscreen shelf behavior, and resolve target surfaces for events, focus, and activation permissions.
+// ---
+
 #ifndef COMPONENTS_EXO_SHELL_SURFACE_UTIL_H_
 #define COMPONENTS_EXO_SHELL_SURFACE_UTIL_H_
 

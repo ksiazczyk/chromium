@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock VSync timing observer header
+// summary: Declares MockVSyncTimingObserver, a GoogleMock test double for VSyncTimingManager::Observer that mocks VSync parameter updates.
+// ---
+
 #ifndef COMPONENTS_EXO_MOCK_VSYNC_TIMING_OBSERVER_H_
 #define COMPONENTS_EXO_MOCK_VSYNC_TIMING_OBSERVER_H_
 

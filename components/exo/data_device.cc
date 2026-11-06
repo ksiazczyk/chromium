@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDevice implementation
+// summary: Implements DataDevice, which starts drag-and-drop and clipboard selection operations for Wayland clients and bridges them to aura drag-drop and clipboard events.
+// ---
+
 #include "components/exo/data_device.h"
 
 #include "base/functional/bind.h"

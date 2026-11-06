@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WM helper interface
+// summary: Declares WMHelper, an interface for accessing window manager features, including lifetime management, app property resolution, and power and vsync observation hooks.
+// ---
+
 #ifndef COMPONENTS_EXO_WM_HELPER_H_
 #define COMPONENTS_EXO_WM_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relative pointer delegate interface
+// summary: Abstract delegate interface that receives relative mouse motion with both screen-relative and hardware ordinal motion values.
+// ---
+
 #ifndef COMPONENTS_EXO_RELATIVE_POINTER_DELEGATE_H_
 #define COMPONENTS_EXO_RELATIVE_POINTER_DELEGATE_H_
 

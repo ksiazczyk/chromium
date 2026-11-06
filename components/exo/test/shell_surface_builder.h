@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell surface builder interface for exo tests
+// summary: Declares a builder for creating test shell surfaces with configurable properties such as geometry, frame, app type and window state.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_SHELL_SURFACE_BUILDER_H_
 #define COMPONENTS_EXO_TEST_SHELL_SURFACE_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mime utils header
+// summary: Declares GetCharset, a helper that returns the character set specified in a text MIME type.
+// ---
+
 #ifndef COMPONENTS_EXO_MIME_UTILS_H_
 #define COMPONENTS_EXO_MIME_UTILS_H_
 

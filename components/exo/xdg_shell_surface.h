@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgShellSurface class header
+// summary: Declares the XDG shell surface class that implements shell surfaces for the XDG protocol, including its auto-maximize behavior.
+// ---
+
 #ifndef COMPONENTS_EXO_XDG_SHELL_SURFACE_H_
 #define COMPONENTS_EXO_XDG_SHELL_SURFACE_H_
 

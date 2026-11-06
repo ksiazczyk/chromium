@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomWindowStateDelegate implementation
+// summary: Implements CustomWindowStateDelegate, disabling default fullscreen toggling, setting up the environment for locked fullscreen sessions, and ending shell surface drags.
+// ---
+
 #include "components/exo/custom_window_state_delegate.h"
 
 #include "ash/shell.h"
