@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer extension registry class declaration
+// summary: Declares RendererExtensionRegistry, a thread-safe container of loaded extensions for the renderer process with worker activation token accessors.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_RENDERER_EXTENSION_REGISTRY_H_
 #define EXTENSIONS_RENDERER_RENDERER_EXTENSION_REGISTRY_H_
 

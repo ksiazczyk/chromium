@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionLocalizationThrottle class header
+// summary: Declares ExtensionLocalizationThrottle, a URLLoaderThrottle that pre-processes CSS files requested by extensions to substitute localization templates with localized strings.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_LOCALIZATION_THROTTLE_H_
 #define EXTENSIONS_RENDERER_EXTENSION_LOCALIZATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web request event handling tracker unit tests
+// summary: Unit tests verifying that the tracker sends exactly one completion signal after all listeners are notified and every context reports.
+// ---
+
 #include "extensions/renderer/api/web_request_event_handling_tracker.h"
 
 #include <optional>

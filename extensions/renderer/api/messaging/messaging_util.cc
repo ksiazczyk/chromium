@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messaging utility implementation
+// summary: Implements messaging helpers that serialize and parse extension messages between V8 values and Message objects, including JSON handling, size limits and argument validation.
+// ---
+
 #include "extensions/renderer/api/messaging/messaging_util.h"
 
 #include <cstddef>

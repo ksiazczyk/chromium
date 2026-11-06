@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API activity logger implementation
+// summary: Logs extension API calls and events in the renderer and forwards them via IPC to the browser activity log.
+// ---
+
 #include "extensions/renderer/api_activity_logger.h"
 
 #include <stddef.h>

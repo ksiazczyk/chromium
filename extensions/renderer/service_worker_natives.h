@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker natives header
+// summary: Declares the ServiceWorkerNatives object-backed native handler for reporting whether a script context is for a service worker.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SERVICE_WORKER_NATIVES_H_
 #define EXTENSIONS_RENDERER_SERVICE_WORKER_NATIVES_H_
 

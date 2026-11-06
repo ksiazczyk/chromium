@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeExtensionBindingsSystem unit tests
+// summary: Unit tests verifying extension API binding creation, invocation errors, event dispatch, and messaging behavior through the native bindings system.
+// ---
+
 #include "extensions/renderer/native_extension_bindings_system.h"
 
 #include <string_view>

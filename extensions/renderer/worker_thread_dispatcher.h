@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerThreadDispatcher class declaration
+// summary: Declares WorkerThreadDispatcher, which sends and receives IPC in extension service workers and updates bindings after permission changes.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_WORKER_THREAD_DISPATCHER_H_
 #define EXTENSIONS_RENDERER_WORKER_THREAD_DISPATCHER_H_
 

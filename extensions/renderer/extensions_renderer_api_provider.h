@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsRendererAPIProvider interface
+// summary: Declares an interface owned by Dispatcher that lets embedders override and extend the renderer side of the extensions system, such as native handlers and source maps.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSIONS_RENDERER_API_PROVIDER_H_
 #define EXTENSIONS_RENDERER_EXTENSIONS_RENDERER_API_PROVIDER_H_
 

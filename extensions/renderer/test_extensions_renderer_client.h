@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test extensions renderer client header
+// summary: Declares TestExtensionsRendererClient, a test subclass of ExtensionsRendererClient overriding incognito process detection and the lowest isolated world id.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_TEST_EXTENSIONS_RENDERER_CLIENT_H_
 #define EXTENSIONS_RENDERER_TEST_EXTENSIONS_RENDERER_CLIENT_H_
 

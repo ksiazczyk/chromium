@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set icon natives implementation
+// summary: Implements native handlers for the setIcon extension API, converting JavaScript ImageData into Skia bitmaps with dimension and data validation.
+// ---
+
 #include "extensions/renderer/set_icon_natives.h"
 
 #include <stddef.h>

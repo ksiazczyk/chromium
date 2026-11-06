@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureCache implementation
+// summary: Implements a cache of extension features available per context type and extension, with invalidation hooks, to speed up feature availability checks in the renderer.
+// ---
+
 #include "extensions/renderer/feature_cache.h"
 
 #include <algorithm>

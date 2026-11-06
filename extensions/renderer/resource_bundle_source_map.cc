@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource bundle source map implementation
+// summary: Implements ResourceBundleSourceMap, which resolves extension module names to resource bundle data, decompressing gzipped sources and caching V8 strings.
+// ---
+
 #include "extensions/renderer/resource_bundle_source_map.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StorageArea unit tests
+// summary: Unit tests verifying StorageArea behavior such as unbounded use errors, use after context invalidation and invalid invocation error messages.
+// ---
+
 #include "extensions/renderer/storage_area.h"
 
 #include "base/strings/stringprintf.h"

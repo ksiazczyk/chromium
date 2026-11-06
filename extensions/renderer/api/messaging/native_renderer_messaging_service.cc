@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeRendererMessagingService implementation
+// summary: Implements the renderer-side extension messaging service that dispatches onConnect, message delivery, and disconnect events for long-lived ports across script contexts.
+// ---
+
 #include "extensions/renderer/api/messaging/native_renderer_messaging_service.h"
 
 #include <map>

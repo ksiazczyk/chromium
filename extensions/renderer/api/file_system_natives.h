@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileSystemNatives custom bindings header
+// summary: Declares the FileSystemNatives native handler that exposes file system binding routes for extension renderer contexts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_FILE_SYSTEM_NATIVES_H_
 #define EXTENSIONS_RENDERER_API_FILE_SYSTEM_NATIVES_H_
 

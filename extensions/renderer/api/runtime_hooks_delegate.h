@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime API hooks delegate header
+// summary: Declares the hooks delegate that provides custom native behavior for chrome.runtime methods, including messaging and getURL.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_RUNTIME_HOOKS_DELEGATE_H_
 #define EXTENSIONS_RENDERER_API_RUNTIME_HOOKS_DELEGATE_H_
 

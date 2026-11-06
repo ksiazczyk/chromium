@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User gestures native handler header
+// summary: Declares UserGesturesNativeHandler, an ObjectBackedNativeHandler with routes for checking active extension interaction and running callbacks with user activation.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_USER_GESTURES_NATIVE_HANDLER_H_
 #define EXTENSIONS_RENDERER_USER_GESTURES_NATIVE_HANDLER_H_
 

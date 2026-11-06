@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GinPort class declaration
+// summary: Declares GinPort, the gin::Wrappable C++ backing for the extensions runtime.Port JavaScript object, with a Delegate interface for posting messages and closing ports.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_MESSAGING_GIN_PORT_H_
 #define EXTENSIONS_RENDERER_API_MESSAGING_GIN_PORT_H_
 

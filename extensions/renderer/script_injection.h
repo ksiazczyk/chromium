@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptInjection header
+// summary: Declares ScriptInjection, a wrapper that checks whether a script may execute and performs or delays its injection into a frame.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SCRIPT_INJECTION_H_
 #define EXTENSIONS_RENDERER_SCRIPT_INJECTION_H_
 

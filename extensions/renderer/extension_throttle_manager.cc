@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension throttle manager implementation
+// summary: Implements the thread-safe manager that maps normalized URL IDs to throttle entries, creates URL loader throttles for extension requests, and garbage-collects outdated entries.
+// ---
+
 #include "extensions/renderer/extension_throttle_manager.h"
 
 #include <map>

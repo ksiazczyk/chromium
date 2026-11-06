@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core renderer extension API provider implementation
+// summary: Registers the core set of renderer-side native handlers, bindings hooks, and source map entries for extension APIs defined at the //extensions layer.
+// ---
+
 #include "extensions/renderer/api/core_extensions_renderer_api_provider.h"
 
 #include "base/containers/fixed_flat_map.h"

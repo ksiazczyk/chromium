@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptInjectionManager header
+// summary: Declares the manager that injects extension and user scripts into frames via content scripts and tabs.executeCode, awaiting permission or load points.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SCRIPT_INJECTION_MANAGER_H_
 #define EXTENSIONS_RENDERER_SCRIPT_INJECTION_MANAGER_H_
 

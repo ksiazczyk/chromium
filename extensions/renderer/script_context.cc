@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptContext implementation
+// summary: Implements ScriptContext, the extensions wrapper around a v8::Context, handling context types, invalidation, effective document URL resolution and access checks for extension and content script contexts.
+// ---
+
 #include "extensions/renderer/script_context.h"
 
 #include <algorithm>

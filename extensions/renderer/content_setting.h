@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSetting custom binding class declaration
+// summary: Declares the gin-wrappable ContentSetting class that backs the contentSettings.ContentSetting API type and its preference.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_CONTENT_SETTING_H_
 #define EXTENSIONS_RENDERER_CONTENT_SETTING_H_
 

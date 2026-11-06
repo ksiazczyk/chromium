@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerScriptContextSet class declaration
+// summary: Declares WorkerScriptContextSet, the single Dispatcher-owned collection of ScriptContexts owned by worker threads and stored per thread.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_WORKER_SCRIPT_CONTEXT_SET_H_
 #define EXTENSIONS_RENDERER_WORKER_SCRIPT_CONTEXT_SET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedWebFrame implementation
+// summary: Implements ScopedWebFrame, which creates a dummy WebView and main frame for testing and tears them down, including garbage collection, when the scope exits.
+// ---
+
 #include "extensions/renderer/scoped_web_frame.h"
 
 #include "mojo/public/cpp/bindings/associated_remote.h"

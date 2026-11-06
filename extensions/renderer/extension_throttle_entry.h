@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension throttle entry class declaration
+// summary: Declares ExtensionThrottleEntry, which analyzes requests to a specific URL over time to deduce back-off times and guide application-level request scheduling.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_THROTTLE_ENTRY_H_
 #define EXTENSIONS_RENDERER_EXTENSION_THROTTLE_ENTRY_H_
 

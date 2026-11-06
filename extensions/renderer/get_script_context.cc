@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script context lookup helpers
+// summary: Implements helpers that return the ScriptContext for a V8 context, handling both main thread and worker thread contexts.
+// ---
+
 #include "extensions/renderer/get_script_context.h"
 
 #include "base/check.h"

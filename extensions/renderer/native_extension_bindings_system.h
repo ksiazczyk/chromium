@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeExtensionBindingsSystem class declaration
+// summary: Declares the class responsible for creating extension bindings per context, checking permissions, dispatching requests and events, and handling responses.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_NATIVE_EXTENSION_BINDINGS_SYSTEM_H_
 #define EXTENSIONS_RENDERER_NATIVE_EXTENSION_BINDINGS_SYSTEM_H_
 

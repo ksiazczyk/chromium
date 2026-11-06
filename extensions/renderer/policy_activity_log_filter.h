@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyActivityLogFilter interface for enterprise activity logging
+// summary: Defines an embedder-provided stateless filter that the DOMActivityLogger consults to decide which high-risk extension activities are reported for enterprise policy telemetry.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_POLICY_ACTIVITY_LOG_FILTER_H_
 #define EXTENSIONS_RENDERER_POLICY_ACTIVITY_LOG_FILTER_H_
 

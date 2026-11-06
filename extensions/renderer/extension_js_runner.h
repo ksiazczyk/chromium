@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionJSRunner class header
+// summary: Declares ExtensionJSRunner, a JSRunner implementation that executes functions in a ScriptContext while handling possible JavaScript suspension.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_JS_RUNNER_H_
 #define EXTENSIONS_RENDERER_EXTENSION_JS_RUNNER_H_
 

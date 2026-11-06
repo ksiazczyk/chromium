@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: publicSuffix API hooks delegate implementation
+// summary: Implements native hooks for the publicSuffix API, dispatching isKnownSuffix, getKnownSuffix, and getDomain requests and parsing domain options such as encoding and allowance flags.
+// ---
+
 #include "extensions/renderer/api/public_suffix_hooks_delegate.h"
 
 #include <optional>

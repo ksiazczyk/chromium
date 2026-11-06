@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Console message utility implementation
+// summary: Implements helpers for logging console messages from extension script contexts, including bound log methods and fatal error handling.
+// ---
+
 #include "extensions/renderer/console.h"
 
 #include "base/compiler_specific.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature cache unit tests
+// summary: Unit tests verifying FeatureCache feature availability for extension and WebUI contexts, including cache invalidation after permission changes.
+// ---
+
 #include "extensions/renderer/feature_cache.h"
 
 #include <algorithm>

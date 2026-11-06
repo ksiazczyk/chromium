@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedbackPrivate hooks delegate unit tests
+// summary: Unit tests verifying that sendFeedback fulfills promises with a single result object while callback-based calls receive the status and landing page type as separate arguments.
+// ---
+
 #include "extensions/renderer/api/feedback_private_hooks_delegate.h"
 
 #include "extensions/common/extension.h"

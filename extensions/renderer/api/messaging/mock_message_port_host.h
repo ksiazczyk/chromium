@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMessagePortHost class declaration
+// summary: Declares a gmock-based MessagePortHost mock with ClosePort, PostMessage, and ResponsePending expectations for renderer messaging tests.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_MESSAGING_MOCK_MESSAGE_PORT_HOST_H_
 #define EXTENSIONS_RENDERER_API_MESSAGING_MOCK_MESSAGE_PORT_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StringSourceMap implementation
+// summary: Implements a string-backed SourceMap that registers named module sources, optionally decompressing gzipped content, primarily for testing.
+// ---
+
 #include "extensions/renderer/string_source_map.h"
 
 #include <ostream>

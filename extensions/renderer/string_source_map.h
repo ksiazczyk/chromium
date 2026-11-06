@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StringSourceMap declaration
+// summary: Declares a testing SourceMap implementation that stores module sources in a string map with optional gzip decompression support.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_STRING_SOURCE_MAP_H_
 #define EXTENSIONS_RENDERER_STRING_SOURCE_MAP_H_
 

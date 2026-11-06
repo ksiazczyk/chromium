@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer frame context data implementation
+// summary: Implements RendererFrameContextData, exposing frame URL, origin, access checks and controlled frame capability from a blink WebLocalFrame.
+// ---
+
 #include "extensions/renderer/renderer_frame_context_data.h"
 
 #include "extensions/renderer/renderer_context_data.h"

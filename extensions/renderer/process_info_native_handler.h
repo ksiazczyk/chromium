@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessInfoNativeHandler class declaration
+// summary: Declares an ObjectBackedNativeHandler subclass that routes GetExtensionId to return the extension ID of the associated ScriptContext.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_PROCESS_INFO_NATIVE_HANDLER_H_
 #define EXTENSIONS_RENDERER_PROCESS_INFO_NATIVE_HANDLER_H_
 

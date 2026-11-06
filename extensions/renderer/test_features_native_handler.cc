@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test features native handler implementation
+// summary: Implements a native handler exposing a GetAPIFeatures route that returns the API feature provider dictionary to JavaScript for tests.
+// ---
+
 #include "extensions/renderer/test_features_native_handler.h"
 
 #include "base/functional/bind.h"

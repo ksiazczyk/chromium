@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInteractionProvider class header
+// summary: Declares ExtensionInteractionProvider, which supplies user interaction tokens and scopes for RenderFrame and Service Worker based extension contexts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_INTERACTION_PROVIDER_H_
 #define EXTENSIONS_RENDERER_EXTENSION_INTERACTION_PROVIDER_H_
 

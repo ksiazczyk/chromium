@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public suffix utility implementation
+// summary: Implements hostname parsing, normalization, and public suffix and registrable domain lookup for the extensions renderer public suffix API.
+// ---
+
 #include "extensions/renderer/api/public_suffix_util.h"
 
 #include <optional>

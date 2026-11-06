@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameObserverNatives class declaration
+// summary: Declares native functions for JavaScript to run callbacks upon RenderFrame events, including OnDocumentElementCreated for the app.window feature.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_RENDER_FRAME_OBSERVER_NATIVES_H_
 #define EXTENSIONS_RENDERER_RENDER_FRAME_OBSERVER_NATIVES_H_
 

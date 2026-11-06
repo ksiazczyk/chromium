@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core renderer extension API provider header
+// summary: Declares CoreExtensionsRendererAPIProvider, which supplies native handlers, hooks delegates, and source map entries for core extension APIs.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_CORE_EXTENSIONS_RENDERER_API_PROVIDER_H_
 #define EXTENSIONS_RENDERER_API_CORE_EXTENSIONS_RENDERER_API_PROVIDER_H_
 

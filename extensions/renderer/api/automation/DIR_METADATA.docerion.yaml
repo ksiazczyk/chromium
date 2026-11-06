@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata referencing COMMON_METADATA
+summary: Points the automation API directory to the shared COMMON_METADATA file via a mixin so directory metadata is inherited.

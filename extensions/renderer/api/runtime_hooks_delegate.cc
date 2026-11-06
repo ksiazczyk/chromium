@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime API hooks delegate implementation
+// summary: Implements native hooks for the chrome.runtime API, handling getManifest, getURL, sendMessage, connect, and related methods in the renderer.
+// ---
+
 #include "extensions/renderer/api/runtime_hooks_delegate.h"
 
 #include <array>

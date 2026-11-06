@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM activity logger unit tests
+// summary: Unit tests for DOMActivityLogger using mock renderer host, policy filter and renderer client to verify activity logging.
+// ---
+
 #include "extensions/renderer/dom_activity_logger.h"
 
 #include "base/command_line.h"

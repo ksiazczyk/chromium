@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity log converter strategy unit tests
+// summary: Unit tests verifying how ActivityLogConverterStrategy converts various V8 value types.
+// ---
+
 #include "extensions/renderer/activity_log_converter_strategy.h"
 
 #include <memory>

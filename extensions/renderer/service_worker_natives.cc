@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker natives implementation
+// summary: Implements a native handler that exposes IsServiceWorkerContext to extension JavaScript so scripts can detect a service worker context.
+// ---
+
 #include "extensions/renderer/service_worker_natives.h"
 
 #include "base/functional/bind.h"

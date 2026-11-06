@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SendMessageTester implementation
+// summary: Implements a test helper that runs sendMessage, sendRequest, sendNativeMessage, and connect calls and checks expected messages, targets, and port states.
+// ---
+
 #include "extensions/renderer/api/messaging/send_message_tester.h"
 
 #include "base/run_loop.h"

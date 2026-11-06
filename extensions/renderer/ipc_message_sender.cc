@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPCMessageSender implementation for renderer-to-browser IPC
+// summary: Implements main-thread and service-worker variants of IPCMessageSender that send API requests, event listener updates, webRequest acks and message channel IPCs to the browser.
+// ---
+
 #include "extensions/renderer/ipc_message_sender.h"
 
 #include <optional>

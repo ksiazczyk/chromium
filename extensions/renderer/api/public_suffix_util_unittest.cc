@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Public suffix utility unit tests
+// summary: Unit tests covering hostname parsing, known suffix detection, wildcard and exception rules, and registrable domain extraction.
+// ---
+
 #include "extensions/renderer/api/public_suffix_util.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionWebViewHelper implementation
+// summary: Implements a WebViewObserver that records the outermost origin for a WebView and tracks helper instances so extension features can look them up.
+// ---
+
 #include "extensions/renderer/extension_web_view_helper.h"
 
 #include <set>

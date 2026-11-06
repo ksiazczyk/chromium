@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeHandler base class for renderer module handlers
+// summary: Declares the NativeHandler interface that ModuleSystem-owned handlers implement to create V8 objects and manage initialization and invalidation within a single v8::Context.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_NATIVE_HANDLER_H_
 #define EXTENSIONS_RENDERER_NATIVE_HANDLER_H_
 

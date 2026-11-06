@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCCallback unit tests
+// summary: Parameterized unit tests checking GCCallback invocation for native and JS callbacks, with and without fallbacks, across garbage collection and context invalidation.
+// ---
+
 #include "extensions/renderer/gc_callback.h"
 
 #include "base/functional/bind.h"

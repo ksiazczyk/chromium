@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for extensions renderer
+summary: Lists the code owner responsible for reviewing changes in the extensions renderer directory.

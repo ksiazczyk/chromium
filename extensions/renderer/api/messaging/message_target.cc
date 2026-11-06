@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageTarget implementation
+// summary: Implements MessageTarget factory methods for tab, extension and native app message targets, along with move, copy and equality operations.
+// ---
+
 #include "extensions/renderer/api/messaging/message_target.h"
 
 namespace extensions {

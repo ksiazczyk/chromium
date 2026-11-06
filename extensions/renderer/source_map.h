@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SourceMap interface for extension resources
+// summary: Abstract interface mapping resource names to V8 string sources for extension APIs and utilities, declaring GetSource and Contains for subclasses.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SOURCE_MAP_H_
 #define EXTENSIONS_RENDERER_SOURCE_MAP_H_
 

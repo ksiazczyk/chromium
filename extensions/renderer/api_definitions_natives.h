@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ApiDefinitionsNatives: native handler for extension API schemas'
+// summary: Declares ApiDefinitionsNatives, a native handler that gives JavaScript access to extension API schemas from the V8 schema registry.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_DEFINITIONS_NATIVES_H_
 #define EXTENSIONS_RENDERER_API_DEFINITIONS_NATIVES_H_
 

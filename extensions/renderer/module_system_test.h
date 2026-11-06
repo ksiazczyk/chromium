@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModuleSystem test fixture declarations
+// summary: Declares ModuleSystemTestEnvironment and the ModuleSystemTest fixture for running tests against JavaScript that uses the extension module system.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_MODULE_SYSTEM_TEST_H_
 #define EXTENSIONS_RENDERER_MODULE_SYSTEM_TEST_H_
 

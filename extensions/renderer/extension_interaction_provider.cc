@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInteractionProvider implementation
+// summary: Implements extension-specific user interaction tracking, counting active interactions for both RenderFrame based and Service Worker based extension contexts.
+// ---
+
 #include "extensions/renderer/extension_interaction_provider.h"
 
 #include "base/feature_list.h"

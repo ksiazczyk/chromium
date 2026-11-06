@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserScriptSet class header
+// summary: Declares the UserScriptSet class, a collection of user scripts that updates itself from shared memory and creates ScriptInjections to run scripts on pages.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_USER_SCRIPT_SET_H_
 #define EXTENSIONS_RENDERER_USER_SCRIPT_SET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log converter strategy implementation
+// summary: Summarizes V8 objects and arrays as descriptive strings when converting values for extension activity logging.
+// ---
+
 #include "extensions/renderer/activity_log_converter_strategy.h"
 
 #include <memory>

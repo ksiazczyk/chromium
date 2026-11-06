@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module system implementation for extension JS modules
+// summary: Implements the V8-based module system that loads and requires extension JavaScript modules, with exception handling and fatal error reporting.
+// ---
+
 #include "extensions/renderer/module_system.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.automationInternal custom bindings implementation
+// summary: Implements the native custom bindings for the chrome.automationInternal extension API, routing V8 calls and accessibility tree events in the renderer.
+// ---
+
 #include "extensions/renderer/api/automation/automation_internal_custom_bindings.h"
 
 #include <stddef.h>

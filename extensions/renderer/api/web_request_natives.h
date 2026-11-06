@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRequestNatives class declaration for webRequest custom bindings
+// summary: Declares WebRequestNatives, an ObjectBackedNativeHandler that tracks per-context webRequest listeners and matches their filters.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_WEB_REQUEST_NATIVES_H_
 #define EXTENSIONS_RENDERER_API_WEB_REQUEST_NATIVES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionFrameHelper class header
+// summary: Declares ExtensionFrameHelper, a RenderFrameObserver providing per-frame plumbing for extension features such as locating extension frames, background pages, and frame lookup.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_FRAME_HELPER_H_
 #define EXTENSIONS_RENDERER_EXTENSION_FRAME_HELPER_H_
 

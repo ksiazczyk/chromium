@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlobNativeHandler class declaration
+// summary: Declares a native handler that extracts Blob UUIDs for transfer to the browser process, supporting extension functions with Blob parameters.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_BLOB_NATIVE_HANDLER_H_
 #define EXTENSIONS_RENDERER_BLOB_NATIVE_HANDLER_H_
 

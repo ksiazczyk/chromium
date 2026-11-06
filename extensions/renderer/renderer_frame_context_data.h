@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer frame context data class declaration
+// summary: Declares RendererFrameContextData, a FrameContextData wrapper around a blink WebLocalFrame providing URL, origin and access checks.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_RENDERER_FRAME_CONTEXT_DATA_H_
 #define EXTENSIONS_RENDERER_RENDERER_FRAME_CONTEXT_DATA_H_
 

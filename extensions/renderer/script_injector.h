@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptInjector interface
+// summary: Declares the delegate interface that supplies script type, execution world, JS and CSS sources and per-frame permission checks for an injection.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SCRIPT_INJECTOR_H_
 #define EXTENSIONS_RENDERER_SCRIPT_INJECTOR_H_
 

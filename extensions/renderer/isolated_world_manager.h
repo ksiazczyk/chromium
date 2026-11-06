@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWorldManager class declaration
+// summary: Declares the per-renderer singleton that manages creation and properties of isolated worlds for extension content scripts and user scripts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_ISOLATED_WORLD_MANAGER_H_
 #define EXTENSIONS_RENDERER_ISOLATED_WORLD_MANAGER_H_
 

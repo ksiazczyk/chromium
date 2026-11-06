@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagingBindings native handler implementation
+// summary: Implements the MessagingBindings native handler, which provides the BindToGC route that ties a JavaScript object and callback to garbage collection or context invalidation.
+// ---
+
 #include "extensions/renderer/api/messaging/messaging_bindings.h"
 
 #include <stdint.h>

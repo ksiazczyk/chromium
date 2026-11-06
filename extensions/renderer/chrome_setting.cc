@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSetting implementation
+// summary: Implements the custom ChromeSetting type exposed to extension APIs, with get, set, clear methods and an onChange event backed by a preference name.
+// ---
+
 #include "extensions/renderer/chrome_setting.h"
 
 #include "base/strings/stringprintf.h"

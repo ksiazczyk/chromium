@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerScriptContextSet implementation
+// summary: Implements a thread-safe set of worker ScriptContexts kept in thread-local storage, supporting lookup, insertion, removal and per-host iteration.
+// ---
+
 #include "extensions/renderer/worker_script_context_set.h"
 
 #include <algorithm>

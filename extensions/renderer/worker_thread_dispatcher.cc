@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerThreadDispatcher implementation
+// summary: Implements WorkerThreadDispatcher, which manages per-worker ServiceWorkerData and updates extension bindings across service worker threads.
+// ---
+
 #include "extensions/renderer/worker_thread_dispatcher.h"
 
 #include <utility>

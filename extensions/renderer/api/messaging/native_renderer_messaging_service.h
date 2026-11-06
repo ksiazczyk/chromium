@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeRendererMessagingService class declaration
+// summary: Declares the messaging service managing long-lived port-based extension communication such as runtime.connect, including the browser and renderer interaction flow.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_MESSAGING_NATIVE_RENDERER_MESSAGING_SERVICE_H_
 #define EXTENSIONS_RENDERER_API_MESSAGING_NATIVE_RENDERER_MESSAGING_SERVICE_H_
 

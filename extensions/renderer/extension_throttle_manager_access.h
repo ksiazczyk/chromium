@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension throttle manager access class declaration
+// summary: Declares a thread-safe, refcounted helper that lets URL loader throttles safely access an ExtensionThrottleManager that may already have been destroyed.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSION_THROTTLE_MANAGER_ACCESS_H_
 #define EXTENSIONS_RENDERER_EXTENSION_THROTTLE_MANAGER_ACCESS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIInjectionHost implementation
+// summary: Implements WebUIInjectionHost, an injection host for WebUI that uses the main world CSP and allows content scripts on WebUI-created webviews.
+// ---
+
 #include "extensions/renderer/web_ui_injection_host.h"
 
 WebUIInjectionHost::WebUIInjectionHost(const extensions::mojom::HostID& host_id)

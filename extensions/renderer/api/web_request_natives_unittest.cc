@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebRequestNatives native handler
+// summary: Tests listener tracking, filter matching, untracking and blocking-listener exclusion for WebRequestNatives via module system tests.
+// ---
+
 #include "extensions/renderer/api/web_request_natives.h"
 
 #include <string>

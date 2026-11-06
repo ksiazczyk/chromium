@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeExtensionBindingsSystem test base declarations
+// summary: Declares the TestIPCMessageSender mock and the NativeExtensionBindingsSystemUnittest fixture reused by bindings system tests.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_NATIVE_EXTENSION_BINDINGS_SYSTEM_TEST_BASE_H_
 #define EXTENSIONS_RENDERER_NATIVE_EXTENSION_BINDINGS_SYSTEM_TEST_BASE_H_
 

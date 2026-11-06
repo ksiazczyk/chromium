@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature cache for extension context features
+// summary: Declares FeatureCache, which caches and returns the features available to extensions in different renderer context types, with per-extension and global invalidation.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_FEATURE_CACHE_H_
 #define EXTENSIONS_RENDERER_FEATURE_CACHE_H_
 

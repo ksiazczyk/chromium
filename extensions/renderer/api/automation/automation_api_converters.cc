@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation API type converters implementation
+// summary: Implements conversion functions that map accessibility enums such as marker types, tree mutations, observer filters, and events to the extensions automation API types.
+// ---
+
 #include "extensions/renderer/api/automation/automation_api_converters.h"
 #include "base/no_destructor.h"
 #include "ui/accessibility/ax_enum_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API definitions natives implementation
+// summary: Native handler that returns schemas for available extension APIs, intended for test use.
+// ---
+
 #include "extensions/renderer/api_definitions_natives.h"
 
 #include "base/functional/bind.h"

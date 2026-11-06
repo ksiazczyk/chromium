@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOMActivityLogger class declaration
+// summary: Declares DOMActivityLogger, which records DOM getter, setter, method and event activity for extensions via IPC.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_DOM_ACTIVITY_LOGGER_H_
 #define EXTENSIONS_RENDERER_DOM_ACTIVITY_LOGGER_H_
 

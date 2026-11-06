@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserScriptSetManager implementation
+// summary: Implements UserScriptSetManager, which manages per-host user script sets, handles shared memory script updates, and creates injections for declarative scripts.
+// ---
+
 #include "extensions/renderer/user_script_set_manager.h"
 
 #include "base/observer_list.h"

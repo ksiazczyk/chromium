@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ID generator custom bindings declaration
+// summary: Declares IdGeneratorCustomBindings, a native handler that lets the JS layer generate renderer-global and context-scoped unique IDs.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_ID_GENERATOR_CUSTOM_BINDINGS_H_
 #define EXTENSIONS_RENDERER_ID_GENERATOR_CUSTOM_BINDINGS_H_
 

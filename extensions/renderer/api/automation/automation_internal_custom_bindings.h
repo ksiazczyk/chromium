@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.automationInternal custom bindings header
+// summary: Declares the AutomationInternalCustomBindings class, the native handler for chrome.automationInternal that manages accessibility tree caching and event dispatch.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_AUTOMATION_AUTOMATION_INTERNAL_CUSTOM_BINDINGS_H_
 #define EXTENSIONS_RENDERER_API_AUTOMATION_AUTOMATION_INTERNAL_CUSTOM_BINDINGS_H_
 

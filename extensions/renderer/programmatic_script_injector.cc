@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgrammaticScriptInjector implementation
+// summary: Implements script injection for tabs.executeScript, handling JS and CSS injection parameters, run locations, permission checks, and result reporting back to the browser.
+// ---
+
 #include "extensions/renderer/programmatic_script_injector.h"
 
 #include <utility>

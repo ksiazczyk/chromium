@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptInjection implementation
+// summary: Implements script injection into render frames, handling permission requests, run locations, frame invalidation and perfetto tracing.
+// ---
+
 #include "extensions/renderer/script_injection.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScriptContextSet unit tests
+// summary: Tests the lifecycle of script contexts in a ScriptContextSet, covering registration, lookup, size tracking and asynchronous removal.
+// ---
+
 #include <vector>
 
 #include "base/run_loop.h"

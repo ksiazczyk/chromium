@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSetting custom binding implementation
+// summary: Implements the contentSettings.ContentSetting custom type exposed to extension APIs, including get, set and clear argument handling.
+// ---
+
 #include "extensions/renderer/content_setting.h"
 
 #include <algorithm>

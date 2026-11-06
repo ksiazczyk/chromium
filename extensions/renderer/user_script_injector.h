@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User script injector header
+// summary: Declares UserScriptInjector, a ScriptInjector and UserScriptSet observer that defines injection type, execution world, CSS handling and JS or CSS sources for user scripts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_USER_SCRIPT_INJECTOR_H_
 #define EXTENSIONS_RENDERER_USER_SCRIPT_INJECTOR_H_
 

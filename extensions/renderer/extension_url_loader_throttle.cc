@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionURLLoaderThrottle implementation
+// summary: Implements a blink URL loader throttle that consults ExtensionThrottleManager to cancel extension requests and redirects that exceed rate limits.
+// ---
+
 #include "extensions/renderer/extension_url_loader_throttle.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionLocalizationThrottle implementation
+// summary: Implements ExtensionLocalizationThrottle and its URL loader, which intercepts extension CSS responses to replace localization templates with localized strings.
+// ---
+
 #include "extensions/renderer/extension_localization_throttle.h"
 
 #include "base/containers/span.h"

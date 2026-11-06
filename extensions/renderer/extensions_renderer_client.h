@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsRendererClient interface
+// summary: Declares the interface through which the extensions module queries the embedder in the render process, covering incognito state, isolated worlds, and activity logging.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_EXTENSIONS_RENDERER_CLIENT_H_
 #define EXTENSIONS_RENDERER_EXTENSIONS_RENDERER_CLIENT_H_
 

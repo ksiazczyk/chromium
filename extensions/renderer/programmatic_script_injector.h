@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgrammaticScriptInjector class declaration
+// summary: Declares a ScriptInjector that handles tabs.executeScript requests, covering execution worlds, CSS origins, user gesture options, and injection completion callbacks.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_PROGRAMMATIC_SCRIPT_INJECTOR_H_
 #define EXTENSIONS_RENDERER_PROGRAMMATIC_SCRIPT_INJECTOR_H_
 

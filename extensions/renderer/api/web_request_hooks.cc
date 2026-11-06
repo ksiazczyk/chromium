@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web request hooks implementation
+// summary: Implements custom webRequest event creation in the renderer, initializing events with schema-validated extra parameters.
+// ---
+
 #include "extensions/renderer/api/web_request_hooks.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web request event handling tracker header
+// summary: Declares the tracker that records per-context handling of blocking webRequest events and signals completion back to the browser.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_WEB_REQUEST_EVENT_HANDLING_TRACKER_H_
 #define EXTENSIONS_RENDERER_API_WEB_REQUEST_EVENT_HANDLING_TRACKER_H_
 

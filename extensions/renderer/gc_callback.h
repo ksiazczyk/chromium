@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCCallback class declaration
+// summary: Declares GCCallback, a self-owning helper that invokes a JS or native callback on V8 garbage collection of an object, or a fallback on context invalidation.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_GC_CALLBACK_H_
 #define EXTENSIONS_RENDERER_GC_CALLBACK_H_
 

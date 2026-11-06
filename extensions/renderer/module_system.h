@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleSystem class header for extension JS module loading
+// summary: Declares ModuleSystem, a native handler that provides require()-style JavaScript module loading and native handler access within extension renderer script contexts.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_MODULE_SYSTEM_H_
 #define EXTENSIONS_RENDERER_MODULE_SYSTEM_H_
 

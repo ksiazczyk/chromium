@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menus custom bindings implementation
+// summary: Implements the contextMenus API custom binding that hands out incrementing context menu IDs to extension scripts.
+// ---
+
 #include "extensions/renderer/api/context_menus_custom_bindings.h"
 
 #include <stdint.h>

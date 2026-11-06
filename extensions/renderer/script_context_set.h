@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptContextSet header
+// summary: Declares the ScriptContextSet class that creates, owns and manages ScriptContext objects and provides lookup and iteration helpers.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_SCRIPT_CONTEXT_SET_H_
 #define EXTENSIONS_RENDERER_SCRIPT_CONTEXT_SET_H_
 

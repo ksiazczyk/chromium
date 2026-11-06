@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeHandler base class implementation
+// summary: Implements the NativeHandler base class, including invalidation tracking that requires handlers to be invalidated before destruction.
+// ---
+
 #include "extensions/renderer/native_handler.h"
 
 #include <ostream>

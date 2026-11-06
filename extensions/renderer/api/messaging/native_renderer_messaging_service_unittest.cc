@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeRendererMessagingService unit tests
+// summary: Unit tests for the native renderer messaging service, exercising port connection, message delivery, and disconnect behavior through the bindings system test base.
+// ---
+
 #include "extensions/renderer/api/messaging/native_renderer_messaging_service.h"
 
 #include <memory>

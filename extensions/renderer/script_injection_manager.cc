@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptInjectionManager implementation
+// summary: Implements management of pending and running script injections, driving injection at document start, end and idle load states.
+// ---
+
 #include "extensions/renderer/script_injection_manager.h"
 
 #include <algorithm>

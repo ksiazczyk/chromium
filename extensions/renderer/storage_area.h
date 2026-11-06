@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageArea class declaration
+// summary: Declares the StorageArea class backing the chrome.storage API custom type, including storage area creation and method call dispatch helpers.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_STORAGE_AREA_H_
 #define EXTENSIONS_RENDERER_STORAGE_AREA_H_
 

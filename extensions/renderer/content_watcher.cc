@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content watcher frame CSS selector tracking implementation
+// summary: Implements per-frame watching of CSS selectors and notifies the browser when watched page content starts or stops matching.
+// ---
+
 #include "extensions/renderer/content_watcher.h"
 
 #include <stddef.h>

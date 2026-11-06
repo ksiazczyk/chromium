@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ID generator custom bindings
+// summary: Implements native handler routes GetNextId and GetNextScopedId so the JavaScript layer can generate unique integer identifiers.
+// ---
+
 #include "extensions/renderer/id_generator_custom_bindings.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public suffix utility header
+// summary: Declares the ParsedHostname struct and functions for parsing hostnames and resolving known public suffixes and registrable domains.
+// ---
+
 #ifndef EXTENSIONS_RENDERER_API_PUBLIC_SUFFIX_UTIL_H_
 #define EXTENSIONS_RENDERER_API_PUBLIC_SUFFIX_UTIL_H_
 
