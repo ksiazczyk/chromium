@@ -1,0 +1,4 @@
+# Docerion header of text_classifier_util.mm.
+type: source
+title: Text classifier utility for entity selection URL permission checks
+summary: Implements IsEntitySelectionAllowedForURL, deciding whether text classifier entity detection may run for a URL via the optimization guide service and a force-allow command-line switch.

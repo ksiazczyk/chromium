@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tabs model GN build targets
+summary: Defines GN source sets and dependencies for the iOS Chrome tabs model, including the model, tab_helper_attacher, and tabs_internal targets.

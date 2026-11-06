@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_toolbars_coordinator.mm.
+type: source
+title: Tab grid toolbars coordinator implementation
+summary: Implements the toolbars coordinator, wiring the mediator and both toolbars, dispatching toolbar commands, and showing the saved tab group IPH bubble.

@@ -1,0 +1,4 @@
+# Docerion header of tab_group_view_controller_unittest.mm.
+type: test
+title: Tab group view controller unit tests
+summary: Unit tests for TabGroupViewController verifying that tapping the group title requests edition and stays safe after the group is destroyed.

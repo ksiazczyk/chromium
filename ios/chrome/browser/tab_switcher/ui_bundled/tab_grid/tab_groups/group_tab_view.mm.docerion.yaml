@@ -1,0 +1,4 @@
+# Docerion header of group_tab_view.mm.
+type: source
+title: Group tab view implementation
+summary: Implements the group tab view configurations for snapshot with favicon, favicon squares, and remaining tabs label.

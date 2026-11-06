@@ -1,0 +1,4 @@
+# Docerion header of fake_drop_session.mm.
+type: test
+title: Fake UIDropSession test object implementation
+summary: Implements FakeDropSession with stubbed drop session behavior backed by a fake drag session.

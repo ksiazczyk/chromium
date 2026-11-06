@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab groups build definition
+summary: GN build configuration defining the tab_groups source set, listing its sources and dependencies for the iOS tab grid tab groups UI.

@@ -1,0 +1,4 @@
+# Docerion header of tab_title_util.mm.
+type: source
+title: Tab title utility implementation
+summary: Implements GetTabTitle, returning a localized download-in-progress title, the web state's own title, or a default localized tab title.

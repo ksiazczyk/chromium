@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for tabs search model
+summary: Defines GN source sets for the tabs search service, its profile-keyed factory, and unit tests, together with their Chromium dependencies.

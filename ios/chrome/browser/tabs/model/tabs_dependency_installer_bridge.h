@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Objective-C bridge for tabs dependency installer
+// summary: Defines the TabsDependencyInstalling protocol and a C++ bridge that forwards dependency installer events to conforming Objective-C classes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_TABS_DEPENDENCY_INSTALLER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_TABS_DEPENDENCY_INSTALLER_BRIDGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for text zoom UI
+summary: Defines the coordinator, ui, and constants source sets and their dependencies for the iOS text zoom feature.

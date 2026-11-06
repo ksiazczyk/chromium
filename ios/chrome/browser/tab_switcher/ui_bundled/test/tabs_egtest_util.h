@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab grid Earl Grey test utility declarations
+// summary: Declares helpers to create regular and pinned tabs on a test server and Earl Grey matchers and actions for the tab grid.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TEST_TABS_EGTEST_UTIL_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TEST_TABS_EGTEST_UTIL_H_
 

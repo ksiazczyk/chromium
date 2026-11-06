@@ -1,0 +1,4 @@
+# Docerion header of tab_sync_util_unittest.mm.
+type: test
+title: Tab sync utility unit tests
+summary: Unit tests verifying GetLastActiveDistantTab returns the expected distant tab across varying session counts, tab counts, and time thresholds.

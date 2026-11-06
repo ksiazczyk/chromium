@@ -1,0 +1,4 @@
+# Docerion header of shared_tab_groups_versioning_egtest.mm.
+type: test
+title: Shared tab groups versioning Earl Grey tests
+summary: Earl Grey tests verifying that sharing a group when disabled by versioning prompts an update-Chrome alert.

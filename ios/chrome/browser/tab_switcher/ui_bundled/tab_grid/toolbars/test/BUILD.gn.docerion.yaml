@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab grid toolbars test fakes build file
+summary: Defines the testonly fakes source set for the fake tab grid toolbars mediator with its source files and dependencies.

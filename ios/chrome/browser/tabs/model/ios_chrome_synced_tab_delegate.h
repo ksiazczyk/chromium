@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced tab delegate for session sync
+// summary: Declares IOSChromeSyncedTabDelegate, a WebState user data class exposing tab navigation and activity data to session sync.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_IOS_CHROME_SYNCED_TAB_DELEGATE_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_IOS_CHROME_SYNCED_TAB_DELEGATE_H_
 

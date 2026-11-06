@@ -1,0 +1,4 @@
+# Docerion header of tab_group_app_interface.mm.
+type: test
+title: Tab group app interface for Earl Grey integration tests
+summary: App interface providing test helpers for tab groups, with accessors for sync, data sharing, collaboration and Share Kit services in integration tests.

@@ -1,0 +1,4 @@
+# Docerion header of shared_tab_groups_signin_egtest.mm.
+type: test
+title: Shared tab groups sign-in Earl Grey tests
+summary: Earl Grey tests for shared tab group flows tied to sign-in, sync, and fake join and share flows.

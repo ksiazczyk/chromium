@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab switcher test fakes and utils build definition
+summary: Defines testonly source sets for tab switcher test utilities and fake drag, drop and consumer objects.

@@ -1,0 +1,4 @@
+# Docerion header of background_tab_animation_view.mm.
+type: source
+title: background_tab_animation_view.mm
+summary: Implements the open-in-new-tab animation that moves, scales, rotates and fades a view from the origin point toward the tab grid button.

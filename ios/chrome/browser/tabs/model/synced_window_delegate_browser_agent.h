@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedWindowDelegateBrowserAgent header
+// summary: Declares the iOS implementation of SyncedWindowDelegate that exposes window and tab information for session sync.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_SYNCED_WINDOW_DELEGATE_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_SYNCED_WINDOW_DELEGATE_BROWSER_AGENT_H_
 

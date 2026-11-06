@@ -1,0 +1,4 @@
+# Docerion header of utils.mm.
+type: source
+title: Inactive tabs utility implementation
+summary: Implements moving tabs between active and inactive web state lists with duplicate removal and histogram logging.

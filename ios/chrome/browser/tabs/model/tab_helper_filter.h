@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabHelperFilter header
+// summary: Defines a bitmask enum used to filter which tab helpers are attached to a WebState in contexts like prerendering, Reader Mode and overlays.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_TAB_HELPER_FILTER_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_TAB_HELPER_FILTER_H_
 

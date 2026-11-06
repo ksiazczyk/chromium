@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_toolbars_utils.mm.
+type: source
+title: Tab grid toolbars utils implementation
+summary: Implements the tab grid toolbar background utilities, producing a plain scrolled-to-edge background and a blurred over-content background.

@@ -1,0 +1,4 @@
+# Docerion header of tabs_egtest_util.mm.
+type: test
+title: Tab grid Earl Grey test utility implementation
+summary: Implements tab creation helpers and Earl Grey matchers for tab grid cells, snackbars, and the tab grid overflow menu in UI tests.

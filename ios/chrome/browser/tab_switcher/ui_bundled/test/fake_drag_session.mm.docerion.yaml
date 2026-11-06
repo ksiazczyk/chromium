@@ -1,0 +1,4 @@
+# Docerion header of fake_drag_session.mm.
+type: test
+title: Fake UIDragSession test object implementation
+summary: Implements FakeDragSession with stubbed drag session responses used in tab switcher tests.

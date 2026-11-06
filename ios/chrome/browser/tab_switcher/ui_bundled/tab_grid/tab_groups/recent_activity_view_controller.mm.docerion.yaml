@@ -1,0 +1,4 @@
+# Docerion header of recent_activity_view_controller.mm.
+type: source
+title: Recent activity view controller implementation
+summary: Implements the table view listing recent activity logs for a shared tab group, with close and menu navigation items.

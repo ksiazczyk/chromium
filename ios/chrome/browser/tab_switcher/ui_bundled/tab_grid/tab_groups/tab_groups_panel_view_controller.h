@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups panel view controller header
+// summary: Declares the view controller for the Tab Groups panel in Tab Grid, exposing mutator, item data source and UI delegate hooks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TAB_GROUPS_TAB_GROUPS_PANEL_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TAB_GROUPS_TAB_GROUPS_PANEL_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttachTabHelpers declaration
+// summary: Declares AttachTabHelpers, an idempotent function that attaches tab helpers to a WebState according to filter flags.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_TAB_HELPER_UTIL_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_TAB_HELPER_UTIL_H_
 

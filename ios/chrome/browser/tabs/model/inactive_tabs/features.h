@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive tabs feature flag declarations
+// summary: Declares helpers for the user-disabled state and the tab inactivity threshold preference with a 21-day default.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_INACTIVE_TABS_FEATURES_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_INACTIVE_TABS_FEATURES_H_
 

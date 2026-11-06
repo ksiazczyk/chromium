@@ -1,0 +1,4 @@
+# Docerion header of create_tab_group_mediator.mm.
+type: source
+title: Create tab group mediator implementation
+summary: Implements the mediator that updates the web state list to create or edit tab groups, observes external group changes and records user metrics.

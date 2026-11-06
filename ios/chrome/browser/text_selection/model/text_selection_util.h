@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text selection feature parameter declarations
+// summary: Declares extern constant names for text classifier address, phone number, and email one-tap feature parameters and the force-allow-domain command-line switch.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TEXT_SELECTION_MODEL_TEXT_SELECTION_UTIL_H_
 #define IOS_CHROME_BROWSER_TEXT_SELECTION_MODEL_TEXT_SELECTION_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tabs_dependency_installer_bridge_unittest.mm.
+type: test
+title: Tabs dependency installer bridge unit tests
+summary: Unit tests verifying the bridge invokes the Objective-C installer the expected number of times for insert, replace, delete, and activation events.

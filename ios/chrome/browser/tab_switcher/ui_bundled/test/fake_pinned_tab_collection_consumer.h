@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake pinned tab collection consumer declaration
+// summary: Declares a fake PinnedTabCollectionConsumer that exposes item identifiers for test verification.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TEST_FAKE_PINNED_TAB_COLLECTION_CONSUMER_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TEST_FAKE_PINNED_TAB_COLLECTION_CONSUMER_H_
 

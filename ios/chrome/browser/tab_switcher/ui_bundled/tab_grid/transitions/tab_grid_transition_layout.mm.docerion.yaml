@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_transition_layout.mm.
+type: source
+title: TabGridTransitionLayout implementation
+summary: Implements the factory method that builds a transition layout from an active cell and an active grid.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced window delegates getter for session sync
+// summary: Declares IOSSyncedWindowDelegatesGetter, which provides synced window delegates for browsers from the browser list.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_IOS_SYNCED_WINDOW_DELEGATE_GETTER_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_IOS_SYNCED_WINDOW_DELEGATE_GETTER_H_
 

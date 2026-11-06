@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_mediator_unittest.mm.
+type: test
+title: TabGroupsPanelMediator unit tests
+summary: Unit tests for the Tab Groups panel mediator using mock sync, collaboration, messaging and data sharing services.

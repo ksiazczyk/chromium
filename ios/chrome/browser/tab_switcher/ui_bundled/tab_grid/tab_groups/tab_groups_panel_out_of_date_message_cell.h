@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups panel out-of-date message cell header
+// summary: Declares a collection view cell and delegate protocol for the out-of-date message shown at the top of the tab groups panel.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TAB_GROUPS_TAB_GROUPS_PANEL_OUT_OF_DATE_MESSAGE_CELL_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TAB_GRID_TAB_GROUPS_TAB_GROUPS_PANEL_OUT_OF_DATE_MESSAGE_CELL_H_
 

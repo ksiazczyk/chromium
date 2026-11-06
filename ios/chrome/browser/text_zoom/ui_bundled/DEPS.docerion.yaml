@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for text zoom UI
+summary: Lists the include paths allowed for files in the text zoom UI directory, such as reader mode and font size model headers.

@@ -1,0 +1,4 @@
+# Docerion header of create_tab_group_view_controller.mm.
+type: source
+title: Create tab group view controller implementation
+summary: Implements the tab group creation UI, including group color selection, tab snapshots, title field, and action buttons.

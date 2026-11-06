@@ -1,0 +1,4 @@
+# Docerion header of tabs_dependency_installer_bridge.mm.
+type: source
+title: Tabs dependency installer bridge implementation
+summary: Implements TabsDependencyInstallerBridge by forwarding WebState insert, remove, delete, and activation events to the Objective-C installer.

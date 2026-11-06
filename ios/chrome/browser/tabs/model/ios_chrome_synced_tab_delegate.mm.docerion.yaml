@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_synced_tab_delegate.mm.
+type: source
+title: Synced tab delegate implementation
+summary: Implements the synced tab delegate, supplying navigation entries, session IDs, and throttled last active times for tab sync.

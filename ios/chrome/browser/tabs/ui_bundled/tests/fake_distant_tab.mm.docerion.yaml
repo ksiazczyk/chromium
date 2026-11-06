@@ -1,0 +1,4 @@
+# Docerion header of fake_distant_tab.mm.
+type: test
+title: FakeDistantTab implementation
+summary: Implements FakeDistantTab, generating the requested number of fake tabs with titles and URLs resolved under a given server URL.

@@ -1,0 +1,4 @@
+# Docerion header of tab_group_view_controller.mm.
+type: source
+title: Tab group view controller implementation
+summary: Implements the tab group view controller UI with top and bottom toolbars, title display, animations, context menus, and user metrics for group actions.

@@ -1,0 +1,4 @@
+# Docerion header of tab_group_app_interface_stub.mm.
+type: test
+title: Stub for the tab group app interface
+summary: Registers a stub TabGroupAppInterface class in the app main queue for Earl Grey testing when no real implementation is used.

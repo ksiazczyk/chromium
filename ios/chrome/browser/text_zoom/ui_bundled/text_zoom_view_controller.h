@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextZoomViewController interface and zoom handler protocol
+// summary: Declares the TextZoomViewController UI class and the TextZoomHandler protocol with zoom in, zoom out, and reset actions for the iOS Chrome text zoom feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TEXT_ZOOM_UI_BUNDLED_TEXT_ZOOM_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TEXT_ZOOM_UI_BUNDLED_TEXT_ZOOM_VIEW_CONTROLLER_H_
 

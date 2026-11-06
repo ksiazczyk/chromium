@@ -1,0 +1,4 @@
+# Docerion header of tab_helper_util.mm.
+type: source
+title: AttachTabHelpers implementation
+summary: Implements AttachTabHelpers, creating the full set of Chrome tab helpers on a WebState subject to the given filter flags.

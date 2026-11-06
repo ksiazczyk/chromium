@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_local_session_event_router.mm.
+type: source
+title: Local session event router implementation
+summary: Implements the local session event router, observing browser list, web state list, and web state changes to feed session sync.

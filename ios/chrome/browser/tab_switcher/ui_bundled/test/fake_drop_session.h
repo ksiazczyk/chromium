@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake UIDropSession test object declaration
+// summary: Declares FakeDropSession, a test stub conforming to UIDropSession for tab switcher tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TEST_FAKE_DROP_SESSION_H_
 #define IOS_CHROME_BROWSER_TAB_SWITCHER_UI_BUNDLED_TEST_FAKE_DROP_SESSION_H_
 

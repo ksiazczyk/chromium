@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tabs ui_bundled directory
+summary: Declares the allowed include rules listing the directories whose code this tabs UI directory may depend on.

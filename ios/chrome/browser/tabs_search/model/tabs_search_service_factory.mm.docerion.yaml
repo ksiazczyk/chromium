@@ -1,0 +1,4 @@
+# Docerion header of tabs_search_service_factory.mm.
+type: source
+title: TabsSearchServiceFactory implementation
+summary: Builds TabsSearchService instances for each profile, wiring browser list, sync, identity, history, and tab restore dependencies.

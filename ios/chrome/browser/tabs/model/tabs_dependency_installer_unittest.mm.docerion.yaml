@@ -1,0 +1,4 @@
+# Docerion header of tabs_dependency_installer_unittest.mm.
+type: test
+title: TabsDependencyInstaller unit tests
+summary: Unit tests covering TabsDependencyInstaller behavior across WebState insertion, removal, deletion and activation events in a WebStateList.

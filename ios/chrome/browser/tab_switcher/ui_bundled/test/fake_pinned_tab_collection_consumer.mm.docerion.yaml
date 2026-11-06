@@ -1,0 +1,4 @@
+# Docerion header of fake_pinned_tab_collection_consumer.mm.
+type: test
+title: Fake pinned tab collection consumer implementation
+summary: Implements the fake pinned tab consumer, tracking item identifiers and selection for tests.

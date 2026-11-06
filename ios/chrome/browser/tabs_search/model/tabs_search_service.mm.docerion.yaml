@@ -1,0 +1,4 @@
+# Docerion header of tabs_search_service.mm.
+type: source
+title: TabsSearchService implementation
+summary: Implements searches over open, recently closed, and remote tabs using case- and accent-insensitive matching across the profile's browsers.

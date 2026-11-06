@@ -1,0 +1,4 @@
+# Docerion header of tab_group_sync_service_observer_bridge.mm.
+type: source
+title: Tab group sync service observer bridge implementation
+summary: Implements the bridge that dispatches tab group sync callbacks such as added, updated, removed, migrated, and local ID changes to the Objective-C delegate.

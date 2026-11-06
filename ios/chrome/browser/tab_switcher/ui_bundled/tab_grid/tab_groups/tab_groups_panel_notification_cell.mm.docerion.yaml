@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_notification_cell.mm.
+type: source
+title: TabGroupsPanelNotificationCell implementation
+summary: Implements the notification cell layout with a text label, close button, stack view constraints and accessibility support.

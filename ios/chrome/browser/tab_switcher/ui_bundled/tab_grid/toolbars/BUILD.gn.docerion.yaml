@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab grid toolbars build targets
+summary: GN build file defining the toolbars, toolbars_ui and unit_tests source sets with their dependencies for the tab grid toolbars.

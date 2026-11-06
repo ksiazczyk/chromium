@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive tabs metrics declarations
+// summary: Declares the UMA histogram name and enum describing the inactive tabs threshold setting.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_INACTIVE_TABS_METRICS_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_INACTIVE_TABS_METRICS_H_
 

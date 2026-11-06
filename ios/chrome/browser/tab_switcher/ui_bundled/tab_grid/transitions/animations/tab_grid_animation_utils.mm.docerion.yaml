@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_animation_utils.mm.
+type: source
+title: Tab grid animation utilities implementation
+summary: Implements helpers that build animation masks, rounded rectangle paths, incognito-aware backgrounds and toolbar snapshot views.

@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_animation_constants.mm.
+type: source
+title: Tab grid animation constants values
+summary: Defines the numeric values for tab grid animation durations, damping, initial velocity, scale and blur style.

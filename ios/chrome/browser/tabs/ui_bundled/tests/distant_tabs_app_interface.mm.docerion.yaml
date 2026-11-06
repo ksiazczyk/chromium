@@ -1,0 +1,4 @@
+# Docerion header of distant_tabs_app_interface.mm.
+type: test
+title: DistantTabsAppInterface implementation
+summary: Implements DistantTabsAppInterface by building distant sessions and tabs from fake data and injecting them into the fake sync server for tests.

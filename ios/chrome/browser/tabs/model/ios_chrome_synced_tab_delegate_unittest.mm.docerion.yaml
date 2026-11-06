@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_synced_tab_delegate_unittest.mm.
+type: test
+title: Synced tab delegate unit tests
+summary: Unit tests for IOSChromeSyncedTabDelegate covering cached last active time behavior and null pending navigation items.

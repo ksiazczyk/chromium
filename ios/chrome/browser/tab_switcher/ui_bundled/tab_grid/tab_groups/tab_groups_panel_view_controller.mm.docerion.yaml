@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_view_controller.mm.
+type: source
+title: Tab groups panel view controller implementation
+summary: Implements the Tab Groups panel collection view with sections for out-of-date messages, notifications and tab group cells.

@@ -1,0 +1,4 @@
+# Docerion header of create_tab_group_transition_delegate.mm.
+type: source
+title: Create tab group transition delegate implementation
+summary: Implements the animated presentation and dismissal of the create tab group view with blur background and scaling effects.

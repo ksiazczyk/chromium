@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_new_tab_button.mm.
+type: source
+title: TabGridNewTabButton implementation
+summary: Implements the new tab button appearance, sizes and animated configuration changes per tab grid page.

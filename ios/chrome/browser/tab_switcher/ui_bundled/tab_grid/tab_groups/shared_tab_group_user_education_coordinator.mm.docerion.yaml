@@ -1,0 +1,4 @@
+# Docerion header of shared_tab_group_user_education_coordinator.mm.
+type: source
+title: Shared tab group user education coordinator implementation
+summary: Presents the shared tab group user education sheet, including a rendered tab group tile image and layout constants.

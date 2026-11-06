@@ -1,0 +1,4 @@
+# Docerion header of text_zoom_coordinator.mm.
+type: source
+title: Text zoom coordinator implementation
+summary: Implements the text zoom coordinator, wiring the mediator and view controller and presenting or dismissing the zoom bar based on web state.

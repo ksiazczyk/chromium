@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabsSearchService header
+// summary: Declares TabsSearchService, a keyed service that searches open tabs, recently closed tabs, and synced remote tabs by title or URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_SEARCH_MODEL_TABS_SEARCH_SERVICE_H_
 #define IOS_CHROME_BROWSER_TABS_SEARCH_MODEL_TABS_SEARCH_SERVICE_H_
 

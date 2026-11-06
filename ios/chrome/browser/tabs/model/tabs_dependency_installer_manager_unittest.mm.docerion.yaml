@@ -1,0 +1,4 @@
+# Docerion header of tabs_dependency_installer_manager_unittest.mm.
+type: test
+title: TabsDependencyInstallerManager unit tests
+summary: Unit tests verifying that the manager adds and removes installers and dispatches insert, remove and delete notifications to them for WebStates.

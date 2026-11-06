@@ -1,0 +1,4 @@
+# Docerion header of recent_activity_mediator.mm.
+type: source
+title: Recent activity mediator implementation
+summary: Implements the mediator that fetches recent activity logs from the messaging backend and supplies favicon and avatar data to the UI.

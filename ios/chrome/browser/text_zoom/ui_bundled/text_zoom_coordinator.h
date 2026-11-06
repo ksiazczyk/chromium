@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text zoom coordinator header
+// summary: Declares TextZoomCoordinator, a ChromeCoordinator that manages the text zoom UI presented as a toolbar accessory.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TEXT_ZOOM_UI_BUNDLED_TEXT_ZOOM_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TEXT_ZOOM_UI_BUNDLED_TEXT_ZOOM_COORDINATOR_H_
 

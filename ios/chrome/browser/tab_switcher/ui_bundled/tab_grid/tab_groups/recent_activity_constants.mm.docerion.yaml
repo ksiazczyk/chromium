@@ -1,0 +1,4 @@
+# Docerion header of recent_activity_constants.mm.
+type: source
+title: Recent activity constants implementation
+summary: Defines the recent activity log avatar size and the close and menu button accessibility identifier values.

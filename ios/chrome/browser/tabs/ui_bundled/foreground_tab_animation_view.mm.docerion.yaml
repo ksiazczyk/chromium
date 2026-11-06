@@ -1,0 +1,4 @@
+# Docerion header of foreground_tab_animation_view.mm.
+type: source
+title: foreground_tab_animation_view.mm
+summary: Implements the foreground new tab animation combining motion, fade, blur, scrim and corner radius animations with a spring effect.

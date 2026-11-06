@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_reduced_animation.mm.
+type: source
+title: Tab grid reduced animation implementation
+summary: Implements a quick zoom and fade animation used when a tab view is presented or dismissed.

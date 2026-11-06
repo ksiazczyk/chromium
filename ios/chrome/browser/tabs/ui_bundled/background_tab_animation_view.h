@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: background_tab_animation_view.h
+// summary: Declares BackgroundTabAnimationView, a UIKit view with a link image and shadow used to notify the user that a new tab opened in the background.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_UI_BUNDLED_BACKGROUND_TAB_ANIMATION_VIEW_H_
 #define IOS_CHROME_BROWSER_TABS_UI_BUNDLED_BACKGROUND_TAB_ANIMATION_VIEW_H_
 

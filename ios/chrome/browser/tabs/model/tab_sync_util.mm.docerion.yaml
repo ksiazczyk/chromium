@@ -1,0 +1,4 @@
+# Docerion header of tab_sync_util.mm.
+type: source
+title: Tab sync utility for last active distant tab
+summary: Finds the most recently active distant tab and its session among synced sessions within a time threshold, limiting how many sessions and tabs are scanned.

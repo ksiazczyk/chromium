@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_toolbar_background.mm.
+type: source
+title: TabGridToolbarBackground implementation
+summary: Implements the toolbar background view combining over-content and scrolled-to-edge backgrounds with visibility toggles.

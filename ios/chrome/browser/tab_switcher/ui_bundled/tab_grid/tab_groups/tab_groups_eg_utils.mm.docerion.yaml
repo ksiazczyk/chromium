@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_eg_utils.mm.
+type: test
+title: Tab groups Earl Grey test utilities implementation
+summary: Implements Earl Grey helpers that open the group creation view via long-press context menus, name groups, and interact with group cells.

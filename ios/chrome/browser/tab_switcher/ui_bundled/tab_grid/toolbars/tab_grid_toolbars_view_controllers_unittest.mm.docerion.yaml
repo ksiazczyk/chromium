@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_toolbars_view_controllers_unittest.mm.
+type: test
+title: Tab grid toolbars view controllers unit tests
+summary: Unit tests verifying that the tab grid top and bottom toolbars implement key command actions and report the expected user action metrics.

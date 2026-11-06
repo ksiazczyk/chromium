@@ -1,0 +1,4 @@
+# Docerion header of tab_group_gradient_view.mm.
+type: source
+title: Tab group gradient view implementation
+summary: Implements a gradient background view with a translucent white overlay used for tab group visuals in the iOS tab grid.

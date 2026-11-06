@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_transition_item.mm.
+type: source
+title: TabGridTransitionItem implementation
+summary: Implements the factory method that creates transition items from a snapshot and an original frame.

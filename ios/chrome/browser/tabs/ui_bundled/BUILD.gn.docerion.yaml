@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the tabs ui_bundled source set
+summary: Defines the ui_bundled source set listing the tab animation view sources, public and private dependencies, and the UIKit framework.

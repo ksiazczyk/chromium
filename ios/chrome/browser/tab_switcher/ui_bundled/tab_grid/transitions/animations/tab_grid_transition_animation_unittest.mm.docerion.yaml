@@ -1,0 +1,4 @@
+# Docerion header of tab_grid_transition_animation_unittest.mm.
+type: test
+title: Tab grid transition animation unit tests
+summary: Unit tests for the tab grid transition animations, exercising grid-to-tab and tab-to-grid transitions with mock views and parameters.

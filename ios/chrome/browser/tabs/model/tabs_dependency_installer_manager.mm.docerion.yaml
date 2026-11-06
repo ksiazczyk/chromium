@@ -1,0 +1,4 @@
+# Docerion header of tabs_dependency_installer_manager.mm.
+type: source
+title: TabsDependencyInstallerManager implementation
+summary: Implements the manager that tracks installed WebStates and notifies all registered TabsDependencyInstaller instances when dependencies are installed, uninstalled or purged.

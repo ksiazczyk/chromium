@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab title utility header
+// summary: Declares tab_util::GetTabTitle, a utility that returns the title string for a given web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_TAB_TITLE_UTIL_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_TAB_TITLE_UTIL_H_
 

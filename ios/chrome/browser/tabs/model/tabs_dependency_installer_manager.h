@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabsDependencyInstallerManager header
+// summary: Declares TabsDependencyInstallerManager, a browser-scoped service that registers installers and installs, uninstalls or purges tab dependencies for WebStates outside a WebStateList.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TABS_MODEL_TABS_DEPENDENCY_INSTALLER_MANAGER_H_
 #define IOS_CHROME_BROWSER_TABS_MODEL_TABS_DEPENDENCY_INSTALLER_MANAGER_H_
 

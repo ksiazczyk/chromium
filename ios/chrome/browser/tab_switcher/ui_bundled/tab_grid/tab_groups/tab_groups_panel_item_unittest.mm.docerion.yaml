@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_panel_item_unittest.mm.
+type: test
+title: TabGroupsPanelItem unit tests
+summary: Unit tests verifying initialization, equality and inequality behavior of notification and saved tab group panel items.
