@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichRadioButton
+// summary: Custom checkable view combining a radio button with an optional icon, title, and description, supporting horizontal or vertical orientations.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaterialSwitchWithTitleAndSummary
+// summary: Custom view pairing a MaterialSwitch with title and summary text, providing checkable behavior and change listener support.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

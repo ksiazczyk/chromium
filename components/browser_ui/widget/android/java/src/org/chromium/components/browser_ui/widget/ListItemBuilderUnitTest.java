@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListItemBuilderUnitTest
+// summary: Unit tests for ListItemBuilder verifying default values and that all configured properties are applied to the built list item model.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.junit.Assert.assertEquals;

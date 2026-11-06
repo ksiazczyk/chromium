@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContainerStyle
+// summary: Holds styling information for a settings container, such as corner radii, margins, padding, minimum height and background color, built via a builder.
+// ---
+
 package org.chromium.components.browser_ui.widget.containment;
 
 import static org.chromium.components.browser_ui.widget.containment.ContainmentItem.DEFAULT_COLOR;

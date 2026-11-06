@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property keys for the promo card model
+// summary: Defines the property keys for the promo card model, covering content, buttons, callbacks, and impression tracking configuration.
+// ---
+
 package org.chromium.components.browser_ui.widget.promo;
 
 import android.content.res.ColorStateList;

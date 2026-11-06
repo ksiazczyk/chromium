@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation pane view binder
+// summary: Binds navigation pane property model changes to item and header views, covering title, icon, selection, click handling, and content description.
+// ---
+
 package org.chromium.components.browser_ui.widget.navigation_pane;
 
 import android.view.View;

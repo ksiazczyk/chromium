@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextBubble
+// summary: Android UI component that shows an anchored text callout bubble with auto-dismiss timeout, snooze behavior, accessibility strings, and active bubble tracking.
+// ---
+
 package org.chromium.components.browser_ui.widget.textbubble;
 
 import android.content.Context;

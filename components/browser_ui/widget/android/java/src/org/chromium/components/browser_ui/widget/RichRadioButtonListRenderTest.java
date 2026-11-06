@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RichRadioButtonListRenderTest
+// summary: Parameterized render test verifying the visual appearance of the RichRadioButtonList widget in light and night mode.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.app.Activity;

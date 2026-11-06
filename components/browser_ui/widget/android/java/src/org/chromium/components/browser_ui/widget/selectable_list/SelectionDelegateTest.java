@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectionDelegateTest
+// summary: Robolectric unit tests verifying single- and multi-selection behavior, toggling, and clearing of the SelectionDelegate class.
+// ---
+
 package org.chromium.components.browser_ui.widget.selectable_list;
 
 import static org.junit.Assert.assertFalse;

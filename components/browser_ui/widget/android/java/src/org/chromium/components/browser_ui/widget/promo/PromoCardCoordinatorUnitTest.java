@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the promo card coordinator
+// summary: Robolectric unit tests verifying that large, compact, and slim promo card layouts create the expected views and bind text and image properties correctly.
+// ---
+
 package org.chromium.components.browser_ui.widget.promo;
 
 import android.app.Activity;

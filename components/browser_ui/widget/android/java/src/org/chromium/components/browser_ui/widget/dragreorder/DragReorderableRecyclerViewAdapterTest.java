@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DragReorderableRecyclerViewAdapterTest
+// summary: Instrumentation tests validating the drag and reorder behavior of DragReorderableRecyclerViewAdapter.
+// ---
+
 package org.chromium.components.browser_ui.widget.dragreorder;
 
 import static org.hamcrest.CoreMatchers.is;

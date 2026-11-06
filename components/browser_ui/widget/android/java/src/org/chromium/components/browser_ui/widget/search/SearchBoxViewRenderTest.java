@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxViewRenderTest
+// summary: Render tests that screenshot the SearchBoxView in default and night mode variants and compare the results against gold standard images.
+// ---
+
 package org.chromium.components.browser_ui.widget.search;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator managing a horizontal list of chips
+// summary: Coordinator that builds a horizontal RecyclerView of chips, registers the ChipView type with its binder, and offers helpers to create basic chip list items.
+// ---
+
 package org.chromium.components.browser_ui.widget.chips;
 
 import android.content.Context;

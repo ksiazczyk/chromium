@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForegroundRoundedCornerImageView
+// summary: RoundedCornerImageView subclass that adds foreground drawable support via ForegroundDrawableCompat, with XML attributes and scale type handling.
+// ---
+
 package org.chromium.components.browser_ui.widget.async_image;
 
 import android.content.Context;

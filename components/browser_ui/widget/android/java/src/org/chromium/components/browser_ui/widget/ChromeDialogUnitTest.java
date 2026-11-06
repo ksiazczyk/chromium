@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeDialogUnitTest
+// summary: Robolectric unit tests verifying ChromeDialog edge-to-edge coordinator setup, fullscreen behavior, and status and navigation bar color handling.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for back press handler files
+summary: Per-file OWNERS rule delegating review ownership of BackPress* files to the owners of chrome/browser/back_press/android.

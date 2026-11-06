@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binder applying scrim properties to the view
+// summary: Binds scrim property model changes to the ScrimView, applying margins, anchor placement, background color, and click or gesture handling.
+// ---
+
 package org.chromium.components.browser_ui.widget.scrim;
 
 import static org.chromium.components.browser_ui.widget.scrim.ScrimProperties.AFFECTS_NAVIGATION_BAR;

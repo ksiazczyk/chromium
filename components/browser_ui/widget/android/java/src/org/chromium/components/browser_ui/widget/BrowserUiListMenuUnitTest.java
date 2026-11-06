@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserUiListMenu unit tests
+// summary: Robolectric unit tests for BrowserUiListMenuUtils, checking list menu construction and submenu navigation behavior such as hairline visibility.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static android.view.KeyEvent.ACTION_DOWN;

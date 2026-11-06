@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextMenuDialogUnitTest
+// summary: Robolectric unit tests for ContextMenuDialog covering popup display, drag event dispatching, dismissal, and accessibility-related behavior.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.mockito.ArgumentMatchers.any;

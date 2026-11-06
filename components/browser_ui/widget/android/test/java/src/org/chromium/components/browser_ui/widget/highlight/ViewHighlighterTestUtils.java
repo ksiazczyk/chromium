@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for ViewHighlighter highlight state checks
+// summary: Provides static helpers to check whether a view is highlighted, verify pulse highlighting via UI-thread polling, and draw the attached PulseDrawable in tests.
+// ---
+
 package org.chromium.components.browser_ui.widget.highlight;
 
 import android.graphics.Canvas;

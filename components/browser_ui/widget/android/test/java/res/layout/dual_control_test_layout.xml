@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: DualControlLayout test layout
+summary: Android test layout instantiating a DualControlLayout button bar with Done and Cancel buttons and end alignment for widget tests.
+-->
+
 <org.chromium.components.browser_ui.widget.DualControlLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

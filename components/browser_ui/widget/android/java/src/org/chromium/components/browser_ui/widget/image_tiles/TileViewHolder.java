@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileViewHolder – RecyclerView holder for image tiles
+// summary: RecyclerView ViewHolder that binds an ImageTile to its view, setting the title, click listener, and thumbnail bitmap with a loading placeholder and gradient overlay.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import android.graphics.Bitmap;

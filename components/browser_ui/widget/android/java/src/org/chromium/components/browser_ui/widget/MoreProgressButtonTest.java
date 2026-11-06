@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MoreProgressButtonTest
+// summary: Robolectric tests verifying the visibility behavior of MoreProgressButton across its hidden, button, and loading states.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

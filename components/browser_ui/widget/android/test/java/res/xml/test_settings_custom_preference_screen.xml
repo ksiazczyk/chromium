@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Test preference screen for custom preference styles
+summary: Android XML resource used by browser_ui widget tests to lay out a preference screen exercising categories, text messages, and ChromeBasePreference background styles.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 

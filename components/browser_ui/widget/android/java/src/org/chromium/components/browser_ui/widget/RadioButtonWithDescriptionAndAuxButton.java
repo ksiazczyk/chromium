@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioButtonWithDescriptionAndAuxButton
+// summary: Radio button with description text plus an auxiliary button at the end, supporting independent enable state and an aux button click listener.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

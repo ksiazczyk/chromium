@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragUtils
+// summary: Shared utility for drag adapters that builds background color and elevation animations for dragged views.
+// ---
+
 package org.chromium.components.browser_ui.widget.dragreorder;
 
 import android.animation.Animator;

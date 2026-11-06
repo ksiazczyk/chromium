@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeDialog
+// summary: Chrome base dialog class that adds a back-button toolbar on automotive devices and wraps fullscreen dialogs with edge-to-edge layout for correct window inset padding.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

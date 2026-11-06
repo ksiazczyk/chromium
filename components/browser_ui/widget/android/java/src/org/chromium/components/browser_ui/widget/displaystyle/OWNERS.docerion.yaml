@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file pointing to the directory's code owners and naming a per-file owner for ViewResizerUtil and its test.

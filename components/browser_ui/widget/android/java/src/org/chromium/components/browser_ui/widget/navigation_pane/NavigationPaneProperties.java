@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation pane properties
+// summary: Defines item type constants and writable property keys for navigation item and header state in the navigation pane model.
+// ---
+
 package org.chromium.components.browser_ui.widget.navigation_pane;
 
 import android.graphics.drawable.Drawable;

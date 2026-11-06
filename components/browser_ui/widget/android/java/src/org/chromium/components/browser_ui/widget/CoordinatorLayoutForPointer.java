@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoordinatorLayoutForPointer
+// summary: CoordinatorLayout subclass that resolves pointer icons while respecting child visibility and allows observers and callbacks for intercepted touch events.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

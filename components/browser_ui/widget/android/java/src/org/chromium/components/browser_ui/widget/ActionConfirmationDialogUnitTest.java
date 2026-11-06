@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionConfirmationDialog unit tests
+// summary: Robolectric unit tests for ActionConfirmationDialog, covering dismissal types, handler interactions, and dialog behavior via a mocked ModalDialogManager.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.junit.Assert.assertEquals;

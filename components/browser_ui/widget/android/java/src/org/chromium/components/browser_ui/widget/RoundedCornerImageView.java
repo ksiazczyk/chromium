@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedCornerImageView
+// summary: Custom Android ImageView that renders bitmaps and colors with configurable rounded corners set through XML attributes.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

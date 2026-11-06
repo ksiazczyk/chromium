@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FadingShadowView
+// summary: Self-contained View that wraps FadingShadow to render a configurable top or bottom shadow with adjustable strength.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

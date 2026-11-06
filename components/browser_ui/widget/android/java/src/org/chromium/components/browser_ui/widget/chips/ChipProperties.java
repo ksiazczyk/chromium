@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chip properties for the Android chip widget
+// summary: Defines the property keys describing a single chip in a chip list, covering text, icon, selection, enabled state, click and select handlers, and text appearance.
+// ---
+
 package org.chromium.components.browser_ui.widget.chips;
 
 import org.chromium.base.Callback;

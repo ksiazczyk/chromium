@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogListItemDecoration
+// summary: RecyclerView ItemDecoration that applies rounded background drawables and vertical spacing to list items in dialogs and task lists.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

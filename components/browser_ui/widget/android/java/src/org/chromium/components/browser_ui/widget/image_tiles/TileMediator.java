@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileMediator – event mediator for the tiles UI
+// summary: Mediator for the tiles UI that reacts to outside events, forwards tile clicks to a callback, fetches tile visuals, and records UMA user actions and histograms.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import android.graphics.Bitmap;

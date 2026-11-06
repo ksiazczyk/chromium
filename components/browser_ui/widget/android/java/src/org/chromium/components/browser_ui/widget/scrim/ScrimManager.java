@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrimManager public interface for stacked scrims
+// summary: Public interface for creating, showing, and observing multiple simultaneous scrims, where clients retain their property model to interact with and hide each scrim.
+// ---
+
 package org.chromium.components.browser_ui.widget.scrim;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

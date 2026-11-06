@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MoreProgressButton
+// summary: Button widget that toggles between a more button and a loading spinner and runs an associated action when clicked.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

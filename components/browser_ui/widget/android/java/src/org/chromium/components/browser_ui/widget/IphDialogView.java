@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IphDialogView
+// summary: Base dialog view for in-product help promos that combines an animated drawable, a title and a description, with repeating animation control.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: CheckboxWithDescription render test layout
+summary: Android test layout showing CheckBoxWithDescription variants in checked and unchecked states, with and without short or long descriptions, for render tests.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="wrap_content"
     android:layout_width="wrap_content"

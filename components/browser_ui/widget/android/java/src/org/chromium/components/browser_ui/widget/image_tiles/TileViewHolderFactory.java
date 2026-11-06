@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileViewHolderFactory – creator of tile view holders
+// summary: Factory implementing RecyclerViewAdapter.ViewHolderFactory that inflates the query_tile_view layout and sizes it using the supplied TileSizeSupplier.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import android.view.LayoutInflater;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PromoDialog render tests
+// summary: Render tests that capture PromoDialog layouts in day and night modes to verify the dialog's visual appearance against a reference corpus.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.app.Activity;

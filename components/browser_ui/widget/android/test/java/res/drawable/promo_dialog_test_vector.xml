@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Promo dialog test vector drawable
+summary: Vector drawable depicting a promo dialog graphic for use in Android browser widget tests.
+-->
+
 <!-- VectorRaster warning is ignored because we intentionally want the width to
      be greater than 200. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"

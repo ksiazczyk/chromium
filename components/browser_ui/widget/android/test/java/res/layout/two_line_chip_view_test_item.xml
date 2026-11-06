@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Two-line chip view test item layout
+summary: Test layout with a vertically arranged two-line ChipView item styled as an assistive chip for chip widget tests.
+-->
+
 <org.chromium.components.browser_ui.widget.chips.ChipView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

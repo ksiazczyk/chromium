@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder connecting promo card model to view
+// summary: Binds property model changes to the promo card view, updating the image, texts, button visibility and width, tint, and click callbacks.
+// ---
+
 package org.chromium.components.browser_ui.widget.promo;
 
 import android.view.View;

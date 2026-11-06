@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxProperties
+// summary: Defines the writable property keys, such as search text, hint, focus, and button visibility, that make up the property model for the generic desktop search box widget.
+// ---
+
 package org.chromium.components.browser_ui.widget.search;
 
 import android.view.View;

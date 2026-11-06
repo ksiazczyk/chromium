@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaterialCardViewNoShadow
+// summary: FrameLayout that draws a rounded-corner card background with configurable corner radius and color, replacing the former MaterialCardView subclass.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

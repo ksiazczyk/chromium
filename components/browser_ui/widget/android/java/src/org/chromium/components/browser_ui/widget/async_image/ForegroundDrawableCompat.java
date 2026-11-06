@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForegroundDrawableCompat
+// summary: Helper that simulates View.getForeground() on older Android versions by drawing a foreground drawable over a view, requiring several view method overrides.
+// ---
+
 package org.chromium.components.browser_ui.widget.async_image;
 
 import android.graphics.Canvas;

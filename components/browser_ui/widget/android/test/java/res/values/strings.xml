@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Test string resources for browser UI widget
+summary: Android string resources used by browser UI widget tests, defining promo dialog labels, test strings, a test URI, and toolbar titles.
+-->
+
 <resources>
     <!-- go/keep-sorted start -->
     <string name="promo_dialog_test_footer">Learn more</string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser UI list menu utilities
+// summary: Utility methods for constructing BasicListMenu instances with default icon tints, text styles, backgrounds, and hairline colors for browser UI list menus.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

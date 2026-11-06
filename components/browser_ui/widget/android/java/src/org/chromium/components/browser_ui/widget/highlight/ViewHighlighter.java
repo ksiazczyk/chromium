@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewHighlighter
+// summary: Helper class that draws a circular or rectangular highlight overlay on top of a view, with configurable pulse counts, padding behavior, and corner radii.
+// ---
+
 package org.chromium.components.browser_ui.widget.highlight;
 
 import android.content.Context;

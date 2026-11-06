@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileListPropertyViewBinder
+// summary: View binder that binds the tile list property model to the RecyclerView, with an empty bind implementation.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import androidx.recyclerview.widget.RecyclerView;

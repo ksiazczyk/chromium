@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HorizontalDisplayStyle
+// summary: IntDef annotation defining the horizontal display style groups narrow, regular, and wide.
+// ---
+
 package org.chromium.components.browser_ui.widget.displaystyle;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrim mediator with animation and business logic
+// summary: Holds the animation and business logic for the scrim, managing fade animators, visibility state, touch handling, and status and navigation bar color suppliers.
+// ---
+
 package org.chromium.components.browser_ui.widget.scrim;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

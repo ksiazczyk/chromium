@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedIconGenerator
+// summary: Generates rounded rectangular icons with a background color and centered character, including helpers that derive icon text from URLs.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.res.Resources;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichRadioButtonAdapter
+// summary: RecyclerView adapter that displays RichRadioButtonData options, manages single-item selection by ID, and notifies a listener of selection changes.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.view.View;

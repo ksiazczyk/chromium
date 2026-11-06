@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectableItemView
+// summary: Default selectable item view implementation providing a start icon, title, description, and optional end button, with layout resources for the visual refresh.
+// ---
+
 package org.chromium.components.browser_ui.widget.selectable_list;
 
 import android.content.Context;

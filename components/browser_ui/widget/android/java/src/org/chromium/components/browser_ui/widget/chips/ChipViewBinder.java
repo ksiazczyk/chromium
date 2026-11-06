@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binder applying chip model properties to ChipView
+// summary: Static view binder that maps property model changes such as text, icon, tint, selection, and click handlers onto a ChipView instance.
+// ---
+
 package org.chromium.components.browser_ui.widget.chips;
 
 import android.text.TextUtils;

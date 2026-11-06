@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioButtonWithEditText
+// summary: Android radio button widget with an embedded editable text field, optional description, and listeners for text changes, configurable via XML attributes.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

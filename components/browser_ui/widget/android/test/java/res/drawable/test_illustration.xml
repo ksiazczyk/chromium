@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Test illustration drawable
+summary: Auto-mirrored vector illustration with curved decorative lines used as a test drawable resource.
+-->
+
 <vector android:autoMirrored="true" android:height="23dp"
     android:viewportHeight="46" android:viewportWidth="328"
     android:width="164dp" xmlns:android="http://schemas.android.com/apk/res/android">

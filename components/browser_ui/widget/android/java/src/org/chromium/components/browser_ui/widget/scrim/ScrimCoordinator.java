@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrim coordinator for the scrim widget
+// summary: Coordinates the scrim component by creating and owning the mediator and view for a single model, with clients expected to interact through ScrimManager instead.
+// ---
+
 package org.chromium.components.browser_ui.widget.scrim;
 
 import android.content.Context;

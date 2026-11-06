@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for shared_with_webview Android resources
+summary: GN build configuration defining the java_resources target that packages dimens.xml values resources shared between browser UI widgets and WebView.

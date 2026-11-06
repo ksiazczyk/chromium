@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragReorderableRecyclerViewAdapter
+// summary: MVC-compatible RecyclerView adapter that registers draggable and passively draggable view types for drag-reorderable lists.
+// ---
+
 package org.chromium.components.browser_ui.widget.dragreorder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

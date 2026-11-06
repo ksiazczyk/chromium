@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileCoordinatorImpl
+// summary: Implementation of ImageTileCoordinator that wires the tile model and view, updates tile lists and controls scrolling and animations.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import android.content.Context;

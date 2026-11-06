@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FadingEdgeScrollView
+// summary: ScrollView extension that draws fading or hard separator lines at the top and bottom edges depending on the scroll position.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileView icon-and-text tile widget
+// summary: Android FrameLayout view that renders a tile with a large icon, title text, and offline or pinned shortcut badges.
+// ---
+
 package org.chromium.components.browser_ui.widget.tile;
 
 import android.content.Context;

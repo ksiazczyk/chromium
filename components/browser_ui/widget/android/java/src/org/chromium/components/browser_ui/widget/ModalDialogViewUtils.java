@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogViewUtils
+// summary: Utility class with shared helpers for modal dialog UI, including building a custom button bar view for the ModalDialogView.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

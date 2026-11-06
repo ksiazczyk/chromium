@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TintedDrawable
+// summary: BitmapDrawable subclass that applies a state-based color tint to bitmap drawables and offers factory methods for creation.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

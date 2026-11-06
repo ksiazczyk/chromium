@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TileView property model binder
+// summary: Binds TileView property model changes to view updates for title, icon, badges, icon sizing, and click listeners.
+// ---
+
 package org.chromium.components.browser_ui.widget.tile;
 
 import android.content.res.Resources;

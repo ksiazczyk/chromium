@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckableSelectableItemView
+// summary: Abstract Android view class extending SelectableItemViewBase that adds animated checkmark selection behavior with caller-inflated layouts and LevelListDrawable icon backgrounds.
+// ---
+
 package org.chromium.components.browser_ui.widget.selectable_list;
 
 import android.content.Context;

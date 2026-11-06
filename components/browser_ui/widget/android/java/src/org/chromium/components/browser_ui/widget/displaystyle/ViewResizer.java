@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewResizer
+// summary: Adjusts a view's lateral padding when the display style changes, constraining content on wide displays.
+// ---
+
 package org.chromium.components.browser_ui.widget.displaystyle;
 
 import android.view.View;

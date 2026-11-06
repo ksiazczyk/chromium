@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CoordinatorLayoutForPointerUnitTest
+// summary: Robolectric unit tests verifying that CoordinatorLayoutForPointer resolves pointer icons, offsets hover coordinates to child views, and handles out-of-bounds and overlapping views.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.junit.Assert.assertEquals;

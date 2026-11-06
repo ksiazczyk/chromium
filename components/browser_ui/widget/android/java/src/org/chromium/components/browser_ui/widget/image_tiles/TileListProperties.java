@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileListProperties
+// summary: Interface defining property keys for the tile list, including the click callback and the visuals provider shared across items.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import org.chromium.base.Callback;

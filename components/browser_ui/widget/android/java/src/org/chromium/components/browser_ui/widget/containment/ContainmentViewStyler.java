@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContainmentViewStyler
+// summary: Utility that applies backgrounds, margins and padding from ContainerStyle to views, including rounded drawables with ripple and hover effects.
+// ---
+
 package org.chromium.components.browser_ui.widget.containment;
 
 import android.content.Context;

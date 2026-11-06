@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedCornerOutlineProvider
+// summary: ViewOutlineProvider that clips any view to a rounded rectangle outline with configurable radius, edges, and padding handling.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.graphics.Outline;

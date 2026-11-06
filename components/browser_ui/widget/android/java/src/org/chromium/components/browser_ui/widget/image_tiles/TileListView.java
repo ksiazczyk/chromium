@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileListView – RecyclerView view for the tiles UI
+// summary: View component of the image tiles UI that builds a horizontal RecyclerView, wires the TileListModel via a property change processor, and handles layout animation and scrolling.
+// ---
+
 package org.chromium.components.browser_ui.widget.image_tiles;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

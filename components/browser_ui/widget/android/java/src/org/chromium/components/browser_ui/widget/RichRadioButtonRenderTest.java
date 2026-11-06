@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RichRadioButtonRenderTest
+// summary: Parameterized render test covering RichRadioButton states and orientations across LTR, RTL, and night mode layouts.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.chromium.base.test.util.ApplicationTestUtils.finishActivity;

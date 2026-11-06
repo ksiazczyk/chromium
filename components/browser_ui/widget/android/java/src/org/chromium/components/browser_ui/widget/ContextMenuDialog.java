@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuDialog
+// summary: AlwaysDismissedDialog subclass that shows context menus with scale animations, supporting popup and flyout placement, drag event dispatch, and scrim handling.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static androidx.core.view.WindowInsetsCompat.Type.navigationBars;

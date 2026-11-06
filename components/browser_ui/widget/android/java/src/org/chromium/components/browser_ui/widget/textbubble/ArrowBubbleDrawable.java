@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArrowBubbleDrawable
+// summary: Android drawable that renders a bubble with an arrow pointing out of the top or bottom, with configurable corner radius and arrow positioning.
+// ---
+
 package org.chromium.components.browser_ui.widget.textbubble;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PromoDialog unit tests
+// summary: Unit tests for PromoDialog and PromoDialogLayout that exercise dialog creation, button callbacks, and layout behavior with different dialog params.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.app.Activity;

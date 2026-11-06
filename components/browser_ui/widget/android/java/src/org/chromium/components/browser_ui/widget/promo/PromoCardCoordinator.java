@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo card coordinator owning view and model binding
+// summary: Creates the promo card view in large, compact, or slim layouts and connects it to a property model with impression tracking via a change processor.
+// ---
+
 package org.chromium.components.browser_ui.widget.promo;
 
 import android.content.Context;

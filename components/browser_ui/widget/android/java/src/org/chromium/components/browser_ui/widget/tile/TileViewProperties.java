@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: TileView property keys
+// summary: Defines the writable property keys describing TileView state, including title, icon, badges, and listener handlers.
+// ---
+
 package org.chromium.components.browser_ui.widget.tile;
 
 import android.content.res.ColorStateList;

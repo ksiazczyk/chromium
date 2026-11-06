@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateDividedAdapter
+// summary: Abstract RecyclerView adapter that sorts TimedItems by date and automatically inserts date headers so items are displayed in grouped sections.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

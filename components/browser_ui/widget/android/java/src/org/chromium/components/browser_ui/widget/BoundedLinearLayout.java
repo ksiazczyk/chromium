@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoundedLinearLayout
+// summary: LinearLayout that constrains its measured size to maximum width and height values or screen percentages, configurable through XML attributes.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

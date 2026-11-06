@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectableItemViewBaseTest
+// summary: Robolectric tests verifying selection toggling, delegate-driven checked state, and non-selection click handling of SelectableItemViewBase.
+// ---
+
 package org.chromium.components.browser_ui.widget.selectable_list;
 
 import static org.junit.Assert.assertEquals;

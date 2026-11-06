@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UiConfigTest
+// summary: Robolectric unit tests for UiConfig covering narrow, regular, wide, and flat styles, horizontal insets, and observer notifications.
+// ---
+
 package org.chromium.components.browser_ui.widget.displaystyle;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextBubbleBackPressHandler
+// summary: Back press handler that dismisses all active text bubbles and reports success only when a bubble was showing.
+// ---
+
 package org.chromium.components.browser_ui.widget.textbubble;
 
 import org.chromium.base.Callback;

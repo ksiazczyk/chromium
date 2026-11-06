@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpinnerButtonWrapper
+// summary: FrameLayout that wraps a button to show an indeterminate progress spinner and run an action on click without resetting the button.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RadioButtonWithDescriptionLayout unit tests
+// summary: Tests for RadioButtonWithDescriptionLayout covering margins, addButtons, XML inflation, and checked-change listener aggregation.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.mockito.Mockito.verify;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoadingFullscreenCoordinatorUnitTest
+// summary: Robolectric unit tests verifying that the coordinator shows the scrim on start and hides it when the cancel button is clicked.
+// ---
+
 package org.chromium.components.browser_ui.widget.loading;
 
 import static org.junit.Assert.assertNotNull;

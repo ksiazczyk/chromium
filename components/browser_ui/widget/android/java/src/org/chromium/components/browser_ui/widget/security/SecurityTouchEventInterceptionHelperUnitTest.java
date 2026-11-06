@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurityTouchEventInterceptionHelperUnitTest
+// summary: Robolectric unit tests verifying that the helper correctly reports obscured, partially obscured, and unobscured window states across single and multiple motion events.
+// ---
+
 package org.chromium.components.browser_ui.widget.security;
 
 import static org.junit.Assert.assertFalse;

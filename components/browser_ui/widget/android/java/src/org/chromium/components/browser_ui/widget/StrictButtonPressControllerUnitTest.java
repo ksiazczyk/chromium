@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StrictButtonPressControllerUnitTest
+// summary: Unit tests verifying positive, negative, and no-click results reported by StrictButtonPressController.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.mockito.ArgumentMatchers.any;

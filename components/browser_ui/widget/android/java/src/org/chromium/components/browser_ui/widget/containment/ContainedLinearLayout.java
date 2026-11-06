@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContainedLinearLayout
+// summary: A LinearLayout that can be styled by the ContainmentItemController, parsing background style and color from XML attributes.
+// ---
+
 package org.chromium.components.browser_ui.widget.containment;
 
 import static org.chromium.components.browser_ui.widget.containment.ContainmentUiUtils.parseContainmentAttributes;

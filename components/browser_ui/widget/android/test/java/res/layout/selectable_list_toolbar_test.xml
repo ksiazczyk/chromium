@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: SelectableListToolbar test layout
+summary: Android test layout that instantiates a SelectableListToolbar using the modern toolbar style and height dimension.
+-->
+
 <org.chromium.components.browser_ui.widget.selectable_list.SelectableListToolbar
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

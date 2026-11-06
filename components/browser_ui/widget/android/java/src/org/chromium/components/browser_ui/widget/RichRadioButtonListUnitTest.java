@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RichRadioButtonListUnitTest
+// summary: JUnit tests with Mockito verifying selection logic, listener notifications, and item click handling of the RichRadioButtonList widget.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import static org.mockito.Mockito.clearInvocations;

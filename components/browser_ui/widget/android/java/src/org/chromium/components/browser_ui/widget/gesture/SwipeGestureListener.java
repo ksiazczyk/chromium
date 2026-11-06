@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwipeGestureListener for directional swipe detection
+// summary: Gesture listener that recognizes directional swipes from motion events and notifies a SwipeHandler callback of swipe start, updates, and completion.
+// ---
+
 package org.chromium.components.browser_ui.widget.gesture;
 
 import android.content.Context;

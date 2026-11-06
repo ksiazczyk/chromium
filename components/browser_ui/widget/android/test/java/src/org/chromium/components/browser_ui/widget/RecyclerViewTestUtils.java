@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecyclerViewTestUtils
+// summary: Test utilities for Android RecyclerView that wait for animations, view attachment, detachment and frame commits to reduce flakiness in UI tests.
+// ---
+
 package org.chromium.components.browser_ui.widget;
 
 import android.view.View;

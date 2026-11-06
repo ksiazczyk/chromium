@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiConfig
+// summary: Tracks the display style of a reference view, supports horizontal insets, and notifies registered observers when the configuration changes.
+// ---
+
 package org.chromium.components.browser_ui.widget.displaystyle;
 
 import android.content.Context;

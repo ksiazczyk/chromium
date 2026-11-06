@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplatePreservingTextView
+// summary: A TextView that applies content to a template string and ellipsizes only the content, keeping the template text visible when space is limited.
+// ---
+
 package org.chromium.components.browser_ui.widget.text;
 
 import android.content.Context;

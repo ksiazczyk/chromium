@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FocusAnimator
+// summary: Animates the children of a vertical LinearLayout expanding or collapsing when a child gains focus, running after the next layout pass.
+// ---
+
 package org.chromium.components.browser_ui.widget.animation;
 
 import android.animation.Animator;
