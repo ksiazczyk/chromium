@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for service metrics metadata
+summary: Lists the primary reviewers for changes to service histogram and enum metric definitions, with a shared metric reviewer list as fallback.

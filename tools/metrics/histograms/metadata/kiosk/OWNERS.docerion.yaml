@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Kiosk histograms metadata owners
+summary: Defines owners for kiosk histogram changes, preferring kiosk owners and listing chromium-metrics-reviews as a backup for metric reviews.

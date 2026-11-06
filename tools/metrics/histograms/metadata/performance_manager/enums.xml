@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Performance Manager histogram enums
+summary: Defines the enumerations referenced by the Performance Manager histograms, such as tab discard reasons and efficiency modes, kept in sync with source code via LINT comments.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

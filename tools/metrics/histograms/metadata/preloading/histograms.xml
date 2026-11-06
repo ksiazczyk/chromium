@@ -16,6 +16,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Prefetch and preloading histogram definitions
+summary: Defines the Chromium prefetch and preloading histograms with variants and descriptions used to generate the comprehensive metrics list.
+-->
+
 <histogram-configuration>
 
 <histograms>

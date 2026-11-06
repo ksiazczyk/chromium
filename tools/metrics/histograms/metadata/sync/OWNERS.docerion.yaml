@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for sync histogram metadata
+summary: Lists the owners who should review changes to the sync histogram metadata files, with a metrics reviews mailing list as backup.

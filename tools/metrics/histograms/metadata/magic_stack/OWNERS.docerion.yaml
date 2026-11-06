@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for magic stack metrics metadata
+summary: Lists the reviewers responsible for histogram changes in the magic stack metrics directory, with the shared metric reviewer owners as fallback.

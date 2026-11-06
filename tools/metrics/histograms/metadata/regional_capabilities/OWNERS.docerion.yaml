@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for regional capabilities metrics metadata
+summary: Lists the code owners to contact for changes in this directory, with a metrics reviews mailing list as backup.

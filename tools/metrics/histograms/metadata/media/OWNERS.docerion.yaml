@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for media histogram metadata
+summary: Lists the owners who review changes to media histogram metadata, with a backup reviewer mailing list for metric CLs.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Preloading metrics directory owners
+summary: Lists the owners for preloading histogram changes and points to the shared metric reviewer owners file for review assignments.

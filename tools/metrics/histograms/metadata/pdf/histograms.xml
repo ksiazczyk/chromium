@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: PDF UMA histogram definitions
+summary: Defines PDF-related UMA histograms with names, owners, expiry dates, and detailed descriptions of the metrics tracked in the PDF viewer.
+-->
+
 <histogram-configuration>
 
 <histograms>

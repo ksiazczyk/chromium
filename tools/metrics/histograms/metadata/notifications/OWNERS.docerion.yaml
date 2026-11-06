@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for notifications metrics metadata
+summary: Lists the owners who review changes to notification metrics metadata and points to the shared metric reviewer owners file as a fallback.

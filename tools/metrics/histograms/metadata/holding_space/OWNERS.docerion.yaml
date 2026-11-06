@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Holding Space metrics OWNERS
+summary: Lists owners for Holding Space metrics changes, delegating per-file review to the central metric reviewer owners and naming dmblack@google.com as preferred reviewer.

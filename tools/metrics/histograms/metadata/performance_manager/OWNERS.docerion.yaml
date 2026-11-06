@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for performance_manager metrics
+summary: Lists the owners responsible for reviewing changes to the performance_manager metrics metadata, delegating per-file to the central metric reviewer owners file.

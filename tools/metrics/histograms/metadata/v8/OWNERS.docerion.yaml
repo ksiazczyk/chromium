@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for V8 histogram metadata
+summary: Lists the owners and backup reviewers for changes to the V8 histogram metadata files in this directory.

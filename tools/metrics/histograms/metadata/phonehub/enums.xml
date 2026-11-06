@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Phone Hub histogram enum definitions
+summary: Defines the enumerations and integer labels referenced by the Phone Hub entries in histograms.xml, with lint markers to keep code in sync.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

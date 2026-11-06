@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for OOBE histogram metadata
+summary: Lists the owners and backup metric reviewers responsible for changes to the OOBE histograms metadata directory.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for security metrics
+summary: Lists the owners responsible for reviewing changes to security histogram metrics, including per-metric owners and a backup review mailing list.

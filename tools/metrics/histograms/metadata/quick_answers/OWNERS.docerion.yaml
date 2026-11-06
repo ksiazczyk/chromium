@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Quick Answers metrics metadata
+summary: Lists owners for the Quick Answers histogram metadata and routes histograms.xml reviews to the shared metric reviewer owners.

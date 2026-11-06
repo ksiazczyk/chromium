@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Installer histogram metadata owners
+summary: Lists the owners who review changes to the installer histogram metadata, with a shared metrics reviewer list and a backup mailing list as fallback.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for sensitive content metrics
+summary: Lists the metric reviewers responsible for approving changes to the sensitive content histogram metadata, with a per-file reference to the central metric reviewer owners.

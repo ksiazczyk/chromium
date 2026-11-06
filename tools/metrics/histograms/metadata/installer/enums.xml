@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Installer histogram enums
+summary: Defines the enumeration values and labels, such as ChromeOS BIOS types and recovery reasons, referenced by histogram entries in this directory.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

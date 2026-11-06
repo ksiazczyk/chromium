@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Smart card metrics metadata owners
+summary: Lists the owners and reviewer guidance for changes to smart card histogram metadata in this directory.

@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Prefetch histogram enums
+summary: Defines enum values used by prefetch histograms, with lint markers to keep them in sync with prefetch source code.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

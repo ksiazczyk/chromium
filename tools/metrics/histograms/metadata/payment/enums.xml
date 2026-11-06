@@ -19,6 +19,12 @@ and validate_format.py scripts in the same directory as this file before
 uploading your change for review.  These are checked by presubmit scripts.
 -->
 
+<!--docerion
+type: config
+title: Payment metrics enum definitions
+summary: Defines the enumerations used by payment histograms in Chrome's metrics, to be used together with histograms.xml in this directory.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

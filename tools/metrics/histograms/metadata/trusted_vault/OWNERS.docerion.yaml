@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Trusted vault metrics OWNERS
+summary: Lists the owners and metric reviewers responsible for reviewing changes to trusted vault histogram definitions.

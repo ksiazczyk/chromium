@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for mobile histogram metadata
+summary: Lists the owners responsible for reviewing changes to mobile histogram metadata and points to the shared metric reviewer owners file as a fallback.

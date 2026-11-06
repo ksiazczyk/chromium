@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Nearby histograms directory metadata
+summary: Declares directory metadata for the nearby histogram metadata folder, inheriting common metadata from the ChromeOS Nearby service.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for iOS histogram metadata
+summary: Lists the owners and reviewers responsible for changes to the iOS histogram metadata files in this directory.

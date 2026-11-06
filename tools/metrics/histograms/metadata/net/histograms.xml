@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Histogram definitions for net metrics
+summary: Source configuration used to generate the comprehensive list of net histograms with a detailed description for each network-related metric.
+-->
+
 <histogram-configuration>
 
 <histograms>

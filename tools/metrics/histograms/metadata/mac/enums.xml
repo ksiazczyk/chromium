@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Mac histogram enum definitions
+summary: Defines the enumerations referenced by Mac histogram entries, including macOS errno values generated from the SDK.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

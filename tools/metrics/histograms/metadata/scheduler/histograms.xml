@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Scheduler UMA histogram definitions
+summary: Declares scheduler-related UMA histograms with owners, token variants, and expiry dates used to generate the Chromium metrics list.
+-->
+
 <histogram-configuration>
 
 <histograms>

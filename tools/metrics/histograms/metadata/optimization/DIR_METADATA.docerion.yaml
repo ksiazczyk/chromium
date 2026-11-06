@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Optimization histogram metadata directory metadata
+summary: Configures the Monorail component and public Buganizer component used for issues about the optimization histogram metadata directory.

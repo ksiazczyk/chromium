@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Personal context histogram definitions
+summary: Defines the Personal Context histograms with owners, expiry dates, and descriptions, covering notice interactions, entity decryption, and context fetching metrics.
+-->
+
 <histogram-configuration>
 
 <histograms>

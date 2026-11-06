@@ -15,6 +15,12 @@ Please follow the instructions in the OWNERS file in this directory to find a
 reviewer.
 -->
 
+<!--docerion
+type: config
+title: Private AI histogram definitions and descriptions
+summary: XML configuration that defines Private AI histograms with descriptions, owners, variants, and expiry dates for Chromium's metrics pipeline.
+-->
+
 <histogram-configuration>
 
 <histograms>

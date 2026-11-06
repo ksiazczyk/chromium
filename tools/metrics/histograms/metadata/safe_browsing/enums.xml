@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Safe Browsing histogram enums
+summary: Defines the enumerations referenced by Safe Browsing histogram entries, with labeled integer values for each metric.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

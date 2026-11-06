@@ -4,6 +4,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Structured metrics histograms
+summary: Defines UMA histograms for structured metrics, covering dropped and produced external metrics events per project and FlushedMap errors.
+-->
+
 <histogram-configuration>
 
 <histograms>

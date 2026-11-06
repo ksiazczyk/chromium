@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for HangWatcher metrics metadata
+summary: Specifies the owners and backup reviewers to contact for changes to the HangWatcher metrics metadata files.

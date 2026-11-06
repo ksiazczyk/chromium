@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for navigation metrics
+summary: Lists the code owners and backup reviewers responsible for reviewing changes to navigation histogram metadata in this directory.

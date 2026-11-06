@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Trusted vault metrics directory metadata
+summary: Sets the monorail component and Buganizer component ID used for issues in the trusted vault metrics directory.

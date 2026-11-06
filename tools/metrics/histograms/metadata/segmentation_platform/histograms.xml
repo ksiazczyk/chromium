@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Segmentation platform histogram definitions
+summary: Declares the segmentation platform histograms and their variants with descriptions for the metrics pipeline.
+-->
+
 <histogram-configuration>
 
 <histograms>

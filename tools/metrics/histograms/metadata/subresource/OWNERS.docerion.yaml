@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for subresource histogram metadata
+summary: Lists the owners and reviewer routing, including the metric reviewer owners file, for changes to histograms in this directory.

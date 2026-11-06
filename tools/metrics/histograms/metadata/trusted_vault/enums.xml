@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Trusted vault histogram enumerations
+summary: Defines the enum types referenced by trusted vault histogram entries, with LINT markers to keep values in sync with source code.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

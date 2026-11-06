@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Readaloud metrics OWNERS
+summary: Lists the owners and per-file reviewer rules for changes to the readaloud histogram metadata, with a metrics reviews alias as backup.

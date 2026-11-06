@@ -9,6 +9,12 @@ This file is used to generate a comprehensive list of on_device_model
 histograms along with a detailed description for each histogram.
 -->
 
+<!--docerion
+type: config
+title: On-device model histogram definitions
+summary: Defines on-device model histograms with owners, expiry dates, and variants for Android generation, downloads, and benchmarks.
+-->
+
 <histogram-configuration>
 
 <histograms>

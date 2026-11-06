@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Scanning histogram enum definitions (enums.xml)
+summary: Defines the enumerations referenced by Scan app histogram entries, covering scan actions, job settings, toolbar actions, and scanner operation results.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

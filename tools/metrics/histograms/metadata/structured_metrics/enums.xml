@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Structured metrics enums
+summary: Defines the enumerations referenced by structured metrics histogram entries, such as the RecordStatus enum.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Indigo metrics directory OWNERS
+summary: Sets the owners for the indigo histogram metadata directory and delegates per-file review to the central metric reviewer owners list.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for input histograms metadata
+summary: Lists the owners and preferred reviewers for changes to the input histograms metadata files in this directory.

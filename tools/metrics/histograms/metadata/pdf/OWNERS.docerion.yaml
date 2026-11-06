@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for PDF metrics metadata
+summary: Lists the owners and backup reviewer contact for changes to the PDF histogram metadata files in this directory.

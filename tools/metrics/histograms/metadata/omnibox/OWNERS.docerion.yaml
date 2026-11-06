@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Omnibox metrics metadata OWNERS
+summary: Lists the owners and backup reviewer contact for changes to omnibox histogram metadata files.

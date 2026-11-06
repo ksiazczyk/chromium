@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Stability histogram definitions (histograms.xml)
+summary: Defines the stability histograms with names, owners, expiry dates and detailed summaries used to generate the comprehensive list of stability metrics.
+-->
+
 <histogram-configuration>
 
 <histograms>

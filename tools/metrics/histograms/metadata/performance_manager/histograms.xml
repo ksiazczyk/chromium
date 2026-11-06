@@ -10,6 +10,12 @@ by the Performance Manager team along with a detailed description for
 each histogram.
 -->
 
+<!--docerion
+type: config
+title: Performance Manager histogram definitions
+summary: Defines the histograms owned by the Performance Manager team, with names, owners, expiry dates and detailed descriptions used to generate the metrics list.
+-->
+
 <histogram-configuration>
 
 <histograms>

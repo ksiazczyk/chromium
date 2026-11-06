@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for sb_client metrics metadata
+summary: Lists the owners who review changes to the sb_client histogram metadata, with the shared metrics reviewers file as a fallback.

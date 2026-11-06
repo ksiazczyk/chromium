@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for system histogram metadata
+summary: Lists the code owners who review changes to the system histogram definitions, with the metric reviewer owners file as a per-file fallback.

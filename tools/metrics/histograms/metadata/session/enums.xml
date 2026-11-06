@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Session histogram enum definitions
+summary: Defines the enumerations referenced by session histogram entries, mapping integer values to labels for metrics such as command storage status and scheduled restart outcomes.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

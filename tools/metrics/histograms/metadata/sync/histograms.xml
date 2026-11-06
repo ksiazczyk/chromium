@@ -18,6 +18,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: data
+title: Sync histogram definitions
+summary: Defines a comprehensive list of Sync histograms with detailed descriptions, used to generate metrics documentation.
+-->
+
 <histogram-configuration>
 
 <histograms>

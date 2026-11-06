@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Prefetch metrics directory metadata
+summary: Maps the prefetch metrics directory to the Internals>Preload>PrefetchProxy monorail component and Buganizer component 1456735.

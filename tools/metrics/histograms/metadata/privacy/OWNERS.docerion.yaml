@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for privacy histogram metadata
+summary: Lists the code owners for privacy histogram metadata changes and points contributors to the shared metric reviewer owners as a backup.

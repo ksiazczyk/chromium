@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Linux histogram metadata
+summary: Lists the owners and reviewer routing, including the shared metric reviewer fallback, for changes in the Linux histogram metadata directory.

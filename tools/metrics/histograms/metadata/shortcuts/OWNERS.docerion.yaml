@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for shortcuts metrics metadata
+summary: Lists the owners who review histogram metadata changes in this directory and points to the shared metric reviewer owners as a fallback.

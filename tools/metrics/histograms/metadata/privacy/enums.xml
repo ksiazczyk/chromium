@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Enum definitions for privacy histograms
+summary: Defines the enum types referenced by privacy histogram entries, with value labels and lint links to matching source code.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for on_device_model metrics metadata
+summary: Lists the owners responsible for the on_device_model metrics metadata directory.

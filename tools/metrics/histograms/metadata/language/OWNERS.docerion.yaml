@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists directory owners and per-file metric reviewer rules for changes to the language histograms metadata.

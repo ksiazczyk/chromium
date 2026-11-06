@@ -19,6 +19,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Magic stack histogram enum definitions
+summary: Defines the enum types, such as ModulePosition and ModuleType, that are referenced by histogram entries in the magic stack histograms.xml.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

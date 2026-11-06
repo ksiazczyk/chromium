@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the others histograms metadata directory
+summary: Routes metrics CL reviews in this directory, listing per-file ownership of histograms.xml and reviewers for display, input, and other histogram categories.

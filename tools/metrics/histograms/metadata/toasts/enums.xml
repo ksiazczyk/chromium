@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Toast metrics enum definitions
+summary: Defines the enumerations such as ToastId, ToastCloseReason and ToastAlertLevel that are referenced by the toast histograms in this directory.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

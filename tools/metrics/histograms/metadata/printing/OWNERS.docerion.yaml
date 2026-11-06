@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for printing metrics metadata
+summary: Lists the owners and reviewers for changes to the printing histogram metadata, delegating per-file review to the shared metric reviewer owners list.

@@ -10,6 +10,12 @@ by the Performance Controls team along with a detailed description for
 each histogram. Maybe add here or add a new performance controls one
 -->
 
+<!--docerion
+type: config
+title: Performance controls histogram definitions
+summary: Declares the Performance Controls team's histograms with owners, expiry dates, and descriptions for battery saver, memory saver, CPU tier, and intervention metrics.
+-->
+
 <histogram-configuration>
 
 <histograms>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for update_engine histogram metadata
+summary: Defines the code owners and metric reviewer routing for changes to histograms in the update_engine metadata directory.

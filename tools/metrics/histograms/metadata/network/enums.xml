@@ -20,6 +20,12 @@ have an OWNERS file. As a last resort you can send the CL to
 chromium-metrics-reviews@google.com.
 -->
 
+<!--docerion
+type: config
+title: Network histogram enums
+summary: Defines the enumeration values referenced by network histogram entries in histograms.xml for Chromium's metrics tooling.
+-->
+
 <histogram-configuration>
 
 <!-- Enum types -->

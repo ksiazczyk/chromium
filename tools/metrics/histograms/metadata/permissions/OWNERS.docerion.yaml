@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Permissions histograms OWNERS
+summary: Lists the owners who review changes to permission metrics histograms, with a backup review mailing list for metric CLs.

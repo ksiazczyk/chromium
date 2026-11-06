@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for platform histogram metadata
+summary: Sets the code owners responsible for reviewing changes to the platform histogram metadata files, with a metrics reviews mailing list as backup.
