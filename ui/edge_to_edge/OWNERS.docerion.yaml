@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Edge-to-edge owners reference
+summary: Delegates code ownership for this directory to the OWNERS file of chrome/browser/ui/android/edge_to_edge.

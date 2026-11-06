@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cocoa event utility declarations
+// summary: Declares helpers that convert Cocoa NSEvent modifiers to ui::EventFlags, detect key-up events, and serialize NSEvents to and from opaque data.
+// ---
+
 #ifndef UI_EVENTS_COCOA_COCOA_EVENT_UTILS_H_
 #define UI_EVENTS_COCOA_COCOA_EVENT_UTILS_H_
 

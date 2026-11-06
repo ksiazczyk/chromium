@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event base class declaration
+// summary: Declares the Event base class with type, flags, timestamp, latency, properties and dispatcher APIs used by all concrete event types.
+// ---
+
 #ifndef UI_EVENTS_EVENT_H_
 #define UI_EVENTS_EVENT_H_
 

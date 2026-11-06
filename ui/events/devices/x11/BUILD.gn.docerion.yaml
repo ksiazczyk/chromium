@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the events_devices_x11 component
+summary: Defines the events_devices_x11 component build target with its sources, preprocessor define and dependencies for the X11 input device code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event processor unit tests
+// summary: Unit tests verifying event dispatching, retargeting, phase and location preservation, and nested processing behavior of EventProcessor.
+// ---
+
 #include <tuple>
 #include <utility>
 #include <vector>

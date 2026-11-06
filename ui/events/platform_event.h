@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-platform PlatformEvent typedefs
+// summary: Defines cross-platform typedefs mapping PlatformEvent to native event types on Windows, Mac, iOS, Android and Ozone.
+// ---
+
 #ifndef UI_EVENTS_PLATFORM_EVENT_H_
 #define UI_EVENTS_PLATFORM_EVENT_H_
 

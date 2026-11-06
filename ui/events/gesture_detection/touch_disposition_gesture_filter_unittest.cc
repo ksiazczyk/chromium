@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch disposition gesture filter unit tests
+// summary: Extensive unit tests covering gesture packet handling, ack processing, and gesture forwarding behavior of TouchDispositionGestureFilter.
+// ---
+
 #include "ui/events/gesture_detection/touch_disposition_gesture_filter.h"
 
 #include <stddef.h>

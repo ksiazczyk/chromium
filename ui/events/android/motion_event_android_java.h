@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java-backed Android motion event declaration
+// summary: Declares MotionEventAndroidJava, the MotionEventAndroid implementation that wraps a Java Android MotionEvent with cached pointer values.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_JAVA_H_
 #define UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_JAVA_H_
 

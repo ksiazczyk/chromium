@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardCapability implementation
+// summary: Implements keyboard device capability detection, including device types, top row layouts, and custom scan code handling.
+// ---
+
 #include "ui/events/ash/keyboard_capability.h"
 
 #include <fcntl.h>

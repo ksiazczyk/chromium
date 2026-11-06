@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Top row action keys unit test
+// summary: Unit test verifying that the C++ TopRowActionKey enum entries match the KeyboardTopRowActionKeys enum defined in the histograms enums.xml file.
+// ---
+
 #include "ui/events/ash/top_row_action_keys.h"
 
 #include "base/containers/fixed_flat_map.h"

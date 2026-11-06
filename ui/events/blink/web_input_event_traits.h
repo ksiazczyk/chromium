@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebInputEventTraits declarations
+// summary: Declares the WebInputEventTraits utility class providing ToString, ShouldBlockEventStream, and GetUniqueTouchEventId for blink web input events.
+// ---
+
 #ifndef UI_EVENTS_BLINK_WEB_INPUT_EVENT_TRAITS_H_
 #define UI_EVENTS_BLINK_WEB_INPUT_EVENT_TRAITS_H_
 

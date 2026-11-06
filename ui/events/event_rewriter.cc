@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rewriter implementation
+// summary: Implements EventRewriter, including a temporary fallback implementation bridging the old rewriting API with the new continuation-based API.
+// ---
+
 #include "ui/events/event_rewriter.h"
 
 #include <utility>

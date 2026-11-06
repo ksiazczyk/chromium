@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebInputEventTraits implementation
+// summary: Implements string formatting of web input event details plus helpers for event stream blocking and unique touch event IDs.
+// ---
+
 #include "ui/events/blink/web_input_event_traits.h"
 
 #include "base/check_op.h"

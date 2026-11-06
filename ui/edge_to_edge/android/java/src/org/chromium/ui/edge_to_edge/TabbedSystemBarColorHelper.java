@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedSystemBarColorHelper
+// summary: Activity-level helper for ChromeTabbedActivity that routes status bar and navigation bar color changes to the edge-to-edge layout coordinator or bottom chin delegate.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import android.graphics.Color;

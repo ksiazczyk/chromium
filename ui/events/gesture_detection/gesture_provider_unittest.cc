@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GestureProvider unit tests
+// summary: Unit tests for GestureProvider covering taps, double taps, scrolls, flings, pinches, timeouts and related gesture detection behavior.
+// ---
+
 #include "ui/events/gesture_detection/gesture_provider.h"
 
 #include <stddef.h>

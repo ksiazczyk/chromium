@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Android event conversion utilities
+// summary: Declares helpers to create platform events from ui events and to convert Android actions and tool types.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_EVENTS_ANDROID_UTILS_H_
 #define UI_EVENTS_ANDROID_EVENTS_ANDROID_UTILS_H_
 

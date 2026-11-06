@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragEventAndroid class declaration
+// summary: Declares the event class that carries Java DragEvent information into native code, with coordinates in DIPs.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_DRAG_EVENT_ANDROID_H_
 #define UI_EVENTS_ANDROID_DRAG_EVENT_ANDROID_H_
 

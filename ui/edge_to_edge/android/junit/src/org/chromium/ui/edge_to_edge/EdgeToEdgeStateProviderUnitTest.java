@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeStateProvider unit test
+// summary: Robolectric unit test checking that edge-to-edge tokens enable and disable decor fitting correctly, including behavior with multiple clients holding tokens.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import static org.junit.Assert.assertFalse;

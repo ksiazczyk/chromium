@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard layout utility
+// summary: Implements a helper that reports whether any connected keyboard device has an Assistant key.
+// ---
+
 #include "ui/events/ash/keyboard_layout_util.h"
 
 #include "ui/events/ash/event_rewriter_ash.h"

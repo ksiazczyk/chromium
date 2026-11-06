@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture event type enum for Android
+// summary: Lists GestureEventType values usable by GestureEventAndroid, with a generated Java counterpart mapping to blink::WebGestureEvent types.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_GESTURE_EVENT_TYPE_H_
 #define UI_EVENTS_ANDROID_GESTURE_EVENT_TYPE_H_
 

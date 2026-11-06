@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventTarget unit tests
+// summary: Unit tests verifying handler addition, removal, and priority ordering for EventTarget pre-target handler lists.
+// ---
+
 #include "ui/events/event_target.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

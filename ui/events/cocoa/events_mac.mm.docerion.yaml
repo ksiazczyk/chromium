@@ -1,0 +1,4 @@
+# Docerion header of events_mac.mm.
+type: source
+title: Mac native event conversion
+summary: Converts native Mac NSEvents into Chromium event types, flags, timestamps and locations for the ui events system.

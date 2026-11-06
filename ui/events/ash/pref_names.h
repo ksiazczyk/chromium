@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard remapping preference names
+// summary: Defines constant preference names for modifier key remapping settings such as search, control, alt and caps lock.
+// ---
+
 #ifndef UI_EVENTS_ASH_PREF_NAMES_H_
 #define UI_EVENTS_ASH_PREF_NAMES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events devices X11 export macro definitions
+// summary: Defines the EVENTS_DEVICES_X11_EXPORT macro controlling symbol visibility for component builds of the X11 device code.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_X11_EVENTS_DEVICES_X11_EXPORT_H_
 #define UI_EVENTS_DEVICES_X11_EVENTS_DEVICES_X11_EXPORT_H_
 

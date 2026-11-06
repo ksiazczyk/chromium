@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeSystemBarColorHelper unit test
+// summary: Robolectric unit test covering status and navigation bar color and appearance handling in EdgeToEdgeSystemBarColorHelper with and without a delegate helper.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import static android.view.WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS;

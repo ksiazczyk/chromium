@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerEventsHandler class declaration
+// summary: Declares the handler that processes fuchsia.ui.pointer TouchSource and MouseSource channels and surfaces events to FlatlandWindow as ui::Events.
+// ---
+
 #ifndef UI_EVENTS_FUCHSIA_POINTER_EVENTS_HANDLER_H_
 #define UI_EVENTS_FUCHSIA_POINTER_EVENTS_HANDLER_H_
 

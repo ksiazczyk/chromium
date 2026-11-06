@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Haptic touchpad effect enums
+// summary: Defines enums for haptic touchpad effects such as snap, knock and press, plus intensity strengths.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_HAPTIC_TOUCHPAD_EFFECTS_H_
 #define UI_EVENTS_DEVICES_HAPTIC_TOUCHPAD_EFFECTS_H_
 

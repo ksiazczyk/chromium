@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake EventRewriterAsh delegate header
+// summary: Declares FakeEventRewriterAshDelegate, a fake EventRewriterAsh::Delegate implementation for use in tests.
+// ---
+
 #ifndef UI_EVENTS_ASH_FAKE_EVENT_REWRITER_ASH_DELEGATE_H_
 #define UI_EVENTS_ASH_FAKE_EVENT_REWRITER_ASH_DELEGATE_H_
 

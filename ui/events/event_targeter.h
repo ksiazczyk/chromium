@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventTargeter interface
+// summary: Declares the EventTargeter interface for finding the target and next best target for dispatched events.
+// ---
+
 #ifndef UI_EVENTS_EVENT_TARGETER_H_
 #define UI_EVENTS_EVENT_TARGETER_H_
 

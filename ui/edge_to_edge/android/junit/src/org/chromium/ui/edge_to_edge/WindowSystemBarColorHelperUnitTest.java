@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowSystemBarColorHelper unit test
+// summary: Robolectric unit test checking that WindowSystemBarColorHelper reads and sets window status bar, navigation bar, and divider colors across SDK levels.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import static org.junit.Assert.assertEquals;

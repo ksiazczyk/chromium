@@ -7,4 +7,10 @@
 // that linker will know to include the symbols, defined by these headers, in
 // the resulting dynamic library.
 
+// ---docerion
+// type: source
+// title: Linker symbol retention includes for events library
+// summary: Includes headers not referenced by other translation units so their symbols are kept in the resulting dynamic library.
+// ---
+
 #include "ui/events/event_observer.h"

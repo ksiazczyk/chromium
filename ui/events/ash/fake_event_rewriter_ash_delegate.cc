@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake EventRewriterAsh delegate implementation
+// summary: Implements FakeEventRewriterAshDelegate, a configurable test stub of EventRewriterAsh::Delegate with no-op notifications.
+// ---
+
 #include "ui/events/ash/fake_event_rewriter_ash_delegate.h"
 
 #include "base/check_op.h"

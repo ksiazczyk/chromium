@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard hook interface
+// summary: Declares the KeyboardHook interface with factory methods for platform-specific hooks that intercept modifier or media keys and report which keys are locked.
+// ---
+
 #ifndef UI_EVENTS_KEYBOARD_HOOK_H_
 #define UI_EVENTS_KEYBOARD_HOOK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event observer interface
+// summary: Declares the EventObserver interface for read-only notification of events before they are dispatched to event handlers.
+// ---
+
 #ifndef UI_EVENTS_EVENT_OBSERVER_H_
 #define UI_EVENTS_EVENT_OBSERVER_H_
 

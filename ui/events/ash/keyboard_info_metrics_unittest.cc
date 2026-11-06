@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard info metrics unit tests
+// summary: Unit tests verifying the recorded keyboard top row layout and key histograms with HistogramTester.
+// ---
+
 #include "ui/events/ash/keyboard_info_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

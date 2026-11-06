@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceListCacheX11 header
+// summary: Declares DeviceListCacheX11, a singleton that caches X11 and XInput2 device lists and refreshes them on hierarchy events.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_X11_DEVICE_LIST_CACHE_X11_H_
 #define UI_EVENTS_DEVICES_X11_DEVICE_LIST_CACHE_X11_H_
 

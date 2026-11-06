@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for blink input events
+summary: Records the Blink>Input monorail component, the input-dev team email and the Buganizer component used for issues in this directory.

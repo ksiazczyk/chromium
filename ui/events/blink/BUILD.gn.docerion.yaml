@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the blink input events code
+summary: Defines the blink_features component and the blink source set, listing their sources and dependencies for the ui/events/blink directory.

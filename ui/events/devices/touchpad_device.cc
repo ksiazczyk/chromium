@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchpadDevice implementation
+// summary: Implements the constructors and destructor of the TouchpadDevice class derived from InputDevice.
+// ---
+
 #include "ui/events/devices/touchpad_device.h"
 
 namespace ui {

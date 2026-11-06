@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ash event rewriters
+summary: Defines GN source sets for the ash event rewriter code, its unit tests and test support, with their dependencies.

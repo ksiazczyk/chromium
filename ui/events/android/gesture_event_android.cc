@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureEventAndroid implementation
+// summary: Implements the GestureEventAndroid class that carries gesture event info matching blink::WebGestureEvent, including relocation support.
+// ---
+
 #include "ui/events/android/gesture_event_android.h"
 
 #include <memory>

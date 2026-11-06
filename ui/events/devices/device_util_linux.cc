@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux input device utilities implementation
+// summary: Classifies input devices as internal, USB or Bluetooth by inspecting sysfs ancestor paths on Linux.
+// ---
+
 #include "ui/events/devices/device_util_linux.h"
 
 #include <string>

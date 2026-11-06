@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native event accessors for Android platform events
+// summary: Implements EventTypeFromNative and related helpers that extract event data from Android platform events, with several paths still not implemented.
+// ---
+
 #include <android/input.h>
 
 #include "base/notimplemented.h"

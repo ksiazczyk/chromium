@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard modifier event rewriter
+// summary: Implements remapping of modifier key events based on user settings and updates modifier flags on key, mouse and touch events.
+// ---
+
 #include "ui/events/ash/keyboard_modifier_event_rewriter.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture provider config builder
+// summary: Builds GestureProvider, GestureDetector and ScaleGestureDetector configurations from GestureConfiguration for the current platform, desktop or mobile.
+// ---
+
 #include "ui/events/gesture_detection/gesture_provider_config_helper.h"
 
 #include "base/task/sequenced_task_runner.h"

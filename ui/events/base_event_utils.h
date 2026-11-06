@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base event utility declarations
+// summary: Declares cross-platform event utility functions for event IDs, system key modifiers, event timestamps and clock overrides for testing.
+// ---
+
 #ifndef UI_EVENTS_BASE_EVENT_UTILS_H_
 #define UI_EVENTS_BASE_EVENT_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Android motion event source implementation
+// summary: Implements MotionEventAndroidSource by reading pointer, axis, and historical data from a native Android AInputEvent.
+// ---
+
 #include "ui/events/android/motion_event_android_source_native.h"
 
 #include <android/input.h>

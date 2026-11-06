@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventRewriterAsh implementation
+// summary: Implements the main ChromeOS event rewriter, handling modifier key remapping, right-click simulation, auto repeat and related metrics.
+// ---
+
 #include "ui/events/ash/event_rewriter_ash.h"
 
 #include <fcntl.h>

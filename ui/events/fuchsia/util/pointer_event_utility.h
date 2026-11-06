@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia pointer event builder declarations
+// summary: Declares TouchEventBuilder and MouseEventBuilder helper classes for crafting fuchsia.ui.pointer TouchEvent and MouseEvent tables, with default constants for view, transform and interaction IDs.
+// ---
+
 #ifndef UI_EVENTS_FUCHSIA_UTIL_POINTER_EVENT_UTILITY_H_
 #define UI_EVENTS_FUCHSIA_UTIL_POINTER_EVENT_UTILITY_H_
 

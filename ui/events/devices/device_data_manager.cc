@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceDataManager implementation
+// summary: Implements the singleton manager that tracks input device lists and applies touch-to-display transformations and radius scaling.
+// ---
+
 #include "ui/events/devices/device_data_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventRewriterAsh keyboard event rewriter header
+// summary: Declares EventRewriterAsh, which rewrites keyboard events according to user preferences, modifier remapping, and key combinations.
+// ---
+
 #ifndef UI_EVENTS_ASH_EVENT_REWRITER_ASH_H_
 #define UI_EVENTS_ASH_EVENT_REWRITER_ASH_H_
 

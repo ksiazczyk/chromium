@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink input feature definitions
+// summary: Defines the kDontSendKeyEventsToJavascript base feature, which is disabled by default.
+// ---
+
 #include "ui/events/blink/blink_features.h"
 
 namespace features {

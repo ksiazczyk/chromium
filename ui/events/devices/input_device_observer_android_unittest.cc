@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android input device observer unit tests
+// summary: Unit tests for the Android input device observer covering initialization, observer notifications and device conversion.
+// ---
+
 #include "ui/events/devices/input_device_observer_android.h"
 
 #include <jni.h>

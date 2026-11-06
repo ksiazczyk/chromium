@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowSystemBarColorHelper
+// summary: Wraps an Android Window to get and set status bar, navigation bar, and divider colors, including contrast enforcement, for edge-to-edge support.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import android.app.Activity;

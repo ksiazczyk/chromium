@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web input event conversion declarations
+// summary: Declares MakeWebMouseEvent, MakeWebKeyboardEvent, MakeWebGestureEvent, and related functions that build blink events from ui events.
+// ---
+
 #ifndef UI_EVENTS_BLINK_WEB_INPUT_EVENT_H_
 #define UI_EVENTS_BLINK_WEB_INPUT_EVENT_H_
 

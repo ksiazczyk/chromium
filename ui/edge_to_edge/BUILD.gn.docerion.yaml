@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Edge-to-edge Android build targets
+summary: GN build file defining the edge-to-edge Java library, its resources, and the Robolectric and device test targets with their dependencies.

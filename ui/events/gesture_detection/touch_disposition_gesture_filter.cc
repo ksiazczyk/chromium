@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch disposition gesture filter implementation
+// summary: Implements filtering of touch-derived gesture sequences based on touch event ack dispositions, including disposition handling rules and UMA histogram updates.
+// ---
+
 #include "ui/events/gesture_detection/touch_disposition_gesture_filter.h"
 
 #include <stddef.h>

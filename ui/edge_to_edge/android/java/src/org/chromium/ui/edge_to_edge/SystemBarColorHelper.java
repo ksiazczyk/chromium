@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemBarColorHelper
+// summary: Interface for setting status bar, navigation bar and divider colors, with an option to force light status bar icon color.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import androidx.annotation.ColorInt;

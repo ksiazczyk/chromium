@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CapsLock event rewriter header
+// summary: Declares CapsLockEventRewriter, which rewrites Fn plus Quick Insert events into CapsLock and tracks remapped keys.
+// ---
+
 #ifndef UI_EVENTS_ASH_CAPS_LOCK_EVENT_REWRITER_H_
 #define UI_EVENTS_ASH_CAPS_LOCK_EVENT_REWRITER_H_
 

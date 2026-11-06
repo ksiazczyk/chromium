@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia pointer event builder implementations
+// summary: Implements TouchEventBuilder and MouseEventBuilder, which construct fuchsia.ui.pointer touch and mouse event tables with configurable time, phase, position, view, viewport, transform, buttons and scroll fields.
+// ---
+
 #include "ui/events/fuchsia/util/pointer_event_utility.h"
 #include <zircon/types.h>
 #include <utility>

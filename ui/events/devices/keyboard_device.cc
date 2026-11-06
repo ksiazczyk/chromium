@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardDevice implementation
+// summary: Implements KeyboardDevice constructors extending InputDevice with assistant key and function key availability flags.
+// ---
+
 #include "ui/events/devices/keyboard_device.h"
 #include "ui/events/devices/input_device.h"
 

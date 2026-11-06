@@ -1,0 +1,4 @@
+# Docerion header of cocoa_event_utils.mm.
+type: source
+title: Cocoa event utility implementation
+summary: Implements conversion of Cocoa NSEvent modifier and mouse button state into Chromium ui::EventFlags, including Ctrl-click to right-click handling and event serialization.

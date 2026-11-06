@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyEventAndroid class declaration
+// summary: Declares the native wrapper for Java key events, including jni_zero JNI type conversion support.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_KEY_EVENT_ANDROID_H_
 #define UI_EVENTS_ANDROID_KEY_EVENT_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyEventAndroid implementation
+// summary: Implements the KeyEventAndroid wrapper that carries Java KeyEvent objects into native code and exposes action and meta state.
+// ---
+
 #include "ui/events/android/key_event_android.h"
 
 #include "base/android/jni_android.h"

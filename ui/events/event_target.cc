@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventTarget implementation
+// summary: Implements EventTarget methods for adding, removing, and ordering prioritized pre-target and post-target event handlers.
+// ---
+
 #include "ui/events/event_target.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast gesture configuration
+// summary: Provides the Chromecast-specific GestureConfiguration with double tap disabled and a fixed maximum fling velocity.
+// ---
+
 #include "ui/events/gesture_detection/gesture_configuration.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MobileScroller unit tests
+// summary: Unit tests verifying that MobileScroller handles scrolling and flinging correctly, including offsets, velocity, and completion behavior.
+// ---
+
 #include <limits.h>
 
 #include "base/time/time.h"

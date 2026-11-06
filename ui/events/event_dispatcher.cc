@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event dispatcher implementation
+// summary: Implements EventDispatcherDelegate and EventDispatcher, which dispatch events to targets through pre- and post-target handler phases.
+// ---
+
 #include "ui/events/event_dispatcher.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeLayoutCoordinator
+// summary: Coordinator that handles padding and system bar colors for EdgeToEdgeBaseLayout by consuming window insets, with optional backup navbar insets and field trial support.
+// ---
+
 package org.chromium.ui.edge_to_edge.layout;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

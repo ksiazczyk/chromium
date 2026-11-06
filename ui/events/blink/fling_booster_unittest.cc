@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlingBooster unit tests
+// summary: Unit tests verifying fling boosting behavior across fling start, cancel, and scroll gesture sequences using a test tick clock.
+// ---
+
 #include "ui/events/blink/fling_booster.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java-backed Android motion event implementation
+// summary: Implements MotionEventAndroidJava, a MotionEventAndroid subclass that wraps a Java Android MotionEvent and delegates uncached data to its source.
+// ---
+
 #include "ui/events/android/motion_event_android_java.h"
 
 #include <android/input.h>

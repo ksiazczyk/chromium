@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDevice implementation
+// summary: Implements InputDevice constructors, stream output for device types and log descriptions.
+// ---
+
 #include "ui/events/devices/input_device.h"
 
 #include <ostream>

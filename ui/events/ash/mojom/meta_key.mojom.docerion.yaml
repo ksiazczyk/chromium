@@ -1,0 +1,4 @@
+# Docerion header of meta_key.mojom.
+type: source
+title: Meta key Mojom enum
+summary: Defines the ui.mojom MetaKey enum of keys deducible from internal or external keyboards, used to show the correct key in the settings UI.

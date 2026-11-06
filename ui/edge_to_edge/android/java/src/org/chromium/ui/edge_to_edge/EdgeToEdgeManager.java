@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeManager
+// summary: Central manager for edge-to-edge functionality, coordinating state, system bar coloring and recording histograms about backup navbar insets sources.
+// ---
+
 package org.chromium.ui.edge_to_edge;
 
 import android.app.Activity;

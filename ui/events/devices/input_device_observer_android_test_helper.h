@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android input device observer test helper
+// summary: Declares for-testing functions that build Java input device data and convert it to C++ device objects.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_INPUT_DEVICE_OBSERVER_ANDROID_TEST_HELPER_H_
 #define UI_EVENTS_DEVICES_INPUT_DEVICE_OBSERVER_ANDROID_TEST_HELPER_H_
 

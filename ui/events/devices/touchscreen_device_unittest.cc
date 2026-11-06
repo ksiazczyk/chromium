@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchscreenDevice unit test
+// summary: Unit test verifying that TouchscreenDevice::DescribeForLog produces the expected device description string.
+// ---
+
 #include "ui/events/devices/touchscreen_device.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/events/devices/input_device.h"

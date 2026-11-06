@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackGestureEvent class declaration
+// summary: Declares BackGestureEvent and its swipe edge enum, describing edge gestures that trigger back or forward navigation on web contents.
+// ---
+
 #ifndef UI_EVENTS_BACK_GESTURE_EVENT_H_
 #define UI_EVENTS_BACK_GESTURE_EVENT_H_
 

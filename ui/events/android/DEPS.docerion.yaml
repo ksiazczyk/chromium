@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ui/events/android
+summary: Defines include rules allowing mojo public headers and motion event JNI headers within the ui/events/android directory.

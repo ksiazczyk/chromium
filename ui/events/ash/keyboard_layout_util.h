@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard layout utility header
+// summary: Declares DeviceKeyboardHasAssistantKey, a temporary helper pending full KeyboardCapability support.
+// ---
+
 #ifndef UI_EVENTS_ASH_KEYBOARD_LAYOUT_UTIL_H_
 #define UI_EVENTS_ASH_KEYBOARD_LAYOUT_UTIL_H_
 

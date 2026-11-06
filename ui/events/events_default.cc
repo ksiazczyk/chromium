@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default native event conversion implementations
+// summary: Implements native event conversion functions for platforms where ui::Event itself serves as the platform event, returning type, flags, time, location, and wheel data.
+// ---
+
 #include "ui/events/event.h"
 #include "ui/events/event_constants.h"
 #include "ui/events/event_utils.h"

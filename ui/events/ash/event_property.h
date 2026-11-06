@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard device id event property header
+// summary: Declares helpers to get and set the keyboard device id property on events.
+// ---
+
 #ifndef UI_EVENTS_ASH_EVENT_PROPERTY_H_
 #define UI_EVENTS_ASH_EVENT_PROPERTY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event dispatcher unit tests
+// summary: Unit tests for event dispatching, covering handler phases, event consumption and dispatcher or target destruction during dispatch.
+// ---
+
 #include "ui/events/event_dispatcher.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of modifier_key.mojom.
+type: source
+title: Modifier key Mojom enum
+summary: Defines the ui.mojom ModifierKey enum of physical keys supported for modifier remapping, including void and ISO level-5 shift special cases.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture listener interfaces
+// summary: Defines the GestureListener, DoubleTapListener and SimpleGestureListener interfaces through which GestureDetector signals detected gestures.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_GESTURE_LISTENERS_H_
 #define UI_EVENTS_GESTURE_DETECTION_GESTURE_LISTENERS_H_
 

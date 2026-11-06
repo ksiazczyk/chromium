@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android input device observer singleton declaration
+// summary: Declares the singleton that fetches Android input devices from Java and notifies registered observers.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_INPUT_DEVICE_OBSERVER_ANDROID_H_
 #define UI_EVENTS_DEVICES_INPUT_DEVICE_OBSERVER_ANDROID_H_
 

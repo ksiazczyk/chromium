@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows web input event builders
+// summary: Builds blink mouse and mouse wheel events from Windows window messages, handling buttons, modifiers, click counts, and scroll deltas.
+// ---
+
 #include "ui/events/blink/web_input_event_builders_win.h"
 
 #include "base/metrics/histogram_functions.h"

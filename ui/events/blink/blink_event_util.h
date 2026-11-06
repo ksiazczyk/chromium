@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink event utility declarations
+// summary: Declares functions for creating, converting, translating and scaling Blink web input events from UI event data.
+// ---
+
 #ifndef UI_EVENTS_BLINK_BLINK_EVENT_UTIL_H_
 #define UI_EVENTS_BLINK_BLINK_EVENT_UTIL_H_
 

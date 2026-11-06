@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rewriter interface
+// summary: Declares EventRewriter and the EventRewriteStatus enum for rewriting, replacing, or discarding events before they reach the event sink.
+// ---
+
 #ifndef UI_EVENTS_EVENT_REWRITER_H_
 #define UI_EVENTS_EVENT_REWRITER_H_
 

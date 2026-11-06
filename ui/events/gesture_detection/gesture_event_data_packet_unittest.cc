@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gesture event data packet unit tests
+// summary: Unit tests verifying packet creation from touch events, gesture pushing, copying and gesture source mapping.
+// ---
+
 #include "ui/events/gesture_detection/gesture_event_data_packet.h"
 
 #include <stddef.h>

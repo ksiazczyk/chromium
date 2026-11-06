@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceDataManager test API implementation
+// summary: Implements helpers that let tests set device lists and trigger private DeviceDataManager notifications and callbacks.
+// ---
+
 #include "ui/events/devices/device_data_manager_test_api.h"
 
 #include "ui/events/devices/device_data_manager.h"

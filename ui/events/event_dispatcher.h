@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event dispatcher class declarations
+// summary: Declares EventDispatcherDelegate and EventDispatcher for dispatching events to targets while tracking dispatcher and target destruction.
+// ---
+
 #ifndef UI_EVENTS_EVENT_DISPATCHER_H_
 #define UI_EVENTS_EVENT_DISPATCHER_H_
 

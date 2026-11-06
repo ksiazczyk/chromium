@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventHandlerAndroid interface declaration
+// summary: Declares the EventHandlerAndroid interface that routes touch, mouse, drag, gesture and key events through the ViewAndroid tree.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_EVENT_HANDLER_ANDROID_H_
 #define UI_EVENTS_ANDROID_EVENT_HANDLER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll parameters struct
+// summary: Defines the DidOverscrollParams struct carrying accumulated overscroll, fling velocity, viewport point, overscroll behavior and source device.
+// ---
+
 #ifndef UI_EVENTS_BLINK_DID_OVERSCROLL_PARAMS_H_
 #define UI_EVENTS_BLINK_DID_OVERSCROLL_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink input feature declarations
+// summary: Declares the kDontSendKeyEventsToJavascript feature that prevents Blink from sending key events to JavaScript except for installed PWAs.
+// ---
+
 #ifndef UI_EVENTS_BLINK_BLINK_FEATURES_H_
 #define UI_EVENTS_BLINK_BLINK_FEATURES_H_
 

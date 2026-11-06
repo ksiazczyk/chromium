@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android motion event factory implementation
+// summary: Implements MotionEventAndroidFactory methods that build motion events from Java MotionEvent objects or native AInputEvent data.
+// ---
+
 #include "ui/events/android/motion_event_android_factory.h"
 
 #include <android/input.h>

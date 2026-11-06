@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android motion event class declaration
+// summary: Declares MotionEventAndroid, an abstract base class that caches Android MotionEvent values and converts pixel coordinates to DIPs.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_H_
 #define UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_H_
 

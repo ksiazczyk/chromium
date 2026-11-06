@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android motion event source interface
+// summary: Defines the MotionEventAndroidSource interface that abstracts Java or native Android MotionEvent data providers behind raw value accessors.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_SOURCE_H_
 #define UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_SOURCE_H_
 

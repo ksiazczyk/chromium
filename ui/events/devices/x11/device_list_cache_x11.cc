@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceListCacheX11 implementation
+// summary: Implements a singleton cache of XInput device lists to reduce round trips to the X server when device information is needed.
+// ---
+
 #include "ui/events/devices/x11/device_list_cache_x11.h"
 
 #include <algorithm>

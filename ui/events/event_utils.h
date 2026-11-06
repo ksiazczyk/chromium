@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event utility functions for native event conversion
+// summary: Declares helpers that wrap native platform events as ui::Event objects and extract event type, flags, timestamps, locations, and keyboard data for non-Android platforms.
+// ---
+
 #ifndef UI_EVENTS_EVENT_UTILS_H_
 #define UI_EVENTS_EVENT_UTILS_H_
 

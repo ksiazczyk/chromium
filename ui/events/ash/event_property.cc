@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard device id event property implementation
+// summary: Implements helpers that read and store the keyboard device id property on events, falling back to the source device id.
+// ---
+
 #include <cstdint>
 
 #include "base/containers/span.h"

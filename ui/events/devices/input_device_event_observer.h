@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputDeviceEventObserver interface
+// summary: Declares the DeviceDataManager observer interface for input configuration, hotplug and stylus events.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_INPUT_DEVICE_EVENT_OBSERVER_H_
 #define UI_EVENTS_DEVICES_INPUT_DEVICE_EVENT_OBSERVER_H_
 

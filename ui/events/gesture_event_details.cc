@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture event details implementation
+// summary: Implements GestureEventDetails constructors, conversions, and comparisons for gesture data such as scroll, fling, swipe, and pinch events.
+// ---
+
 #include "ui/events/gesture_event_details.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scale gesture detector implementation
+// summary: Implements pinch and stylus anchored scale detection from MotionEvents, ported from Android's ScaleGestureDetector.
+// ---
+
 #include "ui/events/gesture_detection/scale_gesture_detector.h"
 
 #include <limits.h>

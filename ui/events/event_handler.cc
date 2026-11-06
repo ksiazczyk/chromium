@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event handler implementation
+// summary: Implements the EventHandler base class that routes incoming events to type-specific callbacks such as OnKeyEvent and OnMouseEvent.
+// ---
+
 #include "ui/events/event_handler.h"
 
 #include <string_view>

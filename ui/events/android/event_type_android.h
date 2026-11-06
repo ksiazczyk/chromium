@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Android key event action conversions
+// summary: Declares exported functions that convert between Android key event actions and Chromium EventType values.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_EVENT_TYPE_ANDROID_H_
 #define UI_EVENTS_ANDROID_EVENT_TYPE_ANDROID_H_
 

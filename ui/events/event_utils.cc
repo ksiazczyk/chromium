@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event utility functions
+// summary: Implements helpers that convert native platform events to ui events, register custom event types, and record event latency traces.
+// ---
+
 #include "ui/events/event_utils.h"
 
 #include <limits>

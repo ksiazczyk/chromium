@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event source interface
+// summary: Declares EventSource, which receives events from the native platform and sends them through rewriters to an EventSink.
+// ---
+
 #ifndef UI_EVENTS_EVENT_SOURCE_H_
 #define UI_EVENTS_EVENT_SOURCE_H_
 

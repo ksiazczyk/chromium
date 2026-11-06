@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureProvider class and client interface
+// summary: Declares GestureProvider and its client interface, configuration struct, and controls for double-tap, pinch and scroll detection state.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_GESTURE_PROVIDER_H_
 #define UI_EVENTS_GESTURE_DETECTION_GESTURE_PROVIDER_H_
 

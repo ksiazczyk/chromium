@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android motion event factory declaration
+// summary: Declares MotionEventAndroidFactory, which creates MotionEventAndroid instances from Java or native Android motion event sources.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_FACTORY_H_
 #define UI_EVENTS_ANDROID_MOTION_EVENT_ANDROID_FACTORY_H_
 

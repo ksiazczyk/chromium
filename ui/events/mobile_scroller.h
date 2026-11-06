@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile scroller class
+// summary: Declares MobileScroller, a native port of android.widget.Scroller that animates scroll and fling gestures and reports offsets, velocities, and durations.
+// ---
+
 #ifndef UI_EVENTS_MOBILE_SCROLLER_H_
 #define UI_EVENTS_MOBILE_SCROLLER_H_
 

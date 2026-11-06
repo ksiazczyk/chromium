@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the devices component
+summary: Defines the devices component, unittests and test_support targets, with platform-specific sources for Linux, Android, Windows and iOS.

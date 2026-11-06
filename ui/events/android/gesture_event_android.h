@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GestureEventAndroid class declaration
+// summary: Declares the gesture event class used in the ViewAndroid tree, holding location, scale, deltas, velocities and fling-boosting flags.
+// ---
+
 #ifndef UI_EVENTS_ANDROID_GESTURE_EVENT_ANDROID_H_
 #define UI_EVENTS_ANDROID_GESTURE_EVENT_ANDROID_H_
 

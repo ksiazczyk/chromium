@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MicrophoneMuteSwitchMonitor header
+// summary: Declares the MicrophoneMuteSwitchMonitor singleton and its Observer interface for tracking the Chrome OS hardware microphone mute switch state.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_MICROPHONE_MUTE_SWITCH_MONITOR_H_
 #define UI_EVENTS_DEVICES_MICROPHONE_MUTE_SWITCH_MONITOR_H_
 

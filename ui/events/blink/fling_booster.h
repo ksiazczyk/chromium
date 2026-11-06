@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingBooster class header
+// summary: Declares the FlingBooster class that tracks fling state and conditions to boost new flings by adding their velocity to the previous one.
+// ---
+
 #ifndef UI_EVENTS_BLINK_FLING_BOOSTER_H_
 #define UI_EVENTS_BLINK_FLING_BOOSTER_H_
 

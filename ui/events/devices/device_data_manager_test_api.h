@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceDataManager test API header
+// summary: Declares the test interface for configuring keyboard, mouse, touchscreen and other device lists on DeviceDataManager.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_DEVICE_DATA_MANAGER_TEST_API_H_
 #define UI_EVENTS_DEVICES_DEVICE_DATA_MANAGER_TEST_API_H_
 

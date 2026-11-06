@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux input device utilities header
+// summary: Declares helpers to resolve sysfs input paths and determine input device type from a device path on Linux.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_DEVICE_UTIL_LINUX_H_
 #define UI_EVENTS_DEVICES_DEVICE_UTIL_LINUX_H_
 

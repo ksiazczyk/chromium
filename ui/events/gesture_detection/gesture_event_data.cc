@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture event data implementation
+// summary: Implements GestureEventData constructors that carry gesture details, tool type, coordinates, flags and touch event ids.
+// ---
+
 #include "ui/events/gesture_detection/gesture_event_data.h"
 
 #include <ostream>

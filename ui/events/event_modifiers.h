@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event modifiers class declaration
+// summary: Declares EventModifiers, which maintains shared modifier key state for evdev input devices and computes the resulting event flags.
+// ---
+
 #ifndef UI_EVENTS_EVENT_MODIFIERS_H_
 #define UI_EVENTS_EVENT_MODIFIERS_H_
 

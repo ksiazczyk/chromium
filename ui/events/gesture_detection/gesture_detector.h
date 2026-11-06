@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture detector interface
+// summary: Declares the GestureDetector class and its configuration constants for timeouts, slop distances and velocity thresholds, ported from Android.
+// ---
+
 #ifndef UI_EVENTS_GESTURE_DETECTION_GESTURE_DETECTOR_H_
 #define UI_EVENTS_GESTURE_DETECTION_GESTURE_DETECTOR_H_
 

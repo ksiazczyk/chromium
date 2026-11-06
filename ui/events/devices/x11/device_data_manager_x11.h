@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceDataManagerX11 header
+// summary: Declares DeviceDataManagerX11, which extracts and tracks input event data for mouse, touchpad and touchscreen devices on X11.
+// ---
+
 #ifndef UI_EVENTS_DEVICES_X11_DEVICE_DATA_MANAGER_X11_H_
 #define UI_EVENTS_DEVICES_X11_DEVICE_DATA_MANAGER_X11_H_
 
