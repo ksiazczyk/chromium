@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy utility functions
+// summary: Provides helpers that determine whether policy testing is enabled for a channel and map policy names to their schema value types.
+// ---
+
 #include "components/policy/core/common/policy_utils.h"
 
 #include "components/policy/core/common/policy_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy proto decoders unit tests
+// summary: Unit tests verifying that policy protobuf fields decode into the expected PolicyMap entries for various policy value types.
+// ---
+
 #include "components/policy/core/common/policy_proto_decoders.h"
 
 #include "base/strings/string_number_conversions.h"

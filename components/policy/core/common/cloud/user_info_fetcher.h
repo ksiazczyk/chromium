@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User info fetcher header
+// summary: Declares UserInfoFetcher, which makes a UserInfo request, parses the JSON response, and notifies a delegate on success or failure.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_USER_INFO_FETCHER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_USER_INFO_FETCHER_H_
 

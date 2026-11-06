@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component cloud policy updater header
+// summary: Declares ComponentCloudPolicyUpdater, which downloads and validates external policy data for components and caches it in a ComponentCloudPolicyStore with size limits and retries.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_COMPONENT_CLOUD_POLICY_UPDATER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_COMPONENT_CLOUD_POLICY_UPDATER_H_
 

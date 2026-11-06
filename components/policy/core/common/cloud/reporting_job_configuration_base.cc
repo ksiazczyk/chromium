@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reporting job configuration base implementation
+// summary: Implements the shared base for reporting job configurations, building device and browser dictionaries for upload requests.
+// ---
+
 #include "components/policy/core/common/cloud/reporting_job_configuration_base.h"
 
 #include <memory>

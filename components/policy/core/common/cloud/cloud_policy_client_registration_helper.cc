@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy client registration helper implementation
+// summary: Implements the helper that fetches OAuth2 tokens, queries Gaia user info for the hosted domain, and starts CloudPolicyClient registration flows.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_client_registration_helper.h"
 
 #include <memory>

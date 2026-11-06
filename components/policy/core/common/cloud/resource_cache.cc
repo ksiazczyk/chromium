@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource cache implementation
+// summary: Implements on-disk storage of policy resources keyed by key and subkey, with optional cache size limits.
+// ---
+
 
 #include "components/policy/core/common/cloud/resource_cache.h"
 

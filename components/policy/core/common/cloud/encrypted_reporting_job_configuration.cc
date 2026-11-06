@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted reporting job configuration implementation
+// summary: Implements the job configuration for uploading encrypted reporting records, handling managed and unmanaged device payloads and retries.
+// ---
+
 #include "components/policy/core/common/cloud/encrypted_reporting_job_configuration.h"
 
 #include <optional>

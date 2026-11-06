@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy service implementation unit tests
+// summary: Extensive unit tests for PolicyServiceImpl covering policy merging, priorities, observers, initialization, and provider updates.
+// ---
+
 #include "components/policy/core/common/policy_service_impl.h"
 
 #include <memory>

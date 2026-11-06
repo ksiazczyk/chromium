@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy invalidation utility header
+// summary: Declares helpers that determine whether a policy invalidation is expired and select the matching invalidation metric type.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_POLICY_INVALIDATION_UTIL_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_POLICY_INVALIDATION_UTIL_H_
 

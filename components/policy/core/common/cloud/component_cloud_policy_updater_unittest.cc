@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component cloud policy updater unit tests
+// summary: Unit tests for ComponentCloudPolicyUpdater verifying download scheduling, validation, caching, and cancellation of external component policy data fetches.
+// ---
+
 #include "components/policy/core/common/cloud/component_cloud_policy_updater.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configuration policy provider test base
+// summary: Implements shared test logic and a test Chrome schema for verifying configuration policy providers across platforms.
+// ---
+
 #include "components/policy/core/common/configuration_policy_provider_test.h"
 
 #include <utility>

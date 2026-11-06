@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CFPropertyList conversion round-trip tests
+// summary: Unit test checking that values converted to a CFPropertyList with ValueToProperty are restored correctly by PropertyToValue.
+// ---
+
 #include "components/policy/core/common/mac_util.h"
 
 #include <CoreFoundation/CoreFoundation.h>

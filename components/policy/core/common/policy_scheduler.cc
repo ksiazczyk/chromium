@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy scheduler implementation
+// summary: Implements PolicyScheduler, which runs repeated asynchronous tasks such as policy fetches at fixed intervals without overlap.
+// ---
+
 #include "components/policy/core/common/policy_scheduler.h"
 
 #include "base/functional/bind.h"

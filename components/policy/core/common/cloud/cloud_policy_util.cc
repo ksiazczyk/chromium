@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy utility functions implementation
+// summary: Implements platform-specific helpers for machine name, OS version, device identifiers and policy type classification.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_util.h"
 
 #include "base/strings/strcat.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine level user cloud policy store implementation
+// summary: Implements MachineLevelUserCloudPolicyStore, which persists machine level user and extension install cloud policy and caches external policies.
+// ---
+
 #include "components/policy/core/common/cloud/machine_level_user_cloud_policy_store.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy details metadata declarations
+// summary: Declares the PolicyDetails struct and scope enums holding read-only metadata about Chrome policies such as deprecation and risk tags.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_DETAILS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_DETAILS_H_
 

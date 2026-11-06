@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User info fetcher implementation
+// summary: Implements the fetcher that requests user info from the Google Account service with an OAuth2 token to check whether the signed-in user is managed.
+// ---
+
 #include "components/policy/core/common/cloud/user_info_fetcher.h"
 
 #include <optional>

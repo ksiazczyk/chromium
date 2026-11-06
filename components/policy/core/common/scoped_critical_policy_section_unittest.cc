@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped critical policy section unit tests
+// summary: Unit tests for ScopedCriticalPolicySection covering normal section entry and timeout behavior using mock callbacks and mock time.
+// ---
+
 #include "components/policy/core/common/scoped_critical_policy_section.h"
 
 #include "base/functional/bind.h"

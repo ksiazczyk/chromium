@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema registry header
+// summary: Declares SchemaRegistry, holding the current SchemaMap with observer notifications, plus CombinedSchemaRegistry for merging multiple registries.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_SCHEMA_REGISTRY_H_
 #define COMPONENTS_POLICY_CORE_COMMON_SCHEMA_REGISTRY_H_
 

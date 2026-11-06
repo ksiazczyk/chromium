@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy invalidation scope enum
+// summary: Defines the PolicyInvalidationScope enum for user, device, device-local account and CBCM policy invalidation scopes.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_POLICY_INVALIDATION_SCOPE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_POLICY_INVALIDATION_SCOPE_H_
 

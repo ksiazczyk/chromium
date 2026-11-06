@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudPolicyService implementation
+// summary: Implements coordination of cloud policy handling, moving fetched policy from the client to the store and triggering policy refreshes.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_service.h"
 
 #include <stddef.h>

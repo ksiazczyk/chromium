@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy manager implementation
+// summary: Implements the user cloud policy manager, creating policy stores and managing component policy caching and external data.
+// ---
+
 #include "components/policy/core/common/cloud/user_cloud_policy_manager.h"
 
 #include <memory>

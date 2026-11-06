@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Command line policy loader unit tests
+// summary: Unit tests verifying parsing of command line policy JSON, including missing, invalid and valid switch values.
+// ---
+
 #include "components/policy/core/common/policy_loader_command_line.h"
 
 #include "base/task/sequenced_task_runner.h"

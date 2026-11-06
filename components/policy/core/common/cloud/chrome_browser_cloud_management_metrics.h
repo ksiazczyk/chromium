@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser cloud management enrollment result enum
+// summary: Defines the enum used to record Chrome browser cloud management enrollment result metrics, matching entries in enums.xml.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_CHROME_BROWSER_CLOUD_MANAGEMENT_METRICS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_CHROME_BROWSER_CLOUD_MANAGEMENT_METRICS_H_
 

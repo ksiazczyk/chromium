@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy service implementation
+// summary: Implements PolicyServiceImpl, merging policies from providers in priority order with metrics, migrations, and special-case handling.
+// ---
+
 #include "components/policy/core/common/policy_service_impl.h"
 
 #include <stddef.h>

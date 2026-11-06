@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema registry tracking policy provider implementation
+// summary: Implements a policy provider that wraps a delegate provider and serves its policies once the tracked SchemaRegistry is fully ready.
+// ---
+
 #include "components/policy/core/common/schema_registry_tracking_policy_provider.h"
 
 #include <utility>

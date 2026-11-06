@@ -1,0 +1,4 @@
+# Docerion header of policy_loader_ios.mm.
+type: source
+title: Implementation of the iOS policy loader for managed app configuration
+summary: Implements the iOS policy loader, converting NSUserDefaults managed app configuration into a policy bundle with schema-based type conversion.

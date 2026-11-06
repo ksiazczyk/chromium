@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy schema unit tests
+// summary: Unit tests for the policy Schema class covering parsing, validation of values against schemas, error strategies and enum, range and pattern handling.
+// ---
+
 #include "components/policy/core/common/schema.h"
 
 #include <stddef.h>

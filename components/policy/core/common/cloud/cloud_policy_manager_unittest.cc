@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CloudPolicyManager unit tests
+// summary: Unit tests for CloudPolicyManager using a policy provider test harness with mock stores and clients to verify cloud policy provider behavior.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy logger implementation
+// summary: Implements the PolicyLogger that records policy-related log messages with sources and severities and builds code search links for display in the browser's policy logs page.
+// ---
+
 #include "components/policy/core/common/policy_logger.h"
 
 #include <deque>

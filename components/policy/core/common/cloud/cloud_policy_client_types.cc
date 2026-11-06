@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy client types implementation
+// summary: Implements ExtensionIdAndVersion comparison helpers and PolicyTypeToFetch, which keys policy fetch requests by type, settings entity ID or extension provider.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_client_types.h"
 
 #include <tuple>

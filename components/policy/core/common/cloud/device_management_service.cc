@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management service implementation
+// summary: Implements DeviceManagementService, handling communication with the device management server including request jobs, retry logic, proxy error detection, and response code handling.
+// ---
+
 #include "components/policy/core/common/cloud/device_management_service.h"
 
 #include <optional>

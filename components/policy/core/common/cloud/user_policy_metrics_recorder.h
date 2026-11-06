@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy metrics recorder header
+// summary: Declares UserPolicyMetricsRecorder, an observer of the configuration policy provider that records the user policy count once during its lifetime.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_USER_POLICY_METRICS_RECORDER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_USER_POLICY_METRICS_RECORDER_H_
 

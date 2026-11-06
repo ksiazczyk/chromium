@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Schema registry unit tests
+// summary: Unit tests for SchemaRegistry verifying registration and unregistration notifications, readiness tracking and combined registry behavior.
+// ---
+
 #include "components/policy/core/common/schema_registry.h"
 
 #include <memory>

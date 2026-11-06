@@ -1,0 +1,4 @@
+# Docerion header of policy_loader_mac.mm.
+type: source
+title: Implementation of the Mac policy loader reading Mac preferences
+summary: Implements the Mac policy loader, loading policies from Mac preferences, watching managed policy files, and recording enterprise management metrics.

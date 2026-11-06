@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async policy provider implementation
+// summary: Implements a configuration policy provider that performs an initial synchronous load and refreshes policies via a background loader.
+// ---
+
 #include "components/policy/core/common/async_policy_provider.h"
 
 #include <utility>

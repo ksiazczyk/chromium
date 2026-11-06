@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy value utilities header
+// summary: Declares the ComponentPolicyMap type and utility functions for converting policy values to string sets, copying component policy maps, and hashing policy values.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_VALUES_UTIL_H_
 #define COMPONENTS_POLICY_CORE_COMMON_VALUES_UTIL_H_
 

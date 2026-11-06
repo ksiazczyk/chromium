@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy domain and namespace definitions
+// summary: Defines the PolicyDomain enum and PolicyNamespace struct used to namespace policies by domain and component ID, plus hashing and list helpers.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_NAMESPACE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_NAMESPACE_H_
 

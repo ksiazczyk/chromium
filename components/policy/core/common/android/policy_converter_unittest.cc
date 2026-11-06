@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy converter unit tests
+// summary: Unit tests checking conversion of values to schema types such as bool, int, double, list, and dict, plus Java string array to list conversion.
+// ---
+
 #include "components/policy/core/common/android/policy_converter.h"
 
 #include <stddef.h>

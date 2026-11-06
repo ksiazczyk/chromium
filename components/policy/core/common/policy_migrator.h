@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy migrator interface
+// summary: Declares PolicyMigrator and its Migration struct to migrate deprecated policies to new names, optionally transforming values during the move.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_MIGRATOR_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_MIGRATOR_H_
 

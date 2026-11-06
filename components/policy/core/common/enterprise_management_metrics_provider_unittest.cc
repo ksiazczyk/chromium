@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise management metrics provider unit tests
+// summary: Tests that the metrics provider records correct platform and browser management status histogram samples.
+// ---
+
 #include "components/policy/core/common/enterprise_management_metrics_provider.h"
 
 #include <memory>

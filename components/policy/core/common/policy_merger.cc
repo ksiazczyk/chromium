@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy merger implementation
+// summary: Implements policy merging logic that combines conflicting policy entries from different sources under configurable conditions.
+// ---
+
 #include "components/policy/core/common/policy_merger.h"
 
 #include <array>

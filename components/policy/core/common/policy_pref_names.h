@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy preference name constants
+// summary: Defines pref name constants and enums for policy-controlled preferences such as management authorities, Incognito mode and policy refresh rates.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_PREF_NAMES_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_PREF_NAMES_H_
 

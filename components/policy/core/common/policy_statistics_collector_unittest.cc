@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyStatisticsCollector unit tests
+// summary: Unit tests verifying that the policy statistics collector records the correct UMA histograms for policy usage and source combinations.
+// ---
+
 #include "components/policy/core/common/policy_statistics_collector.h"
 
 #include <array>

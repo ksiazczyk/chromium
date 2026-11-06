@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped critical policy section header
+// summary: Declares ScopedCriticalPolicySection, a scoped helper for the Windows EnterCriticalPolicySection API used to guard policy reads.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_SCOPED_CRITICAL_POLICY_SECTION_H_
 #define COMPONENTS_POLICY_CORE_COMMON_SCOPED_CRITICAL_POLICY_SECTION_H_
 

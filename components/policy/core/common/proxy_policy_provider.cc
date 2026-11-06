@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyPolicyProvider implementation
+// summary: Implements a policy provider that proxies another provider through a swappable owned or unowned delegate and forwards policy updates.
+// ---
+
 #include "components/policy/core/common/proxy_policy_provider.h"
 
 #include <memory>

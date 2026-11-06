@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultChromeAppsMigrator unit tests
+// summary: Unit tests verifying migration of Chrome app force-install and pinning policies to web app policies.
+// ---
+
 #include "components/policy/core/common/default_chrome_apps_migrator.h"
 
 #include <map>

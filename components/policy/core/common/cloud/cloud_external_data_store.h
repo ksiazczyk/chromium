@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud external data store header
+// summary: Declares CloudExternalDataStore, which stores policy-referenced external data keyed by key and SHA256 hash in a shared ResourceCache and supports storing, loading and pruning entries.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLOUD_EXTERNAL_DATA_STORE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLOUD_EXTERNAL_DATA_STORE_H_
 

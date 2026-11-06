@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Component cloud policy store unit tests
+// summary: Unit tests for ComponentCloudPolicyStore covering validation of signed extension policy fetch responses, policy hashing, and storage of component cloud policy bundles.
+// ---
+
 #include "components/policy/core/common/cloud/component_cloud_policy_store.h"
 
 #include <stdint.h>

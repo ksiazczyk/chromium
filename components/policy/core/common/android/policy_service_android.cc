@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyServiceAndroid JNI bridge implementation
+// summary: Implements the Android JNI bridge for PolicyService, forwarding policy updates, observer registration and initialization state to Java for the Chrome policy domain.
+// ---
+
 #include "components/policy/core/common/android/policy_service_android.h"
 
 #include "base/android/jni_android.h"

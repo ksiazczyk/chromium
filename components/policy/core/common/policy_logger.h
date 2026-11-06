@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy logger header
+// summary: Declares the PolicyLogger class and the LOG_POLICY logging macros used to capture policy events across sources such as enrollment, fetching, and device trust.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_LOGGER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_LOGGER_H_
 

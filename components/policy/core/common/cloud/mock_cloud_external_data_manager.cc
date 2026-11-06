@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock cloud external data manager implementation
+// summary: Implements the MockCloudExternalDataManager test double, creating external data fetchers backed by a weak pointer for policy tests.
+// ---
+
 #include "components/policy/core/common/cloud/mock_cloud_external_data_manager.h"
 
 #include "base/functional/callback.h"

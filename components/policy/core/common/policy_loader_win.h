@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows policy loader header
+// summary: Declares PolicyLoaderWin, which loads policies from the Windows registry and watches Group Policy notifications to trigger reloads.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_WIN_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_WIN_H_
 

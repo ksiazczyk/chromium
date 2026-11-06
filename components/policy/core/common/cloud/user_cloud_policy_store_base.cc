@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy store base implementation
+// summary: Implements shared user cloud policy store logic, creating configured policy validators and installing validated policy payloads into the policy map.
+// ---
+
 #include "components/policy/core/common/cloud/user_cloud_policy_store_base.h"
 
 #include <utility>

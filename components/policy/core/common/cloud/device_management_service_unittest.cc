@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device management service unit tests
+// summary: Unit tests for DeviceManagementService exercising request jobs, error codes, retries, authentication tokens, and metrics using a test URL loader factory.
+// ---
+
 #include "components/policy/core/common/cloud/device_management_service.h"
 
 #include <memory>

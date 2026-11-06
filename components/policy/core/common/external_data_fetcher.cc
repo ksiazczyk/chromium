@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External data fetcher implementation
+// summary: Implements fetching of external data referenced by a policy through the external data manager.
+// ---
+
 #include "components/policy/core/common/external_data_fetcher.h"
 
 #include "base/functional/callback.h"

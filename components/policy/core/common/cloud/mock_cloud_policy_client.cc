@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock cloud policy client implementation
+// summary: Implements the MockCloudPolicyClient test double, providing setters for DM token, client ID, policy fetch responses, invalidation version, and status.
+// ---
+
 #include <memory>
 #include <utility>
 

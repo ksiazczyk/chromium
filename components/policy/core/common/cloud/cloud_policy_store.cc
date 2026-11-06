@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudPolicyStore base implementation
+// summary: Implements the base cloud policy store with observer notifications, status handling and external data manager wiring.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_store.h"
 
 #include "base/check.h"

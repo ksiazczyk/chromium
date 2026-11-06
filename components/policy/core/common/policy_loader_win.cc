@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows policy loader implementation
+// summary: Loads Chrome policies from Windows registry GPOs, parsing mandatory, recommended and third-party policies, and triggers reloads on Group Policy changes.
+// ---
+
 #include "components/policy/core/common/policy_loader_win.h"
 
 // Must be included before lm.h

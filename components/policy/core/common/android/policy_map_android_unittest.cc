@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android policy map bridge unit tests
+// summary: Unit tests verifying Java-side access to integer, boolean, string, dictionary, and list policy values through the PolicyMapAndroid bridge.
+// ---
+
 #include "components/policy/core/common/android/policy_map_android.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime reporting job configuration implementation
+// summary: Implements the device management job configuration that builds and uploads real-time event reports and handles retries and metrics.
+// ---
+
 #include "components/policy/core/common/cloud/realtime_reporting_job_configuration.h"
 
 #include <optional>

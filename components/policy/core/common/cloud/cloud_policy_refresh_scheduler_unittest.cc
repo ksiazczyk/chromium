@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CloudPolicyRefreshScheduler unit tests
+// summary: Unit tests covering refresh delays, error retries, cache age handling and network connection changes of the cloud policy refresh scheduler.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_refresh_scheduler.h"
 
 #include <stdint.h>

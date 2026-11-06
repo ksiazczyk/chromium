@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy invalidation utility functions
+// summary: Implements helpers that check whether policy invalidations are expired and select their metric types.
+// ---
+
 #include "components/policy/core/common/cloud/policy_invalidation_util.h"
 
 #include "components/invalidation/invalidation_listener.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows policy loader unit tests
+// summary: Unit tests for PolicyLoaderWin that write values into registry hives and verify Chrome and third-party policy loading from GPOs.
+// ---
+
 #include "components/policy/core/common/policy_loader_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android policy map bridge class declaration
+// summary: Declares PolicyMapAndroid, the Android bridge class exposing PolicyMap value lookups and equality checks to Java callers.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_ANDROID_POLICY_MAP_ANDROID_H_
 #define COMPONENTS_POLICY_CORE_COMMON_ANDROID_POLICY_MAP_ANDROID_H_
 

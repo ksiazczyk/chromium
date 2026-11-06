@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header of the iOS policy loader for managed app configuration
+// summary: Declares PolicyLoaderIOS, an async policy loader that reads Chrome policies from the iOS managed app configuration.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_IOS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_IOS_H_
 

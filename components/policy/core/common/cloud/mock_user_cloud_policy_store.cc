@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock user cloud policy store implementation
+// summary: Implements a mock user cloud policy store that runs without backing files for tests.
+// ---
+
 #include "components/policy/core/common/cloud/mock_user_cloud_policy_store.h"
 
 #include "base/task/sequenced_task_runner.h"

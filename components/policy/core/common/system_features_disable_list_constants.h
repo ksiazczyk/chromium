@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System features disable list constants
+// summary: Header defining the blocked and hidden mode constants for the SystemFeaturesDisableMode policy, which controls visibility of features and apps disabled by SystemFeaturesDisableList.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_SYSTEM_FEATURES_DISABLE_LIST_CONSTANTS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_SYSTEM_FEATURES_DISABLE_LIST_CONSTANTS_H_
 

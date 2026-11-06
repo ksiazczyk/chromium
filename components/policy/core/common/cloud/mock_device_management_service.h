@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock device management service header
+// summary: Declares mock configuration, job creation handler and fake service helpers for testing the device management service.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_MOCK_DEVICE_MANAGEMENT_SERVICE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_MOCK_DEVICE_MANAGEMENT_SERVICE_H_
 

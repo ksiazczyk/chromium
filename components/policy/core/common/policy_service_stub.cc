@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy service stub
+// summary: Provides a no-op PolicyService stub that returns empty policies and immediately completes refresh callbacks.
+// ---
+
 #include "components/policy/core/common/policy_service_stub.h"
 
 #include "components/policy/core/common/policy_types.h"

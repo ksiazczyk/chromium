@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud external data manager base implementation
+// summary: Implements metadata key and entry types plus policy store wiring for the manager that handles external data referenced by cloud policies.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_external_data_manager.h"
 
 #include "base/strings/strcat.h"

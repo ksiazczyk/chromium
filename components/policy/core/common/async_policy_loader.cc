@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async policy loader implementation
+// summary: Implements the base loader for platform policies, handling reload scheduling, file settling delays and sensitive policy filtering.
+// ---
+
 #include "components/policy/core/common/async_policy_loader.h"
 
 #include <utility>

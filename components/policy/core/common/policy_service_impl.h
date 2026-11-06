@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy service implementation header
+// summary: Declares PolicyServiceImpl, the concrete PolicyService combining configuration policy providers in decreasing priority order.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_SERVICE_IMPL_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_SERVICE_IMPL_H_
 

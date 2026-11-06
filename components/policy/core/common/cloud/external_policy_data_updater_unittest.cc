@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External policy data updater unit tests
+// summary: Unit tests for ExternalPolicyDataUpdater covering fetch requests, validation, retries, and cancellation of external policy data downloads.
+// ---
+
 #include "components/policy/core/common/cloud/external_policy_data_updater.h"
 
 #include <stddef.h>

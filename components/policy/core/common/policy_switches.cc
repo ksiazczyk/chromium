@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy command-line switch definitions
+// summary: Defines command-line switch names for the device management URL, reporting URLs, setting policies, and several test-only policy flags.
+// ---
+
 #include "components/policy/core/common/policy_switches.h"
 
 namespace policy {

@@ -1,0 +1,4 @@
+# Docerion header of preferences_mac.mm.
+type: source
+title: MacPreferences implementation
+summary: Implements MacPreferences using CFPrefsManagedSource to distinguish machine-scope from user-scope managed policies on macOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for sensitive policy filtering in policy loaders
+// summary: Unit tests verifying that FilterSensitivePolicies removes or blocks sensitive policies such as extension install forcelist and extension settings.
+// ---
+
 #include "components/policy/core/common/policy_loader_common.h"
 #include <algorithm>
 

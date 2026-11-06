@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource cache unit tests
+// summary: Unit tests covering store, load, delete, purge and size-limit behavior of the resource cache.
+// ---
+
 #include "components/policy/core/common/cloud/resource_cache.h"
 
 #include "base/files/file_path.h"

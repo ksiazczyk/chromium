@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine level user cloud policy store header
+// summary: Declares MachineLevelUserCloudPolicyStore, a DesktopCloudPolicyStore for machine level user cloud policy on platforms without secure storage.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_MACHINE_LEVEL_USER_CLOUD_POLICY_STORE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_MACHINE_LEVEL_USER_CLOUD_POLICY_STORE_H_
 

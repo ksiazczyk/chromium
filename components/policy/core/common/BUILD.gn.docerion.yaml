@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the policy core common component
+summary: GN build file defining source sets, groups and dependencies for the policy core common component and its tests.

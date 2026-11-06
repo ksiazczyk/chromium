@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client data delegate interface
+// summary: Declares the interface that fills platform-specific fields in RegisterBrowserRequest protos sent to the DMServer.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLIENT_DATA_DELEGATE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLIENT_DATA_DELEGATE_H_
 

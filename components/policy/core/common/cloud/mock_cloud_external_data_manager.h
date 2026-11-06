@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock cloud external data manager declarations
+// summary: Declares a gmock-based CloudExternalDataManager test double that simulates connecting, disconnecting, fetching, and policy store loading.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_MOCK_CLOUD_EXTERNAL_DATA_MANAGER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_MOCK_CLOUD_EXTERNAL_DATA_MANAGER_H_
 

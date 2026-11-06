@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy loader common helpers for sensitive policy filtering
+// summary: Declares helpers that block sensitive policies from untrusted sources and check whether a given policy name is sensitive.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_COMMON_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_LOADER_COMMON_H_
 

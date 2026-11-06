@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome policy schema accessor implementation
+// summary: Returns the singleton Chrome policy schema wrapped from the generated policy schema data.
+// ---
+
 #include "components/policy/core/common/chrome_schema.h"
 
 #include "base/no_destructor.h"

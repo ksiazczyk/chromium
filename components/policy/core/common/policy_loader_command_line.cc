@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line policy loader implementation
+// summary: Loads Chrome policies from a command line switch as mandatory machine-scope policies, intended for development and testing.
+// ---
+
 #include "components/policy/core/common/policy_loader_command_line.h"
 
 #include "base/json/json_reader.h"

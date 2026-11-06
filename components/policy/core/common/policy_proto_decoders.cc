@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy protobuf decoding implementation
+// summary: Decodes enterprise management policy protos into PolicyMap entries, converting boolean, integer, string, list and JSON values with level handling.
+// ---
+
 #include "components/policy/core/common/policy_proto_decoders.h"
 
 #include <cstring>

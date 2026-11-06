@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyServiceAndroid unit tests
+// summary: Unit tests for the PolicyServiceAndroid bridge, using a mock PolicyService and a Java test supporter to verify initialization, observer and policy-update behavior.
+// ---
+
 #include "components/policy/core/common/android/policy_service_android.h"
 
 #include <jni.h>

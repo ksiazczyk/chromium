@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock signing service implementation
+// summary: Implements a fake signing service that appends a nonce and returns a fake signature for tests.
+// ---
+
 #include "components/policy/core/common/cloud/mock_signing_service.h"
 
 #include <string>

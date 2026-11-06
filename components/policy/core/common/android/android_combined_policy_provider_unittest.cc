@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android combined policy provider unit tests
+// summary: Unit tests verifying initialization completion, the SetShouldWaitForPolicy behavior, and policy flushing through the provider's converter.
+// ---
+
 #include <jni.h>
 
 #include "base/android/jni_android.h"

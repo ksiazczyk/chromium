@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy file path constants
+// summary: Defines the system-wide read-only policy directory path for POSIX platforms, varying by Chrome, Chrome for Testing or Chromium branding.
+// ---
+
 #include "components/policy/core/common/policy_paths.h"
 
 #include "build/branding_buildflags.h"

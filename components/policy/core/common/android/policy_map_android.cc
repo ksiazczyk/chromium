@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android policy map bridge implementation
+// summary: Implements the PolicyMapAndroid JNI bridge providing Java access to policy values as int, bool, string, list, or dict from a native PolicyMap.
+// ---
+
 #include "components/policy/core/common/android/policy_map_android.h"
 
 #include "base/android/jni_android.h"

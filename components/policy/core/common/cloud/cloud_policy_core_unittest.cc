@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CloudPolicyCore unit tests
+// summary: Unit tests for CloudPolicyCore verifying connect and disconnect behavior, observer callbacks, and refresh scheduler startup.
+// ---
+
 #include "components/policy/core/common/cloud/cloud_policy_core.h"
 
 #include <memory>

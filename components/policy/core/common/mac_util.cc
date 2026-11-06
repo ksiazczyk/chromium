@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CFPropertyList to base::Value conversion utilities
+// summary: Converts CFPropertyListRef values such as dictionaries, arrays, numbers, strings and booleans into equivalent base::Value objects for Mac and iOS policy code.
+// ---
+
 #include "components/policy/core/common/mac_util.h"
 
 #include <memory>

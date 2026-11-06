@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine level user cloud policy manager unit tests
+// summary: Unit tests for MachineLevelUserCloudPolicyManager verifying initialization and policy removal using mock policy stores.
+// ---
+
 #include "components/policy/core/common/cloud/machine_level_user_cloud_policy_manager.h"
 
 #include <string>

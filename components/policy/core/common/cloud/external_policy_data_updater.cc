@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External policy data updater implementation
+// summary: Implements ExternalPolicyDataUpdater, which downloads external policy data, validates size and hash, and retries failures with exponential backoff.
+// ---
+
 #include "components/policy/core/common/cloud/external_policy_data_updater.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User policy metrics recorder unit tests
+// summary: Unit tests verifying that enterprise user policy count metrics are recorded correctly and only once per policy provider.
+// ---
+
 #include "components/policy/core/common/cloud/user_policy_metrics_recorder.h"
 
 #include "base/test/metrics/histogram_tester.h"

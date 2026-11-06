@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy path declarations
+// summary: Declares the kPolicyPath constant for the system-wide policy directory on POSIX platforms other than macOS.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_PATHS_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_PATHS_H_
 

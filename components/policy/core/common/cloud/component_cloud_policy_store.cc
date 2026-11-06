@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component cloud policy store implementation
+// summary: Implements validation and local caching of component policy protobufs and external policy data for extension and signin extension policy domains.
+// ---
+
 #include "components/policy/core/common/cloud/component_cloud_policy_store.h"
 
 #include <stddef.h>

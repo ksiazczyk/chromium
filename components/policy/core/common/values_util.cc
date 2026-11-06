@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy value utilities implementation
+// summary: Implements helpers that convert policy value lists to string sets, copy component policy maps, and compute hashes for base::Value policy values.
+// ---
+
 #include "components/policy/core/common/values_util.h"
 
 #include <functional>

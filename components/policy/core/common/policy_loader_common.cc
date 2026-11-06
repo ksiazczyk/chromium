@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common policy loader helpers
+// summary: Provides shared policy loading helpers that filter sensitive extension policies and record metrics for invalid policies.
+// ---
+
 #include "components/policy/core/common/policy_loader_common.h"
 
 #include <string>

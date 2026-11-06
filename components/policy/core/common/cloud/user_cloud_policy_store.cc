@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy store implementation
+// summary: Implements the user cloud policy store that persists user policies and signing keys to disk in the profile's Policy directory on desktop platforms.
+// ---
+
 #include "components/policy/core/common/cloud/user_cloud_policy_store.h"
 
 #include <stddef.h>

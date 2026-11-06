@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy map implementation
+// summary: Implements PolicyMap, which stores policy entries and computes priorities, conflicts, and localized messages for policies.
+// ---
+
 #include "components/policy/core/common/policy_map.h"
 
 #include <algorithm>

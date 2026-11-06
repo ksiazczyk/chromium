@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy command-line switch declarations
+// summary: Declares the policy-related command-line switch constants shared across the policy component.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_POLICY_SWITCHES_H_
 #define COMPONENTS_POLICY_CORE_COMMON_POLICY_SWITCHES_H_
 

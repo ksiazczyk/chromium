@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalDataFetcher class header
+// summary: Declares a helper that encapsulates the parameters needed to retrieve external data for a policy.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_EXTERNAL_DATA_FETCHER_H_
 #define COMPONENTS_POLICY_CORE_COMMON_EXTERNAL_DATA_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockPreferences class declaration
+// summary: Declares a mock MacPreferences subclass that lets tests add fake preference items with forced and machine-scope flags.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_PREFERENCES_MOCK_MAC_H_
 #define COMPONENTS_POLICY_CORE_COMMON_PREFERENCES_MOCK_MAC_H_
 

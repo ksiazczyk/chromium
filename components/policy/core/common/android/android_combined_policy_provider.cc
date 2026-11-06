@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android combined policy provider implementation
+// summary: Implements the native AndroidCombinedPolicyProvider, linking to the Java CombinedPolicyProvider via JNI and flushing converted policies into the policy system.
+// ---
+
 #include "components/policy/core/common/android/android_combined_policy_provider.h"
 
 #include <memory>

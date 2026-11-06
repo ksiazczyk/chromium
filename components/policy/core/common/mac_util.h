@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyToValue declaration for Mac and iOS
+// summary: Declares PropertyToValue, a utility shared by Mac OS X and iOS that converts a CFPropertyListRef into an equivalent base::Value.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_MAC_UTIL_H_
 #define COMPONENTS_POLICY_CORE_COMMON_MAC_UTIL_H_
 

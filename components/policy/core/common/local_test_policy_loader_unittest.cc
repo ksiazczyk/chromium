@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalTestPolicyLoader unit tests
+// summary: Unit tests verifying that LocalTestPolicyLoader parses JSON policies and produces entries with the expected level, scope, source and conflict handling.
+// ---
+
 #include "components/policy/core/common/local_test_policy_loader.h"
 
 #include <string>

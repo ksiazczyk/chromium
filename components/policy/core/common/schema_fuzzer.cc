@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Schema fuzzer
+// summary: Fuzzes Schema parsing, validation, normalization, and sensitive value masking against the Chrome policy schema.
+// ---
+
 #include "components/policy/core/common/schema.h"
 
 #include <stddef.h>

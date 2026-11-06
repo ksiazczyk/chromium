@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile cloud policy manager unit tests
+// summary: Unit tests for ProfileCloudPolicyManager covering policy loading, observer updates, and disconnect and removal behavior.
+// ---
+
 #include "components/policy/core/common/cloud/profile_cloud_policy_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy logger unit tests
+// summary: Tests PolicyLogger log collection, including feature gating, log count limits, and compression behavior.
+// ---
+
 #include "components/policy/core/common/policy_logger.h"
 
 #include "base/strings/strcat.h"

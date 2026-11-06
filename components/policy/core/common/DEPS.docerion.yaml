@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the policy core common directory
+summary: Declares which headers and modules files in this directory may include, allowing ChromeOS, signin, network and other dependencies.

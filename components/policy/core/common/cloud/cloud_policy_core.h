@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudPolicyCore class declaration
+// summary: Declares CloudPolicyCore, the glue between CloudPolicyClient, CloudPolicyStore, CloudPolicyService, and the refresh scheduler in a cloud policy system.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLOUD_POLICY_CORE_H_
 #define COMPONENTS_POLICY_CORE_COMMON_CLOUD_CLOUD_POLICY_CORE_H_
 
