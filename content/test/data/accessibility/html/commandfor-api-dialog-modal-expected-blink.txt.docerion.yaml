@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-dialog-modal-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for commandfor modal dialog test
+summary: Expected Blink accessibility tree snapshot for the commandfor API modal dialog test page, showing the dialog and its buttons with popup state.

@@ -1,0 +1,4 @@
+# Docerion header of combobox-item-visibility-expected-android-external.txt.
+type: test
+title: combobox item visibility expected Android external accessibility snapshot
+summary: Expected Android external accessibility tree for the combobox item visibility test showing a collapsed combo box button.

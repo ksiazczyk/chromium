@@ -1,0 +1,4 @@
+# Docerion header of custom-element-with-aria-owns-inside.html.
+type: test
+title: Custom element with aria-owns inside test page
+summary: HTML test page verifying that aria-owns only applies to rendered targets inside a custom element's shadow DOM.

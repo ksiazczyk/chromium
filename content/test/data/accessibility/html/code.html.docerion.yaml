@@ -1,0 +1,4 @@
+# Docerion header of code.html.
+type: test
+title: code element accessibility test page
+summary: HTML test page rendering a code element with sample computer code text for accessibility testing.

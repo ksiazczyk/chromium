@@ -1,0 +1,4 @@
+# Docerion header of cite-expected-blink.txt.
+type: test
+title: Cite element expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree for the cite element test with image, paragraph and static text nodes.

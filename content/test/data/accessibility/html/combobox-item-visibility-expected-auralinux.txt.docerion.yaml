@@ -1,0 +1,4 @@
+# Docerion header of combobox-item-visibility-expected-auralinux.txt.
+type: test
+title: combobox item visibility expected Aura Linux accessibility snapshot
+summary: Expected Aura Linux accessibility tree for the combobox item visibility test with selectable menu items.

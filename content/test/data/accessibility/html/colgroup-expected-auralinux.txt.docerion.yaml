@@ -1,0 +1,4 @@
+# Docerion header of colgroup-expected-auralinux.txt.
+type: test
+title: colgroup expected Auralinux accessibility snapshot
+summary: Expected Linux accessibility tree output for the colgroup table test page.

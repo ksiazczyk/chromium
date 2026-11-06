@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-with-selection-expected-win.txt.
+type: test
+title: Contenteditable descendants with selection expected Windows tree
+summary: Expected Windows IA2 accessibility tree for the contenteditable descendants with selection test, including roles, states, hypertext, caret offsets and selection ranges.

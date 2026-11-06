@@ -1,0 +1,4 @@
+# Docerion header of custom-select-img-alt-expected-auralinux.txt.
+type: test
+title: Custom select image alt text expected tree for Linux
+summary: Expected Linux accessibility tree snapshot for a custom select whose options contain images with and without alt text.

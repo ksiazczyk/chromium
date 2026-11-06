@@ -1,0 +1,4 @@
+# Docerion header of clickable-ancestor-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for clickable-ancestor test page
+summary: Expected Android accessibility tree for the clickable-ancestor test page covering clickable ancestor handling.

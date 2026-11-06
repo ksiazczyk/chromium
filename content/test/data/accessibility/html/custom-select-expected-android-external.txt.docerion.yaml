@@ -1,0 +1,4 @@
+# Docerion header of custom-select-expected-android-external.txt.
+type: test
+title: Expected Android external tree for custom select
+summary: Expected Android external accessibility tree for the custom select test.

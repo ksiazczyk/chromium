@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-dialog-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for commandfor API dialog test
+summary: Expected macOS accessibility tree snapshot for a page exercising the commandfor API with dialogs and buttons.

@@ -1,0 +1,4 @@
+# Docerion header of canvas-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows tree for canvas test
+summary: Expected UI Automation tree for the canvas test on Windows, with image elements containing static text fallback.

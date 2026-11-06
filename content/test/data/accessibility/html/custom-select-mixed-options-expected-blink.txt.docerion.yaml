@@ -1,0 +1,4 @@
+# Docerion header of custom-select-mixed-options-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for custom select with mixed options
+summary: Expected Blink internal accessibility tree snapshot for the custom select with mixed options test.

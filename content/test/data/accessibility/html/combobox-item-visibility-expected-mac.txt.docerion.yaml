@@ -1,0 +1,4 @@
+# Docerion header of combobox-item-visibility-expected-mac.txt.
+type: test
+title: Combobox item visibility expected accessibility tree for macOS
+summary: Expected macOS accessibility tree snapshot for the combobox item visibility test page.

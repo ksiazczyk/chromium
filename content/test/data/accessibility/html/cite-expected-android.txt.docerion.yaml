@@ -1,0 +1,4 @@
+# Docerion header of cite-expected-android.txt.
+type: test
+title: Cite element expected Android accessibility tree
+summary: Expected Android accessibility tree for the cite element test, containing a WebView with an image and a text view.

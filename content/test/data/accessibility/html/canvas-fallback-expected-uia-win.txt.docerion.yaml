@@ -1,0 +1,4 @@
+# Docerion header of canvas-fallback-expected-uia-win.txt.
+type: test
+title: Canvas fallback expected UIA Windows tree
+summary: Expected Windows UIA accessibility tree snapshot for the canvas fallback test, with document, image, group and text elements.

@@ -1,0 +1,4 @@
+# Docerion header of canvas-expected-win.txt.
+type: test
+title: Expected Windows IA2 tree for canvas test
+summary: Expected Windows MSAA/IA2 accessibility tree for the canvas test with canvas roles and static text children.

@@ -1,0 +1,4 @@
+# Docerion header of caption-expected-fuchsia.txt.
+type: test
+title: Caption test expected Fuchsia tree
+summary: Expected Fuchsia accessibility tree snapshot for the HTML table caption test page.

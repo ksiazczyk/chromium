@@ -1,0 +1,4 @@
+# Docerion header of col-expected-android-external.txt.
+type: test
+title: col element expected Android external accessibility output
+summary: Expected Android external accessibility output for the col test page, describing table rows, column headers and cells.

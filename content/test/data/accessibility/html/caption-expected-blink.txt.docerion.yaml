@@ -1,0 +1,4 @@
+# Docerion header of caption-expected-blink.txt.
+type: test
+title: Caption test expected Blink tree
+summary: Expected Blink internal accessibility tree snapshot for the HTML table caption test page.

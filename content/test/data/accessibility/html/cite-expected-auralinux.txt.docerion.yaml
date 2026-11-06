@@ -1,0 +1,4 @@
+# Docerion header of cite-expected-auralinux.txt.
+type: test
+title: Cite element expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the cite element test with image and paragraph nodes.

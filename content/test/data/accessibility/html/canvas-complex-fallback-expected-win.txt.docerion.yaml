@@ -1,0 +1,4 @@
+# Docerion header of canvas-complex-fallback-expected-win.txt.
+type: test
+title: Canvas complex fallback expected Win
+summary: Expected Windows MSAA/IA2 accessibility tree for the canvas-complex-fallback test with canvas, section, list and block quote roles.

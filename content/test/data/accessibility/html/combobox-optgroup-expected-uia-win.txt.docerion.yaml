@@ -1,0 +1,4 @@
+# Docerion header of combobox-optgroup-expected-uia-win.txt.
+type: test
+title: Combobox optgroup expected UIA Windows accessibility tree
+summary: Expected UIA accessibility tree snapshot for Windows for the combobox with optgroups test page, describing document, group and collapsed combo box nodes.

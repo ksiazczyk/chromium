@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for contenteditable-descendants
+summary: Expected Android accessibility tree snapshot listing widget roles and names for the contenteditable-descendants test page.

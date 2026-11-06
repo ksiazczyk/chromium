@@ -1,0 +1,4 @@
+# Docerion header of colgroup-expected-win.txt.
+type: test
+title: colgroup expected Windows accessibility snapshot
+summary: Expected Windows accessibility tree output for the colgroup HTML test, marked as skipped because the table columns are not mapped.

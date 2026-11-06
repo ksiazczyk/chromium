@@ -1,0 +1,4 @@
+# Docerion header of canvas-complex-fallback-expected-mac.txt.
+type: test
+title: Canvas complex fallback expected Mac
+summary: Expected macOS accessibility tree using AX roles for the canvas-complex-fallback test, covering canvas fallback content, lists and a blockquote.

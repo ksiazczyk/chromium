@@ -1,0 +1,4 @@
+# Docerion header of canvas-interactive-fallback-expected-android-assist-data.txt.
+type: test
+title: Interactive canvas fallback expected Android assist data
+summary: Expected Android assist data tree for the interactive canvas fallback test, showing canvas nodes containing link fallback content.

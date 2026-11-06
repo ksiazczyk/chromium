@@ -1,0 +1,4 @@
+# Docerion header of combobox-optgroup-expected-win.txt.
+type: test
+title: Combobox optgroup expected Windows accessibility tree
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the combobox with optgroups test page, describing the collapsed combobox role.

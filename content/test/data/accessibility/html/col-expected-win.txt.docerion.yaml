@@ -1,0 +1,4 @@
+# Docerion header of col-expected-win.txt.
+type: test
+title: col expected Win accessibility snapshot
+summary: Expected Windows accessibility output for the col table test, containing only a skip marker because the case is not mapped.

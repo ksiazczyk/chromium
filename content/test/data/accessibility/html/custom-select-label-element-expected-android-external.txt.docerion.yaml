@@ -1,0 +1,4 @@
+# Docerion header of custom-select-label-element-expected-android-external.txt.
+type: test
+title: Expected Android external tree for custom select label element
+summary: Expected Android external accessibility tree for the custom select label element test, showing a WebView with label text and a labelled combo box.

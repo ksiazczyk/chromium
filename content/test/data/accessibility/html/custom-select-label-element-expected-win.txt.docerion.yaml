@@ -1,0 +1,4 @@
+# Docerion header of custom-select-label-element-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for custom select with label element
+summary: Expected Windows accessibility tree snapshot verifying a custom select associated with a label element.

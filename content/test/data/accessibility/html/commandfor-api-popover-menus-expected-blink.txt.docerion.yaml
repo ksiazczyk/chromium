@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-popover-menus-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for commandfor-api-popover-menus test
+summary: Expected Blink internal accessibility tree snapshot for the commandfor-api-popover-menus test, showing pop up buttons, menu bars, menus and submenu items.

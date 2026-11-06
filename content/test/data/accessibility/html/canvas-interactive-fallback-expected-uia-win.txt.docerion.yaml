@@ -1,0 +1,4 @@
+# Docerion header of canvas-interactive-fallback-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for canvas-interactive-fallback
+summary: Expected Windows UIA accessibility output for the canvas interactive fallback test, showing hyperlink and text elements under image and group nodes.

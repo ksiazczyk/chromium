@@ -1,0 +1,4 @@
+# Docerion header of canvas-complex-fallback-expected-android-external.txt.
+type: test
+title: Canvas complex fallback expected Android external
+summary: Expected Android external-format accessibility tree for the canvas-complex-fallback test, describing canvas nodes, lists, list markers and blockquote fallback content.

@@ -1,0 +1,4 @@
+# Docerion header of caption-expected-mac.txt.
+type: test
+title: Caption test expected macOS tree
+summary: Expected macOS AX accessibility tree snapshot for the HTML table caption test page.

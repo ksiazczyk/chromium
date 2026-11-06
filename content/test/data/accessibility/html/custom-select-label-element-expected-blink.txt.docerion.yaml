@@ -1,0 +1,4 @@
+# Docerion header of custom-select-label-element-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for custom select label element
+summary: Expected Blink accessibility tree for the custom select label element test, showing label text and a collapsed combo box with two options.

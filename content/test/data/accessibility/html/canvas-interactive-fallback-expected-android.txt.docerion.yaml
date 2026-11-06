@@ -1,0 +1,4 @@
+# Docerion header of canvas-interactive-fallback-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for canvas-interactive-fallback
+summary: Expected Android accessibility output for the canvas interactive fallback test, listing the WebView view hierarchy with link and text nodes.

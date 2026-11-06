@@ -1,0 +1,4 @@
+# Docerion header of code-expected-mac.txt.
+type: test
+title: Code element expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the code element test, mapping the code element to an AXCodeStyleGroup with static text.

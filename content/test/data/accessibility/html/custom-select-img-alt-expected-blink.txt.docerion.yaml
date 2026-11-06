@@ -1,0 +1,4 @@
+# Docerion header of custom-select-img-alt-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for custom select img alt
+summary: Expected Blink accessibility tree snapshot for the custom select image alt test, listing menu list options whose images have and lack alt text.

@@ -1,0 +1,4 @@
+# Docerion header of colgroup-expected-android.txt.
+type: test
+title: colgroup expected Android snapshot
+summary: Expected Android accessibility output for the colgroup test, containing only a skip marker because the case is not mapped.

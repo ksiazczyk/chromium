@@ -1,0 +1,4 @@
+# Docerion header of combobox-with-redundant-aria-role-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for combobox with redundant ARIA role
+summary: Expected macOS accessibility tree snapshot for a select element carrying a redundant role='combobox' attribute.

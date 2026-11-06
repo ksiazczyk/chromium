@@ -1,0 +1,4 @@
+# Docerion header of canvas-interactive-fallback-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for canvas-interactive-fallback
+summary: Expected macOS accessibility output for the canvas interactive fallback test, showing AXLink and AXStaticText nodes inside AXGroup containers.

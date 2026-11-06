@@ -1,0 +1,4 @@
+# Docerion header of canvas-complex-fallback-expected-blink.txt.
+type: test
+title: Canvas complex fallback expected Blink
+summary: Expected Blink internal accessibility tree for the canvas-complex-fallback test, including list markers, hierarchical levels and inline text boxes.

@@ -1,0 +1,4 @@
+# Docerion header of colgroup-expected-mac.txt.
+type: test
+title: colgroup expected Mac snapshot
+summary: Expected macOS accessibility output for the colgroup test, containing only a skip marker because the case is not mapped.

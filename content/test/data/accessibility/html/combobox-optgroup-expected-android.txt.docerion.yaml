@@ -1,0 +1,4 @@
+# Docerion header of combobox-optgroup-expected-android.txt.
+type: test
+title: Combobox optgroup expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the combobox optgroup test page with grouped select options.

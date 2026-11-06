@@ -1,0 +1,4 @@
+# Docerion header of custom-element-with-aria-owns-outside-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-owns outside custom element
+summary: Expected accessibility tree snapshot for the aria-owns outside custom element test on Blink.

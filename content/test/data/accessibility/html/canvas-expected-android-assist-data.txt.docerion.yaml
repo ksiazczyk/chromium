@@ -1,0 +1,4 @@
+# Docerion header of canvas-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for canvas test
+summary: Expected Android assist-data accessibility snapshot for the canvas test, showing canvas elements with static and interactive fallback text.

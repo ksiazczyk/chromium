@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-no-descendants-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for contenteditable with no descendants
+summary: Expected Android accessibility tree for the contenteditable-with-no-descendants test, with editable text fields and a description text view.

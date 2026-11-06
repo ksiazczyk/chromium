@@ -1,0 +1,4 @@
+# Docerion header of canvas-fallback-expected-android-external.txt.
+type: test
+title: Canvas fallback expected Android external tree
+summary: Expected Android accessibility tree in external format for the canvas fallback test, listing canvas nodes and fallback paragraphs with aria-hidden and visibility-hidden hints.

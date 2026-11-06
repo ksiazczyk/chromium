@@ -1,0 +1,4 @@
+# Docerion header of character-locations-expected-android.txt.
+type: test
+title: Character locations expected Android accessibility tree
+summary: Expected Android accessibility tree dump for the character-locations test page, marking nodes that expose character locations.

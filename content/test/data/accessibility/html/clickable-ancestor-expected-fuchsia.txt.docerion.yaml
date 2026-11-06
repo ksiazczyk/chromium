@@ -1,0 +1,4 @@
+# Docerion header of clickable-ancestor-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for clickable-ancestor test page
+summary: Expected Fuchsia accessibility tree for the clickable-ancestor test page on nodes marked as clickable.

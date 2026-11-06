@@ -1,0 +1,4 @@
+# Docerion header of col-expected-blink.txt.
+type: test
+title: col element expected Blink accessibility tree output
+summary: Expected Blink accessibility tree for the col test page, showing the table, rows, column headers and cells.

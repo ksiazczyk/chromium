@@ -1,0 +1,4 @@
+# Docerion header of canvas-expected-blink.txt.
+type: test
+title: Expected Blink tree for canvas test
+summary: Expected Blink accessibility tree for the canvas test showing canvas nodes with static text fallback.

@@ -1,0 +1,4 @@
+# Docerion header of container-with-generic-descendants-and-name-expected-android-external.txt.
+type: test
+title: Container with generic descendants and name expected Android external snapshot
+summary: Expected Android external accessibility tree snapshot for the container-with-generic-descendants-and-name test page.

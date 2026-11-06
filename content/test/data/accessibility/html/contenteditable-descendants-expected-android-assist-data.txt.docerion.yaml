@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data tree for contenteditable-descendants
+summary: Expected Android assist-data accessibility tree snapshot for the contenteditable-descendants HTML accessibility test page.

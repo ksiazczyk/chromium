@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-spans-expected-blink.txt.
+type: test
+title: Contenteditable spans expected Blink tree
+summary: Expected Blink accessibility tree for a contenteditable region containing spans across two paragraphs.

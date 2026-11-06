@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for contenteditable-descendants
+summary: Expected Fuchsia accessibility tree snapshot for the contenteditable-descendants test page.

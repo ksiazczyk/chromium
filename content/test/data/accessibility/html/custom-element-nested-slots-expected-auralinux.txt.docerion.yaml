@@ -1,0 +1,4 @@
+# Docerion header of custom-element-nested-slots-expected-auralinux.txt.
+type: test
+title: Custom element nested slots expected auralinux accessibility tree
+summary: Expected Linux accessibility tree for the custom element nested slots test, showing a static text node containing the slot contents.

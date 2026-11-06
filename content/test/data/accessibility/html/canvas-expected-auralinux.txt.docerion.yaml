@@ -1,0 +1,4 @@
+# Docerion header of canvas-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux tree for canvas test
+summary: Expected Aura Linux accessibility tree for the canvas test with canvas nodes and static fallback text.

@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-no-descendants-expected-uia-win.txt.
+type: test
+title: Contenteditable with no descendants expected output for UIA on Windows
+summary: Expected UIA accessibility tree for the contenteditable-with-no-descendants test on Windows, with groups named label and title plus a text element.

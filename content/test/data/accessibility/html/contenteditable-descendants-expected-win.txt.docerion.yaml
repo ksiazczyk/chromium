@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for contenteditable-descendants
+summary: Expected Windows IA2 accessibility tree snapshot for the contenteditable-descendants test page.

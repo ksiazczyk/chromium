@@ -1,0 +1,4 @@
+# Docerion header of combobox-optgroup-expected-android-external.txt.
+type: test
+title: Combobox optgroup expected Android external tree
+summary: Expected Android accessibility tree in external format for the combobox optgroup test page.

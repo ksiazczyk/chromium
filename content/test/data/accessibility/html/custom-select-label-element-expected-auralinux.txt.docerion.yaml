@@ -1,0 +1,4 @@
+# Docerion header of custom-select-label-element-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for custom select label element
+summary: Expected Linux accessibility tree for the custom select label element test, showing a label associated with a combo box and its menu items.

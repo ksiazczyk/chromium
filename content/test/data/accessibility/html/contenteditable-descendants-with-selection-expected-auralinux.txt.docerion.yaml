@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-with-selection-expected-auralinux.txt.
+type: test
+title: Contenteditable descendants with selection expected Aura Linux tree
+summary: Expected Aura Linux accessibility tree for the contenteditable descendants with selection test, listing editable document, section, paragraph, link, table and list nodes with selection offsets.

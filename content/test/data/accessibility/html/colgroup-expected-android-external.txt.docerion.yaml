@@ -1,0 +1,4 @@
+# Docerion header of colgroup-expected-android-external.txt.
+type: test
+title: colgroup expected Android external snapshot
+summary: Expected Android external accessibility tree output for the colgroup table test page.

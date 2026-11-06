@@ -1,0 +1,4 @@
+# Docerion header of clickable-score.html.
+type: test
+title: Clickable score HTML test page
+summary: HTML fixture with buttons and divs using onclick and role=button to test how clickable elements are exposed to accessibility trees.

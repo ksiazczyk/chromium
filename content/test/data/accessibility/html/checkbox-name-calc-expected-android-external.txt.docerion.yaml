@@ -1,0 +1,4 @@
+# Docerion header of checkbox-name-calc-expected-android-external.txt.
+type: test
+title: Checkbox name calculation expected Android external snapshot
+summary: Expected Android external accessibility snapshot for the checkbox name calculation test page, describing checkbox names, hints and actions.

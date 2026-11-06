@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-font-size-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for contenteditable font size test
+summary: Expected Blink accessibility tree output for the contenteditable font size test, showing inline text boxes and next/previous on-line ordering.

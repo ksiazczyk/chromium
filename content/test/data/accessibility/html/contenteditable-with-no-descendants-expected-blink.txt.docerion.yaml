@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-no-descendants-expected-blink.txt.
+type: test
+title: Contenteditable with no descendants expected output for Blink
+summary: Expected Blink accessibility tree for the contenteditable-with-no-descendants test, listing editable generic containers and a paragraph with static text.

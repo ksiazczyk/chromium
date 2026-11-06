@@ -1,0 +1,4 @@
+# Docerion header of custom-element-hidden-expected-blink.txt.
+type: test
+title: Custom element hidden expected tree for Blink
+summary: Expected Blink accessibility tree snapshot for the hidden custom element test.

@@ -1,0 +1,4 @@
+# Docerion header of custom-select-img-alt.html.
+type: test
+title: Custom select img alt test page
+summary: HTML test page rendering a customizable select element whose options contain images with and without alt text, for accessibility tree verification.

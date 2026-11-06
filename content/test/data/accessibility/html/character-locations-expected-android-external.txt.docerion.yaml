@@ -1,0 +1,4 @@
+# Docerion header of character-locations-expected-android-external.txt.
+type: test
+title: Character locations expected Android external snapshot
+summary: Expected Android external accessibility snapshot for the character-locations test page, describing roles, actions and bundle metadata for each node.

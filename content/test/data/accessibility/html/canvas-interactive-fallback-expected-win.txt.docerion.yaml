@@ -1,0 +1,4 @@
+# Docerion header of canvas-interactive-fallback-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for canvas-interactive-fallback
+summary: Expected Windows MSAA and IAccessible2 accessibility output for the canvas interactive fallback test, showing canvas, link and static text roles.

@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for contenteditable-descendants
+summary: Expected macOS accessibility tree snapshot with AX roles and values for the contenteditable-descendants test page.

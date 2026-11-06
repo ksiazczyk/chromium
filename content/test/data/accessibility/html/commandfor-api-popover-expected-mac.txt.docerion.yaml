@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-popover-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for commandfor-api-popover test
+summary: Expected macOS accessibility tree snapshot for the commandfor-api-popover test, listing buttons with show, hide and toggle popover actions and their expanded states.

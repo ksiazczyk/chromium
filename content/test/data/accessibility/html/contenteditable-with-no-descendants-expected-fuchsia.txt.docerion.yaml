@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-no-descendants-expected-fuchsia.txt.
+type: test
+title: Contenteditable with no descendants expected output for Fuchsia
+summary: Expected Fuchsia accessibility tree for the contenteditable-with-no-descendants test, with focusable nodes carrying labels and a paragraph of static text.

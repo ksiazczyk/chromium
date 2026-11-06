@@ -1,0 +1,4 @@
+# Docerion header of custom-select-label-element-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for custom select label element
+summary: Expected Fuchsia accessibility tree for the custom select label element test, showing static label text and a combo box with selectable options.

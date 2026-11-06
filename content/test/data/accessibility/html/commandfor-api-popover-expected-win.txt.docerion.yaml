@@ -1,0 +1,4 @@
+# Docerion header of commandfor-api-popover-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for commandfor-api-popover test
+summary: Expected Windows MSAA and IAccessible2 accessibility tree snapshot for the commandfor-api-popover test, including details-from:command-for popover attributes.

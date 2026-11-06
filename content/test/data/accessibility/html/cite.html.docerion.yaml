@@ -1,0 +1,4 @@
+# Docerion header of cite.html.
+type: test
+title: HTML test page for cite element accessibility
+summary: HTML test page containing an image and a cite element used for accessibility tree testing.

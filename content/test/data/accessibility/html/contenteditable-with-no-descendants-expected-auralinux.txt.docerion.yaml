@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-no-descendants-expected-auralinux.txt.
+type: test
+title: Contenteditable with no descendants expected output for Aura Linux
+summary: Expected accessibility tree snapshot for the contenteditable-with-no-descendants test on Aura Linux, showing editable sections with label, description and title names.

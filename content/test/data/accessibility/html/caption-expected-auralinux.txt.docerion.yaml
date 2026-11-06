@@ -1,0 +1,4 @@
+# Docerion header of caption-expected-auralinux.txt.
+type: test
+title: Caption test expected Linux tree
+summary: Expected Linux accessibility tree snapshot for the HTML table caption test page.

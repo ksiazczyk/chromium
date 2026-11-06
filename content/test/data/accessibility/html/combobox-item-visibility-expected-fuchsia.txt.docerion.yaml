@@ -1,0 +1,4 @@
+# Docerion header of combobox-item-visibility-expected-fuchsia.txt.
+type: test
+title: Combobox item visibility expected accessibility tree for Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the combobox item visibility test page with hidden select options.

@@ -1,0 +1,4 @@
+# Docerion header of combobox-optgroup-expected-fuchsia.txt.
+type: test
+title: Combobox optgroup expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the combobox with optgroups test page, showing hidden and focusable nodes with labels and actions.

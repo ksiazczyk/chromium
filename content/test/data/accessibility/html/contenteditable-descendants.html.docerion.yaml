@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-descendants.html.
+type: test
+title: Contenteditable descendants test page
+summary: HTML test page with a contenteditable containing a paragraph, table and ordered list alongside non-editable paragraphs, annotated with platform-specific accessibility allowances.

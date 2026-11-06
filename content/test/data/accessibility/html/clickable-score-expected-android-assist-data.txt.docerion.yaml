@@ -1,0 +1,4 @@
+# Docerion header of clickable-score-expected-android-assist-data.txt.
+type: test
+title: Clickable score expected Android assist data
+summary: Expected Android assist-data accessibility tree for the clickable-score HTML test, listing buttons and views with their clickable score values.

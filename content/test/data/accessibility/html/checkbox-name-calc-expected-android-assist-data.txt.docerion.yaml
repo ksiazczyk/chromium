@@ -1,0 +1,4 @@
+# Docerion header of checkbox-name-calc-expected-android-assist-data.txt.
+type: test
+title: Checkbox name calculation expected Android assist data
+summary: Expected Android assist-data snapshot for the checkbox name calculation test, showing how titles, labels and ARIA attributes map to accessible names.

@@ -1,0 +1,4 @@
+# Docerion header of custom-select-mixed-options-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for custom select with mixed options
+summary: Expected Linux AT-SPI accessibility tree snapshot for the custom select with mixed options test page.

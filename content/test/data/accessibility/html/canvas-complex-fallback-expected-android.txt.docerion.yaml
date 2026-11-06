@@ -1,0 +1,4 @@
+# Docerion header of canvas-complex-fallback-expected-android.txt.
+type: test
+title: Canvas complex fallback expected Android
+summary: Expected Android accessibility tree dump for the canvas-complex-fallback test, covering canvas fallback content with lists and a blockquote.

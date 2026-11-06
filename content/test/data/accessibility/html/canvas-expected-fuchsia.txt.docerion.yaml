@@ -1,0 +1,4 @@
+# Docerion header of canvas-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia tree for canvas test
+summary: Expected Fuchsia accessibility tree for the canvas test with static text labels inside unknown-role nodes.

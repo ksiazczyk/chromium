@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-with-embedded-contenteditables-expected-android.txt.
+type: test
+title: Contenteditable with embedded contenteditables expected Android tree
+summary: Expected Android accessibility tree snapshot for a page mixing editable and non-editable content with nested contenteditable paragraphs.

@@ -1,0 +1,4 @@
+# Docerion header of code-expected-android.txt.
+type: test
+title: Code element expected Android skip marker
+summary: Placeholder expectation marking the Android code element test as skipped because the element has no accessible object.

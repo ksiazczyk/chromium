@@ -1,0 +1,4 @@
+# Docerion header of contenteditable-on-disallowed-element-expected-uia-win.txt.
+type: test
+title: Contenteditable on disallowed element expected UIA Windows tree
+summary: Expected UIA accessibility tree snapshot on Windows for the contenteditable-on-disallowed-element test page.

@@ -1,0 +1,4 @@
+# Docerion header of canvas-interactive-fallback-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility tree for canvas-interactive-fallback
+summary: Expected Auralinux accessibility output for the canvas interactive fallback test, showing document, canvas, link and static nodes.

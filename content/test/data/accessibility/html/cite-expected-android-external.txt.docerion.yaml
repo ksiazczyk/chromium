@@ -1,0 +1,4 @@
+# Docerion header of cite-expected-android-external.txt.
+type: test
+title: Cite element expected external Android accessibility tree
+summary: Expected external Android accessibility tree for the cite element test with image and paragraph nodes.
