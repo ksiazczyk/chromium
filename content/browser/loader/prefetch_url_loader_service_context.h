@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchURLLoaderServiceContext class declaration
+// summary: Declares the context holding data and functions to handle link rel=prefetch requests, including test callbacks and throttles.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_PREFETCH_URL_LOADER_SERVICE_CONTEXT_H_
 #define CONTENT_BROWSER_LOADER_PREFETCH_URL_LOADER_SERVICE_CONTEXT_H_
 

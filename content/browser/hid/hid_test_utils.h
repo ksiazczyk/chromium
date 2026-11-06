@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID test utilities declarations
+// summary: Declares MockHidDelegate and HidTestContentBrowserClient used to simulate HID device permissions and chooser behavior in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_HID_HID_TEST_UTILS_H_
 #define CONTENT_BROWSER_HID_HID_TEST_UTILS_H_
 

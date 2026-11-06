@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleManagerImpl class declaration
+// summary: Declares the IdleManagerImpl class implementing the blink.mojom.IdleManager interface with permission subscriptions and monitor tracking.
+// ---
+
 #ifndef CONTENT_BROWSER_IDLE_IDLE_MANAGER_IMPL_H_
 #define CONTENT_BROWSER_IDLE_IDLE_MANAGER_IMPL_H_
 

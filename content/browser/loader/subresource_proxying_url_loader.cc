@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceProxyingURLLoader implementation
+// summary: Implements a URLLoader that proxies subresource requests through a network loader factory while running request and response interceptors and forwarding client events.
+// ---
+
 #include "content/browser/loader/subresource_proxying_url_loader.h"
 
 #include "mojo/public/cpp/bindings/message.h"

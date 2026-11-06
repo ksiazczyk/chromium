@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedCorsOriginAccessListImpl class declaration
+// summary: Declares SharedCorsOriginAccessListImpl, the implementation of the shared CORS origin access list wrapping a network OriginAccessList.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_SHARED_CORS_ORIGIN_ACCESS_LIST_IMPL_H_
 #define CONTENT_BROWSER_LOADER_SHARED_CORS_ORIGIN_ACCESS_LIST_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob endpoint interface for IndexedDB blobs
+// summary: Defines a common interface for objects that serve IndexedDB blobs to the renderer and track active blob connections for backing stores.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_BLOB_ENDPOINT_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_BLOB_ENDPOINT_H_
 

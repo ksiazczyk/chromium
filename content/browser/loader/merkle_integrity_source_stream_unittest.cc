@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MerkleIntegritySourceStream unit tests
+// summary: Parameterized unit tests for MerkleIntegritySourceStream covering empty, single and multiple record payloads across buffer sizes and read modes.
+// ---
+
 #include "content/browser/loader/merkle_integrity_source_stream.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB internals WebUI controller header
+// summary: Declares the IndexedDBInternalsUI WebUI controller and its config class, with handlers for bucket queries, downloads, force-close, metadata recording, and client inspection.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_INTERNALS_UI_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_INTERNALS_UI_H_
 

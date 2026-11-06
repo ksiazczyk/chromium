@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationURLLoaderDelegate EarlyHints definitions
+// summary: Defines constructors, destructors, and move operators for the delegate's EarlyHints struct conveying Early Hints response information.
+// ---
+
 #include "content/browser/loader/navigation_url_loader_delegate.h"
 
 #include "content/browser/loader/navigation_early_hints_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB external object storage header
+// summary: Declares the external object change record and callbacks for serializing File System Access handles and reporting blob cleanup.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_EXTERNAL_OBJECT_STORAGE_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_EXTERNAL_OBJECT_STORAGE_H_
 

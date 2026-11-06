@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backing store implementation for SQLite
+// summary: Implements the SQLite-backed IndexedDB backing store, managing open database connections, size estimation, idle maintenance, and migration from LevelDB.
+// ---
+
 #include "content/browser/indexed_db/instance/sqlite/backing_store_impl.h"
 
 #include <inttypes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSecurityNotifier implementation
+// summary: Implements notifications about certificate errors and insecure content, forwarding them from a renderer document to the corresponding RenderFrameHost.
+// ---
+
 #include "content/browser/loader/content_security_notifier.h"
 
 #include "content/browser/renderer_host/render_frame_host_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackingStore pre-close task queue
+// summary: Declares a queue of tasks run after a backing store has no connections left, including a metadata fetcher and a per-task RunRound interface.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_BACKING_STORE_PRE_CLOSE_TASK_QUEUE_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_BACKING_STORE_PRE_CLOSE_TASK_QUEUE_H_
 

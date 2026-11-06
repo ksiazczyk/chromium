@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Keep-alive request browser test utilities implementation
+// summary: Implements KeepAliveRequestBrowserTestBase, providing HTTPS test server setup, request handlers, and redirect URL helpers for keep-alive fetch tests.
+// ---
+
 #include "content/browser/loader/keep_alive_request_browsertest_util.h"
 
 #include "base/no_destructor.h"

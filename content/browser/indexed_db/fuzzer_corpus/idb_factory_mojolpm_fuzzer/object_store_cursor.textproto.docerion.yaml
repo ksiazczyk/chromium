@@ -1,0 +1,4 @@
+# Docerion header of object_store_cursor.textproto.
+type: data
+title: Object store cursor corpus for IDBFactory MojoLPM fuzzer
+summary: Fuzzer corpus input driving object store cursor continue, advance, prefetch, and prefetch-reset operations over stored records.

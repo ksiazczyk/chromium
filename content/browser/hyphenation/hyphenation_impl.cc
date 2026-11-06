@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side hyphenation service implementation
+// summary: Implements the browser-side Hyphenation mojo service that opens locale-specific hyphenation dictionary files on a dedicated sequenced task runner.
+// ---
+
 #include "content/browser/hyphenation/hyphenation_impl.h"
 
 #include <algorithm>

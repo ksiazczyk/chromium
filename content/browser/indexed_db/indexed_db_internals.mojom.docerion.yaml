@@ -1,0 +1,4 @@
+# Docerion header of indexed_db_internals.mojom.
+type: source
+title: IndexedDB internals Mojo interface
+summary: Defines the Mojo interface used by the IndexedDB internals page to list bucket metadata, download or force-close database data, record metadata sessions, and inspect clients.

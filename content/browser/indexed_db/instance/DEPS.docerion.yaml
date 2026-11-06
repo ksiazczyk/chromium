@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: IndexedDB instance DEPS include rules
+summary: Restricts includes in the instance directory, forbidding direct use of IndexedDBContextImpl and LevelDB internals except through BucketContext.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Web Haptics service security checks
+// summary: Browser tests that bind the haptics service directly with a mock manager to verify permissions policy, fenced frame, and user activation enforcement against a compromised renderer.
+// ---
+
 #include "content/browser/haptics/haptics_service_impl.h"
 
 #include <memory>

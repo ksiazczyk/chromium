@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image capture implementation unit tests
+// summary: Tests SetPhotoOptions behavior in ImageCaptureImpl, covering default settings, hidden page visibility, and pan-tilt-zoom permission handling.
+// ---
+
 #include "content/browser/image_capture/image_capture_impl.h"
 
 #include "base/test/test_future.h"

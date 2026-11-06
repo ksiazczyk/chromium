@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Keep-alive request browser test base class header
+// summary: Declares KeepAliveRequestBrowserTestBase, a base class with constants and helpers for testing fetch keep-alive requests in content browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_KEEP_ALIVE_REQUEST_BROWSERTEST_UTIL_H_
 #define CONTENT_BROWSER_LOADER_KEEP_ALIVE_REQUEST_BROWSERTEST_UTIL_H_
 

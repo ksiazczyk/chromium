@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchRelatedWebAppsTask implementation
+// summary: Implements FetchRelatedWebAppsTask, which queries installed web apps by manifest ID for related applications on the webapp platform.
+// ---
+
 #include "content/browser/installedapp/fetch_related_web_apps_task.h"
 
 #include <memory>

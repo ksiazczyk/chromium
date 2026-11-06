@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB tombstone sweeper implementation
+// summary: Implements LevelDbTombstoneSweeper, which iterates the IndexedDB LevelDB database in randomized rounds to find and delete stale index tombstones, reporting metrics.
+// ---
+
 #include "content/browser/indexed_db/instance/leveldb/tombstone_sweeper.h"
 
 #include <string>

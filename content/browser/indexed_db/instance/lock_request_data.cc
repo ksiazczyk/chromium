@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock request data implementation
+// summary: Implements the LockRequestData constructor and its user-data key, carrying client token and scheduling priority for connection and transaction lock requests.
+// ---
+
 #include "content/browser/indexed_db/instance/lock_request_data.h"
 
 namespace content::indexed_db {

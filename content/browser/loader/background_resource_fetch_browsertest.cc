@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background resource fetch browser tests
+// summary: Browser tests verifying that the BackgroundResourceFetch feature loads scripts and fonts, including WebUI support and cache-aware loading behavior.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/web_contents/web_contents_impl.h"

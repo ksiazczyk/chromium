@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchURLLoaderServiceContext implementation
+// summary: Implements the service context that creates prefetch loaders and manages recursive prefetch tokens and isolation info.
+// ---
+
 #include "content/browser/loader/prefetch_url_loader_service_context.h"
 
 #include "base/metrics/histogram_functions.h"

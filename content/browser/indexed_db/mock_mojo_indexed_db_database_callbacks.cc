@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Mojo IndexedDB database callbacks implementation
+// summary: Implements MockMojoDatabaseCallbacks, a gmock mock of the Mojo IDBDatabaseCallbacks interface that binds receivers and supports flushing for testing.
+// ---
+
 #include "content/browser/indexed_db/mock_mojo_indexed_db_database_callbacks.h"
 
 namespace content::indexed_db {

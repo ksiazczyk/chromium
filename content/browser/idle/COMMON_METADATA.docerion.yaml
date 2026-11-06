@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the idle browser directory
+summary: Chromium metadata file that sets the fugu-dev team email as the contact for the idle browser directory.

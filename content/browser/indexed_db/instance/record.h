@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB record class declarations
+// summary: Declares the Record base class plus object store and index record variants used to represent IndexedDB records and their keys and values.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_RECORD_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_RECORD_H_
 

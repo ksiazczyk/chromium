@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWinAppFetcherImpl class declaration
+// summary: Declares NativeWinAppFetcherImpl, the NativeWinAppFetcher implementation that queries Windows app URI handlers for a URL and reports results via a callback.
+// ---
+
 #ifndef CONTENT_BROWSER_INSTALLEDAPP_NATIVE_WIN_APP_FETCHER_IMPL_H_
 #define CONTENT_BROWSER_INSTALLEDAPP_NATIVE_WIN_APP_FETCHER_IMPL_H_
 

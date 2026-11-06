@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB file path utilities implementation
+// summary: Implements helpers that compute IndexedDB storage file and directory paths for buckets, including legacy first-party paths and SQLite database file names.
+// ---
+
 #include "content/browser/indexed_db/file_path_util.h"
 
 #include <inttypes.h>

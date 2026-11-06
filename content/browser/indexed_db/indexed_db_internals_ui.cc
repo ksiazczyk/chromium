@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB internals WebUI controller implementation
+// summary: Implements the WebUI controller for the browser's IndexedDB internals page, handling bucket listing, data downloads, force-close, metadata recording, and DevTools client inspection.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_internals_ui.h"
 
 #include <cstdint>

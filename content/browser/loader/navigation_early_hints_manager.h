@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationEarlyHintsManager class header
+// summary: Declares NavigationEarlyHintsManager, which handles 103 Early Hints responses for navigations by preloading and preconnecting hinted resources.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_NAVIGATION_EARLY_HINTS_MANAGER_H_
 #define CONTENT_BROWSER_LOADER_NAVIGATION_EARLY_HINTS_MANAGER_H_
 

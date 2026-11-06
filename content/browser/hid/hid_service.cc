@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidService implementation
+// summary: Implements the browser-side HidService handling WebHID device access, permissions, connections, and forget requests for documents and service workers.
+// ---
+
 #include "content/browser/hid/hid_service.h"
 
 #include <algorithm>

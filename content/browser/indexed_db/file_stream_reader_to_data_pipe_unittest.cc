@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File stream reader to data pipe unit tests
+// summary: Unit tests for copying data from a file stream reader into a Mojo data pipe, verifying that the bytes read match the contents of temporary test files.
+// ---
+
 #include "content/browser/indexed_db/file_stream_reader_to_data_pipe.h"
 
 #include <vector>

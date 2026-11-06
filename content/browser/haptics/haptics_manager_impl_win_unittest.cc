@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows haptics manager with fake WinRT statics
+// summary: Exercises HapticsManagerImplWin against fake WinRT controllers, feedback views, and waveform statics so the WinRT code paths run without real hardware.
+// ---
+
 #include "content/browser/haptics/haptics_manager_impl_win.h"
 
 #include <windows.devices.haptics.h>

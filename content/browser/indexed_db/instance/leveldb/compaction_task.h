@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB compaction task declaration
+// summary: Declares IndexedDBCompactionTask, a pre-close task that compacts the LevelDB database before shutdown.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_COMPACTION_TASK_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_COMPACTION_TASK_H_
 

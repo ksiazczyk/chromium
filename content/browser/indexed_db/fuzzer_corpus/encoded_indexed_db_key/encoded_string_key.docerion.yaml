@@ -1,0 +1,4 @@
+# Docerion header of encoded_string_key.
+type: data
+title: Encoded IndexedDB string key fuzzer corpus file
+summary: Empty fuzzer corpus file representing an encoded IndexedDB string key used as fuzzing input.

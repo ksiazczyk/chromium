@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB transaction implementation
+// summary: Implements the browser-side IndexedDB transaction, including task scheduling, commit and abort handling, lock coordination, and UMA exception metrics.
+// ---
+
 #include "content/browser/indexed_db/instance/transaction.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending IndexedDB connection tracking
+// summary: Implements PendingConnection, which holds version-change connection state and tracks process-wide pending connection counts with a high-count histogram metric.
+// ---
+
 #include "content/browser/indexed_db/instance/pending_connection.h"
 
 #include <atomic>

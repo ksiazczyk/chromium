@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob writer implementation for SQLite IndexedDB backing store
+// summary: Implements BlobWriter, which streams blob data from a mojo data pipe into SQLite streaming blob chunks and asynchronously reports completion or failure to the caller.
+// ---
+
 #include "content/browser/indexed_db/instance/sqlite/blob_writer.h"
 
 #include <tuple>

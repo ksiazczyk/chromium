@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BucketContext unit tests
+// summary: Unit tests for BucketContext covering disk space quota checks, request coalescing, and usage size histogram recording.
+// ---
+
 #include "content/browser/indexed_db/instance/bucket_context.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection allowlist browser tests
+// summary: Browser tests covering Connection-Allowlist header enforcement and reporting across navigations, prefetch, prerender, WebID and related flows.
+// ---
+
 #include "services/network/public/cpp/connection_allowlist.h"
 
 #include <memory>

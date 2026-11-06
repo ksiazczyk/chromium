@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation Fast Fetch manager implementation
+// summary: Implements NavigationFastFetchManager, which checks navigation eligibility for the Fast Fetch dry run and records metrics about potential prefetch benefit.
+// ---
+
 #include "content/browser/loader/navigation_fast_fetch_manager.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Backing store test base class
+// summary: Declares a shared test fixture providing transactions, locks, object stores, blob helpers, and migration verification for backing store tests.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_BACKING_STORE_TEST_BASE_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_BACKING_STORE_TEST_BASE_H_
 

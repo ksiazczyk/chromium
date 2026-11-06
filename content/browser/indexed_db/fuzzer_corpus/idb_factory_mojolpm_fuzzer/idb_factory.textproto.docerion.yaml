@@ -1,0 +1,4 @@
+# Docerion header of idb_factory.textproto.
+type: data
+title: IDBFactory open, info and delete corpus for MojoLPM fuzzer
+summary: Fuzzer corpus input exercising factory-level actions such as getting database info, opening a database, and deleting it.

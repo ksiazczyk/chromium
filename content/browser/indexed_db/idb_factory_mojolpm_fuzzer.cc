@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDBFactory MojoLPM fuzzer
+// summary: MojoLPM fuzzer exercising the browser-process Mojo interfaces behind the IndexedDB IDBFactory web API, using mock time to reach idle and grace-period code paths.
+// ---
+
 #include <stdint.h>
 
 #include <utility>

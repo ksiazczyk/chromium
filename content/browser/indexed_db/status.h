@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB Status class declaration
+// summary: Declares the IndexedDB Status class, a backing store status code that wraps LevelDB statuses or SQLite errors and classifies success, not-found, corruption, invalid argument, and IO error types.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_STATUS_H_
 #define CONTENT_BROWSER_INDEXED_DB_STATUS_H_
 

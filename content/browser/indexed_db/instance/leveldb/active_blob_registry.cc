@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveBlobRegistry implementation
+// summary: Implements the registry that tracks blobs handed to clients and decides when IndexedDB blob files can be deleted.
+// ---
+
 #include "content/browser/indexed_db/instance/leveldb/active_blob_registry.h"
 
 #include "base/functional/bind.h"

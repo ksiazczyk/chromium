@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Mojo IndexedDB factory client class declaration
+// summary: Declares MockMojoFactoryClient, a gmock mock of the Mojo IDBFactoryClient interface that mocks error, blocked, upgrade needed, open success, and delete success callbacks in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_MOCK_MOJO_INDEXED_DB_FACTORY_CLIENT_H_
 #define CONTENT_BROWSER_INDEXED_DB_MOCK_MOJO_INDEXED_DB_FACTORY_CLIENT_H_
 

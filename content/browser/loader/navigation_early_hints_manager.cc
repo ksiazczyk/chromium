@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation Early Hints manager implementation
+// summary: Implements NavigationEarlyHintsManager, which processes 103 Early Hints responses during navigation and issues preload and preconnect requests for hinted resources.
+// ---
+
 #include "content/browser/loader/navigation_early_hints_manager.h"
 
 #include "base/memory/raw_ref.h"

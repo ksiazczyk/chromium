@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HapticsManagerImplWin header with WinRT statics test seam
+// summary: Declares the Windows haptics backend backed by Windows.Devices.Haptics plus a HapticsWinrtStaticsProvider seam that lets unit tests inject fake WinRT statics.
+// ---
+
 #ifndef CONTENT_BROWSER_HAPTICS_HAPTICS_MANAGER_IMPL_WIN_H_
 #define CONTENT_BROWSER_HAPTICS_HAPTICS_MANAGER_IMPL_WIN_H_
 

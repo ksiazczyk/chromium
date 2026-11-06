@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard lock service implementation
+// summary: Implements the browser-side KeyboardLockService Mojo service, validating key codes, logging usage, and forwarding lock and layout map requests to the render widget host.
+// ---
+
 #include "content/browser/keyboard_lock/keyboard_lock_service_impl.h"
 
 #include <memory>

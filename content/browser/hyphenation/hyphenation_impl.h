@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HyphenationImpl class declaration
+// summary: Declares the HyphenationImpl class that serves the blink Hyphenation mojo interface and opens hyphenation dictionaries in the browser process.
+// ---
+
 #ifndef CONTENT_BROWSER_HYPHENATION_HYPHENATION_IMPL_H_
 #define CONTENT_BROWSER_HYPHENATION_HYPHENATION_IMPL_H_
 

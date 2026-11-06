@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveBlobRegistry class declaration
+// summary: Declares the ActiveBlobRegistry class that tracks active blobs per database and reports outstanding or unused blobs via callbacks.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_ACTIVE_BLOB_REGISTRY_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_ACTIVE_BLOB_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-initiated resource request header declaration
+// summary: Declares the function that updates request headers for browser-initiated navigations and worker script requests.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_BROWSER_INITIATED_RESOURCE_REQUEST_H_
 #define CONTENT_BROWSER_LOADER_BROWSER_INITIATED_RESOURCE_REQUEST_H_
 

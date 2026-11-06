@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: IndexedDB GN build configuration
+summary: Defines the GN build targets, sources, and dependencies for the IndexedDB implementation, including fuzzer tests and mojom bindings.

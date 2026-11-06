@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB transaction feature observer browser test
+// summary: Browser tests verifying that IndexedDB transactions notify the feature observer when clients are hidden or frozen, with back-forward cache disabled.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "build/build_config.h"
 #include "content/browser/feature_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB external object implementation
+// summary: Implements IndexedDBExternalObject, representing blobs, files, and File System Access handles stored by IndexedDB, including conversion to Mojo types.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_external_object.h"
 
 #include <utility>

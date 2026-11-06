@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test blob consumer helper implementation
+// summary: Implements a test helper that reads whole blobs or drains data pipes from a mojom Blob, supporting IndexedDB blob tests.
+// ---
+
 #include "content/browser/indexed_db/instance/test_blob_consumer.h"
 
 #include "base/byte_size.h"

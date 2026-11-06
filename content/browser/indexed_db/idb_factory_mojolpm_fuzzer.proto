@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the IDBFactory interface.
 
+// ---docerion
+// type: source
+// title: IDBFactory MojoLPM fuzzer protobuf messages
+// summary: Protobuf definitions of the actions and testcase format for the IDBFactory MojoLPM fuzzer, covering factory binding, blobs, threads, SQLite migration and mock time.
+// ---
+
 syntax = "proto2";
 
 package content.fuzzing.idb_factory.proto;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource scheduler browser tests
+// summary: Browser tests checking resource loading counts in normal and incognito browsers; both test cases are currently disabled.
+// ---
+
 #include <map>
 #include <string>
 

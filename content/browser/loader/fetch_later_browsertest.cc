@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: fetchLater() API browser tests
+// summary: Browser tests for the JS fetchLater() API, covering request sending, redirects, and document unload behavior via a shared test base class.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

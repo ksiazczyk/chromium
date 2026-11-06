@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveURLLoader header
+// summary: Declares KeepAliveURLLoader, the browser-process URLLoader that runs keepalive requests beyond the initiator renderer's lifetime, with design doc links.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_KEEP_ALIVE_URL_LOADER_H_
 #define CONTENT_BROWSER_LOADER_KEEP_ALIVE_URL_LOADER_H_
 

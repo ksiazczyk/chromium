@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LevelDB backing store unit tests
+// summary: Unit tests for the LevelDB-backed IndexedDB backing store, covering database metadata, blob and File System Access handle external objects, and third-party storage partitioning.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

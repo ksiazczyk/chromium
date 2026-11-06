@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reload cache control browser tests
+// summary: Browser tests verifying the Cache-Control headers sent for the main frame and subresources on normal load, reload, and cache-bypassing reload.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

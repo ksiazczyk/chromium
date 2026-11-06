@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationFastFetchManager unit tests
+// summary: Unit tests for NavigationFastFetchManager verifying eligibility checks and outcome metrics for eligible and ineligible navigations.
+// ---
+
 #include "content/browser/loader/navigation_fast_fetch_manager.h"
 
 #include "base/functional/bind.h"

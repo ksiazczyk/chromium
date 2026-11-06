@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB metrics reporting implementation
+// summary: Implements UMA histogram reporting for IndexedDB backing store open status, internal errors, and LevelDB IO and corruption details.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_reporting.h"
 
 #include <string>

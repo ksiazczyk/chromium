@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream reader to data pipe implementation
+// summary: Implements streaming a file's contents into a Mojo data pipe, used to transfer IndexedDB blob data with completion callbacks.
+// ---
+
 #include "content/browser/indexed_db/file_stream_reader_to_data_pipe.h"
 
 #include <optional>

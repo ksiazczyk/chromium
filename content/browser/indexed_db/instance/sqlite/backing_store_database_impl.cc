@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backing store database implementation
+// summary: Implements BackingStore::Database by thunking metadata access, transaction creation, and database deletion to DatabaseConnection.
+// ---
+
 #include "content/browser/indexed_db/instance/sqlite/backing_store_database_impl.h"
 
 #include "base/notreached.h"

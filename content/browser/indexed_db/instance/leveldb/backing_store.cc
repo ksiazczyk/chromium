@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB IndexedDB backing store implementation
+// summary: Implements the LevelDB-backed IndexedDB backing store, including database, transaction, cursor, and blob handling.
+// ---
+
 #include "content/browser/indexed_db/instance/leveldb/backing_store.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HapticsManager interface for platform Web Haptics backends
+// summary: Defines the abstract HapticsManager interface that platform backends implement to play a haptic effect at a given intensity on the most recent input device.
+// ---
+
 #ifndef CONTENT_BROWSER_HAPTICS_HAPTICS_MANAGER_H_
 #define CONTENT_BROWSER_HAPTICS_HAPTICS_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Hyphenation directory DEPS include rules
+summary: Defines the allowed header include for the hyphenation browser directory, permitting the blink hyphenation mojom header.

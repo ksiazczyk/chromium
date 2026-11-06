@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchRelatedAppsTask interface
+// summary: Defines the FetchRelatedAppsTask interface and result callback types used by InstalledAppProviderImpl to fetch related apps from a specific platform.
+// ---
+
 #ifndef CONTENT_BROWSER_INSTALLEDAPP_FETCH_RELATED_APPS_TASK_H_
 #define CONTENT_BROWSER_INSTALLEDAPP_FETCH_RELATED_APPS_TASK_H_
 

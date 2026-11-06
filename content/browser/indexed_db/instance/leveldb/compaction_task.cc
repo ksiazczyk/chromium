@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB compaction task implementation
+// summary: Implements a pre-close task that compacts the full LevelDB database range before the backing store closes.
+// ---
+
 #include "content/browser/indexed_db/instance/leveldb/compaction_task.h"
 
 #include "base/trace_event/trace_event.h"

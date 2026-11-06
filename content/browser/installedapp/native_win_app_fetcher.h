@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWinAppFetcher interface
+// summary: Defines the NativeWinAppFetcher interface for fetching Windows apps related to a given URL as RelatedApplicationPtrs, kept abstract so it can be faked in tests.
+// ---
+
 #ifndef CONTENT_BROWSER_INSTALLEDAPP_NATIVE_WIN_APP_FETCHER_H_
 #define CONTENT_BROWSER_INSTALLEDAPP_NATIVE_WIN_APP_FETCHER_H_
 

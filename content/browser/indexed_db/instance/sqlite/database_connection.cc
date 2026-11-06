@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite IndexedDB database connection implementation
+// summary: Implements DatabaseConnection, which owns the SQLite database behind an IndexedDB database and handles schema setup, key and value encoding, blob storage, and all backing store operations.
+// ---
+
 #include "content/browser/indexed_db/instance/sqlite/database_connection.h"
 
 #include <memory>

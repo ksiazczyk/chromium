@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB data format version class
+// summary: Represents a version tuple of V8 and Blink serializer versions used to track the IndexedDB value encoding format, with encode and decode helpers.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_DATA_FORMAT_VERSION_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_DATA_FORMAT_VERSION_H_
 

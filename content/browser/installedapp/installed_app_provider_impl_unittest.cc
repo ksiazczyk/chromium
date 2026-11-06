@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstalledAppProviderImpl unit tests
+// summary: Unit tests for InstalledAppProviderImpl covering related app filtering with fake Windows and web app fetchers under enabled feature flags.
+// ---
+
 #include "content/browser/installedapp/installed_app_provider_impl.h"
 
 #include "base/functional/bind.h"

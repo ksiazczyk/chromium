@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard lock metrics definitions
+// summary: Defines the KeyboardLockMethods enum and the Blink.KeyboardLock.MethodCalled histogram name used to log keyboard lock API calls.
+// ---
+
 #ifndef CONTENT_BROWSER_KEYBOARD_LOCK_KEYBOARD_LOCK_METRICS_H_
 #define CONTENT_BROWSER_KEYBOARD_LOCK_KEYBOARD_LOCK_METRICS_H_
 

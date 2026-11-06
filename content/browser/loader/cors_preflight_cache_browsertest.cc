@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS preflight cache browser tests
+// summary: Browser tests verifying end-to-end CORS preflight behavior and how the preflight cache affects subsequent OPTIONS and GET requests.
+// ---
+
 #include <string>
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingConnection struct for IndexedDB connection opens
+// summary: Declares a struct holding data for opening a new IndexedDB database connection while the connection coordinator manages queued operations.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_PENDING_CONNECTION_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_PENDING_CONNECTION_H_
 

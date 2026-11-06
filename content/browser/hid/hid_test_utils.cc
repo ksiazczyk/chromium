@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID test utilities implementation
+// summary: Implements MockHidDelegate and a test ContentBrowserClient that simulate HID permission management and device events for tests.
+// ---
+
 #include "content/browser/hid/hid_test_utils.h"
 #include "third_party/blink/public/mojom/hid/hid.mojom.h"
 

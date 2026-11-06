@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackingStoreDatabaseImpl class declaration
+// summary: Declares BackingStoreDatabaseImpl, a thin BackingStore::Database wrapper that forwards all operations to a DatabaseConnection.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_SQLITE_BACKING_STORE_DATABASE_IMPL_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_SQLITE_BACKING_STORE_DATABASE_IMPL_H_
 

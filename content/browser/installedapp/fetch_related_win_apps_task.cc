@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchRelatedWinAppsTask implementation
+// summary: Implements FetchRelatedWinAppsTask, matching related applications against Windows installed apps by case-insensitive AppModelUserId comparison.
+// ---
+
 #include "content/browser/installedapp/fetch_related_win_apps_task.h"
 
 #include <windows.foundation.h>

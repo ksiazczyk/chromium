@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB IndexedDB backing store declarations
+// summary: Declares the LevelDB implementation of the IndexedDB backing store along with its database, transaction, and cursor classes.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_BACKING_STORE_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_LEVELDB_BACKING_STORE_H_
 

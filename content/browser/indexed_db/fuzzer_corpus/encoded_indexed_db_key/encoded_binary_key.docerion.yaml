@@ -1,0 +1,4 @@
+# Docerion header of encoded_binary_key.
+type: data
+title: Encoded IndexedDB binary key fuzzer corpus file
+summary: Fuzzer corpus input containing an encoded IndexedDB binary key with the payload 'Hello world!'.

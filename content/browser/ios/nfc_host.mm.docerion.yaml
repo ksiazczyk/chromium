@@ -1,0 +1,4 @@
+# Docerion header of nfc_host.mm.
+type: source
+title: NFCHost implementation using CoreNFC
+summary: Implements NFCHost for iOS with Apple's CoreNFC framework, converting NDEF messages between mojo and CoreNFC types and managing push, watch, and make-read-only tag operations.

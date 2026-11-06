@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database callbacks implementation
+// summary: Implements DatabaseCallbacks, forwarding forced close, version change, abort and complete events to the renderer's IDBDatabaseCallbacks remote.
+// ---
+
 #include "content/browser/indexed_db/instance/database_callbacks.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB database error implementation
+// summary: Implements the DatabaseError constructors and assignment for IndexedDB exception codes and messages.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_database_error.h"
 
 #include "base/strings/utf_string_conversions.h"

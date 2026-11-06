@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Object navigation fallback body loader
+// summary: Loads the fallback response body for <object> element navigations that fail with HTTP errors.
+// ---
+
 #include "content/browser/loader/object_navigation_fallback_body_loader.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB index writer implementation
+// summary: Implements IndexWriter, which verifies index keys against uniqueness constraints and writes index data for object store records, plus a factory for building index writers.
+// ---
+
 #include "content/browser/indexed_db/instance/index_writer.h"
 
 #include <cstdint>

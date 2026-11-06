@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch browser test base implementation
+// summary: Implements shared setup for prefetch browser tests, including test response registration and prefetch loader call tracking.
+// ---
+
 #include "content/browser/loader/prefetch_browsertest_base.h"
 
 #include "base/functional/bind.h"

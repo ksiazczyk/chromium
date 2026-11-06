@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection allowlist unit tests
+// summary: Unit tests checking that connection allowlists are stored in the policy container, inherited by iframes, and disabled by the feature kill switch.
+// ---
+
 #include <string>
 #include <vector>
 

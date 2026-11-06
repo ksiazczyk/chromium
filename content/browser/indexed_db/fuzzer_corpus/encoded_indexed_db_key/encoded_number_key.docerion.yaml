@@ -1,0 +1,4 @@
+# Docerion header of encoded_number_key.
+type: data
+title: Encoded IndexedDB number key fuzzer corpus file
+summary: Empty fuzzer corpus file representing an encoded IndexedDB number key used as fuzzing input.

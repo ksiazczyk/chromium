@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB database connection implementation
+// summary: Implements Connection, the browser-side IDB database connection that handles transactions, version changes and mojo messaging with the renderer.
+// ---
+
 #include "content/browser/indexed_db/instance/connection.h"
 
 #include <algorithm>

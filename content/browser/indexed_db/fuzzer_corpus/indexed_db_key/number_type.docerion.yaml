@@ -1,0 +1,4 @@
+# Docerion header of number_type.
+type: data
+title: 'IndexedDB key fuzzer corpus: number type'
+summary: Fuzzer corpus seed input for a number-type IndexedDB key, used as sample data for fuzz testing of IndexedDB key handling.

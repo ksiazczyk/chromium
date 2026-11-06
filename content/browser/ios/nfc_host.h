@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFCHost class header for iOS NFC support
+// summary: Declares the content::NFCHost class, which implements the device::mojom::NFC mojo interface on iOS, handling permissions, visibility changes, watches, and pending push and read-only operations.
+// ---
+
 #ifndef CONTENT_BROWSER_IOS_NFC_HOST_H_
 #define CONTENT_BROWSER_IOS_NFC_HOST_H_
 

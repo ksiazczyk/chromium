@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-initiated resource request headers
+// summary: Adds Do Not Track, Global Privacy Control and Save-Data headers to browser-initiated requests such as navigations and worker script fetches.
+// ---
+
 #include "content/browser/loader/browser_initiated_resource_request.h"
 
 #include "content/public/browser/browser_context.h"

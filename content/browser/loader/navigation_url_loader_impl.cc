@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationURLLoaderImpl implementation
+// summary: Implements the core navigation URL loader, wiring interceptors, service workers, signed exchanges, prefetch, and network responses.
+// ---
+
 #include "content/browser/loader/navigation_url_loader_impl.h"
 
 #include <algorithm>

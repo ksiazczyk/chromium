@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB file path utilities unit tests
+// summary: Unit tests verifying SQLite directory paths, database name to file name conversion, and database enumeration in file_path_util.
+// ---
+
 #include "content/browser/indexed_db/file_path_util.h"
 
 #include <string>

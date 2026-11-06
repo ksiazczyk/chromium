@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob writer class declaration for SQLite IndexedDB backing store
+// summary: Declares the BlobWriter class that reads blob bytes via mojo and writes them into SQL streaming blob chunks, owned by the DatabaseConnection.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_SQLITE_BLOB_WRITER_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_SQLITE_BLOB_WRITER_H_
 

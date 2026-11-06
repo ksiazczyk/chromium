@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the IndexedDB leveldb directory
+summary: Defines the allowed include paths for source files in the IndexedDB leveldb instance directory.

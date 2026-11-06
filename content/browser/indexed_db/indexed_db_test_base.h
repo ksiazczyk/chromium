@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB test fixture class declaration
+// summary: Declares IndexedDBTestBase, a gTest fixture providing context setup, bucket creation, and database open helpers for IndexedDB tests.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_TEST_BASE_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_TEST_BASE_H_
 

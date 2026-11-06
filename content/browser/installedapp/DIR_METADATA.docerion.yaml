@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the installedapp folder
+summary: Declares the Blink>AppManifest monorail component, the platform-capabilities team email and the Buganizer component for the installedapp folder.

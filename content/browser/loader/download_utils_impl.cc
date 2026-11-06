@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download decision utilities implementation
+// summary: Implements download_utils helpers that decide whether an HTTP response must be downloaded, based on content disposition, MIME type, and embedder policy.
+// ---
+
 #include "content/browser/loader/download_utils_impl.h"
 
 #include "build/build_config.h"

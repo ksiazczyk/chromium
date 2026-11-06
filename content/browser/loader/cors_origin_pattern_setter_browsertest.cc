@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CORS origin pattern setter browser tests
+// summary: Browser tests exercising end-to-end CORS origin access allow list functionality through CorsOriginPatternSetter with various domain and port match modes.
+// ---
+
 #include "content/public/browser/cors_origin_pattern_setter.h"
 
 #include <memory>

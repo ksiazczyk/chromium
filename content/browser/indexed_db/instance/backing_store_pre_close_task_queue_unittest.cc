@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BackingStorePreCloseTaskQueue
+// summary: Unit tests covering task queue start, stop, timeout, and metadata fetching behavior using mock pre-close tasks.
+// ---
+
 #include "content/browser/indexed_db/instance/backing_store_pre_close_task_queue.h"
 
 #include <cstdint>

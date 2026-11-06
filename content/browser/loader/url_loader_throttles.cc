@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser URL loader throttle creation
+// summary: Builds the browser-side URL loader throttle list, adding throttles for variations, client hints, reduced accept language, prerendering, and prefetch.
+// ---
+
 #include "content/public/browser/url_loader_throttles.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Hyphenation directory owners
+summary: Lists kojii@chromium.org and szager@chromium.org as code owners for the hyphenation directory.

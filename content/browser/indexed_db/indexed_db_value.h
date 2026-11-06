@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDBValue class declaration
+// summary: Declares the move-only IndexedDBValue struct that stores a serialized script value buffer and its associated external object references.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_VALUE_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_VALUE_H_
 

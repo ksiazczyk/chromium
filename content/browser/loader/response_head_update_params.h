@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResponseHeadUpdateParams class declaration
+// summary: Declares ResponseHeadUpdateParams, which carries load timing and service worker router info used to update UrlResponseHead when loading is delegated to another loader.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_RESPONSE_HEAD_UPDATE_PARAMS_H_
 #define CONTENT_BROWSER_LOADER_RESPONSE_HEAD_UPDATE_PARAMS_H_
 

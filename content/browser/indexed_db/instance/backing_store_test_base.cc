@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Backing store test base implementation
+// summary: Implements shared setup for backing store tests, creating a BucketContext with mock blob, file system access, and quota dependencies for LevelDB or SQLite.
+// ---
+
 #include "content/browser/indexed_db/instance/backing_store_test_base.h"
 
 #include "base/test/bind.h"

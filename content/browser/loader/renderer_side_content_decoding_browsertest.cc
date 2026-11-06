@@ -6,6 +6,12 @@
 // testing scenarios involving successful decoding and simulated failures during
 // data pipe creation.
 
+// ---docerion
+// type: test
+// title: Renderer-side content decoding browser tests
+// summary: Browser tests for the RendererSideContentDecoding feature covering successful decoding of compressed resources and simulated Mojo data pipe creation failures.
+// ---
+
 #include <string_view>
 
 #include "base/test/scoped_feature_list.h"

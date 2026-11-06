@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SQLite IndexedDB database connection
+// summary: Contains unit tests for DatabaseConnection covering database opening, record and blob operations, and error paths using a temporary-directory backing store and mock blob storage.
+// ---
+
 #include "content/browser/indexed_db/instance/sqlite/database_connection.h"
 
 #include <memory>

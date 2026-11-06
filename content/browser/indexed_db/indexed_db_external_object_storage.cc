@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB external object change record implementation
+// summary: Implements IndexedDBExternalObjectChangeRecord, which tracks external objects added or removed for an object store data key.
+// ---
+
 #include "content/browser/indexed_db/indexed_db_external_object_storage.h"
 
 #include "base/functional/callback.h"

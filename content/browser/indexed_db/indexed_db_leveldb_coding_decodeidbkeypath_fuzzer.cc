@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecodeIDBKeyPath fuzzer
+// summary: Fuzz target verifying that decoded IndexedDB key paths re-encode to the original bytes.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

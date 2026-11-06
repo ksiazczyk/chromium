@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationURLLoaderImpl unit tests
+// summary: Unit tests covering NavigationURLLoaderImpl behavior including redirects, responses, Early Hints, and loader interceptors.
+// ---
+
 #include "content/browser/loader/navigation_url_loader_impl.h"
 
 #include <memory>

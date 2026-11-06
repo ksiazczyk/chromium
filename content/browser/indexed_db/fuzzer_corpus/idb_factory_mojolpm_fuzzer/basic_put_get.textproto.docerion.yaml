@@ -1,0 +1,4 @@
+# Docerion header of basic_put_get.textproto.
+type: data
+title: Basic put and get corpus for IDBFactory MojoLPM fuzzer
+summary: Fuzzer corpus input that puts a record under a numeric key in a read-write transaction and reads it back, configured for SQLite backing.

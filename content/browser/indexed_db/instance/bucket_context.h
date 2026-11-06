@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketContext class declaration
+// summary: Declares BucketContext, which manages per-bucket IndexedDB state, and the SqliteRolloutStage enum that controls the LevelDB to SQLite migration.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INSTANCE_BUCKET_CONTEXT_H_
 #define CONTENT_BROWSER_INDEXED_DB_INSTANCE_BUCKET_CONTEXT_H_
 

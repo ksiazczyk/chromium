@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB database error class
+// summary: Declares the DatabaseError class carrying an IndexedDB exception code and a UTF-16 message.
+// ---
+
 #ifndef CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_DATABASE_ERROR_H_
 #define CONTENT_BROWSER_INDEXED_DB_INDEXED_DB_DATABASE_ERROR_H_
 

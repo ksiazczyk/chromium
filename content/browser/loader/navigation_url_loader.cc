@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationURLLoader creation entry point
+// summary: Implements NavigationURLLoader::Create, dispatching navigations to cached, initial WebUI, or regular loader implementations.
+// ---
+
 #include "content/browser/loader/navigation_url_loader.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock blob storage context for IndexedDB tests
+// summary: Implements a fake BlobStorageContext that registers placeholder blobs, writes blob data through Mojo data pipes, and records blob writes for tests.
+// ---
+
 #include "content/browser/indexed_db/instance/mock_blob_storage_context.h"
 
 #include <optional>

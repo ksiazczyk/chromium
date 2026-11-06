@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File URL loader factory implementation
+// summary: Implements the URLLoaderFactory for file scheme requests, covering directory listings, file access and link-following policies, CORS checks and byte range handling.
+// ---
+
 #include "content/browser/loader/file_url_loader_factory.h"
 
 #include <algorithm>

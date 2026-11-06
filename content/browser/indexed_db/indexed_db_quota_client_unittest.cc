@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB quota client unit tests
+// summary: Unit tests for the IndexedDB quota client using a mock quota manager and first- and third-party storage keys.
+// ---
+
 #include <stdint.h>
 
 #include <cstdint>

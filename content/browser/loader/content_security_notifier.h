@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSecurityNotifier class declaration
+// summary: Declares the blink mojom ContentSecurityNotifier implementation that forwards content security notifications such as mixed content from a renderer to WebContents.
+// ---
+
 #ifndef CONTENT_BROWSER_LOADER_CONTENT_SECURITY_NOTIFIER_H_
 #define CONTENT_BROWSER_LOADER_CONTENT_SECURITY_NOTIFIER_H_
 
