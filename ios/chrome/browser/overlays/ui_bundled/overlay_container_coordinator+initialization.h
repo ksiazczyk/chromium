@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay container coordinator initialization category
+// summary: Declares an Objective-C category adding an initializer for OverlayContainerCoordinator that takes a presentation context.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_CONTAINER_COORDINATOR_INITIALIZATION_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_CONTAINER_COORDINATOR_INITIALIZATION_H_
 

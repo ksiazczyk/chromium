@@ -1,0 +1,4 @@
+# Docerion header of permissions_infobar_banner_overlay_mediator.mm.
+type: source
+title: Permissions banner overlay mediator implementation
+summary: Implements the permissions banner mediator, setting banner title text for camera and microphone access and routing banner button presses to page actions, page info or the modal.

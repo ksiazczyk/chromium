@@ -1,0 +1,4 @@
+# Docerion header of overlay_browser_agent_base_unittest.mm.
+type: test
+title: OverlayBrowserAgentBase unit tests
+summary: Tests callback installation and request support aggregation for the overlay browser agent using fake installers and a test browser.

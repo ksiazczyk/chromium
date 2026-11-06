@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay request queue utility functions
+// summary: Provides GetIndexOfMatchingRequest, a helper that finds the index of the first request in an overlay request queue matching a callback.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_request_queue_util.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overlay request unit tests
+// summary: Unit tests verifying that overlay requests can be created with a config and that the config is retrievable.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_request.h"
 
 #include "ios/chrome/browser/overlays/model/test/fake_overlay_user_data.h"

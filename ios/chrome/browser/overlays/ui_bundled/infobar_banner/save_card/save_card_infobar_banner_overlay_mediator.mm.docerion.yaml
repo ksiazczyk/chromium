@@ -1,0 +1,4 @@
+# Docerion header of save_card_infobar_banner_overlay_mediator.mm.
+type: source
+title: Save card infobar banner overlay mediator implementation
+summary: Implements the save card banner mediator, configuring banner content and showing card-saved snackbars with VoiceOver-aware delays.

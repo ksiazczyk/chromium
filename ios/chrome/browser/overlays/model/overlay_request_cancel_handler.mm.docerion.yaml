@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_cancel_handler.mm.
+type: source
+title: OverlayRequestCancelHandler implementation
+summary: Implements the cancel handler that forwards cancellation of an overlay request to its owning request queue.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing infobar banner BUILD.gn build definition
+summary: Defines the safe_browsing source set containing the Enhanced Safe Browsing banner mediator and lists its build dependencies.

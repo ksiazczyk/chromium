@@ -1,0 +1,4 @@
+# Docerion header of sync_error_infobar_banner_overlay_mediator.mm.
+type: source
+title: Sync error infobar banner overlay mediator implementation
+summary: Implements the sync error banner mediator, setting the banner's button, icon, and text and handling button presses and timeout dismissal.

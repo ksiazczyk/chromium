@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayRequestMediator subclassing category
+// summary: Category header exposing response dispatch and overlay dismissal helpers to OverlayRequestMediator subclasses.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_REQUEST_MEDIATOR_SUBCLASSING_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_REQUEST_MEDIATOR_SUBCLASSING_H_
 

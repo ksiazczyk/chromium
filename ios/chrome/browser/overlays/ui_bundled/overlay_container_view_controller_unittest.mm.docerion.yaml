@@ -1,0 +1,4 @@
+# Docerion header of overlay_container_view_controller_unittest.mm.
+type: test
+title: Overlay container view controller unit tests
+summary: Unit tests verifying delegate notifications on window changes and touch handling that ignores touches outside subviews.

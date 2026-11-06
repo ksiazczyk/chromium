@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the permissions infobar modal overlay
+summary: Defines the source sets and dependencies for the permissions infobar modal overlay code and its unit tests.

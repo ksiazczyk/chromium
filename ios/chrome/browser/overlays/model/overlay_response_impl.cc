@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay response implementation
+// summary: Implements the OverlayResponse factory and the internal OverlayResponseImpl class backed by SupportsUserData.
+// ---
+
 #include "ios/chrome/browser/overlays/model/overlay_response_impl.h"
 
 // static

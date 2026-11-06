@@ -1,0 +1,4 @@
+# Docerion header of save_card_infobar_modal_overlay_coordinator_unittest.mm.
+type: test
+title: Save Card infobar modal overlay coordinator unit tests
+summary: Unit tests that verify the Save Card modal coordinator's start and reset behavior using a mocked mediator and a mock save card infobar delegate.

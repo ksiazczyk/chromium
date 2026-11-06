@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake overlay request coordinator delegate declaration
+// summary: Declares a fake OverlayRequestCoordinatorDelegate that records per-request presentation states for test verification.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_TEST_FAKE_OVERLAY_REQUEST_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_TEST_FAKE_OVERLAY_REQUEST_COORDINATOR_DELEGATE_H_
 

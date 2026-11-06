@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_modal_overlay_mediator_unittest.mm.
+type: test
+title: Translate infobar modal overlay mediator unit tests
+summary: Unit tests verifying the mediator configures its consumer correctly across translate steps using fake delegates and OCMock.

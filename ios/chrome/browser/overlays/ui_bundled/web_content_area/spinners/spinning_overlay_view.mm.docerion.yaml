@@ -1,0 +1,4 @@
+# Docerion header of spinning_overlay_view.mm.
+type: source
+title: Spinning overlay view implementation
+summary: Implements the overlay view layout with background, spinner, label, accessibility handling, and tap gesture recognition.

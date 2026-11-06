@@ -1,0 +1,4 @@
+# Docerion header of overlay_callback_manager_impl_unittest.mm.
+type: test
+title: OverlayCallbackManagerImpl unit tests
+summary: Unit tests verifying completion and dispatch callback execution in OverlayCallbackManagerImpl, including safe destruction during a dispatch callback.

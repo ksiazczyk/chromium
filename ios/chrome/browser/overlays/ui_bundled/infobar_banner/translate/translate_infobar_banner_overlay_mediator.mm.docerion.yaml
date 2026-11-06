@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_banner_overlay_mediator.mm.
+type: source
+title: Translate infobar banner overlay mediator implementation
+summary: Implements banner text, icon and button configuration and handles button presses across the different translate steps.

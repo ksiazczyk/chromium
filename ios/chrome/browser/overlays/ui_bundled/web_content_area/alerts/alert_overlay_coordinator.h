@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlertOverlayCoordinator interface
+// summary: Declares the overlay request coordinator that displays alert UI through the OverlayPresenter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_WEB_CONTENT_AREA_ALERTS_ALERT_OVERLAY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_WEB_CONTENT_AREA_ALERTS_ALERT_OVERLAY_COORDINATOR_H_
 

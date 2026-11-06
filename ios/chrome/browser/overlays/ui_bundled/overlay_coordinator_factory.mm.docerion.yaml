@@ -1,0 +1,4 @@
+# Docerion header of overlay_coordinator_factory.mm.
+type: source
+title: Overlay request coordinator factory implementation
+summary: Implements the coordinator factory, selecting the appropriate overlay coordinator class based on infobar type and overlay modality.

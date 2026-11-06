@@ -1,0 +1,4 @@
+# Docerion header of overscroll_actions_tab_helper.mm.
+type: source
+title: OverscrollActionsTabHelper implementation
+summary: Implements the tab helper, lazily creating the overscroll actions controller and applying incognito-aware styling.

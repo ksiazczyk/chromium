@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_modal_overlay_mediator_unittest.mm.
+type: test
+title: Unit tests for save address profile infobar modal overlay mediator
+summary: Tests that the save address profile infobar modal overlay mediator sets up its consumer and dispatches cancel and no-thanks responses correctly.

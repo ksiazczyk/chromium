@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay container view controller header
+// summary: Declares the view controller used to show overlay UI and its delegate protocol for window move notifications.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_CONTAINER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_CONTAINER_VIEW_CONTROLLER_H_
 

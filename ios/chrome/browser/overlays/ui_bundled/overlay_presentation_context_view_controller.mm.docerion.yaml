@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_context_view_controller.mm.
+type: source
+title: Overlay presentation context view controller implementation
+summary: Implements layout handling that resizes the presentation context view to match the underlying layout view during overlay presentation.

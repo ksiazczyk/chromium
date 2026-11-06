@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar modal overlay mediator interface
+// summary: Declares the mediator that configures the modal UI for a Translate infobar, exposing consumers and a delegate for language changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_TRANSLATE_TRANSLATE_INFOBAR_MODAL_OVERLAY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_TRANSLATE_TRANSLATE_INFOBAR_MODAL_OVERLAY_MEDIATOR_H_
 

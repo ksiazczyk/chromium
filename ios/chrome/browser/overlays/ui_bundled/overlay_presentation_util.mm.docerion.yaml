@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_util.mm.
+type: source
+title: Overlay presentation utility implementation
+summary: Implements ContainedModalFrameThatFit, which computes a modal frame that fits within a container view's safe area using margins and a maximum width.

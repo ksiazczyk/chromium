@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card banner mediator testing category header
+// summary: Declares a testing category on the save card banner mediator exposing accessibility notification posting and VoiceOver status overrides.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_SAVE_CARD_SAVE_CARD_INFOBAR_BANNER_OVERLAY_MEDIATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_SAVE_CARD_SAVE_CARD_INFOBAR_BANNER_OVERLAY_MEDIATOR_TESTING_H_
 

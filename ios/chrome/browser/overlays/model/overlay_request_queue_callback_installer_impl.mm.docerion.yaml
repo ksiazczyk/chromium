@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_queue_callback_installer_impl.mm.
+type: source
+title: OverlayRequestQueueCallbackInstallerImpl implementation
+summary: Implements the queue callback installer, running registered installers for every request added to an overlay request queue.

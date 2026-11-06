@@ -1,0 +1,4 @@
+# Docerion header of mock_overlay_coordinator_delegate.mm.
+type: test
+title: Mock overlay coordinator delegate implementation
+summary: Provides the default constructor and destructor for the mock overlay request coordinator delegate.

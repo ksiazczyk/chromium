@@ -1,0 +1,4 @@
+# Docerion header of test_resizing_presented_overlay_coordinator.mm.
+type: source
+title: TestResizingPresentedOverlayCoordinator implementation
+summary: Implements a test overlay coordinator with a fake presentation controller that resizes its container view to a given window frame.

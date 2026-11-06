@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar placeholder overlay coordinator header
+// summary: Declares a placeholder coordinator that presents no UI between before and after translate banners.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_TRANSLATE_TRANSLATE_INFOBAR_PLACEHOLDER_OVERLAY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_TRANSLATE_TRANSLATE_INFOBAR_PLACEHOLDER_OVERLAY_COORDINATOR_H_
 

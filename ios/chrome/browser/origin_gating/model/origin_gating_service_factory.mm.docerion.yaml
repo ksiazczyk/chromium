@@ -1,0 +1,4 @@
+# Docerion header of origin_gating_service_factory.mm.
+type: source
+title: OriginGatingServiceFactory implementation
+summary: Implements the factory, building an OriginGatingService per profile with its own instance in incognito.

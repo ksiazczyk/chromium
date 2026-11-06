@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayRequestCallbackInstaller implementation
+// summary: Implements the base installer that adds completion callbacks to supported overlay requests and removes them once the request completes.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_request_callback_installer.h"
 
 #include "base/functional/bind.h"

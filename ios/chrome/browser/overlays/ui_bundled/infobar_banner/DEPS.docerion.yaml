@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Infobar banner include rules
+summary: Defines the allowed include rules for the infobar banner overlay directory.

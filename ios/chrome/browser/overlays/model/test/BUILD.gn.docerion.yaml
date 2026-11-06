@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for overlay model test fakes
+summary: Defines a testonly source_set bundling the fake overlay presentation context, callback installer, cancel handler and user data helpers with their dependencies.

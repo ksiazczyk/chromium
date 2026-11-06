@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay presentation context impl delegate protocol
+// summary: Defines the delegate protocol OverlayPresentationContextImpl uses to set up the view hierarchy that supports displaying overlay UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_PRESENTATION_CONTEXT_IMPL_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_OVERLAY_PRESENTATION_CONTEXT_IMPL_DELEGATE_H_
 

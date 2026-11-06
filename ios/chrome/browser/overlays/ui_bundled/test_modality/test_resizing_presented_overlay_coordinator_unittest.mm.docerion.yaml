@@ -1,0 +1,4 @@
+# Docerion header of test_resizing_presented_overlay_coordinator_unittest.mm.
+type: test
+title: TestResizingPresentedOverlayCoordinator unit tests
+summary: Unit tests verifying that the resizing presented overlay coordinator lays out its presentation container at the requested window frame.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll actions gesture recognizer interface
+// summary: Declares a UIPanGestureRecognizer subclass that works around a bug where the target action is not called when the gesture ends with Speak Selection enabled.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERSCROLL_ACTIONS_UI_BUNDLED_OVERSCROLL_ACTIONS_GESTURE_RECOGNIZER_H_
 #define IOS_CHROME_BROWSER_OVERSCROLL_ACTIONS_UI_BUNDLED_OVERSCROLL_ACTIONS_GESTURE_RECOGNIZER_H_
 

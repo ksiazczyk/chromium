@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test overlay request coordinator factory declaration
+// summary: Declares TestOverlayRequestCoordinatorFactory, a coordinator factory used for the testing overlay modality.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_TEST_TEST_OVERLAY_REQUEST_COORDINATOR_FACTORY_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_TEST_TEST_OVERLAY_REQUEST_COORDINATOR_FACTORY_H_
 

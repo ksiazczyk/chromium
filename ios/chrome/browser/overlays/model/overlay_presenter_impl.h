@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPresenterImpl header
+// summary: Declares OverlayPresenterImpl, which observes request queues for the active WebState, triggers overlay presentation and manages hiding and showing overlays per modality.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_OVERLAY_PRESENTER_IMPL_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_OVERLAY_PRESENTER_IMPL_H_
 

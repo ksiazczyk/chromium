@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for collaboration group infobar banner
+summary: GN build file defining the collaboration_group source_set with its sources and dependencies for the iOS infobar banner.

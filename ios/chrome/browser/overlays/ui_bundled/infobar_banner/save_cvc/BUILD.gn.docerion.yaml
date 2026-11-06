@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Save CVC infobar banner BUILD.gn build targets
+summary: GN build configuration defining the save_cvc source set and its unit_tests target with their sources and dependencies.

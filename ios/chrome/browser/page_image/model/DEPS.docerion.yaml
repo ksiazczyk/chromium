@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Page image model DEPS include rules
+summary: Declares allowed include rules for the page image model directory, permitting page_image_service and iOS autocomplete, optimization guide, search engines, and sync model dependencies.

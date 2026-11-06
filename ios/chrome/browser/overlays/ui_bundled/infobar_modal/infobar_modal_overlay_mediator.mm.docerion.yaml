@@ -1,0 +1,4 @@
+# Docerion header of infobar_modal_overlay_mediator.mm.
+type: source
+title: InfobarModalOverlayMediator implementation
+summary: Implements infobar modal delegate actions that record user metrics, dispatch the main action response, and dismiss the overlay.

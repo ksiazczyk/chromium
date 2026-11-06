@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_modal_overlay_mediator.mm.
+type: source
+title: Translate infobar modal overlay mediator implementation
+summary: Implements the translate modal mediator, mapping language selections, updating consumers per translate step, and recording metrics.

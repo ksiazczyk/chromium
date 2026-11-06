@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake overlay request coordinator delegate implementation
+// summary: Implements the fake coordinator delegate that tracks whether overlay UI for requests has been presented or dismissed.
+// ---
+
 #include "ios/chrome/browser/overlays/ui_bundled/test/fake_overlay_request_coordinator_delegate.h"
 
 

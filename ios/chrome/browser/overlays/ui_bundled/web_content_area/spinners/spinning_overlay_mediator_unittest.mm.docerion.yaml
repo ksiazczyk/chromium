@@ -1,0 +1,4 @@
+# Docerion header of spinning_overlay_mediator_unittest.mm.
+type: test
+title: Spinning overlay mediator unit tests
+summary: Unit tests checking that taps on cancellable and non-cancellable spinning overlays produce the expected completion responses.

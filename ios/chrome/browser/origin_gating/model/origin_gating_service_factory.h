@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginGatingServiceFactory class declaration
+// summary: Declares the profile-keyed service factory that associates OriginGatingService instances with ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ORIGIN_GATING_MODEL_ORIGIN_GATING_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_ORIGIN_GATING_MODEL_ORIGIN_GATING_SERVICE_FACTORY_H_
 

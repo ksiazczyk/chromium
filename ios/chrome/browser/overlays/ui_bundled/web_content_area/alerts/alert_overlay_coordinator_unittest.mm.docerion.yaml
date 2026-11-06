@@ -1,0 +1,4 @@
+# Docerion header of alert_overlay_coordinator_unittest.mm.
+type: test
+title: Unit tests for AlertOverlayCoordinator
+summary: Verifies that the coordinator builds and presents the alert view with its mediator and reports presentation and dismissal to the delegate.

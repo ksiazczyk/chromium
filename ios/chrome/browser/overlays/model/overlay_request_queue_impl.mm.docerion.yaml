@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_queue_impl.mm.
+type: source
+title: Overlay request queue implementation
+summary: Implements OverlayRequestQueueImpl, which stores and manages overlay requests per WebState and modality, with delegate, observer and cancellation support.

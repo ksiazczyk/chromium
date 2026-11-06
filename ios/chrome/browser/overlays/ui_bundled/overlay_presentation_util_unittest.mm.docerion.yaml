@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_util_unittest.mm.
+type: test
+title: Overlay presentation utility unit tests
+summary: Unit tests verifying that ContainedModalFrameThatFit returns a frame that fits within the given view with the expected width and height.

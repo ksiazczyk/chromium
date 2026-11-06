@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for alert overlay dependencies
+summary: Allowlists includes from the bwg utils and intelligence features directories for the alert overlay code.

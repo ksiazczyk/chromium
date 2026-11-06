@@ -1,0 +1,4 @@
+# Docerion header of overlay_presenter_impl.mm.
+type: source
+title: OverlayPresenterImpl implementation
+summary: Implements the OverlayPresenter, reacting to queue, presentation context and profile state changes to show, hide and cancel overlay UI for each browser modality.

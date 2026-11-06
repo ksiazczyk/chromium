@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build definition for the spinning overlay source set and its unit tests, listing sources and dependencies.

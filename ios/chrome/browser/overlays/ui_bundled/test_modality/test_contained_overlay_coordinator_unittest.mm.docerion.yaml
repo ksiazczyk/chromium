@@ -1,0 +1,4 @@
+# Docerion header of test_contained_overlay_coordinator_unittest.mm.
+type: test
+title: TestContainedOverlayCoordinator unit tests
+summary: Unit tests verifying that the contained overlay coordinator sets up its view and notifies the delegate on presentation and dismissal.

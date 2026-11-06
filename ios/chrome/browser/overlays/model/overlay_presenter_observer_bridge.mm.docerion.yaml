@@ -1,0 +1,4 @@
+# Docerion header of overlay_presenter_observer_bridge.mm.
+type: source
+title: OverlayPresenterObserver Objective-C bridge
+summary: Bridges C++ OverlayPresenterObserver callbacks to the Objective-C OverlayPresenterObserving protocol, forwarding events only when the observer implements the selectors.

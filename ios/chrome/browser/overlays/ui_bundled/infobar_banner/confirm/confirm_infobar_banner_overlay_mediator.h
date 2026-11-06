@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm infobar banner overlay mediator header
+// summary: Declares ConfirmInfobarBannerOverlayMediator, which configures an infobar banner for a confirm infobar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_CONFIRM_CONFIRM_INFOBAR_BANNER_OVERLAY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_CONFIRM_CONFIRM_INFOBAR_BANNER_OVERLAY_MEDIATOR_H_
 

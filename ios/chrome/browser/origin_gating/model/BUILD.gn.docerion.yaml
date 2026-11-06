@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for origin gating model
+summary: Defines GN source_set targets for the origin gating service factory and its unit tests with their dependencies.

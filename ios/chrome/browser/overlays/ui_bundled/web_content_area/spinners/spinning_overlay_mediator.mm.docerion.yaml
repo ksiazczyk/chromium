@@ -1,0 +1,4 @@
+# Docerion header of spinning_overlay_mediator.mm.
+type: source
+title: Spinning overlay mediator implementation
+summary: Implements the mediator that sets a cancellation completion response and dismisses the overlay when a cancellable overlay view is tapped.

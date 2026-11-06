@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Infobar banner overlay mediator unit tests
+summary: Unit tests checking that the banner mediator dispatches responses for confirm, modal, and dismissal actions and stops the overlay via its delegate.

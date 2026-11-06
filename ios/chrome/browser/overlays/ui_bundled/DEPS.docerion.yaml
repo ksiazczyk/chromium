@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for overlays UI
+summary: Specifies allowed include rules for the overlays ui_bundled directory, listing permitted Chromium iOS dependencies.

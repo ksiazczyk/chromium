@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll actions controller interface
+// summary: Declares OverscrollActionsController, its delegate protocol and the overscroll states used to drive pull-to-action gestures on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERSCROLL_ACTIONS_UI_BUNDLED_OVERSCROLL_ACTIONS_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_OVERSCROLL_ACTIONS_UI_BUNDLED_OVERSCROLL_ACTIONS_CONTROLLER_H_
 

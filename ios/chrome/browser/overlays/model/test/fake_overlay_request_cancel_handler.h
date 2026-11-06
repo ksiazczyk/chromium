@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake overlay request cancel handler for tests
+// summary: Declares a manually triggerable OverlayRequestCancelHandler subclass used to cancel overlay requests during tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_TEST_FAKE_OVERLAY_REQUEST_CANCEL_HANDLER_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_TEST_FAKE_OVERLAY_REQUEST_CANCEL_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of confirm_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Confirm infobar banner overlay mediator unit tests
+summary: Tests that the mediator sets up its fake consumer with the correct title, message, subtitle and button text for confirm infobar banners.

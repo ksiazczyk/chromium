@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake overlay presentation context for overlay UI tests
+// summary: Declares FakeOverlayPresentationContext, a fake OverlayPresentationContext that tracks presentation state and simulates overlay dismissal in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_TEST_FAKE_OVERLAY_PRESENTATION_CONTEXT_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_TEST_FAKE_OVERLAY_PRESENTATION_CONTEXT_H_
 

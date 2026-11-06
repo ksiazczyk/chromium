@@ -1,0 +1,4 @@
+# Docerion header of overlay_request_ui_state_unittest.mm.
+type: test
+title: Overlay request UI state unit tests
+summary: Unit tests for OverlayRequestUIState covering callback storage, coordinator tracking, and presentation and dismissal state updates.

@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_mediator_factory.mm.
+type: source
+title: Infobar banner overlay mediator factory
+summary: Implements the factory that maps infobar types to the corresponding banner overlay mediator classes for Chrome on iOS.

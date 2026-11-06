@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock overlay coordinator delegate declaration
+// summary: Declares a GoogleMock mock of OverlayRequestCoordinatorDelegate for verifying overlay presentation and dismissal callbacks in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_TEST_MOCK_OVERLAY_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_TEST_MOCK_OVERLAY_COORDINATOR_DELEGATE_H_
 

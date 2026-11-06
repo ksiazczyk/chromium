@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_controller.mm.
+type: source
+title: Overlay presentation controller implementation
+summary: Implements the overlay presentation controller, including layout pass triggering so the presentation context can resize to fit overlay UI.

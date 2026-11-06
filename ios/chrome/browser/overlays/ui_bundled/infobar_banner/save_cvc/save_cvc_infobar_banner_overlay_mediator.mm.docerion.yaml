@@ -1,0 +1,4 @@
+# Docerion header of save_cvc_infobar_banner_overlay_mediator.mm.
+type: source
+title: Save CVC infobar banner overlay mediator implementation
+summary: Implements the save CVC banner mediator, handling button presses, dismissal metrics, and consumer setup for local and upload CVC saves.

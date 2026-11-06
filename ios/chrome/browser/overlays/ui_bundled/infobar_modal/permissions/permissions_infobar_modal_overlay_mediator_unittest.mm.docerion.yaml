@@ -1,0 +1,4 @@
+# Docerion header of permissions_infobar_modal_overlay_mediator_unittest.mm.
+type: test
+title: Unit tests for the permissions infobar modal overlay mediator
+summary: Verifies that the permissions infobar modal mediator sets up its consumer and dispatches permission state updates.

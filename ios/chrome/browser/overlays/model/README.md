@@ -1,3 +1,9 @@
+---
+type: readme
+title: OverlayPresenter
+summary: Documents the overlay system's key classes and walks through requesting, presenting, and dispatching overlay UI with examples.
+---
+
 # OverlayPresenter
 
 OverlayPresenter is used to schedule the display of UI alongside the content

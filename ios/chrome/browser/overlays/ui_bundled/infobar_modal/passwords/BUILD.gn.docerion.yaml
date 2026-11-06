@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for passwords infobar modal overlays
+summary: Defines the passwords source set and its unit test target with sources and dependencies for the iOS password infobar modal overlay UI.

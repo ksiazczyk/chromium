@@ -1,0 +1,4 @@
+# Docerion header of tailored_security_infobar_banner_overlay_mediator.mm.
+type: source
+title: Tailored security infobar banner overlay mediator implementation
+summary: Implements the mediator, configuring the banner consumer's title, subtitle, button and shield icon and handling the accept button press for tailored security infobars.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration group infobar banner overlay mediator header
+// summary: Header declaring CollaborationGroupInfobarBannerOverlayMediator, a mediator that configures an infobar banner for collaboration group.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_COLLABORATION_GROUP_COLLABORATION_GROUP_INFOBAR_BANNER_OVERLAY_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_BANNER_COLLABORATION_GROUP_COLLABORATION_GROUP_INFOBAR_BANNER_OVERLAY_MEDIATOR_H_
 

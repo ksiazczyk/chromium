@@ -1,0 +1,4 @@
+# Docerion header of overlay_container_view_controller.mm.
+type: source
+title: Overlay container view controller implementation
+summary: Implements the overlay container view, forwarding touches only to subviews and notifying its delegate when moved to a window.

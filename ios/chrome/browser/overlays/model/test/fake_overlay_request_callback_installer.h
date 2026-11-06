@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake overlay request callback installer and receivers
+// summary: Declares fake and gmock callback receivers plus FakeOverlayRequestCallbackInstaller, which installs test callbacks on overlay requests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_TEST_FAKE_OVERLAY_REQUEST_CALLBACK_INSTALLER_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_TEST_FAKE_OVERLAY_REQUEST_CALLBACK_INSTALLER_H_
 

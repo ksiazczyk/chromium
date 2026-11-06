@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for test modality overlay coordinators
+summary: GN build file defining the test_modality source set of test overlay coordinators and the unit_tests target for their tests.

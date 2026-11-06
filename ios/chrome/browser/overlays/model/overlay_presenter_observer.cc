@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPresenterObserver base implementation
+// summary: Implements the OverlayPresenterObserver base class, enforcing removal from the presenter observer list before destruction and defaulting request support to all requests.
+// ---
+
 #include "ios/chrome/browser/overlays/model/public/overlay_presenter_observer.h"
 
 #include <ostream>

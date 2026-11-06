@@ -1,0 +1,4 @@
+# Docerion header of fake_overlay_presentation_context.mm.
+type: test
+title: Implementation of the fake overlay presentation context
+summary: Implements FakeOverlayPresentationContext, faking overlay presentation, hiding, cancellation and dismissal callbacks for overlay tests.

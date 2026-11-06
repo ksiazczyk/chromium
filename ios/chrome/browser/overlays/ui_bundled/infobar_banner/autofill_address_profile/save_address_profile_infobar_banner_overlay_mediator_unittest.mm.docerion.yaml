@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: Save address profile infobar banner overlay mediator unit tests
+summary: Unit tests verifying that the mediator sets up its banner consumer correctly and shows the modal when the button is pressed.

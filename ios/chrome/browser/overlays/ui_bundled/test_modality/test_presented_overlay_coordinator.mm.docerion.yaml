@@ -1,0 +1,4 @@
+# Docerion header of test_presented_overlay_coordinator.mm.
+type: source
+title: TestPresentedOverlayCoordinator implementation
+summary: Implements a test overlay coordinator that presents its overlay view controller over the current context.

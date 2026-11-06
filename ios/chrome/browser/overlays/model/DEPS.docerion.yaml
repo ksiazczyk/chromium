@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the overlays model directory
+summary: Sets allowed include paths for the directory and grants extra includes to specific overlay dialog files.

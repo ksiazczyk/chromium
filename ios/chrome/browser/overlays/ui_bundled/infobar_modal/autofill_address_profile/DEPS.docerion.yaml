@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill address profile overlay UI
+summary: Specifies allowed include rules for the autofill address profile overlay directory in Chromium's dependency checking.

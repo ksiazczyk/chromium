@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Overlay UI bundled test helpers build file
+summary: GN build file defining the testonly source set of fake and mock overlay test helpers along with their source and dependency list.

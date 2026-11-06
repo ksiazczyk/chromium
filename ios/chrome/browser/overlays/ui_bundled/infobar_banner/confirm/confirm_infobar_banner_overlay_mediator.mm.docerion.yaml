@@ -1,0 +1,4 @@
+# Docerion header of confirm_infobar_banner_overlay_mediator.mm.
+type: source
+title: Confirm infobar banner overlay mediator implementation
+summary: Implements the mediator that sets banner title, message, button and icon from the confirm request config and dispatches the remove-infobar response on dismissal.

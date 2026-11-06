@@ -1,0 +1,4 @@
+# Docerion header of infobar_banner_overlay_mediator.mm.
+type: source
+title: Infobar banner overlay mediator implementation
+summary: Implements banner delegate actions such as main button presses, dismissal and modal presentation responses.

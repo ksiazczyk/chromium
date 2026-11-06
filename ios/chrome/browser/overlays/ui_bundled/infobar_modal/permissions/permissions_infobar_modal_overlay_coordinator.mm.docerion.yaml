@@ -1,0 +1,4 @@
+# Docerion header of permissions_infobar_modal_overlay_coordinator.mm.
+type: source
+title: Permissions infobar modal overlay coordinator implementation
+summary: Implements modal configuration that creates the permissions mediator and table view controller for the overlay request.

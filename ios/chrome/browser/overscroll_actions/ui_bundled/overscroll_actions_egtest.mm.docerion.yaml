@@ -1,0 +1,4 @@
+# Docerion header of overscroll_actions_egtest.mm.
+type: test
+title: Earl Grey tests for overscroll actions
+summary: Earl Grey UI tests verifying that overscroll actions can close, open and reload tabs on the NTP and on web views.

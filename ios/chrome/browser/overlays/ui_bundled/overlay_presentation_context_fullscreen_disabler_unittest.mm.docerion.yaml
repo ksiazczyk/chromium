@@ -1,0 +1,4 @@
+# Docerion header of overlay_presentation_context_fullscreen_disabler_unittest.mm.
+type: test
+title: Overlay container fullscreen disabler unit tests
+summary: Tests that fullscreen is disabled while overlays are displayed and re-enabled once overlays are hidden.

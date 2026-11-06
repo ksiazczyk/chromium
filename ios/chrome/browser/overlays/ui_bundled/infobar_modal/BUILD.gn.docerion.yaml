@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Infobar modal overlay build definition
+summary: Defines the coordinators, mediators, and unit test source sets with their sources and dependencies for the iOS infobar modal overlay UI.

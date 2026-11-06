@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayRequestImpl implementation
+// summary: Implements OverlayRequest creation with unique IDs, callback manager access, and execution of completion callbacks on destruction.
+// ---
+
 #include "ios/chrome/browser/overlays/model/overlay_request_impl.h"
 
 #include "base/no_destructor.h"

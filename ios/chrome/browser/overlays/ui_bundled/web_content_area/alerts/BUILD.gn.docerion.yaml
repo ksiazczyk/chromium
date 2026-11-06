@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the alert overlay sources and unit tests
+summary: Defines the alerts source set with its coordinator and mediator sources plus the unit_tests target and their build dependencies.

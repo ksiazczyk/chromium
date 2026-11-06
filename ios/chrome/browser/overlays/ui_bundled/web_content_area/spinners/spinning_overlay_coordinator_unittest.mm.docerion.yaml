@@ -1,0 +1,4 @@
+# Docerion header of spinning_overlay_coordinator_unittest.mm.
+type: test
+title: Spinning overlay coordinator unit tests
+summary: Unit tests verifying that the coordinator sets up its view in the hierarchy and notifies the delegate on animated and non-animated start and stop.

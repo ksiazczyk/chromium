@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfobarModalOverlayCoordinator interface
+// summary: Declares the overlay request coordinator that presents infobar modal UI via OverlayPresenter and conforms to InfobarModalPresentationHandler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_INFOBAR_MODAL_OVERLAY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_UI_BUNDLED_INFOBAR_MODAL_INFOBAR_MODAL_OVERLAY_COORDINATOR_H_
 

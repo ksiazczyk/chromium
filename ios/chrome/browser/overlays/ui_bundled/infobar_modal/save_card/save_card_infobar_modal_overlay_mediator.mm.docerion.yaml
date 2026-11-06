@@ -1,0 +1,4 @@
+# Docerion header of save_card_infobar_modal_overlay_mediator.mm.
+type: source
+title: Save Card infobar modal overlay mediator implementation
+summary: Implements the Save Card modal mediator, configuring the consumer, logging user metrics, and auto-closing the success confirmation state with timers.

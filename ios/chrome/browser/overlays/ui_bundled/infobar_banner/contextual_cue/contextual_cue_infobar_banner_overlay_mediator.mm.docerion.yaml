@@ -1,0 +1,4 @@
+# Docerion header of contextual_cue_infobar_banner_overlay_mediator.mm.
+type: source
+title: ContextualCueInfobarBannerOverlayMediator implementation
+summary: Implements the contextual cue banner mediator, populating banner content and handling accept and settings navigation actions.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tailored security infobar banner build targets
+summary: GN build file defining the tailored_security source set and its unit_tests target with their sources and dependencies.

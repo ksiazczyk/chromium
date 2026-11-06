@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for contextual cue
+summary: Lists the include directories that code in the contextual_cue folder is allowed to depend on.

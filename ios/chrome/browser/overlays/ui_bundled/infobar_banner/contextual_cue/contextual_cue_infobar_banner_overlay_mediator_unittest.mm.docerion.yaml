@@ -1,0 +1,4 @@
+# Docerion header of contextual_cue_infobar_banner_overlay_mediator_unittest.mm.
+type: test
+title: ContextualCueInfobarBannerOverlayMediator unit tests
+summary: Tests the contextual cue banner mediator using fake Gemini, sync, and feature engagement services plus mock command handlers.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates directory code ownership to the shared components/origin_gating OWNERS file.

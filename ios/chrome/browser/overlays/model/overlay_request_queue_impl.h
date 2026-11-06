@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayRequestQueueImpl header
+// summary: Declares the mutable overlay request queue implementation with per-modality containers, delegate, and observer interfaces.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_OVERLAYS_MODEL_OVERLAY_REQUEST_QUEUE_IMPL_H_
 #define IOS_CHROME_BROWSER_OVERLAYS_MODEL_OVERLAY_REQUEST_QUEUE_IMPL_H_
 

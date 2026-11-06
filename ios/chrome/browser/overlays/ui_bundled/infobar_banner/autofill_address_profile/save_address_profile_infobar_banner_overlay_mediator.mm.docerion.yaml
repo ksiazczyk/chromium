@@ -1,0 +1,4 @@
+# Docerion header of save_address_profile_infobar_banner_overlay_mediator.mm.
+type: source
+title: Save address profile infobar banner overlay mediator implementation
+summary: Implements the banner mediator, setting title, subtitle, button text and icon, and presenting the modal when the banner button is pressed.
