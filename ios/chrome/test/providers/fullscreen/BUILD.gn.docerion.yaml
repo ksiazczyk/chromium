@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fullscreen test provider build definition
+summary: GN build file defining the fullscreen test provider source set and its dependencies on base, the fullscreen API, and web features.

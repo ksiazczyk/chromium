@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for iOS strings tools
+summary: Defines GN targets for the generate_localizable_strings and substitute_strings_identifier executables and the grit_header_parsing source set.

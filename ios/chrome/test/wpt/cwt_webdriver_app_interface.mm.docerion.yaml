@@ -1,0 +1,4 @@
+# Docerion header of cwt_webdriver_app_interface.mm.
+type: source
+title: CWT WebDriver app interface implementation for iOS Chrome tests
+summary: Implements the CWTWebDriverAppInterface used by WebDriver tests to control Chrome on iOS, including tab lookup by ID, URL loading with timeouts, and main-thread synchronization helpers.

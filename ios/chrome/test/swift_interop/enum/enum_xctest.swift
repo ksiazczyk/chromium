@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Swift XCTest for C++ enum interoperability
+// summary: XCTest cases verifying that typed, untyped, and enum class C++ enums are imported and compared correctly from Swift.
+// ---
+
 import CxxImports
 import XCTest
 

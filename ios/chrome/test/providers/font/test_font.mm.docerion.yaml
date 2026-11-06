@@ -1,0 +1,4 @@
+# Docerion header of test_font.mm.
+type: test
+title: Test font provider returning system fonts
+summary: Test provider implementation that returns the system default font instead of branded product fonts for regular and medium weights.

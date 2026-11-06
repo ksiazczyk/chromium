@@ -1,0 +1,4 @@
+# Docerion header of substitute_strings_identifier.mm.
+type: source
+title: Substitute strings identifier tool
+summary: Command-line tool that loads a plist and replaces IDS_/IDR_ string identifiers with their numerical values from a grit header, writing the converted plist to an output path.

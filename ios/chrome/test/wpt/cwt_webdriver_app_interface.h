@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWTWebDriverAppInterface header
+// summary: Declares app-side methods for tab management, navigation, JavaScript execution, snapshots, and stderr logging used by the WebDriver handler.
+// ---
+
 #ifndef IOS_CHROME_TEST_WPT_CWT_WEBDRIVER_APP_INTERFACE_H_
 #define IOS_CHROME_TEST_WPT_CWT_WEBDRIVER_APP_INTERFACE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Memory experimenter test provider build file
+summary: GN build file defining the memory_experimenter source set with a dependency on the memory experimenter provider API.

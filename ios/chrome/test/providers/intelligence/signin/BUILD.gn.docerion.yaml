@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the signin test AI provider
+summary: GN build file defining the testonly signin source_set that compiles signin_test_ai.mm and depends on the signin provider resources and interfaces.

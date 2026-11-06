@@ -1,0 +1,4 @@
+# Docerion header of test_device_attestation.mm.
+type: test
+title: Test device attestation provider stubs
+summary: Supplies test doubles for the iOS device attestation provider, returning a stub integrity service and a null attestation service.

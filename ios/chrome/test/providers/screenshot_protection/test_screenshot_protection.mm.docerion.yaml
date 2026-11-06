@@ -1,0 +1,4 @@
+# Docerion header of test_screenshot_protection.mm.
+type: test
+title: Test screenshot protection provider stub
+summary: Implements a no-op SetScreenshotProtection test provider so tests run without screenshot protection side effects.

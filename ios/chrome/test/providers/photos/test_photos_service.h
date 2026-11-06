@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPhotosService test double header
+// summary: Declares TestPhotosService, a PhotosService test double that lets tests set the upload result and inspect uploaded image data.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_PHOTOS_TEST_PHOTOS_SERVICE_H_
 #define IOS_CHROME_TEST_PROVIDERS_PHOTOS_TEST_PHOTOS_SERVICE_H_
 

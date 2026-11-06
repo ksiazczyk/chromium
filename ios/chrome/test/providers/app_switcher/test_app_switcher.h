@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Switcher provider test helper interface
+// summary: Declares a protocol and a setter for injecting a test helper that replaces the App Switcher provider during iOS Chrome tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_APP_SWITCHER_TEST_APP_SWITCHER_H_
 #define IOS_CHROME_TEST_PROVIDERS_APP_SWITCHER_TEST_APP_SWITCHER_H_
 

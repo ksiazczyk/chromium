@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CWTStderrLogger singleton header
+// summary: Declares a singleton that redirects stderr output to a file, used to capture app output during crash tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_WPT_CWT_STDERR_LOGGER_H_
 #define IOS_CHROME_TEST_WPT_CWT_STDERR_LOGGER_H_
 

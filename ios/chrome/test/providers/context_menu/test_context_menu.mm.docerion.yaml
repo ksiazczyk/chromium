@@ -1,0 +1,4 @@
+# Docerion header of test_context_menu.mm.
+type: test
+title: Test context menu provider stub
+summary: Test-only provider implementation returning empty context menu elements, configurations, and no-op intent handling for the iOS Chrome context menu API.

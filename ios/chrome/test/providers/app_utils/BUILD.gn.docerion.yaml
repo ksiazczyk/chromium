@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the app_utils test provider
+summary: GN build file defining the testonly app_utils source set that builds test stubs for the iOS Chrome app_utils provider API.

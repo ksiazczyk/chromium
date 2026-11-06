@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for password_auto_fill test provider
+summary: GN build file defining the password_auto_fill test source_set and its dependency on the iOS password auto fill provider API.

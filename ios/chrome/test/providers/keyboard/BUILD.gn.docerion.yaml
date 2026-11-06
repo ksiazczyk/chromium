@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Keyboard test provider build definition
+summary: Defines the test-only keyboard source set that compiles test_keyboard.mm and depends on the iOS Chrome keyboard provider API.

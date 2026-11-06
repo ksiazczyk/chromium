@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake GlowEffect view header
+// summary: Declares FakeGlowEffectView, a UIView conforming to the GlowEffect protocol that fakes glow behavior in tests.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_GLOW_EFFECT_FAKE_GLOW_EFFECT_H_
 #define IOS_CHROME_TEST_PROVIDERS_GLOW_EFFECT_FAKE_GLOW_EFFECT_H_
 

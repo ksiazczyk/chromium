@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test switcher info provider header
+// summary: Declares test helpers to set default and per-identity switcher info results and to reset the test state.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_SWITCHER_INFO_TEST_SWITCHER_INFO_H_
 #define IOS_CHROME_TEST_PROVIDERS_SWITCHER_INFO_TEST_SWITCHER_INFO_H_
 

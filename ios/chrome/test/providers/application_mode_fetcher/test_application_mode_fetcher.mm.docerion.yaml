@@ -1,0 +1,4 @@
+# Docerion header of test_application_mode_fetcher.mm.
+type: test
+title: Test application mode fetcher provider implementation
+summary: Implements the fake application mode fetcher provider, forwarding fetch requests to the registered test helper.

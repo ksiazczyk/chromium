@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of grit header resource parsing
+// summary: Implements parsing of grit-generated headers to build a map of resource identifiers to their numeric values.
+// ---
+
 #include "ios/chrome/tools/strings/grit_header_parsing.h"
 
 #include <string>

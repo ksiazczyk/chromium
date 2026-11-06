@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Context menu test provider build file
+summary: GN build file defining the testonly context_menu source set that compiles test_context_menu.mm against the context menu provider API.

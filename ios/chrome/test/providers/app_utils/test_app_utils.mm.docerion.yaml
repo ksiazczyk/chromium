@@ -1,0 +1,4 @@
+# Docerion header of test_app_utils.mm.
+type: test
+title: No-op app_utils provider stubs for tests
+summary: Implements the iOS Chrome app_utils provider API with empty functions so tests run without global state, experimental settings, or browser agents.

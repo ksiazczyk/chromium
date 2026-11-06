@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App store bundle test provider build file
+summary: GN build definition for the app_store_bundle test provider source set, depending on the app store bundle model and provider API.

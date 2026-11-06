@@ -1,0 +1,4 @@
+# Docerion header of test_trusted_vault.mm.
+type: test
+title: Test trusted vault provider
+summary: Test provider factory that returns a FakeTrustedVaultClientBackend for the trusted vault API in iOS Chrome tests.

@@ -1,0 +1,4 @@
+# Docerion header of test_app_store_bundle_service.mm.
+type: test
+title: Fake app store bundle service implementation
+summary: Implements the fake app store bundle service, returning the configured app count and capturing the promo dismiss handler so tests can trigger it.

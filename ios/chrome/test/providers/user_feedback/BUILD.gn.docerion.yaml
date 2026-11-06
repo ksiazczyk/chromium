@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the user feedback test provider
+summary: GN build file defining the test-only user_feedback source_set and its dependencies on base and the user feedback API.

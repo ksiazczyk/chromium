@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String helper header
+// summary: Declares addStringFromCxx for the Swift interop tests and notes that string.h would conflict with the standard library header.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_STD_STRING_HELPER_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_STD_STRING_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of device_check_xctest.mm.
+type: test
+title: Device check XCUITest for network connectivity
+summary: XCUITest that launches Chrome, navigates to google.com and verifies the offline dino page is not shown, confirming Internet connectivity.

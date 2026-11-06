@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the test application mode fetcher provider
+summary: GN build file defining the testonly source set that bundles the fake application mode fetcher provider used by iOS Chrome tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: C++ enum definitions for Swift interop tests
+// summary: Declares typed, untyped, and enum class C++ enums that are imported into Swift to exercise enum interoperability.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_ENUM_ENUM_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_ENUM_ENUM_H_
 

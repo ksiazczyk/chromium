@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the test Lottie provider
+summary: Defines the GN source_set that builds the test Lottie animation provider and its dependency on the Lottie animation API.

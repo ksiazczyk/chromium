@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector interop XCTest
+// summary: XCTest cases covering conversion, iteration, and argument passing of C++ vectors from Swift, plus a subscript extension for move-only string vectors.
+// ---
+
 import CxxImports
 import XCTest
 

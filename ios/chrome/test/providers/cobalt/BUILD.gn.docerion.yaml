@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Cobalt test provider
+summary: GN build file defining a test-only source set that compiles the Cobalt provider test stubs and depends on the Cobalt provider API.

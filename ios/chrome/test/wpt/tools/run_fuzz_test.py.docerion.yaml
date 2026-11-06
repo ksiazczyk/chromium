@@ -1,0 +1,4 @@
+# Docerion header of run_fuzz_test.py.
+type: script
+title: Local iOS fuzz test runner
+summary: Python script for local fuzzing that starts, verifies and restarts the CWTChromeDriver server on an iOS simulator before running tests.

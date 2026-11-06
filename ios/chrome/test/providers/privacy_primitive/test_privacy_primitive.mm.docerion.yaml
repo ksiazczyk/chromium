@@ -1,0 +1,4 @@
+# Docerion header of test_privacy_primitive.mm.
+type: test
+title: Test privacy primitive provider implementation
+summary: Implements a fake Privacy Primitive service that reports failure and lets tests override the provider factory globally.

@@ -1,0 +1,4 @@
+# Docerion header of test_content_notification.mm.
+type: test
+title: Test content notification service implementation
+summary: Supplies a dummy ContentNotificationService implementation returning empty results, used as the provider stub in iOS tests.

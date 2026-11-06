@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XCTest for SharedObject ARC lifetime and reference counting
+// summary: Verifies SharedObject lifetime management by Swift ARC and autorelease pools using a global reference counter.
+// ---
+
 import CxxImports
 import XCTest
 

@@ -1,0 +1,4 @@
+# Docerion header of test_keyboard.mm.
+type: test
+title: Test keyboard provider implementation
+summary: Test provider for the keyboard API that returns the last window of the connected UIWindowScenes as the keyboard window.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: vpython environment for WPT tools
+# summary: Declares the required Python version and package dependencies for running the WPT tools scripts with vpython.
+# ---
+
 requires-python = '>=3.11,<3.12'
 dependencies = [
   'psutil==5.8.0+chromium.3',

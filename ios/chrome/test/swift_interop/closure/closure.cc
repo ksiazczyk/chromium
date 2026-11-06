@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClosureProvider implementation for Swift interop
+// summary: Implements ClosureProvider, exposing Chromium repeating and once callbacks as std::function objects that Swift can call, with manual retain and release helpers.
+// ---
+
 #include "ios/chrome/test/swift_interop/closure/closure.h"
 
 #include "base/apple/swift_callback_helpers.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the mailto_handler test provider
+summary: Defines the mailto_handler source_set that compiles the test mailto handler stub and links it against base, the mailto handler service, and the provider API.

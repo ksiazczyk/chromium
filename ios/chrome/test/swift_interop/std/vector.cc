@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector helper C++ implementation
+// summary: Implements int vector helpers, a vector of unique_ptr strings, and a move-only Swift interop wrapper for the string vector.
+// ---
+
 #include "ios/chrome/test/swift_interop/std/vector.h"
 
 SWIFT_DEFINE_MOVE_ONLY_INTEROP_WRAPPER(CxxStringVector, StringVector)

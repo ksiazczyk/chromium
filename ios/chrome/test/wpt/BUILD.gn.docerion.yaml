@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for iOS Chrome WPT tests
+summary: Defines GN targets for the chrome_ios_wpt script test, the Chromedriver XCTest app host and module, and ClusterFuzz support.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for iOS variations smoke tests
+summary: Defines GN source sets for the Earl Grey variations smoke test, its app support, and test support targets with their dependencies.

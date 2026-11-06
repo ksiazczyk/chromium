@@ -1,0 +1,4 @@
+# Docerion header of test_gemini.mm.
+type: test
+title: Fake Gemini provider implementation for tests
+summary: Objective-C++ test fake that stubs the iOS Gemini bwg provider API, recording calls and mock state such as view mode, quota, and page context for unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Omaha provider stub
+// summary: Supplies test implementations of the Omaha provider functions returning a test update server URL, application ID and brand code.
+// ---
+
 #include <string_view>
 
 #include "ios/public/provider/chrome/browser/omaha/omaha_api.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Test font provider build definition
+summary: Defines the font source_set that builds test_font.mm and depends on the iOS Chrome font provider API.

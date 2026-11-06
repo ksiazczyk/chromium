@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Google One test provider build definition
+summary: GN build file defining the google_one source set that compiles the test Google One provider with dependencies on base and the Google One provider API.

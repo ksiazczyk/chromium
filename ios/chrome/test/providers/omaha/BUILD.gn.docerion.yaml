@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the test Omaha provider
+summary: Defines the test-only omaha source set that compiles test_omaha.cc and depends on the iOS Omaha provider API.

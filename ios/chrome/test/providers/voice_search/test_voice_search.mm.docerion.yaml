@@ -1,0 +1,4 @@
+# Docerion header of test_voice_search.mm.
+type: test
+title: Voice search test provider implementation
+summary: Implements test stubs for the voice search provider, returning a fixed English (US) language list and letting tests toggle Voice Search availability.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test TTC API header
+// summary: Declares test-only functions to override, reset, and restore the TTC configuration and audio engine used by the mock provider.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_INTELLIGENCE_TEST_TTC_API_H_
 #define IOS_CHROME_TEST_PROVIDERS_INTELLIGENCE_TEST_TTC_API_H_
 

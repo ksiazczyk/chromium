@@ -1,0 +1,4 @@
+# Docerion header of test_photos_service.mm.
+type: test
+title: TestPhotosService implementation
+summary: Implements the fake PhotosService, recording uploads, posting progress, and completing with a configurable result and quit closure.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValueObserver implementation for Swift interop
+// summary: Implements ValueObserver, exposing a value-change callback as a std::function that Swift subjects can invoke, with manual retain and release helpers.
+// ---
+
 #include "ios/chrome/test/swift_interop/closure/observer.h"
 
 #include "base/apple/swift_callback_helpers.h"

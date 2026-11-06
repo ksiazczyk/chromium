@@ -1,0 +1,4 @@
+# Docerion header of objc_xctest.mm.
+type: test
+title: Objective-C++ XCTest for Swift interop
+summary: XCTest case verifying that Swift strings, arrays, optionals and structs can be created and manipulated from Objective-C++ through the generated SwiftAPI header.

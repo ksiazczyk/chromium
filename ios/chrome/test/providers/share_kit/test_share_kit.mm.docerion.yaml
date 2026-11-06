@@ -1,0 +1,4 @@
+# Docerion header of test_share_kit.mm.
+type: test
+title: Test ShareKit service provider
+summary: Implements the CreateShareKitService factory to return a TestShareKitService built from the given configuration for use in iOS provider tests.

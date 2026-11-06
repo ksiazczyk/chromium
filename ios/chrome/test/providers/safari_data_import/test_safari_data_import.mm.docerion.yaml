@@ -1,0 +1,4 @@
+# Docerion header of test_safari_data_import.mm.
+type: test
+title: Test stub for Safari data import provider
+summary: Supplies an empty test implementation of OpenSettingsToExportDataFromSafari for the iOS Safari data import provider API.

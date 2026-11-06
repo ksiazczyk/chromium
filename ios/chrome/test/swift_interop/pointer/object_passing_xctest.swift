@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XCTest for passing C++ objects by reference and pointer to Swift
+// summary: Verifies that C++ objects can be passed to and from Swift by reference and pointer, including a documented type-mismatch compile check.
+// ---
+
 import CxxImports
 import XCTest
 

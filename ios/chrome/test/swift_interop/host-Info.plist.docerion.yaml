@@ -1,0 +1,4 @@
+# Docerion header of host-Info.plist.
+type: config
+title: Test host app Info.plist
+summary: Property list configuring the XCUITest host app bundle with launch images, supported orientations and scene delegate settings.

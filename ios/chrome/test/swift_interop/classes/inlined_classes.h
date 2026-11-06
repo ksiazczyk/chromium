@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inlined C++ classes for Swift interop tests
+// summary: Declares C++ classes with inlined methods, including a class renamed to RenamedClass via apinotes, for Swift interop testing.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_CLASSES_INLINED_CLASSES_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_CLASSES_INLINED_CLASSES_H_
 

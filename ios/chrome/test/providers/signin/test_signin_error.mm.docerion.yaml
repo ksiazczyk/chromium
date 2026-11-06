@@ -1,0 +1,4 @@
+# Docerion header of test_signin_error.mm.
+type: test
+title: Test signin error provider
+summary: Creates test signin errors and maps them to signin error categories for iOS Chrome tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XCTest for inlined C++ classes in Swift
+// summary: XCTest case verifying that inlined C++ classes and the apinotes-renamed class behave correctly when used from Swift.
+// ---
+
 import CxxImports
 import UIKit
 import XCTest

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Raccoon test provider build configuration
+summary: GN build file defining the raccoon test provider source set, compiling test_raccoon.mm with a dependency on the raccoon provider API.

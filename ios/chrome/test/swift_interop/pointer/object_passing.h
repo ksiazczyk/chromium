@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Object and ObjectPassing classes for Swift interop tests
+// summary: Declares C++ Object and ObjectPassing classes used to test passing objects by reference and pointer across the Swift/C++ boundary.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_POINTER_OBJECT_PASSING_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_POINTER_OBJECT_PASSING_H_
 

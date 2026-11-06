@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_tool_test.py.
+type: test
+title: Unit tests for the Python iOS strings tool
+summary: Unit tests covering localized strings generation and string identifier substitution in the Python iOS strings tool.

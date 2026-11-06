@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedObject header with SWIFT_SHARED_REFERENCE retain and release
+// summary: Declares the SharedObject interface with SWIFT_SHARED_REFERENCE so Swift manages its lifetime via retain and release calls.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_POINTER_SHARED_PTR_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_POINTER_SHARED_PTR_H_
 

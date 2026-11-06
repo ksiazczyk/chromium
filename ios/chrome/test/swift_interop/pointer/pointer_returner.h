@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PointerReturner header with Swift import_unsafe pointer annotations
+// summary: Declares PointerReturner with import_unsafe annotations so Swift can import methods that return raw pointers.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_POINTER_POINTER_RETURNER_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_POINTER_POINTER_RETURNER_H_
 

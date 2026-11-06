@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Swift enum interop tests
+summary: GN build file that imports enum.h for Swift/C++ interop and defines the testonly Swift source set with the enum XCTest cases.

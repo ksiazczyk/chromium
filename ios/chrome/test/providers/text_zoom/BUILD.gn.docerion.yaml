@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Text zoom test provider build file
+summary: GN build file defining the testonly text_zoom source set and its dependencies on the font size feature and text zoom API.

@@ -1,0 +1,4 @@
+# Docerion header of test_discover_feed_service.mm.
+type: test
+title: TestDiscoverFeedService implementation
+summary: Implements the dummy DiscoverFeedService with stubbed feed methods that record the collection view and visibility state for use in tests.

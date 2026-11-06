@@ -1,0 +1,4 @@
+# Docerion header of test_switcher_info.mm.
+type: test
+title: Test switcher info provider implementation
+summary: Implements a fake GetSwitcherInfo provider that returns configured default or per-identity results to tests.

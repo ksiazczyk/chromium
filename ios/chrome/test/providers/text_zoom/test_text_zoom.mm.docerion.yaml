@@ -1,0 +1,4 @@
+# Docerion header of test_text_zoom.mm.
+type: test
+title: Text zoom test provider implementation
+summary: Test provider that enables text zoom and adjusts a web state's font size via the font size JavaScript feature for iOS Chrome tests.

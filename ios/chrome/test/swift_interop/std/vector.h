@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector helper header
+// summary: Declares vector test helpers and a SWIFT move-only interop wrapper used when a container holds non-copyable types.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_STD_VECTOR_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_STD_VECTOR_H_
 

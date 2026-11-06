@@ -1,0 +1,4 @@
+# Docerion header of run_cwt_chromedriver.py.
+type: script
+title: CWTChromeDriver launcher for iOS simulators
+summary: Python script that launches the CWTChromeDriver WebDriver server in an iOS simulator, with options for port, build directory, device and ASan.

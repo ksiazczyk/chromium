@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App distribution test provider build config
+summary: Defines the source_set build target for the test app distribution provider, listing its sources and its dependency on the app distribution API.

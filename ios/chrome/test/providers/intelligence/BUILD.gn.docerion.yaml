@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for intelligence test providers
+summary: Defines the testonly intelligence source set listing the mock provider sources and their base, intelligence API, and URL dependencies.

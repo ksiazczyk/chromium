@@ -1,0 +1,4 @@
+# Docerion header of test_partial_translate.mm.
+type: test
+title: Partial translate test provider implementation
+summary: Implements the partial translate provider entry points by delegating to the globally set test controller factory.

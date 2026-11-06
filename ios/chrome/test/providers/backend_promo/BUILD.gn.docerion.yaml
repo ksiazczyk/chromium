@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Backend promo test provider BUILD.gn
+summary: GN build file defining a testonly source_set for the backend promo test provider, depending on the backend promo model.

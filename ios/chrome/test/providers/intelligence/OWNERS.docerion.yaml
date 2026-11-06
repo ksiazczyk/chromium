@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for intelligence test providers
+summary: Delegates ownership to the OWNERS file of ios/chrome/browser/intelligence so this test provider directory shares the same owners.

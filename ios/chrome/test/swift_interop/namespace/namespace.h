@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: C++ header defining namespaced classes and enums for interop tests
+// summary: Declares Goat classes, enums, and nested namespaces used to exercise Swift/C++ interop name resolution, including known problem cases.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_NAMESPACE_NAMESPACE_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_NAMESPACE_NAMESPACE_H_
 

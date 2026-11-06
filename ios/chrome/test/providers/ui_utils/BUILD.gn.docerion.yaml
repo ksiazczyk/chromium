@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ui_utils test provider
+summary: GN build definition for the testonly ui_utils source set that compiles test_ui_utils.mm against the iOS provider ui_utils API.

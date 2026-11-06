@@ -1,0 +1,4 @@
+# Docerion header of test_multiwindow.mm.
+type: test
+title: Test stub for the multiwindow provider
+summary: Test provider implementation whose IsWindowSceneActivationAllowed always returns true to allow window scene activation in tests.

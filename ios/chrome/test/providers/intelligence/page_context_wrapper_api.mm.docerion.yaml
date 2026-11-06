@@ -1,0 +1,4 @@
+# Docerion header of page_context_wrapper_api.mm.
+type: source
+title: Page context wrapper API stub
+summary: Stub provider that reports no URLs as protected and returns a script indicating PageContext should never be detached.

@@ -1,0 +1,4 @@
+# Docerion header of generate_localizable_strings.gni.
+type: config
+title: GN template for generating localized strings bundles
+summary: GN template that builds localized string bundles for iOS from packed locale.pak files using the generate_localizable_strings tool.

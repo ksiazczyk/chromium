@@ -1,0 +1,4 @@
+# Docerion header of test_signin_resources.mm.
+type: test
+title: Test signin resources provider
+summary: Test provider that supplies a solid-color placeholder image as the default signin avatar for iOS Chrome tests.

@@ -1,0 +1,4 @@
+# Docerion header of variations_smoke_egtest.mm.
+type: test
+title: Earl Grey smoke test for variations seed fetching
+summary: Earl Grey test case that verifies a variations seed is fetched and stored in Local State prefs, supporting seed, signature, and channel arguments.

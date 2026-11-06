@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Multiwindow test provider build definition
+summary: GN build file defining the testonly multiwindow source set that compiles test_multiwindow.mm and depends on the multiwindow API.

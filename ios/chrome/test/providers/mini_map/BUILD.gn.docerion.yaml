@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Mini map test provider build file
+summary: GN build file defining the mini_map source_set that compiles the mini map test provider sources together with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Outlined class implementation for Swift interop tests
+// summary: Implements the Outlined class constructors and addition method whose declarations live in outlined.h.
+// ---
+
 #include "ios/chrome/test/swift_interop/classes/outlined.h"
 
 Outlined::Outlined() : sum_(0) {}

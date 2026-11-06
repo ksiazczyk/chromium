@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the iOS strings tools directory
+summary: Restricts includes in this directory to the ui/base resource data pack and resource handle headers.

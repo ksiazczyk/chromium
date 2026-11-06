@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_xcuitest_app_host.gni.
+type: config
+title: GN template for the XCUITest Chrome host app
+summary: GN template that builds a test-only Chrome host app for XCUITests, wiring test hooks, resources and tweaked Info.plist entries.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Swift C++ std interop tests
+summary: Defines test-only GN targets for C++ std helpers, Swift C++ imports, and Swift XCTest sources used to test Swift C++ interop.

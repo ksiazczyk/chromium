@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: GN build target for test Drive provider
+summary: Defines the testonly drive source set that compiles test_drive.mm and links Drive test support and provider API dependencies.

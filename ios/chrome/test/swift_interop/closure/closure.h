@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClosureProvider interface header
+// summary: Declares the ClosureProvider interface with SWIFT_SHARED_REFERENCE annotations so C++ closures can be handed to Swift with correct ownership.
+// ---
+
 #ifndef IOS_CHROME_TEST_SWIFT_INTEROP_CLOSURE_CLOSURE_H_
 #define IOS_CHROME_TEST_SWIFT_INTEROP_CLOSURE_CLOSURE_H_
 

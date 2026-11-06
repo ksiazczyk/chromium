@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the branded images test provider
+summary: Defines the branded_images source_set with its test source and a dependency on the branded images provider API.

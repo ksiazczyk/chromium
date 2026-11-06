@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Swift-C++ struct interop tests
+summary: Defines GN targets that expose struct.h to Swift via swift_cxx_import and build a testonly Swift XCTest source set for struct interoperability.

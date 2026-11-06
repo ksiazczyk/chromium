@@ -1,0 +1,4 @@
+# Docerion header of test_lottie_animation.mm.
+type: test
+title: Test stub implementation of the LottieAnimation provider
+summary: Provides a fake LottieAnimation implementation that tracks play, stop and pause state for use in iOS Chrome tests.

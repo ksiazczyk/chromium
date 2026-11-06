@@ -1,0 +1,4 @@
+# Docerion header of test_raccoon.mm.
+type: test
+title: Raccoon test provider stub
+summary: Test implementation of the raccoon provider whose IsRaccoonEnabled function always returns false for iOS Chrome builds under test.

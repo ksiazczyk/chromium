@@ -1,0 +1,4 @@
+# Docerion header of cwt_tests_hook.mm.
+type: test
+title: WPT app tests hook overrides
+summary: Overrides Chrome tests hooks to disable first run, promos, and other app features and to expose the EDO app interface for WPT runs.

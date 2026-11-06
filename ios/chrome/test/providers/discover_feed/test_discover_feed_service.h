@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDiscoverFeedService class declaration
+// summary: Declares a dummy DiscoverFeedService subclass for tests that stubs feed behavior and exposes a fake eligibility handler, collection view and visibility state.
+// ---
+
 #ifndef IOS_CHROME_TEST_PROVIDERS_DISCOVER_FEED_TEST_DISCOVER_FEED_SERVICE_H_
 #define IOS_CHROME_TEST_PROVIDERS_DISCOVER_FEED_TEST_DISCOVER_FEED_SERVICE_H_
 
