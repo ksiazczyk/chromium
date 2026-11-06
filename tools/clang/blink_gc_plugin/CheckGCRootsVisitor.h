@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckGCRootsVisitor header
+// summary: Declares a visitor that checks the fields of a class and its part objects for GC roots defined by Persistent handles, with optional unique_ptr checking.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_CHECK_GC_ROOTS_VISITOR_H_
 #define TOOLS_BLINK_GC_PLUGIN_CHECK_GC_ROOTS_VISITOR_H_
 

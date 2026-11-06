@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variant of GCed type test source
+// summary: Test source exercising absl::variant and std::variant of garbage-collected types to verify the plugin rejects them in GC classes.
+// ---
+
 #include "variant_of_gced_type.h"
 
 namespace blink {

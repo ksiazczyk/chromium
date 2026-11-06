@@ -1,0 +1,4 @@
+# Docerion header of persistent_field_in_gc_managed_class.flags.
+type: test
+title: Clang plugin flags for the persistent field test
+summary: Supplies extra clang plugin arguments that enable the persistent-in-unique-ptr check for the persistent field test case.

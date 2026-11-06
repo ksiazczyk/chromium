@@ -1,0 +1,4 @@
+# Docerion header of off-heap-collections-of-members.txt.
+type: test
+title: Off-heap collections of Members expected output
+summary: Expected blink-gc plugin warnings for off-heap collections holding Member types.

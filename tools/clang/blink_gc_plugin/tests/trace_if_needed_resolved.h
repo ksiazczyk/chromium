@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace if needed resolved test header
+// summary: Test header declaring a heap object with member, integer and unique_ptr fields traced via TraceIfNeeded.
+// ---
+
 #ifndef TRACE_IF_NEEDED_RESOLVED_H_
 #define TRACE_IF_NEEDED_RESOLVED_H_
 

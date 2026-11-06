@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Off-heap collections of Members test source
+// summary: Test source using STL and WTF collections of Member types to trigger disallowed-collection warnings.
+// ---
+
 #include "off-heap-collections-of-members.h"
 
 namespace blink {

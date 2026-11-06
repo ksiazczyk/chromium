@@ -1,0 +1,4 @@
+# Docerion header of trace_wrapper.txt.
+type: test
+title: Expected diagnostics for trace_wrapper
+summary: Expected blink-gc plugin output with warnings about untraced str_ fields and base class B requiring tracing.

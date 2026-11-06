@@ -1,0 +1,4 @@
+# Docerion header of cycle_ptrs.txt.
+type: test
+title: cycle_ptrs.txt
+summary: Expected plugin output listing the leaking cycle detected in cycle_ptrs.h.

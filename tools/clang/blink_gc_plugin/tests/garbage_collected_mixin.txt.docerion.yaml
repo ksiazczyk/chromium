@@ -1,0 +1,4 @@
+# Docerion header of garbage_collected_mixin.txt.
+type: test
+title: Garbage collected mixin expected warnings
+summary: Expected blink-gc plugin warnings for untraced mixin fields and a base mixin requiring tracing.

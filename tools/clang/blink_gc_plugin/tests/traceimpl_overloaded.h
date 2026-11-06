@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overloaded trace test header
+// summary: Declares garbage-collected base and derived classes with inlined and out-of-line Trace methods for the traceimpl_overloaded test.
+// ---
+
 #ifndef TRACEIMPL_OVERLOADED_H_
 #define TRACEIMPL_OVERLOADED_H_
 

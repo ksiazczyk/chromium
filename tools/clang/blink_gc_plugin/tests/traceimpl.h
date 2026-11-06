@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink GC plugin test header for TraceImpl
+// summary: Declares classes with inlined and out-of-line Trace implementations used by the traceimpl test.
+// ---
+
 #ifndef TRACEIMPL_H_
 #define TRACEIMPL_H_
 

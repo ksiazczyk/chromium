@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Class does not require finalization test header
+// summary: Header with garbage-collected classes that do or do not need finalizers, used to check the plugin's finalization analysis.
+// ---
+
 #ifndef CLASS_DOES_NOT_REQUIRE_FINALIZATION_BASE_H_
 #define CLASS_DOES_NOT_REQUIRE_FINALIZATION_BASE_H_
 

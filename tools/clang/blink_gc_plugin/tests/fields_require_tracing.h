@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fields require tracing test header
+// summary: Declares garbage-collected classes with Member fields and arrays that the plugin must require to be traced.
+// ---
+
 #ifndef FIELDS_REQUIRE_TRACING_H_
 #define FIELDS_REQUIRE_TRACING_H_
 

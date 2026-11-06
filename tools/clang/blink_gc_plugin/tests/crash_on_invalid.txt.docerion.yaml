@@ -1,0 +1,4 @@
+# Docerion header of crash_on_invalid.txt.
+type: test
+title: Expected errors for crash on invalid test
+summary: Expected compiler errors for the crash_on_invalid test, covering the unknown GarbageCollected template and the unknown WrapperTypeInfo type name.

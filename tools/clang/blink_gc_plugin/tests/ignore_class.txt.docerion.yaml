@@ -1,0 +1,4 @@
+# Docerion header of ignore_class.txt.
+type: test
+title: Expected warnings for ignore_class test
+summary: Expected plugin diagnostic output for the ignore_class test, listing the untraced-field warning for class C and the note pointing at the field declaration.

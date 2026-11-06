@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: make_unique_gc_object test header
+// summary: Header defining garbage-collected Base, Derived, and Mixin classes used by the make_unique test case.
+// ---
+
 #ifndef MAKE_UNIQUE_GC_OBJECT_H_
 #define MAKE_UNIQUE_GC_OBJECT_H_
 

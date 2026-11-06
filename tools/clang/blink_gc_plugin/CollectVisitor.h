@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectVisitor header
+// summary: Declares a Clang AST visitor that collects record declarations and trace method definitions as entry points for the GC checker.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_COLLECT_VISITOR_H_
 #define TOOLS_BLINK_GC_PLUGIN_COLLECT_VISITOR_H_
 

@@ -6,6 +6,12 @@
 // information about a class. Accumulated information is memoized and the info
 // objects are stored in a RecordCache.
 
+// ---docerion
+// type: source
+// title: RecordInfo class declaration
+// summary: Declares RecordInfo and graph point classes that memoize GC-related information about C++ classes in a RecordCache.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_RECORD_INFO_H_
 #define TOOLS_BLINK_GC_PLUGIN_RECORD_INFO_H_
 

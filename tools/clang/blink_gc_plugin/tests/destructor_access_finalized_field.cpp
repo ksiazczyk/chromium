@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destructor access finalized field test source
+// summary: Test source with a finalizer that validly and invalidly accesses fields to exercise finalized-field checks.
+// ---
+
 #include "destructor_access_finalized_field.h"
 
 namespace blink {

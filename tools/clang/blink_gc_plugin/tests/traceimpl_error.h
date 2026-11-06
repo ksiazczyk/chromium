@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: traceimpl error test header
+// summary: Declares GarbageCollected classes with untraced Member fields and untraced base classes to test Trace implementation diagnostics.
+// ---
+
 #ifndef TRACEIMPL_ERROR_H_
 #define TRACEIMPL_ERROR_H_
 

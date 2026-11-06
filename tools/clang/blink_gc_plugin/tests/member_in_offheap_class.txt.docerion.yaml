@@ -1,0 +1,4 @@
+# Docerion header of member_in_offheap_class.txt.
+type: test
+title: member_in_offheap_class expected plugin warnings
+summary: Expected blink-gc plugin warnings about invalid Member and WeakMember fields in unmanaged classes.

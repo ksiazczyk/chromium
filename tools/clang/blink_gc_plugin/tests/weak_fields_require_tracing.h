@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Weak fields require tracing test header
+// summary: Header declaring a garbage-collected class with member, weak member and weak set fields for the weak tracing test.
+// ---
+
 #ifndef WEAK_FIELDS_REQUIRE_TRACING_H_
 #define WEAK_FIELDS_REQUIRE_TRACING_H_
 

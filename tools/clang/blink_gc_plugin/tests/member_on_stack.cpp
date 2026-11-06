@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: member_on_stack test source
+// summary: Test source declaring Member and WeakMember locals to exercise the members-on-stack check of the blink-gc plugin.
+// ---
+
 #include "member_on_stack.h"
 
 namespace blink {

@@ -1,0 +1,4 @@
+# Docerion header of optional_gc_object.txt.
+type: test
+title: Expected diagnostics for the optional GC object test
+summary: Contains the expected Blink GC plugin warnings and notes about disallowed optional fields and variables in the optional GC object test case.

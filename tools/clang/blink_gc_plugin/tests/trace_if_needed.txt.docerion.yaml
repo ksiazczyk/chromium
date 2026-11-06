@@ -1,0 +1,4 @@
+# Docerion header of trace_if_needed.txt.
+type: test
+title: Trace if needed expected warnings
+summary: Expected plugin warning about the untraced field m_two in the trace_if_needed test.

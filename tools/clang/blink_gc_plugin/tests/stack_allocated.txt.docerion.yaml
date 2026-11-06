@@ -1,0 +1,4 @@
+# Docerion header of stack_allocated.txt.
+type: test
+title: Stack allocated expected warnings
+summary: Expected blink-gc plugin warning output for the stack-allocated class test cases.

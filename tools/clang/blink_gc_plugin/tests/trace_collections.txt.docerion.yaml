@@ -1,0 +1,4 @@
+# Docerion header of trace_collections.txt.
+type: test
+title: Trace collections expected warnings
+summary: Expected plugin output listing the untraced collection fields reported for the trace_collections test.

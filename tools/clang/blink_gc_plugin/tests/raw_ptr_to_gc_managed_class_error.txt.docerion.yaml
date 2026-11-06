@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_to_gc_managed_class_error.txt.
+type: test
+title: Raw pointer to GC managed class error expected output
+summary: Expected compiler errors for the -Werror variant, reporting invalid fields in PartObject and HeapObject.

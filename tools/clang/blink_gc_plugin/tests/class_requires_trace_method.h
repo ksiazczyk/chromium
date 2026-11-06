@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: class_requires_trace_method test header
+// summary: Header defining part objects and mixins with untraced members used to trigger the plugin's missing trace method warnings.
+// ---
+
 #ifndef CLASS_REQUIRES_TRACE_METHOD_H_
 #define CLASS_REQUIRES_TRACE_METHOD_H_
 

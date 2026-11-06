@@ -1,0 +1,4 @@
+# Docerion header of traceimpl_dependent_scope.txt.
+type: test
+title: traceimpl dependent scope expected output
+summary: Expected blink-gc plugin warnings listing base classes that require tracing in the dependent scope test.

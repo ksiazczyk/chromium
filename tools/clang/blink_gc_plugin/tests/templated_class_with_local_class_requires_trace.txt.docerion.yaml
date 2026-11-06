@@ -1,0 +1,4 @@
+# Docerion header of templated_class_with_local_class_requires_trace.txt.
+type: test
+title: Expected warnings for templated class with local class trace test
+summary: Expected compiler warnings for the templated_class_with_local_class_requires_trace test case of the Blink GC plugin.

@@ -4,6 +4,12 @@
 //
 // Test file for the empty string clang tool.
 
+// ---docerion
+// type: test
+// title: Empty string clang tool test input
+// summary: C++ input file containing empty std::string and std::wstring constructions used to exercise the empty_string clang tool rewriter.
+// ---
+
 #include <string>
 
 // Tests for std::string declarations.

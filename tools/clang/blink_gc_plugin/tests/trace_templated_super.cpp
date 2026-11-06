@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink GC plugin test source for templated super Trace
+// summary: C++ test input where templated Super and Sub classes define Trace methods and Sub omits tracing its m_obj field.
+// ---
+
 #include "trace_templated_super.h"
 
 namespace blink {

@@ -1,0 +1,4 @@
+# Docerion header of register_weak_members_template.txt.
+type: test
+title: Register weak members template expected warnings
+summary: Expected blink-gc plugin warning output for the untraced weak member field in the weak members template test.

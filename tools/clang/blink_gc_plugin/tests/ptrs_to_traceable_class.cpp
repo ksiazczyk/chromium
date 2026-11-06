@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointers to traceable class test source
+// summary: Test source creating raw pointers, references, and unique_ptr to a traceable class to verify which pointer patterns the plugin accepts.
+// ---
+
 #include "ptrs_to_traceable_class.h"
 
 namespace blink {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overloaded trace test source
+// summary: Implements Trace for ExternBase and ExternDerived, tracing fields and calling the base Trace, for the traceimpl_overloaded test.
+// ---
+
 #include "traceimpl_overloaded.h"
 
 namespace blink {

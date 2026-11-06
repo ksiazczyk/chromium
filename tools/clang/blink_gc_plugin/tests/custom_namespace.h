@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom namespace test header
+// summary: Header defining a garbage-collected HeapObject in the custom namespace, checked only when check-namespace=custom is passed.
+// ---
+
 #ifndef TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_CUSTOM_NAMESPACE_H_
 #define TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_CUSTOM_NAMESPACE_H_
 

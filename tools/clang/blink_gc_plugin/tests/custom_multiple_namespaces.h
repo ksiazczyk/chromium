@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Custom multiple namespaces test header
+// summary: Header with garbage-collected classes in namespaces custom_a and custom_b plus an unchecked namespace used to test namespace-scoped checks.
+// ---
+
 #ifndef TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_CUSTOM_MULTIPLE_NAMESPACES_H_
 #define TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_CUSTOM_MULTIPLE_NAMESPACES_H_
 

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Test artifacts gitignore
+# summary: Ignores compiled object files and actual test output files generated when running the blink-gc plugin tests.
+# ---
+
 /*.o
 /*.txt.actual

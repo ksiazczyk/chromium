@@ -1,0 +1,4 @@
+# Docerion header of custom_multiple_namespaces.flags.
+type: test
+title: Custom multiple namespaces plugin flags
+summary: Plugin arguments that enable blink-gc namespace checking for custom_a and custom_b during the test run.

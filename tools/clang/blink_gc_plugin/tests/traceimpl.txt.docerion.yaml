@@ -1,0 +1,4 @@
+# Docerion header of traceimpl.txt.
+type: test
+title: traceimpl test expected output
+summary: Empty expected-output file for the traceimpl test case, indicating no blink-gc plugin diagnostics are expected.

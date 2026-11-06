@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Config implementation
+// summary: Implements the Config class with GC infrastructure name constants and template instantiation checks for the plugin.
+// ---
+
 #include "Config.h"
 
 #include <cassert>

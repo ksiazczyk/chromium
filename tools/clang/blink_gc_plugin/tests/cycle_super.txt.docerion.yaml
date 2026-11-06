@@ -1,0 +1,4 @@
+# Docerion header of cycle_super.txt.
+type: test
+title: Cycle super expected plugin output
+summary: Expected blink-gc plugin output reporting a potentially leaking GC cycle between classes C and D through a super-class chain.

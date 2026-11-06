@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckGCRootsVisitor implementation
+// summary: Implements a visitor that walks class fields and part objects to find GC roots, collecting Persistent handles and references to them as errors.
+// ---
+
 #include "CheckGCRootsVisitor.h"
 #include "BlinkGCPluginOptions.h"
 

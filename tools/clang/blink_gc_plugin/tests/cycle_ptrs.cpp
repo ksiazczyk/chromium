@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cycle pointers test source
+// summary: Test implementing Trace methods for classes A and B that reference each other, exercising cycle handling in the blink-gc plugin.
+// ---
+
 #include "cycle_ptrs.h"
 
 namespace blink {

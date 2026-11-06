@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fields illegal tracing test header
+// summary: Declares classes holding illegal fields like managed smart pointers and collection iterators to exercise plugin checks.
+// ---
+
 #ifndef FIELDS_ILLEGAL_TRACING_H_
 #define FIELDS_ILLEGAL_TRACING_H_
 

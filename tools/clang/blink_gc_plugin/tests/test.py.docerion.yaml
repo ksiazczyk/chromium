@@ -1,0 +1,4 @@
+# Docerion header of test.py.
+type: test
+title: Blink GC plugin test harness
+summary: Test harness that runs the Blink GC plugin tests with a given clang binary and compares actual diagnostics against expected results.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckForbiddenFieldsVisitor implementation
+// summary: Implements checks that forbid field types like blink::TaskRunnerTimer and Mojo remotes or receivers inside GC-managed classes and their embedded objects.
+// ---
+
 #include "CheckForbiddenFieldsVisitor.h"
 #include "BlinkGCPluginOptions.h"
 

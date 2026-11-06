@@ -1,0 +1,4 @@
+# Docerion header of class_overrides_new.txt.
+type: test
+title: class_overrides_new expected plugin output
+summary: Expected blink-gc plugin diagnostics warning that garbage-collected classes are not permitted to override their new operator.

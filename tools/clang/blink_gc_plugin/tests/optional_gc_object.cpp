@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink GC plugin test for optional fields of GC-managed types
+// summary: Test input exercising the Blink GC plugin's checks for absl::optional and std::optional fields and variables holding garbage-collected or traceable types.
+// ---
+
 #include "optional_gc_object.h"
 
 namespace blink {

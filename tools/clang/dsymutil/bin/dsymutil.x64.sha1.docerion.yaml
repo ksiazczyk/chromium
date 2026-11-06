@@ -1,0 +1,4 @@
+# Docerion header of dsymutil.x64.sha1.
+type: data
+title: dsymutil x64 SHA-1 checksum
+summary: Holds the SHA-1 checksum used to verify the x64 build of the dsymutil binary in this folder.

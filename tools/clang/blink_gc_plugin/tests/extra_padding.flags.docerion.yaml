@@ -1,0 +1,4 @@
+# Docerion header of extra_padding.flags.
+type: test
+title: Extra padding check plugin flags
+summary: Plugin arguments enabling the extra padding check with an x86_64 Linux target for the extra_padding test.

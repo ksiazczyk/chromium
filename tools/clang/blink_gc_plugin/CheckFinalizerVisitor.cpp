@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckFinalizerVisitor implementation
+// summary: Implements a visitor that detects invalid accesses to potentially finalized fields, such as passing them to calls or using the arrow and subscript operators on them.
+// ---
+
 #include "CheckFinalizerVisitor.h"
 
 using namespace clang;

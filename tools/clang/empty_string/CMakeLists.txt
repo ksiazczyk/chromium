@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Build configuration for the empty_string Clang tool
+# summary: CMake build definition that compiles the empty_string Clang tool and links it against the required LLVM and Clang libraries.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

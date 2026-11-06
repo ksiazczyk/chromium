@@ -1,0 +1,4 @@
+# Docerion header of class_requires_trace_method.txt.
+type: test
+title: class_requires_trace_method expected plugin output
+summary: Expected blink-gc plugin diagnostics for classes with untraced fields that require a trace method.

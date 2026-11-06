@@ -1,0 +1,4 @@
+# Docerion header of polymorphic_class_with_non_virtual_trace.txt.
+type: test
+title: Polymorphic class with non-virtual trace expected output
+summary: Expected Blink GC plugin warnings about non-polymorphic left-most base classes for the polymorphic trace test.

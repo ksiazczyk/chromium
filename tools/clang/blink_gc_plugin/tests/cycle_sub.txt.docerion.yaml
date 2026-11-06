@@ -1,0 +1,4 @@
+# Docerion header of cycle_sub.txt.
+type: test
+title: cycle_sub.txt
+summary: Expected plugin output listing the leaking cycle detected in cycle_sub.h.

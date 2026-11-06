@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cycle_sub.cpp
+// summary: Implements the Trace methods used by the cycle_sub leaking-cycle test case.
+// ---
+
 #include "cycle_sub.h"
 
 namespace blink {

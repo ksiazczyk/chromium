@@ -9,6 +9,12 @@
 // would allow us to catch errors with structures outside of blink that might
 // have unsafe pointers to GC allocated blink structures.
 
+// ---docerion
+// type: source
+// title: Config header
+// summary: Declares GC infrastructure names and helpers that recognize managed members, persistents, smart pointers, and collections.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_CONFIG_H_
 #define TOOLS_BLINK_GC_PLUGIN_CONFIG_H_
 

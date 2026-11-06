@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckFinalizerVisitor header
+// summary: Declares a visitor that checks finalizer methods for invalid access to fields that may be collected during finalization, recording the offending member expressions.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_CHECK_FINALIZER_VISITOR_H_
 #define TOOLS_BLINK_GC_PLUGIN_CHECK_FINALIZER_VISITOR_H_
 

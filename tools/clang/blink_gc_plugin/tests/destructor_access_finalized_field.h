@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destructor access finalized field test header
+// summary: Header declaring HeapObject and helper classes with Member fields used by the finalizer access test.
+// ---
+
 #ifndef DESTRUCTOR_ACCESS_FINALIZED_FIELD_H_
 #define DESTRUCTOR_ACCESS_FINALIZED_FIELD_H_
 

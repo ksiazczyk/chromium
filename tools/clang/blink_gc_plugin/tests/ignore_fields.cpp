@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ignore_fields test implementation
+// summary: Test source defining C::Trace with a deliberately missing trace of one field to exercise diagnostics for ignored fields.
+// ---
+
 #include "ignore_fields.h"
 
 namespace blink {

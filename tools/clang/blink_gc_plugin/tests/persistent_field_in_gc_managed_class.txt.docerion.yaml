@@ -1,0 +1,4 @@
+# Docerion header of persistent_field_in_gc_managed_class.txt.
+type: test
+title: Expected diagnostics for the persistent field in GC-managed class test
+summary: Contains the expected Blink GC plugin warnings about GC roots and references to GC roots in a garbage-collected class.

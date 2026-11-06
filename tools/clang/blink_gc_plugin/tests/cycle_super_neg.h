@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cycle super negative test header
+// summary: Header declaring classes A through D to verify that super-class relationships do not form a leaking GC cycle.
+// ---
+
 #ifndef CYCLE_SUPER_NEG_H_
 #define CYCLE_SUPER_NEG_H_
 

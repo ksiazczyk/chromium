@@ -1,3 +1,13 @@
+---
+type: readme
+title: Clang Blink GC plugin
+summary: Describes the Clang plugin that checks Blink garbage collection invariants and how to build, test, and enable it.
+relations:
+  - documents /tools/clang/scripts/build.py
+  - documents /tools/clang/blink_gc_plugin/tests/test.py
+  - references /third_party/blink/renderer/BUILD.gn
+---
+
 # Clang Blink GC plugin
 
 A Clang plugin that checks various invariants of the Blink garbage

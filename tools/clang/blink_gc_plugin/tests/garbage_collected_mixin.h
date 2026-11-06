@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Garbage collected mixin test header
+// summary: Declares a GarbageCollectedMixin subclass and a heap object deriving from it to test mixin tracing diagnostics.
+// ---
+
 #ifndef GARBAGE_COLLECTED_MIXIN_H_
 #define GARBAGE_COLLECTED_MIXIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad pattern finder implementation
+// summary: Implements AST matchers that detect banned patterns such as using std::make_unique or base::WrapUnique with garbage-collected types.
+// ---
+
 #include "BadPatternFinder.h"
 
 #include <clang/AST/Decl.h>

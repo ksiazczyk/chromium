@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base class must define virtual trace test header
+// summary: Header declaring part and heap base classes that intentionally omit a virtual Trace method to trigger plugin warnings.
+// ---
+
 #ifndef BASE_CLASS_MUST_DEFINE_VIRTUAL_TRACE_H_
 #define BASE_CLASS_MUST_DEFINE_VIRTUAL_TRACE_H_
 

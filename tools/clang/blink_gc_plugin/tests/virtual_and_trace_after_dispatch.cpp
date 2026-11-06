@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual and trace after dispatch test source
+// summary: Test source implementing manual Trace and TraceAfterDispatch dispatching for classes with virtual methods.
+// ---
+
 #include "virtual_and_trace_after_dispatch.h"
 
 namespace blink {

@@ -1,0 +1,4 @@
+# Docerion header of persistent_no_trace.txt.
+type: test
+title: Persistent no trace expected output
+summary: Expected Blink GC plugin diagnostics listing untraceable persistent fields for the persistent_no_trace test case.

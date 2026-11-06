@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCed as field or variable test header
+// summary: Declares classes holding GC-managed types as fields and heap collections to test field usage diagnostics.
+// ---
+
 #ifndef GCED_AS_FIELD_OR_VARIABLE_H_
 #define GCED_AS_FIELD_OR_VARIABLE_H_
 

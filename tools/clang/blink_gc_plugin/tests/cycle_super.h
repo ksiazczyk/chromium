@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cycle_super.h
+// summary: Test header with a leaking cycle formed through superclass references to a refcounted class.
+// ---
+
 #ifndef CYCLE_SUPER_H_
 #define CYCLE_SUPER_H_
 

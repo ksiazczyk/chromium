@@ -7,6 +7,12 @@
 // take a copy of an empty string) and generates fewer instructions as well. It
 // should be run using the tools/clang/scripts/run_tool.py helper.
 
+// ---docerion
+// type: source
+// title: Clang tool converting std::string("") to std::string()
+// summary: Clang AST matcher tool that rewrites std::string("") into the more efficient std::string(), meant to be run via tools/clang/scripts/run_tool.py.
+// ---
+
 #include <memory>
 #include "clang/ASTMatchers/ASTMatchFinder.h"
 #include "clang/ASTMatchers/ASTMatchers.h"

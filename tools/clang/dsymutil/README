@@ -1,3 +1,9 @@
+---
+type: readme
+title: dsymutil README
+summary: Instructions for uploading a new dsymutil package to CIPD, covering downloading the tarball for Mac architectures, unpacking it, and uploading the binary to Google Cloud Storage.
+---
+
 In order to upload a new dsymutil package to CIPD, do the following:
 
 For arch in Mac, Mac_arm64:

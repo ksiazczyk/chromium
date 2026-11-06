@@ -4,6 +4,12 @@
 //
 // Test file for the empty string clang tool.
 
+// ---docerion
+// type: test
+// title: Empty string clang tool expected output test
+// summary: Expected C++ result of the empty_string clang tool, showing std::string and std::wstring declarations after empty-string constructor arguments are removed.
+// ---
+
 #include <string>
 
 // Tests for std::string declarations.

@@ -1,0 +1,4 @@
+# Docerion header of ptrs_to_traceable_class.txt.
+type: test
+title: Pointers to traceable class expected output
+summary: Expected Blink GC plugin diagnostics about invalid raw pointer, reference, and unique_ptr fields in the ptrs_to_traceable_class test.

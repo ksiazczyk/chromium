@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trace after dispatch implementation test input
+// summary: C++ test input with valid manual trace dispatch implementations for inlined and external TraceAfterDispatch hierarchies.
+// ---
+
 #include "trace_after_dispatch_impl.h"
 
 namespace blink {

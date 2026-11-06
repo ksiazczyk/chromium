@@ -1,0 +1,4 @@
+# Docerion header of traceable_part_object_in_unmanaged.txt.
+type: test
+title: Expected diagnostics for traceable_part_object_in_unmanaged
+summary: Expected blink-gc plugin output flagging traceable part object fields found in unmanaged classes.

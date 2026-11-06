@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeakPtr to GC managed class test header
+// summary: Declares GC-managed, mixin and non-GC classes with WeakPtr and WeakPtrFactory fields, including an ignored field, used as input for the plugin test.
+// ---
+
 #ifndef WEAK_PTR_TO_GC_MANAGED_CLASS_H_
 #define WEAK_PTR_TO_GC_MANAGED_CLASS_H_
 

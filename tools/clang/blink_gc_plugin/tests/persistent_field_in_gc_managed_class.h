@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test classes for the persistent field in GC-managed class test
+// summary: Declares a garbage-collected class with Persistent, WeakPersistent and unique_ptr fields used by the persistent field plugin test.
+// ---
+
 #ifndef PERSISTENT_FIELD_IN_GC_MANAGED_CLASS_H_
 #define PERSISTENT_FIELD_IN_GC_MANAGED_CLASS_H_
 

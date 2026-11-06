@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Class multiple trace bases test header
+// summary: Header declaring classes derived from a garbage-collected base and mixins to test required Trace method detection.
+// ---
+
 #ifndef CLASS_MULTIPLE_TRACE_BASES_H_
 #define CLASS_MULTIPLE_TRACE_BASES_H_
 

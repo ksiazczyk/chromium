@@ -1,0 +1,4 @@
+# Docerion header of traceimpl_overloaded.txt.
+type: test
+title: Overloaded trace expected output
+summary: Empty expected diagnostics file for the traceimpl_overloaded test case, indicating no plugin warnings.

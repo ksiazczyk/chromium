@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: traceimpl derived from templated base test source
+// summary: Includes the test header and defines nothing, serving as the translation unit for the templated base tracing test.
+// ---
+
 #include "traceimpl_derived_from_templated_base.h"
 
 // Nothing to define.

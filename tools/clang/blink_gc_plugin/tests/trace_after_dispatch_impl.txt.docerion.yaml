@@ -1,0 +1,4 @@
+# Docerion header of trace_after_dispatch_impl.txt.
+type: test
+title: Empty expected output for trace after dispatch implementation test
+summary: Empty expected result file indicating the trace_after_dispatch_impl test case produces no warnings.

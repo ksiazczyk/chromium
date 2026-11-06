@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckFieldsVisitor implementation
+// summary: Implements the visitor that validates fields of garbage-collected and stack-allocated classes, reporting invalid Members, pointers, and collections.
+// ---
+
 #include "CheckFieldsVisitor.h"
 
 #include <cassert>

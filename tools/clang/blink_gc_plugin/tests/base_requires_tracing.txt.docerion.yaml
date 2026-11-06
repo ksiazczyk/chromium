@@ -1,0 +1,4 @@
+# Docerion header of base_requires_tracing.txt.
+type: test
+title: Base requires tracing expected output
+summary: Expected warning output for the base requires tracing test case.

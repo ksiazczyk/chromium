@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Templated class with local class requires trace test header
+// summary: Test header with a templated garbage-collected class containing a local class whose fields require tracing.
+// ---
+
 #ifndef TEMPLATED_CLASS_WITH_LOCAL_CLASS_REQUIRES_TRACE_H
 #define TEMPLATED_CLASS_WITH_LOCAL_CLASS_REQUIRES_TRACE_H
 

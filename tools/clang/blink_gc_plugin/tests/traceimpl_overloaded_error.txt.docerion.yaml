@@ -1,0 +1,4 @@
+# Docerion header of traceimpl_overloaded_error.txt.
+type: test
+title: Overloaded trace error expected output
+summary: Expected blink-gc plugin diagnostics listing untraced fields and base classes requiring tracing for the traceimpl_overloaded_error test.

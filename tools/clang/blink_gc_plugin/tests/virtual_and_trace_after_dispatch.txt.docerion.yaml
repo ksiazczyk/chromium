@@ -1,0 +1,4 @@
+# Docerion header of virtual_and_trace_after_dispatch.txt.
+type: test
+title: Virtual and trace after dispatch expected warnings
+summary: Expected Blink GC plugin warnings about a non-polymorphic base class and manual dispatch in a class with virtual methods.

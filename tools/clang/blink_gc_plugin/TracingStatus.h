@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingStatus value class
+// summary: Defines an ordered status classifying field tracing as illegal, unneeded, unknown, or needed for the GC plugin checks.
+// ---
+
 #ifndef TOOLS_BLINK_GC_PLUGIN_TRACING_STATUS_H_
 #define TOOLS_BLINK_GC_PLUGIN_TRACING_STATUS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of extra_padding.txt.
+type: test
+title: Extra padding expected warnings
+summary: Expected Blink GC plugin warnings about struct padding growth for the extra padding test case.

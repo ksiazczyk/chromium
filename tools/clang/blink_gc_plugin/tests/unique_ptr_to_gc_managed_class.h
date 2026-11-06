@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unique pointer to GC managed class test header
+// summary: Header declaring classes that hold std::unique_ptr fields to garbage-collected objects, used as test input for the Blink GC plugin.
+// ---
+
 #ifndef OWN_PTR_TO_GC_MANAGED_CLASS_H_
 #define OWN_PTR_TO_GC_MANAGED_CLASS_H_
 

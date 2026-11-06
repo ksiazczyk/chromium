@@ -1,0 +1,4 @@
+# Docerion header of cycle_super_neg.flags.
+type: test
+title: Cycle super negative test plugin flags
+summary: Clang plugin arguments enabling graph dumping for the cycle_super_neg test run.

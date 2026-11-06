@@ -1,0 +1,4 @@
+# Docerion header of traceimpl_derived_from_templated_base.txt.
+type: test
+title: traceimpl derived from templated base expected output
+summary: Empty expected-output file indicating the templated base tracing test should produce no plugin diagnostics.

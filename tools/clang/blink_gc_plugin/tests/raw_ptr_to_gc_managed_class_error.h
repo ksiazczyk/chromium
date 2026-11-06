@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw pointer to GC managed class error test header
+// summary: Test header declaring invalid raw pointer and reference fields to GC managed classes for the -Werror variant of the test.
+// ---
+
 #ifndef RAW_PTR_TO_GC_MANAGED_CLASS_ERROR_H_
 #define RAW_PTR_TO_GC_MANAGED_CLASS_ERROR_H_
 

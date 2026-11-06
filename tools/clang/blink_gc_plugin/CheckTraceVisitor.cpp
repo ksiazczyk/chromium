@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckTraceVisitor implementation
+// summary: Implements a visitor that traverses trace method bodies to verify member fields and base classes are properly traced, including weak callbacks and templated calls.
+// ---
+
 #include "CheckTraceVisitor.h"
 
 #include <vector>

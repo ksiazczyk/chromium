@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build file for the Blink GC plugin
+# summary: Build configuration that compiles the plugin sources directly into the clang target and registers the plugin test.
+# ---
+
 set(LIBRARYNAME BlinkGCPlugin)
 
 set(plugin_sources

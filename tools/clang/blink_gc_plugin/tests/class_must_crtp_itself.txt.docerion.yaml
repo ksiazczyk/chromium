@@ -1,0 +1,4 @@
+# Docerion header of class_must_crtp_itself.txt.
+type: test
+title: class_must_crtp_itself expected plugin output
+summary: Expected blink-gc plugin warning that a GC base class must be specialized with the derived class itself.

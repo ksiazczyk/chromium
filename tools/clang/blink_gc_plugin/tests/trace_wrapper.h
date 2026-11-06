@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink GC plugin test header for TraceWrapper
+// summary: Declares classes holding TraceWrapperV8Reference fields whose Trace methods omit tracing them, for the trace_wrapper test.
+// ---
+
 #ifndef TRACE_WRAPPER_H_
 #define TRACE_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omitted trace test header
+// summary: Declares Blink GC test classes where Trace can be omitted because nothing needs tracing, plus a derived class calling an inherited Trace.
+// ---
+
 #ifndef TRACEIMPL_OMITTED_TRACE_H_
 #define TRACEIMPL_OMITTED_TRACE_H_
 

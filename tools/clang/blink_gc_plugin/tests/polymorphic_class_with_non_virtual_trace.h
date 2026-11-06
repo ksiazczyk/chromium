@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Polymorphic class with non-virtual trace test header
+// summary: Header with polymorphic, non-polymorphic, and templated base class hierarchies used to test the plugin's polymorphic base class checks.
+// ---
+
 #ifndef POLYMORPHIC_CLASS_WITH_NON_VIRTUAL_TRACE_H_
 #define POLYMORPHIC_CLASS_WITH_NON_VIRTUAL_TRACE_H_
 

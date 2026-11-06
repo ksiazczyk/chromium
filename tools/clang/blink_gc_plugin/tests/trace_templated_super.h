@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blink GC plugin test header for templated super Trace
+// summary: Declares the Mixin, templated Super and Sub classes with Trace methods used by the trace_templated_super test.
+// ---
+
 #ifndef TRACE_TEMPLATED_SUPER_H_
 #define TRACE_TEMPLATED_SUPER_H_
 

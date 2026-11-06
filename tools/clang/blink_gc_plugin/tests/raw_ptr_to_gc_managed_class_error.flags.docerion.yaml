@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_to_gc_managed_class_error.flags.
+type: test
+title: Raw pointer error test compiler flags
+summary: Compiler flags for the raw pointer error test, passing -Werror to turn Blink GC plugin warnings into errors.

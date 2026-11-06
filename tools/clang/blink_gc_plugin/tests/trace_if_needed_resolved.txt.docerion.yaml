@@ -1,0 +1,4 @@
+# Docerion header of trace_if_needed_resolved.txt.
+type: test
+title: Trace if needed resolved empty expected output
+summary: Empty expected-output file indicating the trace_if_needed_resolved test should produce no plugin warnings.

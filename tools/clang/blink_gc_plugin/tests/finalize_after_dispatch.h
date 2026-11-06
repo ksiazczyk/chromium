@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Finalize after dispatch test header
+// summary: Declares a garbage-collected class hierarchy using TraceAfterDispatch and FinalizeGarbageCollectedObject dispatch.
+// ---
+
 #ifndef FINALIZE_AFTER_DISPATCH_H_
 #define FINALIZE_AFTER_DISPATCH_H_
 

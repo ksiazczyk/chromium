@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent no trace test header
+// summary: Header declaring a class that holds Persistent, WeakPersistent, and cross-thread persistent fields for the persistent_no_trace plugin test.
+// ---
+
 #ifndef PERSISTENT_NO_TRACE_H_
 #define PERSISTENT_NO_TRACE_H_
 

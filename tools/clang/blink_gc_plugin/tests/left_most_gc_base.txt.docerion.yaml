@@ -1,0 +1,4 @@
+# Docerion header of left_most_gc_base.txt.
+type: test
+title: left_most_gc_base expected plugin warnings
+summary: Expected blink-gc plugin warnings for classes that must derive from GarbageCollected in the left-most base position.

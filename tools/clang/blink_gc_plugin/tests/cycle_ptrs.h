@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cycle_ptrs.h
+// summary: Test header defining classes that form a leaking garbage-collected pointer cycle.
+// ---
+
 #ifndef CYCLE_PTRS_H_
 #define CYCLE_PTRS_H_
 

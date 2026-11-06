@@ -1,0 +1,4 @@
+# Docerion header of fields_illegal_tracing.txt.
+type: test
+title: Fields illegal tracing expected warnings
+summary: Expected Blink GC plugin diagnostics for invalid fields and untraceable members in the fields illegal tracing test.

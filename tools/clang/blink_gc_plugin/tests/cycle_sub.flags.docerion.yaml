@@ -1,0 +1,4 @@
+# Docerion header of cycle_sub.flags.
+type: test
+title: cycle_sub.flags
+summary: Clang plugin arguments enabling graph dumping for the cycle_sub test case.

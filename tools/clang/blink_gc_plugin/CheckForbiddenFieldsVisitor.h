@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CheckForbiddenFieldsVisitor header
+// summary: Declares a visitor that recursively inspects class fields and embedded objects of managed hosts for forbidden types such as Mojo remotes and receivers.
+// ---
+
 #ifndef TOOLS_CLANG_BLINK_GC_PLUGIN_CHECKFORBIDDENFIELDSVISITOR_H_
 #define TOOLS_CLANG_BLINK_GC_PLUGIN_CHECKFORBIDDENFIELDSVISITOR_H_
 

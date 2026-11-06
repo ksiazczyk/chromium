@@ -1,0 +1,4 @@
+# Docerion header of test-expected.txt.
+type: test
+title: Empty string clang tool expected edits
+summary: Expected replacement edits, with offsets and lengths, that the empty_string clang tool should produce when run on the original test file.

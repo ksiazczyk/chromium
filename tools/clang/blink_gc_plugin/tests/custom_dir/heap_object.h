@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heap object test header for custom directory checks
+// summary: Test fixture header defining a garbage-collected class in an unchecked namespace, used to verify diagnostics when check-directory=custom_dir/ is passed to the Blink GC plugin.
+// ---
+
 #ifndef TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_CUSTOM_DIR_HEAP_OBJECT_H_
 #define TOOLS_CLANG_BLINK_GC_PLUGIN_TESTS_CUSTOM_DIR_HEAP_OBJECT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ignore_fields.txt.
+type: test
+title: Expected warnings for ignore_fields test
+summary: Expected plugin diagnostic output for the ignore_fields test, warning about the untraced field m_one of class C.
