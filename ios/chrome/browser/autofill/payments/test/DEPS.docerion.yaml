@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the autofill payments test directory
+summary: DEPS rule granting this test directory include access to ios/chrome/browser/autofill.

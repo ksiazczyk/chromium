@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS Chrome autofill resources build definition
+summary: GN build file that bundles the autofill asset catalog images (close buttons, keyboard backgrounds, separators, prev/next controls) for the iOS Chrome autofill UI.

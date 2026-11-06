@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChipButton interface
+// summary: Declares ChipButton, a button with a rounded border and a gray background in the highlighted state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_CHIP_BUTTON_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_CHIP_BUTTON_H_
 

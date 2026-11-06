@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FallbackViewController interface
+// summary: Declares a table view controller that presents fallback items in header, data and action sections and loads favicons for cells.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_FALLBACK_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_FALLBACK_VIEW_CONTROLLER_H_
 

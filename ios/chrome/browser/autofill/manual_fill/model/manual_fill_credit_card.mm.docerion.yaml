@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_credit_card.mm.
+type: source
+title: ManualFillCreditCard model implementation
+summary: Implements ManualFillCreditCard with its designated initializer, equality and hash based on GUID and number, and a log-safe description.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillCredential PasswordForm category header
+// summary: Declares a ManualFillCredential category providing a convenience initializer from a password_manager::PasswordForm.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_CREDENTIAL_PASSWORDFORM_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_CREDENTIAL_PASSWORDFORM_H_
 

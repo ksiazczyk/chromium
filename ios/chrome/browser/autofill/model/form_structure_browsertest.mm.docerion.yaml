@@ -1,0 +1,4 @@
+# Docerion header of form_structure_browsertest.mm.
+type: test
+title: Autofill form structure heuristics browser test
+summary: Data-driven browser test that verifies autofill form structure heuristics against expected results on iOS.

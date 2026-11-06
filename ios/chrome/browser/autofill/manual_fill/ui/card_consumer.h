@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillCardConsumer protocol
+// summary: Declares the protocol for objects that present available credit cards and actions when new data arrives.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_CARD_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_CARD_CONSUMER_H_
 

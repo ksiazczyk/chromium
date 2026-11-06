@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the autofill automation directory
+summary: Lists the Chromium account responsible for reviewing changes in the automation directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual fill password list navigator protocol
+// summary: Declares the PasswordListNavigator protocol for navigating manual fallback password views such as all passwords, password manager, settings, and credential details.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_PASSWORD_LIST_NAVIGATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_PASSWORD_LIST_NAVIGATOR_H_
 

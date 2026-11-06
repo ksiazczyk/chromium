@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsScanSaveAndFillOfferBottomSheetCoordinator interface
+// summary: Declares the coordinator that creates the mediator and view controller for the scan card offer bottom sheet shown when a credit card form has no saved cards.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_SCAN_SAVE_AND_FILL_COORDINATOR_PAYMENTS_SCAN_SAVE_AND_FILL_OFFER_BOTTOM_SHEET_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_SCAN_SAVE_AND_FILL_COORDINATOR_PAYMENTS_SCAN_SAVE_AND_FILL_OFFER_BOTTOM_SHEET_COORDINATOR_H_
 

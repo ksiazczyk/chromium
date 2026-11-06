@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the manual fill coordinator
+summary: GN build file defining the coordinator source set and its unit test target, listing their sources and dependencies.

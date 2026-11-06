@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual fill credentials mediator testing category
+// summary: Header declaring a testing category that exposes the private form fetcher setter of ManualFillCredentialsMediator for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_MANUAL_FILL_CREDENTIALS_MEDIATOR_TESTING_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_MANUAL_FILL_CREDENTIALS_MEDIATOR_TESTING_H_
 

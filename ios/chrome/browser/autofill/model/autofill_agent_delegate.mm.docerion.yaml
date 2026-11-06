@@ -1,0 +1,4 @@
+# Docerion header of autofill_agent_delegate.mm.
+type: source
+title: AutofillAgentDelegate implementation
+summary: Implements AutofillAgentDelegate by showing snackbars and forwarding AtMemory UI requests for autofill fields.

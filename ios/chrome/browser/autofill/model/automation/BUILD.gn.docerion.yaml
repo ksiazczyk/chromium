@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for autofill automation Earl Grey tests
+summary: Defines source sets for the Earl Grey 2 automation tests plus app-side and test-side support targets, listing sources, dependencies and frameworks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardListDelegate protocol
+// summary: Declares delegate actions for the manual fallback card list, including adding cards, opening details, and unmasking.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_CARD_LIST_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_CARD_LIST_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of payments_scan_save_and_fill_edit_view_controller.mm.
+type: source
+title: Payments scan save and fill edit view controller implementation
+summary: Implements the table view editor for scanned card details, covering field validation, save button loading and confirmation states, and metrics.

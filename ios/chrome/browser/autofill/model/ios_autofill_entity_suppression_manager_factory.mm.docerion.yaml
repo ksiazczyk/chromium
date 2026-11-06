@@ -1,0 +1,4 @@
+# Docerion header of ios_autofill_entity_suppression_manager_factory.mm.
+type: source
+title: iOS autofill entity suppression manager factory implementation
+summary: Implements the profile-keyed factory that builds the autofill AI entity suppression manager with its sync bridge when the ambient autofill suppression feature is enabled.

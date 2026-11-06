@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for autofill message model
+summary: Defines GN source_set targets for the autofill legal message line sources and their unit tests with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_controller_unittest.mm.
+type: test
+title: Autofill controller unit tests
+summary: Unit tests for the iOS Chrome autofill controller, exercising autofill agent and driver behavior with test profiles, form data, and infobars.

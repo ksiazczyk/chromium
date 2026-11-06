@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments scan save and fill offer bottom sheet consumer protocol
+// summary: Declares the consumer protocol for the offer bottom sheet, defining the request to dismiss the sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_SCAN_SAVE_AND_FILL_UI_PAYMENTS_SCAN_SAVE_AND_FILL_OFFER_BOTTOM_SHEET_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_SCAN_SAVE_AND_FILL_UI_PAYMENTS_SCAN_SAVE_AND_FILL_OFFER_BOTTOM_SHEET_CONSUMER_H_
 

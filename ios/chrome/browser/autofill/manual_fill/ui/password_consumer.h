@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual fill password consumer protocol
+// summary: Declares the ManualFillPasswordConsumer protocol for objects that present credential and action items when new password data becomes available.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_PASSWORD_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_PASSWORD_CONSUMER_H_
 

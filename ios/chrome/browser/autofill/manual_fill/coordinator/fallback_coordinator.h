@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback coordinator interface
+// summary: Declares the base coordinator that presents fallback items such as passwords, cards or addresses as a popover above the keyboard.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_FALLBACK_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_FALLBACK_COORDINATOR_H_
 

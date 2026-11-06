@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_virtual_card_cache_unittest.mm.
+type: test
+title: Manual fill virtual card cache unit tests
+summary: Unit tests covering caching and retrieval of unmasked virtual cards, per-WebState isolation, and cache clearing on new-document navigation.

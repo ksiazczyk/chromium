@@ -1,0 +1,4 @@
+# Docerion header of autofill_bottom_sheet_java_script_feature.mm.
+type: source
+title: Autofill bottom sheet JavaScript feature implementation
+summary: Implements the JavaScript feature, injecting the bottom sheet script and forwarding script messages to the tab helper.

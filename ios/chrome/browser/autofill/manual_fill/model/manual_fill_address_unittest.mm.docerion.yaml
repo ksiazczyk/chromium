@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_address_unittest.mm.
+type: test
+title: ManualFillAddress unit tests
+summary: Unit tests verifying creation, equality and related behavior of the ManualFillAddress model class.

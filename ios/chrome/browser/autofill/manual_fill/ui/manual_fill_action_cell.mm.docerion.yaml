@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_action_cell.mm.
+type: source
+title: Manual fill action cell implementation
+summary: Implements the manual fill action item and cell, configuring the title button styling and handling taps to run the action block.

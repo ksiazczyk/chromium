@@ -1,0 +1,4 @@
+# Docerion header of address_coordinator.mm.
+type: source
+title: Address coordinator implementation
+summary: Implements AddressCoordinator, wiring the address view controller and mediator to inject selected address data into the active web state.

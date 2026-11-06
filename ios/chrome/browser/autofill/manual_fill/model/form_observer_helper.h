@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormObserverHelper interface
+// summary: Declares a helper object that abstracts observing form activity in the active web state of a web state list.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_FORM_OBSERVER_HELPER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_FORM_OBSERVER_HELPER_H_
 

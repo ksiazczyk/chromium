@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the iOS autofill model
+summary: Specifies allowed include rules and per-file dependency exceptions for the iOS autofill model directory.

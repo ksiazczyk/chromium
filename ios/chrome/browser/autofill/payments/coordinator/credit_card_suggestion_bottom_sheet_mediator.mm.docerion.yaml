@@ -1,0 +1,4 @@
+# Docerion header of credit_card_suggestion_bottom_sheet_mediator.mm.
+type: source
+title: Credit card suggestion bottom sheet mediator implementation
+summary: Implements suggestion retrieval, credit card form filling, exit reason metrics, and observation of web state and personal data changes.

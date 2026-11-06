@@ -1,0 +1,4 @@
+# Docerion header of credit_card_suggestion_bottom_sheet_view_controller.mm.
+type: source
+title: Credit card suggestion bottom sheet view controller implementation
+summary: Implements the payments bottom sheet UI, building the credit card suggestion table, logo title, subtitle URL formatting, and button actions.

@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_injection_handler.mm.
+type: source
+title: ManualFillInjectionHandler implementation
+summary: Implements ManualFillInjectionHandler, handling form suggestions, JavaScript injection, reauthentication, accessibility announcements and usage metrics for manual fill.

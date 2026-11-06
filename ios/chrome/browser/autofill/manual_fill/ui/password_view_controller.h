@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password view controller interface
+// summary: Declares PasswordViewController, a fallback view controller that lists usernames and passwords in a table view, together with its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_PASSWORD_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_UI_PASSWORD_VIEW_CONTROLLER_H_
 

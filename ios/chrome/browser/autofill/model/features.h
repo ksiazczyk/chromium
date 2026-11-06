@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS autofill feature flag declarations
+// summary: Declares feature flags controlling iOS autofill behaviors such as the bottom sheet blur, form suggestion controllers, and keyboard accessory options.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_FEATURES_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_FEATURES_H_
 

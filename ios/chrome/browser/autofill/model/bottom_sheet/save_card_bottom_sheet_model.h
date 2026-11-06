@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card bottom sheet model interface
+// summary: Declares the model layer for the save card bottom sheet, wrapping AutofillSaveCardUiInfo and AutofillSaveCardDelegate with save flow states and observer support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_SAVE_CARD_BOTTOM_SHEET_MODEL_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_BOTTOM_SHEET_SAVE_CARD_BOTTOM_SHEET_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity data manager observer bridge header
+// summary: Declares an Objective-C delegate protocol and a C++ bridge that forwards EntityDataManager observer notifications to iOS code.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_AUTOFILL_ENTITY_DATA_MANAGER_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_AUTOFILL_ENTITY_DATA_MANAGER_OBSERVER_BRIDGE_H_
 

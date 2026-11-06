@@ -1,0 +1,4 @@
+# Docerion header of autofill_bottom_sheet_observer_bridge_unittest.mm.
+type: test
+title: Autofill bottom sheet observer bridge unit tests
+summary: Unit tests verifying that the observer bridge forwards payments bottom sheet parameters to the Objective-C observer.

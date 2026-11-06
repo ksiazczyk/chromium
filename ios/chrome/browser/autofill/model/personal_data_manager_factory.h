@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal data manager factory header
+// summary: Declares the profile-keyed factory that owns PersonalDataManager instances for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_PERSONAL_DATA_MANAGER_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_PERSONAL_DATA_MANAGER_FACTORY_H_
 

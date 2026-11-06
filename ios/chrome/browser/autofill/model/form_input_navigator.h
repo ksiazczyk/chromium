@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormInputNavigator protocol declaration
+// summary: Declares the protocol for form navigation actions like closing the keyboard and selecting the next or previous form element.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_INPUT_NAVIGATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_INPUT_NAVIGATOR_H_
 

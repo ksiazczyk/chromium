@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual fill test matchers header
+// summary: Declares Earl Grey matchers for manual fill UI elements such as table views, buttons, tabs, chips, and the expanded manual fill view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_TEST_MANUAL_FILL_MATCHERS_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_TEST_MANUAL_FILL_MATCHERS_H_
 

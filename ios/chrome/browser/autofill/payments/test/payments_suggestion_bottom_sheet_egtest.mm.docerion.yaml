@@ -1,0 +1,4 @@
+# Docerion header of payments_suggestion_bottom_sheet_egtest.mm.
+type: test
+title: Earl Grey tests for the payments suggestion bottom sheet
+summary: Earl Grey UI tests covering the iOS Chrome credit card payments suggestion bottom sheet, including suggestion chip matching and reauthentication setup.

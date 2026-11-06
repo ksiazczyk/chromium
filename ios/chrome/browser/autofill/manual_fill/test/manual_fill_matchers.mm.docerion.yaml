@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_matchers.mm.
+type: test
+title: Manual fill test matchers implementation
+summary: Implements the manual fill Earl Grey matchers using accessibility identifiers, localized labels, and ancestor conditions.

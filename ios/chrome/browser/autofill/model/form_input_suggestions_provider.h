@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FormInputSuggestionsProvider protocol declaration
+// summary: Declares the protocol for objects that asynchronously provide form input suggestions to the keyboard accessory view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_INPUT_SUGGESTIONS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_FORM_INPUT_SUGGESTIONS_PROVIDER_H_
 

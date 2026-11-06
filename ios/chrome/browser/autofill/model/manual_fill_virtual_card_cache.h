@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Manual fill virtual card cache header
+// summary: Declares a tab-scoped WebStateUserData cache that stores unmasked virtual cards keyed by server ID and origin.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_MANUAL_FILL_VIRTUAL_CARD_CACHE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_MANUAL_FILL_VIRTUAL_CARD_CACHE_H_
 

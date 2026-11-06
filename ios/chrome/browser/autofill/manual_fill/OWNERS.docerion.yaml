@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Manual fill OWNERS
+summary: Lists the code owners for the ios/chrome/browser/autofill/manual_fill directory, naming noemies@google.com as the owner.

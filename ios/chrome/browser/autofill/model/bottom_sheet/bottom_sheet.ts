@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill bottom sheet JavaScript resource
+// summary: Injected TypeScript that listens for focus and mousedown events on empty form fields and sends a BottomSheetMessage so the native side can show the autofill bottom sheet.
+// ---
+
 import * as fillUtil from '//components/autofill/ios/form_util/resources/fill_util.js';
 import {getFieldIdentifier, getFormIdentifier} from '//components/autofill/ios/form_util/resources/form_utils.js';
 import {getElementByUniqueID} from '//components/autofill/ios/form_util/resources/renderer_id.js';

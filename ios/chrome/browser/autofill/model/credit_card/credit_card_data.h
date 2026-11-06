@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreditCardData interface
+// summary: Declares an Objective-C data source exposing card name, details, backend identifier, icon, and record type for a credit card.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_CREDIT_CARD_CREDIT_CARD_DATA_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_CREDIT_CARD_CREDIT_CARD_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strike database factory header
+// summary: Declares StrikeDatabaseFactory, a profile-keyed service factory singleton that owns StrikeDatabase instances and associates them with ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_STRIKE_DATABASE_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_STRIKE_DATABASE_FACTORY_H_
 

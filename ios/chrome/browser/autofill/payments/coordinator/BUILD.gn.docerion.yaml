@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the payments suggestion bottom sheet
+summary: Defines GN source sets for the exit reason enum, the coordinator and mediator sources, and their unit tests with all dependencies.

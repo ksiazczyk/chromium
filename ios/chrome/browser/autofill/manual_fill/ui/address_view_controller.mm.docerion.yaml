@@ -1,0 +1,4 @@
+# Docerion header of address_view_controller.mm.
+type: source
+title: AddressViewController implementation
+summary: Implements the address list view controller, showing address items, action items, or a no-addresses message.

@@ -1,0 +1,4 @@
+# Docerion header of fallback_coordinator.mm.
+type: source
+title: Fallback coordinator implementation
+summary: Implements FallbackCoordinator popover presentation above the keyboard and its dismissal and completion behavior.

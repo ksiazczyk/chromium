@@ -1,0 +1,4 @@
+# Docerion header of form_observer_helper_unittest.mm.
+type: test
+title: FormObserverHelper unit tests
+summary: Tests that the helper observes the active web state and delegates form activity callbacks for single and multiple web states.

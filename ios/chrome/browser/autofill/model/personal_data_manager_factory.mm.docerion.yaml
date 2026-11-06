@@ -1,0 +1,4 @@
+# Docerion header of personal_data_manager_factory.mm.
+type: source
+title: Personal data manager factory implementation
+summary: Constructs the per-profile PersonalDataManager with web data, identity, history, sync, strike database, and image fetcher dependencies.

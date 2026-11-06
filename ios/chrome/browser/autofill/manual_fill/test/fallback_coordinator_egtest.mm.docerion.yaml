@@ -1,0 +1,4 @@
+# Docerion header of fallback_coordinator_egtest.mm.
+type: test
+title: Fallback coordinator Earl Grey tests
+summary: Earl Grey integration tests for the manual fill fallback coordinator, including iPad popover dismissal and suggestion resumption behavior.

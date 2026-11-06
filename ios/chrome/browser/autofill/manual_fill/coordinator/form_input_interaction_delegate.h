@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form input interaction delegate protocol
+// summary: Declares a delegate protocol that informs manual fallback classes about focus changes on form fields with a filling product.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_FORM_INPUT_INTERACTION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_FORM_INPUT_INTERACTION_DELEGATE_H_
 

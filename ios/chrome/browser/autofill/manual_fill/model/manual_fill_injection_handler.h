@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillInjectionHandler header
+// summary: Declares ManualFillInjectionHandler, which holds the common logic for injecting manual fill data into the active web state and presenting security alerts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_INJECTION_HANDLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_MODEL_MANUAL_FILL_INJECTION_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of expanded_manual_fill_coordinator.mm.
+type: source
+title: Expanded manual fill coordinator implementation
+summary: Implements the expanded manual fill coordinator, presenting child coordinators for passwords, cards and addresses and handling popover dismissal.

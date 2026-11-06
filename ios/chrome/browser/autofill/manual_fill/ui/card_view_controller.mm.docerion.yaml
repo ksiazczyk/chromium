@@ -1,0 +1,4 @@
+# Docerion header of card_view_controller.mm.
+type: source
+title: Card view controller for manual fill credit cards
+summary: Implements CardViewController, which presents credit card options in the manual fill table view, records usage histograms and shows a message when no cards are available.

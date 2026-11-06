@@ -1,0 +1,4 @@
+# Docerion header of card_view_controller_egtest.mm.
+type: test
+title: Card view controller Earl Grey tests
+summary: Earl Grey integration tests for the payment method manual fill view controller, covering credit card autofill, obfuscated numbers, and reauthentication.

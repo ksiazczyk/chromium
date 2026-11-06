@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for credit card suggestion bottom sheet UI
+summary: Defines the source_set targets and dependencies for the credit card suggestion bottom sheet UI and its unit tests.

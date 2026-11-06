@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card suggestion bottom sheet handler protocol
+// summary: Declares the handler protocol for the payments bottom sheet context menu, covering payment methods, details, button taps, and view disappearance.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_PAYMENTS_UI_CREDIT_CARD_SUGGESTION_BOTTOM_SHEET_HANDLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_PAYMENTS_UI_CREDIT_CARD_SUGGESTION_BOTTOM_SHEET_HANDLER_H_
 

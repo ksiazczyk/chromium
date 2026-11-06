@@ -1,0 +1,4 @@
+# Docerion header of form_input_accessory_view_handler.mm.
+type: source
+title: FormInputAccessoryViewHandler implementation
+summary: Implements keyboard accessory actions for forms, including closing the keyboard and locating toolbar items for previous, next, and done actions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual fill credentials mediator header
+// summary: Declares ManualFillCredentialsMediator, which supplies credentials for the manual fill UI and handles content injection, navigation, and delegate actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_MANUAL_FILL_CREDENTIALS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_MANUAL_FILL_CREDENTIALS_MEDIATOR_H_
 

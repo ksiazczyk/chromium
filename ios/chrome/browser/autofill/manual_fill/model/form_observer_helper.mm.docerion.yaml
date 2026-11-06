@@ -1,0 +1,4 @@
+# Docerion header of form_observer_helper.mm.
+type: source
+title: FormObserverHelper implementation
+summary: Implements web state list and form activity observation, forwarding form events and submissions to its delegate.

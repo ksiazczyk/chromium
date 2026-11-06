@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_address+AutofillProfile.mm.
+type: source
+title: ManualFillAddress AutofillProfile category implementation
+summary: Implements converting autofill profiles into ManualFillAddress objects by reading profile field values.

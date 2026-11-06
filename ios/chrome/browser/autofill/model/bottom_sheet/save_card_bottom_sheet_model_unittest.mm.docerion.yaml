@@ -1,0 +1,4 @@
+# Docerion header of save_card_bottom_sheet_model_unittest.mm.
+type: test
+title: Save card bottom sheet model unit tests
+summary: Unit tests verifying that SaveCardBottomSheetModel fields map to AutofillSaveCardUiInfo properties and that delegate interactions update the save states.

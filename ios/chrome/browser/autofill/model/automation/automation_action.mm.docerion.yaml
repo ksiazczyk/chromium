@@ -1,0 +1,4 @@
+# Docerion header of automation_action.mm.
+type: source
+title: AutomationAction class cluster implementations
+summary: Implements concrete actions such as click, waitFor, autofill, field validation, dropdown selection, page load and typing for replaying recorded test recipes.

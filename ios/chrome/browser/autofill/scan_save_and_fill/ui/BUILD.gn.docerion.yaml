@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for scan save and fill UI
+summary: Defines GN source sets for the offer bottom sheet UI, the edit view controller, and their unit tests, listing sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the scan save and fill coordinator
+summary: Defines the coordinator and unit_tests source sets with their sources and dependencies for the scan save and fill bottom sheet feature.

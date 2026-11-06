@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment callbacks implementation
+// summary: Implements the virtual card enrollment callbacks, running the accept or decline closure and resetting the opposite callback.
+// ---
+
 #include "ios/chrome/browser/autofill/model/bottom_sheet/virtual_card_enrollment_callbacks.h"
 
 namespace autofill {

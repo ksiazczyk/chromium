@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_save_entity_infobar_delegate_ios.mm.
+type: source
+title: Autofill AI save entity infobar delegate implementation
+summary: Implements the save entity infobar delegate, building icons, title and message text, and reporting accept, cancel, and dismissal results through callbacks.

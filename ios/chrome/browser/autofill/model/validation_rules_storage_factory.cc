@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Validation rules storage factory implementation
+// summary: Implements ValidationRulesStorageFactory, creating address validation rules storage backed by a JSON pref store in the iOS user data directory.
+// ---
+
 #include "ios/chrome/browser/autofill/model/validation_rules_storage_factory.h"
 
 #include "base/files/file_path.h"

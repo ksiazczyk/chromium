@@ -1,0 +1,4 @@
+# Docerion header of address_view_controller_egtest.mm.
+type: test
+title: Address view controller Earl Grey tests
+summary: Earl Grey integration tests for the address manual fill view controller, covering profile suggestions, editing, and autofill into web forms.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillLegalMessageLine class header
+// summary: Declares the AutofillLegalMessageLine Objective-C class holding message text with link ranges and URLs, plus a converter from C++ legal message lines.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_MESSAGE_AUTOFILL_LEGAL_MESSAGE_LINE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_MESSAGE_AUTOFILL_LEGAL_MESSAGE_LINE_H_
 

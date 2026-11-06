@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_labeled_chip.mm.
+type: source
+title: ManualFillLabeledChip implementation
+summary: Implements labeled chips for single values and expiration dates with month and year buttons.

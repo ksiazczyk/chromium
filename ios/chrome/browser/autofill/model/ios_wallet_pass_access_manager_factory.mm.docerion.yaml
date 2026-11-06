@@ -1,0 +1,4 @@
+# Docerion header of ios_wallet_pass_access_manager_factory.mm.
+type: source
+title: iOS wallet pass access manager factory implementation
+summary: Creates the per-profile wallet pass access manager, using a fake implementation for debug API responses and gating on autofill AI wallet features.

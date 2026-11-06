@@ -1,0 +1,4 @@
+# Docerion header of payments_scan_save_and_fill_offer_bottom_sheet_mediator.mm.
+type: source
+title: PaymentsScanSaveAndFillOfferBottomSheetMediator implementation
+summary: Implements the mediator handling scan card suggestion acceptance, cancellation, refocusing, and exit reason metrics.

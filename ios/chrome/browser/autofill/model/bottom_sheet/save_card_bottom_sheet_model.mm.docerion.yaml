@@ -1,0 +1,4 @@
+# Docerion header of save_card_bottom_sheet_model.mm.
+type: source
+title: Save card bottom sheet model implementation
+summary: Implements the save card bottom sheet model, forwarding accept, cancel and save-and-fill actions to the delegate and tracking save flow states.

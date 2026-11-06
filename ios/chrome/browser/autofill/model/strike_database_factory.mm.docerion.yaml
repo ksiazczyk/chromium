@@ -1,0 +1,4 @@
+# Docerion header of strike_database_factory.mm.
+type: source
+title: Strike database factory implementation
+summary: Implements StrikeDatabaseFactory, building per-profile StrikeDatabase services backed by the profile's proto database provider and state path.

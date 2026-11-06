@@ -1,0 +1,4 @@
+# Docerion header of automation_app_interface_stub.mm.
+type: source
+title: Stub for AutomationAppInterface in test support builds
+summary: Registers a stub AutomationAppInterface for test support builds that do not link the real app-side implementation.

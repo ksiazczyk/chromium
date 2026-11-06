@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: iOS autofill feature flag definitions
+summary: Defines the iOS autofill feature flags declared in features.h together with their default enabled or disabled states.

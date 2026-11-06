@@ -1,0 +1,4 @@
+# Docerion header of address_normalizer_factory.mm.
+type: source
+title: AddressNormalizerFactory implementation
+summary: Implements the address normalizer factory, wiring libaddressinput source and storage with the application locale.

@@ -1,0 +1,4 @@
+# Docerion header of automation_action_egtest.mm.
+type: test
+title: Earl Grey tests for individual automation actions
+summary: Exercises each automation action against a self-hosted test page and verifies the effects through JavaScript queries.

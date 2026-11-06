@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments scan save and fill edit view controller header
+// summary: Declares the view controller that lets users edit and confirm scanned card details before saving, including the histogram action enum.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_SCAN_SAVE_AND_FILL_UI_PAYMENTS_SCAN_SAVE_AND_FILL_EDIT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_SCAN_SAVE_AND_FILL_UI_PAYMENTS_SCAN_SAVE_AND_FILL_EDIT_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of autocomplete_history_manager_factory.mm.
+type: source
+title: AutocompleteHistoryManagerFactory implementation
+summary: Builds AutocompleteHistoryManager instances for each profile using the profile's autofill web data service and prefs.

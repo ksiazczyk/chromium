@@ -1,0 +1,4 @@
+# Docerion header of credit_card_suggestion_bottom_sheet_view_controller_unittest.mm.
+type: test
+title: Unit tests for credit card suggestion bottom sheet view controller
+summary: Verifies that the bottom sheet subtitle formats RTL IDN hosts as punycode with LTR wrapping and omits trivial www subdomains.

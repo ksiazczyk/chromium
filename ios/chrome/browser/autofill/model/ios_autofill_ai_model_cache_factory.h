@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSAutofillAiModelCacheFactory header
+// summary: Declares a profile-keyed service factory that owns AutofillAiModelCache instances associated with ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_AUTOFILL_AI_MODEL_CACHE_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_AUTOFILL_AI_MODEL_CACHE_FACTORY_H_
 

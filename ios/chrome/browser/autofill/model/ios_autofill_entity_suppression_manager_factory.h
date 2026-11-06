@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill entity suppression manager factory header
+// summary: Declares the profile-keyed service factory that associates EntitySuppressionManager instances with iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_AUTOFILL_ENTITY_SUPPRESSION_MANAGER_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_IOS_AUTOFILL_ENTITY_SUPPRESSION_MANAGER_FACTORY_H_
 

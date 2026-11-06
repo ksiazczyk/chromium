@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the autofill bottom sheet
+summary: Defines GN source sets, tests and dependencies for the autofill bottom sheet code, its TypeScript script and the save card model.

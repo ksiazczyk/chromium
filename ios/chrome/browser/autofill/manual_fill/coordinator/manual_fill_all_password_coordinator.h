@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual fill all passwords coordinator header
+// summary: Declares a coordinator that presents a searchable list of all saved passwords and injects the selected password into the active web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_MANUAL_FILL_ALL_PASSWORD_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_MANUAL_FILL_ALL_PASSWORD_COORDINATOR_H_
 

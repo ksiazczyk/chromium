@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the manual fill coordinator
+summary: Defines the allowed include directories for code in the manual fill coordinator folder.

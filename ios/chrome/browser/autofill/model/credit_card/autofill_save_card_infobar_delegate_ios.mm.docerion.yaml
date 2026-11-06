@@ -1,0 +1,4 @@
+# Docerion header of autofill_save_card_infobar_delegate_ios.mm.
+type: source
+title: AutofillSaveCardInfoBarDelegateIOS implementation
+summary: Implements save card infobar behavior including acceptance of user details, upload completion callbacks, and metrics logging.

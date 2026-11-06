@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutomationAppInterface app-side helper interface
+// summary: Declares the app-side entry point that receives JSON and sets autofill profile data for automation tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOMATION_AUTOMATION_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOMATION_AUTOMATION_APP_INTERFACE_H_
 

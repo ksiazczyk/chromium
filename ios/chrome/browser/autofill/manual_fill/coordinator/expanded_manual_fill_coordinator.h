@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expanded manual fill coordinator interface
+// summary: Declares the coordinator that presents the expanded manual fill view with password, card and address options as a popover.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_EXPANDED_MANUAL_FILL_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_EXPANDED_MANUAL_FILL_COORDINATOR_H_
 

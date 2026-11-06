@@ -1,0 +1,4 @@
+# Docerion header of child_frame_registration_js_unittest.mm.
+type: test
+title: Child frame registration JavaScript tests
+summary: Tests JavaScript registration of child frames for autofill, including retry backoff delays and token extraction across cross-origin iframes.

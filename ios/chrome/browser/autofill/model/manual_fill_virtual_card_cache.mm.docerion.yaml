@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_virtual_card_cache.mm.
+type: source
+title: Manual fill virtual card cache implementation
+summary: Implements the unmasked virtual card cache, clearing sensitive entries on cross-document navigation and when the WebState is destroyed.

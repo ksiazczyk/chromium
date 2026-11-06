@@ -1,0 +1,4 @@
+# Docerion header of rsolomakhin.test.
+type: test
+title: rsolomakhin.github.io autofill captured site scenario
+summary: Captured-site automation scenario that opens rsolomakhin.github.io and clicks the link to its autofill section for autofill testing.

@@ -1,0 +1,4 @@
+# Docerion header of manual_fill_site_info.mm.
+type: source
+title: ManualFillSiteInfo implementation
+summary: Implements ManualFillSiteInfo, storing the site name, host and URL passed to its designated initializer.

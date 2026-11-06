@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form fetcher consumer bridge header
+// summary: Declares an Objective-C protocol mirroring FormFetcher::Consumer and a C++ bridge class that forwards fetch events to an Objective-C delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_FORM_FETCHER_CONSUMER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MANUAL_FILL_COORDINATOR_FORM_FETCHER_CONSUMER_BRIDGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of autofill_ai_prefetch_failure_infobar_delegate_ios.mm.
+type: source
+title: Autofill AI prefetch failure infobar delegate implementation
+summary: Implements the prefetch failure infobar delegate, providing the icon, message text, and OK button label for the Autofill AI prefetch error prompt.

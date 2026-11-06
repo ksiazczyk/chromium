@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutomationAction interface for executing recorded actions
+// summary: Declares the abstract AutomationAction superclass whose factory method returns concrete subclasses that execute JSON-described actions on the active web page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOMATION_AUTOMATION_ACTION_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOMATION_AUTOMATION_ACTION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Manual fill test include rules
+summary: Specifies allowed dependency includes for the manual fill test directory, covering password settings and signin model paths.

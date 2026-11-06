@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI save entity infobar delegate header
+// summary: Declares the infobar delegate that prompts the user to save or update an Autofill AI entity, including parameter extraction and accept and cancel handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOFILL_AI_SAVE_ENTITY_INFOBAR_DELEGATE_IOS_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_AUTOFILL_AI_SAVE_ENTITY_INFOBAR_DELEGATE_IOS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the automation directory
+summary: Restricts includes so that only automation_action.mm may use the infobar constants header, with a note that the dependency should be removed.

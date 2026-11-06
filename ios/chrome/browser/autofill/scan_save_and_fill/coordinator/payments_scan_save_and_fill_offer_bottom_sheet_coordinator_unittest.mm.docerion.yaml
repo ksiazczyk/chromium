@@ -1,0 +1,4 @@
+# Docerion header of payments_scan_save_and_fill_offer_bottom_sheet_coordinator_unittest.mm.
+type: test
+title: PaymentsScanSaveAndFillOfferBottomSheetCoordinator unit tests
+summary: Unit tests verifying that the coordinator triggers the dismiss scan card save and fill command when the bottom sheet disappears.

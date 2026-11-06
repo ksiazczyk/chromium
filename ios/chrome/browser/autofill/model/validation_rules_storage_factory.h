@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Validation rules storage factory header
+// summary: Declares ValidationRulesStorageFactory, which creates i18n addressinput Storage objects backed by a shared JSON pref store, adapted for iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_MODEL_VALIDATION_RULES_STORAGE_FACTORY_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_MODEL_VALIDATION_RULES_STORAGE_FACTORY_H_
 
