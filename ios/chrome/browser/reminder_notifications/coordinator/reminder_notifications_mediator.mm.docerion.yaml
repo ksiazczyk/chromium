@@ -1,0 +1,4 @@
+# Docerion header of reminder_notifications_mediator.mm.
+type: source
+title: Reminder notifications mediator implementation
+summary: Stores per-URL reminder times and creation times in the reminder notifications preference dictionary.

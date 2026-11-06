@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_export_coordinator.mm.
+type: source
+title: Safari data export coordinator implementation
+summary: Implements the export coordinator that shows the export education screen, opens Safari settings, and starts the import coordinator.

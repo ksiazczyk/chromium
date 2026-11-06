@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_blur_overlay_view_controller.mm.
+type: source
+title: Reader Mode blur overlay view controller implementation
+summary: Implements the blur overlay view and animates a regular blur effect in over a quarter of a second.

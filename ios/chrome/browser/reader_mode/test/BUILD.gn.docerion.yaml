@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reader mode test build targets
+summary: Defines Earl Grey app and test support source sets for the reader mode feature tests.

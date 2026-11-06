@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_app_interface.mm.
+type: test
+title: Reader mode app interface implementation
+summary: Implements the app interface using the Reader mode tab helper and command dispatcher to control Reader mode.

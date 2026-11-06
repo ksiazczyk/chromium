@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode enums and constants
+// summary: Declares Reader mode state, heuristic result, theme, font and access point enums used for histograms and metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_CONSTANTS_H_
 

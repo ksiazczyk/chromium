@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode eligibility decider declaration
+// summary: Declares ReaderModeEligibilityDecider, which determines whether a page is eligible for Reader Mode using heuristics and the optimization guide.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_ELIGIBILITY_DECIDER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_ELIGIBILITY_DECIDER_H_
 

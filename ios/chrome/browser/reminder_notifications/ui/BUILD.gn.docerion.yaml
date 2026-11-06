@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reminder notifications UI build targets
+summary: Defines the GN source_set for the reminder notifications UI and its unit tests, listing sources, dependencies, and frameworks.

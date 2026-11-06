@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode content delegate interface
+// summary: Declares the delegate interface that receives load and navigation-cancel events from Reader mode content.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_CONTENT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_CONTENT_DELEGATE_H_
 

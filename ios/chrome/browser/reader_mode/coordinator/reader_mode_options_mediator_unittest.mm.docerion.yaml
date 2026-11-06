@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_options_mediator_unittest.mm.
+type: test
+title: Reader mode options mediator unit tests
+summary: Unit tests for ReaderModeOptionsMediator that verify calling disconnect twice does not crash.

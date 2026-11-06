@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_coordinator.mm.
+type: source
+title: Reader Mode coordinator implementation
+summary: Implements the Reader Mode UI coordinator, wiring the view controller, mediator and options coordinator to browser services and command dispatching.

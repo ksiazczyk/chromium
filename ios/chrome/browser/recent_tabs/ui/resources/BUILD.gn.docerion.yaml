@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Recent Tabs UI Resources Build File
+summary: GN build file that bundles the Recent Tabs asset catalog, including the other-devices empty state images, for the iOS app.

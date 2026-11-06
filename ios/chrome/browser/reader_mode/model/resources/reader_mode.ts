@@ -8,6 +8,12 @@
 // For performance reasons, we remove the visibility check, use
 // getElementsByTagName(), and retrieve only <p> and <pre> elements once.
 
+// ---docerion
+// type: source
+// title: Reader Mode DOM Feature Extraction Script
+// summary: Injected JavaScript that computes readability features such as element counts and Moz scores from the page DOM and sends them to native code for reader mode decisions.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

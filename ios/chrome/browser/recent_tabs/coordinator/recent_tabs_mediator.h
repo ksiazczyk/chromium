@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs mediator header
+// summary: Declares RecentTabsMediator, which drives the RecentTabsConsumer based on the user's signed-in and Chrome sync states.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RECENT_TABS_COORDINATOR_RECENT_TABS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_RECENT_TABS_COORDINATOR_RECENT_TABS_MEDIATOR_H_
 

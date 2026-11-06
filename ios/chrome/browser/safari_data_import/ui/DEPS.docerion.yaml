@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Safari data import UI
+summary: Grants this folder permission to include the first run constants header through Chromium include rules.

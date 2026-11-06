@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reading list UI resources build definition
+summary: GN build target that bundles the reading list asset catalog, including empty-state imageset icons in light and dark variants, into the iOS app resources.

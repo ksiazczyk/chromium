@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_metrics_helper.mm.
+type: source
+title: Reader Mode metrics helper implementation
+summary: Implements the Reading Mode metrics helper, converting distiller preferences, access points, and translation states into recorded metrics.

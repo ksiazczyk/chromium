@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_earl_grey_ui.mm.
+type: test
+title: Safari data import Earl Grey UI helpers
+summary: Implements Earl Grey UI actions for the Safari data import flow, including dismissing the entry point, loading files, and asserting table contents.

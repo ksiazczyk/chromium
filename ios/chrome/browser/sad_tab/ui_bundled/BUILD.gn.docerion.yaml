@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sad tab UI BUILD.gn build definitions
+summary: Defines GN source sets for the sad tab UI, coordinator, unit tests, and Earl Grey tests along with their dependencies.

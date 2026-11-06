@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reader mode model dependency allowlist
+summary: Lists the include paths allowed for the reader mode model directory in Chromium dependency checks.

@@ -1,0 +1,4 @@
+# Docerion header of reading_list_list_item_util.mm.
+type: source
+title: Reading list list item utility implementation
+summary: Implements accessibility label construction with upload state and equality checks based on title, entry URL host and cloud slash icon for reading list items.

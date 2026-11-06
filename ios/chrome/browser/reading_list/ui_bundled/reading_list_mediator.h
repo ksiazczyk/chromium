@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List mediator interface
+// summary: Declares the mediator between the Reading List model and UI, exposing entry lookup, read-status marking and disconnection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_MEDIATOR_H_
 

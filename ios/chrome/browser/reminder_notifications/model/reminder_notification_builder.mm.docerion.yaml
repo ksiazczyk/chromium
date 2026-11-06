@@ -1,0 +1,4 @@
+# Docerion header of reminder_notification_builder.mm.
+type: source
+title: ReminderNotificationBuilder implementation
+summary: Implements creation of reminder notification content, identifiers and user info metadata for scheduled reminders.

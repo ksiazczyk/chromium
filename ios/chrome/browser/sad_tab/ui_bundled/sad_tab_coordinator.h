@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sad tab coordinator header
+// summary: Declares the SadTabCoordinator that displays a sad tab view and implements the SadTabTabHelperDelegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAD_TAB_UI_BUNDLED_SAD_TAB_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SAD_TAB_UI_BUNDLED_SAD_TAB_COORDINATOR_H_
 

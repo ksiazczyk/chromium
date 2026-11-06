@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_app_interface.mm.
+type: test
+title: Safari data import app interface implementation
+summary: Implements file selection for tests by locating test archives in the app bundle and completing the presented file picker.

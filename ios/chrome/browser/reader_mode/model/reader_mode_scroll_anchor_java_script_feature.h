@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode scroll anchor JavaScript feature header
+// summary: Declares a JavaScript feature that finds a scroll anchor paragraph in the page so Reader mode can preserve the user's scroll position.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_SCROLL_ANCHOR_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_SCROLL_ANCHOR_JAVA_SCRIPT_FEATURE_H_
 

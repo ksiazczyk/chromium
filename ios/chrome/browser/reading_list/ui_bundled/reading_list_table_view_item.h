@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List table view item interface
+// summary: Declares the table view item that represents a Reading List entry and conforms to the ReadingListListItem protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_TABLE_VIEW_ITEM_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_TABLE_VIEW_ITEM_H_
 

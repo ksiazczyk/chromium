@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Reminder notifications UI constant values
+summary: Defines numeric values for the reminder notifications UI constants, including separator insets, picker dimensions, and content padding.

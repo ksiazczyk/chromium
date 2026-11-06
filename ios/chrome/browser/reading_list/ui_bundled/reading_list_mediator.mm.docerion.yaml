@@ -1,0 +1,4 @@
+# Docerion header of reading_list_mediator.mm.
+type: source
+title: Reading List mediator implementation
+summary: Implements the Reading List mediator, observing the model and sync service to supply sorted entries and favicons to the UI data sink.

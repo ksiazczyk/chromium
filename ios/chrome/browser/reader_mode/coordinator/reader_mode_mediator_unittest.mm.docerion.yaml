@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_mediator_unittest.mm.
+type: test
+title: Reader mode mediator unit tests
+summary: Unit tests for ReaderModeMediator that verify setting the default distilled page theme to dark and light updates the theme preference.

@@ -1,0 +1,4 @@
+# Docerion header of reading_list_remover_helper.mm.
+type: source
+title: Reading list remover helper implementation
+summary: Implements asynchronous deletion of all reading list entries by observing the model and invoking a completion callback with the result.

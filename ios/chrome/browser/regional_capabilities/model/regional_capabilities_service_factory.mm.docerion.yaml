@@ -1,0 +1,4 @@
+# Docerion header of regional_capabilities_service_factory.mm.
+type: source
+title: RegionalCapabilitiesServiceFactory implementation
+summary: Implements the service factory and a client that resolves country IDs from the variations service and device country for regional capabilities.

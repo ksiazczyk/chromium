@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_chip_coordinator.mm.
+type: source
+title: Reader Mode chip coordinator implementation
+summary: Implements the Reader Mode chip coordinator, handling chip visibility, fullscreen UI updates and Reader Mode options in-product help.

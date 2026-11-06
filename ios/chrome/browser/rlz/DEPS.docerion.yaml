@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the rlz folder
+summary: Declares the include directories allowed for code in the iOS Chrome rlz folder.

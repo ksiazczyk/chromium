@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_entry_point_mediator.mm.
+type: source
+title: Safari data import entry point mediator implementation
+summary: Implements the entry point mediator, registering reminders via the promos manager and feature engagement tracker and updating setup list prefs.

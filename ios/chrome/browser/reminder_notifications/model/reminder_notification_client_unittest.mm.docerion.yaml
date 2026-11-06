@@ -1,0 +1,4 @@
+# Docerion header of reminder_notification_client_unittest.mm.
+type: test
+title: ReminderNotificationClient unit tests
+summary: Unit tests for ReminderNotificationClient covering scheduling, permission prefs and notification interaction handling with mocked notification center.

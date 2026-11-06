@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_export_view_controller.mm.
+type: source
+title: Safari data import export view controller implementation
+summary: Implements the export instructions screen with light, dark, and RTL animation variants plus static instruction steps and localized text.

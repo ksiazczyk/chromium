@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode Scroll Anchor Script
+// summary: Injected JavaScript that finds the paragraph closest to the viewport middle and reports its hash, character count and scroll progress to native code for scroll anchoring.
+// ---
+
 import {CrWebApi, gCrWeb} from '//ios/web/public/js_messaging/resources/gcrweb.js';
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 

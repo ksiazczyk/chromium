@@ -1,0 +1,4 @@
+# Docerion header of reading_list_table_view_controller.mm.
+type: source
+title: Reading List table view controller implementation
+summary: Implements the Reading List table view with read and unread sections, selection state, drag and drop, metrics and sign-in promo.

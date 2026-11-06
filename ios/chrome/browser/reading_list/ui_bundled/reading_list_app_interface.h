@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading List test app interface header
+// summary: Declares app-side helpers that let tests clear, add, and count Reading List entries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_APP_INTERFACE_H_
 

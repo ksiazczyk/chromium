@@ -1,0 +1,4 @@
+# Docerion header of reading_list_browser_agent.mm.
+type: source
+title: Reading list browser agent implementation
+summary: Adds URLs to the reading list with snackbar feedback, undo and view actions, haptic feedback and usage metrics.

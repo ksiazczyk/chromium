@@ -1,0 +1,4 @@
+# Docerion header of sad_tab_view.mm.
+type: source
+title: Sad tab view implementation
+summary: Implements the sad tab view layout, including title, message, footer, action button, and bulleted feedback text.

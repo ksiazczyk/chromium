@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode blur overlay view controller header
+// summary: Declares a view controller that displays a blur effect and animates it in with a completion block.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_BLUR_OVERLAY_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_BLUR_OVERLAY_VIEW_CONTROLLER_H_
 

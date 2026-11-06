@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List list view controller delegate protocol
+// summary: Defines delegate actions for the Reading List list views, such as dismissing the view, opening items in tabs and showing tab reminder UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_LIST_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_LIST_VIEW_CONTROLLER_DELEGATE_H_
 

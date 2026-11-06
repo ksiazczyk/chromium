@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list list item custom action factory interface
+// summary: Declares a factory object that creates arrays of custom accessibility actions for reading list cells, with delegates for accessibility and incognito availability.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_LIST_ITEM_CUSTOM_ACTION_FACTORY_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_LIST_ITEM_CUSTOM_ACTION_FACTORY_H_
 

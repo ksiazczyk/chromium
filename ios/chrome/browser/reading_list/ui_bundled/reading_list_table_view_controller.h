@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List table view controller interface
+// summary: Declares the view controller that displays Reading List entries in a table view, including sign-in promo and reload handling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_TABLE_VIEW_CONTROLLER_H_
 

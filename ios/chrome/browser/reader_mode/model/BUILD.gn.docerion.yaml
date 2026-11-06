@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reader mode model build targets
+summary: Defines the GN source set, files and dependencies for the iOS Reader mode model library.

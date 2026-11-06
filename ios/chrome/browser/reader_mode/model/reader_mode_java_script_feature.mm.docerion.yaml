@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_java_script_feature.mm.
+type: source
+title: Reader Mode JavaScript feature implementation
+summary: Implements the Reader Mode JavaScript feature that scores distillability heuristics from script messages and forwards results to the tab helper.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode contextual panel model header
+// summary: Declares ReaderModeModel, a keyed ContextualPanelModel that supplies Reader Mode item configuration for the contextual panel.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_MODEL_H_
 #define IOS_CHROME_BROWSER_READER_MODE_MODEL_READER_MODE_MODEL_H_
 

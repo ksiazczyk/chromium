@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reminder notifications coordinator GN build file
+summary: Defines the coordinator source set and its unit test target with their dependencies for the reminder notifications feature.

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_java_script_feature_unittest.mm.
+type: test
+title: Reader Mode JavaScript feature unit tests
+summary: Unit tests for the Reader Mode JavaScript feature, verifying heuristic results and UKM event recording using fake web states.

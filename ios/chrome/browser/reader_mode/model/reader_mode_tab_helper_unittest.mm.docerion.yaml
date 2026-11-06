@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_tab_helper_unittest.mm.
+type: test
+title: Reader mode tab helper unit tests
+summary: Unit tests for ReaderModeTabHelper covering activation, deactivation, eligibility, distillation results and UKM metrics using fake services and mock observers.

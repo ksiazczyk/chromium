@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_options_view_controller.mm.
+type: source
+title: Reader Mode options view controller implementation
+summary: Implements the Reader Mode options sheet with a blurred background, a hide Reader Mode button, and dynamic sheet detent resolution.

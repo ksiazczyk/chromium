@@ -1,0 +1,4 @@
+# Docerion header of recent_tabs_coordinator_unittest.mm.
+type: test
+title: Recent tabs coordinator unit tests
+summary: Unit tests for the recent tabs coordinator using fake sync, sign-in and identity test environments and OCMock.

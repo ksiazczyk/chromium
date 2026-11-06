@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data import coordinator interface
+// summary: Declares the coordinator for the Safari data import screen, exposing the current import stage and navigation-based initialization.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_IMPORT_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SAFARI_DATA_IMPORT_COORDINATOR_SAFARI_DATA_IMPORT_IMPORT_COORDINATOR_H_
 

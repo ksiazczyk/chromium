@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_blur_overlay_coordinator.mm.
+type: source
+title: Reader Mode blur overlay coordinator implementation
+summary: Implements the blur overlay coordinator by adding, constraining and animating the blur overlay view controller on start and removing it on stop.

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_web_state_delegate_unittest.mm.
+type: test
+title: Reader Mode web state delegate unit tests
+summary: Unit tests verifying which ReaderModeWebStateDelegate calls are forwarded to the original delegate and which are suppressed.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the recent tabs UI
+summary: Defines the ui source_set listing the recent tabs UI sources and their build dependencies.

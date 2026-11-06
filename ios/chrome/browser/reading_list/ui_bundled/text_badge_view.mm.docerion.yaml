@@ -1,0 +1,4 @@
+# Docerion header of text_badge_view.mm.
+type: source
+title: Text badge view implementation
+summary: Implements the pill-shaped text badge view, laying out its label, colors, corner radius, and accessibility label.

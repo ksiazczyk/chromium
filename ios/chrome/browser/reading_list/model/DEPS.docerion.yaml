@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the reading list model directory
+summary: Restricts which model directories may be included and grants extra allowances to the reading list browser agent sources.

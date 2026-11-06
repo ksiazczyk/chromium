@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_import_coordinator.mm.
+type: source
+title: Safari data import coordinator implementation
+summary: Implements the import coordinator handling import stages, credential conflict resolution, reauthentication, and related UI transitions.

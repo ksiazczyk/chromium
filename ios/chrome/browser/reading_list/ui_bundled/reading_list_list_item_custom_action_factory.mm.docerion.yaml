@@ -1,0 +1,4 @@
+# Docerion header of reading_list_list_item_custom_action_factory.mm.
+type: source
+title: Reading list list item custom action factory implementation
+summary: Implements building custom accessibility actions for reading list items, including mark read or unread, open in new tab, incognito tab, copy URL and remind.

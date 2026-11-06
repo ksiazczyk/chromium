@@ -1,0 +1,4 @@
+# Docerion header of reading_list_browser_agent_unittest.mm.
+type: test
+title: Reading list browser agent unit tests
+summary: Tests bulk adding URLs to the reading list, covering invalid URLs, histogram counts and snackbar interaction via mocks.

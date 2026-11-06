@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_test.mm.
+type: test
+title: Reader Mode test fixture implementation
+summary: Implements the ReaderModeTest fixture, building test profiles with fake services and helpers to enable Reader Mode on fake web states.

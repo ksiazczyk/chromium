@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_reminder_promo_display_handler.mm.
+type: source
+title: Safari data import reminder promo display handler implementation
+summary: Implements the reminder promo display handler, showing the Safari data import flow from the reminder entry point.

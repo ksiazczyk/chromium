@@ -1,0 +1,4 @@
+# Docerion header of text_badge_view_unittest.mm.
+type: test
+title: Text badge view unit tests
+summary: Unit tests checking TextBadgeView text initialization, text updates, and accessibility label behavior.

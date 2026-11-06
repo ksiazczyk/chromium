@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Safari data import coordinator
+summary: Lists the allowed include paths for code in the Safari data import coordinator directory.

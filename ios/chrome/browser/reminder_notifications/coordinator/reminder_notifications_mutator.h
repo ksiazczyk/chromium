@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reminder notifications mutator protocol header
+// summary: Defines the protocol the UI layer uses to set reminders for a URL at a given time via the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_COORDINATOR_REMINDER_NOTIFICATIONS_MUTATOR_H_
 #define IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_COORDINATOR_REMINDER_NOTIFICATIONS_MUTATOR_H_
 

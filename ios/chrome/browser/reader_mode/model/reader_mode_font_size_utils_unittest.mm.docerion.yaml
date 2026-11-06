@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_font_size_utils_unittest.mm.
+type: test
+title: Reader Mode font size utilities unit tests
+summary: Unit tests for the Reader Mode font size helpers covering increase, decrease, reset and boundary checks on the scale multipliers.

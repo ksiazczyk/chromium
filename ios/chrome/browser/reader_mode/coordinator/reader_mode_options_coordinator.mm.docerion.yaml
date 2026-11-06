@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_options_coordinator.mm.
+type: source
+title: Reader mode options coordinator implementation
+summary: Presents the Reader mode options view controller in a sheet with a custom detent, wiring the options mediator, command handlers and feature engagement tracking.

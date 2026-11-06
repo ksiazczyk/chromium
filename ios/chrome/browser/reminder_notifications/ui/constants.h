@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reminder notifications UI constants declarations
+// summary: Declares layout and sizing constants such as picker padding, width, heights, and content padding used by the reminder notifications UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_UI_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_UI_CONSTANTS_H_
 

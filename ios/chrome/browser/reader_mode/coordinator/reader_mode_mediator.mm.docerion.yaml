@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_mediator.mm.
+type: source
+title: Reader mode mediator implementation
+summary: Implements ReaderModeMediator, which observes the web state list and active web state to feed Reader mode content and theme preferences to the consumer, with Gemini availability checks.

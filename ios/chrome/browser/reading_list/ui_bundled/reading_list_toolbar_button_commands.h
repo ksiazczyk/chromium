@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list toolbar button commands protocol
+// summary: Declares the protocol of commands sent by reading list toolbar buttons, covering edit mode, delete, select, and mark read/unread actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_TOOLBAR_BUTTON_COMMANDS_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_TOOLBAR_BUTTON_COMMANDS_H_
 

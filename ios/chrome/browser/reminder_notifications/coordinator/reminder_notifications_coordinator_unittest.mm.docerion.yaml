@@ -1,0 +1,4 @@
+# Docerion header of reminder_notifications_coordinator_unittest.mm.
+type: test
+title: Reminder notifications coordinator unit tests
+summary: Tests coordinator presentation, sheet presentation style, and dismissal behavior using mock delegates and fake web states.

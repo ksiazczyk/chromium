@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode options controls view header
+// summary: Header declaring the view that hosts the Reader Mode options controls, conforming to the ReaderModeOptionsConsumer protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_OPTIONS_CONTROLS_VIEW_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_OPTIONS_CONTROLS_VIEW_H_
 

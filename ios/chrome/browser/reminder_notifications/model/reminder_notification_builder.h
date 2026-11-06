@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReminderNotificationBuilder interface
+// summary: Declares a builder that assembles reminder notification requests for a URL and trigger time, with optional image and page title.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_MODEL_REMINDER_NOTIFICATION_BUILDER_H_
 #define IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_MODEL_REMINDER_NOTIFICATION_BUILDER_H_
 

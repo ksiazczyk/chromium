@@ -1,0 +1,4 @@
+# Docerion header of sad_tab_coordinator.mm.
+type: source
+title: Sad tab coordinator implementation
+summary: Implements the sad tab coordinator, recording display metrics, disabling fullscreen, and presenting the sad tab view controller.

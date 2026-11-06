@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode view controller header
+// summary: Header for the view controller displaying Reader Mode content, defining its delegate and hooks for animated parent transitions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_VIEW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reading_list_mediator_unittest.mm.
+type: test
+title: Reading List mediator unit tests
+summary: Parameterized unit tests for the Reading List mediator using a fake model storage, test sync service and favicon providers.

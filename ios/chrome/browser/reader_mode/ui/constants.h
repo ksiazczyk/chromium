@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode UI constants header
+// summary: Declares accessibility identifiers for Reader Mode views and options controls plus color theme helper functions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_CONSTANTS_H_
 

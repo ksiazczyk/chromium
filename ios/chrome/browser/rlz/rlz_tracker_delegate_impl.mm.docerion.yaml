@@ -1,0 +1,4 @@
+# Docerion header of rlz_tracker_delegate_impl.mm.
+type: source
+title: RLZ tracker delegate implementation for Chrome on iOS
+summary: Implements the RLZ tracker delegate, providing brand, search engine, thread, and network access for RLZ tracking on iOS.

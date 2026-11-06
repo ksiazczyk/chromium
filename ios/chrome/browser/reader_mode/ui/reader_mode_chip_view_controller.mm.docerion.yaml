@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_chip_view_controller.mm.
+type: source
+title: Reader Mode chip view controller implementation
+summary: Builds the Reader Mode entrypoint chip button and fades its alpha based on fullscreen scroll progress.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for reminder notifications model
+summary: Defines GN source sets for the reminder notification client and its unit tests, with dependencies and frameworks.

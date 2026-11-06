@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Recent tabs coordinator build configuration
+summary: Defines the coordinator source set and its unit_tests target, listing sources and dependencies for the recent tabs coordinator.

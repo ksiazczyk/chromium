@@ -1,0 +1,4 @@
+# Docerion header of reminder_notifications_view_controller_unittest.mm.
+type: test
+title: Reminder Notifications View Controller Unit Tests
+summary: Unit tests verifying that the reminder notifications view controller shows the required UI elements, uses localized strings, and applies the expected layout and image configuration.

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_font_size_utils.mm.
+type: source
+title: Reader Mode font size utilities implementation
+summary: Implements Reader Mode font size changes by stepping through the configured font scale multipliers in distilled page preferences.

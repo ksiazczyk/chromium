@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabsPresentationDelegate protocol interface
+// summary: Declares delegate commands for opening tabs, sessions, history, sign-in and reauthentication from the recent tabs UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RECENT_TABS_UI_RECENT_TABS_PRESENTATION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_RECENT_TABS_UI_RECENT_TABS_PRESENTATION_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading List coordinator delegate protocol
+// summary: Declares the delegate protocol for ReadingListCoordinator, including the callback used to dismiss the Reading List.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_READING_LIST_UI_BUNDLED_READING_LIST_COORDINATOR_DELEGATE_H_
 

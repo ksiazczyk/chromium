@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_browser_agent_unittest.mm.
+type: test
+title: ReaderModeBrowserAgent unit tests
+summary: Unit tests for the Reader mode browser agent covering UI presentation, delegation and web state list changes.

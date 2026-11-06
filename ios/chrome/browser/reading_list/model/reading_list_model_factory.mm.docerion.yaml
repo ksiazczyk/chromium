@@ -1,0 +1,4 @@
+# Docerion header of reading_list_model_factory.mm.
+type: source
+title: Reading list model factory implementation
+summary: Profile-keyed service factory that builds a dual reading list model combining local and account storage for iOS Chrome profiles.

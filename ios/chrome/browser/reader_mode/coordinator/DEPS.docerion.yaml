@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reader Mode coordinator DEPS include rules
+summary: Lists the allowed directory dependencies for code in the Reader Mode coordinator folder.

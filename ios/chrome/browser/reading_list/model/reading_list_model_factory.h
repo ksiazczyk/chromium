@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list model factory interface
+// summary: Declares ReadingListModelFactory, a profile-keyed service factory that builds the ReadingListModel and exposes the dual reading list model.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_MODEL_FACTORY_H_
 #define IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_MODEL_FACTORY_H_
 

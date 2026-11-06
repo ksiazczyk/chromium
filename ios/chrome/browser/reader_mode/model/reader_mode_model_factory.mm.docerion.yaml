@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_model_factory.mm.
+type: source
+title: Reader Mode model factory implementation
+summary: Implements the ReaderModeModel factory, building and retrieving ReaderModeModel instances for iOS Chrome profiles.

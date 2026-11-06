@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_main_coordinator.mm.
+type: source
+title: Safari data import main coordinator implementation
+summary: Implements the main Safari data import coordinator, presenting the entry point screen and launching the export stage.

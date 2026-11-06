@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader Mode options consumer protocol
+// summary: Protocol for consumers of Reader Mode options, receiving updates on font family, theme, font size button states, and accessibility announcements.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_OPTIONS_CONSUMER_H_
 #define IOS_CHROME_BROWSER_READER_MODE_UI_READER_MODE_OPTIONS_CONSUMER_H_
 

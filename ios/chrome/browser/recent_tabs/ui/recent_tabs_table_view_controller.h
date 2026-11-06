@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabsTableViewController class interface
+// summary: Declares the recent tabs table view controller with its delegates, load strategy, favicon data source and session accessors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_RECENT_TABS_UI_RECENT_TABS_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_RECENT_TABS_UI_RECENT_TABS_TABLE_VIEW_CONTROLLER_H_
 

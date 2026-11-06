@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reminder notifications mediator header
+// summary: Declares the mediator responsible for storing reminder notification data in profile preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_COORDINATOR_REMINDER_NOTIFICATIONS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_COORDINATOR_REMINDER_NOTIFICATIONS_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_content_tab_helper_unittest.mm.
+type: test
+title: Reader mode content tab helper unit tests
+summary: Unit tests verifying the content tab helper allows only the content URL request once and notifies its delegate.

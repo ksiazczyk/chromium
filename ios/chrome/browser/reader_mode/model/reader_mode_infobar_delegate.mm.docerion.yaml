@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_infobar_delegate.mm.
+type: source
+title: Reader Mode infobar delegate implementation
+summary: Implements the Reader Mode infobar delegate, returning the iOS Reader Mode infobar identifier.

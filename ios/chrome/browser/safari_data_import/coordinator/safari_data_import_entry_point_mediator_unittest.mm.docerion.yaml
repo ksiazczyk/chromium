@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_entry_point_mediator_unittest.mm.
+type: test
+title: Entry point mediator unit tests
+summary: Unit tests for the entry point mediator covering reminder registration timing and used-or-dismissed behavior.

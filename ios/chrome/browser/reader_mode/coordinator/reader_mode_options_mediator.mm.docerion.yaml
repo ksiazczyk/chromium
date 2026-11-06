@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_options_mediator.mm.
+type: source
+title: Reader mode options mediator implementation
+summary: Applies font family, theme and font size changes to distilled page prefs and notifies the options consumer of preference changes.

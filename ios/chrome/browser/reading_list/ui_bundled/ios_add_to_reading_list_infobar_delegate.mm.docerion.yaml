@@ -1,0 +1,4 @@
+# Docerion header of ios_add_to_reading_list_infobar_delegate.mm.
+type: source
+title: Add to Reading List infobar delegate implementation
+summary: Implements the add-to-Reading-List infobar delegate, saving entries and recording UKM readability metrics.

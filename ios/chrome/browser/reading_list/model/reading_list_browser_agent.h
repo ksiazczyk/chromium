@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list browser agent interface
+// summary: Declares ReadingListBrowserAgent, a per-browser helper that adds URLs to the reading list and builds snackbar actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_BROWSER_AGENT_H_
 

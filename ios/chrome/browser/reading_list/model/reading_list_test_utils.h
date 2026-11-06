@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list model test utilities declaration
+// summary: Declares a testing factory returning a reading list model with a fake persistency layer and preset initial entries.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_TEST_UTILS_H_
 #define IOS_CHROME_BROWSER_READING_LIST_MODEL_READING_LIST_TEST_UTILS_H_
 

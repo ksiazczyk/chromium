@@ -1,0 +1,4 @@
+# Docerion header of ios_regional_capabilities_metrics_provider.mm.
+type: source
+title: IOSRegionalCapabilitiesMetricsProvider implementation
+summary: Implements the metrics provider by collecting each loaded profile's active regional program and recording it in UMA histograms.

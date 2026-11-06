@@ -1,0 +1,4 @@
+# Docerion header of reading_list_account_storage_egtest.mm.
+type: test
+title: Reading List account storage Earl Grey tests
+summary: Earl Grey UI tests covering Reading List behavior for signed-in account storage and sync.

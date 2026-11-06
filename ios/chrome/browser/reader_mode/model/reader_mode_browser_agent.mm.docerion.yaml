@@ -1,0 +1,4 @@
+# Docerion header of reader_mode_browser_agent.mm.
+type: source
+title: ReaderModeBrowserAgent implementation
+summary: Implements the browser agent that shows and hides Reader mode UI and notifies observers, handlers and trackers.

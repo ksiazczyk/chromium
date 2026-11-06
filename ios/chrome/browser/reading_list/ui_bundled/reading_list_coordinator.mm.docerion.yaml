@@ -1,0 +1,4 @@
+# Docerion header of reading_list_coordinator.mm.
+type: source
+title: Reading List coordinator implementation
+summary: Implements the Reading List coordinator, handling presentation of the list, sign-in promotion, sync state, metrics logging and dismissal.

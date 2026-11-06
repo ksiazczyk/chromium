@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Recent tabs test targets build file
+summary: Defines GN source sets for the recent tabs Earl Grey app interface, test support stub, and eg2 test targets in the iOS Chrome recent tabs test directory.

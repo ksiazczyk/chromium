@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reminder notifications view controller interface
+// summary: Declares a confirmation alert view controller that presents a half-sheet for setting tab reminder notifications with a selectable date and time.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_UI_REMINDER_NOTIFICATIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_REMINDER_NOTIFICATIONS_UI_REMINDER_NOTIFICATIONS_VIEW_CONTROLLER_H_
 

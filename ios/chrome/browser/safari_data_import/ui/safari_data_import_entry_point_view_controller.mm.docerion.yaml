@@ -1,0 +1,4 @@
+# Docerion header of safari_data_import_entry_point_view_controller.mm.
+type: source
+title: Safari data import entry point view controller implementation
+summary: Implements the entry point promo screen with localized title, actions, image, and adaptive font updates on trait collection changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list model test utilities implementation
+// summary: Provides a testing factory that builds a reading list model backed by fake storage and preloaded with the given initial entries.
+// ---
+
 #include "ios/chrome/browser/reading_list/model/reading_list_test_utils.h"
 
 #include <memory>
