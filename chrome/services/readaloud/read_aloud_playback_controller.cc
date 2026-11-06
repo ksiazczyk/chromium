@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudPlaybackController implementation
+// summary: Implements the read aloud playback service, handling audio initialization, content setting, seeking, playback rate, and session lifecycle.
+// ---
+
 #include "chrome/services/readaloud/read_aloud_playback_controller.h"
 
 #include <algorithm>

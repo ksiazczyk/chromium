@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleFileTarXzFileExtractor class declaration
+// summary: Declares SingleFileTarXzFileExtractor, the Mojo SingleFileExtractor implementation that extracts .tar.xz files to a destination file.
+// ---
+
 #ifndef CHROME_SERVICES_FILE_UTIL_SINGLE_FILE_TAR_XZ_FILE_EXTRACTOR_H_
 #define CHROME_SERVICES_FILE_UTIL_SINGLE_FILE_TAR_XZ_FILE_EXTRACTOR_H_
 

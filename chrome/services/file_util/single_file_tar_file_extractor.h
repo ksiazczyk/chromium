@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single file tar extractor class declaration
+// summary: Declares SingleFileTarFileExtractor, the Mojo single file extractor implementation for tar archives.
+// ---
+
 #ifndef CHROME_SERVICES_FILE_UTIL_SINGLE_FILE_TAR_FILE_EXTRACTOR_H_
 #define CHROME_SERVICES_FILE_UTIL_SINGLE_FILE_TAR_FILE_EXTRACTOR_H_
 

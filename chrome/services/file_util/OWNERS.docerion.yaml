@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the file_util directory
+summary: Lists owners for the safe archive and document analyzers, defers to safe browsing owners, and assigns enterprise owners for the obfuscated archive analysis files.

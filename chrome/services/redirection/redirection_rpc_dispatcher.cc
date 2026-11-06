@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the redirection RPC dispatcher
+// summary: Implements RedirectionRpcDispatcher, which subscribes a response handler on the MMR session and sends outbound Open Screen remoting RPC messages.
+// ---
+
 #include "chrome/services/redirection/redirection_rpc_dispatcher.h"
 
 #include <wrl/implements.h>

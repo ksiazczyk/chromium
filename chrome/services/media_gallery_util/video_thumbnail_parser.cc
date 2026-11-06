@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoThumbnailParser implementation
+// summary: Implements VideoThumbnailParser, which extracts and decodes a video frame with software decoders such as FFmpeg, VPX, or dav1d and returns the result to the browser process.
+// ---
+
 #include "chrome/services/media_gallery_util/video_thumbnail_parser.h"
 
 #include <optional>

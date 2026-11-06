@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PDF service include rules
+summary: Restricts the headers that files in the pdf service directory may include, such as PDFium, discardable memory and screen AI mojom headers.

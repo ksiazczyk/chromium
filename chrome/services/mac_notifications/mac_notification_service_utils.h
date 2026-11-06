@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac notification service utilities
+// summary: Declares helpers that convert notification metadata to and from macOS user info dictionaries, derive notification IDs, and define user info key constants.
+// ---
+
 #ifndef CHROME_SERVICES_MAC_NOTIFICATIONS_MAC_NOTIFICATION_SERVICE_UTILS_H_
 #define CHROME_SERVICES_MAC_NOTIFICATIONS_MAC_NOTIFICATION_SERVICE_UTILS_H_
 

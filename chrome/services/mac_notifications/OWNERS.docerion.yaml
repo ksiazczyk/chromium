@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for mac_notifications
+summary: Delegates code ownership to the Chrome browser macOS notification OWNERS files.

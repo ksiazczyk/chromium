@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the redirection directory
+summary: Declares the allowed include paths for the redirection service, covering mirroring, media, and the Microsoft Multimedia Redirection and Open Screen third-party code.

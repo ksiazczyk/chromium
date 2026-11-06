@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthesis response parser implementation
+// summary: Parses and validates Read Aloud synthesis responses, extracting audio buffers and enforcing monotonic, clamped word timing offsets.
+// ---
+
 #include "chrome/services/readaloud/synthesis_response_parser.h"
 
 #include <algorithm>

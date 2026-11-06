@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file delegating to media/cast
+summary: Delegates code review ownership of the redirection service directory to the owners of media/cast.

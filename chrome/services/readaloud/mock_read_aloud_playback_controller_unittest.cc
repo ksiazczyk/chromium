@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockReadAloudPlaybackController unit tests
+// summary: Unit tests for the mock playback controller covering playback state changes, progress updates, word boundary notifications, and seeking.
+// ---
+
 #include "chrome/services/readaloud/mock_read_aloud_playback_controller.h"
 
 #include "base/run_loop.h"

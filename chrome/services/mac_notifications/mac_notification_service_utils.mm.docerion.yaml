@@ -1,0 +1,4 @@
+# Docerion header of mac_notification_service_utils.mm.
+type: source
+title: Mac notification service utilities implementation
+summary: Implements conversion between notification mojom metadata and macOS user info dictionaries and derives unique notification identifiers.

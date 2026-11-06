@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print backend service implementation
+// summary: Implements the out-of-process print backend service that manages printing contexts, printer capabilities and print jobs across platforms.
+// ---
+
 #include "chrome/services/printing/print_backend_service_impl.h"
 
 #include <algorithm>

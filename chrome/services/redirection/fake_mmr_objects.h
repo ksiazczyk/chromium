@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake MMR session and stream class declarations
+// summary: Declares FakeMmrSession and FakeMmrStream, test doubles for the MMR COM interfaces that capture messages, frames, and configurable error results.
+// ---
+
 #ifndef CHROME_SERVICES_REDIRECTION_FAKE_MMR_OBJECTS_H_
 #define CHROME_SERVICES_REDIRECTION_FAKE_MMR_OBJECTS_H_
 

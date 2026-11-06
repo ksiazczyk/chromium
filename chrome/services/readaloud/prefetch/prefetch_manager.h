@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchManager class header
+// summary: Declares the PrefetchManager and CachedCompressedSegment types for document-bound caching of Opus speech audio with word timings and throttled prefetch scheduling.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_PREFETCH_PREFETCH_MANAGER_H_
 #define CHROME_SERVICES_READALOUD_PREFETCH_PREFETCH_MANAGER_H_
 

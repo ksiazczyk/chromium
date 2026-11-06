@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfSearchifier implementation
+// summary: Implements the Searchify operation that converts an inaccessible PDF into a searchable one by supplying OCR annotations to chrome_pdf::Searchify.
+// ---
+
 #include "chrome/services/pdf/pdf_searchifier.h"
 
 #include <utility>

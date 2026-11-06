@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the file_util service
+summary: Defines GN build targets for the file_util service, with conditional sources for safe browsing archive analysis, tar extractors, unit tests, test support and a tar reader fuzzer.

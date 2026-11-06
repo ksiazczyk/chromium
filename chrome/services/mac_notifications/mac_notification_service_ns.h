@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MacNotificationServiceNS class declaration
+// summary: Declares the MacNotificationService mojo implementation based on the deprecated NSUserNotification system API.
+// ---
+
 #ifndef CHROME_SERVICES_MAC_NOTIFICATIONS_MAC_NOTIFICATION_SERVICE_NS_H_
 #define CHROME_SERVICES_MAC_NOTIFICATIONS_MAC_NOTIFICATION_SERVICE_NS_H_
 

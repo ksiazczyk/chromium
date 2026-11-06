@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to EMF converter factory implementation
+// summary: Implements the Mojo factory that creates self-owned PDF-to-EMF converters for Windows printing.
+// ---
+
 #include "chrome/services/printing/pdf_to_emf_converter_factory.h"
 
 #include <memory>

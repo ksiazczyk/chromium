@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MacNotificationProviderImpl class declaration
+// summary: Declares the mojo MacNotificationProvider implementation that binds a MacNotificationService and action handler.
+// ---
+
 #ifndef CHROME_SERVICES_MAC_NOTIFICATIONS_MAC_NOTIFICATION_PROVIDER_IMPL_H_
 #define CHROME_SERVICES_MAC_NOTIFICATIONS_MAC_NOTIFICATION_PROVIDER_IMPL_H_
 

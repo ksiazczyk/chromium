@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Readaloud presubmit checks
+# summary: Presubmit script that delegates test assertion order checks to the shared ReadAloud checks in common_checks.py.
+# ---
+
 """Presubmit script for chrome/services/readaloud.
 
 Reuses the shared ReadAloud assertion order checks defined in

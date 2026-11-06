@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfService implementation
+// summary: Implements the PDF service entry point that sets up discardable memory and binds self-owned receivers for the searchifier, progressive searchifier and thumbnailer.
+// ---
+
 #include "chrome/services/pdf/pdf_service.h"
 
 #include <memory>

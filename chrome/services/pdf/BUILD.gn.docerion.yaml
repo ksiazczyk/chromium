@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDF service BUILD.gn build targets
+summary: Defines the PDF service source set and its progressive searchifier, searchifier and thumbnailer unit test targets with their dependencies.

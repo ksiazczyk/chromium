@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe archive analyzer class declaration
+// summary: Declares the SafeArchiveAnalyzer Mojo service handling zip, dmg, rar, 7z and obfuscated archive analysis requests.
+// ---
+
 #ifndef CHROME_SERVICES_FILE_UTIL_SAFE_ARCHIVE_ANALYZER_H_
 #define CHROME_SERVICES_FILE_UTIL_SAFE_ARCHIVE_ANALYZER_H_
 

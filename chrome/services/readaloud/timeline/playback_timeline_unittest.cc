@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlaybackTimeline unit tests
+// summary: GoogleTest suite verifying PlaybackTimeline chunk population, clearing, position resolution, and duration estimation behavior.
+// ---
+
 #include "chrome/services/readaloud/timeline/playback_timeline.h"
 
 #include <memory>

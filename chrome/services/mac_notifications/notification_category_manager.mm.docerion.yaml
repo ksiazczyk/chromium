@@ -1,0 +1,4 @@
+# Docerion header of notification_category_manager.mm.
+type: source
+title: Notification category manager implementation
+summary: Implements creation, reference counting and release of UNNotification categories for notification action buttons, including text input actions.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reading mode metrics BUILD.gn build targets
+summary: GN build file defining the Rust static library, C++ source set, and unit test targets for reading mode distillation metrics.

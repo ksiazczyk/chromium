@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudPlaybackController class header
+// summary: Declares the ReadAloudPlaybackController that implements both the service factory and playback control Mojo interfaces.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_READ_ALOUD_PLAYBACK_CONTROLLER_H_
 #define CHROME_SERVICES_READALOUD_READ_ALOUD_PLAYBACK_CONTROLLER_H_
 

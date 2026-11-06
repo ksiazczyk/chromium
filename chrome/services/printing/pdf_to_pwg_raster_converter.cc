@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to PWG raster converter implementation
+// summary: Renders PDF pages and encodes them as PWG raster data for printers, applying duplex, color and page transform settings.
+// ---
+
 #include "chrome/services/printing/pdf_to_pwg_raster_converter.h"
 
 #include <limits>

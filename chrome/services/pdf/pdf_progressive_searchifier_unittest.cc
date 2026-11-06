@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PdfProgressiveSearchifier unit tests
+// summary: Tests add, delete and save operations on the progressive searchifier and its behavior when the OCR remote fails, using a fake Ocr implementation.
+// ---
+
 #include "chrome/services/pdf/pdf_progressive_searchifier.h"
 
 #include <stdint.h>

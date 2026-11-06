@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchModeScheduler class header
+// summary: Declares the PrefetchMode enum and scheduler that manages hysteresis state transitions between speed and quality prefetch modes on the utility main sequence.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_PREFETCH_PREFETCH_MODE_SCHEDULER_H_
 #define CHROME_SERVICES_READALOUD_PREFETCH_PREFETCH_MODE_SCHEDULER_H_
 

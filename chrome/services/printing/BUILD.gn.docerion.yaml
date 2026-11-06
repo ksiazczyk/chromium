@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing service build targets
+summary: Defines the GN source set for the Chrome printing service with platform-conditional sources and dependencies for ChromeOS, Windows, print preview and out-of-process printing.

@@ -1,0 +1,4 @@
+# Docerion header of notification_category_manager_unittest.mm.
+type: test
+title: Notification category manager unit tests
+summary: Unit tests for the notification category manager, verifying category creation, button contents and cleanup using a fake notification center.

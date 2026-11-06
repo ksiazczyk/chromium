@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaybackTimeline implementation
+// summary: Implements the read-aloud playback timeline, including word-boundary snapping, sentence chunk assembly across segments, and time-to-offset resolution.
+// ---
+
 #include "chrome/services/readaloud/timeline/playback_timeline.h"
 
 #include <algorithm>

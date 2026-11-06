@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test native library for header processing
+// summary: Exports a ProcessRequestHeaders function that reads the host header and writes a header named after its value, serving as a fixture for the unit tests.
+// ---
+
 #include <stddef.h>
 
 #include "base/compiler_specific.h"

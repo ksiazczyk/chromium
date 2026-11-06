@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthesis response parser header
+// summary: Declares the parsed synthesis result and timing bounds types plus functions for validating synthesis responses and word timings.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_SYNTHESIS_RESPONSE_PARSER_H_
 #define CHROME_SERVICES_READALOUD_SYNTHESIS_RESPONSE_PARSER_H_
 

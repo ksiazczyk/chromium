@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview response parser header
+// summary: Declares ParsedOverviewResult and the function that deserializes and validates overview responses in the sandboxed utility process.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_OVERVIEW_RESPONSE_PARSER_H_
 #define CHROME_SERVICES_READALOUD_OVERVIEW_RESPONSE_PARSER_H_
 

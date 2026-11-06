@@ -1,0 +1,4 @@
+# Docerion header of notification_test_utils_mac.mm.
+type: test
+title: Mac notification test fakes implementation
+summary: Implements fake notification center, settings and notification objects that keep in-memory state and mimic UNUserNotificationCenter behavior for tests.

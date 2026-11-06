@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Printing service include rules
+summary: Restricts which headers and components the printing service directory is allowed to include, such as crash keys, PDFium and printing common code.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: PDF service OWNERS
+summary: Delegates ownership approval for this directory to the OWNERS file in the pdf directory.

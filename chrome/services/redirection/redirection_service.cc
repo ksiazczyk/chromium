@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedirectionService implementation
+// summary: Implements the RedirectionService mojo service, whose Start method currently returns empty remoting sink metadata pending real data from the IMMR COM interfaces.
+// ---
+
 #include "chrome/services/redirection/redirection_service.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchManager unit tests
+// summary: Unit tests covering cache insertion and retrieval, session resets, cache clearing, and prefetch request behavior of the prefetch manager.
+// ---
+
 #include "chrome/services/readaloud/prefetch/prefetch_manager.h"
 
 #include <string>

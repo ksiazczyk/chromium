@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to EMF converter interface
+// summary: Declares the PdfToEmfConverter class implementing the mojom converter for rendering PDF pages to metafiles with page count and render settings.
+// ---
+
 #ifndef CHROME_SERVICES_PRINTING_PDF_TO_EMF_CONVERTER_H_
 #define CHROME_SERVICES_PRINTING_PDF_TO_EMF_CONVERTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer harness for MediaMetadataParser
+// summary: Feeds arbitrary bytes to MediaMetadataParser as a WebM file to uncover crashes in metadata parsing.
+// ---
+
 #include "chrome/services/media_gallery_util/media_metadata_parser.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

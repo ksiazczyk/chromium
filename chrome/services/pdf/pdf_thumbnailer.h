@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfThumbnailer class header
+// summary: Declares the PdfThumbnailer class implementing the Mojo PdfThumbnailer interface for generating PDF thumbnails from a shared memory region.
+// ---
+
 #ifndef CHROME_SERVICES_PDF_PDF_THUMBNAILER_H_
 #define CHROME_SERVICES_PDF_PDF_THUMBNAILER_H_
 

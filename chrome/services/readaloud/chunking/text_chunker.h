@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Readaloud text chunker header
+// summary: Declares the ChunkingMode enum, TextChunk struct and ChunkText API that segment text into sentence chunks with code unit offsets and speaker assignment.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_CHUNKING_TEXT_CHUNKER_H_
 #define CHROME_SERVICES_READALOUD_CHUNKING_TEXT_CHUNKER_H_
 

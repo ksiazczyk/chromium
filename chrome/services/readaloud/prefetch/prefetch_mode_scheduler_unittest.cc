@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchModeScheduler unit tests
+// summary: Tests default speed mode, upgrade to quality at the watermark, hysteresis retention, downgrade below minimum duration, and reset behavior.
+// ---
+
 #include "chrome/services/readaloud/prefetch/prefetch_mode_scheduler.h"
 
 #include "base/time/time.h"

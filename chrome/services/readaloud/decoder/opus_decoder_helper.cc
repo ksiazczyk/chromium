@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opus decoder helper implementation
+// summary: Implements OpusDecoderHelper, decoding Ogg/Opus container bytes with FFmpeg on a background thread and slicing the audio into word-level segments.
+// ---
+
 #include "chrome/services/readaloud/decoder/opus_decoder_helper.h"
 
 #include <utility>

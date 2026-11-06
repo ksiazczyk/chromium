@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoThumbnailParser class header
+// summary: Declares VideoThumbnailParser, which parses a video frame on a media thread using data supplied by a media::DataSource.
+// ---
+
 #ifndef CHROME_SERVICES_MEDIA_GALLERY_UTIL_VIDEO_THUMBNAIL_PARSER_H_
 #define CHROME_SERVICES_MEDIA_GALLERY_UTIL_VIDEO_THUMBNAIL_PARSER_H_
 

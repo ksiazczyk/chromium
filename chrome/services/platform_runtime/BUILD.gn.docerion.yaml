@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Platform runtime BUILD.gn build targets
+summary: Defines the platform_runtime source set, its unit_tests target, and the testonly platform_runtime_test_lib built as a shared library or loadable module.

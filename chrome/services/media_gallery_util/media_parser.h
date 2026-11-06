@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaParser class header
+// summary: Declares the MediaParser class that implements the MediaParser Mojo interface for parsing media metadata, checking media files, and reporting CPU info in the utility process.
+// ---
+
 #ifndef CHROME_SERVICES_MEDIA_GALLERY_UTIL_MEDIA_PARSER_H_
 #define CHROME_SERVICES_MEDIA_GALLERY_UTIL_MEDIA_PARSER_H_
 

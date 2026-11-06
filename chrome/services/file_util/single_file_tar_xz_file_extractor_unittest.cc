@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SingleFileTarXzFileExtractor
+// summary: Unit tests verifying that SingleFileTarXzFileExtractor extracts .tar.xz test data successfully and handles nonexistent source files.
+// ---
+
 #include "chrome/services/file_util/single_file_tar_xz_file_extractor.h"
 
 #include <stdint.h>

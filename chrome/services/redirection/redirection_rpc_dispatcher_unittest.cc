@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RedirectionRpcDispatcher unit tests
+// summary: Unit tests for RedirectionRpcDispatcher covering response routing to subscribers, demuxer handle callbacks, and delivery of background-thread responses on the subscribing sequence.
+// ---
+
 #include "chrome/services/redirection/redirection_rpc_dispatcher.h"
 
 #include <cstdint>

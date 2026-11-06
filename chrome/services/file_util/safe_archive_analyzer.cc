@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe archive analyzer
+// summary: Implements the SafeArchiveAnalyzer service that analyzes zip, dmg, rar and 7z archives for safe browsing, with an analysis timeout and temporary file getter.
+// ---
+
 #include "chrome/services/file_util/safe_archive_analyzer.h"
 
 #include "base/functional/callback.h"

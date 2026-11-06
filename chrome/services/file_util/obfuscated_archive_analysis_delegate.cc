@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obfuscated archive analysis delegate implementation
+// summary: Implements zip and rar reader and writer delegates that emulate disk access over enterprise-obfuscated files for safe browsing archive analysis.
+// ---
+
 #include "chrome/services/file_util/obfuscated_archive_analysis_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemovableStorageWriter class declaration
+// summary: Declares the RemovableStorageWriter class implementing the chrome::mojom::RemovableStorageWriter interface with Write and Verify operations.
+// ---
+
 #ifndef CHROME_SERVICES_REMOVABLE_STORAGE_WRITER_REMOVABLE_STORAGE_WRITER_H_
 #define CHROME_SERVICES_REMOVABLE_STORAGE_WRITER_REMOVABLE_STORAGE_WRITER_H_
 

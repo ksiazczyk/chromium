@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadAloudDecoderSequencer unit tests
+// summary: Unit tests for ReadAloudDecoderSequencer using a fake decoder helper, covering buffer replenishment, seeking, reset, and pump status transitions.
+// ---
+
 #include "chrome/services/readaloud/decoder/read_aloud_decoder_sequencer.h"
 
 #include <cstdint>

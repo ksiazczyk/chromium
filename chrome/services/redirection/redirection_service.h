@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedirectionService class header
+// summary: Declares the RedirectionService class implementing the mojom RedirectionService interface, bound to a mojo receiver for handling Start requests.
+// ---
+
 #ifndef CHROME_SERVICES_REDIRECTION_REDIRECTION_SERVICE_H_
 #define CHROME_SERVICES_REDIRECTION_REDIRECTION_SERVICE_H_
 

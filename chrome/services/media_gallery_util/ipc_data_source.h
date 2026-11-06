@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPCDataSource header for browser-provided media data
+// summary: Declares IPCDataSource, a media::DataSource that fetches media bytes via a Mojo remote and must run on the utility thread.
+// ---
+
 #ifndef CHROME_SERVICES_MEDIA_GALLERY_UTIL_IPC_DATA_SOURCE_H_
 #define CHROME_SERVICES_MEDIA_GALLERY_UTIL_IPC_DATA_SOURCE_H_
 

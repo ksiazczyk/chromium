@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WordBoundaryQueue unit tests
+// summary: Unit tests verifying word boundary queue behavior for empty queues, due word popping, extrapolation limits, playback rates and clearing.
+// ---
+
 #include "chrome/services/readaloud/audio_renderer/word_boundary_queue.h"
 
 #include <cstdint>

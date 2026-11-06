@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single file tar reader class declaration
+// summary: Declares SingleFileTarReader, a limited tar reader supporting archives with a single file entry and octal or GNU big-endian size fields.
+// ---
+
 #ifndef CHROME_SERVICES_FILE_UTIL_SINGLE_FILE_TAR_READER_H_
 #define CHROME_SERVICES_FILE_UTIL_SINGLE_FILE_TAR_READER_H_
 

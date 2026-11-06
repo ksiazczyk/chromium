@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac notification test fakes
+// summary: Declares fake UNUserNotificationCenter, settings and notification classes used to test macOS notification code without the system service.
+// ---
+
 #ifndef CHROME_SERVICES_MAC_NOTIFICATIONS_NOTIFICATION_TEST_UTILS_MAC_H_
 #define CHROME_SERVICES_MAC_NOTIFICATIONS_NOTIFICATION_TEST_UTILS_MAC_H_
 

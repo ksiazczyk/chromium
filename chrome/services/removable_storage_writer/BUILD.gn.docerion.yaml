@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for removable storage writer
+summary: GN build file defining the lib source_set for the removable storage writer service with its sources and public dependencies.

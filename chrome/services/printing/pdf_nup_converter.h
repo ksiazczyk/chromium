@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF N-up converter interface
+// summary: Declares the PdfNupConverter class implementing the PdfNupConverter mojom interface for page and document N-up conversion.
+// ---
+
 #ifndef CHROME_SERVICES_PRINTING_PDF_NUP_CONVERTER_H_
 #define CHROME_SERVICES_PRINTING_PDF_NUP_CONVERTER_H_
 

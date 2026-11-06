@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reading mode metrics DEPS include rules
+summary: Chromium DEPS file listing the include directories allowed for code in the reading mode metrics service.

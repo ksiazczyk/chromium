@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemovableStorageWriter service implementation
+// summary: Implements the RemovableStorageWriter Mojo service, delegating Write and Verify requests to the image writer handler.
+// ---
+
 #include "chrome/services/removable_storage_writer/removable_storage_writer.h"
 
 #include <utility>

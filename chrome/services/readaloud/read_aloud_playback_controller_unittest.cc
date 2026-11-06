@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read aloud playback controller unit tests
+// summary: Unit tests for the read aloud playback controller, using a mock client to verify playback state changes, progress updates and speech synthesis requests.
+// ---
+
 #include "chrome/services/readaloud/read_aloud_playback_controller.h"
 
 #include <algorithm>

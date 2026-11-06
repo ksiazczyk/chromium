@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio segment queue implementation
+// summary: Implements a thread-safe queue of decoded audio segments with real-time-safe pops and deferred slot reclamation.
+// ---
+
 #include "chrome/services/readaloud/audio_segment_queue.h"
 
 #include <algorithm>

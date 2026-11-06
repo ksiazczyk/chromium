@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the redirection remoting sender
+// summary: Tests RedirectionRemotingSender by sending decoder buffers through a Mojo data pipe and verifying they are written to a fake MMR stream.
+// ---
+
 #include "chrome/services/redirection/redirection_remoting_sender.h"
 
 #include <cstdint>

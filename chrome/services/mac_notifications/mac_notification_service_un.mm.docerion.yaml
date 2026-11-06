@@ -1,0 +1,4 @@
+# Docerion header of mac_notification_service_un.mm.
+type: source
+title: MacNotificationServiceUN implementation
+summary: Implements UNNotification-based display, actions, permission handling and icon attachments written to temporary files.

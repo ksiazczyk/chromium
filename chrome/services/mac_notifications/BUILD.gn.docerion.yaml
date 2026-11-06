@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for mac_notifications
+summary: Defines the mac_notifications source set and its unit tests, listing sources, dependencies and macOS frameworks.

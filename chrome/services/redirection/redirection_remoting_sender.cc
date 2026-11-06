@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the redirection remoting sender
+// summary: Implements RedirectionRemotingSender, which reads decoder buffers from a Mojo data pipe and appends frames or end-of-stream markers to an IMMRStream.
+// ---
+
 #include "chrome/services/redirection/redirection_remoting_sender.h"
 
 #include <utility>

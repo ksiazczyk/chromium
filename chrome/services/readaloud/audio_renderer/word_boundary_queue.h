@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WordBoundaryQueue header
+// summary: Declares WordBoundaryQueue, which stores pending word timings and predicts the wall clock times at which words start playing for synchronized highlighting.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_AUDIO_RENDERER_WORD_BOUNDARY_QUEUE_H_
 #define CHROME_SERVICES_READALOUD_AUDIO_RENDERER_WORD_BOUNDARY_QUEUE_H_
 

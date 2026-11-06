@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single-file TAR.XZ file extractor implementation
+// summary: Implements extraction of single-file .tar.xz archives by decompressing XZ data with the LZMA SDK and feeding it through SingleFileTarReader with progress reporting.
+// ---
+
 #include "chrome/services/file_util/single_file_tar_xz_file_extractor.h"
 
 #include <stddef.h>
