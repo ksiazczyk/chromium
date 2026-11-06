@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for font_data
+summary: Chromium DEPS file restricting includes in the font_data directory to the FreeType buildflags header.

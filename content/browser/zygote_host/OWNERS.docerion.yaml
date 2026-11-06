@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the zygote host directory
+summary: OWNERS file that defers code review ownership to the owners listed in content/zygote/OWNERS.

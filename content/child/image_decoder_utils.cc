@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image decoder utility for child processes
+// summary: Provides DecodeImage, which decodes raw image data into an SkBitmap of a desired size using Blink's WebImage.
+// ---
+
 #include "content/public/child/image_decoder_utils.h"
 
 #include "third_party/blink/public/platform/web_data.h"

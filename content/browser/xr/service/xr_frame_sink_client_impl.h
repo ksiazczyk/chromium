@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrFrameSinkClientImpl class declaration
+// summary: Declares XrFrameSinkClientImpl, which manages HostFrameSinkManager interactions for XR rendering and must be created and destroyed on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_SERVICE_XR_FRAME_SINK_CLIENT_IMPL_H_
 #define CONTENT_BROWSER_XR_SERVICE_XR_FRAME_SINK_CLIENT_IMPL_H_
 

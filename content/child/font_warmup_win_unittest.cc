@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows font warmup GDI emulation unit tests
+// summary: Unit tests for Windows font warmup and GDI font emulation, using a fake font collection and DirectWrite proxy to verify font table access.
+// ---
+
 #include "content/child/font_warmup_win.h"
 
 #include <windows.h>

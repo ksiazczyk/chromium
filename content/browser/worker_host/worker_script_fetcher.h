@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerScriptFetcher declaration
+// summary: Declares WorkerScriptFetcher and its result struct for browser-side worker script fetches handed off to the renderer process.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_WORKER_SCRIPT_FETCHER_H_
 #define CONTENT_BROWSER_WORKER_HOST_WORKER_SCRIPT_FETCHER_H_
 

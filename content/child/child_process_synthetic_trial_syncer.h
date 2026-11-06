@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessSyntheticTrialSyncer class declaration
+// summary: Declares the child-process class that syncs synthetic trial groups from the browser via Mojo so crash dumps from non-browser processes include trial information.
+// ---
+
 #ifndef CONTENT_CHILD_CHILD_PROCESS_SYNTHETIC_TRIAL_SYNCER_H_
 #define CONTENT_CHILD_CHILD_PROCESS_SYNTHETIC_TRIAL_SYNCER_H_
 

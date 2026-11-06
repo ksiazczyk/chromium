@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionTracker template header
+// summary: Declares a template that holds a UKM session entry, computes rounded session durations, and records the entry on request.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_METRICS_SESSION_TRACKER_H_
 #define CONTENT_BROWSER_XR_METRICS_SESSION_TRACKER_H_
 

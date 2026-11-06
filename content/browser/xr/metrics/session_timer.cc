@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionTimer implementation
+// summary: Implements a timer that measures session duration between start and stop and logs it to the VRSessionTime.WebVR histogram.
+// ---
+
 #include "content/browser/xr/metrics/session_timer.h"
 
 #include "base/metrics/histogram_functions.h"

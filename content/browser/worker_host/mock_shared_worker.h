@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock shared worker test double declarations
+// summary: Declares MockSharedWorker and MockSharedWorkerFactory mojo test doubles used to verify shared worker connections in unit tests.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_MOCK_SHARED_WORKER_H_
 #define CONTENT_BROWSER_WORKER_HOST_MOCK_SHARED_WORKER_H_
 

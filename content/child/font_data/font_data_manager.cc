@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontDataManager implementation
+// summary: Implements the child-process font manager that requests fonts from the browser over mojo, converts shared memory regions to SkTypefaces, and caches results.
+// ---
+
 #include "content/child/font_data/font_data_manager.h"
 
 #include <memory>

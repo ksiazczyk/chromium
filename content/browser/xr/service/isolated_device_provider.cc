@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedVRDeviceProvider implementation
+// summary: Implements the device provider that enumerates XR runtimes from the isolated XR device service and retries on connection errors before giving up.
+// ---
+
 #include "content/browser/xr/service/isolated_device_provider.h"
 
 #include "base/functional/bind.h"

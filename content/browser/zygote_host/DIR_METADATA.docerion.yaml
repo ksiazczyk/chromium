@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Zygote host directory metadata
+summary: Chromium metadata assigning this directory to the Internals>Sandbox component and the security-dev team for issue tracking.

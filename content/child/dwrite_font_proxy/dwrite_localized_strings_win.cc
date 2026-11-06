@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWriteLocalizedStrings implementation
+// summary: Implements IDWriteLocalizedStrings over a vector of locale and string pairs, supporting locale lookup and indexed string access.
+// ---
+
 #include "content/child/dwrite_font_proxy/dwrite_localized_strings_win.h"
 
 #include <stddef.h>

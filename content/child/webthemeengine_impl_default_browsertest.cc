@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebThemeEngine default implementation browser test
+// summary: Browser test verifying system color values of the default WebThemeEngine implementation, with skips for Windows server versions and Windows 11.
+// ---
+
 #include "build/build_config.h"
 #include "content/public/test/browser_test.h"
 #include "content/public/test/content_browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXRSessionTracker implementation
+// summary: Implements recording of requested and used WebXR session features into UKM entries and binding of the metrics recorder pipe.
+// ---
+
 #include "content/browser/xr/metrics/webxr_session_tracker.h"
 #include "device/vr/public/mojom/vr_service.mojom.h"
 #include "device/vr/public/mojom/xr_session.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserXRRuntimeImpl class declaration
+// summary: Declares BrowserXRRuntimeImpl, which wraps a physical device's XR runtime interfaces and tracks which VRServiceImpl listens for device activation.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_SERVICE_BROWSER_XR_RUNTIME_IMPL_H_
 #define CONTENT_BROWSER_XR_SERVICE_BROWSER_XR_RUNTIME_IMPL_H_
 

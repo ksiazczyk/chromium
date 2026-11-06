@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the browser memory coordinator bridge
+// summary: Unit tests verifying consumer registration, coalesced registration flushes, unregistration, and consumer update handling of the browser memory coordinator bridge.
+// ---
+
 #include "content/child/memory_coordinator/browser_memory_coordinator_bridge.h"
 
 #include <cstdint>

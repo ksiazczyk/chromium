@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR internals WebUI controller implementation
+// summary: Implements the WebUI controller for the WebXR internals debug page, registering its data source, gating it behind a feature flag, and binding the Mojo handler interface.
+// ---
+
 #include "content/browser/xr/webxr_internals/webxr_internals_ui.h"
 
 #include "base/feature_list.h"

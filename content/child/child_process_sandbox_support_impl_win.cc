@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sandbox support implementation
+// summary: Implements WebSandboxSupportWin, proxying locale data such as LCID, digits, signs and calendar labels from the browser for sandboxed Windows processes.
+// ---
+
 #include "content/child/child_process_sandbox_support_impl_win.h"
 
 #include <string>

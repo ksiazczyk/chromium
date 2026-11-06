@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped child process reference header
+// summary: Declares the ScopedChildProcessReference class that holds a reference to the current child process and can release it on scope exit or with a delay.
+// ---
+
 #ifndef CONTENT_CHILD_SCOPED_CHILD_PROCESS_REFERENCE_H_
 #define CONTENT_CHILD_SCOPED_CHILD_PROCESS_REFERENCE_H_
 

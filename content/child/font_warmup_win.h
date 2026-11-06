@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font warmup declarations
+// summary: Declares GDI font enumeration patching, emulated GDI handle testing helpers and interception of service manager calls for Windows font warmup.
+// ---
+
 #ifndef CONTENT_CHILD_FONT_WARMUP_WIN_H_
 #define CONTENT_CHILD_FONT_WARMUP_WIN_H_
 

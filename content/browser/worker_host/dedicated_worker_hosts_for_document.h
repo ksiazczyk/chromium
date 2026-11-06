@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-document dedicated worker host tracking header
+// summary: Declares DedicatedWorkerHostsForDocument, which tracks a document's dedicated workers and their back/forward cache blocking features.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_DEDICATED_WORKER_HOSTS_FOR_DOCUMENT_H_
 #define CONTENT_BROWSER_WORKER_HOST_DEDICATED_WORKER_HOSTS_FOR_DOCUMENT_H_
 

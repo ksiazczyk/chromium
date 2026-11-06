@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed process thread type handler header
+// summary: Declares SandboxedProcessThreadTypeHandler, which proxies thread type changes from sandboxed processes to the browser process.
+// ---
+
 #ifndef CONTENT_CHILD_SANDBOXED_PROCESS_THREAD_TYPE_HANDLER_H_
 #define CONTENT_CHILD_SANDBOXED_PROCESS_THREAD_TYPE_HANDLER_H_
 

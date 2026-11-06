@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the webxr_internals directory
+summary: Lists code owners for the webxr_internals directory, delegating to the WebUI platform owners for trivial or mechanical horizontal WebUI changes.

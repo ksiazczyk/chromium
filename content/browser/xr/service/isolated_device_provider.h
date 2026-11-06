@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedVRDeviceProvider class declaration
+// summary: Declares IsolatedVRDeviceProvider, which connects to the isolated XR service to add and remove XR runtimes on behalf of the browser.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_SERVICE_ISOLATED_DEVICE_PROVIDER_H_
 #define CONTENT_BROWSER_XR_SERVICE_ISOLATED_DEVICE_PROVIDER_H_
 

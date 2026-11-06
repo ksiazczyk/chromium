@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChildProcessSyntheticTrialSyncer
+// summary: Unit tests verifying that adding, updating and removing synthetic trial groups produces the expected experiment list and crash key state.
+// ---
+
 #include "content/child/child_process_synthetic_trial_syncer.h"
 
 #include "base/test/task_environment.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child interfaces exposed to the browser process
+// summary: Registers Mojo interfaces such as histogram fetching, tracing, and synthetic trial syncer that child processes expose to the browser process.
+// ---
+
 #include "content/child/browser_exposed_child_interfaces.h"
 
 #include "base/functional/bind.h"

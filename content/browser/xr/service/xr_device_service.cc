@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XR device service launcher and host
+// summary: Launches the sandboxed isolated XR Device Service process and provides the browser-side host that binds the XR process to the GPU process.
+// ---
+
 #include "content/browser/xr/service/xr_device_service.h"
 
 #include "base/functional/callback_helpers.h"

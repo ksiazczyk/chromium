@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process base class header
+// summary: Declares ChildProcess, the base class for renderer and plugin child processes, covering IO thread setup, thread pool startup and shutdown ordering.
+// ---
+
 #ifndef CONTENT_CHILD_CHILD_PROCESS_H_
 #define CONTENT_CHILD_CHILD_PROCESS_H_
 

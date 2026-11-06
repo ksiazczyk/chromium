@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildThreadImpl implementation
+// summary: Implements the main thread of a child process, setting up Mojo IPC, host receiver binding, field trial sync, tracing and performance coordination.
+// ---
+
 #include "content/child/child_thread_impl.h"
 
 #include <signal.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process base class implementation
+// summary: Implements the ChildProcess singleton that sets up the child IO thread, thread pool and ordered shutdown sequence for browser child processes.
+// ---
+
 #include "content/child/child_process.h"
 
 #include <string.h>

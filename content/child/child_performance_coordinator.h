@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child performance coordinator header
+// summary: Declares ChildPerformanceCoordinator, which exchanges performance scenario shared memory regions with the browser's PerformanceManager over a Mojo ChildProcessCoordinationUnit interface.
+// ---
+
 #ifndef CONTENT_CHILD_CHILD_PERFORMANCE_COORDINATOR_H_
 #define CONTENT_CHILD_CHILD_PERFORMANCE_COORDINATOR_H_
 

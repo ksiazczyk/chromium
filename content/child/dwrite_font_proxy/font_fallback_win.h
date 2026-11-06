@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontFallback class declaration
+// summary: Declares the FontFallback class, an IDWriteFontFallback that proxies fallback calls over IPC and keeps an MRU cache of matched font families.
+// ---
+
 #ifndef CONTENT_CHILD_DWRITE_FONT_PROXY_FONT_FALLBACK_WIN_H_
 #define CONTENT_CHILD_DWRITE_FONT_PROXY_FONT_FALLBACK_WIN_H_
 

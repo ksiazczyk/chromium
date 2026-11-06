@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontFallback implementation for Windows
+// summary: Implements IDWriteFontFallback that maps characters to fallback fonts via IPC to the browser process, caching recently matched font families to avoid repeated IPC.
+// ---
+
 #include "content/child/dwrite_font_proxy/font_fallback_win.h"
 
 #include <math.h>

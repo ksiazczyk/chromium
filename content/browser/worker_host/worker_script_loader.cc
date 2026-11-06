@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker script loader implementation
+// summary: Implements the browser-side URLLoader for worker main script requests with service worker interception and redirect handling.
+// ---
+
 #include "content/browser/worker_host/worker_script_loader.h"
 
 #include "base/functional/bind.h"

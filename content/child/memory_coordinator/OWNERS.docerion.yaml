@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the child memory coordinator
+summary: Points to the shared OWNERS file in base/memory_coordinator for review ownership of the child memory coordinator directory.

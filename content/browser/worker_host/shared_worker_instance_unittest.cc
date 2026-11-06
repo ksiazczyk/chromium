@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared worker instance unit tests
+// summary: Unit tests verifying how SharedWorkerInstance matches worker URLs, names and storage keys, including data URL and opaque origin cases.
+// ---
+
 #include "content/public/browser/shared_worker_instance.h"
 
 #include <memory>

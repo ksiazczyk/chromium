@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock shared worker test double implementation
+// summary: Implements MockSharedWorker and MockSharedWorkerFactory that record connect, terminate and freeze calls for shared worker tests.
+// ---
+
 #include "content/browser/worker_host/mock_shared_worker.h"
 
 #include "mojo/public/cpp/test_support/test_utils.h"

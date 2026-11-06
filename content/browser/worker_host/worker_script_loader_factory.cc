@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker script loader factory implementation
+// summary: Creates a WorkerScriptLoader to start each worker main script load and forbids cloning for synchronous requests.
+// ---
+
 #include "content/browser/worker_host/worker_script_loader_factory.h"
 
 #include <memory>

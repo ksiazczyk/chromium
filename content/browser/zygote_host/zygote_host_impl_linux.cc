@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux zygote host implementation
+// summary: Implements the browser-side zygote host that launches sandboxed zygote processes, tracks their PIDs, and adjusts renderer OOM scores.
+// ---
+
 #include "content/browser/zygote_host/zygote_host_impl_linux.h"
 
 #include <stdlib.h>

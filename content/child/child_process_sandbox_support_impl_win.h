@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sandbox support header
+// summary: Declares WebSandboxSupportWin, the Blink sandbox support interface providing locale information through the browser on Windows.
+// ---
+
 #ifndef CONTENT_CHILD_CHILD_PROCESS_SANDBOX_SUPPORT_IMPL_WIN_H_
 #define CONTENT_CHILD_CHILD_PROCESS_SANDBOX_SUPPORT_IMPL_WIN_H_
 

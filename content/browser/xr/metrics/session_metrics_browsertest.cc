@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session metrics prerendering browser test
+// summary: Browser test verifying that immersive XR sessions started during prerendering only record a WebXR session UKM entry after activation.
+// ---
+
 #include "components/ukm/test_ukm_recorder.h"
 #include "content/browser/xr/metrics/session_metrics_helper.h"
 #include "content/public/browser/web_contents.h"

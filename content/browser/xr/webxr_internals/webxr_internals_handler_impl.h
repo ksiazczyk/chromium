@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXR internals handler interface header
+// summary: Declares the WebXrInternalsHandlerImpl class that bridges the WebXR internals WebUI and the browser process through the WebXrInternalsHandler Mojo interface.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_WEBXR_INTERNALS_WEBXR_INTERNALS_HANDLER_IMPL_H_
 #define CONTENT_BROWSER_XR_WEBXR_INTERNALS_WEBXR_INTERNALS_HANDLER_IMPL_H_
 

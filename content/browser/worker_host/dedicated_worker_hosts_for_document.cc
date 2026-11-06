@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-document dedicated worker host tracking
+// summary: Tracks the dedicated worker hosts attached to a document and aggregates their back/forward cache blocking details and lifecycle notifications.
+// ---
+
 #include "content/browser/worker_host/dedicated_worker_hosts_for_document.h"
 
 #include "content/browser/renderer_host/render_frame_host_impl.h"

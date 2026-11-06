@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWriteFontCollectionProxy class declarations
+// summary: Declares the DirectWrite font collection and family proxy classes that use IPC to the browser for font enumeration because the sandbox blocks DirectWrite's system font service access.
+// ---
+
 #ifndef CONTENT_CHILD_DWRITE_FONT_PROXY_DWRITE_FONT_PROXY_WIN_H_
 #define CONTENT_CHILD_DWRITE_FONT_PROXY_DWRITE_FONT_PROXY_WIN_H_
 

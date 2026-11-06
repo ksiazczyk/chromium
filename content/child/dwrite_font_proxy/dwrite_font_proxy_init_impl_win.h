@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWrite font proxy initialization header for Windows
+// summary: Declares test-only helpers to set and clear a fake DWrite font proxy connection for tests that cannot process font IPC messages.
+// ---
+
 #ifndef CONTENT_CHILD_DWRITE_FONT_PROXY_DWRITE_FONT_PROXY_INIT_IMPL_WIN_H_
 #define CONTENT_CHILD_DWRITE_FONT_PROXY_DWRITE_FONT_PROXY_INIT_IMPL_WIN_H_
 

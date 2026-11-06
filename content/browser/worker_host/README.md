@@ -1,3 +1,9 @@
+---
+type: readme
+title: Web Worker in Browser
+summary: Describes how worker_host implements the browser side of dedicated and shared web workers, tracking security principals and brokering access to powerful web APIs.
+---
+
 # Web Worker in Browser
 
 [content/browser/worker_host] implements the browser side of web workers

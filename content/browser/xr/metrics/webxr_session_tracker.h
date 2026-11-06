@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebXRSessionTracker class header
+// summary: Declares the tracker that extends SessionTracker and implements XRSessionMetricsRecorder to report feature requests and usage.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_METRICS_WEBXR_SESSION_TRACKER_H_
 #define CONTENT_BROWSER_XR_METRICS_WEBXR_SESSION_TRACKER_H_
 

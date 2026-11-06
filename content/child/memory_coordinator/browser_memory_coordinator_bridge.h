@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserMemoryCoordinatorBridge class declaration
+// summary: Declares the MemoryCoordinatorPolicy implementation that bridges memory coordinator signals between the browser and child process over Mojo, including optional diagnostics reporting.
+// ---
+
 #ifndef CONTENT_CHILD_MEMORY_COORDINATOR_BROWSER_MEMORY_COORDINATOR_BRIDGE_H_
 #define CONTENT_CHILD_MEMORY_COORDINATOR_BROWSER_MEMORY_COORDINATOR_BRIDGE_H_
 

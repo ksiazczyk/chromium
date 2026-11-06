@@ -1,0 +1,4 @@
+# Docerion header of webxr_internals.mojom.
+type: source
+title: WebXR internals Mojom interface definitions
+summary: Defines Mojo structs and handler/listener interfaces that let the WebXR internals WebUI query device and runtime info and log XR session, runtime, frame, and console events from the browser process.

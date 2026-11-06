@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dedicated worker host navigation browser tests
+// summary: Browser tests checking dedicated worker host ancestor lookup after same-site navigation, with RenderDocument and back/forward cache disabled for testing.
+// ---
+
 #include "base/scoped_observation.h"
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/renderer_host/render_frame_host_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared worker content settings proxy header
+// summary: Declares SharedWorkerContentSettingsProxyImpl, which passes content settings decisions to the renderer-side SharedWorkerContentSettingsProxy and is owned by SharedWorkerHost.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_SHARED_WORKER_CONTENT_SETTINGS_PROXY_IMPL_H_
 #define CONTENT_BROWSER_WORKER_HOST_SHARED_WORKER_CONTENT_SETTINGS_PROXY_IMPL_H_
 

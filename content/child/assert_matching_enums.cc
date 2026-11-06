@@ -5,6 +5,12 @@
 // Use this file to assert that *_list.h enums that are meant to do the bridge
 // from Blink are valid.
 
+// ---docerion
+// type: source
+// title: Static assertions matching Blink and UI enums
+// summary: Asserts at compile time that Blink text input mode and type enums have values matching their ui/base counterparts used to bridge values from Blink.
+// ---
+
 #include "media/base/mime_util.h"
 #include "third_party/blink/public/platform/web_text_input_mode.h"
 #include "third_party/blink/public/platform/web_text_input_type.h"

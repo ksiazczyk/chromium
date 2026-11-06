@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process synthetic trial syncer implementation
+// summary: Implements the child-process endpoint that receives synthetic trial groups over Mojo and updates variations crash keys when trials are added, updated or removed.
+// ---
+
 #include "content/child/child_process_synthetic_trial_syncer.h"
 
 #include "base/no_destructor.h"

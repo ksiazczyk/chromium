@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildMemoryCoordinator singleton implementation
+// summary: Implements the ChildMemoryCoordinator singleton accessors and forwards binding of the browser registry host receiver to the bridge.
+// ---
+
 #include "content/child/memory_coordinator/child_memory_coordinator.h"
 
 #include "base/check.h"

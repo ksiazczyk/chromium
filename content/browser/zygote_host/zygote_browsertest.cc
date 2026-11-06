@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux zygote browser tests
+// summary: Browser tests verifying zygote time zone handling, expected sandbox namespace flags, and stable behavior when the zygote is disabled.
+// ---
+
 #include <string>
 #include <vector>
 

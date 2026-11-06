@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared worker content settings proxy implementation
+// summary: Implements the browser-side WorkerContentSettingsProxy that answers IndexedDB, CacheStorage, Web Locks, file system and clipboard permission checks for shared workers via SharedWorkerHost.
+// ---
+
 #include "content/browser/worker_host/shared_worker_content_settings_proxy_impl.h"
 
 #include <utility>

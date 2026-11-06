@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child performance coordinator unit tests
+// summary: Unit tests for ChildPerformanceCoordinator verifying that global and process scenario shared memory regions are received and mapped correctly.
+// ---
+
 #include "content/child/child_performance_coordinator.h"
 
 #include <memory>

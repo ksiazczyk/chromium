@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerScriptLoader declaration
+// summary: Declares the WorkerScriptLoader that loads worker main scripts, acting as both URLLoader and URLLoaderClient on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_WORKER_SCRIPT_LOADER_H_
 #define CONTENT_BROWSER_WORKER_HOST_WORKER_SCRIPT_LOADER_H_
 

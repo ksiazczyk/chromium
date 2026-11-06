@@ -1,3 +1,13 @@
+---
+type: readme
+title: XR Browser implementation
+summary: Explains the trusted XR code in content/browser, covering VRServiceImpl brokering, XRRuntimeManager runtime tracking, frame sink clients, and links to related WebXR and Chrome VR docs.
+relations:
+  - references /components/webxr/README.md
+  - documents /content/browser/xr/service/vr_service_impl.h
+  - documents /content/browser/xr/service/xr_frame_sink_client_impl.h
+---
+
 # XR Browser implementation
 _For a more high level overview of the entire WebXR stack, please refer to
 [components/webxr][components-webxr-readme]._

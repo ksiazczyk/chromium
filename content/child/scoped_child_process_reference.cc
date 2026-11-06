@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped child process reference implementation
+// summary: Implements ScopedChildProcessReference, which adds a reference to the current child process and releases it on destruction or after a given delay.
+// ---
+
 #include "content/child/scoped_child_process_reference.h"
 
 #include "base/functional/bind.h"

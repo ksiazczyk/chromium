@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed process thread type handler unit tests
+// summary: Tests batching and deduplication of thread type changes before and after switcher connection using a fake browser-side ThreadTypeSwitcher.
+// ---
+
 #include "content/child/sandboxed_process_thread_type_handler.h"
 
 #include <map>

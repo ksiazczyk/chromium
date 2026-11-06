@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerScriptLoaderFactory declaration
+// summary: Declares a per-worker URLLoaderFactory that creates WorkerScriptLoader instances for dedicated or shared worker main scripts.
+// ---
+
 #ifndef CONTENT_BROWSER_WORKER_HOST_WORKER_SCRIPT_LOADER_FACTORY_H_
 #define CONTENT_BROWSER_WORKER_HOST_WORKER_SCRIPT_LOADER_FACTORY_H_
 

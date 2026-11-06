@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process field trial and feature list initialization
+// summary: Initializes the field trial list and feature list in child processes from command-line parameters and switch-dependent feature overrides.
+// ---
+
 #include "content/child/field_trial.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dedicated worker service unit tests
+// summary: Unit tests for DedicatedWorkerServiceImpl and DedicatedWorkerHostFactoryImpl covering worker creation, tokens and lifecycle notifications.
+// ---
+
 #include "content/browser/worker_host/dedicated_worker_service_impl.h"
 
 #include <memory>

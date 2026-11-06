@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VRServiceImpl implementation
+// summary: Implements the browser process VRService mojo interface, handling WebXR session requests, permission checks, and presentation for pages using WebXR.
+// ---
+
 #include "content/browser/xr/service/vr_service_impl.h"
 
 #include <algorithm>

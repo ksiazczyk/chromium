@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrFrameSinkClientImpl implementation
+// summary: Implements the XR frame sink client that creates and manages root compositor frame sinks and DOM overlay surfaces for XR sessions on the UI thread.
+// ---
+
 #include "content/browser/xr/service/xr_frame_sink_client_impl.h"
 
 #include <memory>

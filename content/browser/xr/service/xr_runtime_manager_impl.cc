@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XRRuntimeManagerImpl implementation
+// summary: Implements the XRRuntimeManagerImpl singleton that supplies platform XR runtimes to VRServiceImpl instances, handling forced runtimes, device providers, and GPU info updates.
+// ---
+
 #include "content/browser/xr/service/xr_runtime_manager_impl.h"
 
 #include <string>

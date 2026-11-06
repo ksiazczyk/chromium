@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared worker service unit tests
+// summary: Extensive unit tests for SharedWorkerServiceImpl covering worker connection, creation context types, process allocation and termination behavior.
+// ---
+
 #include "content/browser/worker_host/shared_worker_service_impl.h"
 
 #include <memory>

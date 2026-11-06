@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XrPermissionResults class declaration
+// summary: Declares the XrPermissionResults helper class used to check whether granted permissions satisfy the requirements for creating XR sessions with given modes and features.
+// ---
+
 #ifndef CONTENT_BROWSER_XR_SERVICE_XR_PERMISSION_RESULTS_H_
 #define CONTENT_BROWSER_XR_SERVICE_XR_PERMISSION_RESULTS_H_
 

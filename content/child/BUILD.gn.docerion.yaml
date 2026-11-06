@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the content child target
+summary: Defines the GN build target for content/child, listing its sources, visibility rules, and dependencies on Blink, Mojo, and other Chromium components.

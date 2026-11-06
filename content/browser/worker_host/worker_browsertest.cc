@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for web workers
+// summary: Content browser tests covering shared and dedicated worker behavior, including cookies, permissions, CORS and client certificates.
+// ---
+
 #include "base/byte_size.h"
 #include "base/check.h"
 #include "base/feature_list.h"

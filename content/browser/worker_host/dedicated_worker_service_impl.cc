@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker service implementation
+// summary: Implements DedicatedWorkerServiceImpl, notifying observers about dedicated worker creation, destruction and final response URL determination.
+// ---
+
 #include "content/browser/worker_host/dedicated_worker_service_impl.h"
 
 #include "base/observer_list.h"

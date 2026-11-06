@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildMemoryCoordinator class declaration
+// summary: Declares the per-process singleton that owns the memory consumer registry, the policy manager, and the registered coordinator policies.
+// ---
+
 #ifndef CONTENT_CHILD_MEMORY_COORDINATOR_CHILD_MEMORY_COORDINATOR_H_
 #define CONTENT_CHILD_MEMORY_COORDINATOR_CHILD_MEMORY_COORDINATOR_H_
 

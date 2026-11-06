@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontDataManager class declaration
+// summary: Declares the SkFontMgr subclass that replaces the default child font manager, connects to the browser font service, and caches typeface lookups.
+// ---
+
 #ifndef CONTENT_CHILD_FONT_DATA_FONT_DATA_MANAGER_H_
 #define CONTENT_CHILD_FONT_DATA_FONT_DATA_MANAGER_H_
 
