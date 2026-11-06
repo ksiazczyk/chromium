@@ -1,0 +1,4 @@
+# Docerion header of tall.txt.
+type: test
+title: Tall text file fixture
+summary: Text fixture with 42 numbered lines used to test scrolling and display of long text files.

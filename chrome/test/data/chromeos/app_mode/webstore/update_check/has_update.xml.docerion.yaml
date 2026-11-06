@@ -1,0 +1,4 @@
+# Docerion header of has_update.xml.
+type: test
+title: Kiosk webstore update check fixture with an available update
+summary: Mock webstore update-check response XML indicating an available app update, with placeholders for app ID, CRX download URL, fingerprint, size and version.

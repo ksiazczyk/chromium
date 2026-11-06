@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for itemsnippet test protobufs
+summary: Defines a protoc_convert target that encodes the kiosk web store snippet textprotos into FetchItemSnippetResponse protobufs for ChromeOS kiosk tests.

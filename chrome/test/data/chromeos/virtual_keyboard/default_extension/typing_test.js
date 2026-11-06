@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Virtual keyboard typing test
+// summary: Tests that typing on the default lowercase keyboard sends the expected key events, including staggered key presses.
+// ---
+
 /**
  * Tests that typing characters on the default lowercase keyboard triggers the
  * correct sequence of events. The test is run asynchronously since the

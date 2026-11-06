@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Virtual keyboard end-to-end test
+// summary: Simulates tapping keys on the default virtual keyboard to verify that key presses register correctly.
+// ---
+
 /**
  * Defers continuation of a test until a keyset is loaded.
  * @param {string} keyset Name of the target keyset.

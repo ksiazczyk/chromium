@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared Module v2 test manifest
+summary: Manifest for the Shared Module v2 test app used by the multi-app kiosk tests.

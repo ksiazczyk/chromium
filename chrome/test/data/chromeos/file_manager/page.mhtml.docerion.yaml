@@ -1,0 +1,4 @@
+# Docerion header of page.mhtml.
+type: test
+title: Sample MHTML saved page
+summary: Small MHTML fixture of a saved Blink page containing a multipart Hello World message.

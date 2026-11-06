@@ -1,0 +1,4 @@
+# Docerion header of plaintext.
+type: test
+title: Extensionless plain text file
+summary: Plain text fixture without a file extension holding a single sample line.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the getVolumeList kiosk test app
+summary: Defines the kiosk-only Chrome app with fileSystem permissions that hosts the background test script for available volumes in the kiosk session.

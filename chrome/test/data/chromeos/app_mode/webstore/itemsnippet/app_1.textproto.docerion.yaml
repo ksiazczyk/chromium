@@ -1,0 +1,4 @@
+# Docerion header of app_1.textproto.
+type: test
+title: Web store snippet for App 1
+summary: Mock FetchItemSnippetResponse with a localized kiosk-enabled app manifest, ratings and logo URI, used as web store item snippet test data.

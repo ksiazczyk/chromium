@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the secondary kiosk management API test app
+summary: Manifest v2 app manifest declaring the secondary kiosk test app with a non-persistent background script and the management permission used by the management API tests.

@@ -1,0 +1,4 @@
+# Docerion header of ggbflgnkafappblpkiflbgpmkfdpnhhe.textproto.
+type: test
+title: Kiosk app item snippet fixture (Name of App 1)
+summary: Text-format protobuf fixture of a FetchItemSnippetResponse for a test kiosk app, providing manifest, title, rating and logo data for ChromeOS app mode tests.

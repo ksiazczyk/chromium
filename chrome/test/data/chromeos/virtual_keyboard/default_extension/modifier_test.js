@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Virtual keyboard modifier key test
+// summary: Tests sticky, chorded, stacked and double-tap modifier behavior for the Control, Alt and Shift keys.
+// ---
+
 /**
  * Test that the Control modifier key is sticky.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test kiosk app background script
+// summary: Background script that signals kiosk session launch data via chrome.test and opens the app's main page window.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function(launchData) {
   if (launchData.isKioskSession)
     chrome.test.sendMessage('launchData.isKioskSession = true');

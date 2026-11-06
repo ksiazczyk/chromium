@@ -1,0 +1,4 @@
+# Docerion header of gcpjojfkologpegommokeppihdbcnahn.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for gcpjojfkologpegommokeppihdbcnahn.crx
+summary: Mock HTTP response headers returning 200 OK with an application/x-chrome-extension content type for the gcpjojfkologpegommokeppihdbcnahn.crx download in ChromeOS kiosk app tests.

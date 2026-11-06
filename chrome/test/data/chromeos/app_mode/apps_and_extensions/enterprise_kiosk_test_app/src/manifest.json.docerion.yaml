@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Enterprise kiosk test app manifest
+summary: Chrome app manifest enabling kiosk mode with identity and enterprise.kioskInput permissions plus fake OAuth2 client settings for testing.

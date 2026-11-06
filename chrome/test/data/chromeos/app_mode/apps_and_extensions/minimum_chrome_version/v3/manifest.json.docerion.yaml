@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the minimum_chrome_version test app v3
+summary: Manifest for version 3.0.0 of the kiosk-enabled test app, setting minimum_chrome_version to 999 so it should not be installable in current Chrome.

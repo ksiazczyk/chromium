@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Primary kiosk app management API test script
+// summary: JavaScript test suite for the primary kiosk app that verifies chrome.management behaviors such as getSelf, getAll, enabling and disabling a secondary app, and disallowed operations in kiosk mode.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function() {
   var kSecondaryAppId = 'kajpgkhinciaiihghpdamekpjpldgpfi';
   var kNotAllowedError = 'Not allowed in kiosk.';

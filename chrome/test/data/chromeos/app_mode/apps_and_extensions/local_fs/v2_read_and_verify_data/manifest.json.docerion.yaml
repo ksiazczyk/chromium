@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test kiosk app manifest
+summary: Manifest for the test kiosk app declaring kiosk support, file system write permission, unlimited storage, and the main.js background script.

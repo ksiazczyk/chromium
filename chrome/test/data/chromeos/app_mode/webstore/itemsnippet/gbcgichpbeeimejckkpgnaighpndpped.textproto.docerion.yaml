@@ -1,0 +1,4 @@
+# Docerion header of gbcgichpbeeimejckkpgnaighpndpped.textproto.
+type: test
+title: Web store snippet for the Test Non Kiosk App
+summary: Mock FetchItemSnippetResponse for an app that is not kiosk enabled, serving as negative test data for kiosk app handling.

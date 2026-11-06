@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CWS Container messaging script
+// summary: JavaScript for the mocked CWS container that handles postMessage traffic and replies with widget_loaded and install-related messages during tests.
+// ---
+
 var cwsContainerMock = {};
 (function() {
   // This ID will be checked in the test.

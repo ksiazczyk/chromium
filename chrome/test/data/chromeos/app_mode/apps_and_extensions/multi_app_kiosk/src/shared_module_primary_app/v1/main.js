@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk primary app background script
+// summary: Background script that opens the kiosk app's main page in a 1920x1080 window when the app is launched.
+// ---
+
 chrome.app.runtime.onLaunched.addListener(function(launchData) {
   chrome.app.window.create('app_main.html',
       { 'width': 1920,

@@ -1,0 +1,4 @@
+# Docerion header of element.html.
+type: test
+title: File input element test page
+summary: HTML test fixture providing a file input element for ChromeOS file manager tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for kiosk multi-app test with shared module
+summary: Chrome app manifest enabling kiosk and offline mode, importing a shared module, and declaring a secondary app for the multi-app kiosk test.

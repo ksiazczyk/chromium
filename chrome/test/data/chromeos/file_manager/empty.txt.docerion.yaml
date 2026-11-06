@@ -1,0 +1,4 @@
+# Docerion header of empty.txt.
+type: test
+title: Empty text file
+summary: Zero-byte text fixture used by ChromeOS file manager tests to exercise handling of empty files.

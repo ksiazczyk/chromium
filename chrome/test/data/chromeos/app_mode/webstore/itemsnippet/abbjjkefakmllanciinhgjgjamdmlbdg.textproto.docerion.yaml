@@ -1,0 +1,4 @@
+# Docerion header of abbjjkefakmllanciinhgjgjamdmlbdg.textproto.
+type: test
+title: Web store snippet for Kiosk App With Local Data
+summary: Mock FetchItemSnippetResponse describing a kiosk-enabled app with fileSystem write and unlimitedStorage permissions, used as web store test data.

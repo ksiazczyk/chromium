@@ -1,0 +1,4 @@
+# Docerion header of no_update.xml.
+type: test
+title: Kiosk webstore update check fixture with no update
+summary: Mock webstore update-check response XML whose updatecheck status is noupdate, used to test kiosk app update checks that find no new version.

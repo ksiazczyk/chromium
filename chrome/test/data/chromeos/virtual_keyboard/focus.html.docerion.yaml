@@ -1,0 +1,4 @@
+# Docerion header of focus.html.
+type: test
+title: Virtual keyboard focus test page
+summary: HTML test page that focuses a text input synchronously or asynchronously via buttons to exercise virtual keyboard focus behavior for a Chromium bug.

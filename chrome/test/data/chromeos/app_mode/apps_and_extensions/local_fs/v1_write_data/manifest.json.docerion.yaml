@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Kiosk App With Local Data test app
+summary: Chrome app manifest enabling kiosk mode with fileSystem write and unlimitedStorage permissions for the test app.

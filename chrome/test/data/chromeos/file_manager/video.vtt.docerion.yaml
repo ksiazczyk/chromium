@@ -1,0 +1,4 @@
+# Docerion header of video.vtt.
+type: test
+title: WebVTT subtitle sample
+summary: WebVTT fixture with a single sample caption cue for video subtitle tests.

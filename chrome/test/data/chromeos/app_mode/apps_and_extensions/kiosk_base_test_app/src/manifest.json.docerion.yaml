@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Kiosk Base Test App manifest
+summary: Chrome app manifest defining the kiosk-enabled base test app with icons and main.js as its background script.

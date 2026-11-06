@@ -1,0 +1,4 @@
+# Docerion header of has_update_private_store.xml.
+type: test
+title: Kiosk webstore update check fixture for private store update
+summary: Minimal mock webstore update-check response XML with app ID, download URL and version placeholders, used for the private store update scenario.

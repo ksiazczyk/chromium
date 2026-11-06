@@ -1,0 +1,4 @@
+# Docerion header of tos.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for tos.txt
+summary: Mock HTTP response headers served alongside the test terms of service file in enterprise tests.

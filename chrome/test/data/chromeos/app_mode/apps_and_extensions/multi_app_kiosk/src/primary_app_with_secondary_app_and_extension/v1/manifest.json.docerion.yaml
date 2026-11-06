@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Primary kiosk app manifest with secondary apps
+summary: Chrome app manifest version 2 for the primary kiosk app, enabling kiosk mode and declaring two secondary apps, used in multi-app kiosk tests.

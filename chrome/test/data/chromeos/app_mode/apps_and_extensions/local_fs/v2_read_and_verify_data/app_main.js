@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test kiosk app data read and verify script
+// summary: Reads data.txt from persistent storage in the test kiosk app and verifies its contents, notifying Chrome test of pass or fail.
+// ---
+
 var FILE_NAME = 'data.txt';
 var DATA = 'Hello world';
 

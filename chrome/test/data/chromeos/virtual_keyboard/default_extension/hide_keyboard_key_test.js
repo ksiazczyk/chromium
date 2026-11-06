@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Hide keyboard key test
+// summary: Verifies that tapping the hide keyboard button hides the keyboard through the virtualKeyboardPrivate API.
+// ---
+
 /**
  * Tests that tapping the hide keyboard button hides the keyboard.
  * @param {Function} testDoneCallback The callback function on completion.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared module v1 test manifest
+summary: Manifest for the shared module v1 test fixture, declaring a version 1.0.0 Chrome extension named Shared Module with an empty export section.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for test kiosk app version 24.0.0
+summary: Chrome app manifest declaring the version 24 primary kiosk test app with kiosk and offline support and one secondary app.

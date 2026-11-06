@@ -1,0 +1,4 @@
+# Docerion header of epancfbahpnkphlhpeefecinmgclhjlj.textproto.
+type: test
+title: Web store snippet for the Kiosk Base Test App
+summary: Mock FetchItemSnippetResponse describing the manifest version 3 Kiosk Base Test App, used as web store snippet test data for kiosk tests.

@@ -1,0 +1,4 @@
+# Docerion header of tall.html.
+type: test
+title: Tall HTML page fixture
+summary: HTML fixture with 42 numbered lines used to test scrolling and display of long documents.

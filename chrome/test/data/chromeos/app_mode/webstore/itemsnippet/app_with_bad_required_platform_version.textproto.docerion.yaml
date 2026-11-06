@@ -1,0 +1,4 @@
+# Docerion header of app_with_bad_required_platform_version.textproto.
+type: test
+title: Web store snippet for app with bad required platform version
+summary: Mock FetchItemSnippetResponse for a kiosk app whose required_platform_version is invalid, exercising platform version validation in kiosk tests.

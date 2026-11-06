@@ -1,3 +1,12 @@
+---
+type: readme
+title: Test Chrome apps and extensions
+summary: Explains how to add new test Chrome apps and extensions (packing CRXs, saving keys, adding webstore snippets) and how to use them with FakeCWS and KioskMixin in automated Kiosk tests.
+relations:
+  - references /testing/xvfb.py
+  - references /chrome/browser/ash/app_mode/test/fake_cws_chrome_apps.h
+---
+
 # Test Chrome apps and extensions
 
 The fake web store implemented by

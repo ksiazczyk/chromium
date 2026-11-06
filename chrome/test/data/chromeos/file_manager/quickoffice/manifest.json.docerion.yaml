@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: QuickOffice test extension manifest for Office file handlers
+summary: Manifest for a test 'Basic Editor for Office files' Chrome extension that registers file handlers for Word, PowerPoint, Excel and CSV types in file manager tests.
