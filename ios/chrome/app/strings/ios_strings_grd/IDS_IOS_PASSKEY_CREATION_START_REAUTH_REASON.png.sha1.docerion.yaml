@@ -1,0 +1,4 @@
+# Docerion header of IDS_IOS_PASSKEY_CREATION_START_REAUTH_REASON.png.sha1.
+type: data
+title: Passkey creation reauthentication reason screenshot hash
+summary: SHA-1 checksum of the context screenshot for the reauthentication reason string shown when starting passkey creation, used for translator context.

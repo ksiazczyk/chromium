@@ -1,0 +1,4 @@
+# Docerion header of IDS_IOS_PASSKEY_HIDDEN_INFO.png.sha1.
+type: data
+title: Passkey hidden info screenshot hash
+summary: SHA-1 checksum of the context screenshot for the passkey hidden info string, used to give translators visual context in the iOS strings pipeline.
