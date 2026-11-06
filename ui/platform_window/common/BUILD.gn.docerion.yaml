@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for platform_window_common
+summary: GN build file defining the platform_window_common component with the platform_window_defaults sources, enabled only when Ozone is used.

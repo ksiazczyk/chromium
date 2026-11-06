@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock xdg_surface and toplevel request handlers
+// summary: Implements xdg_surface and xdg_toplevel request handlers such as set_title, move, resize, size limits, and window geometry for the mock Wayland server.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_xdg_surface.h"
 
 #include "ui/ozone/platform/wayland/test/mock_surface.h"

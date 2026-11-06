@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test output metrics implementation
+// summary: Implements TestOutputMetrics constructors and move operations, providing default and bounds-based output metrics for Wayland tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_output_metrics.h"
 
 namespace wl {

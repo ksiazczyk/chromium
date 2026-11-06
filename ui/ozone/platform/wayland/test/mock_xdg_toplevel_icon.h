@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock xdg_toplevel_icon class declarations
+// summary: Declares MockXdgToplevelIconManagerV1 and MockXdgToplevelIconV1 plus a resource struct tracking icon sizes and scales for Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_XDG_TOPLEVEL_ICON_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_XDG_TOPLEVEL_ICON_H_
 

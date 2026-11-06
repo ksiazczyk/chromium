@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test subcompositor declarations
+// summary: Declares the TestSubCompositor global object wrapping the wl_subcompositor interface for Wayland platform tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_SUBCOMPOSITOR_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_SUBCOMPOSITOR_H_
 

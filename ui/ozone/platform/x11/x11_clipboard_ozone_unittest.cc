@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 clipboard sequence number unit tests
+// summary: Unit tests verifying that X11 clipboard writes bump the sequence number synchronously and that self-echoed XFixes events are filtered.
+// ---
+
 #include "ui/ozone/platform/x11/x11_clipboard_ozone.h"
 
 #include <cstdint>

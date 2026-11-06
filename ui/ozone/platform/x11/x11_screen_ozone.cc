@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 platform screen implementation for Ozone
+// summary: Implements PlatformScreen for X11, managing displays via XRandR along with cursor position, display lookup, screen saver, idle time, and workspace queries.
+// ---
+
 #include "ui/ozone/platform/x11/x11_screen_ozone.h"
 
 #include <memory>

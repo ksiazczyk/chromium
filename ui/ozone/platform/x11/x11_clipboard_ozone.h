@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 Ozone clipboard class declaration
+// summary: Declares X11ClipboardOzone, the PlatformClipboard implementation that handles X11 selection events and clipboard data requests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_CLIPBOARD_OZONE_H_
 #define UI_OZONE_PLATFORM_X11_X11_CLIPBOARD_OZONE_H_
 

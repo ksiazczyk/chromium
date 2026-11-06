@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSExchangeDataProviderX11 header
+// summary: Declares the OSExchangeDataProvider implementation for X11 Linux, including a provider that owns a hidden X11 window for sending drag data.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_OS_EXCHANGE_DATA_PROVIDER_X11_H_
 #define UI_OZONE_PLATFORM_X11_OS_EXCHANGE_DATA_PROVIDER_X11_H_
 

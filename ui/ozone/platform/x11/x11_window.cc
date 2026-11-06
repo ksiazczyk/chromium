@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 platform window implementation
+// summary: Implements X11Window, the X11 PlatformWindow handling events, capture, drag and drop, fullscreen and window management.
+// ---
+
 #include "ui/ozone/platform/x11/x11_window.h"
 
 #include <algorithm>

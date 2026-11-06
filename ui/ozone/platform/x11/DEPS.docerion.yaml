@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: X11 Ozone platform include rules
+summary: Specifies allowed include paths for the X11 Ozone platform directory, with a special rule for the UI controls test helper.

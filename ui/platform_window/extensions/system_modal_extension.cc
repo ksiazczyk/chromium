@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System modal extension implementation
+// summary: Implements the property key, setter and getter that attach a SystemModalExtension to a PlatformWindow.
+// ---
+
 #include "ui/platform_window/extensions/system_modal_extension.h"
 
 #include "ui/base/class_property.h"

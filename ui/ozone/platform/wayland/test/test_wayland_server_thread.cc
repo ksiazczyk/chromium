@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Wayland server thread implementation for Ozone Wayland tests
+// summary: Implements an in-process Wayland server thread that initializes protocol globals, connects clients over a socketpair, and dispatches events for Ozone Wayland tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_wayland_server_thread.h"
 
 #include <sys/socket.h>

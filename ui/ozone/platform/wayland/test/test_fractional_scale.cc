@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fractional scale Wayland server object implementation
+// summary: Implements TestFractionalScaleManager and TestFractionalScale, test server objects that emulate the wp_fractional_scale_v1 protocol and send preferred scale events to clients.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_fractional_scale.h"
 
 #include <fractional-scale-v1-server-protocol.h>

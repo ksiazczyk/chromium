@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock zwp_text_input v1 and v3 server object implementation
+// summary: Implements server-side request handlers for the mock zwp_text_input v1 and v3 objects, forwarding protocol calls to gmock methods.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_zwp_text_input.h"
 
 namespace wl {

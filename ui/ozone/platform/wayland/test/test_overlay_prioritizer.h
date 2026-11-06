@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test overlay prioritizer class declaration
+// summary: Declares the TestOverlayPrioritizer global object that manages the overlay_prioritizer interface in Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_OVERLAY_PRIORITIZER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_OVERLAY_PRIORITIZER_H_
 

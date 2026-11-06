@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the X11 keyboard hook
+// summary: Declares X11KeyboardHook, a BaseKeyboardHook that grabs X11 keys for a window to capture requested or all key events.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_KEYBOARD_HOOK_H_
 #define UI_OZONE_PLATFORM_X11_X11_KEYBOARD_HOOK_H_
 

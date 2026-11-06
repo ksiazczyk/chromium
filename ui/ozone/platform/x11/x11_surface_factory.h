@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 surface factory header
+// summary: Declares X11SurfaceFactory, the Ozone surface factory that handles GL initialization and surface creation for X11.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_SURFACE_FACTORY_H_
 #define UI_OZONE_PLATFORM_X11_X11_SURFACE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ATK key event conversion declarations
+// summary: Declares the X event to ATK key event converter and the ATK key modifier mask constants mirroring GDK values.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_ATK_EVENT_CONVERSION_H_
 #define UI_OZONE_PLATFORM_X11_ATK_EVENT_CONVERSION_H_
 

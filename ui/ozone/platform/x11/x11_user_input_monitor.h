@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 user input monitor header
+// summary: Declares X11UserInputMonitor, the PlatformUserInputMonitor implementation that forwards to the shared X11 monitor.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_USER_INPUT_MONITOR_H_
 #define UI_OZONE_PLATFORM_X11_X11_USER_INPUT_MONITOR_H_
 

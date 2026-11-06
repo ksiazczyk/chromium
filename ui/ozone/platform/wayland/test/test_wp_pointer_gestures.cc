@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test zwp_pointer_gestures_v1 server implementation
+// summary: Implements the zwp_pointer_gestures_v1 global for the test server, creating pinch and hold gesture resources while swipe remains unimplemented.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_wp_pointer_gestures.h"
 
 #include <pointer-gestures-unstable-v1-server-protocol.h>

@@ -5,6 +5,12 @@
 // IMPORTANT NOTE: All QtShim members that use `delegate_` must be decorated
 // with DISABLE_CFI_VCALL.
 
+// ---docerion
+// type: source
+// title: QtShim implementation
+// summary: Implements QtShim, translating Qt fonts, palettes, gradients, icons, screens, and header drawing into the QtInterface API consumed by Chrome.
+// ---
+
 #include "ui/qt/qt_shim.h"
 
 #include <QApplication>

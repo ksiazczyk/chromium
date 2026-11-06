@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlobalObject implementation for the Wayland test server
+// summary: Implements the GlobalObject class that creates, binds, and destroys wl_global objects so the mock Wayland server can emit global events to clients.
+// ---
+
 #include "ui/ozone/platform/wayland/test/global_object.h"
 
 #include <algorithm>

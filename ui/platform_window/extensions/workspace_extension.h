@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Workspace extension interface
+// summary: Declares the WorkspaceExtension interface for querying and controlling workspace membership and visibility of a PlatformWindow.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_EXTENSIONS_WORKSPACE_EXTENSION_H_
 #define UI_PLATFORM_WINDOW_EXTENSIONS_WORKSPACE_EXTENSION_H_
 

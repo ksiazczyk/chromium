@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Fuchsia platform window directory metadata
+summary: Points the ui/platform_window/fuchsia directory to the common Fuchsia build metadata mixins.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 EGL GL utility class
+// summary: Declares the X11 platform EGL utility that supplies additional EGL attributes and reports visual manager support.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_GL_EGL_UTILITY_X11_H_
 #define UI_OZONE_PLATFORM_X11_GL_EGL_UTILITY_X11_H_
 

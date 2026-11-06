@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock wp_presentation Wayland server object implementation
+// summary: Implements the mock wp_presentation global that queues presentation feedback callbacks and sends presented or discarded feedback to Wayland clients during tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_wp_presentation.h"
 
 #include <wayland-server-core.h>

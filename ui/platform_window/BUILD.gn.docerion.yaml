@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the platform_window component
+summary: Defines the platform_window component, its sources, and platform-specific dependencies for Fuchsia, Linux, ChromeOS, and Windows.

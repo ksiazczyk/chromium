@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 Vulkan implementation class declaration
+// summary: Declares VulkanImplementationX11, the gpu::VulkanImplementation subclass that provides Vulkan support for the X11 Ozone platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_VULKAN_IMPLEMENTATION_X11_H_
 #define UI_OZONE_PLATFORM_X11_VULKAN_IMPLEMENTATION_X11_H_
 

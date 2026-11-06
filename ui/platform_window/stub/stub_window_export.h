@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: STUB_WINDOW_EXPORT macro definitions
+// summary: Defines the STUB_WINDOW_EXPORT macro to handle symbol export and import for the stub window component build.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_STUB_STUB_WINDOW_EXPORT_H_
 #define UI_PLATFORM_WINDOW_STUB_STUB_WINDOW_EXPORT_H_
 

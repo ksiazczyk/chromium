@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 canvas surface class declaration
+// summary: Declares X11CanvasSurface, the SurfaceOzoneCanvas implementation for software output when no EGL/GLES2 acceleration is available.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_CANVAS_SURFACE_H_
 #define UI_OZONE_PLATFORM_X11_X11_CANVAS_SURFACE_H_
 

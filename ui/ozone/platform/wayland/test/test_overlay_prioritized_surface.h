@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test overlay prioritized surface class declaration
+// summary: Declares the TestOverlayPrioritizedSurface server object that tracks the overlay priority assigned to a surface in Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_OVERLAY_PRIORITIZED_SURFACE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_OVERLAY_PRIORITIZED_SURFACE_H_
 

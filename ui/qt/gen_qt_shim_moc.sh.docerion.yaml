@@ -1,0 +1,4 @@
+# Docerion header of gen_qt_shim_moc.sh.
+type: script
+title: Generate prebuilt Qt shim moc files
+summary: Downloads pinned Qt5 and Qt6 moc tool packages, verifies their checksums, and regenerates the prebuilt qt5_shim_moc.cc and qt6_shim_moc.cc files.

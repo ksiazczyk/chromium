@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test viewport implementation
+// summary: Implements the wp_viewport test object, handling SetSource and SetDestination requests and clearing the viewport on the mock surface.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_viewport.h"
 
 #include "base/notreached.h"

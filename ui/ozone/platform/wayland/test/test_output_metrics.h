@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test output metrics struct declaration
+// summary: Defines the TestOutputMetrics struct holding wl_output and zxdg_output metrics with reasonable defaults for testing.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_OUTPUT_METRICS_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_OUTPUT_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the X11 platform screen
+// summary: Declares X11ScreenOzone, the PlatformScreen implementation for X11 that observes X11 events and device scale factor changes.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_SCREEN_OZONE_H_
 #define UI_OZONE_PLATFORM_X11_X11_SCREEN_OZONE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wl_output server object implementation
+// summary: Implements the server-side wl_output test object that stores output metrics and sends geometry, mode, scale and done events to clients when flushed.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_output.h"
 
 #include <wayland-server-protocol.h>

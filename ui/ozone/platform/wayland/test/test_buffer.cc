@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wl_buffer Wayland object implementation
+// summary: Implements the TestBuffer object that holds file descriptors associated with a wl_buffer resource in tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_buffer.h"
 
 namespace wl {

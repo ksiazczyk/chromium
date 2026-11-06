@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFdFactory class for the mock Wayland server
+// summary: Declares TestFdFactory, which provides scoped file descriptors backed by a temporary directory for tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_FD_FACTORY_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_FD_FACTORY_H_
 

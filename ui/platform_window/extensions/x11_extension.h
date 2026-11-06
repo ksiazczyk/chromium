@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 extension interface for platform windows
+// summary: Declares the X11Extension interface offering X11-specific platform window APIs such as sync availability, window stacking, root window bounds, and override-redirect handling.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_EXTENSIONS_X11_EXTENSION_H_
 #define UI_PLATFORM_WINDOW_EXTENSIONS_X11_EXTENSION_H_
 

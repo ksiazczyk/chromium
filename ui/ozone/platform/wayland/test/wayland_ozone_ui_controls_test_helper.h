@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland UI controls test helper header
+// summary: Declares WaylandOzoneUIControlsTestHelper, an OzoneUIControlsTestHelper implementation for Wayland that sends key and mouse events and tracks pending closures by request ID.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_OZONE_UI_CONTROLS_TEST_HELPER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_OZONE_UI_CONTROLS_TEST_HELPER_H_
 

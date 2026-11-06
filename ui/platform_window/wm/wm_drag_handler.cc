@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmDragHandler property accessors implementation
+// summary: Implements the property key plus getter and setter helpers that attach a WmDragHandler to a PlatformWindow.
+// ---
+
 #include "ui/platform_window/wm/wm_drag_handler.h"
 
 #include "ui/base/class_property.h"

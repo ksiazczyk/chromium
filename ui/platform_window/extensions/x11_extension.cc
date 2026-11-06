@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 extension property implementation
+// summary: Implements attaching an X11Extension pointer to a PlatformWindow as a class property and retrieving it via GetX11Extension.
+// ---
+
 #include "ui/platform_window/extensions/x11_extension.h"
 
 #include "ui/base/class_property.h"

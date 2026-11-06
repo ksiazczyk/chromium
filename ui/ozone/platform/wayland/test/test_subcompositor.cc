@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test subcompositor implementation
+// summary: Implements the wl_subcompositor test object that creates subsurfaces and posts protocol errors for invalid surface requests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_subcompositor.h"
 
 #include <wayland-server-core.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the win platform window
+summary: Specifies the include rules that allow this directory to depend on ui/events and ui/gfx headers.

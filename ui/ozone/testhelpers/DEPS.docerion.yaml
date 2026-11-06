@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for testhelpers
+summary: Sets directory include rules that allow depending on gmock for the Ozone test helpers.

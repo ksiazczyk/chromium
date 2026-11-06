@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test selection device manager declarations
+// summary: Declares base classes for Wayland data device test implementations, letting protocol-specific variants bind request handlers for devices, offers, and sources.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_SELECTION_DEVICE_MANAGER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_SELECTION_DEVICE_MANAGER_H_
 

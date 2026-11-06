@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Qt provider of OS settings
+// summary: Implements OsSettingsProviderQt, supplying Qt-derived settings such as preferred color scheme, caret blink interval, and accent color to Chromium.
+// ---
+
 #include "ui/qt/os_settings_provider_qt.h"
 
 #include "base/memory/raw_ptr.h"

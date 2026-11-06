@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock platform window delegate header
+// summary: Declares a gmock-based mock of PlatformWindowDelegate with mocked callbacks for bounds, events, state and widget changes in Ozone tests.
+// ---
+
 #ifndef UI_OZONE_TEST_MOCK_PLATFORM_WINDOW_DELEGATE_H_
 #define UI_OZONE_TEST_MOCK_PLATFORM_WINDOW_DELEGATE_H_
 

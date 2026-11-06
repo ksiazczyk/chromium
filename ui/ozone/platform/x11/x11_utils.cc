@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 platform utilities implementation
+// summary: Implements X11Utils, providing native window icons and WM window class names for the X11 Ozone platform.
+// ---
+
 #include "ui/ozone/platform/x11/x11_utils.h"
 
 #include "base/strings/string_util.h"

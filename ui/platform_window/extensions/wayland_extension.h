@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland extension interfaces
+// summary: Declares Wayland extension interfaces for roundtrips, state sequencing, window dragging, pointer locking and dbus appmenus.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_EXTENSIONS_WAYLAND_EXTENSION_H_
 #define UI_PLATFORM_WINDOW_EXTENSIONS_WAYLAND_EXTENSION_H_
 

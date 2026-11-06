@@ -5,6 +5,12 @@
 // IMPORTANT NOTE: All QtUi members that use `shim_` must be decorated
 // with DISABLE_CFI_VCALL.
 
+// ---docerion
+// type: source
+// title: QtUi Linux UI implementation
+// summary: Implements QtUi, the ui::LinuxUi backend that loads the Qt 5 or 6 shim library via dlopen and maps Qt settings to Chrome theme, font, and dialog behavior.
+// ---
+
 #include "ui/qt/qt_ui.h"
 
 #include <dlfcn.h>

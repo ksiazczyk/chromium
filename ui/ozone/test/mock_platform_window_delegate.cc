@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock platform window delegate implementation
+// summary: Implements the mock PlatformWindowDelegate constructors and a BoundsChange equality operator used by Ozone tests.
+// ---
+
 #include "ui/ozone/test/mock_platform_window_delegate.h"
 
 namespace ui {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Qt UI shim
+summary: Defines the GN build targets for the Qt interface, the Qt5 and Qt6 shim shared libraries, and the qt component used by the Linux UI factory.

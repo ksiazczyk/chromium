@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 event translation unit tests
+// summary: Unit tests for translating X11 key events into ui::KeyEvent, covering DomKey extraction, repeat flags, and event properties.
+// ---
+
 #include "ui/events/x/x11_event_translation.h"
 
 #include <xcb/xcb.h>

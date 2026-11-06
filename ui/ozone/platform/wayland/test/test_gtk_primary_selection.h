@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTK primary selection test manager factory declaration
+// summary: Declares CreateTestSelectionManagerGtk, a factory that builds a GTK primary selection device manager for the test Wayland server.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_GTK_PRIMARY_SELECTION_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_GTK_PRIMARY_SELECTION_H_
 

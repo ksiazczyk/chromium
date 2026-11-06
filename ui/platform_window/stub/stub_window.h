@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubWindow class declaration
+// summary: Declares StubWindow, a PlatformWindow implementation useful for tests and implementations that only care about bounds and activation state.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_STUB_STUB_WINDOW_H_
 #define UI_PLATFORM_WINDOW_STUB_STUB_WINDOW_H_
 

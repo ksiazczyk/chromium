@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland UI controls test helper implementation
+// summary: Implements the Wayland Ozone UI controls test helper, emulating keyboard and pointer input via WaylandInputEmulate and running closures once matching requests are processed.
+// ---
+
 #include "ui/ozone/platform/wayland/test/wayland_ozone_ui_controls_test_helper.h"
 
 #include "base/functional/bind.h"

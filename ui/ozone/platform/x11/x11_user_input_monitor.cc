@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 user input monitor implementation
+// summary: Implements the Ozone platform user input monitor for X11 by delegating key press tracking to the shared X11 user input monitor.
+// ---
+
 #include "ui/ozone/platform/x11/x11_user_input_monitor.h"
 
 #include "base/task/single_thread_task_runner.h"

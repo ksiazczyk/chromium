@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test xdg positioner implementation
+// summary: Implements xdg_positioner request handlers for tests, validating and storing popup size, anchor rect, anchor, gravity and constraint adjustment.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_positioner.h"
 
 #include <wayland-server-core.h>

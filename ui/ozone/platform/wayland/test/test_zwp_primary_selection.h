@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the test zwp primary selection manager factory
+// summary: Declares CreateTestSelectionManagerZwp, a factory returning a test selection device manager for the zwp primary selection protocol.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ZWP_PRIMARY_SELECTION_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ZWP_PRIMARY_SELECTION_H_
 

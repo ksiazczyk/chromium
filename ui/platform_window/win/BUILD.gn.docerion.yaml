@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build config for the win_window component
+summary: Defines the GN build target for the win_window component, listing its sources and dependencies on base, skia, ui/base, ui/events, and ui/gfx.

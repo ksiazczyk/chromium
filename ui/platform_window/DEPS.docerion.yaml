@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the platform_window directory
+summary: Lists allowed include paths for code in the platform_window directory, such as Skia, ui/base, ui/display, and ui/gfx.

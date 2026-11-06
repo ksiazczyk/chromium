@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland drag-and-drop test base header
+// summary: Declares WaylandDragDropTest, a base class for Wayland drag-and-drop tests with methods to emulate dnd, pointer, and touch events from the test compositor.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_DRAG_DROP_TEST_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_DRAG_DROP_TEST_H_
 

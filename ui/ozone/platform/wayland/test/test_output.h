@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wl_output server object declaration
+// summary: Declares TestOutput, a GlobalObject holding wl_output metrics with helpers to set bounds, scale and logical size and to flush them to clients.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_OUTPUT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_OUTPUT_H_
 

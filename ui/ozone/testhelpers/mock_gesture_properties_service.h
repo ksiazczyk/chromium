@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockGesturePropertiesService header
+// summary: Declares a gmock mock of the Ozone GesturePropertiesService Mojom C++ bindings for use in tests.
+// ---
+
 #ifndef UI_OZONE_TESTHELPERS_MOCK_GESTURE_PROPERTIES_SERVICE_H_
 #define UI_OZONE_TESTHELPERS_MOCK_GESTURE_PROPERTIES_SERVICE_H_
 

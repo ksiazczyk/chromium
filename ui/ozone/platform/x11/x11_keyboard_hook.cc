@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 keyboard hook for key locking
+// summary: Grabs keys through the X11 connection to implement keyboard lock, capturing all or specific keys across modifier masks and releasing them on destruction.
+// ---
+
 #include "ui/ozone/platform/x11/x11_keyboard_hook.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ATK key event conversion from X events
+// summary: Converts X11 key and XI2 device events into ATK key event structures with modifier masks for accessibility support.
+// ---
+
 #include "ui/ozone/platform/x11/atk_event_conversion.h"
 
 #include <cstdint>

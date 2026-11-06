@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11ScreenOzone unit tests
+// summary: Unit tests for the X11 Ozone screen implementation, covering display list updates, display observers and platform window behavior.
+// ---
+
 #include "ui/ozone/platform/x11/x11_screen_ozone.h"
 
 #include <memory>

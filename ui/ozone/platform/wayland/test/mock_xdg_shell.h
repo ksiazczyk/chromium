@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock xdg_shell class declaration
+// summary: Declares the MockXdgShell global object managing the xdg_wm_base interface with a mocked Pong method for Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_XDG_SHELL_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_XDG_SHELL_H_
 

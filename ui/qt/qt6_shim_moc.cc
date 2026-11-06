@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Qt 6 moc-generated meta object code for QtShim
+// summary: Generated Qt 6 meta object code for the QtShim class, providing the static meta object and slot dispatch for font, palette, screen, and DPI signals.
+// ---
+
 // Always allowed. This is a generated file from outside of Chrome.
 #ifdef UNSAFE_BUFFERS_BUILD
 #pragma allow_unsafe_buffers

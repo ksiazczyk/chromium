@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmMoveLoopHandler interface for interactive window move loops
+// summary: Declares the WmMoveLoopHandler interface that runs and ends an interactive move loop, such as for a tab drag controller.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_WM_WM_MOVE_LOOP_HANDLER_H_
 #define UI_PLATFORM_WINDOW_WM_WM_MOVE_LOOP_HANDLER_H_
 

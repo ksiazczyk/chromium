@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for the platform window wm component
+summary: Defines the GN component 'wm' that builds the platform window window-manager handlers with their sources, the IS_WM_IMPL define, and dependencies.

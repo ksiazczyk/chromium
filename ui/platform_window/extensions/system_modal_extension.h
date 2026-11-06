@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System modal extension interface
+// summary: Declares the SystemModalExtension interface for toggling the system modal state of a PlatformWindow.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_EXTENSIONS_SYSTEM_MODAL_EXTENSION_H_
 #define UI_PLATFORM_WINDOW_EXTENSIONS_SYSTEM_MODAL_EXTENSION_H_
 

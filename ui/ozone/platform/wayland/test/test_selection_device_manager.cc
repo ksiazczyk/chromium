@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test selection device manager implementation
+// summary: Implements test doubles for Wayland selection and data device protocols, handling offers, sources, and clipboard data transfer over file descriptors.
+// ---
+
 
 #include "ui/ozone/platform/wayland/test/test_selection_device_manager.h"
 

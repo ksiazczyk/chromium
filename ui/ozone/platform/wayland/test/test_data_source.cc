@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data source implementation
+// summary: Implements the wl_data_source protocol for the test Wayland server, sending DnD events such as send, finished, cancelled, action, and drop performed.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_data_source.h"
 
 #include <wayland-server-core.h>

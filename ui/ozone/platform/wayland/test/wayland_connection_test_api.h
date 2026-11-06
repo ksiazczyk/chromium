@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland connection test API header
+// summary: Declares WaylandConnectionTestApi, which allows tests to get and override internal implementation details of WaylandConnection and use display sync as a barrier.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_CONNECTION_TEST_API_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_CONNECTION_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test viewport declarations
+// summary: Declares the TestViewport server object with mockable SetSource and SetDestination handlers and destination size tracking.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_VIEWPORT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_VIEWPORT_H_
 

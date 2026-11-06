@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test zwp_linux_buffer_params_v1 server implementation
+// summary: Implements the test server-side zwp_linux_buffer_params_v1 object that stores dmabuf fds and modifiers and creates wl_buffer resources for the mock Wayland compositor.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_zwp_linux_buffer_params.h"
 
 #include "base/functional/callback_helpers.h"

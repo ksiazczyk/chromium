@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock xdg_activation_v1 class declarations
+// summary: Declares MockXdgActivationV1 and MockXdgActivationTokenV1 with gmock methods for token surface, commit, and activate requests in Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_XDG_ACTIVATION_V1_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_XDG_ACTIVATION_V1_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Wayland wl_pointer server implementation
+// summary: Implements the mock wl_pointer server interface, forwarding set_cursor requests to the MockPointer object for Wayland platform tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_pointer.h"
 
 namespace wl {

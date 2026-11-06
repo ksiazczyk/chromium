@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the test zwp_linux_buffer_params_v1 server object
+// summary: Declares TestZwpLinuxBufferParamsV1, a ServerObject managing zwp_linux_buffer_params_v1 resources, their fds, modifiers, and created buffer resource.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ZWP_LINUX_BUFFER_PARAMS_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ZWP_LINUX_BUFFER_PARAMS_H_
 

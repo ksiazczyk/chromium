@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Wayland wl_surface server implementation
+// summary: Implements the mock wl_surface server interface handling attach, damage, frame, commit, scale, transform, and region requests, and manages associated role objects.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_surface.h"
 
 #include "base/notreached.h"

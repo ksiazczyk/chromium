@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 extension delegate interface
+// summary: Declares the X11ExtensionDelegate interface with callbacks for lost mouse grabs, ATK key events, override-redirect state, and guessed fullscreen size.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_EXTENSIONS_X11_EXTENSION_DELEGATE_H_
 #define UI_PLATFORM_WINDOW_EXTENSIONS_X11_EXTENSION_DELEGATE_H_
 

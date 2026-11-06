@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Wayland seat implementation
+// summary: Implements the wl_seat global for tests, creating pointer, keyboard and touch resources and resetting them when destroyed.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_seat.h"
 
 #include "base/functional/bind.h"

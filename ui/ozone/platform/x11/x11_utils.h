@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 platform utilities header
+// summary: Declares X11Utils, the PlatformUtils implementation for the X11 Ozone platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_X11_UTILS_H_
 #define UI_OZONE_PLATFORM_X11_X11_UTILS_H_
 

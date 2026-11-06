@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Qt implementation of the native theme
+// summary: Implements NativeThemeQt, deriving the preferred color scheme from the Qt shim palette and painting the frame top area via the shim.
+// ---
+
 #include "ui/qt/native_theme_qt.h"
 
 #include <cstdlib>

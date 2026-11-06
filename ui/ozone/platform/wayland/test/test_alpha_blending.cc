@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test alpha blending Wayland object implementation
+// summary: Implements the zcr_blending_v1 test object that links alpha blending state to a mock surface and clears it on destruction.
+// ---
+
 #include <alpha-compositing-unstable-v1-server-protocol.h>
 #include <wayland-server-core.h>
 

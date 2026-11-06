@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurfaceEglReadbackX11 header
+// summary: Declares GLSurfaceEglReadbackX11, a GL surface implementation that copies pixels from readback onto an X11 window.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_GL_SURFACE_EGL_READBACK_X11_H_
 #define UI_OZONE_PLATFORM_X11_GL_SURFACE_EGL_READBACK_X11_H_
 

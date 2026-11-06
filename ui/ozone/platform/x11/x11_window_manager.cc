@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 window manager implementation
+// summary: Implements X11WindowManager, a singleton that tracks X11 windows and manages pointer grabs and mouse capture.
+// ---
+
 #include "ui/ozone/platform/x11/x11_window_manager.h"
 
 #include <algorithm>

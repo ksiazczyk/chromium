@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: X11 Ozone platform build configuration
+summary: Defines the source sets, sources, and dependencies for the X11 Ozone platform library and its unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone X11 platform implementation
+// summary: Implements the singleton OzonePlatform for X11, wiring up platform windows, cursors, clipboard, input, and surface factory services.
+// ---
+
 #include "ui/ozone/platform/x11/ozone_platform_x11.h"
 
 #include <memory>

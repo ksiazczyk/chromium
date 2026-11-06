@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default implementations of the PlatformWindow interface
+// summary: Provides default no-op implementations for optional PlatformWindow methods such as z-order, opacity, shape, and capture handling.
+// ---
+
 #include "ui/platform_window/platform_window.h"
 
 #include <string>

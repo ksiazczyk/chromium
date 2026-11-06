@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test wl_compositor Wayland global implementation
+// summary: Implements the wl_compositor test global that creates mock surfaces and test regions for client requests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_compositor.h"
 
 #include <wayland-server-core.h>

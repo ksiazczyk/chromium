@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxUiDelegateX11 header
+// summary: Declares LinuxUiDelegateX11, the LinuxUiDelegate implementation for the X11 backend.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_X11_LINUX_UI_DELEGATE_X11_H_
 #define UI_OZONE_PLATFORM_X11_LINUX_UI_DELEGATE_X11_H_
 

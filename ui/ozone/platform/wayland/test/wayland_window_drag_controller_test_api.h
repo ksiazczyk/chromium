@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland window drag controller test API header
+// summary: Declares WaylandWindowDragControllerTestApi, giving tests access to WaylandWindowDragController internals such as state, windows, drag offset, and drag protocol availability.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_WINDOW_DRAG_CONTROLLER_TEST_API_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_WINDOW_DRAG_CONTROLLER_TEST_API_H_
 

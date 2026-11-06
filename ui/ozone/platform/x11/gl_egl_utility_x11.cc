@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 EGL GL utility implementation
+// summary: Provides platform-specific EGL display attributes, alpha and buffer size choices, and Vulkan DISPLAY handling for X11.
+// ---
+
 #include "ui/ozone/platform/x11/gl_egl_utility_x11.h"
 
 #include "ui/base/x/x11_gl_egl_utility.h"

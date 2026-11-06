@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test zxdg_output server implementation
+// summary: Implements the test server-side zxdg_output_v1 object whose Flush sends logical size and position from test output metrics to clients.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_zxdg_output.h"
 
 #include <xdg-output-unstable-v1-server-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test xdg_popup server implementation
+// summary: Implements the xdg_popup server object, handling grab and reposition requests and storing the popup position and grab serial for tests.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_xdg_popup.h"
 
 #include "ui/ozone/platform/wayland/test/mock_xdg_surface.h"

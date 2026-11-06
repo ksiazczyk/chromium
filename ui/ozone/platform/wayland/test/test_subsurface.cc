@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test subsurface implementation
+// summary: Implements wl_subsurface request handlers for position, stacking, and sync state, updating the associated mock surface.
+// ---
+
 #include "ui/ozone/platform/wayland/test/mock_surface.h"
 
 #include "base/notreached.h"

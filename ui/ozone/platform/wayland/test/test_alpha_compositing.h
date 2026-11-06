@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test alpha compositing Wayland global header
+// summary: Declares TestAlphaCompositing, a GlobalObject managing the zcr_alpha_compositing_v1 interface in the test Wayland server.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ALPHA_COMPOSITING_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_ALPHA_COMPOSITING_H_
 

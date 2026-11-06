@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTK primary selection protocol test doubles
+// summary: Implements gtk-primary-selection protocol delegates on top of the test selection device manager so primary selection tests can run against the test Wayland compositor.
+// ---
+
 #include "ui/ozone/platform/wayland/test/test_gtk_primary_selection.h"
 
 #include <gtk-primary-selection-server-protocol.h>

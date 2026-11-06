@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSurface class declaration
+// summary: Declares the MockSurface server object with mocked surface requests and accessors for role objects such as xdg_surface, subsurface, viewport, and alpha blending.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_SURFACE_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_SURFACE_H_
 

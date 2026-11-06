@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 Vulkan surface creation and event handling
+// summary: Implements VulkanSurfaceX11, which creates X11 windows and VkXcbSurfaceKHR surfaces and works around swapchain hangs with a vblank timeout.
+// ---
+
 #include "ui/ozone/platform/x11/vulkan_surface_x11.h"
 
 #include "base/logging.h"

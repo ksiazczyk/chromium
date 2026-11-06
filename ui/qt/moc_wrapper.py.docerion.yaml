@@ -1,0 +1,4 @@
+# Docerion header of moc_wrapper.py.
+type: script
+title: Wrapper for running the Qt moc tool
+summary: Build helper that invokes the Qt moc code generator on a header file, optionally using a moc binary from a given path.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland test base header
+// summary: Declares WaylandTestBase, a base class that sets up a display, window, and test server, with helpers to post tasks to the server thread and synchronize the display.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_TEST_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_WAYLAND_TEST_H_
 

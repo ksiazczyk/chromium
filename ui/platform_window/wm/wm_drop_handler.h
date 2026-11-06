@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmDropHandler interface for drag and drop events on a platform window
+// summary: Declares the WmDropHandler interface that receives drag enter, data, motion, drop, and leave notifications for a platform window.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_WM_WM_DROP_HANDLER_H_
 #define UI_PLATFORM_WINDOW_WM_WM_DROP_HANDLER_H_
 

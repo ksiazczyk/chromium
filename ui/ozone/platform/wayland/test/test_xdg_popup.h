@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestXdgPopup class for xdg-shell popup testing
+// summary: Declares TestXdgPopup, which stores popup position, anchor, and grab serial so tests can verify xdg-shell popup behavior.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_XDG_POPUP_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_XDG_POPUP_H_
 

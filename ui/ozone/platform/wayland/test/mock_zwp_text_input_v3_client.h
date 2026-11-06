@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock zwp_text_input v3 client header
+// summary: Declares MockZwpTextInputV3Client, a gmock mock of ZwpTextInputV3Client used to observe text input events in Wayland tests.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_ZWP_TEXT_INPUT_V3_CLIENT_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_MOCK_ZWP_TEXT_INPUT_V3_CLIENT_H_
 

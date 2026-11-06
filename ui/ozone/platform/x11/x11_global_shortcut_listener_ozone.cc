@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 global shortcut listener for Ozone
+// summary: Implements the Ozone platform global shortcut listener for X11, delegating start, stop, accelerator registration, and key press notifications to the shared X11 listener.
+// ---
+
 #include "ui/ozone/platform/x11/x11_global_shortcut_listener_ozone.h"
 
 namespace ui {

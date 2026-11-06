@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform window test config defaults header
+// summary: Declares UseTestConfigForPlatformWindows and the test helper that enables test configuration, explaining X11 and Wayland effects.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_COMMON_PLATFORM_WINDOW_DEFAULTS_H_
 #define UI_PLATFORM_WINDOW_COMMON_PLATFORM_WINDOW_DEFAULTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDataOffer class for the mock Wayland server
+// summary: Declares TestDataOffer, a test wl_data_offer that records client DnD actions and sends source actions and action events.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_DATA_OFFER_H_
 #define UI_OZONE_PLATFORM_WAYLAND_TEST_TEST_DATA_OFFER_H_
 

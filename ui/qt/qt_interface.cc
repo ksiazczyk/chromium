@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QtInterface String and Buffer implementations
+// summary: Implements the String and Buffer helper classes used to pass strings and byte data safely across the boundary between Chrome and the Qt shim library.
+// ---
+
 #include "ui/qt/qt_interface.h"
 
 #include <cstdlib>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Begin frame source extension interface
+// summary: Declares the BeginFrameSourceExtension interface and delegate for begin frame callbacks and vsync interval changes on a PlatformWindow.
+// ---
+
 #ifndef UI_PLATFORM_WINDOW_EXTENSIONS_BEGIN_FRAME_SOURCE_EXTENSION_H_
 #define UI_PLATFORM_WINDOW_EXTENSIONS_BEGIN_FRAME_SOURCE_EXTENSION_H_
 

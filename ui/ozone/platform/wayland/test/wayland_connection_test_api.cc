@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland connection test API implementation
+// summary: Implements WaylandConnectionTestApi, letting tests override WaylandConnection internals such as cursor shape and idle notifier, enable Linux DRM syncobj, and synchronize the display.
+// ---
+
 #include "ui/ozone/platform/wayland/test/wayland_connection_test_api.h"
 
 #include "base/run_loop.h"
