@@ -1,0 +1,4 @@
+# Docerion header of aria-emphasis-expected-uia-win.txt.
+type: test
+title: aria-emphasis expected output for UIA on Windows
+summary: Expected UIA accessibility tree output on Windows for the aria-emphasis test, with emphasis text elements and names.

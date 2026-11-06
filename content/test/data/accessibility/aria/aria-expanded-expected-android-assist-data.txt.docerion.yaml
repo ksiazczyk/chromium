@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-expected-android-assist-data.txt.
+type: test
+title: aria-expanded expected Android assist data
+summary: Expected Android assist accessibility tree output for the aria-expanded test, showing menu items and separators with expanded states.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-input-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-hidden focused input
+summary: Expected Linux accessibility tree snapshot with two entry nodes inside an aria-hidden container, the second one focused.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-iframe-body.html.
+type: test
+title: Test page with iframes for aria-hidden body content
+summary: HTML test page embedding two iframes to exercise how aria-hidden on iframe body content is exposed to accessibility.

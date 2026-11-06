@@ -1,0 +1,4 @@
+# Docerion header of aria-generic-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for ARIA generic test
+summary: Expected Windows IA2/MSAA accessibility tree output for the aria-generic test page containing a role=generic fieldset.

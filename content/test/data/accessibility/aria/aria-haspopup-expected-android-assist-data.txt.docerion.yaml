@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-expected-android-assist-data.txt.
+type: test
+title: aria-haspopup expected Android assist data
+summary: Expected Android assist data accessibility output for the aria-haspopup test page covering various aria-haspopup values.

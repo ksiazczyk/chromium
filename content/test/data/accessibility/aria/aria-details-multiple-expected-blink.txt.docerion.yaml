@@ -1,0 +1,4 @@
+# Docerion header of aria-details-multiple-expected-blink.txt.
+type: test
+title: aria-details multiple expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the multiple aria-details test, exposing mark, comment, docFootnote and definition roles with details references.

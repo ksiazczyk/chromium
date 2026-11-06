@@ -1,0 +1,4 @@
+# Docerion header of aria-details-roles-expected-mac.txt.
+type: test
+title: aria-details-roles expected macOS accessibility tree
+summary: Expected macOS accessibility tree for the aria-details-roles test, listing AXDetailsElements for groups pointing at comment, definition and footnote targets.

@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-expected-blink.txt.
+type: test
+title: aria-expanded expected Blink output
+summary: Expected Blink accessibility tree for the aria-expanded test with menu items, static text and splitter nodes.

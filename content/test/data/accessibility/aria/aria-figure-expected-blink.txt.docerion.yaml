@@ -1,0 +1,4 @@
+# Docerion header of aria-figure-expected-blink.txt.
+type: test
+title: aria-figure expected Blink
+summary: Expected Blink internal accessibility tree for the aria-figure test, listing the figure node and its static text and inline text box children.

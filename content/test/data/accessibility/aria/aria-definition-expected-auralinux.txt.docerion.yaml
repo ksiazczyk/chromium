@@ -1,0 +1,4 @@
+# Docerion header of aria-definition-expected-auralinux.txt.
+type: test
+title: aria-definition expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree output for the aria-definition test page, listing the xml-roles:definition attribute.

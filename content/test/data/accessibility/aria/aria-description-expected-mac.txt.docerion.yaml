@@ -1,0 +1,4 @@
+# Docerion header of aria-description-expected-mac.txt.
+type: test
+title: aria-description expected output for the macOS accessibility tree
+summary: Expected macOS AX accessibility tree for the aria-description test page with AXDescription values and a tooltip subrole.

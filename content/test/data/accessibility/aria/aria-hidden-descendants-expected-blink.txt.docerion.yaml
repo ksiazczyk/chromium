@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-descendants-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-hidden descendants test
+summary: Expected Blink accessibility tree output for the aria-hidden descendants test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-expected-android-external.txt.
+type: test
+title: Expected Android external output for ARIA grid
+summary: Expected Android external accessibility output for an ARIA grid with collection item info.

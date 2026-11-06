@@ -1,0 +1,4 @@
+# Docerion header of aria-figure-expected-auralinux.txt.
+type: test
+title: aria-figure expected auralinux
+summary: Expected Linux assistive technology tree for the aria-figure test, showing the figure exposed via xml-roles with a static text named 'Figure'.

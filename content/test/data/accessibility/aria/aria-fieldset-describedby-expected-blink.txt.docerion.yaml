@@ -1,0 +1,4 @@
+# Docerion header of aria-fieldset-describedby-expected-blink.txt.
+type: test
+title: ARIA fieldset describedby expected tree for Blink
+summary: Expected Blink accessibility tree output for the fieldset aria-describedby test, showing a group whose name and description come from a related element.

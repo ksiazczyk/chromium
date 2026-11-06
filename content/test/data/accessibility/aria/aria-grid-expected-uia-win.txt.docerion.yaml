@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-expected-uia-win.txt.
+type: test
+title: Expected UIA tree for aria-grid on Windows
+summary: Expected UIA accessibility tree snapshot for the aria-grid test page on Windows with DataGrid, DataItem and Text elements.

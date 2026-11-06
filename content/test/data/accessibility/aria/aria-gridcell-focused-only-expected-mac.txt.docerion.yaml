@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-focused-only-expected-mac.txt.
+type: test
+title: aria-gridcell focused-only expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the focused-only ARIA gridcell test.

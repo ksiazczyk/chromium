@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-expected-win.txt.
+type: test
+title: aria-haspopup expected Windows accessibility tree
+summary: Expected Windows accessibility tree snapshot for the aria-haspopup test page, listing combo box roles with HASPOPUP values.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-hidden test
+summary: Expected Linux accessibility tree for the aria-hidden test with document, section and static text nodes for the blockDisplay elements.

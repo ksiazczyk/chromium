@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-body-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-hidden on body
+summary: Expected Blink accessibility tree showing that aria-hidden on the body element is ignored.

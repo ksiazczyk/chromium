@@ -1,0 +1,4 @@
+# Docerion header of aria-emphasis-expected-auralinux.txt.
+type: test
+title: aria-emphasis expected output for auralinux
+summary: Expected accessibility tree output for the aria-emphasis test on Linux, listing emphasis roles and their accessible names.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-button-expected-android.txt.
+type: test
+title: aria-hidden focused button expected Android tree
+summary: Expected Android accessibility tree for the aria-hidden focused button test, showing two buttons with the second one focused.

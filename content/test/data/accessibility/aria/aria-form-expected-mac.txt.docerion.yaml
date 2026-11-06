@@ -1,0 +1,4 @@
+# Docerion header of aria-form-expected-mac.txt.
+type: test
+title: ARIA form expected output for Mac
+summary: Expected macOS AX accessibility tree for the ARIA form test, showing AXLandmarkForm subroles and role descriptions for form elements.

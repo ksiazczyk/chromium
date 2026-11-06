@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-expected-android.txt.
+type: test
+title: Expected Android tree for aria-gridcell
+summary: Expected Android accessibility tree for the aria-gridcell test page with collection item info for headers and cells.

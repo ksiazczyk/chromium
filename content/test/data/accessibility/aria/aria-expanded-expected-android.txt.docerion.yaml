@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-expected-android.txt.
+type: test
+title: aria-expanded expected Android output
+summary: Expected Android accessibility tree snapshot for the aria-expanded test with menu items and separators.

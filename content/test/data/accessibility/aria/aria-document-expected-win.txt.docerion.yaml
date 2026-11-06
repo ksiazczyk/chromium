@@ -1,0 +1,4 @@
+# Docerion header of aria-document-expected-win.txt.
+type: test
+title: aria-document-expected-win
+summary: Expected Windows accessibility tree output for the aria document role test page.

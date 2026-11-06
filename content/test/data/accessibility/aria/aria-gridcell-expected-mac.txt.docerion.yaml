@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-expected-mac.txt.
+type: test
+title: aria-gridcell expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for an ARIA grid test covering gridcell roles.

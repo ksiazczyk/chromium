@@ -1,0 +1,4 @@
+# Docerion header of aria-description-expected-win.txt.
+type: test
+title: aria-description expected output for the Windows IA2 accessibility tree
+summary: Expected Windows IA2 accessibility tree for the aria-description test page, including description properties and object attributes.

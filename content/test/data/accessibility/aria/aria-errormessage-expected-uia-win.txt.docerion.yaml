@@ -1,0 +1,4 @@
+# Docerion header of aria-errormessage-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for aria-errormessage
+summary: Expected Windows UIA accessibility tree snapshot for the aria-errormessage test, showing ControllerFor relations.

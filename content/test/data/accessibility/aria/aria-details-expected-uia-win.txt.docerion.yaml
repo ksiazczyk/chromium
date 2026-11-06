@@ -1,0 +1,4 @@
+# Docerion header of aria-details-expected-uia-win.txt.
+type: test
+title: aria-details expected Windows UIA accessibility tree
+summary: Expected Windows UIA tree snapshot for the aria-details test, showing DescribedBy relations on groups, edits and images.

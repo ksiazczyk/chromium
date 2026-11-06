@@ -1,0 +1,4 @@
+# Docerion header of aria-flowto-expected-blink.txt.
+type: test
+title: aria-flowto expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the aria-flowto test, showing a region whose flowto relation points to a footer.

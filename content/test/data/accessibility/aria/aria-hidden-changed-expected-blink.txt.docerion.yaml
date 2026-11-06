@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-changed-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree after aria-hidden change
+summary: Expected Blink accessibility tree for a page where an aria-hidden change exposes previously hidden content.

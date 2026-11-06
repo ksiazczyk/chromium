@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-expected-mac.txt.
+type: test
+title: aria-haspopup expected macOS accessibility tree
+summary: Expected macOS accessibility tree snapshot for the aria-haspopup test page, listing combo boxes with AXHasPopup and AXPopupValue attributes.

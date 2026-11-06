@@ -1,0 +1,4 @@
+# Docerion header of aria-describedby-expected-win.txt.
+type: test
+title: aria-describedby expected Windows output
+summary: Expected Windows accessibility tree snapshot for the aria-describedby test.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-hidden test
+summary: Expected macOS accessibility tree for the aria-hidden test with AXWebArea, AXGroup and AXStaticText nodes for the blockDisplay elements.

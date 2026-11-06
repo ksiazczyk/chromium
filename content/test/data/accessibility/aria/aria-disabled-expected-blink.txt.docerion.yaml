@@ -1,0 +1,4 @@
+# Docerion header of aria-disabled-expected-blink.txt.
+type: test
+title: Expected Blink output for the aria-disabled test
+summary: Expected Blink internal accessibility tree snapshot verifying restriction=disabled on text fields and containers.

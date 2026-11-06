@@ -1,0 +1,4 @@
+# Docerion header of aria-grid-extra-wrap-elems-expected-blink.txt.
+type: test
+title: Expected Blink tree for aria-grid extra wrapper elements
+summary: Expected Blink accessibility tree snapshot for grids with extra wrapper elements around rows and cells.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-html-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-hidden on html element
+summary: Expected Blink accessibility tree snapshot for the test page verifying that aria-hidden is ignored on the html element.

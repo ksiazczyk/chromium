@@ -1,0 +1,4 @@
+# Docerion header of aria-errormessage-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for aria-errormessage
+summary: Expected Windows accessibility tree snapshot for the aria-errormessage test, showing error relations on text entries.

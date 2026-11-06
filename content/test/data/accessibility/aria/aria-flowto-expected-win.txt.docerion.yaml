@@ -1,0 +1,4 @@
+# Docerion header of aria-flowto-expected-win.txt.
+type: test
+title: aria-flowto expected Windows accessibility tree
+summary: Expected Windows IA2 accessibility tree output for the aria-flowto test, showing landmark flow relations.

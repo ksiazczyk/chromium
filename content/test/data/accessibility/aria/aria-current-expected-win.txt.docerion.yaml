@@ -1,0 +1,4 @@
+# Docerion header of aria-current-expected-win.txt.
+type: test
+title: aria-current expected Windows accessibility tree
+summary: Expected Windows accessibility tree output for the aria-current test page, covering current values like true, false, time, date, location, step and page.

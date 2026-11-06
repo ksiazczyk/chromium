@@ -1,0 +1,4 @@
+# Docerion header of aria-focusable-menu-expected-android-external.txt.
+type: test
+title: Expected Android accessibility tree for focusable menu test, external format
+summary: Expected Android accessibility output for the focusable menu test in the external WebView format, listing menu items and their actions.

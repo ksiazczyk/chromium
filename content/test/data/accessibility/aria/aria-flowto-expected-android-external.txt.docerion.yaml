@@ -1,0 +1,4 @@
+# Docerion header of aria-flowto-expected-android-external.txt.
+type: test
+title: aria-flowto expected Android external
+summary: Expected Android accessibility tree output in the external format for the aria-flowto test, showing region and footer views with container and supplemental descriptions.

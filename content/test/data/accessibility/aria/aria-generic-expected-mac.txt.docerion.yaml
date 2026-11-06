@@ -1,0 +1,4 @@
+# Docerion header of aria-generic-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for ARIA generic test
+summary: Expected macOS accessibility tree output for the aria-generic test page containing a role=generic fieldset.

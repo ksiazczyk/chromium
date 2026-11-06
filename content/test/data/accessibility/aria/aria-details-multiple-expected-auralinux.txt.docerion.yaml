@@ -1,0 +1,4 @@
+# Docerion header of aria-details-multiple-expected-auralinux.txt.
+type: test
+title: aria-details multiple expected Linux accessibility tree
+summary: Expected Linux AT-SPI accessibility tree snapshot for the multiple aria-details test, showing details and details-for relations across sections, footnotes and descriptions.

@@ -1,0 +1,4 @@
+# Docerion header of aria-figure-expected-android-assist-data.txt.
+type: test
+title: ARIA figure expected Android assist data
+summary: Expected Android assist data output for the figure role test, showing the figure view with its Figure text.

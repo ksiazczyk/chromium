@@ -1,0 +1,4 @@
+# Docerion header of aria-details-expected-android-external.txt.
+type: test
+title: aria-details expected Android external output
+summary: Expected Android external accessibility output for the aria-details test page with actions and chromeRole bundles.

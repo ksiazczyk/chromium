@@ -1,0 +1,4 @@
+# Docerion header of aria-emphasis-expected-blink.txt.
+type: test
+title: aria-emphasis expected output for Blink
+summary: Expected Blink accessibility tree output for the aria-emphasis test, showing emphasis nodes with their static text.

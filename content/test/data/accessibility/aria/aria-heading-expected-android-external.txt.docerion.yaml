@@ -1,0 +1,4 @@
+# Docerion header of aria-heading-expected-android-external.txt.
+type: test
+title: aria-heading expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot for the aria-heading test page, listing heading text views with role descriptions and focus actions.

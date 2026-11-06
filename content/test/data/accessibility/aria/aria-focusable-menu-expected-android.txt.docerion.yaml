@@ -1,0 +1,4 @@
+# Docerion header of aria-focusable-menu-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the focusable menu test
+summary: Expected Android accessibility tree snapshot for the focusable menu test, showing the menu button and its menu items.

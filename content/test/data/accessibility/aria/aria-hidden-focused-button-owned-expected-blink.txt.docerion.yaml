@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-button-owned-expected-blink.txt.
+type: test
+title: aria-hidden focused button owned expected Blink tree
+summary: Expected Blink accessibility tree for the aria-hidden focused button test with aria-owns, before and after the owner is set.

@@ -1,0 +1,4 @@
+# Docerion header of aria-details-multiple-expected-android.txt.
+type: test
+title: aria-details multiple expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the multiple aria-details test, showing role descriptions for annotated comment, footnote and definition views.

@@ -1,0 +1,4 @@
+# Docerion header of aria-focusable-menu-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the focusable menu test
+summary: Expected Blink internal accessibility tree snapshot for the focusable menu test, including popup button and menu items.

@@ -1,0 +1,4 @@
+# Docerion header of aria-form-expected-android-assist-data.txt.
+type: test
+title: ARIA form expected output for Android assist data
+summary: Expected Android assist-data accessibility tree for the ARIA form test, covering named and unnamed role=form elements and role description fallback.

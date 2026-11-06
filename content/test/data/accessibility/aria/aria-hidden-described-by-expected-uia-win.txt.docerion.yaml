@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-described-by-expected-uia-win.txt.
+type: test
+title: Expected UIA Win tree for aria-hidden described-by test
+summary: Expected Windows UIA accessibility tree output for the aria-hidden aria-describedby test.

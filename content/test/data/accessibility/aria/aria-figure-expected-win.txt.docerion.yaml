@@ -1,0 +1,4 @@
+# Docerion header of aria-figure-expected-win.txt.
+type: test
+title: aria-figure expected Win
+summary: Expected Windows accessibility tree for the aria-figure test, mapping the figure to ROLE_SYSTEM_GROUPING with xml-roles and static text 'Figure'.

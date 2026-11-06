@@ -1,0 +1,4 @@
+# Docerion header of aria-generic-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for ARIA generic test
+summary: Expected Android WebView accessibility tree output for the aria-generic test page containing a role=generic fieldset.

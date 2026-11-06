@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-button-expected-auralinux.txt.
+type: test
+title: aria-hidden focused button expected Linux tree
+summary: Expected Linux accessibility tree for the aria-hidden focused button test, showing two push buttons with the second one focused.

@@ -1,0 +1,4 @@
+# Docerion header of aria-details-roles-expected-auralinux.txt.
+type: test
+title: aria-details-roles expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the aria-details-roles test, showing details-from and details-roles values for comment, definition and footnote targets.

@@ -1,0 +1,4 @@
+# Docerion header of aria-emphasis-expected-win.txt.
+type: test
+title: aria-emphasis expected output for Windows
+summary: Expected Windows IA2 accessibility tree output for the aria-emphasis test, including xml-roles emphasis markers.

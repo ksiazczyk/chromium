@@ -1,0 +1,4 @@
+# Docerion header of aria-focusable-subwidget-not-editable-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the non-editable subwidget test
+summary: Expected Windows accessibility tree snapshot for the non-editable subwidget test, showing editable state on sections and outline items.

@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-input-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for aria-hidden focused input
+summary: Expected macOS accessibility tree snapshot with two AXTextField nodes inside an AXGroup for the aria-hidden focused input test.

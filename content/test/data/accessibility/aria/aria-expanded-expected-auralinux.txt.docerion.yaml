@@ -1,0 +1,4 @@
+# Docerion header of aria-expanded-expected-auralinux.txt.
+type: test
+title: aria-expanded expected Linux accessibility output
+summary: Expected Linux accessibility output for the aria-expanded test showing menu items and separators.

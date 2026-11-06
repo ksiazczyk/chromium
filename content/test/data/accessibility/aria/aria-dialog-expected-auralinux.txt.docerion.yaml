@@ -1,0 +1,4 @@
+# Docerion header of aria-dialog-expected-auralinux.txt.
+type: test
+title: Expected Linux output for ARIA dialog test
+summary: Expected Linux accessibility tree for the ARIA dialog test with document, dialog and static text nodes.

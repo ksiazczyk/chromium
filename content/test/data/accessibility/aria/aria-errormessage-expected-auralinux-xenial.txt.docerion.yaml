@@ -1,0 +1,4 @@
+# Docerion header of aria-errormessage-expected-auralinux-xenial.txt.
+type: test
+title: Expected Linux (Xenial) accessibility tree for aria-errormessage
+summary: Expected Linux accessibility tree snapshot for the aria-errormessage test on Xenial.

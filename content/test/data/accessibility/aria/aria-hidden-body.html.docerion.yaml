@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-body.html.
+type: test
+title: aria-hidden on body test page
+summary: HTML test page with aria-hidden set on the body element to verify the attribute is ignored there.

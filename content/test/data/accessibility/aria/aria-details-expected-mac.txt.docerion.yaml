@@ -1,0 +1,4 @@
+# Docerion header of aria-details-expected-mac.txt.
+type: test
+title: aria-details expected macOS accessibility tree
+summary: Expected macOS AX tree snapshot for the aria-details test, listing AXDetailsElements relationships between text fields, groups and images.

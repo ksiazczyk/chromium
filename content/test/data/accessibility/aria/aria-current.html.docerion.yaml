@@ -1,0 +1,4 @@
+# Docerion header of aria-current.html.
+type: test
+title: aria-current test page
+summary: HTML test page exercising aria-current on links, headings, spans and paragraphs for cross-platform accessibility tree verification.

@@ -1,0 +1,4 @@
+# Docerion header of aria-form-expected-android-external.txt.
+type: test
+title: ARIA form expected output for Android external
+summary: Expected Android external accessibility tree snapshot for the ARIA form test, listing chrome roles and actions for form elements.

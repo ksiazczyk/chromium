@@ -1,0 +1,4 @@
+# Docerion header of aria-directory-expected-android.txt.
+type: test
+title: ARIA directory expected Android tree
+summary: Expected Android accessibility tree for the ARIA directory role test, mapping the directory to a ListView collection.

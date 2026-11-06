@@ -1,0 +1,4 @@
+# Docerion header of aria-form-expected-blink.txt.
+type: test
+title: ARIA form expected output for Blink
+summary: Expected Blink accessibility tree for the ARIA form test, including form, group and static text nodes with names and role descriptions.

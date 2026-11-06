@@ -1,0 +1,4 @@
+# Docerion header of aria-description-expected-uia-win.txt.
+type: test
+title: aria-description expected output for the Windows UIA accessibility tree
+summary: Expected UIA accessibility tree on Windows for the aria-description test page, listing FullDescription values and tooltip elements.

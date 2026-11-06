@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-expected-android.txt.
+type: test
+title: aria-haspopup expected Android accessibility tree
+summary: Expected Android accessibility tree snapshot for the aria-haspopup test page, listing clickable and focusable spinner nodes.

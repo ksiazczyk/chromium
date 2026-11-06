@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-expected-android-external.txt.
+type: test
+title: Expected Android external snapshot for aria-hidden test
+summary: Expected Android external accessibility snapshot for the aria-hidden test, listing TextView nodes with view IDs, actions and chrome roles.

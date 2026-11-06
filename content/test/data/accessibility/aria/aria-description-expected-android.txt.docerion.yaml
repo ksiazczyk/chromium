@@ -1,0 +1,4 @@
+# Docerion header of aria-description-expected-android.txt.
+type: test
+title: aria-description expected Android output
+summary: Expected Android accessibility tree output for the aria-description test, covering names, hints and tooltip roles.

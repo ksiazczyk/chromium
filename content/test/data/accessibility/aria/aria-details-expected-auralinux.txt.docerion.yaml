@@ -1,0 +1,4 @@
+# Docerion header of aria-details-expected-auralinux.txt.
+type: test
+title: aria-details expected output for the Linux accessibility tree
+summary: Expected Linux ATK accessibility tree for the aria-details test page showing details relationships between entries, paragraphs, panels and images.

@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-expected-blink.txt.
+type: test
+title: aria-gridcell expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for an ARIA grid test covering gridcell roles.

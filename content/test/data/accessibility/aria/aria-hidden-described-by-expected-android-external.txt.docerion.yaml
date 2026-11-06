@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-described-by-expected-android-external.txt.
+type: test
+title: Expected Android external output for aria-hidden described-by test
+summary: Expected Android external accessibility output for the aria-hidden aria-describedby test.

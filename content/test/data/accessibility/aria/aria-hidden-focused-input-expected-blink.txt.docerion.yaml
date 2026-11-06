@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-focused-input-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-hidden focused input
+summary: Expected Blink internal accessibility tree snapshot listing two text fields inside ignored containers for the aria-hidden focused input test.

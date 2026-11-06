@@ -1,0 +1,4 @@
+# Docerion header of aria-describedby-updates-expected-blink.txt.
+type: test
+title: aria-describedby updates expected Blink output
+summary: Expected Blink accessibility tree snapshot showing the main element's description after the describedby target text changes.

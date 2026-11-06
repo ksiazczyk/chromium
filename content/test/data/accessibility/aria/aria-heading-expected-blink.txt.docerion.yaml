@@ -1,0 +1,4 @@
+# Docerion header of aria-heading-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for ARIA headings
+summary: Expected Blink accessibility tree dump for a page with ARIA heading elements at levels 1 through 6.

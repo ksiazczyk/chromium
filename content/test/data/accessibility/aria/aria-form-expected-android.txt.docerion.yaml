@@ -1,0 +1,4 @@
+# Docerion header of aria-form-expected-android.txt.
+type: test
+title: ARIA form expected output for Android
+summary: Expected Android accessibility tree for the ARIA form test, showing how named and unnamed role=form elements are exposed.

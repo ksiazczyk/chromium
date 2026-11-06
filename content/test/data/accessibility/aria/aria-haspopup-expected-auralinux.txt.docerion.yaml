@@ -1,0 +1,4 @@
+# Docerion header of aria-haspopup-expected-auralinux.txt.
+type: test
+title: aria-haspopup expected Linux accessibility tree
+summary: Expected Linux accessibility tree snapshot for the aria-haspopup test page, listing combo boxes with their haspopup values such as menu, listbox, grid and dialog.

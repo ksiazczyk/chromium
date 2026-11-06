@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-iframe-body-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-hidden iframe body test
+summary: Expected Blink accessibility tree snapshot for a test page with iframes whose body content is hidden by aria-hidden.

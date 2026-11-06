@@ -1,0 +1,4 @@
+# Docerion header of aria-generic-expected-android-external.txt.
+type: test
+title: ARIA generic expected output for Android external
+summary: Expected Android external accessibility tree snapshot for the ARIA generic role test, showing content exposed as a generic container.

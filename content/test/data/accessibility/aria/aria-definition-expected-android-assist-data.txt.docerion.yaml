@@ -1,0 +1,4 @@
+# Docerion header of aria-definition-expected-android-assist-data.txt.
+type: test
+title: aria-definition expected Android assist data
+summary: Expected Android assist accessibility data for the aria-definition test page, showing the definition role on a div.

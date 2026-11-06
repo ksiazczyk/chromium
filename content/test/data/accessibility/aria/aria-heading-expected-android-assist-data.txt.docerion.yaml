@@ -1,0 +1,4 @@
+# Docerion header of aria-heading-expected-android-assist-data.txt.
+type: test
+title: aria-heading expected Android assist data
+summary: Expected Android assist data snapshot for the aria-heading test page, showing heading views with aria-level attributes and heading text.

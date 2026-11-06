@@ -1,0 +1,4 @@
+# Docerion header of aria-feed-expected-auralinux.txt.
+type: test
+title: ARIA feed expected tree for Linux
+summary: Expected Linux accessibility tree output for the aria-feed test, listing feed and article roles with their names.

@@ -1,0 +1,4 @@
+# Docerion header of aria-errormessage-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for aria-errormessage
+summary: Expected Android accessibility tree snapshot for the aria-errormessage test, listing text fields and their error message views.

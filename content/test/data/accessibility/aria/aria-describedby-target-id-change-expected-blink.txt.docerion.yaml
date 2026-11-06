@@ -1,0 +1,4 @@
+# Docerion header of aria-describedby-target-id-change-expected-blink.txt.
+type: test
+title: aria-describedby target id change expected Blink output
+summary: Expected Blink accessibility tree snapshots for switching, removing and restoring the id of an aria-describedby relation target.

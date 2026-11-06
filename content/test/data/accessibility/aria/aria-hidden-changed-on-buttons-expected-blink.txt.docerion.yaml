@@ -1,0 +1,4 @@
+# Docerion header of aria-hidden-changed-on-buttons-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for aria-hidden changed on buttons
+summary: Expected Blink accessibility tree after aria-hidden is toggled on two buttons, hiding one and revealing the other.

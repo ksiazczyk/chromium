@@ -1,0 +1,4 @@
+# Docerion header of aria-group-expected-auralinux.txt.
+type: test
+title: aria-group expected Linux accessibility tree
+summary: Expected Linux (auralinux) accessibility tree output for the aria-group test page with grouped links.

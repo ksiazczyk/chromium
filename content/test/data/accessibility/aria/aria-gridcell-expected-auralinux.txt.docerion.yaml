@@ -1,0 +1,4 @@
+# Docerion header of aria-gridcell-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for aria-gridcell
+summary: Expected Linux AT-SPI accessibility tree for the aria-gridcell test page with table, row, column header and cell roles.

@@ -1,0 +1,4 @@
+# Docerion header of aria-flowto-expected-android.txt.
+type: test
+title: aria-flowto expected Android
+summary: Expected Android accessibility tree snapshot for the aria-flowto test, describing region and footer views named 'Lorem ipsum' and 'next'.

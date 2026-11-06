@@ -1,0 +1,4 @@
+# Docerion header of aria-document-expected-auralinux.txt.
+type: test
+title: aria-document-expected-auralinux
+summary: Expected Linux accessibility tree output for the aria document role test page.
