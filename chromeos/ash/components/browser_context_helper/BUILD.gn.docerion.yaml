@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browser_context_helper
+summary: GN build configuration defining the browser_context_helper component, its test_support source set, and unit_tests targets with their dependencies.

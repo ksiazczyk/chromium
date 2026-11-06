@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM topic subscription request implementation
+// summary: Implements FCM topic subscription requests to the GCM registration endpoint, including form encoding and mapping of server error responses.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/topic_subscription_request.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the cros_disks directory
+summary: Delegates review ownership of the cros_disks DBus client to the owners of the ui/file_manager directory.

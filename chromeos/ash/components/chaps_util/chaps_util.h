@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChapsUtil interface for chapsd operations
+// summary: Declares the ChapsUtil interface for generating software-backed RSA key pairs through the chapsd daemon in an NSS-compatible way.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CHAPS_UTIL_CHAPS_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_CHAPS_UTIL_CHAPS_UTIL_H_
 

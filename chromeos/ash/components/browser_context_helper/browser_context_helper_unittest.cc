@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserContextHelper unit tests
+// summary: Unit tests for BrowserContextHelper covering user id hash extraction and BrowserContext lookup by account id with and without annotated AccountId.
+// ---
+
 #include "chromeos/ash/components/browser_context_helper/browser_context_helper.h"
 
 #include <memory>

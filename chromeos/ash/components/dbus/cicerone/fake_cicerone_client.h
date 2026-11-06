@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Cicerone client for testing
+// summary: Declares FakeCiceroneClient, a fake CiceroneClient implementation that lets tests set canned responses and emit Cicerone signals to observers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CICERONE_FAKE_CICERONE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CICERONE_FAKE_CICERONE_CLIENT_H_
 

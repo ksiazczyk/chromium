@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CfmHotlineClient
+// summary: Tests the hotline client's signal handling and Mojo bootstrap behavior using mock D-Bus bus and object proxy objects.
+// ---
+
 #include "chromeos/ash/components/dbus/chromebox_for_meetings/cfm_hotline_client.h"
 
 #include <algorithm>

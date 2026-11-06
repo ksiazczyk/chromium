@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Carrier lock manager class declaration
+// summary: Declares the main class controlling cellular modem carrier lock configuration, its configuration states and local preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_CARRIER_LOCK_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_CARRIER_LOCK_MANAGER_H_
 

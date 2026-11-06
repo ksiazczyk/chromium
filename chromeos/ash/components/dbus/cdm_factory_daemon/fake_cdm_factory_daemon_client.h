@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CdmFactoryDaemonClient interface
+// summary: Declares the fake no-op implementation of CdmFactoryDaemonClient used in place of the real D-Bus client.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CDM_FACTORY_DAEMON_FAKE_CDM_FACTORY_DAEMON_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CDM_FACTORY_DAEMON_FAKE_CDM_FACTORY_DAEMON_CLIENT_H_
 

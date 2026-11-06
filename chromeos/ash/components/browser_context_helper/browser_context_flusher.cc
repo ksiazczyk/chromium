@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextFlusher implementation
+// summary: Implements the BrowserContextFlusher singleton that schedules flushing of files directly under a browser context directory.
+// ---
+
 #include "chromeos/ash/components/browser_context_helper/browser_context_flusher.h"
 
 #include "base/check.h"

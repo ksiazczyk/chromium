@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install attributes utility helper declarations
+// summary: Declares blocking convenience wrappers around InstallAttributesClient for install attribute get, set, finalize and status queries, to be called from the UI thread.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DEVICE_MANAGEMENT_INSTALL_ATTRIBUTES_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DEVICE_MANAGEMENT_INSTALL_ATTRIBUTES_UTIL_H_
 

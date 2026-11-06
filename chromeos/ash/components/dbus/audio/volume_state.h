@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VolumeState struct declaration
+// summary: Declares the VolumeState struct holding output volume, system and user mute flags, and input gain and mute.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_VOLUME_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_VOLUME_STATE_H_
 

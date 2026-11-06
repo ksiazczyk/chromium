@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkModelProvider interface header
+// summary: Declares an abstract ChromeOS interface that exposes the bookmarks::BookmarkModel for a given account without depending on Chrome's profile-keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BOOKMARKS_BOOKMARK_MODEL_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_BOOKMARKS_BOOKMARK_MODEL_PROVIDER_H_
 

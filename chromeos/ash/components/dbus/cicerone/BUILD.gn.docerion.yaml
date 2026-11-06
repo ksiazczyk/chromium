@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the cicerone D-Bus client
+summary: Defines the cicerone component and protobuf library targets, including an include-path config so dependents get the correct generated proto headers.

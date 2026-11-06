@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorWrapper cryptohome error declaration
+// summary: Declares ErrorWrapper, which pairs the legacy CryptohomeErrorCode with the newer optional CryptohomeErrorInfo for cryptohome errors.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_ERROR_TYPES_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_ERROR_TYPES_H_
 

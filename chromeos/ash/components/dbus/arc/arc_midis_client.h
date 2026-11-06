@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcMidisClient D-Bus client header
+// summary: Declares ArcMidisClient, used to pass a file descriptor to the midis daemon to set up a Mojo channel during browser initialization.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ARC_ARC_MIDIS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ARC_ARC_MIDIS_CLIENT_H_
 

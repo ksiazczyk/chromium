@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM topic subscriber implementation header
+// summary: Declares FcmTopicSubscriberImpl, which combines FcmTopicSubscriber and GCMAppHandler to manage FCM registration and topic subscriptions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FCM_TOPIC_SUBSCRIBER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FCM_TOPIC_SUBSCRIBER_IMPL_H_
 

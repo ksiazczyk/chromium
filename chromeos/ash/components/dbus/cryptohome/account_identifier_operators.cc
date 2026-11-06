@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountIdentifier comparison operators
+// summary: Implements operator< and operator== for cryptohome AccountIdentifier, comparing entries by account ID.
+// ---
+
 #include "chromeos/ash/components/dbus/cryptohome/account_identifier_operators.h"
 
 namespace cryptohome {

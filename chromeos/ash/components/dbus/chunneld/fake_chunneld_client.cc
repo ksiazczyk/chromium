@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake chunneld client implementation
+// summary: Implements FakeChunneldClient, a stub ChunneldClient that manages observers and lets tests trigger chunneld start and stop notifications.
+// ---
+
 #include "chromeos/ash/components/dbus/chunneld/fake_chunneld_client.h"
 
 #include <utility>

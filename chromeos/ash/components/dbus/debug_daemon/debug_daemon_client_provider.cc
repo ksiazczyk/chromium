@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug daemon client provider implementation
+// summary: Creates a DebugDaemonClient on a private system D-Bus bus and shuts the bus down when the provider is destroyed.
+// ---
+
 #include "chromeos/ash/components/dbus/debug_daemon/debug_daemon_client_provider.h"
 
 #include <utility>

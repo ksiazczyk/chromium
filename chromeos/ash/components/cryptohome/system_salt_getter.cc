@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System salt getter implementation
+// summary: Implements the SystemSaltGetter singleton that fetches and caches the cryptohome system salt over D-Bus and notifies waiting callbacks.
+// ---
+
 #include "chromeos/ash/components/cryptohome/system_salt_getter.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZrVendorOsClient implementation
+// summary: Implements the D-Bus client for com.google.starline.ZrVendorosService, including global instance creation, fake setup, and shutdown.
+// ---
+
 #include "chromeos/ash/components/dbus/beam/zr_vendor_os_client.h"
 
 #include <utility>

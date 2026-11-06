@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the install attributes client
+// summary: Tests the install attributes D-Bus client against mock bus and object proxy, covering method calls, blocking calls and service availability.
+// ---
+
 #include "chromeos/ash/components/dbus/device_management/install_attributes_client.h"
 
 #include <optional>

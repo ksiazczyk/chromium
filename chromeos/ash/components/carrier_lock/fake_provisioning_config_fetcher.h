@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake provisioning config fetcher header
+// summary: Declares FakeProvisioningConfigFetcher, a test double for ProvisioningConfigFetcher with settable configuration, topic, mode and result values.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FAKE_PROVISIONING_CONFIG_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FAKE_PROVISIONING_CONFIG_FETCHER_H_
 

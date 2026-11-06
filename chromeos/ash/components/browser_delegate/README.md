@@ -1,3 +1,12 @@
+---
+type: readme
+title: browser_delegate directory README
+summary: Explains that the directory provides BrowserDelegate and BrowserController abstractions of browser classes for ChromeOS feature code, with concrete implementations in chrome/browser.
+relations:
+  - references /chrome/browser/ash/browser_delegate/README.md
+  - references /chrome/browser/ui/browser.h
+---
+
 This directory provides an evolving abstraction of classes like `Browser`
 (`chrome/browser/ui/browser.h`), `BrowserWindowInterface`, `BrowserList`,
 and `TabStripModel` for use by ChromeOS feature code.

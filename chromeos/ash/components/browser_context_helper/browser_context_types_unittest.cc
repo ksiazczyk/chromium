@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser context types unit tests
+// summary: Unit tests verifying the browser context type predicates for signin, lock-screen, shimless RMA and user contexts.
+// ---
+
 #include "chromeos/ash/components/browser_context_helper/browser_context_types.h"
 
 #include <memory>

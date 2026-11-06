@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for chaps_util
+summary: Defines the chaps_util component, the test_support source set, and the unit_tests target with their sources and dependencies.

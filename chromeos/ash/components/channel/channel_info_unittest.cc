@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel info unit tests
+// summary: Tests GetChannel and GetChannelName for branded and non-branded builds using scoped version info.
+// ---
+
 #include "chromeos/ash/components/channel/channel_info.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BiodClient interface for the biod D-Bus service
+// summary: Declares the BiodClient API, observer interface and callbacks used to communicate with the biod biometrics manager D-Bus interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_BIOD_BIOD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_BIOD_BIOD_CLIENT_H_
 

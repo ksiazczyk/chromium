@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CrasAudioClient declaration
+// summary: Declares the fake CrasAudioClient used on Linux desktop, exposing setters and getters for voice isolation, noise cancellation, and related audio features.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_FAKE_CRAS_AUDIO_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_FAKE_CRAS_AUDIO_CLIENT_H_
 

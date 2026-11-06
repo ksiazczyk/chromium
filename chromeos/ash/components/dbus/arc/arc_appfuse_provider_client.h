@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppfuseProviderClient interface header
+// summary: Declares the ArcAppfuseProviderClient interface for mounting and accessing ARC appfuse file systems over D-Bus.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ARC_ARC_APPFUSE_PROVIDER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ARC_ARC_APPFUSE_PROVIDER_CLIENT_H_
 

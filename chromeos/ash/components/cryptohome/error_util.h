@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome error utility header
+// summary: Declares HasError and ErrorMatches helpers for inspecting and matching cryptohome error codes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_ERROR_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_ERROR_UTIL_H_
 

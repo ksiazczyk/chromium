@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Ash channel component
+summary: Defines the channel component sources and its unit_tests target with their build dependencies.

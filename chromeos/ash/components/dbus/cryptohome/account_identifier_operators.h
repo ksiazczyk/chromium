@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountIdentifier comparison operators header
+// summary: Declares exported operator< and operator== for AccountIdentifier to enable use in STL containers and tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CRYPTOHOME_ACCOUNT_IDENTIFIER_OPERATORS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CRYPTOHOME_ACCOUNT_IDENTIFIER_OPERATORS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CecServiceClient D-Bus client implementation
+// summary: Implements the real CecServiceClient that sends standby and wake-up calls and queries TV power states over the org.chromium.CecService D-Bus interface.
+// ---
+
 #include "chromeos/ash/components/dbus/cec_service/cec_service_client.h"
 
 #include "base/functional/bind.h"

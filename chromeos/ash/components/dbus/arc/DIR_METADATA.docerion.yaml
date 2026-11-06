@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ARC D-Bus clients
+summary: Points the directory's metadata to the shared ARC experiences metadata mixins.

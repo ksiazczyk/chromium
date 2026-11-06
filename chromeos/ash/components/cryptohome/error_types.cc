@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ErrorWrapper cryptohome error implementation
+// summary: Implements ErrorWrapper constructors, factory methods and stream output carrying cryptohome error codes and error info.
+// ---
+
 #include "chromeos/ash/components/cryptohome/error_types.h"
 #include "base/strings/string_number_conversions.h"
 

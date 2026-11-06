@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anomaly detector client interface
+// summary: Declares the AnomalyDetectorClient DBus client interface, its observer API for guest file corruption, and global initialization methods.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ANOMALY_DETECTOR_ANOMALY_DETECTOR_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ANOMALY_DETECTOR_ANOMALY_DETECTOR_CLIENT_H_
 

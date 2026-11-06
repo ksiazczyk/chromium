@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserDelegate interface header
+// summary: Declares the BrowserDelegate abstract interface exposing browser state such as type, session ID, account, tabs, and window information to ChromeOS feature code.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BROWSER_DELEGATE_BROWSER_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_BROWSER_DELEGATE_BROWSER_DELEGATE_H_
 

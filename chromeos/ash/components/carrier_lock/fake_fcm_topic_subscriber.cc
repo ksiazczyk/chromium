@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake FCM topic subscriber implementation
+// summary: Implements a fake FCM topic subscriber that returns preset tokens and results for use in tests.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/fake_fcm_topic_subscriber.h"
 
 namespace ash::carrier_lock {

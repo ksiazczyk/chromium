@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake install attributes client class declaration
+// summary: Declares FakeInstallAttributesClient, a test double for InstallAttributesClient with service availability controls and firmware management parameter tracking.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DEVICE_MANAGEMENT_FAKE_INSTALL_ATTRIBUTES_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DEVICE_MANAGEMENT_FAKE_INSTALL_ATTRIBUTES_CLIENT_H_
 

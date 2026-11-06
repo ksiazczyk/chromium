@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser_delegate
+summary: Specifies the allowed include directories for code in the browser_delegate component.

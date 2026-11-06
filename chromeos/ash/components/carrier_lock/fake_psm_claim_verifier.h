@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake PSM claim verifier header
+// summary: Declares FakePsmClaimVerifier, a test double for PsmClaimVerifier with settable membership and result values.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FAKE_PSM_CLAIM_VERIFIER_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_FAKE_PSM_CLAIM_VERIFIER_H_
 

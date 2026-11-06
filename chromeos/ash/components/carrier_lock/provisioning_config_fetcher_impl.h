@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning config fetcher implementation header
+// summary: Declares ProvisioningConfigFetcherImpl, the class that communicates with the Carrier Lock provisioning server to receive modem configuration.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_PROVISIONING_CONFIG_FETCHER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_PROVISIONING_CONFIG_FETCHER_IMPL_H_
 

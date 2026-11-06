@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceIsolationUIAppearance struct declaration
+// summary: Declares the VoiceIsolationUIAppearance struct holding the toggle type, effect mode options and fallback message flag for the voice isolation UI.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_VOICE_ISOLATION_UI_APPEARANCE_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_VOICE_ISOLATION_UI_APPEARANCE_H_
 

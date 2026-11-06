@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System salt getter unit tests
+// summary: Unit tests for SystemSaltGetter covering system salt retrieval before and after the cryptohome service becomes available using a fake client.
+// ---
+
 #include "chromeos/ash/components/cryptohome/system_salt_getter.h"
 
 #include <memory>

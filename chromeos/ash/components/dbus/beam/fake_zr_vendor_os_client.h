@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ZrVendorOsClient class declaration
+// summary: Header declaring the FakeZrVendorOsClient subclass of ZrVendorOsClient used in place of the real client in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_BEAM_FAKE_ZR_VENDOR_OS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_BEAM_FAKE_ZR_VENDOR_OS_CLIENT_H_
 

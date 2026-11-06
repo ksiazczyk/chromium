@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning config fetcher interface
+// summary: Interface for communicating with the Carrier Lock provisioning server to fetch modem configuration, FCM topic, restriction mode and network counts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_PROVISIONING_CONFIG_FETCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_PROVISIONING_CONFIG_FETCHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for cryptohome
+summary: Directory metadata that points to the login lock metadata mixins shared with ash/login.

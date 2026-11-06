@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CameraPresenceNotifier unit tests
+// summary: Tests presence and count callbacks using a fake video capture service that adds and removes fake cameras while advancing a mock clock.
+// ---
+
 #include "chromeos/ash/components/camera_presence_notifier/camera_presence_notifier.h"
 
 #include <string>

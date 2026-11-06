@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the chaps directory
+summary: Grants the chaps directory access to chromeos/constants through include rules.

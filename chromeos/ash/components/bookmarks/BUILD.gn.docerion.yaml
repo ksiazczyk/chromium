@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the bookmark_model_provider component
+summary: Defines the GN build target for the bookmark_model_provider component, listing its sources, export define, and dependency on //base.

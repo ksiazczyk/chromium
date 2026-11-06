@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBusThreadManager header
+// summary: Declares the ash DBusThreadManager class extending DBusThreadManagerBase with explicit initialization and shutdown.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DBUS_THREAD_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DBUS_THREAD_MANAGER_H_
 

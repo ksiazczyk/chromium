@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcObbMounterClient implementation
+// summary: Implements ArcObbMounterClient, which mounts and unmounts Android OBB expansion files via the ArcObbMounter D-Bus service.
+// ---
+
 #include "chromeos/ash/components/dbus/arc/arc_obb_mounter_client.h"
 
 #include <utility>

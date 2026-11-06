@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for cryptohome
+summary: Defines GN build targets for the cryptohome component, its public component, and the unit test source set with their dependencies.

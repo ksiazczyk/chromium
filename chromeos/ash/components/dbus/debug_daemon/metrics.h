@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug daemon feedback logs DBus result metrics
+// summary: Declares the GetFeedbackLogsV2DbusResult UMA enum and functions to record DBus feedback log retrieval outcomes for the ash debug daemon client.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DEBUG_DAEMON_METRICS_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DEBUG_DAEMON_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChapsSlotSession interface and factory
+// summary: Declares the ChapsSlotSession interface for PKCS#11 operations on chaps-provided slots, plus a factory for creating sessions in production and tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CHAPS_UTIL_CHAPS_SLOT_SESSION_H_
 #define CHROMEOS_ASH_COMPONENTS_CHAPS_UTIL_CHAPS_SLOT_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentAuditorProvider interface
+// summary: Declares an abstract singleton provider that returns the consent_auditor::ConsentAuditor for an account, letting ChromeOS callers avoid depending on //chrome's Profile-keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CONSENT_AUDITOR_CONSENT_AUDITOR_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_CONSENT_AUDITOR_CONSENT_AUDITOR_PROVIDER_H_
 

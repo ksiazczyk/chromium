@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PSM claim verifier test response data
+// summary: Header providing base64-encoded fake OPRF and query response constants used by the PSM claim verifier unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_PSM_CLAIM_VERIFIER_UNITTEST_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_PSM_CLAIM_VERIFIER_UNITTEST_H_
 

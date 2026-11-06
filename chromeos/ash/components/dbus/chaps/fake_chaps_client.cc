@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeChapsClient implementation
+// summary: Implements a simplified in-memory fake of ChapsClient that simulates sessions, stored objects, and crypto operations for tests.
+// ---
+
 #include "chromeos/ash/components/dbus/chaps/fake_chaps_client.h"
 
 #include <stdint.h>

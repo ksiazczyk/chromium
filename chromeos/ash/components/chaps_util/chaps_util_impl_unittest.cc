@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChapsUtilImpl unit tests
+// summary: 'Unit tests for the ChapsUtil implementation, verifying software-backed RSA key generation and PKCS #11 key attributes.'
+// ---
+
 #include "chromeos/ash/components/chaps_util/chaps_util_impl.h"
 
 #include <pkcs11t.h>

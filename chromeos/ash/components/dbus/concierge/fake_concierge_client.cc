@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Concierge client implementation
+// summary: Implements the fake ConciergeClient, posting configurable proto responses and tracking call counts so tests can simulate the Concierge service.
+// ---
+
 #include "chromeos/ash/components/dbus/concierge/fake_concierge_client.h"
 
 #include <utility>

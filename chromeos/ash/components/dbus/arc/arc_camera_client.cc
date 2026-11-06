@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcCameraClient D-Bus client implementation
+// summary: Implements the D-Bus client that starts the arc-camera service process for ARC Camera HAL v1.
+// ---
+
 #include "chromeos/ash/components/dbus/arc/arc_camera_client.h"
 
 #include <utility>

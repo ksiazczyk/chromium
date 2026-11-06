@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug daemon client provider declaration
+// summary: Declares a provider that hosts a DebugDaemonClient on a private D-Bus connection for use from non-UI threads.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DEBUG_DAEMON_DEBUG_DAEMON_CLIENT_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DEBUG_DAEMON_DEBUG_DAEMON_CLIENT_PROVIDER_H_
 

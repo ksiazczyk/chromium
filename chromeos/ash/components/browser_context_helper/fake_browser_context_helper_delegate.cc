@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browser context helper delegate implementation
+// summary: Implements a fake BrowserContextHelper delegate that creates and tracks test browser contexts inside a temporary user data directory.
+// ---
+
 #include "chromeos/ash/components/browser_context_helper/fake_browser_context_helper_delegate.h"
 
 #include <algorithm>

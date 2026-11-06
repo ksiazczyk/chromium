@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Carrier lock manager unit tests
+// summary: Unit tests for CarrierLockManager that use fake fetchers, verifiers and FCM subscribers to exercise the configuration flow.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/carrier_lock_manager.h"
 #include "chromeos/ash/components/carrier_lock/common.h"
 #include "chromeos/ash/components/carrier_lock/fake_fcm_topic_subscriber.h"

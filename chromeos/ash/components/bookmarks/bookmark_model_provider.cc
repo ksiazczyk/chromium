@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkModelProvider implementation
+// summary: Implements the BookmarkModelProvider singleton, registering and clearing the process-wide instance with checks in the constructor, destructor, and Get().
+// ---
+
 #include "chromeos/ash/components/bookmarks/bookmark_model_provider.h"
 
 #include "base/check.h"

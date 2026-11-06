@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppfuseProviderClient D-Bus client implementation
+// summary: Implements the D-Bus client for the ArcAppfuseProvider service, handling appfuse mount, unmount and file open requests.
+// ---
+
 #include "chromeos/ash/components/dbus/arc/arc_appfuse_provider_client.h"
 
 #include <utility>

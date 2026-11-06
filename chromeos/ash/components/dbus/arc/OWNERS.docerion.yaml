@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ARC D-Bus clients
+summary: Delegates code ownership and review to the ARC experiences OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation SignedData protobuf definition
+// summary: Defines the SignedData protobuf message holding signed data and its signature for attestation challenge responses.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the browser_delegate static library
+summary: Defines the browser_delegate static library target with its public headers, sources, and component dependencies for the ChromeOS Ash build.

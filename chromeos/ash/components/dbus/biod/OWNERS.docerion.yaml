@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the biod D-Bus client
+summary: Delegates code ownership review to the ash login lock OWNERS file.

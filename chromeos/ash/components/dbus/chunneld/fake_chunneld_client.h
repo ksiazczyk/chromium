@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeChunneldClient interface header
+// summary: Declares FakeChunneldClient, a testing stub of ChunneldClient with methods to notify observers of chunneld service start and stop events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CHUNNELD_FAKE_CHUNNELD_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CHUNNELD_FAKE_CHUNNELD_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Carrier Lock metrics definitions
+// summary: Defines enums and histogram name constants for Carrier Lock metrics such as configuration results, FCM notifications, lock states and errors.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_METRICS_H_
 #define CHROMEOS_ASH_COMPONENTS_CARRIER_LOCK_METRICS_H_
 

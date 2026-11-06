@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraPresenceNotifier implementation
+// summary: Implements periodic polling of camera device counts via the video capture service and invokes a callback when the count changes or on first run.
+// ---
+
 #include "chromeos/ash/components/camera_presence_notifier/camera_presence_notifier.h"
 
 #include "base/functional/callback_helpers.h"

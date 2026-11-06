@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcCameraClient implementation
+// summary: Implements FakeArcCameraClient, which tracks the fake global instance and reports success for StartService without D-Bus traffic.
+// ---
+
 #include "chromeos/ash/components/dbus/arc/fake_arc_camera_client.h"
 
 #include <utility>

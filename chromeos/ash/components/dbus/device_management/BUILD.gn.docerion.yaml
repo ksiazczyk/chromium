@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the device management D-Bus client
+summary: Defines the ash_dbus_device_management component, its proto library, test support and unit test targets for the install attributes client.

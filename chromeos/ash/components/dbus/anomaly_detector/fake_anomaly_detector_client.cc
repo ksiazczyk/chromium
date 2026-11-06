@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake anomaly detector client implementation
+// summary: Implements the fake anomaly detector client so tests can set signal connection state and notify observers of guest file corruption.
+// ---
+
 #include "chromeos/ash/components/dbus/anomaly_detector/fake_anomaly_detector_client.h"
 
 namespace ash {

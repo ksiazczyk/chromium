@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraPresenceNotifier class declaration
+// summary: Declares the CameraPresenceNotifier class that monitors camera sources and fires count or presence callbacks between Start and Stop calls.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CAMERA_PRESENCE_NOTIFIER_CAMERA_PRESENCE_NOTIFIER_H_
 #define CHROMEOS_ASH_COMPONENTS_CAMERA_PRESENCE_NOTIFIER_CAMERA_PRESENCE_NOTIFIER_H_
 

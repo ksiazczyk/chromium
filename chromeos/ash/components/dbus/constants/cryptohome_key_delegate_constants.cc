@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomeKeyDelegate D-Bus service constants
+// summary: Defines the D-Bus service name and object path for the Chrome-run CryptohomeKeyDelegate service.
+// ---
+
 #include "chromeos/ash/components/dbus/constants/cryptohome_key_delegate_constants.h"
 
 namespace cryptohome {

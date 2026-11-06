@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PSM claim verifier unit tests
+// summary: Unit tests for PsmClaimVerifierImpl simulating OPRF and query responses, busy handlers and failure cases via a test URL loader factory.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/psm_claim_verifier_unittest.h"
 #include "chromeos/ash/components/carrier_lock/psm_claim_verifier_impl.h"
 

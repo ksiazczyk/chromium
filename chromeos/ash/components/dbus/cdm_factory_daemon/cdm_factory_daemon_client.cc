@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CdmFactoryDaemonClient D-Bus client implementation
+// summary: Implements the real client that talks to the Chrome OS CdmFactoryDaemon D-Bus service, including bootstrapping the Mojo connection over a file descriptor.
+// ---
+
 #include "chromeos/ash/components/dbus/cdm_factory_daemon/cdm_factory_daemon_client.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug daemon D-Bus client implementation
+// summary: Implements the D-Bus client for the ChromeOS debug daemon, covering feedback logs, tracing, perf output, and related calls.
+// ---
+
 #include "chromeos/ash/components/dbus/debug_daemon/debug_daemon_client.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chaps D-Bus client
+// summary: Tests ChapsClient D-Bus message construction and response handling using a mock bus and object proxy.
+// ---
+
 #include "chromeos/ash/components/dbus/chaps/chaps_client.h"
 
 #include <stdint.h>

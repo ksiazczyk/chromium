@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CrasAudioClient implementation
+// summary: Fake cras audio client preloaded with sample input and output audio nodes, used on Linux desktop and for testing.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/fake_cras_audio_client.h"
 
 #include <algorithm>

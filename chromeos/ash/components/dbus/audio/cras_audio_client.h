@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrasAudioClient interface and observer API
+// summary: Declares the CrasAudioClient used to talk to the cras audio D-Bus interface, with an Observer interface for audio state and effect events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_CRAS_AUDIO_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_CRAS_AUDIO_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install attributes utility helpers implementation
+// summary: Implements blocking wrapper functions for getting, setting and finalizing install attributes and querying their state via the install attributes client.
+// ---
+
 #include "chromeos/ash/components/dbus/device_management/install_attributes_util.h"
 
 #include <stdint.h>

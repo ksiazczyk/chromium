@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback logs D-Bus result metrics
+// summary: Records UMA histograms for GetFeedbackLogsV2 D-Bus results, mapping D-Bus error names to histogram buckets.
+// ---
+
 #include "chromeos/ash/components/dbus/debug_daemon/metrics.h"
 
 #include <string>

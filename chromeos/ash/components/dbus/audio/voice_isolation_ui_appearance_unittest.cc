@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VoiceIsolationUIAppearance unit tests
+// summary: Unit tests verifying the equality comparison and ToString output of VoiceIsolationUIAppearance.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/voice_isolation_ui_appearance.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for camera_presence_notifier
+summary: Defines the static library target for the camera presence notifier and its unit test source set, along with their build dependencies.

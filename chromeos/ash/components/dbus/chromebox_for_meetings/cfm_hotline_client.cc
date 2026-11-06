@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfmHotlineClient D-Bus client implementation
+// summary: Implements the D-Bus client that connects to the CfM hotline daemon, listens for service request signals, and bootstraps Mojo connections.
+// ---
+
 #include "chromeos/ash/components/dbus/chromebox_for_meetings/cfm_hotline_client.h"
 
 #include <memory>

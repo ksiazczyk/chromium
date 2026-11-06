@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ash DBus audio component
+summary: Lists the owners responsible for reviewing changes to the audio D-Bus component and defers to the browser ash audio owners.

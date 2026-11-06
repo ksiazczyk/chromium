@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserController class header
+// summary: Declares the BrowserController singleton interface for creating and finding browsers, including browser and tab observer classes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BROWSER_DELEGATE_BROWSER_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_BROWSER_DELEGATE_BROWSER_CONTROLLER_H_
 

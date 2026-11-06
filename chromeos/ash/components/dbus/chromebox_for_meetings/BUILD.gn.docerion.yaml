@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the Chromebox for Meetings D-Bus client
+summary: GN build file defining the chromebox_for_meetings component sources, dependencies, and the unit_tests source_set.

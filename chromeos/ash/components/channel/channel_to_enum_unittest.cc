@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel to enum unit tests
+// summary: Tests ChannelToEnum mapping for stable, beta, dev, canary, ltc, lts and unknown track names.
+// ---
+
 #include "chromeos/ash/components/channel/channel_to_enum.h"
 
 #include "chromeos/ash/components/channel/channel_info.h"

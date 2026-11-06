@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserDataAuth reply conversion utilities implementation
+// summary: Implements template helpers that convert user_data_auth D-Bus replies into cryptohome MountError and ErrorWrapper values for many reply types.
+// ---
+
 #include "chromeos/ash/components/cryptohome/userdataauth_util.h"
 
 #include "base/logging.h"

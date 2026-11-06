@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CfmHotlineClient header
+// summary: Declares the fake CfmHotlineClient used in place of the real client, including FakeEmitSignal for simulating D-Bus signal events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CHROMEBOX_FOR_MEETINGS_FAKE_CFM_HOTLINE_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CHROMEBOX_FOR_MEETINGS_FAKE_CFM_HOTLINE_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provisioning config fetcher implementation
+// summary: Implements the provisioning config fetcher that sends device details to the Pixel provisioning server and parses the returned Carrier Lock modem configuration.
+// ---
+
 #include "chromeos/ash/components/carrier_lock/provisioning_config_fetcher_impl.h"
 
 #include <optional>

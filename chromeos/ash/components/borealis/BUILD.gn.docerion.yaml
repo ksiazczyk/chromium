@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Borealis BUILD.gn build definition
+summary: Defines the borealis static library target, listing borealis_util sources and dependencies on //base and //components/exo.

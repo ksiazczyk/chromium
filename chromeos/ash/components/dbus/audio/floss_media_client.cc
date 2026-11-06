@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlossMediaClient D-Bus client implementation
+// summary: Implements the production FlossMediaClient that sends player status, position, duration and metadata calls to the Floss Bluetooth media D-Bus interface.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/floss_media_client.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VoiceIsolationUIAppearance implementation
+// summary: Implements VoiceIsolationUIAppearance methods plus helpers that convert audio effect type bit flags into readable strings.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/voice_isolation_ui_appearance.h"
 
 #include "base/strings/stringprintf.h"

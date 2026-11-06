@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth factor protobuf conversions
+// summary: Converts auth factor types, inputs, and metadata between Chrome-side objects and user_data_auth protobuf messages.
+// ---
+
 #include "chromeos/ash/components/cryptohome/auth_factor_conversions.h"
 
 #include <optional>

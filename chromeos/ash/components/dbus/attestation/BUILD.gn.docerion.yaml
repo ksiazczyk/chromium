@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the attestation D-Bus client
+summary: Defines the ash_dbus_attestation component target and the attestation protobuf library for the ChromeOS attestation D-Bus client sources.

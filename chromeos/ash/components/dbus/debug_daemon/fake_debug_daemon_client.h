@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake debug daemon client declaration
+// summary: Declares FakeDebugDaemonClient, a stub DebugDaemonClient implementation that does nothing for Linux desktop and testing.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_DEBUG_DAEMON_FAKE_DEBUG_DAEMON_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_DEBUG_DAEMON_FAKE_DEBUG_DAEMON_CLIENT_H_
 

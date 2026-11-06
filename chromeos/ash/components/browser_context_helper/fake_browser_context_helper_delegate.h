@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake browser context helper delegate header
+// summary: Declares a fake delegate used by unit tests to construct the BrowserContextHelper singleton with test browser contexts.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_BROWSER_CONTEXT_HELPER_FAKE_BROWSER_CONTEXT_HELPER_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_BROWSER_CONTEXT_HELPER_FAKE_BROWSER_CONTEXT_HELPER_DELEGATE_H_
 

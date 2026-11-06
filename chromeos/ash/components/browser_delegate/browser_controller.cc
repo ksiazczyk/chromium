@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserController implementation
+// summary: Implements the BrowserController singleton instance access along with construction and destruction checks.
+// ---
+
 #include "chromeos/ash/components/browser_delegate/browser_controller.h"
 
 #include "base/check.h"

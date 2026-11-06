@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthSession lifetime constants
+// summary: Defines constants for the AuthSession initial lifetime, extension period and the threshold at which Chrome requests a lifetime extension.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_CONSTANTS_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the ash dbus component
+summary: Defines the ash_dbus component, test support, unit test targets, and proto libraries for ash-specific D-Bus clients.

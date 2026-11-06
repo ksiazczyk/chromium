@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for camera_presence_notifier
+summary: Specifies allowed include directories for the component and grants the unit test access to the fake video source provider header.

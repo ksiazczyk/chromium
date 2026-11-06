@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioNode struct declaration
+// summary: Declares the AudioNode struct and AudioNodeList type describing audio devices reported by the cras server, including volume step metadata.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_AUDIO_NODE_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_AUDIO_AUDIO_NODE_H_
 

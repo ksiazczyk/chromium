@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeChapsClient header
+// summary: Declares FakeChapsClient, a simplified fake ChapsClient for tests with documented simplifications.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_CHAPS_FAKE_CHAPS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_CHAPS_FAKE_CHAPS_CLIENT_H_
 

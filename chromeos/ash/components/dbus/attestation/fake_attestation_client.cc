@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake AttestationClient implementation
+// summary: Implements a fake AttestationClient that returns canned protobuf replies and simulated errors so code can be tested without the attestation daemon.
+// ---
+
 #include "chromeos/ash/components/dbus/attestation/fake_attestation_client.h"
 
 #include <utility>

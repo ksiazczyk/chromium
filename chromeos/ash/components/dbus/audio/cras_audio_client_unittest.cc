@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for CrasAudioClient
+// summary: Unit tests verifying CrasAudioClient D-Bus signal handling and method calls using mock bus, object proxy, and observer objects.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/cras_audio_client.h"
 
 #include <memory>

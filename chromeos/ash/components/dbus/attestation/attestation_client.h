@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationClient interface header
+// summary: Declares the AttestationClient class and its callback types for communicating with the org.chromium.Attestation D-Bus service from the UI thread.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ATTESTATION_ATTESTATION_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ATTESTATION_ATTESTATION_CLIENT_H_
 

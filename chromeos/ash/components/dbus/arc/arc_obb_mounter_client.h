@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcObbMounterClient D-Bus client header
+// summary: Declares ArcObbMounterClient for communicating with the ArcObbMounter service that mounts OBB (opaque binary blob) files.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ARC_ARC_OBB_MOUNTER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ARC_ARC_OBB_MOUNTER_CLIENT_H_
 

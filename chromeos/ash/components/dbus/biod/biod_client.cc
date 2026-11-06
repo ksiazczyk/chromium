@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Production BiodClient D-Bus client implementation
+// summary: Implements BiodClientImpl, the production client that talks to the biod biometrics daemon over D-Bus for enroll, auth and record operations.
+// ---
+
 #include "chromeos/ash/components/dbus/biod/biod_client.h"
 
 #include <stdint.h>

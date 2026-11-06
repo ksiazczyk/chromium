@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome user identification and key definition declarations
+// summary: Declares Identification, KeyDefinition with provider data and policies, and AuthKeyPrivileges used to describe cryptohome users and keys.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_CRYPTOHOME_PARAMETERS_H_
 #define CHROMEOS_ASH_COMPONENTS_CRYPTOHOME_CRYPTOHOME_PARAMETERS_H_
 

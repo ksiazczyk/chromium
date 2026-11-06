@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Carrier lock GN build configuration
+summary: Defines the GN build targets, sources and dependencies for the carrier lock component, its proto library and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcAppfuseProviderClient header
+// summary: Declares FakeArcAppfuseProviderClient, a fake implementation of ArcAppfuseProviderClient for use without a real D-Bus service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ARC_FAKE_ARC_APPFUSE_PROVIDER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ARC_FAKE_ARC_APPFUSE_PROVIDER_CLIENT_H_
 

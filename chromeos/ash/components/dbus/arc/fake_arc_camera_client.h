@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcCameraClient header
+// summary: Declares FakeArcCameraClient, a fake implementation of ArcCameraClient that exposes the fake instance and fakes StartService.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ARC_FAKE_ARC_CAMERA_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ARC_FAKE_ARC_CAMERA_CLIENT_H_
 

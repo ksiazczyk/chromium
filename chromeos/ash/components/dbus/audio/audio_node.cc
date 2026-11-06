@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioNode struct implementation
+// summary: Implements the AudioNode constructors, string conversion, and stable device id helpers for audio node data received from cras.
+// ---
+
 #include "chromeos/ash/components/dbus/audio/audio_node.h"
 
 #include <stdint.h>

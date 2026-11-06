@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeBiodClient implementation
+// summary: Implements a fake biod client that emulates the biometrics daemon, storing fingerprints locally and serializing fake records.
+// ---
+
 #include "chromeos/ash/components/dbus/biod/fake_biod_client.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcKeymasterClient interface header
+// summary: Declares the ArcKeymasterClient interface for bootstrapping Mojo between Chrome and the keymaster service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_DBUS_ARC_ARC_KEYMASTER_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_DBUS_ARC_ARC_KEYMASTER_CLIENT_H_
 

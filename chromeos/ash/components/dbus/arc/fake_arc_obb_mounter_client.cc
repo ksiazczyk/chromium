@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake ArcObbMounterClient implementation
+// summary: Implements the fake ArcObbMounterClient D-Bus client whose MountObb and UnmountObb calls asynchronously report failure.
+// ---
+
 #include "chromeos/ash/components/dbus/arc/fake_arc_obb_mounter_client.h"
 
 #include <utility>

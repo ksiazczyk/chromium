@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromebox for Meetings feature declarations
+// summary: Declares the CfM feature constants with explanatory comments and component exports, kept in alphabetical order.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_CHROMEBOX_FOR_MEETINGS_FEATURES_H_
 #define CHROMEOS_ASH_COMPONENTS_CHROMEBOX_FOR_MEETINGS_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anomaly detector client implementation
+// summary: Implements the DBus client that connects to the anomaly detector service and forwards guest file corruption signals to registered observers.
+// ---
+
 #include "chromeos/ash/components/dbus/anomaly_detector/anomaly_detector_client.h"
 
 #include <memory>

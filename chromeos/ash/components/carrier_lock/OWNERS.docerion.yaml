@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Carrier lock directory owners
+summary: Names the owner responsible for reviewing changes to the carrier lock directory.

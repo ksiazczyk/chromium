@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosDisks DBus client implementation
+// summary: Implements the real CrosDisksClient that talks to the cros-disks DBus service, parsing mount entries, disk properties and signals.
+// ---
+
 #include "chromeos/ash/components/dbus/cros_disks/cros_disks_client.h"
 
 #include <stddef.h>

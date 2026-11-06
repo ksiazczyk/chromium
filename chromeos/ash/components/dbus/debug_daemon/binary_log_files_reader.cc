@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary log files reader implementation
+// summary: Fetches binary feedback log files from debugd over D-Bus by piping data through a PipeReader and returning it via callback.
+// ---
+
 #include "chromeos/ash/components/dbus/debug_daemon/binary_log_files_reader.h"
 
 #include <map>

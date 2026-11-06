@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttestationClient implementation for the attestation D-Bus service
+// summary: Implements the real AttestationClient that sends protobuf requests to the ChromeOS attestation daemon over D-Bus and parses its replies.
+// ---
+
 #include "chromeos/ash/components/dbus/attestation/attestation_client.h"
 
 #include <utility>

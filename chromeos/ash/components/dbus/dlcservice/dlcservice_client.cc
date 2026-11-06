@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Production DlcserviceClient implementation
+// summary: Implements the production DlcserviceClient that communicates with the dlcservice daemon over D-Bus, handling install, uninstall, purge, and state queries with error parsing.
+// ---
+
 #include "chromeos/ash/components/dbus/dlcservice/dlcservice_client.h"
 
 #include <stdint.h>
