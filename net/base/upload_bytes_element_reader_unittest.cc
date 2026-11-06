@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadBytesElementReader unit tests
+// summary: Unit tests for the in-memory bytes upload element reader, covering partial, full, oversized, and repeated-init reads.
+// ---
+
 #include "net/base/upload_bytes_element_reader.h"
 
 #include <memory>

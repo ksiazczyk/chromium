@@ -4,6 +4,12 @@
 
 // Illustrates how to use net::TestCompletionCallback.
 
+// ---docerion
+// type: test
+// title: TestCompletionCallback unit tests
+// summary: Unit tests that illustrate and verify net::TestCompletionCallback usage through an example employer posting asynchronous work.
+// ---
+
 #include "net/base/test_completion_callback.h"
 
 #include "base/check_op.h"

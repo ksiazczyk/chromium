@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signed certificate timestamp unit tests
+// summary: Unit tests covering pickling, unpickling and comparison of signed certificate timestamps.
+// ---
+
 #include "net/cert/signed_certificate_timestamp.h"
 
 #include <string>

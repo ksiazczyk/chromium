@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X509Certificate DER chain fuzz test
+// summary: Fuzz test that exercises X509Certificate::CreateFromDERCertChain with arbitrary DER certificate chains to uncover parsing crashes.
+// ---
+
 #include "net/cert/x509_certificate.h"
 #include "third_party/fuzztest/src/fuzztest/fuzztest.h"
 

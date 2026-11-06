@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for registry-controlled domains
+summary: GN build file that generates reversed DAFSA and lookup-string test sets from the gperf domain lists.

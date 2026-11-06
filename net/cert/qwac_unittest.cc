@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QWAC parsing unit tests
+// summary: Unit tests for QCStatements and QcTypeInfo parsing with valid and invalid DER inputs, plus QWAC status checks.
+// ---
+
 #include "net/cert/qwac.h"
 
 #include <stdint.h>

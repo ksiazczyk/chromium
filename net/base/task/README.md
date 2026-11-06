@@ -1,3 +1,12 @@
+---
+type: readme
+title: //net/base/task
+summary: Explains how net::GetTaskRunner provides priority-aware task runners integrated with the network service scheduler, and gives usage guidance and caveats.
+relations:
+  - documents /net/base/task/task_runner.cc
+  - documents /net/base/task/task_runner.h
+---
+
 # //net/base/task
 
 This directory provides a mechanism for obtaining `base::SingleThreadTaskRunner`

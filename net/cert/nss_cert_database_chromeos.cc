@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS NSS certificate database implementation
+// summary: Implements a ChromeOS-specific NSSCertDatabase with profile filtering, system slot handling, and trust settings on the public slot.
+// ---
+
 #include "net/cert/nss_cert_database_chromeos.h"
 
 #include <cert.h>

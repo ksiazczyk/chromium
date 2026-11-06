@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QWAC parser fuzz tests
+// summary: Fuzz tests for the QCStatements, QcTypeInfo, and TwoQwacCertBinding parsers asserting that parsed outputs stay within the input data.
+// ---
+
 #include <optional>
 #include <utility>
 #include <vector>

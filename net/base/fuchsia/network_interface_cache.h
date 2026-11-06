@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkInterfaceCache class declaration
+// summary: Declares a thread-safe cache of Fuchsia network interfaces keyed by interface ID, with error-state semantics and WLAN filtering, used by NetworkChangeNotifierFuchsia.
+// ---
+
 #ifndef NET_BASE_FUCHSIA_NETWORK_INTERFACE_CACHE_H_
 #define NET_BASE_FUCHSIA_NETWORK_INTERFACE_CACHE_H_
 

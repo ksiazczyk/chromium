@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertVerifier implementation
+// summary: Implements CertVerifier config and request parameters, plus the default verify procedure factory selecting builtin or system verification per platform.
+// ---
+
 #include "net/cert/cert_verifier.h"
 
 #include <algorithm>

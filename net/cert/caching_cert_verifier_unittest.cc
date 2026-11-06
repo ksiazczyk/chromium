@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Caching certificate verifier tests
+// summary: Unit tests covering cache hits, cached certificate transparency results, and cache clearing behavior of CachingCertVerifier.
+// ---
+
 #include "net/cert/caching_cert_verifier.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSSCertDatabaseChromeOS unit tests
+// summary: Unit tests verifying per-user certificate and module listing, trust setting, and CertDatabase observer notifications for the ChromeOS NSS certificate database.
+// ---
+
 #include "net/cert/nss_cert_database_chromeos.h"
 
 #include <memory>

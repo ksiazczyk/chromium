@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merkle node hashing utility header
+// summary: Declares HashNodes, which computes a Merkle tree node hash from two child node hashes according to RFC 6962.
+// ---
+
 #ifndef NET_CERT_CT_LOG_VERIFIER_UTIL_H_
 #define NET_CERT_CT_LOG_VERIFIER_UTIL_H_
 

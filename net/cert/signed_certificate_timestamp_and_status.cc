@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT and status pair implementation
+// summary: Implements constructors and the destructor for SignedCertificateTimestampAndStatus, which pairs an SCT with its verification status.
+// ---
+
 #include "net/cert/signed_certificate_timestamp_and_status.h"
 
 #include "net/cert/signed_certificate_timestamp.h"

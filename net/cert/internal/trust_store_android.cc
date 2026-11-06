@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android trust store implementation
+// summary: Implements TrustStoreAndroid, loading user-added root certificates from the Android certificate system and reloading them when the trust store changes.
+// ---
+
 #include "net/cert/internal/trust_store_android.h"
 
 #include "base/logging.h"

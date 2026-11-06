@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the macOS keychain trust store
+// summary: Tests TrustStoreMac trust implementations against keychain test data, verifying issuer lookup and trust results for anchors and distrusted certificates.
+// ---
+
 #include "net/cert/internal/trust_store_mac.h"
 
 #include <algorithm>

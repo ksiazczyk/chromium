@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertVerifyProcIOS class declaration
+// summary: Declares CertVerifyProcIOS, a CertVerifyProc that performs certificate verification through iOS Security.framework.
+// ---
+
 #ifndef NET_CERT_CERT_VERIFY_PROC_IOS_H_
 #define NET_CERT_CERT_VERIFY_PROC_IOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestRootCerts unit tests
+// summary: Unit tests verifying that TestRootCerts adds and removes trusted test roots across system and Chrome root store verify procs.
+// ---
+
 #include "net/cert/test_root_certs.h"
 
 #include "base/files/file_path.h"

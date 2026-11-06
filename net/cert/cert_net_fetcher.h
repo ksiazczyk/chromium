@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertNetFetcher interface for AIA, CRL and OCSP fetching
+// summary: Defines a synchronous interface for fetching AIA, CRL and OCSP URLs, with cancellable requests and shutdown from the network thread.
+// ---
+
 #ifndef NET_CERT_CERT_NET_FETCHER_H_
 #define NET_CERT_CERT_NET_FETCHER_H_
 

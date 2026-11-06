@@ -1,0 +1,4 @@
+# Docerion header of url_conversions_unittest.mm.
+type: test
+title: Unit tests for GURL and NSURL conversions
+summary: Exercises NSURLWithGURL and GURLWithNSURL across many URL forms, including special characters, query strings and fragments.

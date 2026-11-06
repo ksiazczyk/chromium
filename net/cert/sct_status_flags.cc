@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SCT status validity check
+// summary: Implements IsValidSCTStatus, which reports whether a value is a recognized SCTVerifyStatus for Signed Certificate Timestamp verification.
+// ---
+
 #include "net/cert/sct_status_flags.h"
 
 namespace net::ct {

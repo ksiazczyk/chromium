@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Net module build target definition
+summary: Defines the module source_set with net_module sources and conditionally adds directory listing sources plus i18n and resource dependencies when file support is enabled.

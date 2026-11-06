@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ASN.1 certificate extraction API
+// summary: Declares helpers to extract the subject, issuer, public key, signature algorithms, and extensions from DER-encoded certificates.
+// ---
+
 #ifndef NET_CERT_ASN1_UTIL_H_
 #define NET_CERT_ASN1_UTIL_H_
 

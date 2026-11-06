@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merkle node hashing utility implementation
+// summary: Implements RFC 6962 Merkle tree node hashing by hashing two child node hashes together with a 0x01 tag prefix using SHA-256.
+// ---
+
 #include "net/cert/ct_log_verifier_util.h"
 
 #include <array>

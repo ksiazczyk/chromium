@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped NSS certificate pointer types
+// summary: Defines ScopedCERTCertificate and a list typedef that manage NSS CERTCertificate lifetime via a unique_ptr deleter.
+// ---
+
 #ifndef NET_CERT_SCOPED_NSS_TYPES_H_
 #define NET_CERT_SCOPED_NSS_TYPES_H_
 

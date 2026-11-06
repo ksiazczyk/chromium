@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-log CT verifier class declaration
+// summary: Declares the MultiLogCTVerifier class that verifies SCTs from multiple Certificate Transparency logs keyed by log ID.
+// ---
+
 #ifndef NET_CERT_MULTI_LOG_CT_VERIFIER_H_
 #define NET_CERT_MULTI_LOG_CT_VERIFIER_H_
 

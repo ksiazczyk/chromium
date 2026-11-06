@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merkle consistency proof for Certificate Transparency
+// summary: Defines the MerkleConsistencyProof struct holding a RFC 6962 consistency proof between two Certificate Transparency signed tree heads.
+// ---
+
 #ifndef NET_CERT_MERKLE_CONSISTENCY_PROOF_H_
 #define NET_CERT_MERKLE_CONSISTENCY_PROOF_H_
 

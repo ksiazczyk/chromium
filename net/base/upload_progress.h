@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadProgress class
+// summary: Simple value class holding upload size and current position for reporting upload progress.
+// ---
+
 #ifndef NET_BASE_UPLOAD_PROGRESS_H_
 #define NET_BASE_UPLOAD_PROGRESS_H_
 

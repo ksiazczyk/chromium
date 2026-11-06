@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertDatabase header for certificate store change observers
+// summary: Declares the CertDatabase singleton that lets observers register for trust store and client certificate store change notifications.
+// ---
+
 #ifndef NET_CERT_CERT_DATABASE_H_
 #define NET_CERT_CERT_DATABASE_H_
 

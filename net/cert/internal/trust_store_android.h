@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android trust store declarations
+// summary: Declares TrustStoreAndroid, a bssl::TrustStore that uses Android user-added trust anchors for path building and observes CertDatabase changes.
+// ---
+
 #ifndef NET_CERT_INTERNAL_TRUST_STORE_ANDROID_H_
 #define NET_CERT_INTERNAL_TRUST_STORE_ANDROID_H_
 

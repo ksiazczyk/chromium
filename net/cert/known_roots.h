@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known roots lookup declaration
+// summary: Declares GetNetTrustAnchorHistogramIdForSPKI, which maps an SPKI hash to a trust anchor histogram ID.
+// ---
+
 #ifndef NET_CERT_KNOWN_ROOTS_H_
 #define NET_CERT_KNOWN_ROOTS_H_
 

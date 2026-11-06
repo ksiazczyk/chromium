@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate network fetcher implementation
+// summary: Implements MockCertNetFetcherRequest, a test double returning preset errors or byte payloads for certificate fetch requests.
+// ---
+
 #include "net/cert/mock_cert_net_fetcher.h"
 
 #include "net/cert/x509_util.h"

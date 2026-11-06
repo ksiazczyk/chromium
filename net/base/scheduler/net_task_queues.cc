@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net Task Queues Implementation
+// summary: Implements the per-priority task queues for the network thread, including queue naming and observers that record pending-task metrics and trace counters.
+// ---
+
 #include "net/base/scheduler/net_task_queues.h"
 
 #include "base/feature_list.h"

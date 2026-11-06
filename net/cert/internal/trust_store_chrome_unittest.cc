@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome Root Store trust store
+// summary: Tests TrustStoreChrome behavior including root certificate constraints, signer set handling, and trust evaluation using generated test certificates.
+// ---
+
 #include "net/cert/internal/trust_store_chrome.h"
 
 #include "base/containers/extend.h"

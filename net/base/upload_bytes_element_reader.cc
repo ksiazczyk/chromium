@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadBytesElementReader implementation
+// summary: Implements UploadBytesElementReader and UploadOwnedBytesElementReader, which serve in-memory byte data as upload element content.
+// ---
+
 #include "net/base/upload_bytes_element_reader.h"
 
 #include "base/check_op.h"

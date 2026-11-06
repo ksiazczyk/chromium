@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Built-in certificate verification tests
+// summary: Extensive unit tests for CertVerifyProcBuiltin covering path building, revocation, CT policy, Chrome Root Store and QWAC behaviors.
+// ---
+
 #include "net/cert/cert_verify_proc_builtin.h"
 
 #include <algorithm>

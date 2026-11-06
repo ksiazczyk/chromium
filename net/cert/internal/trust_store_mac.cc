@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS keychain trust store implementation
+// summary: Implements TrustStoreMac, which reads and caches macOS keychain trust settings to provide trust anchors and distrust records for path building.
+// ---
+
 #include "net/cert/internal/trust_store_mac.h"
 
 #include <Security/Security.h>

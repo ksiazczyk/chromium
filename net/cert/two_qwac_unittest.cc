@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 2-QWAC certificate binding unit tests
+// summary: Tests parsing and validation of 2-QWAC TLS certificate bindings, covering valid headers, algorithms, and error cases.
+// ---
+
 #include "net/cert/two_qwac.h"
 
 #include <stdint.h>

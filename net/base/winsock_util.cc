@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Winsock event utility implementation
+// summary: Implements ResetEventIfSignaled, which resets a signaled Winsock event and returns whether it was signaled.
+// ---
+
 #include "net/base/winsock_util.h"
 
 #include "base/check_op.h"

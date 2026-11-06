@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Built-in certificate verification header
+// summary: Declares the factory for CertVerifyProcBuiltin and enums for QWAC verification results used in histograms.
+// ---
+
 #ifndef NET_CERT_CERT_VERIFY_PROC_BUILTIN_H_
 #define NET_CERT_CERT_VERIFY_PROC_BUILTIN_H_
 

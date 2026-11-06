@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlSearchParamsView unit tests
+// summary: Unit tests verifying parsing, sorting, deletion, and serialization behavior of UrlSearchParamsView across percent-encoded and multi-byte inputs.
+// ---
+
 #include "net/base/url_search_params_view.h"
 
 #include <string>

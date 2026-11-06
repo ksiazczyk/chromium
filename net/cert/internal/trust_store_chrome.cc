@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Root Store trust store implementation
+// summary: Implements TrustStoreChrome, which serves Chrome Root Store trust anchors and applies Chrome Root certificate constraints during verification.
+// ---
+
 #include "net/cert/internal/trust_store_chrome.h"
 
 #include <optional>

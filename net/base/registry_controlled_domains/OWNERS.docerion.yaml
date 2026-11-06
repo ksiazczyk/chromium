@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the registry-controlled domains directory
+summary: Names cfredric@chromium.org as the owner of this directory.

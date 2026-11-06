@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DoNothingCTVerifier header
+// summary: Declares a CTVerifier implementation that intentionally skips Certificate Transparency validation, including security guidance on when that is appropriate.
+// ---
+
 #ifndef NET_CERT_DO_NOTHING_CT_VERIFIER_H_
 #define NET_CERT_DO_NOTHING_CT_VERIFIER_H_
 

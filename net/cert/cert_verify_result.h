@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertVerifyResult class declaration
+// summary: Declares the certificate verification result, holding the verified chain, status flags, public key hashes, OCSP result, and CT compliance status.
+// ---
+
 #ifndef NET_CERT_CERT_VERIFY_RESULT_H_
 #define NET_CERT_CERT_VERIFY_RESULT_H_
 

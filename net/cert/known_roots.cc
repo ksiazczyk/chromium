@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known roots lookup implementation
+// summary: Looks up known root certificates by SPKI hash to return the trust anchor histogram ID for a root.
+// ---
+
 #include "net/cert/known_roots.h"
 
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-threaded certificate verifier class declaration
+// summary: Declares MultiThreadedCertVerifier, a CertVerifier implementation that dispatches verification to worker threads and supports proc updates.
+// ---
+
 #ifndef NET_CERT_MULTI_THREADED_CERT_VERIFIER_H_
 #define NET_CERT_MULTI_THREADED_CERT_VERIFIER_H_
 

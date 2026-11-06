@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android certificate verification
+// summary: Verifies certificates on Android via the platform TrustManager through JNI, including AIA fetching to complete missing certificate chains.
+// ---
+
 #include "net/cert/cert_verify_proc_android.h"
 
 #include <ranges>

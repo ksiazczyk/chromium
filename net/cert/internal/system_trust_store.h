@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System trust store interface
+// summary: Declares the SystemTrustStore interface abstracting platform trust stores, known-root checks, and Chrome Root Store version and constraints for path building.
+// ---
+
 #ifndef NET_CERT_INTERNAL_SYSTEM_TRUST_STORE_H_
 #define NET_CERT_INTERNAL_SYSTEM_TRUST_STORE_H_
 

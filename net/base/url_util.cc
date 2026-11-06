@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL utility functions implementation
+// summary: Implements URL utility functions such as appending or replacing query parameters, iterating query key-value pairs, and host and identity helpers.
+// ---
+
 #include "net/base/url_util.h"
 
 #include "build/build_config.h"

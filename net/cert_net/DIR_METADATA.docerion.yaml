@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: cert_net directory metadata
+summary: Sets the bug tracker component, team email and Buganizer component used for issues in the cert_net directory.

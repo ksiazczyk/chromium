@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: net::GetTaskRunner API and TaskRunnerGlobals
+// summary: Declares net::GetTaskRunner and the internal TaskRunnerGlobals struct that embedders such as the network service scheduler use to inject priority-specific task runners.
+// ---
+
 #ifndef NET_BASE_TASK_TASK_RUNNER_H_
 #define NET_BASE_TASK_TASK_RUNNER_H_
 

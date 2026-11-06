@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ASN.1 certificate parsing helpers
+// summary: Implements DER parsing to locate the issuer, subject, subject public key info, and extensions within X.509 certificates.
+// ---
+
 #include "net/cert/asn1_util.h"
 
 #include <optional>

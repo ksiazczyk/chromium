@@ -6,6 +6,12 @@
 // This file should be manually kept in sync with the corresponding google3
 // file.
 
+// ---docerion
+// type: source
+// title: Chrome Root Store proto definitions
+// summary: Defines proto3 messages for the Chrome Root Store, describing trust anchors, EV policy OIDs, and constraint sets for root certificate trust.
+// ---
+
 syntax = "proto3";
 
 package chrome_root_store;

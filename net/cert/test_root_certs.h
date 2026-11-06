@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test root certificates interface
+// summary: Declares the TestRootCerts singleton and ScopedTestRoot helper for adding trusted test roots in unit tests.
+// ---
+
 #ifndef NET_CERT_TEST_ROOT_CERTS_H_
 #define NET_CERT_TEST_ROOT_CERTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac test keychain search list implementation
+// summary: Implements a test-only keychain search list override used by macOS certificate verification tests.
+// ---
+
 #include "net/cert/test_keychain_search_list_mac.h"
 
 #include "base/memory/ptr_util.h"

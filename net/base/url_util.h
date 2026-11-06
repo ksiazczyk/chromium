@@ -7,6 +7,12 @@
 // intended to be of a text-processing nature, and should not attempt to use any
 // networking or blocking services.
 
+// ---docerion
+// type: source
+// title: URL utility functions declaration
+// summary: Declares text-processing utilities for parsing and manipulating URLs and hostnames, including query parameter handling and the QueryIterator class.
+// ---
+
 #ifndef NET_BASE_URL_UTIL_H_
 #define NET_BASE_URL_UTIL_H_
 

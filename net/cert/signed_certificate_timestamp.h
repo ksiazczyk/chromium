@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signed Certificate Timestamp structures (RFC 6962)
+// summary: 'Declares RFC 6962 Certificate Transparency structures: SignedEntryData, DigitallySigned, and SignedCertificateTimestamp with version, origin, and pickle support.'
+// ---
+
 #ifndef NET_CERT_SIGNED_CERTIFICATE_TIMESTAMP_H_
 #define NET_CERT_SIGNED_CERTIFICATE_TIMESTAMP_H_
 

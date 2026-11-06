@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS certificate database class declaration
+// summary: Declares NSSCertDatabase, which manipulates NSS certificate stores, defines trust bit constants, and notifies observers of changes.
+// ---
+
 #ifndef NET_CERT_NSS_CERT_DATABASE_H_
 #define NET_CERT_NSS_CERT_DATABASE_H_
 

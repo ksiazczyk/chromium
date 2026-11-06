@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS trust store declarations
+// summary: Declares TrustStoreNSS, a thread-safe bssl::TrustStore that uses NSS to find trust anchors trusted for SSL server authentication.
+// ---
+
 #ifndef NET_CERT_INTERNAL_TRUST_STORE_NSS_H_
 #define NET_CERT_INTERNAL_TRUST_STORE_NSS_H_
 

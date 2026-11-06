@@ -110,6 +110,12 @@
   GURL to normalize rules, and validating the rules.
 */
 
+// ---docerion
+// type: source
+// title: Registry-controlled domain service API and documentation
+// summary: Declares the API for computing effective TLDs, registry-controlled domains, and same-domain comparisons, and documents the public suffix rule format.
+// ---
+
 #ifndef NET_BASE_REGISTRY_CONTROLLED_DOMAINS_REGISTRY_CONTROLLED_DOMAIN_H_
 #define NET_BASE_REGISTRY_CONTROLLED_DOMAINS_REGISTRY_CONTROLLED_DOMAIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoalescingCertVerifier class declaration
+// summary: Declares CoalescingCertVerifier, which joins new Verify requests matching in-flight ones and keeps configuration changes propagating to new requests.
+// ---
+
 #ifndef NET_CERT_COALESCING_CERT_VERIFIER_H_
 #define NET_CERT_COALESCING_CERT_VERIFIER_H_
 

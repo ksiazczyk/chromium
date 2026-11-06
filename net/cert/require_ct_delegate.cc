@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequireCTDelegate CT requirements check implementation
+// summary: Implements RequireCTDelegate::CheckCTRequirements, deciding whether a connection meets Certificate Transparency policy, with delegate-based per-host overrides.
+// ---
+
 #include "net/cert/require_ct_delegate.h"
 
 namespace net {

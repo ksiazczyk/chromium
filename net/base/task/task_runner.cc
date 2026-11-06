@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of net::GetTaskRunner
+// summary: Implements net::GetTaskRunner, returning the embedder-injected runner for a request priority with a fallback to the default task runner, plus internal globals storage.
+// ---
+
 #include "net/base/task/task_runner.h"
 
 #include "base/metrics/histogram_functions.h"

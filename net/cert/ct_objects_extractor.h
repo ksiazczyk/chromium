@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate Transparency objects extractor interface
+// summary: Declares functions to extract embedded SCT lists and construct precert and X.509 log entries from certificates.
+// ---
+
 #ifndef NET_CERT_CT_OBJECTS_EXTRACTOR_H_
 #define NET_CERT_CT_OBJECTS_EXTRACTOR_H_
 

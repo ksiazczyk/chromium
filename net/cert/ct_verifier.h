@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTVerifier interface
+// summary: Declares the CTVerifier interface for verifying SCTs embedded in a certificate or obtained via the signed_certificate_timestamp TLS extension.
+// ---
+
 #ifndef NET_CERT_CT_VERIFIER_H_
 #define NET_CERT_CT_VERIFIER_H_
 

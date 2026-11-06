@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners list
+summary: Lists the owners responsible for changes in the certificate verification directory.

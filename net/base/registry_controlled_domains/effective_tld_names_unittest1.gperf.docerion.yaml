@@ -1,0 +1,4 @@
+# Docerion header of effective_tld_names_unittest1.gperf.
+type: test
+title: Test gperf list 1 for registry-controlled domain unit tests
+summary: Hand-edited gperf test list used by registry_controlled_domain_unittest to generate a perfect hash map.

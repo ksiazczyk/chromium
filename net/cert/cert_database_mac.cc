@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Keychain notifier for CertDatabase
+// summary: Listens for macOS Keychain list and trust settings events and forwards them as CertDatabase client cert and trust store notifications.
+// ---
+
 #include "net/cert/cert_database.h"
 
 #include <Security/Security.h>

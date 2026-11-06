@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the NSS trust store
+// summary: Tests TrustStoreNSS trust determination across NSS databases, including builtin roots, user-added certificates, and distrusted certificates.
+// ---
+
 #include "net/cert/internal/trust_store_nss.h"
 
 #include <cert.h>

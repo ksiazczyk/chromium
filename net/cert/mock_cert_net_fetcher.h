@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate network fetcher
+// summary: Declares a gmock-based CertNetFetcher test double serving canned CA issuer, CRL, and OCSP responses in tests.
+// ---
+
 #ifndef NET_CERT_MOCK_CERT_NET_FETCHER_H_
 #define NET_CERT_MOCK_CERT_NET_FETCHER_H_
 

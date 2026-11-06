@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merkle tree leaf for Certificate Transparency
+// summary: Declares the RFC 6962 MerkleTreeLeaf struct with helpers to construct it from a certificate and SCT and to hash it.
+// ---
+
 #ifndef NET_CERT_MERKLE_TREE_LEAF_H_
 #define NET_CERT_MERKLE_TREE_LEAF_H_
 

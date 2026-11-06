@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signer set protobuf schema
+// summary: Protobuf schema describing Chrome root store signers such as issuer logs and mirrors, their states, keys and constraints.
+// ---
+
 edition = "2024";
 
 package chrome_root_store;

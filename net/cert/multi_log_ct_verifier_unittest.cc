@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-log CT verifier unit tests
+// summary: Unit tests for MultiLogCTVerifier covering embedded SCT extraction, verification against a test log, and NetLog output.
+// ---
+
 #include "net/cert/multi_log_ct_verifier.h"
 
 #include <memory>

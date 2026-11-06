@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetModule resource access API
+// summary: Declares the NetModule class that lets the net stack fetch embedding application resources through a registered resource provider function.
+// ---
+
 #ifndef NET_BASE_MODULE_NET_MODULE_H_
 #define NET_BASE_MODULE_NET_MODULE_H_
 

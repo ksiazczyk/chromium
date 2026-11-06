@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertDatabase notification unit tests
+// summary: Tests that CertDatabase notifies observers of trust store and client cert store changes, including net log entries and histogram samples.
+// ---
+
 #include "net/cert/cert_database.h"
 
 #include "base/test/metrics/histogram_tester.h"

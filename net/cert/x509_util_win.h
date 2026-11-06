@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows X.509 certificate utility header
+// summary: Declares net::x509_util helpers for converting Windows CryptoAPI certificate contexts to X509Certificate objects, building certificate chains, computing SHA-256 fingerprints, and checking self-signed status.
+// ---
+
 #ifndef NET_CERT_X509_UTIL_WIN_H_
 #define NET_CERT_X509_UTIL_WIN_H_
 

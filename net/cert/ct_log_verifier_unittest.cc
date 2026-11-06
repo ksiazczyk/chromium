@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CTLogVerifier Merkle proof verification
+// summary: Unit tests for CTLogVerifier using Merkle tree leaf, root, and consistency proof test vectors replicated from the certificate-transparency project.
+// ---
+
 #include "net/cert/ct_log_verifier.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time conversions between base::Time and DER GeneralizedTime
+// summary: Converts between base::Time and BoringSSL DER GeneralizedTime values for certificate date handling.
+// ---
+
 #include "net/cert/time_conversions.h"
 
 #include "base/time/time.h"

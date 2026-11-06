@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows certificate store trust store implementation
+// summary: Implements TrustStoreWin, which reads the Windows root and Trusted People certificate stores to compute certificate trust for server authentication.
+// ---
+
 #include "net/cert/internal/trust_store_win.h"
 
 #include <algorithm>

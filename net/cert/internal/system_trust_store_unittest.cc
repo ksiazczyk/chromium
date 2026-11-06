@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System trust store unit tests
+// summary: Unit tests for SystemTrustStore Chrome behavior, verifying that system distrust overrides Chrome Root Store trust while leaf trust does not.
+// ---
+
 #include "net/cert/internal/system_trust_store.h"
 
 #include "base/strings/string_view_util.h"

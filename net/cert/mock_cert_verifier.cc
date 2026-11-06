@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock certificate verifier implementation
+// summary: Implements MockCertVerifier rules that return configured verification results for given certificates and host patterns in tests.
+// ---
+
 #include "net/cert/mock_cert_verifier.h"
 
 #include <memory>

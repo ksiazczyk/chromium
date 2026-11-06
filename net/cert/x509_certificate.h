@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X509Certificate class header
+// summary: Declares the X509Certificate class representing an end-entity certificate with optional intermediates, plus format flags and factory methods for creating certificates.
+// ---
+
 #ifndef NET_CERT_X509_CERTIFICATE_H_
 #define NET_CERT_X509_CERTIFICATE_H_
 

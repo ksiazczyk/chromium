@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guarded file descriptor declarations for macOS
+// summary: Declares macOS guarded file descriptor SPI functions that protect descriptors from unwanted close or dup operations.
+// ---
+
 #ifndef NET_BASE_APPLE_GUARDED_FD_H_
 #define NET_BASE_APPLE_GUARDED_FD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared sync cert issuer source test suite
+// summary: Templated gtest suite that verifies SyncGetIssuersOf matching behavior for cert issuer source implementations using shared test certificates.
+// ---
+
 #ifndef NET_CERT_INTERNAL_CERT_ISSUER_SOURCE_SYNC_UNITTEST_H_
 #define NET_CERT_INTERNAL_CERT_ISSUER_SOURCE_SYNC_UNITTEST_H_
 

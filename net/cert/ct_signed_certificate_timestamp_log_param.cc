@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLog parameters for signed certificate timestamps
+// summary: Converts signed certificate timestamps and their verification statuses into dictionary values suitable for logging in the NetLog.
+// ---
+
 #include "net/cert/ct_signed_certificate_timestamp_log_param.h"
 
 #include <algorithm>

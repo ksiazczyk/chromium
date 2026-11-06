@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Revocation checker unit tests
+// summary: Unit tests for chain revocation checking, covering CRL and OCSP behavior, missing revocation mechanisms, and policy settings using mock network fetchers.
+// ---
+
 #include "net/cert/internal/revocation_checker.h"
 
 #include <string_view>

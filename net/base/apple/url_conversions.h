@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GURL and NSURL conversion declarations
+// summary: Declares NSURLWithGURL and GURLWithNSURL for converting between GURL and NSURL, noting their differing URL validity rules.
+// ---
+
 #ifndef NET_BASE_APPLE_URL_CONVERSIONS_H_
 #define NET_BASE_APPLE_URL_CONVERSIONS_H_
 

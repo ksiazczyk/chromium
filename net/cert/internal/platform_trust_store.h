@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform trust store interface
+// summary: Declares PlatformTrustStore, an extension of bssl::TrustStore that supports enumerating all user-added certificates.
+// ---
+
 #ifndef NET_CERT_INTERNAL_PLATFORM_TRUST_STORE_H_
 #define NET_CERT_INTERNAL_PLATFORM_TRUST_STORE_H_
 

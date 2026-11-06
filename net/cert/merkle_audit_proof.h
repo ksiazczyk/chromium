@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merkle audit proof declaration
+// summary: Declares the MerkleAuditProof struct and CalculateAuditPathLength for Certificate Transparency log proofs.
+// ---
+
 #ifndef NET_CERT_MERKLE_AUDIT_PROOF_H_
 #define NET_CERT_MERKLE_AUDIT_PROOF_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net Task Queues Unit Tests
+// summary: Unit tests verifying that tasks posted to the queues run in order and that higher-priority tasks execute before default-priority tasks.
+// ---
+
 #include "net/base/scheduler/net_task_queues.h"
 
 #include "base/message_loop/message_pump.h"

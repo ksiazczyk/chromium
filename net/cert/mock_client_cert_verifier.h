@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock client certificate verifier
+// summary: Declares a ClientCertVerifier test double with a configurable default result and per-certificate verification rules.
+// ---
+
 #ifndef NET_CERT_MOCK_CLIENT_CERT_VERIFIER_H_
 #define NET_CERT_MOCK_CLIENT_CERT_VERIFIER_H_
 

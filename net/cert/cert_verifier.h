@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertVerifier interface for certificate verification
+// summary: Declares the CertVerifier service interface with config, verify flags, observers and request parameters for verifying certificates against a hostname.
+// ---
+
 #ifndef NET_CERT_CERT_VERIFIER_H_
 #define NET_CERT_CERT_VERIFIER_H_
 

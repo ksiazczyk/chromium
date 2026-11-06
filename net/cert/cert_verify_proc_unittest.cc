@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate verification procedure unit tests
+// summary: Extensive unit tests for certificate verification procedures across platforms, covering trust anchors, revocation, signature algorithms, and Certificate Transparency.
+// ---
+
 #include "net/cert/cert_verify_proc.h"
 
 #include <algorithm>

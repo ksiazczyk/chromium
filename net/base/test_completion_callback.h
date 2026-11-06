@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test completion callback helpers
+// summary: Declares TestCompletionCallback, TestInt64CompletionCallback and TestClosure helpers that block on a RunLoop until asynchronous net operations complete.
+// ---
+
 #ifndef NET_BASE_TEST_COMPLETION_CALLBACK_H_
 #define NET_BASE_TEST_COMPLETION_CALLBACK_H_
 

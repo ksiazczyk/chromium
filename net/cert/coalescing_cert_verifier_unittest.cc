@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coalescing certificate verifier unit tests
+// summary: Unit tests for CoalescingCertVerifier covering synchronous completion, in-flight request joining, and result propagation via a mock verifier.
+// ---
+
 #include "net/cert/coalescing_cert_verifier.h"
 
 #include <memory>

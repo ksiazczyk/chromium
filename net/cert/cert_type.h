@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate type classification constants
+// summary: Defines the CertType enum classifying certificates as CA, user, server or other based on intrinsic properties and assigned trust.
+// ---
+
 #ifndef NET_CERT_CERT_TYPE_H_
 #define NET_CERT_CERT_TYPE_H_
 

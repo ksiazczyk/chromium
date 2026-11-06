@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merkle audit proof implementation
+// summary: Implements RFC 6962 audit path length calculation and MerkleAuditProof constructors for Certificate Transparency.
+// ---
+
 #include "net/cert/merkle_audit_proof.h"
 
 #include "base/check_op.h"

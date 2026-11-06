@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP response headers utilities for Apple platforms
+// summary: Declares helpers to fix NSStrings mis-decoded as latin1 and to build net::HttpResponseHeaders from an NSHTTPURLResponse.
+// ---
+
 #ifndef NET_BASE_APPLE_HTTP_RESPONSE_HEADERS_UTIL_H_
 #define NET_BASE_APPLE_HTTP_RESPONSE_HEADERS_UTIL_H_
 

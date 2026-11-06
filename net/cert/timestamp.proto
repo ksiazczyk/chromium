@@ -6,6 +6,12 @@
 // directly imported because it is not in the `protobuf_lite` source.
 // This message needs to be wire compatible with it.
 
+// ---docerion
+// type: source
+// title: Chrome root store Timestamp proto message
+// summary: Defines a Timestamp protobuf message for the Chrome root store that is wire-compatible with the standard protobuf timestamp.
+// ---
+
 syntax = "proto3";
 
 package chrome_root_store;

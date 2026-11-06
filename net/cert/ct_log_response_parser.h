@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CT log JSON response parser header
+// summary: Declares helpers that fill a SignedTreeHead and a consistency proof from the JSON representation of Certificate Transparency log responses.
+// ---
+
 #ifndef NET_CERT_CT_LOG_RESPONSE_PARSER_H_
 #define NET_CERT_CT_LOG_RESPONSE_PARSER_H_
 

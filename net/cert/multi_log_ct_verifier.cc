@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-log Certificate Transparency verifier implementation
+// summary: Implements verification of Signed Certificate Timestamps from embedded and TLS-extension sources against multiple CT logs, with NetLog and UMA logging.
+// ---
+
 #include "net/cert/multi_log_ct_verifier.h"
 
 #include <string_view>

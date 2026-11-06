@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Root Store trust store declarations
+// summary: Declares TrustStoreChrome and ChromeRootCertConstraints, which supply trust anchors and constraints from the compiled-in Chrome Root Store for certificate path building.
+// ---
+
 #ifndef NET_CERT_INTERNAL_TRUST_STORE_CHROME_H_
 #define NET_CERT_INTERNAL_TRUST_STORE_CHROME_H_
 

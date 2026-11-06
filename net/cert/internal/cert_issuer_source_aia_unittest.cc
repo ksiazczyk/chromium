@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AIA certificate issuer source unit tests
+// summary: Unit tests for CertIssuerSourceAia covering synchronous and asynchronous issuer retrieval with a mock certificate network fetcher.
+// ---
+
 #include "net/cert/internal/cert_issuer_source_aia.h"
 
 #include <memory>

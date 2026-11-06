@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X509Certificate class implementation
+// summary: Implements the X509Certificate class, including creation from DER or PEM chains, PKCS#7 parsing, fingerprinting, and issuer normalization using BoringSSL.
+// ---
+
 #include "net/cert/x509_certificate.h"
 
 #include <limits.h>

@@ -1,0 +1,4 @@
+# Docerion header of effective_tld_names.dat.
+type: data
+title: Public Suffix List data
+summary: Chromium's copy of the Public Suffix List listing effective top-level domains and their registry rules.

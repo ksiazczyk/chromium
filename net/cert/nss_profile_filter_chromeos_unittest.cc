@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSSProfileFilterChromeOS unit tests
+// summary: Unit tests verifying slot and certificate filtering for multiple simulated ChromeOS users, including copy semantics and system slot handling.
+// ---
+
 #include "net/cert/nss_profile_filter_chromeos.h"
 
 #include <cert.h>

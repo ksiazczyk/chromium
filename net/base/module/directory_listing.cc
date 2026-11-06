@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory listing HTML snippet generation
+// summary: Implements functions that build the HTML and script snippets for directory listing headers, entries, parent links, and human-readable file size strings.
+// ---
+
 #include "net/base/module/directory_listing.h"
 
 #include <optional>

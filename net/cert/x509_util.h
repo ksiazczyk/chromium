@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X.509 utility helpers for certificate parsing and creation
+// summary: Declares net::x509_util helpers for parsing certificate lists, creating and signing certificates, encoding X.509 names and times, and computing TLS server end-point channel bindings.
+// ---
+
 #ifndef NET_CERT_X509_UTIL_H_
 #define NET_CERT_X509_UTIL_H_
 

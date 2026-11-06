@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for X.509 utility trust store notifications
+// summary: Implements Android JNI callbacks that notify CertDatabase observers when the Android trust store or client certificate store changes.
+// ---
+
 #include "base/feature_list.h"
 #include "net/base/features.h"
 #include "net/cert/cert_database.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSSCertDatabase unit tests
+// summary: Unit tests for the NSS certificate database covering certificate listing, trust and import operations, and trust store and client cert store change notifications.
+// ---
+
 #include "net/cert/nss_cert_database.h"
 
 #include <cert.h>

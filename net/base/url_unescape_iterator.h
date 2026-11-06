@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlUnescapeIterator class declaration
+// summary: Declares UrlUnescapeIterator, a forward iterator that unescapes URL-encoded strings without allocating output, along with the MakeUrlUnescapeRange helper.
+// ---
+
 #ifndef NET_BASE_URL_UNESCAPE_ITERATOR_H_
 #define NET_BASE_URL_UNESCAPE_ITERATOR_H_
 

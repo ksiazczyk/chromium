@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlSearchParamsView class declaration
+// summary: Declares UrlSearchParamsView, a memory-efficient view over a GURL query supporting sorting, filtering, and serialization without owning parameter values.
+// ---
+
 #ifndef NET_BASE_URL_SEARCH_PARAMS_VIEW_H_
 #define NET_BASE_URL_SEARCH_PARAMS_VIEW_H_
 

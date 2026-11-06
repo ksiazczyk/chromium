@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CT policy compliance and requirements enums
+// summary: Defines enums describing a connection's CT policy compliance and whether CT requirements were met.
+// ---
+
 #ifndef NET_CERT_CT_POLICY_STATUS_H_
 #define NET_CERT_CT_POLICY_STATUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merkle Tree Certificates config protobuf
+// summary: Defines the MtcConfig protobuf message holding Chrome's Merkle Tree Certificates signer set and mirroring requirement toggle.
+// ---
+
 edition = "2024";
 
 package chrome_root_store;

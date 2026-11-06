@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate Transparency TLS wire format serialization
+// summary: Declares utility functions for encoding and decoding Certificate Transparency structures such as SCTs, Merkle tree leaves and signed tree heads to and from the TLS wire format.
+// ---
+
 #ifndef NET_CERT_CT_SERIALIZATION_H_
 #define NET_CERT_CT_SERIALIZATION_H_
 

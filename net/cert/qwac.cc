@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QWAC QCStatements parsing
+// summary: Implements parsing of QCStatements extensions per RFC 3739 and checks ETSI requirements to determine QWAC certificate status.
+// ---
+
 #include "net/cert/qwac.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caching certificate verifier
+// summary: Declares a CertVerifier that caches verification results for a limited time to balance revocation and trust setting changes.
+// ---
+
 #ifndef NET_CERT_CACHING_CERT_VERIFIER_H_
 #define NET_CERT_CACHING_CERT_VERIFIER_H_
 

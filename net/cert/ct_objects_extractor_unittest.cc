@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate Transparency objects extractor unit tests
+// summary: Tests extraction of embedded SCTs and construction of precert and X.509 log entries using test certificates.
+// ---
+
 #include "net/cert/ct_objects_extractor.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadFileElementReader unit tests
+// summary: Parameterized unit tests for the file upload element reader, covering partial reads, ranges, and both path-based and pre-opened file construction.
+// ---
+
 #include "net/base/upload_file_element_reader.h"
 
 #include <stdint.h>

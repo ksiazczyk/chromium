@@ -1,0 +1,4 @@
+# Docerion header of effective_tld_names_unittest5.gperf.
+type: test
+title: Test gperf list 5 for joined prefix handling
+summary: Small test gperf list that exercises joined prefixes in the generated lookup code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate status to network error mapping
+// summary: Implements MapCertStatusToNetError, mapping the most serious certificate status flag to the equivalent network error code.
+// ---
+
 #include "net/cert/cert_status_flags.h"
 
 #include "base/check_op.h"

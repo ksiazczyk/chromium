@@ -1,0 +1,4 @@
+# Docerion header of effective_tld_names_unittest2.gperf.
+type: test
+title: Test gperf list 2 for registry-controlled domain unit tests
+summary: Small hand-edited gperf test list with jp and bar.jp entries for perfect hash generation in unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EV root CA metadata unit tests
+// summary: Tests EV policy OID lookups and temporary add/remove behavior of the EVRootCAMetadata singleton.
+// ---
+
 #include "net/cert/ev_root_ca_metadata.h"
 
 #include "build/build_config.h"

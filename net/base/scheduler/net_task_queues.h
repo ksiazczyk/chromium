@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net Task Queues Interface
+// summary: Declares NetTaskQueues, which creates and manages prioritized task queues and provides task runners for the network thread.
+// ---
+
 #ifndef NET_BASE_SCHEDULER_NET_TASK_QUEUES_H_
 #define NET_BASE_SCHEDULER_NET_TASK_QUEUES_H_
 

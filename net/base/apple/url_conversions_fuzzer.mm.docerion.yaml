@@ -1,0 +1,4 @@
+# Docerion header of url_conversions_fuzzer.mm.
+type: test
+title: Fuzzer for GURL and NSURL conversions
+summary: Fuzzer harness that feeds arbitrary bytes as NSURLs through GURLWithNSURL to exercise URL conversion behavior.

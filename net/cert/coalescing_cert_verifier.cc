@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coalescing certificate verifier implementation
+// summary: Implements a CertVerifier wrapper that groups identical in-flight Verify calls into a single underlying verification job, with detailed lifetime management.
+// ---
+
 #include "net/cert/coalescing_cert_verifier.h"
 
 #include <algorithm>

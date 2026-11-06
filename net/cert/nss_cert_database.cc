@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS certificate database implementation
+// summary: Implements listing, importing, deleting, and trust handling of certificates in NSS certificate stores, forwarding change notifications to CertDatabase.
+// ---
+
 #include "net/cert/nss_cert_database.h"
 
 #include <cert.h>

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Certificate verification
+summary: Overview of the certificate verification code, its CertVerifier and CertVerifyProc interfaces, and platform verifier implementations.
+relations:
+  - documents /net/cert/cert_verifier.h
+  - documents /net/cert/cert_verify_proc.h
+  - documents /net/cert/cert_verify_proc_android.h
+---
+
 # Certificate verification
 
 This directory contains the core code for verifying server certificates.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test root certificates implementation
+// summary: Implements TestRootCerts and ScopedTestRoot to mark test certificates as trusted during verification.
+// ---
+
 #include "net/cert/test_root_certs.h"
 
 #include <string>

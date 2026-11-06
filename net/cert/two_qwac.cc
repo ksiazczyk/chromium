@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 2-QWAC TLS certificate binding parsing
+// summary: Parses JAdES/JWS signatures that bind 2-QWAC qualified certificates to TLS server certificates per ETSI and RFC 7515 rules.
+// ---
+
 #include "net/cert/two_qwac.h"
 
 #include <algorithm>

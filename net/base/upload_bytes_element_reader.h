@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadBytesElementReader declaration
+// summary: Declares UploadBytesElementReader and UploadOwnedBytesElementReader for reading byte buffers as multipart upload elements.
+// ---
+
 #ifndef NET_BASE_UPLOAD_BYTES_ELEMENT_READER_H_
 #define NET_BASE_UPLOAD_BYTES_ELEMENT_READER_H_
 
