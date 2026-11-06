@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral notification manager header
+// summary: Declares the PeripheralNotificationManager class, its observer interface for peripheral and cable warning notifications, and the connectivity results enum for metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PERIPHERAL_NOTIFICATION_PERIPHERAL_NOTIFICATION_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PERIPHERAL_NOTIFICATION_PERIPHERAL_NOTIFICATION_MANAGER_H_
 

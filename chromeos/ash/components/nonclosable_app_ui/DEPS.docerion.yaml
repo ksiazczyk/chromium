@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the nonclosable_app_ui component
+summary: Grants nonclosable_app_ui_utils.cc additional include permissions for ui/base and ash public toast headers, with a TODO to remove the //ash dependency.

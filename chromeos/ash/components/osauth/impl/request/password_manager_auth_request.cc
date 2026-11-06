@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager auth request implementation
+// summary: Implements the in-session auth request used when authenticating from Google Password Manager, returning a custom prompt or a default localized string.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/request/password_manager_auth_request.h"
 
 #include <string>

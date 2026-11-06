@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ONC merger unit tests
+// summary: Unit tests verifying merging of ONC settings and policies, including mandatory values, recommended fields, and empty-policy behavior.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_merger.h"
 
 #include <string>

@@ -8,6 +8,12 @@
 // - The local translation of an object depending on the associated signature
 //     see LocalTranslator::TranslateFields
 
+// ---docerion
+// type: source
+// title: ONC to Shill translator implementation
+// summary: Implements translation of ONC network configuration objects into Shill dictionaries, including client certificate and VPN value handling.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

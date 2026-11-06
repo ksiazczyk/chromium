@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the osauth impl component and unit tests
+summary: Defines the GN targets, sources and dependencies for the ChromeOS Ash OS authentication implementation component and its unit tests.

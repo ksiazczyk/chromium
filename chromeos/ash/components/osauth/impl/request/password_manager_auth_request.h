@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerAuthRequest class declaration
+// summary: Declares the token-based auth request passed to ActiveSessionAuthController for Google Password Manager authentication, with a customizable prompt.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_REQUEST_PASSWORD_MANAGER_AUTH_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_REQUEST_PASSWORD_MANAGER_AUTH_REQUEST_H_
 

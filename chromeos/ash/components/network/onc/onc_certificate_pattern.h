@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC certificate pattern header
+// summary: Declares the OncCertificatePattern class used to find certificates matching an ONC-defined pattern in the certificate database.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_CERTIFICATE_PATTERN_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_CERTIFICATE_PATTERN_H_
 

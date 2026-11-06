@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs-based legacy PIN engine implementation
+// summary: Implements legacy PIN authentication by comparing salted PIN input against secrets stored in user preferences.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/engines/prefs_pin_engine.h"
 
 #include <memory>

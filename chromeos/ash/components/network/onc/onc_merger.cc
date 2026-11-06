@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC settings and policy merger implementation
+// summary: Merges user and shared ONC settings with user and device policies into effective or augmented dictionaries, masking credential fields.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_merger.h"
 
 #include <array>

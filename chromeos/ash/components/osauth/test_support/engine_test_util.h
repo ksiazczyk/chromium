@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: EngineTestBase test fixture header
+// summary: Declares EngineTestBase, a gtest fixture providing mock UserDataAuth, cryptohome core, prefs and a session test environment for engine tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_ENGINE_TEST_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_ENGINE_TEST_UTIL_H_
 

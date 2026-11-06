@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAuthHubConnector header
+// summary: Declares a gmock mock of AuthHubConnector whose GetEngine method returns the auth factor engine for a given factor in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_MOCK_AUTH_HUB_CONNECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_MOCK_AUTH_HUB_CONNECTOR_H_
 

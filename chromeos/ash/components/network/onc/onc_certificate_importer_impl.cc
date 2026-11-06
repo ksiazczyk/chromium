@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC certificate importer implementation
+// summary: Implements importing ONC client certificates into an NSS certificate database by storing PKCS#12 data on an IO task runner.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_certificate_importer_impl.h"
 
 #include <cert.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthEngineApi implementation for password and PIN attempts
+// summary: Implements static helpers that route password and PIN authentication attempts to the matching cryptohome-based auth engines.
+// ---
+
 #include "chromeos/ash/components/osauth/public/auth_engine_api.h"
 
 #include <string>

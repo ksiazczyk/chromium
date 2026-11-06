@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorPresenceCache implementation
+// summary: Stores and reads cached auth factor sets per account and purpose in known-user prefs, with fallback logic when no cache entry exists.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_factor_presence_cache.h"
 
 #include <memory>

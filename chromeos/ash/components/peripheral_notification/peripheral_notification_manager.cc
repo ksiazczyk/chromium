@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral notification manager implementation
+// summary: Implements the manager that translates Typecd and Pciguard D-Bus signals into observer notification events and records peripheral connectivity metrics.
+// ---
+
 #include "chromeos/ash/components/peripheral_notification/peripheral_notification_manager.h"
 
 #include "ash/constants/ash_features.h"

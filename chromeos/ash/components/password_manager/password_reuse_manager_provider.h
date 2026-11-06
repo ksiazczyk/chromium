@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordReuseManagerProvider interface header
+// summary: Declares the abstract PasswordReuseManagerProvider interface that lets ChromeOS callers find a user's PasswordReuseManager without depending on //chrome's profile-keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PASSWORD_MANAGER_PASSWORD_REUSE_MANAGER_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PASSWORD_MANAGER_PASSWORD_REUSE_MANAGER_PROVIDER_H_
 

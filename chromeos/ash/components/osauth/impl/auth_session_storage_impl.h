@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthSessionStorageImpl class declaration
+// summary: Declares the AuthSessionStorage implementation that stores authenticated UserContexts behind safe tokens with borrow semantics.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_SESSION_STORAGE_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_SESSION_STORAGE_IMPL_H_
 

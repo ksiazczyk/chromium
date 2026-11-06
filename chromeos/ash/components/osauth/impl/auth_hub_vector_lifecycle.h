@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubVectorLifecycle class declaration
+// summary: Declares the manager of the auth hub's inner lifecycle for individual authentication attempts and engine observation callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_VECTOR_LIFECYCLE_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_VECTOR_LIFECYCLE_H_
 

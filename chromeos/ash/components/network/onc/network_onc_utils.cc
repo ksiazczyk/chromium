@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC network utility implementations
+// summary: Implements helpers for converting ONC proxy settings, importing networks for a user, resolving effective network policies, and variable expansion.
+// ---
+
 #include "chromeos/ash/components/network/onc/network_onc_utils.h"
 
 #include <stddef.h>

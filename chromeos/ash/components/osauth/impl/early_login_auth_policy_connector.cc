@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early login auth policy connector implementation
+// summary: Implements AuthPolicyConnector from early prefs saved on disk, providing recovery and local auth factor policy before the profile loads.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/early_login_auth_policy_connector.h"
 
 #include <memory>

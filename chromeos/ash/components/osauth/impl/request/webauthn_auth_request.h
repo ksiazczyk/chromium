@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthNAuthRequest class header
+// summary: Declares the WebAuthNAuthRequest class implementing AuthRequest for WebAuthN authentication, including the relying party ID and finish callback handling.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_REQUEST_WEBAUTHN_AUTH_REQUEST_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_REQUEST_WEBAUTHN_AUTH_REQUEST_H_
 

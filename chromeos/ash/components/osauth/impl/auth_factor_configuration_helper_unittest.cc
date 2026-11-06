@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AuthFactorConfigurationHelper
+// summary: Tests CheckHasAuthFactors against a fake UserDataAuth client for cases with no factors, Gaia and local passwords, PIN, recovery and smart card.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_factor_configuration_helper.h"
 
 #include <optional>

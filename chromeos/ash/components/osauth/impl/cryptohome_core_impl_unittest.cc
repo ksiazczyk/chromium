@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptohomeCoreImpl unit tests
+// summary: Unit tests for CryptohomeCoreImpl covering user context retrieval and the borrow/return queue for auth session contexts.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/cryptohome_core_impl.h"
 
 #include <memory>

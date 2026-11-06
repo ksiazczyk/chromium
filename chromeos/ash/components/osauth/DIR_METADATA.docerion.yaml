@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: OS auth directory metadata
+summary: Directory metadata file that assigns the LOGIN_LOCK_METADATA mixin from //ash/login to the osauth component.

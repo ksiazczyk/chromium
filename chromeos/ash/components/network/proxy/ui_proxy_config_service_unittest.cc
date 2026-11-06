@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UIProxyConfigService
+// summary: Tests merging of enforced proxy configurations from user settings, policies, and extensions into ONC proxy values.
+// ---
+
 #include "chromeos/ash/components/network/proxy/ui_proxy_config_service.h"
 
 #include <memory>

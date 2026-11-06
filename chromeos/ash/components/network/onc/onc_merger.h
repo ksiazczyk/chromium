@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC merger header
+// summary: Declares functions that merge ONC user and shared settings with user and device policies into effective or augmented dictionaries.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_MERGER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_MERGER_H_
 

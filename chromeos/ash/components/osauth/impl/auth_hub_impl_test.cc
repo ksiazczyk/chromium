@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubImpl tests
+// summary: Tests for AuthHubImpl covering initialization, mode switching, and authentication attempts using mock engines and factories.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_hub_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nonclosable app toast utility header
+// summary: Declares the component-exported ShowNonclosableAppToast function that shows a toast indicating a certain app cannot be closed.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NONCLOSABLE_APP_UI_NONCLOSABLE_APP_UI_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_NONCLOSABLE_APP_UI_NONCLOSABLE_APP_UI_UTILS_H_
 

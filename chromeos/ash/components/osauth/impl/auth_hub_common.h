@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth hub common types
+// summary: Defines the AuthEnginesMap alias and the AuthHubConnector interface shared across auth hub components.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_COMMON_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_COMMON_H_
 

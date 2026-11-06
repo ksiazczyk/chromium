@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthHubAttemptHandler unit tests
+// summary: Unit tests for the auth hub attempt handler, covering factor state updates, attempts, and success or failure handling with mock engines.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_hub_attempt_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorConfigurationHelper implementation
+// summary: Fetches the configured auth factors for an account via AuthFactorEditor and maps them to Ash auth factors such as Gaia password, PIN and recovery.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_factor_configuration_helper.h"
 
 #include <memory>

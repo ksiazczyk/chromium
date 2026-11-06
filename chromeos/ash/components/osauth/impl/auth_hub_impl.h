@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubImpl class declaration
+// summary: Declares the AuthHub implementation that owns the mode, vector, and attempt lifecycle classes and their owner callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_IMPL_H_
 

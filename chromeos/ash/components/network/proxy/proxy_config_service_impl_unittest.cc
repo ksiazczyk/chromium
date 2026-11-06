@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProxyConfigServiceImpl
+// summary: Tests effective proxy configuration determination, captive portal signin behavior, and per-network proxy handling.
+// ---
+
 #include "chromeos/ash/components/network/proxy/proxy_config_service_impl.h"
 
 #include <array>

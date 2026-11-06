@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for osauth test support
+summary: Grants engine_test_util.h access to mock userdataauth, stub install attributes and user session test headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordReuseManagerProvider implementation
+// summary: Implements the PasswordReuseManagerProvider singleton lifecycle, registering the instance on construction and exposing a checked process-wide Get accessor.
+// ---
+
 #include "chromeos/ash/components/password_manager/password_reuse_manager_provider.h"
 
 #include "base/check.h"

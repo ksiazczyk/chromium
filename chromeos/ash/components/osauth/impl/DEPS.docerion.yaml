@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the osauth impl directory
+summary: Specifies allowed include directories for the osauth implementation code, with extra rules for unit and test files.

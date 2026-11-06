@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPartsImpl implementation
+// summary: Implements the AuthParts factory that assembles default OS auth components, engine factories, policy connectors and surface registries.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_parts_impl.h"
 
 #include <memory>

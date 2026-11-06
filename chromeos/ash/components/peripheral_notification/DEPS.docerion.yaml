@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Peripheral notification DEPS include rules
+summary: Defines the allowed include directories for the peripheral_notification component, with extra rules for the unit test file.

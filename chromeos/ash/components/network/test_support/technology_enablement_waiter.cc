@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TechnologyEnablementWaiter implementation
+// summary: Implements the test-support waiter that blocks a run loop until a network technology matching a pattern reaches the requested enabled or disabled state.
+// ---
+
 #include "chromeos/ash/components/network/test_support/technology_enablement_waiter.h"
 
 #include "chromeos/ash/components/network/network_state_handler.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for network ONC utilities
+// summary: Tests importing networks for a user without overriding existing policy, policy lookup, and related utility behavior.
+// ---
+
 #include "chromeos/ash/components/network/onc/network_onc_utils.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill to ONC translator implementation
+// summary: Implements translation of Shill service dictionaries into ONC objects for the UI, including PKCS11 certificate id handling.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

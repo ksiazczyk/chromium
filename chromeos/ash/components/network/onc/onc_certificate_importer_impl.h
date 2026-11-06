@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC certificate importer implementation header
+// summary: Declares CertificateImporterImpl, which imports ONC client certificates into a target NSS database using an IO task runner.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_CERTIFICATE_IMPORTER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_ONC_ONC_CERTIFICATE_IMPORTER_IMPL_H_
 

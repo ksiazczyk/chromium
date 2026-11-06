@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAuthFactorEngineFactory gmock class
+// summary: Declares a gmock implementation of AuthFactorEngineFactory that fakes factor selection and engine creation in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_MOCK_AUTH_FACTOR_ENGINE_FACTORY_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_MOCK_AUTH_FACTOR_ENGINE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptohomeFingerprintEngine implementation
+// summary: Implements the fingerprint auth factor engine, managing scan preparation, buffered fingerprint attempts and authentication through the cryptohome core.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/engines/cryptohome_fingerprint_engine.h"
 
 #include <string>

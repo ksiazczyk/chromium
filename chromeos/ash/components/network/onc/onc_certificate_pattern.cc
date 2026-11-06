@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC certificate pattern implementation
+// summary: Implements OncCertificatePattern, which matches X.509 certificates against issuer, subject, and PEM-encoded CA patterns parsed from ONC dictionaries.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_certificate_pattern.h"
 
 #include <stddef.h>

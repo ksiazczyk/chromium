@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubModeLifecycle class declaration
+// summary: Declares the manager of the auth hub's outer lifecycle across login screen, in-session, and shutdown modes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_MODE_LIFECYCLE_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_MODE_LIFECYCLE_H_
 

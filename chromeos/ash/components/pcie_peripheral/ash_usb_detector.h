@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshUsbDetector class header
+// summary: Declares the AshUsbDetector singleton that observes USB device add and remove events and notifies ash.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PCIE_PERIPHERAL_ASH_USB_DETECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_PCIE_PERIPHERAL_ASH_USB_DETECTOR_H_
 

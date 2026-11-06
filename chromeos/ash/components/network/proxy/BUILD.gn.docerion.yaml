@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeOS network proxy component
+summary: Defines the proxy source set and unit test targets with their sources and dependencies for the ChromeOS Ash network component.

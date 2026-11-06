@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONC normalizer implementation
+// summary: Implements the Normalizer that removes irrelevant or dispensable fields from ONC objects such as certificates, EAP, VPN, WiFi, and IP configurations.
+// ---
+
 #include "chromeos/ash/components/network/onc/onc_normalizer.h"
 
 #include <string>

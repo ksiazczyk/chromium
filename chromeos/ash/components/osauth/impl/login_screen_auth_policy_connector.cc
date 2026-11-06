@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen auth policy connector implementation
+// summary: Implements AuthPolicyConnector for the login screen, deriving recovery initial state from enterprise management flags in local state prefs.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/login_screen_auth_policy_connector.h"
 
 #include <optional>

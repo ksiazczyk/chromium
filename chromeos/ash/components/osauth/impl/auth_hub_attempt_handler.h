@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubAttemptHandler class declaration
+// summary: Declares the handler that coordinates auth factor engines, computes factor statuses and tracks overall success for one authentication attempt.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_ATTEMPT_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_IMPL_AUTH_HUB_ATTEMPT_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy config handler implementation
+// summary: Implements retrieval and storage of per-network proxy configurations from ONC policies, user prefs, and Shill.
+// ---
+
 #include "chromeos/ash/components/network/proxy/proxy_config_handler.h"
 
 #include <memory>

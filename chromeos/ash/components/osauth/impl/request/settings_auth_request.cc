@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings auth request implementation
+// summary: Implements the auth request for ChromeOS settings, using a decrypt auth session intent and a localized settings prompt.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/request/settings_auth_request.h"
 
 #include "ash/strings/grit/ash_strings.h"

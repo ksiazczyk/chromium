@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN storage prefs registration
+// summary: Registers the pref entries used for legacy pref-based PIN storage, including salt, secret and failed attempt count.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

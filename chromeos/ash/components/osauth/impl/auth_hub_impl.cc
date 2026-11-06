@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHubImpl implementation
+// summary: Implements the AuthHub, coordinating mode, vector, and attempt lifecycles to start, cancel, and shut down authentication flows.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/auth_hub_impl.h"
 #include <memory>
 #include <utility>

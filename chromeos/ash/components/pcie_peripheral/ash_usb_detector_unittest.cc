@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshUsbDetector unit tests
+// summary: Tests USB device addition, removal, and repeated update requests using fake device manager and mock timer.
+// ---
+
 #include "chromeos/ash/components/pcie_peripheral/ash_usb_detector.h"
 
 #include <memory>

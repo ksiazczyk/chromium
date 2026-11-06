@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptohomePinEngine unit tests
+// summary: Unit tests for the PIN engine covering factor lookup, initialization and successful authentication flows using a mocked UserDataAuth client.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/engines/cryptohome_pin_engine.h"
 
 #include "ash/constants/ash_features.h"

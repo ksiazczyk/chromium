@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshUsbDetector implementation
+// summary: Implements detection of connected USB devices, access checks, peripheral notifications, and repeated firmware update requests.
+// ---
+
 #include "chromeos/ash/components/pcie_peripheral/ash_usb_detector.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAuthAttemptConsumer gmock class
+// summary: Declares a gmock implementation of AuthAttemptConsumer that fakes auth attempt outcomes such as success, rejection and cancellation.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_MOCK_AUTH_ATTEMPT_CONSUMER_H_
 #define CHROMEOS_ASH_COMPONENTS_OSAUTH_TEST_SUPPORT_MOCK_AUTH_ATTEMPT_CONSUMER_H_
 

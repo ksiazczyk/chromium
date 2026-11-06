@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn auth request implementation
+// summary: Implements the auth request for WebAuthn ceremonies, reporting success through a finish callback and showing a prompt that includes the relying party ID.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/request/webauthn_auth_request.h"
 
 #include "ash/strings/grit/ash_strings.h"

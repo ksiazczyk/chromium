@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome smart card engine implementation
+// summary: Implements the Cryptohome-based smart card authentication engine and its factory for the Ash OS auth hub.
+// ---
+
 #include "chromeos/ash/components/osauth/impl/engines/cryptohome_smart_card_engine.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy config handler interface
+// summary: Declares functions to get and set the proxy configuration for a network, respecting policies and shared settings.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_NETWORK_PROXY_PROXY_CONFIG_HANDLER_H_
 #define CHROMEOS_ASH_COMPONENTS_NETWORK_PROXY_PROXY_CONFIG_HANDLER_H_
 
