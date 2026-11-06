@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdvertisement base implementation
+// summary: Implements observer registration and data constructors for the base BluetoothAdvertisement class used by platform backends.
+// ---
+
 #include "device/bluetooth/bluetooth_advertisement.h"
 
 #include "base/observer_list.h"

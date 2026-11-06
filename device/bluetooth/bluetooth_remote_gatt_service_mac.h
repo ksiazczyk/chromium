@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac remote GATT service class declaration
+// summary: Declares BluetoothRemoteGattServiceMac, which wraps a CoreBluetooth CBService as a remote GATT service on Apple platforms.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_REMOTE_GATT_SERVICE_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_REMOTE_GATT_SERVICE_MAC_H_
 

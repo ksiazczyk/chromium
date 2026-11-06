@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdvertisementBlueZ implementation
+// summary: Implements BLE advertisement registration and unregistration for BlueZ, mapping D-Bus errors to advertisement error codes.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_advertisement_bluez.h"
 
 #include <memory>

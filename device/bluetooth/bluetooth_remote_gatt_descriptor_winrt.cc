@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT remote GATT descriptor implementation
+// summary: Implements remote GATT descriptor read and write operations on Windows using the WinRT GenericAttributeProfile IGattDescriptor interface.
+// ---
+
 #include "device/bluetooth/bluetooth_remote_gatt_descriptor_winrt.h"
 
 #include <utility>

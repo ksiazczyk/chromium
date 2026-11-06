@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote GATT service class declaration
+// summary: Declares the BluetoothRemoteGattService interface representing remote GATT services received from a peripheral and owned by a BluetoothDevice.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_REMOTE_GATT_SERVICE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_REMOTE_GATT_SERVICE_H_
 

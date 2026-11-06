@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScanRecord struct definitions
+// summary: Provides the default, copy, and move constructor definitions for the ScanRecord struct.
+// ---
+
 #include "device/bluetooth/bluez/ble_scan_parser/scan_record.h"
 
 namespace bluez {

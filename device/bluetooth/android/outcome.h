@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Bluetooth Outcome JNI bindings header
+// summary: Declares the Outcome class providing C++ bindings to the Java org.chromium.device.bluetooth.Outcome for checking success, retrieving results and exception messages.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_ANDROID_OUTCOME_H_
 #define DEVICE_BLUETOOTH_ANDROID_OUTCOME_H_
 

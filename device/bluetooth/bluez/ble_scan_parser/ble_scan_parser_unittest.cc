@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the BLE scan parser
+// summary: Tests UUID and advertising data parsing, covering 16, 32, and 128-bit UUID formats and service UUID lists.
+// ---
+
 #include "device/bluetooth/bluez/ble_scan_parser/ble_scan_parser.h"
 
 #include <stdint.h>

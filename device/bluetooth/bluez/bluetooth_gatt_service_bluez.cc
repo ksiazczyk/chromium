@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattServiceBlueZ implementation
+// summary: Implements BluetoothGattServiceBlueZ, including mapping D-Bus error names to GATT service error codes and providing access to the owning adapter.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_gatt_service_bluez.h"
 
 #include "base/check.h"

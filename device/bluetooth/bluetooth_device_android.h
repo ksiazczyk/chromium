@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BluetoothDevice class declaration
+// summary: Declares BluetoothDeviceAndroid, the JNI-backed Android implementation of BluetoothDevice created together with its Java ChromeBluetoothDevice counterpart.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_DEVICE_ANDROID_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_DEVICE_ANDROID_H_
 

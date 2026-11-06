@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Bluetooth stack initialization
+// summary: Checks whether a Windows Bluetooth stack is available by loading the bthprops.cpl DLL, caching the result.
+// ---
+
 #include "device/bluetooth/bluetooth_init_win.h"
 
 #include <optional>

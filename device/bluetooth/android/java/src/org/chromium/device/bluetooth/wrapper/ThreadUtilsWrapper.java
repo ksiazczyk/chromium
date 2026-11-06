@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadUtilsWrapper
+// summary: Singleton wrapper around Chromium's ThreadUtils for UI thread operations, with a factory hook so tests can substitute a custom instance.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import org.chromium.base.ThreadUtils;

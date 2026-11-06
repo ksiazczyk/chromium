@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT remote GATT service implementation
+// summary: Implements BluetoothRemoteGattServiceWinrt, creating services from a Windows IGattDeviceService and updating characteristics from a GATT discoverer.
+// ---
+
 #include "device/bluetooth/bluetooth_remote_gatt_service_winrt.h"
 
 #include <windows.foundation.collections.h>

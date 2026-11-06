@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows WinRT remote GATT characteristic implementation
+// summary: Implements remote GATT characteristic operations using the Windows Runtime GATT API, including async read, write and notification handling.
+// ---
+
 #include "device/bluetooth/bluetooth_remote_gatt_characteristic_winrt.h"
 
 #include <utility>

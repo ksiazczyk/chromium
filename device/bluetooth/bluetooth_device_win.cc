@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows BluetoothDevice implementation
+// summary: Implements BluetoothDevice on Windows from task manager device state, exposing class, address, name, UUIDs, and service records with many APIs unimplemented.
+// ---
+
 #include "device/bluetooth/bluetooth_device_win.h"
 
 #include <string>

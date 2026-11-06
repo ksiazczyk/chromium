@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceConnectStateReceiverWrapper
+// summary: Broadcast receiver wrapper that listens for Android ACL connected and disconnected intents and reports device connect state changes to a callback.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import android.bluetooth.BluetoothDevice;

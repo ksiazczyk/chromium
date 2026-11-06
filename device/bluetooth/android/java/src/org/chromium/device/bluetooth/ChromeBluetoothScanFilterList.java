@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothScanFilterList
+// summary: Java helper that collects ScanFilter objects into an ArrayList for use by native code.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import android.bluetooth.le.ScanFilter;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows BluetoothDevice class declaration
+// summary: Declares BluetoothDeviceWin, the Windows BluetoothDevice subclass with service record lookup, device state comparison, and adapter-driven updates.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_DEVICE_WIN_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_DEVICE_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust implementation of the BLE advertising data parser
+// summary: Parses BLE advertising packets into flags, name, TX power, service UUIDs, service data, and manufacturer data.
+// ---
+
 mod cxx;
 
 use std::pin::Pin;

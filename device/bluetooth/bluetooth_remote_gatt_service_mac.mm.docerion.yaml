@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_remote_gatt_service_mac.mm.
+type: source
+title: Mac remote GATT service implementation
+summary: Implements BluetoothRemoteGattServiceMac, handling characteristic and descriptor discovery and notifications via CoreBluetooth.

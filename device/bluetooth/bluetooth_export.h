@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth export macro header
+// summary: Defines the DEVICE_BLUETOOTH_EXPORT macro for DLL import and export when building the Bluetooth code as a component on Windows.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_EXPORT_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_EXPORT_H_
 

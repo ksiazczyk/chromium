@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth GattService unit tests
+// summary: Unit tests for the Mojo GattService implementation using fake local GATT objects and mock Bluetooth adapter and device.
+// ---
+
 #include "device/bluetooth/gatt_service.h"
 
 #include "base/test/bind.h"

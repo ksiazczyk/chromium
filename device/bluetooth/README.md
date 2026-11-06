@@ -1,3 +1,13 @@
+---
+type: readme
+title: Bluetooth directory README
+summary: Overview of the cross-platform Bluetooth Classic and Low Energy abstraction, covering platform support, maintainer history, future work, Android and ChromeOS details, and testing.
+relations:
+  - references /device/bluetooth/test/android/java/src/org/chromium/device/bluetooth/Fakes.java
+  - references /device/bluetooth/bluetooth_adapter_android.h
+  - references /device/bluetooth/bluetooth_device_android.h
+---
+
 # Bluetooth
 
 `device/bluetooth` abstracts

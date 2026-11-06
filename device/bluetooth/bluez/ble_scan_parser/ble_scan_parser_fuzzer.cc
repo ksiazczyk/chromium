@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: libFuzzer harness for BLE scan parsing
+// summary: Feeds arbitrary input spans to ParseBleScan to verify the parser never crashes or misbehaves.
+// ---
+
 #include "device/bluetooth/bluez/ble_scan_parser/ble_scan_parser.h"
 
 #include <stdint.h>

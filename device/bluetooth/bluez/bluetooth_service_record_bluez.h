@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothServiceRecordBlueZ class declaration
+// summary: Declares a Bluetooth service record with accessors to list, read, add and check attributes, plus error codes.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_SERVICE_RECORD_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_SERVICE_RECORD_BLUEZ_H_
 

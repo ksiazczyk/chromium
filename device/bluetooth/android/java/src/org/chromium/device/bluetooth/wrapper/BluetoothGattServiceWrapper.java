@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattServiceWrapper for GATT services
+// summary: Java wrapper around android.bluetooth.BluetoothGattService exposing wrapped characteristics, instance ID, and UUID via the device wrapper cache.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import android.bluetooth.BluetoothGattCharacteristic;

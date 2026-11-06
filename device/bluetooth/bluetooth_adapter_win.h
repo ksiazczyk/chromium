@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapterWin class declaration
+// summary: Declares the Windows Bluetooth adapter class with discovery status handling and BluetoothTaskManagerWin observer callbacks.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_WIN_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_WIN_H_
 

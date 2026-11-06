@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo Adapter class declaration
+// summary: Declares the Adapter class that implements mojom::Adapter and observes BluetoothAdapter changes to expose adapter capabilities and devices over Mojo.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_ADAPTER_H_
 #define DEVICE_BLUETOOTH_ADAPTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceBondStateReceiverWrapper for bond state broadcasts
+// summary: BroadcastReceiver wrapper that listens for Bluetooth bond state changes and notifies a callback with the wrapped device and new bond state.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import android.bluetooth.BluetoothDevice;

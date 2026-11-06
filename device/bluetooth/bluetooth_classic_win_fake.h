@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BluetoothClassicWrapper header for Windows tests
+// summary: Declares BluetoothClassicWrapperFake and a BluetoothRadio struct used to simulate radios in Windows Bluetooth tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_CLASSIC_WIN_FAKE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_CLASSIC_WIN_FAKE_H_
 

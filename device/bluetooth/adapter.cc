@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo Adapter implementation
+// summary: Implements the Mojo Adapter interface, handling connect, discovery, advertisement, and service requests on top of the platform BluetoothAdapter abstraction.
+// ---
+
 #include "device/bluetooth/adapter.h"
 
 #include <algorithm>

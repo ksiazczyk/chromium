@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothLocalGattDescriptor unit tests
+// summary: Unit tests covering read and write requests on local GATT descriptors, enabled on ChromeOS and Linux and disabled on other platforms.
+// ---
+
 #include "device/bluetooth/bluetooth_local_gatt_descriptor.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote GATT service unit tests
+// summary: Unit tests for BluetoothRemoteGattService behavior such as discovery completion and unique service identifiers, parameterized per platform backend.
+// ---
+
 #include "base/logging.h"
 #include "base/run_loop.h"
 #include "build/build_config.h"

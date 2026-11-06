@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristicWrapper for GATT characteristics
+// summary: Java wrapper around android.bluetooth.BluetoothGattCharacteristic exposing descriptors, UUID, properties, and value access through the device wrapper cache.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import android.bluetooth.BluetoothGattCharacteristic;

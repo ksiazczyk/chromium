@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Bluetooth connection logger
+// summary: Verifies that repeated connections increment the AllConnections histogram while UniqueConnectionsInSession counts each device once.
+// ---
+
 #include "device/bluetooth/chromeos/bluetooth_connection_logger.h"
 
 #include "base/test/metrics/histogram_tester.h"

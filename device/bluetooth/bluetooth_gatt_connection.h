@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattConnection class declaration
+// summary: Declares a GATT connection object that keeps a Bluetooth device connection alive while at least one instance remains active.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_GATT_CONNECTION_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_GATT_CONNECTION_H_
 

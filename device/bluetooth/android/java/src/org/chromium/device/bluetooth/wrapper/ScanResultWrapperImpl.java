@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScanResultWrapperImpl
+// summary: Implementation of ScanResultWrapper that delegates each accessor to an underlying Android ScanResult and its scan record.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

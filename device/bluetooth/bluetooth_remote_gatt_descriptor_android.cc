@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android remote GATT descriptor implementation
+// summary: Implements remote GATT descriptor operations for Android through JNI bindings to the ChromeBluetoothRemoteGattDescriptor Java object.
+// ---
+
 #include "device/bluetooth/bluetooth_remote_gatt_descriptor_android.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of multiple-flags-packets.
+type: test
+title: Multiple flags packets BLE scan test data
+summary: Binary BLE advertisement fixture containing multiple flags packets, used as test input for the BlueZ BLE scan parser.

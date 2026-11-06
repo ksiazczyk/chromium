@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE scan parser bridge wrapper function declarations
+// summary: Declares the ble_scan_parser_bridge helper functions for populating ScanRecord fields plus a UuidListBuilderForTest struct used by the Rust cxx bridge and tests.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLE_SCAN_PARSER_WRAPPER_FUNCTIONS_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLE_SCAN_PARSER_WRAPPER_FUNCTIONS_H_
 

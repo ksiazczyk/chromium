@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyScanFilter class declaration
+// summary: Declares the BluetoothLowEnergyScanFilter class with advertisement data types, distance range presets, filter patterns and validating factory methods.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_SCAN_FILTER_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_SCAN_FILTER_H_
 

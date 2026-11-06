@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceWinrt class declaration
+// summary: Declares the Windows WinRT BluetoothDevice subclass with pairing, connection and GATT methods, address canonicalization and advertisement data constants.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_DEVICE_WINRT_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_DEVICE_WINRT_H_
 

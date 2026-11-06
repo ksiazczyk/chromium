@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_remote_gatt_descriptor_mac.mm.
+type: source
+title: macOS remote GATT descriptor implementation
+summary: Implements reading and writing remote GATT descriptors on macOS via CoreBluetooth, converting descriptor values from NSData, NSString, or NSNumber.

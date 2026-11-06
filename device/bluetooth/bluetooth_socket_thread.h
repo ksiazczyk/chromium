@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothSocketThread class declaration
+// summary: Declares a reference-counted thread abstraction shared by BlueZ and Windows Bluetooth sockets to run IO operations on a dedicated thread.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_THREAD_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_THREAD_H_
 

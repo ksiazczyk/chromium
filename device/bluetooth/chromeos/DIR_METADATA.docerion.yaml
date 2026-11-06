@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the ChromeOS Bluetooth directory
+summary: Directory metadata assigning this code to Buganizer component 1131776 and the cros-device-enablement team email.

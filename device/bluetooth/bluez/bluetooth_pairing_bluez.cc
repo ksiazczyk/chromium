@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothPairingBlueZ implementation
+// summary: Implements pairing logic for a BlueZ Bluetooth device, forwarding PIN code, passkey, and confirmation requests between the D-Bus agent and the pairing delegate.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_pairing_bluez.h"
 
 #include "base/logging.h"

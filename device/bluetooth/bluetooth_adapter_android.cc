@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BluetoothAdapter implementation
+// summary: Implements BluetoothAdapter on Android via JNI bindings to the Java ChromeBluetoothAdapter class, handling adapter state, scanning, and device management.
+// ---
+
 #include "device/bluetooth/bluetooth_adapter_android.h"
 
 #include <memory>

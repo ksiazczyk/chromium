@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyAdapterApple class declaration
+// summary: Declares the BluetoothAdapter implementation for Apple platforms built on CoreBluetooth, covering discovery, GATT connections, and advertisements.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_ADAPTER_APPLE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOW_ENERGY_ADAPTER_APPLE_H_
 

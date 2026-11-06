@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothRemoteGattCharacteristic
+// summary: Java wrapper exposing android.bluetooth.BluetoothGattCharacteristic to C++ BluetoothRemoteGattCharacteristicAndroid, forwarding read, write and notification callbacks.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

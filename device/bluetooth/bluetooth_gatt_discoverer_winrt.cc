@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT GATT discovery implementation
+// summary: Implements GATT service, characteristic, and descriptor discovery over the Windows Runtime Bluetooth LE APIs with status and error logging.
+// ---
+
 #include "device/bluetooth/bluetooth_gatt_discoverer_winrt.h"
 
 #include <windows.foundation.collections.h>

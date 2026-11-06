@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth Mojo Device class declaration
+// summary: Declares the Device class that implements the Mojo Device interface and observes adapter changes for a Bluetooth GATT connection.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DEVICE_H_
 #define DEVICE_BLUETOOTH_DEVICE_H_
 

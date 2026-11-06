@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothScanFilterBuilder
+// summary: Java wrapper around android.bluetooth.le.ScanFilter.Builder letting C++ build BLE scan filters by service UUID and device name.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import android.bluetooth.le.ScanFilter;

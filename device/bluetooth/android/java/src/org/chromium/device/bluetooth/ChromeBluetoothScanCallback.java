@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothScanCallback
+// summary: Interface invoked by ChromeBluetoothLeScanner to report scan results, scan failures and scan completion.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import org.chromium.build.annotations.NullMarked;

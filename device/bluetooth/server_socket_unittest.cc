@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServerSocket unit tests
+// summary: Unit tests for the Mojo ServerSocket, verifying socket teardown on destruction and successful and failing accept flows using fake and mock Bluetooth objects.
+// ---
+
 #include "device/bluetooth/server_socket.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_adapter_mac.mm.
+type: source
+title: BluetoothAdapterMac implementation
+summary: Implements the macOS Bluetooth adapter, including IOBluetooth power control, device connect notifications via an Objective-C listener bridge, and discovery.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local GATT descriptor factory implementation
+// summary: Creates local GATT descriptors, dispatching to the BlueZ or Floss platform implementation on Linux and ChromeOS.
+// ---
+
 #include "device/bluetooth/bluetooth_local_gatt_descriptor.h"
 
 #include "base/notimplemented.h"

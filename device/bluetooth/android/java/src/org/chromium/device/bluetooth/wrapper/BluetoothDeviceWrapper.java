@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceWrapper for the Android Bluetooth device
+// summary: Java wrapper around android.bluetooth.BluetoothDevice offering GATT connection, RFCOMM socket creation, and property access while caching wrapped characteristics and descriptors.
+// ---
+
 package org.chromium.device.bluetooth.wrapper;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_adapter_mac_unittest.mm.
+type: test
+title: BluetoothAdapterMac unit tests
+summary: Unit tests for the macOS Bluetooth adapter covering adapter polling, power state changes, and classic device addition and connection.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothPairingBlueZ header
+// summary: Declares BluetoothPairingBlueZ, a bridge that manages an individual device pairing between the BlueZ adapter and the device's pairing delegate.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_PAIRING_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_PAIRING_BLUEZ_H_
 

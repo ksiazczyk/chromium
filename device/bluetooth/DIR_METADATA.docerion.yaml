@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bluetooth DIR_METADATA
+summary: Directory metadata assigning the IO>Bluetooth monorail component, the web-bluetooth team email, and a Buganizer component ID.

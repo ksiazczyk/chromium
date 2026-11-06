@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlueZ feature flag declarations
+// summary: Declares the exported BlueZ feature flag kLinkLayerPrivacy for use across the Bluetooth stack.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUEZ_FEATURES_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUEZ_FEATURES_H_
 

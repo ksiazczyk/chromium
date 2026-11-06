@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothRemoteGattDescriptor
+// summary: Java wrapper exposing android.bluetooth.BluetoothGattDescriptor to C++ BluetoothRemoteGattDescriptorAndroid, forwarding descriptor read and write results.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

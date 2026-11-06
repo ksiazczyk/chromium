@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothRemoteGattServiceBlueZ header
+// summary: Declares the BlueZ implementation of remote GATT services, including observer hooks for characteristic and descriptor changes and service change notifications.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_REMOTE_GATT_SERVICE_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_REMOTE_GATT_SERVICE_BLUEZ_H_
 

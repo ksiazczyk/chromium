@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothServiceRecordWin unit tests
+// summary: Unit tests verifying that Windows Bluetooth service records parse SDP bytes into the correct UUID, RFCOMM support and channel, and device address.
+// ---
+
 #include <stdint.h>
 
 #include "base/strings/string_number_conversions.h"

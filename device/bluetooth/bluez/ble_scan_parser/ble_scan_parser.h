@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the ParseBleScan entry point
+// summary: Declares the ParseBleScan function that returns an optional parsed ScanRecord from raw bytes.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLE_SCAN_PARSER_BLE_SCAN_PARSER_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLE_SCAN_PARSER_BLE_SCAN_PARSER_H_
 

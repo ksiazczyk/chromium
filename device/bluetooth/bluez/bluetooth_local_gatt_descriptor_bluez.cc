@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLocalGattDescriptorBlueZ implementation
+// summary: Implements BluetoothLocalGattDescriptorBlueZ, creating local GATT descriptors with a UUID and permissions attached to a characteristic.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_local_gatt_descriptor_bluez.h"
 
 #include <string>

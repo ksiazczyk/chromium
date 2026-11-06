@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothRemoteGattCharacteristicBlueZ implementation
+// summary: Implements remote GATT characteristics on BlueZ platforms, covering properties, value reads and writes, descriptors, and notification subscriptions over D-Bus.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_remote_gatt_characteristic_bluez.h"
 
 #include <iterator>

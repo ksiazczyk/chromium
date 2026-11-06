@@ -1,0 +1,4 @@
+# Docerion header of multiple-byte-tx-power-field.
+type: test
+title: Multiple-byte TX power field BLE scan test data
+summary: Binary BLE advertisement fixture with a multi-byte TX power field, used as test input for the BlueZ BLE scan parser.

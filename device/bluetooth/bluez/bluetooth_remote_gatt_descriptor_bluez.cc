@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothRemoteGattDescriptorBlueZ implementation
+// summary: Implements remote GATT characteristic descriptors on BlueZ platforms, reading and writing descriptor values through the D-Bus GATT descriptor client.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_remote_gatt_descriptor_bluez.h"
 
 #include <iterator>

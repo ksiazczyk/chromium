@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDiscoverySession implementation
+// summary: Implements discovery session lifecycle handling, tracking session status and stopping sessions through the owning Bluetooth adapter.
+// ---
+
 #include "device/bluetooth/bluetooth_discovery_session.h"
 
 #include <memory>

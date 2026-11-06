@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac RFCOMM channel class declaration
+// summary: Declares BluetoothRfcommChannelMac, a wrapper around an IOBluetooth RFCOMM channel used by Mac Bluetooth sockets.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_RFCOMM_CHANNEL_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_RFCOMM_CHANNEL_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBluetoothDevice
+// summary: Java wrapper exposing android.bluetooth.BluetoothDevice to C++ BluetoothDeviceAndroid, managing GATT connections, pairing and device properties.
+// ---
+
 package org.chromium.device.bluetooth;
 
 import android.bluetooth.BluetoothDevice;

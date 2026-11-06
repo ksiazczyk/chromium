@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdvertisementBlueZ class declaration
+// summary: Declares BluetoothAdvertisementBlueZ, the BluetoothAdvertisement implementation for BlueZ platforms acting as a D-Bus advertisement provider delegate.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_ADVERTISEMENT_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_ADVERTISEMENT_BLUEZ_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth local GATT service Mojo implementation
+// summary: Implements the Mojo GattService interface for local GATT server services, creating characteristics and handling read, write and notification requests.
+// ---
+
 #include "device/bluetooth/gatt_service.h"
 
 #include "base/functional/callback_helpers.h"

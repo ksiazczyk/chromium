@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows BluetoothDevice unit tests
+// summary: Unit tests for BluetoothDeviceWin verifying UUID extraction from audio and video SDP records and equality checks against device state.
+// ---
+
 #include "device/bluetooth/bluetooth_device_win.h"
 
 #include <memory>

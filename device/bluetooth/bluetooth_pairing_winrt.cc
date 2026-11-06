@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothPairingWinrt implementation
+// summary: Implements custom WinRT Bluetooth pairing on Windows, handling PIN exchange, pairing requests, deferrals and result status mapping.
+// ---
+
 #include "device/bluetooth/bluetooth_pairing_winrt.h"
 
 #include <utility>

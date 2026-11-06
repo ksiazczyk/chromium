@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattCharacteristic class declaration
+// summary: Declares the BluetoothGattCharacteristic class with property, permission, and notification type enums for local or remote GATT characteristics.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_GATT_CHARACTERISTIC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_GATT_CHARACTERISTIC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote GATT service base implementation
+// summary: Provides shared BluetoothRemoteGattService logic for managing characteristics, lookup by identifier or UUID, and discovery-complete state.
+// ---
+
 #include "device/bluetooth/bluetooth_remote_gatt_service.h"
 
 #include <utility>

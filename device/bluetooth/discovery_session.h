@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth Mojo DiscoverySession class declaration
+// summary: Declares the DiscoverySession class that wraps a platform BluetoothDiscoverySession for the Mojo adapter interface.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_DISCOVERY_SESSION_H_
 #define DEVICE_BLUETOOTH_DISCOVERY_SESSION_H_
 

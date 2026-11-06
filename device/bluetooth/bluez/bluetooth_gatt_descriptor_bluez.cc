@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptorBlueZ implementation
+// summary: Implements the base BlueZ GATT descriptor class, providing an identifier derived from the D-Bus object path.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_gatt_descriptor_bluez.h"
 
 #include "device/bluetooth/bluez/bluetooth_gatt_characteristic_bluez.h"

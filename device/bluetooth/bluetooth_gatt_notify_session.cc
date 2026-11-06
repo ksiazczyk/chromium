@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattNotifySession implementation
+// summary: Implements notify session handling that tracks active GATT characteristic notifications and stops them when the session ends.
+// ---
+
 #include "device/bluetooth/bluetooth_gatt_notify_session.h"
 
 #include "base/functional/bind.h"

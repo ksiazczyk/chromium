@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothLowEnergyScanFilter unit tests
+// summary: Unit tests for BluetoothLowEnergyScanFilter creation, covering valid configurations and invalid patterns, timeouts and RSSI sampling periods.
+// ---
+
 #include "device/bluetooth/bluetooth_low_energy_scan_filter.h"
 
 #include <stdint.h>

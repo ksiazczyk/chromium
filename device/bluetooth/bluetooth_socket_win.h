@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothSocketWin class declaration
+// summary: Declares the Windows BluetoothSocket implementation with connect, listen, and accept methods built on BluetoothSocketNet and WinSock.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_WIN_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_WIN_H_
 

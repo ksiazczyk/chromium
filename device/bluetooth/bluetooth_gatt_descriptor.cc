@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothGattDescriptor UUID accessors
+// summary: Implements accessors for the standard GATT descriptor UUIDs such as extended properties, user description, and client characteristic configuration.
+// ---
+
 #include "device/bluetooth/bluetooth_gatt_descriptor.h"
 
 #include <stddef.h>

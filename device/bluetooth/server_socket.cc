@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth Mojo ServerSocket implementation
+// summary: Implements the Mojo ServerSocket interface, accepting incoming Bluetooth socket connections and wiring data pipes for send and receive streams.
+// ---
+
 #include "device/bluetooth/server_socket.h"
 
 #include "base/check.h"

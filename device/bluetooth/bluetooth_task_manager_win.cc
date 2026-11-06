@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Bluetooth task manager implementation
+// summary: Implements polling of Windows Bluetooth adapters and devices on a background task runner, reporting adapter state, discovery, and device updates to observers.
+// ---
+
 #include "device/bluetooth/bluetooth_task_manager_win.h"
 
 #include <winsock2.h>

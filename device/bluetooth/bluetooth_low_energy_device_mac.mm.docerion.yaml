@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_device_mac.mm.
+type: source
+title: Mac Bluetooth low energy device implementation
+summary: Implements BluetoothLowEnergyDeviceMac with device identity, pairing, connection, and GATT event handling for CoreBluetooth peripherals.

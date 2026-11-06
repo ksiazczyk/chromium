@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Bluetooth feature flag declarations
+// summary: Header declaring ChromeOS Bluetooth feature flags, including Floss telephony and collection of btsnoop logs from the Bluetooth internals page.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_CHROMEOS_PLATFORM_FEATURES_H_
 #define DEVICE_BLUETOOTH_CHROMEOS_PLATFORM_FEATURES_H_
 

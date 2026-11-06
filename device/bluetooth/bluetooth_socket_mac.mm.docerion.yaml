@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_socket_mac.mm.
+type: source
+title: macOS Bluetooth socket implementation
+summary: Implements BluetoothSocketMac with IOBluetooth, including an SDP query listener helper, RFCOMM and L2CAP channel handling, and socket I/O.

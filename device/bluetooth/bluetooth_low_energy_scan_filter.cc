@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyScanFilter implementation
+// summary: Implements creation and validation of Bluetooth LE scan filters, mapping range presets to RSSI thresholds and enforcing timeout, pattern and sampling limits.
+// ---
+
 #include "device/bluetooth/bluetooth_low_energy_scan_filter.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_adapter_apple_unittest.mm.
+type: test
+title: BluetoothLowEnergyAdapterApple unit tests
+summary: Tests the Apple low energy adapter with a fake device watcher and mock CoreBluetooth objects, simulating property list updates and discovery.

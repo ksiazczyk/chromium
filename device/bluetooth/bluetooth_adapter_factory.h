@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapterFactory class declaration
+// summary: Declares the BluetoothAdapterFactory for obtaining the shared adapter instance, checking Bluetooth and Low Energy support, and setting test adapters.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_FACTORY_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_FACTORY_H_
 

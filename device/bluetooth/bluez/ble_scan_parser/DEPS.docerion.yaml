@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the BLE scan parser directory
+summary: Grants this directory include access to the cxx bridge header from third_party Rust.

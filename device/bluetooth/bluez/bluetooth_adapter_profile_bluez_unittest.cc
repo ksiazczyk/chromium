@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BluetoothAdapterProfileBlueZ
+// summary: Unit tests for BluetoothAdapterProfileBlueZ covering profile registration, delegates and connections with fake D-Bus clients, skipped when Floss is enabled.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_adapter_profile_bluez.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE scan parser bridge wrapper function implementations
+// summary: Implements the ble_scan_parser_bridge helper functions that set advertising flags, TX power, name, service and manufacturer data on a ScanRecord from the Rust cxx bridge.
+// ---
+
 #include "device/bluetooth/bluez/ble_scan_parser/wrapper_functions.h"
 
 #include <stdint.h>

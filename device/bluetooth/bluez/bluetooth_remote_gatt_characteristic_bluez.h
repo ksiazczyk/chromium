@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothRemoteGattCharacteristicBlueZ header
+// summary: Declares the BlueZ implementation of remote GATT characteristics, exposing UUID, properties, value access, and read, write, and notification methods.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_REMOTE_GATT_CHARACTERISTIC_BLUEZ_H_
 #define DEVICE_BLUETOOTH_BLUEZ_BLUETOOTH_REMOTE_GATT_CHARACTERISTIC_BLUEZ_H_
 

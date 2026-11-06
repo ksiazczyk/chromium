@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_adapter_mac_permission.mm.
+type: source
+title: macOS Bluetooth permission status implementation
+summary: Maps CoreBluetooth authorization states to BluetoothAdapter permission status values for macOS.

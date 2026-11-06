@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth Mojo Device implementation
+// summary: Implements the Mojo Device interface, exposing device info, GATT services, characteristics and descriptors for a connected Bluetooth device.
+// ---
+
 #include <utility>
 #include <vector>
 

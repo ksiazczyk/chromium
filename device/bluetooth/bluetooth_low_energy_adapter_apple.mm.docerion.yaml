@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_low_energy_adapter_apple.mm.
+type: source
+title: BluetoothLowEnergyAdapterApple implementation
+summary: Implements the CoreBluetooth-backed Apple Bluetooth adapter, wiring central and peripheral manager delegates and handling adapter lifecycle.

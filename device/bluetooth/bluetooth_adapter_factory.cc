@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapterFactory implementation
+// summary: Implements the BluetoothAdapterFactory singleton that creates and initializes the shared adapter, reports platform and LE support, and supports test overrides.
+// ---
+
 #include "device/bluetooth/bluetooth_adapter_factory.h"
 
 #include <memory>

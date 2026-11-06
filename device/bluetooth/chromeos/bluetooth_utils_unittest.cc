@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeOS Bluetooth utilities
+// summary: Tests the Bluetooth utilities with mock adapters and devices, covering device filtering and metric recording behavior.
+// ---
+
 #include "device/bluetooth/chromeos/bluetooth_utils.h"
 
 #include "ash/constants/ash_features.h"

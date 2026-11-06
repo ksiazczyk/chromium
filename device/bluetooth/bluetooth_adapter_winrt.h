@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT Bluetooth adapter class declaration
+// summary: Declares the BluetoothAdapterWinrt class, which implements the BluetoothAdapter interface via Windows Runtime APIs for radio and device enumeration.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_WINRT_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_WINRT_H_
 

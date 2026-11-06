@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDiscoverySession class declaration
+// summary: Declares a discovery session class representing active or inactive device discovery, with status tracking, stop requests and filter access.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_DISCOVERY_SESSION_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_DISCOVERY_SESSION_H_
 

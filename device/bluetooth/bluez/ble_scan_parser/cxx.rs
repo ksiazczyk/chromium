@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CXX bridge between Rust parser and C++
+// summary: Defines the cxx bridge exposing ScanRecord setters and parse functions across the Rust and C++ sides.
+// ---
+
 #[cxx::bridge(namespace=ble_scan_parser_bridge)]
 pub mod ffi {
     // Note: this is only exposed for testing purposes.

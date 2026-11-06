@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServerSocket Mojo implementation header
+// summary: Declares the ServerSocket class implementing the Mojo ServerSocket interface, which accepts incoming connections from remote devices via a BluetoothSocket.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_SERVER_SOCKET_H_
 #define DEVICE_BLUETOOTH_SERVER_SOCKET_H_
 

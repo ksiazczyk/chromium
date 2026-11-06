@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLocalGattService class declaration
+// summary: Declares the local GATT service class and its delegate interface for serving characteristic reads and writes to remote central devices.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_LOCAL_GATT_SERVICE_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_LOCAL_GATT_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlueZ metrics recorder header
+// summary: Declares the ConnectToServiceInsecurelyResult and ConnectToServiceFailureReason enums plus functions to extract and record these metrics from BlueZ error strings.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUEZ_METRICS_RECORDER_H_
 #define DEVICE_BLUETOOTH_BLUEZ_METRICS_RECORDER_H_
 

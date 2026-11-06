@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Advertisement unit tests
+// summary: Unit tests verifying that the Advertisement wrapper unregisters its BluetoothAdvertisement on destruction and on explicit Unregister calls.
+// ---
+
 #include "device/bluetooth/advertisement.h"
 
 #include "base/run_loop.h"

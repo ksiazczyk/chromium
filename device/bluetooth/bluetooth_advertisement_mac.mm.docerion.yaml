@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_advertisement_mac.mm.
+type: source
+title: Mac Bluetooth advertisement implementation
+summary: Implements BluetoothAdvertisementMac lifecycle handling, including status transitions, unregister behavior, and success or error callback dispatch.

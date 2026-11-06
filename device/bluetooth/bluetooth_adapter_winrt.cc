@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT Bluetooth adapter implementation
+// summary: Implements the Bluetooth adapter on Windows using Windows Runtime APIs for radios, device watching, discovery, and LE advertisement reception.
+// ---
+
 #include "device/bluetooth/bluetooth_adapter_winrt.h"
 
 #include <windows.foundation.collections.h>

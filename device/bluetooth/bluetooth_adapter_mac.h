@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapterMac class declaration
+// summary: Declares the macOS Bluetooth adapter class with classic discovery, RFCOMM and L2CAP service creation, and host controller power handling.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_MAC_H_
 

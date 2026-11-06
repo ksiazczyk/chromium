@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Bluetooth feature flags
+// summary: Defines ChromeOS Bluetooth base::Feature flags for Floss telephony and btsnoop internals collection with their default enabled states.
+// ---
+
 #include "device/bluetooth/chromeos_platform_features.h"
 
 namespace chromeos::bluetooth::features {

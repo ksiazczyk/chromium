@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket unit tests
+// summary: Unit tests for the Mojo Socket, checking data pipe receive and send behavior, success and error paths, and the single outstanding BluetoothSocket receive.
+// ---
+
 #include "device/bluetooth/socket.h"
 
 #include <optional>

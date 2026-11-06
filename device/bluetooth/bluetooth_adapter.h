@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapter class declaration
+// summary: Declares the BluetoothAdapter interface representing a local Bluetooth adapter, with observer notifications, device discovery, and platform-specific subclasses.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_H_
 

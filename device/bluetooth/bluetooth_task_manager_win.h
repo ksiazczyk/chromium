@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothTaskManagerWin class declaration
+// summary: Declares the Windows Bluetooth task manager that delegates blocking platform API calls to a worker task runner and notifies observers of state changes.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_TASK_MANAGER_WIN_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_TASK_MANAGER_WIN_H_
 

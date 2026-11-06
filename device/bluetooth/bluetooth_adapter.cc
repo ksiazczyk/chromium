@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAdapter base implementation
+// summary: Implements the platform-independent parts of the BluetoothAdapter base class, including observer management, power state handling, and adapter creation for unsupported platforms.
+// ---
+
 #include "device/bluetooth/bluetooth_adapter.h"
 
 #include <memory>

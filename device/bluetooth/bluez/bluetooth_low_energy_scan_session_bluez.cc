@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothLowEnergyScanSessionBlueZ implementation
+// summary: Implements BluetoothLowEnergyScanSessionBlueZ, forwarding scan session activation, release and device found or lost events to its delegate.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_low_energy_scan_session_bluez.h"
 
 #include <optional>

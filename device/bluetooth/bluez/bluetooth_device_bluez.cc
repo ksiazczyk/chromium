@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceBlueZ implementation
+// summary: Implements BluetoothDevice for platforms using BlueZ, handling pairing, connections, service records, sockets and D-Bus device properties.
+// ---
+
 #include "device/bluetooth/bluez/bluetooth_device_bluez.h"
 
 #include <stdio.h>

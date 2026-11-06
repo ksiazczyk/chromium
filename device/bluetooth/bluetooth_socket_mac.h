@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS Bluetooth socket class declaration
+// summary: Declares BluetoothSocketMac, implementing connect via SDP service discovery and RFCOMM or L2CAP service listening using IOBluetooth.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_MAC_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_SOCKET_MAC_H_
 

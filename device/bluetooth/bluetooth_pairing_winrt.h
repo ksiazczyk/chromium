@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothPairingWinrt class declaration
+// summary: Declares BluetoothPairingWinrt, which encapsulates WinRT custom pairing logic including PIN code handling, confirmation, rejection and cancellation.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_PAIRING_WINRT_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_PAIRING_WINRT_H_
 

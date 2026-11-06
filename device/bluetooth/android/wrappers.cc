@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth adapter wrapper JNI implementation
+// summary: Implements the JNI call to Java BluetoothAdapterWrapper.createWithDefaultAdapter() to obtain the default Android Bluetooth adapter.
+// ---
+
 #include "device/bluetooth/android/wrappers.h"
 
 #include "base/android/jni_android.h"

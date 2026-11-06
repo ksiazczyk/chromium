@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ entry point for BLE scan parsing
+// summary: Implements ParseBleScan, delegating to the Rust parser via the cxx bridge and logging a UTF-8 name histogram.
+// ---
+
 #include "device/bluetooth/bluez/ble_scan_parser/ble_scan_parser.h"
 
 #include <optional>

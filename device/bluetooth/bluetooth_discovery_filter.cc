@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDiscoveryFilter implementation
+// summary: Implements discovery filtering by transport, RSSI, pathloss, UUIDs and device filters, including copying and merging of two filters.
+// ---
+
 #include "device/bluetooth/bluetooth_discovery_filter.h"
 
 #include <algorithm>

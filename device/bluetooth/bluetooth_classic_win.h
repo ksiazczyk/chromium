@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothClassicWrapper interface for Windows Bluetooth APIs
+// summary: Declares a virtual wrapper around Windows Bluetooth radio and device APIs so tests can substitute fakes.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_CLASSIC_WIN_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_CLASSIC_WIN_H_
 

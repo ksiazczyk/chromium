@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BluetoothAdapter class declaration
+// summary: Declares BluetoothAdapterAndroid, the Android implementation of BluetoothAdapter that wraps a Java adapter object and owns C++ device objects.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_ANDROID_H_
 #define DEVICE_BLUETOOTH_BLUETOOTH_ADAPTER_ANDROID_H_
 

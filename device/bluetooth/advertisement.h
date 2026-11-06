@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo Advertisement class declaration
+// summary: Declares the Advertisement class implementing mojom::Advertisement, strongly bound to the Adapter's message pipe and wrapping a BluetoothAdvertisement.
+// ---
+
 #ifndef DEVICE_BLUETOOTH_ADVERTISEMENT_H_
 #define DEVICE_BLUETOOTH_ADVERTISEMENT_H_
 
