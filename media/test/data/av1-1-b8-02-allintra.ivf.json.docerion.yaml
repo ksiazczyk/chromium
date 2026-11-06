@@ -1,0 +1,4 @@
+# Docerion header of av1-1-b8-02-allintra.ivf.json.
+type: data
+title: AV1 all-intra IVF stream metadata
+summary: JSON metadata for av1-1-b8-02-allintra.ivf with profile, dimensions, frame rate, frame counts and per-frame MD5 checksums.

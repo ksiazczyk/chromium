@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for media test data
+summary: Delegates ownership of the media test data directory to the owners listed in media/gpu/OWNERS.

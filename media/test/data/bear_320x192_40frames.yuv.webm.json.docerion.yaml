@@ -1,0 +1,4 @@
+# Docerion header of bear_320x192_40frames.yuv.webm.json.
+type: test
+title: Bear 320x192 40-frame VP9 WebM clip metadata
+summary: Metadata for the bear_320x192 40-frame VP9 WebM test clip, listing profile, dimensions, frame count and frame rate.

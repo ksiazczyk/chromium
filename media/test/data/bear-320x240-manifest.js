@@ -1,6 +1,13 @@
 // Copyright 2012 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: data
+// title: Bear 320x240 WebM manifest
+// summary: JavaScript manifest giving duration, codec type and cluster offsets, sizes and timecodes for bear-320x240.webm.
+// ---
+
 {
   duration: 2.744000,
   type: 'video/webm; codecs="vp8, vorbis"',

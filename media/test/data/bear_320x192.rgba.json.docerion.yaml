@@ -1,0 +1,4 @@
+# Docerion header of bear_320x192.rgba.json.
+type: test
+title: Bear 320x192 RGBA frame metadata
+summary: Metadata for the bear_320x192 RGBA test frame, recording pixel format, dimensions and a checksum for verification.

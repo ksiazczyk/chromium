@@ -1,0 +1,4 @@
+# Docerion header of COPYING.
+type: reference
+title: Khronos license for H.264 test video files
+summary: MIT-style license text covering the npot-video.h264 and red-green.h264 test files contributed by the Khronos Group.

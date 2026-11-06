@@ -1,3 +1,13 @@
+---
+type: readme
+title: Media Test Data
+summary: Lists the media test files with their purpose and ffmpeg commands so they can be regenerated or updated.
+relations:
+  - documents /media/test/data/bear-320x240.webm
+  - documents /media/test/data/bear-320x240-video-only.webm
+  - documents /media/test/data/bear-320x240-audio-only.webm
+---
+
 # Media Test Data
 
 [TOC]

@@ -1,0 +1,4 @@
+# Docerion header of bear-1280x720-hls-clear-mpl.m3u8.
+type: data
+title: HLS playlist for bear-1280x720
+summary: HLS media playlist that lists the bear-1280x720-hls.ts segment with a 2.79-second duration for the bear-1280x720 test stream.
