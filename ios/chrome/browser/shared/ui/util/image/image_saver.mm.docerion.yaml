@@ -1,0 +1,4 @@
+# Docerion header of image_saver.mm.
+type: source
+title: ImageSaver implementation
+summary: Implements ImageSaver, storing fetched image data in the photo library via PHPhotoLibrary and showing privacy and error alerts.

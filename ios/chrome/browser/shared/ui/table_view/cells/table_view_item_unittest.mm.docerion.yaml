@@ -1,0 +1,4 @@
+# Docerion header of table_view_item_unittest.mm.
+type: test
+title: Table view item unit tests
+summary: Unit tests verifying that TableViewItem configures cell accessibility traits, identifiers, and accessory view properties.

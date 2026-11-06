@@ -1,0 +1,4 @@
+# Docerion header of accessibility_close_menu_button.mm.
+type: source
+title: Accessibility close menu button implementation
+summary: Implements the accessibility close menu button with a localized label and a VoiceOver activation override.

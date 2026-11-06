@@ -1,0 +1,4 @@
+# Docerion header of table_view_detail_icon_item_unittest.mm.
+type: test
+title: TableViewDetailIconItem unit tests
+summary: Unit tests verifying that TableViewDetailIconItem configures cell titles, subtitles, icons, badges, and default line counts correctly.

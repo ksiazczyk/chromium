@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group color palette interface
+// summary: Declares the TabGroupColorPalette interface exposing background, snapshot, bar and common colors for a given tab group color ID.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_COLOR_PALETTE_TAB_GROUP_COLOR_PALETTE_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_COLOR_PALETTE_TAB_GROUP_COLOR_PALETTE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of activity_indicator_content_configuration_unittest.mm.
+type: test
+title: Activity indicator content configuration unit tests
+summary: Verifies that the activity indicator configuration reports the expected 30 by 30 content size matching the compressed layout size.

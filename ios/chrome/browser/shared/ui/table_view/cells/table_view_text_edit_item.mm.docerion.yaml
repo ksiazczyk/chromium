@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_edit_item.mm.
+type: source
+title: Table view text edit item implementation
+summary: Implements the text edit item and cell, handling icons, colors, accessibility labels, required-field marking, and text field configuration.

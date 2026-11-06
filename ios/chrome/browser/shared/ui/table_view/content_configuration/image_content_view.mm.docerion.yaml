@@ -1,0 +1,4 @@
+# Docerion header of image_content_view.mm.
+type: source
+title: Image content view implementation
+summary: Implements ImageContentView, applying image, tint, corner radius and width and height constraints from its configuration.

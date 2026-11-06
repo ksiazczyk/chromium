@@ -1,0 +1,4 @@
+# Docerion header of attributed_string_util.mm.
+type: source
+title: Attributed string utilities for copying and label conversion
+summary: Implements helpers that copy an NSAttributedString with custom paragraph style attributes and build an attributed string mirroring a UILabel's text, font, colors, shadow and alignment.

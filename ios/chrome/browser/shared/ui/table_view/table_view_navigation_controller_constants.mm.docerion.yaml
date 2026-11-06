@@ -1,0 +1,4 @@
+# Docerion header of table_view_navigation_controller_constants.mm.
+type: source
+title: Table view navigation controller constants implementation
+summary: Defines values for the disabled search bar alpha, scrim fade duration and dismiss button accessibility identifier.

@@ -1,0 +1,4 @@
+# Docerion header of ui_view_controller_with_display_tracing.mm.
+type: source
+title: View controller display tracing implementation
+summary: Implements display tracing for view controllers, using UIUpdateLink and trace events to record UI update phases, frame drops, frame period estimates, and gesture timings.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for shared UI util
+summary: Lists the code owners responsible for the shared UI util directory.

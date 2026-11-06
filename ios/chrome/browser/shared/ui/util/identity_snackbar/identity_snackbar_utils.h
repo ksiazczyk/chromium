@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity snackbar utils header
+// summary: Declares functions to create and display the identity confirmation snackbar message for a given system identity.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_IDENTITY_SNACKBAR_IDENTITY_SNACKBAR_UTILS_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_IDENTITY_SNACKBAR_IDENTITY_SNACKBAR_UTILS_H_
 

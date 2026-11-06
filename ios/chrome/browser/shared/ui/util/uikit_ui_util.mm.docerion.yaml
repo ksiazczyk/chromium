@@ -1,0 +1,4 @@
+# Docerion header of uikit_ui_util.mm.
+type: source
+title: UIKit UI utility implementation
+summary: Implements the UIKit UI helpers, including font scaling with weight and maximum size, view capture rendering, and CIFilter-based greyscale image conversion.

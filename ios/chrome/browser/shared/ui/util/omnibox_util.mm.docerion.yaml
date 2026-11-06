@@ -1,0 +1,4 @@
+# Docerion header of omnibox_util.mm.
+type: source
+title: Omnibox utility implementation
+summary: Implements IsCurrentLayoutBottomOmnibox, which reports whether the browser's current layout state places the omnibox toolbar at the bottom.

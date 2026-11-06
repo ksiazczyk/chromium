@@ -1,0 +1,4 @@
+# Docerion header of image_util_unittest.mm.
+type: test
+title: Image util unit tests
+summary: Unit tests for the iOS image utility helpers, verifying ImageSizeFromData with valid, nil, invalid, and EXIF-oriented inputs and DownsampledImageFromData scaling behavior.

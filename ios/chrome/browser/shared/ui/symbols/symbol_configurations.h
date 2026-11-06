@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Symbol size constants and incognito color declarations
+// summary: Declares point size constants for symbols in various UI contexts and color and palette functions for incognito and cloud slash symbols.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_SYMBOLS_SYMBOL_CONFIGURATIONS_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_SYMBOLS_SYMBOL_CONFIGURATIONS_H_
 

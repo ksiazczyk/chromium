@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view multi line text edit item
+// summary: Declares an item and cell showing a label with an editable multi-line text view, including validity and error icon support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_MULTI_LINE_TEXT_EDIT_ITEM_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_MULTI_LINE_TEXT_EDIT_ITEM_H_
 

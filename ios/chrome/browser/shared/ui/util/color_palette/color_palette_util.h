@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color palette utility declarations
+// summary: Declares PaletteTone and DynamicColorInput types plus GetDynamicProvider for resolving light and dark mode colors from tonal palettes or fixed UIColors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_COLOR_PALETTE_COLOR_PALETTE_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_COLOR_PALETTE_COLOR_PALETTE_UTIL_H_
 

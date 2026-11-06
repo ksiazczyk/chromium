@@ -1,0 +1,4 @@
+# Docerion header of info_button_content_configuration_unittest.mm.
+type: test
+title: Info button content configuration unit tests
+summary: Tests that InfoButtonContentConfiguration reports the expected 27-point content size matching its view's compressed layout size.

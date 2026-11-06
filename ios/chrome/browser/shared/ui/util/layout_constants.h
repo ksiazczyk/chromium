@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared layout constants header
+// summary: Declares shared layout constants such as app bar corner radii and assistant sheet spring animation values, plus a helper to judge corner radius change significance.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_LAYOUT_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_LAYOUT_CONSTANTS_H_
 

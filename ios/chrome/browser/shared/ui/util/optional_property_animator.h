@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptionalPropertyAnimator header
+// summary: Declares OptionalPropertyAnimator, a UIViewPropertyAnimator subclass that can be safely started even when no animation blocks were added.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_OPTIONAL_PROPERTY_ANIMATOR_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_OPTIONAL_PROPERTY_ANIMATOR_H_
 

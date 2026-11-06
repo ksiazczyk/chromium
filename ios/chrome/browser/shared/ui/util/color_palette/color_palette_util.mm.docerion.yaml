@@ -1,0 +1,4 @@
+# Docerion header of color_palette_util.mm.
+type: source
+title: Color palette utility implementation
+summary: Implements palette tone resolution and returns a block that picks the light or dark color based on the trait collection's user interface style.

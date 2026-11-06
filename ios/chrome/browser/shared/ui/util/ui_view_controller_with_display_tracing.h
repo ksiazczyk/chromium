@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View controller display tracing header
+// summary: Declares UIViewControllerWithDisplayTracing, a UIViewController mixin with a bitmask of options for tracing UI update phases such as event dispatch, layout, appearance, and gestures.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_UI_VIEW_CONTROLLER_WITH_DISPLAY_TRACING_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_UI_VIEW_CONTROLLER_WITH_DISPLAY_TRACING_H_
 

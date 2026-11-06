@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view cell content configuration header
+// summary: Declares TableViewCellContentConfiguration with title, subtitle, leading and trailing content, alignment, separator and accessibility properties for table view cells.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_TABLE_VIEW_CELL_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_TABLE_VIEW_CELL_CONTENT_CONFIGURATION_H_
 

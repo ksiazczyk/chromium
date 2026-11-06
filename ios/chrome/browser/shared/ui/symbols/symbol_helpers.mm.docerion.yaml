@@ -1,0 +1,4 @@
+# Docerion header of symbol_helpers.mm.
+type: source
+title: Symbol helper function implementations
+summary: Implements helpers that load system or custom symbol images and apply configurations, point sizes, palettes and rendering modes.

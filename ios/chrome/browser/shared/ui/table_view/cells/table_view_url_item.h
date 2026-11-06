@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view URL item interface
+// summary: Declares TableViewURLItem, the model for a cell showing a page title, formatted URL host, favicon attributes, and optional detail text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_URL_ITEM_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_URL_ITEM_H_
 

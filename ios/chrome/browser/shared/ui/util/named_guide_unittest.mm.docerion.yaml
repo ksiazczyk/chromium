@@ -1,0 +1,4 @@
+# Docerion header of named_guide_unittest.mm.
+type: test
+title: Unit tests for NamedGuide
+summary: Unit tests verifying guide lookup through view hierarchies and layout frame updates when constraining the guide to views or frames.

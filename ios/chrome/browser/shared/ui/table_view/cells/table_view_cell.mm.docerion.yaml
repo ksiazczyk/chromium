@@ -1,0 +1,4 @@
+# Docerion header of table_view_cell.mm.
+type: source
+title: Table view cell implementation
+summary: Implements reuse reset, configuration state updates, and accessibility forwarding for TableViewCell.

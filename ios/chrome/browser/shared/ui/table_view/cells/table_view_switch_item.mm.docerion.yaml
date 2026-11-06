@@ -1,0 +1,4 @@
+# Docerion header of table_view_switch_item.mm.
+type: source
+title: Table view switch item implementation
+summary: Implements TableViewSwitchItem, building the cell's content configuration with title, icon, and switch settings and registering the legacy cell.

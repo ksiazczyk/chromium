@@ -1,0 +1,4 @@
+# Docerion header of activity_indicator_content_configuration.mm.
+type: source
+title: Activity indicator content configuration implementation
+summary: Implements the activity indicator configuration, creating its content view, reporting a 30-point content size, and copying configuration properties.

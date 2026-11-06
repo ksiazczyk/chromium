@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for table view content configuration
+summary: Defines GN source sets for the table view content configuration sources, the generic content protocols, and their unit tests with dependencies.

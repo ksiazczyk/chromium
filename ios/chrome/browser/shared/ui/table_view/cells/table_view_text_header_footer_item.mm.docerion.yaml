@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_header_footer_item.mm.
+type: source
+title: Table view text header/footer item implementation
+summary: Implements the model item and view for table view section headers and footers that display a title and a subtitle with optional tappable links.

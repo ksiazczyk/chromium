@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome main content configuration protocol
+// summary: Declares the ChromeMainContentConfiguration protocol for configurations used directly in cells, covering accessory view state and separator insets.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_CHROME_MAIN_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_CHROME_MAIN_CONTENT_CONFIGURATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of image_util.mm.
+type: source
+title: ImageUtil helper implementation
+summary: Implements image helpers including k-means dominant color, stretchable images, format detection from data, and CGImageSource-based downsampling.

@@ -1,0 +1,4 @@
+# Docerion header of identity_snackbar_utils.mm.
+type: source
+title: Identity snackbar utils implementation
+summary: Implements identity snackbar creation and display, adapting subtitles to management state and recording usage histograms.

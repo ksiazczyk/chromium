@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page animation utility header
+// summary: Declares the page_animation_util namespace and AnimateOutWithCompletion, which animates a view to its final position before invoking a completion block.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_PAGE_ANIMATION_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_PAGE_ANIMATION_UTIL_H_
 

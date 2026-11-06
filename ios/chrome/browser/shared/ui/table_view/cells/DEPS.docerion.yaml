@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for table view cells
+summary: Restricts the includes allowed in the cells directory to two specific Chromium header paths.

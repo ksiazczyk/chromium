@@ -1,0 +1,4 @@
+# Docerion header of favicon_content_view.mm.
+type: source
+title: Favicon content view implementation
+summary: Implements the favicon content view, laying out the favicon container and badge image from the configuration.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIKit UI utility header
+// summary: Declares UIKit helper functions for accessibility labels, dynamic type fonts, view snapshot capture, greyscale image conversion, and RGB color construction.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_UIKIT_UI_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_UIKIT_UI_UTIL_H_
 

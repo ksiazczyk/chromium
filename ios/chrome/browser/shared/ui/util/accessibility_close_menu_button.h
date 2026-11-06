@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility close menu button header
+// summary: Declares a UIButton subclass that allows the user to close the menu with VoiceOver.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_ACCESSIBILITY_CLOSE_MENU_BUTTON_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_ACCESSIBILITY_CLOSE_MENU_BUTTON_H_
 

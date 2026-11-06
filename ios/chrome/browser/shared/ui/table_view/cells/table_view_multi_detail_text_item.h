@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view multi detail text item
+// summary: Declares a table view item model holding main, leading detail, and trailing detail text for a cell.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_MULTI_DETAIL_TEXT_ITEM_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CELLS_TABLE_VIEW_MULTI_DETAIL_TEXT_ITEM_H_
 

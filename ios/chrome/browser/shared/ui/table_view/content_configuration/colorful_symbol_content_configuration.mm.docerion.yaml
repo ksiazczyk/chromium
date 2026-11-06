@@ -1,0 +1,4 @@
+# Docerion header of colorful_symbol_content_configuration.mm.
+type: source
+title: Colorful symbol content configuration implementation
+summary: Implements the colorful symbol content configuration that creates its content view and defines the icon-sized content dimensions.

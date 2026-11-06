@@ -1,0 +1,4 @@
+# Docerion header of favicon_content_configuration_unittest.mm.
+type: test
+title: Favicon content configuration unit tests
+summary: Unit tests verifying that the favicon content configuration reports the correct 30-point content size.

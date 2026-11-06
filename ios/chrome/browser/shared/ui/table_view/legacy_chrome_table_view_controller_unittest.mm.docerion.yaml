@@ -1,0 +1,4 @@
+# Docerion header of legacy_chrome_table_view_controller_unittest.mm.
+type: test
+title: LegacyChromeTableViewController unit tests
+summary: Unit tests verifying that LegacyChromeTableViewController invokes item configuration methods for cells, headers and footers using fake table view items.

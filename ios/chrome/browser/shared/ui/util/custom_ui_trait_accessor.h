@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom UI trait accessor header
+// summary: Declares CustomUITraitAccessor, a wrapper class that allows safe extension of the UIMutableTraits protocol for type-safe custom UI traits.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_CUSTOM_UI_TRAIT_ACCESSOR_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_CUSTOM_UI_TRAIT_ACCESSOR_H_
 

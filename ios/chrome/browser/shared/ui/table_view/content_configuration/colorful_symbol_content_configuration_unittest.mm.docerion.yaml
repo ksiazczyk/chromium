@@ -1,0 +1,4 @@
+# Docerion header of colorful_symbol_content_configuration_unittest.mm.
+type: test
+title: Colorful symbol content configuration unit tests
+summary: Unit tests verifying that the colorful symbol content configuration reports the correct content size matching its content view.

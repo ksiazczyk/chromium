@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localized relative date utility header
+// summary: Declares GetRelativeDateLocalized, which returns a localized visit time string including a relative indicator such as today or yesterday.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_DATE_LOCALIZED_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_DATE_LOCALIZED_UTIL_H_
 

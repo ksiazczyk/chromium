@@ -1,0 +1,4 @@
+# Docerion header of table_view_multi_line_text_edit_item_unittest.mm.
+type: test
+title: Table view multi line text edit item unit tests
+summary: Unit tests verifying that the multi-line text edit item configures the label, text, and editing state of its cell.

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Symbol folder
+summary: Explains the folder's purpose, the symbols.h umbrella header and naming conventions for adding custom symbols.
+relations:
+  - documents /ios/chrome/browser/shared/ui/symbols/symbol_enums.h
+---
+
 # Symbol folder
 
 This folder is supposed to contain the custom symbols, the definition of custom and system symbols and the code that is used to work with the symbols.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyChromeTableViewConsumer protocol
+// summary: Declares a protocol that lets table view mediators reconfigure and reload cells for given items, extensible by individual features.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_LEGACY_CHROME_TABLE_VIEW_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_LEGACY_CHROME_TABLE_VIEW_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Table view cell resources build definition
+summary: GN build rule that bundles the table view cell chevron asset catalog and its PNG variants into the iOS app bundle.

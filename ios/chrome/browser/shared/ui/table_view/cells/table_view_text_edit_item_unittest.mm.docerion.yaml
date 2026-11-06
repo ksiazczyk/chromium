@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_edit_item_unittest.mm.
+type: test
+title: Table view text edit item unit tests
+summary: Platform unit tests verifying label, text field values, enabled state, and required-field accessibility after configuring the cell.

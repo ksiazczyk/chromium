@@ -1,0 +1,4 @@
+# Docerion header of table_view_header_footer_item.mm.
+type: source
+title: TableViewHeaderFooterItem implementation
+summary: Implements TableViewHeaderFooterItem, setting the default header/footer class and porting accessibility properties to the view.

@@ -1,0 +1,4 @@
+# Docerion header of rtl_geometry.mm.
+type: source
+title: RTL geometry utilities implementation
+summary: Implements RTL-aware layout rect calculations, leading inset retrieval, edge comparisons and best text alignment detection.

@@ -1,0 +1,4 @@
+# Docerion header of table_view_image_item.mm.
+type: source
+title: TableViewImageItem implementation
+summary: Implements TableViewImageItem, configuring a legacy table view cell with content configuration, symbol image, accessibility properties and enabled state.

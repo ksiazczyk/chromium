@@ -1,0 +1,4 @@
+# Docerion header of ui_view_controller_with_display_tracing_unittest.mm.
+type: test
+title: Display tracing unit tests
+summary: Unit tests for UIViewControllerWithDisplayTracing that simulate frames, gestures, and variable refresh rates to verify tracing behavior, dropped frame counts, and histograms.

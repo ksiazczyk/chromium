@@ -1,0 +1,4 @@
+# Docerion header of chrome_table_view_controller.mm.
+type: source
+title: ChromeTableViewController implementation
+summary: Implements the empty view background handling, safe area inset propagation and navigation bar sizing on rotation for the modern table view controller.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Symbol enum of branded, custom and default symbols
+// summary: Defines the Symbol enum listing all branded, custom and system symbols used in the app, kept alphabetically ordered per section.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_SYMBOLS_SYMBOL_ENUMS_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_SYMBOLS_SYMBOL_ENUMS_H_
 

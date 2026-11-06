@@ -1,0 +1,4 @@
+# Docerion header of table_view_item.mm.
+type: source
+title: TableViewItem base class implementation
+summary: Implements TableViewItem base behavior, transferring accessory, selection, separator and accessibility properties from the item to the cell.

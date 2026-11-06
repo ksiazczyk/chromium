@@ -1,0 +1,4 @@
+# Docerion header of property_animator_group.mm.
+type: source
+title: PropertyAnimatorGroup implementation
+summary: Implements PropertyAnimatorGroup by forwarding animation control calls to every animator in the group and reading state from the first one.

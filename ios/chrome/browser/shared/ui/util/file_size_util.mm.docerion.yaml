@@ -1,0 +1,4 @@
+# Docerion header of file_size_util.mm.
+type: source
+title: File size formatting utility implementation
+summary: Implements GetSizeString with NSByteCountFormatter file count style, zero-padded fraction digits, and spaces replaced by non-breaking spaces.

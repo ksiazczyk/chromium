@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content configuration protocol
+// summary: Defines the ChromeContentConfiguration protocol specializing UIContentConfiguration with Chrome-specific content view creation and content size methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_CHROME_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_CHROME_CONTENT_CONFIGURATION_H_
 

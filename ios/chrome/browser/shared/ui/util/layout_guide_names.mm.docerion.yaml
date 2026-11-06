@@ -1,0 +1,4 @@
+# Docerion header of layout_guide_names.mm.
+type: source
+title: Definitions of well-known layout guide name constants
+summary: Defines the NSString constants for the well-known layout guide names declared in the corresponding header, used with named and centered layout guides.

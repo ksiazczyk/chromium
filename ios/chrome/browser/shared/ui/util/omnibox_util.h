@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox layout utility header
+// summary: Declares a helper function that reports whether the omnibox is positioned at the bottom in the current layout for a given browser.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_OMNIBOX_UTIL_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_OMNIBOX_UTIL_H_
 

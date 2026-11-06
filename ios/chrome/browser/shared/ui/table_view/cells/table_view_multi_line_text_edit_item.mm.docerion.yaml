@@ -1,0 +1,4 @@
+# Docerion header of table_view_multi_line_text_edit_item.mm.
+type: source
+title: Table view multi line text edit item implementation
+summary: Implements the multi-line text edit item and cell, handling text changes, error icons, and layout constraints.

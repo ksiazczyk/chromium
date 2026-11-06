@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLWithTitle data object header
+// summary: Declares URLWithTitle, a data object pairing a URL with its associated page title for sharing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_UTIL_URL_WITH_TITLE_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_UTIL_URL_WITH_TITLE_H_
 

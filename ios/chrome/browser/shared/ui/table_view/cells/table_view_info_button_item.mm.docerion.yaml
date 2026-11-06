@@ -1,0 +1,4 @@
+# Docerion header of table_view_info_button_item.mm.
+type: source
+title: TableViewInfoButtonItem implementation
+summary: Implements TableViewInfoButtonItem, building the cell content configuration with icon, texts and info button and applying accessibility settings.

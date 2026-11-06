@@ -1,0 +1,4 @@
+# Docerion header of table_view_model.mm.
+type: source
+title: TableViewModel implementation
+summary: Implements the TableViewModel model class used by table view controllers.

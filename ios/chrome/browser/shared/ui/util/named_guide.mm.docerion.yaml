@@ -1,0 +1,4 @@
+# Docerion header of named_guide.mm.
+type: source
+title: NamedGuide implementation
+summary: Implements constraint management for NamedGuide, keeping the guide aligned with a constrained view or frame and observing constraint deactivation.

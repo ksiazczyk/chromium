@@ -1,0 +1,4 @@
+# Docerion header of table_view_utils.mm.
+type: source
+title: Table view utilities implementation
+summary: Implements table view style, padding and header height helpers that adapt to device form factor and user font size settings.

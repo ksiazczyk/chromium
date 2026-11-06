@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIView window KVO support via method swizzling
+// summary: Extends UIView to enable key-value observing of the window property by swizzling window-move methods, with a UITextField workaround.
+// ---
+
 import ObjectiveC
 import UIKit
 

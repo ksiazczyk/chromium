@@ -1,0 +1,4 @@
+# Docerion header of table_view_detail_icon_item.mm.
+type: source
+title: TableViewDetailIconItem implementation
+summary: Implements TableViewDetailIconItem, building the cell content configuration with icons, badge images, text styling, line limits, and layout options.

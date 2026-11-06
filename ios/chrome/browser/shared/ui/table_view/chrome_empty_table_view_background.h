@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol for empty table view background views
+// summary: Declares the ChromeEmptyTableViewBackground protocol with scroll view content insets and an accessibility label for empty table view backgrounds.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CHROME_EMPTY_TABLE_VIEW_BACKGROUND_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CHROME_EMPTY_TABLE_VIEW_BACKGROUND_H_
 

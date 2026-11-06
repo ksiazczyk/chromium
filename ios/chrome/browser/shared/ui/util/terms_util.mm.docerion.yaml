@@ -1,0 +1,4 @@
+# Docerion header of terms_util.mm.
+type: source
+title: Terms of Service utility implementation
+summary: Resolves localized Terms of Service filenames by mapping iOS locales to Chrome locale codes and falling back to English when needed.

@@ -1,0 +1,4 @@
+# Docerion header of uiview_window_observing_unittest.mm.
+type: test
+title: UIView window observing unit tests
+summary: Unit tests verifying that KVO observers on a view's window property fire only when cr_supportsWindowObserving is enabled, checking old and new window values.

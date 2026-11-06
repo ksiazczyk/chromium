@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Info button content view header
+// summary: Declares InfoButtonContentView, a leading-aligned info button view conforming to ChromeContentView, with a testing accessor.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_INFO_BUTTON_CONTENT_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_INFO_BUTTON_CONTENT_VIEW_H_
 

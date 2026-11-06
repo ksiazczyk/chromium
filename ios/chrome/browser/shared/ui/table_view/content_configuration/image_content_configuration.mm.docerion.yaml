@@ -1,0 +1,4 @@
+# Docerion header of image_content_configuration.mm.
+type: source
+title: Image content configuration implementation
+summary: Implements ImageContentConfiguration, defining image display properties and creating ImageContentView instances for table view cells.

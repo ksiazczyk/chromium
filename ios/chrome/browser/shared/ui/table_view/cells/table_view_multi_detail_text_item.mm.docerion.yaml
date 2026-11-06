@@ -1,0 +1,4 @@
+# Docerion header of table_view_multi_detail_text_item.mm.
+type: source
+title: Table view multi detail text item implementation
+summary: Implements the multi detail text item, configuring a legacy table view cell through a cell content configuration.

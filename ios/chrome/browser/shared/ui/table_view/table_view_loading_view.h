@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableViewLoadingView interface
+// summary: Declares a view that shows an activity indicator with an optional message over a clear background.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_LOADING_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_LOADING_VIEW_H_
 

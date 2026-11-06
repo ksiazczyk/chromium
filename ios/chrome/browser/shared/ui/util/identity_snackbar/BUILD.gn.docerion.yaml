@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Identity snackbar build configuration
+summary: Defines the source sets for the identity snackbar utilities and their Earl Grey tests, listing their build dependencies.

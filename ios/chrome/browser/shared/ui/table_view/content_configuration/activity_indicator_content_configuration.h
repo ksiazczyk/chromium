@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity indicator content configuration interface
+// summary: Declares the ActivityIndicatorContentConfiguration class with style, color, and animating properties for table view cells showing an activity indicator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_ACTIVITY_INDICATOR_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_ACTIVITY_INDICATOR_CONTENT_CONFIGURATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of colorful_background_symbol_view.mm.
+type: source
+title: ColorfulBackgroundSymbolView implementation
+summary: Implements the view that renders a symbol image on a rounded colorful background with border and tint handling.

@@ -1,0 +1,4 @@
+# Docerion header of image_content_configuration_unittest.mm.
+type: test
+title: Image content configuration unit tests
+summary: Tests that ImageContentConfiguration reports correct content sizes when using the image's own size or a forced explicit size.

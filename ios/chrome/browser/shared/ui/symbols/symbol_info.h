@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Symbol info struct and lookup declaration
+// summary: Declares the SymbolType enum, the SymbolInfo struct, and InfoForSymbol, which maps a symbol enum to its name and type.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_SYMBOLS_SYMBOL_INFO_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_SYMBOLS_SYMBOL_INFO_H_
 

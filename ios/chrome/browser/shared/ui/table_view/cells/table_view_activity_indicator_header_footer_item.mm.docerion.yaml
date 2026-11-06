@@ -1,0 +1,4 @@
+# Docerion header of table_view_activity_indicator_header_footer_item.mm.
+type: source
+title: Activity indicator header footer item implementation
+summary: Implements the header/footer view with stacked labels and an animating activity indicator.

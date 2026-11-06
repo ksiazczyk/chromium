@@ -1,0 +1,4 @@
+# Docerion header of table_view_link_header_footer_item.mm.
+type: source
+title: Table view link header footer item implementation
+summary: Implements the link header/footer item and view, laying out a text view and notifying a delegate when links are tapped.

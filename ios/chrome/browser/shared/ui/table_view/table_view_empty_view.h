@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableViewEmptyView interface
+// summary: Declares a view that displays an image above a plain or attributed message over a clear background.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_EMPTY_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_EMPTY_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of image_saver_unittest.mm.
+type: test
+title: ImageSaver unit tests
+summary: Unit tests for ImageSaver using a fake image fetch tab helper and a mocked PHPhotoLibrary to verify saving behavior and alert presentation.

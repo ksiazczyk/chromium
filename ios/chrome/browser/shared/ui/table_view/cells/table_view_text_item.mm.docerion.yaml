@@ -1,0 +1,4 @@
+# Docerion header of table_view_text_item.mm.
+type: source
+title: Table view text item implementation
+summary: Implements TableViewTextItem, configuring a legacy table view cell's content with text, masking, headline font, enabled state, and a checkmark accessory.

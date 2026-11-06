@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image content view header
+// summary: Declares ImageContentView, a UIImageView conforming to ChromeContentView that displays images from an ImageContentConfiguration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_IMAGE_CONTENT_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_CONTENT_CONFIGURATION_IMAGE_CONTENT_VIEW_H_
 

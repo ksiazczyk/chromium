@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Table view favicon data source protocol
+// summary: Defines the TableViewFaviconDataSource protocol that table view UI uses to fetch favicon attributes for page URLs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_FAVICON_DATA_SOURCE_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_FAVICON_DATA_SOURCE_H_
 

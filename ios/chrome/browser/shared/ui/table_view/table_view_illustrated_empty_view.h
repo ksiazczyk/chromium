@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TableViewIllustratedEmptyView interface
+// summary: Declares an empty state view showing a large image, title and subtitle, with a delegate notified when subtitle links are tapped.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_ILLUSTRATED_EMPTY_VIEW_H_
 #define IOS_CHROME_BROWSER_SHARED_UI_TABLE_VIEW_TABLE_VIEW_ILLUSTRATED_EMPTY_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of legacy_chrome_table_view_controller.mm.
+type: source
+title: LegacyChromeTableViewController implementation
+summary: Implements the legacy table view controller including separator insets, empty and loading background views and cell selection behavior.

@@ -1,0 +1,4 @@
+# Docerion header of table_view_constants.mm.
+type: source
+title: Table view constants implementation
+summary: Defines the values of the table view empty view accessibility identifiers and the first header height constant.
