@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for SSL error assistant proto generation
+summary: Defines a GN action that converts ssl_error_assistant.asciipb into the binary ssl_error_assistant.pb resource consumed by components_resources.grd.

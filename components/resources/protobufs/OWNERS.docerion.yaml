@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the protobufs directory
+summary: OWNERS file for components/resources/protobufs that delegates ownership to the safe_browsing OWNERS file and lists meacer@chromium.org.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for neterror resources
+summary: Delegates ownership of the neterror default 200 percent resources directory to the owners listed in net/OWNERS.

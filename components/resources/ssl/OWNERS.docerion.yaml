@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: SSL resources OWNERS file
+summary: Delegates code ownership of the SSL resources directory to the owners defined in components/security_interstitials/OWNERS.

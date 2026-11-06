@@ -1,0 +1,4 @@
+# Docerion header of gen_ssl_error_assistant_proto.py.
+type: script
+title: SSL error assistant proto generator
+summary: Python script that converts the ASCII ssl_error_assistant proto into a binary resource and writes a versioned copy for Google Cloud Storage distribution.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autofill resource OWNERS file
+summary: Delegates ownership of the default 300 percent autofill image resources to the owners listed in components/autofill/OWNERS.

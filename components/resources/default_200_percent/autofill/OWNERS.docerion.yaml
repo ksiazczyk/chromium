@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autofill resource OWNERS file
+summary: Redirects review ownership of the default 200 percent autofill image resources to the OWNERS file of the components/autofill directory.

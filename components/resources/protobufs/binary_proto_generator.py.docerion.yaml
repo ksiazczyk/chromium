@@ -1,0 +1,4 @@
+# Docerion header of binary_proto_generator.py.
+type: script
+title: Binary proto generator
+summary: Python command-line tool that converts an ASCII protobuf into a binary resource, including a custom module importer for google.protobuf from pyproto.

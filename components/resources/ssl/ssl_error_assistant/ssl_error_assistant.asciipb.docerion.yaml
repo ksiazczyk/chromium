@@ -1,0 +1,4 @@
+# Docerion header of ssl_error_assistant.asciipb.
+type: data
+title: SSL error assistant captive portal certificate list
+summary: ASCII protobuf data holding the version_id and SPKI hashes of known captive portal certificates used for SSL error assistance.
