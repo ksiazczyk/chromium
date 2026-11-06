@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX_BASE_EXPORT macro definitions
+// summary: Defines the AX_BASE_EXPORT macro for exporting functionality of the ui/accessibility ax_base module to consumers.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_BASE_EXPORT_H_
 #define UI_ACCESSIBILITY_AX_BASE_EXPORT_H_
 

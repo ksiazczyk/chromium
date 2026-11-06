@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssistantNode and AssistantTree structures
+// summary: Defines the AssistantNode and AssistantTree structures used to expose accessibility information to the Android Assistant.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ASSISTANT_STRUCTURE_H_
 #define UI_ACCESSIBILITY_AX_ASSISTANT_STRUCTURE_H_
 

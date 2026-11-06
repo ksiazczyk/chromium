@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura accessibility window property definitions
+// summary: Defines accessibility-related Aura window property keys, including the child AX tree ID, an AX role override, and a flag to treat a window as invisible.
+// ---
+
 #include "ui/accessibility/aura/aura_window_properties.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

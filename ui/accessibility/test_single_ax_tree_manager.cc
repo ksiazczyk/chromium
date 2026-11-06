@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSingleAXTreeManager implementation
+// summary: Implements a test-only AXTreeManager that owns a single accessibility tree and creates tree and text positions for tests.
+// ---
+
 #include "ui/accessibility/test_single_ax_tree_manager.h"
 
 #include "ui/accessibility/ax_node.h"

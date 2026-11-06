@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric helper for testing AccessibilityState
+// summary: Provides Robolectric shadows, a service info builder and utilities to simulate enabled accessibility services and update AccessibilityState during JUnit tests.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import android.accessibilityservice.AccessibilityServiceInfo;

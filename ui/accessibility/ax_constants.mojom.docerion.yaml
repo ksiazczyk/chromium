@@ -1,0 +1,4 @@
+# Docerion header of ax_constants.mojom.
+type: source
+title: Accessibility Mojom constants
+summary: Mojom module defining shared accessibility constants such as unknown ARIA row or column counts and the no-selection offset.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility command-line switches implementation
+// summary: Defines command-line switch constants and helper functions for experimental accessibility features such as autoclick, Switch Access text, magnifier debugging, and renderer accessibility.
+// ---
+
 #include "ui/accessibility/accessibility_switches.h"
 
 #include "base/command_line.h"

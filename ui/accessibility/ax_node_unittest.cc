@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXNode unit tests
+// summary: Unit tests for AXNode covering tree walking and behavior with ignored nodes and various roles.
+// ---
+
 #include "ui/accessibility/ax_node.h"
 
 #include <stdint.h>

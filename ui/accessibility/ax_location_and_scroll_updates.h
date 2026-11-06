@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX location and scroll updates
+// summary: Defines structs describing accessibility node location changes and scroll position updates, with validation of node IDs from untrusted renderers.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_LOCATION_AND_SCROLL_UPDATES_H_
 #define UI_ACCESSIBILITY_AX_LOCATION_AND_SCROLL_UPDATES_H_
 

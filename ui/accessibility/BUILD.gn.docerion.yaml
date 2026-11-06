@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ui/accessibility
+summary: GN build configuration defining the accessibility component targets, Mojo enum bindings, and their sources and dependencies.

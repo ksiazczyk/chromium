@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAXTreeUpdate unit tests
+// summary: Unit tests verifying that TestAXTreeUpdate parses tree structure strings and maps int list attributes to the expected node data.
+// ---
+
 #include "ui/accessibility/test_ax_tree_update.h"
 
 #include "base/strings/stringprintf.h"

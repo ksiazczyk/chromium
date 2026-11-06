@@ -1,0 +1,4 @@
+# Docerion header of IAccessibilityTestHelperService.aidl.
+type: source
+title: IAccessibilityTestHelperService
+summary: AIDL interface defining the binder API of the accessibility test helper service, with methods to wait for events, nodes, and windows, perform actions, and dump trees.

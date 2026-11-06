@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXUpdatesAndEvents implementation
+// summary: Implements the AXUpdatesAndEvents constructors, move operations and validation of node IDs coming from an untrusted renderer.
+// ---
+
 #include "ui/accessibility/ax_updates_and_events.h"
 
 #include "ui/accessibility/ax_event.h"

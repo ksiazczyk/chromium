@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXBitset boolean enum storage
+// summary: Template helper storing AX boolean enums in a uint32_t bitmask with set, get, unset, iterate and merge operations.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_BITSET_H_
 #define UI_ACCESSIBILITY_AX_BITSET_H_
 

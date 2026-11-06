@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXOffscreenResult enum
+// summary: Defines the AXOffscreenResult enum indicating whether resulting bounds or points are onscreen or offscreen.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_OFFSCREEN_RESULT_H_
 #define UI_ACCESSIBILITY_AX_OFFSCREEN_RESULT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX mode histogram logger implementation
+// summary: Records UMA histograms for accessibility mode flag transitions and named mode bundles, with optional Blink-prefixed histogram names.
+// ---
+
 #include "ui/accessibility/ax_mode_histogram_logger.h"
 
 #include "base/metrics/histogram_functions.h"

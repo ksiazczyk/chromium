@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXNodePosition implementation
+// summary: Implements AXNodePosition, creating text or tree positions for accessibility nodes and managing embedded object behavior.
+// ---
+
 #include "ui/accessibility/ax_node_position.h"
 
 #include "base/containers/fixed_flat_map.h"

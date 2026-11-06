@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXSerializableTree header
+// summary: Declares AXSerializableTree, an AXTree subclass that creates a tree source adapter for serializing accessibility trees.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_SERIALIZABLE_TREE_H_
 #define UI_ACCESSIBILITY_AX_SERIALIZABLE_TREE_H_
 

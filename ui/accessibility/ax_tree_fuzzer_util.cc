@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTree fuzzer generator implementation
+// summary: Implements helpers that turn fuzz input into structured accessibility trees and tree updates for fuzzing AXTree behavior.
+// ---
+
 #include "ui/accessibility/ax_tree_fuzzer_util.h"
 
 #include <vector>

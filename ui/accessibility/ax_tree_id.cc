@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeID implementation
+// summary: Implements the AXTreeID class for creating, serializing, hashing, and comparing unique accessibility tree identifiers.
+// ---
+
 #include "ui/accessibility/ax_tree_id.h"
 
 #include <algorithm>

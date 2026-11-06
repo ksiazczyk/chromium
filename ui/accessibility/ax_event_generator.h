@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXEventGenerator header deriving accessibility events from tree changes
+// summary: Declares AXEventGenerator, an AXTreeObserver that computes which accessibility events each platform should fire when an accessibility tree changes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_EVENT_GENERATOR_H_
 #define UI_ACCESSIBILITY_AX_EVENT_GENERATOR_H_
 

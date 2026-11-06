@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionHandlerRegistry class declaration
+// summary: Declares the singleton registry that generates and stores runtime accessibility tree IDs from frame IDs or handler objects and dispatches actions to observers.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ACTION_HANDLER_REGISTRY_H_
 #define UI_ACCESSIBILITY_AX_ACTION_HANDLER_REGISTRY_H_
 

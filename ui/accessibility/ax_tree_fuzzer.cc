@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LibFuzzer entry point for AXTree
+// summary: Fuzzer harness that builds an AXTree from raw fuzz input and unserializes it to uncover crashes in tree handling.
+// ---
+
 #include "ui/accessibility/ax_tree.h"
 
 #include "base/compiler_specific.h"

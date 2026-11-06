@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeSourceChecker
+// summary: Template utility that validates parent/child consistency of an AXTreeSource and reports any errors as a descriptive string.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_SOURCE_CHECKER_H_
 #define UI_ACCESSIBILITY_AX_TREE_SOURCE_CHECKER_H_
 

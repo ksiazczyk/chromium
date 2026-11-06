@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAXNodeHelper implementation
+// summary: Implements a test-only helper that wraps an AXNode to provide bounds, inner text ranges, child access and offscreen checks in unit tests.
+// ---
+
 #include "ui/accessibility/test_ax_node_helper.h"
 
 #include <map>

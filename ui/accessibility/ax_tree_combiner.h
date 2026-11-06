@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeCombiner declaration
+// summary: Declares a helper class that combines multiple accessibility trees into a single tree, renumbering node IDs so cross-tree references stay correct.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_COMBINER_H_
 #define UI_ACCESSIBILITY_AX_TREE_COMBINER_H_
 

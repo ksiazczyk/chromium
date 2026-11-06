@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active popup accessibility ID declarations
+// summary: Declares functions to get, set and clear the accessibility node ID of the currently active autofill popup.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ACTIVE_POPUP_H_
 #define UI_ACCESSIBILITY_AX_ACTIVE_POPUP_H_
 

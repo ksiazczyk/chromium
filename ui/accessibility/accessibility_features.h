@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of accessibility feature flags
+// summary: Declares the base::Feature flags and enabled-state getters used by ui/accessibility, with guidance for adding new flags.
+// ---
+
 // Define all the base::Features used by ui/accessibility.
 #ifndef UI_ACCESSIBILITY_ACCESSIBILITY_FEATURES_H_
 #define UI_ACCESSIBILITY_ACCESSIBILITY_FEATURES_H_

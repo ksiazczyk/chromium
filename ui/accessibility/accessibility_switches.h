@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility command-line switches header
+// summary: Declares the command-line switch constants and helper functions used by ui/accessibility, including switches for experimental features and renderer accessibility control.
+// ---
+
 // Define all the command-line switches used by ui/accessibility.
 #ifndef UI_ACCESSIBILITY_ACCESSIBILITY_SWITCHES_H_
 #define UI_ACCESSIBILITY_ACCESSIBILITY_SWITCHES_H_

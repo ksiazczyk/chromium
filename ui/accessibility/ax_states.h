@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXStates header
+// summary: Defines AXStates as a bit field of accessibility states with constexpr helpers to test, add and remove individual states.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_STATES_H_
 #define UI_ACCESSIBILITY_AX_STATES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TreeGenerator header
+// summary: Declares a fuzz-testing utility that enumerates all possible accessibility trees with up to n nodes and id permutations.
+// ---
+
 #ifndef UI_ACCESSIBILITY_TREE_GENERATOR_H_
 #define UI_ACCESSIBILITY_TREE_GENERATOR_H_
 

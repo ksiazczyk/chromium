@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityStateDelegate
+// summary: Interface defining a delegate for querying accessibility state, including enabled services, system settings, recommended timeouts, and event type masks.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import android.view.accessibility.AccessibilityEvent;

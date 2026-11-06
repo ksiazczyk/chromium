@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeCombiner implementation
+// summary: Implements merging multiple accessibility trees that reference each other into one combined tree, remapping node IDs and focus and selection data.
+// ---
+
 #include "ui/accessibility/ax_tree_combiner.h"
 
 #include "base/logging.h"

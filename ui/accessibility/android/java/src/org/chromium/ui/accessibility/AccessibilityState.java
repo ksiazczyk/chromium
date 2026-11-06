@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityState
+// summary: Utility for tracking Android accessibility state, offering listeners and state details such as screen readers, touch exploration, and related system settings.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import android.view.accessibility.AccessibilityEvent;

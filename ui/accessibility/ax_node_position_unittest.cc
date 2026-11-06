@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXNodePosition unit tests
+// summary: Extensive unit tests for accessibility node positions, ranges, and selections across single and multi-tree documents.
+// ---
+
 #include "ui/accessibility/ax_node_position.h"
 
 #include <stdint.h>

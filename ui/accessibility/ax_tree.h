@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTree class declaration
+// summary: Declares AXTree, a managed tree of AXNode objects that receives updates from an AXTreeSource and can be subclassed for platform accessibility APIs.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_H_
 #define UI_ACCESSIBILITY_AX_TREE_H_
 

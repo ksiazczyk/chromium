@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityTestHelperService
+// summary: Android service that bridges instrumentation tests to the AccessibilityTestService by exposing wait, action, and dump operations over an AIDL binder interface.
+// ---
+
 package org.chromium.ui.accessibility.testservice;
 
 import android.app.Service;

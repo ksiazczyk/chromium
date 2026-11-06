@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionData implementation
+// summary: Implements the AXActionData constructors and destructor, initializing Mojo enum members to default values so the header can use a smaller forward header.
+// ---
+
 #include "ui/accessibility/ax_action_data.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

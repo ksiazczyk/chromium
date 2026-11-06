@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXHypertext struct for node text with embedded objects
+// summary: Declares AXHypertext, which stores a node's hypertext with embedded object characters and offsets mapped to hyperlink children for ATK and IAccessible2 APIs.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_HYPERTEXT_H_
 #define UI_ACCESSIBILITY_AX_HYPERTEXT_H_
 

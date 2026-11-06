@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXUpdatesAndEvents bundle declaration
+// summary: Declares a struct that groups accessibility tree updates with the events to fire after they are applied, keyed by tree ID.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_UPDATES_AND_EVENTS_H_
 #define UI_ACCESSIBILITY_AX_UPDATES_AND_EVENTS_H_
 

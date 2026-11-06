@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTreeSourceChecker unit tests
+// summary: Unit tests for AXTreeSourceChecker using a fake tree source to verify detection of invalid roots and inconsistent parent/child links.
+// ---
+
 #include "ui/accessibility/ax_tree_source_checker.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location and scroll change structs implementation
+// summary: Implements AXLocationChange, AXScrollChange and AXLocationAndScrollUpdates, including validation of accessibility node IDs coming from the renderer.
+// ---
+
 #include "ui/accessibility/ax_location_and_scroll_updates.h"
 
 #include "ui/accessibility/ax_node_id_forward.h"

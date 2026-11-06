@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeManagerBase implementation
+// summary: Implements AXTreeManagerBase, including the global tree manager map, tree ownership and swapping, updates, and tree data access.
+// ---
+
 #include "ui/accessibility/ax_tree_manager_base.h"
 
 #include <set>

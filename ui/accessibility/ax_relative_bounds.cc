@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXRelativeBounds implementation
+// summary: Implements AXRelativeBounds, including copy and move semantics, equality comparison, and string output of relative node bounds.
+// ---
+
 #include "ui/accessibility/ax_relative_bounds.h"
 
 #include "base/memory/values_equivalent.h"

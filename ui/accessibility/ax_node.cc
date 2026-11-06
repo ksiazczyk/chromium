@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX node implementation
+// summary: Implements AXNode, the node class of the accessibility tree, including child traversal, unignored counts, and cross-tree-boundary navigation.
+// ---
+
 #include "ui/accessibility/ax_node.h"
 
 #include <algorithm>

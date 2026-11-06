@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApplicationStatusAccessibilityStateVisibilityManager unit tests
+// summary: Robolectric unit tests checking that ApplicationStatusAccessibilityStateVisibilityManager notifies observers of activity and application foreground and background transitions.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import static org.mockito.Mockito.clearInvocations;

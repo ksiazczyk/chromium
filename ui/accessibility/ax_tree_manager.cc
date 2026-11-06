@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeManager implementation
+// summary: Implements AXTreeManager, which owns an accessibility tree, registers it in a global map, and coordinates child trees, focus, and event firing.
+// ---
+
 #include "ui/accessibility/ax_tree_manager.h"
 
 #include "base/check.h"

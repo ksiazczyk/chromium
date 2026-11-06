@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility text utilities declarations
+// summary: Declares functions for finding accessible text boundaries, computing word and sentence offsets, and converting action verbs to localized strings.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TEXT_UTILS_H_
 #define UI_ACCESSIBILITY_AX_TEXT_UTILS_H_
 

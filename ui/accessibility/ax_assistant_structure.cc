@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assistant tree construction from accessibility trees
+// summary: Builds an AssistantTree from an AXTreeUpdate for Android Assistant, including text extraction and role-to-Android-class mapping.
+// ---
+
 #include "ui/accessibility/ax_assistant_structure.h"
 
 #include <optional>

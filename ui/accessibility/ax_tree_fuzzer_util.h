@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: AXTree fuzzer utility declarations
+// summary: Declares FuzzerData and AXTreeFuzzerGenerator, which generate accessibility trees and updates from fuzzer bytes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_FUZZER_UTIL_H_
 #define UI_ACCESSIBILITY_AX_TREE_FUZZER_UTIL_H_
 

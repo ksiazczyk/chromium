@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeSourceAnnotator interface
+// summary: Interface for annotators that provide automatically generated accessible names, such as alt text for unlabeled images, to an AXTreeSource.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_SOURCE_ANNOTATOR_H_
 #define UI_ACCESSIBILITY_AX_TREE_SOURCE_ANNOTATOR_H_
 

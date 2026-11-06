@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeUpdate struct
+// summary: Defines AXTreeUpdate, the serialized representation of an atomic change that brings an accessibility tree from one state to the next.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_UPDATE_H_
 #define UI_ACCESSIBILITY_AX_TREE_UPDATE_H_
 

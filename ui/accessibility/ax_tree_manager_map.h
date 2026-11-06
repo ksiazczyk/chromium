@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeManagerMap class header
+// summary: Declares AXTreeManagerMap, a map from accessibility tree IDs to AXTreeManager instances.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_MANAGER_MAP_H_
 #define UI_ACCESSIBILITY_AX_TREE_MANAGER_MAP_H_
 

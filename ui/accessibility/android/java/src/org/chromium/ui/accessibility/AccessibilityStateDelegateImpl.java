@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityStateDelegateImpl
+// summary: Implementation of AccessibilityStateDelegate that reads Android accessibility services and settings, records histograms, and notifies listeners of state changes.
+// ---
+
 package org.chromium.ui.accessibility;
 
 import static android.accessibilityservice.AccessibilityServiceInfo.CAPABILITY_CAN_PERFORM_GESTURES;

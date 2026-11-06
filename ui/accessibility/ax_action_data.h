@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXActionData struct definition
+// summary: Defines a compact serializable struct representing an accessibility action and its arguments, including target tree and node IDs, selection offsets, scroll settings, and hit test data.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_ACTION_DATA_H_
 #define UI_ACCESSIBILITY_AX_ACTION_DATA_H_
 

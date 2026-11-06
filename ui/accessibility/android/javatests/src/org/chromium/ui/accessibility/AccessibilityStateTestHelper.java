@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper for stubbed AccessibilityState
+// summary: Offers static setters that drive a FakeAccessibilityStateDelegate to simulate accessibility states such as screen readers and touch exploration in tests.
+// ---
+
 package org.chromium.ui.accessibility;
 
 /** Helper for tests to interact with stubbed out {@link AccessibilityState}. */

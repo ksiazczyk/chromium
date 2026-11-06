@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility role properties unit tests
+// summary: Unit tests verifying role classification helpers for hierarchical level support, live regions, toggle, and tables with columns.
+// ---
+
 #include <unordered_set>
 
 #include "testing/gtest/include/gtest/gtest.h"

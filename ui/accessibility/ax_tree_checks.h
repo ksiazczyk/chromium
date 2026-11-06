@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeChecks declaration
+// summary: Declares a struct carrying debug-only tree check data, such as the expected node count after an accessibility tree update.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_CHECKS_H_
 #define UI_ACCESSIBILITY_AX_TREE_CHECKS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTextAttributes class declaration
+// summary: Declares a move-only struct that compactly represents text attributes such as colors, fonts, styles, and spelling markers on an accessibility node.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TEXT_ATTRIBUTES_H_
 #define UI_ACCESSIBILITY_AX_TEXT_ATTRIBUTES_H_
 

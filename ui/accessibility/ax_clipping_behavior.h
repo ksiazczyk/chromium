@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXClippingBehavior enum
+// summary: Defines the AXClippingBehavior enum that controls whether bounds results are clipped to visible ancestor sizes.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_CLIPPING_BEHAVIOR_H_
 #define UI_ACCESSIBILITY_AX_CLIPPING_BEHAVIOR_H_
 

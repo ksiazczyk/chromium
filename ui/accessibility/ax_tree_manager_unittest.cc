@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXTreeManager unit tests
+// summary: Unit tests for AXTreeManager covering tree construction from updates, generated events, and parent tree serialization scenarios.
+// ---
+
 #include "ui/accessibility/ax_tree_manager.h"
 
 #include <utility>

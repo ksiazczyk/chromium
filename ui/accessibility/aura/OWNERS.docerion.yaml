@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ui/accessibility/aura
+summary: Lists the code owner responsible for the aura accessibility directory, currently katie@chromium.org.

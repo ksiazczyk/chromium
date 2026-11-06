@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXNodeID type definitions
+// summary: Defines the AXNodeID type, reserved and generated ID constants, and validation of node IDs received from a renderer.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_NODE_ID_FORWARD_H_
 #define UI_ACCESSIBILITY_AX_NODE_ID_FORWARD_H_
 

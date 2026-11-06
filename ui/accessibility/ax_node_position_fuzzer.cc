@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AXNodePosition fuzzer
+// summary: Fuzzer that generates random accessibility trees and exercises node position and range APIs to find crashes.
+// ---
+
 #include "base/at_exit.h"
 #include "base/i18n/icu_util.h"
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility state class header
+// summary: Declares the AccessibilityState singleton, its observer interface and JNI methods for querying Android accessibility state.
+// ---
+
 #ifndef UI_ACCESSIBILITY_ANDROID_ACCESSIBILITY_STATE_H_
 #define UI_ACCESSIBILITY_ANDROID_ACCESSIBILITY_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXTreeID class declaration
+// summary: Declares AXTreeID, a unique identifier for accessibility trees backed by an unguessable token, with conversion and hashing helpers.
+// ---
+
 #ifndef UI_ACCESSIBILITY_AX_TREE_ID_H_
 #define UI_ACCESSIBILITY_AX_TREE_ID_H_
 

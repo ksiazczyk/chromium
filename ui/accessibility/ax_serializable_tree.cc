@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AXSerializableTree implementation
+// summary: Implements AXSerializableTree and an AXTreeSource adapter that lets the tree serializer work with AXTree nodes without knowing AXTree directly.
+// ---
+
 #include "ui/accessibility/ax_serializable_tree.h"
 
 #include <stdint.h>
