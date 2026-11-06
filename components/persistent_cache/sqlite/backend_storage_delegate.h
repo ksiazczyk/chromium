@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent cache SQLite backend storage delegate header
+// summary: Declares BackendStorageDelegate, the delegate that manages SQLite storage on behalf of SqliteBackendImpl, covering backend creation, connection sharing, base name lookup, and file deletion.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_SQLITE_BACKEND_STORAGE_DELEGATE_H_
 #define COMPONENTS_PERSISTENT_CACHE_SQLITE_BACKEND_STORAGE_DELEGATE_H_
 

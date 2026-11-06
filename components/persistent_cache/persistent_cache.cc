@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentCache core implementation
+// summary: Implements the PersistentCache class, binding backends and providing Find and Insert operations with sampled histogram timing.
+// ---
+
 #include "components/persistent_cache/persistent_cache.h"
 
 #include <memory>

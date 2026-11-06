@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalContextKeyManager class declaration
+// summary: Declares the key manager that maintains the device HPKE key pair (ML-KEM-768, HKDF-SHA256, AES-128-GCM) for Personal Context payload encryption and decryption.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_KEY_MANAGER_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_PERSONAL_CONTEXT_KEY_MANAGER_H_
 

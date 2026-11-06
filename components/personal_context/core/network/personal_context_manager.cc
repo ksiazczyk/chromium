@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context manager implementation
+// summary: Implements PersonalContextManager, resolving the service base URL, limiting parallel fetches per feature and recording result and latency metrics.
+// ---
+
 #include "components/personal_context/core/network/personal_context_manager.h"
 
 #include <algorithm>

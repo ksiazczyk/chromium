@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy cache provider
+// summary: PolicyProvider that serves cached policy values from PolicyCache as a Bundle, pushing them to native early in startup before real app restrictions arrive.
+// ---
+
 package org.chromium.components.policy;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

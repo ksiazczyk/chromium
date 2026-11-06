@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boolean disabling policy handler implementation
+// summary: Implements a policy handler that forces a preference to false only when the boolean policy value is false.
+// ---
+
 #include "components/policy/core/browser/boolean_disabling_policy_handler.h"
 
 #include "components/policy/core/common/policy_map.h"

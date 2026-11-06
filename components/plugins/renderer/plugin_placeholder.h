@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin placeholder class declarations
+// summary: Declares the abstract PluginPlaceholderBase and the gin-wrappable PluginPlaceholder that supports hiding blocked or missing plugins.
+// ---
+
 #ifndef COMPONENTS_PLUGINS_RENDERER_PLUGIN_PLACEHOLDER_H_
 #define COMPONENTS_PLUGINS_RENDERER_PLUGIN_PLACEHOLDER_H_
 

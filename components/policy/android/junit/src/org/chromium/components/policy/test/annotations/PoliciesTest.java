@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policies annotation unit tests
+// summary: JUnit tests verifying how the Policies annotations add, remove, inherit and dedupe policy entries on classes and methods.
+// ---
+
 package org.chromium.components.policy.test.annotations;
 
 import static com.google.common.truth.Truth.assertThat;

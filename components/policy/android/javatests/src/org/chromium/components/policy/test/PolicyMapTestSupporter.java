@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyMapTestSupporter JNI test helper
+// summary: Java helper called from native unit tests to assert int, boolean, string, list and dictionary values in an Android PolicyMap.
+// ---
+
 package org.chromium.components.policy.test;
 
 import org.jni_zero.CalledByNative;

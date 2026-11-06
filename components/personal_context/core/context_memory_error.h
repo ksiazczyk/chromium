@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context memory error type and execution error enum
+// summary: Declares the ContextMemoryError class with an ExecutionError enum of request failure kinds plus helpers to create and classify errors.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_CONTEXT_MEMORY_ERROR_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_CONTEXT_MEMORY_ERROR_H_
 

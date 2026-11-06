@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context manager header
+// summary: Declares PersonalContextManager, which dispatches context and PII entity fetches and tracks active fetchers per feature.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_NETWORK_PERSONAL_CONTEXT_MANAGER_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_NETWORK_PERSONAL_CONTEXT_MANAGER_H_
 

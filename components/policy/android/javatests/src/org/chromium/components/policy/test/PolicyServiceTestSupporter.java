@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyServiceTestSupporter JNI test helper
+// summary: Java helper called from native unit tests to manage PolicyService observers and verify initialization and policy update events with Mockito.
+// ---
+
 package org.chromium.components.policy.test;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Machine level cloud policy status provider tests
+// summary: Unit tests for the machine level user cloud policy status provider covering status output and observer notifications.
+// ---
+
 #include "components/policy/core/browser/webui/machine_level_user_cloud_policy_status_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite persistent cache backend implementation
+// summary: Implements SqliteBackendImpl, binding pending backends to a sandboxed SQLite VFS file set and providing find, insert, initialization metrics, and error translation for the persistent cache.
+// ---
+
 #include "components/persistent_cache/sqlite/sqlite_backend_impl.h"
 
 #include <stdint.h>

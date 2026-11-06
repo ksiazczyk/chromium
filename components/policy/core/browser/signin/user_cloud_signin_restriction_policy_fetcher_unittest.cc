@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserCloudSigninRestrictionPolicyFetcher unit tests
+// summary: Unit tests verifying parsing of legacy and new policy values from SecureConnect API responses using test URL loader and identity test environment.
+// ---
+
 #include "components/policy/core/browser/signin/user_cloud_signin_restriction_policy_fetcher.h"
 
 #include <memory>

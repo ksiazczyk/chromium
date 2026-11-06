@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenAI default settings policy handler implementation
+// summary: Implements the handler that applies GenAiDefaultSettings policy defaults to GenAI preferences, with feature kill switches and value translation maps.
+// ---
+
 #include "components/policy/core/browser/gen_ai_default_settings_policy_handler.h"
 
 #include <algorithm>

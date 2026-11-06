@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockBackend gmock class
+// summary: Defines a gmock-based MockBackend that stubs the persistent cache Backend methods such as Find, Insert and Abandon for use in tests.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_MOCK_MOCK_BACKEND_H_
 #define COMPONENTS_PERSISTENT_CACHE_MOCK_MOCK_BACKEND_H_
 

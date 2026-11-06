@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeSitesNavigationThrottle implementation
+// summary: Implements a navigation throttle that blocks HTTP(S) navigations based on the Safe Search API, deferring requests for asynchronous checks and showing a custom error page when canceled.
+// ---
+
 #include "components/policy/content/safe_sites_navigation_throttle.h"
 
 #include "base/functional/bind.h"

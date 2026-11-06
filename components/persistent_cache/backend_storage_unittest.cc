@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackendStorage unit tests
+// summary: Tests BackendStorage construction, pending backend creation success and failure, and file deletion using a mock delegate.
+// ---
+
 #include "components/persistent_cache/backend_storage.h"
 
 #include <optional>

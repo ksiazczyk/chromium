@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyData helper for building policy Bundles
+// summary: Test helper that converts typed policy values such as strings and string arrays into Android Bundles for the policy system, including an undefined error state.
+// ---
+
 package org.chromium.components.policy.test;
 
 import android.os.Bundle;

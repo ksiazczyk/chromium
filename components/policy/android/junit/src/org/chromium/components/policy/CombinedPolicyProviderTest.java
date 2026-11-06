@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CombinedPolicyProvider Robolectric tests
+// summary: Robolectric unit tests for CombinedPolicyProvider, verifying provider registration, native linking, and policy settings forwarding to the converter.
+// ---
+
 package org.chromium.components.policy;
 
 import static org.junit.Assert.assertEquals;

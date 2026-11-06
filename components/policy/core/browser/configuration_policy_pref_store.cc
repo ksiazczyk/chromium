@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConfigurationPolicyPrefStore implementation
+// summary: Bridges Chrome policies from the PolicyService into preferences, refreshing values and notifying observers on policy updates.
+// ---
+
 #include "components/policy/core/browser/configuration_policy_pref_store.h"
 
 #include <memory>

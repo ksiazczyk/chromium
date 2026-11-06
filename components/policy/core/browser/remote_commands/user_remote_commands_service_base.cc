@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserRemoteCommandsServiceBase implementation
+// summary: Implements the base class that initializes the user-scoped remote command service, starts it via the cloud policy core, and manages the remote commands invalidator.
+// ---
+
 #include "components/policy/core/browser/remote_commands/user_remote_commands_service_base.h"
 
 #include "base/time/default_clock.h"

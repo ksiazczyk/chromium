@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy WebUI constants
+// summary: Declares shared constant keys for the policy WebUI, including policy IDs, policy values and custom command line argument flags.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_WEBUI_POLICY_WEBUI_CONSTANTS_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_WEBUI_POLICY_WEBUI_CONSTANTS_H_
 

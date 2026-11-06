@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for personal context core dependencies
+summary: Lists the directories that code in the personal context core may include from, such as signin, prefs, network, variations and crypto.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy blocklist navigation throttle unit tests
+// summary: Tests blocklist, allowlist and Safe Sites behavior of the policy blocklist navigation throttle using simulated navigations.
+// ---
+
 #include "components/policy/content/policy_blocklist_navigation_throttle.h"
 
 #include <memory>

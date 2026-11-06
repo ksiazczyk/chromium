@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyCacheUpdaterTestSupporter JNI test helper
+// summary: Java helper invoked from native unit tests to verify, reset and inspect cached policy values in the Android PolicyCache.
+// ---
+
 package org.chromium.components.policy.test;
 
 import org.jni_zero.CalledByNative;

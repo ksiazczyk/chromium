@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for the first run directory
+summary: DEPS file listing the components and content paths that code in the first_run directory may include.

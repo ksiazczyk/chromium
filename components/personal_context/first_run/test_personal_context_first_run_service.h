@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the test first run service fake
+// summary: Declares the test double with setters and accessors for notice visibility, acknowledgement, and impression counts used by dependent tests.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_FIRST_RUN_TEST_PERSONAL_CONTEXT_FIRST_RUN_SERVICE_H_
 #define COMPONENTS_PERSONAL_CONTEXT_FIRST_RUN_TEST_PERSONAL_CONTEXT_FIRST_RUN_SERVICE_H_
 

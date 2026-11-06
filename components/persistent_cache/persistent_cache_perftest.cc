@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentCache performance tests
+// summary: Parameterized perf tests measuring insert and find performance across SQLite single versus multiple connections and WAL journal mode configurations.
+// ---
+
 #include "components/persistent_cache/persistent_cache.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management status message utilities implementation
+// summary: Maps device management, policy validation, and cloud policy store statuses to localized strings suitable for display in the UI.
+// ---
+
 #include "components/policy/core/browser/cloud/message_util.h"
 
 #include "base/notreached.h"

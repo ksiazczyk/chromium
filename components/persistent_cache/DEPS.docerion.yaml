@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for persistent_cache
+summary: Restricts includes to mojo, sql, sqlite and sqlite_vfs so the component stays decoupled from the rest of the application.

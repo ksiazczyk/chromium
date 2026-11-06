@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy to preference mapping test header
+// summary: Declares helpers to verify policy-to-pref mappings from JSON test cases, including chunking, buildflag and filter switch support.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_POLICY_PREF_MAPPING_TEST_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_POLICY_PREF_MAPPING_TEST_H_
 

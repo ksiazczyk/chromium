@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context memory feature name mapping implementation
+// summary: Maps ContextMemoryFeature proto enum values to their string names, kept in sync with the personal context histograms for metrics.
+// ---
+
 #include "components/personal_context/core/context_memory_features.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal Context feature flags
+// summary: Defines the main Personal Context feature flags, including the kill-switch, UMA logging and encrypted payload handling.
+// ---
+
 #include "components/personal_context/core/personal_context_features.h"
 
 #include "base/feature_list.h"

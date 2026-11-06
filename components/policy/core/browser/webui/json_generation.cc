@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON generation for policy WebUI
+// summary: Implements generation of policy JSON output enriched with Chrome build and device metadata for the policy WebUI.
+// ---
+
 #include "components/policy/core/browser/webui/json_generation.h"
 
 #include <memory>

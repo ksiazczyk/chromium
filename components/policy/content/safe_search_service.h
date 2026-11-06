@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Search service header
+// summary: Declares SafeSearchService and SafeSearchFactory for per-context Safe Search URL checks with test support.
+// ---
+
 #ifndef COMPONENTS_POLICY_CONTENT_SAFE_SEARCH_SERVICE_H_
 #define COMPONENTS_POLICY_CONTENT_SAFE_SEARCH_SERVICE_H_
 

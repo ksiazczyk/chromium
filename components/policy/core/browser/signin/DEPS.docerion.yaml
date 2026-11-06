@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for signin policy sources
+summary: Restricts inclusion of net/http/http_response_headers.h to the user cloud signin restriction policy fetcher and its unit test.

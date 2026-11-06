@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy sign-in service utilities implementation
+// summary: Implements helpers for detecting sign-in and sign-out events, checking whether policies can be applied, and computing mobile registration retry delays from prefs.
+// ---
+
 #include "components/policy/core/browser/cloud/user_policy_signin_service_util.h"
 
 #include "components/policy/core/common/policy_pref_names.h"

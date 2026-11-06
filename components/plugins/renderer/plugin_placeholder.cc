@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin placeholder base implementation
+// summary: Implements PluginPlaceholderBase, creating the WebView-backed placeholder plugin from HTML data and handling hiding of placeholder elements.
+// ---
+
 #include "components/plugins/renderer/plugin_placeholder.h"
 
 #include "base/metrics/user_metrics_action.h"

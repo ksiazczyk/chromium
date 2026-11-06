@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personal context manager unit tests
+// summary: Unit tests for PersonalContextManager covering fetch dispatch, parallel fetch limits, error handling and response parsing.
+// ---
+
 #include "components/personal_context/core/network/personal_context_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenAI default settings policy handler header
+// summary: Declares GenAiDefaultSettingsPolicyHandler, which sets defaults for GenAI policy preferences not already set by another source.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_GEN_AI_DEFAULT_SETTINGS_POLICY_HANDLER_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_GEN_AI_DEFAULT_SETTINGS_POLICY_HANDLER_H_
 

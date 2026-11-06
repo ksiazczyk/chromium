@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy WebUI statistics collector unit tests
+// summary: Unit tests verifying that RecordPolicyUIButtonUsage writes the expected Enterprise.PolicyUI.ButtonUsage histogram samples, including zero and repeated counts.
+// ---
+
 #include "components/policy/core/browser/webui/statistics_collector.h"
 
 #include "base/test/metrics/histogram_tester.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for the browser policy component
+summary: GN build file listing the sources, platform-conditional files and dependencies of the browser policy component.

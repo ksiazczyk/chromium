@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia placeholder for PersistentCache
+// summary: Placeholder PersistentCache implementation for Fuchsia, where the cache is unsupported, with all methods hitting NOTREACHED.
+// ---
+
 #include "components/persistent_cache/persistent_cache.h"
 
 #include <memory>

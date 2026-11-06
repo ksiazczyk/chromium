@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy data utilities for managed-by domain lookup
+// summary: Implements GetManagedBy, a helper that reads the managed-by domain from the cloud policy store of a CloudPolicyManager.
+// ---
+
 #include "components/policy/core/browser/policy_data_utils.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_core.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Persistent cache Mojom build definitions
+summary: Defines GN targets for the persistent cache Mojom bindings, shared C++ typemaps for pending backend structs, the traits component, and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentCache unit tests
+// summary: Unit tests for PersistentCache using a mocked backend and a SQLite backend, covering find, insert and transaction error propagation.
+// ---
+
 #include "components/persistent_cache/persistent_cache.h"
 
 #include <stdint.h>

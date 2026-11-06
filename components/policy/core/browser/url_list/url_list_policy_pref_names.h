@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL list policy preference names
+// summary: Defines constant preference names for URL blocklist and allowlist policies, including the incognito mode variants.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_URL_LIST_POLICY_PREF_NAMES_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_URL_LIST_POLICY_PREF_NAMES_H_
 

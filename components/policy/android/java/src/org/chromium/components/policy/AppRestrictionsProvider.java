@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app restrictions provider
+// summary: Concrete policy provider that fetches app restrictions via Android's RestrictionsManager or UserManager, handling SecurityException fallbacks and timing metrics.
+// ---
+
 package org.chromium.components.policy;
 
 import android.content.Context;

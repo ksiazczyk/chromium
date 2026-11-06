@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy WebUI statistics collector implementation
+// summary: Records UMA histograms for policy WebUI button usage such as reloading policies, copying or exporting JSON and uploading reports.
+// ---
+
 #include "components/policy/core/browser/webui/statistics_collector.h"
 
 #include "base/metrics/histogram_functions.h"

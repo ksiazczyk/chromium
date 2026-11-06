@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine level user cloud policy status provider header
+// summary: Declares the machine level user cloud policy status provider class and its context struct.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_WEBUI_MACHINE_LEVEL_USER_CLOUD_POLICY_STATUS_PROVIDER_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_WEBUI_MACHINE_LEVEL_USER_CLOUD_POLICY_STATUS_PROVIDER_H_
 

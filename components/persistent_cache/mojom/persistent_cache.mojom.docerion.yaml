@@ -1,0 +1,4 @@
+# Docerion header of persistent_cache.mojom.
+type: source
+title: Persistent cache pending backend Mojom structs
+summary: Defines Mojom structs describing the handles needed to open a PersistentCache instance for read-only or read-write access via the SQLite backend.

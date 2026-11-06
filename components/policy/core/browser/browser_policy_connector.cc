@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser policy connector implementation
+// summary: Implements the browser policy connector, including device management, reporting and file storage service URLs.
+// ---
+
 #include "components/policy/core/browser/browser_policy_connector.h"
 
 #include <stddef.h>

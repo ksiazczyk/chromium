@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loadable plugin placeholder implementation
+// summary: Implements loading of blocked plugins, replacing the placeholder with the real plugin, updating placeholder messages and recording click-to-play user metrics.
+// ---
+
 #include "components/plugins/renderer/loadable_plugin_placeholder.h"
 
 #include <memory>

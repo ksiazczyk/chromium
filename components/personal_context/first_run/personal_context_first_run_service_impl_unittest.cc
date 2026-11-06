@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PersonalContextFirstRunServiceImpl
+// summary: Tests pref clearing on sign-out, notice reset on startup, acknowledgement, and impression histogram logging using mocks and test prefs.
+// ---
+
 #include "components/personal_context/first_run/personal_context_first_run_service_impl.h"
 
 #include <memory>

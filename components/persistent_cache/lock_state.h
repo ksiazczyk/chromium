@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockState enum header
+// summary: Defines the LockState enum describing persistent cache lock states, kept in sync with the sqlite_vfs copy and persisted to logs.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_LOCK_STATE_H_
 #define COMPONENTS_PERSISTENT_CACHE_LOCK_STATE_H_
 

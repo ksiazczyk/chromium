@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SQLite persistent cache backend
+// summary: Unit tests verifying that databases reopen with a matching user version and that version mismatches fail initialization or drop tables depending on connection access mode.
+// ---
+
 #include "components/persistent_cache/sqlite/sqlite_backend_impl.h"
 
 #include <stdint.h>

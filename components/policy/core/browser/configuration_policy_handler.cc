@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration policy handler base classes
+// summary: Implements base policy handler classes for type checking, error reporting and applying policies to preferences.
+// ---
+
 #include "components/policy/core/browser/configuration_policy_handler.h"
 
 #include <stddef.h>

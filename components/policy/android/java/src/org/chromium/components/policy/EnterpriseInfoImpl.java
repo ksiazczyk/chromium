@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise info runtime implementation
+// summary: Runtime implementation of EnterpriseInfo that queries DevicePolicyManager in the background to determine device and profile ownership and caches results.
+// ---
+
 package org.chromium.components.policy;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: 'Lists the code owners of the personal_context component: battre@chromium.org, sophiechang@chromium.org, and vizcay@google.com.'

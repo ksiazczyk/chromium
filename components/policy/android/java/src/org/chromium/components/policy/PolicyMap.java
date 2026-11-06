@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyMap Java wrapper for native policy values
+// summary: Java wrapper around the native PolicyMap class that exposes typed getters for integer, boolean, string, list and dictionary policy values over JNI.
+// ---
+
 package org.chromium.components.policy;
 
 import org.jni_zero.CalledByNative;

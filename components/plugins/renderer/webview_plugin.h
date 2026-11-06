@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView plugin class declaration
+// summary: Declares WebViewPlugin and its Delegate interface for showing HTML data in place of a plugin, including delegate detachment and data replay.
+// ---
+
 #ifndef COMPONENTS_PLUGINS_RENDERER_WEBVIEW_PLUGIN_H_
 #define COMPONENTS_PLUGINS_RENDERER_WEBVIEW_PLUGIN_H_
 

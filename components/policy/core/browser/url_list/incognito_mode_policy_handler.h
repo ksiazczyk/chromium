@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito mode policy handler class declaration
+// summary: Declares the IncognitoModePolicyHandler that checks and applies incognito mode availability together with URL allowlist and blocklist policies.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_INCOGNITO_MODE_POLICY_HANDLER_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_INCOGNITO_MODE_POLICY_HANDLER_H_
 

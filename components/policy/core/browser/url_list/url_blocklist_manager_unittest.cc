@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL blocklist manager unit tests
+// summary: Unit tests verifying URLBlocklist pattern matching and URLBlocklistManager updates driven by blocklist and allowlist preferences.
+// ---
+
 #include "components/policy/core/browser/url_list/url_blocklist_manager.h"
 
 #include <stdint.h>

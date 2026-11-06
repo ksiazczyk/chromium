@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL allowlist policy handler unit tests
+// summary: Unit tests for type checking, pattern validation and application of the URLAllowlist policy to preferences.
+// ---
+
 #include "components/policy/core/browser/url_list/url_allowlist_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentCacheCollection unit tests
+// summary: Unit tests covering cache creation, insertion, retrieval, file deletion and eviction behavior of PersistentCacheCollection using mock and SQLite backends.
+// ---
+
 #include "components/persistent_cache/persistent_cache_collection.h"
 
 #include <algorithm>

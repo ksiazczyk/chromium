@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser policy connector base implementation
+// summary: Implements the connector base that initializes the schema registry, policy providers and the policy service.
+// ---
+
 #include "components/policy/core/browser/browser_policy_connector_base.h"
 
 #include <stddef.h>

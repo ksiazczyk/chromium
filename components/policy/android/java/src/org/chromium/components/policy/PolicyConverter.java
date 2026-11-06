@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java to native policy converter
+// summary: Converts Java policy key/value pairs from Bundles into native PolicyBundle updates over JNI, serializing Bundles and bundle arrays to JSON strings.
+// ---
+
 package org.chromium.components.policy;
 
 import android.os.Bundle;

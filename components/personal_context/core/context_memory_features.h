@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context memory feature name helper declaration
+// summary: Declares GetStringNameForContextMemoryFeature, which returns the equivalent string name for a context memory feature.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_CONTEXT_MEMORY_FEATURES_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_CONTEXT_MEMORY_FEATURES_H_
 

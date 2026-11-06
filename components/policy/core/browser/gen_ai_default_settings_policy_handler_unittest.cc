@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GenAI default settings policy handler unit tests
+// summary: Unit tests covering default application, invalid values, feature flags and overriding policies for the GenAI default settings handler.
+// ---
+
 #include "components/policy/core/browser/gen_ai_default_settings_policy_handler.h"
 
 #include <string>

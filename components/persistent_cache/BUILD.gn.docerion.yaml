@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for persistent_cache
+summary: Defines the persistent_cache component plus test support, unit test and perf test targets with their sources, dependencies and Fuchsia-specific conditionals.

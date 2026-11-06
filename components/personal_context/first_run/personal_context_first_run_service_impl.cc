@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalContextFirstRunService implementation
+// summary: Implements notice acknowledgement, impression metrics, eligibility checks, and pref resets on sign-out or debug startup.
+// ---
+
 #include "components/personal_context/first_run/personal_context_first_run_service_impl.h"
 
 #include <utility>

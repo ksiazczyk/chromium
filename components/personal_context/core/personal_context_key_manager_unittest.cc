@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersonalContextKeyManager unit tests
+// summary: Unit tests verifying key generation and persistence, public key keyset serialization, and eligibility handling in the Personal Context key manager.
+// ---
+
 #include "components/personal_context/core/personal_context_key_manager.h"
 
 #include <optional>

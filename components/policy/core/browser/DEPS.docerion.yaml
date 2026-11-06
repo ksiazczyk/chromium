@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the browser policy directory
+summary: DEPS file defining the include dependencies allowed for code in the browser policy directory.

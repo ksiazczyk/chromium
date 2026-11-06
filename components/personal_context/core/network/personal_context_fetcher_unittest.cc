@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personal context fetcher unit tests
+// summary: Unit tests for PersonalContextFetcher covering variations headers, endpoint URLs, access token handling and error responses.
+// ---
+
 #include "components/personal_context/core/network/personal_context_fetcher.h"
 
 #include <memory>

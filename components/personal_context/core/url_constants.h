@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal context URL constants header
+// summary: Declares inline constants for personal intelligence help center URLs, connected apps URL and the @@ trigger text.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_URL_CONSTANTS_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_URL_CONSTANTS_H_
 

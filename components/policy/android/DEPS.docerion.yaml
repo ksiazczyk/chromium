@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android policy component DEPS include rules
+summary: Declares the additional include rules allowed for this directory, permitting dependencies on components/cached_flags and content/public/test/android.

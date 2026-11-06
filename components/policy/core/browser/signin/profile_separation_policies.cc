@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileSeparationPolicies implementation
+// summary: Implements the ProfileSeparationPolicies class that stores profile separation settings, data migration settings, and managed account signin restrictions.
+// ---
+
 #include "components/policy/core/browser/signin/profile_separation_policies.h"
 
 namespace policy {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite persistent cache backend class declaration
+// summary: Declares SqliteBackendImpl, the Backend implementation backed by a sandboxed SQLite database, with schema versioning, find and insert operations, and SQLite error translation.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_SQLITE_SQLITE_BACKEND_IMPL_H_
 #define COMPONENTS_PERSISTENT_CACHE_SQLITE_SQLITE_BACKEND_IMPL_H_
 

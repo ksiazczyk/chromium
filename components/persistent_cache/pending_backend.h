@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingBackend connection state header
+// summary: Declares the PendingBackend struct holding the state needed to connect to a cache backend, including SQLite pending file data and Mojo serialization support.
+// ---
+
 #ifndef COMPONENTS_PERSISTENT_CACHE_PENDING_BACKEND_H_
 #define COMPONENTS_PERSISTENT_CACHE_PENDING_BACKEND_H_
 

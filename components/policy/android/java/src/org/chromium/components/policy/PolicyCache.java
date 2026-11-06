@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy cache manager
+// summary: Manages a SharedPreferences-backed cache of policy values so they are available during browser launch before the native library and async policy loading finish.
+// ---
+
 package org.chromium.components.policy;
 
 import android.content.Context;

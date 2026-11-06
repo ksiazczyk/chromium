@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android policy cache updater class declaration
+// summary: Declares the PolicyCacheUpdater class, a PolicyService observer that keeps a cache of valid policies for Android.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_ANDROID_POLICY_CACHE_UPDATER_ANDROID_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_ANDROID_POLICY_CACHE_UPDATER_ANDROID_H_
 

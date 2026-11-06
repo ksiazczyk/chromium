@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android policy cache updater
+// summary: Unit tests verifying that PolicyCacheUpdater caches only policies without errors, using a stub policy handler, a mock policy provider, and a Java test supporter.
+// ---
+
 #include "components/policy/core/browser/android/policy_cache_updater_android.h"
 
 #include <jni.h>

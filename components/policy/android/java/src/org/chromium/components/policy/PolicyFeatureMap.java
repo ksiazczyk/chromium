@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy feature map
+// summary: Java accessor for the native policy feature map, exposing cached flags such as the toggle for using RestrictionsManager in the app restrictions provider.
+// ---
+
 package org.chromium.components.policy;
 
 import org.jni_zero.JNINamespace;

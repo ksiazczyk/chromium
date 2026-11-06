@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy status provider unit tests
+// summary: Unit tests for the base policy status provider covering default status, observers and policy data population.
+// ---
+
 #include "components/policy/core/browser/webui/policy_status_provider.h"
 
 #include <memory>

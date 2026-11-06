@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView plugin implementation
+// summary: Implements WebViewPlugin, a blink WebPlugin that forwards drawing and input events to an embedded WebView used to render HTML placeholder UI.
+// ---
+
 #include "components/plugins/renderer/webview_plugin.h"
 
 #include <stddef.h>

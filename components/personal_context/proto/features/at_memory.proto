@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory Query Proto Definitions
+// summary: Defines protobuf messages for AtMemory search queries, including query classification, autofill fetch plans, and filter specifications.
+// ---
+
 edition = "2024";
 
 package personal_context.proto;

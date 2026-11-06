@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the personal context core component
+summary: Defines GN source sets for the personal context core, features, prefs, test support mocks and unit tests together with their dependencies.

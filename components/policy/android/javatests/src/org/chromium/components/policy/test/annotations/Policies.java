@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policies annotations and utilities for Android policy testing
+// summary: Provides JUnit annotations and a registration hook for adding or removing app restriction policies when testing policy-dependent Android code in Chromium.
+// ---
+
 package org.chromium.components.policy.test.annotations;
 
 import android.content.Context;

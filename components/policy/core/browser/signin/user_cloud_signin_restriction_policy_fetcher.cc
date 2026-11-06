@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserCloudSigninRestrictionPolicyFetcher implementation
+// summary: Fetches the ManagedAccountsSigninRestriction policy from the SecureConnect API with an access token and parses it into ProfileSeparationPolicies.
+// ---
+
 #include "components/policy/core/browser/signin/user_cloud_signin_restriction_policy_fetcher.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Search Proto Definitions
+// summary: Defines protobuf request and response messages for smart search, returning items with descriptions and source references.
+// ---
+
 edition = "2024";
 
 package personal_context.proto;

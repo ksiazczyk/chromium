@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock personal context eligibility service
+// summary: Declares a gmock mock of PersonalContextEligibilityService with stubbed observer, initialization and eligibility methods for tests.
+// ---
+
 #ifndef COMPONENTS_PERSONAL_CONTEXT_CORE_MOCK_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_H_
 #define COMPONENTS_PERSONAL_CONTEXT_CORE_MOCK_PERSONAL_CONTEXT_ELIGIBILITY_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for policy content
+summary: Defines source sets and dependencies for the policy blocklist, safe sites and proceed-until-response navigation throttles and their unit tests.

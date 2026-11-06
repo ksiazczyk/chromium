@@ -1,0 +1,4 @@
+# Docerion header of ENTERPRISE_POLICY_OWNERS.
+type: config
+title: Enterprise policy owners list
+summary: Lists the owners reviewing enterprise policy changes, preferring the enterprise-policy-review alias to distribute review load.

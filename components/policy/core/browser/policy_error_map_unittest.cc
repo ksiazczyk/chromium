@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy error map unit tests
+// summary: Unit tests covering PolicyErrorMap error storage, fatal error detection, message retrieval and replacement handling with and without a resource bundle.
+// ---
+
 #include "components/policy/core/browser/policy_error_map.h"
 
 #include "base/memory/raw_ptr.h"

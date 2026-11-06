@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy blocklist service implementation
+// summary: Implements the keyed service exposing URL blocklist states, including a ChromeOS always-on VPN pre-connect blocklist source.
+// ---
+
 #include "components/policy/core/browser/url_list/policy_blocklist_service.h"
 
 #include <utility>

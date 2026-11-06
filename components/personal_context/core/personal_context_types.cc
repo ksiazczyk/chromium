@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal Context type helpers and result types
+// summary: Implements string conversion for Personal Context non-eligibility reasons and defines fetch result types for context and PII entity requests.
+// ---
+
 #include "components/personal_context/core/personal_context_types.h"
 
 #include "base/notreached.h"

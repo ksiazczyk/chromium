@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito mode policy handler unit tests
+// summary: Unit tests covering the interaction between incognito mode availability, allowlist and blocklist policies and their preference outcomes.
+// ---
+
 #include "components/policy/core/browser/url_list/incognito_mode_policy_handler.h"
 
 #include "base/memory/ptr_util.h"

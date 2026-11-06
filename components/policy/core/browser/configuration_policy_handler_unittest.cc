@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConfigurationPolicyHandler unit tests
+// summary: Unit tests for schema validating, string mapping and list policy handlers using JSON policy fixtures and test schemas.
+// ---
+
 #include "components/policy/core/browser/configuration_policy_handler.h"
 
 #include <memory>

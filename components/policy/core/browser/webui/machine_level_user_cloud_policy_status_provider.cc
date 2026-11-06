@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine level user cloud policy status provider
+// summary: Implements a status provider reporting machine level cloud policy state, refresh times, enrollment and device details.
+// ---
+
 #include "components/policy/core/browser/webui/machine_level_user_cloud_policy_status_provider.h"
 
 #include <string>

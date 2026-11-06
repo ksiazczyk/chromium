@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito mode policy handler test fixture declaration
+// summary: Declares a shared test base class for verifying incognito mode availability and URL list policy handling.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_INCOGNITO_MODE_POLICY_HANDLER_TEST_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_URL_LIST_INCOGNITO_MODE_POLICY_HANDLER_TEST_H_
 

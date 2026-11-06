@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Policy component build rules and template generation
+summary: GN build file defining the policy component targets and generation of policy source, constants and templates for the supported platforms.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserCloudSigninRestrictionPolicyFetcher declaration
+// summary: Declares the fetcher that retrieves the account-level ManagedAccountsSigninRestriction policy and returns ProfileSeparationPolicies via callback.
+// ---
+
 #ifndef COMPONENTS_POLICY_CORE_BROWSER_SIGNIN_USER_CLOUD_SIGNIN_RESTRICTION_POLICY_FETCHER_H_
 #define COMPONENTS_POLICY_CORE_BROWSER_SIGNIN_USER_CLOUD_SIGNIN_RESTRICTION_POLICY_FETCHER_H_
 
