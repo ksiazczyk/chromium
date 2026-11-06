@@ -1,0 +1,4 @@
+# Docerion header of mini_map_tab_helper.mm.
+type: source
+title: MiniMapTabHelper implementation
+summary: Intercepts Google Maps requests to present the native mini map, or falls back to opening the URL with campaign tokens when opted out or on failure.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP server properties factory implementation
+// summary: Creates net::HttpServerProperties instances backed by a JSON pref store through a PrefDelegate adapter that observes pref loading.
+// ---
+
 #include "ios/chrome/browser/net/model/http_server_properties_factory.h"
 
 #include <memory>

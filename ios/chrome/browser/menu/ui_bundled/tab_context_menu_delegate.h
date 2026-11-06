@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextMenuDelegate protocol
+// summary: Defines a delegate protocol for tab context menu actions like sharing, bookmarking, pinning and grouping tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MENU_UI_BUNDLED_TAB_CONTEXT_MENU_DELEGATE_H_
 #define IOS_CHROME_BROWSER_MENU_UI_BUNDLED_TAB_CONTEXT_MENU_DELEGATE_H_
 

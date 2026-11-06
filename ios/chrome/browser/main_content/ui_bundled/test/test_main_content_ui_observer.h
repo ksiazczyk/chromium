@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test main content UI observer header
+// summary: Declares TestMainContentUIObserver, an object that observes the main content scroll view's y offset via the ChromeBroadcastObserver protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_TEST_TEST_MAIN_CONTENT_UI_OBSERVER_H_
 #define IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_TEST_TEST_MAIN_CONTENT_UI_OBSERVER_H_
 

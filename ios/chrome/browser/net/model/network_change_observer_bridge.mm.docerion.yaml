@@ -1,0 +1,4 @@
+# Docerion header of network_change_observer_bridge.mm.
+type: source
+title: Network change observer bridge implementation
+summary: Registers the bridge with net::NetworkChangeNotifier on construction and forwards connection type changes to the weak Objective-C observer.

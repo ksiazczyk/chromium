@@ -1,0 +1,4 @@
+# Docerion header of mini_map_mediator.mm.
+type: source
+title: MiniMapMediator implementation
+summary: Implements consent flow decisions and records histograms for mini map consent and outcome metrics by query type.

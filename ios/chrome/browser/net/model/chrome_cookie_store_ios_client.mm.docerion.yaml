@@ -1,0 +1,4 @@
+# Docerion header of chrome_cookie_store_ios_client.mm.
+type: source
+title: ChromeCookieStoreIOSClient implementation
+summary: Implements ChromeCookieStoreIOSClient, returning the web IO thread task runner used for cookie store tasks.

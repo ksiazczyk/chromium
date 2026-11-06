@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_uma.mm.
+type: source
+title: New tab page UMA metrics implementation
+summary: Records UMA histogram actions for user activity on the iOS new tab page, including omnibox navigation, voice search, and Google homepage visits.

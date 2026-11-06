@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP user agent settings class declaration
+// summary: Declares IOSChromeHttpUserAgentSettings, an HttpUserAgentSettings implementation that supplies the Accept-Language header from preference settings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_IOS_CHROME_HTTP_USER_AGENT_SETTINGS_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_IOS_CHROME_HTTP_USER_AGENT_SETTINGS_H_
 

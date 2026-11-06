@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MailtoHandlerService header
+// summary: Header declaring an abstract keyed service that provides handlers for mailto links in iOS Chrome, including settings title and controller creation, UI dismissal, and link handling with fallback on error.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAILTO_HANDLER_MODEL_MAILTO_HANDLER_SERVICE_H_
 #define IOS_CHROME_BROWSER_MAILTO_HANDLER_MODEL_MAILTO_HANDLER_SERVICE_H_
 

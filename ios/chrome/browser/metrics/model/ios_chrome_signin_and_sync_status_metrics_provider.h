@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromeSigninAndSyncStatusMetricsProvider header
+// summary: Declares a metrics provider that queries the sign-in and sync status of all profiles and adds it to UMA log records.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_IOS_CHROME_SIGNIN_AND_SYNC_STATUS_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_IOS_CHROME_SIGNIN_AND_SYNC_STATUS_METRICS_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mini map model build definition
+summary: Defines the model and unit_tests source sets with their sources and dependencies for the iOS mini map feature.

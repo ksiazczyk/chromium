@@ -1,0 +1,4 @@
+# Docerion header of test_main_content_ui_state.mm.
+type: test
+title: Test main content UI state implementation
+summary: Implements TestMainContentUIState by synthesizing the writable yContentOffset property.

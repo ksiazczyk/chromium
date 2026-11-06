@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for browser main model
+summary: Defines the model source_set listing the browser implementation sources and their many dependencies for the iOS Chrome main browser model.

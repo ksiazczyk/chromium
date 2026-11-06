@@ -1,0 +1,4 @@
+# Docerion header of ios_feed_activity_metrics_provider_unittest.mm.
+type: test
+title: iOS feed activity metrics provider unit tests
+summary: Unit tests verifying feed activity bucket histograms when zero, one, or multiple profiles are loaded.

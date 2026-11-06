@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User interface style recorder declarations
+// summary: Declares a recorder that reports metrics when the user interface style changes on iOS 13 and later.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_USER_INTERFACE_STYLE_RECORDER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_USER_INTERFACE_STYLE_RECORDER_H_
 

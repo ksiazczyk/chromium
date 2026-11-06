@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main content UI broadcasting utility declarations
+// summary: Declares functions to start and stop broadcasting MainContentUI state properties through a ChromeBroadcaster.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_MAIN_CONTENT_UI_BROADCASTING_UTIL_H_
 #define IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_MAIN_CONTENT_UI_BROADCASTING_UTIL_H_
 

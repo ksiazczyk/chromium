@@ -1,0 +1,4 @@
+# Docerion header of retryable_url_fetcher_unittest.mm.
+type: test
+title: RetryableURLFetcher unit tests
+summary: Unit tests for RetryableURLFetcher covering successful responses, HTTP 404 failures, and invalid URLs returned by the delegate.

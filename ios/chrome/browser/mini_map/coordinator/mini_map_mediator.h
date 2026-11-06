@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MiniMapMediator interface
+// summary: Declares the mediator that handles consent and user actions for the mini map feature, with text and URL query types.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MINI_MAP_COORDINATOR_MINI_MAP_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_MINI_MAP_COORDINATOR_MINI_MAP_MEDIATOR_H_
 

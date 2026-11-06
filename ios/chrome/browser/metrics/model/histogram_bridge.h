@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram bridge interface for MetricKit metrics
+// summary: Declares the MetricKitExitReason enum and the HistogramBridge class that logs MetricKit state-specific histograms through base UMA APIs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_HISTOGRAM_BRIDGE_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_HISTOGRAM_BRIDGE_H_
 

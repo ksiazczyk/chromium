@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mini map coordinator build targets
+summary: Defines the coordinator and unit test source sets with their sources and dependencies for the mini map feature.

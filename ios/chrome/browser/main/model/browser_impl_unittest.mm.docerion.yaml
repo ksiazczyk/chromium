@@ -1,0 +1,4 @@
+# Docerion header of browser_impl_unittest.mm.
+type: test
+title: BrowserImpl unit tests
+summary: Unit tests verifying BrowserImpl accessors and the lifecycle of the inactive browser using a test profile and fake scene state.

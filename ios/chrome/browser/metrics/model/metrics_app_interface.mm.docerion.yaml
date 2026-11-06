@@ -1,0 +1,4 @@
+# Docerion header of metrics_app_interface.mm.
+type: source
+title: MetricsAppInterface test helpers implementation
+summary: Implements the MetricsAppInterface helpers that toggle metrics and crash reporting and inspect UKM, UMA and DWA logs for testing.

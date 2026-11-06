@@ -1,0 +1,4 @@
+# Docerion header of mini_map_service_factory.mm.
+type: source
+title: MiniMapServiceFactory implementation
+summary: Builds MiniMapService from profile prefs and the TemplateURLService when the mini map universal link feature is enabled.

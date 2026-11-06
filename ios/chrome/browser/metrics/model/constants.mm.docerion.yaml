@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Metrics constants
+summary: Defines shared constant keys and histogram names for feed activity and notification client status metrics in iOS Chrome.

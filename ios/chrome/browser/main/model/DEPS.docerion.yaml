@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser main model
+summary: Specifies include rules and per-file exceptions governing which headers sources in this directory are allowed to include.

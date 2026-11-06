@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserActionFactory interface
+// summary: Declares a browser-dependent action factory for opening tabs, incognito tabs, new windows, Lens search and saving images.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MENU_UI_BUNDLED_BROWSER_ACTION_FACTORY_H_
 #define IOS_CHROME_BROWSER_MENU_UI_BUNDLED_BROWSER_ACTION_FACTORY_H_
 

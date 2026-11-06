@@ -1,0 +1,4 @@
+# Docerion header of default_browser_promo_scene_agent.mm.
+type: source
+title: Default browser promo scene agent implementation
+summary: Implements the default browser promo scene agent, registering promos such as post-restore, all tabs, and post-default-abandonment based on eligibility.

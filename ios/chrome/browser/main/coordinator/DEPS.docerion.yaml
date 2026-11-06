@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the coordinator directory
+summary: Defines the allowed include rules restricting which headers and directories files in this coordinator may depend on.

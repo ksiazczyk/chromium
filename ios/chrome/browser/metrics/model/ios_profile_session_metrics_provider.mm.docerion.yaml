@@ -1,0 +1,4 @@
+# Docerion header of ios_profile_session_metrics_provider.mm.
+type: source
+title: IOS profile session metrics provider implementation
+summary: Reports the Session.IsActive histograms for all loaded profiles and notifies the activity reporter when a session is active.

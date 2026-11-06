@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityReporter Swift implementation
+// summary: Swift wrapper around StateReporting and MetricKit that reports active and inactive state transitions for UI domains on iOS 27 and newer.
+// ---
+
 import Foundation
 
 // Public interfaces are exported and callable in all iOS builds. I.e. no need

@@ -1,0 +1,4 @@
+# Docerion header of mobile_session_crash_helper_metrics_provider.mm.
+type: source
+title: Mobile session crash helper metrics provider implementation
+summary: Logs histograms about the previous session's shutdown type, covering crash logs, memory warnings, app state and OOM shutdown hints.

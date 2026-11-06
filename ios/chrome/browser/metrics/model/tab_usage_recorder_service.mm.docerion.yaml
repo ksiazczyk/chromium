@@ -1,0 +1,4 @@
+# Docerion header of tab_usage_recorder_service.mm.
+type: source
+title: Tab usage recorder service implementation
+summary: Implements the tab usage recorder service, recording metrics about open tabs, activation counts, and session restoration per browser type.

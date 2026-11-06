@@ -1,0 +1,4 @@
+# Docerion header of google_groups_manager_factory.mm.
+type: source
+title: Google groups manager factory implementation
+summary: Implements the profile-keyed factory that builds a GoogleGroupsManager service for each iOS Chrome profile and registers its profile preferences.

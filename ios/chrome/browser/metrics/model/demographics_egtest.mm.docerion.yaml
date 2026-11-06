@@ -1,0 +1,4 @@
+# Docerion header of demographics_egtest.mm.
+type: test
+title: Demographics reporting Earl Grey tests
+summary: End-to-end Earl Grey tests verifying UMA and UKM user demographics reporting with the demographics feature enabled or disabled.

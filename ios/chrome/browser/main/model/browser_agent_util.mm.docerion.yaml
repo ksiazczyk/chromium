@@ -1,0 +1,4 @@
+# Docerion header of browser_agent_util.mm.
+type: source
+title: Browser agent attachment utility implementation
+summary: Implements AttachBrowserAgents, instantiating and attaching the full set of browser agents to a Browser depending on build flags and feature state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MiniMapMediatorDelegate protocol
+// summary: Defines the delegate protocol used to show the mini map, optionally with an IPH bubble on screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MINI_MAP_COORDINATOR_MINI_MAP_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_MINI_MAP_COORDINATOR_MINI_MAP_MEDIATOR_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionFactory interface
+// summary: Declares a factory creating UIActions with consistent titles, images and histogram recording for menu scenarios.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MENU_UI_BUNDLED_ACTION_FACTORY_H_
 #define IOS_CHROME_BROWSER_MENU_UI_BUNDLED_ACTION_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ui_blocker_scene_agent.mm.
+type: source
+title: UI blocker scene agent implementation
+summary: Implements the blocking overlay window shown above scene content when a modal overlay appears, refreshing the app switcher snapshot when hidden in the background.

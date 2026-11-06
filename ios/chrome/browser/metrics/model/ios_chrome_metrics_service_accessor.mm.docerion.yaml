@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_metrics_service_accessor.mm.
+type: source
+title: IOSChromeMetricsServiceAccessor implementation
+summary: Implements static helpers that report whether metrics and crash reporting are enabled and register synthetic field trials for iOS Chrome.

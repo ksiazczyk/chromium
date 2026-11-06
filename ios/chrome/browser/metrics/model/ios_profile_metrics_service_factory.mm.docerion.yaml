@@ -1,0 +1,4 @@
+# Docerion header of ios_profile_metrics_service_factory.mm.
+type: source
+title: iOS profile metrics service factory implementation
+summary: Builds ProfileMetricsService instances with an empty profile context, redirecting incognito sessions to the regular profile for session time.

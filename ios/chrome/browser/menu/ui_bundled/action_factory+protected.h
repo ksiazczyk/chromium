@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionFactory protected category
+// summary: Declares a protected ActionFactory category for creating UIActions that record menu action metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MENU_UI_BUNDLED_ACTION_FACTORY_PROTECTED_H_
 #define IOS_CHROME_BROWSER_MENU_UI_BUNDLED_ACTION_FACTORY_PROTECTED_H_
 

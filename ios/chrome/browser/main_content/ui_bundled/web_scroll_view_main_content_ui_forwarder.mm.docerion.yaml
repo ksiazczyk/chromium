@@ -1,0 +1,4 @@
+# Docerion header of web_scroll_view_main_content_ui_forwarder.mm.
+type: source
+title: Web scroll view main content UI forwarder implementation
+summary: Implements a forwarder that observes the active WebState's scroll view proxy and WebStateList changes to drive MainContentUIState updates in iOS Chrome.

@@ -1,0 +1,4 @@
+# Docerion header of main_content_ui_broadcasting_util.mm.
+type: source
+title: Main content UI broadcasting utility implementation
+summary: Implements starting and stopping broadcasts of scroll view size, content size, inset, offset, and gesture state when the smooth scrolling broadcaster feature is enabled.

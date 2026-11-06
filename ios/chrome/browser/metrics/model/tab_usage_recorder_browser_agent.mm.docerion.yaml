@@ -1,0 +1,4 @@
+# Docerion header of tab_usage_recorder_browser_agent.mm.
+type: source
+title: Tab usage recorder browser agent implementation
+summary: Implements tracking of restored tabs, evictions, reloads, renderer terminations, and startup latency metrics for a browser's tabs.

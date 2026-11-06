@@ -1,0 +1,4 @@
+# Docerion header of cookies_egtest.mm.
+type: test
+title: Earl Grey tests for cookie handling
+summary: Earl Grey integration tests verifying cookie isolation between normal and incognito tabs and that incognito cookies are cleared.

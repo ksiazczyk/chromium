@@ -1,0 +1,4 @@
+# Docerion header of accept_language_pref_watcher.mm.
+type: source
+title: AcceptLanguagePrefWatcher implementation
+summary: Implements the Accept-Language preference watcher, generating the HTTP header value from the preference and updating it when the preference changes.

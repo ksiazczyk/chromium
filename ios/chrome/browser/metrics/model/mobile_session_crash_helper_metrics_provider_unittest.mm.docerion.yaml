@@ -1,0 +1,4 @@
+# Docerion header of mobile_session_crash_helper_metrics_provider_unittest.mm.
+type: test
+title: Mobile session crash helper metrics provider unit tests
+summary: Parameterized unit tests verifying shutdown type histogram buckets for combinations of memory warning, crash log, clean shutdown and upgrade flags.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_default_browser_metrics_provider.mm.
+type: source
+title: Default browser metrics provider implementation
+summary: Records default browser histograms and device switcher segmentation signals such as Android switcher status into UMA logs.

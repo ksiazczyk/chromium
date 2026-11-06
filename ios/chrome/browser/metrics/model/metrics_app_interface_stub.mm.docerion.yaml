@@ -1,0 +1,4 @@
+# Docerion header of metrics_app_interface_stub.mm.
+type: source
+title: MetricsAppInterface Earl Grey stub
+summary: Registers a stub of MetricsAppInterface in the app main queue so Earl Grey tests can call its helper methods.

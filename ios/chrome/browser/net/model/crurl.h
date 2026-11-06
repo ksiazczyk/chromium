@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrURL Objective-C URL wrapper declaration
+// summary: Declares CrURL, a pure Objective-C wrapper around GURL and NSURL that keeps C++ types out of APIs intended for Swift use.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_CRURL_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_CRURL_H_
 

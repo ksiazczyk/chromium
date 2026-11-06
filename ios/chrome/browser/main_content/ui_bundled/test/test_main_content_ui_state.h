@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test main content UI state header
+// summary: Declares TestMainContentUIState, a MainContentUIState subclass whose broadcast properties can be set directly without an updater.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_TEST_TEST_MAIN_CONTENT_UI_STATE_H_
 #define IOS_CHROME_BROWSER_MAIN_CONTENT_UI_BUNDLED_TEST_TEST_MAIN_CONTENT_UI_STATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Menu UI bundled build rules
+summary: Defines GN build targets, sources and dependencies for the iOS menu UI bundled code and its unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito usage app state agent interface
+// summary: Declares an app state agent that logs the length of continuous incognito usage, ignoring normal/incognito transitions shorter than ten seconds.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_INCOGNITO_USAGE_APP_STATE_AGENT_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_INCOGNITO_USAGE_APP_STATE_AGENT_H_
 

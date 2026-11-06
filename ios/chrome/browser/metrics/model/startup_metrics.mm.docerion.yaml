@@ -1,0 +1,4 @@
+# Docerion header of startup_metrics.mm.
+type: source
+title: Startup metrics implementation
+summary: Implements classification of launch reasons into startup temperature and cold start types and logs duration histograms with variant suffixes.

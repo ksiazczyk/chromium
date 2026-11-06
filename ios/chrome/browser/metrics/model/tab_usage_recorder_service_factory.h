@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab usage recorder service factory declarations
+// summary: Declares the factory that associates TabUsageRecorderService instances with iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_TAB_USAGE_RECORDER_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_TAB_USAGE_RECORDER_SERVICE_FACTORY_H_
 

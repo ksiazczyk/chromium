@@ -1,0 +1,4 @@
+# Docerion header of browser_lifecycle_manager_unittest.mm.
+type: test
+title: Browser lifecycle manager unit tests
+summary: Unit tests for BrowserLifecycleManager using test profiles, fake scene state, and OCMock to verify browser creation, session restoration, and shutdown behavior.

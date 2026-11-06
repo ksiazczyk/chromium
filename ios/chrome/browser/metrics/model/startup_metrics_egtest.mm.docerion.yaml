@@ -1,0 +1,4 @@
+# Docerion header of startup_metrics_egtest.mm.
+type: test
+title: Startup metrics Earl Grey tests
+summary: Earl Grey integration tests verifying cold start duration and launch reason histograms across foreground and background launch scenarios.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile session crash helper metrics provider header
+// summary: Declares the mobile session shutdown type enum and a hook for logging shutdown metrics that depend on crash report analysis.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_MOBILE_SESSION_CRASH_HELPER_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_MOBILE_SESSION_CRASH_HELPER_METRICS_PROVIDER_H_
 

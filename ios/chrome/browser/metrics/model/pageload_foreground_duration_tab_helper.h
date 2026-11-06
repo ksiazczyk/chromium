@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pageload foreground duration tab helper header
+// summary: Declares a tab helper that tracks the time pages spend visible on screen and logs them as UKM metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_PAGELOAD_FOREGROUND_DURATION_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_PAGELOAD_FOREGROUND_DURATION_TAB_HELPER_H_
 

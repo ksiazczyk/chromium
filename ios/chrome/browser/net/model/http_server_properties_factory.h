@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP server properties factory class declaration
+// summary: Declares HttpServerPropertiesFactory, whose static method creates net::HttpServerProperties from a JSON pref store and NetLog.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_HTTP_SERVER_PROPERTIES_FACTORY_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_HTTP_SERVER_PROPERTIES_FACTORY_H_
 

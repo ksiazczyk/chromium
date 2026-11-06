@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_metrics_service_client.mm.
+type: source
+title: IOSChromeMetricsServiceClient implementation
+summary: Implements the iOS Chrome metrics service client, registering metrics providers and configuring uploads, UKM, and DWA services.

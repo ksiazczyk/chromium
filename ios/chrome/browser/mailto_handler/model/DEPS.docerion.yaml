@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mailto handler model dependency rules
+summary: Declares allowed include dependencies for the mailto handler model directory, permitting ios/chrome/browser/signin/model.

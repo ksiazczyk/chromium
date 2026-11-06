@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Menu UI bundled include rules
+summary: Lists the include paths that files in the menu UI bundled directory are allowed to depend on.

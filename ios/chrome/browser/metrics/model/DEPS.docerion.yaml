@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the metrics model directory
+summary: Defines allowed include dependencies for the metrics model directory, with specific exceptions for individual metrics provider files.

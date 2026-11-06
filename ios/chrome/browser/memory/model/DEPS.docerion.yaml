@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for memory model
+summary: Grants memory_debugger.mm an exception to include UIKit and device utility headers, with a TODO to remove the dependency.

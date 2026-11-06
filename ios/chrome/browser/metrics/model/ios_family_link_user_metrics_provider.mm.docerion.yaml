@@ -1,0 +1,4 @@
+# Docerion header of ios_family_link_user_metrics_provider.mm.
+type: source
+title: iOS Family Link user metrics provider implementation
+summary: Builds supervised user log records for all loaded profiles and emits Family Link supervision histograms for UMA reporting.

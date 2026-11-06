@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for main UI bundled
+summary: Restricts which headers this directory may include, banning some test interfaces and allowlisting dependencies for the main UI bundled code.

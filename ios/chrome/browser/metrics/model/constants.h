@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics histogram name constants
+// summary: Declares the activity bucket key and histogram names used by iOS Chrome metrics providers for feed and notification client status filters.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Main content UI include rules
+summary: Defines allowed include rules for the main content UI directory, covering broadcaster and web view proxy headers.

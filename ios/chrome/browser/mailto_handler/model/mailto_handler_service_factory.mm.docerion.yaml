@@ -1,0 +1,4 @@
+# Docerion header of mailto_handler_service_factory.mm.
+type: source
+title: Mailto handler service factory implementation
+summary: Builds per-profile MailtoHandlerService instances by assembling a configuration from signin and application context providers.

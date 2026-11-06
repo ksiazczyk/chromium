@@ -1,0 +1,4 @@
+# Docerion header of mailto_handler_service.mm.
+type: source
+title: Mailto handler service implementation
+summary: Provides the default constructor and destructor for the MailtoHandlerService class.

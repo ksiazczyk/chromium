@@ -1,0 +1,4 @@
+# Docerion header of tab_usage_recorder_egtest.mm.
+type: test
+title: Tab usage recorder Earl Grey tests
+summary: Earl Grey UI tests verifying tab usage metrics such as tab eviction, restores, and renderer terminations in Chrome for iOS.

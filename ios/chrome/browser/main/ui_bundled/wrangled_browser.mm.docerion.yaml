@@ -1,0 +1,4 @@
+# Docerion header of wrangled_browser.mm.
+type: source
+title: WrangledBrowser browser provider implementation
+summary: Implements WrangledBrowser by forwarding view controller, browser, profile and incognito queries to the wrapped BrowserCoordinator.

@@ -1,0 +1,4 @@
+# Docerion header of memory_debugger.mm.
+type: source
+title: MemoryDebugger view implementation
+summary: Implements the MemoryDebugger view with memory metric labels, a memory warning trigger, and controls for artificial memory bloat.

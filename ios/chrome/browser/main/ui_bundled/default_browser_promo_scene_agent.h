@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo scene agent header
+// summary: Declares DefaultBrowserPromoSceneAgent, a scene agent that shows the default browser fullscreen promo based on scene activation level changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_MAIN_UI_BUNDLED_DEFAULT_BROWSER_PROMO_SCENE_AGENT_H_
 #define IOS_CHROME_BROWSER_MAIN_UI_BUNDLED_DEFAULT_BROWSER_PROMO_SCENE_AGENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory metrics implementation
+// summary: Implements memory_util functions that report free physical, real used, dirty VM, and internal VM memory via Mach APIs.
+// ---
+
 #include "ios/chrome/browser/memory/model/memory_metrics.h"
 
 #include <mach/mach.h>

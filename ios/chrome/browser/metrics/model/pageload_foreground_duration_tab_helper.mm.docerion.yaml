@@ -1,0 +1,4 @@
+# Docerion header of pageload_foreground_duration_tab_helper.mm.
+type: source
+title: Pageload foreground duration tab helper implementation
+summary: Implements foreground page duration tracking by observing web state navigation and app background notifications to record UKM entries.

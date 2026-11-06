@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsAppInterface app-side test helpers header
+// summary: Declares app-side helpers compiled into the app binary for enabling, disabling and verifying metrics, UKM, UMA and DWA behavior during tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_METRICS_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_METRICS_APP_INTERFACE_H_
 

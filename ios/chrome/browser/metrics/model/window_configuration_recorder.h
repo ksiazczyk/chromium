@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowConfigurationRecorder header
+// summary: Declares the WindowConfiguration enum of multi-window layout states and the WindowConfigurationRecorder interface that reports time spent in each configuration.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_METRICS_MODEL_WINDOW_CONFIGURATION_RECORDER_H_
 #define IOS_CHROME_BROWSER_METRICS_MODEL_WINDOW_CONFIGURATION_RECORDER_H_
 

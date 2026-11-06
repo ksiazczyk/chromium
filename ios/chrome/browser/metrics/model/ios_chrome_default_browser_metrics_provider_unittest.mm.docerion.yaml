@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_default_browser_metrics_provider_unittest.mm.
+type: test
+title: Default browser metrics provider unit tests
+summary: Tests the default browser metrics recorded and uploaded by IOSChromeDefaultBrowserMetricsProvider across profiles and device switcher segments.

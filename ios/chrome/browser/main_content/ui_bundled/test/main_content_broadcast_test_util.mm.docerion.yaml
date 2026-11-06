@@ -1,0 +1,4 @@
+# Docerion header of main_content_broadcast_test_util.mm.
+type: test
+title: Main content broadcast test utility implementation
+summary: Implements VerifyMainContentUIBroadcast by temporarily changing the content offset and asserting the observed broadcast values match expectations.

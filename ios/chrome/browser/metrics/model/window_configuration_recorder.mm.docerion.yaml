@@ -1,0 +1,4 @@
+# Docerion header of window_configuration_recorder.mm.
+type: source
+title: WindowConfigurationRecorder implementation
+summary: Periodically samples foreground Chrome windows every 20 seconds and records the multi-window configuration to the IOS.MultiWindow.Configuration histogram, pausing while backgrounded.

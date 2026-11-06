@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionTypeObserverBridge declaration
+// summary: Declares an Objective-C protocol and a C++ bridge class that forwards network connection type change notifications to a delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_NET_MODEL_CONNECTION_TYPE_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_NET_MODEL_CONNECTION_TYPE_OBSERVER_BRIDGE_H_
 

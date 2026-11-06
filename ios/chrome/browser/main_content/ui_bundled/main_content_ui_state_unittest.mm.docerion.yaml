@@ -1,0 +1,4 @@
+# Docerion header of main_content_ui_state_unittest.mm.
+type: test
+title: MainContentUIStateUpdater unit tests
+summary: Unit tests covering scroll offset updates, dragging and deceleration state, pixel alignment handling, and scroll interruption resets.

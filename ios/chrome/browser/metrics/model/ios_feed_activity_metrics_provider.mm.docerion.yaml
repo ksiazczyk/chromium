@@ -1,0 +1,4 @@
+# Docerion header of ios_feed_activity_metrics_provider.mm.
+type: source
+title: iOS feed activity metrics provider implementation
+summary: Logs the feed activity bucket of every loaded profile to the all-feeds activity histogram during session data collection.
