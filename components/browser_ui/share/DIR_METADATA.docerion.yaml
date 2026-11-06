@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the share directory
+summary: Maps the share browser UI directory to the UI>Browser>Sharing monorail component and Buganizer component 1457306.

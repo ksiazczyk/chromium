@@ -5,6 +5,12 @@
     found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Photo picker toolbar layout
+summary: Android layout for the photo picker toolbar, containing a Done button that is disabled until a selection is made.
+-->
+
 <org.chromium.components.browser_ui.photo_picker.PhotoPickerToolbar
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

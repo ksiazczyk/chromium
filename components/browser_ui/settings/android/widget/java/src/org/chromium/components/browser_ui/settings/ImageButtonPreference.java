@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image button preference widget
+// summary: Preference with an image button widget that forwards clicks on the button to the preference click listener while ignoring clicks on the preference itself.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

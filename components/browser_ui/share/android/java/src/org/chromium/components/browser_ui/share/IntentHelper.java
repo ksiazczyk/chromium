@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntentHelper for issuing Android intents
+// summary: Issues Android intents on behalf of native code, such as sending an email with an optional file attachment via a chooser.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import android.content.ActivityNotFoundException;

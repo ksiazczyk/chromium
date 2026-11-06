@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSwitchPreference
+// summary: Chrome switch preference that supports managed preferences, containment background styles and screen reader summary announcements.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static org.chromium.components.browser_ui.widget.containment.ContainmentUiUtils.parseContainmentAttributes;

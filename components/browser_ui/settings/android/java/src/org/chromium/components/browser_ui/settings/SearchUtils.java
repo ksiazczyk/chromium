@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchUtils helper for settings search
+// summary: Helper that applies default search behavior to search views and menu items in Chromium settings, notifying listeners of query changes.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchViewProvider interface
+// summary: Interface for settings fragments with fragment-scope search to coordinate search UI visibility with the global settings search.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import androidx.appcompat.widget.SearchView;

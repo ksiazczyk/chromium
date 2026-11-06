@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard constants for shared image URI preference keys
+// summary: Defines preference keys storing the last URI shared via the Android system clipboard and its timestamp, used by ClipboardImageFileProvider.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import org.chromium.build.annotations.NullMarked;

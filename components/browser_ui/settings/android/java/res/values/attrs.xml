@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android settings preference styleable attributes
+summary: Declares custom styleable attributes such as buttonLayout, iconTint, and singleLine used by Chrome Android settings preference views.
+-->
+
 <resources>
     <declare-styleable name="ButtonPreference">
         <!-- The layout that will be used for the button. -->

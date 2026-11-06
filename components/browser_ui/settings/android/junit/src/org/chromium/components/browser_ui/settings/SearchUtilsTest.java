@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchUtilsTest unit tests
+// summary: Robolectric unit tests verifying that SearchUtils hides sibling toolbar action items while the search view is open and that the close button clears the query.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static org.junit.Assert.assertEquals;

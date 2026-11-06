@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClickableSpansTextMessagePreference
+// summary: Preference wrapper that renders titles and summaries with clickable spans via TextViewWithClickableSpans to make text messages accessible.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

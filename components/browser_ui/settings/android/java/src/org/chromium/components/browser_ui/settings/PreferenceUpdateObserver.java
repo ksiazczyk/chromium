@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreferenceUpdateObserver interface
+// summary: Observer notified when the list of visible preferences in a settings fragment is updated, with a provider interface for fragments.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import androidx.preference.PreferenceFragmentCompat;

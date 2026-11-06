@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Photo Picker Android Style Resources
+summary: Defines a text appearance style for the photo picker special tile, setting its text color from the photo picker color resources.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="TextAppearance.PhotoPickerSpecialTile"
         parent="TextAppearance.TextMediumThick.Primary">

@@ -1,0 +1,4 @@
+# Docerion header of IDecoderServiceCallback.aidl.
+type: source
+title: IDecoderServiceCallback AIDL interface
+summary: AIDL callback interface used to deliver the results of an image decoding request back to the photo picker.

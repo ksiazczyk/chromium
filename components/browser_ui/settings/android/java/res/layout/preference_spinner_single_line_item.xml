@@ -7,6 +7,12 @@ found in the LICENSE file.
 
 <!-- Layout used by SpinnerPreference if singleLine is set to true. -->
 
+<!--docerion
+type: source
+title: Single-line spinner item layout
+summary: Defines the single-line TextView layout used for items inside a SpinnerPreference spinner.
+-->
+
 <TextView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@android:id/text1"
     style="?android:attr/spinnerItemStyle"

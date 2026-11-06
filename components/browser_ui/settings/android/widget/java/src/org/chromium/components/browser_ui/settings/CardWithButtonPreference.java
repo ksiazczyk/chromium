@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardWithButtonPreference
+// summary: Preference with a highlighted card background, optional icon and a prominent call-to-action button that runs a given callback.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

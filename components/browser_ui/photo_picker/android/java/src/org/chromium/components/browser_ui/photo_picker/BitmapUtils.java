@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapUtils bitmap decoding and scaling utilities
+// summary: Utility helpers for decoding, scaling, rotating and cropping bitmaps and video frames into thumbnails for the photo picker.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import android.graphics.Bitmap;

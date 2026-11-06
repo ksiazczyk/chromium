@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the photo picker Android directory
+summary: Restricts directory includes to allowed Chromium dependencies such as browser UI widget, content, net, sandbox, and UI Android.

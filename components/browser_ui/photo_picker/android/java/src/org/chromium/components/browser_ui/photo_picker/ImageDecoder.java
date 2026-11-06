@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDecoder sandboxed image decoding service
+// summary: Service stub that decodes image files inside a sandboxed process and returns bitmaps and aspect ratios to the calling process.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text message preference with long summary support
+// summary: TextMessagePreference variant that uses a dedicated layout and allows very long summary texts by raising the summary line limit.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

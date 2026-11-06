@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chromium for Android Settings
+summary: Explains how to develop Android settings screens, covering helper classes, widgets, naming conventions for preferences, and settings search testing.
+relations:
+  - references /components/browser_ui/settings/android/settings_search_testing.md
+---
+
 # Chromium for Android Settings
 
 ## Getting Started

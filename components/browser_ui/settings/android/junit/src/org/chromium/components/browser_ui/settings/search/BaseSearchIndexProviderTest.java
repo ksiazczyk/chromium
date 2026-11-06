@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BaseSearchIndexProvider
+// summary: JUnit Robolectric tests verifying that BaseSearchIndexProvider registers fragment headers and recursively builds parent-child links from preference XML.
+// ---
+
 package org.chromium.components.browser_ui.settings.search;
 
 import static org.junit.Assert.assertEquals;

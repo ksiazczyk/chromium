@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser_ui settings
+summary: Defines include rules allowing dependencies on content test javatests and ui/android for the settings component.

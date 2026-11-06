@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ClipboardImageFileProvider
+// summary: Robolectric unit tests covering storing, retrieving and clearing clipboard image metadata in shared preferences.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import static org.chromium.components.browser_ui.share.ClipboardConstants.CLIPBOARD_SHARED_URI;

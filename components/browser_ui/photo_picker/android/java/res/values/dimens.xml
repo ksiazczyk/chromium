@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Photo Picker Android Dimension Resources
+summary: Defines dimension values for the Android photo picker UI, covering thumbnail, tile, seek bar, play button and zoom button sizes.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- go/keep-sorted start group_start_regex=<dimen -->
     <!-- Photo Picker dimensions -->

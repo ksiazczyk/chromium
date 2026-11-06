@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonPreference
+// summary: Android preference that displays a button and invokes the preference's click listener when the button is pressed.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

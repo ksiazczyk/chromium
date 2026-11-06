@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo picker category view
+// summary: Manages the shared state for displaying photo and video thumbnails in the Android photo picker, including the RecyclerView, bitmap caches and decoding callbacks.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

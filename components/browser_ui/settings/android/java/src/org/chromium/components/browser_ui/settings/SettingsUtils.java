@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsUtils
+// summary: Helper class for Settings that loads preferences from XML without StrictMode violations and provides utilities for tinted icons, scroll shadows, and menus.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.app.Activity;

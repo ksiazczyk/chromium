@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Matchers
+// summary: Hamcrest matchers for asserting on preference UI components, including a check that a TextView has a drawableStart drawable.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.view.View;

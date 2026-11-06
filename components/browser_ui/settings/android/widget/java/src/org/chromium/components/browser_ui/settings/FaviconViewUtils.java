@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon icon formatting utilities for preferences
+// summary: Utility that formats a preference icon for favicon display by adding a circular grey background and sizing the image view.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.res.Resources;

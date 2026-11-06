@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: File picker scrim drawable
+summary: Android shape drawable drawing a radial scrim that fades from translucent black at the top-left corner to transparent for the file picker.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <gradient
         android:startColor="@color/black_alpha_30"

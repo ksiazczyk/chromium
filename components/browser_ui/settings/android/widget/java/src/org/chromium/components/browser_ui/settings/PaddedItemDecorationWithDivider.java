@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recycler item decoration with padding and dividers
+// summary: RecyclerView item decoration for preference fragments that pads each item and draws configurable dividers, with supplier-based paddings for dynamic layouts.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.graphics.Canvas;

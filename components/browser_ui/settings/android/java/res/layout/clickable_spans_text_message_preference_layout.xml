@@ -7,6 +7,12 @@ found in the LICENSE file.
 
 <!-- Layout used by ClickableSpansTextMessagePreference. -->
 
+<!--docerion
+type: asset
+title: Clickable spans text message preference layout
+summary: Android layout for a text message preference whose title and summary support clickable spans.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/PreferenceLayout"

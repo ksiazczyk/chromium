@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapScalerTask background bitmap scaling worker
+// summary: Worker task that scales bitmaps in the background and stores the resulting thumbnail in the picker's LruCache.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import android.graphics.Bitmap;

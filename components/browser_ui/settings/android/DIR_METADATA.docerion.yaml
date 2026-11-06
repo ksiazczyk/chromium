@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Android settings directory
+summary: Specifies issue tracker routing for the directory, mapping it to the UI>Browser>Mobile>Settings Monorail component and a public Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSwitchPreferenceTest
+// summary: Espresso UI tests verifying ChromeSwitchPreference behavior for unmanaged, policy-managed and custom-layout preferences.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -7,6 +7,12 @@ found in the LICENSE file.
 
 <!-- Layout used by SpinnerPreference. -->
 
+<!--docerion
+type: source
+title: Spinner preference layout
+summary: Defines the SpinnerPreference layout with a title text view, a spinner, and an underline view.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/PreferenceLayout"

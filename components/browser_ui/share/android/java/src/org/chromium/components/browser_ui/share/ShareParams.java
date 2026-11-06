@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareParams container for share parameters
+// summary: Container object carrying share parameters such as title, text, URL, files and preview images passed to ShareHelper.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import android.content.ComponentName;

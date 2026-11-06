@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for the Android photo picker
+summary: Defines GN build targets, Java sources, JNI headers, AIDL interfaces, and Android resources for the photo picker UI components.

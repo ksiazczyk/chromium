@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsFragment
+// summary: Interface that all fragments for Chrome's Settings page should implement, defining the animation type used for fragment transitions.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedPreferenceTestDelegates
+// summary: Provides a configurable test ManagedPreferenceDelegate plus predefined delegates for policy, custodian, and recommendation scenarios.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import androidx.annotation.LayoutRes;

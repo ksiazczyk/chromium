@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clickable summary preference for Android settings
+// summary: Android preference that enables clickable links in its summary text by applying a link movement method to the summary view.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import android.content.Context;

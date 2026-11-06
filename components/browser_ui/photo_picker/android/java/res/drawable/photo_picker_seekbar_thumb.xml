@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Photo picker seek bar thumb drawable
+summary: Oval Android shape drawable sized to the seek bar thumb dimension that renders the video seek bar thumb in the photo picker.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
 

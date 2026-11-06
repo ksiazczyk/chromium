@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchIndexProvider
+// summary: Interface for classes that provide preference data for the Android settings search index, covering fragment headers, XML indexing, dynamic updates and extras.
+// ---
+
 package org.chromium.components.browser_ui.settings.search;
 
 import android.content.Context;

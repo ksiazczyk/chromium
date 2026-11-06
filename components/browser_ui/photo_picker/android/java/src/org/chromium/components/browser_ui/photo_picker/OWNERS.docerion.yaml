@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for the photo picker
+summary: Sets per-file review ownership so that changes to AIDL files require IPC security owners with no parent approval.

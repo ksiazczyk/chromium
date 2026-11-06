@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for ShareImageFileUtils
+// summary: Instrumentation tests verifying temporary URI generation and file operations for shared image data with mocked clipboard components.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import static org.mockito.ArgumentMatchers.notNull;

@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Android settings resource IDs
+summary: Defines resource IDs for settings menu items and row views, including a managed disclaimer text ID marked for removal.
+-->
+
 <resources>
     <!-- TODO(crbug.com/40253053): Remove this ID definition.
          Some alternatives: (1) Move `ManagedPreferencesUtils` to its own target;

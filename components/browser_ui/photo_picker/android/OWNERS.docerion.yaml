@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the photo picker Android directory
+summary: Lists the Chromium code owners responsible for reviewing changes in this directory.

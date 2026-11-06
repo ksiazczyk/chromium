@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreferenceParser
+// summary: Utility class that parses preference XML files and extracts attributes such as key, title, summary and fragment into Bundles for the settings search indexer.
+// ---
+
 package org.chromium.components.browser_ui.settings.search;
 
 import android.content.Context;

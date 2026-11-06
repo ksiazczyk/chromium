@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Fast forward message gradient drawable
+summary: Android shape drawable with a black-to-transparent linear gradient, likely used as an overlay behind the fast-forward message in the photo picker video player.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <gradient
         android:type="linear"

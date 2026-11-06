@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedPreferenceDelegate policy interface
+// summary: Delegate that reports whether a preference is controlled by enterprise policy or custodians, used to show managed icons and disable clicks.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import androidx.annotation.LayoutRes;

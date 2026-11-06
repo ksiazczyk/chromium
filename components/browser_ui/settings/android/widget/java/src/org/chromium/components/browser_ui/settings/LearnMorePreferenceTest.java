@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Learn more preference tests
+// summary: Espresso tests verifying that the Learn more preference is enabled, clickable, and sets the expected content description for a given setting name.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static androidx.test.espresso.Espresso.onView;

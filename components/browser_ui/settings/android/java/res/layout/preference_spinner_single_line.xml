@@ -9,6 +9,12 @@ found in the LICENSE file.
      is less than 360dp. This layout doesn't actually use a single line for text and spinner but is
      used as a fallback for small devices. -->
 
+<!--docerion
+type: source
+title: Single-line spinner preference fallback layout
+summary: Defines a fallback SpinnerPreference layout for devices with smallest width below 360dp, stacking the title above the spinner.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/PreferenceLayout"

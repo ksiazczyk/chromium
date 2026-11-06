@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android browser UI settings component
+summary: Defines the android_library build target for the browser_ui settings component, listing its Java sources for settings, search, and widget preferences along with build dependencies.

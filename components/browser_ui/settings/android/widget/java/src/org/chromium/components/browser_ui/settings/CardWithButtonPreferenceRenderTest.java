@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CardWithButtonPreferenceRenderTest
+// summary: Parameterized render tests for CardWithButtonPreference covering default and night mode appearances.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static androidx.test.espresso.matcher.ViewMatchers.withId;

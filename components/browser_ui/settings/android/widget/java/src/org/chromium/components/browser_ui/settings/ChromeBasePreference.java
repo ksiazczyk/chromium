@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBasePreference
+// summary: Base preference for Chrome settings supporting managed state, multiline titles, icon tint, user action metrics and containment styling.
+// ---
+
 package org.chromium.components.browser_ui.settings;
 
 import static org.chromium.components.browser_ui.widget.containment.ContainmentUiUtils.parseContainmentAttributes;

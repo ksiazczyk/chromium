@@ -1,3 +1,9 @@
+---
+type: guide
+title: Android Settings Search Testing Guide
+summary: Explains the two-tier testing model that keeps the settings search index in sync with the screen UI, covering implicit invariant tests, explicit parity and E2E tests, and common failure causes and fixes.
+---
+
 # Android Settings Search Testing Guide
 
 The settings search index and screen UI must be kept in sync to provide a good user experience and prevent broken or missing search results (see [common failures](#3-common-failures)).

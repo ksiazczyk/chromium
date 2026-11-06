@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecodeVideoTask video decoding worker
+// summary: Worker task that decodes videos off the UI thread, extracting thumbnail frames, duration and aspect ratio for the photo picker.
+// ---
+
 package org.chromium.components.browser_ui.photo_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

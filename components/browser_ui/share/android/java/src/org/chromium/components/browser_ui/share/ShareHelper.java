@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareHelper for starting share intents
+// summary: Starts intents to share titles and URLs via the Android share sheet, Chrome's share sheet or direct share targets, recording share-source metrics.
+// ---
+
 package org.chromium.components.browser_ui.share;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

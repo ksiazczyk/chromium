@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Video player gradient drawable
+summary: Android shape drawable defining a black-to-transparent linear gradient overlay used behind the photo picker video player controls.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <gradient
         android:type="linear"
