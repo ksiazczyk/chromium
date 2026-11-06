@@ -1,0 +1,4 @@
+# Docerion header of prerender_new_tab.html.
+type: test
+title: Prerender test page opening a new tab
+summary: Test page prerendering c.html with target_hint _blank so its link opens in a new tab during the getFrame tests.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Extension without user script permission test manifest
+summary: Manifest for a Chrome extension test fixture that declares a minimal MV3 extension without user script permission, used by the user scripts migration API tests.

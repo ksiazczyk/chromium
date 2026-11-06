@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Persistent user script test extension manifest
+summary: Manifest for the persistent user script test extension, declaring a module service worker, scripting, tabs and userScripts permissions, and host permissions for requested.com.

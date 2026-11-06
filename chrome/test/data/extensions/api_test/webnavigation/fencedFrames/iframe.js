@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fenced frame creation script
+// summary: Creates a fenced frame element pointing at frame.html on the test server when the intermediate iframe loads.
+// ---
+
 onload = function() {
   chrome.test.getConfig((config) => {
     const port = config.testServer.port;

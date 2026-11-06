@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: test
+title: Main page for the crossProcessIframe test
+summary: HTML page of the test extension that loads the main page script for the cross-process iframe webNavigation test.

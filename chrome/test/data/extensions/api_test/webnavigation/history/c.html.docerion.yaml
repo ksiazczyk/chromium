@@ -1,0 +1,4 @@
+# Docerion header of c.html.
+type: test
+title: Test page c.html
+summary: HTML fixture page that loads c.js for the webNavigation history extension API test.

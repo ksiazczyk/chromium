@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prerender webNavigation event sequence test
+// summary: Chrome extension API test that verifies webNavigation events, including onTabReplaced, when a prerendered page replaces the current tab.
+// ---
+
 onload = async function() {
   const getURL = chrome.runtime.getURL;
   const tab = await promise(chrome.tabs.create, {url: 'about:blank'});

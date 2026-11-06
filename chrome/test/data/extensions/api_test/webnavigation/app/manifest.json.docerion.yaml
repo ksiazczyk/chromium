@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: WebNavigation App Test Manifest
+summary: Manifest for the webnavigation app API test extension, declaring background permission and a launch URL pointing to a server-redirect page.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webNavigation simpleLoad test extension manifest
+summary: Manifest for the webNavigation simpleLoad test extension, registering the service worker and requesting the webNavigation and tabs permissions.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Basic tests extension manifest
+summary: Manifest for the basic test extension declaring version 0.1, manifest version 3 and the vpnProvider permission.

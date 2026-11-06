@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Injection Order Test extension manifest
+summary: Manifest for the injection order test extension, granting userScripts and tabs permissions with a module service worker background.

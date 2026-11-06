@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: manifest.json
+summary: Manifest for the webNavigation openTab test extension, declaring the test_openTab.js service worker and webNavigation and tabs permissions.

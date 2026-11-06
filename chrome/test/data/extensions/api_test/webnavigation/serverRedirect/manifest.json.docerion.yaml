@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the webNavigation serverRedirect test extension
+summary: Extension manifest that registers the test service worker and requests the webNavigation and tabs permissions for the serverRedirect test.

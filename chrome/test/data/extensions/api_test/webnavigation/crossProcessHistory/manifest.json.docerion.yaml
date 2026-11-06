@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webNavigation test extension manifest
+summary: Manifest for the test extension that runs webNavigation crossProcessHistory API tests via a background service worker.

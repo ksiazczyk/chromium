@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User scripts world configuration API test
+// summary: Browser test that verifies retrieving, configuring, and resetting user script world configurations via the userScripts API, including default and custom world IDs.
+// ---
+
 import {waitForUserScriptsAPIAllowed} from '/_test_resources/test_util/user_script_test_util.js';
 
 const otherWorldId = 'some other id';

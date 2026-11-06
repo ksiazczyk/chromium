@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webNavigation pending deletion test extension manifest
+summary: Manifest for the test extension that runs the pending deletion test via a background service worker with webNavigation and tabs permissions.

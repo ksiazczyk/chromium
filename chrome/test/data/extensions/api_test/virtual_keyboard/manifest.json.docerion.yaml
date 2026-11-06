@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for virtualKeyboard API
+summary: Manifest for the virtualKeyboard API test extension, declaring a background app that runs test.js and requests the virtualKeyboard permission.

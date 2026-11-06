@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webNavigation onCommitted URL filter test
+// summary: Browser test verifying that onCommitted events are delivered only to listeners whose URL filters match the navigated pages.
+// ---
+
 const scriptUrl = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(scriptUrl);
 

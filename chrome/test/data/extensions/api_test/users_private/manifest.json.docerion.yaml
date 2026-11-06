@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: usersPrivate test extension manifest
+summary: Manifest for the usersPrivate API interface test extension, declaring the usersPrivate permission.

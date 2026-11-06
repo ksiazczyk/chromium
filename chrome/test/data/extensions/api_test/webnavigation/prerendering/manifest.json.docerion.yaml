@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webNavigation prerendering test extension manifest
+summary: Manifest for the test extension that runs the webNavigation prerendering test from a non-persistent background script with webNavigation, tabs, and host permissions.

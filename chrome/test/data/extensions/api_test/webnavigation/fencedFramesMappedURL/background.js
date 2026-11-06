@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script asserting fenced frame navigation events
+// summary: Extension service worker that listens for webNavigation onBeforeNavigate and onCommitted events and asserts the fenced frame URL and frameType during the test.
+// ---
+
 const scriptUrl = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(scriptUrl);
 

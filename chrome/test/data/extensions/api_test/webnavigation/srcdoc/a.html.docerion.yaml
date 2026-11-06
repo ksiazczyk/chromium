@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: srcdoc iframe test page
+summary: HTML fixture containing an iframe with a srcdoc attribute, used as the target page for the webNavigation API test.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webNavigation test extension manifest
+summary: Manifest v3 for the test extension verifying webNavigation API events with the back/forward cache, using test_forwardBack.js as its service worker.

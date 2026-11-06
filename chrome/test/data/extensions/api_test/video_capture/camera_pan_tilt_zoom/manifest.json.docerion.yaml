@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest for camera pan tilt zoom
+summary: Kiosk-enabled extension app manifest with the videoCapture permission used to run the camera pan tilt zoom API test.

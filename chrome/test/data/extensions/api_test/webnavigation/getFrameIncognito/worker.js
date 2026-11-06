@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webNavigation getFrame Incognito Test Service Worker
+// summary: Service worker that runs browser tests verifying chrome.webNavigation.getFrame for an incognito tab, first via tabId and frameId and then via documentId.
+// ---
+
 let documentId;
 let documentUrl;
 

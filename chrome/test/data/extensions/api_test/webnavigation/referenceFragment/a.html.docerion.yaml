@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: a.html test page loading a.js
+summary: HTML page of the webNavigation referenceFragment API test that loads a.js.

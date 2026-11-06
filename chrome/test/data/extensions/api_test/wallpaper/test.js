@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the chrome.wallpaper API
+// summary: Runs chrome.wallpaper.setWallpaper tests using local files and URLs, covering JPEG and PNG wallpapers, thumbnails, 404 failures, and request cancellation.
+// ---
+
 const pass = chrome.test.callbackPass;
 const fail = chrome.test.callbackFail;
 

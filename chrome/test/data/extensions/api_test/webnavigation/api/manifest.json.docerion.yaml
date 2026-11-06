@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webNavigation API test extension manifest
+summary: Manifest for the webNavigation API test extension, registering test_api.js as a service worker with webNavigation and tabs permissions.

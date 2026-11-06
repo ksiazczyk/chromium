@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Authentication Proxy API Test Script
+// summary: Browser test suite for the chrome.webAuthenticationProxy API covering attach and detach behavior, isUvpaa request handling, and credential creation flows.
+// ---
+
 import * as util from '/_test_resources/api_test/web_authentication_proxy/util.js';
 
 const ERROR_INVALID_SENDER = 'Error: Invalid sender';

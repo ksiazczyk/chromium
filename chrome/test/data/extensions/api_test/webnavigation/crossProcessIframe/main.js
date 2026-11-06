@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main page script embedding the test iframe
+// summary: Script that embeds an iframe pointing at a.com and, on message from the frame, navigates it to b.com while asserting the message source and origin.
+// ---
+
 onload = function() {
   const port = location.search.slice(1);
   setTimeout(function() {

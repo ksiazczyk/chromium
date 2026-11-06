@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: Form submission test page a.html
+summary: Test page with a form that submits to b.html via GET and loads a.js to trigger the submission.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for webNavigation getFrame
+summary: Manifest for the test extension that runs the webNavigation getFrame tests from a service worker background script.

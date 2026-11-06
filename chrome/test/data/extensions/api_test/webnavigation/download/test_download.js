@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for webNavigation events during a download
+// summary: Runs a browser test asserting the order of webNavigation events (onBeforeNavigate, onCommitted, onDOMContentLoaded, onCompleted) when a page triggers a download.
+// ---
+
 const SCRIPT_URL = '_test_resources/api_test/webnavigation/framework.js';
 const loadScript = chrome.test.loadScript(SCRIPT_URL);
 

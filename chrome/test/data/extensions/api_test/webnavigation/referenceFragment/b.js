@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: b.js same-URL reload via button click
+// summary: Clicks the anchor button to replace the URL with itself, guarded by a sessionStorage sentinel to avoid a second fragment navigation.
+// ---
+
 document.getElementById('btn').addEventListener('click', function() {
   location.replace(location.href);
 });

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Authentication Proxy Incognito Split Tests
+// summary: JavaScript tests that attach the webAuthenticationProxy in incognito and regular contexts and signal readiness to the C++ test harness.
+// ---
+
 import * as util from '/_test_resources/api_test/web_authentication_proxy/util.js';
 
 const availableTests = [

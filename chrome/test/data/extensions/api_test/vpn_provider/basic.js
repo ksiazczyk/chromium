@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: vpnProvider API failure case tests
+// summary: JavaScript browser tests verifying error handling of chrome.vpnProvider calls such as createConfig, destroyConfig, setParameters and sendPacket.
+// ---
+
 'use strict';
 
 const selectedTest = location.hash.slice(1);

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webNavigation srcdoc test extension manifest
+summary: Manifest V3 manifest for the test extension, requesting webNavigation and tabs permissions and registering test_srcdoc.js as the service worker.

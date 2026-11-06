@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: webNavigation test extension manifest
+summary: Manifest for the webNavigation test extension declaring the webNavigation and tabs permissions and the test background entry.

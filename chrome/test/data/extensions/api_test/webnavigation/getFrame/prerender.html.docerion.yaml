@@ -1,0 +1,4 @@
+# Docerion header of prerender.html.
+type: test
+title: Prerender test page for a.html
+summary: Test page using speculation rules to prerender a.html for the getFrame prerender scenario.

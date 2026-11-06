@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: manifest.json
+summary: Manifest for the test extension, registering test_forwardBack.js as a service worker with webNavigation and tabs permissions.

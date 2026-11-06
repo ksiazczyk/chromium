@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Manifest for the webNavigation failures test extension
+summary: Extension manifest declaring webNavigation and tabs permissions and test_failures.js as the background service worker.

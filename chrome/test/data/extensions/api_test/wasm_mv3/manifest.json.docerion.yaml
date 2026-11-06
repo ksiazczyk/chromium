@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the WebAssembly MV3 extension test
+summary: Manifest for the WebAssembly MV3 extension API test, declaring a module service worker and a content security policy that permits wasm-unsafe-eval.

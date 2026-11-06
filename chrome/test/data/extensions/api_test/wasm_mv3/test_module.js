@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAssembly MV3 test suite module
+// summary: Defines tests verifying that streaming fetch and ArrayBuffer instantiation of a minimal Wasm module are allowed in MV3 extension contexts.
+// ---
+
 export async function runTests() {
   chrome.test.runTests([
     // Attempts to fetch and instantiate a simple Wasm module.

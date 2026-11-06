@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web Authentication Proxy API test extension manifest
+summary: Manifest for the Web Authentication Proxy API test extension, registering the test service worker and requesting the webAuthenticationProxy permission.

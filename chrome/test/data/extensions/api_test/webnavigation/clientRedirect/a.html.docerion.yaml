@@ -1,0 +1,4 @@
+# Docerion header of a.html.
+type: test
+title: Test page a.html loading the redirect script
+summary: HTML test page that loads a.js, whose onload handler performs the client redirect under test.

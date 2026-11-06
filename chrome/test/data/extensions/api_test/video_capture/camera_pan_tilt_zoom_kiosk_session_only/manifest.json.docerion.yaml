@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest for the kiosk pan tilt zoom test
+summary: Manifest for the kiosk-enabled test app with the videoCapture permission that runs the test background script.

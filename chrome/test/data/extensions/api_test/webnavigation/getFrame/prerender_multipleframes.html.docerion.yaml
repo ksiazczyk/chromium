@@ -1,0 +1,4 @@
+# Docerion header of prerender_multipleframes.html.
+type: test
+title: Prerender test page with multiple frames
+summary: Test page using speculation rules to prerender c.html, which contains multiple frames, for the getFrame tests.

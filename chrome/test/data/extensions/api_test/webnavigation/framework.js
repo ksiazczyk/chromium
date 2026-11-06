@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNavigation API test framework
+// summary: Shared framework for the webNavigation extension API browser tests that captures navigation events, normalizes details like frame and document IDs, and verifies expected events and their ordering.
+// ---
+
 const deepEq = chrome.test.checkDeepEq;
 let expectedEventData;
 let expectedEventOrder;

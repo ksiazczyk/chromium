@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the OWNERS file of the ChromeOS vpnProvider extension to define review ownership for these tests.
