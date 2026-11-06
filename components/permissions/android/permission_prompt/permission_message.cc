@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission message implementation
+// summary: Implements PermissionMessage, an Android permission prompt that displays quiet or loud prompts through the client's message UI delegate.
+// ---
+
 #include "components/permissions/android/permission_prompt/permission_message.h"
 
 #include "base/memory/ptr_util.h"

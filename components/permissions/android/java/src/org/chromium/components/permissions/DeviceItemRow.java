@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceItemRow
+// summary: Model class representing one row in a chooser dialog, holding a key, description, icon, and icon description with equality checks.
+// ---
+
 package org.chromium.components.permissions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

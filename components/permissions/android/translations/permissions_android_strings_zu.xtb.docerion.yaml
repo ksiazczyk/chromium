@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_zu.xtb.
+type: data
+title: Zulu translations for Android permission strings
+summary: Zulu translation bundle with localized Chrome on Android permission strings for camera, microphone, location, Bluetooth, and NFC prompts.

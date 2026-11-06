@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFC system level setting implementation class
+// summary: Declares NfcSystemLevelSettingImpl, the production implementation of NfcSystemLevelSetting that bridges to Android through JNI.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_NFC_NFC_SYSTEM_LEVEL_SETTING_IMPL_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_NFC_NFC_SYSTEM_LEVEL_SETTING_IMPL_H_
 

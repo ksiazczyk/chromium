@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_fa.xtb.
+type: data
+title: Persian Android permissions strings translation bundle
+summary: XML translation bundle with Persian (fa) strings for Android permission dialogs, covering camera, microphone, location, Bluetooth and NFC permission prompts.

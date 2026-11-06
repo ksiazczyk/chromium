@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android dimension values for permissions dialogs
+summary: Defines Android dimension resources such as favicon size and prompt padding and max height used by the permissions dialogs.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Permissions dialog. -->
     <dimen name="large_favicon_size">24dp</dimen>

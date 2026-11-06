@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_pa.xtb.
+type: data
+title: Punjabi Android permission strings translation bundle
+summary: Punjabi translations of Android permission prompts for Chrome, covering camera, microphone, location, Bluetooth, NFC, and device scanning messages.

@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_af.xtb.
+type: data
+title: Android permissions strings (Afrikaans)
+summary: Afrikaans translation bundle of Chrome Android permission prompts covering camera, microphone, location, Bluetooth device scanning and pairing, NFC and hand tracking.

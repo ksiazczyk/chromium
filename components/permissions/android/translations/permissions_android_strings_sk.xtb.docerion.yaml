@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_sk.xtb.
+type: data
+title: Android permission strings in Slovak
+summary: Xtb translation bundle with Slovak strings for Chrome Android permission prompts, covering camera, microphone, location, Bluetooth and NFC dialogs.

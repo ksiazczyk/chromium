@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionDialogMediator
+// summary: Mediator that manages the permission dialog state machine, handling show, dismiss, button clicks and Android permission requests.
+// ---
+
 package org.chromium.components.permissions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

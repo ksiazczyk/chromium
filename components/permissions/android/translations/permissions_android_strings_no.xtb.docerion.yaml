@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_no.xtb.
+type: data
+title: Norwegian Android permission strings translation bundle
+summary: Norwegian translations of Android permission prompts for Chrome, covering camera, microphone, location, Bluetooth, NFC, and device scanning messages.

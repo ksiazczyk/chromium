@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_ml.xtb.
+type: data
+title: Malayalam Android permissions strings translation bundle
+summary: Malayalam translations of Chrome Android permission strings, covering camera, microphone, Bluetooth, NFC, and location permission dialogs.

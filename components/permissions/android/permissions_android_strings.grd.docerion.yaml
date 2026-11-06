@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings.grd.
+type: data
+title: Android permissions strings for localization
+summary: GRIT definitions providing localized Android permission UI strings for many languages as Android resource outputs.

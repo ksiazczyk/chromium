@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_fi.xtb.
+type: data
+title: Finnish Android permissions strings translation bundle
+summary: XML translation bundle with Finnish (fi) strings for Android permission dialogs, covering camera, microphone, location, Bluetooth and NFC permission prompts.

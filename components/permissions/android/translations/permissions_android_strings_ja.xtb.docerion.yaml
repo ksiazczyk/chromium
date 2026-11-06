@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_ja.xtb.
+type: data
+title: Japanese Android permission strings translation bundle
+summary: Japanese translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

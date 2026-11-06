@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android NFC system-level setting queries
+// summary: Provides JNI-called methods to check NFC permission and adapter state on Android and to show a prompt for enabling the system NFC setting, with test overrides.
+// ---
+
 package org.chromium.components.permissions.nfc;
 
 import android.Manifest;

@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_pt-PT.xtb.
+type: data
+title: European Portuguese Android permission strings bundle
+summary: European Portuguese translations of Android permission prompts for Chrome, covering camera, microphone, location, Bluetooth, NFC, and device scanning.

@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_sv.xtb.
+type: data
+title: Android permission strings in Swedish
+summary: Xtb translation bundle with Swedish strings for Chrome Android permission prompts, covering camera, microphone, location, Bluetooth and NFC dialogs.

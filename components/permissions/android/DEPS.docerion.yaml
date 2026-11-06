@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android permissions include rules
+summary: DEPS file defining the allowed include dependencies for the Android permissions component.

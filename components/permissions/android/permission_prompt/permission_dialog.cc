@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android modal permission dialog implementation
+// summary: Implements the modal Android permission dialog, providing localized button texts including geolocation upgrade-to-precise and one-time permission variants.
+// ---
+
 #include "components/permissions/android/permission_prompt/permission_dialog.h"
 
 #include "base/android/jni_string.h"

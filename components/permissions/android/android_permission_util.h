@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permission utility header
+// summary: Declares helpers for required and optional Android permissions, reprompt state, and Bluetooth-related permission checks.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_ANDROID_PERMISSION_UTIL_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_ANDROID_PERMISSION_UTIL_H_
 

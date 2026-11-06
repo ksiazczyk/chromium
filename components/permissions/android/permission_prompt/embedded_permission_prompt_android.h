@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded permission prompt for Android class declaration
+// summary: Declares EmbeddedPermissionPromptAndroid, the Android permission prompt for PEPC requests shown as an element-anchored bubble with variant and button text handling.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_PERMISSION_PROMPT_EMBEDDED_PERMISSION_PROMPT_ANDROID_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_PERMISSION_PROMPT_EMBEDDED_PERMISSION_PROMPT_ANDROID_H_
 

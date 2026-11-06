@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Bluetooth chooser implementation
+// summary: Implements the Android Bluetooth device chooser dialog that shows discovered devices and reports the user's selection.
+// ---
+
 #include "components/permissions/android/bluetooth_chooser_android.h"
 
 #include "base/android/jni_android.h"

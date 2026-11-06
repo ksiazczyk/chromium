@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet clapper icon delegate implementation
+// summary: Implements the delegate that shows the Java-side omnibox quiet icon on construction and dismisses it on destruction via the dialog controller.
+// ---
+
 #include "components/permissions/android/permission_prompt/permission_clapper_quiet_icon_delegate.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NFC system level setting JNI implementation
+// summary: Implements NfcSystemLevelSetting via JNI, forwarding NFC queries and the enable prompt to the Android Java NfcSystemLevelSetting class.
+// ---
+
 #include "components/permissions/android/nfc/nfc_system_level_setting_impl.h"
 
 #include "base/android/callback_android.h"

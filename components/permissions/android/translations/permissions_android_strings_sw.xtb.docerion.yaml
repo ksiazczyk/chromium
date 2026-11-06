@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_sw.xtb.
+type: data
+title: Android permission strings in Swahili
+summary: Xtb translation bundle with Swahili strings for Chrome Android permission prompts, covering camera, microphone, location, Bluetooth and NFC dialogs.

@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_kk.xtb.
+type: data
+title: Kazakh Android permission strings translation bundle
+summary: Kazakh translations of Chrome on Android permission prompts covering camera, microphone, location, Bluetooth pairing, and nearby device scanning.

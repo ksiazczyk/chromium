@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_te.xtb.
+type: data
+title: Android permission strings in Telugu
+summary: Telugu translation bundle with localized strings for Chrome's Android permission dialogs, covering camera, microphone, Bluetooth, location, and NFC access prompts.

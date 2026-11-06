@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission prompt factory unit tests
+// summary: Unit tests verifying when PreIgnoreQuietPrompt is called by the Android permission prompt factory under the promise lifetime modulation feature.
+// ---
+
 #include <memory>
 #include <vector>
 

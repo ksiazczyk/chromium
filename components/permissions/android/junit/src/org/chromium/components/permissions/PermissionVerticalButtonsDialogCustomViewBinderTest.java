@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionVerticalButtonsDialogCustomViewBinderTest
+// summary: Robolectric tests for the vertical buttons permission dialog custom view binder, checking message text, icon tinting, and tint reset behavior.
+// ---
+
 package org.chromium.components.permissions;
 
 import static org.junit.Assert.assertEquals;

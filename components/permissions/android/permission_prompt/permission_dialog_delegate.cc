@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission dialog delegate implementation
+// summary: Implements the native-to-Java delegate that shows Android permission prompts as modal dialogs, fetches favicons, and relays user decisions.
+// ---
+
 #include "components/permissions/android/permission_prompt/permission_dialog_delegate.h"
 
 #include <string_view>

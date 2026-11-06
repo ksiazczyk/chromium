@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions Android feature map implementation
+// summary: Registers Android permission-related features exposed to Java through a JNI feature map and defines prompt feature flags such as cancel-on-touch-outside and Clapper Loud.
+// ---
+
 #include "components/permissions/android/permissions_android_feature_map.h"
 
 #include "base/android/feature_map.h"

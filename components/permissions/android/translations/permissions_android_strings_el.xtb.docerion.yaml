@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_el.xtb.
+type: data
+title: Android permission strings in Greek
+summary: Greek translation bundle with localized permission prompts for camera, microphone, location, Bluetooth pairing, and NFC in Chrome on Android.

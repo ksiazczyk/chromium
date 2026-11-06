@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionDialogCoordinator
+// summary: Coordinator that displays the permission dialog and proxies communication between the modal dialog UI and the PermissionDialogMediator.
+// ---
+
 package org.chromium.components.permissions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

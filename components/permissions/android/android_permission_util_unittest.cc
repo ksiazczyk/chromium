@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android permission utility unit tests
+// summary: Unit tests for the Android permission utility, covering notification permission request resolution and related histograms.
+// ---
+
 #include "components/permissions/android/android_permission_util.h"
 
 #include "base/memory/raw_ptr.h"

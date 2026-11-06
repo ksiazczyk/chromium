@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_ro.xtb.
+type: data
+title: Romanian Android permission strings translation bundle
+summary: Romanian translations of Android permission prompts for Chrome, covering camera, microphone, location, Bluetooth, NFC, and device scanning messages.

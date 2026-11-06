@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Permission dialog header layout for tablet-sized screens
+summary: Android layout for the permission dialog header with icon, close button and headline text, adapted for sw600dp tablet screens in Chromium's permissions component.
+-->
+
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

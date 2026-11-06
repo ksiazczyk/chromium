@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_hu.xtb.
+type: data
+title: Hungarian Android permissions strings translation bundle
+summary: XML translation bundle with Hungarian (hu) strings for Android permission dialogs, covering camera, microphone, location, Bluetooth and NFC permission prompts.

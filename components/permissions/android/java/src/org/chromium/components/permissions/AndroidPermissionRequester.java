@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidPermissionRequester
+// summary: Requests missing Android permissions from the user when a website is granted a content setting, and reports whether required permissions are available.
+// ---
+
 package org.chromium.components.permissions;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

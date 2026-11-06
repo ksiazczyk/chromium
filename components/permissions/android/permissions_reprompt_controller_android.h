@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permissions reprompt controller header
+// summary: Declares a WebContents-scoped controller that manages reprompt requests for Android permissions and deduplicates requests from the same permission contexts.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_PERMISSIONS_REPROMPT_CONTROLLER_ANDROID_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_PERMISSIONS_REPROMPT_CONTROLLER_ANDROID_H_
 

@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: location_precise
+summary: Night-mode Android vector drawable showing a precise location illustration for the permissions component UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="80dp"
     android:height="80dp"

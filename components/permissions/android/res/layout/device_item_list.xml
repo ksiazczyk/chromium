@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Device item list layout
+summary: Reusable Android layout showing a dialog title, a no-item-found message, and a progress bar that is replaced by a list of devices.
+-->
+
 <!-- Layout for the device item list. -->
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android" >

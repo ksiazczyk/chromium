@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock NFC system level setting implementation
+// summary: Mock implementation of NfcSystemLevelSetting that lets unit tests set NFC access state and records whether the enable prompt has been shown.
+// ---
+
 #include "components/permissions/android/nfc/mock_nfc_system_level_setting.h"
 
 namespace {

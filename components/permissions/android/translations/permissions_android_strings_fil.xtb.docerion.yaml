@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_fil.xtb.
+type: data
+title: Filipino Android permissions strings translation bundle
+summary: XML translation bundle with Filipino (fil) strings for Android permission dialogs, covering camera, microphone, location, Bluetooth and NFC permission prompts.

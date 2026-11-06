@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionDialogCustomViewBinderTest
+// summary: Robolectric tests for PermissionDialogCustomViewBinder that verify the permission dialog's message text and icon rendering with and without tint.
+// ---
+
 package org.chromium.components.permissions;
 
 import static org.junit.Assert.assertEquals;

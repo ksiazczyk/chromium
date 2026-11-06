@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions Android feature map header
+// summary: Declares Android permission feature flags and the Clapper Loud prompt timeout parameter used by the permissions feature map.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_PERMISSIONS_ANDROID_FEATURE_MAP_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_PERMISSIONS_ANDROID_FEATURE_MAP_H_
 

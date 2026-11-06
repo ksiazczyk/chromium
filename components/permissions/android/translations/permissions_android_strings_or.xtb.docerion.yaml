@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_or.xtb.
+type: data
+title: Odia Android permission strings translation bundle
+summary: Odia translations of Android permission prompts for Chrome, covering camera, microphone, location, Bluetooth pairing, and device scanning messages.

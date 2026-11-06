@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android permissions reprompt controller implementation
+// summary: Implements reprompting of Android permission requests for previously accepted or denied settings, filtering missing OS permissions and deduplicating pending callbacks.
+// ---
+
 #include "components/permissions/android/permissions_reprompt_controller_android.h"
 
 #include "base/check.h"

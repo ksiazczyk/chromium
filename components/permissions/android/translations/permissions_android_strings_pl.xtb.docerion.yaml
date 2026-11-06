@@ -1,0 +1,4 @@
+# Docerion header of permissions_android_strings_pl.xtb.
+type: data
+title: Polish Android permission strings translation bundle
+summary: Polish translations of Android permission prompts for Chrome, covering camera, microphone, location, Bluetooth, NFC, and device scanning messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission dialog controller JNI bridge declaration
+// summary: Declares the C++ wrapper for the Java PermissionDialogController, owning the JNI header inclusion to satisfy the JNI Zero single-inclusion rule.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_PERMISSION_PROMPT_PERMISSION_DIALOG_CONTROLLER_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_PERMISSION_PROMPT_PERMISSION_DIALOG_CONTROLLER_H_
 

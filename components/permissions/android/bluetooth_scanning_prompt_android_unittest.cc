@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth scanning prompt Android unit tests
+// summary: Unit tests for the Android Bluetooth scanning prompt, verifying dialog creation from a subframe using mocked callbacks and a fake delegate.
+// ---
+
 #include "components/permissions/android/bluetooth_scanning_prompt_android.h"
 
 #include <string>

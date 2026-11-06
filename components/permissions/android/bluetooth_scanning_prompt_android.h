@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth scanning prompt for Android
+// summary: Declares the Android implementation of the Bluetooth scanning permission prompt that shows a dialog asking users to allow a site to receive Bluetooth advertisement packets.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_BLUETOOTH_SCANNING_PROMPT_ANDROID_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_BLUETOOTH_SCANNING_PROMPT_ANDROID_H_
 

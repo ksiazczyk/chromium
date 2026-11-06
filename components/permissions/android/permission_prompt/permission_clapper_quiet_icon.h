@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quiet clapper omnibox icon class declaration
+// summary: Declares PermissionClapperQuietIcon, a quiet Android notification permission prompt that updates the omnibox icon and keeps the request pending on tab switching.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ANDROID_PERMISSION_PROMPT_PERMISSION_CLAPPER_QUIET_ICON_H_
 #define COMPONENTS_PERMISSIONS_ANDROID_PERMISSION_PROMPT_PERMISSION_CLAPPER_QUIET_ICON_H_
 
