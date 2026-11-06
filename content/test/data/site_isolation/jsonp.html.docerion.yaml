@@ -1,0 +1,4 @@
+# Docerion header of jsonp.html.
+type: test
+title: jsonp.html JSONP callback test page
+summary: HTML test file invoking a JSONP callback with a JSON payload for site isolation content-type tests.

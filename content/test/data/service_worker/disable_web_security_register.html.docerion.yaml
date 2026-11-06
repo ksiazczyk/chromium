@@ -1,0 +1,4 @@
+# Docerion header of disable_web_security_register.html.
+type: test
+title: Service worker registration page
+summary: Test page that registers fetch_event_blob.js under the query-string scope and sets the title to PASS on success.

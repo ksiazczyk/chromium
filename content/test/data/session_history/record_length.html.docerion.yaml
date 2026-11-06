@@ -1,0 +1,4 @@
+# Docerion header of record_length.html.
+type: test
+title: History length recording test page
+summary: Test page whose script stores the current history.length value so session history tests can check the recorded history state.

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Static router race match-all service worker
+// summary: Service worker test fixture that installs static router routes racing the network against the fetch handler and calls skipWaiting.
+// ---
+
 importScripts('./race_network_request_base.js');
 
 self.addEventListener('install', e => {

@@ -1,0 +1,4 @@
+# Docerion header of html.octet-stream.
+type: test
+title: HTML content served as octet-stream
+summary: HTML content fixture served with the application/octet-stream MIME type to test MIME handling in site isolation.

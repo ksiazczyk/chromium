@@ -1,0 +1,4 @@
+# Docerion header of html.octet-stream.mock-http-headers.
+type: test
+title: Octet-stream HTML mock HTTP headers
+summary: Mock HTTP headers that serve html.octet-stream with the application/octet-stream content type.

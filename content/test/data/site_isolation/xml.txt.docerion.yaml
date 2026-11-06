@@ -1,0 +1,4 @@
+# Docerion header of xml.txt.
+type: test
+title: XML content stored as plain text
+summary: XML declaration content saved as a plain text file for site isolation test data.

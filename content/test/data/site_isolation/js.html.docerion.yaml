@@ -1,0 +1,4 @@
+# Docerion header of js.html.
+type: test
+title: JavaScript test page served as HTML
+summary: HTML-named page containing a small JavaScript snippet that writes a counter value.

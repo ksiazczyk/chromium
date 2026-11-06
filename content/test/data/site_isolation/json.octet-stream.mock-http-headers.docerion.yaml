@@ -1,0 +1,4 @@
+# Docerion header of json.octet-stream.mock-http-headers.
+type: test
+title: json.octet-stream.mock-http-headers octet-stream headers
+summary: Mock HTTP response headers serving the octet-stream JSON payload as application/octet-stream.

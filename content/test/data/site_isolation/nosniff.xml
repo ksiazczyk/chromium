@@ -1,1 +1,7 @@
+<!--docerion
+type: test
+title: XML test payload for nosniff handling
+summary: Small XML file containing script-like content, used to test content-type sniffing with nosniff in site isolation tests.
+-->
+
 runMe({ "name" : "chromium" });

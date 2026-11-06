@@ -1,0 +1,4 @@
+# Docerion header of test.script_dest.dict.
+type: test
+title: Test dictionary for script destination match
+summary: Dictionary payload used to test Use-As-Dictionary matching with a script destination.

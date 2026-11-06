@@ -1,0 +1,4 @@
+# Docerion header of test_dict.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for test_dict.html
+summary: Mock HTTP response headers serving test_dict.html with a Use-As-Dictionary match rule, CORS allowance and one-hour caching.

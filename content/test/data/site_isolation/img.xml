@@ -1,1 +1,7 @@
+<!--docerion
+type: test
+title: Non-matching content test data as XML
+summary: XML-named copy of a plain string that matches no HTML, XML or JSON signature, for sniffing tests.
+-->
+
 This is an arbitrary string that doesn't match any signatures of HTML/XML/JSON.

@@ -1,0 +1,4 @@
+# Docerion header of fake.zip.mock-http-headers.
+type: test
+title: Fake ZIP mock HTTP headers
+summary: Mock HTTP headers that serve fake.zip with the application/zip content type for site isolation tests.

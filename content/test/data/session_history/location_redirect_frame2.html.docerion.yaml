@@ -1,0 +1,4 @@
+# Docerion header of location_redirect_frame2.html.
+type: test
+title: location redirect frame 2
+summary: Frame script that sets the parent document title to foo after the redirect.

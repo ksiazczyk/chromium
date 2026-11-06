@@ -1,0 +1,4 @@
+# Docerion header of nosniff.json-prefixed.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for nosniff.json-prefixed.js
+summary: Mock response headers serving the parser-breaking-prefixed payload as JavaScript with the nosniff option enabled.

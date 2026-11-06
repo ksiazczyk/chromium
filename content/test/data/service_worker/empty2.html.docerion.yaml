@@ -1,0 +1,4 @@
+# Docerion header of empty2.html.
+type: test
+title: Empty test HTML page
+summary: Empty HTML page providing a minimal test document in the service worker test data set.

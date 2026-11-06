@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker caching a script on install and serving it
+// summary: Service worker test script that caches v8_cache_test.js at install time and answers fetch events from the cache when possible.
+// ---
+
 self.addEventListener('install', evt => {
   evt.waitUntil(async function() {
     const cache_name = 'cache_name';

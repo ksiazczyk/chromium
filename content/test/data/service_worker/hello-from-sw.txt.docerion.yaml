@@ -1,0 +1,4 @@
+# Docerion header of hello-from-sw.txt.
+type: test
+title: hello-from-sw.txt
+summary: Text fixture served by hello.js for matching requests, containing the body 'hello from the service worker'.

@@ -1,0 +1,4 @@
+# Docerion header of worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the code caching worker
+summary: Mock HTTP response headers serving the padded code caching test worker with a 200 status and a text/javascript content type.

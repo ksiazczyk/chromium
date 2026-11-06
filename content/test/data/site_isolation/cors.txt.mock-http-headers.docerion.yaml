@@ -1,0 +1,4 @@
+# Docerion header of cors.txt.mock-http-headers.
+type: test
+title: Mock HTTP headers for CORS text response
+summary: Mock HTTP headers that serve the CORS text fixture as text/plain with permissive cross-origin access.

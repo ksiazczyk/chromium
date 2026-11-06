@@ -1,0 +1,4 @@
+# Docerion header of jsonp.txt.
+type: test
+title: jsonp.txt JSONP payload with text extension
+summary: JSONP callback payload stored with a .txt extension for site isolation content-type tests.

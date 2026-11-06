@@ -5,6 +5,12 @@
 // Service worker for the file upload test. It responds to a POST submission
 // with an HTML document whose body describes the received form data in JSON.
 
+// ---docerion
+// type: test
+// title: file_upload_worker.js service worker
+// summary: Service worker for the file upload test that answers POST submissions with HTML describing the received form data as JSON.
+// ---
+
 function describeValue(value) {
   const result = {};
   if (value instanceof File) {

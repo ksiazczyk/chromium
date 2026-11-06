@@ -1,0 +1,4 @@
+# Docerion header of http_cache.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for http_cache.html
+summary: Serves http_cache.html with a 200 response and cacheable headers so the page is stored in the HTTP cache.

@@ -1,0 +1,4 @@
+# Docerion header of img.json.
+type: test
+title: Non-matching content test data as JSON
+summary: JSON-named copy of a plain string that matches no HTML, XML or JSON signature, for sniffing tests.

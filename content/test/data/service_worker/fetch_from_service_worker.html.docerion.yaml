@@ -1,0 +1,4 @@
+# Docerion header of fetch_from_service_worker.html.
+type: test
+title: fetch_from_service_worker.html test page
+summary: HTML test helper that registers fetch_from_service_worker.js and fetches URLs through the worker via postMessage.

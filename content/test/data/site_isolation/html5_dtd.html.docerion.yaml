@@ -1,0 +1,4 @@
+# Docerion header of html5_dtd.html.
+type: test
+title: HTML5 DTD test page
+summary: Test page with an HTML5 doctype used as site isolation test data for content type handling.

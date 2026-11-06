@@ -1,0 +1,4 @@
+# Docerion header of m3u8.octet-stream.mock-http-headers.
+type: test
+title: m3u8.octet-stream.mock-http-headers octet-stream MIME headers
+summary: Mock HTTP headers serving the M3U8 payload as application/octet-stream for site isolation tests.

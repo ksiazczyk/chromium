@@ -1,0 +1,4 @@
+# Docerion header of img.txt.
+type: test
+title: Non-matching content test data as text
+summary: Text copy of a plain string that matches no HTML, XML or JSON signature, for content sniffing tests.

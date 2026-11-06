@@ -1,0 +1,4 @@
+# Docerion header of subframes_with_resources.html.
+type: test
+title: Test page embedding frames with video resources
+summary: Test page that creates cross-site iframes loading videos and resolves a promise when every frame finishes its subresources.

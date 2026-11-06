@@ -1,0 +1,4 @@
+# Docerion header of add_save_data_to_title.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for add_save_data_to_title.js
+summary: Mock HTTP response headers serving add_save_data_to_title.js with a 200 OK status and a JavaScript content type.

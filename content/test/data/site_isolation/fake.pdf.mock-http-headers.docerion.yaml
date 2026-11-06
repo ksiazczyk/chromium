@@ -1,0 +1,4 @@
+# Docerion header of fake.pdf.mock-http-headers.
+type: test
+title: Fake PDF mock HTTP headers
+summary: Mock HTTP headers that serve fake.pdf with the application/pdf content type for site isolation tests.

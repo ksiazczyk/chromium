@@ -1,0 +1,4 @@
+# Docerion header of nosniff.json.
+type: test
+title: nosniff.json test fixture
+summary: Test fixture serving JavaScript content as JSON to exercise nosniff content-type handling in site isolation tests.

@@ -1,0 +1,4 @@
+# Docerion header of web_speech_recognition.html.
+type: test
+title: Web Speech Recognition test page
+summary: HTML test page that probes webkitSpeechRecognition in precheck, oneshot and continuous modes and reports success or errors through the URL hash.

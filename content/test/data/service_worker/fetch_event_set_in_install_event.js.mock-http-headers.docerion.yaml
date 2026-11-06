@@ -1,0 +1,4 @@
+# Docerion header of fetch_event_set_in_install_event.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the install event fetch worker
+summary: Mock HTTP response headers that serve the install event fetch worker script as JavaScript during tests.

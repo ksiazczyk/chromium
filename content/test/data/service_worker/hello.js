@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: hello.js service worker
+// summary: Service worker test script that serves hello-from-sw.txt for hello_sw requests and replies to postMessages from the page.
+// ---
+
 self.addEventListener('fetch', (event) => {
   // Responds to requests containing "hello_sw".
   if (event.request.url.includes('hello_sw')) {

@@ -1,0 +1,4 @@
+# Docerion header of worker_install_rejected.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for worker_install_rejected.js
+summary: Mock HTTP response headers that serve worker_install_rejected.js as JavaScript during service worker tests.

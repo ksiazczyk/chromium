@@ -1,0 +1,4 @@
+# Docerion header of test.empty_dest.dict.
+type: test
+title: Test dictionary for empty destination match
+summary: Dictionary payload used to test Use-As-Dictionary matching with an empty destination.

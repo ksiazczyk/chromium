@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker fetch event response via cache test
+// summary: Service worker test script that serves responses through Cache Storage, cloning or caching as requested.
+// ---
+
 this.onfetch = function(event) {
     var CACHE_NAME = 'cache_name';
     var cache = undefined;

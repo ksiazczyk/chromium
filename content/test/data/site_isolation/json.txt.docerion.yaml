@@ -1,0 +1,4 @@
+# Docerion header of json.txt.
+type: test
+title: json.txt JSON payload for site isolation tests
+summary: Test payload containing JSON served as plain text, used in site isolation content-type tests.

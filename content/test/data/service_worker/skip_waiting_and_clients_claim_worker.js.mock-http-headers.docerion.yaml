@@ -1,0 +1,4 @@
+# Docerion header of skip_waiting_and_clients_claim_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for skip_waiting_and_clients_claim_worker.js
+summary: Mock HTTP response headers serving the worker as JavaScript with a Service-Worker-Allowed scope of /.

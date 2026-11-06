@@ -1,0 +1,4 @@
+# Docerion header of json.octet-stream.
+type: test
+title: json.octet-stream JSON as octet-stream
+summary: JSON content stored with an octet-stream extension for site isolation MIME type tests.

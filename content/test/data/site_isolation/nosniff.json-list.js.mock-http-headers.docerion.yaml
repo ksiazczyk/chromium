@@ -1,0 +1,4 @@
+# Docerion header of nosniff.json-list.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for nosniff.json-list.js
+summary: 'Mock response headers serving the JSON list payload as JavaScript with the X-Content-Type-Options: nosniff header set.'

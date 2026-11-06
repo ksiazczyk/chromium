@@ -1,0 +1,4 @@
+# Docerion header of test.dict.
+type: test
+title: Test dictionary file
+summary: Plain text dictionary payload served to browser tests as a shared dictionary.

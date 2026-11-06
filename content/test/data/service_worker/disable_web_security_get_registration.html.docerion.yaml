@@ -1,0 +1,4 @@
+# Docerion header of disable_web_security_get_registration.html.
+type: test
+title: Service worker registration lookup page
+summary: Test page that calls getRegistration for the scope given in the query string and sets the title to PASS on success.

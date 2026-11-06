@@ -1,0 +1,4 @@
+# Docerion header of worker_activate_rejected.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the activation-rejected worker
+summary: Mock HTTP response headers serving the activation-rejecting worker script with a 200 status and a text/javascript content type.

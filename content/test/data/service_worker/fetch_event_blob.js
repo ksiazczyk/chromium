@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch event blob service worker
+// summary: Service worker test fixture that responds to fetch events with an HTML blob response.
+// ---
+
 this.onfetch = function(event) {
     var blob = new Blob(['<title>Title</title>']);
     var response = new Response(blob, {

@@ -1,0 +1,4 @@
+# Docerion header of fetch_event_reload.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for the fetch event reload worker
+summary: Mock HTTP response headers that serve the fetch event reload worker script as JavaScript during tests.

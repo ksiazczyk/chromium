@@ -1,0 +1,4 @@
+# Docerion header of navigation_preload_worker.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for navigation_preload_worker.js
+summary: Mock HTTP response headers that serve the navigation preload worker as JavaScript with a permissive Service-Worker-Allowed scope.

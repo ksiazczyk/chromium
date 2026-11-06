@@ -1,0 +1,4 @@
+# Docerion header of disable_web_security_cross_origin.html.
+type: test
+title: Cross-origin iframe loader for web security tests
+summary: Test page that appends an iframe loading the URL from the query string and marks the document title as loaded, for web security service worker tests.

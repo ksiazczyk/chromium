@@ -1,1 +1,7 @@
+<!--docerion
+type: test
+title: js.xml JavaScript payload as XML
+summary: JavaScript snippet saved with an .xml extension as test data for site isolation MIME handling tests.
+-->
+
 var j = 0; document.write(j);

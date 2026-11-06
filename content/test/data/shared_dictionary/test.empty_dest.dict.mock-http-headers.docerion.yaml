@@ -1,0 +1,4 @@
+# Docerion header of test.empty_dest.dict.mock-http-headers.
+type: test
+title: Mock HTTP headers for test.empty_dest.dict
+summary: Mock HTTP response headers serving a dictionary whose Use-As-Dictionary match-dest is an empty string.

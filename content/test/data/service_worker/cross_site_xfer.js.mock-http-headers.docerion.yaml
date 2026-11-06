@@ -1,0 +1,4 @@
+# Docerion header of cross_site_xfer.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for cross_site_xfer.js
+summary: Serves the cross_site_xfer.js service worker script with a text/javascript content type.

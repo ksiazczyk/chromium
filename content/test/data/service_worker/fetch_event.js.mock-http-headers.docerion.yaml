@@ -1,0 +1,4 @@
+# Docerion header of fetch_event.js.mock-http-headers.
+type: test
+title: Fetch event mock HTTP headers
+summary: Mock HTTP response headers that serve fetch_event.js as JavaScript.

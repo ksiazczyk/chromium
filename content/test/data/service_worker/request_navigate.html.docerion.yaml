@@ -1,0 +1,4 @@
+# Docerion header of request_navigate.html.
+type: test
+title: Test page requesting WindowClient navigation
+summary: Test page that messages the active service worker to call WindowClient.navigate() on it and reports the result back.

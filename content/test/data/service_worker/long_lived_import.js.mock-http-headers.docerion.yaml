@@ -1,0 +1,4 @@
+# Docerion header of long_lived_import.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for long_lived_import.js
+summary: Serves long_lived_import.js with an Expires header in 2100 so the import script stays cached for a long time.

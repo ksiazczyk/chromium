@@ -1,0 +1,4 @@
+# Docerion header of with_subresources.html.
+type: test
+title: Test page with subresources
+summary: Test HTML page that loads an empty script and an image so service worker tests can exercise subresource fetching.

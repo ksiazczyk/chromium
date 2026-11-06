@@ -1,0 +1,4 @@
+# Docerion header of test_no_acao.dict.
+type: test
+title: Test dictionary without CORS header
+summary: Dictionary payload for shared dictionary tests, served without Access-Control-Allow-Origin to cover cross-origin rejection cases.

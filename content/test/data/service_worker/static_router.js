@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Static router test service worker
+// summary: Service worker installing static router routes for network, cache, and fetch-event sources, plus a custom fetch handler response.
+// ---
+
 const composeCustomResponse = () => {
   const headers = new Headers();
   headers.append('Content-Type', 'text/html');

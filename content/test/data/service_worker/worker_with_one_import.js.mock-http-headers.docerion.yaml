@@ -1,0 +1,4 @@
+# Docerion header of worker_with_one_import.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for worker_with_one_import.js
+summary: Mock HTTP response headers serving worker_with_one_import.js as JavaScript with a far-future expiry date.

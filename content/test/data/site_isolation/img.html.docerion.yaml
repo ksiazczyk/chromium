@@ -1,0 +1,4 @@
+# Docerion header of img.html.
+type: test
+title: Non-matching content test page
+summary: HTML-named page whose body matches no HTML, XML or JSON signature, for content sniffing tests.

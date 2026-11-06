@@ -1,0 +1,4 @@
+# Docerion header of cors.txt.
+type: test
+title: CORS-accessible text that sniffs as HTML
+summary: Test fixture of a plain text response that sniffs as HTML and is accessible via CORS.

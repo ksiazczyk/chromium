@@ -1,0 +1,4 @@
+# Docerion header of html-prefix.txt.
+type: test
+title: HTML prefix text fixture
+summary: Text fixture containing a truncated HTML prefix, likely for MIME type or content sniffing tests.
