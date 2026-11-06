@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register support host request base class
+// summary: Abstract base class that waits for the signal strategy to connect and delegates host registration to subclasses via virtual registration methods.
+// ---
+
 #ifndef REMOTING_HOST_REGISTER_SUPPORT_HOST_REQUEST_BASE_H_
 #define REMOTING_HOST_REGISTER_SUPPORT_HOST_REQUEST_BASE_H_
 

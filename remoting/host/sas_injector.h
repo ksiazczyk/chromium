@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAS injector interface
+// summary: Declares the SasInjector interface for simulating a Secure Attention Sequence such as Ctrl+Alt+Delete, with a factory returning null when unsupported by the OS.
+// ---
+
 #ifndef REMOTING_HOST_SAS_INJECTOR_H_
 #define REMOTING_HOST_SAS_INJECTOR_H_
 

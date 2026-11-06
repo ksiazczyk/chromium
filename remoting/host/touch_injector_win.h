@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows touch injector interface
+// summary: Declares TouchInjectorWin and its delegate for converting and injecting touch events through the Windows touch injection API.
+// ---
+
 #ifndef REMOTING_HOST_TOUCH_INJECTOR_WIN_H_
 #define REMOTING_HOST_TOUCH_INJECTOR_WIN_H_
 

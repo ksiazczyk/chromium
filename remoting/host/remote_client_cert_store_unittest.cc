@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote client certificate store unit tests
+// summary: Tests the remote client certificate store using a fake certificate broker and SSL private key to verify certificate retrieval and signing behavior.
+// ---
+
 #include "remoting/host/remote_client_cert_store.h"
 
 #include <memory>

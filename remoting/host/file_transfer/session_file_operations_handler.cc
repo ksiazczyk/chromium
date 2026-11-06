@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session file operations handler implementation
+// summary: Implements Mojo file reader and writer classes that expose file read and write operations to remote desktop sessions.
+// ---
+
 #include "remoting/host/file_transfer/session_file_operations_handler.h"
 
 #include <memory>

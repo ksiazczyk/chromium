@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC mouse cursor monitor adaptor implementation
+// summary: Adapts the WebRTC mouse cursor monitor to the remoting protocol, polling cursor shape and fractional position at a configurable interval.
+// ---
+
 #include "remoting/host/webrtc_mouse_cursor_monitor_adaptor.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote input filter class
+// summary: Declares an InputFilter that blocks remote input for a short time when local input is detected and distinguishes echoes of injected events.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_INPUT_FILTER_H_
 #define REMOTING_HOST_REMOTE_INPUT_FILTER_H_
 

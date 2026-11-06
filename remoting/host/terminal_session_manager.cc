@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terminal session manager implementation
+// summary: Implements lifecycle management of terminal sessions, including creation, restoration of persistent sessions, input, resizing and closing.
+// ---
+
 #include "remoting/host/terminal_session_manager.h"
 
 #include <limits>

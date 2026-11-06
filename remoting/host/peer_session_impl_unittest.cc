@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peer session implementation unit tests
+// summary: Unit tests for PeerSessionImpl covering session setup, input and clipboard events, capabilities, pairing and related host behaviors using fake protocol objects.
+// ---
+
 #include "remoting/host/peer_session_impl.h"
 
 #include <algorithm>

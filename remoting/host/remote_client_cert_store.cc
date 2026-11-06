@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote client certificate store implementation
+// summary: Implements net::ClientCertStore by fetching client certificates through a Mojo CertificateBroker and wrapping remote SSL private keys as client cert identities.
+// ---
+
 #include "remoting/host/remote_client_cert_store.h"
 
 #include <algorithm>

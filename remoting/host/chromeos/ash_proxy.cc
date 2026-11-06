@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Ash proxy implementation
+// summary: Implements the default AshProxy, wrapping ash::Shell calls for display lookup, video capture, security curtain, sign-out and accessibility checks.
+// ---
+
 #include "remoting/host/chromeos/ash_proxy.h"
 
 #include "ash/constants/ash_pref_names.h"

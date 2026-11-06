@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File transfer message handler implementation
+// summary: Handles file transfer protocol messages, chunks data at 8 KiB, and drives file reads and writes through FileOperations.
+// ---
+
 #include "remoting/host/file_transfer/file_transfer_message_handler.h"
 
 #include <cstddef>

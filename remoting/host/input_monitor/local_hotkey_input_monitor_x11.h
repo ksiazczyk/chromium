@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 local hotkey input monitor header
+// summary: Declares LocalHotkeyInputMonitorX11 and its Core, which observes X11 events and caches XTEST device IDs to filter synthetic input.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_MONITOR_LOCAL_HOTKEY_INPUT_MONITOR_X11_H_
 #define REMOTING_HOST_INPUT_MONITOR_LOCAL_HOTKEY_INPUT_MONITOR_X11_H_
 

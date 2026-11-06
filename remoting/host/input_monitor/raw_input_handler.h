@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RawInputHandler interface for Windows raw input events
+// summary: Declares the RawInputHandler interface that registers for Windows raw input events and notifies observers of mouse movement, keyboard input, and errors.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_MONITOR_RAW_INPUT_HANDLER_H_
 #define REMOTING_HOST_INPUT_MONITOR_RAW_INPUT_HANDLER_H_
 

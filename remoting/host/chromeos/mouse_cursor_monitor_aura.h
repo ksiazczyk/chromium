@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura mouse cursor monitor interface
+// summary: Declares a webrtc mouse cursor monitor that tracks cursor shape and location changes on ChromeOS.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_MOUSE_CURSOR_MONITOR_AURA_H_
 #define REMOTING_HOST_CHROMEOS_MOUSE_CURSOR_MONITOR_AURA_H_
 

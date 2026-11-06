@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the crash directory watcher
+// summary: Watches the crash dump directory and prepares minidump and metadata files for upload when new crash reports appear.
+// ---
+
 #include "remoting/host/crash/crash_directory_watcher.h"
 
 #include <string>

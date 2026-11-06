@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local input monitor unit tests
+// summary: Unit tests exercising LocalInputMonitor creation and teardown, plus Windows tests that distinguish Chrome Remote Desktop injected input from other software input.
+// ---
+
 #include "remoting/host/input_monitor/local_input_monitor.h"
 
 #include <memory>

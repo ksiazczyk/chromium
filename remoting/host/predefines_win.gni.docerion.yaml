@@ -1,0 +1,4 @@
+# Docerion header of predefines_win.gni.
+type: config
+title: Windows host binary predefines for GN builds
+summary: GN import that defines numeric preprocessor identifiers for each Windows remoting host binary so resources are embedded into a single binary.

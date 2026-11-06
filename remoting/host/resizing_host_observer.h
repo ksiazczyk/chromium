@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResizingHostObserver class header
+// summary: Declares a ScreenControls implementation that resizes the host desktop to match the client view size and restores original per-monitor resolutions on disconnect.
+// ---
+
 #ifndef REMOTING_HOST_RESIZING_HOST_OBSERVER_H_
 #define REMOTING_HOST_RESIZING_HOST_OBSERVER_H_
 

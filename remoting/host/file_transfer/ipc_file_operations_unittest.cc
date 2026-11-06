@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC file operations unit tests
+// summary: Unit tests for IpcFileOperations using a fake desktop session proxy and session file operations handler to exercise IPC-based file transfers.
+// ---
+
 #include "remoting/host/file_transfer/ipc_file_operations.h"
 
 #include <cstdint>

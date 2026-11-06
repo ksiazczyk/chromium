@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS remote access feature flags
+// summary: Defines feature flags for ChromeOS remote desktop, including shared sessions to unattended devices and auto-approval of enterprise shared sessions.
+// ---
+
 #include "remoting/host/chromeos/features.h"
 
 #include "base/feature_list.h"

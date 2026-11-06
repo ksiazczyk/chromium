@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote SSL private key unit tests
+// summary: Unit tests covering successful signing, remote failures, oversized input rejection, and dropped callbacks for RemoteSSLPrivateKey.
+// ---
+
 #include "remoting/host/remote_ssl_private_key.h"
 
 #include <memory>

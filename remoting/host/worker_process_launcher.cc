@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker process launcher implementation
+// summary: Implements WorkerProcessLauncher, which launches and supervises worker processes over IPC with exponential back-off and kill timeouts on failures.
+// ---
+
 #include "remoting/host/worker_process_launcher.h"
 
 #include <utility>

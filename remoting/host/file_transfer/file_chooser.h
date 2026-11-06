@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File chooser interface for file transfer
+// summary: Defines the FileChooser interface that shows a file selection dialog and returns the chosen file path or a cancellation or error result.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_FILE_CHOOSER_H_
 #define REMOTING_HOST_FILE_TRANSFER_FILE_CHOOSER_H_
 

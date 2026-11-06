@@ -1,0 +1,4 @@
+# Docerion header of xsession_chooser_ui.inc.
+type: source
+title: Session chooser GTK UI definition
+summary: C++ include file holding the GTK builder interface definition string used by the Linux X session chooser dialog.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop environment options implementation
+// summary: Implements the DesktopEnvironmentOptions class controlling session behavior such as curtaining, notifications, capture settings and session duration.
+// ---
+
 #include "remoting/host/base/desktop_environment_options.h"
 
 #include <optional>

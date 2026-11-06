@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura clipboard header
+// summary: Declares ClipboardAura, which monitors the aura clipboard for changes and injects clipboard events between the local system and the remote client.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_CLIPBOARD_AURA_H_
 #define REMOTING_HOST_CHROMEOS_CLIPBOARD_AURA_H_
 

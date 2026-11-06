@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session policies parser from dictionary
+// summary: Converts a policy dictionary into SessionPolicies, mapping remote access host policy keys for session duration, port ranges, clipboard size, and feature toggles.
+// ---
+
 #include "remoting/host/session_policies_from_dict.h"
 
 #include <optional>

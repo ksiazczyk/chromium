@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resizing host observer
+// summary: Watches the client screen resolution and resizes the host desktop to the best matching resolution with rate-limited updates.
+// ---
+
 #include "remoting/host/resizing_host_observer.h"
 
 #include <stdint.h>

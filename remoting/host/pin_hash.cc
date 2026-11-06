@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN hash helpers implementation
+// summary: Implements creation, parsing and verification of Me2Me host PIN shared-secret hashes in plain or HMAC formats for host configuration.
+// ---
+
 #include "remoting/host/pin_hash.h"
 
 #include "base/base64.h"

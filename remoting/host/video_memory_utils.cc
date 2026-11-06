@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared video memory helpers for screen capture
+// summary: Implements shared memory helpers that let the desktop process create writable video frame buffers and share read-only regions with the network process over IPC.
+// ---
+
 #include "remoting/host/video_memory_utils.h"
 
 #include "base/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of local_hotkey_input_monitor_mac.mm.
+type: source
+title: macOS local hotkey input monitor
+summary: macOS implementation using a local NSEvent monitor to catch the Ctrl-Option-Esc disconnect shortcut and stop its propagation.

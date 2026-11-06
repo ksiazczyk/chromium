@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN hash unit tests
+// summary: Unit tests checking a known PIN hash value and that verification fails for mismatched host IDs or PINs.
+// ---
+
 #include <set>
 #include <string>
 

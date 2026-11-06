@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura mouse cursor monitor implementation
+// summary: Captures cursor shape and position changes on ChromeOS and reports them to the webrtc desktop capture callback.
+// ---
+
 #include "remoting/host/chromeos/mouse_cursor_monitor_aura.h"
 
 #include <optional>

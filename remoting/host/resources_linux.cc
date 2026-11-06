@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux resource loading implementation
+// summary: Linux implementation of LoadResources that points the locale path to remoting_locales and initializes the shared ResourceBundle.
+// ---
+
 #include "remoting/host/resources.h"
 
 #include <dlfcn.h>

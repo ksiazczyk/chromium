@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host event reporter implementation
+// summary: Reports Chrome Remote Desktop host events such as client connections, route changes, disconnections and shutdown as CRD records through a delegate.
+// ---
+
 #include "remoting/host/chromeos/host_event_reporter_impl.h"
 
 #include <memory>

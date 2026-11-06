@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemotingService
+// summary: Header for a Chrome OS singleton service that exposes remoting functionality to external callers and manages the support host and reconnectable session state.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_REMOTING_SERVICE_H_
 #define REMOTING_HOST_CHROMEOS_REMOTING_SERVICE_H_
 

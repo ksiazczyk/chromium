@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host exit codes enumeration
+// summary: Defines the HostExitCodes enum distinguishing temporary and permanent error exit codes for the remoting host.
+// ---
+
 #ifndef REMOTING_HOST_BASE_HOST_EXIT_CODES_H_
 #define REMOTING_HOST_BASE_HOST_EXIT_CODES_H_
 

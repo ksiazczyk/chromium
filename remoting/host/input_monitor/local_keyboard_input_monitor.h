@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local keyboard input monitor interface
+// summary: Declares the platform-specific LocalKeyboardInputMonitor factory that notifies callers for each detected local keyboard event.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_MONITOR_LOCAL_KEYBOARD_INPUT_MONITOR_H_
 #define REMOTING_HOST_INPUT_MONITOR_LOCAL_KEYBOARD_INPUT_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux keyboard input monitor stub
+// summary: Unimplemented Linux factory for LocalKeyboardInputMonitor that logs NOTIMPLEMENTED and always returns null.
+// ---
+
 #include "remoting/host/input_monitor/local_keyboard_input_monitor.h"
 
 #include <utility>

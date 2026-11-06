@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffered file writer header
+// summary: Declares BufferedFileWriter, a wrapper around FileOperations::Writer that queues write chunks and reports completion or errors via callbacks.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_BUFFERED_FILE_WRITER_H_
 #define REMOTING_HOST_FILE_TRANSFER_BUFFERED_FILE_WRITER_H_
 

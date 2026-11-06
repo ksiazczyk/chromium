@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash Mojom video consumer implementation
+// summary: Implements the FrameSinkVideoConsumer interface, validating captured video frames and converting them into WebRTC desktop frames for remote desktop capture.
+// ---
+
 #include "remoting/host/chromeos/ash_mojom_video_consumer.h"
 
 #include <cstddef>

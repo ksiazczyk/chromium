@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ChromeOS remoting host sources
+summary: Defines allowed include dependencies for the directory, with per-file rules for audio, browser interop, event reporting, video capture and session storage.

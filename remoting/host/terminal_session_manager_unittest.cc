@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Terminal session manager unit tests
+// summary: Unit tests for TerminalSessionManager covering terminal creation, ID assignment, start failures, asynchronous starts and restoration behavior.
+// ---
+
 #include "remoting/host/terminal_session_manager.h"
 
 #include <cstdint>

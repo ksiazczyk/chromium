@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TerminalError unit tests
+// summary: Tests TerminalError creation from system errors and its stream output with and without a source location.
+// ---
+
 #include "remoting/host/terminal_error.h"
 
 #include <cerrno>

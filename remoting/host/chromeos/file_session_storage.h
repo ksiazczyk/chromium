@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based CRD session storage header
+// summary: Declares FileSessionStorage, which persists CRD session information on the filesystem, typically under /run/crd, to resume sessions after a Chrome restart.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_FILE_SESSION_STORAGE_H_
 #define REMOTING_HOST_CHROMEOS_FILE_SESSION_STORAGE_H_
 

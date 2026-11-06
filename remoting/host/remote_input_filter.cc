@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote input filter implementation
+// summary: Filters remotely injected input after recent local input, tracking injected mouse positions and keypresses to suppress echoes of injected events.
+// ---
+
 #include "remoting/host/remote_input_filter.h"
 
 #include <stdint.h>

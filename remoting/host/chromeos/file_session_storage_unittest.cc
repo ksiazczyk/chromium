@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File session storage unit tests
+// summary: Unit tests verifying that FileSessionStorage stores, retrieves, deletes and reports CRD session information using a temporary directory.
+// ---
+
 #include "remoting/host/chromeos/file_session_storage.h"
 
 #include <optional>

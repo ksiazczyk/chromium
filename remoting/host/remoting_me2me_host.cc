@@ -4,6 +4,12 @@
 //
 // This file implements a standalone host process for Me2Me.
 
+// ---docerion
+// type: source
+// title: Me2Me standalone host process
+// summary: Implements the standalone Chrome Remote Desktop Me2Me host process, wiring signaling, policies, desktop environment, and host lifecycle.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionFileOperationsHandler class declaration
+// summary: Declares a Mojo-aware FileOperations wrapper that handles concurrent file read and write requests and releases resources when Mojo channels close.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_SESSION_FILE_OPERATIONS_HANDLER_H_
 #define REMOTING_HOST_FILE_TRANSFER_SESSION_FILE_OPERATIONS_HANDLER_H_
 

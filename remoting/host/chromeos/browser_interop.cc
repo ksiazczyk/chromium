@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser interop implementation
+// summary: Implements BrowserInterop helpers that create a ChromotingHostContext and PolicyWatcher from the browser process, including client cert store creation.
+// ---
+
 #include "remoting/host/chromeos/browser_interop.h"
 
 #include <memory>

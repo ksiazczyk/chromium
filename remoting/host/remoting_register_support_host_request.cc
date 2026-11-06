@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting support host registration
+// summary: Registers a remote support host with the Remoting API, sending host details via OAuth-authenticated protobuf HTTP requests.
+// ---
+
 #include "remoting/host/remoting_register_support_host_request.h"
 
 #include "base/logging.h"

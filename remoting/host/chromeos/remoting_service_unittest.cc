@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemotingService unit tests
+// summary: Unit tests verifying that RemotingService reports a stored enterprise session id when one exists and no session when none is reconnectable.
+// ---
+
 #include "remoting/host/chromeos/remoting_service.h"
 
 #include "base/files/scoped_temp_dir.h"

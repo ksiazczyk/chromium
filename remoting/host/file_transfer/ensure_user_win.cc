@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows user impersonation for file transfer
+// summary: Impersonates the currently logged-in Windows user for file transfers and returns NOT_LOGGED_IN or unexpected errors when token lookup or impersonation fails.
+// ---
+
 #include "remoting/host/file_transfer/ensure_user.h"
 
 #include <Windows.h>

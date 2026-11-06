@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough register support host request
+// summary: Declares a RegisterSupportHostRequest that skips server-side registration and reuses an existing support ID for a new host instance.
+// ---
+
 #ifndef REMOTING_HOST_PASSTHROUGH_REGISTER_SUPPORT_HOST_REQUEST_H_
 #define REMOTING_HOST_PASSTHROUGH_REGISTER_SUPPORT_HOST_REQUEST_H_
 

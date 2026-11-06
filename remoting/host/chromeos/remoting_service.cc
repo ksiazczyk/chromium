@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting service implementation
+// summary: Implements the RemotingService singleton that provides the support host and file-based session storage for ChromeOS.
+// ---
+
 #include "remoting/host/chromeos/remoting_service.h"
 
 #include <memory>

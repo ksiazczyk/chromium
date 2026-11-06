@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux mouse input monitor factory
+// summary: Linux entry point that creates the X11-based local mouse input monitor for pointer move notifications.
+// ---
+
 #include "remoting/host/input_monitor/local_pointer_input_monitor.h"
 
 #include <utility>

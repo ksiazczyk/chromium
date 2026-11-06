@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TerminalError struct declaration
+// summary: Declares a struct describing terminal session failures with a reason category, message, location and optional system error code.
+// ---
+
 #ifndef REMOTING_HOST_TERMINAL_ERROR_H_
 #define REMOTING_HOST_TERMINAL_ERROR_H_
 

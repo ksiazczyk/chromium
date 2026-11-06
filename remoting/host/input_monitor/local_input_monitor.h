@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local input monitor interface
+// summary: Declares the LocalInputMonitor interface that monitors local mouse, touch, and keyboard input and notifies callers via callbacks or client session control.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_MONITOR_LOCAL_INPUT_MONITOR_H_
 #define REMOTING_HOST_INPUT_MONITOR_LOCAL_INPUT_MONITOR_H_
 

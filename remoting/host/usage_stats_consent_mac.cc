@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac usage stats consent implementation
+// summary: Reads usage stats consent from the host config file given on the command line before Breakpad initialization on macOS.
+// ---
+
 #include "remoting/host/usage_stats_consent.h"
 
 #include <memory>

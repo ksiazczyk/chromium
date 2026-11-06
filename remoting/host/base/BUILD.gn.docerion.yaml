@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for remoting host base
+summary: GN build file defining the base source set with its public headers and sources, plus the unit test target for the remoting host.

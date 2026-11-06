@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op user context check for file transfer
+// summary: Implements EnsureUserContext as a no-op for platforms that do not require user impersonation before file transfers.
+// ---
+
 #include <variant>
 
 #include "remoting/host/file_transfer/ensure_user.h"

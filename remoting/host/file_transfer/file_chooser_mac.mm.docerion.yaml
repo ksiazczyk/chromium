@@ -1,0 +1,4 @@
+# Docerion header of file_chooser_mac.mm.
+type: source
+title: macOS file chooser
+summary: Implements the file chooser for macOS using NSOpenPanel with a delegate that restricts selection to file URLs.

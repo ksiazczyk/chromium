@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS remoting host build targets
+summary: GN build file defining source sets and test targets for the ChromeOS remoting host, including chromeos, browser_interop, remoting_service and host_event_reporter_impl.

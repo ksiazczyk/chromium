@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Buffered file writer unit tests
+// summary: Unit tests for BufferedFileWriter using FakeFileOperations to verify chunk writing, operation queuing, and error handling.
+// ---
+
 #include "remoting/host/file_transfer/buffered_file_writer.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux terminal process monitor unit tests
+// summary: Tests polling start and stop, deduplication of unchanged results and safe destruction while polling is active.
+// ---
+
 #include "remoting/host/terminal_process_monitor_linux.h"
 
 #include <memory>

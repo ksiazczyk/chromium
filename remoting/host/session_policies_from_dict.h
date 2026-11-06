@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionPoliciesFromDict function declaration
+// summary: Declares a helper that converts a policy dictionary into SessionPolicies, returning nullopt for malformed or invalid policies.
+// ---
+
 #ifndef REMOTING_HOST_SESSION_POLICIES_FROM_DICT_H_
 #define REMOTING_HOST_SESSION_POLICIES_FROM_DICT_H_
 

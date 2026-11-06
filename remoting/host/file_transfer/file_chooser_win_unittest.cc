@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows file chooser unit tests
+// summary: Unit tests covering success, cancellation, disconnect handling, and FileChooserWindows behavior using a fake Mojo FileChooser.
+// ---
+
 #include "remoting/host/file_transfer/file_chooser.h"
 
 #include <memory>

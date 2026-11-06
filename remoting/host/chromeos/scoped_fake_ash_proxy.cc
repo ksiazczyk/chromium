@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedFakeAshProxy implementation
+// summary: Implements a scoped fake AshProxy that registers itself for tests, managing fake displays, video capturers, capture requests and sign-out counting.
+// ---
+
 #include "remoting/host/chromeos/scoped_fake_ash_proxy.h"
 
 #include "base/check.h"

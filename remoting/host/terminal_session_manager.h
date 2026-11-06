@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terminal session manager interface
+// summary: Declares TerminalSessionManager, which manages the lifecycles of active terminal sessions and restores persistent sessions on connection.
+// ---
+
 #ifndef REMOTING_HOST_TERMINAL_SESSION_MANAGER_H_
 #define REMOTING_HOST_TERMINAL_SESSION_MANAGER_H_
 

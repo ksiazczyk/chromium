@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote support host for Ash interface
+// summary: Declares the remote support host wrapper that enforces a single connection and manages session lifecycle over IPC.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_REMOTE_SUPPORT_HOST_ASH_H_
 #define REMOTING_HOST_CHROMEOS_REMOTE_SUPPORT_HOST_ASH_H_
 

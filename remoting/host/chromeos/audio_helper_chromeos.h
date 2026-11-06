@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS audio helper interface
+// summary: Declares AudioHelperChromeOs, which handles media::AudioInputStream interactions on the AudioManager task runner for remote audio capture.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_AUDIO_HELPER_CHROMEOS_H_
 #define REMOTING_HOST_CHROMEOS_AUDIO_HELPER_CHROMEOS_H_
 

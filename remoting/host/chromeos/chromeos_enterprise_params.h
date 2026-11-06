@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS enterprise parameters
+// summary: Defines the ChromeOsEnterpriseParams struct and enums holding enterprise-specific remote desktop session settings not exposed through public Mojom APIs.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_CHROMEOS_ENTERPRISE_PARAMS_H_
 #define REMOTING_HOST_CHROMEOS_CHROMEOS_ENTERPRISE_PARAMS_H_
 

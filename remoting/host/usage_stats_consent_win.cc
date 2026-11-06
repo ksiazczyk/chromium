@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows usage stats consent implementation
+// summary: Reads and writes the crash dump reporting consent stored as the Omaha usagestats value in the Windows registry.
+// ---
+
 #include "remoting/host/usage_stats_consent.h"
 
 #include <windows.h>

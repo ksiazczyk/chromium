@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory helpers implementation
+// summary: Implements GetFileUploadDirectory, resolving the platform-dependent upload directory via PathService, with a testing override hook.
+// ---
+
 #include "remoting/host/file_transfer/directory_helpers.h"
 
 #include "base/check_is_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN hash helpers header
+// summary: Declares functions to make, parse from config, and verify host PIN hashes used for Me2Me authentication.
+// ---
+
 #ifndef REMOTING_HOST_PIN_HASH_H_
 #define REMOTING_HOST_PIN_HASH_H_
 

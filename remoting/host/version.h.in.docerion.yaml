@@ -1,0 +1,4 @@
+# Docerion header of version.h.in.
+type: source
+title: Version header template for Mac bundle names
+summary: Template used to generate version.h with Mac bundle names and team ID substituted at build time.

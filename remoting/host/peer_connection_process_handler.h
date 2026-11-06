@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer Connection process handler declaration
+// summary: Declares PeerConnectionProcessHandler, which manages the lifecycle and Mojo bootstrapping of a dedicated Peer Connection process for one desktop session.
+// ---
+
 #ifndef REMOTING_HOST_PEER_CONNECTION_PROCESS_HANDLER_H_
 #define REMOTING_HOST_PEER_CONNECTION_PROCESS_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC mouse cursor monitor adaptor unit tests
+// summary: Unit tests for the WebRTC mouse cursor monitor adaptor using fake cursor monitors and display info monitors.
+// ---
+
 #include "remoting/host/webrtc_mouse_cursor_monitor_adaptor.h"
 
 #include <memory>

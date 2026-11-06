@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer session interface
+// summary: Defines the PeerSession interface and factory for maintaining per-client connection state, with a Mojo event handler alias and a pure virtual fallback.
+// ---
+
 #ifndef REMOTING_HOST_PEER_SESSION_H_
 #define REMOTING_HOST_PEER_SESSION_H_
 

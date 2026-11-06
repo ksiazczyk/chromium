@@ -1,0 +1,4 @@
+# Docerion header of remoting_me2me_host-InfoPlist.strings.jinja2.
+type: asset
+title: Me2Me host Info.plist strings template
+summary: Jinja2 template generating localized macOS InfoPlist strings for the Me2Me host copyright and microphone usage descriptions.

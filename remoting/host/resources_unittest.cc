@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resources unit tests
+// summary: Unit tests verifying that Chromoting resources load and the product name string matches the branding, currently disabled pending bug fixes.
+// ---
+
 #include "remoting/host/resources.h"
 
 #include "build/branding_buildflags.h"

@@ -1,3 +1,13 @@
+---
+type: readme
+title: ChromeOS host implementation details
+summary: Directory guide describing the ChromeOS remote desktop host architecture, connection scenarios, key components, stability warnings and troubleshooting steps.
+relations:
+  - documents /remoting/host/chromeos/remoting_service.cc
+  - documents /remoting/host/chromeos/remote_support_host_ash.cc
+  - documents /remoting/host/chromeos/mouse_cursor_monitor_aura.cc
+---
+
 # ChromeOS Host Implementation Details
 
 This directory contains the host-side logic for Chrome Remote Desktop on

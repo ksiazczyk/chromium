@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register support host request interface
+// summary: Interface for sending a request to register the host for a SupportID, invoking a callback with the session ID, its lifetime and an error code.
+// ---
+
 #ifndef REMOTING_HOST_REGISTER_SUPPORT_HOST_REQUEST_H_
 #define REMOTING_HOST_REGISTER_SUPPORT_HOST_REQUEST_H_
 

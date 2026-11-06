@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux terminal process monitor declaration
+// summary: Declares a monitor that periodically polls a shell's process hierarchy and reports activity changes via a callback.
+// ---
+
 #ifndef REMOTING_HOST_TERMINAL_PROCESS_MONITOR_LINUX_H_
 #define REMOTING_HOST_TERMINAL_PROCESS_MONITOR_LINUX_H_
 

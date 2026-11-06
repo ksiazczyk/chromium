@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS enterprise parameters implementation
+// summary: Implements serialization and string-to-enum conversion for ChromeOS enterprise remote access parameters such as request origin and audio playback mode.
+// ---
+
 #include "remoting/host/chromeos/chromeos_enterprise_params.h"
 
 #include "base/json/values_util.h"

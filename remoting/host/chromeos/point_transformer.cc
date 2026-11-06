@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point transformer implementation
+// summary: Converts points between screen and window coordinates in DIP and pixel units, including unified desktop mode.
+// ---
+
 #include "remoting/host/chromeos/point_transformer.h"
 
 #include "ash/display/mirror_window_controller.h"

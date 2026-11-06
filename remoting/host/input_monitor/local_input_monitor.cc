@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local input monitor implementation
+// summary: Implements LocalInputMonitor by combining the hotkey, keyboard, and pointer input monitors and dispatching their callbacks for client sessions.
+// ---
+
 #include "remoting/host/input_monitor/local_input_monitor.h"
 
 #include <utility>

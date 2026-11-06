@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS file chooser class declaration
+// summary: Declares FileChooserChromeOs, which runs its SelectFileDialog core on the UI thread via base::SequenceBound.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_FILE_CHOOSER_CHROMEOS_H_
 #define REMOTING_HOST_FILE_TRANSFER_FILE_CHOOSER_CHROMEOS_H_
 

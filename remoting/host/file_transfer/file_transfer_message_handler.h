@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File transfer message handler declaration
+// summary: Declares FileTransferMessageHandler, a NamedMessagePipeHandler that manages file transfer states from connected to closed or failed.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_FILE_TRANSFER_MESSAGE_HANDLER_H_
 #define REMOTING_HOST_FILE_TRANSFER_FILE_TRANSFER_MESSAGE_HANDLER_H_
 

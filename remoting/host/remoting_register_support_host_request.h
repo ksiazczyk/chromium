@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting support host registration declaration
+// summary: Declares RemotingRegisterSupportHostRequest, a RegisterSupportHostRequestBase implementation that registers hosts through the Remoting API.
+// ---
+
 #ifndef REMOTING_HOST_REMOTING_REGISTER_SUPPORT_HOST_REQUEST_H_
 #define REMOTING_HOST_REMOTING_REGISTER_SUPPORT_HOST_REQUEST_H_
 

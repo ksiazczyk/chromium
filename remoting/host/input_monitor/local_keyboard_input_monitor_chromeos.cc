@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS keyboard input monitor
+// summary: ChromeOS implementation of LocalKeyboardInputMonitor that observes platform and aura events and filters input injected by the remote host.
+// ---
+
 #include "remoting/host/input_monitor/local_keyboard_input_monitor.h"
 
 #include <cstdint>

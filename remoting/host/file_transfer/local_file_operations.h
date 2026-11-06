@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file operations header
+// summary: Declares LocalFileOperations, a FileOperations implementation that performs file operations on a dedicated task runner via base::FileProxy.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_LOCAL_FILE_OPERATIONS_H_
 #define REMOTING_HOST_FILE_TRANSFER_LOCAL_FILE_OPERATIONS_H_
 

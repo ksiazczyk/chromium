@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: GN build definitions for the remoting file transfer targets, including platform-specific file chooser sources, common sources, test support, and unit tests.

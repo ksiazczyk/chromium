@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker process IPC delegate interface
+// summary: Defines the WorkerProcessIpcDelegate interface for objects that receive IPC messages and interface requests from a worker process.
+// ---
+
 #ifndef REMOTING_HOST_WORKER_PROCESS_IPC_DELEGATE_H_
 #define REMOTING_HOST_WORKER_PROCESS_IPC_DELEGATE_H_
 

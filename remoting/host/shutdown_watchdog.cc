@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown watchdog implementation
+// summary: Implements a watchdog that force-exits the host process with a configured exit code when shutdown takes too long.
+// ---
+
 #include "remoting/host/shutdown_watchdog.h"
 
 #include <stdlib.h>  // For _exit() on Windows.

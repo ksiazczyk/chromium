@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 mouse input monitor
+// summary: Monitors local mouse movement on X11 through the X Input extension, ignoring synthetic events injected via XTEST so remote input is not mistaken for local activity.
+// ---
+
 #include "remoting/host/input_monitor/local_mouse_input_monitor_x11.h"
 
 #include <sys/select.h>

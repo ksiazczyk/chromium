@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local file operations unit tests
+// summary: Unit tests for LocalFileOperations that exercise local file reading and writing with fake file choosers and a scoped temporary desktop directory.
+// ---
+
 #include "remoting/host/file_transfer/local_file_operations.h"
 
 #include "base/containers/queue.h"

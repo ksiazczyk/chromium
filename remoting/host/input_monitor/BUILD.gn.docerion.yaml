@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Input monitor build configuration
+summary: GN build rules for the input_monitor source set, selecting platform-specific sources and dependencies for X11, macOS, Windows and ChromeOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host event reporter header
+// summary: Declares HostEventReporterImpl, which observes host status changes and enqueues CRD event records via a pluggable delegate for event delivery.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_HOST_EVENT_REPORTER_IMPL_H_
 #define REMOTING_HOST_CHROMEOS_HOST_EVENT_REPORTER_IMPL_H_
 

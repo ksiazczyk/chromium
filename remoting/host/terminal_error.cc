@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TerminalError implementation
+// summary: Implements the TerminalError type, including construction from system error codes and stream output with location details.
+// ---
+
 #include "remoting/host/terminal_error.h"
 
 #include <ostream>

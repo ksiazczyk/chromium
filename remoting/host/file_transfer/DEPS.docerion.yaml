@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Defines include rules for the file transfer directory, with specific exceptions for the ChromeOS file chooser and directory helpers.

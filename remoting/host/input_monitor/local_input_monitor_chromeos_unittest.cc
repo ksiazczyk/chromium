@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS local input monitor unit tests
+// summary: ChromeOS unit tests verifying that LocalInputMonitor reports mouse moves, clicks, and keyboard events through ClientSessionControl during monitoring.
+// ---
+
 #include "remoting/host/input_monitor/local_input_monitor.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer Connection process implementation
+// summary: Implements the low-privilege process that hosts the WebRTC peer connection and communicates with the privileged daemon process via Mojo IPC.
+// ---
+
 #include "remoting/host/peer_connection_process.h"
 
 #include <utility>

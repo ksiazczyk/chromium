@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart pointer helpers for C APIs
+// summary: Provides DeleteFunc and CRefCounted templates for managing C API pointers with type-level deleters and reference counting.
+// ---
+
 #ifndef REMOTING_HOST_BASE_POINTER_UTILS_H_
 #define REMOTING_HOST_BASE_POINTER_UTILS_H_
 

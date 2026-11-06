@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura clipboard implementation
+// summary: Implements clipboard support for ChromeOS by polling the aura clipboard for changes and injecting remote clipboard events as UTF-8 text.
+// ---
+
 #include "remoting/host/chromeos/clipboard_aura.h"
 
 #include <utility>

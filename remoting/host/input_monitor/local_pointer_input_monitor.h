@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local pointer input monitor interface
+// summary: Defines the LocalPointerInputMonitor interface with a platform-specific Create factory for monitoring local mouse or touch move events.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_MONITOR_LOCAL_POINTER_INPUT_MONITOR_H_
 #define REMOTING_HOST_INPUT_MONITOR_LOCAL_POINTER_INPUT_MONITOR_H_
 

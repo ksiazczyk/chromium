@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host event reporter unit tests
+// summary: Unit tests verifying that host start, client connect, route change, disconnect and shutdown events are reported with the expected host, client and session details.
+// ---
+
 #include "remoting/host/chromeos/host_event_reporter_impl.h"
 
 #include "base/memory/ptr_util.h"

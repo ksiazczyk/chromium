@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 local hotkey input monitor tests
+// summary: Tests the X11 hotkey monitor against a live X connection, checking local hotkey detection and rejection of XTEST-injected key events.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <utility>

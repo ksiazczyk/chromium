@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host exit code name mapping
+// summary: Maps host exit code values to their string names and provides conversion helpers for logging and reporting.
+// ---
+
 #include "remoting/host/base/host_exit_codes.h"
 
 #include "remoting/base/name_value_map.h"

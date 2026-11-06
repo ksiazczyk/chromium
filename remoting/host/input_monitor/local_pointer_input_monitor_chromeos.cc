@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS pointer input monitor
+// summary: ChromeOS implementation of the local pointer input monitor that observes platform events via the ash shell and filters CRD-injected input.
+// ---
+
 #include "remoting/host/input_monitor/local_pointer_input_monitor.h"
 
 #include <memory>

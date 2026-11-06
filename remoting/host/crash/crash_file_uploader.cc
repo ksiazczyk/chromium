@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the crash file uploader
+// summary: Uploads minidump and metadata files to the crash report collector via multi-part form requests with rate limiting.
+// ---
+
 #include "remoting/host/crash/crash_file_uploader.h"
 
 #include <list>

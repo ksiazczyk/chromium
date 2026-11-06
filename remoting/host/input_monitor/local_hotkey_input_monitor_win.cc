@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows local hotkey input monitor stub
+// summary: Windows factory for LocalHotkeyInputMonitor that currently returns null, leaving the hotkey monitor unimplemented on Windows.
+// ---
+
 #include "remoting/host/input_monitor/local_hotkey_input_monitor.h"
 
 #include "base/functional/callback.h"

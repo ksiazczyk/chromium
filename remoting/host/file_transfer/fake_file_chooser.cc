@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake file chooser for tests
+// summary: Provides a FakeFileChooser that returns a statically configured result instead of showing a real file dialog, for use in tests.
+// ---
+
 #include "remoting/host/file_transfer/fake_file_chooser.h"
 
 #include "base/functional/bind.h"

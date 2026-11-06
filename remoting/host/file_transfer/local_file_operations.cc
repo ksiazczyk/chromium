@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file operations implementation
+// summary: Implements FileOperations with base::FileProxy to read and write local files, including Windows user impersonation and file error mapping.
+// ---
+
 #include "remoting/host/file_transfer/local_file_operations.h"
 
 #include <cstdint>

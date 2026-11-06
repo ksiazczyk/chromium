@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host command-line switch declarations
+// summary: Declares command-line switch names and process type constants for the remoting host, with comments and platform-specific entries.
+// ---
+
 #ifndef REMOTING_HOST_BASE_SWITCHES_H_
 #define REMOTING_HOST_BASE_SWITCHES_H_
 
