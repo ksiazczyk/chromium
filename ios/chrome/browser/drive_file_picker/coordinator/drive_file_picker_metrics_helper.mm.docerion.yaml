@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_metrics_helper.mm.
+type: source
+title: DriveFilePickerMetricsHelper implementation
+summary: Implements the metrics helper, recording histograms for flow outcomes, search results, sorting choices, filter changes, account changes, and submitted file sizes.

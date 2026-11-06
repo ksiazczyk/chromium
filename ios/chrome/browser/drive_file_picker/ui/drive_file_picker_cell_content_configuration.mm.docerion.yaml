@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_cell_content_configuration.mm.
+type: source
+title: Drive file picker cell content configuration implementation
+summary: Implements the cell content configuration and content view, handling disabled alpha and shortcut icon display.

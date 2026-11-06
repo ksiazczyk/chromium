@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_item.mm.
+type: source
+title: Drive file picker item model implementation
+summary: Implements DriveFilePickerItem with convenience factory methods that create root items such as My Drive, Shared Drives, Starred, Recent, and Shared With Me.

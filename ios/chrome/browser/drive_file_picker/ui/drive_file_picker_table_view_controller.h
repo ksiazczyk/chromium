@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file picker table view controller header
+// summary: Declares the table view controller that presents the list of Drive files and folders, wired to a mutator, command handler, and delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_UI_DRIVE_FILE_PICKER_TABLE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_UI_DRIVE_FILE_PICKER_TABLE_VIEW_CONTROLLER_H_
 

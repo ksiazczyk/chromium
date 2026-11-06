@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_collection.mm.
+type: source
+title: Drive file picker collection implementation
+summary: Implements DriveFilePickerCollection with type checks, filtering and sorting support, and factory methods for first-level collections.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Drive file picker test dependency rules
+summary: Allows the test directory to include headers from the Drive model and choose file model targets.

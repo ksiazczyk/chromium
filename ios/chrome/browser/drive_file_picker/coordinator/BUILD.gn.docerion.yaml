@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Drive file picker coordinator
+summary: Defines the coordinator, metrics_constants, and unit_tests source sets with their sources and dependencies for the iOS Drive file picker coordinator.

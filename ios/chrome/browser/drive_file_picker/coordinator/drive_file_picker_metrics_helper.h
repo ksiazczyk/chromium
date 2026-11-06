@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFilePickerMetricsHelper interface
+// summary: Declares the metrics helper that tracks Drive file picker flow state and reports activation, outcome, sorting, filter, account change, and sign-in metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_COORDINATOR_DRIVE_FILE_PICKER_METRICS_HELPER_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_COORDINATOR_DRIVE_FILE_PICKER_METRICS_HELPER_H_
 

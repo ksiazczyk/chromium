@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_image_fetcher.mm.
+type: source
+title: Drive file picker image fetcher implementation
+summary: Implements DriveFilePickerImageFetcher with caching, network fetching, resizing, and JavaScript image transcoding for Drive file picker thumbnails.

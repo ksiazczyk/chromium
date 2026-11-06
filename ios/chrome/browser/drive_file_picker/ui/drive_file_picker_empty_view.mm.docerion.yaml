@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_empty_view.mm.
+type: source
+title: Drive file picker empty view implementation
+summary: Implements the empty-state view for the Drive file picker, showing a symbol and localized message for empty folders and searches with no matching results.

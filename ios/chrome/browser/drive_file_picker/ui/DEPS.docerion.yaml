@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Drive file picker UI dependency rules
+summary: Specifies allowed include directories for the Drive file picker UI directory.

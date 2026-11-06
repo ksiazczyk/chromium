@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDriveFilePickerHandler test fake
+// summary: Declares a fake implementation of the DriveFilePickerCommands protocol for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_COORDINATOR_FAKE_DRIVE_FILE_PICKER_HANDLER_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_COORDINATOR_FAKE_DRIVE_FILE_PICKER_HANDLER_H_
 

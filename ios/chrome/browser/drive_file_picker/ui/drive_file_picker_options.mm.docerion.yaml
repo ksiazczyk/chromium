@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_options.mm.
+type: source
+title: Drive file picker options implementation
+summary: Provides the Default() factory returning DriveFilePickerOptions with ascending name sorting, all files shown, and accepted types not ignored.
