@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise published skills policy handler implementation
+// summary: Validates and applies the EnterprisePublishedSkills policy, filtering skill entries by URL, hash and a maximum list size.
+// ---
+
 #include "components/skills/internal/enterprise_published_skills_policy_handler.h"
 
 #include <string>

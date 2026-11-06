@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills fetcher implementation
+// summary: Implements SkillsFetcher, which fetches the first-party skills list from the Skills API using OAuth and parses the JSON response into skill and topic data.
+// ---
+
 #include "components/skills/internal/skills_fetcher.h"
 
 #include "base/json/json_reader.h"

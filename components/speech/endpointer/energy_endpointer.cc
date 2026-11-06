@@ -6,6 +6,12 @@
 // based of, see
 // https://wiki.corp.google.com/twiki/bin/view/Main/ChromeGoogleCodeXRef
 
+// ---docerion
+// type: source
+// title: Energy endpointer implementation
+// summary: Implements the energy-based speech endpointer algorithm, using RMS threshold crossings, a decision history ring and adaptive noise and speech level estimates.
+// ---
+
 #include "components/speech/endpointer/energy_endpointer.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Energy endpointer parameters implementation
+// summary: Defines default values and assignment behavior for the EnergyEndpointerParams configuration, covering frame timing, detection windows and thresholds.
+// ---
+
 #include "components/speech/endpointer/energy_endpointer_params.h"
 
 namespace speech {

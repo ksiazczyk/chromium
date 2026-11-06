@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS SODA installer implementation
+// summary: Implements the ChromeOS SODA installer via the DLC service, mapping locales to language pack DLCs and handling install, retry, progress, and uninstall callbacks.
+// ---
+
 #include "components/soda/soda_installer_impl_chromeos.h"
 
 #include <string>

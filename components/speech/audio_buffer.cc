@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio chunk and buffer implementation
+// summary: Implements the AudioChunk and AudioBuffer classes that store, enqueue, and dequeue raw audio samples with configurable bytes per sample.
+// ---
+
 #include "components/speech/audio_buffer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SODA installer class
+// summary: Declares a gmock-based mock of SodaInstaller with mocked install, uninstall, language and init methods for use in tests.
+// ---
+
 #ifndef COMPONENTS_SODA_MOCK_SODA_INSTALLER_H_
 #define COMPONENTS_SODA_MOCK_SODA_INSTALLER_H_
 

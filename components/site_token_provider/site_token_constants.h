@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider constants
+// summary: Defines the injected site token HTTP header name and the maximum allowed token response payload size of 64 KB.
+// ---
+
 #ifndef COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_CONSTANTS_H_
 #define COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_CONSTANTS_H_
 

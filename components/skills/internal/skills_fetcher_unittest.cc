@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills fetcher unit tests
+// summary: Unit tests for SkillsFetcher covering failure, JSON success, and snake-case JSON responses using a test identity environment and URL loader factory.
+// ---
+
 #include "components/skills/internal/skills_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills downloader implementation
+// summary: Downloads the first-party discovery skills list from a gstatic URL with retries and If-Modified-Since caching.
+// ---
+
 #include "components/skills/internal/skills_downloader.h"
 
 #include "base/functional/bind.h"

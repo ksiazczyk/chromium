@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FLAC audio encoder declarations
+// summary: Declares AudioEncoder, a simple interface to encode raw audio using the FLAC codec and retrieve the encoded result.
+// ---
+
 #ifndef COMPONENTS_SPEECH_AUDIO_ENCODER_H_
 #define COMPONENTS_SPEECH_AUDIO_ENCODER_H_
 

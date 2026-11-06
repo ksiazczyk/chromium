@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the site token provider component
+summary: Lists the include paths allowed for the component and adds extra rules for unit test files.

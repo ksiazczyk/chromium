@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SODA constants
+// summary: Tests latest SODA directory and binary path resolution, covering numeric version comparison, non-version entries and incomplete installations.
+// ---
+
 #include "components/soda/constants.h"
 
 #include <optional>

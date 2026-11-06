@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider prefs declarations
+// summary: Declares the syncable site token provider preference name and the profile pref registration function.
+// ---
+
 #ifndef COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_PREFS_H_
 #define COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_PREFS_H_
 

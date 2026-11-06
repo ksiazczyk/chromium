@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider service class
+// summary: Declares the KeyedService that observes sign-in state, caches domain tokens, and schedules periodic background refreshes.
+// ---
+
 #ifndef COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_SERVICE_H_
 #define COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_SERVICE_H_
 

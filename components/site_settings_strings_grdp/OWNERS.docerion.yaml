@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for site settings strings
+summary: Inherits code owners for this directory from the browser_ui and WebUI settings site_settings OWNERS files.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Skills dependency include rules
+summary: Lists the components, libraries and third-party code that sources in the skills component are allowed to include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA installer implementation
+// summary: Implements the SodaInstaller singleton, registering local state preferences, initializing SODA when features use it, and managing language pack installation and uninstall timers.
+// ---
+
 #include "components/soda/soda_installer.h"
 
 #include <algorithm>

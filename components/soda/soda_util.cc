@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA utility functions implementation
+// summary: Implements helpers that check platform and CPU support for on-device speech recognition and report SODA availability for a given language.
+// ---
+
 #include "components/soda/soda_util.h"
 
 #include <string>

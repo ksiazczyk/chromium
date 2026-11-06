@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA preference name constants
+// summary: Defines string constants for the preference keys storing the SODA binary path and per-language configuration file paths.
+// ---
+
 #ifndef COMPONENTS_SODA_PREF_NAMES_H_
 #define COMPONENTS_SODA_PREF_NAMES_H_
 

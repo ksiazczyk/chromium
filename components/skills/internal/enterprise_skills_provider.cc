@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise skills provider implementation
+// summary: Downloads enterprise-published skills from policy URLs, verifies hashes and metadata, and caches validated skills.
+// ---
+
 #include "components/skills/internal/enterprise_skills_provider.h"
 #include "components/skills/public/skills_constants.h"
 

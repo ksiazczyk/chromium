@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the speech component
+summary: Defines the speech source set with its sources and dependencies, plus a testonly unit_tests target for the component.

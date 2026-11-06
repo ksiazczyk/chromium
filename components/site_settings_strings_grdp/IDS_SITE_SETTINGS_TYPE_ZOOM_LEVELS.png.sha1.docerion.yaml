@@ -1,0 +1,4 @@
+# Docerion header of IDS_SITE_SETTINGS_TYPE_ZOOM_LEVELS.png.sha1.
+type: data
+title: Zoom levels image SHA-1 checksum
+summary: Stores the SHA-1 hash of the PNG image referenced by the zoom levels site settings string.

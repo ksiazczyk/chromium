@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills service class declaration
+// summary: Declares SkillsServiceImpl, the main SkillsService implementation responsible for managing skills, sync integration, discovery refreshes, and observer notifications.
+// ---
+
 #ifndef COMPONENTS_SKILLS_INTERNAL_SKILLS_SERVICE_IMPL_H_
 #define COMPONENTS_SKILLS_INTERNAL_SKILLS_SERVICE_IMPL_H_
 

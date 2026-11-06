@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the site token provider
+// summary: Implements domain normalization, allowlist parsing, and the SiteTokenProviderImpl that fetches site tokens via EndpointFetcher with OAuth credentials.
+// ---
+
 #include "components/site_token_provider/site_token_provider.h"
 
 #include <map>

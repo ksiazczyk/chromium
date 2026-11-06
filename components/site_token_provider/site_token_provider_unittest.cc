@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site token provider service unit tests
+// summary: Unit tests covering the service lifecycle, sign-in handling, token updates, and refresh scheduling using a mock provider.
+// ---
+
 #include "components/site_token_provider/site_token_provider.h"
 
 #include <map>

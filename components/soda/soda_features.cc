@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA feature flags implementation
+// summary: Defines ChromeOS-specific base::Feature flags controlling SODA language support on Conch devices, including a flag required for external Tast tests.
+// ---
+
 #include "components/soda/soda_features.h"
 
 #include "base/feature_list.h"

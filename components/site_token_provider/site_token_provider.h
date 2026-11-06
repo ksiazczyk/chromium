@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider interface
+// summary: Declares the SiteTokenProvider interface, its token update callback, and helpers for domain normalization and allowlist parsing.
+// ---
+
 #ifndef COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_H_
 #define COMPONENTS_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_H_
 

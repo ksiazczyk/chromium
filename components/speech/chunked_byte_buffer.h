@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunkedByteBuffer class declaration
+// summary: Declares the speech::ChunkedByteBuffer class, a FIFO buffer that assembles byte chunks prefixed with 4-byte big-endian size headers.
+// ---
+
 #ifndef COMPONENTS_SPEECH_CHUNKED_BYTE_BUFFER_H_
 #define COMPONENTS_SPEECH_CHUNKED_BYTE_BUFFER_H_
 

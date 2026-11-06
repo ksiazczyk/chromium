@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downstream loader client interface
+// summary: Defines the DownstreamLoaderClient interface with callbacks for received downstream data and completion status including the HTTP response code.
+// ---
+
 #ifndef COMPONENTS_SPEECH_DOWNSTREAM_LOADER_CLIENT_H_
 #define COMPONENTS_SPEECH_DOWNSTREAM_LOADER_CLIENT_H_
 

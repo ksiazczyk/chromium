@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognizer FSM implementation
+// summary: Implements the speech recognizer finite-state machine transitions that power the Web Speech API, handling events across states from idle to ended.
+// ---
+
 #include "components/speech/speech_recognizer_fsm.h"
 
 #include "base/notreached.h"

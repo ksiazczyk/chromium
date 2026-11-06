@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SODA component build targets
+summary: GN build file defining the soda component, constants, utils, unit test and test support targets with their sources and dependencies.

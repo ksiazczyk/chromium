@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the soda component
+summary: DEPS file listing the include paths allowed for the soda component, with a special rule for soda_util.cc.

@@ -1,3 +1,11 @@
+---
+type: readme
+title: Skills
+summary: Introduces the skills component for managing skills and explains how to run its tests with tools/autotest.py.
+relations:
+  - references /tools/autotest.py
+---
+
 # Skills
 
 This component provides functionality for managing skills.

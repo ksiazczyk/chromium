@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the site token provider metrics provider
+// summary: Reports into the system profile metrics whether any loaded profile has the site token provider preference enabled.
+// ---
+
 #include "components/site_token_provider/site_token_provider_metrics_provider.h"
 
 #include <algorithm>

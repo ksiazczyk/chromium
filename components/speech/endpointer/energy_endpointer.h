@@ -34,6 +34,12 @@
 // accept. The false accepts can be ignored by setting
 // ep_contamination_rejection_period.
 
+// ---docerion
+// type: source
+// title: EnergyEndpointer class interface
+// summary: Declares the EnergyEndpointer class that finds likely speech onset and offset points from signal RMS threshold timings, plus the EpStatus state codes.
+// ---
+
 #ifndef COMPONENTS_SPEECH_ENDPOINTER_ENERGY_ENDPOINTER_H_
 #define COMPONENTS_SPEECH_ENDPOINTER_ENERGY_ENDPOINTER_H_
 

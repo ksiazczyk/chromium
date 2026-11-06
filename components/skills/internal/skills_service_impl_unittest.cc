@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills service implementation unit tests
+// summary: Unit tests for SkillsServiceImpl covering skill CRUD, discovery skill fetching, enterprise skills, remixing, and sync interactions using mocks, fakes, and matchers.
+// ---
+
 #include "components/skills/internal/skills_service_impl.h"
 
 #include <memory>

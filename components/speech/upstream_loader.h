@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upstream loader class declaration
+// summary: Declares UpstreamLoader, which streams sound data up to the server via a chunked data pipe and buffers the request body for retries or redirects.
+// ---
+
 #ifndef COMPONENTS_SPEECH_UPSTREAM_LOADER_H_
 #define COMPONENTS_SPEECH_UPSTREAM_LOADER_H_
 

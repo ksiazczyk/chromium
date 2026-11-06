@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Skills component owners
+summary: Lists the code owners for the skills component and delegates ownership of sync-related files to the sync component owners.
