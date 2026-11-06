@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder unit test base implementation
+// summary: Implements the shared test base that initializes decoders, GL mocks, and shared memory for GLES2 decoder tests.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder_unittest_base.h"
 
 #include <stddef.h>

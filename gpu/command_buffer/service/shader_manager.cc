@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader manager implementation for the GLES2 decoder
+// summary: Implements shader tracking and compilation, translating GLSL ES sources through the shader translator and logging compile errors and variable information.
+// ---
+
 #include "gpu/command_buffer/service/shader_manager.h"
 
 #include <stddef.h>

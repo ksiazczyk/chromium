@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler unit tests
+// summary: Unit tests for the GPU Scheduler covering task ordering, reporting callbacks, and behavior with sync point graph validation enabled or disabled.
+// ---
+
 #include "gpu/command_buffer/service/scheduler.h"
 
 #include <algorithm>

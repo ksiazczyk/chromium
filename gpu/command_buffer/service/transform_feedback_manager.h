@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform feedback classes declaration
+// summary: Declares TransformFeedback, ScopedPauseResumeTransformFeedback and TransformFeedbackManager for tracking transform feedback objects, their state and vertices drawn.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_TRANSFORM_FEEDBACK_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_TRANSFORM_FEEDBACK_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ContextState Vec4 values
+// summary: Unit tests verifying default values, typed set and get operations, and equality comparison of the ContextState Vec4 class.
+// ---
+
 #include "gpu/command_buffer/service/context_state.h"
 
 #include <stddef.h>

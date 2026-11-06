@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Android hardware buffer conversion utilities
+// summary: Declares functions to create Vulkan images and EGL images from AHardwareBuffer handles.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_AHARDWAREBUFFER_UTILS_H_
 #define GPU_COMMAND_BUFFER_SERVICE_AHARDWAREBUFFER_UTILS_H_
 

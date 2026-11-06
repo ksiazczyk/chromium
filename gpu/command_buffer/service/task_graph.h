@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task graph declarations
+// summary: Declares TaskGraph and related classes for tracking task sequences and the sync point dependencies between GPU tasks, including task and reporting callbacks.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_TASK_GRAPH_H_
 #define GPU_COMMAND_BUFFER_SERVICE_TASK_GRAPH_H_
 

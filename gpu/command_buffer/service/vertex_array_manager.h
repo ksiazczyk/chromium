@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VertexArrayManager class declaration
+// summary: Declares VertexArrayManager, which tracks vertex arrays and their vertex attrib managers for bounds checking and client-to-service ID mapping.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_VERTEX_ARRAY_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_VERTEX_ARRAY_MANAGER_H_
 

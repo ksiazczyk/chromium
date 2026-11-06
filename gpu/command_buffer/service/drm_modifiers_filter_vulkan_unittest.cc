@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vulkan DRM modifiers filter unit tests
+// summary: Unit tests for DrmModifiersFilterVulkan that override Vulkan function pointers to verify unsupported DRM modifiers are filtered out.
+// ---
+
 #include "gpu/command_buffer/service/drm_modifiers_filter_vulkan.h"
 
 #include <vulkan/vulkan_core.h>

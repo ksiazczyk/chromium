@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GL state restorer implementation
+// summary: Implements GLStateRestorerImpl, forwarding GL state restoration, query pausing and resuming, and context state access to a GLContextVirtualDelegate.
+// ---
+
 #include "gpu/command_buffer/service/gl_state_restorer_impl.h"
 
 #include "gpu/command_buffer/service/gl_context_virtual_delegate.h"

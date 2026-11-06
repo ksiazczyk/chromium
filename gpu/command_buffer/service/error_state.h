@@ -4,6 +4,12 @@
 
 // This file contains the ErrorState class.
 
+// ---docerion
+// type: source
+// title: ErrorState interface and ERRORSTATE macros
+// summary: Declares the ErrorState interface plus ERRORSTATE macros that synthesize GL errors with file and line information for the GLES2 command buffer service.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_ERROR_STATE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_ERROR_STATE_H_
 

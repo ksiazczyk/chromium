@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder unit tests, part 2
+// summary: Second part of the GLES2 decoder unit tests focused on uniform command validation and accepted uniform API types.
+// ---
+
 #include <stdint.h>
 
 #include <array>

@@ -4,6 +4,12 @@
 
 // This file contains the mock GLES2Decoder class.
 
+// ---docerion
+// type: test
+// title: Mock GLES2 decoder declaration
+// summary: Declares MockGLES2Decoder with gmock methods mirroring the GLES2Decoder interface for use in unit tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_DECODER_MOCK_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_DECODER_MOCK_H_
 

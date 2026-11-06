@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 clear framebuffer resource manager implementation
+// summary: Implements ClearFramebufferResourceManager, which clears color, depth and stencil via a shader-drawn quad, pausing transform feedback as a glClear workaround.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_clear_framebuffer.h"
 
 #include "gpu/command_buffer/service/feature_info.h"

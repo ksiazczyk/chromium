@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU service utility functions
+// summary: Provides helpers for parsing GPU service command line switches, including Vulkan implementation choice and WebGPU adapter and power preference selection.
+// ---
+
 #include "gpu/command_buffer/service/service_utils.h"
 
 #include <cmath>

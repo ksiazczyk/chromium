@@ -4,6 +4,12 @@
 
 // Contains various validation functions for the Raster service.
 
+// ---docerion
+// type: source
+// title: Raster command validation header
+// summary: Declares the Validators struct used to validate raster command arguments, pulling in generated validator members.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_RASTER_CMD_VALIDATION_H_
 #define GPU_COMMAND_BUFFER_SERVICE_RASTER_CMD_VALIDATION_H_
 

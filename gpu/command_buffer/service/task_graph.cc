@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task graph implementation
+// summary: Implements TaskGraph sequences that schedule GPU tasks with sync point dependencies, fence sync release delegates, and scoped sync point client states.
+// ---
+
 #include "gpu/command_buffer/service/task_graph.h"
 
 #include <algorithm>

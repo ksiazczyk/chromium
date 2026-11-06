@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder unit tests for buffer commands
+// summary: Unit tests for buffer binding and copy commands such as BindBufferBase, BindBufferRange, and CopyBufferSubData.
+// ---
+
 #include <stdint.h>
 
 #include "base/compiler_specific.h"

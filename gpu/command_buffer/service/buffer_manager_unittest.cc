@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BufferManager
+// summary: Tests buffer creation, data uploads, range checks, and max value queries using mocked GL and error state.
+// ---
+
 #include "gpu/command_buffer/service/buffer_manager.h"
 
 #include <stddef.h>

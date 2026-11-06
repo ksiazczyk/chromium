@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the GLES2 buffer manager
+// summary: Implements BufferManager and Buffer, tracking GL buffer objects, memory usage, and shadowed data ranges.
+// ---
+
 #include "gpu/command_buffer/service/buffer_manager.h"
 
 #include <stdint.h>

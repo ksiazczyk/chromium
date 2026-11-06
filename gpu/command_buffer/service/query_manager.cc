@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Query manager implementation
+// summary: Implements QueryManager and query types such as CommandsIssuedQuery that track GL query state, timing, and results in the GPU service.
+// ---
+
 #include "gpu/command_buffer/service/query_manager.h"
 
 #include <stddef.h>

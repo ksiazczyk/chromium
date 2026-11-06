@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedBufferBindingHost class declaration
+// summary: Declares a base class for tracking indexed TRANSFORM_FEEDBACK_BUFFER and UNIFORM_BUFFER bindings, intended to be inherited by TransformFeedback and Program.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_INDEXED_BUFFER_BINDING_HOST_H_
 #define GPU_COMMAND_BUFFER_SERVICE_INDEXED_BUFFER_BINDING_HOST_H_
 

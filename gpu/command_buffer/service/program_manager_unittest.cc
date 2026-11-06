@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 program manager unit tests
+// summary: Unit tests for the GLES2 ProgramManager covering program creation, linking, and uniform and attribute handling with mocked GL.
+// ---
+
 #include "gpu/command_buffer/service/program_manager.h"
 
 #include <stddef.h>

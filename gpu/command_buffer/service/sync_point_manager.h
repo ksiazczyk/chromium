@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync point manager declarations
+// summary: Declares SyncPointManager, SyncPointOrderData, and SyncPointClientState classes that coordinate fence sync releases and waits between GPU task sequences.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SYNC_POINT_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SYNC_POINT_MANAGER_H_
 

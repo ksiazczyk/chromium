@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrShaderCache class declaration
+// summary: Declares GrShaderCache, a persistent Skia shader cache with client-scoped cache use, memory dump support, and memory pressure handling.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GR_SHADER_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GR_SHADER_CACHE_H_
 

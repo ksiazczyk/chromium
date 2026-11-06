@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommonDecoder implementation
+// summary: Implements the common command buffer decoder, including bucket data handling, string and string-list extraction, and the command dispatch table.
+// ---
+
 #include "gpu/command_buffer/service/common_decoder.h"
 
 #include <stddef.h>

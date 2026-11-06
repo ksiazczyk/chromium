@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgramCache base implementation
+// summary: Implements the program cache base class with SHA-1 hashing of shaders and linked programs, link status tracking, and cache clearing and eviction.
+// ---
+
 #include "gpu/command_buffer/service/program_cache.h"
 
 #include <stddef.h>

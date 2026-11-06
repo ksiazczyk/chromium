@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transform feedback manager unit tests
+// summary: Unit tests for TransformFeedbackManager covering object lifetime and buffer binding tracking while paused or switching between transform feedback objects.
+// ---
+
 #include "gpu/command_buffer/service/transform_feedback_manager.h"
 
 #include <memory>

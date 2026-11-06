@@ -4,6 +4,12 @@
 
 // This file contains the GLES2DecoderPassthroughImpl class.
 
+// ---docerion
+// type: source
+// title: GLES2 passthrough decoder class declaration
+// summary: Declares GLES2DecoderPassthroughImpl and its supporting resources, including client-to-service ID maps and shared image access handling.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_DECODER_PASSTHROUGH_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GLES2_CMD_DECODER_PASSTHROUGH_H_
 

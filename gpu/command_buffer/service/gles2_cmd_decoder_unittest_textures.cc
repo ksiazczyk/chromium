@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder texture command unit tests
+// summary: Unit tests for GLES2 texture commands, covering mipmap generation, format validation, out-of-memory handling, and shared image representations.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

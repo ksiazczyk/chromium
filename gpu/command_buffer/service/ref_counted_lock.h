@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefCountedLock header
+// summary: Declares a ref-counted wrapper around base::Lock plus a helper class for DrDc lock usage.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_REF_COUNTED_LOCK_H_
 #define GPU_COMMAND_BUFFER_SERVICE_REF_COUNTED_LOCK_H_
 

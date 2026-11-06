@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU Scheduler class declaration
+// summary: Declares the Scheduler that manages sequences of GPU tasks with priorities, sync token fences, sync point client state and sequence lifetime control.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SCHEDULER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process SharedImageInterface implementation
+// summary: Implements SharedImageInterfaceInProcess, which creates and manages shared images on the viz compositor thread and schedules corresponding work on the GPU thread.
+// ---
+
 #include "gpu/command_buffer/service/shared_image_interface_in_process.h"
 
 #include <optional>

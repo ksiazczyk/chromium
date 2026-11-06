@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for shader translator cache parameters
+// summary: Verifies that struct padding in ShaderTranslatorInitParams or its members does not affect the equality and ordering used by the translator cache.
+// ---
+
 #include "gpu/command_buffer/service/shader_translator_cache.h"
 
 #include "base/compiler_specific.h"

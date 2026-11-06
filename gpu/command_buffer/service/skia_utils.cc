@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia GPU utilities implementation
+// summary: Implements helpers for Skia GPU integration, including default GrContext and Graphite context options, backend texture creation, and cleanup tasks for flushes and recordings.
+// ---
+
 #include "gpu/command_buffer/service/skia_utils.h"
 
 #include <inttypes.h>

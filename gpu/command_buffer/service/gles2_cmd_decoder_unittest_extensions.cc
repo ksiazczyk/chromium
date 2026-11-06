@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder extension command unit tests
+// summary: Unit tests for GLES2 extension commands such as EXT window rectangles, KHR blend equation advanced, and ANGLE memory trimming, plus generated extension tests.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder.h"
 
 #include <stddef.h>

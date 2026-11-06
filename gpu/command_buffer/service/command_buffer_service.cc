@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferService implementation
+// summary: Implements the shared-memory command buffer service, including state updates, flushing, and an Apple GPU memory dump provider for macOS.
+// ---
+
 #include "gpu/command_buffer/service/command_buffer_service.h"
 
 #include <stddef.h>

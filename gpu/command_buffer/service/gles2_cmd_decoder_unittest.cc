@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 command decoder unit tests
+// summary: Unit tests for the GLES2 command decoder covering backbuffer setup, ES3 and WebGL2 contexts, and command execution behavior.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder_unittest.h"
 
 #include <stddef.h>

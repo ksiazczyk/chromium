@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passthrough decoder ANGLE drawing tests
+// summary: Unit tests checking that ANGLE instanced arrays drawing commands become available only after the extension is requested.
+// ---
+
 #include "gpu/command_buffer/service/gles2_cmd_decoder.h"
 #include "gpu/command_buffer/service/gles2_cmd_decoder_unittest.h"
 

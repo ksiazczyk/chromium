@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster decoder implementation
+// summary: Implements RasterDecoder, which decodes RasterInterface commands and executes paint ops via Skia, the transfer cache, and shared images.
+// ---
+
 #include "gpu/command_buffer/service/raster_decoder.h"
 
 #include <stdint.h>

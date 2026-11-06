@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncPointManager unit tests
+// summary: Unit tests covering SyncPointManager order data, client state, waits, and fence releases both with and without sync point graph validation enabled.
+// ---
+
 #include "gpu/command_buffer/service/sync_point_manager.h"
 
 #include <stdint.h>

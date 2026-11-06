@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferTaskExecutor header
+// summary: Declares an abstract task executor that provides GPU service objects and task scheduling interfaces used by InProcessCommandBuffer.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_COMMAND_BUFFER_TASK_EXECUTOR_H_
 #define GPU_COMMAND_BUFFER_SERVICE_COMMAND_BUFFER_TASK_EXECUTOR_H_
 

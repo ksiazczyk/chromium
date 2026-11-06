@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan DRM modifiers filter implementation
+// summary: Queries Vulkan physical devices for DRM format modifier support via VK_EXT_image_drm_format_modifier and filters modifiers for shared image import, mainly on ChromeOS.
+// ---
+
 #include "gpu/command_buffer/service/drm_modifiers_filter_vulkan.h"
 
 #include "base/check.h"

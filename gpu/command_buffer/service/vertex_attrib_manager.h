@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertex attribute manager class declarations
+// summary: Declares the VertexAttrib and VertexAttribManager classes used to track per-attribute binding state for draw-time validation in the GLES2 service.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_VERTEX_ATTRIB_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_VERTEX_ATTRIB_MANAGER_H_
 

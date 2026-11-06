@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Texture manager implementation
+// summary: Implements Texture, TexturePassthrough, TextureRef and TextureManager, tracking GL texture state, signatures, validation and memory dumps for the GLES2 service.
+// ---
+
 #include "gpu/command_buffer/service/texture_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextGroup class managing shared decoder resources
+// summary: Declares ContextGroup, which manages multiple DecoderContexts sharing buffers, textures, programs, shaders, and related GPU resources.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_CONTEXT_GROUP_H_
 #define GPU_COMMAND_BUFFER_SERVICE_CONTEXT_GROUP_H_
 

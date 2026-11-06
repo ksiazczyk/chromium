@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedContextState class declaration
+// summary: Declares the SharedContextState class that manages shared GL, Vulkan, Dawn and Skia context state, shader caches and context loss callbacks for the GPU service.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHARED_CONTEXT_STATE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHARED_CONTEXT_STATE_H_
 

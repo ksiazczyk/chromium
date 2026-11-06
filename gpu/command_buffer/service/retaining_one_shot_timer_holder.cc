@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RetainingOneShotTimerHolder implementation
+// summary: Implements a thread-safe holder for a base RetainingOneShotTimer that resets the timer on demand and destroys it safely from any thread.
+// ---
+
 #include "gpu/command_buffer/service/retaining_one_shot_timer_holder.h"
 
 #include "base/check.h"

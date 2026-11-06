@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerSequence class declaration
+// summary: Declares SchedulerSequence, a SingleTaskSequence over gpu Scheduler sequences, plus ScopedAllowScheduleGpuTask for WebView thread restrictions.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SCHEDULER_SEQUENCE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SCHEDULER_SEQUENCE_H_
 

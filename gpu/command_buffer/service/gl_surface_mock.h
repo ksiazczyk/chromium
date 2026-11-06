@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GL surface mock class declaration
+// summary: Declares GLSurfaceMock with mocked gl::GLSurface methods such as Initialize, Resize and SwapBuffers for use in GPU service tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GL_SURFACE_MOCK_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GL_SURFACE_MOCK_H_
 

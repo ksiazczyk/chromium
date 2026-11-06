@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedContextState unit tests
+// summary: Unit tests for SharedContextState initialization using mock GL interfaces, including verification that initialization fails when the context is lost.
+// ---
+
 #include "gpu/command_buffer/service/shared_context_state.h"
 
 #include <limits>

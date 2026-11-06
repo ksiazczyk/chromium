@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transfer buffer manager unit tests
+// summary: Unit tests covering registration, destruction, lookup and ID reuse rules of TransferBufferManager, including invalid, negative and null buffer handling.
+// ---
+
 #include "gpu/command_buffer/service/transfer_buffer_manager.h"
 
 #include <stddef.h>

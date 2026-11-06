@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process Vulkan context provider implementation
+// summary: Implements the in-process Vulkan context provider, wiring Vulkan device queues to Skia Ganesh and Graphite contexts with CPU memory synchronization limits.
+// ---
+
 #include "gpu/command_buffer/service/vulkan_in_process_context_provider.h"
 
 #include <algorithm>

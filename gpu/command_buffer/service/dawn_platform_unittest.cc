@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dawn platform unit tests
+// summary: Unit tests verifying that DawnPlatform records cache hit and miss histograms after a 90-second delay and on the first presented frame.
+// ---
+
 #include "gpu/command_buffer/service/dawn_platform.h"
 
 #include "base/test/metrics/histogram_tester.h"

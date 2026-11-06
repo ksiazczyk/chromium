@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHelper implementation for GPU service tests
+// summary: Implements helper routines that set up mock GL expectations, shader variables and limit constants used by GPU command buffer service unit tests.
+// ---
+
 #include "gpu/command_buffer/service/test_helper.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalSemaphore class declaration
+// summary: Declares ExternalSemaphore, which wraps a Vulkan semaphore with its handle and exposes GL and Vulkan semaphore access plus ownership transfer.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_EXTERNAL_SEMAPHORE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_EXTERNAL_SEMAPHORE_H_
 

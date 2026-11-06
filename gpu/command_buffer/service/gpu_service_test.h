@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GpuServiceTest base class with mock GL bindings
+// summary: Base test fixture class providing mock GL bindings, stub context and surface setup for GPU service unit tests.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GPU_SERVICE_TEST_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GPU_SERVICE_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassthroughProgramCache implementation
+// summary: Implements an in-memory GPU program binary cache that also serves as the EGL_ANDROID_blob_cache backend and reacts to memory pressure by trimming its LRU store.
+// ---
+
 #include "gpu/command_buffer/service/passthrough_program_cache.h"
 
 #include <stddef.h>

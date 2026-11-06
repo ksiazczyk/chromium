@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GPU service utilities
+// summary: Tests shader cache size scaling under memory pressure and memory limits, including aggressive-limit behavior on Android and desktop, plus GPU preference parsing from switches.
+// ---
+
 #include "gpu/command_buffer/service/service_utils.h"
 
 #include "base/memory/memory_pressure_listener.h"

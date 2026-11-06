@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn wire server class declaration
+// summary: Declares DawnWireServer, a wrapper around dawn::wire::WireServer that hides the std::span API variants from direct Chromium use.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DAWN_WIRE_SERVER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DAWN_WIRE_SERVER_H_
 

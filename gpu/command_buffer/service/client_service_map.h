@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientServiceMap header
+// summary: Header defining a template class that maps GPU client IDs to service IDs, using a flat array for small IDs and an unordered map for large ones.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_CLIENT_SERVICE_MAP_H_
 #define GPU_COMMAND_BUFFER_SERVICE_CLIENT_SERVICE_MAP_H_
 

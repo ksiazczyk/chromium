@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiDrawManager unit tests
+// summary: Parameterized unit tests covering all MultiDrawManager draw functions and index storage types, checking result sizes and draw state handling.
+// ---
+
 #include "gpu/command_buffer/service/multi_draw_manager.h"
 
 #include <memory>

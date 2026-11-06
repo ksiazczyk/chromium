@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory tracking implementation
+// summary: Implements MemoryTracker and MemoryTypeTracker, recording per-command-buffer memory allocation changes and emitting perfetto trace counters.
+// ---
+
 #include "gpu/command_buffer/service/memory_tracking.h"
 
 #include <cinttypes>

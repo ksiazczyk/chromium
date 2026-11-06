@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shader translator unit tests
+// summary: Unit tests for ShaderTranslator covering translation of valid and invalid GLSL ES 2.0 and 3.0 vertex and fragment shaders.
+// ---
+
 #include "gpu/command_buffer/service/shader_translator.h"
 
 #include "build/build_config.h"

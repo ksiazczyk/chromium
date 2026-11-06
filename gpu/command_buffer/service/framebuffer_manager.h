@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Framebuffer and FramebufferManager class declarations
+// summary: Declares the Framebuffer object with its attachment abstraction and the FramebufferManager that creates, tracks and destroys framebuffers for a context group.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_FRAMEBUFFER_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_FRAMEBUFFER_MANAGER_H_
 

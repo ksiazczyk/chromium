@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graphite shared context unit tests
+// summary: Unit tests for GraphiteSharedContext covering thread-safe and single-threaded operation over Dawn backends.
+// ---
+
 #include "gpu/command_buffer/service/graphite_shared_context.h"
 
 #include "base/functional/bind.h"

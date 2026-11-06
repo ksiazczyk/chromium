@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertex array manager implementation
+// summary: Implements VertexArrayManager, which creates, looks up and removes vertex attrib managers for client-visible and emulated vertex arrays.
+// ---
+
 #include "gpu/command_buffer/service/vertex_array_manager.h"
 
 #include <stdint.h>

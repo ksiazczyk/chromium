@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphite flush and read pixels utilities
+// summary: Implements helpers to flush and submit Graphite recorders and to synchronously read pixels from Graphite images and surfaces.
+// ---
+
 #include "gpu/command_buffer/service/graphite_utils.h"
 
 #include "base/check.h"

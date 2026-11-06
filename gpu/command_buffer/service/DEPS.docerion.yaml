@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the GPU command buffer service
+summary: Restricts which headers and modules this directory may include, with per-file exceptions for DRM modifiers filtering.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI shared handle manager implementation
+// summary: Manages Windows DXGI shared handles and per-D3D11-device texture state, including keyed mutex handling, for sharing D3D11 textures across devices.
+// ---
+
 #include "gpu/command_buffer/service/dxgi_shared_handle_manager.h"
 
 #include <windows.h>

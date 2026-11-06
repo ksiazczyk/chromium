@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureBase implementation
+// summary: Implements the TextureBase constructor, one-time target assignment and default type query for service-side texture objects.
+// ---
+
 #include "gpu/command_buffer/service/texture_base.h"
 
 #include "base/check_op.h"

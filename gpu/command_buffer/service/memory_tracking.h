@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory tracking interfaces
+// summary: Declares MemoryTracker and MemoryTypeTracker to propagate per-ContextGroup memory usage statistics to the GPU memory manager with observer support.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_MEMORY_TRACKING_H_
 #define GPU_COMMAND_BUFFER_SERVICE_MEMORY_TRACKING_H_
 

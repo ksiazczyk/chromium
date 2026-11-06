@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader manager declarations for the GLES2 decoder
+// summary: Declares the Shader class and manager that track shader state, original and translated sources, and mapped names for attributes, uniforms, varyings, and outputs.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHADER_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHADER_MANAGER_H_
 

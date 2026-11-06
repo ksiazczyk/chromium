@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GrCacheController implementation
+// summary: Implements idle-time purging of the Skia GrContext cache, scheduling deferred cleanup and full cache purge tasks on a task runner.
+// ---
+
 #include "gpu/command_buffer/service/gr_cache_controller.h"
 
 #include <chrono>

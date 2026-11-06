@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader translator cache declarations
+// summary: Declares a single-threaded cache of ShaderTranslator instances keyed by initialization parameters, with destruction observer support and comparable parameter structs.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SHADER_TRANSLATOR_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SHADER_TRANSLATOR_CACHE_H_
 

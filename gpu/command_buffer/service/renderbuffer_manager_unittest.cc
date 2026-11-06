@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderbufferManager unit tests
+// summary: Unit tests for the GLES2 renderbuffer manager, covering renderbuffer creation, lookup, removal, memory tracking and max size and sample limits.
+// ---
+
 #include "gpu/command_buffer/service/renderbuffer_manager.h"
 
 #include <stdint.h>

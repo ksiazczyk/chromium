@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProgramCache unit tests
+// summary: Unit tests for the ProgramCache base class using a no-backend cache to verify link status saving, hashing, and eviction behavior.
+// ---
+
 #include "gpu/command_buffer/service/program_cache.h"
 
 #include <memory>

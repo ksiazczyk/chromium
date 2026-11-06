@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passthrough decoder command validity tests
+// summary: Typed unit tests verifying that fixed and immediate GLES3 commands are rejected as unknown by the passthrough decoder.
+// ---
+
 #include <stdint.h>
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dawn caching interface unit tests
+// summary: Unit tests covering store, load, and lookup behavior of DawnCachingInterface across interfaces, handles, and cache persistence scenarios.
+// ---
+
 #include "gpu/command_buffer/service/dawn_caching_interface.h"
 
 #include <array>

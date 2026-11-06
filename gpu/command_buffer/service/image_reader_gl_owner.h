@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageReaderGLOwner class declaration
+// summary: Declares the ImageReaderGLOwner TextureOwner subclass that wraps AImageReader usage to create GL textures from media frame data on Android, with image ref and fence management.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_IMAGE_READER_GL_OWNER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_IMAGE_READER_GL_OWNER_H_
 

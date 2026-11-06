@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerTaskRunner class declaration
+// summary: Declares a SequencedTaskRunner abstraction that executes tasks for a SequenceId on the GPU Scheduler, with shutdown support and no delayed task support.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SCHEDULER_TASK_RUNNER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SCHEDULER_TASK_RUNNER_H_
 

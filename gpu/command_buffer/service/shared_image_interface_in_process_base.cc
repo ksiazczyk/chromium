@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageInterface in-process base implementation
+// summary: Implements the common base for in-process SharedImageInterface, handling shared image creation, updates, destruction and sync token generation.
+// ---
+
 #include "gpu/command_buffer/service/shared_image_interface_in_process_base.h"
 
 #include <cstdint>

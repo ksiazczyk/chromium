@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display compositor GPU-side controller implementation
+// summary: Implements the GPU-thread controller that holds shared context state, shared image manager, and sync point data for the display compositor and generates its command buffer IDs.
+// ---
+
 #include "gpu/command_buffer/service/display_compositor_memory_and_task_controller_on_gpu.h"
 
 #include "base/atomic_sequence_num.h"

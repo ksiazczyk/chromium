@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raster decoder test base implementation
+// summary: Implements the RasterDecoderTestBase fixture that initializes a mock GL environment and decoder for raster decoder unit tests.
+// ---
+
 #include "gpu/command_buffer/service/raster_decoder_unittest_base.h"
 
 #include <stddef.h>

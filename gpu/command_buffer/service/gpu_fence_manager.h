@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU fence manager header
+// summary: Declares GpuFenceManager, which tracks per-context GpuFence objects and their GL fence or fence handle state.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GPU_FENCE_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GPU_FENCE_MANAGER_H_
 

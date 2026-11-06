@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageReaderGLOwner implementation for Android AImageReader textures
+// summary: Implements the TextureOwner subclass that wraps Android's AImageReader to create GL textures from decoded media frames, managing image references, fences and required buffer counts.
+// ---
+
 #include "gpu/command_buffer/service/image_reader_gl_owner.h"
 
 #include <android/hardware_buffer.h>

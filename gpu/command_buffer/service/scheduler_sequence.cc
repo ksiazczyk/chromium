@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerSequence implementation
+// summary: Implements a SingleTaskSequence backed by a gpu Scheduler sequence, including Android WebView scheduling restrictions and task scheduling paths.
+// ---
+
 #include "gpu/command_buffer/service/scheduler_sequence.h"
 
 #include "base/task/single_thread_task_runner.h"

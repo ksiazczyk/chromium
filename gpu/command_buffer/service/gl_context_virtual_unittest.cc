@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLContextVirtual unit tests
+// summary: Unit tests verifying that GLContextVirtual can be reinitialized after destruction and that graphics reset status is reported with an unknown guilty context.
+// ---
+
 #include "gpu/command_buffer/service/gl_context_virtual.h"
 
 #include "gpu/command_buffer/client/client_test_helper.h"

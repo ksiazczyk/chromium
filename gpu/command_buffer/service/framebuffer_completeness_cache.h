@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FramebufferCompletenessCache class declaration
+// summary: Declares a refcounted hash set cache of framebuffer format signatures known to be complete according to glCheckFramebufferStatusEXT.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_FRAMEBUFFER_COMPLETENESS_CACHE_H_
 #define GPU_COMMAND_BUFFER_SERVICE_FRAMEBUFFER_COMPLETENESS_CACHE_H_
 

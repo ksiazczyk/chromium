@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerTaskRunner implementation
+// summary: Implements a SequencedTaskRunner that posts and runs tasks on a specific GPU scheduler sequence, rejecting delayed and nested tasks and supporting shutdown.
+// ---
+
 #include "gpu/command_buffer/service/scheduler_task_runner.h"
 
 #include <utility>

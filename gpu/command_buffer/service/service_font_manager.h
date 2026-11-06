@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceFontManager class declaration
+// summary: Declares the thread-safe GPU service font manager interface for deserializing font data and locking, unlocking, or deleting discardable handles.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_SERVICE_FONT_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_SERVICE_FONT_MANAGER_H_
 

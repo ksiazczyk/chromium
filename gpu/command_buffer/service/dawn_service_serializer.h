@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn wire command serializer declaration
+// summary: Declares DawnServiceSerializer, a dawn::wire::CommandSerializer with separate main-thread and locked worker-thread command buffers for WebGPU commands.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_DAWN_SERVICE_SERIALIZER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_DAWN_SERVICE_SERIALIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 query manager header
+// summary: Declares GLES2QueryManager, a QueryManager subclass adding GLES2 query support, disjoint value tracking and GPU timer creation for the GLES2 decoder.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GLES2_QUERY_MANAGER_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GLES2_QUERY_MANAGER_H_
 

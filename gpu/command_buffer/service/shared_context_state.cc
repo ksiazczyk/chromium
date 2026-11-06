@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedContextState implementation
+// summary: Implements SharedContextState, which holds shared GL, Vulkan, Dawn and Skia context state for the GPU service, including caches, memory dumps and context loss handling.
+// ---
+
 #include "gpu/command_buffer/service/shared_context_state.h"
 
 #include "base/atomic_sequence_num.h"

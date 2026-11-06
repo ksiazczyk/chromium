@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceFontManager implementation
+// summary: Implements the GPU-side font manager that deserializes Skia strike data from clients and manages discardable glyph cache handles and crash diagnostics.
+// ---
+
 #include "gpu/command_buffer/service/service_font_manager.h"
 
 #include <inttypes.h>

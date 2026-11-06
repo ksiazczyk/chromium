@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureOwner implementation
+// summary: Implements TextureOwner construction, tracing, context loss handling and a factory that creates ImageReaderGLOwner instances for Android textures.
+// ---
+
 #include "gpu/command_buffer/service/texture_owner.h"
 
 #include <memory>

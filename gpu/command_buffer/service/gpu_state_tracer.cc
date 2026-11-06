@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPUStateTracer implementation
+// summary: Implements GPUStateTracer, which captures framebuffer screenshots and emits them as base64 PNG data in trace events for GPU debugging.
+// ---
+
 #include "gpu/command_buffer/service/gpu_state_tracer.h"
 
 #include <string_view>

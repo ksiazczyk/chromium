@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn memory transfer service implementation
+// summary: Implements the Dawn wire server memory transfer service that maps shared memory transfer buffers for WebGPU buffer and texture data updates.
+// ---
+
 #include "gpu/command_buffer/service/dawn_service_memory_transfer_service.h"
 
 #include <dawn/dawn_proc_table.h>

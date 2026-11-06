@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External semaphore Vulkan and GL interop
+// summary: Implements creation and import of external Vulkan semaphores as GL semaphores, handling opaque fd, win32 and Zircon event handle types per platform.
+// ---
+
 #include "gpu/command_buffer/service/external_semaphore.h"
 
 #include "base/functional/bind.h"

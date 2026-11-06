@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passthrough decoder framebuffer tests
+// summary: Unit tests for framebuffer-related commands in the passthrough decoder, covering ReadPixels with pixel pack buffers and out-of-range cases.
+// ---
+
 #include <stdint.h>
 
 #include "base/compiler_specific.h"

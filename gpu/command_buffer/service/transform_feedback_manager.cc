@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transform feedback manager implementation
+// summary: Implements the TransformFeedback object and TransformFeedbackManager, handling binding, begin, end, pause and resume plus buffer binding state for GL transform feedback.
+// ---
+
 #include "gpu/command_buffer/service/transform_feedback_manager.h"
 
 #include "base/check.h"

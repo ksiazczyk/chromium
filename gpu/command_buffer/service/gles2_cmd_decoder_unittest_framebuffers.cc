@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder framebuffer unit tests
+// summary: Unit tests for GLES2 framebuffer commands, covering binding, deletion, renderbuffer and texture attachment, and framebuffer status checks.
+// ---
+
 #include <limits.h>
 #include <stddef.h>
 #include <stdint.h>

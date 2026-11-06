@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLES2 decoder drawing command unit tests
+// summary: Unit tests for GLES2 drawing commands, covering dirty state masks, geometry instancing, and draw call execution against a mocked GL interface.
+// ---
+
 #include <stdint.h>
 
 #include <array>

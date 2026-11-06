@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CommonDecoder buckets and commands
+// summary: Unit tests covering CommonDecoder bucket sizing, byte span access bounds, SetData behavior, and common command execution.
+// ---
+
 #include "gpu/command_buffer/service/common_decoder.h"
 
 #include <stddef.h>

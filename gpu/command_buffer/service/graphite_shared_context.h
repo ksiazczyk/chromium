@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graphite shared context interface
+// summary: Declares GraphiteSharedContext, a thread-safe wrapper class around skgpu::graphite::Context used by GPU command buffer clients.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_SERVICE_GRAPHITE_SHARED_CONTEXT_H_
 #define GPU_COMMAND_BUFFER_SERVICE_GRAPHITE_SHARED_CONTEXT_H_
 

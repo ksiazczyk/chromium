@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn wire server helpers
+// summary: Implements DawnWireServer factory creation and a span-based HandleCommands wrapper for processing serialized Dawn wire commands.
+// ---
+
 #include "gpu/command_buffer/service/dawn_wire_server.h"
 
 #include <memory>

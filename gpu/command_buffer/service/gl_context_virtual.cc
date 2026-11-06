@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual GL context implementation
+// summary: Implements GLContextVirtual, a virtual OpenGL context that forwards make-current, release, extension, version and GPU timing calls to an underlying shared context.
+// ---
+
 #include "gpu/command_buffer/service/gl_context_virtual.h"
 
 #include "base/functional/callback.h"

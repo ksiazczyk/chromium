@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU command buffer service command-line switches
+// summary: Defines command-line switch constants controlling GPU service behavior such as shader compilation, GL debugging, logging, cache limits and Vulkan support.
+// ---
+
 #include "gpu/command_buffer/service/gpu_switches.h"
 
 namespace switches {
