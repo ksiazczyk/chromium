@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog model context menu controller implementation
+// summary: Implements a context menu controller that builds menus from a ui::DialogModel callback and runs them anchored on the host view.
+// ---
+
 #include "ui/views/dialog_model_context_menu_controller.h"
 
 #include "ui/base/models/dialog_model.h"

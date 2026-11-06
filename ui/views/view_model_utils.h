@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View model utilities header
+// summary: Declares the ViewModelUtils class with static helpers for setting view bounds to ideal bounds and computing move indices.
+// ---
+
 #ifndef UI_VIEWS_VIEW_MODEL_UTILS_H_
 #define UI_VIEWS_VIEW_MODEL_UTILS_H_
 

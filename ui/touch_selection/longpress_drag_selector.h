@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Longpress drag selector class declaration
+// summary: Declares LongPressDragSelector and its client interface for initiating and managing text selection drags following longpress or double press gestures.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_LONGPRESS_DRAG_SELECTOR_H_
 #define UI_TOUCH_SELECTION_LONGPRESS_DRAG_SELECTOR_H_
 

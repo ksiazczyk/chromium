@@ -1,0 +1,4 @@
+# Docerion header of IDS_APP_OVERVIEW_KEY.png.sha1.
+type: data
+title: IDS_APP_OVERVIEW_KEY image SHA1 hash
+summary: Stores the SHA1 hash of the PNG image associated with the IDS_APP_OVERVIEW_KEY UI string identifier.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug utility declarations for hierarchy printing
+// summary: Declares debug helpers for printing focus, widget, window, and layer hierarchies and a Graphviz view graph in debug builds.
+// ---
+
 #ifndef UI_VIEWS_DEBUG_UTILS_H_
 #define UI_VIEWS_DEBUG_UTILS_H_
 

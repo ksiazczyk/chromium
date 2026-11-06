@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View model implementation
+// summary: Implements ViewModelBase, a helper for managing ordered lists of views with add, remove, move, and lookup operations.
+// ---
+
 #include "ui/views/view_model.h"
 
 #include <stddef.h>

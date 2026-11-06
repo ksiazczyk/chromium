@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch selection magnifier Aura unit tests
+// summary: Unit tests verifying magnifier placement above the caret, bounds updates, and clamping within the parent layer.
+// ---
+
 #include "ui/touch_selection/touch_selection_magnifier_aura.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

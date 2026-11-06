@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Border painting implementations
+// summary: Implements Border subclasses such as solid sided and rounded rectangle borders that paint view borders with theme-aware colors and scale handling.
+// ---
+
 #include "ui/views/border.h"
 
 #include <memory>

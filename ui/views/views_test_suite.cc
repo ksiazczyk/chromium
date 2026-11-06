@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views test suite implementation
+// summary: Implements ViewsTestSuite, initializing the resource bundle, GL surface, accessibility test platform, and Aura environment for views unit tests.
+// ---
+
 #include "ui/views/views_test_suite.h"
 
 #include "base/compiler_specific.h"

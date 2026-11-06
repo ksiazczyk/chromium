@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules allowing open test approvals
+summary: OWNERS file that lets anyone approve additional tests added in this directory via a per-file wildcard rule.

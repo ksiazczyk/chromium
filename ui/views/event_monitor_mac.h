@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventMonitorMac class declaration
+// summary: Declares EventMonitorMac, the Cocoa event monitor with Objective-C storage and a testing hook to force remote Cocoa monitoring.
+// ---
+
 #ifndef UI_VIEWS_EVENT_MONITOR_MAC_H_
 #define UI_VIEWS_EVENT_MONITOR_MAC_H_
 

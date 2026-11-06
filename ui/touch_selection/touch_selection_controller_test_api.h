@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch selection controller test API declaration
+// summary: Declares TouchSelectionControllerTestApi, a helper class giving tests access to internal state of TouchSelectionController.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_TOUCH_SELECTION_CONTROLLER_TEST_API_H_
 #define UI_TOUCH_SELECTION_TOUCH_SELECTION_CONTROLLER_TEST_API_H_
 

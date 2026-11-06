@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button drag image utilities implementation
+// summary: Implements helpers that set URL drag data and render drag images for buttons using a temporary widget and label button.
+// ---
+
 #include "ui/views/button_drag_utils.h"
 
 #include <memory>

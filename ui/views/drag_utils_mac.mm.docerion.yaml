@@ -1,0 +1,4 @@
+# Docerion header of drag_utils_mac.mm.
+type: source
+title: Mac stub for drag-and-drop loop utilities
+summary: Provides a not-implemented Mac stub of RunDragDropLoop for the drag-and-drop utilities.

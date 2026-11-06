@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View model header
+// summary: Declares ViewModelBase and the templated ViewModelT collection that tracks a set of views with ideal bounds for use during animations and reordering.
+// ---
+
 #ifndef UI_VIEWS_VIEW_MODEL_H_
 #define UI_VIEWS_VIEW_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View shadow implementation
+// summary: Implements ViewShadow, which attaches a shadow decoration layer below a view's layer and keeps its content bounds in sync with the view.
+// ---
+
 #include "ui/views/view_shadow.h"
 
 #include "ui/compositor/layer.h"

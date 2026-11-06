@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchHandle unit tests
+// summary: Unit tests for the TouchHandle class using a mock drawable and client to verify dragging, tapping, animation and orientation behavior.
+// ---
+
 #include "ui/touch_selection/touch_handle.h"
 
 #include "base/memory/raw_ptr.h"

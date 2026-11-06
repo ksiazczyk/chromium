@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac implementation of views metrics
+// summary: Implements GetDoubleClickInterval and GetMenuShowDelay for macOS using fixed default values.
+// ---
+
 #include "ui/views/metrics.h"
 
 namespace views {

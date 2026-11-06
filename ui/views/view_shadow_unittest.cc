@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View shadow unit tests
+// summary: Unit tests verifying shadow layer ordering, bounds following direct and indirect view changes, destruction handling, layer type retention, and rounded corners.
+// ---
+
 #include "ui/views/view_shadow.h"
 
 #include "ui/compositor/layer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views feature flag definitions
+// summary: Defines base::Feature flags for Views behaviors such as drag and drop restrictions, input protection, tooltips, and NativeViewHost layer management.
+// ---
+
 #include "ui/views/views_features.h"
 
 #include "base/feature_list.h"

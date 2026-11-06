@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View observer header
+// summary: Declares the ViewObserver interface with callbacks for child changes, visibility, bounds, layer updates, theme, focus, deletion, and property changes.
+// ---
+
 #ifndef UI_VIEWS_VIEW_OBSERVER_H_
 #define UI_VIEWS_VIEW_OBSERVER_H_
 

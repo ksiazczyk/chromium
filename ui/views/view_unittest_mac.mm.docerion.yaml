@@ -1,0 +1,4 @@
+# Docerion header of view_unittest_mac.mm.
+type: test
+title: View unit tests for macOS
+summary: macOS unit tests checking that BridgedContentView translates three-finger swipe NSEvents into Views gesture events in all four directions.

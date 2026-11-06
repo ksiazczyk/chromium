@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsDelegate implementation
+// summary: Implements the ViewsDelegate singleton with default behaviors for window placement, menu accelerators, window icons, and default frame view creation.
+// ---
+
 #include "ui/views/views_delegate.h"
 
 #include <utility>

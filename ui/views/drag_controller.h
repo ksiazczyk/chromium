@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragController interface for view drag operations
+// summary: Declares the DragController interface that writes drag data for a view, supplies supported drag operations, and decides whether a drag can start.
+// ---
+
 #ifndef UI_VIEWS_DRAG_CONTROLLER_H_
 #define UI_VIEWS_DRAG_CONTROLLER_H_
 

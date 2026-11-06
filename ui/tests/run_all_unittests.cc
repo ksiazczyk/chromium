@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI unit test suite runner
+// summary: Main entry point for ui_unittests that initializes the UI test suite with path and resource setup, including Mac framework bundle handling, and launches the tests.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"
 #include "base/path_service.h"

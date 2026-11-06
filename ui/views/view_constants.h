@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View constants
+// summary: Defines the kDropBetweenPixels constant used to decide whether a drop lands on an item or before or after it.
+// ---
+
 #ifndef UI_VIEWS_VIEW_CONSTANTS_H_
 #define UI_VIEWS_VIEW_CONSTANTS_H_
 

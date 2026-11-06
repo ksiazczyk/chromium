@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View debug utilities declarations
+// summary: Declares the ViewDebugWrapperImpl class, class-casting helpers such as AsViewClass, and functions to print view hierarchies and debug info.
+// ---
+
 #ifndef UI_VIEWS_VIEW_UTILS_H_
 #define UI_VIEWS_VIEW_UTILS_H_
 

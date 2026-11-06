@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracking metadata for ui/views
+summary: Maps the ui/views directory to the Internals>Views Monorail component and a Buganizer component for issue tracking.

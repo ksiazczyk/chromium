@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of the touch selection handle drawable
+// summary: Implements TouchHandleDrawableAura, which draws touch selection handle images in a transparent Aura window and reacts to native theme changes.
+// ---
+
 #include "ui/touch_selection/touch_handle_drawable_aura.h"
 
 #include "ui/aura/window.h"

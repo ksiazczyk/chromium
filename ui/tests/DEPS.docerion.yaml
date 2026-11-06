@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ui tests directory
+summary: DEPS file that sets include rules allowing code in this directory to depend on ui/base.

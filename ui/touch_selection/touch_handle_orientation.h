@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch handle orientation enum
+// summary: Defines the TouchHandleOrientation enum (LEFT, CENTER, RIGHT, UNDEFINED) shared between the native and Java sides for touch selection handles.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_TOUCH_HANDLE_ORIENTATION_H_
 #define UI_TOUCH_SELECTION_TOUCH_HANDLE_ORIENTATION_H_
 

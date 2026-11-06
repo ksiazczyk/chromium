@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rect-based targeting utilities header
+// summary: 'Declares exported helpers for rect-based targeting: point-based targeting detection, rectangle coverage percentage, and squared distance to a rect center.'
+// ---
+
 #ifndef UI_VIEWS_RECT_BASED_TARGETING_UTILS_H_
 #define UI_VIEWS_RECT_BASED_TARGETING_UTILS_H_
 

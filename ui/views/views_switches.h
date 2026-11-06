@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views command-line switch constants
+// summary: Declares views::switches constants for command-line flags used in testing and debugging, such as disabling input event activation protection and drawing view bounds.
+// ---
+
 #ifndef UI_VIEWS_VIEWS_SWITCHES_H_
 #define UI_VIEWS_VIEWS_SWITCHES_H_
 

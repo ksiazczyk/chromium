@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners pointer for ui/views
+summary: Delegates ownership review requirements for the ui/views directory to the VIEWS_OWNERS file.

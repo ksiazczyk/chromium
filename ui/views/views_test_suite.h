@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views test suite class declaration
+// summary: Declares the ViewsTestSuite class extending base::TestSuite to run views unit tests, with overridable Aura environment setup hooks.
+// ---
+
 #ifndef UI_VIEWS_VIEWS_TEST_SUITE_H_
 #define UI_VIEWS_VIEWS_TEST_SUITE_H_
 

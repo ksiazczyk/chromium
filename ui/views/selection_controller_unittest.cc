@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectionController unit tests
+// summary: Unit tests for SelectionController mouse-driven text selection, using a test delegate over a RenderText instance.
+// ---
+
 #include "ui/views/selection_controller.h"
 
 #include <memory>

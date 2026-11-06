@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.h.template.
+type: source
+title: Vector icons C++ header template
+summary: Template from which the build generates vector_icons.h, declaring the touch selection icons as gfx::VectorIcon externals in namespace ui.

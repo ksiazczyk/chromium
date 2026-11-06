@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View shadow header
+// summary: Declares the ViewShadow class that manages a shadow decoration for a view, including rounded corner updates and observation of view deletion.
+// ---
+
 #ifndef UI_VIEWS_VIEW_SHADOW_H_
 #define UI_VIEWS_VIEW_SHADOW_H_
 

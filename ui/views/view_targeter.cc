@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTargeter implementation
+// summary: Implements event targeting for views, dispatching key, scroll and gesture events to the focused or hit-tested view through a ViewTargeterDelegate.
+// ---
+
 #include "ui/views/view_targeter.h"
 
 #include <memory>

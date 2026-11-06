@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura touch handle drawable class declaration
+// summary: Declares the TouchHandleDrawableAura class, an Aura window-based drawable implementing the TouchHandleDrawable interface with layer painting and theme observation.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_TOUCH_HANDLE_DRAWABLE_AURA_H_
 #define UI_TOUCH_SELECTION_TOUCH_HANDLE_DRAWABLE_AURA_H_
 

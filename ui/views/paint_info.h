@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintInfo class header
+// summary: Declares the PaintInfo class that manages paint recording context, scale types, and bounds for individual views during painting.
+// ---
+
 #ifndef UI_VIEWS_PAINT_INFO_H_
 #define UI_VIEWS_PAINT_INFO_H_
 

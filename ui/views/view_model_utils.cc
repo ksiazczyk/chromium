@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View model utilities implementation
+// summary: Implements ViewModelUtils helpers that apply ideal bounds to views, check whether views are at ideal bounds, and determine a drag move index along a primary axis.
+// ---
+
 #include "ui/views/view_model_utils.h"
 
 #include <algorithm>

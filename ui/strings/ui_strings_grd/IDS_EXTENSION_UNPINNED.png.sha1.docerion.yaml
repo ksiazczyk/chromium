@@ -1,0 +1,4 @@
+# Docerion header of IDS_EXTENSION_UNPINNED.png.sha1.
+type: data
+title: IDS_EXTENSION_UNPINNED PNG SHA1 checksum
+summary: Stores the SHA1 checksum of the PNG image referenced by the extension unpinned UI string identifier.

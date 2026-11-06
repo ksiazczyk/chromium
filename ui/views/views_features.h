@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views feature flag declarations
+// summary: Declares the exported Views feature flags for use across the module, including macOS-specific widget focus and compositor notification flags.
+// ---
+
 #ifndef UI_VIEWS_VIEWS_FEATURES_H_
 #define UI_VIEWS_VIEWS_FEATURES_H_
 

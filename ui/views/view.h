@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View base class header
+// summary: Declares the View base class of the Views UI toolkit, the fundamental UI element supporting hierarchy, layout, events, painting, and metadata.
+// ---
+
 #ifndef UI_VIEWS_VIEW_H_
 #define UI_VIEWS_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch selection magnifier for Aura header
+// summary: Declares TouchSelectionMagnifierAura, which shows a magnified caret or selection endpoint during touch selection sessions.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_TOUCH_SELECTION_MAGNIFIER_AURA_H_
 #define UI_TOUCH_SELECTION_TOUCH_SELECTION_MAGNIFIER_AURA_H_
 

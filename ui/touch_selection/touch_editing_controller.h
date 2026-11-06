@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchEditable interface for touch text editing
+// summary: Declares the TouchEditable interface that widgets with touch-selectable text implement for caret moves, range selection, menu commands, and geometry queries.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_TOUCH_EDITING_CONTROLLER_H_
 #define UI_TOUCH_SELECTION_TOUCH_EDITING_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background class declaration
+// summary: Declares the Background base class and factory functions for creating solid, rounded, and layer-based view backgrounds.
+// ---
+
 #ifndef UI_VIEWS_BACKGROUND_H_
 #define UI_VIEWS_BACKGROUND_H_
 

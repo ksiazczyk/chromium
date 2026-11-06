@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of EventMonitor
+// summary: Implements application and window event monitors on Aura, removing the event observer when the target window is destroyed.
+// ---
+
 #include "ui/views/event_monitor_aura.h"
 
 #include <memory>

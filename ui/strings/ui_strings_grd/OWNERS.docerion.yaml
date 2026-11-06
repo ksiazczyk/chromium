@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ui_strings_grd
+summary: OWNERS file with a wildcard entry that makes everyone an owner of the ui_strings_grd directory.

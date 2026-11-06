@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for ui/views
+# summary: Presubmit script that enforces cpplint cleanliness for C++ source changes affecting ui/views.
+# ---
+
 """Presubmit script for changes affecting //ui/views.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

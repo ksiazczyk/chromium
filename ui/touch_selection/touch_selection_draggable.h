@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch selection draggable interface
+// summary: Defines the TouchSelectionDraggable interface and its client for entities that manipulate text selection via dragging, such as touch handles and longpress selection.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_TOUCH_SELECTION_DRAGGABLE_H_
 #define UI_TOUCH_SELECTION_TOUCH_SELECTION_DRAGGABLE_H_
 

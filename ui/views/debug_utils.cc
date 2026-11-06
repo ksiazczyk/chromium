@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug printing utilities for views and widgets
+// summary: Implements debug helpers that print focus, window, widget, and layer hierarchies and generate a Graphviz view graph.
+// ---
+
 #include "ui/views/debug_utils.h"
 
 #include <ostream>

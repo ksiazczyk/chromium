@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessiblePaneView unit tests
+// summary: Unit tests covering pane focus setting, focus restoration, and keyboard navigation behavior of AccessiblePaneView using a test bar view with label buttons.
+// ---
+
 #include "ui/views/accessible_pane_view.h"
 
 #include <memory>

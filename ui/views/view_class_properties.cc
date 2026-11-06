@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View class property definitions
+// summary: Defines exported UI class property keys for views, including margins, flex behavior, table layout, anchoring, and element identifiers.
+// ---
+
 #include "ui/views/view_class_properties.h"
 
 #include <string>

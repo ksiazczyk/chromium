@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedPaintLock unit tests
+// summary: Unit tests covering paint deferral, multiple locks, view deletion safety, and nested view trees with ScopedPaintLock.
+// ---
+
 #include "ui/views/scoped_paint_lock.h"
 
 #include <memory>

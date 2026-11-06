@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewTargeter unit tests
+// summary: Unit tests verifying event targeting for key, scroll, gesture and mouse events, including masked and rect-based targeting behaviour.
+// ---
+
 #include "ui/views/view_targeter.h"
 
 #include <memory>

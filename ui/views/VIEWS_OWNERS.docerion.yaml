@@ -1,0 +1,4 @@
+# Docerion header of VIEWS_OWNERS.
+type: config
+title: Reviewer list for the Views UI toolkit
+summary: Lists the Views review alias and individual owners, with per-file owner rules for Windows and headless files and for build changes.

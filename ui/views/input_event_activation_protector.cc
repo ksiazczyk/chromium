@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputEventActivationProtector implementation
+// summary: Implements the activation protector, coordinating input protection policies, visibility changes, and widget stationarity to block possibly unintended interactions.
+// ---
+
 #include "ui/views/input_event_activation_protector.h"
 
 #include <utility>

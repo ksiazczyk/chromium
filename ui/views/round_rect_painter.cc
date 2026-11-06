@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundRectPainter implementation
+// summary: Implements RoundRectPainter, which paints a stroked border with rounded corners onto a canvas.
+// ---
+
 #include "ui/views/round_rect_painter.h"
 
 #include "cc/paint/paint_canvas.h"
