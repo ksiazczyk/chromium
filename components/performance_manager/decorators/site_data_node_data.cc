@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data node data implementation
+// summary: Implements page node attached data that manages a per-origin site data writer and reader, recording load, visibility, audio, title and favicon events.
+// ---
+
 #include "components/performance_manager/decorators/site_data_node_data.h"
 
 #include "base/check_op.h"

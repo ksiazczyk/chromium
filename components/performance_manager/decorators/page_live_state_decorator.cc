@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLiveStateDecorator implementation
+// summary: Implements the page live state decorator that tracks per-page state such as device connections, capture, mirroring, tab activity and DevTools openness.
+// ---
+
 #include "components/performance_manager/public/decorators/page_live_state_decorator.h"
 
 #include <memory>

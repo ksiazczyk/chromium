@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance manager implementation unit tests
+// summary: Unit tests verifying PerformanceManagerImpl creation and teardown, node instantiation for each node type, and death tests for invalid process host proxies.
+// ---
+
 #include "components/performance_manager/performance_manager_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process hosted content types aggregator unit tests
+// summary: Verifies that process nodes record hosted content types for extension pages, main and child frames, navigated frames, ads and workers.
+// ---
+
 #include "components/performance_manager/decorators/process_hosted_content_types_aggregator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF frame utility header
+// summary: Declares pdf_frame_util helpers for finding PDF extension hosts, PDF child frames, and embedder hosts among render frame hosts.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_PDF_FRAME_UTIL_H_
 #define COMPONENTS_PDF_BROWSER_PDF_FRAME_UTIL_H_
 

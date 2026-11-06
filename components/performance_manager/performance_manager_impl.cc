@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager implementation
+// summary: Implements the PerformanceManager singleton that creates, tracks and tears down frame, page, process, worker and system nodes in the performance manager graph.
+// ---
+
 #include "components/performance_manager/performance_manager_impl.h"
 
 #include <atomic>

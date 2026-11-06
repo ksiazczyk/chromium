@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for decorator utilities
+// summary: Unit tests verifying the WebContents property helpers, including setting a property while a PageNode is being removed from the graph.
+// ---
+
 #include "components/performance_manager/decorators/decorators_utils.h"
 
 #include <utility>

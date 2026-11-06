@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF first content paint registry unit tests
+// summary: Unit tests verifying that the PDF first content paint registry notifies subscribers, supports multiple callbacks, unsubscribes when the subscription is released, and is safe with no subscribers.
+// ---
+
 #include "components/pdf/browser/pdf_first_content_paint_registry.h"
 
 #include "base/functional/bind.h"

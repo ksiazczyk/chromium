@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrozenFrameAggregator implementation
+// summary: Implements the FrozenFrameAggregator, which observes frame additions, removals, activity and lifecycle changes to aggregate frozen state onto page and process nodes.
+// ---
+
 #include "components/performance_manager/freezing/frozen_frame_aggregator.h"
 
 #include "components/performance_manager/freezing/frozen_data.h"

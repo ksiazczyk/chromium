@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility tree builder class
+// summary: Declares PdfAccessibilityTreeBuilder, which creates AXNodeData nodes for page text, links, images, highlights and form graphics.
+// ---
+
 #ifndef COMPONENTS_PDF_RENDERER_PDF_ACCESSIBILITY_TREE_BUILDER_H_
 #define COMPONENTS_PDF_RENDERER_PDF_ACCESSIBILITY_TREE_BUILDER_H_
 

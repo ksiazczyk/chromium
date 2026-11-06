@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the PDF document helper
+// summary: Runs content browser tests verifying PDF document helper behavior such as selection events and PdfListener Mojo calls across feature modes.
+// ---
+
 #include "components/pdf/browser/pdf_document_helper.h"
 
 #include "base/test/metrics/user_action_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Registered Objects Unit Tests
+// summary: Unit tests covering registration, duplicate rejection, unregistration, and destruction checks of the RegisteredObjects container.
+// ---
+
 #include "components/performance_manager/registered_objects.h"
 
 #include "base/memory/ptr_util.h"

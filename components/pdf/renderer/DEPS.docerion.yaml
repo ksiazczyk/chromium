@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PDF renderer include rules (DEPS)
+summary: Lists the headers and directories the PDF renderer may include, covering content, PDF, Blink, accessibility, Skia and V8.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF document helper class for browser PDF handling
+// summary: Declares PDFDocumentHelper, a per-document class handling PDF Mojo messages, touch selection, and full-page PDF lookup in the browser.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_PDF_DOCUMENT_HELPER_H_
 #define COMPONENTS_PDF_BROWSER_PDF_DOCUMENT_HELPER_H_
 

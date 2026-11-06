@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF navigation throttle implementation
+// summary: Implements a navigation throttle that blocks sandboxed PDF loads, redirects stream URL navigations to original PDF URLs, and restricts navigations in PDF extension and content frames.
+// ---
+
 #include "components/pdf/browser/pdf_navigation_throttle.h"
 
 #include <memory>

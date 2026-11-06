@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake PDF stream delegate for unit tests
+// summary: Provides a fake PdfStreamDelegate with default stream info and configurable navigation permissions for use in unit tests.
+// ---
+
 #include "components/pdf/browser/fake_pdf_stream_delegate.h"
 
 #include <optional>

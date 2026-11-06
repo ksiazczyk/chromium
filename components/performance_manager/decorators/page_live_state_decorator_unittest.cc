@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageLiveStateDecorator unit tests
+// summary: Unit tests for the page live state decorator, checking observer notifications when page live state properties change.
+// ---
+
 #include "components/performance_manager/public/decorators/page_live_state_decorator.h"
 
 #include <memory>

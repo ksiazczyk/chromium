@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for PDF string translation context images
+summary: Explains that the directory stores image SHA-1 hashes to give translators context for PDF UI strings.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

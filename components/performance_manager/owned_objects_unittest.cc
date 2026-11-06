@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OwnedObjects unit tests
+// summary: Unit tests verifying pass, take, release, and destruction-check behavior of the OwnedObjects container using mock objects.
+// ---
+
 #include "components/performance_manager/owned_objects.h"
 
 #include "base/memory/ptr_util.h"

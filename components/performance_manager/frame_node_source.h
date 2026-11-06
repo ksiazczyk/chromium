@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameNodeSource interface
+// summary: Abstract interface for looking up frame nodes on the main thread and subscribing to frame node removal notifications, used by worker watchers.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_FRAME_NODE_SOURCE_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_FRAME_NODE_SOURCE_H_
 

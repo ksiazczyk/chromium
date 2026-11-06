@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side PDF document helper implementation
+// summary: Implements the per-document PDF helper that binds PdfHost Mojo receivers, tracks helper creation, and manages touch selection for PDF documents.
+// ---
+
 #include "components/pdf/browser/pdf_document_helper.h"
 
 #include <utility>

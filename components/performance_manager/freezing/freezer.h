@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezer class interface
+// summary: Declares the Freezer class that freezes and unfreezes page nodes, with virtual methods for testing.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_FREEZING_FREEZER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_FREEZING_FREEZER_H_
 

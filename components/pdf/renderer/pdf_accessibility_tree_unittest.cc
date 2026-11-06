@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF accessibility tree unit tests
+// summary: Unit tests validating plugin accessibility data, including text run and character consistency and link ordering and bounds.
+// ---
+
 #include "components/pdf/renderer/pdf_accessibility_tree.h"
 
 #include <utility>

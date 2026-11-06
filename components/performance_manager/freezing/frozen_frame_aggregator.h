@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrozenFrameAggregator class declaration
+// summary: Declares the FrozenFrameAggregator observer class that tracks frame frozen states and aggregates them to page and process nodes in the performance manager graph.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_FREEZING_FROZEN_FRAME_AGGREGATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_FREEZING_FROZEN_FRAME_AGGREGATOR_H_
 

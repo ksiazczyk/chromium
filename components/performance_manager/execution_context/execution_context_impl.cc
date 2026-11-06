@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution context implementation
+// summary: Implements FrameExecutionContext and WorkerExecutionContext adapters that expose frame and worker graph node data through the ExecutionContext interface.
+// ---
+
 #include "components/performance_manager/execution_context/execution_context_impl.h"
 
 #include "base/sequence_checker.h"

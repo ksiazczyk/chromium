@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageAggregator unit tests
+// summary: Unit tests verifying that PageAggregator correctly aggregates WebLock, blocking IndexedDB lock, WebRTC and form interaction state from frames to pages.
+// ---
+
 #include "components/performance_manager/decorators/page_aggregator.h"
 
 #include "components/performance_manager/graph/frame_node_impl.h"

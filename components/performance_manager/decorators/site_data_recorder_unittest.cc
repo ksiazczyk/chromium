@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site data recorder unit tests
+// summary: Unit tests for the SiteDataRecorder using mock data writers and caches to verify site load, visibility and background feature usage recording.
+// ---
+
 #include "components/performance_manager/public/decorators/site_data_recorder.h"
 
 #include <memory>

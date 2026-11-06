@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution context registry implementation
+// summary: Implements the execution context registry that tracks contexts by token, resolves frame and worker nodes, and manages observer notifications.
+// ---
+
 #include "components/performance_manager/execution_context/execution_context_registry_impl.h"
 
 #include "base/check.h"

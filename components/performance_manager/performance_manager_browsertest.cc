@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerformanceManager browser tests
+// summary: Browser tests verifying frame node lookup for RenderFrameHosts, opener tracking for popups, and WebRTC usage observation in the graph.
+// ---
+
 #include "components/performance_manager/public/performance_manager.h"
 
 #include <utility>

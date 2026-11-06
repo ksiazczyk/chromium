@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structure-based PDF accessibility tree builder
+// summary: Declares the class that builds accessibility trees for tagged PDFs from their explicit structure tree with correct ARIA roles.
+// ---
+
 #ifndef COMPONENTS_PDF_RENDERER_PDF_ACCESSIBILITY_TREE_BUILDER_STRUCTURE_H_
 #define COMPONENTS_PDF_RENDERER_PDF_ACCESSIBILITY_TREE_BUILDER_STRUCTURE_H_
 

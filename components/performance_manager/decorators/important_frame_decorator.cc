@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important frame decorator implementation
+// summary: Implements the important frame decorator that maintains the IsImportant property of frames based on viewport intersection, cross-process ancestry and user activation.
+// ---
+
 #include "components/performance_manager/decorators/important_frame_decorator.h"
 
 #include <optional>

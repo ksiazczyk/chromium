@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility action target
+// summary: Declares a class that adapts an accessibility node representing PDF content for dispatching accessibility actions.
+// ---
+
 #ifndef COMPONENTS_PDF_RENDERER_PDF_AX_ACTION_TARGET_H_
 #define COMPONENTS_PDF_RENDERER_PDF_AX_ACTION_TARGET_H_
 

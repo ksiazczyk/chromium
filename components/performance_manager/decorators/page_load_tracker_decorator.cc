@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadTrackerDecorator implementation
+// summary: Implements the page load tracker decorator that determines when a page is loading and transitions it through load idle states until it is almost idle.
+// ---
+
 #include "components/performance_manager/decorators/page_load_tracker_decorator.h"
 
 #include <algorithm>

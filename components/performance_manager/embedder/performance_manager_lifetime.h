@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerformanceManagerLifetime helper
+// summary: Manages the lifetime of PerformanceManager and PerformanceManagerRegistry, including test-only feature overrides and graph creation callbacks.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_PERFORMANCE_MANAGER_LIFETIME_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_PERFORMANCE_MANAGER_LIFETIME_H_
 

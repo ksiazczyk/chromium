@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker context adapter interface
+// summary: Declares ServiceWorkerContextAdapter and its implementation, a temporary wrapper that forwards service worker context observer notifications for the performance manager.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_SERVICE_WORKER_CONTEXT_ADAPTER_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_SERVICE_WORKER_CONTEXT_ADAPTER_H_
 

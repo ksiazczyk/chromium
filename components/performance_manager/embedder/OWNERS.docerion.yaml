@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the embedder directory
+summary: OWNERS file that requires security review for changes to binders.h in the embedder directory.

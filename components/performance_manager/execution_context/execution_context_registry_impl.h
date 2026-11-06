@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution context registry class declarations
+// summary: Declares the graph-registered ExecutionContextRegistryImpl, which maps tokens to execution contexts and observes frame and worker node lifecycle events.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_EXECUTION_CONTEXT_EXECUTION_CONTEXT_REGISTRY_IMPL_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_EXECUTION_CONTEXT_EXECUTION_CONTEXT_REGISTRY_IMPL_H_
 

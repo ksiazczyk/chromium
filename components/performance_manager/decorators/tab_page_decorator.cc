@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab page decorator implementation
+// summary: Implements the TabPageDecorator, which attaches tab handles to tab page nodes and notifies observers about tab creation, removal and discarding.
+// ---
+
 #include "components/performance_manager/public/decorators/tab_page_decorator.h"
 
 #include <memory>

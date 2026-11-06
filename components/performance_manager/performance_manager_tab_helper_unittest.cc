@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance Manager Tab Helper Unit Tests
+// summary: Unit tests verifying that the tab helper keeps the performance manager graph topology in sync with WebContents, frames, and render processes.
+// ---
+
 #include "components/performance_manager/performance_manager_tab_helper.h"
 
 #include <optional>

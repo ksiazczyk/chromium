@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance manager registry implementation
+// summary: Implements the registry that tracks WebContents, browser contexts, render processes and workers, creates tab helpers and notifies observers of page node creation.
+// ---
+
 #include "components/performance_manager/performance_manager_registry_impl.h"
 
 #include <utility>

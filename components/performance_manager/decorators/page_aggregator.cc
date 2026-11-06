@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageAggregator implementation
+// summary: Implements the PageAggregator decorator that aggregates frame-level state such as WebLock, IndexedDB lock, WebRTC usage and form interaction into page-level properties.
+// ---
+
 #include "components/performance_manager/decorators/page_aggregator.h"
 
 #include <cstdint>

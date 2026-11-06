@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF URL loader request interceptor implementation
+// summary: Implements an interceptor that serves PDF navigations to original URLs by creating loaders that write synthetic plugin responses from stream info.
+// ---
+
 #include "components/pdf/browser/pdf_url_loader_request_interceptor.h"
 
 #include <memory>

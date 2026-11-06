@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF URL loader request interceptor unit tests
+// summary: Unit tests for PdfURLLoaderRequestInterceptor covering interceptor creation and loader handling for navigation, non-navigation, and deleted-contents requests.
+// ---
+
 #include "components/pdf/browser/pdf_url_loader_request_interceptor.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the pdf component
+summary: Defines the include rules that allow the pdf component to depend on content public APIs, IPC, and ui/gfx.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin response writer class declaration
+// summary: Declares PluginResponseWriter, which sends a response containing an embed of type application/x-google-chrome-pdf to trigger loading the PDF viewer plugin.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_PLUGIN_RESPONSE_WRITER_H_
 #define COMPONENTS_PDF_BROWSER_PLUGIN_RESPONSE_WRITER_H_
 

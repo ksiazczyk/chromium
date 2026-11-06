@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process hosted content types aggregator declaration
+// summary: Declares a graph observer that aggregates the types of content hosted inside each process into its hosted content types property.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PROCESS_HOSTED_CONTENT_TYPES_AGGREGATOR_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PROCESS_HOSTED_CONTENT_TYPES_AGGREGATOR_H_
 

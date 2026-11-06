@@ -5,6 +5,12 @@
 // Helper functions for binding renderer objects to their performance_manager
 // Graph node counterparts in the browser process.
 
+// ---docerion
+// type: source
+// title: Binders helper for Mojo interfaces to graph nodes
+// summary: Declares the Binders class that binds renderer Mojo interfaces to their performance manager Graph node counterparts in the browser process.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_BINDERS_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_BINDERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrozenFrameAggregator unit tests
+// summary: Unit tests verifying that the FrozenFrameAggregator correctly updates active and frozen frame counts and fires notifications on page and process nodes.
+// ---
+
 #include "components/performance_manager/freezing/frozen_frame_aggregator.h"
 
 #include <memory>

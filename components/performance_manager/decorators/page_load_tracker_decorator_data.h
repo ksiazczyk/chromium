@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load tracker decorator data declaration
+// summary: Declares per-page inline data with the LoadIdleState enum, timestamps and a one-shot timer used to track page load and idle transitions.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PAGE_LOAD_TRACKER_DECORATOR_DATA_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PAGE_LOAD_TRACKER_DECORATOR_DATA_H_
 

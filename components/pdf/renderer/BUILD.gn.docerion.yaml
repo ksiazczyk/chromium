@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PDF renderer build targets (BUILD.gn)
+summary: Defines the renderer static library with its sources, public headers and dependencies, plus the unit_tests source set.

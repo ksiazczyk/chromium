@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab helper frame node source implementation
+// summary: Implements FrameNodeSource on top of PerformanceManagerTabHelper, resolving frame nodes and managing subscriptions to frame node removal callbacks.
+// ---
+
 #include "components/performance_manager/tab_helper_frame_node_source.h"
 
 #include <utility>

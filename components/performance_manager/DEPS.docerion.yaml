@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Performance Manager Dependency Rules
+summary: Lists the include paths and dependencies that code in the performance manager directory is allowed to use.

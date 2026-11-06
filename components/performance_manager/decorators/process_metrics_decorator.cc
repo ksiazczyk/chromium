@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process metrics decorator implementation
+// summary: Periodically refreshes memory metrics such as private footprint and resident set for process, frame and worker nodes via resource attribution.
+// ---
+
 #include "components/performance_manager/public/decorators/process_metrics_decorator.h"
 
 #include <memory>

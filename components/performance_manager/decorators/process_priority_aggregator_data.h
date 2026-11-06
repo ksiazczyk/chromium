@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process priority aggregator data declaration
+// summary: Declares the node inline data class attached to process nodes that tracks per-priority context counts for the process priority aggregator.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PROCESS_PRIORITY_AGGREGATOR_DATA_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_DECORATORS_PROCESS_PRIORITY_AGGREGATOR_DATA_H_
 

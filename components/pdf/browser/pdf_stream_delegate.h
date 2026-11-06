@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF stream delegate interface
+// summary: Defines the PdfStreamDelegate interface for obtaining PDF stream information without depending on //extensions/browser, covering URL mapping, stream info retrieval, and navigation policies.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_PDF_STREAM_DELEGATE_H_
 #define COMPONENTS_PDF_BROWSER_PDF_STREAM_DELEGATE_H_
 

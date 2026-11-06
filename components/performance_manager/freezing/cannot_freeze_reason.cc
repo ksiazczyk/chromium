@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cannot freeze reason to string conversion
+// summary: Implements CannotFreezeReasonToString, mapping reasons that prevent freezing a page to human-readable strings.
+// ---
+
 #include "components/performance_manager/public/freezing/cannot_freeze_reason.h"
 
 #include "base/notreached.h"

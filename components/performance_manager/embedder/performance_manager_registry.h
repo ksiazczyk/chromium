@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerformanceManagerRegistry interface
+// summary: Interface for tracking WebContents, RenderProcessHosts and SharedWorkerInstances as graph nodes in the PerformanceManager.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_PERFORMANCE_MANAGER_REGISTRY_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_EMBEDDER_PERFORMANCE_MANAGER_REGISTRY_H_
 

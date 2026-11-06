@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF frame utility implementations
+// summary: Implements helpers that locate the PDF extension host, the PDF child frame, and the embedder host for full-page OOPIF PDF viewers.
+// ---
+
 #include "components/pdf/browser/pdf_frame_util.h"
 
 #include <functional>

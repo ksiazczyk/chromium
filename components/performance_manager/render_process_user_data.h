@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render process user data associating RenderProcessHost with process node
+// summary: Declares RenderProcessUserData, user data attached to a RenderProcessHost that links it to the performance manager process node and supports destruction observers.
+// ---
+
 #ifndef COMPONENTS_PERFORMANCE_MANAGER_RENDER_PROCESS_USER_DATA_H_
 #define COMPONENTS_PERFORMANCE_MANAGER_RENDER_PROCESS_USER_DATA_H_
 

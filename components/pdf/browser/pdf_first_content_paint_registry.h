@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF first content paint callback registry
+// summary: Declares a process-wide registry for subscribing to and notifying first PDF content paint events with the embedder and paint time.
+// ---
+
 #ifndef COMPONENTS_PDF_BROWSER_PDF_FIRST_CONTENT_PAINT_REGISTRY_H_
 #define COMPONENTS_PDF_BROWSER_PDF_FIRST_CONTENT_PAINT_REGISTRY_H_
 

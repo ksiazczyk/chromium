@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for PDF browser dependencies
+summary: Specifies the allowed include directories for the PDF browser code, with a specific rule permitting content/shell in the browser test.

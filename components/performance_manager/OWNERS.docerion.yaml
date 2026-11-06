@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Performance Manager Owners
+summary: Lists the code owners for the directory and assigns preferred reviewers for worker changes and IPC security review.

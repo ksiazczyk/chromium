@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render Process Host ID Unit Tests
+// summary: Unit tests checking null, invalid, and valid RenderProcessHostId values and the ID generator behavior.
+// ---
+
 #include "components/performance_manager/public/render_process_host_id.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

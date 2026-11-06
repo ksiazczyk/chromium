@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF accessibility tree class
+// summary: Declares PdfAccessibilityTree, an AXTreeSource exposing PDF pages to assistive technology, with heading and header/footer repetition classifiers.
+// ---
+
 #ifndef COMPONENTS_PDF_RENDERER_PDF_ACCESSIBILITY_TREE_H_
 #define COMPONENTS_PDF_RENDERER_PDF_ACCESSIBILITY_TREE_H_
 

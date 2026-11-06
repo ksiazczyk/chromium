@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Execution context registry unit tests
+// summary: Unit tests covering registry lookups by token, execution context creation for frames and workers, and observer notification behavior.
+// ---
+
 #include "components/performance_manager/execution_context/execution_context_registry_impl.h"
 
 #include <memory>

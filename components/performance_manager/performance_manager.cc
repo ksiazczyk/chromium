@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerformanceManager public API implementation
+// summary: Implements the public PerformanceManager static accessors that map browser objects like WebContents, RenderFrameHost, and process hosts to graph node weak pointers.
+// ---
+
 #include "components/performance_manager/public/performance_manager.h"
 
 #include "components/performance_manager/graph/frame_node_impl.h"

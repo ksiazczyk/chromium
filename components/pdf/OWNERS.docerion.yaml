@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: PDF component owners
+summary: Delegates ownership review of the pdf component to the owners listed in //pdf/OWNERS.

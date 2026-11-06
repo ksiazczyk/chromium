@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Execution context attached data unit tests
+// summary: Unit tests verifying that data attached to frame and worker execution contexts can be created, retrieved and destroyed correctly.
+// ---
+
 #include "components/performance_manager/public/execution_context/execution_context_attached_data.h"
 
 #include "base/memory/raw_ptr.h"
