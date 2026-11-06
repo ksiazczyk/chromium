@@ -1,0 +1,4 @@
+# Docerion header of foo_handler.html.
+type: test
+title: Text file handler test page
+summary: Handler page for plain text file launches in the web app file handling integration tests.

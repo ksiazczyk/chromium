@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Not Installed web app manifest
+summary: Web app manifest fixture defining the name, 192x192 icon, start URL, scope and standalone display used by the not-installed test page.

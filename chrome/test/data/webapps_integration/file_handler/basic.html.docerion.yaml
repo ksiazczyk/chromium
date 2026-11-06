@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: File handler test app start page
+summary: Start page of the file handler test web app that injects the manifest link and registers the service worker.

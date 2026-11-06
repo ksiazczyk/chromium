@@ -1,0 +1,4 @@
+# Docerion header of gatherer.json.
+type: test
+title: Gatherer web app manifest
+summary: Web app manifest declaring a GET share target that passes shared title, text, and URL as query parameters.

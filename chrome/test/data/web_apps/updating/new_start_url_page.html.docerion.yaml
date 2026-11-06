@@ -1,0 +1,4 @@
+# Docerion header of new_start_url_page.html.
+type: test
+title: New start URL test page
+summary: Test page for web app updating that links a manifest with a new start URL and shows a heading announcing the change.

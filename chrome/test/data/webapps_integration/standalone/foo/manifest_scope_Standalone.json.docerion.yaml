@@ -1,0 +1,4 @@
+# Docerion header of manifest_scope_Standalone.json.
+type: test
+title: Site A manifest with expanded standalone scope
+summary: Web app manifest variant whose scope covers the whole standalone integration directory to test scope handling.

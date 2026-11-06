@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Web App Manifest for Sub Apps Test Site
+summary: Web app manifest for a test site with sub apps, defining icons, start URL, scope, and a permissions policy granting the sub-apps feature to self for Chrome integration tests.

@@ -1,0 +1,4 @@
+# Docerion header of share.template.html.
+type: test
+title: Web Share Target response template
+summary: HTML template with placeholders for method, type, URL, text fields and shared file contents and names, filled in by the test service worker.

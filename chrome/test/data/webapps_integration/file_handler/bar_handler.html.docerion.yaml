@@ -1,0 +1,4 @@
+# Docerion header of bar_handler.html.
+type: test
+title: Image file handler test page
+summary: Handler page for image and .bar file launches in the web app file handling integration tests.

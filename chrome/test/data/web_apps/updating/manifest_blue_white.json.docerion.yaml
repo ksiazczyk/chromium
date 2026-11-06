@@ -1,0 +1,4 @@
+# Docerion header of manifest_blue_white.json.
+type: test
+title: Blue and white icon web app manifest for updating tests
+summary: Web app manifest fixture with a blue and white 192 pixel icon pointing to index_blue_white.html for icon update tests.

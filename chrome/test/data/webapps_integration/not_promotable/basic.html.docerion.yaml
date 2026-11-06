@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site C test page without service worker or manifest
+summary: Test page named Site C that intentionally has no service worker or manifest, used in dPWA integration tests and able to add a manifest link tag from a manifest query parameter.

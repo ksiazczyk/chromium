@@ -1,0 +1,4 @@
+# Docerion header of manifest_tabbed.json.
+type: test
+title: Tabbed display override web app manifest
+summary: Web app manifest with a tabbed display override, used as test data for Chromium web apps integration tests.

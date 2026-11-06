@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation helper for DOM element readiness checks
+// summary: JavaScript helper used by Chromium test automation to check whether page elements are present, visible, enabled, and on top, logging results through a temporary console iframe.
+// ---
+
 'use strict';
 
 const automation_helper = (function() {

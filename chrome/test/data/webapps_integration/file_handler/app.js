@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File handler launch handling script
+// summary: Consumes file launch events in the test PWA and builds viewers that display each launched file's name and contents.
+// ---
+
 
 const makeFileViewer = async (launchFile) => {
   const readHandle = await launchFile.getFile();

@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site A Suggested test page
+summary: Minimal HTML test page titled Site A Suggested that links to basic.json as its web app manifest for web apps integration tests.

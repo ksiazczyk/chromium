@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Share Target test service worker
+// summary: Service worker that intercepts share.html requests and renders shared form data and files into a template for Web Share Target browser tests.
+// ---
+
 'use strict';
 
 // Promise-based version of FileReader.readAsText.

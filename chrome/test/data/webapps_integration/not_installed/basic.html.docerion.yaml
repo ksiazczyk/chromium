@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Not Installed web app test page
+summary: HTML test fixture that injects a manifest link tag and registers a service worker to simulate a not-installed web app in Chromium integration tests.

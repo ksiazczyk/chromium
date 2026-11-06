@@ -1,0 +1,4 @@
+# Docerion header of new_icon_page_masking.html.
+type: test
+title: New icon masking test page
+summary: Test page for web app updating that links a manifest with a new icon and exercises icon masking using a green 256px icon.

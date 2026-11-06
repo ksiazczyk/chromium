@@ -1,0 +1,4 @@
+# Docerion header of sub_page_3.html.
+type: test
+title: Tabbed sub page three
+summary: Test sub page for tabbed dPWA integration tests; its path is used as the home tab scope pattern in home_tab.json.

@@ -1,0 +1,4 @@
+# Docerion header of sub_page_2.html.
+type: test
+title: Tabbed sub page two
+summary: Test sub page for tabbed dPWA integration tests, providing an additional in-scope page for the Tabbed app.

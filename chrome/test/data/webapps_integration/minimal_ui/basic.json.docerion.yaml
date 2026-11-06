@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Web app manifest for Site B minimal-ui tests
+summary: Web app manifest declaring Site B with icons, minimal-ui display, and file handlers for .foo and .bar files used in integration tests.

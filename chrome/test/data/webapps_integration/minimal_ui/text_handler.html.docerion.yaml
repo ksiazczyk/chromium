@@ -1,0 +1,4 @@
+# Docerion header of text_handler.html.
+type: test
+title: Site B text file handler test page
+summary: Handler page for text files opened by Site B during file handling integration tests, with a TODO to verify the loaded text files.

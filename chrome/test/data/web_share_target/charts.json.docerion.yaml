@@ -1,0 +1,4 @@
+# Docerion header of charts.json.
+type: test
+title: Charts web app manifest
+summary: Web app manifest declaring a multipart POST share target that accepts CSV text, SVG graphs, and arbitrary note files.

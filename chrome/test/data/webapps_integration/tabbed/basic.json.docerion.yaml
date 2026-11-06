@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Tabbed web app manifest
+summary: Web app manifest for the Tabbed test app, declaring red icons, standalone display with tabbed override, and the webapps_integration/tabbed scope.

@@ -1,0 +1,4 @@
+# Docerion header of index_blue_white.html.
+type: test
+title: Blue and white icon web app updating test page
+summary: Test page linking the blue and white manifest, used to verify icon updates with small icon differences.

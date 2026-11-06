@@ -1,0 +1,4 @@
+# Docerion header of gatherer.html.
+type: test
+title: Gatherer web app test page
+summary: Test web app page for the Gatherer share target that links its manifest and registers the shared service worker.

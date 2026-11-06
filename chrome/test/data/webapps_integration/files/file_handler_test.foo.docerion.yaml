@@ -1,0 +1,4 @@
+# Docerion header of file_handler_test.foo.
+type: test
+title: File handler test .foo file
+summary: Sample .foo file that serves as test data for web app file handler integration tests.

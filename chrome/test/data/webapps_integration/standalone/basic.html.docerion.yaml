@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Basic web app integration test page
+summary: Test page named Site A that injects a manifest link tag and starts a service worker for dPWA integration tests in Chromium.

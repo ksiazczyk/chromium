@@ -1,0 +1,4 @@
+# Docerion header of poster.json.
+type: test
+title: Poster web app manifest
+summary: Web app manifest declaring a POST share target that passes shared title, text, and URL as form fields.

@@ -1,0 +1,4 @@
+# Docerion header of manifest_no_service_worker.json.
+type: test
+title: Web app manifest for site without service worker
+summary: Web app manifest defining the name, icons, start URL, scope and standalone display for the site without a service worker test.

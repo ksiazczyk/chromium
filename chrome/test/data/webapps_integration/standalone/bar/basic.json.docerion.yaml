@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Site A Bar web app manifest
+summary: Web app manifest for the Site A Bar test app, declaring its icons, id, start URL, scope and standalone display mode for web apps integration tests.

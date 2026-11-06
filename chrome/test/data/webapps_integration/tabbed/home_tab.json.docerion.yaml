@@ -1,0 +1,4 @@
+# Docerion header of home_tab.json.
+type: test
+title: Tabbed home tab manifest
+summary: Web app manifest variant that adds a tab_strip home tab scoped to sub_page_3.html and a new tab button pointing to sub_page_1.html for tabbed tests.

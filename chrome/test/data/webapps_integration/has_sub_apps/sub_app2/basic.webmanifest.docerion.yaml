@@ -1,0 +1,4 @@
+# Docerion header of basic.webmanifest.
+type: test
+title: Sub App 2 web app manifest
+summary: Web app manifest for the Sub App 2 test app declaring its icons, start URL, scope and standalone display.

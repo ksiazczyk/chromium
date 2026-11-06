@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Web app screenshots test page
+summary: HTML test page for dPWA integration tests that injects a manifest link tag and registers a service worker.

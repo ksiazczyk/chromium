@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Web app updating test start page
+summary: Start page of the web app updating test that links the first manifest and a basic 48 pixel icon.

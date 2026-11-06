@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Site No Service Worker test page
+summary: HTML test page for a web site with a manifest but no service worker, used by the Chromium web apps integration tests.

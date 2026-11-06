@@ -1,0 +1,4 @@
+# Docerion header of manifest_icon_green_small_diff_256.json.
+type: test
+title: Web app manifest with small-diff green icons, 256 variant
+summary: Web app manifest variant for Site A that references small-diff green icons at 48, 192 and 256 pixels, omitting the 128 size.

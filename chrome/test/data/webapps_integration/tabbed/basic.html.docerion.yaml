@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Tabbed home page for integration tests
+summary: HTML start page for tabbed dPWA integration tests that injects a manifest link tag, defaulting to basic.json unless a manifest query argument is provided.

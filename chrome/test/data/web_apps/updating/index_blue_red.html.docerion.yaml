@@ -1,0 +1,4 @@
+# Docerion header of index_blue_red.html.
+type: test
+title: Blue and red icon web app updating test page
+summary: Test page linking the blue and red manifest, used to verify icon updates with small icon differences.

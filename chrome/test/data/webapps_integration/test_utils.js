@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web apps integration test utilities
+// summary: Helper functions for web app integration tests that add manifest link tags, register service workers, and update the document title on window controls overlay geometry changes.
+// ---
+
 function addManifestLinkTag(optionalCustomUrl) {
   const url = new URL(window.location.href);
   let manifestUrl = url.searchParams.get('manifest');
