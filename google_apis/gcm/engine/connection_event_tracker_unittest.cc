@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection event tracker unit test
+// summary: Unit test verifying that a successful connection attempt is recorded and written as a client event into a login request.
+// ---
+
 #include "google_apis/gcm/engine/connection_event_tracker.h"
 
 #include "google_apis/gcm/protocol/mcs.pb.h"

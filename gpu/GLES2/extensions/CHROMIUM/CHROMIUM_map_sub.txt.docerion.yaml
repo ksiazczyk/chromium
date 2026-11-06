@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_map_sub.txt.
+type: reference
+title: CHROMIUM_map_sub GL extension specification
+summary: Specifies the GL_CHROMIUM_map_sub extension for efficiently uploading buffer and texture data by mapping shared memory instead of extra copies.

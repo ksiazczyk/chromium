@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 response constants header
+// summary: Defines the OAuth2Response enum of server response constants partially matching RFC 6749, used for histogram logging.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_RESPONSE_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_RESPONSE_H_
 

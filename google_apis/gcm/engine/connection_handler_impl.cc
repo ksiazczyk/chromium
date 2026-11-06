@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection handler implementation
+// summary: Implements the MCS login handshake and packetized reading and writing of protobuf messages over socket streams.
+// ---
+
 #include "google_apis/gcm/engine/connection_handler_impl.h"
 
 #include <memory>

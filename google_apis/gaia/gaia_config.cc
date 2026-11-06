@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaConfig implementation
+// summary: Implements GaiaConfig, which loads a JSON configuration of Gaia URLs, API keys, and flags from disk or a command line switch.
+// ---
+
 #include "google_apis/gaia/gaia_config.h"
 
 #include <optional>

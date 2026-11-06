@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main entry point for Dawn performance tests
+// summary: Provides the main() that initializes the Dawn perf test environment and launches performance tests serially with an IO task executor.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/message_loop/message_pump_type.h"

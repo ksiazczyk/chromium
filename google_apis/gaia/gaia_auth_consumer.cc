@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaAuthConsumer ClientOAuthResult implementation
+// summary: Implements the ClientOAuthResult constructors and assignment operators for the GaiaAuthConsumer callback interface.
+// ---
+
 #include "google_apis/gaia/gaia_auth_consumer.h"
 
 GaiaAuthConsumer::ClientOAuthResult::ClientOAuthResult(

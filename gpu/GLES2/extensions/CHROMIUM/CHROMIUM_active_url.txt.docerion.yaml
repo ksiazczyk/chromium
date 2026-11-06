@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_active_url.txt.
+type: reference
+title: CHROMIUM_active_url extension specification
+summary: Specification of the GL_CHROMIUM_active_url extension, which lets a client tag a GL context with a URL identifying the source of its commands via SetActiveURLCHROMIUM.

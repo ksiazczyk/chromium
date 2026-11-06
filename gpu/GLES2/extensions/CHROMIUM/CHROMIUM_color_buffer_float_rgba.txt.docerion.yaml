@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_color_buffer_float_rgba.txt.
+type: reference
+title: CHROMIUM_color_buffer_float_rgba extension specification
+summary: Specification of the GL_CHROMIUM_color_buffer_float_rgba extension, which makes GL_RGBA32F renderable for floating point RGBA textures and renderbuffers on OpenGL ES 2.0.

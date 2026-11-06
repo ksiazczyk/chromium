@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2AccessTokenManager class declaration
+// summary: Declares OAuth2AccessTokenManager and its Delegate, Request, and Consumer interfaces for managing OAuth2 access token requests.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_MANAGER_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_MANAGER_H_
 

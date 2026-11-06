@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_copy_texture.txt.
+type: reference
+title: CHROMIUM_copy_texture extension specification
+summary: Specification of the GL_CHROMIUM_copy_texture extension, which adds CopyTextureCHROMIUM and CopySubTextureCHROMIUM for copying and converting textures, including BGRA and OES textures.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkin request class declaration
+// summary: Declares the CheckinRequest class for making check-in requests with the GCM infrastructure, including request info, callbacks and retry backoff handling.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_CHECKIN_REQUEST_H_
 #define GOOGLE_APIS_GCM_ENGINE_CHECKIN_REQUEST_H_
 

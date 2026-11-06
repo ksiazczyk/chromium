@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Tasks API requests
+// summary: Tests the Tasks API request classes against an embedded test server, checking request URLs, methods, and parsed responses.
+// ---
+
 #include "google_apis/tasks/tasks_api_requests.h"
 
 #include <memory>

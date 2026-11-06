@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection factory implementation unit tests
+// summary: Unit tests for ConnectionFactoryImpl covering connection attempts, endpoint fallback, backoff delays, and connection resets with stubbed networking.
+// ---
+
 #include "google_apis/gcm/engine/connection_factory_impl.h"
 
 #include <cmath>

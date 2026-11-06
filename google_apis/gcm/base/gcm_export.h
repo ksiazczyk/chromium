@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM_EXPORT macro definitions
+// summary: Defines the GCM_EXPORT macro for exporting and importing symbols in component builds across platforms.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_BASE_GCM_EXPORT_H_
 #define GOOGLE_APIS_GCM_BASE_GCM_EXPORT_H_
 

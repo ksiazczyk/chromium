@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia feature flag definitions
+// summary: Defines base::Feature flags for Gaia sign-in behavior, including a Finch killswitch for sync keys URL account indexing and transient handling of unexpected OAuth2 mint token responses.
+// ---
+
 #include "google_apis/gaia/gaia_features.h"
 
 #include "base/feature_list.h"

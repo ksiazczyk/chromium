@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music API request payload implementations
+// summary: Implements JSON serialization and enum-to-string mapping for request payloads such as playback queue preparation and playback reporting.
+// ---
+
 #include "google_apis/youtube_music/youtube_music_api_request_types.h"
 
 #include <string>

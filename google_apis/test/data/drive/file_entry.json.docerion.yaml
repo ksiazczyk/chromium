@@ -1,0 +1,4 @@
+# Docerion header of file_entry.json.
+type: data
+title: Sample Drive API file entry
+summary: Test fixture JSON of a Drive API file resource with download URL, checksum, size and permission details.

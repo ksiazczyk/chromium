@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OAuth2AccessTokenManager
+// summary: Unit tests for OAuth2AccessTokenManager using a fake delegate and test URL loader factory to exercise token fetching, invalidation, and error handling.
+// ---
+
 #include "google_apis/gaia/oauth2_access_token_manager.h"
 
 #include <memory>

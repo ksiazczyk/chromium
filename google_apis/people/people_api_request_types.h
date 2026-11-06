@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: People API contact request type definitions
+// summary: Declares EmailAddress, Name, PhoneNumber and Contact structs used to build payloads for People API mutation endpoints, with predefined type constants.
+// ---
+
 #ifndef GOOGLE_APIS_PEOPLE_PEOPLE_API_REQUEST_TYPES_H_
 #define GOOGLE_APIS_PEOPLE_PEOPLE_API_REQUEST_TYPES_H_
 

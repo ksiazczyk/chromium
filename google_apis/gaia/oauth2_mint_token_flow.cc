@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 mint token flow implementation
+// summary: Implements the OAuth2 flow that mints access tokens for clients and scopes, handling responses, errors, and token binding challenges.
+// ---
+
 #include "google_apis/gaia/oauth2_mint_token_flow.h"
 
 #include <stddef.h>

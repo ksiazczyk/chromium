@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 mint access token fetcher adapter header
+// summary: Declares OAuth2MintAccessTokenFetcherAdapter, which adapts OAuth2MintTokenFlow to the OAuth2AccessTokenFetcher interface.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_MINT_ACCESS_TOKEN_FETCHER_ADAPTER_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_MINT_ACCESS_TOKEN_FETCHER_ADAPTER_H_
 

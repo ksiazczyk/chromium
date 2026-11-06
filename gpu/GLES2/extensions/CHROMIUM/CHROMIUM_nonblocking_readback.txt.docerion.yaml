@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_nonblocking_readback.txt.
+type: reference
+title: CHROMIUM_nonblocking_readback GL extension specification
+summary: Specifies the GL_CHROMIUM_nonblocking_readback extension for non-blocking buffer readback using shadow copies and the READBACK_SHADOW_COPIES_UPDATED_CHROMIUM query.

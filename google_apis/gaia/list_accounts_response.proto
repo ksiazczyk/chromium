@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListAccountsResponse protobuf definition
+// summary: Defines protobuf messages projecting Gaia's /ListAccounts response into the account fields Chrome uses, such as display email, Gaia ID and session validity.
+// ---
+
 syntax = "proto2";
 
 package gaia;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaAuthFetcher class declaration
+// summary: Declares GaiaAuthFetcher for authenticating users against the Google Accounts APIs, along with GaiaSource and multilogin cookie binding parameters.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_AUTH_FETCHER_H_
 #define GOOGLE_APIS_GAIA_GAIA_AUTH_FETCHER_H_
 

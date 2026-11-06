@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeOAuth2TokenResponse header
+// summary: Declares FakeOAuth2TokenResponse, a builder that lets tests fake successful or erroneous OAuth2 token responses without knowing the JSON format.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_FAKE_OAUTH2_TOKEN_RESPONSE_H_
 #define GOOGLE_APIS_GAIA_FAKE_OAUTH2_TOKEN_RESPONSE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleServiceAuthError
+// summary: Java class mirroring the native GoogleServiceAuthError, supporting several auth error states plus device management errors and a native-backed transient-error check.
+// ---
+
 package org.chromium.google_apis.gaia;
 
 import static org.chromium.build.NullUtil.assertNonNull;

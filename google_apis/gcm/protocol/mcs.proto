@@ -5,6 +5,12 @@
 // MCS protocol for communication between Chrome client and Mobile Connection
 // Server .
 
+// ---docerion
+// type: source
+// title: MCS client-server protocol protobuf definitions
+// summary: Protobuf definitions for the MCS protocol between the Chrome client and the Mobile Connection Server, including heartbeats, login messages, and client connection events.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

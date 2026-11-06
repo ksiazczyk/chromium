@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia feature flag declarations
+// summary: Declares the gaia::features feature flags that control account-index-based sync keys URLs and IssueToken transient failure behavior, exported from the GOOGLE_APIS component.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_FEATURES_H_
 #define GOOGLE_APIS_GAIA_GAIA_FEATURES_H_
 

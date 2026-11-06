@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Socket stream implementation
+// summary: Implements protobuf zero-copy input and output streams that read and write through mojo data pipes for the GCM socket connection.
+// ---
+
 #include "google_apis/gcm/base/socket_stream.h"
 
 #include <algorithm>

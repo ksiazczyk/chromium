@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account mapping implementation
+// summary: Implements serialization and parsing of GCM account mappings, converting email, mapping status, timestamp and last message ID to and from a delimited string.
+// ---
+
 #include "google_apis/gcm/engine/account_mapping.h"
 
 #include <stdint.h>

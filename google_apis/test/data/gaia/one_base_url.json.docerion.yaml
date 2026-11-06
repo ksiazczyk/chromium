@@ -1,0 +1,4 @@
+# Docerion header of one_base_url.json.
+type: test
+title: Test fixture with a single base GAIA URL
+summary: Test fixture JSON defining only the gaia_url base URL override.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM unregistration request implementation
+// summary: Implements the UnregistrationRequest that revokes GCM registrations or deletes InstanceID tokens, including response error parsing and retry logic.
+// ---
+
 #include "google_apis/gcm/engine/unregistration_request.h"
 
 #include <optional>

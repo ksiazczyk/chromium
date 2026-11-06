@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Tasks API request payload serialization
+// summary: Verifies that TaskRequestPayload converts to the expected JSON for various title and status combinations.
+// ---
+
 #include "google_apis/tasks/tasks_api_request_types.h"
 
 #include <string>

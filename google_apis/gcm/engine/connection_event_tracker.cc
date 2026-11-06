@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection event tracker implementation
+// summary: Implements tracking of GCM connection attempts, recording successful and failed connection events to be reported in subsequent login requests.
+// ---
+
 #include "google_apis/gcm/engine/connection_event_tracker.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceManagementErrorDetails abstract base class
+// summary: Declares the abstract interface for platform-specific device management error details used by GoogleServiceAuthError.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_DEVICE_MANAGEMENT_ERROR_DETAILS_H_
 #define GOOGLE_APIS_GAIA_DEVICE_MANAGEMENT_ERROR_DETAILS_H_
 

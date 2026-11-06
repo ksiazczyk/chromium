@@ -1,0 +1,4 @@
+# Docerion header of EGL_CHROMIUM_sync_control.txt.
+type: reference
+title: EGL_CHROMIUM_sync_control
+summary: Draft EGL extension specification based on GLX_OML_sync_control that exposes UST/MSC/SBC counters via eglGetSyncValuesCHROMIUM to predict vertical retrace timing.

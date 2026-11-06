@@ -1,0 +1,4 @@
+# Docerion header of event_statuses.json.
+type: test
+title: Event statuses test fixture
+summary: Sample events response with confirmed, cancelled, tentative and an invalid status value, used to test event status parsing.

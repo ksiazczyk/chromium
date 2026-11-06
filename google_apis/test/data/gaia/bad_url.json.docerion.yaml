@@ -1,0 +1,4 @@
+# Docerion header of bad_url.json.
+type: test
+title: Test fixture with an invalid GAIA URL
+summary: Test fixture JSON containing an invalid google_url value to exercise error handling for malformed URLs.

@@ -1,0 +1,4 @@
+# Docerion header of error.json.
+type: data
+title: Sample Drive API error response
+summary: Test fixture JSON of a Drive API error response reporting a 412 conditionNotMet precondition failure.

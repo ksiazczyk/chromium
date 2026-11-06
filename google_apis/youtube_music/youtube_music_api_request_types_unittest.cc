@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for YouTube Music API request types
+// summary: Tests ParseErrorJson extraction of localized error messages from API error responses, including empty and empty-dictionary inputs.
+// ---
+
 #include "google_apis/youtube_music/youtube_music_api_request_types.h"
 
 #include <string>

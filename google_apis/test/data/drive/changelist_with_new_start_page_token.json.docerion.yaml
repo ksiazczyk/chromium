@@ -1,0 +1,4 @@
+# Docerion header of changelist_with_new_start_page_token.json.
+type: data
+title: Sample change list response with new start page token
+summary: Test fixture JSON of a Drive API change list that carries a newStartPageToken for incremental change fetching.

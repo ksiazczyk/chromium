@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia OAuth client interface
+// summary: Declares GaiaOAuthClient and its delegate interface for obtaining and refreshing OAuth2 tokens and retrieving user and token information, one request at a time.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_OAUTH_CLIENT_H_
 #define GOOGLE_APIS_GAIA_GAIA_OAUTH_CLIENT_H_
 

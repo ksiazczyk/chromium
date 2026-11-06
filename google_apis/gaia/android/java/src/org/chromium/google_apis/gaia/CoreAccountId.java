@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreAccountId
+// summary: Java class representing an account ID, which on Android is always a Gaia ID, with JNI-called constructor and getter for its native CoreAccountId counterpart.
+// ---
+
 package org.chromium.google_apis.gaia;
 
 import org.jni_zero.CalledByNative;

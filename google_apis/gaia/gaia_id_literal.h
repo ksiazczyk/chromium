@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaIdLiteral test helper
+// summary: Defines a constexpr, test-only wrapper holding a string_view Gaia ID that implicitly converts to GaiaId for contexts where static GaiaId instances are disallowed.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_ID_LITERAL_H_
 #define GOOGLE_APIS_GAIA_GAIA_ID_LITERAL_H_
 

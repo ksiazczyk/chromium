@@ -5,6 +5,12 @@
 // A standalone tool for testing MCS connections and the MCS client on their
 // own.
 
+// ---docerion
+// type: source
+// title: MCS probe standalone testing tool
+// summary: Standalone C++ utility that initializes a GCM MCS client against mtalk.google.com and prints events, for testing MCS connections and the client in isolation.
+// ---
+
 #include <stdint.h>
 
 #include <cstddef>

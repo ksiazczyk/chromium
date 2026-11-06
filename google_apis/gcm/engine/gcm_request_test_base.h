@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM request test base class
+// summary: Declares the base class for testing GCM requests, containing common logic to set up a task runner and complete requests with retries.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_GCM_REQUEST_TEST_BASE_H_
 #define GOOGLE_APIS_GCM_ENGINE_GCM_REQUEST_TEST_BASE_H_
 

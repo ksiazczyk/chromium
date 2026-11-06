@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for the gpu directory
+# summary: Top-level presubmit script that runs the Ruff check on changed Python files via depot_tools canned checks.
+# ---
+
 """Top-level presubmit script for gpu.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

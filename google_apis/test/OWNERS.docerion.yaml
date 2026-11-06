@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the google_apis test directory
+summary: Delegates per-file ownership of embedded_setup_chromeos.html to the owners listed in ash/login/LOGIN_LOCK_OWNERS.

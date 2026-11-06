@@ -1,0 +1,4 @@
+# Docerion header of events.json.
+type: test
+title: Calendar events test fixture
+summary: Sample events response with multiple calendar events including attendees, conference data and locations, used as test data for calendar event parsing.

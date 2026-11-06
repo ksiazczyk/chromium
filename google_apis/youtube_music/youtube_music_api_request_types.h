@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube Music API request payload declarations
+// summary: Declares request payload structs, the SignedRequest class for client-certificate header signing, and ApiError handling helpers.
+// ---
+
 #ifndef GOOGLE_APIS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_API_REQUEST_TYPES_H_
 #define GOOGLE_APIS_YOUTUBE_MUSIC_YOUTUBE_MUSIC_API_REQUEST_TYPES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of task.json.
+type: test
+title: Sample completed Google Tasks task fixture
+summary: Test fixture JSON representing a single completed Google Tasks task with id and title for API tests.

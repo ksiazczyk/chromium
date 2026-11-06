@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket stream unit tests
+// summary: Tests SocketInputStream and SocketOutputStream behavior against mock sockets and mojo data pipes, including reads, writes, and refresh handling.
+// ---
+
 #include "google_apis/gcm/base/socket_stream.h"
 
 #include <stdint.h>

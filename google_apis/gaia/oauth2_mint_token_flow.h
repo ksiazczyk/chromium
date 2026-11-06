@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 mint token flow header
+// summary: Declares OAuth2MintTokenFlow with its modes and parameters for minting OAuth2 access tokens from a master token.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_MINT_TOKEN_FLOW_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_MINT_TOKEN_FLOW_H_
 

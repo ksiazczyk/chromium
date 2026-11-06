@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 access token consumer interface
+// summary: Declares the callback interface through which OAuth2AccessTokenFetcher delivers token results, including the TokenResponse struct and its builder.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_CONSUMER_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_CONSUMER_H_
 

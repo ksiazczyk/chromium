@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance ID get token request handler implementation
+// summary: Implements the InstanceID token request handler that builds the registration request body and reports request status and network error metrics to UMA.
+// ---
+
 #include "google_apis/gcm/engine/instance_id_get_token_request_handler.h"
 
 #include "base/metrics/histogram_functions.h"

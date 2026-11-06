@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: People API Person response type definition
+// summary: Declares the Person struct, a thin wrapper around People API person resources that currently carries the server-assigned resource name.
+// ---
+
 #ifndef GOOGLE_APIS_PEOPLE_PEOPLE_API_RESPONSE_TYPES_H_
 #define GOOGLE_APIS_PEOPLE_PEOPLE_API_RESPONSE_TYPES_H_
 

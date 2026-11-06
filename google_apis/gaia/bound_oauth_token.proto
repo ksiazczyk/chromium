@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound OAuth token protobuf definitions
+// summary: Defines protobuf messages for device-bound OAuth tokens and the MultiOAuth authorization header content.
+// ---
+
 syntax = "proto2";
 
 package gaia;

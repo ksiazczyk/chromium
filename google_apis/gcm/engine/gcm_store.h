@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM persistent store interface
+// summary: Defines the GCMStore interface handling persistence for RMQ messages, registrations, device credentials and checkin information.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_GCM_STORE_H_
 #define GOOGLE_APIS_GCM_ENGINE_GCM_STORE_H_
 

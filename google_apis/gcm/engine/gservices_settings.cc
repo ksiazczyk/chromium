@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: G-services settings implementation
+// summary: Implements parsing, validation and defaults for G-services settings such as checkin interval, checkin URL and MCS endpoints.
+// ---
+
 #include "google_apis/gcm/engine/gservices_settings.h"
 
 #include <stdint.h>

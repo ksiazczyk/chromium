@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake connection factory mocking GCM connections
+// summary: Declares FakeConnectionFactory, a ConnectionFactory that replaces real connections with a fake connection handler for GCM tests.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_FAKE_CONNECTION_FACTORY_H_
 #define GOOGLE_APIS_GCM_ENGINE_FAKE_CONNECTION_FACTORY_H_
 

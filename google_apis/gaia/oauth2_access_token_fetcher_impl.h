@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 access token fetcher impl declaration
+// summary: Declares the URL-loader-based fetcher exchanging refresh tokens or auth codes for access tokens, with hooks for URLs, traffic annotations and UMA recording.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_FETCHER_IMPL_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_FETCHER_IMPL_H_
 

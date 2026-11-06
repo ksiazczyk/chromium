@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOAuth2TokenResponse unit tests
+// summary: Unit tests verifying that FakeOAuth2TokenResponse produces correct success, OAuth2 error and network error responses for Gaia token fetchers.
+// ---
+
 #include "google_apis/gaia/fake_oauth2_token_response.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaId implementation with Android JNI support
+// summary: Implements the GaiaId class core operations and provides conversion helpers between C++ and Java GaiaId objects on Android.
+// ---
+
 #include "google_apis/gaia/gaia_id.h"
 
 #include <ostream>

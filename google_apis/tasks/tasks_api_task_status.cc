@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task status string and enum conversion
+// summary: Implements conversion between the TaskStatus enum and the string values used by the Google Tasks API, mapping unrecognized statuses to kUnknown.
+// ---
+
 #include "google_apis/tasks/tasks_api_task_status.h"
 
 #include <string>

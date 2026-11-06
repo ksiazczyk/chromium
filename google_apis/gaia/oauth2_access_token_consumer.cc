@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 access token consumer implementation
+// summary: Implements the TokenResponse structure with its builder and the default success and failure callbacks for OAuth2 access token consumers.
+// ---
+
 #include "google_apis/gaia/oauth2_access_token_consumer.h"
 
 OAuth2AccessTokenConsumer::TokenResponse::TokenResponse() = default;

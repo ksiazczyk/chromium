@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection factory interface for GCM
+// summary: Interface for a factory that creates a ConnectionHandler, maintains the MCS connection, and enforces backoff policies when retrying connections.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_CONNECTION_FACTORY_H_
 #define GOOGLE_APIS_GCM_ENGINE_CONNECTION_FACTORY_H_
 

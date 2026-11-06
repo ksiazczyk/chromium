@@ -1,0 +1,4 @@
+# Docerion header of filelist.json.
+type: data
+title: Sample Drive API file list response
+summary: Test fixture JSON of a Drive API file list with several file entries, team drive IDs and capability flags.

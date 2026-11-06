@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MCS client unit tests
+// summary: Unit tests for the MCS client covering message batching, stream acks, TTL expiry, queue limits and reliable delivery using fake connection, store and recorder components.
+// ---
+
 #include "google_apis/gcm/engine/mcs_client.h"
 
 #include <stddef.h>

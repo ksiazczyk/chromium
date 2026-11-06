@@ -4,6 +4,12 @@
 //
 // Google Authentication service constants.
 
+// ---docerion
+// type: source
+// title: Gaia constants for OAuth2 scopes and authentication
+// summary: Declares GaiaConstants values such as Gaia source names, OAuth2 scopes, ClientOAuth request keys, the sign-in cookie name, and refresh token binding sentinels.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_CONSTANTS_H_
 #define GOOGLE_APIS_GAIA_GAIA_CONSTANTS_H_
 

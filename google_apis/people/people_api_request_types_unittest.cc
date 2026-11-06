@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for People API request type serialization
+// summary: Verifies that EmailAddress, Name, PhoneNumber and Contact structs serialize to the expected JSON dictionaries, including empty and multi-field cases.
+// ---
+
 #include "google_apis/people/people_api_request_types.h"
 
 #include <utility>

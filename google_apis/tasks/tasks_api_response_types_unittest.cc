@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Tasks API response types
+// summary: Verifies that task lists and tasks are correctly parsed from Google Tasks API JSON responses, including pagination tokens and rejection of invalid input.
+// ---
+
 #include "google_apis/tasks/tasks_api_response_types.h"
 
 #include <memory>

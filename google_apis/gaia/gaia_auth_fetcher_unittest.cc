@@ -4,6 +4,13 @@
 //
 // A complete set of unit tests for GaiaAuthFetcher.
 // Originally ported from GoogleAuthenticator tests.
+
+// ---docerion
+// type: test
+// title: Unit tests for GaiaAuthFetcher
+// summary: Contains the unit test suite for GaiaAuthFetcher, covering token requests, error response parsing, and multilogin behavior using a test URL loader factory.
+// ---
+
 #include "google_apis/gaia/gaia_auth_fetcher.h"
 
 #include <string>

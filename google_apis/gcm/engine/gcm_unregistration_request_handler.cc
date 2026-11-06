@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM unregistration request handler implementation
+// summary: Builds the unregistration request body and parses the server response to verify an app's registration was deleted.
+// ---
+
 #include "google_apis/gcm/engine/gcm_unregistration_request_handler.h"
 
 #include "base/logging.h"

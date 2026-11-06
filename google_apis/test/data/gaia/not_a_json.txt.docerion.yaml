@@ -1,0 +1,4 @@
+# Docerion header of not_a_json.txt.
+type: test
+title: Non-JSON text file for parser error tests
+summary: Plain text file with non-JSON content used to test handling of invalid test data files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeGaia fake GAIA server for browser tests
+// summary: Declares FakeGaia, a test helper that implements a fake GAIA service for browser tests and can be registered as an EmbeddedTestServer request handler.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_FAKE_GAIA_H_
 #define GOOGLE_APIS_GAIA_FAKE_GAIA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MCS message unit tests
+// summary: Unit tests for the MCSMessage class, covering invalid messages, tag inference, explicit tag initialization, and protobuf ownership transfer.
+// ---
+
 #include "google_apis/gcm/base/mcs_message.h"
 
 #include <stdint.h>

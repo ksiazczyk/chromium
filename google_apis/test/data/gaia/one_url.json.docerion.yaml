@@ -1,0 +1,4 @@
+# Docerion header of one_url.json.
+type: test
+title: Test fixture with a single URL override
+summary: Test fixture JSON overriding only the add_account_url endpoint with an example address.

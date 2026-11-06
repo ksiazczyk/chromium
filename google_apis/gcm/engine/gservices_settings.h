@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: G-services settings declaration
+// summary: Declares GServicesSettings, which extracts G-services settings from checkin responses and exposes endpoint URLs and intervals.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_ENGINE_GSERVICES_SETTINGS_H_
 #define GOOGLE_APIS_GCM_ENGINE_GSERVICES_SETTINGS_H_
 

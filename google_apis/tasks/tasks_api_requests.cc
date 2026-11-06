@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tasks API request implementations
+// summary: Implements Tasks API requests for listing task lists, listing tasks, and updating tasks, including response parsing and error handling.
+// ---
+
 #include "google_apis/tasks/tasks_api_requests.h"
 
 #include <memory>

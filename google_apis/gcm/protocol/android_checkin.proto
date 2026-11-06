@@ -5,6 +5,12 @@
 // Logging information for Android "checkin" events (automatic, periodic
 // requests made by Android devices to the server).
 
+// ---docerion
+// type: source
+// title: Android checkin protobuf definitions
+// summary: Protobuf definitions for Android checkin events, covering Chrome build characteristics, device checkin data such as cell and SIM operators, and device type enums.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

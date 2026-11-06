@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth multilogin result parsing implementation
+// summary: Implements parsing of OAuth multilogin responses, including XSSI stripping, status parsing, cookies, failed accounts, and device bound session data with metrics.
+// ---
+
 #include "google_apis/gaia/oauth_multilogin_result.h"
 
 #include <algorithm>

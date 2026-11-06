@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MCS client implementation
+// summary: Implements the MCS client that manages all communication with the MCS endpoint, including reliable message sending, stream acks, collapse keys and send queue limits.
+// ---
+
 #include "google_apis/gcm/engine/mcs_client.h"
 
 #include <stddef.h>

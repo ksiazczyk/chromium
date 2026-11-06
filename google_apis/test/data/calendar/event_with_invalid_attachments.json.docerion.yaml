@@ -1,0 +1,4 @@
+# Docerion header of event_with_invalid_attachments.json.
+type: test
+title: Event with invalid attachments test fixture
+summary: Sample events response with a meeting whose attachments are invalid, used to test attachment parsing error handling.

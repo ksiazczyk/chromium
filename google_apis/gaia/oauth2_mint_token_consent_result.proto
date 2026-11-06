@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 mint token consent result protobuf
+// summary: Defines the OAuth2MintTokenConsentResult message passed through the browser for chrome.identity remote consent flows.
+// ---
+
 syntax = "proto2";
 
 package gaia;

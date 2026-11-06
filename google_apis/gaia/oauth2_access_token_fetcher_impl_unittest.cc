@@ -4,6 +4,12 @@
 //
 // A complete set of unit tests for OAuth2AccessTokenFetcherImpl.
 
+// ---docerion
+// type: test
+// title: Unit tests for OAuth2AccessTokenFetcherImpl
+// summary: Unit tests covering OAuth2AccessTokenFetcherImpl's token exchange, including valid, error, and RAPT-related token responses via a test URL loader factory.
+// ---
+
 #include "google_apis/gaia/oauth2_access_token_fetcher_impl.h"
 
 #include <memory>

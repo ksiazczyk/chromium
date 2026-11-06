@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MCS message wrapper implementation
+// summary: Implements MCSMessage, which stores an MCS protobuf with its tag and size in an immutable, thread-safe form.
+// ---
+
 #include "google_apis/gcm/base/mcs_message.h"
 
 #include <utility>

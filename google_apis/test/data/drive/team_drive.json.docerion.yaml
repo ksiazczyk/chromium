@@ -1,0 +1,4 @@
+# Docerion header of team_drive.json.
+type: test
+title: Team drive JSON test fixture
+summary: Sample drive#teamDrive JSON response with a test team drive and its capability flags, used as test data for Google Drive API tests.

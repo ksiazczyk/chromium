@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the People API create contact request
+// summary: Tests CreateContactRequest against an embedded test server with overridden Gaia URLs, covering successful contact creation and error responses.
+// ---
+
 #include "google_apis/people/people_api_requests.h"
 
 #include <memory>

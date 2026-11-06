@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the GCM component
+summary: Defines the gcm component sources, its protobuf protocol library, a test_support library, the mcs_probe tool, and gcm_unit_tests targets.

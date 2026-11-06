@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaConfig class declaration
+// summary: Declares GaiaConfig, a singleton providing getters for Gaia URLs, Google API keys, and feature flags parsed from a JSON configuration.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GAIA_CONFIG_H_
 #define GOOGLE_APIS_GAIA_GAIA_CONFIG_H_
 

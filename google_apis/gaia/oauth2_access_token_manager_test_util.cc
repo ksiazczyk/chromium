@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for OAuth2 access token manager tests
+// summary: Provides token response builders and a testing consumer used by OAuth2 access token manager unit tests.
+// ---
+
 #include "google_apis/gaia/oauth2_access_token_manager_test_util.h"
 
 #include "base/strings/string_util.h"

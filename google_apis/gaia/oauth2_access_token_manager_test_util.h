@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for OAuth2 access token manager test utilities
+// summary: Declares token response helpers and TestingOAuth2AccessTokenManagerConsumer for use in access token manager tests.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_MANAGER_TEST_UTIL_H_
 #define GOOGLE_APIS_GAIA_OAUTH2_ACCESS_TOKEN_MANAGER_TEST_UTIL_H_
 

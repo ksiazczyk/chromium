@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for the GCM directory
+summary: Points to the gcm_driver OWNERS file to designate the code owners for google_apis/gcm.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM stats recorder class declaration
+// summary: Declares FakeGCMStatsRecorder, a no-op fake version of GCMStatsRecorder that overrides every recording method to do nothing.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_MONITORING_FAKE_GCM_STATS_RECORDER_H_
 #define GOOGLE_APIS_GCM_MONITORING_FAKE_GCM_STATS_RECORDER_H_
 

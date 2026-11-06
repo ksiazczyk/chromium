@@ -1,0 +1,4 @@
+# Docerion header of text.txt.
+type: test
+title: Sample text file fixture
+summary: Sample text file with a short sentence about liking chocolate and chips, used as test data in the Drive API test suite.

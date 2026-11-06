@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_lose_context.txt.
+type: reference
+title: CHROMIUM_lose_context GL extension specification
+summary: Specifies the GL_CHROMIUM_lose_context extension that lets applications force a lost context event to debug context loss handling.

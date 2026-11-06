@@ -1,0 +1,4 @@
+# Docerion header of about.json.
+type: data
+title: Sample Drive API about response
+summary: Test fixture JSON of a Drive API about resource with test user quota, permission and import/export format information.

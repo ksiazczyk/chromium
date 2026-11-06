@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tasks API request payload types
+// summary: Declares the TaskRequestPayload struct that forms the request body for API requests creating or modifying a task.
+// ---
+
 #ifndef GOOGLE_APIS_TASKS_TASKS_API_REQUEST_TYPES_H_
 #define GOOGLE_APIS_TASKS_TASKS_API_REQUEST_TYPES_H_
 

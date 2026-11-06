@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreAccountId class declaration
+// summary: Declares CoreAccountId, the account identifier for GAIA, warning against using it as a persistent identifier.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_CORE_ACCOUNT_ID_H_
 #define GOOGLE_APIS_GAIA_CORE_ACCOUNT_ID_H_
 

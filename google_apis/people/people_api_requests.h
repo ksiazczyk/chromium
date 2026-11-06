@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the People API create contact request
+// summary: Declares CreateContactRequest, a URL fetch request that creates a contact via the People API and returns the resulting Person or an API error code.
+// ---
+
 #ifndef GOOGLE_APIS_PEOPLE_PEOPLE_API_REQUESTS_H_
 #define GOOGLE_APIS_PEOPLE_PEOPLE_API_REQUESTS_H_
 

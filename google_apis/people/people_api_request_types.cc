@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization of People API contact request types
+// summary: Implements ToDict conversion of the EmailAddress, Name, PhoneNumber and Contact structs into JSON dictionaries for People API requests.
+// ---
+
 #include "google_apis/people/people_api_request_types.h"
 
 #include <utility>

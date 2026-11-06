@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 access token fetcher implementation
+// summary: Implements OAuth2 token requests over the network, building request bodies for refresh tokens or auth codes and mapping OAuth2 error strings to responses.
+// ---
+
 #include "google_apis/gaia/oauth2_access_token_fetcher_impl.h"
 
 #include <optional>

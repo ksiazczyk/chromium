@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tint unit tests entry point
+// summary: Entry point that initializes the command line and GoogleMock, then runs Tint unit tests serially through the base test launcher.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/bind.h"
 #include "base/message_loop/message_pump_type.h"

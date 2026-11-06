@@ -8,6 +8,12 @@
 // Accounts (e.g expired credentials).  It may contain additional data such as
 // captcha or OTP challenges.
 
+// ---docerion
+// type: source
+// title: GoogleServiceAuthError interface
+// summary: Declares the GoogleServiceAuthError class with state and reason enumerations for errors from Google account authentication, including captcha and OTP challenge data.
+// ---
+
 #ifndef GOOGLE_APIS_GAIA_GOOGLE_SERVICE_AUTH_ERROR_H_
 #define GOOGLE_APIS_GAIA_GOOGLE_SERVICE_AUTH_ERROR_H_
 

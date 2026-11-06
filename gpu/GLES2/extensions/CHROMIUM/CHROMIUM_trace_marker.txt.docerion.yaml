@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_trace_marker.txt.
+type: reference
+title: CHROMIUM_trace_marker
+summary: Specification for the GL_CHROMIUM_trace_marker extension, defining TraceBeginCHROMIUM and TraceEndCHROMIUM to mark Chromium-style GPU traces with category and trace names.

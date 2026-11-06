@@ -1,0 +1,4 @@
+# Docerion header of invalid_events.json.
+type: test
+title: Invalid events test fixture
+summary: Malformed events response with array values for kind and timeZone, used to test error handling for invalid calendar API responses.

@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_gpu_fence.txt.
+type: reference
+title: CHROMIUM_gpu_fence GL extension specification
+summary: Specifies the GL_CHROMIUM_gpu_fence extension for cross-process GL context synchronization using duplicable GPU fence objects and server waits.

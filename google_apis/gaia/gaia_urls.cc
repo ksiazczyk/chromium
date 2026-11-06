@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GaiaUrls singleton implementation
+// summary: Implements the GaiaUrls singleton that builds and exposes all GAIA and Google API endpoint URLs from defaults, config files or command-line switches.
+// ---
+
 #include "google_apis/gaia/gaia_urls.h"
 
 #include <string_view>

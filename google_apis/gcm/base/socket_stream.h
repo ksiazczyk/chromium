@@ -5,6 +5,12 @@
 // Protobuf ZeroCopy[Input/Output]Stream implementations capable of using
 // mojo data pipes. Built to work with Protobuf CodedStreams.
 
+// ---docerion
+// type: source
+// title: Socket stream declarations
+// summary: Declares ZeroCopyInputStream and ZeroCopyOutputStream implementations over mojo data pipes, with documented usage, states, and error handling.
+// ---
+
 #ifndef GOOGLE_APIS_GCM_BASE_SOCKET_STREAM_H_
 #define GOOGLE_APIS_GCM_BASE_SOCKET_STREAM_H_
 

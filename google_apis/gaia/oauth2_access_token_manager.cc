@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2AccessTokenManager implementation
+// summary: Implements OAuth2AccessTokenManager, which fetches and manages OAuth2 access token requests with retries, request parameters, and consumer callbacks.
+// ---
+
 #include "google_apis/gaia/oauth2_access_token_manager.h"
 
 #include <memory>

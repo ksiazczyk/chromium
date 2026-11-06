@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM command-line switch constants
+// summary: Defines command-line switch names for overriding the GCM checkin URL, MCS endpoint and registration URL.
+// ---
+
 #include "google_apis/gcm/engine/gservices_switches.h"
 
 namespace switches {

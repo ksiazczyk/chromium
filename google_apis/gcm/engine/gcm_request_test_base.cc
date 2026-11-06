@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM request test base implementation
+// summary: Implements shared test setup for GCM requests, including a test URL loader factory, a default backoff policy and retry completion helpers.
+// ---
+
 #include "google_apis/gcm/engine/gcm_request_test_base.h"
 
 #include <cmath>

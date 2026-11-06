@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tasks API request class declarations
+// summary: Declares request classes for fetching the user's task lists and tasks and for partially updating a task through the Google Tasks API.
+// ---
+
 #ifndef GOOGLE_APIS_TASKS_TASKS_API_REQUESTS_H_
 #define GOOGLE_APIS_TASKS_TASKS_API_REQUESTS_H_
 

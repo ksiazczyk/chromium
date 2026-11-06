@@ -1,0 +1,4 @@
+# Docerion header of CHROMIUM_ordering_barrier.txt.
+type: reference
+title: CHROMIUM_ordering_barrier GL extension specification
+summary: Specifies the GL_CHROMIUM_ordering_barrier extension for ordering commands across contexts in a scheduling group via OrderingBarrierCHROMIUM and ShallowFlushCHROMIUM.
