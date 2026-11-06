@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox submit button template
+// summary: Lit HTML template that renders the composebox submit button container, energy layer, overlay, and icon button.
+// ---
+
 import './icons.html.js';
 
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

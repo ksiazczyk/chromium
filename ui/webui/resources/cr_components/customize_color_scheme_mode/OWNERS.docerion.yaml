@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the component
+summary: OWNERS file inheriting the new tab page owners and requiring security owners for mojom file changes.

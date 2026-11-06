@@ -1,0 +1,4 @@
+# Docerion header of customize_color_scheme_mode.mojom.
+type: source
+title: Mojo interface for color scheme mode
+summary: Mojom file defining the color scheme mode enum and the browser-side and WebUI-side handler interfaces for exchanging the mode.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools frontend implementation for the webui examples browser
+// summary: Implements the DevToolsFrontend class, attaching an agent host client that relays DevTools protocol messages between the frontend page and the inspected web contents.
+// ---
+
 #include "ui/webui/examples/browser/devtools/devtools_frontend.h"
 
 #include <map>

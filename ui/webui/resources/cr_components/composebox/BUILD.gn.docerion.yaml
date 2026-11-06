@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox WebUI build targets
+summary: GN build file defining the Mojo bindings and WebUI build targets that compile the composebox TypeScript, CSS and generated Mojo files.

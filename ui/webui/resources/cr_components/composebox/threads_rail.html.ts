@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Threads rail HTML template
+// summary: Lit HTML template for the threads rail element with a button that opens AI Mode thread history.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {type ThreadsRailElement} from './threads_rail.js';

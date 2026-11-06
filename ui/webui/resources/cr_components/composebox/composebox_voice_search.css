@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Composebox voice search styles
+summary: Lit CSS styles for the voice search UI, covering container layout, transcript input, error display, and close, stop, and submit buttons.
+*/
+
 /* #css_wrapper_metadata_start
  * #type=style-lit
  * #import=//resources/cr_elements/cr_icons_lit.css.js

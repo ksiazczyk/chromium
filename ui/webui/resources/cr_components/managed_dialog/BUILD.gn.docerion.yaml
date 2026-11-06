@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the managed_dialog component
+summary: GN build definition that compiles the managed dialog TypeScript and CSS into a WebUI resource with generated GRD output.

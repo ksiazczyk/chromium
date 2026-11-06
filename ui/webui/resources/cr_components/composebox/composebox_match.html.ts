@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox match HTML template
+// summary: Lit template for an autocomplete match, rendering the image, icon, primary and secondary text, and an optional remove button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ComposeboxMatchElement} from './composebox_match.js';

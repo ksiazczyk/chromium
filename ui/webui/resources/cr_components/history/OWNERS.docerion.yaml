@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for history WebUI components
+summary: Lists the code owners for the history WebUI components and requires IPC security owner review for changes to mojom files.

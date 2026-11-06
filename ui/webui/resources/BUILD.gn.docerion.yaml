@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebUI resources build file
+summary: GN build file that generates the webui resources GRD bundle and aggregates resource packs from cr_components, cr_elements, css, images, js, mojo, and third-party libraries.

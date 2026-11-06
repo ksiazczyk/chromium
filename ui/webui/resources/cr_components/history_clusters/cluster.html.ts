@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the history cluster element
+// summary: Lit HTML template rendering a cluster's label, image, visits, related searches, and action menu.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ClusterElement} from './cluster.js';

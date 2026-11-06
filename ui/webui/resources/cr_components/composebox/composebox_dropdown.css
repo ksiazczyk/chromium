@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Composebox dropdown styles
+summary: Styles for the composebox dropdown covering vertical and grid match layouts, headers, gaps and scrollbar appearance.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

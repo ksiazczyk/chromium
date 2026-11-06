@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page favicon custom element
+// summary: Custom element that displays a page favicon or representative image for a URL in history clusters, fetching images via the page image service.
+// ---
+
 import '//resources/cr_elements/cr_auto_img/cr_auto_img.js';
 
 import {PageImageServiceBrowserProxy} from '//resources/cr_components/page_image_service/browser_proxy.js';

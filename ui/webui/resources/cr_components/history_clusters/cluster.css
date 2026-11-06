@@ -11,6 +11,12 @@
  * #include=history-clusters-shared-style cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the history cluster element
+summary: Lit CSS defining layout, side panel variants, and card styling for the history-cluster element.
+*/
+
   :host {
     --indentation: 52px;
     --search-query-margin: 10px;

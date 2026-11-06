@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History embeddings styles
+summary: Lit styles for the history embeddings card, results, answer section, loading states, and side panel variants.
+*/
+
 :host {
   display: block;
 }

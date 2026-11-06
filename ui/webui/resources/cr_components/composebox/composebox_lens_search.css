@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Composebox Lens search styles
+summary: Lit CSS styles for the Lens search entry point, covering the icon-only button and pill variants with focus and hover states.
+*/
+
 /* Styling for the icon-only button version */
 #lensIcon {
   --cr-icon-button-fill-color: var(--color-composebox-font-light);

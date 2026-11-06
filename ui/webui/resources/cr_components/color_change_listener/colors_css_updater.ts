@@ -7,6 +7,12 @@
  * colors CSS stylesheet when a ColorProvider change in the browser is detected.
  */
 
+// ---docerion
+// type: source
+// title: ColorChangeUpdater that refreshes the colors.css stylesheet
+// summary: Implements ColorChangeUpdater, which listens for ColorProvider changes and refreshes the colors.css stylesheet in the document or a shadow root while avoiding flicker.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {BrowserProxy} from './browser_proxy.js';

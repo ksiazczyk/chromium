@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Color scheme mode component styles
+summary: CSS that assigns light, dark and system mode icons and switches to rounded icon variants when webui-rounded-icons is set.
+*/
+
 #lightMode {
   --cr-icon-image: url(chrome://resources/cr_components/customize_color_scheme_mode/light_mode_old.svg);
 }

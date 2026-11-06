@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App management include dependency rules
+summary: Restricts includes for the app management Mojom traits files to the App Service public headers.

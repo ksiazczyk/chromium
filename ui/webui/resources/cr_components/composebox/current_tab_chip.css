@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Current tab chip styles
+summary: Styles the current tab chip button in the composebox, covering its pill shape, colors, forced colors mode, and virtual focus outline.
+*/
+
 #currentTabButton {
   align-items: center;
   background-color:

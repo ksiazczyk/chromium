@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI examples render frame observer implementation
+// summary: Implements the webui_examples render frame observer, including V8 helpers and attachIframeGuest logic that swaps render frames for guest contents during navigation.
+// ---
+
 #include "ui/webui/examples/renderer/render_frame_observer.h"
 
 #include "base/check.h"

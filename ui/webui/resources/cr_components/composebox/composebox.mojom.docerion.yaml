@@ -1,0 +1,4 @@
+# Docerion header of composebox.mojom.
+type: source
+title: Mojo interfaces for the composebox
+summary: Defines Mojo interfaces for browser-side handling of composebox requests such as voice recognition, file upload, Lens overlay and Smart Tab Sharing.

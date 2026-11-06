@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry point for the webui examples app
+// summary: Defines platform-specific main entry points for Windows, macOS, and other systems that initialize the command line and sandbox, then run ContentMain with the webui examples MainDelegate.
+// ---
+
 #include "base/command_line.h"
 #include "build/build_config.h"
 #include "content/public/app/content_main.h"

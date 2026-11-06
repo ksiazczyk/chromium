@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser page handler implementation
+// summary: Implements the PageHandler Mojo interface by loading URLs and driving back and forward navigation on the guest WebContents controller.
+// ---
+
 #include "ui/webui/examples/browser/ui/web/browser_page_handler.h"
 
 #include "base/functional/bind.h"

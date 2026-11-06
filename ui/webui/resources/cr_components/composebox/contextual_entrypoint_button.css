@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Contextual entrypoint button styles
+summary: Styles the contextual entrypoint button, including GLIF gradient animation states, icon shimmer effects, dark mode variants, and layout for the AI mode entry point.
+*/
+
 :host {
   --button-height: 36px;
   --cr-focus-outline-color: var(--color-searchbox-results-icon-focused-outline);

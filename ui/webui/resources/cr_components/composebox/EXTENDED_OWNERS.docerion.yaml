@@ -1,0 +1,4 @@
+# Docerion header of EXTENDED_OWNERS.
+type: config
+title: Extended owners references for composebox
+summary: Points to owner files in other components that extend ownership for certain composebox files.

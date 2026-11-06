@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for issue tracking
+summary: Sets the monorail and Buganizer components used for bugs filed against this directory.

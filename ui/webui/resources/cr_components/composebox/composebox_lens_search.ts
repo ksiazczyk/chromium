@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox Lens search element
+// summary: Lit element that renders the Lens search entry point as an icon or pill, announces virtual focus to screen readers, and fires lens-search-click events.
+// ---
+
 import './composebox_tab_favicon.js';
 import './icons.html.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

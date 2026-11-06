@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits implementation for app management types
+// summary: Implements conversions between App Service C++ types and the app management Mojo types.
+// ---
+
 #include "ui/webui/resources/cr_components/app_management/app_management_mojom_traits.h"
 
 #include <utility>

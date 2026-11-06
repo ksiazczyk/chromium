@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserClient class for the WebUI example browser
+// summary: Declares ContentBrowserClient, the content layer embedder hook that creates BrowserMainParts and registers WebUI interface binders for the example browser.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_CONTENT_BROWSER_CLIENT_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_CONTENT_BROWSER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmented button option HTML template
+// summary: Lit HTML template for segmented-button-option, rendering a radio-role button with a checkmark, prefix icon slot and hover overlay.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SegmentedButtonOptionElement} from './segmented_button_option.js';

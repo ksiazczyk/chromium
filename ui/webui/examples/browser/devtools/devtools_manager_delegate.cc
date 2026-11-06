@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools manager delegate implementation for the webui examples browser
+// summary: Implements DevToolsManagerDelegate, supplying the default browser context and creating DevTools agent hosts for new targets opened in the examples browser.
+// ---
+
 #include "ui/webui/examples/browser/devtools/devtools_manager_delegate.h"
 
 #include "content/public/browser/browser_context.h"

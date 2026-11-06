@@ -20,6 +20,12 @@
  * string with a link and sometimes returns a normal string.
  */
 
+// ---docerion
+// type: source
+// title: LocalizedLinkElement Lit component
+// summary: Lit element that renders a localized string containing at most one anchor tag with accessible aria labeling and optional link URL or disabled state.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import {sanitizeInnerHtml} from '//resources/js/parse_html_subset.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';

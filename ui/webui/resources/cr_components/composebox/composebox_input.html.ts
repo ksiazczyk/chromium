@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox input HTML template
+// summary: Lit template for the composebox input, rendering the textarea or contenteditable field, smart compose hint, and cancel button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ComposeboxInputElement} from './composebox_input.js';

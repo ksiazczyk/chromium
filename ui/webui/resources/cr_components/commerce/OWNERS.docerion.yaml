@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the commerce components
+summary: Owners file that defers to the commerce component owners and assigns security owners to per-file mojom changes.

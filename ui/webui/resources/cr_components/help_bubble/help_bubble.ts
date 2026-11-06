@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpBubble Lit element component
+// summary: Implements the help-bubble web component that renders anchored in-product help bubbles with title, body, icon, buttons and progress, emitting dismissed and timed-out events.
+// ---
+
 /**
  * @fileoverview A bubble for displaying in-product help. These are created
  * dynamically by HelpBubbleMixin, and their API should be considered an

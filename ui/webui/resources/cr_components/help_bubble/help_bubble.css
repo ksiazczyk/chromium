@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: CSS styles for the help bubble element
+summary: Defines the visual styling of the help bubble, including colors, arrow positioning, progress indicators, and layout variables.
+*/
+
 :host {
   /* Color declarations.
    * TODO(crbug.com/40916868): Temporary fallback values for cases where

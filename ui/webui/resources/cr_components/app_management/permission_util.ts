@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission utility functions for App Management
+// summary: Exports helpers to create, inspect, and convert permission objects with boolean or TriState values for the App Management page.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 
 import type {Permission, PermissionType, PermissionValue} from './app_management.mojom-webui.js';

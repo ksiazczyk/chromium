@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: cr_components OWNERS
+summary: Lists the code owners (dpapad@chromium.org and khorimoto@chromium.org) responsible for the cr_components directory.

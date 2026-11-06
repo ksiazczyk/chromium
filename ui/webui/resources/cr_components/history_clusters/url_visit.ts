@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL visit custom element
+// summary: Custom element that displays a page visit within a history cluster, including favicon, highlighted title and URL, annotations, and an action menu for removing the visit.
+// ---
+
 import './page_favicon.js';
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

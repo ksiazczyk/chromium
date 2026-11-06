@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual entrypoint button Lit template
+// summary: Lit HTML template rendering the contextual entrypoint button variants, with add-to-context buttons, favicon groups, smart tab sharing icons, and GLIF animation gradient overlays.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {GlifAnimationState} from './common.js';

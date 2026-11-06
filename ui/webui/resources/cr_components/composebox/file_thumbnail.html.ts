@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File thumbnail HTML template
+// summary: Lit HTML template that renders file thumbnail chips for injected inputs, tabs, images, and documents with upload spinners and delete buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ComposeboxFileThumbnailElement} from './file_thumbnail.js';

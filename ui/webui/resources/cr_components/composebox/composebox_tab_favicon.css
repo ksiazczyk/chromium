@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab favicon styles
+summary: Lit CSS styles sizing the cr-composebox-tab-favicon element as a 16-pixel non-repeating favicon background.
+*/
+
 :host {
   background-position: center;
   background-repeat: no-repeat;

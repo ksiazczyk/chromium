@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox match element
+// summary: Lit element that displays a single autocomplete match and reports clicks, focus, and deletion events to the searchbox handler.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 
 import {getUrlForCss} from '//resources/js/icon.js';

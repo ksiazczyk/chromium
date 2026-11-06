@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuraContext implementation for the webui examples browser
+// summary: Implements AuraContext, including focus rules and a native cursor manager that let an Aura WindowTreeHost behave like a normal application window in the webui examples browser.
+// ---
+
 #include "ui/webui/examples/browser/ui/aura/aura_context.h"
 
 #include "base/memory/raw_ptr.h"

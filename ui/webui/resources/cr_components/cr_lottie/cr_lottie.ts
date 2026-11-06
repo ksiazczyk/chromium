@@ -21,6 +21,12 @@
  * drawn on is resized.
  */
 
+// ---docerion
+// type: source
+// title: cr-lottie Lottie animation element
+// summary: Implements the CrLottieElement Lit element that plays Lottie animations on a worker thread and fires events for initialization, playback, and resizing.
+// ---
+
 import {COLOR_PROVIDER_CHANGED, ColorChangeUpdater} from '//resources/cr_components/color_change_listener/colors_css_updater.js';
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

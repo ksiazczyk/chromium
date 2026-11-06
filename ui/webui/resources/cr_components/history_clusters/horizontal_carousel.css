@@ -9,6 +9,12 @@
  * #include=history-clusters-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Horizontal carousel styles
+summary: Lit CSS styles for the horizontal carousel element, covering carousel buttons, hover layers and gradient edge masks.
+*/
+
 :host {
   --cr-icon-button-margin-start: 0px;
   --gradient-start: 64px;

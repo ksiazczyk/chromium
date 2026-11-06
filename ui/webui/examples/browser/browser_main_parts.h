@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserMainParts class for the WebUI example browser
+// summary: Declares BrowserMainParts, which owns the browser context and WebUI controller factory and defines platform hooks for toolkit setup and window creation.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_BROWSER_MAIN_PARTS_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_BROWSER_MAIN_PARTS_H_
 

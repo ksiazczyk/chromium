@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContext class for the WebUI example browser
+// summary: Declares the webui_examples BrowserContext that implements content::BrowserContext over a temporary directory path for the example browser.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_BROWSER_CONTEXT_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_BROWSER_CONTEXT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of webui_examples_resources.grd.
+type: config
+title: WebUI examples grit resource definitions
+summary: Grit resource definition that declares WebUI example window title strings and generates a C header and .pak data package for the WebUI examples build.

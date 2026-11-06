@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FillLayout class filling child windows to root bounds
+// summary: Declares FillLayout, an aura::LayoutManager that stretches child windows to cover the root window's bounds.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_UI_AURA_FILL_LAYOUT_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_UI_AURA_FILL_LAYOUT_H_
 

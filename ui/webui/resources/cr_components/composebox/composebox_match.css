@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Composebox match styles
+summary: Lit CSS styles for autocomplete match rows in text and image layouts, including hover, selected, and forced-colors states.
+*/
+
 :host {
   --tab-select-color_: rgba(23, 112, 216, 1);
   --input-inline-spacing: 12px;

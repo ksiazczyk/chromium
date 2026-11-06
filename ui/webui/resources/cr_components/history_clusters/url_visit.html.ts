@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL visit element HTML template
+// summary: Lit HTML template that renders a URL visit row with favicon, title, annotations, debug info, and an action menu.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {UrlVisitElement} from './url_visit.js';

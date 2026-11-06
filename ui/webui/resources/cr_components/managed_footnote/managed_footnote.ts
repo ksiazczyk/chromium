@@ -11,6 +11,12 @@
  * becomes visible.
  */
 
+// ---docerion
+// type: source
+// title: Managed footnote element
+// summary: Lit element that shows a managed-by-organization footnote driven by the isManaged loadTimeData value and web UI listeners.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/icons.html.js';
 

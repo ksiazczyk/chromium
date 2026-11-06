@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the localized_link component
+summary: Defines the build_webui target that compiles the localized link WebUI component's TypeScript and CSS into bundled resources.

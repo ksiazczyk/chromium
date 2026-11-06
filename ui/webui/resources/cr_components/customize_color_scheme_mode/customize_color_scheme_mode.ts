@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize color scheme mode element
+// summary: Lit element that displays the color scheme segmented button and syncs the selected mode with the browser via Mojo.
+// ---
+
 import './segmented_button.js';
 import './segmented_button_option.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserMainParts implementation for the WebUI example browser
+// summary: Implements BrowserMainParts startup for the example browser, creating the browser context, DevTools server, WebUI controller factory, and content windows.
+// ---
+
 #include "ui/webui/examples/browser/browser_main_parts.h"
 
 #include <tuple>

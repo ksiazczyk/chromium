@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for history WebUI components
+summary: Defines the Mojo bindings and WebUI build targets that compile the history component's mojom files and TypeScript constants into WebUI resources.

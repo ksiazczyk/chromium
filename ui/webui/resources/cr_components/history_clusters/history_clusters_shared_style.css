@@ -12,6 +12,12 @@
  * #include=cr-shared-style-lit cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History clusters shared styles
+summary: Shared Lit CSS styles for pills, truncation, timestamps and search highlights used across history clusters components.
+*/
+
 .truncate {
   overflow: hidden;
   text-overflow: ellipsis;

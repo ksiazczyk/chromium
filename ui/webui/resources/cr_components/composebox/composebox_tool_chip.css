@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tool chip styles
+summary: Lit CSS styles for the composebox tool chip button, including hover close icons, the Clank variant, and fade and slide animations.
+*/
+
 #toolEnabledButton:not(.clank) {
   align-items: center;
   animation: var(--cr-composebox-tool-chip-animation, none);

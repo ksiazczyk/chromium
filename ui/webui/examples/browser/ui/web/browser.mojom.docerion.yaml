@@ -1,0 +1,4 @@
+# Docerion header of browser.mojom.
+type: source
+title: Mojo interface definitions for the browser WebUI
+summary: Defines the PageHandlerFactory and PageHandler Mojo interfaces the WebUI page uses to navigate, go back, and go forward in the guest view.

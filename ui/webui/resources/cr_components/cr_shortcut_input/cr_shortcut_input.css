@@ -10,6 +10,12 @@
  * #include=cr-icons-lit cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-shortcut-input component
+summary: Lit CSS styles for the shortcut input, covering the main container, readonly input opacity, error display, and edit and clear icon buttons.
+*/
+
  #main {
   position: relative;
   width: 200px;

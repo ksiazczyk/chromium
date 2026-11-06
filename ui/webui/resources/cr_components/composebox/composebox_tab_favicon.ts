@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab favicon element
+// summary: Defines the cr-composebox-tab-favicon element that displays a favicon for a tab URL and updates it once the tab has loaded.
+// ---
+
 import '//resources/cr_elements/cr_auto_img/cr_auto_img.js';
 
 import {getFaviconForPageURL, getUrlForCss} from '//resources/js/icon.js';

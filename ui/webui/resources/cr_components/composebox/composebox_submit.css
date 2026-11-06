@@ -10,6 +10,12 @@
  * #include=cr-icons-lit composebox-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Composebox submit button styles
+summary: Lit CSS styles for the composebox submit button covering layout, hover and focus states, disabled appearance, and energy-effect animations.
+*/
+
 :host {
   --cr-composebox-submit-container-size: 40px;
   --cr-icon-button-size: 36px;

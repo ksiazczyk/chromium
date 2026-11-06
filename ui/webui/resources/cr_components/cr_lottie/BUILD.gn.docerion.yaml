@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the cr_lottie component
+summary: Defines the build_webui target for the cr_lottie WebUI component, listing its CSS and TypeScript sources, dependencies, and resource generation settings.

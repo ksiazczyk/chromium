@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for color_change_listener
+summary: Points the directory metadata to the shared ui/color COMMON_METADATA mixins.

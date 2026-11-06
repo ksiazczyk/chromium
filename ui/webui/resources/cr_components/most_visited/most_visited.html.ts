@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the most visited element
+// summary: Lit HTML template rendering most visited tiles with action menus, add shortcut and show more or less buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MostVisitedElement} from './most_visited.js';

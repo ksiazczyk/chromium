@@ -1,0 +1,4 @@
+# Docerion header of foreign_sessions.mojom.
+type: source
+title: Foreign session Mojo interfaces for history WebUI
+summary: Defines Mojo structs and browser- and WebUI-side interfaces for listing, opening, deleting, and collapsing synced foreign sessions from other devices.

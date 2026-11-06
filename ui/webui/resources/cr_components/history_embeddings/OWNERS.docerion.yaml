@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the history_embeddings component
+summary: Points to component owners and applies special review rules for Mojom files in this directory.

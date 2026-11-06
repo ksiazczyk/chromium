@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common issue tracking metadata for the HelpBubble directory
+summary: Specifies the Monorail component and Buganizer component ID used for issues in this directory.

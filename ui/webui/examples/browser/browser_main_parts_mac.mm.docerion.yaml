@@ -1,0 +1,4 @@
+# Docerion header of browser_main_parts_mac.mm.
+type: source
+title: Mac Cocoa implementation of BrowserMainParts for the WebUI example browser
+summary: Implements BrowserMainParts for macOS, showing WebContents in ContentNSWindow instances and deleting them soon after their close callbacks.

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Composebox favicon group styles
+summary: Styles for stacked favicon coins including skeleton loading animation, staggered delays and reduced-motion support.
+*/
+
 :host {
   align-items: center;
   display: flex;

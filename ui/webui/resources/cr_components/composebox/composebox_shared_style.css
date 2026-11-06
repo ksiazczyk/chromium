@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Composebox shared styles
+summary: Shared Lit CSS styles for composebox context menus, context carousels, upload buttons, and icon fade transitions.
+*/
+
 .context-menu-container {
   align-items: center;
   cursor: text;

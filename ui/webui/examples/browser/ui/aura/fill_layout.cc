@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FillLayout implementation for Aura root windows
+// summary: Implements FillLayout, an Aura layout manager that sizes child windows to fill the root window's bounds.
+// ---
+
 #include "ui/webui/examples/browser/ui/aura/fill_layout.h"
 
 #include "ui/aura/window.h"

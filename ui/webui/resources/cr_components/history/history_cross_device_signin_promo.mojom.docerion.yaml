@@ -1,0 +1,4 @@
+# Docerion header of history_cross_device_signin_promo.mojom.
+type: source
+title: Cross-device sign-in promo Mojo interfaces
+summary: Defines browser- and WebUI-side Mojo interfaces for the cross-device sign-in promo card, covering promo visibility and QR code bubble state updates.

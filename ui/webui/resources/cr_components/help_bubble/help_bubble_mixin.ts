@@ -18,6 +18,12 @@
  * See README.md for more information.
  */
 
+// ---docerion
+// type: source
+// title: HelpBubble mixin for Polymer elements
+// summary: Provides a deduping Polymer mixin that lets components register anchors and handle help bubble show, hide and activation messages through the shared common implementation.
+// ---
+
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

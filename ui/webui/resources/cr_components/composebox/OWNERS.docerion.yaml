@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the composebox component
+summary: Lists code owners for the composebox component plus per-file ownership rules, including security owners for Mojo files.

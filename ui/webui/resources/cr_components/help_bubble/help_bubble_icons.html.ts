@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpBubble iconset definitions
+// summary: Defines the iph cr-iconset with SVG icons such as celebration, lightbulb and spark used by help bubbles, including a variant for rounded-icons mode.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from '//resources/js/static_types.js';

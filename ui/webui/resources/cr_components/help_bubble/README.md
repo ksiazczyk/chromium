@@ -1,3 +1,13 @@
+---
+type: readme
+title: WebUI HelpBubble Implementation (Frontend)
+summary: Explains how to use HelpBubbleMixin to anchor help bubbles in WebUI pages and documents current limitations of the frontend implementation.
+relations:
+  - references /components/user_education/common/feature_promo/feature_promo_controller.h
+  - references /components/user_education/common/help_bubble/help_bubble.h
+  - references /components/user_education/common/tutorial/tutorial.h
+---
+
 # WebUI HelpBubble Implementation (Frontend)
 
 [Backend documentation can be found here.](/components/user_education/webui/webui_help_bubble.md)

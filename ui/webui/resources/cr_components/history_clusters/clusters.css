@@ -9,6 +9,12 @@
  * #include=history-clusters-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the history clusters list element
+summary: Lit CSS styling the clusters list, side panel dialogs, toasts, and loading placeholder.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: block;

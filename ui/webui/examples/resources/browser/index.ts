@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript logic for the example browser WebUI
+// summary: Implements webview and surfaceembed custom elements and wires address bar navigation, back, and forward through a Mojo-based browser proxy.
+// ---
+
 import {PageHandlerFactory, PageHandlerRemote} from './browser.mojom-webui.js';
 import {loadTimeData} from '//resources/js/load_time_data.js';
 

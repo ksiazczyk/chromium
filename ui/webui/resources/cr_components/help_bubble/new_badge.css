@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: New badge styles
+summary: Defines the Lit styles for the new badge element, styling it as a small rounded label with the badge background color and shared cr-element styles.
+*/
+
 div {
   align-items: center;
   background-color: var(--color-badge-background);

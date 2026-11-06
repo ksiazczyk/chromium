@@ -1,0 +1,4 @@
+# Docerion header of app_management.mojom.
+type: source
+title: App management Mojo interface definitions
+summary: Defines Mojo enums and structs for app types, permissions, install reasons, window modes, and run on OS login settings.

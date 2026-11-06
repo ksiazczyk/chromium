@@ -10,6 +10,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the composebox AIM button
+summary: Lit CSS styling the AIM submit button, including icon masks, hover and focus states and RTL handling.
+*/
+
 :host {
   flex-shrink: 0;
 }

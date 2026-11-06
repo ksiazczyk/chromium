@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser WebUI controller implementation
+// summary: Implements the browser WebUI controller that registers the data source, adjusts CSP for surface embed, creates guest WebContents, and binds Mojo interfaces.
+// ---
+
 #include "ui/webui/examples/browser/ui/web/browser.h"
 
 #include "components/guest_contents/browser/guest_contents_host_impl.h"

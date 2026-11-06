@@ -10,6 +10,12 @@
  * fully migrated.
  */
 
+// ---docerion
+// type: source
+// title: BrowserProxy singleton for the color change listener Mojo interface
+// summary: Provides a singleton BrowserProxy class that exposes the Mojo handler interface for one-way communication between the WebUI page and the browser.
+// ---
+
 import {PageCallbackRouter, PageHandler} from './color_change_listener.mojom-webui.js';
 
 let instance: BrowserProxy|null = null;

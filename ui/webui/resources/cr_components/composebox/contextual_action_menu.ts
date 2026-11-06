@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual action menu element
+// summary: Implements the contextual action menu element with tab sharing, tab suggestions, menu positioning, and metrics for context additions.
+// ---
+
 import './icons.html.js';
 import './searchbox_config_icons.html.js';
 import './composebox_tab_favicon.js';

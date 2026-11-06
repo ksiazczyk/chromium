@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the most visited tiles component
+summary: Lit CSS styles defining tile layout, colors, dark mode and icon appearance for the most visited component.
+*/
+
 :host {
   --cr-tooltip-icon-fill-color: var(--cr-fallback-color-on-surface-subtle);
   --icon-button-color-active: var(--google-grey-700);

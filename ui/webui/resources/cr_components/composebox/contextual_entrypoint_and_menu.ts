@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual entrypoint and menu element
+// summary: Lit element that combines the contextual entrypoint button and action menu, exposing tab, input state, and feature flag properties.
+// ---
+
 import './contextual_action_menu.js';
 import './contextual_entrypoint_button.js';
 

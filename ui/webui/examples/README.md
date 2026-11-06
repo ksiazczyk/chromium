@@ -1,3 +1,9 @@
+---
+type: readme
+title: WebUI Examples Standalone App
+summary: Standalone example app that hosts the WebUI gallery without building all of Chrome, runnable directly or with the WebShell content embedder.
+---
+
 The `webui_examples` is a standalone example app that hosts
 chrome://webui-gallery without needing to build all of Chrome. This provides
 parity with `views_examples` in `//ui/views/examples` for WebUI components.

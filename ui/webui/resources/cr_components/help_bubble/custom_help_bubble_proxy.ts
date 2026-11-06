@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript proxy for the custom help bubble Mojo handler
+// summary: Provides a singleton proxy that creates and binds a CustomHelpBubbleHandler remote through the handler factory for IPC.
+// ---
+
 import type {CustomHelpBubbleHandlerInterface} from './custom_help_bubble.mojom-webui.js';
 import {CustomHelpBubbleHandlerFactory, CustomHelpBubbleHandlerRemote} from './custom_help_bubble.mojom-webui.js';
 

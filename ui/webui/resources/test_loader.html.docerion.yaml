@@ -1,0 +1,4 @@
+# Docerion header of test_loader.html.
+type: test
+title: WebUI test loader page
+summary: HTML harness that loads Mocha and the test loader script to run WebUI tests.

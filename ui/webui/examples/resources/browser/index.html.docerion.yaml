@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: HTML page for the example browser WebUI
+summary: Defines the example browser page structure with a navigation bar offering back, forward, address, and go controls.

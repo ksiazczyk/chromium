@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App management WebUI build targets
+summary: Defines GN targets for the app management Mojo bindings, TypeScript WebUI build, and unit tests.

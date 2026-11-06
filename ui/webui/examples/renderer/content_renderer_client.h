@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI examples content renderer client header
+// summary: Declares the webui_examples ContentRendererClient class overriding render frame creation, render thread startup, and plugin creation hooks.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_RENDERER_CONTENT_RENDERER_CLIENT_H_
 #define UI_WEBUI_EXAMPLES_RENDERER_CONTENT_RENDERER_CLIENT_H_
 

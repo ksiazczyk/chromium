@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the managed dialog component
+summary: CSS that sizes cr-icon elements and adds inline padding to the managed dialog body container.
+*/
+
 cr-icon {
   --iron-icon-height: var(--cr-icon-size);
   --iron-icon-width: var(--cr-icon-size);

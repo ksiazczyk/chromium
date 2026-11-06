@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Segmented button component styles
+summary: Lit CSS styles for the segmented-button element, defining its height, padding, border and grid layout around a cr-radio-group.
+*/
+
 :host {
   --segmented-button-height: 44px;
   --segmented-button-width: 100%;

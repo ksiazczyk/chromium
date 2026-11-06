@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentWindow implementation hosting a WebContents
+// summary: Implements ContentWindow, which places a WebContents in an Aura window, sets titles, shows the window, and runs a callback when the host requests a close.
+// ---
+
 #include "ui/webui/examples/browser/ui/aura/content_window.h"
 
 #include "content/public/browser/web_contents.h"

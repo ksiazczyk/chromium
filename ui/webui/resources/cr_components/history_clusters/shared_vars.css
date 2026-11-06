@@ -8,6 +8,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History clusters shared CSS variables
+summary: Shared CSS custom properties defining colors and sizes for history cluster cards, pills, and favicons, with dark mode overrides.
+*/
+
 html {
   /* Colors: */
   --annotation-background-color: var(--google-green-50);

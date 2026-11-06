@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentWindow class hosting one WebContents in an Aura window
+// summary: Declares ContentWindow, a single window that hosts one WebContents stretched to the window's size, with title, show, and close callback support.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_UI_AURA_CONTENT_WINDOW_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_UI_AURA_CONTENT_WINDOW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the HelpBubble component
+summary: Applies the shared metadata from COMMON_METADATA to this directory using the dirmd mixins mechanism.

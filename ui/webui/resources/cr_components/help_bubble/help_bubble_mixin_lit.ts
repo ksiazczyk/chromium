@@ -18,6 +18,12 @@
  * See README.md for more information.
  */
 
+// ---docerion
+// type: source
+// title: HelpBubble mixin for Lit elements
+// summary: Provides a Lit-based mixin implementing HelpBubbleMixinInterface so CrLitElement components can register anchors and respond to help bubble messages.
+// ---
+
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HelpBubbleElement} from './help_bubble.js';

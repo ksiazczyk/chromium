@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: File carousel element
+// summary: Lit element that shows attached files in a scrollable carousel with resize observers, scroll gradients, and auto-scroll on new files.
+// ---
+
 import './file_thumbnail.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

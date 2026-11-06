@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI gallery controller implementation
+// summary: Implements the WebUI controller for the gallery host, configuring JS module CSP defaults and Trusted Types policies on the data source.
+// ---
+
 
 #include "ui/webui/examples/browser/ui/web/webui.h"
 

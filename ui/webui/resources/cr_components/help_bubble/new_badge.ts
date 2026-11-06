@@ -11,6 +11,12 @@
  * TODO(crbug.com/543113387): Follow up to integrate with auto-disappear code.
  */
 
+// ---docerion
+// type: source
+// title: New badge Lit element for marking UI elements as new
+// summary: Defines the new-badge custom element, a Lit-based badge that indicates newness in the UI and, unlike the Views version, must be hidden manually until auto-disappear support is added.
+// ---
+
 import {I18nMixinLit} from '//resources/cr_elements/i18n_mixin_lit.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

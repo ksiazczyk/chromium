@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserClient implementation for the WebUI example browser
+// summary: Implements the ContentBrowserClient for the example browser, wiring up main parts, view delegates, DevTools, interface binders, and the user agent.
+// ---
+
 #include "ui/webui/examples/browser/content_browser_client.h"
 
 #include "base/feature_list.h"

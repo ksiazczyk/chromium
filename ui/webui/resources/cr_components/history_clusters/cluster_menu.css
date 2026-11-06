@@ -9,6 +9,12 @@
  * #include=history-clusters-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cluster action menu element
+summary: Lit CSS sizing the action menu icon button for regular and side panel layouts.
+*/
+
 #actionMenuButton {
   --cr-icon-button-icon-size: 20px;
   --cr-icon-button-margin-end: 16px;

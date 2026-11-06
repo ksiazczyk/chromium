@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters custom element
+// summary: Custom element that requests and displays history clusters for a query, handling infinite scrolling, load more and visit deletion.
+// ---
+
 import './cluster.js';
 import './history_clusters_shared_style.css.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

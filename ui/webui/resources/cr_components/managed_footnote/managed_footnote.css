@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Managed footnote component styles
+summary: Lit CSS styles for the managed footnote element, covering layout, separator, icon, and link appearance.
+*/
+
 :host {
   align-items: center;
   border-top: 1px solid var(--cr-separator-color);

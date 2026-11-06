@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser WebUI controller class declaration
+// summary: Declares the Browser MojoWebUIController with its PageHandlerFactory binding and guest WebContents accessor.
+// ---
+
 #ifndef UI_WEBUI_EXAMPLES_BROWSER_UI_WEB_BROWSER_H_
 #define UI_WEBUI_EXAMPLES_BROWSER_UI_WEB_BROWSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of BrowserMainParts for the WebUI example browser
+// summary: Implements BrowserMainParts for Aura platforms, creating an AuraContext and showing content windows that are deleted soon after their close callbacks.
+// ---
+
 #include "base/types/pass_key.h"
 #include "content/public/browser/browser_thread.h"
 #include "content/public/browser/web_contents.h"

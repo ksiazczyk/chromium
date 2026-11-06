@@ -1,0 +1,4 @@
+# Docerion header of help_bubble.mojom.
+type: source
+title: HelpBubble Mojo IPC interface definitions
+summary: Defines the Mojo enums, structs and interfaces that let User Education systems such as FeaturePromo and Tutorials show and manage help bubbles in WebUI surfaces, including a PDF-specific factory.

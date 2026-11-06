@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the most visited component
+summary: Delegates ownership to the new tab page OWNERS and requires security owners for changes to mojom files.

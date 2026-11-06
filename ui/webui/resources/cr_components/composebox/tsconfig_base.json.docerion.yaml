@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript base configuration for composebox
+summary: Extends the shared Lit TypeScript base config and sets type roots plus the dom-speech-recognition type for the composebox components.

@@ -1,0 +1,4 @@
+# Docerion header of custom_help_bubble.mojom.
+type: source
+title: Custom help bubble Mojom interface definitions
+summary: Defines Mojom interfaces letting a WebUI act as a custom help bubble and report user actions such as dismiss, snooze, action, and cancel.

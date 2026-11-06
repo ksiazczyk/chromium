@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI examples content renderer client implementation
+// summary: Implements the webui_examples renderer client, attaching a RenderFrameObserver to main frames, registering webview and surfaceembed custom elements, and overriding plugin creation for surface embed.
+// ---
+
 #include "ui/webui/examples/renderer/content_renderer_client.h"
 
 #include "components/surface_embed/common/features.h"

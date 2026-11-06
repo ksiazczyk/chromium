@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the example browser WebUI
+summary: Styles the example browser page, laying out the navigation bar and letting webview and surfaceembed elements fill the remaining space.
+*/
+
 html,
 body {
   height: 100%;

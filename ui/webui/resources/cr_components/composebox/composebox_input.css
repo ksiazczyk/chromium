@@ -10,6 +10,12 @@
  * #include=cr-icons-lit composebox-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Composebox input styles
+summary: Lit CSS styles for the composebox input, covering the text container, aim icon, caret, smart compose hint, and compact layout variants.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

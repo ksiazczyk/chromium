@@ -1,3 +1,13 @@
+---
+type: guide
+title: Componentization of Composebox
+summary: Instructions for CL and test authors on moving shared versus surface-specific composebox logic, with the context, decision and consequences of the componentization.
+relations:
+  - documents /ui/webui/resources/cr_components/composebox/composebox.ts
+  - references /chrome/test/data/webui/cr_components/composebox/composebox_mixin_test.ts
+  - references /chrome/test/data/webui/cr_components/composebox/file_carousel_test.ts
+---
+
 # Componentization of Composebox
 
 ## Instruction for CL Authors

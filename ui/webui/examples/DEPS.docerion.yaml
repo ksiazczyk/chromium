@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebUI examples dependency include rules
+summary: Lists the allowed include paths for the WebUI examples app, including a documented one-time exception to depend on chrome webui gallery resources.

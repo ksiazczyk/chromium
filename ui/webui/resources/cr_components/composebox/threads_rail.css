@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Threads rail styles
+summary: CSS styles for the AI Mode threads rail, including its slide-in animation, RTL handling, and icon button theming.
+*/
+
 :host {
   --slide-in-start-x: -100%;
   background-color: var(--color-new-tab-page-threads-rail-background);

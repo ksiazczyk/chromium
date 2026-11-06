@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox voice search template
+// summary: Lit HTML template for the voice search element, rendering error messages, transcript text, permission prompt, and close, stop, and submit controls.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ComposeboxVoiceSearchElement} from './composebox_voice_search.js';

@@ -1,0 +1,4 @@
+# Docerion header of searchbox_config_icons.html.ts.
+type: source
+title: Searchbox config icon set
+summary: Registers a searchbox_config iconset keyed by omnibox IconResourceIds protobuf IDs so components can render icons dynamically from SearchboxConfig.

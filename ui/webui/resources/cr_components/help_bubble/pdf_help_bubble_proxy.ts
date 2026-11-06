@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF help bubble Mojo proxy
+// summary: Implements a singleton proxy that connects the PDF WebUI to the help bubble and tracked element Mojo interfaces, creating handlers via the PdfHelpBubbleHandlerFactory.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {TrackedElementProxyImpl} from '//resources/js/tracked_element/tracked_element_proxy.js';
 import type {TrackedElementProxy} from '//resources/js/tracked_element/tracked_element_proxy.js';

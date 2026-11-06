@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmented button option web component
+// summary: Lit custom element segmented-button-option combining radio button and ripple mixins for individual choices within a segmented button.
+// ---
+
 import '//resources/cr_elements/icons.html.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 
