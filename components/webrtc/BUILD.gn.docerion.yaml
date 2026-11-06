@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebRTC component build targets
+summary: Defines GN build targets for the webrtc component, including features, media stream device enumerator, fake SSL socket, net address utils, thread wrapper and unit tests.

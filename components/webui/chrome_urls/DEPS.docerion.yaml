@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome_urls
+summary: Grants the chrome_urls directory include access to components/prefs through an include_rules entry.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ed25519 WebCrypto algorithm implementation
+// summary: Implements the Ed25519 signature scheme (RFC 8032) for Chromium's WebCrypto, including key generation, import and export in raw, PKCS#8, SPKI and JWK formats, signing, verification and key cloning.
+// ---
+
 #include "components/webcrypto/algorithms/ed25519.h"
 
 #include <string.h>

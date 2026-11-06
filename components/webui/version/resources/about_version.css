@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the version page
+summary: Stylesheet defining colors, layout, labels and copy-button styling for the browser version page, including dark mode and forced colors support.
+*/
+
 html {
   --google-grey-200-rgb: 232, 234, 237;
   --google-grey-200: rgb(var(--google-grey-200-rgb));

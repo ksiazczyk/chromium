@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome URLs app element logic
+// summary: Implements the chrome-urls-app Lit element that fetches URL data over Mojo, reacts to hash routing, and toggles internal debugging pages.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 // <if expr="is_ios">
 // TODO(crbug.com/41173939): Remove this once injected by web. -->

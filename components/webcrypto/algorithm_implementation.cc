@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlgorithmImplementation base class defaults
+// summary: Provides default unsupported-operation responses for the AlgorithmImplementation interface that concrete WebCrypto algorithms override.
+// ---
+
 #include "components/webcrypto/algorithm_implementation.h"
 
 #include "base/notreached.h"

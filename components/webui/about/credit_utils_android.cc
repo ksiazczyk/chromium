@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge writing credits HTML to a file descriptor
+// summary: Implements the Android JNI entry point that writes the credits HTML returned by GetCredits to a given file descriptor.
+// ---
+
 #include "components/webui/about/credit_utils.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartialCircularBuffer implementation
+// summary: Implements read and write over a shared memory buffer as a circular buffer with a selectable wrapping position, used by WebRTC logging.
+// ---
+
 #include "components/webrtc_logging/common/partial_circular_buffer.h"
 
 #include <algorithm>

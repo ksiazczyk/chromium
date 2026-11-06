@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ed25519 WebCrypto algorithm header
+// summary: Declares the Ed25519Implementation class that provides key generation, import and export, sign, verify and clone deserialization for the Ed25519 WebCrypto algorithm.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_ED25519_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_ED25519_H_
 

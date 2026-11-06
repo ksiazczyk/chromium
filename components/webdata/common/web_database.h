@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDatabase class declaration
+// summary: Declares the WebDatabase class that manages a SQLite database of web page metadata, including version constants, init result enums, and table and transaction APIs.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEB_DATABASE_H_
 #define COMPONENTS_WEBDATA_COMMON_WEB_DATABASE_H_
 

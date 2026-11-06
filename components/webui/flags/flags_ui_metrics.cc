@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flags UI metrics implementation
+// summary: Reports enabled switches and features as sparse UMA histogram samples using hashed flag names for about:flags usage metrics.
+// ---
+
 #include "components/webui/flags/flags_ui_metrics.h"
 
 #include <set>

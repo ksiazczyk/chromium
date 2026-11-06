@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserActionsUIHandler implementation
+// summary: Implements the WebUI message handler that registers a user action callback and forwards user action notifications to the page as a user-action listener event.
+// ---
+
 #include "components/webui/user_actions/user_actions_ui_handler.h"
 
 #include "base/functional/bind.h"

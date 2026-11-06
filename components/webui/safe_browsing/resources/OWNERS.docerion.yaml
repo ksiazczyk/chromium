@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Safe Browsing WebUI resources
+summary: Owners file that delegates review of trivial or mechanical JS, CSS and HTML changes to the platform WebUI owners.

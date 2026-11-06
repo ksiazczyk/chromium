@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flags UI preference names
+// summary: Defines preference names for the enabled labs experiments list and the dictionary of per-flag origin list values.
+// ---
+
 #include "components/webui/flags/flags_ui_pref_names.h"
 
 namespace flags_ui {

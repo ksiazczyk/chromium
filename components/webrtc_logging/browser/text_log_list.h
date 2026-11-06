@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextLogList class and API type declarations
+// summary: Declares the TextLogList class with static path helpers for WebRTC log directories and the API type enum.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_LOGGING_BROWSER_TEXT_LOG_LIST_H_
 #define COMPONENTS_WEBRTC_LOGGING_BROWSER_TEXT_LOG_LIST_H_
 

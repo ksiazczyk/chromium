@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PBKDF2 WebCrypto algorithm implementation
+// summary: Implements PBKDF2 key import and bit derivation via BoringSSL's PKCS5_PBKDF2_HMAC, enforcing usage, length, and iteration-count rules.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

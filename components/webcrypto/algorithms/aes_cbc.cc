@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES-CBC encrypt and decrypt implementation
+// summary: Implements the AES-CBC WebCrypto algorithm with PKCS padding through BoringSSL, supporting encrypt and decrypt for 128- and 256-bit keys with a 16-byte IV.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

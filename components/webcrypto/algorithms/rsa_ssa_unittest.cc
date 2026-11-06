@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RSA-SSA unit tests
+// summary: Unit tests covering RSA-SSA key import from JWK and SPKI, signing, verification, error cases and corrupted signatures.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

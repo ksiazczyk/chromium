@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the WebRTC logging browser component
+summary: Defines the browser source set and a test-only unit_tests target with their sources and dependencies for the WebRTC logging browser code.

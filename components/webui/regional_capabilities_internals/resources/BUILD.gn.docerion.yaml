@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the regional capabilities internals WebUI
+summary: Defines the build_webui target that bundles index.html and app.ts under the regional_capabilities_internals grit prefix as a trusted WebUI.

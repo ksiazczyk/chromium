@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for media stream device filtering
+// summary: Unit tests for FilterMediaDevices covering empty device lists, non-overlapping IDs, and filtering to overlapping devices.
+// ---
+
 #include "components/webrtc/media_stream_devices_util.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

@@ -1,0 +1,4 @@
+# Docerion header of about_credits_entry.tmpl.
+type: source
+title: Credits entry template
+summary: Template that renders a single open-source project entry with its name, homepage link, and expandable license text.

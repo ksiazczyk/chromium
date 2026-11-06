@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Component and team metadata for WebRTC logging
+summary: Declares the Monorail component, team email address and Buganizer component used for issues in this directory.

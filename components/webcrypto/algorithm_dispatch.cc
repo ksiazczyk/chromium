@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCrypto operation dispatch implementation
+// summary: Implements the WebCrypto operation entry points, checking key usage and dispatching each operation to the matching algorithm implementation.
+// ---
+
 #include "components/webcrypto/algorithm_dispatch.h"
 
 #include "components/webcrypto/algorithm_implementation.h"

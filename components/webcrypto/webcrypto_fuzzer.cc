@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzz tests for WebCrypto operations
+// summary: Defines fuzztest-based fuzzers that exercise WebCrypto key import, encryption, decryption, digest, sign, verify, and derive-bits operations with arbitrary inputs.
+// ---
+
 #include <string>
 
 #include "components/webcrypto/algorithm_dispatch.h"

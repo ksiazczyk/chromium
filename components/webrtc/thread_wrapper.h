@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC ThreadWrapper class declaration
+// summary: Declares ThreadWrapper, which adapts the webrtc::Thread interface to Chromium's SingleThreadTaskRunner and exposes latency and task duration callbacks.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_THREAD_WRAPPER_H_
 #define COMPONENTS_WEBRTC_THREAD_WRAPPER_H_
 

@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Flags UI preference name declarations
+// summary: Declares the preference name constants for enabled labs experiments and their associated origin lists.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_FLAGS_UI_PREF_NAMES_H_
 #define COMPONENTS_WEBUI_FLAGS_FLAGS_UI_PREF_NAMES_H_
 

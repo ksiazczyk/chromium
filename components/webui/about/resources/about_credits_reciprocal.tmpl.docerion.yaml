@@ -1,0 +1,4 @@
+# Docerion header of about_credits_reciprocal.tmpl.
+type: source
+title: Reciprocal license statement template
+summary: Template that renders the statement linking to the source code of the reciprocally licensed open-source project.

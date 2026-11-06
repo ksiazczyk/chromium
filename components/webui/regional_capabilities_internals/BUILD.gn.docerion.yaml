@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the regional capabilities internals constants library
+summary: Defines a static library target that compiles the constants source files for the regional capabilities internals WebUI.

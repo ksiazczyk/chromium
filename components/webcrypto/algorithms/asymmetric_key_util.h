@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for shared asymmetric key utilities
+// summary: Declares functions shared by asymmetric WebCrypto algorithms for exporting, creating, and importing EVP_PKEY keys in SPKI and PKCS8 formats and for splitting generate-key usages.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_ASYMMETRIC_KEY_UTIL_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_ASYMMETRIC_KEY_UTIL_H_
 

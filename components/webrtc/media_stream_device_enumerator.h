@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream device enumerator interface
+// summary: Defines an interface to enumerate system audio and video capture devices and pick preferred devices for media stream requests per browser context.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_MEDIA_STREAM_DEVICE_ENUMERATOR_H_
 #define COMPONENTS_WEBRTC_MEDIA_STREAM_DEVICE_ENUMERATOR_H_
 

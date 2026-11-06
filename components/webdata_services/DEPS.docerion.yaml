@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for webdata_services
+summary: Specifies the allowed include paths for the component, with an extra rule letting test files use os_crypt async test utilities.

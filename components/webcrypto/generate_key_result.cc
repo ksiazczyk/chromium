@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generate key result implementation
+// summary: Implements the result object that carries a generated secret key or public/private key pair to the Blink WebCrypto result.
+// ---
+
 #include "components/webcrypto/generate_key_result.h"
 
 #include "base/check_op.h"

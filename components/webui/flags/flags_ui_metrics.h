@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flags UI metrics declarations
+// summary: Declares the switch UMA ID helper and the function that reports about:flags switches and features in a UMA histogram.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_FLAGS_UI_METRICS_H_
 #define COMPONENTS_WEBUI_FLAGS_FLAGS_UI_METRICS_H_
 

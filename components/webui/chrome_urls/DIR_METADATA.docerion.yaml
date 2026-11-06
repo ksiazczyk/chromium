@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for chrome_urls
+summary: Inherits common directory metadata for this component from //ui/webui/COMMON_METADATA via a mixin.

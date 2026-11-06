@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ECDH key derivation
+// summary: Tests ECDH derive-bits behavior against known-answer JSON test data, covering key import, curve matching, derived length handling, and expected errors.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

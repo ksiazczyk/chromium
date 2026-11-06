@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for Android about UI JNI headers and Java library
+summary: Defines the generation of JNI headers and the aboutui_java Android library for CreditUtils.java in the about UI component.

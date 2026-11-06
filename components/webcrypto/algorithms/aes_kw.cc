@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES key wrap implementation
+// summary: Implements the AES-KW WebCrypto key wrap and unwrap operations using BoringSSL, with data length checks and handling of the 8-byte wrap overhead.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

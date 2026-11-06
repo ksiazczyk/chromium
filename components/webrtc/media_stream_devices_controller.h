@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream devices controller header
+// summary: Declares MediaStreamDevicesController, which provides the logic for requesting microphone and camera permissions for media stream requests.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_MEDIA_STREAM_DEVICES_CONTROLLER_H_
 #define COMPONENTS_WEBRTC_MEDIA_STREAM_DEVICES_CONTROLLER_H_
 

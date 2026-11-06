@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Chrome URLs app element
+summary: Styles the chrome-urls-app element with light and dark color scheme support and bold text used for the debug pages status.
+*/
+
 :host {
   background: white;
   color: var(--primary-color);

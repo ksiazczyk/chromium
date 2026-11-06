@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlagsState class interface
+// summary: Declares the FlagsState class that stores about:flags state, plus platform bitmask constants and access and sentinel modes.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_FLAGS_STATE_H_
 #define COMPONENTS_WEBUI_FLAGS_FLAGS_STATE_H_
 

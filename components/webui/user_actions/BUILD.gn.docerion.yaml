@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the user_actions component
+summary: Defines the static_library target for the user_actions WebUI component, listing its sources and dependencies on base, WebUI resources, and content public browser.

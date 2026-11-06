@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version UI constants declarations
+// summary: Declares the string constants shared between the version page code and its resource files, including platform-specific declarations.
+// ---
+
 #ifndef COMPONENTS_WEBUI_VERSION_VERSION_UI_CONSTANTS_H_
 #define COMPONENTS_WEBUI_VERSION_VERSION_UI_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flags test helpers implementation
+// summary: Implements test helpers that load flag metadata and validate owners, expiry milestones, never-expire listings and alphabetical ordering of flags.
+// ---
+
 #include "components/webui/flags/flags_test_helpers.h"
 
 #include <gtest/gtest.h>

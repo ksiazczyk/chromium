@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebCrypto include rules
+summary: Lists the allowed include paths for the directory, covering crypto, Mojo, BoringSSL, re2, Blink, and FuzzTest headers.

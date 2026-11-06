@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Placeholder HTML page for disabled internal debug pages
+summary: WebUI HTML page showing a localized heading and body message with light and dark theme styling, and loading app.js on non-iOS platforms.

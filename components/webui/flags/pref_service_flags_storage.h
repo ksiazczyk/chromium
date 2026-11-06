@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefService-backed flags storage class declaration
+// summary: Declares PrefServiceFlagsStorage, the FlagsStorage implementation used on desktop Chrome that stores enabled flags in a PrefService and registers its preferences.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_PREF_SERVICE_FLAGS_STORAGE_H_
 #define COMPONENTS_WEBUI_FLAGS_PREF_SERVICE_FLAGS_STORAGE_H_
 

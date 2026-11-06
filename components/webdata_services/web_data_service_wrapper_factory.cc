@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataServiceWrapperFactory implementation
+// summary: Implements the browser-context keyed service factory that lazily creates and returns WebDataServiceWrapper instances for a given context.
+// ---
+
 #include "components/webdata_services/web_data_service_wrapper_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

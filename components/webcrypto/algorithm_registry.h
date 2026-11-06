@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookup of WebCrypto algorithm implementations
+// summary: Declares GetAlgorithmImplementation, which returns the registered implementation for a WebCrypto algorithm ID or an error status when none exists.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHM_REGISTRY_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHM_REGISTRY_H_
 

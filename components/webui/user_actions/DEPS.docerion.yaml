@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for user_actions
+summary: Specifies the allowed include rules for the user_actions directory, permitting content public browser headers and the generated user_actions UI resource headers.

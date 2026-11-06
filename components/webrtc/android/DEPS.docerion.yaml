@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebRTC Android dependency include rules
+summary: DEPS include rules allowing this component to depend on the browser UI notifications and URL formatter Android directories.

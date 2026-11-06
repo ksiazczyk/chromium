@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secret key generation and JWK utilities
+// summary: Provides functions to generate and create WebCrypto symmetric secret keys and to serialize and parse them in JWK format.
+// ---
+
 #include "components/webcrypto/algorithms/secret_key_util.h"
 
 #include "components/webcrypto/algorithms/util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES-GCM encrypt and decrypt implementation
+// summary: Implements the AES-GCM WebCrypto AEAD algorithm via BoringSSL, validating tag lengths and supporting 128- and 256-bit keys with IV and optional additional data.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

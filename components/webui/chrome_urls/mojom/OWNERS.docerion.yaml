@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the chrome_urls mojom directory
+summary: Delegates review ownership of all .mojom files in this directory to the IPC security owners.

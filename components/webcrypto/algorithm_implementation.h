@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AlgorithmImplementation base class for WebCrypto operations
+// summary: Defines the AlgorithmImplementation base class whose virtual methods execute WebCrypto operations such as encrypt, decrypt, sign, verify, digest and generateKey, with unsupported-operation defaults.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHM_IMPLEMENTATION_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHM_IMPLEMENTATION_H_
 

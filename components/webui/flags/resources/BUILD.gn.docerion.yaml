@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Flags WebUI resources build definition
+summary: GN build rules that compile the flags page WebUI sources, stylesheets, and static files into the flags_ui target with its TypeScript dependencies.

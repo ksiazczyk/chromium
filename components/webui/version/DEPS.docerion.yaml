@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the version component
+summary: Grants the version component include access to //components/variations through GN include rules.

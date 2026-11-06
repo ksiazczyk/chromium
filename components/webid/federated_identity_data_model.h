@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Federated identity data model interface
+// summary: Declares the abstract FederatedIdentityDataModel interface with a DataKey class and virtual methods to list and remove federated identity data.
+// ---
+
 #ifndef COMPONENTS_WEBID_FEDERATED_IDENTITY_DATA_MODEL_H_
 #define COMPONENTS_WEBID_FEDERATED_IDENTITY_DATA_MODEL_H_
 

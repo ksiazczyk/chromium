@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X25519 WebCrypto algorithm implementation
+// summary: Implements the X25519 key agreement algorithm for WebCrypto, covering key pair generation, raw, SPKI, PKCS8 and JWK import and export, and secret derivation using BoringSSL.
+// ---
+
 #include "components/webcrypto/algorithms/x25519.h"
 
 #include <string_view>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Lists the allowed include dependencies for the webrtc component directory, such as content settings, permissions, net, Blink common and WebRTC overrides.

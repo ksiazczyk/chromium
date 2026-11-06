@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of WebRTC text log list path helpers
+// summary: Implements static helpers that resolve WebRTC log directories and the log list file path for a browser context.
+// ---
+
 #include "components/webrtc_logging/browser/text_log_list.h"
 
 #include "base/files/file.h"

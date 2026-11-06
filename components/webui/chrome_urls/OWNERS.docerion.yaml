@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome_urls
+summary: Delegates code ownership of the directory to the platform owners list referenced in ui/webui/PLATFORM_OWNERS.

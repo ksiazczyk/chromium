@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ECDSA
+// summary: Tests ECDSA key generation randomness, empty usage rejection, and probabilistic signature behavior using JSON test data for the WebCrypto implementation.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

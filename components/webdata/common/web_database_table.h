@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDatabaseTable abstract base class
+// summary: Declares the abstract base class for tables within a WebDatabase, defining type keys plus table creation and version migration interfaces for subclasses.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEB_DATABASE_TABLE_H_
 #define COMPONENTS_WEBDATA_COMMON_WEB_DATABASE_TABLE_H_
 

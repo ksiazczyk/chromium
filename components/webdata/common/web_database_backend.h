@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDatabaseBackend class declaration
+// summary: Declares the refcounted WebDatabaseBackend that runs database tasks on the DB sequence and notifies a delegate when the database has loaded.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEB_DATABASE_BACKEND_H_
 #define COMPONENTS_WEBDATA_COMMON_WEB_DATABASE_BACKEND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blink key handle wrappers for symmetric and asymmetric keys
+// summary: Implements SymKey and AsymKey wrappers that store raw key bytes or a BoringSSL EVP_PKEY inside a Blink WebCryptoKeyHandle, plus accessors and factory functions.
+// ---
+
 #include "components/webcrypto/blink_key_handle.h"
 
 #include <utility>

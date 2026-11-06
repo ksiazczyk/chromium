@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for webdata common
+summary: DEPS file granting the webdata common directory access to headers under components/os_crypt/async.

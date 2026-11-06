@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media stream device enumerator implementation header
+// summary: Declares MediaStreamDeviceEnumeratorImpl, the default media stream device enumerator that passes through to content::MediaCaptureDevices.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_MEDIA_STREAM_DEVICE_ENUMERATOR_IMPL_H_
 #define COMPONENTS_WEBRTC_MEDIA_STREAM_DEVICE_ENUMERATOR_IMPL_H_
 

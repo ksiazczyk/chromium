@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebRTC logging build configuration
+summary: Defines the testonly unit_tests source set that builds logging_unittest.cc with base, gmock, gtest and webrtc_overrides dependencies.

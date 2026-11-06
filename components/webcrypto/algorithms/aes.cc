@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES algorithm base implementation for WebCrypto
+// summary: Implements shared AES WebCrypto behavior including key generation, raw and JWK key import and export, clone deserialization, and key length handling, with 192-bit AES rejected.
+// ---
+
 #include "components/webcrypto/algorithms/aes.h"
 
 #include <stddef.h>

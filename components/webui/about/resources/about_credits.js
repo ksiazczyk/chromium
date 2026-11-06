@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credits page behavior script
+// summary: Enables the print link and lets the Enter key toggle license visibility on the credits page.
+// ---
+
 /* eslint-disable no-restricted-properties */
 function $(id) {
   return document.getElementById(id);

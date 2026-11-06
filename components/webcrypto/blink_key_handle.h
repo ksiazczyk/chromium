@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Helpers for Blink WebCrypto key handles
+// summary: Declares helpers for creating Blink key handles and for extracting symmetric key bytes or the underlying EVP_PKEY from asymmetric keys.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_BLINK_KEY_HANDLE_H_
 #define COMPONENTS_WEBCRYPTO_BLINK_KEY_HANDLE_H_
 

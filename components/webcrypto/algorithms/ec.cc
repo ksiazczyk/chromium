@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elliptic curve key handling for WebCrypto algorithms
+// summary: Implements shared elliptic curve functionality for WebCrypto, mapping named curves to BoringSSL NIDs and JWK crv values and handling EC key generation, import, and export.
+// ---
+
 #include "components/webcrypto/algorithms/ec.h"
 
 #include <stddef.h>

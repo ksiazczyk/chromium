@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC ThreadWrapper implementation
+// summary: Implements the webrtc::Thread interface on top of Chromium's SingleThreadTaskRunner, including periodic sampling of task latency and duration for UMA statistics.
+// ---
+
 #include "components/webrtc/thread_wrapper.h"
 
 #include <stddef.h>

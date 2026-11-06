@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User actions WebUI controller declaration
+// summary: Declares the WebUI controller class for the user-actions page together with its internal WebUI configuration class.
+// ---
+
 #ifndef COMPONENTS_WEBUI_USER_ACTIONS_USER_ACTIONS_UI_H_
 #define COMPONENTS_WEBUI_USER_ACTIONS_USER_ACTIONS_UI_H_
 

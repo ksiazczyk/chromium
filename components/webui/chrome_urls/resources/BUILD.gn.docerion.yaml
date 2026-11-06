@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for chrome_urls WebUI resources
+summary: GN build configuration that assembles the chrome_urls WebUI from its HTML, TypeScript and CSS sources and declares its Lit, cr_elements and Mojo dependencies.

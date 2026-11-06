@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML-KEM-768-X25519 implementation class header
+// summary: Declares the MlKem768X25519Implementation class with key generation, import/export, encapsulation, decapsulation, and clone serialization methods.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_MLKEM768_X25519_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_MLKEM768_X25519_H_
 

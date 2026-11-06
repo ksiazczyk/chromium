@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebCrypto test helper declarations
+// summary: Declares the WebCryptoTestBase class and shared test utilities such as byte comparison macros, JSON test file readers and key generation helpers.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHMS_TEST_HELPERS_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHMS_TEST_HELPERS_H_
 

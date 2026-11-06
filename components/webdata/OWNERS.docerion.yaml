@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the webdata component
+summary: Lists the owners responsible for reviewing changes here and defers SQLite-related questions to the sql directory owners.

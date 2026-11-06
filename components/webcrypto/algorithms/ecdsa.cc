@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDSA sign and verify WebCrypto implementation
+// summary: Implements ECDSA signing and verification for WebCrypto, converting between DER-encoded ECDSA-Sig-Value and the raw concatenated r and s signature format using BoringSSL.
+// ---
+
 #include "third_party/boringssl/src/include/openssl/ecdsa.h"
 
 #include <stddef.h>

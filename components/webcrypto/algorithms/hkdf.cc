@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HKDF WebCrypto algorithm implementation
+// summary: Implements the HKDF key derivation algorithm for Chromium's WebCrypto, supporting raw key import and DeriveBits with configurable hash, salt and info parameters.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

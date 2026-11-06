@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the webid component
+summary: Defines the static_library target for the webid component, listing the federated identity data model sources and depending on //url.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for webdata_services
+summary: Delegates code review ownership to the shared owners list of the //components/webdata directory.

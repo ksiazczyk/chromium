@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version UI constants definitions
+// summary: Defines string constants for message handler names, response keys, and UI labels used by the browser's version page, with platform-specific entries.
+// ---
+
 #include "components/webui/version/version_ui_constants.h"
 
 #include "build/build_config.h"

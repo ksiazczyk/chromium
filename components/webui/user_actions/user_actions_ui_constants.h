@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User actions WebUI host constant
+// summary: Defines the constant holding the host name used to identify the user-actions WebUI page.
+// ---
+
 #ifndef COMPONENTS_WEBUI_USER_ACTIONS_USER_ACTIONS_UI_CONSTANTS_H_
 #define COMPONENTS_WEBUI_USER_ACTIONS_USER_ACTIONS_UI_CONSTANTS_H_
 

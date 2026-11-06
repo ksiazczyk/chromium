@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flags storage interface
+// summary: Defines the abstract FlagsStorage interface that lets about:flags store and retrieve enabled flags from sources such as PrefService and CrosSettings.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_FLAGS_STORAGE_H_
 #define COMPONENTS_WEBUI_FLAGS_FLAGS_STORAGE_H_
 

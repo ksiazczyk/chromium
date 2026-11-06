@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the media stream devices controller
+// summary: Unit tests for MediaStreamDevicesController using fake capture devices, a fake enumerator, and test browser and permission infrastructure.
+// ---
+
 #include "components/webrtc/media_stream_devices_controller.h"
 
 #include "base/strings/string_number_conversions.h"

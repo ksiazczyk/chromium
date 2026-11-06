@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the about component
+summary: Lists the code owners for the directory, referencing the WebUI platform owners plus two individual owners.

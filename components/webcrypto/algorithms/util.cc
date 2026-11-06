@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared utility implementations for WebCrypto algorithms
+// summary: Implements shared helpers for WebCrypto algorithms, including digest lookup, bit-length truncation, key usage validation, and AEAD encryption and decryption via BoringSSL.
+// ---
+
 #include "components/webcrypto/algorithms/util.h"
 
 #include "base/check_op.h"

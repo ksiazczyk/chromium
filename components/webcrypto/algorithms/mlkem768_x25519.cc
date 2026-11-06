@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML-KEM-768-X25519 WebCrypto algorithm implementation
+// summary: Implements key generation, import, and export for the ML-KEM-768-X25519 hybrid KEM in Chromium's WebCrypto using BoringSSL, with raw public, raw seed, and JWK formats.
+// ---
+
 #include "components/webcrypto/algorithms/mlkem768_x25519.h"
 
 #include "components/webcrypto/algorithms/asymmetric_key_util.h"

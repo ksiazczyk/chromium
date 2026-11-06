@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result types for the web data service
+// summary: Defines the WDResultType enum covering autofill, payments and keyword results, plus the WDTypedResult base class.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEB_DATA_RESULTS_H_
 #define COMPONENTS_WEBDATA_COMMON_WEB_DATA_RESULTS_H_
 

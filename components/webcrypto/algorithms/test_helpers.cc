@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebCrypto test helper implementation
+// summary: Implements shared helpers for WebCrypto unit tests, including JSON test file loading, status comparison and formatting, and key import utilities.
+// ---
+
 #include "components/webcrypto/algorithms/test_helpers.h"
 
 #include <stddef.h>

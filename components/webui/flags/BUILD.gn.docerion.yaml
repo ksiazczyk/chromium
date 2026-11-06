@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the flags component
+summary: Defines static library targets for the flags component, a separate switches target, test support, and unit tests with their dependencies.

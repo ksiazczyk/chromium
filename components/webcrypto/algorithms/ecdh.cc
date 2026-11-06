@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDH key derivation WebCrypto implementation
+// summary: Implements ECDH key derivation for WebCrypto, validating public key type, algorithm, and curve before computing shared secret bits through BoringSSL.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

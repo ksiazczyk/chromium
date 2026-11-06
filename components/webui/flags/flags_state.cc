@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlagsState implementation
+// summary: Implements the core flags logic, converting stored flags to command line switches, migrating renamed flags, and sanitizing enabled entries.
+// ---
+
 #include "components/webui/flags/flags_state.h"
 
 #include <algorithm>

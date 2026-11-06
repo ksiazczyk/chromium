@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AES-CTR unit tests
+// summary: Unit tests for the AES-CTR WebCrypto implementation using RFC 3686 known-answer vectors, including counter wraparound cases and invalid parameter handling.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

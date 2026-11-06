@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCaptureNotificationUtil
+// summary: Android helper that builds ongoing notifications for WebRTC media capture, covering audio, video, tab, window and screen capture types with optional stop actions.
+// ---
+
 package org.chromium.components.webrtc;
 
 import android.app.PendingIntent;

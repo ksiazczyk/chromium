@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML-DSA WebCrypto algorithm implementation
+// summary: Implements the ML-DSA (44, 65, 87) post-quantum signature algorithms for Chromium's WebCrypto, including key generation, import and export, and sign and verify with an optional signature context.
+// ---
+
 #include "components/webcrypto/algorithms/ml_dsa.h"
 
 #include "components/webcrypto/algorithms/asymmetric_key_util.h"

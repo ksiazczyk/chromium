@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebDataServiceWrapper unit tests
+// summary: Verifies that pending keyword web data operations are written on shutdown and that wrapper creation works with sync feature flags enabled or disabled.
+// ---
+
 #include "components/webdata_services/web_data_service_wrapper.h"
 
 #include <memory>

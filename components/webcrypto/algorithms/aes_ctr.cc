@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AES-CTR encrypt and decrypt implementation
+// summary: Implements the AES-CTR WebCrypto algorithm using BoringSSL, handling counter extraction, zeroing, increment, and wraparound for counter lengths from 1 to 128 bits.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebDatabaseService unit tests
+// summary: Unit tests verifying that tasks scheduled through WebDatabaseService run with results and that pending requests can be cancelled.
+// ---
+
 #include "components/webdata/common/web_database_service.h"
 
 #include <array>

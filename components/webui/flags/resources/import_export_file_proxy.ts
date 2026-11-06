@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import/export file proxy for the flags UI
+// summary: Defines an ImportExportFileProxy interface and singleton implementation that handles file downloads, file selection, and clipboard read/write for the flags web UI.
+// ---
+
 export interface ImportExportFileProxy {
   downloadFile(a: HTMLAnchorElement): void;
   selectFile(input: HTMLInputElement): void;

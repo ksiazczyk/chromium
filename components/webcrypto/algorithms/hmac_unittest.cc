@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HMAC WebCrypto algorithm unit tests
+// summary: Unit tests for the WebCrypto HMAC implementation, using NIST and OpenSSL-derived known-answer vectors to verify key generation, import, signing and verification across SHA variants.
+// ---
+
 #include <limits.h>
 #include <stddef.h>
 #include <stdint.h>

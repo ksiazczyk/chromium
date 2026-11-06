@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Blink WebCrypto interface
+// summary: Implements WebCryptoImpl, dispatching Blink's asynchronous WebCrypto operations to a dedicated worker thread that runs the synchronous crypto implementation.
+// ---
+
 
 #include "components/webcrypto/webcrypto_impl.h"
 

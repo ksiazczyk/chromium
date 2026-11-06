@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCrypto operation dispatch header
+// summary: Declares synchronous entry points for WebCrypto operations such as encrypt, decrypt, digest, key generation, import and export, sign and verify, wrap, and derive.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_ALGORITHM_DISPATCH_H_
 #define COMPONENTS_WEBCRYPTO_ALGORITHM_DISPATCH_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker and team metadata for webdata
+summary: Declares the Monorail component, team email address, and public Buganizer component ID used for issues in this directory.

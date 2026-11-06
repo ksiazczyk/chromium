@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for flags WebUI actions
+// summary: Defines the Feature data types and the browser proxy used to request, enable, select, set, import, export, and reset flags via chrome.send.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

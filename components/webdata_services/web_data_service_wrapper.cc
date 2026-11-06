@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataServiceWrapper implementation
+// summary: Implements initialization of the autofill, keyword, token, and payments web data services, including their sync bridges and database task sequencing.
+// ---
+
 #include "components/webdata_services/web_data_service_wrapper.h"
 
 #include <memory>

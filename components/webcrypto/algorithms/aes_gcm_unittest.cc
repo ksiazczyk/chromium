@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AES-GCM unit tests
+// summary: Unit tests for the AES-GCM WebCrypto implementation with NIST known-answer vectors, key generation and usage checks, and JWK import and export tests.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

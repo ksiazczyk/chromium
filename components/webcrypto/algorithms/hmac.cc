@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HMAC WebCrypto algorithm implementation
+// summary: Implements the HMAC algorithm for Chromium's WebCrypto, covering key generation and import with length handling, JWK names for SHA variants, and sign and verify operations.
+// ---
+
 #include "third_party/boringssl/src/include/openssl/hmac.h"
 
 #include <stddef.h>

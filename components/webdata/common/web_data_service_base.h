@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebDataServiceBase class declaration
+// summary: Declares the base class of the web data service hierarchy, including request handles and profile error callbacks.
+// ---
+
 #ifndef COMPONENTS_WEBDATA_COMMON_WEB_DATA_SERVICE_BASE_H_
 #define COMPONENTS_WEBDATA_COMMON_WEB_DATA_SERVICE_BASE_H_
 

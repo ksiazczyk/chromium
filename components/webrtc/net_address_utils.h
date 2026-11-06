@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network address conversion utilities header
+// summary: Declares conversion helpers between Chromium network address types and the WebRTC socket and IP address representations.
+// ---
+
 #ifndef COMPONENTS_WEBRTC_NET_ADDRESS_UTILS_H_
 #define COMPONENTS_WEBRTC_NET_ADDRESS_UTILS_H_
 

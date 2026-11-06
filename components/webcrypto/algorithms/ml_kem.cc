@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ML-KEM WebCrypto algorithm implementation
+// summary: Implements the ML-KEM (768, 1024) key encapsulation algorithms for Chromium's WebCrypto, including key generation, import and export, encapsulation and decapsulation.
+// ---
+
 #include "components/webcrypto/algorithms/ml_kem.h"
 
 #include "components/webcrypto/algorithm_dispatch.h"

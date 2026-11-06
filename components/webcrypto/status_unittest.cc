@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebCrypto Status class
+// summary: Verifies that Status objects compare correctly and produce the expected error details and error types for success, operation, data, and JWK errors.
+// ---
+
 #include "components/webcrypto/status.h"
 #include "components/webcrypto/algorithm_dispatch.h"
 #include "components/webcrypto/algorithms/test_helpers.h"

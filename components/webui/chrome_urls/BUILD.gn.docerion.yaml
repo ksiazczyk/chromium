@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chrome_urls static library
+summary: Defines the GN static_library target chrome_urls, listing pref_names.cc and pref_names.h as sources and depending on //components/prefs.

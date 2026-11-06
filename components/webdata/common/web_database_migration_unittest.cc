@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web database migration tests
+// summary: Unit tests exercising WebDatabase schema migrations across versions, comparing resulting schemas against golden version SQL files for autofill, payments, signin and other tables.
+// ---
+
 #include <algorithm>
 #include <string>
 

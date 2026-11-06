@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for webrtc_logging common
+summary: GN build file defining the common source set with PartialCircularBuffer and a testonly unit_tests target depending on base and gtest.

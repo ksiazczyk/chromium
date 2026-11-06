@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the version page resources
+summary: GN build file that compiles the version page resources, listing static files, TypeScript sources and platform-specific dependencies.

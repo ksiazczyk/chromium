@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the flags directory
+summary: Lists the owners responsible for reviewing changes to the flags directory, referencing platform web UI owners.

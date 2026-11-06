@@ -1,0 +1,4 @@
+# Docerion header of user_actions.html.
+type: source
+title: User Actions Debug Page
+summary: HTML shell for the User Actions debug page that loads its stylesheet and module script and displays a table of user actions with timestamps.

@@ -1,0 +1,4 @@
+# Docerion header of flags.html.
+type: source
+title: HTML entry page for the flags WebUI
+summary: HTML shell that loads the app module script and hosts the flags-app element for the browser's flags page, with iOS-specific viewport handling.

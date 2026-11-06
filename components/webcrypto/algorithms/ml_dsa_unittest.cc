@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ML-DSA WebCrypto algorithm unit tests
+// summary: Parameterized unit tests for the WebCrypto ML-DSA implementation, covering key generation, sign and verify, and behavior with and without a signature context.
+// ---
+
 #include "components/webcrypto/algorithms/ml_dsa.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experiment element for individual flags
+// summary: Defines the flags-experiment Lit element that renders one feature entry, applies search hit highlighting, and reports value changes to the browser proxy.
+// ---
+
 import '/strings.m.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

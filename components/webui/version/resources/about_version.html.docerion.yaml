@@ -1,0 +1,4 @@
+# Docerion header of about_version.html.
+type: source
+title: Version page HTML template
+summary: HTML template for the browser version page showing the product logo, version, revision and OS details with localized placeholders and platform conditionals.

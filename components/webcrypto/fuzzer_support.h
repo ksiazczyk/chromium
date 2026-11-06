@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzer support declarations for key import
+// summary: Declares helper functions for importing EC and RSA keys from fuzz data in the WebCrypto fuzzers.
+// ---
+
 #ifndef COMPONENTS_WEBCRYPTO_FUZZER_SUPPORT_H_
 #define COMPONENTS_WEBCRYPTO_FUZZER_SUPPORT_H_
 

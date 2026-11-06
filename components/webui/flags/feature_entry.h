@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureEntry data type
+// summary: Defines the FeatureEntry struct and its entry types used to describe experimental features in the flags UI.
+// ---
+
 #ifndef COMPONENTS_WEBUI_FLAGS_FEATURE_ENTRY_H_
 #define COMPONENTS_WEBUI_FLAGS_FEATURE_ENTRY_H_
 

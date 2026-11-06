@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the webdata_common component
+summary: GN build file defining the webdata_common component sources and the unit_tests source_set with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the webdata component
+summary: Defines allowed include dependencies for the webdata component, with extra test-only dependencies on autofill, password manager, payments, search engines, and sync.
