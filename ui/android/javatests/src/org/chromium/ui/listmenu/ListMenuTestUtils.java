@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListMenuTestUtils
+// summary: Test utilities for ListMenu that capture the shown popup window as a Mockito spy so tests can verify menu properties.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import org.mockito.Mockito;

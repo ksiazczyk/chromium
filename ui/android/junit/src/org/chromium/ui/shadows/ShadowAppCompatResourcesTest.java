@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the ShadowAppCompatResources shadow
+// summary: Robolectric test verifying that the ShadowAppCompatResources shadow returns drawables created from the expected resource ID.
+// ---
+
 package org.chromium.ui.shadows;
 
 import static org.junit.Assert.assertEquals;

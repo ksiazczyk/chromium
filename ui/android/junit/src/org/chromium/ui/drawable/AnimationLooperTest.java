@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationLooperTest
+// summary: Robolectric unit test verifying AnimationLooper start, stop, looping callback behavior, and error handling when animators are disabled or started twice.
+// ---
+
 package org.chromium.ui.drawable;
 
 import static org.mockito.Mockito.never;

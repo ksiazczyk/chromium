@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrawableTranslationAnimatorFactoryUnitTest
+// summary: Robolectric unit tests checking that drawable translation animators reach the requested displacement and return to the original bounds.
+// ---
+
 package org.chromium.ui.animation;
 
 import static org.junit.Assert.assertEquals;

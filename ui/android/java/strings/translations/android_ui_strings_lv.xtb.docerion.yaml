@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_lv.xtb.
+type: data
+title: Android UI strings in Latvian
+summary: Latvian translation bundle providing localized Android UI strings for Chrome, covering clipboard actions, photo picker, menus and error messages.

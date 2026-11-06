@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_km.xtb.
+type: data
+title: Khmer Android UI strings translation bundle
+summary: Khmer translations of Chrome Android UI strings, covering photo picker, clipboard, URL, and menu messages in the XTB translation bundle format.

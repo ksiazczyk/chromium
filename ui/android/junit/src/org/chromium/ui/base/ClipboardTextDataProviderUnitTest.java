@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardTextDataProvider unit tests
+// summary: Robolectric unit tests for ClipboardTextDataProvider verifying storing and reading text, HTML, and web custom data via a content provider.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.junit.Assert.assertArrayEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorBlendAnimationFactoryTest
+// summary: Robolectric unit tests verifying color blend animations end at the target color for single and multi-color blends, including fully transparent colors.
+// ---
+
 package org.chromium.ui.util;
 
 import static org.junit.Assert.assertArrayEquals;

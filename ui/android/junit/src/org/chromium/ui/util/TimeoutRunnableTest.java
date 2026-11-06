@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeoutRunnableTest
+// summary: Robolectric unit tests verifying TimeoutRunnable fires its timeout callback, runs the normal callback before expiry, and honors cancellation in all orderings.
+// ---
+
 package org.chromium.ui.util;
 
 import org.junit.Assert;

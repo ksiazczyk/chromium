@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System UI resource type enum
+// summary: Defines the SystemUIResourceType enum, currently containing OVERSCROLL_GLOW, with a Java counterpart generated for it.
+// ---
+
 #ifndef UI_ANDROID_RESOURCES_SYSTEM_UI_RESOURCE_TYPE_H_
 #define UI_ANDROID_RESOURCES_SYSTEM_UI_RESOURCE_TYPE_H_
 

@@ -1,3 +1,11 @@
+---
+type: guide
+title: RENDER_TESTS.md
+summary: Explains Chromium's Android render tests, covering how to fix failing pixel diff tests via Skia Gold triage and how to write new render tests.
+relations:
+  - documents /ui/android/javatests/src/org/chromium/ui/test/util/RenderTestRule.java
+---
+
 # Render Tests
 
 Render tests are the way of performing pixel diff/image comparison tests in

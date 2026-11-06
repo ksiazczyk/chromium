@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bayer dithering
+// summary: Applies 4x4 Bayer dithering to block pixel data to mask banding artifacts before quantization.
+// ---
+
 use std::simd::prelude::*;
 use std::simd::Simd;
 

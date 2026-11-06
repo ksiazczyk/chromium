@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListMenuHost unit tests
+// summary: Robolectric unit tests verifying ListMenuHost popup anchoring attributes, animation styles for start and end alignment, and menu display via view builders.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.junit.Assert.assertFalse;

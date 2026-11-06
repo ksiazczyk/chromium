@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_ne.xtb.
+type: data
+title: Nepali Android UI string translations
+summary: Nepali translations of Android UI strings covering photo picker, clipboard and error messages, stored as an XTB translation bundle.

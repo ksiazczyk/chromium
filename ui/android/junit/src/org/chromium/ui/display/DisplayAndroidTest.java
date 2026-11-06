@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for DisplayAndroid
+// summary: Robolectric unit tests verifying that DisplayAndroid notifies observers only when display modes or adaptive refresh rate info actually change.
+// ---
+
 package org.chromium.ui.display;
 
 import static org.mockito.Mockito.reset;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityAndroidPermissionDelegateTest
+// summary: Robolectric unit tests verifying the behavior of ActivityAndroidPermissionDelegate and AndroidPermissionDelegateWithRequester, including permission checks and request handling.
+// ---
+
 package org.chromium.ui.permissions;
 
 import static org.junit.Assert.assertEquals;

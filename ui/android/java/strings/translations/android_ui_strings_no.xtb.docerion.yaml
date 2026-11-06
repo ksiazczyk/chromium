@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_no.xtb.
+type: data
+title: Norwegian Android UI string translations
+summary: Norwegian translations of Android UI strings covering photo picker, clipboard and error messages, stored as an XTB translation bundle.

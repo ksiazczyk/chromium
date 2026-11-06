@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureResult class header
+// summary: Declares the stack-allocated CaptureResult class that mirrors org.chromium.ui.resources.dynamics.CaptureResult and provides JNI conversion support.
+// ---
+
 #ifndef UI_ANDROID_RESOURCES_CAPTURE_RESULT_H_
 #define UI_ANDROID_RESOURCES_CAPTURE_RESULT_H_
 

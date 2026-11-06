@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceRestriction
+// summary: Defines device form factor restriction constants, such as automotive and non-foldable, for use with the Restriction annotation in Android UI tests.
+// ---
+
 package org.chromium.ui.test.util;
 
 import org.chromium.base.DeviceInfo;

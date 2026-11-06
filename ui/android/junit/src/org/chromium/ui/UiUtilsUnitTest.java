@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UiUtilsUnitTest
+// summary: Robolectric unit tests for UiUtils helpers, covering link movement method setup on TextViews, menu width clamping, and adapter view recycling behavior.
+// ---
+
 package org.chromium.ui;
 
 import android.content.Context;

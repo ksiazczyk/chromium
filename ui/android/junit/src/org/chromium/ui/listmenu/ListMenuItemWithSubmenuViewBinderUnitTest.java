@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListMenuItemWithSubmenuViewBinder unit tests
+// summary: Robolectric unit tests for ListMenuItemWithSubmenuViewBinder covering icon tinting, touch listeners, and generic motion listener binding on submenu items.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.mockito.Mockito.verify;

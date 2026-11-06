@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETC1 bitmap compression utilities implementation
+// summary: Implements ETC1 compression and decompression of bitmaps, the on-disk compressed format with header and trailer, and a Rust-based decoder path.
+// ---
+
 #include "ui/android/resources/etc1_utils.h"
 
 #include <algorithm>

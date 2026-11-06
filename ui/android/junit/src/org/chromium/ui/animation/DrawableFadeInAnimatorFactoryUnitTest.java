@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrawableFadeInAnimatorFactoryUnitTest
+// summary: Robolectric unit tests verifying that the drawable fade-in animator ends with the drawable fully visible at alpha 255.
+// ---
+
 package org.chromium.ui.animation;
 
 import static org.junit.Assert.assertEquals;

@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: Test layout setting leading directly on TextViewWithLeading
+summary: Test layout that sets the app:leading attribute directly alongside a text appearance on TextViewWithLeading.
+-->
+
 <org.chromium.ui.widget.TextViewWithLeading
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"

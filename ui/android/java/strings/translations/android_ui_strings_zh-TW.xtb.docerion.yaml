@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_zh-TW.xtb.
+type: data
+title: Traditional Chinese (Taiwan) Android UI strings translation bundle
+summary: Traditional Chinese (zh-TW) XTB translation bundle providing localized Chrome Android UI strings for photo picker errors, copy confirmations, and menu labels.

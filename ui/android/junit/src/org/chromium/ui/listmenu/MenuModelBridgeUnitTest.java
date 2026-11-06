@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuModelBridge unit tests
+// summary: Robolectric unit tests verifying MenuModelBridge converts menu commands, checks, radio buttons, and submenus into list items with correct properties and ordering.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.junit.Assert.assertEquals;

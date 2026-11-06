@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlyoutController unit tests
+// summary: Robolectric unit tests for FlyoutController, covering flyout display, click handling, and accessibility events in hierarchical menus.
+// ---
+
 package org.chromium.ui.hierarchicalmenu;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeResourceWrapper Java usage tests
+// summary: Robolectric tests demonstrating ThemeResourceWrapper usage, checking that activity setTheme becomes a no-op while the wrapper overlay is active and other attributes remain unaffected.
+// ---
+
 package org.chromium.ui.theme;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_nl.xtb.
+type: data
+title: Dutch Android UI string translations
+summary: Dutch translations of Android UI strings covering photo picker, clipboard and error messages, stored as an XTB translation bundle.

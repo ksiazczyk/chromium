@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestViewAndroidDelegate
+// summary: Test double of ViewAndroidDelegate that mimics Chrome's behavior for native tests, tracking viewport insets and cursor changes.
+// ---
+
 package org.chromium.ui.test.util;
 
 import android.graphics.Bitmap;

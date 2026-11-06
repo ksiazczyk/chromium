@@ -1,3 +1,9 @@
+---
+type: readme
+title: Texture Compressor
+summary: Describes the ETC1 texture compressor's goals, SIMD algorithm, decoder benchmark tool usage, similar projects, and missing features.
+---
+
 # Texture Compressor
 
 This directory contains a compressor for GPU texture formats. It is primarily

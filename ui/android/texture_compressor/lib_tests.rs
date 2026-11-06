@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Library unit tests
+// summary: GTest tests for ETC1 codeword interleaving, mirrored input block loading, and a compress/decompress round trip on a non-block-aligned image.
+// ---
+
 use rust_gtest_interop::prelude::*;
 use std::simd::prelude::*;
 

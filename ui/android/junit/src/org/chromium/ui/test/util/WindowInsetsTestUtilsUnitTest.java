@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WindowInsetsTestUtils SpyWindowInsetsBuilder
+// summary: Robolectric unit tests verifying that SpyWindowInsetsBuilder builds WindowInsetsCompat with correct insets for status bars, navigation bars, caption bar, display cutout, and system bars.
+// ---
+
 package org.chromium.ui.test.util;
 
 import static org.junit.Assert.assertEquals;

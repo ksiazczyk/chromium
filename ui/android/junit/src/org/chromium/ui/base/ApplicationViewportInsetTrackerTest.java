@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ApplicationViewportInsetTracker unit tests
+// summary: Robolectric unit tests for ApplicationViewportInsetTracker verifying viewport inset values and observer updates across virtual keyboard modes.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.junit.Assert.assertEquals;

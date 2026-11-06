@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DragDropGlobalState unit tests
+// summary: Robolectric tests for DragDropGlobalState covering storing, retrieving, and clearing drag state via tokens, including invalid token handling and shadow builder access.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import static org.junit.Assert.assertEquals;

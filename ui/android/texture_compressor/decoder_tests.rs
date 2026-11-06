@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decoder unit tests
+// summary: GTest unit tests verifying ETC1 metadata parsing, bit scaling, delta reading, and modifier application in individual and differential modes.
+// ---
+
 // Bits of inputs are grouped in a way that follows their inner structure.
 #![allow(clippy::unusual_byte_groupings)]
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Robolectric shadow for AppCompatResources
+// summary: Robolectric shadow that replaces AppCompatResources.getDrawable and getColorStateList with test doubles for use in local Android unit tests.
+// ---
+
 package org.chromium.ui.shadows;
 
 import android.content.Context;

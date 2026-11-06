@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the ui theme tests
+summary: Forwards code ownership of the theme test directory to the OWNERS file in the corresponding ui android java source directory.

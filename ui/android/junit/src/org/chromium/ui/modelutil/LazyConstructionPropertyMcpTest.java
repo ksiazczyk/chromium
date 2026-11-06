@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LazyConstructionPropertyMcpTest
+// summary: Unit tests for LazyConstructionPropertyMcp, verifying deferred view inflation and property binding when visibility changes.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import static com.google.common.truth.Truth.assertThat;

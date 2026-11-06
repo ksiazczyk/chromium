@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewRectProviderTest
+// summary: Robolectric unit tests for ViewRectProvider that check rect change and hidden notifications using a custom ShadowView to control view visibility and window position.
+// ---
+
 package org.chromium.ui.widget;
 
 import android.app.Activity;

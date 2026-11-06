@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitmapDynamicResource unit tests
+// summary: Robolectric unit tests for BitmapDynamicResource covering bitmap retrieval, garbage collection of replaced and consumed bitmaps, and no-op behavior of onResourceRequested when not ready.
+// ---
+
 package org.chromium.ui.resources.dynamics;
 
 import static org.junit.Assert.assertEquals;

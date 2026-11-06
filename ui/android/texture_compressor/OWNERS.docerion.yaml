@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Texture compressor OWNERS
+summary: Lists the code owners responsible for reviewing changes to the texture compressor directory, including a backup owner.

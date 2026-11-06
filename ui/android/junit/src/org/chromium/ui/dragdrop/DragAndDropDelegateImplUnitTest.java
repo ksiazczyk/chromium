@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DragAndDropDelegateImpl unit tests
+// summary: Robolectric unit tests for DragAndDropDelegateImpl covering drag-and-drop handling with mocked permissions, delegates, and a shadow View.startDragAndDrop implementation.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import static org.mockito.ArgumentMatchers.any;

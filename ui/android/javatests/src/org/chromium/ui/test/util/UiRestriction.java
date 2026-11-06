@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'UiRestriction: form factor restriction checks for UI tests'
+// summary: Registers form factor restriction handlers so tests annotated with Restriction can be skipped on desktop, freeform desktop, tablet, or phone devices.
+// ---
+
 package org.chromium.ui.test.util;
 
 import android.content.pm.PackageManager;

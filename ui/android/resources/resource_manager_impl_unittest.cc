@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource manager implementation unit tests
+// summary: Unit tests for ResourceManagerImpl covering resource loading, tinted resource caching and memory dump behaviour using mock UI resource management.
+// ---
+
 #include "ui/android/resources/resource_manager_impl.h"
 
 #include <stddef.h>

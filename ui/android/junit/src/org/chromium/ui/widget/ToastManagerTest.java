@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToastManagerTest
+// summary: Robolectric tests for ToastManager covering showing, canceling, and queuing toasts, including priority-based ordering of queued toasts.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.junit.Assert.assertEquals;

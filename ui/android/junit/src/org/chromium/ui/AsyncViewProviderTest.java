@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AsyncViewProviderTest
+// summary: Robolectric unit tests verifying that AsyncViewProvider creates loaded or unloaded providers for AsyncViewStub views and runs whenLoaded callbacks correctly.
+// ---
+
 package org.chromium.ui;
 
 import static org.junit.Assert.assertEquals;

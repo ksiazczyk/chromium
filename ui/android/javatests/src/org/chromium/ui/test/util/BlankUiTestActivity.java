@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlankUiTestActivity
+// summary: Simplified activity for testing UI components without Chrome browser initialization or native libraries, supporting custom themes, layouts and modal dialogs.
+// ---
+
 package org.chromium.ui.test.util;
 
 import android.content.SharedPreferences;

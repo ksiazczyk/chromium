@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource base class header
+// summary: Declares the Resource base class with its Type enum, UI resource handling, size accessors and virtual copy creation.
+// ---
+
 #ifndef UI_ANDROID_RESOURCES_RESOURCE_H_
 #define UI_ANDROID_RESOURCES_RESOURCE_H_
 

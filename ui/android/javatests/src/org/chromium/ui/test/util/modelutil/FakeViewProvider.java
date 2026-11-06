@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeViewProvider test fake for view inflation
+// summary: Fake ViewProvider implementation for tests that fulfils a view promise, tracks whether inflation started, and lets tests finish inflation with a chosen view.
+// ---
+
 package org.chromium.ui.test.util.modelutil;
 
 import static org.junit.Assert.assertTrue;

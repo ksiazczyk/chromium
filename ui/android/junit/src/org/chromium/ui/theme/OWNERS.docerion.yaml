@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates reviewer ownership for these theme tests to the OWNERS file of the main ui theme source directory.

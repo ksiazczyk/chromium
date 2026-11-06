@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership to the OWNERS file of the corresponding transition source directory in ui/android/java.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceManagerImpl native implementation
+// summary: Implements the native Android resource manager, requesting, caching and tinting UI resources from Java and reporting memory usage dumps.
+// ---
+
 #include "ui/android/resources/resource_manager_impl.h"
 
 #include <inttypes.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PropertyModelTest
+// summary: Tests validating PropertyModel interactions, including property keys, observers, and IntDef handling.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import static org.hamcrest.MatcherAssert.assertThat;

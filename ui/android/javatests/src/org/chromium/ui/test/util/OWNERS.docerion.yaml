@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Per-file ownership configuration assigning peconn@chromium.org as reviewer for RenderTestRule.java and RENDER_TESTS.md.

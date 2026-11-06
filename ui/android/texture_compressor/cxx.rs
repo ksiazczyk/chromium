@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CXX bridge for ETC1 compression
+// summary: Defines the cxx FFI bridge exposing the ETC1 compress and decompress functions to C++ callers.
+// ---
+
 #[cxx::bridge]
 mod ffi {
     extern "Rust" {

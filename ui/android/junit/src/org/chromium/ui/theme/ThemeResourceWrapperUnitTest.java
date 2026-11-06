@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeResourceWrapper unit tests
+// summary: Robolectric unit tests for ThemeResourceWrapper verifying overlay toggling, themed context primary colors, and theme observer notifications.
+// ---
+
 package org.chromium.ui.theme;
 
 import static org.junit.Assert.assertEquals;

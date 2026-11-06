@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SoftKeyboardElement
+// summary: Test element representing the soft keyboard, expecting it to be shown when entering a state and hidden when exiting it.
+// ---
+
 package org.chromium.ui.test.transit;
 
 import android.app.Activity;

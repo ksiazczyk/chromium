@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_zh-CN.xtb.
+type: data
+title: Simplified Chinese Android UI strings translation bundle
+summary: Simplified Chinese (zh-CN) XTB translation bundle providing localized Chrome Android UI strings for photo picker errors, copy confirmations, and menu labels.

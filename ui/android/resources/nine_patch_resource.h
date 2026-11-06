@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchResource class header
+// summary: Declares the NinePatchResource subclass of Resource that stores padding and aperture rectangles and exposes drawing and border helpers.
+// ---
+
 #ifndef UI_ANDROID_RESOURCES_NINE_PATCH_RESOURCE_H_
 #define UI_ANDROID_RESOURCES_NINE_PATCH_RESOURCE_H_
 

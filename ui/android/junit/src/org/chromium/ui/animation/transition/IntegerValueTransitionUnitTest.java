@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntegerValueTransition unit tests
+// summary: Robolectric unit tests verifying that IntegerValueTransition creates an animator that reports monotonically increasing values from start to target via its update callback.
+// ---
+
 package org.chromium.ui.animation.transition;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PropertyListModelTest
+// summary: Tests for PropertyListModel, verifying that sub-observers are added and removed at the correct times.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import static org.hamcrest.MatcherAssert.assertThat;

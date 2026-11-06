@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListMenuButton unit tests
+// summary: Robolectric unit tests covering ListMenuButton accessibility labels, repeated showMenu calls, secondary click handling, and pressed and focus state behavior.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PhysicalDisplayAndroid
+// summary: Robolectric unit tests verifying PhysicalDisplayAndroid properties including pixel and DIP bounds, insets, rotation, density, refresh rates, and UI scaling factors.
+// ---
+
 package org.chromium.ui.display;
 
 import static org.junit.Assert.assertArrayEquals;

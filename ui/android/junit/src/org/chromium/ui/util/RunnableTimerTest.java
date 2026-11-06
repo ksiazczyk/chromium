@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RunnableTimerTest
+// summary: Robolectric unit tests verifying RunnableTimer starts, cancels, and resets timers so the wrapped runnable runs only while the timer is active.
+// ---
+
 package org.chromium.ui.util;
 
 import static org.mockito.Mockito.verify;

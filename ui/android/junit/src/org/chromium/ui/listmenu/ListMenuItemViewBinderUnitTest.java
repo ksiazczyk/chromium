@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListMenuItemViewBinder unit tests
+// summary: Robolectric unit tests for ListMenuItemViewBinder covering binding of menu item title, subtitle, icons, and shortcut views to property models.
+// ---
+
 package org.chromium.ui.listmenu;
 
 import static org.mockito.Mockito.verify;

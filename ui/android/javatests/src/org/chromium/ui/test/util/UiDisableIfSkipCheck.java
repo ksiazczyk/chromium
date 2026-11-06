@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UiDisableIfSkipCheck
+// summary: Skip check that conditionally disables tests based on device form factor, such as phone, tablet, desktop and automotive.
+// ---
+
 package org.chromium.ui.test.util;
 
 import android.content.Context;

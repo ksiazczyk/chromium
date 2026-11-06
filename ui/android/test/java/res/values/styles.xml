@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: test
+title: Test style and theme overlay resources for Android UI tests
+summary: Defines text appearance styles and theme overlays varying colorPrimary, text size, and leading for use in Android UI tests.
+-->
+
 <resources>
   <style name="TextAppearance.WithoutLeading">
     <item name="android:textSize">@dimen/text_size_medium</item>

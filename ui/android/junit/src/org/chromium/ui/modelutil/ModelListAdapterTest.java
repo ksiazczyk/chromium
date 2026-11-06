@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModelListAdapterTest
+// summary: Robolectric tests validating ModelListAdapter behavior, including view binding callbacks and list item handling.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quantization unit tests
+// summary: Gtest unit tests for the texture compressor's quantization functions, covering fast division by 255, subblock average preparation, and quantization in diff and individual modes.
+// ---
+
 use rust_gtest_interop::prelude::*;
 use std::simd::prelude::*;
 

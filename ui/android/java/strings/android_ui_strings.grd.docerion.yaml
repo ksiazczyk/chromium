@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings.grd.
+type: source
+title: Android UI strings grit resource
+summary: Grit XML resource definition that generates localized android_ui_strings.xml files for dozens of languages used by the Android UI.

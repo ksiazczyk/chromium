@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file assigning per-file reviewers for TokenHolderTest.java and delegating XrUtilsTest.java reviews to the WebXR components owners.

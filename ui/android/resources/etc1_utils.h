@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Etc1 utility class header
+// summary: Declares the Etc1 class with static methods to compress and decompress bitmaps and to read and write compressed data to files.
+// ---
+
 #ifndef UI_ANDROID_RESOURCES_ETC1_UTILS_H_
 #define UI_ANDROID_RESOURCES_ETC1_UTILS_H_
 

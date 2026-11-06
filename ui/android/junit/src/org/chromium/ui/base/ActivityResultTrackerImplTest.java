@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActivityResultTrackerImpl unit tests
+// summary: Robolectric unit tests for ActivityResultTrackerImpl covering registration, activity launching, and pending result delivery after recreation.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DropDataProviderImpl unit tests
+// summary: Robolectric tests for DropDataProviderImpl covering image caching, MIME type resolution, cache clearing intervals, and related usage metrics.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import static org.robolectric.Shadows.shadowOf;

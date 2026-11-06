@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DragEventDispatchHelper unit tests
+// summary: Robolectric unit tests for DragEventDispatchHelper verifying supported drag actions and forwarding of drag events with coordinate offsets to a destination view.
+// ---
+
 package org.chromium.ui.dragdrop;
 
 import static org.junit.Assert.assertEquals;

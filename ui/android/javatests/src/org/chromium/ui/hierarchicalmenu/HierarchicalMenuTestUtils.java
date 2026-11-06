@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hierarchical menu test utilities
+// summary: Utility class defining menu item property keys and a key provider to support hierarchical menu tests.
+// ---
+
 package org.chromium.ui.hierarchicalmenu;
 
 import android.view.View;

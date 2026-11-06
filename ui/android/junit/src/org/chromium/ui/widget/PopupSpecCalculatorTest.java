@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupSpecCalculatorTest
+// summary: Robolectric unit tests for the static positioning methods of PopupSpecCalculator, verifying popup x and y placement across anchor positions, overlaps, and orientations.
+// ---
+
 package org.chromium.ui.widget;
 
 import static org.junit.Assert.assertEquals;

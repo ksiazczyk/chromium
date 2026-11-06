@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewGroupAdapterTest
+// summary: Robolectric unit tests validating ViewGroupAdapter behavior when a ModelList is bound to a ViewGroup, covering empty, initial, added, removed, changed, and moved items.
+// ---
+
 package org.chromium.ui.modelutil;
 
 import android.content.Context;

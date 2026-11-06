@@ -1,0 +1,4 @@
+# Docerion header of android_ui_strings_de.xtb.
+type: data
+title: Android UI strings in German
+summary: German translation bundle with localized Android UI strings for Chrome, covering clipboard, photo picker, list menu and permission messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceleratorManager unit tests
+// summary: Robolectric unit tests verifying that AcceleratorManager attaches to a WindowAndroid on creation and detaches when destroyed.
+// ---
+
 package org.chromium.ui.base;
 
 import static org.junit.Assert.assertEquals;

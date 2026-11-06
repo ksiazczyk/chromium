@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeResourceWrapperProvider unit tests
+// summary: Robolectric unit tests for ThemeResourceWrapperProvider covering provider lookup through wrapped contexts, observer attach and detach, and wrapper availability checks.
+// ---
+
 package org.chromium.ui.theme;
 
 import android.content.Context;
