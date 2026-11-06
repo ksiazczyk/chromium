@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleListenerFailureType stream operator
+// summary: Implements the ostream operator that formats BleListenerFailureType values for logging.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_listener_failure_type.h"
 
 #include "base/check_op.h"

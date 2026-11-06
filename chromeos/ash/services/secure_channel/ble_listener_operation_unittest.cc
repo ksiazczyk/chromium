@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BLE listener operation unit tests
+// summary: Unit tests for BleListenerOperation covering successful and failed BLE connection attempts in the listener role.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_listener_operation.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-to-device secure context header
+// summary: Declares DeviceToDeviceSecureContext, the SecureContext implementation for the DeviceToDevice protocol with sequenced incoming message queueing.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_DEVICE_TO_DEVICE_SECURE_CONTEXT_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_DEVICE_TO_DEVICE_SECURE_CONTEXT_H_
 

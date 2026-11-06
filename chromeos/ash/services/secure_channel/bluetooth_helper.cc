@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth helper implementation
+// summary: Implements IdentifyRemoteDevice, matching advertised service data against a set of known device ID pairs.
+// ---
+
 #include "chromeos/ash/services/secure_channel/bluetooth_helper.h"
 
 #include "base/logging.h"

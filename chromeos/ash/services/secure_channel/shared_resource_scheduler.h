@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedResourceScheduler class header
+// summary: Declares SharedResourceScheduler, which queues requests for limited shared resources such as Bluetooth advertisements and serves the highest-priority request first.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SHARED_RESOURCE_SCHEDULER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SHARED_RESOURCE_SCHEDULER_H_
 

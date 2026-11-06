@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelBase implementation
+// summary: Implements SecureChannelBase by binding incoming mojo receivers for the SecureChannel mojom interface.
+// ---
+
 #include "chromeos/ash/services/secure_channel/secure_channel_base.h"
 
 namespace ash::secure_channel {

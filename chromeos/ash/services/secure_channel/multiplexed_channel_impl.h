@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiplexedChannelImpl class header
+// summary: Declares MultiplexedChannelImpl, a MultiplexedChannel built on an AuthenticatedChannel that tracks each connected client via a SingleClientProxy.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_MULTIPLEXED_CHANNEL_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_MULTIPLEXED_CHANNEL_IMPL_H_
 

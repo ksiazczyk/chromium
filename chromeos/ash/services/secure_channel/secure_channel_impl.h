@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelImpl class header
+// summary: Declares SecureChannelImpl, the mojom::SecureChannel implementation that manages pending connection attempts, active shared connections, and the remote device cache.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SECURE_CHANNEL_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SECURE_CHANNEL_IMPL_H_
 

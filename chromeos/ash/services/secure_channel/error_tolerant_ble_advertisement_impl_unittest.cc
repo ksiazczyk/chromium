@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error-tolerant BLE advertisement implementation unit tests
+// summary: Unit tests for ErrorTolerantBleAdvertisementImpl verifying advertisement registration, service data contents, error handling, and stop behavior.
+// ---
+
 #include "chromeos/ash/services/secure_channel/error_tolerant_ble_advertisement_impl.h"
 
 #include <memory>

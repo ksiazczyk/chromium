@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleClientProxy class header
+// summary: Declares SingleClientProxy, the interface proxying communication between a client and a remote device, with a delegate for outgoing requests and handlers for incoming events.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SINGLE_CLIENT_PROXY_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SINGLE_CLIENT_PROXY_H_
 

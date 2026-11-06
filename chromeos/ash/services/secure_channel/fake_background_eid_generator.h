@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake background EID generator header
+// summary: Declares the FakeBackgroundEidGenerator test double with setters for nearest EIDs, identified device ID, matching service data, and call counts.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BACKGROUND_EID_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BACKGROUND_EID_GENERATOR_H_
 

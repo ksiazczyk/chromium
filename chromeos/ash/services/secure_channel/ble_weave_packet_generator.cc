@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: uWeave packet generator implementation
+// summary: Implements creation of uWeave control packets and encoding of data messages into packets for BLE transmission.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_weave_packet_generator.h"
 
 #include <netinet/in.h>

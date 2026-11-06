@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnection class header
+// summary: Declares NearbyConnection, a Connection implementation that receives Nearby messages, sends them via the NearbyConnector, and listens for file transfer updates.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_NEARBY_CONNECTION_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_NEARBY_CONNECTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyConnectionManagerImpl unit tests
+// summary: Unit tests for NearbyConnectionManagerImpl that use fake BLE scanners, connections, and secure channels to exercise Nearby connection attempts.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_connection_manager_impl.h"
 
 #include <memory>

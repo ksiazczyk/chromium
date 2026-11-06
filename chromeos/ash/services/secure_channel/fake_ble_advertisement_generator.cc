@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BLE advertisement generator implementation
+// summary: Implements the FakeBleAdvertisementGenerator test double that returns a preset advertisement for each generation request.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_ble_advertisement_generator.h"
 
 #include "chromeos/ash/components/multidevice/remote_device_ref.h"

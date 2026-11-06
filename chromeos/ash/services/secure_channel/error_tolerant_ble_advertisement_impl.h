@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error-tolerant BLE advertisement implementation header
+// summary: Declares ErrorTolerantBleAdvertisementImpl, the concrete ErrorTolerantBleAdvertisement with a factory and BluetoothAdvertisement observer support.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_ERROR_TOLERANT_BLE_ADVERTISEMENT_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_ERROR_TOLERANT_BLE_ADVERTISEMENT_IMPL_H_
 

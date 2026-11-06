@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleInitiatorOperation class header
+// summary: Declares BleInitiatorOperation, which attempts to connect to a remote device over BLE in the initiator role.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_INITIATOR_OPERATION_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_INITIATOR_OPERATION_H_
 

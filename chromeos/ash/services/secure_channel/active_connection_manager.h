@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveConnectionManager interface
+// summary: Declares the abstract manager that tracks active connections to remote devices and shares them among clients.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_ACTIVE_CONNECTION_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_ACTIVE_CONNECTION_MANAGER_H_
 

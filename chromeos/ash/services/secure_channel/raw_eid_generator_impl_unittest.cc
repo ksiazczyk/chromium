@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raw ephemeral ID generator unit tests
+// summary: Unit tests verifying that raw EID generation is deterministic, two bytes long, and sensitive to seed, timestamp, and extra entropy changes.
+// ---
+
 #include "chromeos/ash/services/secure_channel/raw_eid_generator_impl.h"
 
 #include "base/strings/string_util.h"

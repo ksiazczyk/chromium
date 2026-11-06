@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby connection metrics recorder header
+// summary: Declares NearbyConnectionMetricsRecorder, which logs the effective success rate of Nearby Connections attempts, counting retries within one minute as success.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_NEARBY_CONNECTION_METRICS_RECORDER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_NEARBY_CONNECTION_METRICS_RECORDER_H_
 

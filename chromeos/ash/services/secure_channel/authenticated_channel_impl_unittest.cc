@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthenticatedChannelImpl unit tests
+// summary: Unit tests for AuthenticatedChannelImpl verifying message sending, file registration, and status-change behavior using fake SecureChannel connections and observers.
+// ---
+
 #include "chromeos/ash/services/secure_channel/authenticated_channel_impl.h"
 
 #include <iterator>

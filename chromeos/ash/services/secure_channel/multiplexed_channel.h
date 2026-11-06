@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiplexedChannel API
+// summary: Declares MultiplexedChannel, a full-duplex channel shared between one or more clients until the remote device or all clients disconnect.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_MULTIPLEXED_CHANNEL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_MULTIPLEXED_CHANNEL_H_
 

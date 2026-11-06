@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection class implementation
+// summary: Implements the Connection base class, managing connection status, message sending, payload file registration, and observer notifications for a remote device.
+// ---
+
 #include "chromeos/ash/services/secure_channel/connection.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SecureChannelConnection implementation
+// summary: Implements the fake SecureChannelConnection, recording sent messages and payload file requests while letting tests trigger observer notifications.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_secure_channel_connection.h"
 
 #include <algorithm>

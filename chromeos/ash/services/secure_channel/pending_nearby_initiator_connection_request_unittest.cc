@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pending nearby initiator connection request unit tests
+// summary: Unit tests for the pending Nearby initiator connection request, covering adapter power and present changes and connection failure handling.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_nearby_initiator_connection_request.h"
 
 #include <memory>

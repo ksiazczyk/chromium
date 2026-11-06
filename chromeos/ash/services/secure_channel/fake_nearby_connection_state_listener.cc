@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NearbyConnectionStateListener implementation
+// summary: Implements a fake listener that stores the most recent Nearby connection step and result for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_nearby_connection_state_listener.h"
 
 namespace ash::secure_channel {

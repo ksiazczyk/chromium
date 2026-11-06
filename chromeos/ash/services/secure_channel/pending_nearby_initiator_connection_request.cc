@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingNearbyInitiatorConnectionRequest implementation
+// summary: Implements the pending request for Nearby Connections initiator sessions, stopping the request on connectivity, authentication, or Bluetooth adapter failures.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_nearby_initiator_connection_request.h"
 
 #include "base/memory/ptr_util.h"

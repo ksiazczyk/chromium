@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionKeys class header
+// summary: Declares SessionKeys, which derives separate initiator and responder keys used to encrypt and decrypt secure channel messages.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SESSION_KEYS_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_SESSION_KEYS_H_
 

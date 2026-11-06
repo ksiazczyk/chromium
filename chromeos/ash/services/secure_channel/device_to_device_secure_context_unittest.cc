@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device-to-device secure context unit tests
+// summary: Unit tests for DeviceToDeviceSecureContext covering channel binding data, encoded header metadata, encode and decode round trips, and invalid messages.
+// ---
+
 #include "chromeos/ash/services/secure_channel/device_to_device_secure_context.h"
 
 #include <list>

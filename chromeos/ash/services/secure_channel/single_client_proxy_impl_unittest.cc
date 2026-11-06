@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleClientProxyImpl unit tests
+// summary: Unit tests verifying message sending, file payload registration, Nearby connection state handling, and remote disconnection behavior in SingleClientProxyImpl.
+// ---
+
 #include "chromeos/ash/services/secure_channel/single_client_proxy_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveConnectionManager base class implementation
+// summary: Implements shared validation and delegate notification logic for the ActiveConnectionManager base class.
+// ---
+
 #include "chromeos/ash/services/secure_channel/active_connection_manager.h"
 
 #include "base/logging.h"

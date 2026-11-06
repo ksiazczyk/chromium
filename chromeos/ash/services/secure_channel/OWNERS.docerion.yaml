@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for secure_channel
+summary: OWNERS file that delegates code review ownership to the multidevice component's OWNERS.

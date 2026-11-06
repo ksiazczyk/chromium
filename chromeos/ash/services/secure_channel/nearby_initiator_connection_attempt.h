@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby initiator connection attempt header
+// summary: Declares NearbyInitiatorConnectionAttempt and its factory for creating connection attempts to remote devices over Nearby Connections as initiator.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_NEARBY_INITIATOR_CONNECTION_ATTEMPT_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_NEARBY_INITIATOR_CONNECTION_ATTEMPT_H_
 

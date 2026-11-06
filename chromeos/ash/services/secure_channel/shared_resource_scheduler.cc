@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedResourceScheduler implementation
+// summary: Implements scheduling of connection requests for limited shared resources, queuing them by connection priority and returning the highest-priority request first.
+// ---
+
 #include "chromeos/ash/services/secure_channel/shared_resource_scheduler.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiplexedChannelImpl implementation
+// summary: Implements MultiplexedChannel on top of an AuthenticatedChannel, managing per-client proxies and routing messages and connection state.
+// ---
+
 #include "chromeos/ash/services/secure_channel/multiplexed_channel_impl.h"
 
 #include "base/functional/callback.h"

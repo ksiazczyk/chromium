@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator interface
+// summary: Declares the Authenticator interface for mutual device authentication, which on success establishes a SecureContext used to securely encode and decode messages.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_AUTHENTICATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_AUTHENTICATOR_H_
 

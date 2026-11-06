@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection base class interface
+// summary: Declares the Connection base class representing a persistent bidirectional channel to a remote device for sending and receiving wire messages.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleScanner implementation
+// summary: Implements BleScanner, which tracks BLE scan requests and notifies observers of received advertisements and discovery failures.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_scanner.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForegroundEidGenerator implementation
+// summary: Implements generation of ephemeral ID (EID) advertisements and background scan filters for foreground BLE in the ProximityAuth protocol.
+// ---
+
 #include "chromeos/ash/services/secure_channel/foreground_eid_generator.h"
 
 #include <cstring>

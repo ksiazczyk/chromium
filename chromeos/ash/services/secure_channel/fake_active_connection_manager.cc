@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake active connection manager implementation
+// summary: Implements the FakeActiveConnectionManager test double that tracks connection states, disconnections, and added clients, plus a delegate recording disconnect counts.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_active_connection_manager.h"
 
 #include "base/check_op.h"

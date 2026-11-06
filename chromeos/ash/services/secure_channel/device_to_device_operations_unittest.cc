@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device-to-device operations unit tests
+// summary: Unit tests covering the device-to-device initiator helper and responder operations, verifying message creation and validation with a fake secure message delegate.
+// ---
+
 #include <memory>
 
 #include "base/base64url.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending BLE connection request base class
+// summary: Templated base class for pending BLE connection requests that observes the Bluetooth adapter and stops requests when the adapter is disabled or no longer present.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PENDING_BLE_CONNECTION_REQUEST_BASE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PENDING_BLE_CONNECTION_REQUEST_BASE_H_
 

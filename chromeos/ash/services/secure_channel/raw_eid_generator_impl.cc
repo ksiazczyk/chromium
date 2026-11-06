@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raw ephemeral ID generator implementation
+// summary: Generates two-byte ephemeral IDs by hashing the EID seed, optional extra entropy, and timestamp with SHA-256.
+// ---
+
 #include "chromeos/ash/services/secure_channel/raw_eid_generator_impl.h"
 
 #include "base/containers/span.h"

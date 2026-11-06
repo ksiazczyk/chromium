@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-to-device responder operations implementation
+// summary: Implements the responder side of the DeviceToDevice authentication protocol, validating the [Hello] message and creating the [Responder Auth] message.
+// ---
+
 #include "chromeos/ash/services/secure_channel/device_to_device_responder_operations.h"
 
 #include "base/functional/bind.h"

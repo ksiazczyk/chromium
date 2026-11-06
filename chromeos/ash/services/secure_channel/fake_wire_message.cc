@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake WireMessage implementation
+// summary: Implements a fake WireMessage that serializes as the feature and payload joined by a comma for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_wire_message.h"
 
 #include <memory>

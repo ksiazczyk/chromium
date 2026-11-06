@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake multiplexed channel implementation
+// summary: Implements test doubles for MultiplexedChannel and its delegate, tracking disconnecting state and added client connections.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_multiplexed_channel.h"
 
 namespace ash::secure_channel {

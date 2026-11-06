@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client connection parameters implementation unit tests
+// summary: Unit tests for ClientConnectionParametersImpl, covering connection success and failure notifications, observer callbacks, and client waiting status.
+// ---
+
 #include "chromeos/ash/services/secure_channel/client_connection_parameters_impl.h"
 
 #include <memory>

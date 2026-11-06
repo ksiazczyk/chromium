@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device-to-device authenticator unit tests
+// summary: Unit tests for DeviceToDeviceAuthenticator, using a fake connection and secure message delegate to exercise the authentication flow and its failure cases.
+// ---
+
 #include "chromeos/ash/services/secure_channel/device_to_device_authenticator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiDirectManager unit tests
+// summary: Unit tests for WifiDirectManager covering group creation, connection, capability queries, and disconnect metrics using fake Shill and PatchPanel clients.
+// ---
+
 #include "chromeos/ash/services/wifi_direct/wifi_direct_manager.h"
 
 #include "base/sync_socket.h"

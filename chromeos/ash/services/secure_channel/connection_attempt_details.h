@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionAttemptDetails class header
+// summary: Declares ConnectionAttemptDetails, which describes a connection attempt via device ID pair, connection medium and role, and maps it to associated ConnectionDetails.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_ATTEMPT_DETAILS_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_ATTEMPT_DETAILS_H_
 

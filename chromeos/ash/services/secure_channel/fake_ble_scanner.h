@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BLE scanner header
+// summary: Declares FakeBleScanner and FakeBleScannerObserver test doubles with accessors for scan requests and handled scan results.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLE_SCANNER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLE_SCANNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleInitiatorConnectionAttempt header
+// summary: Declares BleInitiatorConnectionAttempt, a ConnectionAttemptBase specialization that attempts BLE connections to remote devices in the initiator role.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_INITIATOR_CONNECTION_ATTEMPT_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_INITIATOR_CONNECTION_ATTEMPT_H_
 

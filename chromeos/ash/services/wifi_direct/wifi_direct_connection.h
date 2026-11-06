@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiDirectConnection class declaration
+// summary: Declares the WifiDirectConnection class that implements mojom::WifiDirectConnection for an active Wi-Fi Direct connection owned or joined by the device.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_WIFI_DIRECT_WIFI_DIRECT_CONNECTION_H_
 #define CHROMEOS_ASH_SERVICES_WIFI_DIRECT_WIFI_DIRECT_CONNECTION_H_
 

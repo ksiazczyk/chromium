@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleAdvertisementGenerator class header
+// summary: Declares BleAdvertisementGenerator, which creates time-based BLE advertisements for the ProximityAuth scheme from the local device to a remote device.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_ADVERTISEMENT_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_ADVERTISEMENT_GENERATOR_H_
 

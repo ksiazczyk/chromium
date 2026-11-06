@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby initiator operation unit test
+// summary: Unit test for NearbyInitiatorOperation using a fake Nearby connection manager to verify success, failure and state-change callback behavior.
+// ---
+
 #include "chromeos/ash/services/secure_channel/nearby_initiator_operation.h"
 
 #include <memory>

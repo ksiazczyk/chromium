@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockForegroundEidGenerator test double
+// summary: Hand-written mock of ForegroundEidGenerator with setters for return values, used because GoogleMock cannot return unique_ptr.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_MOCK_FOREGROUND_EID_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_MOCK_FOREGROUND_EID_GENERATOR_H_
 

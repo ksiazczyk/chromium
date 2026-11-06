@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SecureChannelDisconnector implementation
+// summary: Implements the fake disconnector that records which secure channels were handed over for disconnection in tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_secure_channel_disconnector.h"
 
 namespace ash::secure_channel {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelImpl class declaration
+// summary: Declares the Channel mojo implementation that lets clients send messages, receive file transfers, and detect dropped connections via a delegate.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CHANNEL_IMPL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CHANNEL_IMPL_H_
 

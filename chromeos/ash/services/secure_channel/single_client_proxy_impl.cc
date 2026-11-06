@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleClientProxyImpl implementation
+// summary: Concrete SingleClientProxy that forwards client requests to its delegate and delivers incoming messages and Nearby connection state via Mojo remotes.
+// ---
+
 #include "chromeos/ash/services/secure_channel/single_client_proxy_impl.h"
 
 #include "base/functional/callback.h"

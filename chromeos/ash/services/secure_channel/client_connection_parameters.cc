@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientConnectionParameters implementation
+// summary: Implements connection request parameters that notify clients of success, failure, and BLE discovery, Nearby, and authentication state updates.
+// ---
+
 #include "chromeos/ash/services/secure_channel/client_connection_parameters.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WireMessage class header
+// summary: Declares WireMessage, the SecureChannel message carrying a feature name and payload, and documents the v3 and v4 wire protocol byte layouts.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_WIRE_MESSAGE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_WIRE_MESSAGE_H_
 

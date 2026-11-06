@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelInitializer implementation
+// summary: Implements the service initializer that fetches the Bluetooth adapter asynchronously and queues client connection requests until the secure channel service is fully initialized.
+// ---
+
 #include "chromeos/ash/services/secure_channel/secure_channel_initializer.h"
 
 #include "base/functional/bind.h"

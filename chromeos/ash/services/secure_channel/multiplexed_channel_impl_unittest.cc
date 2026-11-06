@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiplexedChannelImpl unit tests
+// summary: Unit tests for MultiplexedChannelImpl that use fake single-client proxies, authenticated channels, and connection delegates to verify channel behavior.
+// ---
+
 #include "chromeos/ash/services/secure_channel/multiplexed_channel_impl.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleClientProxy base implementation
+// summary: Implements the shared parts of SingleClientProxy that forward client requests for messages, file payload registration, and connection metadata to its delegate.
+// ---
+
 #include "chromeos/ash/services/secure_channel/single_client_proxy.h"
 
 #include "base/functional/callback.h"

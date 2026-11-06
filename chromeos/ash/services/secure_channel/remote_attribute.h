@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote attribute struct
+// summary: Defines the RemoteAttribute struct representing a peripheral service or characteristic via a Bluetooth UUID and an identifier string.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_REMOTE_ATTRIBUTE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_REMOTE_ATTRIBUTE_H_
 

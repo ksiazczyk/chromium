@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Mojo channel header
+// summary: Declares FakeChannel, a test double for mojom::Channel that exposes sent messages and file payload listeners for inspection in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_CHANNEL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_CHANNEL_H_
 

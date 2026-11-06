@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionRole enum header
+// summary: Declares the ConnectionRole enum distinguishing initiator and listener roles for secure channel connections.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_ROLE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_CONNECTION_ROLE_H_
 

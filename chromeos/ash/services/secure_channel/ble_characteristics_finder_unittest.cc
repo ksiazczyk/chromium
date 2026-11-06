@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BLE characteristics finder unit tests
+// summary: Unit tests for BluetoothLowEnergyCharacteristicsFinder using mock Bluetooth adapters, devices, and GATT characteristics to verify discovery success and error cases.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_characteristics_finder.h"
 
 #include <algorithm>

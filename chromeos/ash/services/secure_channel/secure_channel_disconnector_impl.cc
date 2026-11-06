@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelDisconnectorImpl implementation
+// summary: Implements SecureChannelDisconnector by tracking disconnecting channels and releasing them only once they reach the DISCONNECTED state.
+// ---
+
 #include "chromeos/ash/services/secure_channel/secure_channel_disconnector_impl.h"
 
 #include "base/memory/ptr_util.h"

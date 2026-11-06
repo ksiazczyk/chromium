@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Mojo channel implementation
+// summary: Implements a test fake of the mojom::Channel interface that records sent messages, payload file registrations, and connection metadata for use in unit tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_channel.h"
 
 #include "base/containers/flat_map.h"

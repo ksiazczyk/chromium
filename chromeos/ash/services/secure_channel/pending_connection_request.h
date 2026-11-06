@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingConnectionRequest interface
+// summary: Templated interface encapsulating metadata for a pending connection request to a remote device, leaving failure handling to derived classes.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PENDING_CONNECTION_REQUEST_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PENDING_CONNECTION_REQUEST_H_
 

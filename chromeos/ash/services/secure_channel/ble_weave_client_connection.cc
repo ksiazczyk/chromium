@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE Weave client connection implementation
+// summary: Implements a Bluetooth Low Energy connection using the Weave protocol, handling GATT characteristics, packet generation, timeouts, and message retries.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_weave_client_connection.h"
 
 #include <memory>

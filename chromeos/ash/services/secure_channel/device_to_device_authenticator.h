@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-to-device authenticator header
+// summary: Declares DeviceToDeviceAuthenticator, which authenticates a connection using the SecureMessage-based device-to-device protocol and documents its message exchange steps.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_DEVICE_TO_DEVICE_AUTHENTICATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_DEVICE_TO_DEVICE_AUTHENTICATOR_H_
 

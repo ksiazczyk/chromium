@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingConnectionManager base implementation
+// summary: Implements the shared part of PendingConnectionManager, forwarding successfully established authenticated connections to its delegate.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_connection_manager.h"
 
 #include "chromeos/ash/services/secure_channel/authenticated_channel.h"

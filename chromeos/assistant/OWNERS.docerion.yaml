@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chromeos/assistant
+summary: Delegates code ownership to the OWNERS file of chromeos/ash/components/assistant.

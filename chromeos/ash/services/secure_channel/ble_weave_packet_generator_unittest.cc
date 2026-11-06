@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: uWeave packet generator unit tests
+// summary: Tests that the packet generator produces correct uWeave connection request, response, close, and data packets.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_weave_packet_generator.h"
 
 #include <algorithm>

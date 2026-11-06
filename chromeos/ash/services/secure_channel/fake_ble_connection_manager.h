@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BLE connection manager header
+// summary: Declares FakeBleConnectionManager, a no-op test double of BleConnectionManager that exposes priority, attempt, and notification helpers for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLE_CONNECTION_MANAGER_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_BLE_CONNECTION_MANAGER_H_
 

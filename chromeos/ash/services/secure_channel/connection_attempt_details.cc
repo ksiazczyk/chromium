@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectionAttemptDetails implementation
+// summary: Implements the ConnectionAttemptDetails class that identifies a connection attempt by device ID pair, connection medium and role, with comparison and logging operators.
+// ---
+
 #include "chromeos/ash/services/secure_channel/connection_attempt_details.h"
 
 #include "base/check.h"

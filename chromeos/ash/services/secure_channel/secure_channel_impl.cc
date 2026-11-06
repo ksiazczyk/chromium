@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecureChannelImpl implementation
+// summary: Implements the SecureChannel Mojo service, coordinating pending, active, BLE, and Nearby connection managers plus the remote device cache to establish connections to remote devices.
+// ---
+
 #include "chromeos/ash/services/secure_channel/secure_channel_impl.h"
 
 #include <ostream>

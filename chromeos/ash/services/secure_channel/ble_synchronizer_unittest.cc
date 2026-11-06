@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BleSynchronizer unit tests
+// summary: Unit tests for BleSynchronizer using mock adapters and advertisements to verify command queuing, timing, and discovery session behavior.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_synchronizer.h"
 
 #include <memory>

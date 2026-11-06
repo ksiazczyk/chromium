@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure channel Nearby histogram logging declarations
+// summary: Declares histogram recording functions and enums for file actions, transfer results, message actions, and Nearby disconnection reasons kept in sync with histograms.xml.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_UTIL_HISTOGRAM_UTIL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_UTIL_HISTOGRAM_UTIL_H_
 

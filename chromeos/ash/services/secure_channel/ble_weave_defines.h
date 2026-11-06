@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: uWeave protocol constants and enums
+// summary: Defines packet types, control commands, close reasons, and size constants shared by the uWeave protocol implementation over BLE.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_WEAVE_DEFINES_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_BLE_WEAVE_DEFINES_H_
 

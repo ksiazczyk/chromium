@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionAttemptBase unit tests
+// summary: Unit tests for ConnectionAttemptBase, verifying operation creation, request handling, and failure notification using fake operations and requests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/connection_attempt_base.h"
 
 #include <algorithm>

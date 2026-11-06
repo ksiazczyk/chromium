@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingConnectionManagerImpl implementation
+// summary: Implements the pending connection manager that routes connection requests to the BLE or Nearby connection managers and tracks connection attempt details per remote device.
+// ---
+
 #include "chromeos/ash/services/secure_channel/pending_connection_manager_impl.h"
 
 #include "base/logging.h"

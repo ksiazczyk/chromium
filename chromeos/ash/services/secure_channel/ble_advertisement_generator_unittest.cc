@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BleAdvertisementGenerator unit tests
+// summary: Unit tests for BleAdvertisementGenerator covering empty public keys, empty beacon seeds, generation failures, and successful advertisement generation.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_advertisement_generator.h"
 
 #include <memory>

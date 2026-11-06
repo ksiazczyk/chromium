@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BLE synchronizer implementation
+// summary: Test double of BleSynchronizerBase that queues Bluetooth commands without processing them and exposes advertisement and discovery callbacks for inspection.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_ble_synchronizer.h"
 
 namespace ash::secure_channel {

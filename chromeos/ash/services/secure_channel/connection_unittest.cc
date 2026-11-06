@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection class unit tests
+// summary: Unit tests for the Connection base class using mock connections and observers to verify message sending, receiving and status change behavior.
+// ---
+
 #include "chromeos/ash/services/secure_channel/connection.h"
 
 #include <optional>

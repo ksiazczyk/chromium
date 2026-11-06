@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatedChannel base class implementation
+// summary: Implements message sending, payload file registration, disconnection, and observer notifications for authenticated channels.
+// ---
+
 #include "chromeos/ash/services/secure_channel/authenticated_channel.h"
 
 #include "base/functional/callback.h"

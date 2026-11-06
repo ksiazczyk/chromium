@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForegroundEidGenerator unit tests
+// summary: Unit tests covering EID period handling, background scan filters, and advertisement generation for ForegroundEidGenerator.
+// ---
+
 #include "chromeos/ash/services/secure_channel/foreground_eid_generator.h"
 
 #include <memory>

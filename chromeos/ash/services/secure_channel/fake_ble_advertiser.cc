@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake BLE advertiser implementation
+// summary: Test double of BleAdvertiser that schedules advertisement requests through SharedResourceScheduler and records slot-ended and generation-failure delegate events.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_ble_advertiser.h"
 
 #include "base/check.h"

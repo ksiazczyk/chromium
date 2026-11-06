@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundEidGenerator unit tests
+// summary: Unit tests for BackgroundEidGenerator covering EID generation across beacon seed periods and remote device identification from advertisement service data.
+// ---
+
 #include "chromeos/ash/services/secure_channel/background_eid_generator.h"
 
 #include <memory>

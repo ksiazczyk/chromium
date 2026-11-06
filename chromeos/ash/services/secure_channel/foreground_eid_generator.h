@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForegroundEidGenerator API
+// summary: Declares ForegroundEidGenerator, which generates EID values for foreground BLE advertisements from synced beacon seeds.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FOREGROUND_EID_GENERATOR_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FOREGROUND_EID_GENERATOR_H_
 

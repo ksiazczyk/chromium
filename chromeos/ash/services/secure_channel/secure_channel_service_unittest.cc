@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure channel service unit tests
+// summary: Unit tests for the secure channel service, exercising initialization, connection requests, and the interaction of connection managers using fake components and a mock Bluetooth adapter.
+// ---
+
 #include <memory>
 #include <optional>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecureChannelDisconnectorImpl unit tests
+// summary: Unit tests verifying that SecureChannelDisconnectorImpl deletes SecureChannel objects only after they have fully disconnected.
+// ---
+
 #include "chromeos/ash/services/secure_channel/secure_channel_disconnector_impl.h"
 
 #include <memory>

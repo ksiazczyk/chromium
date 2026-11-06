@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWireMessage test double
+// summary: Fake WireMessage subclass for tests that serializes a payload and feature string.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_WIRE_MESSAGE_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_FAKE_WIRE_MESSAGE_H_
 

@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for chromeos/assistant
+# summary: Ignores the libassistant build output directory within chromeos/assistant.
+# ---
+
 libassistant

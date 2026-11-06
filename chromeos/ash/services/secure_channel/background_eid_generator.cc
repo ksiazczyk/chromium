@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundEidGenerator implementation
+// summary: Implements generation of rotating ephemeral IDs for background BLE advertisements and identification of the remote device that sent an advertisement.
+// ---
+
 #include "chromeos/ash/services/secure_channel/background_eid_generator.h"
 
 #include <algorithm>

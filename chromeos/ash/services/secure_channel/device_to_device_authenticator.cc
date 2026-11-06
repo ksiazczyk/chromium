@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device-to-device authenticator implementation
+// summary: Implements the device-to-device authentication protocol over a connection, generating session keys and exchanging Hello, Responder Auth and Initiator Auth messages with a timeout.
+// ---
+
 #include "chromeos/ash/services/secure_channel/device_to_device_authenticator.h"
 
 #include <memory>

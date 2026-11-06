@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleConnectionManager base implementation
+// summary: Implements the BleConnectionManager base class, tracking BLE initiator and listener connection attempt metadata and dispatching attempts to subclass hooks.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_connection_manager.h"
 
 #include "base/logging.h"

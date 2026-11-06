@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WireMessage serialization implementation
+// summary: Implements serialization and deserialization of SecureChannel wire messages for protocol versions 3 and 4, including JSON bodies, base64url payloads, and legacy feature handling.
+// ---
+
 #include "chromeos/ash/services/secure_channel/wire_message.h"
 
 #include <stddef.h>

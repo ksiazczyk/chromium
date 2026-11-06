@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatedChannel interface
+// summary: Defines the AuthenticatedChannel abstract interface for encrypted, authenticated full-duplex communication, with message sending, payload file registration, disconnection, and observer notifications.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_AUTHENTICATED_CHANNEL_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_AUTHENTICATED_CHANNEL_H_
 

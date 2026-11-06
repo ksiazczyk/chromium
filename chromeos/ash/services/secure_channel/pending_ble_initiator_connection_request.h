@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BLE initiator connection request class
+// summary: Declares the pending connection request for BLE connections in the initiator role, including its factory and retry failure counters.
+// ---
+
 #ifndef CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PENDING_BLE_INITIATOR_CONNECTION_REQUEST_H_
 #define CHROMEOS_ASH_SERVICES_SECURE_CHANNEL_PENDING_BLE_INITIATOR_CONNECTION_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiplexedChannel base class
+// summary: Base-class logic for MultiplexedChannel, adding clients to the channel and notifying the delegate of disconnection.
+// ---
+
 #include "chromeos/ash/services/secure_channel/multiplexed_channel.h"
 
 #include "base/check.h"

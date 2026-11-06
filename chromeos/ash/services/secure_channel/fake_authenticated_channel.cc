@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake authenticated channel implementation
+// summary: Implements the FakeAuthenticatedChannel test double that records sent messages, payload file registrations, and observer notifications for tests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/fake_authenticated_channel.h"
 
 #include "base/functional/callback.h"

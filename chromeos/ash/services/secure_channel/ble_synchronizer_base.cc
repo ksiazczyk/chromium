@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleSynchronizerBase implementation
+// summary: Implements the command queue and argument structures for queuing BLE advertisement registration and discovery session start and stop requests.
+// ---
+
 #include "chromeos/ash/services/secure_channel/ble_synchronizer_base.h"
 
 #include <memory>
