@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PDF UI dependency include rules
+summary: Chromium DEPS file listing the include rules that let the pdf/ui directory use strings, ICU locale data, and localization utilities.

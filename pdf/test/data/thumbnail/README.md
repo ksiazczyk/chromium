@@ -1,3 +1,11 @@
+---
+type: readme
+title: PDF thumbnail test expectations
+summary: Explains how the expected PNG thumbnails for PDF test files are generated, named by PDF file and page number, and organized by device-to-pixel ratio and renderer type.
+relations:
+  - documents /pdf/test/data/thumbnail/2.0x/variable_page_sizes_expected.pdf.3.png
+---
+
 # PDF thumbnail test expectations
 
 The PNG files in this directory are the thumbnail rendering outputs for PDFs in

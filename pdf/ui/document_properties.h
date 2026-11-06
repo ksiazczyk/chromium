@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document properties formatting header
+// summary: Declares FormatPageSize and FormatPdfVersion helpers that produce user-facing strings for PDF document properties.
+// ---
+
 #ifndef PDF_UI_DOCUMENT_PROPERTIES_H_
 #define PDF_UI_DOCUMENT_PROPERTIES_H_
 
