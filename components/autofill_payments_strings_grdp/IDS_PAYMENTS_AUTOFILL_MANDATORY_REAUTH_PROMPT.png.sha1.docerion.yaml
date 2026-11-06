@@ -1,0 +1,4 @@
+# Docerion header of IDS_PAYMENTS_AUTOFILL_MANDATORY_REAUTH_PROMPT.png.sha1.
+type: data
+title: Mandatory re-auth prompt image hash
+summary: SHA-1 hash of the PNG context image for the mandatory re-auth prompt UI string, used to help translators.
