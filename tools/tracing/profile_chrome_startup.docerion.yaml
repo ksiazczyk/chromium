@@ -1,0 +1,4 @@
+# Docerion header of profile_chrome_startup.
+type: script
+title: Chrome Startup Profiling Script
+summary: Executable that records Perfetto startup traces from Android browsers and optionally symbolizes and displays them in a browser.

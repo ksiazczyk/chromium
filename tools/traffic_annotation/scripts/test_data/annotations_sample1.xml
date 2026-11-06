@@ -7,6 +7,12 @@ found in the LICENSE file.
 Refer to README.md for content description and update process.
 -->
 
+<!--docerion
+type: test
+title: annotations_sample1.xml
+summary: Sample annotations XML file with three items used as test input for the traffic annotation auditing scripts.
+-->
+
 <annotations>
  <item id="C" added_in_milestone="62" hash_code="3" content_hash_code="30" os_list="linux,windows"/>
  <item id="M" added_in_milestone="62" hash_code="6" content_hash_code="60" os_list="linux,windows"/>

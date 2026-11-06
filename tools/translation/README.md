@@ -1,3 +1,11 @@
+---
+type: readme
+title: Translation Tools
+summary: Documents the translation tools, the screenshot upload workflow, and how to run the tests and sanity checks.
+relations:
+  - documents /tools/translation/upload_screenshots.py
+---
+
 # Translation Tools
 
 This directory contains tools for Chrome's UI translations.

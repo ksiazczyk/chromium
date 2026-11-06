@@ -1,0 +1,4 @@
+# Docerion header of generator_utils_tests.py.
+type: test
+title: Unit tests for generator_utils.py
+summary: Unit tests for the generator_utils module, covering TSV loading, annotation mapping and XML placeholder parsing.

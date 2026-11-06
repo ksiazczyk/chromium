@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Git helpers for translation tooling
+# summary: Runs git commands to list .grd files in the repository and stage files in batches for a changelist.
+# ---
+
 import subprocess
 import sys
 import os

@@ -1,3 +1,9 @@
+<!--docerion
+type: test
+title: fake_grouping.xml
+summary: Sample XML grouping of fake annotations by group and sender, used to test the traffic annotation auditing scripts.
+-->
+
 <groups>
   <group name="Group A">
     <sender name="Sender 1">

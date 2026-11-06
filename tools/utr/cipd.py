@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: CIPD recipe bundle fetcher
+# summary: Installs the Chromium or Chrome recipe bundle from CIPD into a local .bundles root for use by the UTR.
+# ---
+
 """Util for fetching recipe bundles from CIPD."""
 
 import logging

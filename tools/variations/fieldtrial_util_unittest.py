@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Fieldtrial_util unit tests
+# summary: Unit tests for generating command line arguments from field trial configs, covering duplicates, conflicts and benchmarking-disabled experiments.
+# ---
+
 import unittest
 
 import fieldtrial_util

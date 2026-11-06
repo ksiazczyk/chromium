@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.quickUnlockPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.quickUnlockPrivate API
+// summary: Declares the chrome.quickUnlockPrivate API for ChromeOS quick unlock, covering PIN modes, credential checks, requirements and authentication tokens.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

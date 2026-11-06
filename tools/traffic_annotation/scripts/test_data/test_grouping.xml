@@ -1,3 +1,9 @@
+<!--docerion
+type: data
+title: Sample annotation grouping XML
+summary: Sample grouping XML defining annotation groups and senders used by traffic annotation tooling tests.
+-->
+
 <groups>
   <group name="Group A">
   <sender name="Foobar Component">

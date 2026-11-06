@@ -1,0 +1,4 @@
+# Docerion header of ts_library_test.py.
+type: test
+title: ts_library_test.py unit tests
+summary: Unit tests covering the ts_library, ts_definitions and path_mappings TypeScript build scripts.

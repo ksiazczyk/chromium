@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Composite USB gadget base class
+# summary: Base class that composes multiple USB features into one device and routes control requests and packets to the feature owning each interface.
+# ---
+
 """A composite USB gadget is built from multiple USB features."""
 
 import gadget

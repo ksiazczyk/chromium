@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Recipe invocation utilities
+# summary: Utilities for invoking recipes, including luci-auth checks, interactive rerun prompts, and running the legacy recipe runner.
+# ---
+
 """Utilities for invoking recipes"""
 
 import asyncio

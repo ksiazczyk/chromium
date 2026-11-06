@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: USB gadget directory metadata
+summary: Declares the Monorail component, Buganizer component ID and team email used for issues in this directory.

@@ -4,6 +4,12 @@
 
 // File is added in safe list.
 
+// ---docerion
+// type: test
+// title: Safelisted sample annotations for new field checks
+// summary: Test data with safelisted network traffic annotations covering complete, partially populated, and fully missing new-field cases for audit script verification.
+// ---
+
 // An annotation with last_reviewed date but
 // missing email address, unspecified user_data
 net::NetworkTrafficAnnotationTag traffic_annotation =

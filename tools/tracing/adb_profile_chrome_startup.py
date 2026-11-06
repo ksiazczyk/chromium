@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Android Chrome startup profiling library
+# summary: Library used by profile_chrome_startup to run Perfetto tracing on an Android device and save the startup trace file.
+# ---
+
 """
 This script runs Android perfetto tracing, located in the
 third_party/catapult folder. It is consumed as a library by the

@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Legacy recipe output adapter
+# summary: Adapts legacy recipe run output into logging, filtering and reformatting step lines for the Universal Test Runner.
+# ---
+
 """Adapter for printing legacy recipe output
 
 TODO(https://crbug.com/326904531): This file is intended to be a temporary

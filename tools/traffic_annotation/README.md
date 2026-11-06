@@ -1,3 +1,13 @@
+---
+type: readme
+title: Network Traffic Annotations
+summary: Explains the folder's tools for auditing, extracting, and testing network traffic annotations, plus the emergency brake and annotations summary.
+relations:
+  - references /docs/network_traffic_annotations.md
+  - references /tools/traffic_annotation/scripts/README.md
+  - references /tools/traffic_annotation/scripts/extractor.py
+---
+
 # Network Traffic Annotations
 Network traffic annotations provide transparency and auditability for the data
 that Chrome sends to the network. For an introduction, please see

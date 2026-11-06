@@ -1,0 +1,4 @@
+# Docerion header of symbolize_trace_unittest.py.
+type: test
+title: Perfetto Trace Symbolization Unit Tests
+summary: Unit tests for SymbolizeTrace that mock symbol fetching, metadata extraction, and breakpad extraction to verify symbolization behavior.

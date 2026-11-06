@@ -1,0 +1,4 @@
+# Docerion header of good_no_annotation.txt.
+type: test
+title: Good no-annotation extractor output
+summary: Expected extractor output for a definition with an undefined annotation in request_sender_unittest.cc.

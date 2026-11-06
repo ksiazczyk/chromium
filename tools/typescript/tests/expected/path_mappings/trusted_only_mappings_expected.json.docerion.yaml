@@ -1,0 +1,4 @@
+# Docerion header of trusted_only_mappings_expected.json.
+type: test
+title: Trusted-only path mappings expected fixture
+summary: Expected TypeScript path mappings for trusted-only contexts, covering string definitions and trusted resource paths for JS, localized link components, Polymer, and Lit.

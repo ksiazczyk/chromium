@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.languageSettingsPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.languageSettingsPrivate API
+// summary: Declares types and functions for the chrome.languageSettingsPrivate API, covering language lists, spellcheck dictionaries, input methods, and translation settings.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

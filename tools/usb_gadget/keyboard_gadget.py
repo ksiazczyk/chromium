@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: USB HID keyboard gadget
+# summary: Implements a HID keyboard feature with key press, modifier and LED handling, plus an example KeyboardGadget USB device.
+# ---
+
 """Implementation of a USB HID keyboard.
 
 Two classes are provided by this module. The KeyboardFeature class implements

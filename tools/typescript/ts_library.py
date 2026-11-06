@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: ts_library.py TypeScript build script
+# summary: Build script that generates tsconfig files and invokes the TypeScript compiler for the ts_library GN target.
+# ---
+
 import argparse
 import collections
 import json

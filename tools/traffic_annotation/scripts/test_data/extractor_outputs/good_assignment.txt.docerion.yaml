@@ -1,0 +1,4 @@
+# Docerion header of good_assignment.txt.
+type: test
+title: Good assignment annotation extractor output
+summary: Expected extractor output for a valid traffic annotation at an assignment in proto_conversions.cc.

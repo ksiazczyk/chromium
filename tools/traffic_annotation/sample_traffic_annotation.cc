@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample network traffic annotations
+// summary: C++ template and examples showing how to define full and partial network traffic annotations with semantics and policy fields.
+// ---
+
 #include "net/traffic_annotation/network_traffic_annotation.h"
 
 // This file includes a template and some samples for text-coded

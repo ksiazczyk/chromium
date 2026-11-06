@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Breakpad File Renamer
+# summary: Renames breakpad symbol files to the standard upper-case module ID naming scheme and moves them to the output directory.
+# ---
+
 """Renames breakpad file to the standard module id format.
 
 See perfetto::profiling::BreakpadSymbolizer for more naming information.

@@ -1,0 +1,4 @@
+# Docerion header of cipd_test.py.
+type: test
+title: Tests for cipd.py
+summary: Unit tests for the cipd module, verifying recipe bundle fetching paths and the fallback to the Chrome bundle for unknown projects.

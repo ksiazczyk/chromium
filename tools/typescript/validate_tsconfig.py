@@ -10,6 +10,12 @@
 # args corresponding to config options to limit the possibility of unsupported
 # configurations proliferating in the codebase.
 
+# ---docerion
+# type: source
+# title: tsconfig validation logic
+# summary: Validation logic that restricts tsconfig files and ts_library GN arguments to supported configurations.
+# ---
+
 import os
 import pathlib
 

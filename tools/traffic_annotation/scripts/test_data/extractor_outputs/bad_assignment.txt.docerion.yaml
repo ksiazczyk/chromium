@@ -1,0 +1,4 @@
+# Docerion header of bad_assignment.txt.
+type: test
+title: 'Traffic annotation extractor test data: bad assignment'
+summary: Test fixture holding the extractor output for a bad traffic annotation assignment in components/download/internal/proto_conversions.cc.

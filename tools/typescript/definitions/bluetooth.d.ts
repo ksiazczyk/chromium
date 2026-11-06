@@ -4,6 +4,12 @@
 
 /** @fileoverview Type definitions for chrome.bluetooth API. */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.bluetooth API
+// summary: Declares TypeScript types for the chrome.bluetooth API, including device descriptors, discovery functions, and device add, change and remove events.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

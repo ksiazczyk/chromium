@@ -12,6 +12,12 @@
  * manually added to match the Closure externs file, and are commented as such.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.webRequest API
+// summary: Generated and manually extended TypeScript declarations for the chrome.webRequest API, covering resource types, request filters, and event options.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

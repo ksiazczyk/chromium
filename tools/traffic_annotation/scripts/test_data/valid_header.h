@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: valid_header.h
+// summary: C++ header defining a sample network traffic annotation constant, used as extractor test input.
+// ---
+
 #ifndef TOOLS_TRAFFIC_ANNOTATION_SCRIPTS_TEST_DATA_VALID_HEADER_H_
 #define TOOLS_TRAFFIC_ANNOTATION_SCRIPTS_TEST_DATA_VALID_HEADER_H_
 

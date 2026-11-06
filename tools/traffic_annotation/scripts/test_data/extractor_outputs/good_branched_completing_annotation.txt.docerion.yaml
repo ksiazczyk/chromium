@@ -1,0 +1,4 @@
+# Docerion header of good_branched_completing_annotation.txt.
+type: test
+title: Good branched completing annotation extractor output
+summary: Expected extractor output with a branched completing traffic annotation for the Safe Browsing download protection request.

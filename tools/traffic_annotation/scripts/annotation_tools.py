@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Network traffic annotation tools
+# summary: Shared helpers that locate a compiled build directory, read the compile database and list modified files for annotation checks.
+# ---
+
 """Tools for annotation test scripts."""
 
 from __future__ import print_function

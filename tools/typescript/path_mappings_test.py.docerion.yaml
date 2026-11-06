@@ -1,0 +1,4 @@
+# Docerion header of path_mappings_test.py.
+type: test
+title: Unit tests for path mappings
+summary: Unit tests that compare generated path mapping JSON against expected outputs for trusted, untrusted, and relative WebUI contexts.

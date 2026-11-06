@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Builder properties lookup utilities
+# summary: Locates checked-in builder properties.json files for a builder and falls back to fetching props from buildbucket when none are found locally.
+# ---
+
 """Utils for interacting with builders & builder props in src."""
 
 import json

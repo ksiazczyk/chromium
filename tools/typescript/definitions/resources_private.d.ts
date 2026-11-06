@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.resourcesPrivate API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.resourcesPrivate API
+// summary: Declares the chrome.resourcesPrivate API for retrieving localized strings for components such as identity and PDF.
+// ---
+
 declare namespace chrome {
   export namespace resourcesPrivate {
     export enum Component {

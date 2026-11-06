@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.autofillPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.autofillPrivate API
+// summary: Declares TypeScript types for the chrome.autofillPrivate API, including field type enums, address and credit card data, and autofill settings functions.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

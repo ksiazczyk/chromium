@@ -1,0 +1,4 @@
+# Docerion header of ValidFile-stderr.txt.
+type: test
+title: ValidFile-stderr.txt
+summary: Empty expected stderr output for the ValidFile test case of the traffic annotation scripts.

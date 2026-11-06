@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency rules for the traffic annotation tools
+summary: Grants this directory include access to the net/traffic_annotation headers.

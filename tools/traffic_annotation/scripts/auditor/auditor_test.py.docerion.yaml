@@ -1,0 +1,4 @@
+# Docerion header of auditor_test.py.
+type: test
+title: Traffic Annotation Auditor Unit Tests
+summary: Unit test suite for auditor.py covering hash computation, git file filtering, annotation deserialization, and audit error checks.

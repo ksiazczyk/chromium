@@ -1,0 +1,4 @@
+# Docerion header of upload_screenshots_unittest.py.
+type: test
+title: Unit tests for screenshot upload tool
+summary: Unit test verifying that find_screenshots discovers the expected translation screenshots from the testdata directory.

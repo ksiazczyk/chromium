@@ -1,0 +1,4 @@
+# Docerion header of get_symbols_util_test.py.
+type: test
+title: Get Symbols Utility Unit Tests
+summary: Unit tests verifying that module IDs are correctly mangled into breakpad format by get_symbols_util.

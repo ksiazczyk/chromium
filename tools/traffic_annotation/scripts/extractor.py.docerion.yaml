@@ -1,0 +1,4 @@
+# Docerion header of extractor.py.
+type: script
+title: Traffic annotation extractor
+summary: Extracts network traffic annotation definitions from C++ and Java source files using regex pre-filtering and tokenizer-based parsing.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Valgrind tools directory README
+summary: Explains that tools/valgrind is deprecated in favor of tools/memory and that ThreadSanitizer v1 files are retired, directing users to TSan v2 instructions.
+---
+
 Historically this directory has been a home for Valgrind and ThreadSanitizer.
 Since then other memory tools used in Chromium started squatting here and the
 name became confusing.

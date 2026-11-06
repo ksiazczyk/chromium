@@ -1,0 +1,4 @@
+# Docerion header of extractor_test.py.
+type: test
+title: Extractor unit tests
+summary: Runs extractor.py on test data files and compares its output against expected stdout and stderr files.

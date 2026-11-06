@@ -1,0 +1,4 @@
+# Docerion header of hid_descriptors_test.py.
+type: test
+title: Tests for HID report descriptor construction
+summary: Verifies that keyboard and mouse report descriptors match expected byte sequences and tests item packing for various value widths.

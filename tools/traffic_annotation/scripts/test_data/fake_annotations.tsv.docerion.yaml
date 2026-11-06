@@ -1,0 +1,4 @@
+# Docerion header of fake_annotations.tsv.
+type: test
+title: fake_annotations.tsv
+summary: Tab-separated fake annotation records used as test input for the traffic annotation auditing scripts.

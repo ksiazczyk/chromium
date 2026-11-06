@@ -1,0 +1,4 @@
+# Docerion header of builder_utils_test.py.
+type: test
+title: Unit tests for builder_utils
+summary: Covers reading explicit GN args, host fallback detection, and builder guessing including unknown platform combinations.

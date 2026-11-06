@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.bookmarkManagerPrivate API. */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.bookmarkManagerPrivate API
+// summary: Declares TypeScript types for the chrome.bookmarkManagerPrivate API, covering copy, cut, paste, drag-and-drop, undo and open-in-new-tab bookmark operations.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

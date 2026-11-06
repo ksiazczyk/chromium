@@ -1,0 +1,4 @@
+# Docerion header of variations_cmd.txt.
+type: test
+title: Field trial command-line flags fixture
+summary: Sample command line with forced field trials, trial parameters, and enabled or disabled features used in variations tests.

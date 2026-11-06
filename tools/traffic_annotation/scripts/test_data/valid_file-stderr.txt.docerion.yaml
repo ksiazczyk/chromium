@@ -1,0 +1,4 @@
+# Docerion header of valid_file-stderr.txt.
+type: data
+title: Expected stderr for valid_file test
+summary: Empty expected standard error output for the valid file auditor test case.

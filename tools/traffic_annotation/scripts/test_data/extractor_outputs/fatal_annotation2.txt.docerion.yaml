@@ -1,0 +1,4 @@
+# Docerion header of fatal_annotation2.txt.
+type: test
+title: 'Extractor test data: fatal annotation 2'
+summary: Test fixture with a traffic annotation using a lowercase definition keyword to test extractor fatal error handling.

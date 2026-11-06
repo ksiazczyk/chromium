@@ -1,3 +1,13 @@
+---
+type: readme
+title: Network Traffic Annotation Auditor
+summary: Explains how to build, run, and test the traffic annotation auditor, including safe list exception types and hash code lookup for annotations.
+relations:
+  - references /tools/traffic_annotation/scripts/extractor.py
+  - references /docs/network_traffic_annotations.md
+  - documents /tools/traffic_annotation/scripts/auditor/auditor.py
+---
+
 # Network Traffic Annotation Auditor
 
 This script runs extractor.py to extract Network Traffic Annotations

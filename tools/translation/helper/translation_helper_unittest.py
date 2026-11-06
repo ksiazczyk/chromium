@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: test
+# title: Unit tests for translation_helper
+# summary: Tests translatable grd detection and error handling for missing or internal grd files in translation expectations.
+# ---
+
 """Unit tests for translation_helper.py."""
 
 import unittest

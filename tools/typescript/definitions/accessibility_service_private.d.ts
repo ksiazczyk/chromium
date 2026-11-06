@@ -11,6 +11,12 @@
  * ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.accessibilityServicePrivate API
+// summary: Declares TypeScript types for the private chrome.accessibilityServicePrivate API, covering speakSelectedText and clipboard copy events in Google Docs.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

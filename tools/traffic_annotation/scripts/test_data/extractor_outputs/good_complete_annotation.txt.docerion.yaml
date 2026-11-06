@@ -1,0 +1,4 @@
+# Docerion header of good_complete_annotation.txt.
+type: test
+title: Good complete annotation extractor output
+summary: Expected extractor output with a complete traffic annotation for the supervised user refresh token fetcher.

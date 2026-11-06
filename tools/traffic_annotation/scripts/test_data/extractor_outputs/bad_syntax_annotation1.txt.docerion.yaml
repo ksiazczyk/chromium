@@ -1,0 +1,4 @@
+# Docerion header of bad_syntax_annotation1.txt.
+type: test
+title: 'Extractor test data: bad syntax annotation 1'
+summary: Test fixture with a syntactically invalid traffic annotation from supervised_user_refresh_token_fetcher.cc used to exercise extractor syntax error handling.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Auditor Error Types
+# summary: Defines the ErrorType enum and AuditorError class used to represent and format errors found while auditing network traffic annotations.
+# ---
+
 from pathlib import Path
 from enum import Enum, auto
 from typing import Optional

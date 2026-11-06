@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Valgrind tools OWNERS redirect
+summary: Points code ownership of this directory to the tools/memory OWNERS file.

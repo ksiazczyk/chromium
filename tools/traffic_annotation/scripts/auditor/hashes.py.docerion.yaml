@@ -1,0 +1,4 @@
+# Docerion header of hashes.py.
+type: script
+title: Annotation Hash Code Lookup
+summary: Reads annotations.xml and prints each annotation unique ID with its hash code to ease mapping hashes from net-export logs back to annotations.

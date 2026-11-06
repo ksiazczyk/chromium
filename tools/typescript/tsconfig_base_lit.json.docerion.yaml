@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base_lit.json.
+type: config
+title: TypeScript base config for Lit
+summary: Extends the base tsconfig with an ES2024 target and DOM libraries for Lit-based web UIs.

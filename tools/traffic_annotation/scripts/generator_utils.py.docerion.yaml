@@ -1,0 +1,4 @@
+# Docerion header of generator_utils.py.
+type: source
+title: Parsers for annotations TSV and grouping XML
+summary: Parses annotations.tsv and grouping.xml plus Google Docs API responses to supply annotation data for document generation.

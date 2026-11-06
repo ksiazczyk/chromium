@@ -1,0 +1,4 @@
+# Docerion header of untrusted_mappings_expected.json.
+type: test
+title: Untrusted path mappings expected fixture
+summary: Expected TypeScript path mappings that include untrusted resource scheme variants alongside trusted resource paths for JS, localized link components, Polymer, and Lit.

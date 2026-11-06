@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: data
+// title: Sample network traffic annotations for tests
+// summary: C++ sample containing valid and invalid network traffic annotation definitions used to exercise the annotation auditor.
+// ---
+
 // An OK annotation
 net::NetworkTrafficAnnotationTag traffic_annotation =
     net::DefineNetworkTrafficAnnotation("ok_annotation", R"(

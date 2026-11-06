@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: USB echo gadget
+# summary: Implements echo gadget features with interrupt, bulk and isochronous endpoint pairs that echo packets received from the host back to it.
+# ---
+
 """USB echo gadget module.
 
 This gadget has pairs of IN/OUT endpoints that echo packets back to the host.

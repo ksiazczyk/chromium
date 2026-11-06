@@ -1,0 +1,4 @@
+# Docerion header of git_list.txt.
+type: test
+title: git_list.txt
+summary: Sample list of file paths from git, used as test input for the traffic annotation auditing scripts.

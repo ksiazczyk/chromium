@@ -1,0 +1,4 @@
+# Docerion header of symbolize_trace.
+type: script
+title: Proto Perfetto Trace Symbolizer Entry Point
+summary: Executable command-line wrapper that symbolizes a proto perfetto trace file and optionally displays the result in a browser.

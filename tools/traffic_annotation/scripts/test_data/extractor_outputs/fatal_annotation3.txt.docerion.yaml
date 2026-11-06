@@ -1,0 +1,4 @@
+# Docerion header of fatal_annotation3.txt.
+type: test
+title: Fatal annotation extractor output 3
+summary: Expected extractor output for a fatal traffic annotation case in supervised_user_refresh_token_fetcher.cc.

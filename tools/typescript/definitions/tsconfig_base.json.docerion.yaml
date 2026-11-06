@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript config for API definitions
+summary: Extends the parent TypeScript base config and re-enables library type checking by setting skipLibCheck to false for the definitions folder.

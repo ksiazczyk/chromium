@@ -1,0 +1,4 @@
+# Docerion header of metadata_extractor_unittest.py.
+type: test
+title: Trace Metadata Extractor Unit Tests
+summary: Unit tests for metadata extraction that mock trace processor SQL query results for version, OS, architecture and module data.

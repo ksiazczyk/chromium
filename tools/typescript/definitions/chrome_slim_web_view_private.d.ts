@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.slimWebViewPrivate API type definitions
+// summary: Declares TypeScript types for the chrome.slimWebViewPrivate API used by SlimWebviewElement bindings to manage guest views and containers.
+// ---
+
 // This namespace is populated by bindings in
 // components/guest_view/renderer/slim_web_view/slim_web_view_bindings.cc
 // and is used to implement SlimWebviewElement.

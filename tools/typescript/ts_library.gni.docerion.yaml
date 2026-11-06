@@ -1,0 +1,4 @@
+# Docerion header of ts_library.gni.
+type: config
+title: ts_library.gni
+summary: GN template that compiles TypeScript libraries through ts_library.py, handling inputs, dependencies, and path mappings.

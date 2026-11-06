@@ -1,0 +1,4 @@
+# Docerion header of annotation_tokenizer_test.py.
+type: test
+title: Unit tests for the annotation tokenizer
+summary: Unit tests covering tokenizing of annotation definitions, text blocks, escaping and error paths.

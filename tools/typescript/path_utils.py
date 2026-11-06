@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Path utility helpers for Ash folders
+# summary: Helper functions that detect Ash-specific source folders and resolve target paths relative to the root gen directory.
+# ---
+
 import os
 
 

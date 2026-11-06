@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: USB gadget management server
+# summary: Tornado WSGI application that manages a USB gadget, handling version reporting, package updates, claiming and reconnect or disconnect requests.
+# ---
+
 """WSGI application to manage a USB gadget."""
 
 from __future__ import print_function

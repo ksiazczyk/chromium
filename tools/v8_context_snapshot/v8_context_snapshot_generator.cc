@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 context snapshot generator program
+// summary: Command-line tool that initializes Blink and V8, takes a deterministic V8 context snapshot, and writes it to the file given by --output_file.
+// ---
+
 #include <string_view>
 
 #include "base/at_exit.h"

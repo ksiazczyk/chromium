@@ -1,0 +1,4 @@
+# Docerion header of TRAFFIC_ANNOTATION_OWNERS.
+type: config
+title: Traffic Annotation Reviewers List
+summary: Lists reviewers responsible for network traffic annotation changes, grouped by time zone, with a command to pick a random reviewer.

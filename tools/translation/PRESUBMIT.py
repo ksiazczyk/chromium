@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for translation tools
+# summary: Runs the directory's unit tests for affected Python files and testdata during presubmit checks on upload and commit.
+# ---
+
 
 def _CommonChecks(input_api, output_api):
   if not (

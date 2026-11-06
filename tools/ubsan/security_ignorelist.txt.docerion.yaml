@@ -1,0 +1,4 @@
+# Docerion header of security_ignorelist.txt.
+type: config
+title: UBSan security ignorelist
+summary: Suppression list for is_ubsan_security builds, covering V8, SQLite, and Vulkan-related function-pointer type mismatches.

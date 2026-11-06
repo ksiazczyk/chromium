@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: HID constant definitions
+# summary: Defines HID class constants such as descriptor types, class requests, collection types, modifier keys, LEDs, mouse buttons and key code tables.
+# ---
+
 """HID constant definitions."""
 
 import usb_constants

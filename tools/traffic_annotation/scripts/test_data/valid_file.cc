@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: valid_file.cc
+// summary: C++ sample file exercising many network traffic annotation patterns, used as input to test the traffic annotation extractor script.
+// ---
+
 #include "net/traffic_annotation/network_traffic_annotation.h"
 
 #include "dummy_classes.h"

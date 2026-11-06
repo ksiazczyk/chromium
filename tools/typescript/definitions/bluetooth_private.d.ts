@@ -4,6 +4,12 @@
 
 /** @fileoverview Type definitions for chrome.bluetoothPrivate API. */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.bluetoothPrivate API
+// summary: Declares TypeScript types for the chrome.bluetoothPrivate API, including pairing events, connect results, and device pairing or disconnection functions.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

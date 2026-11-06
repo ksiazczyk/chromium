@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.feedbackPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.feedbackPrivate API
+// summary: Defines TypeScript types for the chrome.feedbackPrivate API for sending user feedback, screenshots and log sources.
+// ---
+
 declare namespace chrome {
   export namespace feedbackPrivate {
     interface AttachedFile {

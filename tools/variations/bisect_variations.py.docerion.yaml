@@ -1,0 +1,4 @@
+# Docerion header of bisect_variations.py.
+type: source
+title: Field trial bisect script
+summary: Bisects Chrome field trials from saved variations command line switches to pinpoint which experiment causes a given behavior.

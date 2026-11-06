@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Translation file and expectations helpers
+# summary: Represents grd files and determines which grd files are translatable according to the translation expectations file.
+# ---
+
 """Helpers for dealing with translation files."""
 
 from __future__ import print_function

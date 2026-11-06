@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: HID report descriptor builder utilities
+# summary: Provides utility functions to encode HID report descriptor items, including main, global and local items per the HID 1.11 specification.
+# ---
+
 
 """Utility functions for constructing HID report descriptors."""
 

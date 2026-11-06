@@ -1,3 +1,12 @@
+---
+type: readme
+title: Chrome Tracing Tools - Guide
+summary: Guide to recording and symbolizing Chrome traces with the tools in this directory, covering supported platforms and setups.
+relations:
+  - documents /tools/tracing/profile_chrome_startup
+  - documents /tools/tracing/symbolize_trace
+---
+
 # Chrome Tracing Tools - Guide
 
 The tools/tracing directory contains scripts for both recording and symbolizing

@@ -5,6 +5,12 @@
 /** @fileoverview Definitions for chrome.usersPrivate API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.usersPrivate API
+// summary: Declares the chrome.usersPrivate API in TypeScript, covering user information, login status, and adding or removing users.
+// ---
+
 declare namespace chrome {
   export namespace usersPrivate {
     export interface User {

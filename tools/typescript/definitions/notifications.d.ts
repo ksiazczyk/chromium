@@ -5,6 +5,12 @@
 /** @fileoverview Minimum definitions for chrome.notifications API */
 // TODO(crbug.com/40179454): Auto-generate this file.
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.notifications API
+// summary: Declares minimal types and functions for the chrome.notifications API for creating and clearing notifications and handling button click events.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

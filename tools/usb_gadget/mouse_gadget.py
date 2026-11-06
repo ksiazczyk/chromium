@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: USB HID mouse gadget
+# summary: Implements a USB HID mouse via MouseFeature and MouseGadget classes with button and movement input reports, plus web request handlers for the server.
+# ---
+
 """Implementation of a USB HID mouse.
 
 Two classes are provided by this module. The MouseFeature class implements

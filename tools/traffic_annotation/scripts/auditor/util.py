@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Auditor Utility Functions
+# summary: Provides shared helpers for the auditor, including iterative hash computation, compiled proto import, platform detection, and protobuf field merging.
+# ---
+
 import logging
 import platform
 import re

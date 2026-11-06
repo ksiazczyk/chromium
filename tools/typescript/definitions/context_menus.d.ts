@@ -10,6 +10,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.contextMenus API
+// summary: Defines TypeScript types for the chrome.contextMenus API for creating, updating and handling context menu items.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

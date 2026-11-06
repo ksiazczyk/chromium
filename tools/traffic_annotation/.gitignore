@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for traffic annotation tool binaries
+# summary: Ignores locally built traffic annotation auditor and extractor binaries for Linux and Windows.
+# ---
+
 bin/linux64/traffic_annotation_auditor
 bin/linux64/traffic_annotation_extractor
 bin/win32/traffic_annotation_auditor.exe

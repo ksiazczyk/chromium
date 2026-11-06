@@ -1,0 +1,4 @@
+# Docerion header of webui_path_mappings.gni.
+type: config
+title: webui_path_mappings GN template
+summary: GN template that runs path_mappings.py to generate path mapping JSON files for WebUI TypeScript targets.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Variations command line splitter
+# summary: Splits Chrome variations command line switches into two sets so bisecting can narrow down the experiment responsible for a bug.
+# ---
+
 r"""A script to split Chrome variations into two sets.
 
 Chrome runs with many experiments and variations (field trials) that are

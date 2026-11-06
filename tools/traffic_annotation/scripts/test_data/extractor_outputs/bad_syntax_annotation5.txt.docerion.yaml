@@ -1,0 +1,4 @@
+# Docerion header of bad_syntax_annotation5.txt.
+type: test
+title: 'Extractor test data: bad syntax annotation 5'
+summary: Test fixture with a traffic annotation whose internal contacts entry lacks braces to test extractor syntax error handling.

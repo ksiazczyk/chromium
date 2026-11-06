@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for unittest data
+summary: Grants expected_output.h permission to include the variations study protobuf header through specific include rules.

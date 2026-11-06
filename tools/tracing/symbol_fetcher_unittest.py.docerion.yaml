@@ -1,0 +1,4 @@
+# Docerion header of symbol_fetcher_unittest.py.
+type: test
+title: Symbol Fetcher Unit Tests
+summary: Unit tests for fetching symbols from cloud storage, using mocked GCS, unzip and dump_syms functions across platforms.

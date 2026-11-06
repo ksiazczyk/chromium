@@ -1,0 +1,4 @@
+# Docerion header of valid_header-stderr.txt.
+type: test
+title: valid_header-stderr.txt
+summary: Empty expected stderr output for the extractor run on valid_header.h, indicating a successful parse with no errors.

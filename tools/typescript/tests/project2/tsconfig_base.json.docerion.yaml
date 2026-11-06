@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: tsconfig_base.json for project2
+summary: TypeScript compiler configuration for the project2 test that extends the root tsconfig_base.json and disables the noUnusedLocals check.

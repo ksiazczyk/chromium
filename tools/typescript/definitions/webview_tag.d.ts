@@ -13,6 +13,12 @@
  * commented as such.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.webviewTag API
+// summary: TypeScript declarations for the chrome.webviewTag API, manually adjusted so webview events are exposed as DOM events with addEventListener.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

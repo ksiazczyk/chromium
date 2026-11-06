@@ -9,6 +9,12 @@
  * extensions/common/api/extension_types.json -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.extensionTypes API
+// summary: Defines shared TypeScript enums and interfaces for extension injection, CSS origin, frame types and execution worlds.
+// ---
+
 
 
 declare namespace chrome {

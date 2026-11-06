@@ -6,6 +6,12 @@
 // TODO(crbug.com/40179454): Auto-generate this file from
 // chrome/common/extensions/api/scripting.idl.
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.scripting API
+// summary: Declares the chrome.scripting API for injecting scripts into tabs via executeScript, with injection targets and result types.
+// ---
+
 declare namespace chrome {
   export namespace scripting {
     interface InjectionTarget {

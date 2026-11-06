@@ -1,0 +1,4 @@
+# Docerion header of bad_syntax_annotation2.txt.
+type: test
+title: 'Extractor test data: bad syntax annotation 2'
+summary: Test fixture with a traffic annotation using an invalid capitalized Semantics keyword to test extractor syntax error detection.

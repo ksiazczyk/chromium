@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Traffic annotation presubmit checks
+# summary: Runs unit tests for the traffic annotation scripts during presubmit when Python files or test data change.
+# ---
+
 
 def CheckRunUnitTests(input_api, output_api):
   if not (

@@ -1,0 +1,4 @@
+# Docerion header of valid_file-stdout.txt.
+type: test
+title: valid_file-stdout.txt
+summary: Expected extractor output listing the traffic annotations found in valid_file.cc, covering definition, partial, completing, branched, mutable and test tags.

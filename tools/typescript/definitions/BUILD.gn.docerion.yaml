@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for checking TypeScript definition files
+summary: Defines a ts_library GN target that type-checks the chrome API .d.ts definition files in this folder once, so other targets do not have to recheck them.

@@ -1,0 +1,4 @@
+# Docerion header of trusted_mappings_expected.json.
+type: test
+title: Trusted path mappings expected fixture
+summary: Expected TypeScript path mappings for trusted contexts, mapping module and resource paths to declaration files under tests, UI resources, and third-party Polymer and Lit directories.

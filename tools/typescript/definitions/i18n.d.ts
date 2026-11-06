@@ -9,6 +9,12 @@
  * -g definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for chrome.i18n API
+// summary: Defines TypeScript types for the chrome.i18n API for accepted languages, localized messages and language detection.
+// ---
+
 
 
 declare namespace chrome {

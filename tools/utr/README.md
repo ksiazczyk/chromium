@@ -1,3 +1,12 @@
+---
+type: readme
+title: UTR - The Universal Test Runner
+summary: Explains how to use UTR to compile and run tests locally the same way bots do, covering command-line usage, builder configs, and tips such as git bisect.
+relations:
+  - references /tools/utr/docs/milo_command.png
+  - references /tools/utr/docs/utr_repro_instruction.png
+---
+
 # UTR - The Universal Test Runner
 
 UTR is a tool that can locally compile and/or run tests the same way it's done

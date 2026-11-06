@@ -1,0 +1,4 @@
+# Docerion header of fieldtrial_to_struct.py.
+type: source
+title: Field trial config to struct converter
+summary: Converts field trial testing config JSON into a struct description usable by json_to_struct, mapping platforms and form factors to Study enum values.

@@ -1,6 +1,13 @@
 # Copyright 2021 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Trace display in browser helper
+# summary: Opens a saved proto trace in a browser using Perfetto's open_trace_in_ui tool.
+# ---
+
 """Displays a trace file in a browser."""
 
 import logging

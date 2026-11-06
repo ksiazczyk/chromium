@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for UTR
+# summary: Keeps the .bundles directory, where CIPD recipe bundles are cached, out of version control.
+# ---
+
 .bundles

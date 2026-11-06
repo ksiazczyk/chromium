@@ -1,0 +1,4 @@
+# Docerion header of too_few_args-stdout.txt.
+type: data
+title: Expected stdout for too_few_args test
+summary: Empty expected standard output for the too_few_args auditor test case.

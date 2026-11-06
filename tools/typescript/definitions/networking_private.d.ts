@@ -10,6 +10,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.networkingPrivate API
+// summary: Declares generated types and functions for the chrome.networkingPrivate API covering network properties, device states, proxies, and network configuration.
+// ---
+
 import {ChromeEvent} from './chrome_event.js';
 
 declare global {

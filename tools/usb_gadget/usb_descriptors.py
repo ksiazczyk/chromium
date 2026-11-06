@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: USB descriptor generation utilities
+# summary: Provides classes to represent, configure and encode USB descriptors using declarative field, fixed field and computed field definitions.
+# ---
+
 """USB descriptor generation utilities.
 
 Classes to represent and generate USB descriptors.

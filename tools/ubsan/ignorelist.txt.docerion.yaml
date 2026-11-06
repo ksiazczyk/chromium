@@ -1,0 +1,4 @@
+# Docerion header of ignorelist.txt.
+type: config
+title: UBSan ignorelist
+summary: UBSan suppression list that silences false positives in V8 accessor callbacks, weak callbacks, and several tracked Chromium bugs.

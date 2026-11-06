@@ -1,0 +1,4 @@
+# Docerion header of irrelevant_file_name.txt.
+type: data
+title: Sample file with annotation keywords but irrelevant extension
+summary: Sample text file containing traffic annotation keywords to verify that files without a proper extension are excluded from tests.

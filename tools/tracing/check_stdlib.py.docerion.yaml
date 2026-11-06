@@ -1,0 +1,4 @@
+# Docerion header of check_stdlib.py.
+type: script
+title: Chrome stdlib SQL module checker
+summary: Wrapper that runs Perfetto's check_sql_modules.py on the Chrome tracing stdlib sources.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the v8_context_snapshot directory
+summary: Lists the Chromium accounts that own and review changes to the v8_context_snapshot tooling.

@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: tsconfig_base.json
+summary: TypeScript configuration for project5 that extends the repository root tsconfig_base.json and enables composite project builds.

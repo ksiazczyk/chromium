@@ -9,6 +9,12 @@
  * extensions/common/api/offscreen.webidl -g ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for the chrome.offscreen API
+// summary: Declares generated types and functions for the chrome.offscreen API for creating, closing, and checking offscreen documents with justification reasons.
+// ---
+
 
 
 declare namespace chrome {

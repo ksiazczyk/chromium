@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: VPython environment specification
+# summary: VPython configuration pinning the Python version and dependencies needed to run the UTR scripts.
+# ---
+
 requires-python = '>=3.11,<3.12'
 dependencies = [
   'colorama==0.4.6',

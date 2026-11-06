@@ -1,0 +1,4 @@
+# Docerion header of wrong_arg_type-stderr.txt.
+type: test
+title: wrong_arg_type-stderr.txt
+summary: Expected stderr output showing the source code parsing error raised for the invalid annotation argument in wrong_arg_type.cc.

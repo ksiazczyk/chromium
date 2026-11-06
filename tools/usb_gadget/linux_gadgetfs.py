@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Linux gadgetfs USB gadget driver
+# summary: Implements a Linux gadgetfs-based driver that binds USB gadgets to a peripheral controller, including hardware endpoint definitions for the BeagleBone Black.
+# ---
+
 """Linux gadgetfs glue.
 
 Exposes a USB gadget using a USB peripheral controller on Linux. The userspace

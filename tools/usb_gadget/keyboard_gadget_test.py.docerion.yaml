@@ -1,0 +1,4 @@
+# Docerion header of keyboard_gadget_test.py.
+type: test
+title: Tests for the keyboard gadget
+summary: Unit tests verifying key presses with modifiers, input report packets and LED output report handling for the keyboard gadget.

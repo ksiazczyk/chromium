@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base2.json.
+type: config
+title: tsconfig_base2.json
+summary: TypeScript configuration that extends tsconfig_base.json, chaining base configs within the project5 test project.

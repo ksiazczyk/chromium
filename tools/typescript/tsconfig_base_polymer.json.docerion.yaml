@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base_polymer.json.
+type: config
+title: TypeScript base config for Polymer
+summary: Extends the base tsconfig with relaxed strictness options for Polymer-based TypeScript projects.

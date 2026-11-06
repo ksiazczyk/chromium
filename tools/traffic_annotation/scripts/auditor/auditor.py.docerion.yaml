@@ -1,0 +1,4 @@
+# Docerion header of auditor.py.
+type: script
+title: Traffic Annotation Auditor Script
+summary: Extracts network traffic annotations from Chromium source code, runs tests and maintenance on them, and updates annotations.xml and grouping.xml.
