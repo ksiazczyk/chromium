@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Update client test data owners
+summary: Delegates ownership of this test data folder to the owners of the update_client component.

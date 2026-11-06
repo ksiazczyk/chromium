@@ -1,0 +1,4 @@
+# Docerion header of ddljson_android2_fp.json.
+type: test
+title: Fingerprint Doodle API test response for Android, Halloween doodle
+summary: Canned ddljson test response for Android with fingerprint metadata for the interactive Halloween 2016 doodle.

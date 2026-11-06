@@ -1,0 +1,4 @@
+# Docerion header of pay.mock-http-headers.
+type: test
+title: Mock HTTP headers for the pay manifest
+summary: Mock HTTP response headers that serve the pay manifest with 200 OK, permissive CORS, a JSON content type and a payment-method-manifest Link header.

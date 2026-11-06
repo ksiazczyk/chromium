@@ -1,0 +1,4 @@
+# Docerion header of ddljson_ios2_fp.json.
+type: test
+title: iOS Halloween doodle JSON fingerprint fixture
+summary: Fingerprint variant of the Halloween doodle JSON test fixture, describing an interactive doodle for iOS search provider logo tests.

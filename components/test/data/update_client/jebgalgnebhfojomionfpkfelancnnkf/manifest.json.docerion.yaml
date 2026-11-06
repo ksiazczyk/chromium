@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test component manifest
+summary: Manifest describing the test component Component Test 1, version 1.0, which loads the plugin component1.dll.

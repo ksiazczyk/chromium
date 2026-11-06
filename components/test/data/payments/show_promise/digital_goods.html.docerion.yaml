@@ -1,0 +1,4 @@
+# Docerion header of digital_goods.html.
+type: test
+title: Show promise test page for digital goods
+summary: Test page with a Buy button that loads digital_goods.js to exercise PaymentRequest.show() with a promise for digital goods.

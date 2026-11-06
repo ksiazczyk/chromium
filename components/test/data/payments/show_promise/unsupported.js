@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Show promise test with unsupported payment method
+// summary: JavaScript test that launches PaymentRequest with a show promise and an unsupported payment method, printing and returning the error for Java and C++ browser tests.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise and an unsupported payment method
  * identifier.

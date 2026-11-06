@@ -1,0 +1,4 @@
+# Docerion header of updatecheck_reply_unknownapp.json.
+type: data
+title: Update check reply fixture for unknown app error
+summary: Update check response fixture returning an error-unknownApplication status for the requested app.

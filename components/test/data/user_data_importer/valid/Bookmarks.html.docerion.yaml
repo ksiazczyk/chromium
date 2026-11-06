@@ -1,0 +1,4 @@
+# Docerion header of Bookmarks.html.
+type: test
+title: Bookmarks fixture for user data import tests
+summary: Netscape-format bookmarks HTML containing sample favorites and an empty reading list, used as valid input for user data importer tests.

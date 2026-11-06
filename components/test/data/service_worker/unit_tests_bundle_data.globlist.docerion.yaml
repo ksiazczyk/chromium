@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Service worker unit tests bundle data globlist
+summary: Glob patterns used to regenerate the unit tests bundle data filelist for service worker test data.

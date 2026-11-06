@@ -1,0 +1,4 @@
+# Docerion header of f2.
+type: test
+title: f2 patch for changing text file
+summary: Patch file that creates the changing text file in the bad 1-to-2 differential update test.

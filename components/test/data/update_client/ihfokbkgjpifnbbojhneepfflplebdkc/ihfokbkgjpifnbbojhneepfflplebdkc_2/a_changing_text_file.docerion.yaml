@@ -1,0 +1,4 @@
+# Docerion header of a_changing_text_file.
+type: test
+title: Changing text file test fixture
+summary: Test fixture text file whose contents change between versions in the update client test data.

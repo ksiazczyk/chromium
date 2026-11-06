@@ -1,0 +1,4 @@
+# Docerion header of us_only_shipping.html.
+type: test
+title: Show promise test page for US-only shipping
+summary: HTML test page with a Buy button that loads the US-only shipping show promise script and displays the test result.

@@ -1,0 +1,4 @@
+# Docerion header of ddljson_ios1.json.
+type: test
+title: iOS Prayoon Yomyiam doodle JSON test fixture
+summary: Test fixture with a Google doodle JSON response for Prayoon Yomyiam's 85th birthday, including base64-encoded CTA imagery, used by iOS search provider logo tests.

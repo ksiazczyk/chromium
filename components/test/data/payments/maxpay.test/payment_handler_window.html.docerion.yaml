@@ -1,0 +1,4 @@
+# Docerion header of payment_handler_window.html.
+type: test
+title: Max Pay payment handler window
+summary: Payment app window with confirm, fail, and cancel buttons that posts the chosen action to the service worker and logs status messages.

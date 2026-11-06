@@ -1,3 +1,11 @@
+---
+type: readme
+title: Test files
+summary: Describes the test fixtures in the folder, notably a crx3 whose verified contents appear only in the header and are used by a ComponentUnpacker test.
+relations:
+  - documents /components/test/data/update_client/gndmhdcefbhlchkhipcnnbkcmicncehk_22_314.crx3
+---
+
 # Test files
 
 ## gndmhdcefbhlchkhipcnnbkcmicncehk_22_314.crx3

@@ -1,0 +1,4 @@
+# Docerion header of webpay.
+type: test
+title: webpay blank test data placeholder
+summary: Intentionally blank placeholder file serving as test data for the webpay payment case in the quincypay.test payment test fixtures.

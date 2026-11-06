@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: test
+title: Unit tests bundle data filelist for url_rewrite
+summary: Generated filelist enumerating the HTML test data bundled for iOS unit tests, maintained by build/ios/update_bundle_filelist.py.

@@ -1,0 +1,4 @@
+# Docerion header of frame_with_multiple_fetches.html.
+type: test
+title: Test frame fetching multiple scripts
+summary: Test HTML page that fetches a disallowed and an allowed script and reports which one loaded via domAutomationController.

@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: config
+title: Unit tests bundle data globlist
+summary: Glob pattern file covering the surface embed HTML test data, used to regenerate the corresponding filelist for the iOS unit test bundle.

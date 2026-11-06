@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Single-option shipping with update show promise test script
+// summary: Launches PaymentRequest with a show promise and a shippingaddresschange handler that updates the payment details with finalized totals.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise and a single pre-selected option
  * for shipping worldwide and a handler for shipping address change events that

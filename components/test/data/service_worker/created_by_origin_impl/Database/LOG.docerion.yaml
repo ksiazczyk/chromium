@@ -1,0 +1,4 @@
+# Docerion header of LOG.
+type: test
+title: Service worker test database LOG file
+summary: LevelDB log recording the 2021 creation of the service worker database and reuse of its manifest in the test fixture.

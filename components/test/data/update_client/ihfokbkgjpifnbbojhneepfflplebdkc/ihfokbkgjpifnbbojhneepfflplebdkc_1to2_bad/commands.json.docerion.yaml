@@ -1,0 +1,4 @@
+# Docerion header of commands.json.
+type: test
+title: commands.json for bad 1-to-2 update test
+summary: Lists copy, create and courgette operations with expected SHA-256 hashes for a bad 1-to-2 differential update test case.

@@ -1,0 +1,4 @@
+# Docerion header of ddljson_android0.json.
+type: test
+title: Android doodle JSON test fixture 0
+summary: Test fixture containing a Google Doodle JSON response with embedded base64 logo image used for Android search provider logo tests.

@@ -1,0 +1,4 @@
+# Docerion header of inner_page.html.
+type: test
+title: Inner page with input
+summary: Simple red-background page containing an input, used as embedded content in surface embed tests.

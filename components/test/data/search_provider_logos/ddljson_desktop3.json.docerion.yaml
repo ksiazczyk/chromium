@@ -1,0 +1,4 @@
+# Docerion header of ddljson_desktop3.json.
+type: test
+title: Desktop Hedy Lamarr doodle JSON fixture with inline image
+summary: Test fixture with Google Doodle JSON for Hedy Lamarr's 101st birthday on desktop, embedding the call-to-action image as a base64 data URI.

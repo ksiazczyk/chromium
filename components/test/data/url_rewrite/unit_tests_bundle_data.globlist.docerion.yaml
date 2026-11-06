@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Unit tests bundle data globlist for url_rewrite
+summary: Glob pattern list used to regenerate the unit tests bundle data filelist for the HTML files in this directory.

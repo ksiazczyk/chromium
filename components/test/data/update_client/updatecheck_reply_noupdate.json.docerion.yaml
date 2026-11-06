@@ -1,0 +1,4 @@
+# Docerion header of updatecheck_reply_noupdate.json.
+type: data
+title: Mock update check reply with no update
+summary: Update check response fixture that reports a noupdate status for the requested app.

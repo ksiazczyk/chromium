@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Performance manager test data owners
+summary: Delegates review ownership for this test data directory to the performance manager component's OWNERS file.

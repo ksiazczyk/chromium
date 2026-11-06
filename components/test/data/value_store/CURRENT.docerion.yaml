@@ -1,0 +1,4 @@
+# Docerion header of CURRENT.
+type: test
+title: LevelDB CURRENT file for value store test data
+summary: Points to the active manifest of the LevelDB value store database used as unit test data.

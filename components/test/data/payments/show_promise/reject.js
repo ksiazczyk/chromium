@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Show promise rejection test logic
+// summary: Launches PaymentRequest.show() with a promise that rejects, printing and returning the error for Java and C++ browser tests.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise and reject that promise.
  * @param {string} supportedMethods - The payment method identifier.

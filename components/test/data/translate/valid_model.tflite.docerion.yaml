@@ -1,0 +1,3 @@
+# Docerion header of valid_model.tflite.
+type: test
+title: valid_model.tflite

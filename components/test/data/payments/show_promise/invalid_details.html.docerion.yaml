@@ -1,0 +1,4 @@
+# Docerion header of invalid_details.html.
+type: test
+title: Show promise test page with invalid details
+summary: Test page that triggers invalid_details.js to show a PaymentRequest whose show promise resolves with a negative total amount.

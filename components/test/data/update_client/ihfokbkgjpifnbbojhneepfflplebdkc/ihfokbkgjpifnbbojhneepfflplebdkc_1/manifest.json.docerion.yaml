@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Fake version 1.0 extension manifest used as test data for update client tests.

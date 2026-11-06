@@ -1,0 +1,4 @@
+# Docerion header of included_script_in_iframe.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for included_script_in_iframe.html
+summary: Mock HTTP response headers served with the included_script_in_iframe test page, advertising fenced-frame loading mode support.

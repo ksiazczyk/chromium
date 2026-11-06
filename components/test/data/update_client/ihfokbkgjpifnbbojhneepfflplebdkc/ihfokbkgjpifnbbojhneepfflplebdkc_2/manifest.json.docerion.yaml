@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test app manifest version 2.0
+summary: Manifest describing version 2.0 of the test app used by the update client tests.

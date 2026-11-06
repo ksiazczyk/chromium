@@ -1,0 +1,4 @@
+# Docerion header of ddljson_android4_fp.json.
+type: test
+title: Android Pony Express doodle JSON fixture with fingerprint
+summary: Test fixture with Google Doodle JSON for the Pony Express interactive doodle on Android, including a fingerprint and full-page interactive URL.

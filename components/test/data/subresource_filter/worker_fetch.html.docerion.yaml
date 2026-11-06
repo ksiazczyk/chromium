@@ -1,0 +1,4 @@
+# Docerion header of worker_fetch.html.
+type: test
+title: Worker fetch test page
+summary: Test page that starts a web worker and shows the worker's fetch result in the document title.

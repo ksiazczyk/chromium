@@ -1,0 +1,4 @@
+# Docerion header of resolve_with_empty_dictionary.html.
+type: test
+title: Show promise resolving with empty dictionary test page
+summary: Test page that loads resolve_with_empty_dictionary.js to show a PaymentRequest whose show promise resolves with an empty dictionary.

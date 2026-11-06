@@ -1,0 +1,4 @@
+# Docerion header of ddljson_ios4_fp.json.
+type: test
+title: iOS doodle API test response with fingerprint
+summary: Test fixture holding a captured Google ddljson doodle API response for an iOS user agent, re-fetched with the image fingerprint parameter so no image data is inlined.

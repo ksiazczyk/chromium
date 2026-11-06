@@ -1,0 +1,4 @@
+# Docerion header of merchant.html.
+type: test
+title: Max Pay merchant test page
+summary: Merchant page with buttons that launch the Max Pay payment handler, including a variant over plain HTTP, and logs the launch and payment results.

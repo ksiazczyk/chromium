@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Show promise test resolving with empty lists
+// summary: JavaScript helper that launches PaymentRequest and resolves the show() promise with empty display items, modifiers, and shipping options to clear the payment sheet except the total.
+// ---
+
 /**
  * Launch PaymentRequest by resolving the promised passed into the show() method
  * with empty lists of display items, modifiers, and shipping options.

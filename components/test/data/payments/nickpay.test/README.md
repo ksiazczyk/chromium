@@ -1,3 +1,9 @@
+---
+type: readme
+title: Nick Pay test payment handler
+summary: Describes the just-in-time installable payment handler test data that serves its payment method manifest directly at the payment method identifier URL.
+---
+
 Just-in-time installable payment handler that serves the payment method manifest
 directly at the payment method identifier URL
 https://a.com:<port>/nickpay.test/pay and has a relative URL in

@@ -1,0 +1,4 @@
+# Docerion header of Bookmarks.html.
+type: test
+title: Invalid bookmarks HTML test fixture
+summary: Test fixture containing plain text instead of HTML, used to check that the user data importer rejects malformed bookmarks input.

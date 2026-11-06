@@ -1,0 +1,4 @@
+# Docerion header of focus_harness.html.
+type: test
+title: Surface embed focus harness
+summary: Test harness page with outer inputs and a helper that inserts surface embed elements, supporting focus traversal testing.

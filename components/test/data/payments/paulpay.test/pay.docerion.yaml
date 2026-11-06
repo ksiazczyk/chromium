@@ -1,0 +1,4 @@
+# Docerion header of pay.
+type: test
+title: Paul Pay payment method manifest
+summary: Payment method manifest for the Paul Pay test handler, declaring the app, its icon and a service worker that is absent from the test data.

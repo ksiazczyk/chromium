@@ -1,3 +1,9 @@
+---
+type: readme
+title: Max Pay payment handler test instructions
+summary: Explains how to run the Max Pay payment handler tests manually and automatically on mobile and desktop, including serving the test data directory and launching Chrome with certificate checks disabled.
+---
+
 The tests in this folder is meant for both manual test and automated test, for
 both Mobile and Desktop. To run these tests manually, take the following steps:
 * start a http server to serve the directory "components/test/data/payments/"

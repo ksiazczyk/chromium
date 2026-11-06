@@ -1,0 +1,4 @@
+# Docerion header of resolve_with_empty_lists.html.
+type: test
+title: Show promise resolving with empty lists test page
+summary: Test page that loads resolve_with_empty_lists.js to show a PaymentRequest whose show promise resolves with empty list items.

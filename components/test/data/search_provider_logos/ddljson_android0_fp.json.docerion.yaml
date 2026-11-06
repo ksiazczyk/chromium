@@ -1,0 +1,4 @@
+# Docerion header of ddljson_android0_fp.json.
+type: test
+title: Android Google Doodle JSON test fixture with fingerprint
+summary: Test fixture holding an Android Google Doodle JSON payload with fingerprint metadata, used by search provider logo tests.

@@ -1,0 +1,4 @@
+# Docerion header of download_test_doodles.sh.
+type: script
+title: Download script for test doodle API responses
+summary: Shell script that downloads ddljson doodle API responses for Android, iOS and desktop user agents and re-fetches each with the extracted image fingerprint to produce the test fixtures.

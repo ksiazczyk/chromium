@@ -1,0 +1,4 @@
+# Docerion header of updatecheck_reply_4.json.
+type: data
+title: Mock update check reply with daystart data
+summary: Update check response fixture offering a crx3 download for version 1.0 and including an elapsed_days daystart value.

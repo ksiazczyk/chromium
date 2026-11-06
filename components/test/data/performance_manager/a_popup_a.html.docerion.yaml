@@ -1,0 +1,4 @@
+# Docerion header of a_popup_a.html.
+type: test
+title: a.com page opening an a.com popup
+summary: Test page from a.com that opens a popup window with a.html shortly after load.

@@ -1,0 +1,4 @@
+# Docerion header of ddljson_ios1_fp.json.
+type: test
+title: iOS Prayoon Yomyiam doodle JSON fingerprint fixture
+summary: Fingerprint variant of the Prayoon Yomyiam doodle JSON test fixture, describing an animated doodle for iOS search provider logo tests.

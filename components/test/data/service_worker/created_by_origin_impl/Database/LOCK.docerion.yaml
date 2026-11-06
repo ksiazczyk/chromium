@@ -1,0 +1,4 @@
+# Docerion header of LOCK.
+type: test
+title: Service worker test database LOCK file
+summary: Empty LevelDB lock file that is part of the service worker test database fixture.

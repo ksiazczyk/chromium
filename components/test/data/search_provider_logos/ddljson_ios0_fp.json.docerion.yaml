@@ -1,0 +1,4 @@
+# Docerion header of ddljson_ios0_fp.json.
+type: test
+title: iOS doodle fingerprint JSON test fixture 0
+summary: Test fixture with fingerprinted doodle metadata, including image URLs, search links and sharing details, for iOS search provider logo tests.

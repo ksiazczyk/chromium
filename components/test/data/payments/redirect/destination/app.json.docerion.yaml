@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: Redirect destination payment handler web app manifest
+summary: Web app manifest naming the Redirect Destination Pay app and registering app.js as its service worker for the payment handler test.

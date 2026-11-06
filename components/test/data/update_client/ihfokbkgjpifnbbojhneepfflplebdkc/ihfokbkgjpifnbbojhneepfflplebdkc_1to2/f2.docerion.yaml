@@ -1,0 +1,4 @@
+# Docerion header of f2.
+type: test
+title: Patch f2 for creating manifest.json
+summary: Patch payload used to create the version 2.0 manifest.json for the ihfo towah app in the component updater 1-to-2 diff update test.

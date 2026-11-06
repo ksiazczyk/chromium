@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Simple OpenSearch description fixture
+summary: OpenSearch description fixture defining a simple search engine with a template URL, used as test data.
+-->
+
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>Simple Search</ShortName>
 <Description>Not a creative description.</Description>

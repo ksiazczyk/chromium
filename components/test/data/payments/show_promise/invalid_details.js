@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Show promise resolving with invalid details
+// summary: Launches PaymentRequest.show() with a promise resolving a negative total, printing and returning the error for Java and C++ tests.
+// ---
+
 /**
  * Launch PaymentRequest with a show promise that resolve with invalid details
  * (a negative total amount).

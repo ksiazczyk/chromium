@@ -1,3 +1,9 @@
+---
+type: readme
+title: Canned Doodle API test data directory README
+summary: Explains that the directory holds canned responses from Google's Doodle API for a parsing unit test and that download_test_doodles.sh regenerates them when server content changes.
+---
+
 This directory contains canned test responses from Google's Doodle API at
 www.google.com/async/ddljson. There's a unit test that verifies that Chromium
 parses all the files without errors. When something on the server-side changes,

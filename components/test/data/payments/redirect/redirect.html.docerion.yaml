@@ -1,0 +1,4 @@
+# Docerion header of redirect.html.
+type: test
+title: PaymentRequest canMakePayment test page
+summary: Test page that uses PaymentRequest.canMakePayment to check support for a given payment method.

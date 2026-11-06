@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: Nick Pay payment app manifest
+summary: Payment app manifest declaring the Nick Pay app name, its icon and the service worker script for the test payment handler.

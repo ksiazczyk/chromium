@@ -1,0 +1,4 @@
+# Docerion header of timeout.html.
+type: test
+title: Show promise timeout test page
+summary: HTML test page that loads timeout.js to verify the browser times out a show promise that is never settled.

@@ -1,0 +1,4 @@
+# Docerion header of pay.mock-http-headers.
+type: test
+title: Mock 301 redirect HTTP headers for pay
+summary: Mock HTTP response headers that answer with a 301 redirect to the pay destination page for tests.

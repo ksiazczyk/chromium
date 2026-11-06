@@ -1,0 +1,4 @@
+# Docerion header of single_option_shipping.html.
+type: test
+title: Show promise test page for single-option shipping
+summary: HTML test page with a Buy button that runs the single-option shipping show promise test through single_option_shipping.js.

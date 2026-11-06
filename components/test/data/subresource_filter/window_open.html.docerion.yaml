@@ -1,0 +1,4 @@
+# Docerion header of window_open.html.
+type: test
+title: Window open test page
+summary: Test page exposing an openWindow function that calls window.open and reports whether a window was opened.

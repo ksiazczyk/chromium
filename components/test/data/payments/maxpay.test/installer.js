@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: test
+// title: Max Pay payment handler installer script
+// summary: Launches the Max Pay payment handler via PaymentRequest, waits until the app signals readiness, and reports the payment result to the on-page log.
+// ---
+
 const methodName = window.location.origin + '/pay';
 const swSrcUrl = './payment_handler_sw.js';
 let resultPromise;

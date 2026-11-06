@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<!--docerion
+type: test
+title: Unicode OpenSearch description fixture
+summary: OpenSearch description fixture with a Cyrillic ShortName, used to test Unicode handling in search engine data.
+-->
+
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 <ShortName>тест</ShortName>
 <Description>Unicode ShortName</Description>

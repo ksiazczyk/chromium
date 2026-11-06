@@ -1,0 +1,4 @@
+# Docerion header of README.
+type: readme
+title: Quincypay test data README
+summary: Explains that quincypay.test serves test data for two Android payment apps with identical package names but different certificate fingerprints.

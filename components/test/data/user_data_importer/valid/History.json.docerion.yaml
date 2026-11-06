@@ -1,0 +1,4 @@
+# Docerion header of History.json.
+type: test
+title: Safari history fixture for user data import tests
+summary: Safari history export covering redirects, repeated visits and a failed page load, used as a valid input fixture for user data importer tests.
