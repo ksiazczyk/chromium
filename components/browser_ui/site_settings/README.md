@@ -1,3 +1,12 @@
+---
+type: readme
+title: Content Settings and Site Settings in Android
+summary: Explains the three main user-facing screens for content settings on Android and the classes and layouts that implement them.
+relations:
+  - documents /components/browser_ui/site_settings/android/java/res/xml/site_settings_preferences.xml
+  - documents /components/browser_ui/site_settings/android/java/res/xml/website_preferences.xml
+---
+
 # Content Settings and Site Settings in Android
 
 [TOC]

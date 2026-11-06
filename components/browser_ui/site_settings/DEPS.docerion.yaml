@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Site settings dependency rules
+summary: Lists include rules that define which Chromium components and directories the site settings code may depend on.

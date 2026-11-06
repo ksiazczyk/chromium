@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleCategorySettingsConstants
+// summary: Holds constants used by SingleCategorySettings, including a deprecated shared preference key for the user-enabled desktop site global setting.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import android.content.SharedPreferences;

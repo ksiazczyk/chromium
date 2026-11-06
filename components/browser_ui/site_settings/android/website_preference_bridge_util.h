@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear local storage helper declaration
+// summary: Declares ClearLocalStorageHelper, a BrowsingDataRemover observer that clears local storage for an origin and runs a callback.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_SITE_SETTINGS_ANDROID_WEBSITE_PREFERENCE_BRIDGE_UTIL_H_
 #define COMPONENTS_BROWSER_UI_SITE_SETTINGS_ANDROID_WEBSITE_PREFERENCE_BRIDGE_UTIL_H_
 

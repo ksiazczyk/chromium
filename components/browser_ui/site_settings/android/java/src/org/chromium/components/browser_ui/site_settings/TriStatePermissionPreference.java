@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TriStatePermissionPreference
+// summary: Radio group preference offering loud, CPSS and quiet UI states for notification and geolocation permission settings.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.components.content_settings.PrefNames.ENABLE_GEOLOCATION_CPSS;

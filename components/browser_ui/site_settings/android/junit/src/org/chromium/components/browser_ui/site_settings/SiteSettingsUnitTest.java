@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSettings unit tests
+// summary: Unit tests for SiteSettings verifying that invisible categories such as camera are removed from the settings search index.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.mockito.ArgumentMatchers.eq;

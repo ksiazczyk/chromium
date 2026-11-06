@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteGroupTest
+// summary: JUnit tests for the WebsiteGroup class, verifying grouping of localhost, IP addresses and multiple origins under one domain, including title, favicon URL and search matching behavior.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.mockito.ArgumentMatchers.eq;

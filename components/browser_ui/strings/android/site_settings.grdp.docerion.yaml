@@ -1,0 +1,4 @@
+# Docerion header of site_settings.grdp.
+type: data
+title: Site settings strings for Android browser UI
+summary: GRIT part file with user-facing strings for the Android site settings screens, covering permissions, content categories, cookies and on-device site data.

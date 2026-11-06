@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebsiteRowPreferenceTest
+// summary: JUnit tests for the WebsiteRowPreference UI component, verifying that the delete callback runs when a single website or a website group entry is reset.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.mockito.Mockito.verify;

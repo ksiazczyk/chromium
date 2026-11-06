@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageInfo
+// summary: Java model holding a host's storage usage and clearing that site's storage data through the website preference bridge.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import androidx.annotation.VisibleForTesting;

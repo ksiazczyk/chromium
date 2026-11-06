@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear local storage helper implementation
+// summary: Implements ClearLocalStorageHelper, which uses BrowsingDataRemover to delete local storage for an origin across all storage keys.
+// ---
+
 #include "components/browser_ui/site_settings/android/website_preference_bridge_util.h"
 
 #include "content/public/browser/browsing_data_filter_builder.h"

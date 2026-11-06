@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site settings Android build targets (BUILD.gn)
+summary: Defines JNI header generation, native source sets, unit test targets, and Java Android libraries for the Android site settings component.

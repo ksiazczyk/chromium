@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for browser UI strings
+summary: Points the directory to the shared common metadata mixins from components/policy used by Chromium metadata tooling.

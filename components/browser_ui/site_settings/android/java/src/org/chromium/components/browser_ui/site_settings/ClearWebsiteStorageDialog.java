@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearWebsiteStorageDialog
+// summary: Dialog fragment displaying the clear website storage confirmation, showing sign-out and offline text and reporting the user's choice through a callback.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

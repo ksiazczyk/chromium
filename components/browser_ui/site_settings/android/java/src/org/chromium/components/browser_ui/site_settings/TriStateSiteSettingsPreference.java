@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TriStateSiteSettingsPreference
+// summary: Radio group preference with Allowed, Ask and Blocked states used to choose a content setting in site settings.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import android.content.Context;

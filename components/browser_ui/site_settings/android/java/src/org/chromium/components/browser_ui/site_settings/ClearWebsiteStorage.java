@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearWebsiteStorage
+// summary: Dialog preference that prompts the user to clear website storage for a host or site group, with messages about sign-out, offline files and affected apps.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import android.content.Context;

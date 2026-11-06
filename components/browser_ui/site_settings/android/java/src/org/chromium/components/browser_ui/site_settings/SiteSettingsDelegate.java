@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteSettingsDelegate
+// summary: Interface the embedder implements to supply browser context, favicons, feature flags, notification channels and other embedder-specific behavior to the site settings UI.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import android.app.Activity;

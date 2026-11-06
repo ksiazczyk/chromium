@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddExceptionPreference
+// summary: Preference UI that lets users add a site exception to the blocked list, showing a dialog to enter the site URL and notifying a callback when the exception is added.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.components.browser_ui.site_settings.WebsitePreferenceBridge.SITE_WILDCARD;

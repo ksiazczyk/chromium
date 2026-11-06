@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-origin file editing grants holder
+// summary: Serializable holder for a site's file system access grants that can list grants and revoke individual ones via the delegate.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import org.chromium.build.annotations.NullMarked;

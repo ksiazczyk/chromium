@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the WebOTP Android UI
+summary: Defines the include rules listing which Chromium components and directories this Android SMS UI code may depend on.

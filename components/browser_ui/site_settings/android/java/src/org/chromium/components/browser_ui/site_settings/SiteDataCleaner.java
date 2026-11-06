@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataCleaner
+// summary: Helper that clears cookies, storage and other data for individual sites or site groups and resets their content setting permissions.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import org.chromium.build.annotations.NullMarked;

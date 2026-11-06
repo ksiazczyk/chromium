@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseSiteSettingsFragment
+// summary: Abstract preference fragment providing shared dependencies such as the SiteSettingsDelegate, settings navigation and BrowsingDataModel for site settings pages.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import androidx.lifecycle.Lifecycle;

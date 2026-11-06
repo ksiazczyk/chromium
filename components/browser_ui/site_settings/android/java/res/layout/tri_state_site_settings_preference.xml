@@ -7,6 +7,12 @@ found in the LICENSE file.
 
 <!-- Layout used by the TriStateSiteSettingsPreference. -->
 
+<!--docerion
+type: source
+title: Tri-state site settings preference layout
+summary: Android layout for TriStateSiteSettingsPreference with allowed, ask, and blocked radio options for a site settings category.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

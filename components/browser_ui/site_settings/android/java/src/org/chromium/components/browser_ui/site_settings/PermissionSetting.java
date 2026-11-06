@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission setting value for a site
+// summary: Holds a permission value as either a content setting or a geolocation setting, with one-time, policy, and custodian source flags.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import org.jni_zero.CalledByNative;

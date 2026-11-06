@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clear local storage helper unit tests
+// summary: Unit tests verifying that ClearLocalStorageHelper removes DOM storage for an origin with the expected masks and invokes its callback.
+// ---
+
 #include "components/browser_ui/site_settings/android/website_preference_bridge_util.h"
 
 #include "content/public/test/test_renderer_host.h"

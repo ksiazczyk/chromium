@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebsiteRowPreference
+// summary: Preference row used by AllSiteSettings to display a single site or a group of sites, showing a favicon and a delete action with a confirmation dialog.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import android.app.Dialog;

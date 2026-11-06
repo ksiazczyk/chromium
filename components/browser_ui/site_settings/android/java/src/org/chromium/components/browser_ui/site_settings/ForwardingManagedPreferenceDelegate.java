@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarding managed preference delegate
+// summary: ManagedPreferenceDelegate wrapper that forwards all calls to a base delegate so subclasses can override only selected methods.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import androidx.annotation.LayoutRes;

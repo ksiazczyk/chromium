@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageAccessSubpageSettings
+// summary: Settings page listing Storage Access permissions for an origin, grouped by whether they are allowed or blocked, opened on top of SingleCategorySettings.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

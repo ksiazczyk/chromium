@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChosenObjectSettings
+// summary: Settings fragment showing a chosen object such as a USB device and the list of sites granted access to it, with search and permission revocation options.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

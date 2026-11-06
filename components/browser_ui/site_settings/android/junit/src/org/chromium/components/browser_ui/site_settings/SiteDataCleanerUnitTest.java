@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteDataCleaner unit tests
+// summary: Unit tests for SiteDataCleaner checking that per-site cookie, banner, media license and browsing data is cleared with a single callback.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.mockito.ArgumentMatchers.any;

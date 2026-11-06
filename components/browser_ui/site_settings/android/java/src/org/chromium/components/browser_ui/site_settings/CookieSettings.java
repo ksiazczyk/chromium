@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie settings subpage for Android site settings
+// summary: Android settings fragment that presents the cookie settings subpage with a Related Website Sets toggle and explanatory subtitle and bullet points.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.chromium.build.NullUtil.assertNonNull;

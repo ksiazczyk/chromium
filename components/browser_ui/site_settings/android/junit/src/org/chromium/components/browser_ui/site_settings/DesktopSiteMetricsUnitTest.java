@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DesktopSiteMetrics unit tests
+// summary: Unit tests verifying that desktop site setting additions and changes are recorded in the correct RequestDesktopSite histograms.
+// ---
+
 package org.chromium.components.browser_ui.site_settings;
 
 import static org.junit.Assert.assertEquals;

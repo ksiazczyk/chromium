@@ -7,6 +7,12 @@ found in the LICENSE file.
 
 <!-- Layout used by the BiStatePermissionPreference. -->
 
+<!--docerion
+type: source
+title: Binary state permission preference layout
+summary: Android layout for the two-state permission preference with allow and block radio buttons, a summary and a managed disclaimer.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
