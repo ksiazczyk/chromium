@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginRegistryImpl implementation
+// summary: Implements the Mojo PluginRegistry service that returns the plugins available to a renderer process after applying the plugin service filter.
+// ---
+
 #include "content/browser/renderer_host/plugin_registry_impl.h"
 
 #include "base/functional/bind.h"

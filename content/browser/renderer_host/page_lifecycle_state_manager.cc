@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLifecycleStateManager implementation
+// summary: Implements the browser-side manager that tracks page lifecycle state such as visibility, freezing and back/forward cache entry and sends updates to the renderer.
+// ---
+
 #include "content/browser/renderer_host/page_lifecycle_state_manager.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache disabling feature handle implementation
+// summary: Implements a handle that keeps a RenderFrameHost out of the back-forward cache while a tracked feature is in use and clears the flag on reset or destruction.
+// ---
+
 #include "content/browser/renderer_host/back_forward_cache_disabling_feature_handle.h"
 
 #include <utility>

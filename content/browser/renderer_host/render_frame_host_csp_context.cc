@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSP violation reporting context for RenderFrameHost
+// summary: Reports content security policy violations to the renderer frame and sanitizes blocked URLs and source locations to avoid leaking information between renderers.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_csp_context.h"
 
 #include "base/check.h"

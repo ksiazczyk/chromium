@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll controller delegate base implementation
+// summary: Provides the constructor, destructor and weak-pointer helper for the OverscrollControllerDelegate base class.
+// ---
+
 #include "content/browser/renderer_host/overscroll_controller_delegate.h"
 
 namespace content {

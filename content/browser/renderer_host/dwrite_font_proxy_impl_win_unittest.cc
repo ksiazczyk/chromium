@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows DWrite font proxy
+// summary: Tests DWriteFontProxyImpl Mojo methods such as family lookup, family names, file handles and character mapping.
+// ---
+
 #include "content/browser/renderer_host/dwrite_font_proxy_impl_win.h"
 
 #include <dwrite.h>

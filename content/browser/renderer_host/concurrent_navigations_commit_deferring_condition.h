@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConcurrentNavigationsCommitDeferringCondition declaration
+// summary: Declares the commit deferring condition that queues BFCache and prerender activations until pending commit RenderFrameHosts are no longer in use.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_CONCURRENT_NAVIGATIONS_COMMIT_DEFERRING_CONDITION_H_
 #define CONTENT_BROWSER_RENDERER_HOST_CONCURRENT_NAVIGATIONS_COMMIT_DEFERRING_CONDITION_H_
 

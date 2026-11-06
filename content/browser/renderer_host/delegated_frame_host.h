@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedFrameHost class and client interface declarations
+// summary: Declares DelegatedFrameHost, which hosts RenderWidgetHostView state for delegated frames, and the DelegatedFrameHostClient interface connecting it to the ui::Compositor.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DELEGATED_FRAME_HOST_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DELEGATED_FRAME_HOST_H_
 

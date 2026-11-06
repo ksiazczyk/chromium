@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageImpl class declaration
+// summary: Declares the PageImpl class implementing the content Page interface with internal state for paint timing, zoom, cookie use recording and color scheme handling.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_PAGE_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_PAGE_IMPL_H_
 

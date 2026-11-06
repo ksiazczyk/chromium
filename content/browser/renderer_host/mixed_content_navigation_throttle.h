@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mixed content navigation throttle class declaration
+// summary: Declares the browser-process throttle that performs mixed content security checks for navigation loads, complementing the renderer-side blink checker.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MIXED_CONTENT_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MIXED_CONTENT_NAVIGATION_THROTTLE_H_
 

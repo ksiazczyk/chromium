@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android navigation controller JNI implementation
+// summary: Implements the JNI bridge between Java and NavigationControllerImpl, exposing history navigation, reloads, and entry access to Android.
+// ---
+
 #include "content/browser/renderer_host/navigation_controller_android.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Direct Manipulation helper declaration
+// summary: Declares DirectManipulationHelper, which sets up the Windows Direct Manipulation API for precision touchpad scroll and zoom events.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DIRECT_MANIPULATION_HELPER_WIN_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DIRECT_MANIPULATION_HELPER_WIN_H_
 

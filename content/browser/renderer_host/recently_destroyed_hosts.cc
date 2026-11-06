@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently destroyed host tracking for process reuse metrics
+// summary: Tracks recently destroyed RenderProcessHosts per process lock and records SiteIsolation histograms about missed process-reuse opportunities for main frames and subframes.
+// ---
+
 #include "content/browser/renderer_host/recently_destroyed_hosts.h"
 
 #include "base/memory/ptr_util.h"

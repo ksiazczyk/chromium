@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Code cache host implementation
+// summary: Implements the browser-side CodeCacheHost that stores and fetches renderer-generated code cache data, with process lock and scheme security checks.
+// ---
+
 #include "content/browser/renderer_host/code_cache_host_impl.h"
 
 #include <stdint.h>

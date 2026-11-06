@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard host impl unit tests
+// summary: Unit tests for ClipboardHostImpl covering clipboard paste permissions, clipboard data handling, and related renderer host behavior.
+// ---
+
 #include "content/browser/renderer_host/clipboard_host_impl.h"
 
 #include <stddef.h>

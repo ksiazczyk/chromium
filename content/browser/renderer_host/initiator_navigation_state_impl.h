@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initiator navigation state class declaration
+// summary: Declares InitiatorNavigationStateImpl, a record of document state at commit time that keeps navigation initiator properties available after the initiator document goes away.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_INITIATOR_NAVIGATION_STATE_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_INITIATOR_NAVIGATION_STATE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageImpl browser tests
+// summary: Browser tests for the PageImpl page object, covering PageUserData lifetime, prerendering and navigation-related page behavior.
+// ---
+
 #include "content/browser/renderer_host/page_impl.h"
 
 #include "base/command_line.h"

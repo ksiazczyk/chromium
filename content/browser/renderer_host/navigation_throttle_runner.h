@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation throttle runner class header
+// summary: Declares NavigationThrottleRunner, the original runner that drives throttle events for a navigation and tracks deferral timing and counts.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_THROTTLE_RUNNER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_THROTTLE_RUNNER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationStateKeepAlive implementation
+// summary: Implements NavigationStateKeepAlive, which increments and balances a SiteInstanceGroup keepalive count so in-flight navigation initiator state is not destroyed early.
+// ---
+
 #include "content/browser/renderer_host/navigation_state_keep_alive.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initiator navigation state implementation
+// summary: Implements InitiatorNavigationStateImpl, storing the initiator document tokens, process id, policy container policies, and site instance, and unregistering from the browser context on destruction.
+// ---
+
 #include "content/browser/renderer_host/initiator_navigation_state_impl.h"
 
 #include <utility>

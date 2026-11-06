@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for renderer_host
+summary: Defines include dependency rules for the renderer_host directory, with general layering restrictions and per-file exceptions for tests, platform code, and specific implementations.

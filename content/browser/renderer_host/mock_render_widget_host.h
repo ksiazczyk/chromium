@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock render widget host class declaration
+// summary: Declares a RenderWidgetHostImpl subclass that exposes private members and mock input routers to simplify widget host testing.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_MOCK_RENDER_WIDGET_HOST_H_
 #define CONTENT_BROWSER_RENDERER_HOST_MOCK_RENDER_WIDGET_HOST_H_
 

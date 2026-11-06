@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderProcessHostCreationObserver implementation
+// summary: Implements an observer that registers with RenderProcessHostImpl to receive notifications about render process host creation failures.
+// ---
+
 #include "content/public/browser/render_process_host_creation_observer.h"
 
 #include "content/browser/renderer_host/render_process_host_impl.h"

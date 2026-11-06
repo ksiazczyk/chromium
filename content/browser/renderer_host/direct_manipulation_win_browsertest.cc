@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Direct Manipulation browser tests for Windows
+// summary: Browser tests that verify precision touchpad scroll, fling and pinch handling through the Windows Direct Manipulation integration.
+// ---
+
 #include "base/location.h"
 #include "content/browser/renderer_host/direct_manipulation_helper_win.h"
 #include "content/browser/renderer_host/direct_manipulation_test_helper_win.h"

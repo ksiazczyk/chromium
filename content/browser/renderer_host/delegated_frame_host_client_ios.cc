@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS DelegatedFrameHostClient implementation
+// summary: Implements the iOS delegated frame host client, forwarding frame token and eviction events to RenderWidgetHostViewIOS, with several methods still stubbed out.
+// ---
+
 #include "content/browser/renderer_host/delegated_frame_host_client_ios.h"
 
 #include "content/browser/renderer_host/render_widget_host_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mixed content navigation throttle unit tests
+// summary: Unit tests verifying that subframe navigations with certificate errors, including via redirects, update the navigation entry's SSL content status.
+// ---
+
 #include "content/browser/renderer_host/mixed_content_navigation_throttle.h"
 
 #include "content/public/browser/navigation_entry.h"

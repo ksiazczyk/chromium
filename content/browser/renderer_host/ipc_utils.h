@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC parameter verification declarations
+// summary: Declares functions that verify download URL, OpenURL, navigation and CreateNewWindow parameters sent by renderer processes, terminating them on invalid input.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_IPC_UTILS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_IPC_UTILS_H_
 

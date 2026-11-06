@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrowsingContextGroupSwap factories
+// summary: Unit tests checking that each BrowsingContextGroupSwap factory yields the expected swap type, reason and proxy or window name consequences.
+// ---
+
 #include "content/browser/renderer_host/browsing_context_group_swap.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

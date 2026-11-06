@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingContextState class and browsing context mode declarations
+// summary: Declares BrowsingContextState, which holds RenderFrameProxyHosts and replication state for a browsing context, plus the feature-gated mode enum.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_BROWSING_CONTEXT_STATE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_BROWSING_CONTEXT_STATE_H_
 

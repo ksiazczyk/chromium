@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup menu helper for iOS
+// summary: Declares the iOS PopupMenuHelper that shows popup menus via WebMenuRunner and notifies the RenderFrameHost of selection or cancellation.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_POPUP_MENU_HELPER_IOS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_POPUP_MENU_HELPER_IOS_H_
 

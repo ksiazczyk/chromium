@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug URL unit tests
+// summary: Unit tests verifying which URLs are recognized as debug URLs, covering non-debug, ASan, and platform-specific crash, hang, and memory pressure URLs.
+// ---
+
 #include "content/browser/renderer_host/debug_urls.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

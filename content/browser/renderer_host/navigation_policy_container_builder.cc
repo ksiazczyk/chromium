@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationPolicyContainerBuilder implementation
+// summary: Implements the builder that gathers parent, history, and delivered policies during navigation and computes the new document's policy container.
+// ---
+
 #include "content/browser/renderer_host/navigation_policy_container_builder.h"
 
 #include <utility>

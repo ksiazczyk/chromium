@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page delegate interface
+// summary: Declares the PageDelegate interface implemented by WebContentsImpl to receive page state notifications such as first paint, theme color and virtual keyboard mode changes.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_PAGE_DELEGATE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_PAGE_DELEGATE_H_
 

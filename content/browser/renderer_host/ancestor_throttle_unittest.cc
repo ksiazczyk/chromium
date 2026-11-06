@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AncestorThrottle unit tests
+// summary: Unit tests covering X-Frame-Options parsing and embedding opt-in checks of the ancestor throttle across same-origin, same-site and cross-origin cases.
+// ---
+
 #include "content/browser/renderer_host/ancestor_throttle.h"
 
 #include "base/functional/bind.h"

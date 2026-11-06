@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame token message queue header
+// summary: Declares FrameTokenMessageQueue, which synchronizes browser-side callbacks with frame processing via frame tokens.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_FRAME_TOKEN_MESSAGE_QUEUE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_FRAME_TOKEN_MESSAGE_QUEUE_H_
 

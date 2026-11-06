@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameTreeNode implementation
+// summary: Implements FrameTreeNode, including opener lifecycle observers, the global node ID map, and frame bookkeeping in the browser process.
+// ---
+
 #include "content/browser/renderer_host/frame_tree_node.h"
 
 #include <math.h>

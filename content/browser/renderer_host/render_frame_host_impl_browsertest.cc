@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderFrameHostImpl browser tests
+// summary: Browser test suite exercising RenderFrameHostImpl behavior such as navigation, prerendering, back-forward cache, and frame lifecycle in a full browser environment.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android navigation controller JNI wrapper
+// summary: Declares NavigationControllerAndroid, the Java-facing wrapper around NavigationControllerImpl for history navigation on Android.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_CONTROLLER_ANDROID_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_CONTROLLER_ANDROID_H_
 

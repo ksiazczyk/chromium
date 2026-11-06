@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android spare renderer navigation throttle declaration
+// summary: Declares a navigation throttle that holds navigation requests until the Android spare renderer's process priority is raised, preventing LMKD kills.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_ANDROID_SPARE_RENDERER_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_ANDROID_SPARE_RENDERER_NAVIGATION_THROTTLE_H_
 

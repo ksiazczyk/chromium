@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCompositorIOS class declaration
+// summary: Declares the iOS browser compositor that owns a DelegatedFrameHost and dynamically attaches it to a ui::Compositor based on visibility.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_BROWSER_COMPOSITOR_IOS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_BROWSER_COMPOSITOR_IOS_H_
 

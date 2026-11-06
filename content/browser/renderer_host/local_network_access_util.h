@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Local network access policy utilities header
+// summary: Declares helpers that derive local network access request policies, client security states, and IP address spaces for subresources, workers, navigations, and prefetches.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_LOCAL_NETWORK_ACCESS_UTIL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_LOCAL_NETWORK_ACCESS_UTIL_H_
 

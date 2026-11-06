@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for global routing ID pickle conversion
+// summary: Tests pickle serialization and deserialization of GlobalRenderFrameHostToken, including invalid, truncated, and zero-token pickles.
+// ---
+
 #include "content/public/browser/global_routing_id.h"
 
 #include "base/pickle.h"

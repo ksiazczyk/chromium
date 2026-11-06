@@ -33,6 +33,12 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+// ---docerion
+// type: source
+// title: Navigation controller implementation
+// summary: Implements NavigationControllerImpl, managing session history entries, pending navigation entries, and commit notifications for a FrameTree.
+// ---
+
 #include "content/browser/renderer_host/navigation_controller_impl.h"
 
 #include <algorithm>

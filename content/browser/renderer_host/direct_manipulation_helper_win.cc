@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Direct Manipulation helper implementation
+// summary: Creates and configures Direct Manipulation viewports so precision touchpad gestures can drive smooth scrolling and zooming on Windows.
+// ---
+
 #include "content/browser/renderer_host/direct_manipulation_helper_win.h"
 
 #include <objbase.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard file access browser tests
+// summary: End-to-end browser tests for ClipboardHostImpl that verify copying and pasting files via the clipboard, including permission handling.
+// ---
+
 #include <string>
 #include <string_view>
 

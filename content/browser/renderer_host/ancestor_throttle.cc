@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AncestorThrottle implementation
+// summary: Implements a navigation throttle that enforces CSP frame-ancestors and X-Frame-Options, including handling of fenced frame boundaries.
+// ---
+
 #include "content/browser/renderer_host/ancestor_throttle.h"
 
 #include <algorithm>

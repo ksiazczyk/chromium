@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationEntryRestoreContextImpl implementation
+// summary: Implements the restore context that indexes FrameNavigationEntries by item sequence number, frame name, and URL when restoring navigation entries.
+// ---
+
 #include "content/browser/renderer_host/navigation_entry_restore_context_impl.h"
 
 #include "content/browser/renderer_host/frame_navigation_entry.h"

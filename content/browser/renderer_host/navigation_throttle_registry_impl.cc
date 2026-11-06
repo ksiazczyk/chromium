@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationThrottleRegistryImpl implementation
+// summary: Implements the navigation throttle registry that assembles and registers the standard set of navigation throttles applied to each navigation request.
+// ---
+
 #include "content/browser/renderer_host/navigation_throttle_registry_impl.h"
 
 #include <algorithm>

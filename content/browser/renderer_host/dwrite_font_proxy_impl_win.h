@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWriteFontProxyImpl class declaration
+// summary: Declares the browser-side DWriteFontProxy Mojo handler that queries the Windows DirectWrite font collection.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DWRITE_FONT_PROXY_IMPL_WIN_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DWRITE_FONT_PROXY_IMPL_WIN_H_
 

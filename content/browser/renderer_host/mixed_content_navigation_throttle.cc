@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mixed content navigation throttle implementation
+// summary: Implements a browser-side navigation throttle that blocks frame-level navigations to mixed content and reports subframe certificate errors to the renderer.
+// ---
+
 #include "content/browser/renderer_host/mixed_content_navigation_throttle.h"
 
 #include <vector>

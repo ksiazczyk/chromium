@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeepAliveHandleFactory header
+// summary: Declares a factory that creates keep-alive handles prolonging a renderer's lifetime via RenderProcessHost keep-alive ref counts until a timeout invalidates them.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_KEEP_ALIVE_HANDLE_FACTORY_H_
 #define CONTENT_BROWSER_RENDERER_HOST_KEEP_ALIVE_HANDLE_FACTORY_H_
 

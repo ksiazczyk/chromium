@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderProcessHostInternalObserver interface
+// summary: Defines an internal observer API for RenderProcessHostImpl events, such as process priority changes, that are not exposed through the public content API.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_PROCESS_HOST_INTERNAL_OBSERVER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_PROCESS_HOST_INTERNAL_OBSERVER_H_
 

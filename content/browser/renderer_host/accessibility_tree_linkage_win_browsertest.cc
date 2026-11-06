@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows accessibility tree linkage browser test
+// summary: Parameterized browser test checking Windows accessibility tree parent and child linkage with and without the legacy intermediate window.
+// ---
+
 #include "base/command_line.h"
 #include "content/browser/renderer_host/legacy_render_widget_host_win.h"
 #include "content/browser/renderer_host/render_widget_host_impl.h"

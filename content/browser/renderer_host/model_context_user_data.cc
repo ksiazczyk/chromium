@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model context user data implementation
+// summary: Implements the browser-side ModelContextHost for WebMCP script tools, handling mojo binding, origin exposure checks, and remote tool execution per document.
+// ---
+
 #include "content/browser/renderer_host/model_context_user_data.h"
 
 #include <algorithm>

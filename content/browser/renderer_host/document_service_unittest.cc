@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DocumentService
+// summary: Unit tests checking that DocumentService is destroyed on connection error, frame deletion, and cross-document navigation, including same-document navigation behavior.
+// ---
+
 #include "content/public/browser/document_service.h"
 
 #include "base/functional/bind.h"

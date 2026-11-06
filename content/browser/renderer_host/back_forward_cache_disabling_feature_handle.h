@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache disabling feature handle declaration
+// summary: Declares a movable handle that prevents a RenderFrameHost from entering the back-forward cache while alive and reduces the feature count on reset.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_BACK_FORWARD_CACHE_DISABLING_FEATURE_HANDLE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_BACK_FORWARD_CACHE_DISABLING_FEATURE_HANDLE_H_
 

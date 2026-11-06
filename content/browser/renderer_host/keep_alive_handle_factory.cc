@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keep-alive handle factory implementation
+// summary: Implements the KeepAliveHandleFactory, which issues keep-alive handles that hold renderer process references while pending requests finish.
+// ---
+
 #include "content/browser/renderer_host/keep_alive_handle_factory.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexedDB client state checker factory implementation
+// summary: Implements the factory providing callbacks that check whether an IndexedDB client document is inactive, for example in back/forward cache or frozen, and keep it active when necessary.
+// ---
+
 #include "content/browser/renderer_host/indexed_db_client_state_checker_factory.h"
 
 #include <map>

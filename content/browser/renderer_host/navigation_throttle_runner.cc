@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation throttle runner implementation
+// summary: Implements sequential execution of navigation throttle events with execution and defer-time histograms, UKM reporting and stuck-throttle detection.
+// ---
+
 #include "content/browser/renderer_host/navigation_throttle_runner.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy container host unit tests
+// summary: Unit tests for PolicyContainerHost and PolicyContainerPolicies, including a static size assertion and clone-equality coverage for the policy fields.
+// ---
+
 #include "content/browser/renderer_host/policy_container_host.h"
 
 #include "base/run_loop.h"

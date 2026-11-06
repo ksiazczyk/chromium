@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-process frame connector implementation
+// summary: Implements the connector that links an out-of-process child frame's widget view with its RenderFrameProxyHost in the parent process, handling views, screen info, and visibility.
+// ---
+
 #include "content/browser/renderer_host/cross_process_frame_connector.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationThrottleRunner2 class header
+// summary: Declares NavigationThrottleRunner2, an alternative throttle runner intended to eventually replace the original implementation.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_THROTTLE_RUNNER2_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_THROTTLE_RUNNER2_H_
 

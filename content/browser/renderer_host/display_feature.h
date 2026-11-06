@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayFeature struct for foldable display viewport segments
+// summary: Defines a struct modeling a physical screen feature such as a fold or mask and computes viewport segments from its orientation, offset, and mask length.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DISPLAY_FEATURE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DISPLAY_FEATURE_H_
 

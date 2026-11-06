@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameTree class header for the browser-side page frame tree
+// summary: Declares the FrameTree class that mirrors a page's frame structure in the browser process, including node iterators and ranges for walking frames.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_FRAME_TREE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_FRAME_TREE_H_
 

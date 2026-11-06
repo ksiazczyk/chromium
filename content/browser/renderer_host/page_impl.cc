@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageImpl implementation
+// summary: Implements the browser-side Page object, handling manifest URLs, capture handle config, paint and color state, GPU memory tracking and user data lifetime.
+// ---
+
 #include "content/browser/renderer_host/page_impl.h"
 
 #include "base/barrier_closure.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Code cache host class declaration
+// summary: Declares CodeCacheHostImpl, the blink::mojom::CodeCacheHost implementation that stores and retrieves code cache entries for renderer processes.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_CODE_CACHE_HOST_IMPL_H_
 #define CONTENT_BROWSER_RENDERER_HOST_CODE_CACHE_HOST_IMPL_H_
 

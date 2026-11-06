@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationPolicyContainerBuilder unit tests
+// summary: Unit tests for NavigationPolicyContainerBuilder verifying delivered policy setters, policy computation, and error document handling.
+// ---
+
 #include "content/browser/renderer_host/navigation_policy_container_builder.h"
 
 #include <iosfwd>

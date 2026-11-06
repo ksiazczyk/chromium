@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderProcessHostInternalObserver implementation
+// summary: Provides the destructor for the internal RenderProcessHost observer, checking that observers remove themselves from observer lists before destruction.
+// ---
+
 #include "content/browser/renderer_host/render_process_host_internal_observer.h"
 
 #include "base/check.h"

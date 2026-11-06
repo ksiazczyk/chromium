@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation throttle runner unit tests
+// summary: Unit tests for NavigationThrottleRunner covering event processing, deferral and resumption, throttle deletion during callbacks and defer-time UKM.
+// ---
+
 #include "content/browser/renderer_host/navigation_throttle_runner.h"
 
 #include <optional>

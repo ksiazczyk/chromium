@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page factory declaration
+// summary: Declares the PageFactory class that lets tests register a global factory to create specialized Page objects instead of the default PageImpl.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_PAGE_FACTORY_H_
 #define CONTENT_BROWSER_RENDERER_HOST_PAGE_FACTORY_H_
 

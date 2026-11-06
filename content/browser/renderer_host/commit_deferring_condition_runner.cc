@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit deferring condition runner implementation
+// summary: Implements the runner that defers a prepared navigation's commit until registered CommitDeferringConditions such as prerender and back-forward cache checks complete.
+// ---
+
 #include "content/browser/renderer_host/commit_deferring_condition_runner.h"
 
 #include "base/memory/ptr_util.h"

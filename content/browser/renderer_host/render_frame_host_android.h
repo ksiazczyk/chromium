@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android RenderFrameHost JNI wrapper
+// summary: Declares RenderFrameHostAndroid, the Java-to-native wrapper providing methods for URL access, user activation, WebAuthn checks and other frame operations called from Java.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_ANDROID_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_ANDROID_H_
 

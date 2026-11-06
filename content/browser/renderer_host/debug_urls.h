@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug URL handling header
+// summary: Declares IsDebugURL and HandleDebugURL for recognizing and acting on special debugging URLs that trigger intentional browser behaviors.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DEBUG_URLS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DEBUG_URLS_H_
 

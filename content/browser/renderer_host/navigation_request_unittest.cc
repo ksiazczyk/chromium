@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationRequest unit tests
+// summary: Unit tests for NavigationRequest covering throttle behavior, process selection user data, origin trials and platform-specific navigation handling.
+// ---
+
 #include "content/browser/renderer_host/navigation_request.h"
 
 #include <optional>

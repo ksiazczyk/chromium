@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NavigationRequest browser tests
+// summary: Browser tests exercising NavigationRequest behavior across scenarios such as throttles, prerendering, storage partitions and navigation observers.
+// ---
+
 #include "content/browser/renderer_host/navigation_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC parameter verification for renderer messages
+// summary: Implements validation of renderer-sent IPC parameters for downloads, OpenURL, navigation and window creation, terminating the renderer process when parameters are invalid.
+// ---
+
 #include "content/browser/renderer_host/ipc_utils.h"
 
 #include <optional>

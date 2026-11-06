@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for FrameTree behavior
+// summary: Content browser tests exercising frame tree structure, navigation, sandboxing, and frame attribute behavior across sites.
+// ---
+
 #include "content/browser/renderer_host/frame_tree.h"
 
 #include "base/command_line.h"

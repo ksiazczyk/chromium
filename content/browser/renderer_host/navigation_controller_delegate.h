@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation controller delegate interface
+// summary: Defines the interface an embedding object such as WebContentsImpl must implement so NavigationControllerImpl can notify and query it.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_CONTROLLER_DELEGATE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_CONTROLLER_DELEGATE_H_
 

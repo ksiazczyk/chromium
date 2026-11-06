@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Initiator state token browser tests
+// summary: Browser tests that navigate frames and verify browser-side and renderer-side initiator state tokens match and only update when a navigation commits.
+// ---
+
 #include <set>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll controller implementation
+// summary: Implements the browser-side controller that inspects gesture and wheel events and their ACKs to start, update, complete or cancel overscroll gestures such as history navigation swipes.
+// ---
+
 #include "content/browser/renderer_host/overscroll_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP error navigation throttle class declaration
+// summary: Declares HttpErrorNavigationThrottle, which defers potentially empty HTTP error navigations until the response body can be checked, so an error page can replace a blank page.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_HTTP_ERROR_NAVIGATION_THROTTLE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_HTTP_ERROR_NAVIGATION_THROTTLE_H_
 

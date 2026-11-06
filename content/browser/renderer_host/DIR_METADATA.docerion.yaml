@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for renderer_host
+summary: Assigns the directory to the Internals>Sandbox>SiteIsolation component and the site-isolation-dev team mailing list.

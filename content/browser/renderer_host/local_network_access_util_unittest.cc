@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local network access utilities unit tests
+// summary: Unit tests verifying DeriveLocalNetworkAccessRequestPolicy across secure contexts, address spaces, request contexts, and feature flag combinations.
+// ---
+
 #include "content/browser/renderer_host/local_network_access_util.h"
 
 #include <array>

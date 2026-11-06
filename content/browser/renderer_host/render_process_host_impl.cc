@@ -5,6 +5,12 @@
 // Represents the browser side of the browser <--> renderer communication
 // channel. There will be one RenderProcessHost per renderer process.
 
+// ---docerion
+// type: source
+// title: RenderProcessHostImpl implementation
+// summary: Implements the browser side of the browser-renderer communication channel, managing one render process host per renderer process with IPC, storage, and GPU connections.
+// ---
+
 #include "content/browser/renderer_host/render_process_host_impl.h"
 
 #include <algorithm>

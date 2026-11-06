@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor manager unit tests
+// summary: Unit tests covering CursorManager cursor updates for top-level and child views, including custom cursors, on Aura and Mac builds.
+// ---
+
 #include "components/input/cursor_manager.h"
 
 #include <memory>

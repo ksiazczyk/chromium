@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overscroll controller unit tests
+// summary: Unit tests that simulate mouse wheel and gesture events against a test delegate to verify overscroll controller behavior, including touchpad overscroll history navigation.
+// ---
+
 #include "content/browser/renderer_host/overscroll_controller.h"
 
 #include <memory>

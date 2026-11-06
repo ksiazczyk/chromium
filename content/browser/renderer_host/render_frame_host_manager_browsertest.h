@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderFrameHostManagerTest test fixture declaration
+// summary: Declares the RenderFrameHostManagerTest fixture with helpers for browser tests, including server setup and back-forward cache controls.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_MANAGER_BROWSERTEST_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_MANAGER_BROWSERTEST_H_
 

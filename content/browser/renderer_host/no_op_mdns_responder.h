@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op mDNS responder header
+// summary: Declares NoOpMdnsResponder, a stub MdnsResponder bound in place of the network service one when connection allowlists block WebRTC, so renderer requests never hang.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NO_OP_MDNS_RESPONDER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NO_OP_MDNS_RESPONDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewHost browser tests
+// summary: Browser tests for RenderViewHost behavior, including navigation socket addresses, RenderFrameHost creation for top-level frames, and focus editability.
+// ---
+
 #include "base/path_service.h"
 #include "base/strings/utf_string_conversions.h"
 #include "base/time/time.h"

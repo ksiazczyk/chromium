@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationPolicyContainerBuilder declaration
+// summary: Declares NavigationPolicyContainerBuilder, which tracks policies during navigation, computes final document policies, and creates the PolicyContainerHost.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_POLICY_CONTAINER_BUILDER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATION_POLICY_CONTAINER_BUILDER_H_
 

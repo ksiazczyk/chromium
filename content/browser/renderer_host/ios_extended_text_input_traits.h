@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS extended text input traits declaration
+// summary: Declares an Objective-C class implementing BEExtendedTextInputTraits that maps Chromium text input state to UIKit keyboard, autocorrection, and selection appearance properties.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_IOS_EXTENDED_TEXT_INPUT_TRAITS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_IOS_EXTENDED_TEXT_INPUT_TRAITS_H_
 

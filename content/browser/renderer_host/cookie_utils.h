@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie utilities for the renderer host
+// summary: Declares helpers that split cookies into allowed and blocked sets and emit cookie warnings plus DevTools and UKM metrics for renderer frames.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_COOKIE_UTILS_H_
 #define CONTENT_BROWSER_RENDERER_HOST_COOKIE_UTILS_H_
 

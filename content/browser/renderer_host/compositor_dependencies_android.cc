@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android compositor dependencies implementation
+// summary: Implements Android browser-side compositor dependencies, managing viz FrameSinkManager connections and notifying the GPU service of visibility changes.
+// ---
+
 #include "content/browser/renderer_host/compositor_dependencies_android.h"
 
 #include <utility>

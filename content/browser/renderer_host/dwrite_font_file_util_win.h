@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWrite font file utility declarations
+// summary: Declares font file path lookup helpers, custom HRESULT error codes and the Windows fonts path getter.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_DWRITE_FONT_FILE_UTIL_WIN_H_
 #define CONTENT_BROWSER_RENDERER_HOST_DWRITE_FONT_FILE_UTIL_WIN_H_
 

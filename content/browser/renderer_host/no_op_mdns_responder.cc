@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op mDNS responder implementation
+// summary: Implements an MdnsResponder that never registers or announces names, running all reply callbacks with failure values for documents whose connection allowlist blocks WebRTC.
+// ---
+
 #include "content/browser/renderer_host/no_op_mdns_responder.h"
 
 #include <memory>

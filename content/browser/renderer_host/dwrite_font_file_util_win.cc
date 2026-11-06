@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectWrite font file utilities for Windows
+// summary: Implements helpers that resolve DirectWrite fonts to their font file paths and TTC indexes on Windows.
+// ---
+
 #include "content/browser/renderer_host/dwrite_font_file_util_win.h"
 
 #include <shlobj.h>

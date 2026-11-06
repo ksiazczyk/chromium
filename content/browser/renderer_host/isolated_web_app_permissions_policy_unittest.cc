@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App permissions policy unit tests
+// summary: Unit tests verifying enforcement of the baseline permissions policy for Isolated Web Apps during browser- and renderer-initiated navigations.
+// ---
+
 #include "base/containers/to_vector.h"
 #include "content/browser/bad_message.h"
 #include "content/browser/renderer_host/render_frame_host_impl.h"

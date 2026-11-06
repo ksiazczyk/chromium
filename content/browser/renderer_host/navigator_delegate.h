@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigator delegate interface header
+// summary: Declares the NavigatorDelegate interface through which Navigator notifies its embedder of navigation events like start, redirect, commit and finish.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_NAVIGATOR_DELEGATE_H_
 #define CONTENT_BROWSER_RENDERER_HOST_NAVIGATOR_DELEGATE_H_
 

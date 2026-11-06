@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser compositor implementation
+// summary: Implements CompositorImpl, the browser-side Android compositor managing layer trees, viz frame sinks, GPU process connections, and display visibility.
+// ---
+
 #include "content/browser/renderer_host/compositor_impl_android.h"
 
 #include <android/bitmap.h>

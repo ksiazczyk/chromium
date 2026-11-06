@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated Web App throttle browser tests
+// summary: Browser tests verifying that the Isolated Web App throttle allows or blocks navigations between isolated app and non-app origins over HTTPS.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/strings/stringprintf.h"
 #include "content/public/browser/browser_context.h"

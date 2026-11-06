@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameHostOwner interface
+// summary: Interface letting RenderFrameHostImpl communicate with its owning FrameTreeNode for navigation, loading, and focus operations.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_OWNER_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_HOST_OWNER_H_
 

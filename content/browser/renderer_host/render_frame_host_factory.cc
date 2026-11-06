@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameHostFactory implementation
+// summary: Implements the global RenderFrameHostFactory that creates RenderFrameHostImpl instances, with registration support so tests can install an alternate factory.
+// ---
+
 #include "content/browser/renderer_host/render_frame_host_factory.h"
 
 #include "base/check.h"

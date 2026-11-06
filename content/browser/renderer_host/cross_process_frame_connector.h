@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-process frame connector class
+// summary: Declares CrossProcessFrameConnector, which bridges a child frame's RenderWidgetHostViewChildFrame with the parent frame's proxy host for compositing and platform messages.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_CROSS_PROCESS_FRAME_CONNECTOR_H_
 #define CONTENT_BROWSER_RENDERER_HOST_CROSS_PROCESS_FRAME_CONNECTOR_H_
 

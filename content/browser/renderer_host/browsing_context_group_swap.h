@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingContextGroupSwap class and swap type declarations
+// summary: Declares the BrowsingContextGroupSwapType enum and class representing browsing context group swap decisions with consequences like clearing proxies.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_BROWSING_CONTEXT_GROUP_SWAP_H_
 #define CONTENT_BROWSER_RENDERER_HOST_BROWSING_CONTEXT_GROUP_SWAP_H_
 

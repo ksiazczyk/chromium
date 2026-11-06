@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameProxyHost class declaration
+// summary: Declares the browser-side host object for frame placeholders in multi-process frame trees, used to keep window references valid across cross-process navigations.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_PROXY_HOST_H_
 #define CONTENT_BROWSER_RENDERER_HOST_RENDER_FRAME_PROXY_HOST_H_
 

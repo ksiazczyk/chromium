@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Echo DocumentService test helper implementation
+// summary: Implements a simple echo Mojo service bound to a RenderFrameHost that reports its destruction, used as a helper in DocumentService tests.
+// ---
+
 #include "content/browser/renderer_host/document_service_echo_impl.h"
 
 namespace content {

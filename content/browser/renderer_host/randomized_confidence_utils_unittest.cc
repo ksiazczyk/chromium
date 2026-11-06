@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for randomized confidence utilities
+// summary: Unit tests verifying that confidence randomization is a no-op without noise, matches the expected distribution with noise, and that the trigger rate respects epsilon settings.
+// ---
+
 #include "content/browser/renderer_host/randomized_confidence_utils.h"
 
 #include "base/logging.h"
