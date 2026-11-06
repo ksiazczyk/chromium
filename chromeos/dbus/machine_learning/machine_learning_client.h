@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine learning D-Bus client interface
+// summary: Declares the D-Bus client for the ML service, whose purpose is bootstrapping a Mojo connection to the ML service daemon.
+// ---
+
 #ifndef CHROMEOS_DBUS_MACHINE_LEARNING_MACHINE_LEARNING_CLIENT_H_
 #define CHROMEOS_DBUS_MACHINE_LEARNING_MACHINE_LEARNING_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of uri12.txt.
+type: test
+title: 'URI fuzzer seed: Google Sites editor URL'
+summary: Seed corpus entry containing a Google Sites editor URL with long path segments used as input for the URI fuzzer.

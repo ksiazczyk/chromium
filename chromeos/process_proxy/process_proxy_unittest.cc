@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProcessProxyRegistry
+// summary: Unit tests that run a cat process through ProcessProxyRegistry, send input lines, and verify interleaved stdout output is read and matched correctly.
+// ---
+
 #include <gtest/gtest.h>
 #include <stddef.h>
 

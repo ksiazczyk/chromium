@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PpdLineReader unit tests
+// summary: Unit tests for PpdLineReader using plain and gzipped sample PPD contents, checking line reading, remaining content, and error handling.
+// ---
+
 #include "chromeos/printing/ppd_line_reader.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessOutputWatcher class declaration
+// summary: Declares ProcessOutputWatcher, which observes output on a file descriptor and invokes a callback, assuming UTF-8 output.
+// ---
+
 #ifndef CHROMEOS_PROCESS_PROXY_PROCESS_OUTPUT_WATCHER_H_
 #define CHROMEOS_PROCESS_PROXY_PROCESS_OUTPUT_WATCHER_H_
 

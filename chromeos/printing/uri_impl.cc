@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal Uri parsing and normalization implementation
+// summary: Implements Uri::Pim parsing of URI components, including percent-escaped characters, UTF-8 validation and port handling.
+// ---
+
 
 #include "chromeos/printing/uri_impl.h"
 

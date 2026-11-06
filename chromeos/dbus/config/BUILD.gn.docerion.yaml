@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS DBus config BUILD.gn
+summary: Defines a GN config that sets the USE_REAL_DBUS_CLIENTS define when real D-Bus clients are enabled and asserts the target is Chrome OS only.

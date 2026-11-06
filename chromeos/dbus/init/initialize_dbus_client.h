@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InitializeDBusClient template helper
+// summary: Header providing a template helper that initializes a D-Bus client with a real bus or, when no bus is available, its fake implementation.
+// ---
+
 #ifndef CHROMEOS_DBUS_INIT_INITIALIZE_DBUS_CLIENT_H_
 #define CHROMEOS_DBUS_INIT_INITIALIZE_DBUS_CLIENT_H_
 

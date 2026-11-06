@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the tpm_manager D-Bus client
+summary: Defines the chromeos_dbus_tpm_manager component and the tpm_manager proto library target for the TPM manager D-Bus client.

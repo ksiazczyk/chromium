@@ -1,0 +1,4 @@
+# Docerion header of uri3.txt.
+type: test
+title: URI fuzzer seed 3
+summary: Seed input for the URI fuzzer using a Google Docs presentation URL with a slide fragment.

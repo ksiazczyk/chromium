@@ -1,0 +1,4 @@
+# Docerion header of use_real_dbus_clients.gni.
+type: config
+title: use_real_dbus_clients build argument
+summary: Declares the use_real_dbus_clients GN argument, defaulting to real D-Bus clients instead of fakes on Chrome OS devices.

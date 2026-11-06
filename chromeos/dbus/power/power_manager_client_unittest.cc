@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PowerManagerClient
+// summary: Tests PowerManagerClient D-Bus behavior such as suspend requests and suspend readiness reporting using mock bus objects and custom argument matchers.
+// ---
+
 #include "chromeos/dbus/power/power_manager_client.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History tracker class declaration
+// summary: Declares HistoryTracker, an asynchronous singleton container for ERP health tracking data with observer support, attached to ReportClient.
+// ---
+
 #ifndef CHROMEOS_DBUS_MISSIVE_HISTORY_TRACKER_H_
 #define CHROMEOS_DBUS_MISSIVE_HISTORY_TRACKER_H_
 

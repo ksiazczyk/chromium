@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB printer ID unit tests
+// summary: Unit tests verifying that USB printer device ID buffers are parsed into make, model and command set mappings by BuildDeviceIdMapping.
+// ---
+
 #include "chromeos/printing/usb_printer_id.h"
 
 #include <algorithm>

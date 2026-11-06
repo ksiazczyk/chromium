@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockingMethodCaller header
+// summary: Declares BlockingMethodCaller, a utility class for calling D-Bus methods synchronously, with a warning to avoid blocking usage.
+// ---
+
 #ifndef CHROMEOS_DBUS_COMMON_BLOCKING_METHOD_CALLER_H_
 #define CHROMEOS_DBUS_COMMON_BLOCKING_METHOD_CALLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of uri36.txt.
+type: test
+title: URI fuzzer seed 36
+summary: Seed input for the URI fuzzer with an IPP URI using a printer name and an oversized port number.

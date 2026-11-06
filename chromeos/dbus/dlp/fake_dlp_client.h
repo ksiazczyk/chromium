@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDlpClient header
+// summary: Declares FakeDlpClient, a test double implementing DlpClient and DlpClient::TestInterface with mock setters and a file path to URL database.
+// ---
+
 #ifndef CHROMEOS_DBUS_DLP_FAKE_DLP_CLIENT_H_
 #define CHROMEOS_DBUS_DLP_FAKE_DLP_CLIENT_H_
 

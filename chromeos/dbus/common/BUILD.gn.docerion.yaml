@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the chromeos_dbus_common component
+summary: Defines the chromeos_dbus_common GN component, listing its sources and dependencies on base, dbus, net, and chromeos constants.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessProxy class declaration
+// summary: Declares a refcounted proxy to a single ChromeOS process with methods to open, watch output, write, close, and resize the terminal.
+// ---
+
 #ifndef CHROMEOS_PROCESS_PROXY_PROCESS_PROXY_H_
 #define CHROMEOS_PROCESS_PROXY_PROCESS_PROXY_H_
 

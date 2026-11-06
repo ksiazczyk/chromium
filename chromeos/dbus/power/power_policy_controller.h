@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerPolicyController interface
+// summary: Declares PowerPolicyController, which sends Chrome's assorted power management preferences to the Chrome OS power manager, with preference value structs and action enums.
+// ---
+
 #ifndef CHROMEOS_DBUS_POWER_POWER_POLICY_CONTROLLER_H_
 #define CHROMEOS_DBUS_POWER_POWER_POLICY_CONTROLLER_H_
 

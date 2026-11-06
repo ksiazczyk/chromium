@@ -1,0 +1,4 @@
+# Docerion header of uri31.txt.
+type: test
+title: URI fuzzer seed 31
+summary: Seed input for the URI fuzzer with an empty host and an explicit port 80.

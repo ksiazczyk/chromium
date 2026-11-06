@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake power manager client implementation
+// summary: Implements FakePowerManagerClient, a test double of PowerManagerClient that records policies, call counts, and power state for inspection in tests.
+// ---
+
 #include "chromeos/dbus/power/fake_power_manager_client.h"
 
 #include <set>

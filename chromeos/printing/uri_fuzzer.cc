@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for the Uri parser and setters
+// summary: Fuzzes the Uri class by invoking parser and setter methods with random input and then reading back all getter methods.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <cstddef>
 #include <cstdint>

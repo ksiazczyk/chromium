@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTpmManagerClient header
+// summary: Declares the fake TpmManagerClient with a test interface exposing mutable replies, D-Bus error counts, call counts, and signal emission.
+// ---
+
 #ifndef CHROMEOS_DBUS_TPM_MANAGER_FAKE_TPM_MANAGER_CLIENT_H_
 #define CHROMEOS_DBUS_TPM_MANAGER_FAKE_TPM_MANAGER_CLIENT_H_
 

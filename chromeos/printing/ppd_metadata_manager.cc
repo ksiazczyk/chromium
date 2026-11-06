@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD metadata manager implementation
+// summary: Implements fetching and parsing of PPD metadata to answer queries about manufacturers, printers, forward indices, and USB devices.
+// ---
+
 #include "chromeos/printing/ppd_metadata_manager.h"
 
 #include <algorithm>

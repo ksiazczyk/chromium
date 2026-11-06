@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProcessOutputWatcher unit tests
+// summary: Unit tests verifying that process output is reported correctly, including terminating nulls and UTF-8 handling.
+// ---
+
 #include "chromeos/process_proxy/process_output_watcher.h"
 
 #include <gtest/gtest.h>

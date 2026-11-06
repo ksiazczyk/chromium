@@ -1,0 +1,4 @@
+# Docerion header of uri26.txt.
+type: test
+title: 'URI fuzzer seed 26: synthetic URI with all components'
+summary: Seed input for the ChromeOS printing URI fuzzer containing a synthetic URI with userinfo, port, path, query and fragment.

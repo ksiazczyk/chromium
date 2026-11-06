@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote PPD fetcher interface
+// summary: Declares the RemotePpdFetcher interface for fetching PPD file contents over HTTP or HTTPS with result codes.
+// ---
+
 #ifndef CHROMEOS_PRINTING_REMOTE_PPD_FETCHER_H_
 #define CHROMEOS_PRINTING_REMOTE_PPD_FETCHER_H_
 

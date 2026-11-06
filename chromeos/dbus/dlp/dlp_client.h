@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DlpClient interface header
+// summary: Declares the DlpClient interface, observer class, callback types and TestInterface for communicating with the org.chromium.Dlp D-Bus service.
+// ---
+
 #ifndef CHROMEOS_DBUS_DLP_DLP_CLIENT_H_
 #define CHROMEOS_DBUS_DLP_DLP_CLIENT_H_
 

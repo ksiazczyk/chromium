@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBus path key declarations
+// summary: Declares PathService keys for user policy keys, owner key, install attributes, and RMA service paths, plus registration functions.
+// ---
+
 #ifndef CHROMEOS_DBUS_CONSTANTS_DBUS_PATHS_H_
 #define CHROMEOS_DBUS_CONSTANTS_DBUS_PATHS_H_
 

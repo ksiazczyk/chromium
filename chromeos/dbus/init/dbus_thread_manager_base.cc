@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of DBusThreadManagerBase
+// summary: Implements DBusThreadManagerBase, which decides between real and fake D-Bus clients, starts the dedicated D-Bus thread, connects to the system bus, and shuts both down on destruction.
+// ---
+
 #include "chromeos/dbus/init/dbus_thread_manager_base.h"
 
 #include <utility>

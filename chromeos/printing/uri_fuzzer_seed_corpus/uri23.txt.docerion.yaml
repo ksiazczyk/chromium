@@ -1,0 +1,4 @@
+# Docerion header of uri23.txt.
+type: test
+title: 'URI fuzzer seed 23: product search URL with query parameters'
+summary: Seed input for the ChromeOS printing URI fuzzer containing a product search URL with tracking and query parameters.

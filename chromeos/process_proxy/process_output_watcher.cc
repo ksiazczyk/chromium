@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessOutputWatcher implementation
+// summary: Reads process output from a file descriptor, handles UTF-8 boundaries and flow control, and reports output or exit via callback.
+// ---
+
 #include "chromeos/process_proxy/process_output_watcher.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission broker client interface header
+// summary: Declares the PermissionBrokerClient interface used to request access to device nodes and network ports from the Chrome OS permission broker.
+// ---
+
 #ifndef CHROMEOS_DBUS_PERMISSION_BROKER_PERMISSION_BROKER_CLIENT_H_
 #define CHROMEOS_DBUS_PERMISSION_BROKER_PERMISSION_BROKER_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of uri38.txt.
+type: data
+title: URI fuzzer seed corpus entry 38
+summary: Seed input combining an HTTP CUPS printer queue address with an embedded USB printer URI for fuzzing.

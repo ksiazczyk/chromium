@@ -1,0 +1,4 @@
+# Docerion header of uri34.txt.
+type: test
+title: URI fuzzer seed 34
+summary: Seed input for the URI fuzzer with an SMB URI that includes user credentials in the authority.

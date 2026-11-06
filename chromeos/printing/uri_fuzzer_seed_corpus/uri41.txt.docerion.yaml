@@ -1,0 +1,4 @@
+# Docerion header of uri41.txt.
+type: data
+title: URI fuzzer seed corpus entry 41
+summary: Seed input for the URI fuzzer holding an FTP directory URI pointing at a GNU software archive.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CupsPrinterStatus
+// summary: Tests status creation, adding reasons with different severities, and deduplication of identical reason and severity pairs.
+// ---
+
 #include "chromeos/printing/cups_printer_status.h"
 
 #include <string>

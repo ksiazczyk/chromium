@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uri class implementation with percent-encoding and default ports
+// summary: Implements the public Uri methods, including percent-escaping of URI components and default port lookup for schemes like ipp, ipps, http and lpd.
+// ---
+
 #include "chromeos/printing/uri.h"
 
 #include <algorithm>

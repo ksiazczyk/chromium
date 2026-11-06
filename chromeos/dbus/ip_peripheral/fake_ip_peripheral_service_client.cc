@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IP peripheral service client implementation
+// summary: In-memory fake of the IP peripheral service client that records call counts and returns canned pan, tilt, zoom and UVC control responses for tests.
+// ---
+
 #include "chromeos/dbus/ip_peripheral/fake_ip_peripheral_service_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake U2F client class declaration
+// summary: Declares FakeU2FClient, a U2FClient subclass that returns fake responses for tests and builds without the u2fd daemon.
+// ---
+
 #ifndef CHROMEOS_DBUS_U2F_FAKE_U2F_CLIENT_H_
 #define CHROMEOS_DBUS_U2F_FAKE_U2F_CLIENT_H_
 

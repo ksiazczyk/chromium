@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Chrome OS AFDO profiles
+summary: Lists the Chrome OS Toolchain Team members and autoroller service accounts that own the AFDO profiles directory.

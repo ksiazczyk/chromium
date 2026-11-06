@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Missive BUILD.gn build targets
+summary: Defines GN build targets for the missive component, the history tracker static library, and the test support library in the ChromeOS D-Bus missive directory.

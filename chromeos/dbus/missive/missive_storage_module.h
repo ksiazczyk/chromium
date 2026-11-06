@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MissiveStorageModule header
+// summary: Declares MissiveStorageModule, a StorageModuleInterface implementation that forwards enqueue and flush requests to the MissiveClient.
+// ---
+
 #ifndef CHROMEOS_DBUS_MISSIVE_MISSIVE_STORAGE_MODULE_H_
 #define CHROMEOS_DBUS_MISSIVE_MISSIVE_STORAGE_MODULE_H_
 

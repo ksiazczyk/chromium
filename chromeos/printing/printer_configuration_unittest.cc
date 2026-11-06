@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer configuration unit tests
+// summary: Unit tests covering printer URI parsing, secure protocol detection, and driverless USB behavior of the Printer class.
+// ---
+
 #include "chromeos/printing/printer_configuration.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

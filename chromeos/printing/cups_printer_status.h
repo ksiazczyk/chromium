@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrinterStatus class declaration
+// summary: Declares CupsPrinterStatus with status reasons and severities plus PrinterAuthenticationInfo for OAuth details of a printer.
+// ---
+
 #ifndef CHROMEOS_PRINTING_CUPS_PRINTER_STATUS_H_
 #define CHROMEOS_PRINTING_CUPS_PRINTER_STATUS_H_
 

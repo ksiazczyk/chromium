@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockingMethodCaller implementation
+// summary: Implements BlockingMethodCaller::CallMethodAndBlock, which runs a D-Bus method call on the D-Bus task runner and blocks the calling thread until a response or error arrives.
+// ---
+
 #include "chromeos/dbus/common/blocking_method_caller.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of uri1.txt.
+type: test
+title: 'URI fuzzer seed: Google Docs document URL'
+summary: Seed corpus entry holding a Google Docs document URL used as input for the ChromeOS printing URI fuzzer.

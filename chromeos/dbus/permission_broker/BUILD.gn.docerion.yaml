@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the permission_broker client
+summary: Defines the GN build target for the permission_broker component containing the client and its fake implementation.

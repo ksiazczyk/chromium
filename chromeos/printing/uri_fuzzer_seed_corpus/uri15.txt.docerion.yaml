@@ -1,0 +1,4 @@
+# Docerion header of uri15.txt.
+type: test
+title: 'URI fuzzer seed: Gmail inbox URL'
+summary: Seed corpus entry with a Gmail inbox URL including query parameters and a long fragment identifier for URI fuzzer testing.

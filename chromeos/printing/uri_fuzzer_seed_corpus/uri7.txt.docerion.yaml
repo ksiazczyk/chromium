@@ -1,0 +1,4 @@
+# Docerion header of uri7.txt.
+type: test
+title: URI fuzzer seed corpus uri7
+summary: Seed input for the ChromeOS printing URI fuzzer containing an HTTPS URL of a Polish news article.

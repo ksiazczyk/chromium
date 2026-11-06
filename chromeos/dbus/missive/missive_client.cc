@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Missive D-Bus client implementation
+// summary: Implements the Missive D-Bus client, including enqueue record retries behind a feature flag, API key validation, and UMA metrics for D-Bus errors.
+// ---
+
 #include "chromeos/dbus/missive/missive_client.h"
 
 #include <cstdlib>

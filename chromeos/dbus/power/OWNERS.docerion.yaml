@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the power D-Bus directory
+summary: Lists the code owners responsible for reviewing changes in the chromeos/dbus/power directory, with non-committer reviewers commented out.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBusThreadManagerBase class declaration
+// summary: Header declaring DBusThreadManagerBase, which owns the D-Bus thread and system bus connection and exposes IsUsingFakes and GetSystemBus to derived managers.
+// ---
+
 #ifndef CHROMEOS_DBUS_INIT_DBUS_THREAD_MANAGER_BASE_H_
 #define CHROMEOS_DBUS_INIT_DBUS_THREAD_MANAGER_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regmon client D-Bus implementation
+// summary: Implements RegmonClientImpl, which sends RecordPolicyViolation requests to the regmond daemon over D-Bus and handles and logs responses.
+// ---
+
 #include "chromeos/dbus/regmon/regmon_client.h"
 
 #include <optional>

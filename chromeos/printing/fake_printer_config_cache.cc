@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake PrinterConfigCache implementation
+// summary: Implements a fake PrinterConfigCache that serves canned fetch responses and can drop or discard requests for testing.
+// ---
+
 #include "chromeos/printing/fake_printer_config_cache.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IP peripheral service client interface
+// summary: Defines the IpPeripheralServiceClient API for pan, tilt, zoom and UVC extension unit control calls to the Chrome OS IP Peripheral service.
+// ---
+
 #ifndef CHROMEOS_DBUS_IP_PERIPHERAL_IP_PERIPHERAL_SERVICE_CLIENT_H_
 #define CHROMEOS_DBUS_IP_PERIPHERAL_IP_PERIPHERAL_SERVICE_CLIENT_H_
 

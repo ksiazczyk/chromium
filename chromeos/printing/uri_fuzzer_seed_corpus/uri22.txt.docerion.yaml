@@ -1,0 +1,4 @@
+# Docerion header of uri22.txt.
+type: test
+title: 'URI fuzzer seed 22: Polish news article URL'
+summary: Seed input for the ChromeOS printing URI fuzzer containing a Polish news article URL from o2.pl.

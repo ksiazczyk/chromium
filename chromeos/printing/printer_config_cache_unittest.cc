@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printer config cache unit tests
+// summary: Unit tests for the PrinterConfigCache covering networked fetches, cached responses, expiration, and failure results using a mock clock and loader factory.
+// ---
+
 #include "chromeos/printing/printer_config_cache.h"
 
 #include <vector>

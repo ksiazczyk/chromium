@@ -1,0 +1,4 @@
+# Docerion header of uri17.txt.
+type: test
+title: 'URI fuzzer seed: Polish news article URL'
+summary: Seed corpus entry with a long Polish news article URL from wp.pl used as input for the ChromeOS printing URI fuzzer.

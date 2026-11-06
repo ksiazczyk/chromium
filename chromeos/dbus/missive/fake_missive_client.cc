@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Missive D-Bus client implementation
+// summary: Implements the fake MissiveClient, which stores enqueued records in memory, notifies observers, and no-ops other calls for use in tests.
+// ---
+
 #include "chromeos/dbus/missive/fake_missive_client.h"
 
 #include "base/functional/bind.h"

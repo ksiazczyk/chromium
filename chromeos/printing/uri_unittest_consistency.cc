@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Consistency tests for Uri component encoding
+// summary: Parameterized tests verifying that encoded and normalized Uri components remain consistent across the different getter methods.
+// ---
+
 #include "base/containers/span.h"
 #include "base/strings/string_number_conversions.h"
 #include "chromeos/printing/uri.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD provider interface
+// summary: Declares the PpdProvider interface and PrinterSearchData for resolving printer descriptions to CUPS PPD files on ChromeOS.
+// ---
+
 #ifndef CHROMEOS_PRINTING_PPD_PROVIDER_H_
 #define CHROMEOS_PRINTING_PPD_PROVIDER_H_
 

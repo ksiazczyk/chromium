@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine learning D-Bus client implementation
+// summary: Implements MachineLearningClient by calling the BootstrapMojoConnection D-Bus method on the ML service daemon with an extended two-minute timeout.
+// ---
+
 #include "chromeos/dbus/machine_learning/machine_learning_client.h"
 
 #include <memory>

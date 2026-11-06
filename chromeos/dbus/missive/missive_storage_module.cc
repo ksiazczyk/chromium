@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MissiveStorageModule implementation
+// summary: Implements a storage module that channels record enqueue and flush calls to the MissiveClient, creating itself via an asynchronous factory method.
+// ---
+
 #include "chromeos/dbus/missive/missive_storage_module.h"
 
 #include <utility>

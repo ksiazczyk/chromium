@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake machine learning client implementation
+// summary: Implements FakeMachineLearningClient, a no-op fake whose BootstrapMojoConnection always reports success.
+// ---
+
 #include "chromeos/dbus/machine_learning/fake_machine_learning_client.h"
 
 #include "base/functional/callback.h"

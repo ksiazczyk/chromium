@@ -1,0 +1,4 @@
+# Docerion header of uri30.txt.
+type: test
+title: URI fuzzer seed 30
+summary: Seed input for the URI fuzzer with empty user, host and port components in the authority.

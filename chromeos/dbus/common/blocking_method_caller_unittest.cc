@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BlockingMethodCaller
+// summary: Unit tests for BlockingMethodCaller using a mock bus and object proxy to verify blocking D-Bus method calls and responses.
+// ---
+
 #include "chromeos/dbus/common/blocking_method_caller.h"
 
 #include <memory>

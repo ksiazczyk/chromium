@@ -1,0 +1,4 @@
+# Docerion header of uri33.txt.
+type: test
+title: URI fuzzer seed 33
+summary: Seed input for the URI fuzzer with an SMB URI addressing a printer share on a server.

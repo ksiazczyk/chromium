@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the U2F D-Bus client
+summary: Delegates ownership of this directory to the reviewers listed in the device/fido OWNERS file.

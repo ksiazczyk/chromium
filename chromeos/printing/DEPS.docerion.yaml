@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for chromeos printing
+summary: DEPS allowlist permitting includes from components/printing/common, printing/mojom, and the cups printer status reason header.

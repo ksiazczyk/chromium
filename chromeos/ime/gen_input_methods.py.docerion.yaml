@@ -1,0 +1,4 @@
+# Docerion header of gen_input_methods.py.
+type: script
+title: Input methods C++ header generator
+summary: Python script that parses input_methods.txt and writes a C++ header with the login XKB layout ID array.

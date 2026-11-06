@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NativeTimer
+// summary: Tests NativeTimer creation failure, starting, and expiration behavior using a fake power manager client and mock time.
+// ---
+
 #include "chromeos/dbus/power/native_timer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD metadata parser implementation
+// summary: Implements parsing of PPD metadata JSON, including locales, manufacturers, printers, forward and reverse indexes, and milestone restrictions.
+// ---
+
 #include "chromeos/printing/ppd_metadata_parser.h"
 
 #include <optional>

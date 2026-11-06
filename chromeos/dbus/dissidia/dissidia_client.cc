@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DissidiaClient real D-Bus implementation
+// summary: Implements the production DissidiaClient that talks to dissidia-daemon, calling PerformUpdate and forwarding Progress and Completed signals to observers.
+// ---
+
 #include "chromeos/dbus/dissidia/dissidia_client.h"
 
 #include <utility>

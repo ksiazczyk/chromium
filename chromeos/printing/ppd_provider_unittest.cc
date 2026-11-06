@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PPD provider unit tests
+// summary: Unit tests for the PpdProvider covering PPD resolution, manufacturer and printer queries, cupsFilter extraction, and error paths with fakes and mocks.
+// ---
+
 #include "chromeos/printing/ppd_provider.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of uri27.txt.
+type: test
+title: 'URI fuzzer seed 27: URI with percent-encoded characters'
+summary: Seed input for the ChromeOS printing URI fuzzer containing a URI with an unusual scheme and percent-encoded characters.

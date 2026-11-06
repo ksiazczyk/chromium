@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PpdLineReader fuzzer
+// summary: Fuzz target that feeds random contents and line lengths into PpdLineReader to uncover crashes or errors.
+// ---
+
 #include "chromeos/printing/ppd_line_reader.h"
 
 #include <memory>

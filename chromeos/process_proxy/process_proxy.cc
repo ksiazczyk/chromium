@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessProxy implementation
+// summary: Implements launching a process on a pseudo-terminal pair, writing input, relaying output, and handling terminal resize.
+// ---
+
 #include "chromeos/process_proxy/process_proxy.h"
 
 #include <stddef.h>

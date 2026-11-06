@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the chromeos printing directory
+summary: Lists primary and backup owners responsible for reviewing changes to the chromeos printing code.

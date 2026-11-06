@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeOS D-Bus power component
+summary: GN build rules defining the power component, its unit test source set, and the power manager protobuf library targets.

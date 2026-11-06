@@ -1,0 +1,4 @@
+# Docerion header of uri9.txt.
+type: test
+title: URI fuzzer seed corpus uri9
+summary: Seed input for the ChromeOS printing URI fuzzer containing an HTTPS URL of an onet.pl news article.

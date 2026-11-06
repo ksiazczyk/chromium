@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromeos_dbus_init component
+summary: GN build file defining the chromeos_dbus_init component target with its D-Bus thread manager sources and dependencies on base, dbus, and chromeos constants.

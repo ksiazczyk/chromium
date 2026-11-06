@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake PrinterConfigCache declaration
+// summary: Declares a test double of PrinterConfigCache with canned responses and discarded fetch requests to simulate slow servers.
+// ---
+
 #ifndef CHROMEOS_PRINTING_FAKE_PRINTER_CONFIG_CACHE_H_
 #define CHROMEOS_PRINTING_FAKE_PRINTER_CONFIG_CACHE_H_
 

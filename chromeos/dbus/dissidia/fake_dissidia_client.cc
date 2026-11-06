@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDissidiaClient implementation
+// summary: Implements the fake client that records PerformUpdate calls and notifies observers with a configurable status and message for testing.
+// ---
+
 #include "chromeos/dbus/dissidia/fake_dissidia_client.h"
 
 #include <utility>

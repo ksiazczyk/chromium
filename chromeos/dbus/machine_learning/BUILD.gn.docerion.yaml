@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Machine learning client build definition
+summary: GN build file defining the machine_learning component with its sources and dependencies, restricted to ChromeOS builds.

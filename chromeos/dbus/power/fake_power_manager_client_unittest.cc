@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FakePowerManagerClient
+// summary: Unit tests verifying that power property updates and observer notifications behave correctly in the fake power manager client.
+// ---
+
 #include "chromeos/dbus/power/fake_power_manager_client.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IP peripheral service client unit tests
+// summary: Unit tests verifying the client sends the correct D-Bus method calls for pan, tilt and zoom get and set operations using a mock bus and proxy.
+// ---
+
 #include "chromeos/dbus/ip_peripheral/ip_peripheral_service_client.h"
 
 #include <memory>

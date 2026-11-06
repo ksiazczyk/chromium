@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regmon client unit tests
+// summary: Tests RegmonClient D-Bus behavior with mock bus and proxy objects, covering successful and error responses for RecordPolicyViolation.
+// ---
+
 #include "chromeos/dbus/regmon/regmon_client.h"
 
 #include "base/test/mock_log.h"

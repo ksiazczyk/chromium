@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the chromeos printing component
+summary: GN build configuration defining the chromeos_printing component sources, its unit test target, and PPD line reader and URI fuzzers.

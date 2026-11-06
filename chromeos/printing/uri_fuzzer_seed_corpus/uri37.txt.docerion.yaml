@@ -1,0 +1,4 @@
+# Docerion header of uri37.txt.
+type: data
+title: URI fuzzer seed corpus entry 37
+summary: Seed input for the URI fuzzer holding a USB printer URI with a percent-encoded Epson Stylus model name.

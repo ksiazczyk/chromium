@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PpdMetadataManager unit tests
+// summary: Unit tests for PpdMetadataManager using a fake config cache, covering manufacturer and printer lookups, USB index searches, and make-and-model splitting.
+// ---
+
 #include "chromeos/printing/ppd_metadata_manager.h"
 
 #include <memory>

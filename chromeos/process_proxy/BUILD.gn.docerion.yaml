@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the process_proxy component
+summary: GN build file that defines the process_proxy component and its unit test source set for Chrome OS builds.

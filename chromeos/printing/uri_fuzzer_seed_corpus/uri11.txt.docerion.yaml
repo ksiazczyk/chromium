@@ -1,0 +1,4 @@
+# Docerion header of uri11.txt.
+type: test
+title: 'URI fuzzer seed: Chromium issue list URL'
+summary: Seed corpus entry with a Chromium issue list search URL containing encoded query parameters used as fuzzer input.

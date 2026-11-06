@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the dissidia D-Bus client
+summary: Defines the dissidia component and its unit_tests source_set, listing sources and dependencies for the D-Bus client library.

@@ -1,0 +1,4 @@
+# Docerion header of uri4.txt.
+type: data
+title: URI fuzzer seed corpus entry 4
+summary: Seed input for the URI fuzzer holding an HTTPS web page address that includes query parameters.
