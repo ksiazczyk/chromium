@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch Request Match Params Implementation
+// summary: Implements the constructor and destructor for BackgroundFetchRequestMatchParams, which holds cache matching parameters for background fetch requests.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_request_match_params.h"
 
 #include <utility>

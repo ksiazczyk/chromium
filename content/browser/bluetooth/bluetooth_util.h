@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth utility function declarations
+// summary: Declares exported helpers for comparing Bluetooth LE scan filters and matching manufacturer data filters used by the Web Bluetooth implementation.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_UTIL_H_
 #define CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_UTIL_H_
 

@@ -8,6 +8,12 @@
 // implies a hostile renderer because a renderer obtains the corresponding ID
 // from this class and it will be added to the map at that time.
 
+// ---docerion
+// type: source
+// title: Web Bluetooth service implementation
+// summary: Implements the Mojo Web Bluetooth service, handling renderer API requests, permissions, blocklist checks, and device/bluetooth platform calls.
+// ---
+
 #include "content/browser/bluetooth/web_bluetooth_service_impl.h"
 
 #include <algorithm>

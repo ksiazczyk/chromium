@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Browser plugin DIR_METADATA
+summary: Routes bugs for this directory to the Monorail component Platform>Apps>BrowserTag and a Buganizer component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch delegate proxy unit tests
+// summary: Unit tests exercising the delegate proxy against a fake Background Fetch delegate covering downloads, aborts, UI updates, and permissions.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_delegate_proxy.h"
 
 #include <set>

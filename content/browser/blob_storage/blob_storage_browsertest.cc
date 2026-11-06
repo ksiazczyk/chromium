@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob storage browser test
+// summary: Browser test that exercises blob storage transport strategies and paging of blob memory to disk under small custom storage limits.
+// ---
+
 #include <functional>
 
 #include "base/functional/bind.h"

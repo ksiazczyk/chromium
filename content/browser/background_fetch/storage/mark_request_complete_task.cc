@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mark request complete task implementation
+// summary: Implements the task that moves a background fetch request to the completed state by storing its response in cache storage and updating registration metadata.
+// ---
+
 #include "content/browser/background_fetch/storage/mark_request_complete_task.h"
 
 #include "base/barrier_closure.h"

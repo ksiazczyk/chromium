@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BucketManagerHost unit tests
+// summary: Unit tests for BucketManagerHost that exercise bucket opening with policies using a mock quota manager, mock quota manager proxy, and test browser context.
+// ---
+
 #include <memory>
 
 #include "base/files/scoped_temp_dir.h"

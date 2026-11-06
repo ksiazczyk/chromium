@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test helpers for browsing data
+// summary: Implements helpers that register service workers, configure test servers and cert verifiers for browsing data browser tests.
+// ---
+
 #include "content/browser/browsing_data/browsing_data_browsertest_utils.h"
 
 #include <memory>

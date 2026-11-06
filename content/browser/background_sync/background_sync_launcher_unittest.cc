@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync launcher unit tests
+// summary: Unit tests for BackgroundSyncLauncher, checking wakeup delta computation and firing of background sync events across storage partitions, with Android-specific cases.
+// ---
+
 #include "content/browser/background_sync/background_sync_launcher.h"
 
 #include <map>

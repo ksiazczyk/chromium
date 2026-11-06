@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothAllowedDevices unit tests
+// summary: Unit tests for BluetoothAllowedDevices and BluetoothAllowedDevicesMap covering device addition, retrieval, and per-origin access tracking.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_allowed_devices.h"
 
 #include "base/strings/string_util.h"

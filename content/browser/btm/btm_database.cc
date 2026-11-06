@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BTM database implementation
+// summary: Implements the SQLite-backed BtmDatabase that stores bounce and popup tracking state, including initialization, reads, writes, and metrics.
+// ---
+
 #include "content/browser/btm/btm_database.h"
 
 #include <cstddef>

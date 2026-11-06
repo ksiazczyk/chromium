@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BtmStorage class header
+// summary: Declares the BTM storage manager with methods to record activations, bounces and WebAuthn assertions and to query sites to clear.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_BTM_STORAGE_H_
 #define CONTENT_BROWSER_BTM_BTM_STORAGE_H_
 

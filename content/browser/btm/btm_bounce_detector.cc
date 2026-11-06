@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bounce tracking detector implementation
+// summary: Implements the BTM bounce detector, observing navigations, client and server redirects, and cookie access to identify bounce trackers.
+// ---
+
 #include "content/browser/btm/btm_bounce_detector.h"
 
 #include <cmath>

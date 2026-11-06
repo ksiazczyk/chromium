@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileBackedBlobFactoryFrameImpl implementation
+// summary: Implements the per-document file-backed blob factory that supplies the frame's committed URL for access checks.
+// ---
+
 #include "content/browser/blob_storage/file_backed_blob_factory_frame_impl.h"
 
 #include "content/browser/blob_storage/chrome_blob_storage_context.h"

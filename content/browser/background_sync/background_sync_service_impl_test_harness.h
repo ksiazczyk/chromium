@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background sync service impl test harness header
+// summary: Declares the BackgroundSyncServiceImplTestHarness class and its static callbacks used to test the background sync service implementations.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_SERVICE_IMPL_TEST_HARNESS_H_
 #define CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_SERVICE_IMPL_TEST_HARNESS_H_
 

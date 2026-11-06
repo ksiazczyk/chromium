@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch Scheduler Implementation
+// summary: Implements BackgroundFetchScheduler, which maintains job controllers and limits concurrent active registrations and running downloads for background fetches.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_scheduler.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetRegistrationTask class header
+// summary: Declares GetRegistrationTask, the database task that returns the registration ID and data for an active Background Fetch registration.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_GET_REGISTRATION_TASK_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_GET_REGISTRATION_TASK_H_
 

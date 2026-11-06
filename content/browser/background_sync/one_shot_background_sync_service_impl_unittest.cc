@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-shot background sync service unit tests
+// summary: Unit tests for OneShotBackgroundSyncServiceImpl covering registration, invalid options and retrieving registrations.
+// ---
+
 #include "content/browser/background_sync/one_shot_background_sync_service_impl.h"
 
 #include "base/memory/raw_ptr.h"

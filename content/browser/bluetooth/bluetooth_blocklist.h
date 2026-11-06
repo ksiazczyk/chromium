@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothBlocklist header
+// summary: Declares the BluetoothBlocklist singleton that implements the GATT blocklist from the Web Bluetooth specification and answers exclusion queries.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_BLOCKLIST_H_
 #define CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_BLOCKLIST_H_
 

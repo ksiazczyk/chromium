@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Database helpers unit tests
+// summary: Unit tests covering cache URL round-tripping and storage key derivation in the background fetch database helpers.
+// ---
+
 #include "content/browser/background_fetch/storage/database_helpers.h"
 
 #include <string>

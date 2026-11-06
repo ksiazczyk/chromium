@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create metadata task implementation
+// summary: Implements the task that checks registration limits and quota, then writes background fetch metadata and requests to the service worker database and cache.
+// ---
+
 #include "content/browser/background_fetch/storage/create_metadata_task.h"
 
 #include <numeric>

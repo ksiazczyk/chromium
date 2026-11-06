@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-shot background sync service implementation
+// summary: Implements the Mojo OneShotBackgroundSyncService, validating registration options and delegating to the background sync manager.
+// ---
+
 #include "content/browser/background_sync/one_shot_background_sync_service_impl.h"
 
 #include <utility>

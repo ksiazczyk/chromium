@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync operation scheduler unit tests
+// summary: Unit tests verifying scheduling, completion tracking, and exclusive sequential execution of operations in BackgroundSyncOpScheduler.
+// ---
+
 #include "content/browser/background_sync/background_sync_op_scheduler.h"
 
 #include "base/functional/bind.h"

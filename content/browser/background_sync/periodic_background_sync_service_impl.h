@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Periodic background sync service header
+// summary: Declares PeriodicBackgroundSyncServiceImpl, the Mojo service handling periodic background sync registrations per storage key.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_SYNC_PERIODIC_BACKGROUND_SYNC_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_BACKGROUND_SYNC_PERIODIC_BACKGROUND_SYNC_SERVICE_IMPL_H_
 

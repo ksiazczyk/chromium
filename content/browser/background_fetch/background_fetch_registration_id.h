@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch registration ID class
+// summary: Declares BackgroundFetchRegistrationId, which uniquely identifies a registration via service worker registration ID, storage key, developer ID, and opaque unique ID.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_BACKGROUND_FETCH_REGISTRATION_ID_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_BACKGROUND_FETCH_REGISTRATION_ID_H_
 

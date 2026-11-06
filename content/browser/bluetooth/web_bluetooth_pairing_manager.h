@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bluetooth pairing manager interface
+// summary: Abstract interface for initiating on-demand Bluetooth pairing before GATT characteristic and descriptor reads, writes, and notification starts.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_WEB_BLUETOOTH_PAIRING_MANAGER_H_
 #define CONTENT_BROWSER_BLUETOOTH_WEB_BLUETOOTH_PAIRING_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync scheduler unit tests
+// summary: Unit tests for BackgroundSyncScheduler covering scheduling and cancellation of delayed processing across storage partitions using a mock background sync controller.
+// ---
+
 #include "content/browser/background_sync/background_sync_scheduler.h"
 
 #include <map>

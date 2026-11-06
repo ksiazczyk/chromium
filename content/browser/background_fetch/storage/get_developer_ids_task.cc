@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDeveloperIdsTask implementation
+// summary: Implements the database task that collects the developer IDs of all active, not-yet-completed Background Fetch registrations from the service worker database.
+// ---
+
 #include "content/browser/background_fetch/storage/get_developer_ids_task.h"
 
 #include <vector>

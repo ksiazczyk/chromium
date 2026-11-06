@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background fetch icon image helpers header
+// summary: Declares helpers for persisting background fetch icons, including a 256x256 size check and off-thread PNG serialization and deserialization.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_IMAGE_HELPERS_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_IMAGE_HELPERS_H_
 

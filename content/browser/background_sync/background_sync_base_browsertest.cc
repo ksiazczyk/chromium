@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background sync browser test base implementation
+// summary: Implements shared helpers for background sync browser tests, such as checking pending registrations.
+// ---
+
 #include "content/browser/background_sync/background_sync_base_browsertest.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync network observer unit tests
+// summary: Unit tests checking that network changes invoke the observer callback, that NetworkSufficient reflects the connection type, and that state is read on construction.
+// ---
+
 #include "content/browser/background_sync/background_sync_network_observer.h"
 
 #include "base/functional/bind.h"

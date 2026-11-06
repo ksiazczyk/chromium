@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BTM database class interface
+// summary: Declares the BtmDatabase class with schema version constants, bounce filter types, and methods for writing, reading, and filtering site state.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_BTM_DATABASE_H_
 #define CONTENT_BROWSER_BTM_BTM_DATABASE_H_
 

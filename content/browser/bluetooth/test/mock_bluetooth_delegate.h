@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Bluetooth Delegate gmock header
+// summary: Declares MockBluetoothDelegate, a gmock mock of the content BluetoothDelegate covering chooser, scanning prompt, pairing, and device permission methods.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_TEST_MOCK_BLUETOOTH_DELEGATE_H_
 #define CONTENT_BROWSER_BLUETOOTH_TEST_MOCK_BLUETOOTH_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data remover implementation
+// summary: Coordinates removal of cookies, cache, storage, and other browsing data across storage partitions with filtering and metrics.
+// ---
+
 #include "content/browser/browsing_data/browsing_data_remover_impl.h"
 
 #include <algorithm>

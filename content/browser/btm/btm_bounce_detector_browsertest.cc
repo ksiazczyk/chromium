@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bounce detector browser tests
+// summary: Browser tests exercising the bounce detector's redirect chain detection, bounce recording, and storage deletion behavior in a live browser.
+// ---
+
 #include "content/browser/btm/btm_bounce_detector.h"
 
 #include <algorithm>

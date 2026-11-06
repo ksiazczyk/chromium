@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BTM database schema migrator interface
+// summary: Declares the BtmDatabaseMigrator class and entry function that upgrade the BTM database schema to the latest version.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_BTM_DATABASE_MIGRATOR_H_
 #define CONTENT_BROWSER_BTM_BTM_DATABASE_MIGRATOR_H_
 

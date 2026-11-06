@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Periodic background sync service implementation
+// summary: Implements the Mojo PeriodicBackgroundSyncService for registering, unregistering and listing periodic sync registrations.
+// ---
+
 #include "content/browser/background_sync/periodic_background_sync_service_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync registration helper implementation
+// summary: Implements BackgroundSyncRegistrationHelper, which validates service worker registrations and creates or lists background sync registrations for the sync services.
+// ---
+
 #include "content/browser/background_sync/background_sync_registration_helper.h"
 
 #include "base/memory/weak_ptr.h"

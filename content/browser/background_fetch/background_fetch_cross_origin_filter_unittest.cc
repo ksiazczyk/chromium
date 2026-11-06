@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch cross-origin filter unit tests
+// summary: Unit tests verifying that the cross-origin filter allows or blocks response bodies based on same-origin checks and Access-Control-Allow-Origin headers.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_cross_origin_filter.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conditional cache deletion helper header
+// summary: Declares ConditionalCacheDeletionHelper, a helper to remove code cache data from a StoragePartition using URL and time based conditions.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSING_DATA_CONDITIONAL_CACHE_DELETION_HELPER_H_
 #define CONTENT_BROWSER_BROWSING_DATA_CONDITIONAL_CACHE_DELETION_HELPER_H_
 

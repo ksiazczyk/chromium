@@ -11,6 +11,12 @@
 // BrowserPluginGuestManager, which creates and manages the lifetime of the new
 // guest.
 
+// ---docerion
+// type: source
+// title: BrowserPluginEmbedder class declaration
+// summary: Declares BrowserPluginEmbedder, which handles embedder messages not directed at a specific guest and forwards them to the BrowserPluginGuestManager.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSER_PLUGIN_BROWSER_PLUGIN_EMBEDDER_H_
 #define CONTENT_BROWSER_BROWSER_PLUGIN_BROWSER_PLUGIN_EMBEDDER_H_
 

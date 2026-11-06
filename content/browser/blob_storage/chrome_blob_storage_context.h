@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBlobStorageContext class header
+// summary: Declares the per-BrowserContext context that tracks blob storage state and creates memory- and file-backed blobs.
+// ---
+
 #ifndef CONTENT_BROWSER_BLOB_STORAGE_CHROME_BLOB_STORAGE_CONTEXT_H_
 #define CONTENT_BROWSER_BLOB_STORAGE_CHROME_BLOB_STORAGE_CONTEXT_H_
 

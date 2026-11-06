@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bounce tracking detector header
+// summary: Declares the BtmBounceDetector, redirect chain context, and per-navigation bounce detection state classes used to detect bounce tracking.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_BTM_BOUNCE_DETECTOR_H_
 #define CONTENT_BROWSER_BTM_BTM_BOUNCE_DETECTOR_H_
 

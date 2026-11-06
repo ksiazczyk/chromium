@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BTM database migrator unit tests
+// summary: Tests each BTM database schema migration against golden SQL files, verifying version upgrades and resulting table contents.
+// ---
+
 #include "content/browser/btm/btm_database_migrator.h"
 
 #include "base/files/file_path.h"

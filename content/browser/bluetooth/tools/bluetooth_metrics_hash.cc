@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth UUID metrics hash generator
+// summary: Command-line tool that hashes canonical Bluetooth UUIDs the same way as bluetooth_metrics.cc and prints entries formatted for histograms.xml.
+// ---
+
 #include <iostream>
 
 #include "base/compiler_specific.h"

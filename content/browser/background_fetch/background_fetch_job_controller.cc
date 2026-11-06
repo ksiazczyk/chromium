@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch job controller implementation
+// summary: Implements BackgroundFetchJobController, coordinating download requests for a registration and applying mixed content and CORS preflight checks.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_job_controller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothDeviceChooserController unit tests
+// summary: Unit tests for BluetoothDeviceChooserController covering signal strength level calculation and scan filter computation.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_device_chooser_controller.h"
 #include "device/bluetooth/bluetooth_discovery_filter.h"
 #include "testing/gtest/include/gtest/gtest.h"

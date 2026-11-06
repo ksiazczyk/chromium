@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device scanning prompt controller implementation
+// summary: Implements the controller that shows the Bluetooth scanning permission prompt via the Bluetooth delegate and forwards prompt events and filtered devices to the Web Bluetooth service.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_device_scanning_prompt_controller.h"
 
 #include <utility>

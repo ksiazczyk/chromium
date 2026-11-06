@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync manager unit tests
+// summary: Extensive unit tests for BackgroundSyncManager covering registration, event firing, permissions, network conditions, and periodic sync using test service worker helpers.
+// ---
+
 #include "content/browser/background_sync/background_sync_manager.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cleanup task implementation
+// summary: Implements the database task that finds inactive background fetch registrations and reuses DeleteRegistrationTask to clean them up.
+// ---
+
 #include "content/browser/background_fetch/storage/cleanup_task.h"
 
 #include <memory>

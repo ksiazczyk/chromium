@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bluetooth UMA metrics recording
+// summary: Implements functions that record UMA histograms for requestDevice options, connectGATT outcomes, and GATT service, characteristic, and descriptor queries, hashing UUIDs for sparse histograms.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_metrics.h"
 
 #include <stdint.h>

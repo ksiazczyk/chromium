@@ -1,3 +1,11 @@
+---
+type: readme
+title: Background fetch state storage
+summary: Documents the service worker database and cache storage schemas used to persist the state of running background fetches.
+relations:
+  - documents /content/browser/background_fetch/storage/database_task.h
+---
+
 # Background fetch state storage
 
 `content/browser/background_fetch/storage` contains a set of tasks that read to

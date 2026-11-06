@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentRepeatingTimer implementation
+// summary: Implements PersistentRepeatingTimer, which fires a task repeatedly across application restarts using a persisted last-fired time.
+// ---
+
 #include "content/browser/btm/persistent_repeating_timer.h"
 
 #include "base/functional/bind.h"

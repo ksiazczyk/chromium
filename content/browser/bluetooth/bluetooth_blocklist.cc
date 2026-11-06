@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothBlocklist implementation
+// summary: Implements the Web Bluetooth blocklist policy, parsing blocklist strings and checking excluded UUIDs and manufacturer data prefixes.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_blocklist.h"
 
 #include <string_view>

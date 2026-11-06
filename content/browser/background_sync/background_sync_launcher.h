@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background sync launcher class declaration
+// summary: Declares the BackgroundSyncLauncher singleton for scheduling background sync wakeups, mainly on Android.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_LAUNCHER_H_
 #define CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_LAUNCHER_H_
 

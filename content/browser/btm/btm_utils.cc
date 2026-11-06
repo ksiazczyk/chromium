@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BTM utility functions implementation
+// summary: Implements BTM helpers for site computation, timestamp range updates, enum-to-string conversion, histogram suffixes and file paths.
+// ---
+
 #include "content/browser/btm/btm_utils.h"
 
 #include <algorithm>

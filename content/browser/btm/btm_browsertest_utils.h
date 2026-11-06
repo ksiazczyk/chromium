@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BTM browser test client header
+// summary: Declares ContentBrowserTestTpcBlockingBrowserClient, a test browser client wrapping third-party cookie blocking behavior for BTM browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_BTM_BROWSERTEST_UTILS_H_
 #define CONTENT_BROWSER_BTM_BTM_BROWSERTEST_UTILS_H_
 

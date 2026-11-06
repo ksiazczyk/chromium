@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing data test utilities header
+// summary: Declares cookie helper functions used by browsing data tests to create cookies and retrieve all cookies from a browser context.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSING_DATA_BROWSING_DATA_TEST_UTILS_H_
 #define CONTENT_BROWSER_BROWSING_DATA_BROWSING_DATA_TEST_UTILS_H_
 

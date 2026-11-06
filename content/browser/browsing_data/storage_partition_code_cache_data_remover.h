@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage partition code cache data remover header
+// summary: Declares StoragePartitionCodeCacheDataRemover, which clears JS and WASM code cache data on the code cache thread and notifies completion on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSING_DATA_STORAGE_PARTITION_CODE_CACHE_DATA_REMOVER_H_
 #define CONTENT_BROWSER_BROWSING_DATA_STORAGE_PARTITION_CODE_CACHE_DATA_REMOVER_H_
 

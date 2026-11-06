@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MatchRequestsTask header for matching settled fetches
+// summary: Declares the MatchRequestsTask database task that retrieves settled fetches from cache storage for a registration, filtered by the given request match params.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_MATCH_REQUESTS_TASK_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_MATCH_REQUESTS_TASK_H_
 

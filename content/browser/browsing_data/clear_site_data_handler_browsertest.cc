@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clear-Site-Data handler browser tests
+// summary: Browser tests verifying Clear-Site-Data header handling for cookies, storage, cache and storage buckets across navigations.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <memory>

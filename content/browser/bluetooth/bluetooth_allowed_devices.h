@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothAllowedDevices header
+// summary: Declares BluetoothAllowedDevices, which tracks the devices and services a site has been granted access to and generates per-site random device IDs.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_ALLOWED_DEVICES_H_
 #define CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_ALLOWED_DEVICES_H_
 

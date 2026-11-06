@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BTM service class interface
+// summary: Declares BtmServiceImpl, the internal BtmService implementation handling bounce recording, event removal, and observer management.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_BTM_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_BTM_BTM_SERVICE_IMPL_H_
 

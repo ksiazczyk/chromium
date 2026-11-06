@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartNextPendingRequestTask implementation
+// summary: Implements the task that reads a pending request from service worker storage, promotes it to an active request, and returns it as the next download for a registration.
+// ---
+
 #include "content/browser/background_fetch/storage/start_next_pending_request_task.h"
 
 #include "base/functional/bind.h"

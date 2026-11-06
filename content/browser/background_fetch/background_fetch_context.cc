@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch context implementation
+// summary: Implements BackgroundFetchContext, the central moderator of background fetch registrations that coordinates the data manager, scheduler, and delegate proxy on the UI thread.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_context.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketManager implementation
+// summary: Implements the per-StoragePartition bucket manager that binds receivers, rejects insecure origins, and creates or removes BucketManagerHost instances per storage key.
+// ---
+
 #include "content/browser/buckets/bucket_manager.h"
 
 #include "content/browser/buckets/bucket_context.h"

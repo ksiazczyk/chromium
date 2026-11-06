@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync network observer header
+// summary: Declares BackgroundSyncNetworkObserver, which observes network connection changes, reports whether the network is sufficient, and supports test overrides.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_NETWORK_OBSERVER_H_
 #define CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_NETWORK_OBSERVER_H_
 

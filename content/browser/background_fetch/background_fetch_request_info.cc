@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch Request Info Implementation
+// summary: Implements BackgroundFetchRequestInfo, managing download GUIDs, response data and blob data handles for individual background fetch requests.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_request_info.h"
 
 #include <utility>

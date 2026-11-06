@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentRepeatingTimer unit tests
+// summary: Unit tests for PersistentRepeatingTimer covering missing preferences, repeated Start calls, and recent last-fired times.
+// ---
+
 #include "content/browser/btm/persistent_repeating_timer.h"
 
 #include <memory>

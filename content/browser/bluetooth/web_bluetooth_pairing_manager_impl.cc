@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bluetooth pairing manager implementation
+// summary: Implements on-demand pairing for characteristic and descriptor reads, writes, and notification starts, retrying pairing up to a maximum attempt count.
+// ---
+
 #include "content/browser/bluetooth/web_bluetooth_pairing_manager_impl.h"
 
 #include <utility>

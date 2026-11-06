@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserPluginEmbedder implementation
+// summary: Implements the embedder side of browser plugins, forwarding dialog, keyboard, pointer lock, audibility and full-page guest handling through the guest manager.
+// ---
+
 #include "content/browser/browser_plugin/browser_plugin_embedder.h"
 
 #include "base/functional/bind.h"

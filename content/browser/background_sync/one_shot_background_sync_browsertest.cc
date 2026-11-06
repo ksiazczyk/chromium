@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-shot background sync browser tests
+// summary: Browser tests covering registration, tag lookup and event firing for one-shot background sync, including cross-origin frame behaviour.
+// ---
+
 #include "content/browser/background_sync/background_sync_base_browsertest.h"
 
 #include "base/functional/bind.h"

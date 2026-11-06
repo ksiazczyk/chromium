@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BTM test utils browser test
+// summary: Browser test verifying that cookie access notifications are reported through the expected WebContentsObserver override in BTM test utilities.
+// ---
+
 #include "content/browser/btm/btm_test_utils.h"
 
 #include "content/public/browser/cookie_access_details.h"

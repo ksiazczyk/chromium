@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Broadcast channel DIR_METADATA
+summary: Chromium issue tracker and team metadata for the broadcast_channel directory, listing the Blink>Messaging component and contact email.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync manager implementation
+// summary: Implements BackgroundSyncManager, which stores, schedules, and fires background sync registrations for service workers, handling permissions, network conditions, and errors.
+// ---
+
 #include "content/browser/background_sync/background_sync_manager.h"
 
 #include <algorithm>

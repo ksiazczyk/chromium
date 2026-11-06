@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob URL browser tests
+// summary: 'Browser tests covering navigation, loading, redirects and permission behaviors of the blob: URL scheme.'
+// ---
+
 #include <memory>
 
 #include "base/strings/pattern.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserPluginGuest implementation
+// summary: Implements guest-side behavior for WebContents acting as browser plugin guests, including initialization, renderer preference copying and guest window creation.
+// ---
+
 #include "content/browser/browser_plugin/browser_plugin_guest.h"
 
 #include <stddef.h>

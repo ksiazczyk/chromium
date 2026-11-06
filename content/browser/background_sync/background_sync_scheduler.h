@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync scheduler header
+// summary: Declares BackgroundSyncScheduler, which tracks storage partitions and the soonest time to fire one-shot or periodic background sync events.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_SCHEDULER_H_
 #define CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_SCHEDULER_H_
 

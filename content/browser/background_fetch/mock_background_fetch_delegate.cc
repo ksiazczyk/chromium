@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Background Fetch delegate implementation
+// summary: Implements a mock Background Fetch delegate that serves scripted test responses, tracks download jobs and supports long-lived or pending fetches in tests.
+// ---
+
 #include "content/browser/background_fetch/mock_background_fetch_delegate.h"
 
 #include <utility>

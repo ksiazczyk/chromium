@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the browsing data filter builder
+// summary: Verifies URL, cookie deletion, and storage key matching for origins, registrable domains, and edge cases like eTLDs and IP addresses.
+// ---
+
 #include "content/browser/browsing_data/browsing_data_filter_builder_impl.h"
 
 #include <algorithm>

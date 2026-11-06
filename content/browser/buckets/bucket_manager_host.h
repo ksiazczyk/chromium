@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketManagerHost class declaration
+// summary: Declares BucketManagerHost, the mojo host implementing the Storage Buckets API (open, get, list, delete buckets) for a single StorageKey within a storage partition.
+// ---
+
 #ifndef CONTENT_BROWSER_BUCKETS_BUCKET_MANAGER_HOST_H_
 #define CONTENT_BROWSER_BUCKETS_BUCKET_MANAGER_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blob URL unit tests
+// summary: Unit tests for blob URL loading and the blob URL registry, covering data, file and file system backed blobs with mock storage components.
+// ---
+
 #include <stdint.h>
 
 #include <limits>

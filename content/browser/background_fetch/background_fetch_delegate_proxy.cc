@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch delegate proxy implementation
+// summary: Implements the proxy that relays download, permission, and UI interactions between Background Fetch job controllers and the embedder's delegate.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_delegate_proxy.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentRepeatingTimer header
+// summary: Declares PersistentRepeatingTimer and its Storage interface for persisting the timer's last-fired time to disk.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_PERSISTENT_REPEATING_TIMER_H_
 #define CONTENT_BROWSER_BTM_PERSISTENT_REPEATING_TIMER_H_
 

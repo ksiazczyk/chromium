@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch Registration Service Implementation
+// summary: Implements the Mojo BackgroundFetchRegistrationService, handling request matching, UI updates, aborts and observer registration for a background fetch registration.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_registration_service_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BtmState class header
+// summary: Declares BtmState, the per-site record stored in the BTM database, with a DirtyBit helper that tracks modifications since loading.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_BTM_STATE_H_
 #define CONTENT_BROWSER_BTM_BTM_STATE_H_
 

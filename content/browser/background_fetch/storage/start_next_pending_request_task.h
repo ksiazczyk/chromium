@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartNextPendingRequestTask header
+// summary: Declares the StartNextPendingRequestTask database task that gets a pending request for a registration and moves it into the active state.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_START_NEXT_PENDING_REQUEST_TASK_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_START_NEXT_PENDING_REQUEST_TASK_H_
 

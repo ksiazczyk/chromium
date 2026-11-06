@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync operation scheduler implementation
+// summary: Implements BackgroundSyncOpScheduler, which runs queued background sync operations sequentially on a sequenced task runner.
+// ---
+
 #include "content/browser/background_sync/background_sync_op_scheduler.h"
 
 #include <string>

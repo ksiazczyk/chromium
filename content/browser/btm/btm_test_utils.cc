@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BTM test helpers implementation
+// summary: Implements shared helpers for BTM browser tests, such as opening tabs, accessing storage and cookies, and performing client-side redirects.
+// ---
+
 #include "content/browser/btm/btm_test_utils.h"
 
 #include <string_view>

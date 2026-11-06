@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch Scheduler Unit Test
+// summary: Unit tests for BackgroundFetchScheduler using fake job controllers to verify registration scheduling and download sequencing.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_scheduler.h"
 
 #include <vector>

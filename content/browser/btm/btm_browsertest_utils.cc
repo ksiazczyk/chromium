@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BTM browser test client implementation
+// summary: Implements a content browser test browser client that forwards cookie access and BTM deletion decisions to a wrapped TPC-blocking client.
+// ---
+
 #include "content/browser/btm/btm_browsertest_utils.h"
 
 #include "net/cookies/cookie_setting_override.h"

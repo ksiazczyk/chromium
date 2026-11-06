@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BroadcastChannelProvider class declaration
+// summary: Declares BroadcastChannelProvider, a Mojo provider that connects renderer clients to a named BroadcastChannel for a given storage key.
+// ---
+
 #ifndef CONTENT_BROWSER_BROADCAST_CHANNEL_BROADCAST_CHANNEL_PROVIDER_H_
 #define CONTENT_BROWSER_BROADCAST_CHANNEL_BROADCAST_CHANNEL_PROVIDER_H_
 

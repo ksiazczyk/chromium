@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch test service worker
+// summary: Fake service worker that dispatches Background Fetch abort, click, fail, and success events with configurable outcomes for tests.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_test_service_worker.h"
 
 #include <memory>

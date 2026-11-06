@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieAccessFilter header
+// summary: Declares the CookieAccessFilter class, a helper for WebContentsObservers to map cookie accesses to redirect chain URLs.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_COOKIE_ACCESS_FILTER_H_
 #define CONTENT_BROWSER_BTM_COOKIE_ACCESS_FILTER_H_
 

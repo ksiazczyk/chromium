@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web Bluetooth Service in Content
+summary: Explains the Web Bluetooth service implementation, permission systems, secure characteristics, and testing setup with links to related documentation.
+relations:
+  - references /device/bluetooth/README.md
+  - references /device/bluetooth/emulation/fake_bluetooth.h
+  - references /third_party/blink/renderer/modules/bluetooth/README.md
+---
+
 # Web Bluetooth Service in Content
 
 This directory contains the implementation of the [Web Bluetooth specification]

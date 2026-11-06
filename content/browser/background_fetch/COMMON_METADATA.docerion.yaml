@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Background Fetch common directory metadata
+summary: Directory metadata assigning the Blink>BackgroundFetch monorail component, the platform-capabilities team email, and a Buganizer component.

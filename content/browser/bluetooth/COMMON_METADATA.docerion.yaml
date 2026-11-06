@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Declares the Blink>Bluetooth monorail component, team email, and Buganizer component ID for the Web Bluetooth directory.
