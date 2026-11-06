@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Promotion banner styles
+summary: Styles the promotion banner section, including the pill button, title and description text, dismiss button, and dark or forced-colors variants.
+*/
+
 .banner-section {
   background-color: var(--promotion-banner-background);
   padding: 24px;

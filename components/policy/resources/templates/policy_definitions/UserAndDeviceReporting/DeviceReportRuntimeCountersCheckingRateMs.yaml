@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CPU runtime counters telemetry collection rate in milliseconds
+# summary: Policy setting the sampling rate for runtime counters telemetry, with a minimum of one day and a default of one day.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: CPU runtime counters telemetry collection rate in milliseconds.
 default: 86400000

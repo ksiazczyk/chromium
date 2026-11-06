@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Policy page base styles
+summary: Sets the full-height page layout, background and text colors used by the policy WebUI page.
+*/
+
 html {
   height: 100%;
   width: 100%;

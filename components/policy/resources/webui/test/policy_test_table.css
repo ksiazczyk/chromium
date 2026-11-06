@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: test
+title: Policy test table styles
+summary: Styles for the policy test table header, cells and add-policy button across table and card layouts.
+*/
+
 /* Shared styles for both table and card views */
 .table {
   width: 100%;

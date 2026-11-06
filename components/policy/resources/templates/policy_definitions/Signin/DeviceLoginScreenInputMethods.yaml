@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenInputMethods policy
+# summary: Defines a ChromeOS device policy that configures which keyboard layouts are available on the device sign-in screen.
+# ---
+
 caption: Device sign-in screen keyboard layouts
 desc: |-
   Configures which keyboard layouts are allowed on the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> sign-in screen.

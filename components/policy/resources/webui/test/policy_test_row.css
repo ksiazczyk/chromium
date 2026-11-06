@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: test
+title: Policy test row styles
+summary: Styles for policy test rows rendering a table layout on wide screens and a card layout on narrow screens.
+*/
+
 /* Shared styles for both table and card views */
 .error {
   border: solid 1px red;

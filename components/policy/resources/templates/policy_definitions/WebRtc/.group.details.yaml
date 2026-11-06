@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: WebRtc policy group details
+# summary: Group metadata for the WebRtc policy folder, providing the caption and description shown for the WebRTC settings group.
+# ---
+
 caption: WebRtc settings
 desc: Controls WebRtc related configuration

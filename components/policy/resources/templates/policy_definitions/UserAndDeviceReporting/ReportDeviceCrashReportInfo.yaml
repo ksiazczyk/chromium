@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportDeviceCrashReportInfo policy definition
+# summary: Defines the Chrome OS policy controlling whether crash report details such as remote id, capture timestamp and cause are reported.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report information about crash reports.
 desc: |-

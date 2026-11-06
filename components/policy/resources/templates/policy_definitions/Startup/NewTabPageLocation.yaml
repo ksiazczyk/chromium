@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: NewTabPageLocation policy definition
+# summary: Defines the Chrome policy that configures the default New Tab page URL and prevents users from changing it.
+# ---
+
 caption: Configure the New Tab page URL
 desc: |-
   Setting the policy configures the default New Tab page URL and prevents users from changing it.

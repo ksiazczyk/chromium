@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'RecoveryFactorBehavior: account recovery'
+# summary: Defines the ChromeOS policy that activates or deactivates the account recovery service for users on managed devices.
+# ---
+
 caption: Account recovery
 default: true
 default_for_enterprise_users: false

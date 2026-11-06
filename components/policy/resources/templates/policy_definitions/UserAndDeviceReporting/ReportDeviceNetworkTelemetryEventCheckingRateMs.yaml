@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Network events checking rate policy
+# summary: Unlisted policy definition setting the rate in milliseconds at which network data is polled and checked for events, with a default of 600000 and a minimum of one minute.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Network events checking rate in milliseconds.
 default: 600000

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportDeviceAudioStatus policy definition
+# summary: Defines the Chrome OS policy controlling whether enrolled devices record and report device audio volume status.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report device audio status
 default: true

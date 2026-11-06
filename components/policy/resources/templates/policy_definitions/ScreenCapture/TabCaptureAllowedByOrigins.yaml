@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: TabCaptureAllowedByOrigins policy definition
+# summary: Defines a list policy of URL patterns whose sites may use tab capture, superseded only by the same-origin tab capture policy.
+# ---
+
 caption: Allow Tab capture by these origins
 desc: |-
   Setting the policy lets you set a list of URL patterns that can use Tab Capture.

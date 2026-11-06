@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device screensaver login screen idle timeout policy definition
+# summary: Defines the policy setting the idle wait time in seconds, from 1 to 9999 with a default of 7, before the login screen screensaver appears.
+# ---
+
 caption: Device screensaver login screen idle timeout.
 desc: |-
   Configures the time in seconds that the device will wait idle before showing the screensaver for the login screen.

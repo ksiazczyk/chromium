@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for policy mojom bindings
+summary: Defines the mojo_bindings GN target that compiles policy.mojom with a WebUI module path and a dependency on mojo base values.

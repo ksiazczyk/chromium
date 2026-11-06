@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: WebRTC post-quantum key agreement policy
+# summary: Defines the Chrome policy that enables or disables offering post-quantum key agreement for WebRTC DTLS connections.
+# ---
+
 caption: Enable post-quantum key agreement for WebRTC
 default: null
 desc: |-

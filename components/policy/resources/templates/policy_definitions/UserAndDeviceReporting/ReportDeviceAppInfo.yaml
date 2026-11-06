@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportDeviceAppInfo policy definition
+# summary: Defines the Chrome OS policy that controls whether a device's application inventory and usage information is reported.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report applications information
 desc: |-

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Policy precedence row styles
+summary: Stylesheet for the policy-precedence-row element, laying out the precedence order row with hover and responsive breakpoint rules.
+*/
+
 :host(:not([hidden])) {
   display: block;
 }

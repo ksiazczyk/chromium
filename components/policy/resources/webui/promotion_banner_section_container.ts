@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promotion banner element
+// summary: Lit custom element for the promotion banner that fires redirect and dismiss events when its buttons are clicked.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './promotion_banner_section_container.css.js';

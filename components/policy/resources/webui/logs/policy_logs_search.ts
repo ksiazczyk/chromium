@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log filter highlighting helper
+// summary: Exports highlightText, which locates filter word matches in log text and wraps them in merged highlight spans.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import type {TemplateResult} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

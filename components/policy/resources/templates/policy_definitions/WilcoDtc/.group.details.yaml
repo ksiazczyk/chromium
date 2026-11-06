@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Wilco DTC policy group details
+# summary: Group metadata providing the caption and description for the Wilco DTC Chrome OS policy group.
+# ---
+
 caption: Wilco DTC
 desc: Controls wilco diagnostics and telemetry controller settings.

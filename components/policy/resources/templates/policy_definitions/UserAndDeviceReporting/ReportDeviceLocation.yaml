@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report device location policy (deprecated)
+# summary: Deprecated policy definition that would have enrolled devices periodically report their location; reporting stays off when the policy is unset or disabled.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report device location
 deprecated: true

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Safe Browsing proxied real time checks policy definition
+# summary: Defines the Chrome policy controlling whether Safe Browsing standard protection may send partial URL hashes to Google through a privacy-preserving proxy for higher-protection lookups.
+# ---
+
 caption: Allow Safe Browsing Proxied Real Time Checks
 default: true
 desc: |-

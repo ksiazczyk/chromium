@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allowed local authentication factors policy
+# summary: Defines the ChromeOS policy that controls which local authentication factors, such as PIN or local password, can be used for login and reauthentication.
+# ---
+
 caption: Configure allowed local authentication factors
 desc: |-
   Setting the policy controls which local authentication factors can be used for both login and reauthentication on <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph>.

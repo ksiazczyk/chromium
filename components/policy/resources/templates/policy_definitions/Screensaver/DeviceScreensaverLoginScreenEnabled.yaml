@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device screensaver login screen enabled policy definition
+# summary: Defines the device-only ChromeOS policy that enables a screensaver on the login screen, defaulting to false and supported since ChromeOS 116.
+# ---
+
 caption: Device screensaver login screen enabled.
 default: false
 desc: |-

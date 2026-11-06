@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helper functions for the policy page
+// summary: Exposes window functions that let tests query policy tables, rows, status boxes and trigger policy reloads in the UI.
+// ---
+
 import './policy_app.js';
 
 import type {PolicyPrecedenceRowElement} from './policy_precedence_row.js';

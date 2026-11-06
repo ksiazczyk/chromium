@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy row Lit HTML template
+// summary: Lit HTML template for the policy-row element rendering name, value, source, scope, level, messages and expandable detail rows.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {PolicyRowElement} from './policy_row.js';

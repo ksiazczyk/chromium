@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: App inventory reporting
+# summary: Chrome OS policy controlling app install, launch and uninstall event reporting for affiliated users, selecting app types such as Chrome apps, Android apps, Linux apps and PWAs.
+# ---
+
 caption: App inventory reporting
 default: []
 desc: |-

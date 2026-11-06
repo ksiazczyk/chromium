@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SkyVault policy atomic group definitions
+# summary: Defines the SkyVaultSettings atomic group bundling the LocalUserFilesAllowed and LocalUserFilesMigrationDestination policies.
+# ---
+
 SkyVaultSettings:
   caption: Local user data storage settings
   policies:

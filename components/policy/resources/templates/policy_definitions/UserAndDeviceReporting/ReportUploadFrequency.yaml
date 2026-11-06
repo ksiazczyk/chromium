@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device status report upload frequency policy definition
+# summary: Defines the policy setting how frequently device status report uploads are sent in milliseconds, with a minimum of 60 seconds and a default of 3 hours.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Frequency of device status report uploads
 desc: |-

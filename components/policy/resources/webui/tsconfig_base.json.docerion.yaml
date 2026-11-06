@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript base configuration for the policy WebUI
+summary: TypeScript configuration extending the shared Lit base config while disabling unused-locals and strict property initialization checks.

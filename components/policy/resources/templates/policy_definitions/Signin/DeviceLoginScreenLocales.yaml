@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenLocales policy
+# summary: Defines a ChromeOS device policy that enforces the locale displayed on the device sign-in screen.
+# ---
+
 caption: Device sign-in screen locale
 desc: |-
   Configures the locale which is enforced on the <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> sign-in screen.

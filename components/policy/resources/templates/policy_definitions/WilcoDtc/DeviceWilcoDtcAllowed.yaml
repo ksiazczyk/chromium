@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceWilcoDtcAllowed policy definition
+# summary: Defines the deprecated device-only policy that turns collecting and reporting of Wilco diagnostics and telemetry controller data on or off on Chrome OS 74-122.
+# ---
+
 caption: Allows wilco diagnostics and telemetry controller
 deprecated: true
 desc: |-

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy precedence row element
+// summary: Defines the policy-precedence-row Lit element that displays the policy precedence order as a table row.
+// ---
+
 import '/strings.m.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

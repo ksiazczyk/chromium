@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Telemetry data to report on signal strength event
+# summary: Chrome OS device policy definition listing telemetry data, such as network telemetry and HTTPS latency, to be reported on signal strength change events.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Telemetry data to report on signal strength event.
 desc: |-

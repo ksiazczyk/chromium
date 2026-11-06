@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Authentication flow auto-reload interval policy
+# summary: Defines the ChromeOS device policy that sets the interval in minutes for automatically reloading login and lock screen authentication flows, up to one week.
+# ---
+
 caption: Automatically reload authentication flow on ChromeOS
 
 default: null

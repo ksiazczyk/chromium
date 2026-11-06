@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report device security status
+# summary: Chrome OS device policy definition that controls whether enrolled devices record and report TPM security status.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report device security status
 default: false

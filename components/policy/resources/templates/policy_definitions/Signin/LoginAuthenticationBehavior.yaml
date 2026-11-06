@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'LoginAuthenticationBehavior: configure the login authentication behavior'
+# summary: Defines the ChromeOS policy that selects between the default GAIA flow and redirecting to a SAML IdP for login authentication.
+# ---
+
 caption: Configure the login authentication behavior
 desc: |-
   When this policy is set, the login authentication flow will be in one of the following ways depending on the value of the setting:

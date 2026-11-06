@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeBrowsingDeepScanningEnabled policy definition
+# summary: Policy definition allowing suspicious downloads from Safe Browsing-enabled users to be sent to Google for deep malware scanning.
+# ---
+
 caption: Allow download deep scanning for Safe Browsing-enabled users
 default: true
 desc: |-

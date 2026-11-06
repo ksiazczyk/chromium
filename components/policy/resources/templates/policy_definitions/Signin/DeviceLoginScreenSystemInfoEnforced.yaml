@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenSystemInfoEnforced policy
+# summary: Defines a ChromeOS device policy that forces the sign-in screen to show or hide system information such as the ChromeOS version and serial number.
+# ---
+
 caption: Force the sign-in screen to show or hide system information.
 default: null
 desc: |-

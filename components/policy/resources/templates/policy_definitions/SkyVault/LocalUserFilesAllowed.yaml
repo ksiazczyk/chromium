@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LocalUserFilesAllowed policy definition
+# summary: ChromeOS policy definition that controls whether users may store data locally on the device, defaulting to allowed.
+# ---
+
 caption: Enable local user files
 default: true
 desc: |-

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device activity heartbeat collection rate in milliseconds
+# summary: Policy setting the rate at which device activity state is collected on enrolled devices for affiliated users, defaulting to 15 minutes.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Device activity heartbeat collection rate in milliseconds.
 default: 900000

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable device activity heartbeat reporting
+# summary: Policy controlling whether device activity state is reported on enrolled devices so the server can detect offline devices for affiliated users.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Enable device activity heartbeat reporting
 default: false

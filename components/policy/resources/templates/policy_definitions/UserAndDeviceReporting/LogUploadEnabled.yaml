@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Send system logs to the management server
+# summary: Chrome OS device policy that controls uploading system logs to the management server for admin monitoring, disabled by default and supported since Chrome OS 46.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Send system logs to the management server
 desc: |-

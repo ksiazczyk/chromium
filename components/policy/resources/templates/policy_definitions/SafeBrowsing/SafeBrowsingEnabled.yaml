@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeBrowsingEnabled policy definition (deprecated)
+# summary: Deprecated policy definition for toggling Safe Browsing, replaced by SafeBrowsingProtectionLevel since Chrome 83.
+# ---
+
 caption: Enable Safe Browsing
 deprecated: true
 desc: |-

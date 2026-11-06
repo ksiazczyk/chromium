@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeBrowsingAllowlistDomains policy definition
+# summary: Policy definition listing domains that Safe Browsing trusts and does not check for phishing, malware, or unwanted software.
+# ---
+
 caption: Configure the list of domains on which Safe Browsing will not trigger warnings.
 desc: |-
   Setting the policy to Enabled means Safe Browsing will trust the domains you designate. It won't check them for dangerous resources such as phishing, malware, or unwanted software. Safe Browsing's download protection service won't check downloads hosted on these domains. Its password protection service won't check for password reuse.

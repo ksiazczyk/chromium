@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy logs app element
+// summary: Lit element that fetches policy logs via Mojo or sendWithPromise, filters them by text and severity, and exports them as JSON.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 // </if>

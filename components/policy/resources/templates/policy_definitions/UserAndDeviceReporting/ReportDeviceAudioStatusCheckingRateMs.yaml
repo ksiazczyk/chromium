@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportDeviceAudioStatusCheckingRateMs policy definition
+# summary: Defines the unlisted policy setting the sampling rate in milliseconds for device audio telemetry, with a 15 minute default.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Audio telemetry collection rate in milliseconds.
 default: 900000

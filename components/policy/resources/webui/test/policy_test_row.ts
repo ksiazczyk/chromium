@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy test row element
+// summary: Lit element for a single test policy row handling schema-driven inputs, presets, validation errors and select value syncing.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import type {PropertyValues} from 'chrome://resources/lit/v3_0/lit.rollup.js';

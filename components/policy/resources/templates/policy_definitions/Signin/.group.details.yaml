@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Sign-in settings policy group details
+# summary: Describes the Sign-in policy group, which covers sign-in screen behavior including allowed accounts, authentication methods, accessibility, input methods and locales.
+# ---
+
 caption: Sign-in settings
 desc: Controls the behavior of the sign-in screen, where users log into their accounts.
   Settings include who can log in, what type of accounts are allowed, what authentication

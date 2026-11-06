@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device screensaver login screen images policy definition
+# summary: Defines the policy listing up to 25 JPEG image URLs of at most 8MB each for the login screen screensaver, which the device downloads and caches locally.
+# ---
+
 caption: Device screensaver login screen image source.
 desc: |-
   Configures the list of images to display in the screensaver for the login screen.

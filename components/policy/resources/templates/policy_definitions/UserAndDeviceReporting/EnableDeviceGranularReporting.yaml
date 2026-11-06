@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable granular reporting controls
+# summary: Deprecated Chrome OS device policy that controls whether enrolled devices receive granular reporting controls, enabled by default and supported on Chrome OS 96 to 105.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Enable granular reporting controls
 default: true

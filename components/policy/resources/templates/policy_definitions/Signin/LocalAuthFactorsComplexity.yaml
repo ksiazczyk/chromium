@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'LocalAuthFactorsComplexity: minimum complexity for local PINs and passwords'
+# summary: Defines the ChromeOS policy that sets minimum complexity requirements for local authentication factors such as PINs and local passwords.
+# ---
+
 owners:
 - ghostbusters@google.com
 

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeBrowsingProtectionLevel policy definition
+# summary: 'Policy definition selecting the Safe Browsing mode: no protection, standard protection, or enhanced protection.'
+# ---
+
 arc_support: This policy is not supported within Arc.
 caption: Safe Browsing Protection Level
 desc: |-

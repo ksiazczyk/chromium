@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SafeBrowsingExtendedReportingEnabled policy definition (deprecated)
+# summary: Deprecated policy definition for Safe Browsing Extended Reporting, which has had no effect since M145 after the feature was removed.
+# ---
+
 arc_support: This policy is not supported within Arc.
 caption: Enable Safe Browsing Extended Reporting
 default: null

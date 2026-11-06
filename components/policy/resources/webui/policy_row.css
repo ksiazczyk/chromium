@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Policy row styles
+summary: Stylesheet for the policy-row element with a grid layout for policy table rows, expanded detail rows and responsive rules.
+*/
+
 /*
  * TODO(crbug.com/521988139): some styles below are duplicated across a few and
  * HTMLCSS files (policy_row, policy_precedence_row, policy_conflict,

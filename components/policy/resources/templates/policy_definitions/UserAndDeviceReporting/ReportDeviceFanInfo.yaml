@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ReportDeviceFanInfo policy definition
+# summary: Defines the Chrome OS policy controlling whether a device's fan information is reported.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report fan info
 desc: |-

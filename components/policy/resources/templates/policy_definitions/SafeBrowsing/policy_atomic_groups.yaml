@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Safe Browsing policy atomic groups
+# summary: Groups Safe Browsing and password protection policies into atomic policy groups used when generating policy templates.
+# ---
+
 PasswordProtection:
   caption: Password protection
   policies:

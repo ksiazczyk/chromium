@@ -1,0 +1,4 @@
+# Docerion header of policy_logs.html.
+type: source
+title: Policy Logs WebUI HTML page
+summary: HTML entry page for the policy logs viewer that loads the app element, shared styles and the module script.

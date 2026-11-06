@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the policy app element
+// summary: Renders the policy page's toolbar, action menu, status boxes, policy tables and platform-conditional warning and promotion banners.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {PolicyAppElement} from './policy_app.js';

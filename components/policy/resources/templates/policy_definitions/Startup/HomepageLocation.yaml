@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: HomepageLocation policy definition
+# summary: Defines the Chrome policy that sets the default home page URL and prevents users from changing it.
+# ---
+
 caption: Configure the home page URL
 desc: |-
   Setting the policy sets the default homepage URL in <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph>. You open the homepage using the Home button. On desktop, the <ph name="RESTORE_ON_STARTUP_POLICY_NAME">RestoreOnStartup</ph> policies control the pages that open on startup.

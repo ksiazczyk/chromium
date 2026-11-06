@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Extensible Enterprise SSO identity provider blocklist policy
+# summary: Defines the Chrome on macOS policy listing identity providers such as Microsoft and Okta that are blocked from using Extensible Enterprise SSO for single sign-on.
+# ---
+
 caption: Blocklist of identity providers that cannot use Extensible Enterprise SSO for the browser
 
 desc: |-

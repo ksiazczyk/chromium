@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: ScreenCaptureAllowedByOrigins policy definition
+# summary: Defines a list policy of URL patterns whose sites may use desktop, window, and tab capture, overriding the ScreenCaptureAllowed policy.
+# ---
+
 caption: Allow Desktop, Window, and Tab capture by these origins
 desc: |-
   Setting the policy lets you set a list of URL patterns that can use Desktop, Window, and Tab Capture.

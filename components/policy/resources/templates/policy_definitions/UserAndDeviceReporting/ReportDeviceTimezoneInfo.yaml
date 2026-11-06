@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report Timezone info
+# summary: Chrome OS device policy definition that controls whether a device's currently set timezone is reported.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report Timezone info
 desc: |-

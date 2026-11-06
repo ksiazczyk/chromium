@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report information about active kiosk sessions
+# summary: Chrome OS device policy definition that controls whether enrolled devices report active kiosk session information such as application ID and version.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report information about active kiosk sessions
 desc: |-

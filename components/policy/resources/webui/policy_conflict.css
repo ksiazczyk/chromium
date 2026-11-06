@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Policy conflict row styles
+summary: Styles the expanded conflict and value rows shown beneath policies with conflicting or superseded values, including responsive layout.
+*/
+
 /*
  * TODO(crbug.com/521988139): some styles below are duplicated across a few and
  * HTML and CSS files (policy_row, policy_precedence_row, policy_conflict,

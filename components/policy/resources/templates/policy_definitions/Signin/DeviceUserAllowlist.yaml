@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Login user allow list policy
+# summary: Defines the ChromeOS device policy listing which users may sign in to the device, with wildcard domain entries and notes on Family Link and Android account behavior.
+# ---
+
 arc_support: This policy controls who may start a <ph name="PRODUCT_OS_NAME">$2<ex>ChromiumOS</ex></ph>
   session. It does not prevent users from signing in to additional Google accounts
   within Android. If you want to prevent this, configure the Android-specific <ph

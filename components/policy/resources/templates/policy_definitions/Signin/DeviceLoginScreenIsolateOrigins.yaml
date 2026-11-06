@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: DeviceLoginScreenIsolateOrigins policy
+# summary: Defines a deprecated ChromeOS device policy, removed in M77, that enabled site isolation for specified origins on the sign-in screen.
+# ---
+
 caption: Enable Site Isolation for specified origins
 deprecated: true
 desc: "\n      This policy was removed in M77.\n      This policy applies to the sign-in\

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Report network status policy
+# summary: Policy definition that controls whether enrolled devices report their network status; enabled by default.
+# ---
+
 arc_support: This policy has no effect on the logging done by Android.
 caption: Report network status
 default: true

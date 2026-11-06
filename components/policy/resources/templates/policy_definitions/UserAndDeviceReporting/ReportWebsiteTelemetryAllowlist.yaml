@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Website telemetry reporting allowlist policy definition
+# summary: Defines the URL allowlist controlling website telemetry reporting for affiliated users, with data types governed by the ReportWebsiteTelemetry policy.
+# ---
+
 caption: Website telemetry reporting allowlist
 default: []
 desc: |-
