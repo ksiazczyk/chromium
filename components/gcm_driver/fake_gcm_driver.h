@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM driver declaration
+// summary: Declares FakeGCMDriver, a stub GCMDriver subclass used in tests.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_FAKE_GCM_DRIVER_H_
 #define COMPONENTS_GCM_DRIVER_FAKE_GCM_DRIVER_H_
 

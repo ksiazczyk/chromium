@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer interface for find results
+// summary: Declares FindResultObserver, an observer interface notified when find results are available, the search text is empty, or the FindTabHelper is destroyed.
+// ---
+
 #ifndef COMPONENTS_FIND_IN_PAGE_FIND_RESULT_OBSERVER_H_
 #define COMPONENTS_FIND_IN_PAGE_FIND_RESULT_OBSERVER_H_
 

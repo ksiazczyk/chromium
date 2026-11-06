@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM message cryptographer class declaration
+// summary: Declares the GCMMessageCryptographer class, which encrypts and decrypts GCM messages using a selectable version of the IETF Web Push encryption scheme.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_GCM_MESSAGE_CRYPTOGRAPHER_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_GCM_MESSAGE_CRYPTOGRAPHER_H_
 

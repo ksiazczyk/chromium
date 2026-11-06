@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GapisManager singleton header
+// summary: Declares the GapisManager singleton class that manages obtained app tokens.
+// ---
+
 #ifndef COMPONENTS_GAPIS_GAPIS_MANAGER_H_
 #define COMPONENTS_GAPIS_GAPIS_MANAGER_H_
 

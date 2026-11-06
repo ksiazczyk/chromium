@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenDownloader unit tests
+// summary: Unit tests for TokenDownloader covering successful token download, HTTP failure returning an empty token, and timeout behavior using a test URL loader factory and mock time.
+// ---
+
 #include "components/gapis/token_downloader.h"
 
 #include <string>

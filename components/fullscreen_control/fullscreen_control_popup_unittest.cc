@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen control popup unit tests
+// summary: Widget-based unit tests verifying animated and immediate show and hide behavior, visibility, and final popup bounds of the fullscreen control popup.
+// ---
+
 #include "components/fullscreen_control/fullscreen_control_popup.h"
 
 #include <memory>

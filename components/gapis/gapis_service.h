@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GapisService class declaration
+// summary: Declares the GapisService keyed service interface for fetching app tokens, including CDM challenge signing and access token fetching.
+// ---
+
 #ifndef COMPONENTS_GAPIS_GAPIS_SERVICE_H_
 #define COMPONENTS_GAPIS_GAPIS_SERVICE_H_
 

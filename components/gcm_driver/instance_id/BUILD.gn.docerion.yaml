@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Instance ID component
+summary: Defines the instance_id static library, test support and unit test targets, selecting Android or default implementation sources based on the build configuration.

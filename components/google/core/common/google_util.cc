@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google URL utility implementation
+// summary: Implements helpers that detect Google homepages, search URLs, and hostnames using TLD lists, subdomain and port rules, and command-line overrides.
+// ---
+
 #include "components/google/core/common/google_util.h"
 
 #include <stddef.h>

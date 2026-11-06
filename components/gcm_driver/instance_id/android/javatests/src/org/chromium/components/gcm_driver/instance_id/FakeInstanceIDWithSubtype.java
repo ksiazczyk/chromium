@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake InstanceIDWithSubtype for Android tests
+// summary: Provides an in-memory fake of InstanceIDWithSubtype for Android tests, avoiding network and filesystem access and offering helpers to inspect created instance IDs and tokens.
+// ---
+
 package org.chromium.components.gcm_driver.instance_id;
 
 import android.util.Pair;

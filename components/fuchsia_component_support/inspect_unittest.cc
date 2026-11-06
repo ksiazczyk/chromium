@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for publishing version info to Inspect
+// summary: Unit test verifying that PublishVersionInfoToInspect writes the version number and last change revision into an Inspect hierarchy.
+// ---
+
 #include "components/fuchsia_component_support/inspect.h"
 
 #include <lib/inspect/cpp/hierarchy.h>

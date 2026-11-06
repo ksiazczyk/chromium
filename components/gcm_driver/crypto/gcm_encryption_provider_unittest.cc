@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the GCM encryption provider
+// summary: Tests encryption info retrieval, message decryption and handling of valid and invalid encryption and crypto-key headers.
+// ---
+
 #include "components/gcm_driver/crypto/gcm_encryption_provider.h"
 
 #include <stddef.h>

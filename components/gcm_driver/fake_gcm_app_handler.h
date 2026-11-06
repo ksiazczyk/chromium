@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM app handler class declaration
+// summary: Declares the FakeGCMAppHandler test double that captures GCM app handler events and exposes received data for verification.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_FAKE_GCM_APP_HANDLER_H_
 #define COMPONENTS_GCM_DRIVER_FAKE_GCM_APP_HANDLER_H_
 

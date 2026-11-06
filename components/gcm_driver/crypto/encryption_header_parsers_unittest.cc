@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the encryption header parsers
+// summary: Tests parsing of valid, multi-value and invalid Encryption and Crypto-Key header values.
+// ---
+
 #include "components/gcm_driver/crypto/encryption_header_parsers.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for gcm_driver
+summary: Whitelists the headers and dependencies that code in the gcm_driver directory may include, with several rules restricted to test usage.

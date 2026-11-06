@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen control popup class declaration
+// summary: Declares FullscreenControlPopup, a helper that owns a FullscreenControlView in a widget and animates its show and hide behavior.
+// ---
+
 #ifndef COMPONENTS_FULLSCREEN_CONTROL_FULLSCREEN_CONTROL_POPUP_H_
 #define COMPONENTS_FULLSCREEN_CONTROL_FULLSCREEN_CONTROL_POPUP_H_
 

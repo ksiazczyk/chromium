@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMClient interface for Google Cloud Messaging server communication
+// summary: Defines the GCMClient interface that encapsulates network communication with the GCM server, including start modes, result codes, statistics, and delegate callbacks.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_CLIENT_H_
 #define COMPONENTS_GCM_DRIVER_GCM_CLIENT_H_
 

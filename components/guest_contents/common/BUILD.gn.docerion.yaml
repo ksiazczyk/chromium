@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for guest_contents common
+summary: GN build file defining the guest contents buildflag header and the mojom bindings target for guest_contents.mojom.

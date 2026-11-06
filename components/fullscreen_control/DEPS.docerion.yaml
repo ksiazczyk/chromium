@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Fullscreen control dependency include rules
+summary: Lists the include paths allowed for the fullscreen_control component, such as cc/paint, components/color, skia, and ui.

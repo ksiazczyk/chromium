@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GuestContentsHandle unit tests
+// summary: Unit tests covering handle creation, ID lookup, uniqueness, and attaching and detaching guest WebContents to an outer WebContents.
+// ---
+
 #include "components/guest_contents/browser/guest_contents_handle.h"
 
 #include <algorithm>

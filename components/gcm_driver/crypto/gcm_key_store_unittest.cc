@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCM key store unit tests
+// summary: Unit tests for the GCM key store covering key creation, retrieval, removal, database upgrades from legacy formats, and persistence across re-opened stores.
+// ---
+
 #include "components/gcm_driver/crypto/gcm_key_store.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM profile service class declaration
+// summary: Declares GCMProfileService, a KeyedService that provides GCM service through a GCMDriver with platform-specific construction for Android and desktop builds.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_PROFILE_SERVICE_H_
 #define COMPONENTS_GCM_DRIVER_GCM_PROFILE_SERVICE_H_
 

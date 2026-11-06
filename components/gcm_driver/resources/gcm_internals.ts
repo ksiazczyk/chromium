@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM Internals page logic
+// summary: TypeScript controller that renders device info and log tables on the GCM Internals page and sends browser requests to refresh data, toggle recording, and clear logs.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 // </if>

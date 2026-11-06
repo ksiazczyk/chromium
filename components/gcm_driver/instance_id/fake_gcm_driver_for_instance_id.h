@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM driver for Instance ID class declaration
+// summary: Declares FakeGCMDriverForInstanceID, a test double exposing Instance ID token operations, connection observers and token checks.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_INSTANCE_ID_FAKE_GCM_DRIVER_FOR_INSTANCE_ID_H_
 #define COMPONENTS_GCM_DRIVER_INSTANCE_ID_FAKE_GCM_DRIVER_FOR_INSTANCE_ID_H_
 

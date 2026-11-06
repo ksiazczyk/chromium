@@ -4,6 +4,12 @@
 //
 // Some Google related utility functions.
 
+// ---docerion
+// type: source
+// title: Google URL utility API declarations
+// summary: Declares Google URL helpers such as hostname and search URL checks, the GoogleSearchMode enum, locale parameter functions, and command-line base URL access.
+// ---
+
 #ifndef COMPONENTS_GOOGLE_CORE_COMMON_GOOGLE_UTIL_H_
 #define COMPONENTS_GOOGLE_CORE_COMMON_GOOGLE_UTIL_H_
 

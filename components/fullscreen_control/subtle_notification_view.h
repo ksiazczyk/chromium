@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubtleNotificationView class declaration
+// summary: Declares SubtleNotificationView, an auto-dismissing transparent notification bubble that displays instructions with keyboard key styling.
+// ---
+
 #ifndef COMPONENTS_FULLSCREEN_CONTROL_SUBTLE_NOTIFICATION_VIEW_H_
 #define COMPONENTS_FULLSCREEN_CONTROL_SUBTLE_NOTIFICATION_VIEW_H_
 

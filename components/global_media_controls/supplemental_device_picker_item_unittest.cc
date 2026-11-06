@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supplemental device picker item unit tests
+// summary: Unit tests verifying the item's source type, dismissal behavior, and view updates with metadata, artwork, and favicon images.
+// ---
+
 #include "components/global_media_controls/supplemental_device_picker_item.h"
 
 #include "base/unguessable_token.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for guest contents browser
+summary: Specifies allowed include paths for the guest contents browser directory, with extra test-only dependencies for test files.

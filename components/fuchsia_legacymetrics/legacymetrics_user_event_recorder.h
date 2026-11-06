@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyMetrics user event recorder header
+// summary: Declares LegacyMetricsUserActionRecorder, which captures Chromium user action events and converts them into fuchsia.legacymetrics UserActionEvent entries with a capped local buffer.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_LEGACYMETRICS_LEGACYMETRICS_USER_EVENT_RECORDER_H_
 #define COMPONENTS_FUCHSIA_LEGACYMETRICS_LEGACYMETRICS_USER_EVENT_RECORDER_H_
 

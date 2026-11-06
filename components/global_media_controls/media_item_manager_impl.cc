@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media item manager implementation
+// summary: Implements MediaItemManager, coordinating item producers, dialog delegates, and observers to show and hide media items.
+// ---
+
 #include "components/global_media_controls/media_item_manager_impl.h"
 
 #include <memory>

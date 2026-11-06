@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM connection observer implementation
+// summary: Provides default no-op implementations of the GCMConnectionObserver OnConnected and OnDisconnected callbacks.
+// ---
+
 #include "components/gcm_driver/gcm_connection_observer.h"
 
 namespace gcm {

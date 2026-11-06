@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindNotificationDetails
+// summary: Java equivalent of the C++ FindNotificationDetails class that carries find result update data such as match count, selection rect, active match ordinal, and final update flag.
+// ---
+
 package org.chromium.components.find_in_page;
 
 import android.graphics.Rect;

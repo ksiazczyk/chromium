@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyMetricsClient implementation
+// summary: Implements the client that batches and reports events and histogram data to the fuchsia.legacymetrics.MetricsRecorder service, with reconnection backoff and flush handling.
+// ---
+
 #include "components/fuchsia_legacymetrics/legacymetrics_client.h"
 
 #include <lib/fit/function.h>

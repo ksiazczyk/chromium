@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the google component
+summary: Defines the allowed include dependencies for components/google, permitting headers from components/url_formatter and net.

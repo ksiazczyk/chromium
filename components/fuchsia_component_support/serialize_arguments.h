@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerializeArguments header
+// summary: Declares SerializeArguments, which converts a command line into a byte sequence, complementing AppendArgumentsFromFile.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_SERIALIZE_ARGUMENTS_H_
 #define COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_SERIALIZE_ARGUMENTS_H_
 

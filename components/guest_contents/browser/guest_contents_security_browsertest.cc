@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest contents security browser tests
+// summary: Browser tests verifying security behavior of attaching guest WebContents across outer, inner, and attacker origins over an embedded HTTPS test server.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

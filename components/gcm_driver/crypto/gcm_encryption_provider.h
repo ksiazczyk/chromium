@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM encryption provider declarations
+// summary: Declares the provider that manages P-256 keys and auth secrets and decrypts or encrypts GCM messages for the GCM driver.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_GCM_ENCRYPTION_PROVIDER_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_GCM_ENCRYPTION_PROVIDER_H_
 

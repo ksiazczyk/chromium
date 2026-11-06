@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped fake InstanceID helper for Android tests
+// summary: Test helper that enables a fake Android InstanceID implementation for the duration of its scope, avoiding network and disk access in tests.
+// ---
+
 #include "components/gcm_driver/instance_id/scoped_use_fake_instance_id_android.h"
 
 #include "base/android/jni_android.h"

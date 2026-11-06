@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android GCM stats recorder
+// summary: Tests that GCMStatsRecorderAndroid records activities, notifies its delegate, and supports clearing and disabled recording.
+// ---
+
 #include "components/gcm_driver/gcm_stats_recorder_android.h"
 
 #include <stddef.h>

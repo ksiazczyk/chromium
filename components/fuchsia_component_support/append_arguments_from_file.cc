@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppendArgumentsFromFile implementation
+// summary: Reads a JSON file containing an argv list and appends the serialized arguments to a given command line.
+// ---
+
 #include "components/fuchsia_component_support/append_arguments_from_file.h"
 
 #include <memory>

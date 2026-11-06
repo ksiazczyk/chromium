@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption and Crypto-Key header parser declarations
+// summary: Declares iterators for parsing Encryption and Crypto-Key HTTP headers per the encrypted content-encoding draft and RFC 7230 list syntax.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_ENCRYPTION_HEADER_PARSERS_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_ENCRYPTION_HEADER_PARSERS_H_
 

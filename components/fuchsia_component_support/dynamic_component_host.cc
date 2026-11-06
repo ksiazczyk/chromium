@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic Fuchsia component host implementation
+// summary: Implements DynamicComponentHost, which creates and manages dynamic child components in a Realm collection and offers an optional svc directory to them.
+// ---
+
 #include "components/fuchsia_component_support/dynamic_component_host.h"
 
 #include <fuchsia/io/cpp/fidl.h>

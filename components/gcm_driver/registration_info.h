@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registration info class declarations
+// summary: Declares RegistrationInfo with GCM registration and Instance ID token variants used to register applications with the server.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_REGISTRATION_INFO_H_
 #define COMPONENTS_GCM_DRIVER_REGISTRATION_INFO_H_
 

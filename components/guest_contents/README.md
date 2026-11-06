@@ -1,3 +1,13 @@
+---
+type: readme
+title: GuestContents core concepts and how-to guide
+summary: Explains the experimental GuestContents component for embedding a guest WebContents in a WebUI, including setup steps, comparison with GuestView, and security considerations.
+relations:
+  - references /ui/webui/examples/README.md
+  - references /ui/webui/examples/browser/content_browser_client.cc
+  - references /ui/webui/examples/browser/ui/web/browser.h
+---
+
 `GuestContents` is an experimental component that allows you to embed an
 independent `content::WebContents` (a "guest") within an outer
 `content::WebContents`, which is typically a WebUI page. This is useful for

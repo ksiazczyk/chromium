@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android InstanceID implementation
+// summary: Implements InstanceID on Android by delegating ID and token operations to a Java InstanceIDBridge over JNI.
+// ---
+
 #include "components/gcm_driver/instance_id/instance_id_android.h"
 
 #include <stdint.h>

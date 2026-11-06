@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen feature flag declarations
+// summary: Declares feature flags for the fullscreen bubble's opaque background and for showing the origin domain in HTML fullscreen.
+// ---
+
 #ifndef COMPONENTS_FULLSCREEN_CONTROL_FULLSCREEN_FEATURES_H_
 #define COMPONENTS_FULLSCREEN_CONTROL_FULLSCREEN_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop GCMDriver implementation
+// summary: Implements GCMDriverDesktop and its IOWorker delegate, managing the desktop GCM client, connection state, observers, account mappings and encryption on desktop platforms.
+// ---
+
 #include "components/gcm_driver/gcm_driver_desktop.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM client implementation header
+// summary: Declares GCMClientImpl, which coordinates the MCS client and GCM infrastructure such as registration and checkins, with its state enum and GCMClient overrides.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_CLIENT_IMPL_H_
 #define COMPONENTS_GCM_DRIVER_GCM_CLIENT_IMPL_H_
 

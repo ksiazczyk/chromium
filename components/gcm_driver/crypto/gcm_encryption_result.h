@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM encryption result enum
+// summary: Defines the GCMEncryptionResult enum listing outcome reasons for encrypting outgoing messages, with stable values recorded through UMA histograms.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_CRYPTO_GCM_ENCRYPTION_RESULT_H_
 #define COMPONENTS_GCM_DRIVER_CRYPTO_GCM_ENCRYPTION_RESULT_H_
 

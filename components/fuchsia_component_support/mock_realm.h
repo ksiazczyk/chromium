@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockRealm header for mocking fuchsia.component Realm
+// summary: Declares MockRealm, a gmock-based mock of fuchsia.component/Realm for validating component realm interactions in tests.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_MOCK_REALM_H_
 #define COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_MOCK_REALM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obtain token protobuf definitions
+// summary: Proto2 schema defining ObtainTokenRequest and ObtainTokenResponse messages for the gapis component's token exchange.
+// ---
+
 syntax = "proto2";
 
 package gapis_pb;

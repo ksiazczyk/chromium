@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google command-line switch definitions
+// summary: Defines command-line switches for overriding the Google base URL and for ignoring Google port numbers when testing with the embedded test server.
+// ---
+
 #include "components/google/core/common/google_switches.h"
 
 namespace switches {

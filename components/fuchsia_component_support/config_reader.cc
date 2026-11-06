@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia package config reader implementation
+// summary: Reads and merges all *.json files from the component's /config/data directory into a single cached dictionary, CHECK-failing on malformed or conflicting configs.
+// ---
+
 #include "components/fuchsia_component_support/config_reader.h"
 
 #include <string>

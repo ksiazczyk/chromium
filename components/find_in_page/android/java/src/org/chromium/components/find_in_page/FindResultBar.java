@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindResultBar
+// summary: Android view that displays tickmarks for the positions of find-in-page matches along a bar and supports scrubbing and activation of results, with visibility animations and touch handling.
+// ---
+
 package org.chromium.components.find_in_page;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

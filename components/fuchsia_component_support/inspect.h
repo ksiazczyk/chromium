@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inspect version info publisher API
+// summary: Declares PublishVersionInfoToInspect, which records Chromium version strings on a caller-owned Inspect node.
+// ---
+
 #ifndef COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_INSPECT_H_
 #define COMPONENTS_FUCHSIA_COMPONENT_SUPPORT_INSPECT_H_
 

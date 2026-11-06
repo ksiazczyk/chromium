@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwapRenderFrame implementation for guest contents
+// summary: Implements the renderer-side service that connects to the browser's GuestContentsHost and requests swapping a render frame with a guest WebContents main frame.
+// ---
+
 #include "components/guest_contents/renderer/swap_render_frame.h"
 
 #include <memory>

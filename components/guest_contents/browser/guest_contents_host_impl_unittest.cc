@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: GuestContentsHostImpl unit tests
+// summary: Unit tests that exercise the GuestContentsHostImpl Attach mojo call and verify the guest WebContents is attached to the outer WebContents.
+// ---
+
 #include "components/guest_contents/browser/guest_contents_host_impl.h"
 
 #include <algorithm>

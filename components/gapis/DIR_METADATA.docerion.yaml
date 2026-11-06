@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker mapping for gapis
+summary: Maps the gapis directory to the Services>Sync Monorail component and a Buganizer component for issue tracking.

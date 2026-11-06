@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GCM driver Android build file
+summary: GN build file defining JNI header generation, the gcm_driver_java Android library, and Robolectric JUnit tests for the GCM driver component.

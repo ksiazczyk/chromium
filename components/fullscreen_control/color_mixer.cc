@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen notification color mixer implementation
+// summary: Adds a color mixer to a color provider that defines the opaque and transparent fullscreen notification background colors.
+// ---
+
 #include "components/fullscreen_control/color_mixer.h"
 
 #include "components/color/color_id.h"

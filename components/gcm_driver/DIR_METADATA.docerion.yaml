@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for gcm_driver
+summary: Maps the directory to the Services>CloudMessaging Monorail component, the platform-capabilities team email, and a Buganizer component ID.

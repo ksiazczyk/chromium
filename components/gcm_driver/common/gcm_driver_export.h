@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM driver export macro header
+// summary: Declares the GCM_DRIVER_EXPORT macro that controls DLL import and export of the component on Windows and other platforms.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_COMMON_GCM_DRIVER_EXPORT_H_
 #define COMPONENTS_GCM_DRIVER_COMMON_GCM_DRIVER_EXPORT_H_
 

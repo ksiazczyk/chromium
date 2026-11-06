@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM client factory implementation
+// summary: Implements GCMClientFactory::BuildInstance, which constructs GCMClientImpl instances wrapped in an FcmInternalsBuilder.
+// ---
+
 #include "components/gcm_driver/gcm_client_factory.h"
 
 #include "components/fcm/engine/fcm_internals_builder.h"

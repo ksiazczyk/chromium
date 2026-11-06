@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RFC 8291 message encryption
+// summary: Tests RFC 8291 payload encryption round trips, including large payloads and verification of header fields, using the GCM message cryptographer.
+// ---
+
 #include "components/gcm_driver/crypto/rfc8291_util.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of config.gni.
+type: config
+title: Build argument for platform GCM
+summary: Declares the use_gcm_from_platform GN argument that enables the native platform GCM client on Android builds and asserts it is only used there.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Global Media Controls directory metadata
+summary: Declares the bug tracker component and team email address used for issues in this directory.

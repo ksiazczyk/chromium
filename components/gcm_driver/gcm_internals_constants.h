@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM internals WebUI constant declarations
+// summary: Declares extern string constants shared with the gcm-internals WebUI resource files for message handlers and GCM internal info keys.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_INTERNALS_CONSTANTS_H_
 #define COMPONENTS_GCM_DRIVER_GCM_INTERNALS_CONSTANTS_H_
 

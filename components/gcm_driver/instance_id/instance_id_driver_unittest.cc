@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstanceIDDriver unit tests
+// summary: Unit tests for InstanceIDDriver, covering ID generation, creation time, and token retrieval, validation, and deletion through a fake GCM driver.
+// ---
+
 #include "components/gcm_driver/instance_id/instance_id_driver.h"
 
 #include <stddef.h>

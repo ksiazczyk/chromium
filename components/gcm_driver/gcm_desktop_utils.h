@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop GCM driver factory helper header
+// summary: Declares CreateGCMDriverDesktop, the factory function that builds the desktop GCMDriver implementation for Chrome.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_DESKTOP_UTILS_H_
 #define COMPONENTS_GCM_DRIVER_GCM_DESKTOP_UTILS_H_
 

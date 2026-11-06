@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the gapis component
+summary: Defines the gapis static library and its unit test source set, listing sources and dependencies for the Chromium build.

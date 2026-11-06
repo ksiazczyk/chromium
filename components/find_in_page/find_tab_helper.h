@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindTabHelper header for per-tab find management
+// summary: Declares FindTabHelper, a per-tab WebContentsUserData that starts and stops find-in-page sessions, tracks search text state, and exposes a delegate for search text.
+// ---
+
 #ifndef COMPONENTS_FIND_IN_PAGE_FIND_TAB_HELPER_H_
 #define COMPONENTS_FIND_IN_PAGE_FIND_TAB_HELPER_H_
 

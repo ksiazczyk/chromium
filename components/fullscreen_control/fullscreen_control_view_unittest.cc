@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullscreenControlView unit test
+// summary: Verifies that the exit fullscreen button uses accessible-only focus behavior.
+// ---
+
 #include "components/fullscreen_control/fullscreen_control_view.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

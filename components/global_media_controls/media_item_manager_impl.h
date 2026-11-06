@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media item manager class declaration
+// summary: Declares MediaItemManagerImpl, the MediaItemManager implementation that manages item producers, dialogs, and observers.
+// ---
+
 #ifndef COMPONENTS_GLOBAL_MEDIA_CONTROLS_MEDIA_ITEM_MANAGER_IMPL_H_
 #define COMPONENTS_GLOBAL_MEDIA_CONTROLS_MEDIA_ITEM_MANAGER_IMPL_H_
 

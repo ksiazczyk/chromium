@@ -1,0 +1,4 @@
+# Docerion header of gcm_internals.html.
+type: source
+title: GCM Internals debug page
+summary: HTML page for the GCM Internals debug view, showing device info plus check-in, connection, registration, receive, decryption failure, and send message logs with refresh and recording controls.

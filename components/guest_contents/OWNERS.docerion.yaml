@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for guest_contents
+summary: Lists the Chromium developers responsible for reviewing changes in the guest_contents directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindTabHelper implementation for find sessions
+// summary: Implements FindTabHelper, managing find session lifecycle, observer notifications, and dispatching find and stop-find requests to the WebContents.
+// ---
+
 #include "components/find_in_page/find_tab_helper.h"
 
 #include <utility>

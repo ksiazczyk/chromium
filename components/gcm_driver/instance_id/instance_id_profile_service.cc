@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstanceIDProfileService implementation
+// summary: Implements InstanceIDProfileService, a keyed service that provides Instance ID support to a browser profile via an InstanceIDDriver.
+// ---
+
 #include "components/gcm_driver/instance_id/instance_id_profile_service.h"
 
 #include "base/check.h"

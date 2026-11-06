@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message payload parser implementation
+// summary: Implements parsing and validation of the binary header of Web Push encrypted payloads, extracting the salt, record size, sender public key and ciphertext.
+// ---
+
 #include "components/gcm_driver/crypto/message_payload_parser.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash and feedback product data registration implementation
+// summary: Registers product name, version, and channel data with Fuchsia's crash reporting and feedback services, skipping registration for unofficial or unbranded builds.
+// ---
+
 #include "components/fuchsia_component_support/feedback_registration.h"
 
 #include <fuchsia/feedback/cpp/fidl.h>

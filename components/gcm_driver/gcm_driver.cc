@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCMDriver base implementation
+// summary: Implements the platform-independent GCMDriver core, covering registration and unregistration flows, buffered message limits, and InstanceIDHandler token deletion.
+// ---
+
 #include "components/gcm_driver/gcm_driver.h"
 
 #include <stddef.h>

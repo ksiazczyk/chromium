@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supplemental device picker item class declaration
+// summary: Declares SupplementalDevicePickerItem, a media notification item that updates its view with media session metadata, artwork, and favicon images for presentation requests.
+// ---
+
 #ifndef COMPONENTS_GLOBAL_MEDIA_CONTROLS_SUPPLEMENTAL_DEVICE_PICKER_ITEM_H_
 #define COMPONENTS_GLOBAL_MEDIA_CONTROLS_SUPPLEMENTAL_DEVICE_PICKER_ITEM_H_
 

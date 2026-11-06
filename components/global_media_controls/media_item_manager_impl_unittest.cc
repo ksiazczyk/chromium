@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media item manager unit tests
+// summary: Tests MediaItemManagerImpl item listing, dialog behavior, and histogram recording with mock producers and delegates.
+// ---
+
 #include "components/global_media_controls/media_item_manager_impl.h"
 
 #include <memory>

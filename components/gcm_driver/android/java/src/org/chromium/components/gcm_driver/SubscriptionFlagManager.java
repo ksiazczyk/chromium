@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubscriptionFlagManager
+// summary: Stores and queries per-subscription flags in SharedPreferences so they are available before native code loads.
+// ---
+
 package org.chromium.components.gcm_driver;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android GCMDriver implementation
+// summary: Implements GCMDriver on Android via JNI, relaying registration, unregistration and incoming GCM messages between Chrome and the Java GCMDriver.
+// ---
+
 #include "components/gcm_driver/gcm_driver_android.h"
 
 #include <stddef.h>

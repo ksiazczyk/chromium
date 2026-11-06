@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: P-256 shared secret computation implementation
+// summary: Implements ComputeSharedP256Secret, which derives an ECDH P-256 shared secret between a private key and a peer's uncompressed public point for GCM encryption.
+// ---
+
 #include "components/gcm_driver/crypto/p256_key_util.h"
 
 #include <array>

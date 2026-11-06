@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCMDelayedTaskController unit tests
+// summary: Unit tests verifying that GCMDelayedTaskController delays added tasks until SetReady is called, after which pending tasks are triggered.
+// ---
+
 #include "components/gcm_driver/gcm_delayed_task_controller.h"
 
 #include <memory>

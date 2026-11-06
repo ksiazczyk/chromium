@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GCMDriverDesktop unit tests
+// summary: Unit tests for GCMDriverDesktop covering registration, unregistration, message sending, connection observers, and InstanceID handling using fake GCM clients and app handlers.
+// ---
+
 #include "components/gcm_driver/gcm_driver_desktop.h"
 
 #include <stdint.h>

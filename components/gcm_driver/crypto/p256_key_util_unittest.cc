@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for P-256 shared secret computation
+// summary: Verifies shared secret computation with generated and precomputed P-256 key pairs, including invalid and truncated peer public keys.
+// ---
+
 #include "components/gcm_driver/crypto/p256_key_util.h"
 
 #include "base/base64.h"

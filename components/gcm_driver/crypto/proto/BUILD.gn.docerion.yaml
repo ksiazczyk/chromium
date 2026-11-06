@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the GCM crypto proto library
+summary: GN build file defining a proto_library target for gcm_encryption_data.proto, with visibility limited to the GCM driver crypto code and its unit tests.

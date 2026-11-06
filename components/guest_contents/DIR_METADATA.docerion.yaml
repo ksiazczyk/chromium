@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Buganizer component metadata for guest_contents
+summary: Maps the guest_contents directory to Buganizer component 1681552 for issue tracking.

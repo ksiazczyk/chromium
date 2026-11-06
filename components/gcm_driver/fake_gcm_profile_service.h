@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake GCM profile service declaration
+// summary: Declares FakeGCMProfileService, a test double bridging the GCM API and client layer with call recording and offline simulation.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_FAKE_GCM_PROFILE_SERVICE_H_
 #define COMPONENTS_GCM_DRIVER_FAKE_GCM_PROFILE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM message cryptographer implementation
+// summary: Implements the GCM message cryptographer, encrypting and decrypting payloads with AEAD_AES_128_GCM according to Web Push encryption drafts 03 and 08.
+// ---
+
 #include "components/gcm_driver/crypto/gcm_message_cryptographer.h"
 
 #include <stddef.h>

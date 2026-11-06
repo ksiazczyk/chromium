@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for Android Instance ID driver
+summary: Defines GN targets that generate JNI headers and build the Java Android libraries for the GCM instance ID driver and its test support code.

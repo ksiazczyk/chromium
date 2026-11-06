@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM stats recorder for Android class declaration
+// summary: Declares GCMStatsRecorderAndroid, which records GCM driver registration, message, and decryption activities on Android for debugging.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_STATS_RECORDER_ANDROID_H_
 #define COMPONENTS_GCM_DRIVER_GCM_STATS_RECORDER_ANDROID_H_
 

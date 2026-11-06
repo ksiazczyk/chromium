@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the guest contents renderer
+summary: Defines the static library build target for the guest contents renderer, listing its sources and dependencies on Mojo, Blink, and content APIs.

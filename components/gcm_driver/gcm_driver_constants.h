@@ -5,6 +5,12 @@
 // A handful of resource-like constants related to the GCM(Google Cloud
 // Messaging) Driver.
 
+// ---docerion
+// type: source
+// title: GCM driver constants header
+// summary: Declares resource-like constants for the GCM driver, including the file path of the GCM Store directory.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_DRIVER_CONSTANTS_H_
 #define COMPONENTS_GCM_DRIVER_GCM_DRIVER_CONSTANTS_H_
 

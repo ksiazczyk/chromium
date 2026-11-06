@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for find_in_page
+summary: Specifies the include rules permitting this directory to depend on content public browser and common APIs, blink mojom, and ui/gfx.

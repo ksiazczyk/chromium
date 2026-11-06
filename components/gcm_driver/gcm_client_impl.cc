@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM client implementation
+// summary: Implements GCMClientImpl, coordinating the MCS connection, device checkin, registration, unregistration, and message sending and receiving for GCM.
+// ---
+
 #include "components/gcm_driver/gcm_client_impl.h"
 
 #include <stddef.h>

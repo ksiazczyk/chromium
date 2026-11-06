@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that delegates code ownership of this directory to components/fullscreen_control/OWNERS.

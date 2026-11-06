@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM delayed task controller interface
+// summary: Declares a helper class that holds tasks until the controlled component is ready, then releases all pending tasks at once.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_DELAYED_TASK_CONTROLLER_H_
 #define COMPONENTS_GCM_DRIVER_GCM_DELAYED_TASK_CONTROLLER_H_
 

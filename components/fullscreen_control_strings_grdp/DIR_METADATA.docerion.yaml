@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Fullscreen control strings DIR_METADATA
+summary: Configures issue tracking for the fullscreen control strings directory, assigning the UI>Browser Monorail component and Buganizer public component 1457469.

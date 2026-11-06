@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM app handler interface declaration
+// summary: Declares the GCMAppHandler interface for routing GCM messages, deletions, send errors and acknowledgements to apps.
+// ---
+
 #ifndef COMPONENTS_GCM_DRIVER_GCM_APP_HANDLER_H_
 #define COMPONENTS_GCM_DRIVER_GCM_APP_HANDLER_H_
 

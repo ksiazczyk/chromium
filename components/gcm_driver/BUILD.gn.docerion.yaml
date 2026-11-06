@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GCM driver build targets (BUILD.gn)
+summary: Defines the gcm_driver static library, a test_support target with fake implementations, and unit test sources, with platform-specific sources for Android and desktop builds.

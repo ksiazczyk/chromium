@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Google URL utilities
+// summary: Verifies Google homepage, search URL, and hostname detection behavior across valid and invalid URLs, subdomains, ports, and TLDs.
+// ---
+
 #include "components/google/core/common/google_util.h"
 
 #include "base/command_line.h"

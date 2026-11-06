@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for find_in_page
+summary: Maps the directory to the UI>Browser>FindInPage monorail component and a Buganizer component ID for issue tracking.

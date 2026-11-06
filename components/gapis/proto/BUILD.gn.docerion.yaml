@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the gapis proto library
+summary: GN build file that defines the proto_library target compiling obtain_token.proto with lite runtime settings and extra compiler configs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestContentsHandle implementation
+// summary: Implements GuestContentsHandle, mapping guest IDs to handles and attaching or detaching guest WebContents to an outer WebContents.
+// ---
+
 #include "components/guest_contents/browser/guest_contents_handle.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen control popup implementation
+// summary: Implements the popup widget that shows and hides a FullscreenControlView with a slide and opacity animation from the top of its parent view.
+// ---
+
 #include "components/fullscreen_control/fullscreen_control_popup.h"
 
 #include <memory>

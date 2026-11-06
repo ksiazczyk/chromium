@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for glic
+summary: Chromium DEPS file allowing includes from components/pref_registry within the glic component.

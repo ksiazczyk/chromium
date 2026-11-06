@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Fullscreen control issue tracker metadata
+summary: Maps the directory to the UI>Browser Monorail component and Buganizer component ID 1457469 for bug routing.

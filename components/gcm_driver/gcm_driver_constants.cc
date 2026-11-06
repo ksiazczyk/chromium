@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM driver constants
+// summary: Defines the GCM Store directory name constant used by the GCM driver.
+// ---
+
 #include "components/gcm_driver/gcm_driver_constants.h"
 
 #define FPL FILE_PATH_LITERAL

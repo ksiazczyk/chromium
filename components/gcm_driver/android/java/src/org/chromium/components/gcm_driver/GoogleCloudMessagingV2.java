@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GoogleCloudMessagingV2
+// summary: Implements GCM subscribe and unsubscribe via Google Play Services C2DM intents, including experimental subtype support.
+// ---
+
 package org.chromium.components.gcm_driver;
 
 import android.app.PendingIntent;

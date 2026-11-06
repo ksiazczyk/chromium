@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Find in page result bar dimension resources
+summary: Android resource file defining the dimensions of the find result bar, such as touch and draw widths, minimum heights, padding, and gaps between stacked results.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="find_result_bar_touch_width">68dp</dimen>
     <dimen name="find_result_bar_draw_width">46dp</dimen>

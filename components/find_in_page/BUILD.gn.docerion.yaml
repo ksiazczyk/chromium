@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the find_in_page library
+summary: Defines the find_in_page static library with its sources and dependencies, adding Android bridge sources and JNI headers when building for Android.
