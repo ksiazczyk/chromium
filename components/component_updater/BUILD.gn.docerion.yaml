@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Component updater build targets
+summary: GN build file defining the component updater library, its paths target, test support, and unit test targets with their dependencies.

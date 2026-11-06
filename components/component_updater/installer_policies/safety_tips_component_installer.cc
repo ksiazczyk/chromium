@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety tips component installer policy
+// summary: Implements the installer policy for the Safety Tips component, loading the safety tips proto config and flat URL allowlist from disk into the lookalikes module.
+// ---
+
 #include "components/component_updater/installer_policies/safety_tips_component_installer.h"
 
 #include <stdint.h>

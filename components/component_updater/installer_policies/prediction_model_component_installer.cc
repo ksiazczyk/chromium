@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model component installer policy
+// summary: Implements the installer policy for optimization guide prediction model components, unzipping model archives and notifying the model update listener when the component is ready.
+// ---
+
 #include "components/component_updater/installer_policies/prediction_model_component_installer.h"
 
 #include <stdint.h>

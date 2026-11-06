@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component update service implementation
+// summary: Implements the component update service and supporting types that register components and drive update checks through the update client.
+// ---
+
 #include "components/component_updater/component_updater_service.h"
 
 #include <stdint.h>

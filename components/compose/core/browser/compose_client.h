@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeClient embedder interface
+// summary: Declares the embedder-facing interface for showing the Compose dialog, session checks, nudges, metrics and settings actions.
+// ---
+
 #ifndef COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_CLIENT_H_
 #define COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_CLIENT_H_
 

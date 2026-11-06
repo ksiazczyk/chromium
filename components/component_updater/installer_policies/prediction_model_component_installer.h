@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prediction model component installer header
+// summary: Declares factory and registration functions for prediction model component installer policies used by the optimization guide.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_PREDICTION_MODEL_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_PREDICTION_MODEL_COMPONENT_INSTALLER_H_
 

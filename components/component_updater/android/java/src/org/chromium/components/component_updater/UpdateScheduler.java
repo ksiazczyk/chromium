@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateScheduler
+// summary: Java-side scheduler that schedules, runs, and cancels the component update background task via BackgroundTaskScheduler and a JNI bridge to native code.
+// ---
+
 package org.chromium.components.component_updater;
 
 import org.jni_zero.CalledByNative;

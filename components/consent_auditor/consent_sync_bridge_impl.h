@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent sync bridge class declaration
+// summary: Declares ConsentSyncBridgeImpl, the sync bridge that records user consents, manages deferred events during initialization and exposes the data type controller delegate.
+// ---
+
 #ifndef COMPONENTS_CONSENT_AUDITOR_CONSENT_SYNC_BRIDGE_IMPL_H_
 #define COMPONENTS_CONSENT_AUDITOR_CONSENT_SYNC_BRIDGE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device head suggest component installer implementation
+// summary: Implements the installer policy for the on-device head suggest omnibox model, validating locale-specific manifests and notifying the model update listener when ready.
+// ---
+
 #include "components/component_updater/installer_policies/on_device_head_suggest_component_installer.h"
 
 #include <stdint.h>

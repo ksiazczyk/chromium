@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin trials component installer policy
+// summary: Implements the installer policy for the OriginTrials component, which overrides the origin trial framework configuration through a manifest in the user data directory.
+// ---
+
 #include "components/component_updater/installer_policies/origin_trials_component_installer.h"
 
 #include <stdint.h>

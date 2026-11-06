@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Amount extraction heuristic regexes installer policy implementation
+// summary: Implements the installer policy that loads the amount extraction heuristic regexes binary protobuf component and populates the autofill regexes singleton.
+// ---
+
 #include "components/component_updater/installer_policies/amount_extraction_heuristic_regexes_component_installer.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the constrained_window directory
+summary: Restricts includes to guest view, web modal, content, and ui dependencies, with extra allowances for the browser test file.

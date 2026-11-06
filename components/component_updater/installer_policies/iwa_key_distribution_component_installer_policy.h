@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA key distribution component installer policy header
+// summary: Declares the IwaKeyDistributionComponentInstallerPolicy class with component constants, the public key hash, and the on-demand update hook for Isolated Web Apps key distribution.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_IWA_KEY_DISTRIBUTION_COMPONENT_INSTALLER_POLICY_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_IWA_KEY_DISTRIBUTION_COMPONENT_INSTALLER_POLICY_H_
 

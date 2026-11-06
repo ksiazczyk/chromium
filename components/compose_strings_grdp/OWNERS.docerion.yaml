@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for compose strings grdp
+summary: Points to the components/compose OWNERS file to define code review ownership for this directory.

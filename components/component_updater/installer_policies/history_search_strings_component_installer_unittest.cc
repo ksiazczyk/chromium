@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History Search strings component installer unit tests
+// summary: Unit tests for the History Search strings installer policy, covering component registration, invalid binary proto files, and loading of filter word hashes.
+// ---
+
 #include "components/component_updater/installer_policies/history_search_strings_component_installer.h"
 
 #include <stdint.h>

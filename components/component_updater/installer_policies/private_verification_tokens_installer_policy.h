@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private verification tokens installer policy header
+// summary: Declares the PrivateVerificationTokensInstallerPolicy class and the pvt_config.json file name for installing the Private Verification Token component.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_PRIVATE_VERIFICATION_TOKENS_INSTALLER_POLICY_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_PRIVATE_VERIFICATION_TOKENS_INSTALLER_POLICY_H_
 

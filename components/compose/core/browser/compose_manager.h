@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeManager interface
+// summary: Declares the tab-specific Compose interface that opens the Compose UI for a form field and reports the result to Autofill.
+// ---
+
 #ifndef COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_MANAGER_H_
 #define COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_MANAGER_H_
 

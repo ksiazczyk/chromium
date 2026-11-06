@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Compose browser component
+summary: Defines source sets, the browser static library, Mojo bindings and unit test targets for the Compose browser code.

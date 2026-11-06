@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History Search strings component installer implementation
+// summary: Implements the component installer policy that registers and updates the History Search strings component and notifies the history embeddings listener when the component is ready.
+// ---
+
 #include "components/component_updater/installer_policies/history_search_strings_component_installer.h"
 
 #include <stdint.h>

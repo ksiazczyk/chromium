@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeComponentManagerAsh implementation
+// summary: Implements the FakeComponentManagerAsh test double that simulates component load, install, mount and unload behavior for ChromeOS component updater tests.
+// ---
+
 #include "components/component_updater/ash/fake_component_manager_ash.h"
 
 #include <utility>

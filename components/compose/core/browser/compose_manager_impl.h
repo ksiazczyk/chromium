@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose manager implementation header
+// summary: Declares ComposeManagerImpl, which opens Compose, supplies autofill suggestions, controls popup triggering, and handles disabling and nudge behavior.
+// ---
+
 #ifndef COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_MANAGER_IMPL_H_
 #define COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_MANAGER_IMPL_H_
 

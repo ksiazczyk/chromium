@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWebContentsModalDialogManagerViews implementation
+// summary: Implements the Views-based manager that parents, positions, shows, hides, and observes tab-modal dialogs against a web contents modal dialog host, including Aura-specific animations and modality handling.
+// ---
+
 #include "components/constrained_window/native_web_contents_modal_dialog_manager_views.h"
 
 #include <memory>

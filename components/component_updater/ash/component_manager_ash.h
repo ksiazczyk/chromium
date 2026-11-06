@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComponentManagerAsh interface header
+// summary: Declares the ComponentManagerAsh interface and CompatibleComponentInfo struct for registering, installing, loading and mounting ChromeOS components, with error and mount/update policy enums.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_ASH_COMPONENT_MANAGER_ASH_H_
 #define COMPONENTS_COMPONENT_UPDATER_ASH_COMPONENT_MANAGER_ASH_H_
 

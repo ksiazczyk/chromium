@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeWebContentsModalDialogManagerViews class declaration
+// summary: Declares the class that manages a tab-modal Views dialog off a views browser, implementing the single web contents dialog manager interface plus host and widget observation callbacks.
+// ---
+
 #ifndef COMPONENTS_CONSTRAINED_WINDOW_NATIVE_WEB_CONTENTS_MODAL_DIALOG_MANAGER_VIEWS_H_
 #define COMPONENTS_CONSTRAINED_WINDOW_NATIVE_WEB_CONTENTS_MODAL_DIALOG_MANAGER_VIEWS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timer-based update scheduler implementation
+// summary: Implements the UpdateScheduler interface by using a Timer to run update tasks periodically.
+// ---
+
 #include "components/component_updater/timer_update_scheduler.h"
 
 #include "base/functional/bind.h"

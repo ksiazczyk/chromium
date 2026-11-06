@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private verification tokens installer policy unit tests
+// summary: Unit tests for the private verification tokens installer policy, covering installation verification, getters, and parsing of the issuer configuration JSON.
+// ---
+
 #include "components/component_updater/installer_policies/private_verification_tokens_installer_policy.h"
 
 #include <stdint.h>

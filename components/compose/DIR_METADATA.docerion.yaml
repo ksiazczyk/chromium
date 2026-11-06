@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for compose
+summary: Applies the shared Compose metadata mixins to this directory.

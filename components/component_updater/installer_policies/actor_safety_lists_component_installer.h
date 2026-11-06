@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor Safety Lists component installer policy header
+// summary: Declares the ActorSafetyListsComponentInstallerPolicy class and the function to register the component with the component update service.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_ACTOR_SAFETY_LISTS_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_ACTOR_SAFETY_LISTS_COMPONENT_INSTALLER_H_
 

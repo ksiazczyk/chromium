@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentAuditor service interface
+// summary: Declares the ConsentAuditor keyed service interface, the Feature and ConsentStatus enums, and virtual methods for recording various user consents.
+// ---
+
 #ifndef COMPONENTS_CONSENT_AUDITOR_CONSENT_AUDITOR_H_
 #define COMPONENTS_CONSENT_AUDITOR_CONSENT_AUDITOR_H_
 

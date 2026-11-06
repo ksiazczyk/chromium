@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for installer policies
+summary: Lists the allowed include paths for the installer_policies directory, covering dependencies such as autofill, optimization guide, omnibox, and network services.

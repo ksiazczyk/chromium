@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for component installer policies
+summary: Defines GN targets grouping component installer policies into static libraries with and without content dependencies, plus a unit_tests source set.

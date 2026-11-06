@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake consent auditor implementation
+// summary: Implements FakeConsentAuditor, a test double that records consent details such as Gaia ID, feature, description IDs and status for later inspection in tests.
+// ---
+
 #include "components/consent_auditor/fake_consent_auditor.h"
 
 #include <string>

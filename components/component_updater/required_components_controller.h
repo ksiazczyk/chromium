@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Required components controller class declaration
+// summary: Declares the RequiredComponentsController class, which matches required component names with wildcards, requests their updates, and waits until they are ready.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_REQUIRED_COMPONENTS_CONTROLLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_REQUIRED_COMPONENTS_CONTROLLER_H_
 

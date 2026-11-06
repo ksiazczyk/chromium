@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose metrics declarations
+// summary: Declares Compose histogram names and enums for request reasons, session close reasons, and session event types kept in sync with histograms metadata.
+// ---
+
 #ifndef COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_METRICS_H_
 #define COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_METRICS_H_
 

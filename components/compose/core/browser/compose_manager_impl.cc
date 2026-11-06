@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose manager implementation
+// summary: Implements ComposeManagerImpl, which opens the Compose dialog from entry points such as the context menu and inserts generated text into form fields via autofill.
+// ---
+
 #include "components/compose/core/browser/compose_manager_impl.h"
 
 #include <memory>

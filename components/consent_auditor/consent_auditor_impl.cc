@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentAuditor implementation
+// summary: Implements ConsentAuditorImpl by building UserConsentSpecifics protos with locale, time, and session data and passing them to the consent sync bridge.
+// ---
+
 #include "components/consent_auditor/consent_auditor_impl.h"
 
 #include <memory>

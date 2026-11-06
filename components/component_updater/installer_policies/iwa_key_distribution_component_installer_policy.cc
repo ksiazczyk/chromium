@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IWA key distribution component installer policy implementation
+// summary: Implements the installer policy for the Isolated Web Apps key distribution component, including on-demand updates and verification of the key distribution data file.
+// ---
+
 #include "components/component_updater/installer_policies/iwa_key_distribution_component_installer_policy.h"
 
 #include <stdint.h>

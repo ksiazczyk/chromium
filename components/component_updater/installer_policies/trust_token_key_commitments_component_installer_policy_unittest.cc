@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust Tokens key commitments installer policy unit tests
+// summary: Unit tests verifying that the Trust Tokens installer policy loads key commitments from the default install path and from a path overridden by a command line switch.
+// ---
+
 #include "components/component_updater/installer_policies/trust_token_key_commitments_component_installer_policy.h"
 
 #include <utility>

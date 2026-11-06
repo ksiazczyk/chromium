@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater path provider implementation
+// summary: Implements a base path provider that resolves directories for preinstalled and user-installed components such as CLD2, recovery, and SwiftShader.
+// ---
+
 #include "components/component_updater/component_updater_paths.h"
 
 #include "base/check_op.h"

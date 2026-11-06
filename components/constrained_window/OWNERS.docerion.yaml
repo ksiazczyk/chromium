@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the constrained_window directory
+summary: Delegates ownership to the ui/views owners file and lists wittman@chromium.org as an owner.

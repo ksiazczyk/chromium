@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose feature flag declarations
+// summary: Declares the Compose feature flags with comments describing what each flag controls.
+// ---
+
 #ifndef COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_FEATURES_H_
 #define COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_FEATURES_H_
 

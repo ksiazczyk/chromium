@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater configurator interface
+// summary: Declares a helper class implementing update_client::Configurator settings shared across platforms.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_CONFIGURATOR_IMPL_H_
 #define COMPONENTS_COMPONENT_UPDATER_CONFIGURATOR_IMPL_H_
 

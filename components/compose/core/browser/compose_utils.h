@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose utility declarations
+// summary: Declares helpers for checking whether a prompt's word count is within bounds and for trimming page text used by Compose.
+// ---
+
 #ifndef COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_UTILS_H_
 #define COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_UTILS_H_
 

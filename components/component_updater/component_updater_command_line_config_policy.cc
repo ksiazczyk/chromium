@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line configuration policy
+// summary: Parses component updater debug switches such as fast-update, disable-pings, and url-source into a configuration policy.
+// ---
+
 #include "components/component_updater/component_updater_command_line_config_policy.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose feature flag definitions
+// summary: Defines base::Feature flags controlling Compose availability, nudges, surveys, animations, timeouts and on-device execution.
+// ---
+
 #include "components/compose/core/browser/compose_features.h"
 
 #include "base/feature_list.h"

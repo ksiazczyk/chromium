@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component installer interfaces
+// summary: Declares ComponentInstallerPolicy and ComponentInstaller, the interfaces used to define and register updatable Chrome components.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_COMPONENT_INSTALLER_H_
 

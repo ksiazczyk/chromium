@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for constrained window views
+// summary: Tests dialog creation and positioning behavior using test dialog hosts, a context-providing views delegate, and views test fixtures.
+// ---
+
 #include "components/constrained_window/constrained_window_views.h"
 
 #include <memory>

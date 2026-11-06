@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Hints component installer policy header
+// summary: Declares the OptimizationHintsComponentInstallerPolicy class for receiving Chrome Optimization Hints components, including the unindexed hints file name constant.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_OPTIMIZATION_HINTS_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_OPTIMIZATION_HINTS_COMPONENT_INSTALLER_H_
 

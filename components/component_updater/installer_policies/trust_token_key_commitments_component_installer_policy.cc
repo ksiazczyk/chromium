@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust Tokens key commitments installer policy implementation
+// summary: Implements the component installer policy that loads Trust Tokens key commitments from the component's keys.json file and passes them to the network service via a callback.
+// ---
+
 #include "components/component_updater/installer_policies/trust_token_key_commitments_component_installer_policy.h"
 
 #include <stdint.h>

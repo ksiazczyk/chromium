@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater utility declarations
+// summary: Declares helpers that resolve component registrations from a registry map by component ID.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_COMPONENT_UPDATER_UTILS_H_
 #define COMPONENTS_COMPONENT_UPDATER_COMPONENT_UPDATER_UTILS_H_
 

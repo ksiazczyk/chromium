@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS survey field constants for Compose
+// summary: Defines string and bit field name constants used when logging Happiness Tracking survey data for Compose sessions.
+// ---
+
 #ifndef COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_HATS_UTILS_H_
 #define COMPONENTS_COMPOSE_CORE_BROWSER_COMPOSE_HATS_UTILS_H_
 

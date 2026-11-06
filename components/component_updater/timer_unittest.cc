@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timer unit tests
+// summary: Unit test verifying that the Timer repeatedly invokes its user task the expected number of times until stopped.
+// ---
+
 #include "components/component_updater/timer.h"
 
 #include <utility>

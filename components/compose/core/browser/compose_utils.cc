@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose utility functions
+// summary: Implements word count bounds checking and trimming of page inner text into header and local sections for Compose prompts.
+// ---
+
 #include "components/compose/core/browser/compose_utils.h"
 
 #include <string_view>

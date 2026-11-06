@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Compose browser directory owners
+summary: Sets per-file owners for Mojom files, delegating their review to the IPC security owners.

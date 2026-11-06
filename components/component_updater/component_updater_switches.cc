@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater command-line switches
+// summary: Defines command-line switch names for troubleshooting the component updater, testing overrides, and enabling component uninstall.
+// ---
+
 #include "components/component_updater/component_updater_switches.h"
 
 namespace switches {

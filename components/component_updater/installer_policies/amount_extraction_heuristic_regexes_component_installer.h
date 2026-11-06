@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Amount extraction heuristic regexes installer policy header
+// summary: Declares the AmountExtractionHeuristicRegexesInstallerPolicy class and the component registration function for the autofill amount extraction component.
+// ---
+
 #ifndef COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_AMOUNT_EXTRACTION_HEURISTIC_REGEXES_COMPONENT_INSTALLER_H_
 #define COMPONENTS_COMPONENT_UPDATER_INSTALLER_POLICIES_AMOUNT_EXTRACTION_HEURISTIC_REGEXES_COMPONENT_INSTALLER_H_
 

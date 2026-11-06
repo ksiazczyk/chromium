@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Compose config countries and parameters
+// summary: Unit tests verifying Compose configuration defaults and Finch overrides for enabled and proactive nudge countries, plus fallback and negative-value handling of unsigned integer parameters.
+// ---
+
 #include "components/compose/core/browser/config.h"
 
 #include "base/test/scoped_feature_list.h"

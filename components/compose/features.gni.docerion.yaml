@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Compose feature build arguments
+summary: Declares the enable_compose build argument that controls whether Compose is built per platform.

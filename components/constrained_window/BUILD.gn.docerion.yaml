@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the constrained_window component
+summary: Defines the constrained_window static library plus unit and browser test source sets with their sources and dependencies.
