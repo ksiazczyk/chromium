@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitmapUtils unit tests
+// summary: Robolectric unit tests verifying that BitmapUtils resizes notification bitmaps by maximum dimensions and memory limits while preserving aspect ratio.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.content.Context;

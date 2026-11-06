@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogFeatureList
+// summary: Declares the names of modal dialog feature flags exposed to Java and kept in sync with the native feature map.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import org.chromium.build.annotations.NullMarked;

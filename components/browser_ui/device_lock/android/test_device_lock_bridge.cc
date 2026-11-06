@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDeviceLockBridge implementation
+// summary: Test double that captures the device lock callback so tests can simulate finished device lock requirement checks.
+// ---
+
 #include "components/browser_ui/device_lock/android/test_device_lock_bridge.h"
 
 namespace autofill {

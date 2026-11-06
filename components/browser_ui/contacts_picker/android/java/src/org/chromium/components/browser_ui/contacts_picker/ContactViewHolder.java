@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contact view holder
+// summary: RecyclerView view holder that binds a ContactView and asynchronously fetches, caches and cancels retrieval of contact icons.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.graphics.Bitmap;

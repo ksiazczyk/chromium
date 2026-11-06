@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusBarNotification proxy adaptor
+// summary: Implements the StatusBarNotificationProxy interface by exposing the id, tag and notification of an Android StatusBarNotification.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.Notification;

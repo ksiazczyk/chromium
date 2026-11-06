@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the desktop windowing Android UI component
+summary: GN build file defining the android_library sources and robolectric JUnit test target for the desktop windowing browser UI component.

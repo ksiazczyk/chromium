@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomProperties
+// summary: Property key definitions for the page zoom feature, covering menu item, zoom bar and indicator models with callbacks and state values.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import org.chromium.base.Callback;

@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Modal dialog ID resources
+summary: Declares Android ID resources for modal dialog views and buttons, including positive, negative and ephemeral buttons and the title icon.
+-->
+
 <resources>
     <item type="id" name="button_type_tag_key" />
     <item type="id" name="positive_button" />

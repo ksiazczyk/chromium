@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the display_cutout component
+summary: Maps the display_cutout directory to the Blink>Layout Monorail component and Buganizer public component 1456721 for issue tracking.

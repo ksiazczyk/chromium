@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android contacts permission provider implementation
+// summary: Implements ContactsPermissionProvider by checking and requesting the Android READ_CONTACTS permission, or allowing access directly when the system contacts picker is enabled.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

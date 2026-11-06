@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client certificate selector API declarations
+// summary: Declares the function that opens the SSL client certificate selection dialog on Android, along with helpers used for testing.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_CLIENT_CERTIFICATE_ANDROID_SSL_CLIENT_CERTIFICATE_REQUEST_H_
 #define COMPONENTS_BROWSER_UI_CLIENT_CERTIFICATE_ANDROID_SSL_CLIENT_CERTIFICATE_REQUEST_H_
 

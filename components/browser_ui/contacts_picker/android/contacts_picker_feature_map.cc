@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native feature map for contacts picker features
+// summary: Builds the native feature map that exposes kContactsPickerSelectAll to the Java ContactsPickerFeatureMap API over JNI.
+// ---
+
 #include "base/android/feature_map.h"
 #include "base/no_destructor.h"
 #include "components/browser_ui/contacts_picker/android/features.h"

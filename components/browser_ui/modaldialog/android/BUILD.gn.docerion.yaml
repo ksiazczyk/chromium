@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the modal dialog Android component
+summary: Defines the GN build targets for the Android modal dialog component, listing native and Java sources, JNI header generation, resources, and test support with their dependencies.

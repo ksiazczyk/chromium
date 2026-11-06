@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Accessibility directory metadata
+summary: Points to the shared Chrome Android accessibility metadata mixins that apply to this directory.

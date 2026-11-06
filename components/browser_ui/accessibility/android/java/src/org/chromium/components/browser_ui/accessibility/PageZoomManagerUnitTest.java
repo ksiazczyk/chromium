@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomManager unit tests
+// summary: Robolectric unit tests for PageZoomManager verifying zoom level increment and decrement behavior against a mocked native HostZoomMap and feature configuration.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.hamcrest.Matchers.closeTo;

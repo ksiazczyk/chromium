@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopView for the contacts picker
+// summary: Android view holding the Select All checkbox, contact count label and filter chips for names, addresses, emails, phones and icons in the contacts picker dialog.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.content.Context;

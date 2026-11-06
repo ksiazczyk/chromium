@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogFeatureMap
+// summary: Java FeatureMap singleton that reads native modal dialog feature flags and provides cached flags such as dialogs on large form factors.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import android.content.Context;

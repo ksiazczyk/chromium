@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModalDialogView
+// summary: Custom view implementing the modal dialog UI with title, message paragraphs, buttons, custom content, and tap protection.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

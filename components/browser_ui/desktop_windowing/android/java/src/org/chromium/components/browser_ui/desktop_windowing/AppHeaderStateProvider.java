@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppHeaderStateProvider
+// summary: Interface that supplies the current AppHeaderState information for a window in desktop windowing mode.
+// ---
+
 package org.chromium.components.browser_ui.desktop_windowing;
 
 import org.chromium.build.annotations.NullMarked;

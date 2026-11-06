@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring bottom sheet feature flags
+// summary: Declares the bottom sheet feature flags in the browser_ui namespace for use across the component.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_BOTTOMSHEET_ANDROID_FEATURES_H_
 #define COMPONENTS_BROWSER_UI_BOTTOMSHEET_ANDROID_FEATURES_H_
 

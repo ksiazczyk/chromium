@@ -4,6 +4,13 @@ Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Page zoom dimension resources
+summary: Defines Android dimension values for the page zoom UI, covering the zoom bar, indicator popup, buttons and menu items.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="page_zoom_preview_image_size">24dp</dimen>
 

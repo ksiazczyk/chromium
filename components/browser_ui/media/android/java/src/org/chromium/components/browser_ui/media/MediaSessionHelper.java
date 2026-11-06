@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionHelper glue between MediaSession and notifications
+// summary: Glue code that relays MediaSession events for a WebContents to a delegate such as MediaNotificationController, handling metadata, images, and notification updates.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

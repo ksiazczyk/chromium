@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageZoomMetrics unit tests
+// summary: Unit tests verifying zoom level UKM logging, including exact values and rounding into 5-percent buckets.
+// ---
+
 #include "components/browser_ui/accessibility/android/page_zoom_metrics.h"
 
 #include <string_view>

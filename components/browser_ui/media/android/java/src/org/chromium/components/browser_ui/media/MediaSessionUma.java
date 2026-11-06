@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSessionUma UMA metrics for MediaSession
+// summary: Centralizes UMA data collection for Android-specific MediaSession features, recording play, pause, and media button histograms.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import android.view.KeyEvent;

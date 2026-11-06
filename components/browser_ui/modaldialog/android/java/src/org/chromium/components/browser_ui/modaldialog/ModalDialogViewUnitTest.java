@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModalDialogViewUnitTest
+// summary: Robolectric unit tests checking ModalDialogView measurement and sizing rules across phone, tablet, and landscape configurations.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static org.junit.Assert.assertEquals;

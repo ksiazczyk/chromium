@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the contacts picker directory
+summary: Points to the shared OWNERS file in content/browser/contacts for review approvals in this directory.

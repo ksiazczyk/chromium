@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockNotificationManagerProxy
+// summary: Mocked notification manager proxy that imitates Android notification behavior and exposes displayed notifications and mutation counts for tests.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.Notification;

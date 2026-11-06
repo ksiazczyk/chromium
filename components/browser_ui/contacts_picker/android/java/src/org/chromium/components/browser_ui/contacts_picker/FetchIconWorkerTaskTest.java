@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FetchIconWorkerTaskTest
+// summary: Robolectric tests for FetchIconWorkerTask covering successful icon retrieval and corrupted photo payloads.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.content.ContentResolver;

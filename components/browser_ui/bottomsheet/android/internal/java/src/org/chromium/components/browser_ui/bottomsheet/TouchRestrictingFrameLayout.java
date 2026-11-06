@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchRestrictingFrameLayout
+// summary: FrameLayout that blocks touch events from reaching its children while the bottom sheet is scrolling or animating.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import android.content.Context;

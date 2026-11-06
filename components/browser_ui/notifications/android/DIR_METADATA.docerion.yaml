@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for notifications UI
+summary: Directory metadata assigning the UI>Notifications monorail component, the pwa-dev team email, and a Buganizer component ID.

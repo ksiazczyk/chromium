@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetControllerFactory
+// summary: Factory that creates standard and full-width bottom sheet controllers and attaches or detaches them from windows.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import android.view.ViewGroup;

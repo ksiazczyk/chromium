@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the client certificate component
+summary: Declares the issue tracker routing for this directory, assigning it to the Internals>Network>Auth monorail component and a Buganizer component ID.

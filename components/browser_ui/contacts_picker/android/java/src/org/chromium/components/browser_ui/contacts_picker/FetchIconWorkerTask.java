@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FetchIconWorkerTask
+// summary: Background task that fetches a contact's photo from the Android contacts provider, capping results at 1 MB.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.content.ContentResolver;

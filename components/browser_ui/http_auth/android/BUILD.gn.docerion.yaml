@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the HTTP auth Android component
+summary: Defines the android_library and android_resources GN targets for the HTTP auth login prompt, listing its Java sources, resources and dependencies.

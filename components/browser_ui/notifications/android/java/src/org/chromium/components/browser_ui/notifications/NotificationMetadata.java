@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationMetadata
+// summary: Struct that identifies a notification by its metrics type, tag and id used with the Android notification manager.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import org.chromium.build.annotations.NullMarked;

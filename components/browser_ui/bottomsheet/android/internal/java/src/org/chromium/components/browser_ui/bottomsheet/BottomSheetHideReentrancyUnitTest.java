@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetHideReentrancyUnitTest
+// summary: Tests that a real controller and coordinator hide one content and show the next queued content re-entrantly while observers are notified of the hidden state.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

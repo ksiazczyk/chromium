@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification image utilities
+// summary: Utilities for scaling and validating artwork images used in media session notifications.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import android.graphics.Bitmap;

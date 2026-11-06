@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockDialogMetrics
+// summary: Helper class that records device lock dialog actions to the Android.Automotive.DeviceLockDialogAction histograms.
+// ---
+
 package org.chromium.components.browser_ui.device_lock;
 
 import androidx.annotation.IntDef;

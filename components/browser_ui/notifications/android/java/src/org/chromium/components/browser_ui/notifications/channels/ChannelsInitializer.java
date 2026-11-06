@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelsInitializer
+// summary: Initializes the app's notification channels by creating startup channels and groups, updating known channels for locale changes, and deleting legacy channels from previous versions.
+// ---
+
 package org.chromium.components.browser_ui.notifications.channels;
 
 import android.app.NotificationChannel;

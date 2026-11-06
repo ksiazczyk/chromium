@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomManagerDelegate interface
+// summary: Delegate interface for PageZoomManager that supplies WebContents and browser context, manages zoom event observers, and reports popup and page zoom support for the current tab.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import org.chromium.build.annotations.NullMarked;

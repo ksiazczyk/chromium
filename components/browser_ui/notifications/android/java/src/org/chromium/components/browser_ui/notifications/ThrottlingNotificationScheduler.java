@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification throttling scheduler
+// summary: Singleton scheduler that throttles notification posts at 350 ms intervals using a priority queue so Android does not drop rapid updates.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.os.Handler;

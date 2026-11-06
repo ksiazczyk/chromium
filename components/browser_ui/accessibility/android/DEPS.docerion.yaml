@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android accessibility
+summary: Declares the allowed include rules for the directory, permitting content test, dom_distiller, and ui/accessibility dependencies.

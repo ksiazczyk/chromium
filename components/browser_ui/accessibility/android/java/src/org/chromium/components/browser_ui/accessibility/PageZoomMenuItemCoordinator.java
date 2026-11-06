@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomMenuItemCoordinator
+// summary: Coordinator that connects the page zoom feature to the app menu by attaching a PageZoomMenuItemMediator to an externally provided menu item model.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import org.chromium.build.annotations.NullMarked;

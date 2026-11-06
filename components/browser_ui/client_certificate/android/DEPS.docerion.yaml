@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android client certificate component
+summary: Lists allowed include dependencies for the client certificate component, with extra rules granted to the browser test file.

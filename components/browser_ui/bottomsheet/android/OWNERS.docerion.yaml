@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file listing code owners for the bottom sheet Android directory
+summary: Lists directory owners plus per-file owner rules for specific Java files and UserCriticalFeature review requirements.

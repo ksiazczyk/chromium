@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the contacts picker
+summary: Declares the Monorail component, team email address, and Buganizer component ID used for triaging issues in this directory.

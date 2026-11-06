@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZoomEventsObserver interface
+// summary: Functional interface that receives callbacks when the zoom level for a host changes, passing the host name and the new zoom level.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import org.chromium.build.annotations.NullMarked;

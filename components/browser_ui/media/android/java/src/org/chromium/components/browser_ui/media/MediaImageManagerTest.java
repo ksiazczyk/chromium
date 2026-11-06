@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaImageManager tests
+// summary: Robolectric tests verifying image selection, scoring, and download behavior of MediaImageManager.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetCoordinator
+// summary: View-level bottom sheet implementation that manages PEEK, HALF, and FULL states, layout, animations, and window inset handling for the sheet UI.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

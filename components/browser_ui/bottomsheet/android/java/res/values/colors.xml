@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Bottom sheet color resources
+summary: Defines the bottom_sheet_desktop_scrim color used by the Android bottom sheet UI, referencing a semi-transparent black color resource.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <color name="bottom_sheet_desktop_scrim">@color/black_alpha_40</color>
 </resources>

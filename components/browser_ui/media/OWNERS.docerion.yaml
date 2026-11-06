@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the media UI component
+summary: Lists the code owners for the media UI directory, including philyan@chromium.org and the owners inherited from media/OWNERS.

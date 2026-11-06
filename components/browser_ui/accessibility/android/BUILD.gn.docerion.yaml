@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Android accessibility
+summary: GN build file defining JNI header generation, the native source set, and Java library targets for the browser UI accessibility component.

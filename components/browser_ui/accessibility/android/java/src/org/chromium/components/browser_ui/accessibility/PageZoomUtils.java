@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomUtils
+// summary: Shared utility methods for the page zoom feature that convert between bar values, zoom factors and levels and format zoom percentages for settings and MVC UI.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.chromium.content_public.browser.HostZoomMap.AVAILABLE_ZOOM_FACTORS;

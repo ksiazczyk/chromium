@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBottomSheetContent
+// summary: Simple BottomSheetContent implementation showing two empty white views, used as test content for bottom sheet behaviour tests.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import android.content.Context;

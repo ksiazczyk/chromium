@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media feature map
+// summary: Singleton Java accessor for the native feature map, exposing media feature state over JNI.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import org.jni_zero.JNINamespace;

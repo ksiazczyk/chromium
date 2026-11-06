@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModalDialogTestUtils
+// summary: Shared test helpers that create modal dialogs, show them, and observe dismissal causes for modal dialog tests.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static androidx.test.espresso.Espresso.onView;

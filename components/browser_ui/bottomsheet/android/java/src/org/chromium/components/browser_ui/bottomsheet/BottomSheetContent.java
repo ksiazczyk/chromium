@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetContent interface for bottom sheet content
+// summary: Interface defining content shown in the Chrome bottom sheet, including height modes, content priorities, and background glow specifications.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import android.content.Context;

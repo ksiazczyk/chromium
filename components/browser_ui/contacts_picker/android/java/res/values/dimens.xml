@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Contacts picker dimension resources
+summary: Android resource XML defining the contact_picker_icon_size dimension (36dp) used by the browser contacts picker UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="contact_picker_icon_size">36dp</dimen>
 </resources>

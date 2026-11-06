@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the modal dialog Android component
+summary: Specifies the include rules allowing this directory to depend on cached flags, content public, and the UI accessibility and Android code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility settings page zoom tests
+// summary: Espresso instrumented tests for the Page Zoom preference in the accessibility settings menu, using mocked delegates and zoom map natives.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockBridge native implementation
+// summary: Native C++ side of the device lock bridge that checks whether a device lock is required and launches the Android device lock UI before running a callback.
+// ---
+
 #include "components/browser_ui/device_lock/android/device_lock_bridge.h"
 
 #include "base/android/callback_android.h"

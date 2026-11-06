@@ -5,6 +5,12 @@
     found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Contacts picker toolbar layout
+summary: Android layout for the custom ContactsPickerToolbar with a search icon button and a Done button that is disabled until a selection is made.
+-->
+
 <org.chromium.components.browser_ui.contacts_picker.ContactsPickerToolbar
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

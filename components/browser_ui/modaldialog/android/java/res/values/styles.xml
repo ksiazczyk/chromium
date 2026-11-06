@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Modal dialog styles and theme overlays
+summary: Defines styles and theme overlays for the modal dialog, including scrim dimming, tonal filled buttons and button bar styling for primary and negative actions.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- The dim amount should match the alpha of modal_dialog_scrim_color. -->

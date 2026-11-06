@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification enabled state utilities
+// summary: Utility class that reports whether notifications are enabled for the app, with cached results and test overrides, pending removal once the async proxy is default.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.os.Build;

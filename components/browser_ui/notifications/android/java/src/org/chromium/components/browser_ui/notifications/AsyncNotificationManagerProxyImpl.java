@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncNotificationManagerProxyImpl
+// summary: Default implementation of the async notification manager proxy that dispatches cancel, channel and notify calls to Android's NotificationManagerCompat on background tasks.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.NotificationChannel;

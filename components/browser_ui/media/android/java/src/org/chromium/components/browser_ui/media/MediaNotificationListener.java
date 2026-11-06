@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaNotificationListener media event interface
+// summary: Interface for classes that need to be notified about media events, defining play, pause, stop, MediaSession action, and seek callbacks with action sources.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import org.chromium.build.annotations.NullMarked;

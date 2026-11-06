@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContactsPickerDialogTest
+// summary: Instrumentation and render tests for the contacts picker dialog, covering selection, select-all, search, and toolbar behavior.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import static org.mockito.Mockito.when;

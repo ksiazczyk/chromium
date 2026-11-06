@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page zoom bar coordinator delegate
+// summary: Delegate interface that supplies the view used to render the zoom control and reports whether the bottom sheet acts as browser controls.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import android.view.View;

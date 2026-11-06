@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomSheetControllerProvider for binding the controller to a window
+// summary: Manages binding the BottomSheetController to unowned user data on a WindowAndroid and retrieving the shared controller instance.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import org.jni_zero.CalledByNative;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker settings for the bottom sheet component
+summary: Maps the directory to its Monorail component and Buganizer component ID for issue tracking.

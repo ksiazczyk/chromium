@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayCutoutController for Android safe area and cutout modes
+// summary: Controls the display safe area insets for a WebContents and applies the display cutout mode to an Activity window on Android P+, reacting to viewport fit and fullscreen state.
+// ---
+
 package org.chromium.components.browser_ui.display_cutout;
 
 import static androidx.core.view.WindowInsetsCompat.Type.ime;

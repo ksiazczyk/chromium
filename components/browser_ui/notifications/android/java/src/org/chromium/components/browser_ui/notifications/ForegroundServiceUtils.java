@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForegroundServiceUtils
+// summary: Utilities for starting services and promoting them to foreground services, with compatibility handling for older Android versions and API bug workarounds.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.ForegroundServiceStartNotAllowedException;

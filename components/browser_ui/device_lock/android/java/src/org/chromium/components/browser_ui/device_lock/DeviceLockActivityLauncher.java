@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockActivityLauncher
+// summary: Interface for launching DeviceLockActivity from modularized code, defining sign-in flow source constants used for histogram reporting.
+// ---
+
 package org.chromium.components.browser_ui.device_lock;
 
 import android.content.Context;

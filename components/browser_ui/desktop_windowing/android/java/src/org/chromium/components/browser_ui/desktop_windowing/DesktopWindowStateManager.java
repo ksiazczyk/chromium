@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopWindowStateManager
+// summary: Interface for observing and retrieving desktop windowing mode state, including app header observers, focus and color change callbacks, and gesture exclusion rects.
+// ---
+
 package org.chromium.components.browser_ui.desktop_windowing;
 
 import android.graphics.Rect;

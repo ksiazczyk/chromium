@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Bottom sheet desktop layout
+summary: Android XML layout variant of the bottom sheet for desktop, adding a desktop fallback shadow, dynamically managed shadow margins, and an optional close button alongside the standard content, toolbar and snackbar containers.
+-->
+
 <org.chromium.components.browser_ui.bottomsheet.BottomSheetView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

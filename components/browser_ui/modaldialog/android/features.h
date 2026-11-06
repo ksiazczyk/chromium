@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring modal dialog Android feature flags
+// summary: Declares the browser_ui modal dialog feature flags so other code can reference them.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_MODALDIALOG_ANDROID_FEATURES_H_
 #define COMPONENTS_BROWSER_UI_MODALDIALOG_ANDROID_FEATURES_H_
 

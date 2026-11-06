@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomMetrics class declaration
+// summary: Declares the PageZoomMetrics class that logs UKM metrics for page zoom levels of a WebContents.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_ACCESSIBILITY_ANDROID_PAGE_ZOOM_METRICS_H_
 #define COMPONENTS_BROWSER_UI_ACCESSIBILITY_ANDROID_PAGE_ZOOM_METRICS_H_
 

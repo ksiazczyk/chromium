@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomBarMediator
+// summary: Mediator for the page zoom bar that handles zoom increase, decrease, reset and slider changes, updates the system font scale and logs zoom UKM.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.chromium.components.browser_ui.accessibility.PageZoomUtils.PAGE_ZOOM_MAXIMUM_BAR_VALUE;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PickerCategoryView
+// summary: Central view managing the contacts list, selection, search, icon handling, and metrics for the contacts picker dialog.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import static org.chromium.build.NullUtil.assertNonNull;

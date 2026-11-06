@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetMediatorUnitTest
+// summary: Unit tests for the bottom sheet mediator, covering observer registration, sheet states, target state handling, and property model updates.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

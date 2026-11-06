@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the display_cutout component
+summary: Delegates code ownership of this directory to the OWNERS file of the Chrome Android display_cutout source directory.

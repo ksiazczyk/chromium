@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification feature flag definitions
+// summary: Defines base::Feature flags for resizing large notification bitmaps and caching notifications, both enabled by default.
+// ---
+
 #include "components/browser_ui/notifications/android/features.h"
 
 #include "base/feature_list.h"

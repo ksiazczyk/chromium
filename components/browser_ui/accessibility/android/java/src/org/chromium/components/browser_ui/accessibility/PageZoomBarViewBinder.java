@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomBarViewBinder
+// summary: View binder that applies page zoom bar model properties to the slider, zoom level text and the decrease, increase and reset zoom buttons.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media notification compact view button computation tests
+// summary: Robolectric tests for how MediaNotificationController chooses which actions appear in the compact notification view.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import static org.junit.Assert.assertEquals;

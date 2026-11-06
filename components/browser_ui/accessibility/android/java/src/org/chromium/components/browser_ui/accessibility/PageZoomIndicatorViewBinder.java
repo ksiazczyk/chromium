@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomIndicatorViewBinder
+// summary: View binder that binds the zoom indicator popup model to its zoom in, zoom out and reset buttons and the zoom percentage text.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.chromium.components.browser_ui.accessibility.PageZoomProperties.DECREASE_ZOOM_CALLBACK;

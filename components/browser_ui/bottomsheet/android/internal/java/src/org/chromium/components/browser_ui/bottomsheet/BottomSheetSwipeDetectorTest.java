@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomSheetSwipeDetectorTest
+// summary: Robolectric unit tests for the swipe detector, using a mock swipeable sheet to verify gesture handling, offsets, and animation decisions.
+// ---
+
 package org.chromium.components.browser_ui.bottomsheet;
 
 import static org.junit.Assert.assertEquals;

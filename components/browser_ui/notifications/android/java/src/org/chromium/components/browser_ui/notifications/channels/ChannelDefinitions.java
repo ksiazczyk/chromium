@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelDefinitions
+// summary: Abstract base class defining the properties of all predefined Android O+ notification channels and groups, including lookup helpers and the PredefinedChannel and PredefinedChannelGroup classes.
+// ---
+
 package org.chromium.components.browser_ui.notifications.channels;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

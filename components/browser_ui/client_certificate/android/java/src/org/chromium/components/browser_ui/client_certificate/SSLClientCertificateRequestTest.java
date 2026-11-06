@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SSLClientCertificateRequest
+// summary: Robolectric unit tests verifying certificate selection behavior, including showing the failure dialog when the key chain alias activity is not found.
+// ---
+
 package org.chromium.components.browser_ui.client_certificate;
 
 import static org.mockito.Mockito.doThrow;

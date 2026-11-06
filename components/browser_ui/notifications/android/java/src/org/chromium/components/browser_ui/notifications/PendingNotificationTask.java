@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending notification task with priority
+// summary: Represents a task that posts an Android notification, carrying a task id, priority and runnable for use with the throttling scheduler.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.os.SystemClock;

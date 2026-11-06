@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Device lock Android include rules
+summary: DEPS file allowing this folder to include headers from ui/android and google_apis/gaia/android.

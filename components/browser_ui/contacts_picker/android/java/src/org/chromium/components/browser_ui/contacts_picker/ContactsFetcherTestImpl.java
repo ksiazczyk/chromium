@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ContactsFetcher implementation
+// summary: Test double implementing ContactsFetcher that returns stored contacts and icons instead of querying the Android contacts provider.
+// ---
+
 package org.chromium.components.browser_ui.contacts_picker;
 
 import android.graphics.Bitmap;

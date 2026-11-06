@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppModalPresenter
+// summary: Presenter that shows a modal dialog view inside an Android ComponentDialog, handling window insets, edge-to-edge state, and dialog dismissal.
+// ---
+
 package org.chromium.components.browser_ui.modaldialog;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

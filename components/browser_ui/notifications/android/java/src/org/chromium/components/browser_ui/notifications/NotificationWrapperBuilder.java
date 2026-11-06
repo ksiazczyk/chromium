@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification builder abstraction interface
+// summary: Interface abstracting over Android's Notification.Builder and NotificationCompat.Builder for building notification wrappers.
+// ---
+
 package org.chromium.components.browser_ui.notifications;
 
 import android.app.Notification;

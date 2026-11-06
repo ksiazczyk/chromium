@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media image download callback
+// summary: Interface invoked when a media session image download completes, used only by MediaImageManager.
+// ---
+
 package org.chromium.components.browser_ui.media;
 
 import android.graphics.Bitmap;

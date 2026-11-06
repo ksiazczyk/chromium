@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility settings fragment
+// summary: Preference fragment that manages accessibility-related settings including page zoom, reader mode, captions, image descriptions, and caret browsing.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import static org.chromium.build.NullUtil.assertNonNull;

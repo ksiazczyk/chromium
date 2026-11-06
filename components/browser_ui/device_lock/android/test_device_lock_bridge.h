@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDeviceLockBridge class declaration
+// summary: Declares a DeviceLockBridge test fake that records whether checks started and lets tests simulate device lock requirement results.
+// ---
+
 #ifndef COMPONENTS_BROWSER_UI_DEVICE_LOCK_ANDROID_TEST_DEVICE_LOCK_BRIDGE_H_
 #define COMPONENTS_BROWSER_UI_DEVICE_LOCK_ANDROID_TEST_DEVICE_LOCK_BRIDGE_H_
 

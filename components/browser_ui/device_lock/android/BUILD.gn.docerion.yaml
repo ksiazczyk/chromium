@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Device lock Android build targets
+summary: GN build file defining the Java library, native source set, JNI header generation, and test support targets for the browser UI device lock component.

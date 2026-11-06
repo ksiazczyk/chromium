@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LoginPrompt: HTTP authentication dialog for Android'
+// summary: Implements an Android alert dialog that prompts for HTTP authentication credentials, with optional Android Autofill support and an Observer interface to proceed or cancel the request.
+// ---
+
 package org.chromium.components.browser_ui.http_auth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

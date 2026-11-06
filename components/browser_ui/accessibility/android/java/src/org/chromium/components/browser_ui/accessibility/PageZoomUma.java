@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageZoomUma
+// summary: Centralizes UMA histogram and user action logging for Page Zoom, including app menu enabled state and usage type enums.
+// ---
+
 package org.chromium.components.browser_ui.accessibility;
 
 import androidx.annotation.IntDef;
