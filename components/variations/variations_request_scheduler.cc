@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations request scheduler implementation
+// summary: Implements scheduling of variations seed fetches with command-line and field-trial interval overrides and a default 30-minute fetch period.
+// ---
+
 #include "components/variations/variations_request_scheduler.h"
 
 #include <stddef.h>

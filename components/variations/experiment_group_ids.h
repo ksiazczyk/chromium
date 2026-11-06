@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experiment group ID helpers header
+// summary: Declares helper functions for detecting experiment IDs on study experiment groups and determining whether a study consumes entropy.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_EXPERIMENT_GROUP_IDS_H_
 #define COMPONENTS_VARIATIONS_EXPERIMENT_GROUP_IDS_H_
 

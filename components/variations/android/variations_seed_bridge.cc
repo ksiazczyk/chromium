@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI implementation of the variations seed bridge
+// summary: Implements the native side of the seed bridge, retrieving first-run variations seed data, signature, country, and date from Java with test helpers.
+// ---
+
 #include "components/variations/android/variations_seed_bridge.h"
 
 #include "base/android/jni_android.h"

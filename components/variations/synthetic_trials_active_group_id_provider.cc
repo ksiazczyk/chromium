@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic trials active group ID provider
+// summary: Implements a singleton provider that supplies active synthetic trial group IDs and updates crash report keys when synthetic trials change.
+// ---
+
 #include "components/variations/synthetic_trials_active_group_id_provider.h"
 
 #include "base/memory/singleton.h"

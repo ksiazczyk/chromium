@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trial internals utilities
+// summary: Implements utilities for the field trial internals UI, listing studies that can be forced and tracking expiration of forced trial overrides across Chrome restarts.
+// ---
+
 #include "components/variations/field_trial_internals_utils.h"
 
 #include <algorithm>

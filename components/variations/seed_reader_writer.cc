@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeedReaderWriter implementation
+// summary: Implements reading and writing variations seeds to prefs or seed files, including ZSTD or gzip compression, uncompressed size limits, and seed metadata storage.
+// ---
+
 #include "components/variations/seed_reader_writer.h"
 
 #include <memory>

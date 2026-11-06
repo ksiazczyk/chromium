@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Study filtering implementation
+// summary: Implements checks that decide whether a variations study applies to a client, filtering by channel, form factor, CPU architecture, locale, country, platform, version, and other criteria.
+// ---
+
 #include "components/variations/study_filtering.h"
 
 #include <stddef.h>

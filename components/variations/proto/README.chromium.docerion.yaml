@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Variations protos package metadata
+summary: Describes the variations protos package exported from Google's internal repository, including license, update mechanism, and the proto_export command used to refresh it.

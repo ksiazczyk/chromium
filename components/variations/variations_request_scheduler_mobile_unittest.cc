@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations request scheduler mobile unit tests
+// summary: Tests the mobile variations request scheduler, verifying that seed fetches run based on the last fetch time pref and app foreground events.
+// ---
+
 #include "components/variations/variations_request_scheduler_mobile.h"
 
 #include "base/functional/bind.h"

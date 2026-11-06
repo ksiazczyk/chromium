@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic trial registry header
+// summary: Declares the SyntheticTrialRegistry class with observer management and pass-key-restricted APIs for registering external experiment IDs for UMA reporting.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SYNTHETIC_TRIAL_REGISTRY_H_
 #define COMPONENTS_VARIATIONS_SYNTHETIC_TRIAL_REGISTRY_H_
 

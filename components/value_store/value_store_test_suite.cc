@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValueStore parameterized test suite
+// summary: Defines parameterized tests verifying ValueStore read, write, and remove semantics across leveldb and no-op storage configurations.
+// ---
+
 #include "components/value_store/value_store_test_suite.h"
 
 #include <memory>

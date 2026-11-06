@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for field trial config
+summary: Declares allowed include paths for the directory, with a special rule permitting network headers in the unit test.

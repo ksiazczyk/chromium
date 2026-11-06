@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Groups manager implementation
+// summary: Implements a keyed service that syncs dogfood Google group memberships from profile sync prefs to local state and gates group-controlled features per profile.
+// ---
+
 #include "components/variations/service/google_groups_manager.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsServiceClient interface
+// summary: Declares the abstract client interface for embedder-dependent operations such as URL loader factory access, network time, channel, form factor, and enterprise status.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SERVICE_VARIATIONS_SERVICE_CLIENT_H_
 #define COMPONENTS_VARIATIONS_SERVICE_VARIATIONS_SERVICE_CLIENT_H_
 

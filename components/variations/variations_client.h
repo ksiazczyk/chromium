@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsClient interface
+// summary: Abstract interface letting the variations throttle query off-the-record state and obtain variations headers without depending on the content layer.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_CLIENT_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_CLIENT_H_
 

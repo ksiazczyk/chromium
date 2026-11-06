@@ -13,6 +13,12 @@
 // VariationID id = GetGoogleVariationID(
 //   GOOGLE_WEB_PROPERTIES_FIRST_PARTY, "MyStudy", "TreatmentGroup");
 
+// ---docerion
+// type: source
+// title: Variations associated data API
+// summary: Declares functions and the TimeWindow class for associating field trials with Google VariationIDs transmitted through the X-Client-Data header.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_ASSOCIATED_DATA_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_ASSOCIATED_DATA_H_
 

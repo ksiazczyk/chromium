@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processed study class declaration
+// summary: Declares the ProcessedStudy wrapper that holds a study with computed information such as total probability and whether all assignments go to one group.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_PROCESSED_STUDY_H_
 #define COMPONENTS_VARIATIONS_PROCESSED_STUDY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entropy provider implementation
+// summary: Implements SHA1, normalized MurmurHash, and session entropy providers that compute per-trial entropy values for field trial randomization.
+// ---
+
 #include "components/variations/entropy_provider.h"
 
 #include <algorithm>

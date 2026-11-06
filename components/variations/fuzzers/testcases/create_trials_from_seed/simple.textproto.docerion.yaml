@@ -1,0 +1,4 @@
+# Docerion header of simple.textproto.
+type: test
+title: Simple seed test case for create_trials_from_seed fuzzer
+summary: A minimal text-format protobuf seed defining one layer, a study and a single experiment, used as a simple test case for the create_trials_from_seed fuzzer.

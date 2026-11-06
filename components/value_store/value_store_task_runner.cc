@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value store task runner source
+// summary: Provides the shared sequenced task runner used by value store tasks that read, modify, or delete files.
+// ---
+
 #include "components/value_store/value_store_task_runner.h"
 
 #include "base/task/lazy_thread_pool_task_runner.h"

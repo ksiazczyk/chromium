@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations request scheduler class
+// summary: Declares VariationsRequestScheduler, which times VariationsService seed fetch requests using repeating and one-shot timers.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_REQUEST_SCHEDULER_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_REQUEST_SCHEDULER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations seed store implementation
+// summary: Implements storing, loading and signature-verifying variations seeds, including seed file handling, compression and safe seed integration.
+// ---
+
 #include "components/variations/variations_seed_store.h"
 
 #include <stdint.h>

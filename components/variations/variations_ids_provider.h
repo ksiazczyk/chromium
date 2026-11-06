@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations IDs provider header
+// summary: Declares the VariationsIdsProvider singleton that maintains client experiment IDs sent in custom HTTP request headers.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_IDS_PROVIDER_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_IDS_PROVIDER_H_
 

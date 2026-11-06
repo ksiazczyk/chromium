@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStoreFactoryImpl class declaration
+// summary: Declares the concrete ValueStoreFactory that maps directories to LeveldbValueStore databases beneath a profile path.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_VALUE_STORE_FACTORY_IMPL_H_
 #define COMPONENTS_VALUE_STORE_VALUE_STORE_FACTORY_IMPL_H_
 

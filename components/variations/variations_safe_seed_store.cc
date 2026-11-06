@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations safe seed store implementation
+// summary: Implements reading, writing and clearing of the safe variations seed by delegating to SeedReaderWriter and local state prefs.
+// ---
+
 #include "components/variations/variations_safe_seed_store.h"
 
 #include "base/version_info/channel.h"

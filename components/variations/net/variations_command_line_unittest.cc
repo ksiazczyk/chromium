@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for variations command line
+// summary: Tests building the command-line state, string and file round-trips, and unpacking of encoded variations state files.
+// ---
+
 #include "components/variations/net/variations_command_line.h"
 
 #include <stddef.h>

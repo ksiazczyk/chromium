@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueStoreFrontend class declaration
+// summary: Declares an asynchronous frontend for a LeveldbValueStore usable from the UI thread, exposing get, set, and remove operations.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_VALUE_STORE_FRONTEND_H_
 #define COMPONENTS_VALUE_STORE_VALUE_STORE_FRONTEND_H_
 

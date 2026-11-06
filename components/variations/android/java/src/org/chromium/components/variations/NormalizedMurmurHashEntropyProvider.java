@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NormalizedMurmurHashEntropyProvider
+// summary: Java implementation of the normalized MurmurHash entropy provider for low entropy sources in field trials, kept consistent with the C++ version but without trial name hashing.
+// ---
+
 package org.chromium.components.variations;
 
 import androidx.annotation.VisibleForTesting;

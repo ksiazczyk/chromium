@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trial internals utilities
+// summary: Declares helpers for temporarily forcing field trials from the field-trial-internals page, with overrides expiring after three days or three Chrome restarts.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_FIELD_TRIAL_INTERNALS_UTILS_H_
 #define COMPONENTS_VARIATIONS_FIELD_TRIAL_INTERNALS_UTILS_H_
 

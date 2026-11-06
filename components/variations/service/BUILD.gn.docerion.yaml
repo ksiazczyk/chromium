@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Variations service build configuration
+summary: GN build file defining the variations service static library, its buildflags for field trial testing config, and the unit test target with their dependencies.

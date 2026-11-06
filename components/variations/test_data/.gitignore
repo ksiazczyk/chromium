@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: .gitignore ignoring the cipd directory
+# summary: Git ignore file that excludes the cipd directory from version control in the test_data folder.
+# ---
+
 /cipd/
 

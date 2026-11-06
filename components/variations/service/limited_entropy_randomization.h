@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Limited entropy randomization API
+// summary: Declares seed validation functions, the seed rejection reason enum, and platform entropy limit helpers for field trials using the limited entropy layer.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SERVICE_LIMITED_ENTROPY_RANDOMIZATION_H_
 #define COMPONENTS_VARIATIONS_SERVICE_LIMITED_ENTROPY_RANDOMIZATION_H_
 

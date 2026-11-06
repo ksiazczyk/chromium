@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Study filtering unit tests
+// summary: Unit tests for the study filtering logic, verifying filter checks for channels, form factors, and other client attributes used to match variations studies.
+// ---
+
 #include "components/variations/study_filtering.h"
 
 #include <stddef.h>

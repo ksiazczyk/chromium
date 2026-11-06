@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for field trial internals utils
+// summary: Unit tests covering forced trial application at startup, expiration by time, invalid expiry time, restart count, and setting temporary trial overrides.
+// ---
+
 #include "components/variations/field_trial_internals_utils.h"
 
 #include <string_view>

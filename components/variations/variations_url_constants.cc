@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations default server URL constants
+// summary: Defines the default secure and insecure URLs for the Chrome variations seed server.
+// ---
+
 #include "components/variations/variations_url_constants.h"
 
 namespace variations {

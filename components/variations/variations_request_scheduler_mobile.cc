@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile variations request scheduler implementation
+// summary: Implements the mobile scheduler that fetches seeds on app foreground based on elapsed time since the last fetch, with throttling switch support.
+// ---
+
 #include "components/variations/variations_request_scheduler_mobile.h"
 
 #include "base/command_line.h"

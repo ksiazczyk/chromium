@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations seed simulator unit tests
+// summary: Unit tests for seed simulation, covering permanent and session-consistency studies, experiment params and layer member constraints.
+// ---
+
 #include "components/variations/variations_seed_simulator.h"
 
 #include <stdint.h>

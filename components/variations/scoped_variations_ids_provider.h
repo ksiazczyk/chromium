@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVariationsIdsProvider test helper header
+// summary: Declares a test helper class that creates a scoped VariationsIdsProvider instance for tests, with an optional time override for testing.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SCOPED_VARIATIONS_IDS_PROVIDER_H_
 #define COMPONENTS_VARIATIONS_SCOPED_VARIATIONS_IDS_PROVIDER_H_
 

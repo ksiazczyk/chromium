@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ANR variations saver
+// summary: Android implementation that saves the variations experiment list through JNI for ANR reporting on supported SDK versions.
+// ---
+
 #include "components/variations/variations_crash_keys_android.h"
 
 #include "base/android/android_info.h"

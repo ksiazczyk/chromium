@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations crash keys implementation
+// summary: Implements crash keys that report the active experiment list, experiment count, seed version, and runtime field trial override history.
+// ---
+
 #include "components/variations/variations_crash_keys.h"
 
 #include <set>

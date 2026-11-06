@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check for client_variations.proto changes
+# summary: Presubmit script that warns when client_variations.proto is changed without a matching update to the DevTools JavaScript parser devtools/client_variations.js.
+# ---
+
 """
 See https://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts
 for more details on the presubmit API built into depot_tools.

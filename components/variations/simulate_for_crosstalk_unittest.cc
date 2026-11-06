@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crosstalk simulation unit tests
+// summary: Unit tests that simulate field trial group assignments to verify Chromium entropy behavior matches the internal Python crosstalk tests.
+// ---
+
 #include <cstring>
 
 #include "base/memory/scoped_refptr.h"

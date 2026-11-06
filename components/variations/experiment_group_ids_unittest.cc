@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Experiment group ID helper unit tests
+// summary: Unit tests for the experiment group ID helpers, covering weighted groups with Google web, trigger, and app experiment IDs and entropy consumption.
+// ---
+
 #include "components/variations/experiment_group_ids.h"
 
 #include <cstdint>

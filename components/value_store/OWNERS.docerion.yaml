@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the value_store directory
+summary: Lists the primary owner and refers to the extensions OWNERS file for additional reviewers.

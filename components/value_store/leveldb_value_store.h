@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LeveldbValueStore class declaration
+// summary: Declares a ValueStore backed by a leveldb database that must be used on the FILE thread and registers as a memory dump provider.
+// ---
+
 #ifndef COMPONENTS_VALUE_STORE_LEVELDB_VALUE_STORE_H_
 #define COMPONENTS_VALUE_STORE_LEVELDB_VALUE_STORE_H_
 

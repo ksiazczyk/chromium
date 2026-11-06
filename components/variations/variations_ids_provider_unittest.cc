@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations IDs provider unit tests
+// summary: Tests forcing valid and invalid variation IDs and generating client data headers across signed-in modes.
+// ---
+
 #include "components/variations/variations_ids_provider.h"
 
 #include <string>

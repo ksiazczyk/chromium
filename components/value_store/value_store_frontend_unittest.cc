@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValueStoreFrontend unit tests
+// summary: Tests ValueStoreFrontend get, set, and remove behavior, including persistence of changes after the database is reloaded.
+// ---
+
 #include "components/value_store/value_store_frontend.h"
 
 #include <memory>

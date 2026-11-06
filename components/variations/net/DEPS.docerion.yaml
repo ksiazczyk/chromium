@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for variations net
+summary: Declares the directories this component may include from, such as components, crypto, net, network services and the Blink URL loader throttle.

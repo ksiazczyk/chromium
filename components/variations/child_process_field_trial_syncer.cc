@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process field trial syncer implementation
+// summary: Implements synchronization of field trial activation state between the browser and child processes, updating crash keys.
+// ---
+
 #include "components/variations/child_process_field_trial_syncer.h"
 
 #include <utility>

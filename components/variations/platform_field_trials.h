@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform field trials base class
+// summary: Declares the PlatformFieldTrials interface for platform-specific field trial setup, client-side and synthetic trials, feature overrides, and runtime mutable features.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_PLATFORM_FIELD_TRIALS_H_
 #define COMPONENTS_VARIATIONS_PLATFORM_FIELD_TRIALS_H_
 

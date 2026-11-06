@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations test utilities header
+// summary: Declares helpers for variations unit tests, such as signed seed data structures, seed pref keys, and field trial creation utilities.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_TEST_UTILS_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_TEST_UTILS_H_
 

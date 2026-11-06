@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations URL constant declarations
+// summary: Declares the default variations seed server URL constants for use by the variations component.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_URL_CONSTANTS_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_URL_CONSTANTS_H_
 

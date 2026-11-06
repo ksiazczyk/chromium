@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations crash keys API
+// summary: Declares crash key names and functions to initialize, update, and query crash keys describing active field trial experiments.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_CRASH_KEYS_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_CRASH_KEYS_H_
 

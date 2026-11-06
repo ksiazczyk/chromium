@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsSeedBridge
+// summary: Java bridge that stores and retrieves the variations first run seed in Android SharedPreferences, encoding raw seed bytes as Base64 for exchange with the native C++ side.
+// ---
+
 package org.chromium.components.variations.firstrun;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValueStoreChange unit test
+// summary: Tests that ValueStoreChange::ToValue serializes change lists into dictionaries with oldValue and newValue entries.
+// ---
+
 #include "components/value_store/value_store_change.h"
 #include "base/values.h"
 #include "testing/gtest/include/gtest/gtest.h"

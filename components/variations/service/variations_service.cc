@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsService implementation
+// summary: Implements the variations service that sets up field trials from the stored variations seed and fetches new seed data from the variations server, including seed encryption, country handling, and runtime mutable trials.
+// ---
+
 #include "components/variations/service/variations_service.h"
 
 #include <stddef.h>

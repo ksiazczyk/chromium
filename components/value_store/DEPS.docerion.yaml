@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the value_store directory
+summary: Restricts includes in this directory to //base and //third_party/leveldatabase.

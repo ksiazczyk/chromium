@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations preference names
+// summary: Defines the preference name constants used by the variations component, covering seeds, country codes, crash and fetch streaks, Google groups, and policy restrictions.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_PREF_NAMES_H_
 #define COMPONENTS_VARIATIONS_PREF_NAMES_H_
 

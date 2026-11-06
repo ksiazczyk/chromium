@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations HTTP headers implementation
+// summary: Implements validation of request URLs and appending the X-Client-Data experiment header to requests destined for Google domains.
+// ---
+
 #include "components/variations/net/variations_http_headers.h"
 
 #include <utility>

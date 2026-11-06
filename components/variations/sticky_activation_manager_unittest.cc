@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sticky activation manager unit tests
+// summary: Unit tests for StickyActivationManager covering activation checks, preference saving, invalid pref parsing, group changes, and safe behavior after the manager is destroyed.
+// ---
+
 #include "components/variations/sticky_activation_manager.h"
 
 #include "base/feature_list.h"

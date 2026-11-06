@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StoredSeedInfo proto definition
+// summary: Defines the StoredSeedInfo protobuf wrapping a stored variations seed with its signature, fetch dates, milestone, and country codes used for study consistency.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VariationsService unit tests
+// summary: Unit tests for VariationsService covering seed fetching and storage, seed processing, experiment change detection, and related network and pref behavior.
+// ---
+
 #include "components/variations/service/variations_service.h"
 
 #include <stddef.h>

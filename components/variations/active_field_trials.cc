@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active field trials implementation
+// summary: Implements hashing of field trial and group names into active group IDs, including suffix handling and override suffixes.
+// ---
+
 #include "components/variations/active_field_trials.h"
 
 #include <stddef.h>

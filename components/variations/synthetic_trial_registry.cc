@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synthetic trial registry implementation
+// summary: Implements SyntheticTrialRegistry, which tracks synthetic field trials, notifies observers, and registers external experiment IDs gated by an allowlist feature.
+// ---
+
 #include "components/variations/synthetic_trial_registry.h"
 
 #include <algorithm>

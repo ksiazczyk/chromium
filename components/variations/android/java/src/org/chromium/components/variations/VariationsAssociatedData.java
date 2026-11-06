@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsAssociatedData
+// summary: JNI wrapper that lets Java code query field trial parameter values, feedback variation lists, variations state, and Google App variations from native code.
+// ---
+
 package org.chromium.components.variations;
 
 import androidx.annotation.VisibleForTesting;

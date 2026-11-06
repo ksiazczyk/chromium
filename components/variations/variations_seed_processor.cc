@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations seed processor implementation
+// summary: Applies studies from a variations seed by creating field trials, registering experiment params and handling flags, layers and Google group filters.
+// ---
+
 #include "components/variations/variations_seed_processor.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations network clock class declaration
+// summary: Declares VariationsNetworkClock, a thread-safe base::Clock implementation that observes network time updates for use by the variations service.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SERVICE_VARIATIONS_NETWORK_CLOCK_H_
 #define COMPONENTS_VARIATIONS_SERVICE_VARIATIONS_NETWORK_CLOCK_H_
 

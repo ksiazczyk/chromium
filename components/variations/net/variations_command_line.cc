@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations command line implementation
+// summary: Implements unpacking of a base64-encoded variations state file into command-line switches and serializing or encrypting field trial and feature state.
+// ---
+
 #include "components/variations/net/variations_command_line.h"
 
 #include "base/base64.h"

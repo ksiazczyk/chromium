@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rollup resolver plugin for the variations parser
+// summary: Rollup plugin that maps @bufbuild/protobuf imports to the local ESM distribution and links the parser to its generated proto bindings during bundling.
+// ---
+
 import path from 'node:path';
 import fs from 'node:fs';
 

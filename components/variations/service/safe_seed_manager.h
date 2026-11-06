@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe seed manager class declaration
+// summary: Declares the SafeSeedManager class, which tracks crash and seed-fetch failure streaks to choose between regular, safe, and null variations seeds in Chrome.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SERVICE_SAFE_SEED_MANAGER_H_
 #define COMPONENTS_VARIATIONS_SERVICE_SAFE_SEED_MANAGER_H_
 

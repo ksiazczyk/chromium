@@ -5,6 +5,12 @@
 // This file was exported from google3, do not edit manually.
 // See README.chromium for details.
 
+// ---docerion
+// type: source
+// title: Study proto definition
+// summary: Defines the Study protobuf representing a Finch study sent to clients, covering expiry, consistency settings, layer membership, and Google web visibility rules.
+// ---
+
 edition = "2023";
 
 option optimize_for = LITE_RUNTIME;

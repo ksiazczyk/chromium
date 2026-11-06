@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyLevelDb implementation
+// summary: Implements lazy opening of a leveldb database with read, delete, iterator and corruption recovery support plus UMA logging.
+// ---
+
 #include "components/value_store/lazy_leveldb.h"
 
 #include <string_view>

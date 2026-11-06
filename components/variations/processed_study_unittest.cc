@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Processed study unit tests
+// summary: Unit tests verifying ProcessedStudy validation of valid and invalid studies, including study names, experiment names, feature names, and probability handling.
+// ---
+
 #include "components/variations/processed_study.h"
 
 #include <cstdint>

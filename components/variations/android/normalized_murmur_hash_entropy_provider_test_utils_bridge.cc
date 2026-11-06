@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for MurmurHash entropy provider test utils
+// summary: Implements JNI functions that let Java tests compute MurmurHash16 and entropy for trials through the normalized MurmurHash entropy provider.
+// ---
+
 #include <jni.h>
 #include "components/variations/android/test_support_jni_headers/NormalizedMurmurHashEntropyProviderTestUtilsBridge_jni.h"
 #include "components/variations/entropy_provider.h"

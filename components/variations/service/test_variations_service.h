@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test variations service class declaration
+// summary: Declares TestVariationsService, a VariationsService subclass with test doubles that also registers variations and metrics prefs for unit tests.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_SERVICE_TEST_VARIATIONS_SERVICE_H_
 #define COMPONENTS_VARIATIONS_SERVICE_TEST_VARIATIONS_SERVICE_H_
 

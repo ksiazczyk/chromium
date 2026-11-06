@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations associated data unit tests
+// summary: Unit tests covering association, retrieval, and clearing of Google VariationIDs for field trial groups across ID collection keys.
+// ---
+
 #include "components/variations/variations_associated_data.h"
 
 #include "base/metrics/field_trial.h"

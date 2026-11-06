@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Experiment group ID helpers implementation
+// summary: Implements helpers that check whether studies or experiment groups set Google web or app experiment IDs and whether a study consumes entropy.
+// ---
+
 #include "components/variations/experiment_group_ids.h"
 
 #include <algorithm>

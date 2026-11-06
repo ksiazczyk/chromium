@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations service utilities unit tests
+// summary: Unit tests verifying that seed expiration is computed correctly for combinations of fetch time and binary build time.
+// ---
+
 #include "components/variations/service/variations_service_utils.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe seed manager unit tests
+// summary: Unit tests for SafeSeedManager covering seed type selection, failure streak bookkeeping, and storing active seed state as a safe seed using fake seed stores.
+// ---
+
 #include "components/variations/service/safe_seed_manager.h"
 
 #include <memory>

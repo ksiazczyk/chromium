@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations seed store header
+// summary: Declares VariationsSeedStore, which reads and writes the variations seed from Local State, including validated seed data and signature handling.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_VARIATIONS_SEED_STORE_H_
 #define COMPONENTS_VARIATIONS_VARIATIONS_SEED_STORE_H_
 

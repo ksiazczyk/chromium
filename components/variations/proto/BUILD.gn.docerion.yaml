@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Variations proto build targets
+summary: GN build file defining the variations proto libraries, including an Android Java proto library, a fuzzable proto library, and TypeScript bindings for the DevTools X-Client-Data parser.

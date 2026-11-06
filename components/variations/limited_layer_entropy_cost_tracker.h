@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Limited layer entropy cost tracker class declaration
+// summary: Declares the LimitedLayerEntropyCostTracker class that tracks entropy used by studies referencing a limited layer and reports whether the allowed entropy limit is exceeded.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_LIMITED_LAYER_ENTROPY_COST_TRACKER_H_
 #define COMPONENTS_VARIATIONS_LIMITED_LAYER_ENTROPY_COST_TRACKER_H_
 

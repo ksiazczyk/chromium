@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test variations service implementation
+// summary: Implements TestVariationsService, a test variant of VariationsService built with a stubbed service client and request-allowed notifier for use in tests.
+// ---
+
 #include "components/variations/service/test_variations_service.h"
 
 #include <memory>

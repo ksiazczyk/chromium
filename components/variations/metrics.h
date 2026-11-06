@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations metrics enums and declarations
+// summary: Defines UMA result enums for seed loading, storing, signature verification, and runtime mutable changes, with declarations for recording these metrics.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_METRICS_H_
 #define COMPONENTS_VARIATIONS_METRICS_H_
 

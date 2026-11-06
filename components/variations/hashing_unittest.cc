@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for variations hashing
+// summary: Verifies that HashName produces stable known hash values across platforms and that HashNameAsHexString returns the expected hex string.
+// ---
+
 
 #include "components/variations/hashing.h"
 

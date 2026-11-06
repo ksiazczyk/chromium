@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Variations HTTP headers interface
+// summary: Declares enums and functions for appending Chrome experiment and metrics state headers to network requests in first-party contexts.
+// ---
+
 #ifndef COMPONENTS_VARIATIONS_NET_VARIATIONS_HTTP_HEADERS_H_
 #define COMPONENTS_VARIATIONS_NET_VARIATIONS_HTTP_HEADERS_H_
 

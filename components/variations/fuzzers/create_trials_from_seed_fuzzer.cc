@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateTrialsFromSeed libFuzzer fuzzer
+// summary: LibFuzzer proto fuzzer that runs VariationsSeedProcessor::CreateTrialsFromSeed on fuzzed VariationsSeed messages using a mocked Android stable-channel client state.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/feature_list.h"

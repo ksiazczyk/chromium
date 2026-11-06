@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LeveldbValueStore implementation
+// summary: Implements the ValueStore interface on top of leveldb, covering get, set, remove and clear operations plus memory dump reporting.
+// ---
+
 #include "components/value_store/leveldb_value_store.h"
 
 #include <inttypes.h>
