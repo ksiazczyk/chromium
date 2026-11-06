@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock password protection service declaration
+// summary: Declares a gmock-based mock of PasswordProtectionService with mocked methods for account info, pinging, warnings, and referrer chain handling used in tests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_PASSWORD_PROTECTION_MOCK_PASSWORD_PROTECTION_SERVICE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_PASSWORD_PROTECTION_MOCK_PASSWORD_PROTECTION_SERVICE_H_
 

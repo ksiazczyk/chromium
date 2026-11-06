@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client side detection feature cache header
+// summary: Declares a WebContents-scoped cache for CSD-Phishing local verdicts intended for use by CSD-Phishing and PhishGuard.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_CLIENT_SIDE_DETECTION_FEATURE_CACHE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_CLIENT_SIDE_DETECTION_FEATURE_CACHE_H_
 

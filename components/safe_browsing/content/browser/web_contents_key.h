@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsKey header for Safe Browsing
+// summary: Defines a strong-alias key type that identifies a WebContents by its address for comparison only, plus a helper to create it without allowing dereferencing.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_WEB_CONTENTS_KEY_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_WEB_CONTENTS_KEY_H_
 

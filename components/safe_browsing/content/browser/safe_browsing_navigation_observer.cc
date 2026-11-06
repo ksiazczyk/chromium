@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing navigation observer implementation
+// summary: Implements a WebContents observer that records navigation events, user gestures, and redirects to build referrer chains for Safe Browsing.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_navigation_observer.h"
 
 #include <memory>

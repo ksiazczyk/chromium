@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Validation utilities for URL hash prefixes
+# summary: Utilities that validate concatenated URL hash prefixes for size, duplicates, entry count, and known allowlisted or blocked URLs.
+# ---
+
 """Utilities for validating concatenated URL hash prefixes."""
 
 import hashlib

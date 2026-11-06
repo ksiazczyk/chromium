@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the phishing classifier
+summary: Defines GN build targets for the phishing classifier sources, its unit tests, and the libFuzzer client-side phishing fuzzer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content-dependent phishing image embedder class declaration
+// summary: Declares the content-layer phishing image embedder that extracts visual features and screenshots from a RenderFrame for the phishing classifier.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_CONTENT_PHISHING_IMAGE_EMBEDDER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_CONTENT_PHISHING_IMAGE_EMBEDDER_H_
 

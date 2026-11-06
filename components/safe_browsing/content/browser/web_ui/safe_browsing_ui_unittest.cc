@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing WebUI unit tests
+// summary: Unit tests for the Safe Browsing WebUI, verifying handler registration and event updates such as V5 get-hash lookups and log messages.
+// ---
+
 #include "components/safe_browsing/content/browser/web_ui/safe_browsing_ui.h"
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlCheckerHolder implementation
+// summary: Implements UrlCheckerHolder, which drives SafeBrowsingUrlCheckerImpl URL checks and reports completion results to callers.
+// ---
+
 #include "components/safe_browsing/content/browser/url_checker_holder.h"
 
 #include "base/check_op.h"

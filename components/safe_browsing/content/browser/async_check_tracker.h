@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncCheckTracker class declaration
+// summary: Declares a WebContentsUserData that manages UrlCheckerHolder lifetimes, triggers warnings, and exposes navigation status for unsafe resources.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_ASYNC_CHECK_TRACKER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_ASYNC_CHECK_TRACKER_H_
 

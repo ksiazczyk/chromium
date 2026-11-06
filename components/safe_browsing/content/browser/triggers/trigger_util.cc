@@ -5,6 +5,12 @@
 // This file contains some useful utilities for the safe_browsing/triggers
 // classes
 
+// ---docerion
+// type: source
+// title: Trigger utilities
+// summary: Provides DetectGoogleAd, a heuristic that guesses whether a render frame shows a Google ad based on frame name and safeframe URL patterns.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/trigger_util.h"
 
 #include <string>

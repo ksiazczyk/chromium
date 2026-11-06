@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the Safe Browsing WebUI directory
+summary: Points to the platform WebUI owners for trivial or mechanical horizontal WebUI changes in this directory.

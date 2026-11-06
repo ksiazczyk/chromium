@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download warning UMA metrics implementation
+// summary: Implements helpers that record UMA histograms and user actions when dangerous download warnings are shown or bypassed.
+// ---
+
 #include "components/safe_browsing/content/browser/download/download_stats.h"
 
 #include "base/files/file_path.h"

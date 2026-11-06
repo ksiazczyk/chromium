@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSideDetectionService implementation
+// summary: Implements the content-level client-side detection service that pushes phishing models to renderers and verifies phishing verdicts with Google backends.
+// ---
+
 #include "components/safe_browsing/content/browser/client_side_detection_service.h"
 
 #include <algorithm>

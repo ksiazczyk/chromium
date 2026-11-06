@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit check for download file types proto changes
+# summary: Presubmit script that warns developers when download_file_types.proto is modified, prompting them to keep the change backwards compatible.
+# ---
+
 
 def CheckChangeOnUpload(input_api, output_api):
     results = []

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeBrowsingUIManager unit tests
+// summary: Unit tests covering SafeBrowsingUIManager blocking page display, interstitial callbacks, and warning report behavior.
+// ---
+
 #include "components/safe_browsing/content/browser/ui_manager.h"
 
 #include "base/functional/bind.h"

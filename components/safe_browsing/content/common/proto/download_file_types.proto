@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download file types protobuf definitions
+// summary: Protobuf definitions describing download file types, danger levels, platform settings, ping settings and content inspection rules used by Safe Browsing.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

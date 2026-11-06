@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf definition for phishing fuzzer cases
+// summary: Defines the protobuf message describing fuzzer cases with a model memory region plus boolean and real feature lists.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

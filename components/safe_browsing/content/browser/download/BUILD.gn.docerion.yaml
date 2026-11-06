@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for download stats
+summary: Defines GN source sets for the download stats code and its unit tests, listing their sources and dependencies.

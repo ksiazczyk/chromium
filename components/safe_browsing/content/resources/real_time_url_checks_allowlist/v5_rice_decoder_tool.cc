@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command line tool decoding Safe Browsing v5 Rice deltas
+// summary: C++ command line tool that parses a Safe Browsing v5 hash list response, Rice-decodes full hashes, and outputs 16-byte prefixes.
+// ---
+
 #include <cstdint>
 #include <iostream>
 #include <iterator>

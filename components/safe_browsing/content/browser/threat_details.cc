@@ -4,6 +4,12 @@
 //
 // Implementation of the ThreatDetails class.
 
+// ---docerion
+// type: source
+// title: Threat details report collection implementation
+// summary: Implements ThreatDetails, which collects page, network, and history data into a client threat report when users opt in from a Safe Browsing warning page.
+// ---
+
 #include "components/safe_browsing/content/browser/threat_details.h"
 
 #include <stddef.h>

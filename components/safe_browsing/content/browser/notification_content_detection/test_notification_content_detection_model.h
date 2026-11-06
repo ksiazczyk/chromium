@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test notification content detection model header
+// summary: Declares TestNotificationContentDetectionModel, a test double that invokes the model execution callback and records received inputs for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_NOTIFICATION_CONTENT_DETECTION_TEST_NOTIFICATION_CONTENT_DETECTION_MODEL_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_NOTIFICATION_CONTENT_DETECTION_TEST_NOTIFICATION_CONTENT_DETECTION_MODEL_H_
 

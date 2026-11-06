@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File type policies unit tests
+// summary: Unit tests verifying download file type policy lookups, resource bundle unpacking, and platform-specific danger settings for known extensions.
+// ---
+
 #include "components/safe_browsing/content/common/file_type_policies.h"
 
 #include <string.h>

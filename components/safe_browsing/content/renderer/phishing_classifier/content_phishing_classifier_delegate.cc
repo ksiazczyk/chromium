@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing classifier delegate implementation
+// summary: Implements the render-frame delegate that triggers phishing classification on page load, handles retries, and reports results.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/content_phishing_classifier_delegate.h"
 
 #include <memory>

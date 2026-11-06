@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for download file types changes
+# summary: Runs presubmit checks that require a version_id bump and warn when new DANGEROUS file types are added to download_file_types.asciipb.
+# ---
+
 """Presubmit checks for SafeBrowsing download_file_types."""
 
 

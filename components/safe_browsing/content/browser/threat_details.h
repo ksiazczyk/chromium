@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Threat details class declaration
+// summary: Declares ThreatDetails, which builds the detailed threat reports sent when users opt in from the Safe Browsing warning page.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_THREAT_DETAILS_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_THREAT_DETAILS_H_
 

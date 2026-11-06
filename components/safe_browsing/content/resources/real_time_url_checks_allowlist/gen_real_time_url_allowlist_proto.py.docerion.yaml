@@ -1,0 +1,4 @@
+# Docerion header of gen_real_time_url_allowlist_proto.py.
+type: script
+title: Generator converting the allowlist ASCII proto to binary
+summary: Converts the ASCII real_time_url_allowlist.asciipb proto into a binary protobuf resource, optionally written for GCS upload.

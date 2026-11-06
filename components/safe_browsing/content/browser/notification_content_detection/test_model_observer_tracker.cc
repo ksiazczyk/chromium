@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test model observer tracker implementation
+// summary: Test double of the Optimization Guide model provider that records observer registrations for optimization target models.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/test_model_observer_tracker.h"
 
 namespace safe_browsing {

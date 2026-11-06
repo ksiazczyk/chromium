@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Commit deferring condition unit tests
+// summary: Unit tests verifying that the condition defers navigations on creation and proceeds or resumes when the password protection request is resolved.
+// ---
+
 #include "components/safe_browsing/content/browser/password_protection/password_protection_commit_deferring_condition.h"
 
 #include <memory>

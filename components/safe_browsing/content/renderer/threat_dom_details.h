@@ -6,6 +6,12 @@
 // interesting URLs such as those of scripts and frames. When done, it sends
 // them to the ThreatDetails that requested them.
 
+// ---docerion
+// type: source
+// title: ThreatDOMDetails class declaration
+// summary: Declares a per-RenderFrame observer that gathers interesting URLs such as scripts and frames and sends them to the ThreatDetails that requested them.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_THREAT_DOM_DETAILS_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_THREAT_DOM_DETAILS_H_
 

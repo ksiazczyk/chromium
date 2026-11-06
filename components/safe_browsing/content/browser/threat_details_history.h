@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreatDetailsHistory class declaration
+// summary: Declares ThreatDetailsRedirectsCollector, a history service observer that gathers redirect chains for Safe Browsing threat reports.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_THREAT_DETAILS_HISTORY_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_THREAT_DETAILS_HISTORY_H_
 

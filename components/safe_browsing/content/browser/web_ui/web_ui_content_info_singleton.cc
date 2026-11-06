@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI content info singleton implementation
+// summary: Implements the browser-process WebUIContentInfoSingleton, providing log posting, cookie manager, and referrer chain provider access for the WebUI.
+// ---
+
 #include "components/safe_browsing/content/browser/web_ui/web_ui_content_info_singleton.h"
 
 #include "base/command_line.h"

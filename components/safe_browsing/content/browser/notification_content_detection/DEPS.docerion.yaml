@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for notification content detection
+summary: Declares the include rules permitting dependencies on permissions, site engagement, Blink notification APIs, and resource headers.

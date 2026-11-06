@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock safe browsing database manager class declaration
+// summary: Declares a test double of the safe browsing database manager with configurable allowlist match results and delayed callback control.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_NOTIFICATION_CONTENT_DETECTION_MOCK_SAFE_BROWSING_DATABASE_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_NOTIFICATION_CONTENT_DETECTION_MOCK_SAFE_BROWSING_DATABASE_MANAGER_H_
 

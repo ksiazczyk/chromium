@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client-side phishing fuzzer harness
+// summary: LibFuzzer proto fuzzer that builds a scorer from a fuzzed model in shared memory and feeds it generated boolean and real features.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

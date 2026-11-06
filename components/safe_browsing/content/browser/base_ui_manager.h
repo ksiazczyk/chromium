@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseUIManager class declaration
+// summary: Declares the ref-counted manager responsible for showing blocking pages, allowlisting URLs, and sending threat details reports.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_BASE_UI_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_BASE_UI_MANAGER_H_
 

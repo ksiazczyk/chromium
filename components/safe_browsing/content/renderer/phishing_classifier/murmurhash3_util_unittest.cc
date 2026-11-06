@@ -4,6 +4,12 @@
 //
 // Unit test to verify basic operation of murmurhash3.
 
+// ---docerion
+// type: test
+// title: MurmurHash3 utility unit test
+// summary: Unit test verifying MurmurHash3String returns the expected hash values for sample strings and seeds.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/murmurhash3_util.h"
 
 #include <string>

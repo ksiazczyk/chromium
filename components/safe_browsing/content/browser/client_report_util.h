@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client Safe Browsing report utilities header
+// summary: Declares helpers that convert threat types and interstitial interactions into client report fields and fill basic resource details for Safe Browsing reports.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_CLIENT_REPORT_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_CLIENT_REPORT_UTIL_H_
 

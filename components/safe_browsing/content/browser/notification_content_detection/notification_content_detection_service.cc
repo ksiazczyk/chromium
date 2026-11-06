@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification content detection service implementation
+// summary: Implements the service that checks notification origins against high confidence allowlists and decides whether to run the detection model.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/notification_content_detection_service.h"
 
 #include "base/functional/callback_helpers.h"

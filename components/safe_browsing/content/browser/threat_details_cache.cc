@@ -4,6 +4,12 @@
 //
 // Implementation of the ThreatDetailsCache class.
 
+// ---docerion
+// type: source
+// title: ThreatDetailsCache implementation
+// summary: Implements ThreatDetailsCacheCollector, which fetches resource bodies and headers from the HTTP cache for Safe Browsing extended threat reports.
+// ---
+
 #include "components/safe_browsing/content/browser/threat_details_cache.h"
 
 #include <stdint.h>

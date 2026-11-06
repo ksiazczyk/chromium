@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for file type policy overrides
+// summary: Unit tests covering URL validity, local file URLs, wildcard domains, and pref configuration for file type warning overrides.
+// ---
+
 #include "components/safe_browsing/content/common/file_type_policies_policy_util.h"
 
 #include "components/policy/core/browser/configuration_policy_pref_store_test.h"

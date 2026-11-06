@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseBlockingPage implementation
+// summary: Implements the base Safe Browsing interstitial page, including display options, metrics reporting, and threat details delays.
+// ---
+
 #include "components/safe_browsing/content/browser/base_blocking_page.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit deferring condition declaration
+// summary: Declares a CommitDeferringCondition that holds navigations during sync password reuse pings or while a modal warning dialog is shown.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_PASSWORD_PROTECTION_PASSWORD_PROTECTION_COMMIT_DEFERRING_CONDITION_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_PASSWORD_PROTECTION_PASSWORD_PROTECTION_COMMIT_DEFERRING_CONDITION_H_
 

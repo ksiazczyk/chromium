@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererURLLoaderThrottle implementation
+// summary: Implements the renderer-side URL loader throttle that queries Safe Browsing for requests and redirects, defers loads pending checks, and cancels unsafe ones.
+// ---
+
 #include "components/safe_browsing/content/renderer/renderer_url_loader_throttle.h"
 
 #include "base/check_op.h"

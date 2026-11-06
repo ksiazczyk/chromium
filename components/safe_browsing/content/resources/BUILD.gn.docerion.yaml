@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for download file types protobuf generation
+summary: Defines GN actions that convert download_file_types.asciipb into binary protobufs for the current build platform and for all platforms.

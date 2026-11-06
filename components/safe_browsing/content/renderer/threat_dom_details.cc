@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreatDOMDetails implementation
+// summary: Implements ThreatDOMDetails, which extracts resource URLs and configurable tag and attribute data from a frame's DOM for Safe Browsing threat reports.
+// ---
+
 #include "components/safe_browsing/content/renderer/threat_dom_details.h"
 
 #include <algorithm>

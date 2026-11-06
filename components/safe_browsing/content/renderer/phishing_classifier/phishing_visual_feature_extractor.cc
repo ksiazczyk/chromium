@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing visual feature extractor implementation
+// summary: Implements capture of a renderer frame into an SkBitmap on a background thread, with histogram and crash key logging, for phishing visual features.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/phishing_visual_feature_extractor.h"
 
 #include <memory>

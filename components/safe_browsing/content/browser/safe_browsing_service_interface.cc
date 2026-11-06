@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing service interface implementation
+// summary: Implements the factory hooks of SafeBrowsingServiceInterface used to create the Safe Browsing service instance.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_service_interface.h"
 
 namespace safe_browsing {

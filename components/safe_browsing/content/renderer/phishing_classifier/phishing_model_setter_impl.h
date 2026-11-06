@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing model setter Mojo interface declaration
+// summary: Declares the RenderThreadObserver that registers the PhishingModelSetter Mojo interface for receiving phishing model files.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_PHISHING_MODEL_SETTER_IMPL_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_RENDERER_PHISHING_CLASSIFIER_PHISHING_MODEL_SETTER_IMPL_H_
 

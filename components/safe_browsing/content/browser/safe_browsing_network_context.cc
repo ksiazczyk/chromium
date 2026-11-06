@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing network context implementation
+// summary: Implements the network context and shared URL loader factory that Safe Browsing uses for its network requests on the UI thread.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_network_context.h"
 
 #include <memory>

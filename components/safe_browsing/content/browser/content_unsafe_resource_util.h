@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content unsafe resource utilities header
+// summary: Declares helpers for looking up the navigation entry and web contents tied to an unsafe resource, with documented validity constraints.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_CONTENT_UNSAFE_RESOURCE_UTIL_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_CONTENT_UNSAFE_RESOURCE_UTIL_H_
 

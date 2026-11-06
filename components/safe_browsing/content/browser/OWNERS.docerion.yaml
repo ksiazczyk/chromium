@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safe Browsing browser code owners
+summary: OWNERS file assigning per-file reviewers for interstitials, reports, and client-side detection code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing network context class declaration
+// summary: Declares SafeBrowsingNetworkContext, which owns the NetworkContext and URL loader factory used for Safe Browsing requests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_SAFE_BROWSING_NETWORK_CONTEXT_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_SAFE_BROWSING_NETWORK_CONTEXT_H_
 

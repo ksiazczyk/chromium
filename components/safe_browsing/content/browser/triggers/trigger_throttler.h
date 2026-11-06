@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trigger throttler header
+// summary: Declares TriggerThrottler and the TriggerType enum, tracking how often each trigger type fires and throttling triggers that exceed their daily quota.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_TRIGGER_THROTTLER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_TRIGGER_THROTTLER_H_
 

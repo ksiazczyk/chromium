@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AsyncCheckTracker unit tests
+// summary: Unit tests covering async Safe Browsing check tracking, navigation completion handling, and blocking page display behavior.
+// ---
+
 #include "components/safe_browsing/content/browser/async_check_tracker.h"
 
 #include "base/functional/callback_helpers.h"

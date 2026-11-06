@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client Safe Browsing report utilities implementation
+// summary: Maps threat sources, threat types, and interstitial commands to ClientSafeBrowsingReportRequest fields used when building Safe Browsing client reports.
+// ---
+
 #include "components/safe_browsing/content/browser/client_report_util.h"
 
 #include "components/safe_browsing/content/browser/content_unsafe_resource_util.h"

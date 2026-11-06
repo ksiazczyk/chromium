@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification content detection model unit tests
+// summary: Tests model input formatting, inference verdicts, and metric logging for the notification content detection model.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/notification_content_detection_model.h"
 
 #include "base/base_paths.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad sampler trigger unit tests
+// summary: Unit tests for the ad sampler trigger covering sampling frequency behaviour, ad detection on frames and histogram metrics using a mock trigger manager.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/ad_sampler_trigger.h"
 
 #include "base/memory/scoped_refptr.h"

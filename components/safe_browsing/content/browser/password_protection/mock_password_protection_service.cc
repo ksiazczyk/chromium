@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock password protection service implementation
+// summary: Implements constructors for MockPasswordProtectionService, a test double that wraps PasswordProtectionService with null or provided dependencies.
+// ---
+
 #include "components/safe_browsing/content/browser/password_protection/mock_password_protection_service.h"
 
 #include "components/content_settings/core/browser/host_content_settings_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing controller client implementation
+// summary: Implements the Safe Browsing interstitial controller client, handling proceed and go-back actions for committed interstitials.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_controller_client.h"
 
 #include "base/feature_list.h"

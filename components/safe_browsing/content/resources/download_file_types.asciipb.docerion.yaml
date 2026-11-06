@@ -1,0 +1,4 @@
+# Docerion header of download_file_types.asciipb.
+type: config
+title: Download file types policy source config
+summary: ASCII protobuf listing file extensions with UMA values, Safe Browsing ping settings, and per-platform danger levels for Chrome downloads.

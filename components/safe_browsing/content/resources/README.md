@@ -1,3 +1,11 @@
+---
+type: readme
+title: Behavior of Download File Types in Chrome
+summary: Explains how Chrome's download file type policy works and gives procedures and guidelines for editing download_file_types.asciipb.
+relations:
+  - documents /components/safe_browsing/content/resources/download_file_types.asciipb
+---
+
 # Behavior of Download File Types in Chrome
 
 This describes how to adjust file-type download behavior in

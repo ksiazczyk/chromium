@@ -25,6 +25,12 @@
 // decides to proceed in the first interstitial, we display all queued unsafe
 // resources in a new interstitial.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingBlockingPage header
+// summary: Declares SafeBrowsingBlockingPage, which shows interstitials for malicious pages and forwards the user's proceed or go-back decision to the UI manager.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_SAFE_BROWSING_BLOCKING_PAGE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_SAFE_BROWSING_BLOCKING_PAGE_H_
 

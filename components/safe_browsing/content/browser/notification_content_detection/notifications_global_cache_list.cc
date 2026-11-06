@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications global cache list implementation
+// summary: Loads the global cache list domains from bundled resources and reports whether notification protections should be skipped for a URL.
+// ---
+
 #include "components/safe_browsing/content/browser/notification_content_detection/notifications_global_cache_list.h"
 
 #include "base/metrics/histogram_functions.h"

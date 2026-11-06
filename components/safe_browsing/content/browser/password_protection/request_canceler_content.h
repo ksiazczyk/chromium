@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content-layer request canceler header
+// summary: Declares RequestCancelerContent, a RequestCanceler and WebContentsObserver that cancels requests when the WebContents goes away.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_PASSWORD_PROTECTION_REQUEST_CANCELER_CONTENT_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_PASSWORD_PROTECTION_REQUEST_CANCELER_CONTENT_H_
 

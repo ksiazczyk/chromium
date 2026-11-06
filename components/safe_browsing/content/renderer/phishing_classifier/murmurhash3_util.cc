@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MurmurHash3 string hashing utility implementation
+// summary: Implements MurmurHash3String, a wrapper that computes the 32-bit MurmurHash3 of a string for the phishing classifier.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/murmurhash3_util.h"
 
 #include "third_party/smhasher/src/src/MurmurHash3.h"

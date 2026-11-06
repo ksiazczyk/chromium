@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing content UI handler header
+// summary: Declares the SafeBrowsingContentUIHandler class, a WebUI message handler that bridges Safe Browsing events and JavaScript listeners.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_WEB_UI_SAFE_BROWSING_CONTENT_UI_HANDLER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_WEB_UI_SAFE_BROWSING_CONTENT_UI_HANDLER_H_
 

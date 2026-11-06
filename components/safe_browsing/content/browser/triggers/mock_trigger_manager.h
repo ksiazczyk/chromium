@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock trigger manager header
+// summary: Declares a gmock-based MockTriggerManager that stubs the threat detail collection methods of TriggerManager for use in trigger unit tests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_MOCK_TRIGGER_MANAGER_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_TRIGGERS_MOCK_TRIGGER_MANAGER_H_
 

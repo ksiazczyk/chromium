@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing image embedder delegate implementation
+// summary: Implements the RenderFrame observer that starts browser-requested phishing image embedding and cancels it on navigation or new requests.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/content_phishing_image_embedder_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trigger manager unit tests
+// summary: Unit tests for TriggerManager covering report start and finish conditions, user preferences, quota handling and data collector tracking with mock ThreatDetails and throttler.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/trigger_manager.h"
 
 #include "base/run_loop.h"

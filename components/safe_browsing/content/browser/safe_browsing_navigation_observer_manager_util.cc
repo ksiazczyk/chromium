@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation observer manager utilities implementation
+// summary: Implements helpers that trim referrer chains to a maximum length by emptying non-user-gesture entries, prioritizing middle indices.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_navigation_observer_manager_util.h"
 
 namespace safe_browsing {

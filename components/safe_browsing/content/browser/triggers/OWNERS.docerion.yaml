@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file assigning per-file review ownership for the mock trigger manager, suspicious site trigger and trigger manager files to a specific developer.

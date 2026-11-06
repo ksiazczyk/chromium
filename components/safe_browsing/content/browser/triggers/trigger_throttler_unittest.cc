@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trigger throttler unit tests
+// summary: Unit tests for TriggerThrottler verifying daily quota enforcement, unlimited security interstitial quota and correct handling when quota is set to one.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/trigger_throttler.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing navigation observer manager implementation
+// summary: Manages recorded navigation events and resolved IPs, attributing navigations and building referrer chains for Safe Browsing requests and reports.
+// ---
+
 #include "components/safe_browsing/content/browser/safe_browsing_navigation_observer_manager.h"
 
 #include <iterator>

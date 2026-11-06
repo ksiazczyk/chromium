@@ -1,3 +1,12 @@
+---
+type: readme
+title: Behavior of Real Time URL Allowlist Checks in Chrome on Android
+summary: Explains how to update the real time URL allowlist component, push it via the component updater, and roll back bad versions.
+relations:
+  - documents /components/safe_browsing/content/resources/real_time_url_checks_allowlist/real_time_url_allowlist.asciipb
+  - documents /components/safe_browsing/content/resources/real_time_url_checks_allowlist/store_real_time_url_allowlist_prefixes.py
+---
+
 # Behavior of Real Time URL Allowlist Checks in Chrome on Android
 
 This describes how a dev can create a new allowlist component version with an updated

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trigger throttler implementation
+// summary: Implements TriggerThrottler daily quotas for trigger types, persisting trigger event timestamps in preferences and enforcing per-day firing limits.
+// ---
+
 #include "components/safe_browsing/content/browser/triggers/trigger_throttler.h"
 
 #include <algorithm>

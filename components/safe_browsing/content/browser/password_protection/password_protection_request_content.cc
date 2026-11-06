@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password protection request content implementation
+// summary: Implements the content-layer password protection request, including visual feature extraction, cache metadata logging, and deferred navigation management.
+// ---
+
 #include "components/safe_browsing/content/browser/password_protection/password_protection_request_content.h"
 
 #include "base/functional/callback.h"

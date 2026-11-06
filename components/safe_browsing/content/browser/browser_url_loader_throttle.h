@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser URL loader throttle header
+// summary: Declares BrowserURLLoaderThrottle, which queries Safe Browsing for original and redirect URLs in the browser process and cancels loads when any URL is unsafe.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_BROWSER_URL_LOADER_THROTTLE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_BROWSER_URL_LOADER_THROTTLE_H_
 

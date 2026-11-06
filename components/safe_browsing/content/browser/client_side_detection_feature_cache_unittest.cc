@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client side detection feature cache unit tests
+// summary: Tests that the client side detection feature cache is created for a WebContents and retrieved as the same instance on repeated creation.
+// ---
+
 #include "components/safe_browsing/content/browser/client_side_detection_feature_cache.h"
 
 #include "content/public/browser/web_contents.h"

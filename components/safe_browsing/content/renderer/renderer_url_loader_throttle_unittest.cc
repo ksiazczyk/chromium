@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RendererURLLoaderThrottle unit tests
+// summary: Unit tests using a fake Safe Browsing service to verify the throttle's deferral behavior for images, scripts, iframes, Chrome URLs, and redirects.
+// ---
+
 #include "components/safe_browsing/content/renderer/renderer_url_loader_throttle.h"
 
 #include <string_view>

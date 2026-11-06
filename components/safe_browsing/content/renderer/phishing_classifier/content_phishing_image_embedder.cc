@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content phishing image embedder implementation
+// summary: Implements the content-level image embedder that extracts page visuals and computes image feature embeddings for phishing detection.
+// ---
+
 #include "components/safe_browsing/content/renderer/phishing_classifier/content_phishing_image_embedder.h"
 
 #include <utility>

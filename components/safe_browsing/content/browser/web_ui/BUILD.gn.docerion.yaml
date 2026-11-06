@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing WebUI build targets
+summary: Defines the GN build targets for the Safe Browsing WebUI static library and its unit tests, listing public headers, sources, and dependencies.

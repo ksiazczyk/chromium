@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Safe Browsing renderer
+summary: Lists the allowed include dependencies for the renderer directory, covering content, blink, IPC, mojo, net, network services, and extensions headers.

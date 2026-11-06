@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit deferring condition implementation
+// summary: Implements the condition that defers navigation commits while password protection requests or modal warnings are pending, resuming them when resolved.
+// ---
+
 #include "components/safe_browsing/content/browser/password_protection/password_protection_commit_deferring_condition.h"
 
 #include "base/memory/weak_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreatDetailsCache class declaration
+// summary: Declares ThreatDetailsCacheCollector, which collects cached resources and response data for Safe Browsing threat details reports.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_THREAT_DETAILS_CACHE_H_
 #define COMPONENTS_SAFE_BROWSING_CONTENT_BROWSER_THREAT_DETAILS_CACHE_H_
 
