@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for wallet reminder notice coordinator
+summary: GN build file defining the coordinator source set and its unit test target with dependencies for the Wallet Reminder Notice feature.

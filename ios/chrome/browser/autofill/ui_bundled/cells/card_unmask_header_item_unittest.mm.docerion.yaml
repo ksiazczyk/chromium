@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_header_item_unittest.mm.
+type: test
+title: CardUnmaskHeaderItem unit tests
+summary: Unit tests verifying that configuring the card unmask header view sets the title and instructions labels to the item's texts.

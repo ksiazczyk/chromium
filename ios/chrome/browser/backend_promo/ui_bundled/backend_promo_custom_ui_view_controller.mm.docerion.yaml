@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_custom_ui_view_controller.mm.
+type: source
+title: Backend promo custom UI view controller implementation
+summary: Implements the promo view controller, choosing Lottie or confirmation alert UI and resolving color mappings from hex strings and semantic color names.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for autofill UI util
+summary: Defines the util and unit_tests source sets with their sources and dependencies for the autofill UI utility code.

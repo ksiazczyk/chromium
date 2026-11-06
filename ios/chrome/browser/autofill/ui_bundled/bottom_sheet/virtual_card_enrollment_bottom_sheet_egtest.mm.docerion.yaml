@@ -1,0 +1,4 @@
+# Docerion header of virtual_card_enrollment_bottom_sheet_egtest.mm.
+type: test
+title: Virtual card enrollment bottom sheet Earl Grey tests
+summary: Earl Grey UI tests that exercise virtual card enrollment flows with injected payments server responses.

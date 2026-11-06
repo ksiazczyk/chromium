@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_profile_agent.mm.
+type: source
+title: BackendPromoProfileAgent implementation
+summary: Implements the profile agent, creating the service at the final profile init stage and forwarding foreground-active scene transitions to it.

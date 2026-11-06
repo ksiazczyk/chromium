@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card unmask prompt view controller testing category
+// summary: Testing category exposing private CardUnmaskPromptViewController methods to simulate form submissions, expiration date updates, and error alerts in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CARD_UNMASK_PROMPT_VIEW_CONTROLLER_TESTING_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CARD_UNMASK_PROMPT_VIEW_CONTROLLER_TESTING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_custom_ui_coordinator_unittest.mm.
+type: test
+title: Backend promo custom UI coordinator unit tests
+summary: Unit tests verifying that the coordinator presents and dismisses the promo UI and forwards user actions to a fake delegate.

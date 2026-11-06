@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackendPromoProfileAgent header
+// summary: Declares a scene-observing profile agent that initializes BackendPromoService when the profile is initialized and notifies it on foreground activation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BACKEND_PROMO_MODEL_BACKEND_PROMO_PROFILE_AGENT_H_
 #define IOS_CHROME_BROWSER_BACKEND_PROMO_MODEL_BACKEND_PROMO_PROFILE_AGENT_H_
 

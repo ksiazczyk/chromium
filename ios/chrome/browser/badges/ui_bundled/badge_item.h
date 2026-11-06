@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge item protocol header
+// summary: Defines the BadgeItem protocol with the properties the UI needs to configure a badge button, such as badge type, state and tappability.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_ITEM_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_ITEM_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of virtual_card_enrollment_bottom_sheet_mediator_unittest.mm.
+type: test
+title: Virtual card enrollment bottom sheet mediator unit tests
+summary: Unit tests for the virtual card enrollment bottom sheet mediator, verifying enrollment progress handling, metrics, and confirmation dismissal timing.

@@ -1,0 +1,4 @@
+# Docerion header of badge_type_util.mm.
+type: source
+title: BadgeType utility implementation
+summary: Maps infobar types to badge types and filters unsupported badges behind the autofill badge removal feature flag.

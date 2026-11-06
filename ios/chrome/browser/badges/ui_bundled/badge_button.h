@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BadgeButton interface
+// summary: Declares BadgeButton, an extended-touch-target button that shows a badge icon and tracks its badge type, accepted state, and full-screen image.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_BUTTON_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_BUTTON_H_
 

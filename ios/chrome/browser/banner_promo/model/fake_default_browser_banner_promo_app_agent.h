@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake default browser banner promo app agent header
+// summary: Declares a fake app agent that manually triggers promo display and hide notifications for testing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BANNER_PROMO_MODEL_FAKE_DEFAULT_BROWSER_BANNER_PROMO_APP_AGENT_H_
 #define IOS_CHROME_BROWSER_BANNER_PROMO_MODEL_FAKE_DEFAULT_BROWSER_BANNER_PROMO_APP_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of virtual_card_enrollment_bottom_sheet_data.mm.
+type: source
+title: Virtual card enrollment bottom sheet data implementation
+summary: Implements the initializer that stores the enrollment prompt's card, texts and legal message lines.

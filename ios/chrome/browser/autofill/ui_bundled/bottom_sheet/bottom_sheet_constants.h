@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom sheet constants header
+// summary: Declares accessibility identifiers for the edit profile bottom sheet and the confirmation dismiss delay.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_BOTTOM_SHEET_BOTTOM_SHEET_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_BOTTOM_SHEET_BOTTOM_SHEET_CONSTANTS_H_
 

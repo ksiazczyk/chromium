@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend promo Lottie parameters header
+// summary: Declares the BackendPromoLottieParams class holding light and dark mode color mappings and text mappings for Lottie animations in backend promos.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_LOTTIE_PARAMS_H_
 #define IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_LOTTIE_PARAMS_H_
 

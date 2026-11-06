@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackendPromoService header
+// summary: Declares the BackendPromoService keyed service for backend promo features, with foreground notification, synthetic field trial registration, and provider hooks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BACKEND_PROMO_MODEL_BACKEND_PROMO_SERVICE_H_
 #define IOS_CHROME_BROWSER_BACKEND_PROMO_MODEL_BACKEND_PROMO_SERVICE_H_
 

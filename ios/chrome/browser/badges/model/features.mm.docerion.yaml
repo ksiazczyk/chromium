@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Badges model feature flag implementation
+summary: Defines the kAutofillBadgeRemoval feature flag, which is enabled by default.

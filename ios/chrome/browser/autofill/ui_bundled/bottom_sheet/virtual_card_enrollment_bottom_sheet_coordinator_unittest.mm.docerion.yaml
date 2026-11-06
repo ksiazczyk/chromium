@@ -1,0 +1,4 @@
+# Docerion header of virtual_card_enrollment_bottom_sheet_coordinator_unittest.mm.
+type: test
+title: Virtual card enrollment bottom sheet coordinator unit tests
+summary: Unit tests for the virtual card enrollment bottom sheet coordinator using fake web states, tab helper callbacks and OCMock.

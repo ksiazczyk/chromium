@@ -1,0 +1,4 @@
+# Docerion header of expiration_date_edit_item_unittest.mm.
+type: test
+title: Expiration date edit item unit tests
+summary: Unit tests for the expiration date edit item, covering cell label configuration, date picker updates to the item and text field, and accessibility behavior.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocking overlay view controller interface
+// summary: Declares BlockingOverlayViewController, which presents an overlay obscuring the screen and instructing the user to finish a dialog in another window.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BLOCKING_OVERLAY_UI_BUNDLED_BLOCKING_OVERLAY_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BLOCKING_OVERLAY_UI_BUNDLED_BLOCKING_OVERLAY_VIEW_CONTROLLER_H_
 

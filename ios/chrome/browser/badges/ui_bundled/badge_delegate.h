@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge delegate protocol header
+// summary: Declares the BadgeDelegate protocol used to forward badge tap actions and overflow menu badge types to the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_DELEGATE_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_DELEGATE_H_
 

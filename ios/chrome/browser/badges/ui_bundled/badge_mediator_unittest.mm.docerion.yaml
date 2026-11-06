@@ -1,0 +1,4 @@
+# Docerion header of badge_mediator_unittest.mm.
+type: test
+title: Badge mediator unit tests
+summary: Unit tests for BadgeMediator covering badge display and updates for normal and incognito profiles using fake consumers and infobars.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_profile_edit_mediator_unittest.mm.
+type: test
+title: AutofillProfileEditMediator unit tests
+summary: Unit tests for AutofillProfileEditMediator using fake consumer and delegate objects to verify profile editing behavior.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_app_interface.mm.
+type: source
+title: Autofill app interface implementation
+summary: Implements the autofill app interface helpers that manipulate profile, password, and credit card stores for UI testing.

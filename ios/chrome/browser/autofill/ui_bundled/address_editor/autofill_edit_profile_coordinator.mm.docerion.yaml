@@ -1,0 +1,4 @@
+# Docerion header of autofill_edit_profile_coordinator.mm.
+type: source
+title: Address edit profile coordinator implementation
+summary: Implements the address edit coordinator, wiring the mediator, table view controller, country selection, and save handler together.

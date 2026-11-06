@@ -1,0 +1,4 @@
+# Docerion header of chrome_autofill_client_ios_unittest.mm.
+type: test
+title: ChromeAutofillClientIOS unit tests
+summary: Unit tests for the Chrome iOS autofill client covering suggestion handling, infobars and feature-gated behavior.

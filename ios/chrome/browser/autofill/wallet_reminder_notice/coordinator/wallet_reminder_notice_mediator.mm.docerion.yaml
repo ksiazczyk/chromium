@@ -1,0 +1,4 @@
+# Docerion header of wallet_reminder_notice_mediator.mm.
+type: source
+title: Wallet Reminder Notice mediator implementation
+summary: Implements the mediator that populates the consumer with localized title, primary action label, and converted legal message lines.

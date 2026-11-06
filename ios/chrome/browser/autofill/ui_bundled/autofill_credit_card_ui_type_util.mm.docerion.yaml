@@ -1,0 +1,4 @@
+# Docerion header of autofill_credit_card_ui_type_util.mm.
+type: source
+title: Implementation of credit card UI type conversion
+summary: Implements the mapping from AutofillCreditCardUIType values to autofill field types.

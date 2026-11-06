@@ -1,0 +1,4 @@
+# Docerion header of default_browser_banner_promo_scene_observer.mm.
+type: source
+title: Default browser banner promo scene observer implementation
+summary: Implements scene, web state list and web state observation to report navigation and foreground changes to the banner promo app agent.

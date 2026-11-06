@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend promo custom UI coordinator delegate protocol
+// summary: Declares the delegate protocol invoked when the custom UI promo is dismissed with the user's action.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_CUSTOM_UI_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_CUSTOM_UI_COORDINATOR_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of incognito_badge_mediator_unittest.mm.
+type: test
+title: Incognito badge mediator unit tests
+summary: Unit tests verifying that IncognitoBadgeMediator shows the fullscreen off-the-record badge for incognito profiles, using a fake consumer and fake web states.

@@ -1,0 +1,4 @@
+# Docerion header of card_name_fix_flow_view_bridge.mm.
+type: source
+title: Card name fix flow view bridge implementation
+summary: Implements the bridge and view controller presenting the card name fix flow, forwarding accepted or dismissed names to the controller.

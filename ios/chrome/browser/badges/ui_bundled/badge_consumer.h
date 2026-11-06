@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BadgeConsumer protocol
+// summary: Declares the BadgeConsumer protocol through which the badge view controller receives displayed badge updates, read state, and force-disable mode.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_CONSUMER_H_
 

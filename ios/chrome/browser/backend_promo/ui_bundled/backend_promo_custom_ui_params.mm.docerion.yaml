@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_custom_ui_params.mm.
+type: source
+title: Backend promo custom UI params implementation
+summary: Implements the BackendPromoCustomUIParams parameter object used to configure the custom backend promo UI.

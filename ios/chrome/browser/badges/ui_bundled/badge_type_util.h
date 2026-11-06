@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BadgeType utility functions
+// summary: Declares conversions between BadgeType and InfobarType plus a check for whether an infobar type supports a badge.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_TYPE_UTIL_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_TYPE_UTIL_H_
 

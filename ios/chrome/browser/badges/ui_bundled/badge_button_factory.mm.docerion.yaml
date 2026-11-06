@@ -1,0 +1,4 @@
+# Docerion header of badge_button_factory.mm.
+type: source
+title: BadgeButtonFactory implementation
+summary: Implements BadgeButtonFactory, building styled badge buttons for password, card, address, translate, incognito, permissions, and reader mode badge types.

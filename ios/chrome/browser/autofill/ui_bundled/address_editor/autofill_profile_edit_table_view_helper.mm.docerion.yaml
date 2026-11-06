@@ -1,0 +1,4 @@
+# Docerion header of autofill_profile_edit_table_view_helper.mm.
+type: source
+title: Autofill profile edit table view helper implementation
+summary: Implements the helper that builds and manages the address editor table view, including field items, save and update buttons, error messaging, and migration prompt layouts.

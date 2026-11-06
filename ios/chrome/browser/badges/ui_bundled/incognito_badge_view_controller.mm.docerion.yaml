@@ -1,0 +1,4 @@
+# Docerion header of incognito_badge_view_controller.mm.
+type: source
+title: Incognito badge view controller implementation
+summary: Implements the incognito badge display, creating the badge button via a button factory and animating visibility and alpha with fullscreen progress.

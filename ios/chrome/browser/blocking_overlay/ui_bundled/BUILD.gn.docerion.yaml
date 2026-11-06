@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the blocking overlay UI
+summary: GN build file defining the ui_bundled source set with the blocking overlay view controller sources and its dependencies.

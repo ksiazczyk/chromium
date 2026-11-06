@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile edit item interface
+// summary: Declares a text edit table view item that carries the autofill field type it describes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_ADDRESS_EDITOR_CELLS_AUTOFILL_PROFILE_EDIT_ITEM_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_ADDRESS_EDITOR_CELLS_AUTOFILL_PROFILE_EDIT_ITEM_H_
 

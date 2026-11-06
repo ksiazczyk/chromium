@@ -1,0 +1,4 @@
+# Docerion header of save_card_bottom_sheet_coordinator.mm.
+type: source
+title: Save card bottom sheet coordinator implementation
+summary: Presents the save card bottom sheet and handles credit card scanning and scanned card editing flows.

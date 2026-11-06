@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_payments_autofill_client.mm.
+type: source
+title: IOSChromePaymentsAutofillClient implementation
+summary: Implements payments autofill flows such as card unmasking, save card prompts, OTP and CVC authentication and virtual card enrollment.

@@ -1,0 +1,4 @@
+# Docerion header of save_card_bottom_sheet_view_controller.mm.
+type: source
+title: Save card bottom sheet view controller implementation
+summary: Implements the save card bottom sheet UI, including above-title logos, spacing, legal messages, and loading and confirmation states.

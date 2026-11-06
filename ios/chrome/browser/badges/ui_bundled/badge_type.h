@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BadgeType enum definition
+// summary: Defines the BadgeType enum listing badge kinds such as password save, incognito, overflow, translate and permissions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_TYPE_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_TYPE_H_
 

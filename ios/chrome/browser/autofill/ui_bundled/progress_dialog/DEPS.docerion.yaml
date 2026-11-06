@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the progress dialog
+summary: Grants the progress dialog directory access to the iOS alert view UI package via Chromium's dependency include rules.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversion from credit card UI type to autofill field type
+// summary: Declares a function mapping an AutofillCreditCardUIType to the equivalent autofill field type.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_AUTOFILL_CREDIT_CARD_UI_TYPE_UTIL_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_AUTOFILL_CREDIT_CARD_UI_TYPE_UTIL_H_
 

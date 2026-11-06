@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet Reminder Notice coordinator header
+// summary: Declares the coordinator that creates and displays the Wallet Reminder Notice bottom sheet on iOS, initialized with legal message lines.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_WALLET_REMINDER_NOTICE_COORDINATOR_WALLET_REMINDER_NOTICE_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_WALLET_REMINDER_NOTICE_COORDINATOR_WALLET_REMINDER_NOTICE_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_autofill_client_ios.mm.
+type: source
+title: ChromeAutofillClientIOS implementation
+summary: Implements the Chrome iOS autofill client, connecting suggestions, payments, logging, infobars and personal context services.

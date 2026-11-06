@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for iOS autofill UI (DIR_METADATA)
+summary: Declares the bug tracker component, team email, and OS for the iOS autofill UI directory.

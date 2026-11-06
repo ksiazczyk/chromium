@@ -1,0 +1,4 @@
+# Docerion header of autofill_edit_profile_table_view_controller.mm.
+type: source
+title: AutofillEditProfileTableViewController implementation
+summary: Implements the address edit bottom sheet table view controller, configuring navigation, titles, and table content for save, update, and migration modes.

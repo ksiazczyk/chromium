@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for autofill cells
+summary: Defines the GN source_set for the autofill table view cells and a separate testonly source_set for their unit tests, listing sources and dependencies.

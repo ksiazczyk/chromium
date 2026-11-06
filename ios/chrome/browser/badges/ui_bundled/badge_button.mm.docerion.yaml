@@ -1,0 +1,4 @@
+# Docerion header of badge_button.mm.
+type: source
+title: BadgeButton implementation
+summary: Implements BadgeButton with circular styling, accepted-state tint animations, full-screen image handling, and per-type accessibility identifiers.

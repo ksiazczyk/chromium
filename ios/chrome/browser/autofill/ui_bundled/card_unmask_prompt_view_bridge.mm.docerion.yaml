@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_prompt_view_bridge.mm.
+type: source
+title: Card unmask prompt view bridge implementation
+summary: Implements the unmask prompt bridge, pushing the prompt view controller and handling verification results, loading state, card icons, and dismissal.

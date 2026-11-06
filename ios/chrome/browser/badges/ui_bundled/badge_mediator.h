@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge mediator header
+// summary: Declares BadgeMediator, which updates a badge consumer when badge state changes and dispatches badge related actions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_MEDIATOR_H_
 

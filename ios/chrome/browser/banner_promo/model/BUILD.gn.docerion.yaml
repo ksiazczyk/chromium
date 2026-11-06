@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the default browser banner promo model
+summary: Defines the model, test_support and unit_tests source sets and their dependencies for the default browser banner promo.

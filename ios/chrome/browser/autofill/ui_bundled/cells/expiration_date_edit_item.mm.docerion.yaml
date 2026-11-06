@@ -1,0 +1,4 @@
+# Docerion header of expiration_date_edit_item.mm.
+type: source
+title: ExpirationDateEditItem implementation
+summary: Implements the expiration date edit item and cell, using an ExpirationDatePicker as the text field input view and blocking manual text entry.

@@ -1,0 +1,4 @@
+# Docerion header of wallet_reminder_notice_coordinator_unittest.mm.
+type: test
+title: Wallet Reminder Notice coordinator unit tests
+summary: Unit tests covering coordinator start and stop, primary action dismissal, and legal link taps dispatching an OpenNewTabCommand.

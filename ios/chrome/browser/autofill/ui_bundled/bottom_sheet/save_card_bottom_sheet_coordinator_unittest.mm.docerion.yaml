@@ -1,0 +1,4 @@
+# Docerion header of save_card_bottom_sheet_coordinator_unittest.mm.
+type: test
+title: Save card bottom sheet coordinator unit tests
+summary: Unit tests for the save card bottom sheet coordinator, simulating a server upload save flow with fake web state, OCMock mocks, and histogram checks.

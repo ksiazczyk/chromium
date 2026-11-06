@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Badges model build definition
+summary: GN build file defining the features source set for the badges model with a dependency on //base.

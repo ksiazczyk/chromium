@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalletReminderNoticeConsumer protocol header
+// summary: Declares the consumer protocol for updating the Wallet Reminder Notice bottom sheet title, disclaimer text, and primary action string.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_WALLET_REMINDER_NOTICE_UI_WALLET_REMINDER_NOTICE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_WALLET_REMINDER_NOTICE_UI_WALLET_REMINDER_NOTICE_CONSUMER_H_
 

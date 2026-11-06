@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_custom_ui_coordinator.mm.
+type: source
+title: Backend promo custom UI coordinator implementation
+summary: Implements the coordinator, presenting the custom UI view controller and reporting accepted, dismissed, or cancelled user actions to its delegate.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the autofill error dialog
+summary: Defines the error_dialog source_set listing its coordinator and mediator sources, dependencies, and the UIKit framework.

@@ -1,0 +1,4 @@
+# Docerion header of badge_constants.mm.
+type: source
+title: Badge accessibility identifier constants
+summary: Defines the string values for badge button accessibility identifiers, the unread indicator, and overflow menu action identifiers.

@@ -1,0 +1,4 @@
+# Docerion header of wallet_reminder_notice_coordinator.mm.
+type: source
+title: Wallet Reminder Notice coordinator implementation
+summary: Implements the coordinator that presents the bottom sheet, logs interaction metrics, and opens legal links in a new tab.

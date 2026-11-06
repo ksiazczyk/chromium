@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the autofill progress dialog
+summary: Defines GN source sets for the autofill progress dialog code, its unit tests, and its Earl Grey integration tests together with their dependencies.

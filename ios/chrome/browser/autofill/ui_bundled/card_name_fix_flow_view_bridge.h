@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card name fix flow view bridge
+// summary: Declares the iOS bridge and table view controller for the dialog where users confirm or fix the name on a credit card.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CARD_NAME_FIX_FLOW_VIEW_BRIDGE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CARD_NAME_FIX_FLOW_VIEW_BRIDGE_H_
 

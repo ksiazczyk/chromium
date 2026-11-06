@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill app interface for UI test helpers
+// summary: Declares app-side helpers for saving and clearing autofill profiles, passwords, and credit cards during Earl Grey UI tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_AUTOFILL_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_AUTOFILL_APP_INTERFACE_H_
 

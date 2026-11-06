@@ -1,0 +1,4 @@
+# Docerion header of save_profile_egtest.mm.
+type: test
+title: Save profile Earl Grey UI tests
+summary: Earl Grey UI tests covering saving of autofill address profiles from web forms in iOS Chrome, including form submission, redirect, and sign-in scenarios.

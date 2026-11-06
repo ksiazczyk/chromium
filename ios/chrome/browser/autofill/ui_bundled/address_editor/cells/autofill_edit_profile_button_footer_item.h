@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill edit profile button footer item interface
+// summary: Declares the table view footer item and cell that display an edit-profile button in the address editor.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_ADDRESS_EDITOR_CELLS_AUTOFILL_EDIT_PROFILE_BUTTON_FOOTER_ITEM_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_ADDRESS_EDITOR_CELLS_AUTOFILL_EDIT_PROFILE_BUTTON_FOOTER_ITEM_H_
 

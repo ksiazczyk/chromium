@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAutofillClientIOS header
+// summary: Declares the Chrome iOS implementation of AutofillClient, owned per WebState and wiring autofill, payments and sync services.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CHROME_AUTOFILL_CLIENT_IOS_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CHROME_AUTOFILL_CLIENT_IOS_H_
 

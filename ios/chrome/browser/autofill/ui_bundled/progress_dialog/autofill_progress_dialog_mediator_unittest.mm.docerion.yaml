@@ -1,0 +1,4 @@
+# Docerion header of autofill_progress_dialog_mediator_unittest.mm.
+type: test
+title: Unit tests for the autofill progress dialog mediator
+summary: OCMock-based tests verifying the mediator passes correct content to the consumer and triggers dismissal, including the confirmation state.

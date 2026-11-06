@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSettingsUtil interface for accessibility helpers
+// summary: Declares helpers to update text edit item accessibility labels and to fetch localized error messages for card fields.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_UTIL_AUTOFILL_SETTINGS_UTIL_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_UTIL_AUTOFILL_SETTINGS_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of save_card_infobar_egtest.mm.
+type: test
+title: Save card infobar Earl Grey tests
+summary: Earl Grey UI tests for saving credit cards via infobars, banners, modals and bottom sheets using a mocked payments server.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillCreditCardEditItem header
+// summary: Declares AutofillCreditCardEditItem, a table view text edit item that carries the AutofillCreditCardUIType describing the credit card field it represents.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CELLS_AUTOFILL_CREDIT_CARD_EDIT_ITEM_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CELLS_AUTOFILL_CREDIT_CARD_EDIT_ITEM_H_
 

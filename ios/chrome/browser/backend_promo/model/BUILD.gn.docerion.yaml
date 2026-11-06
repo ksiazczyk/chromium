@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Backend promo model BUILD.gn
+summary: Defines GN source sets for the backend promo service, profile agent, and unit tests together with their build dependencies.

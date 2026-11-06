@@ -1,0 +1,4 @@
+# Docerion header of autofill_progress_dialog_egtest.mm.
+type: test
+title: Earl Grey tests for the autofill progress dialog
+summary: Drives the virtual card unmask flow with a fake credit card server and verifies the progress dialog's appearance and dismissal behavior.

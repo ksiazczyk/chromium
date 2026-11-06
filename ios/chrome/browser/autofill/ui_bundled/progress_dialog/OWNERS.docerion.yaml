@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the autofill progress dialog
+summary: Lists slobodan@chromium.org as the code owner for the autofill progress dialog directory.

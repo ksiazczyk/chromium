@@ -1,0 +1,4 @@
+# Docerion header of incognito_badge_mediator.mm.
+type: source
+title: IncognitoBadgeMediator implementation
+summary: Observes web state and tab list changes to update the incognito badge on the active tab.

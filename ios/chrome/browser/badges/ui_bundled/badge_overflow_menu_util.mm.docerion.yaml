@@ -1,0 +1,4 @@
+# Docerion header of badge_overflow_menu_util.mm.
+type: source
+title: Badge overflow menu utility implementation
+summary: Builds overflow menu actions for each badge type with localized titles, symbols and handlers that show the matching infobar modal.

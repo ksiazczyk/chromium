@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Badges UI build configuration
+summary: Defines GN source sets and dependencies for the iOS badges UI, covering public constants, utilities, UI components, and unit tests.

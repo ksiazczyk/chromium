@@ -1,0 +1,4 @@
+# Docerion header of save_card_bottom_sheet_mediator.mm.
+type: source
+title: Save card bottom sheet mediator implementation
+summary: Implements the mediator, bridging the C++ model observer to Objective-C and handling dismissal logging, expiration parsing, and auto-dismiss timers.

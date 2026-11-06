@@ -1,0 +1,4 @@
+# Docerion header of autofill_profile_edit_table_view_helper_unittest.mm.
+type: test
+title: Autofill profile edit table view helper unit tests
+summary: Parameterized unit tests for the profile edit table view helper, exercising different save prompt modes, account profiles, and address contexts with a test personal data manager.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Address editor cells build target
+summary: Defines the GN source_set for the address editor cell sources and their build dependencies.

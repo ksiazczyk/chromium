@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_service_factory.mm.
+type: source
+title: BackendPromoServiceFactory implementation
+summary: Implements the factory with dependencies on browser list, identity manager, and feature engagement tracker, building services through the ios provider.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillCreditCardUtil interface for credit card helpers
+// summary: Declares methods to create, update, and validate credit card details and to build a text view for autofill legal messages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_UTIL_AUTOFILL_CREDIT_CARD_UTIL_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_UTIL_AUTOFILL_CREDIT_CARD_UTIL_H_
 

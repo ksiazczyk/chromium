@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackendPromoServiceFactory header
+// summary: Declares a typed profile keyed service factory that associates BackendPromoService instances with profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BACKEND_PROMO_MODEL_BACKEND_PROMO_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_BACKEND_PROMO_MODEL_BACKEND_PROMO_SERVICE_FACTORY_H_
 

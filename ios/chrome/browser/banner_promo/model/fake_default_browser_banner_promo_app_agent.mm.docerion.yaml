@@ -1,0 +1,4 @@
+# Docerion header of fake_default_browser_banner_promo_app_agent.mm.
+type: source
+title: Fake default browser banner promo app agent implementation
+summary: Implements the fake app agent that forwards forced display and hide calls to registered observers.
