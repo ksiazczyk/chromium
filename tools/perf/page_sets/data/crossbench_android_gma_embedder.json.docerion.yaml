@@ -1,0 +1,4 @@
+# Docerion header of crossbench_android_gma_embedder.json.
+type: data
+title: Crossbench Android GMA embedder WPR archive metadata
+summary: Maps the stories of the crossbench Android GMA WebView test app embedder benchmark to their Web Page Replay archives.

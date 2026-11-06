@@ -1,0 +1,4 @@
+# Docerion header of oortonline.json.
+type: data
+title: Oort Online WPR archive config
+summary: Maps the oortonline.gl URL to its Web Page Replay archive oortonline_000.wprgo for the perf story set.

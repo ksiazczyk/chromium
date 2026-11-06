@@ -1,0 +1,4 @@
+# Docerion header of system_health_desktop.json.
+type: data
+title: Desktop system health WPR archive metadata
+summary: Maps desktop system health browsing stories across media, news, search and social sites to Web Page Replay archives, including platform specific variants.

@@ -1,0 +1,4 @@
+# Docerion header of octane.json.
+type: data
+title: Octane benchmark WPR archive config
+summary: Maps the Octane benchmark to its Web Page Replay archive octane_002.wprgo for the perf story set, generated via record_wpr.

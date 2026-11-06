@@ -1,0 +1,4 @@
+# Docerion header of dummy_wpr.json.
+type: data
+title: Dummy WPR story set archive metadata
+summary: Generated metadata that maps the dummy WPR story set to its Web Page Replay archive and should be updated with record_wpr rather than edited by hand.

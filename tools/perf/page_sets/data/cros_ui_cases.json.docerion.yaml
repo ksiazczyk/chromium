@@ -1,0 +1,4 @@
+# Docerion header of cros_ui_cases.json.
+type: data
+title: cros_ui_cases Web Page Replay archive map
+summary: Maps ChromeOS UI case stories such as overview, multiwindow and Yahoo News pages to their recorded Web Page Replay archives.

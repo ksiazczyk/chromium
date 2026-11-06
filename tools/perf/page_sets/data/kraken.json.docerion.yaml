@@ -1,0 +1,4 @@
+# Docerion header of kraken.json.
+type: data
+title: Kraken benchmark WPR archive config
+summary: Maps the Kraken benchmark URL to its Web Page Replay archive kraken_000.wprgo for the perf story set, generated via record_wpr.

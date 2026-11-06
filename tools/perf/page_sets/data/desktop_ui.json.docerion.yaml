@@ -1,0 +1,4 @@
+# Docerion header of desktop_ui.json.
+type: data
+title: Desktop UI stories WPR archive metadata
+summary: Maps desktop UI stories covering new tab page, omnibox, side search and tab search to their Web Page Replay archives.
