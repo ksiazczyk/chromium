@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fake for the notebooks internals page handler
+// summary: Provides a TestBrowserProxy-based fake page handler returning configurable feature flag and eligibility data for the tests.
+// ---
+
 import type {FeatureFlagState, PageHandlerInterface, ProfileEligibility} from 'chrome://notebooks-internals/notebooks_internals.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

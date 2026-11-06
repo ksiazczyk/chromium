@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for omnibox popup tests
+summary: Delegates review ownership to the omnibox popup resources OWNERS file.

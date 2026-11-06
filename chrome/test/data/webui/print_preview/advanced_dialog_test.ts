@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Advanced settings dialog tests
+// summary: Tests the print preview advanced settings dialog, covering search box visibility, item counts, and applying vendor capability values.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewAdvancedSettingsDialogElement, PrintPreviewModelElement} from 'chrome://print/print_preview.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pages settings tests
+// summary: WebUI tests for the pages settings section covering page range parsing, dropdown options, and validation error messages.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewPagesSettingsElement, Range} from 'chrome://print/print_preview.js';

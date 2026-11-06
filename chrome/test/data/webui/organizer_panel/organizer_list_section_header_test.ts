@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer list section header tests
+// summary: Tests the organizer list section header element, including expand toggling, menu button visibility, accessibility labels and show some/show all options.
+// ---
+
 import 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 
 import type {OrganizerListSectionHeaderElement} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';

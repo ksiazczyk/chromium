@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change details tests
+// summary: Tests the password change details element, verifying the pref toggle renders when the feature flag is enabled and a fallback description appears when disabled.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {PasswordChangeDetailsElement, PrefToggleButtonElement} from 'chrome://password-manager/password_manager.js';

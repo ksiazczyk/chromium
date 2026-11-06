@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logo WebUI tests
+// summary: WebUI tests for the NTP logo element, covering doodle rendering in light and dark themes, layout positioning and interaction logging.
+// ---
+
 import type {SkColor} from '//resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 import type {Doodle, LogoElement, Theme} from 'chrome://new-tab-page/new_tab_page.js';
 import {$$, DoodleImageType, DoodleShareChannel, NewTabPageProxy, PageCallbackRouter, PageHandlerRemote, WindowProxy} from 'chrome://new-tab-page/new_tab_page.js';

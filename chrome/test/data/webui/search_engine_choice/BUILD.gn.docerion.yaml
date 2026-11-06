@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice WebUI tests build file
+summary: GN build file that defines the WebUI mocha test target for the search engine choice dialog, wiring the C++ browser test and TypeScript test files together.

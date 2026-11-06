@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page action chips WebUI tests
+// summary: Tests the New Tab Page action chips element with mocked handler and browser services, covering chip rendering, clicks, suggestions and metrics.
+// ---
+
 import 'chrome://new-tab-page/lazy_load.js';
 
 import {ActionChipsApiProxyImpl, ActionChipsRetrievalState} from 'chrome://new-tab-page/lazy_load.js';

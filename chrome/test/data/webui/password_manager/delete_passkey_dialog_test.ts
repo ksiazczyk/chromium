@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delete passkey dialog tests
+// summary: Tests the delete passkey dialog warning with website link, cancel behavior, and passkey deletion.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {DeletePasskeyDialogElement} from 'chrome://password-manager/password_manager.js';

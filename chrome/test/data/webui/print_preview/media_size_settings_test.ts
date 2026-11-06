@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview media size settings tests
+// summary: Tests the print preview media size settings element, covering capability options and resetting unsupported media sizes to the printer default.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {MediaSizeCapability, PrintPreviewMediaSizeSettingsElement} from 'chrome://print/print_preview.js';

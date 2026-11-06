@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Threads rail tests
+// summary: WebUI tests for the threads rail element, checking the history button tooltip, navigation, and metric recording.
+// ---
+
 import type {ThreadsRailElement} from 'chrome://new-tab-page/lazy_load.js';
 import {ComposeboxWindowProxy} from 'chrome://new-tab-page/lazy_load.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

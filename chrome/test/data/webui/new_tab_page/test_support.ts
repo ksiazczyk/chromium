@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page test support helpers
+// summary: Shared helpers for New Tab Page WebUI tests, providing style and focus assertions, mock installation, and factories for themes and background images.
+// ---
+
 import type {BackgroundImage, FuseboxAction, Theme} from 'chrome://new-tab-page/new_tab_page.js';
 import {NtpBackgroundImageSource} from 'chrome://new-tab-page/new_tab_page.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

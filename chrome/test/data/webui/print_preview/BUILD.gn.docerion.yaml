@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print Preview WebUI tests build file
+summary: GN build configuration that assembles the desktop print preview WebUI test target, listing its C++ and TypeScript test files and dependencies.

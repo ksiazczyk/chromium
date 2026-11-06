@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select mixin tests
+// summary: Tests for the print preview SelectMixin, verifying onProcessSelectChange fires on UI select changes but not on programmatic value updates.
+// ---
+
 import {SelectMixin} from 'chrome://print/print_preview.js';
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

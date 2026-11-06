@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox focus WebUI tests
+// summary: WebUI focus test that sets up the NTP searchbox with mocked browser proxies and verifies the element renders.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import type {NtpSearchboxElement} from 'chrome://new-tab-page/new_tab_page.js';

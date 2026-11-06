@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image processor tests
+// summary: Tests image processing for Lens uploads, covering downscaling and C2PA metadata detection and compression bypass.
+// ---
+
 import {hasC2paMetadata, processFile} from 'chrome://new-tab-page/new_tab_page.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {assertEquals, assertFalse, assertLE, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

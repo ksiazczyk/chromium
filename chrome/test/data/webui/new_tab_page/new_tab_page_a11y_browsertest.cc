@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page accessibility browser tests
+// summary: C++ browser test fixture that runs the NTP app Mocha suite with forced renderer accessibility to catch assertions and crashes.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

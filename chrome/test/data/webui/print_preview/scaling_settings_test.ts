@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scaling settings tests
+// summary: Tests for the print preview scaling settings element, covering dropdown options for default, custom, fit to page, fit to paper and actual size scaling.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewModelElement, PrintPreviewScalingSettingsElement} from 'chrome://print/print_preview.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer panel app tests
+// summary: WebUI test suite for the organizer panel app element, mocking page handlers and loadTimeData strings to verify overall panel behavior.
+// ---
+
 import 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 
 import type {OrganizerPanelAppElement, OrganizerPanelPageRemote} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';

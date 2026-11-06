@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextfieldModel undo and redo tests
+// summary: Unit tests for the omnibox popup TextfieldModel, verifying undo, redo, edit merging, deletion history, and selection replacement behavior.
+// ---
+
 import {TextfieldModel} from 'chrome://omnibox-popup.top-chrome/omnibox_popup.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of authentication.gni.
+type: config
+title: Authentication test file list for the GN build
+summary: GN import that defines the list of Microsoft authentication WebUI test files for the new tab page.

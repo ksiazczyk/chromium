@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share password recipient tests
+// summary: WebUI tests for the share password recipient element, covering eligible and ineligible display states and checkbox selection behavior.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {SharePasswordRecipientElement} from 'chrome://password-manager/password_manager.js';

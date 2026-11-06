@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox test support helpers
+// summary: Shared test setup and helpers for composebox WebUI tests, including mocks, fake tokens, and element creation utilities.
+// ---
+
 import {ComposeboxProxyImpl, NtpComposeboxElement} from 'chrome://new-tab-page/lazy_load.js';
 import type {ComposeboxElement} from 'chrome://new-tab-page/lazy_load.js';
 import {$$} from 'chrome://new-tab-page/new_tab_page.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passkey details card tests
+// summary: Tests the passkey details card rendering, hidden passkey display, and interactions that open the edit and delete passkey dialogs.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {DeletePasskeyDialogElement, EditPasskeyDialogElement, PasskeyDetailsCardElement} from 'chrome://password-manager/password_manager.js';

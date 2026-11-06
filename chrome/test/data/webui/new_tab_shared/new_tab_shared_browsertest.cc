@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Shared CustomizeButtons browser test
+// summary: Browser test fixture that runs the CustomizeButtons Mocha test suite for the new_tab_shared WebUI on the Chrome new tab page.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

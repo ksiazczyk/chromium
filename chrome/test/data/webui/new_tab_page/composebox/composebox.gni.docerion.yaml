@@ -1,0 +1,4 @@
+# Docerion header of composebox.gni.
+type: config
+title: Composebox test file list GN config
+summary: GN build config listing the composebox WebUI test source files for the new tab page.

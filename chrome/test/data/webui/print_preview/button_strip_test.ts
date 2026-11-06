@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Button strip tests
+// summary: Tests print and cancel button disabled states, platform-specific button ordering, and print-requested and cancel-requested events.
+// ---
+
 import type {CrButtonElement, PrintPreviewButtonStripElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin, State} from 'chrome://print/print_preview.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

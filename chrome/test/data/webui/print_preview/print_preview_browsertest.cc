@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview browser test harness
+// summary: C++ browser test harness that loads the print preview WebUI and runs its mocha test suites, covering settings sections plus app, sidebar and pages settings test cases.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "build/build_config.h"
 #include "chrome/common/webui_url_constants.h"

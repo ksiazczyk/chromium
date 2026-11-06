@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password details section tests
+// summary: Tests navigation and rendering of the password details section, including navigation from the passwords list, direct URL navigation, and missing group handling.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 // clang-format off

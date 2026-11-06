@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test section delegate stub
+// summary: Provides a configurable OrganizerListSectionDelegate stub that records item, action button and context menu clicks for section tests.
+// ---
+
 import type {TemplateResult} from '//resources/lit/v3_0/lit.rollup.js';
 import type {OrganizerListSectionClient, OrganizerListSectionDelegate, OrganizerListSectionItem} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 

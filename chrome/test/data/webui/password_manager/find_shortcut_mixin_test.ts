@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find shortcut mixin tests
+// summary: Tests that elements using FindShortcutMixin handle Ctrl+F and slash shortcuts correctly, including modal contexts and manual listener registration.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {FindShortcutManager, FindShortcutMixin} from 'chrome://password-manager/password_manager.js';

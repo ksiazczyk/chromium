@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password checkup details section tests
+// summary: Tests the checkup details sections for compromised, reused, and weak password listings, including titles and issue display.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {CrExpandButtonElement} from 'chrome://password-manager/password_manager.js';

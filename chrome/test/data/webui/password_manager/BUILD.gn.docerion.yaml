@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password Manager WebUI tests build definition
+summary: Defines the GN build target for the password manager WebUI test suites, listing test files, TypeScript definitions, and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preview Area Tests
+// summary: Tests preview area state transitions, including loading, displaying the preview, and showing the invalid printer error message.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewPreviewAreaElement} from 'chrome://print/print_preview.js';

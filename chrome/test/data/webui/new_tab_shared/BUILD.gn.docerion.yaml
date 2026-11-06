@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: New Tab Shared WebUI test build configuration
+summary: GN build file that sets up the WebUI Mocha browser tests for the new_tab_shared module, wiring the C++ test runner and the CustomizeButtons TypeScript test sources.

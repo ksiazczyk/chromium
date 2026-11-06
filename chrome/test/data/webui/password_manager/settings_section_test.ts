@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings section tests
+// summary: WebUI tests for the password manager settings section, covering preference toggles, blocked site lists, and sync or passkey browser proxies.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {BatchUploadPasswordsEntryPoint, OpenWindowProxyImpl, Page, PasswordManagerImpl, Router, SyncBrowserProxyImpl, TrustedVaultBannerState} from 'chrome://password-manager/password_manager.js';

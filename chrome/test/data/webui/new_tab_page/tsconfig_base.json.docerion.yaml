@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript config for New Tab Page tests
+summary: TypeScript configuration for the New Tab Page WebUI tests, extending the parent config and adding test-related type packages.

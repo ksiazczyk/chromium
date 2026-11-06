@@ -1,0 +1,4 @@
+# Docerion header of dummy.gni.
+type: config
+title: Dummy module test file list for GN builds
+summary: GN build configuration defining dummy_test_files, the list of dummy New Tab Page module WebUI test files to build and run.

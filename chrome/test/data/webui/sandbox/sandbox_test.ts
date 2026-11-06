@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox status WebUI tests
+// summary: WebUI Mocha tests asserting the sandbox status page shows a namespace or SUID sandbox, seccomp-BPF enabled, and the raw policy and mitigation details.
+// ---
+
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 suite('Sandbox', () => {

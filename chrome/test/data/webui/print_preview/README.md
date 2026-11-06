@@ -1,3 +1,9 @@
+---
+type: readme
+title: Print Preview WebUI tests README
+summary: Explains that these tests cover the non-ChromeOS desktop print preview UI, forked from the ChromeOS tests in January 2025.
+---
+
 The tests in this directory are for the Print Preview UI on non-ChromeOS Desktop
 platforms (Windows, Mac, Linux). ChromeOS's Print Preview tests can be found in
 chrome/test/data/webui/chromeos/print_preview.

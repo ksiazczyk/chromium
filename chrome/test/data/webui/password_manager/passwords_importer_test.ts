@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password import UI tests
+// summary: Tests the password import UI, covering file selection, destination store choice, progress state, result summaries and error dialog handling.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {CrButtonElement, CrDialogElement, PasswordsImporterElement} from 'chrome://password-manager/password_manager.js';

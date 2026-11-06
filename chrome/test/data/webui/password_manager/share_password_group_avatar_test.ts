@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share password group avatar tests
+// summary: WebUI tests for the share password group avatar element, checking image visibility for one through five or more members.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {SharePasswordGroupAvatarElement} from 'chrome://password-manager/password_manager.js';

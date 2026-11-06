@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens upload dialog WebUI tests
+// summary: WebUI tests for the Lens upload dialog, verifying open and close actions, outside focus handling, URL submission and metrics reporting.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import type {LensUploadDialogElement} from 'chrome://new-tab-page/lazy_load.js';

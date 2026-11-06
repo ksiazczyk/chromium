@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer list section item description tests
+// summary: Tests the section item description element, verifying dot separators, elide-from-start styling, prefix elements and search highlight rendering.
+// ---
+
 import 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 
 import type {OrganizerListSectionItemDescriptionElement} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';

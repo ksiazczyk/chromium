@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share password header tests
+// summary: WebUI tests for the share password dialog header, verifying the help button opens the correct sharing help and troubleshoot URLs.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {OpenWindowProxyImpl} from 'chrome://password-manager/password_manager.js';

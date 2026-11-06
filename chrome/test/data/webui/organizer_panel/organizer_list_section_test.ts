@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer list section tests
+// summary: Tests the organizer list section element, including rendering items from a delegate, handling remote item updates and collapse and expand behavior.
+// ---
+
 import 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 
 import {INITIAL_ITEM_COUNT, organizerPanelBrowserProxyFactory, OrganizerPanelPageHandlerRemote, SearchApiProxyImpl} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';

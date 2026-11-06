@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview model settings availability tests
+// summary: WebUI tests verifying that the print preview model updates setting availability based on destination capabilities and document info.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {Cdd, DuplexOption, MediaSizeOption, PrintPreviewModelElement} from 'chrome://print/print_preview.js';

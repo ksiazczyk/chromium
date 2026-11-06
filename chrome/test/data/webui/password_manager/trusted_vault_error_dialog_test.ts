@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted vault error dialog tests
+// summary: WebUI tests verifying that the trusted vault error dialog opens, closes on cancel, triggers the unlock flow on verify, and displays the correct texts.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {TrustedVaultErrorDialogElement} from 'chrome://password-manager/password_manager.js';

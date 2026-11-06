@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Add password dialog tests
+// summary: Tests the add password dialog, covering website and username validation, store selection, and saving behavior.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {Page, PASSWORD_NOTE_MAX_CHARACTER_COUNT, PasswordManagerImpl, Router, SyncBrowserProxyImpl} from 'chrome://password-manager/password_manager.js';

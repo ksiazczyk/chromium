@@ -4,6 +4,12 @@
 
 /** @fileoverview Test implementation of PasswordManagerProxy. */
 
+// ---docerion
+// type: test
+// title: Test password manager proxy
+// summary: Test double for the PasswordManagerProxy providing mock credential data, change listeners, and recorded method calls for password manager WebUI tests.
+// ---
+
 import {ExportPasswordsResult, ExportProgressStatus, ImportResultsStatus, PageCallbackRouter, PasswordManagerActionableError} from 'chrome://password-manager/password_manager.js';
 import type {AccountStorageActiveStateChangedListener, BlockedSite, BlockedSitesListChangedListener, CredentialsChangedListener, ImportResults, PasswordCheckInteraction, PasswordCheckStatusChangedListener, PasswordManagerActionableErrorChangedListener, PasswordManagerAuthTimeoutListener, PasswordManagerProxy, PasswordViewPageInteractions} from 'chrome://password-manager/password_manager.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Number settings section tests
+// summary: WebUI tests for the number settings section covering blocking of invalid keys and error message updates for out-of-range values.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewNumberSettingsSectionElement} from 'chrome://print/print_preview.js';

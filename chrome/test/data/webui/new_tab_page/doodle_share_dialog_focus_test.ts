@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Doodle share dialog focus tests
+// summary: Tests that the doodle share dialog copy button copies the doodle URL to the clipboard.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import type {DoodleShareDialogElement} from 'chrome://new-tab-page/new_tab_page.js';

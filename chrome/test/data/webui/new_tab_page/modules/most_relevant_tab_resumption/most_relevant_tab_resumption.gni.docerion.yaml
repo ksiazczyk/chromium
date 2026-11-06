@@ -1,0 +1,4 @@
+# Docerion header of most_relevant_tab_resumption.gni.
+type: config
+title: Most relevant tab resumption test file list
+summary: GN import that defines the list of TypeScript test files for the most relevant tab resumption module so they can be included in WebUI test builds.

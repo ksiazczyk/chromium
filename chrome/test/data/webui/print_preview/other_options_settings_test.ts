@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Other options settings tests
+// summary: WebUI tests for the other options section covering checkbox visibility, setting updates via checkboxes, and policy-enforced disabled options.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {CrCheckboxElement, PrintPreviewModelElement, PrintPreviewOtherOptionsSettingsElement, Settings} from 'chrome://print/print_preview.js';

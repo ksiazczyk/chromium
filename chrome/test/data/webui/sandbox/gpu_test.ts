@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU sandbox WebUI test
+// summary: WebUI test that observes the GPU status page and asserts the GPU sandbox is reported as enabled.
+// ---
+
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 suite('GPU', () => {

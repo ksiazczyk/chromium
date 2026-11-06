@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice app refresh browser test
+// summary: C++ browser test that opens the search engine choice WebUI with forced choice screen switches and runs the app refresh mocha test suite.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/search_engine_choice/search_engine_choice_dialog_service_factory.h"

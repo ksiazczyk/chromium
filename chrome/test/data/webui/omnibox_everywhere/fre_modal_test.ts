@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fre modal element WebUI tests
+// summary: WebUI tests verifying the first-run modal's content rendering, close event, Lens row eligibility, and small illustration variant.
+// ---
+
 import 'chrome://omnibox-everywhere.top-chrome/fre_modal.js';
 
 import type {FreModalElement} from 'chrome://omnibox-everywhere.top-chrome/fre_modal.js';

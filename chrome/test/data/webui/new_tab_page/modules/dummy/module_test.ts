@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dummy New Tab Page module WebUI tests
+// summary: WebUI tests for the dummy New Tab Page module, verifying that tiles render with provided data and that no tiles appear when the handler returns no data.
+// ---
+
 import type {DummyModuleElement} from 'chrome://new-tab-page/lazy_load.js';
 import {dummyV2Descriptor, FooProxy} from 'chrome://new-tab-page/lazy_load.js';
 import {FooHandlerRemote} from 'chrome://new-tab-page/new_tab_page.js';

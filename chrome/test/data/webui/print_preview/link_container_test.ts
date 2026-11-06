@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview link container tests
+// summary: Tests the print preview link container, covering the system dialog link, hiding in app kiosk mode, disabled states, and the Mac open-in-Preview link.
+// ---
+
 import type {PrintPreviewLinkContainerElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin} from 'chrome://print/print_preview.js';
 // <if expr="is_macosx">

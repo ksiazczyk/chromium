@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination settings interactive tests
+// summary: Interactive tests for destination settings, verifying focus restoration after changing the selected printer through the dialog.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {LocalDestinationInfo, PrintPreviewDestinationDialogElement, PrintPreviewDestinationSettingsElement, RecentDestination} from 'chrome://print/print_preview.js';

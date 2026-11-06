@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination search tests
+// summary: Tests destination selection from the search dialog, covering successful and failed printer capability fetches.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {DestinationStore, PrintPreviewDestinationDialogElement} from 'chrome://print/print_preview.js';

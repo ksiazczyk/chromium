@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice search overlay tests
+// summary: Tests for the New Tab Page voice search overlay, using a mocked speech recognition API to verify dialog, audio, and error handling behavior.
+// ---
+
 import 'chrome://new-tab-page/lazy_load.js';
 
 import type {VoiceSearchOverlayElement} from 'chrome://new-tab-page/lazy_load.js';

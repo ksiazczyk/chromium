@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential note tests
+// summary: Tests the credential note element display, including empty notes, long note truncation, and expansion behavior.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {CredentialNoteElement} from 'chrome://password-manager/password_manager.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for notebooks internals WebUI tests
+summary: Defines the GN build target for the notebooks internals WebUI browser tests, listing test sources and TypeScript dependencies.

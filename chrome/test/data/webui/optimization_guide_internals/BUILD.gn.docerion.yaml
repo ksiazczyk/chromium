@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for Optimization Guide Internals WebUI tests
+summary: GN build file that sets up the WebUI test target wiring the C++ browser tests and TypeScript test suite for the Optimization Guide Internals page.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Left hand side WebUI tests
+// summary: WebUI tests for the NTP left-hand-side element, covering the folded threads rail and the expanded iframe URL, sizing and dark mode behavior.
+// ---
+
 // <cr-left-hand-side> renders an <ntp-iframe>, which is defined in the lazily
 // loaded part of the NTP.
 import 'chrome://new-tab-page/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine choice app refresh WebUI tests
+// summary: TypeScript WebUI tests covering the doElementsOverlap geometry helper and the refreshed search engine choice app element using mocked load-time data and a mock page handler.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {doElementsOverlap} from 'chrome://search-engine-choice/app_refresh.js';
 import type {AppRefreshElement} from 'chrome://search-engine-choice/app_refresh.js';

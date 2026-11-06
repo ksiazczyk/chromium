@@ -1,0 +1,4 @@
+# Docerion header of file_suggestion.gni.
+type: config
+title: File suggestion test file list for the GN build
+summary: GN import file that lists the file_suggestion WebUI test sources to include in the build.

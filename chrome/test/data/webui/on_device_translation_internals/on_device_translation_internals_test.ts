@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mocha tests for the on-device translation internals page
+// summary: TypeScript Mocha suite verifying the language package table rendering and the install and uninstall button behavior of the WebUI app.
+// ---
+
 import 'chrome://on-device-translation-internals/app.js';
 
 import type {OnDeviceTranslationInternalsAppElement} from 'chrome://on-device-translation-internals/app.js';

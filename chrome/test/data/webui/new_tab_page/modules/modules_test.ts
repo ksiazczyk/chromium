@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Modules element tests for New Tab Page
+// summary: Extensive WebUI tests for ModulesElement covering column counts, supported widths, disabled modules, and module registry interactions.
+// ---
+
 import type {Module, ModuleWrapperElement, NamedWidth} from 'chrome://new-tab-page/lazy_load.js';
 import {ModuleDescriptor, ModuleRegistry, ModulesElement, SUPPORTED_MODULE_WIDTHS} from 'chrome://new-tab-page/lazy_load.js';
 import type {PageRemote} from 'chrome://new-tab-page/new_tab_page.js';

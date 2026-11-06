@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share password flow tests
+// summary: WebUI tests for the password sharing flow, verifying loading, error, retry, and cancel states through a test password manager proxy.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {SharePasswordFlowElement} from 'chrome://password-manager/password_manager.js';

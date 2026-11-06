@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password policy utils tests
+// summary: Tests the utility that determines whether a mandatory policy blocks saving new passwords across user, device, extension and recommended policy cases.
+// ---
+
 import {isSavingNewPasswordsBlockedByMandatoryPolicy} from 'chrome://password-manager/password_manager.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

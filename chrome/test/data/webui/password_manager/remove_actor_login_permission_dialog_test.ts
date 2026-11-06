@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remove actor login permission dialog tests
+// summary: WebUI tests verifying the remove actor login permission dialog shows the origin and handles disconnect and cancel button actions.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {RemoveActorLoginPermissionDialogElement} from 'chrome://password-manager/password_manager.js';

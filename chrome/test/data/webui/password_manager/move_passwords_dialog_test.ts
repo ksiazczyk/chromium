@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Move passwords dialog tests
+// summary: Tests the move passwords dialog content and behavior for moving device credentials to account storage, including plural strings, sync account info, and metrics.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {PasswordManagerImpl, PluralStringProxyImpl, SyncBrowserProxyImpl} from 'chrome://password-manager/password_manager.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox autocomplete tests
+// summary: WebUI tests verifying autocomplete querying when autochips and context chips are added or removed in the composebox.
+// ---
+
 import {ComposeboxElement} from 'chrome://new-tab-page/lazy_load.js';
 import {InputType} from 'chrome://resources/cr_components/composebox/composebox_query.mojom-webui.js';
 import type {ComposeboxFileCarouselElement} from 'chrome://resources/cr_components/composebox/file_carousel.js';

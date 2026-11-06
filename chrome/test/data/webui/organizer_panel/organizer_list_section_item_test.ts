@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer list section item tests
+// summary: Tests the organizer list section item element, covering title and description rendering, aria labels, prefix icons and custom icon elements.
+// ---
+
 import 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 
 import type {OrganizerListSectionItemElement, StackedFaviconsElement} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';

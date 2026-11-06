@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Info dialog element tests for New Tab Page modules
+// summary: WebUI tests verifying that the New Tab Page info dialog opens, closes via its close button, and shows automatically when showOnAttach is set.
+// ---
+
 import {InfoDialogElement} from 'chrome://new-tab-page/lazy_load.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

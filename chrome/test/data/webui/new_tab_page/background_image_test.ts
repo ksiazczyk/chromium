@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page background image tests
+// summary: Tests that the custom background image iframe loads and sends back a loaded message to the page.
+// ---
+
 import {BackgroundManager} from 'chrome://new-tab-page/new_tab_page.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 import {eventToPromise} from 'chrome://webui-test/test_util.js';

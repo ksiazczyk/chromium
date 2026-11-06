@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager router tests
+// summary: Tests the password manager router, verifying route change notifications, parameter updates, invalid path correction and direct navigation to password and checkup details pages.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {Route} from 'chrome://password-manager/password_manager.js';

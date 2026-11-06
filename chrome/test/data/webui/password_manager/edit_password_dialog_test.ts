@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit password dialog tests
+// summary: WebUI tests covering password display, the show/hide password toggle, and username validation behavior of the edit password dialog.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {Page, PASSWORD_NOTE_MAX_CHARACTER_COUNT, PasswordManagerImpl, Router} from 'chrome://password-manager/password_manager.js';

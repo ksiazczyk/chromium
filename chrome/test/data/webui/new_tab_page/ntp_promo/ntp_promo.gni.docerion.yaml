@@ -1,0 +1,4 @@
+# Docerion header of ntp_promo.gni.
+type: config
+title: GN file list for NTP promo tests
+summary: GN import that lists the NTP promo WebUI test source files for inclusion in the build.

@@ -4,6 +4,12 @@
 
 /** @fileoverview Test implementation of SyncBrowserProxy. */
 
+// ---docerion
+// type: test
+// title: Test sync browser proxy
+// summary: Test double for the SyncBrowserProxy that fakes sync info, account info, trusted vault banner state, and local password counts in WebUI tests.
+// ---
+
 import type {AccountInfo, BatchUploadPasswordsEntryPoint, SyncBrowserProxy, SyncInfo} from 'chrome://password-manager/password_manager.js';
 import {TrustedVaultBannerState} from 'chrome://password-manager/password_manager.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

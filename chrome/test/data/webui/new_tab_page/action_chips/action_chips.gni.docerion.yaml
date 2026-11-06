@@ -1,0 +1,4 @@
+# Docerion header of action_chips.gni.
+type: config
+title: Action chips test file list for GN build
+summary: Defines the GN variable action_chips_test_files listing the action chips WebUI test sources for the build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Backup password details card tests
+// summary: Tests the backup password details card, verifying content display, copy password, and delete actions.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {BackupPasswordDetailsCardElement} from 'chrome://password-manager/password_manager.js';

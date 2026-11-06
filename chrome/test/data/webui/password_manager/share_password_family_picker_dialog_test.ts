@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share password family picker dialog tests
+// summary: WebUI tests for the family picker dialog, covering initial state, cancel behavior, and recipient selection with eligibility rules.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {SyncBrowserProxyImpl} from 'chrome://password-manager/password_manager.js';

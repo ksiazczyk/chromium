@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open tabs delegate tests
+// summary: Tests the OpenTabsDelegate with mocked profile data, covering tab items, split tabs, alert state icons, grouping and item click behavior.
+// ---
+
 import {browserProxyFactory, Color, isActive, isSplitTab, OpenTabsDelegate, OpenTabsItemType, PageHandlerRemote, SplitTabLayout, TabAlertState, TabGroupDotSize} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 import type {OrganizerListSectionClient, OrganizerListSectionItem, PageRemote, ProfileData, Tab} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

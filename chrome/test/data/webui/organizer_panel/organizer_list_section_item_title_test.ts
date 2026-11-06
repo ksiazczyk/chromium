@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer list section item title tests
+// summary: Tests the section item title element, checking title parts with vertical bar separators, updates on property changes and search highlight rendering.
+// ---
+
 import 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 
 import type {OrganizerListSectionItemTitleElement} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Individual promos WebUI tests
+// summary: WebUI tests for the New Tab Page individual promos element, covering visibility, promo display, button clicks, and dismissal behavior.
+// ---
+
 import 'chrome://new-tab-page/lazy_load.js';
 import './ntp_promo_test_common.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager internals WebUI Mocha tests
+// summary: TypeScript Mocha suite asserting the internals page shows escaped log text, is empty after reload, uses correct Incognito wording and supports autoscroll.
+// ---
+
 import {assertEquals, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 suite('PasswordManagerInternals', function() {

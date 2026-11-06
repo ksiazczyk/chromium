@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full data reset tests
+// summary: Tests the full data reset element's confirmation dialog, covering cancel and confirm actions, success toast, and states for syncing versus local users.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {PasswordManagerImpl} from 'chrome://password-manager/password_manager.js';

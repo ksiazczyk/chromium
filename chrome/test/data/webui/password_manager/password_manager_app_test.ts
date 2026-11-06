@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password Manager app WebUI test suite
+// summary: Tests the Password Manager WebUI app shell, covering layout, search box syncing with query parameters, sidebar navigation, and the responsive navigation drawer.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {PasswordManagerAppElement, TrustedVaultErrorDialogElement} from 'chrome://password-manager/password_manager.js';

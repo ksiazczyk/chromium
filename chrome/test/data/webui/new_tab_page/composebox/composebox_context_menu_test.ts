@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox context menu tests
+// summary: WebUI tests covering the composebox context menu, including tab context attachment and menu behavior.
+// ---
+
 import {$$} from 'chrome://new-tab-page/new_tab_page.js';
 import type {ComposeboxState} from 'chrome://resources/cr_components/composebox/common.js';
 import {ContextUploadErrorType, InputType, ToolMode} from 'chrome://resources/cr_components/composebox/composebox_query.mojom-webui.js';

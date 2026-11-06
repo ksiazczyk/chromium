@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox everywhere WebUI tests build definition
+summary: Defines the GN build for the omnibox_everywhere WebUI tests, listing the TypeScript test files, path mappings, and build dependencies.

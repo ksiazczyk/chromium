@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most relevant tab resumption module WebUI tests
+// summary: WebUI tests for the New Tab Page most relevant tab resumption module, covering module creation, header data, and dismissal behavior using mocked handler and metrics.
+// ---
+
 import type {DismissModuleElementEvent, MostRelevantTabResumptionModuleElement} from 'chrome://new-tab-page/lazy_load.js';
 import {mostRelevantTabResumptionDescriptor, MostRelevantTabResumptionProxyImpl} from 'chrome://new-tab-page/lazy_load.js';
 import type {URLVisit} from 'chrome://new-tab-page/new_tab_page.js';

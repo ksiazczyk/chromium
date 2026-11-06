@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image processor test support
+// summary: Test support providing sample image bytes and helpers that generate test image files with and without C2PA metadata.
+// ---
+
 /**
  * Bytes for a sample image.
  *

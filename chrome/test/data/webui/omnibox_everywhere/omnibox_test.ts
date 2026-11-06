@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox everywhere main WebUI test suite
+// summary: Large mocha suite covering the omnibox everywhere UI, including input handling, browser proxies, composebox state, and FRE stages.
+// ---
+
 import 'chrome://omnibox-everywhere.top-chrome/omnibox_everywhere.js';
 
 import {FreChinMode} from 'chrome://omnibox-everywhere.top-chrome/fre_chin.js';
