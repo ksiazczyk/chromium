@@ -4,6 +4,12 @@
 
 // This file was generated from org.gnome.ScreenSaver.xml
 
+// ---docerion
+// type: source
+// title: Generated D-Bus interface header for org.gnome.ScreenSaver
+// summary: Generated C++ structs with GVariant types for the methods and signals of the GNOME ScreenSaver D-Bus interface used by the Linux host.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_SCREENSAVER_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_SCREENSAVER_H_
 

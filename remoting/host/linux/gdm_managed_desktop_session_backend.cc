@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GdmManagedDesktopSessionBackend implementation
+// summary: Implements the desktop session backend for GDM-managed sessions, associating sessions with GDM remote displays and persisting remote display info to a JSON file.
+// ---
+
 #include "remoting/host/linux/gdm_managed_desktop_session_backend.h"
 
 #include <algorithm>

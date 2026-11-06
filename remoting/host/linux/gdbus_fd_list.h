@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDBusFdList and SparseFdList declarations
+// summary: Declares GDBusFdList and SparseFdList for passing file descriptors in D-Bus method calls, with handles for lookup and ownership transfer.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GDBUS_FD_LIST_H_
 #define REMOTING_HOST_LINUX_GDBUS_FD_LIST_H_
 

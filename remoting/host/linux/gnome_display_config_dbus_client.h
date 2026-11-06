@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME display config D-Bus client header
+// summary: Declares GnomeDisplayConfigDBusClient for querying, applying, and monitoring GNOME display configuration changes over D-Bus.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_DISPLAY_CONFIG_DBUS_CLIENT_H_
 #define REMOTING_HOST_LINUX_GNOME_DISPLAY_CONFIG_DBUS_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of webrtc_types.mojom.
+type: source
+title: WebRTC types Mojom definitions
+summary: Defines Mojom structs and enums mirroring WebRTC types such as desktop capture options, frames, cursors and ICE candidates for IPC between chromoting processes.

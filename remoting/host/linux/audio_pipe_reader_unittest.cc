@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AudioPipeReader
+// summary: Unit tests verifying that AudioPipeReader detects pipe creation and deletion, reads data correctly and paces reads in real time.
+// ---
+
 
 #include "remoting/host/linux/audio_pipe_reader.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake capture stream header
+// summary: Declares gmock-based FakeCaptureStream and FakeCaptureStreamManager test doubles for capture stream testing.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_FAKE_CAPTURE_STREAM_H_
 #define REMOTING_HOST_LINUX_FAKE_CAPTURE_STREAM_H_
 

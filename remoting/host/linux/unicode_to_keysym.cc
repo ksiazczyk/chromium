@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unicode to X keysym mapping table
+// summary: Maps Unicode code points to X keysyms using a sorted lookup table for keyboard input handling on Linux.
+// ---
+
 #include "remoting/host/linux/unicode_to_keysym.h"
 
 #include <algorithm>

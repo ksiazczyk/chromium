@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipeWire mouse cursor capturer unit tests
+// summary: Unit tests for PipewireMouseCursorCapturer using fake capture streams, a fake display info monitor, and a mock observer to verify cursor tracking behavior.
+// ---
+
 #include "remoting/host/linux/pipewire_mouse_cursor_capturer.h"
 
 #include <memory>

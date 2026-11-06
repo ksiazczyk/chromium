@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the X11 active display monitor
+// summary: Declares ActiveDisplayMonitorX11, the X11 implementation of the active display monitor with a SequenceBound core.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_ACTIVE_DISPLAY_MONITOR_X11_H_
 #define REMOTING_HOST_LINUX_ACTIVE_DISPLAY_MONITOR_X11_H_
 

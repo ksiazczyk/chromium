@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux worker process launcher delegate implementation
+// summary: Implements launching and monitoring of Linux worker processes, including running them as other users with setuid, session, and group setup.
+// ---
+
 #include "remoting/host/linux/linux_process_launcher_delegate.h"
 
 #include <grp.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate watcher implementation
+// summary: Implements watching the NSS certificate database files and notifying the host to restart when their contents change, using a file watcher with a delayed hash re-read.
+// ---
+
 #include "remoting/host/linux/certificate_watcher.h"
 
 #include "base/files/file_util.h"

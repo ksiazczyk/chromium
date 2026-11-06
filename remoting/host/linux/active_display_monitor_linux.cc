@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux active display monitor factory
+// summary: Factory that creates the X11-based active display monitor implementation on Linux.
+// ---
+
 #include "remoting/host/active_display_monitor.h"
 
 #include "base/task/single_thread_task_runner.h"

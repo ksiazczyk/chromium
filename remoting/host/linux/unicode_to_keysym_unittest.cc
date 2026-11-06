@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Unicode to keysym mapping
+// summary: Verifies GetKeySymsForUnicode returns the expected keysyms for a range of Unicode code points.
+// ---
+
 
 #include "remoting/host/linux/unicode_to_keysym.h"
 

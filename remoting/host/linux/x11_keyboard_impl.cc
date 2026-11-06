@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 keyboard implementation
+// summary: Implements the X11 keyboard interface using an X11 connection, including key simulation via XTEST and keycode-to-keysym mapping changes.
+// ---
+
 #include "remoting/host/linux/x11_keyboard_impl.h"
 
 #include "remoting/host/linux/unicode_to_keysym.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me host service main implementation
+// summary: Implements the macOS host service that proxies between launchd and the host, handling enable and disable, config saving, signal forwarding and relaunch throttling.
+// ---
+
 #include "remoting/host/mac/host_service_main.h"
 
 #include <signal.h>

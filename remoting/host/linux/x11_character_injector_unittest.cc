@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 character injector unit tests
+// summary: Unit tests for X11 character injection that use a fake X11 keyboard to verify typed character sequences and enforce keycode reuse timing.
+// ---
+
 #include "remoting/host/linux/x11_character_injector.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardGnome class declaration
+// summary: Declares ClipboardGnome, a Clipboard implementation using GNOME's D-Bus RemoteDesktop clipboard APIs, which support only the standard clipboard selection.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_CLIPBOARD_GNOME_H_
 #define REMOTING_HOST_LINUX_CLIPBOARD_GNOME_H_
 

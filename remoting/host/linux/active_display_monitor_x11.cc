@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 active display monitor implementation
+// summary: Implements X11 active display monitoring using RANDR and root window events to detect changes of the focused display.
+// ---
+
 #include "remoting/host/linux/active_display_monitor_x11.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 character injector header
+// summary: Declares a helper class that queues Unicode characters and injects them into the X server via keycode remapping.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_X11_CHARACTER_INJECTOR_H_
 #define REMOTING_HOST_LINUX_X11_CHARACTER_INJECTOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of remoting_me2me_host_wrapper.sh.
+type: script
+title: Me2Me host development wrapper script
+summary: Shell wrapper that runs the remoting_me2me_host binary from the parent build output directory, intended for development use only.

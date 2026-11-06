@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 desktop display info loader declaration
+// summary: Declares the X11 display info loader that observes X events and caches monitor information.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DESKTOP_DISPLAY_INFO_LOADER_X11_H_
 #define REMOTING_HOST_LINUX_DESKTOP_DISPLAY_INFO_LOADER_X11_H_
 

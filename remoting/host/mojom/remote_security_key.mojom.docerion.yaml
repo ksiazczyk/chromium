@@ -1,0 +1,4 @@
+# Docerion header of remote_security_key.mojom.
+type: source
+title: Remote security key forwarding Mojom interface
+summary: Defines the SecurityKeyForwarder IPC interface used by the remote security key binary to send security key requests to the chromoting host for forwarding to the client website.

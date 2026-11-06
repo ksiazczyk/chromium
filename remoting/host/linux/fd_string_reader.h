@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File descriptor string reader header
+// summary: Declares FdStringReader, an asynchronous helper that reads a file descriptor into a std::string.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_FD_STRING_READER_H_
 #define REMOTING_HOST_LINUX_FD_STRING_READER_H_
 

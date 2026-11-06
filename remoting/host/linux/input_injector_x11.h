@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 input injector class declaration
+// summary: Declares the InputInjectorX11 class and its Core, which injects input events and manages clipboard and keyboard lock state on X11.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_INPUT_INJECTOR_X11_H_
 #define REMOTING_HOST_LINUX_INPUT_INJECTOR_X11_H_
 

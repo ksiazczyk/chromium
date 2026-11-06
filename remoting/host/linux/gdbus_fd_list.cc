@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDBusFdList implementation
+// summary: Implements GDBusFdList and SparseFdList, which manage file descriptors sent or received with D-Bus method calls and convert to and from GUnixFDList.
+// ---
+
 #include "remoting/host/linux/gdbus_fd_list.h"
 
 #include <fcntl.h>

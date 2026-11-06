@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 desktop display info loader implementation
+// summary: Loads monitor information from the X server via XRANDR and reports current display details for remote clients.
+// ---
+
 #include "remoting/host/linux/desktop_display_info_loader_x11.h"
 
 #include <algorithm>

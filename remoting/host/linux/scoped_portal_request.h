@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped portal request header
+// summary: Declares ScopedPortalRequest, an RAII helper that closes xdg-desktop-portal requests on destruction and exposes the handle token.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_SCOPED_PORTAL_REQUEST_H_
 #define REMOTING_HOST_LINUX_SCOPED_PORTAL_REQUEST_H_
 

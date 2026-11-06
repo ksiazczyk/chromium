@@ -1,0 +1,4 @@
+# Docerion header of remote_url_opener.mojom.
+type: source
+title: Remote URL opener Mojom interface
+summary: Defines the RemoteUrlOpener IPC interface and OpenUrlResult enum that let a standalone binary ask the client to open a URL remotely.

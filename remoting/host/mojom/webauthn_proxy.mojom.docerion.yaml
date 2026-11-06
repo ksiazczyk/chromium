@@ -1,0 +1,4 @@
+# Docerion header of webauthn_proxy.mojom.
+type: source
+title: WebAuthn proxy Mojom interface
+summary: Defines the WebAuthnProxy IPC interface for forwarding intercepted Web Authentication API requests from the host-side extension to the client security extension.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostType interface for Linux
+// summary: Declares the HostType interface used to enumerate, find and describe supported Linux remoting host types.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_HOST_TYPES_H_
 #define REMOTING_HOST_LINUX_HOST_TYPES_H_
 

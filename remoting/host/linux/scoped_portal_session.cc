@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedPortalSession implementation
+// summary: Implements an RAII wrapper that creates, monitors and closes xdg-desktop-portal sessions over D-Bus, invoking a callback with details when the session closes.
+// ---
+
 #include "remoting/host/linux/scoped_portal_session.h"
 
 #include <tuple>

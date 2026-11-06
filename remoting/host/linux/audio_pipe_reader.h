@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the audio pipe reader
+// summary: Declares AudioPipeReader, which reads audio from a named pipe written by an audio server and notifies stream observers.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_AUDIO_PIPE_READER_H_
 #define REMOTING_HOST_LINUX_AUDIO_PIPE_READER_H_
 

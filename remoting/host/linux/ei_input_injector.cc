@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libei input injector implementation
+// summary: Implements EiInputInjector, which injects keyboard, mouse, touch, and clipboard events through an EI sender session, synchronizing Caps and Num lock state.
+// ---
+
 #include "remoting/host/linux/ei_input_injector.h"
 
 #include "base/memory/weak_ptr.h"

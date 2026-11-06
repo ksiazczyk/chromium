@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire capture stream implementation
+// summary: Implements the PipeWire screen capture stream lifecycle and a callback proxy that forwards frame and cursor events to the parent on the right sequence.
+// ---
+
 #include "remoting/host/linux/pipewire_capture_stream.h"
 
 #include <cstdint>

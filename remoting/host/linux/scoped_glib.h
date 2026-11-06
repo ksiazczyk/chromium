@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped GLib utilities header
+// summary: Defines scoper classes and utilities such as ScopedGVariant for managing GLib types that are not derived from GObject.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_SCOPED_GLIB_H_
 #define REMOTING_HOST_LINUX_SCOPED_GLIB_H_
 

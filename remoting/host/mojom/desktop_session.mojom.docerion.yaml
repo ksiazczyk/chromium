@@ -1,0 +1,4 @@
+# Docerion header of desktop_session.mojom.
+type: source
+title: Desktop session Mojo interface
+summary: Defines IPC structs and interfaces between network and desktop processes for audio, clipboard, input injection and session lifecycle.

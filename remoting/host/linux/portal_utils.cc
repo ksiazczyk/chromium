@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal utility functions implementation
+// summary: Implements helpers that generate random portal request tokens and compute portal handle object paths for D-Bus portal calls.
+// ---
+
 #include "remoting/host/linux/portal_utils.h"
 
 #include <gio/gio.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native messaging writer unit tests
+// summary: Unit tests for NativeMessagingWriter verifying message framing, sequential writes, and failure handling when the read end of the pipe is closed.
+// ---
+
 #include "remoting/host/native_messaging/native_messaging_writer.h"
 
 #include <array>

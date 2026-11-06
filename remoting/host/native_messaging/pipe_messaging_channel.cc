@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipe messaging channel implementation
+// summary: Implements PipeMessagingChannel, wiring the native messaging reader and writer over pipe files, blocking stdio on POSIX, and handling message dispatch and shutdown.
+// ---
+
 #include "remoting/host/native_messaging/pipe_messaging_channel.h"
 
 #include <utility>

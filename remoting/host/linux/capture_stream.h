@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureStream interface for PipeWire monitor capture
+// summary: Declares the CaptureStream interface wrapping a PipeWire capture stream for a logical monitor, covering video capture start/stop, frame callbacks, resolution negotiation and cursor observation.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_CAPTURE_STREAM_H_
 #define REMOTING_HOST_LINUX_CAPTURE_STREAM_H_
 

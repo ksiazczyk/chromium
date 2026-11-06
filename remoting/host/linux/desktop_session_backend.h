@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop session backend interface
+// summary: Defines the DesktopSessionBackend interface for Linux desktop session backends, covering startup, session creation, termination, and lookup by UID.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DESKTOP_SESSION_BACKEND_H_
 #define REMOTING_HOST_LINUX_DESKTOP_SESSION_BACKEND_H_
 

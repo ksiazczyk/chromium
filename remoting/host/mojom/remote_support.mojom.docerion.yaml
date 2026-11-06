@@ -1,0 +1,4 @@
+# Docerion header of remote_support.mojom.
+type: source
+title: Remote support session Mojom definitions
+summary: Defines Mojom structs, enums and interfaces for remote support sessions, covering session parameters, start responses, errors, NAT policy state and host state observation.

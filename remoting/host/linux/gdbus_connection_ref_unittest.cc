@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GDBusConnectionRef unit tests
+// summary: Unit tests for GDBusConnectionRef covering method calls, error handling, and property access against a D-Bus test service.
+// ---
+
 #include "remoting/host/linux/gdbus_connection_ref.h"
 
 #include <array>

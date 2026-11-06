@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal curtain mode implementation
+// summary: Stub implementation of PortalCurtainMode::Activate that returns true pending future work.
+// ---
+
 #include "remoting/host/linux/portal_curtain_mode.h"
 
 namespace remoting {

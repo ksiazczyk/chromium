@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GVariantRef implementation
+// summary: Implements scoped GLib GVariant wrappers, including reference handling plus object path and type signature validation helpers.
+// ---
+
 #include "remoting/host/linux/gvariant_ref.h"
 
 #include <glib.h>

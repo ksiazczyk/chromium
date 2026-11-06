@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GVariantDictBuilder header
+// summary: Declares a helper class for constructing GLib VariantDict values of type a{sv} with typed Add and Build methods.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GVARIANT_DICT_BUILDER_H_
 #define REMOTING_HOST_LINUX_GVARIANT_DICT_BUILDER_H_
 

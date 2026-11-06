@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 character injector implementation
+// summary: Implements injection of Unicode characters into X11 by temporarily mapping unused keycodes and queuing key presses.
+// ---
+
 #include "remoting/host/linux/x11_character_injector.h"
 
 #include <algorithm>

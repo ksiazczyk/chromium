@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnomeInteractionStrategy header
+// summary: Declares the GNOME desktop interaction strategy that supplies host components for a Mutter remote desktop session and observes capture streams.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_INTERACTION_STRATEGY_H_
 #define REMOTING_HOST_LINUX_GNOME_INTERACTION_STRATEGY_H_
 

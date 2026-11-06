@@ -1,0 +1,4 @@
+# Docerion header of peer_session.mojom.
+type: source
+title: Peer session Mojo interface
+summary: Defines WebRTC session description and ICE candidate types plus interfaces for the network process to launch peer sessions via the daemon process.

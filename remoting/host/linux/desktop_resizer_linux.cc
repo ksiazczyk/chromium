@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux desktop resizer factory
+// summary: Factory that creates the X11 desktop resizer on Linux.
+// ---
+
 #include "remoting/host/desktop_resizer.h"
 
 #include <memory>

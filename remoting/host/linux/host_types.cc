@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux host type implementations
+// summary: Defines the single-process and GDM-managed host types for the Linux remoting host, including lookup by name and help printing.
+// ---
+
 #include "remoting/host/linux/host_types.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux desktop session factory header
+// summary: Declares DesktopSessionFactoryLinux, a facade that delegates desktop session creation and termination to an underlying DesktopSessionBackend implementation.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DESKTOP_SESSION_FACTORY_LINUX_H_
 #define REMOTING_HOST_LINUX_DESKTOP_SESSION_FACTORY_LINUX_H_
 

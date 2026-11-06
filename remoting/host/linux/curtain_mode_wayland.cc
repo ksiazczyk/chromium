@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland curtain mode implementation
+// summary: Implements curtain mode for Wayland hosts, activating only when the session runs headless.
+// ---
+
 #include "remoting/host/linux/curtain_mode_wayland.h"
 
 namespace remoting {

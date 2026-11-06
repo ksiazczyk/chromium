@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire audio injector header
+// summary: Declares the PipewireAudioInjector class, a PipeWire-based AudioInjector that feeds audio from a FIFO reader into a virtual source.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PIPEWIRE_AUDIO_INJECTOR_H_
 #define REMOTING_HOST_LINUX_PIPEWIRE_AUDIO_INJECTOR_H_
 

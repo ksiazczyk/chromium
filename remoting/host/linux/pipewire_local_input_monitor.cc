@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire local input monitor implementation
+// summary: Implements PipewireLocalInputMonitor, reporting local pointer movements observed through the PipeWire cursor capturer to client session control and callbacks.
+// ---
+
 #include "remoting/host/linux/pipewire_local_input_monitor.h"
 
 #include "remoting/host/client_session_control.h"

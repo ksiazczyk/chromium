@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac host constants declarations
+// summary: Declares macOS host constants for service names, install and config paths, plist files, logs and native messaging manifests used by the remoting host.
+// ---
+
 #ifndef REMOTING_HOST_MAC_CONSTANTS_MAC_H_
 #define REMOTING_HOST_MAC_CONSTANTS_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EI keymap header
+// summary: Declares EiKeymap, which caches a libei device's XKB keymap and converts codepoints to USB keycodes and modifiers.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_EI_KEYMAP_H_
 #define REMOTING_HOST_LINUX_EI_KEYMAP_H_
 

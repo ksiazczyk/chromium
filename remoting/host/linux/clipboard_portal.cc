@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freedesktop portal clipboard implementation
+// summary: Implements clipboard synchronization over the org.freedesktop.portal.Clipboard D-Bus interface, including selection read and write handling via file descriptors.
+// ---
+
 #include "remoting/host/linux/clipboard_portal.h"
 
 #include <algorithm>

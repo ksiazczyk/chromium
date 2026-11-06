@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME capture stream manager implementation
+// summary: Implements adding and removing PipeWire capture streams through the org.gnome.Mutter.ScreenCast D-Bus API and associating streams with screen IDs.
+// ---
+
 #include "remoting/host/linux/gnome_capture_stream_manager.h"
 
 #include <algorithm>

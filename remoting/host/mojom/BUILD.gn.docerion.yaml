@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Remoting host mojom build configuration
+summary: GN build file that lists the remoting host Mojo IDL sources, conditional multi-process sources, dependencies and C++ typemap mappings.

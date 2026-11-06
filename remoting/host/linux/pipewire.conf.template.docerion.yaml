@@ -1,0 +1,4 @@
+# Docerion header of pipewire.conf.template.
+type: config
+title: PipeWire configuration template
+summary: Template for a PipeWire server configuration defining core properties, SPA libraries, modules, and default dummy and freewheel driver nodes.

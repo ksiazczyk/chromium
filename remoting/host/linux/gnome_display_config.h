@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME display config data structures
+// summary: Defines the GnomeDisplayConfig struct modeling monitor and logical monitor data from GNOME's Mutter DisplayConfig D-Bus API.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_DISPLAY_CONFIG_H_
 #define REMOTING_HOST_LINUX_GNOME_DISPLAY_CONFIG_H_
 

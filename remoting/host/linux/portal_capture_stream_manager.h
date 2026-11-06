@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal capture stream manager header
+// summary: Declares PortalCaptureStreamManager, which manages portal-created PipeWire capture streams, virtual streams, and active stream lookups.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PORTAL_CAPTURE_STREAM_MANAGER_H_
 #define REMOTING_HOST_LINUX_PORTAL_CAPTURE_STREAM_MANAGER_H_
 

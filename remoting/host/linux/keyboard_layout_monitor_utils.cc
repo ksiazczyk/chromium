@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard layout monitor utilities implementation
+// summary: Maps GDK dead keys to UTF-8 combining characters and converts keyvals to layout key functions for keyboard layout monitoring.
+// ---
+
 #include "remoting/host/linux/keyboard_layout_monitor_utils.h"
 
 namespace remoting {

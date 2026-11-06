@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X server clipboard unit tests
+// summary: Unit tests that verify clipboard data can be transferred between two X server connections using the XServerClipboard class.
+// ---
+
 #include <memory>
 #include <string>
 

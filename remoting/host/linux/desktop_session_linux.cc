@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux desktop session implementation
+// summary: Implements DesktopSessionLinux, which manages the setuid desktop worker process, attaches it to the session cgroup, and handles daemon-to-desktop IPC.
+// ---
+
 #include "remoting/host/linux/desktop_session_linux.h"
 
 #include <sys/types.h>

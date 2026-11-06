@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard layout monitor utilities declaration
+// summary: Declares helpers for keyboard layout monitoring, including dead key to UTF-8 mapping and keyval to key function conversion.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_KEYBOARD_LAYOUT_MONITOR_UTILS_H_
 #define REMOTING_HOST_LINUX_KEYBOARD_LAYOUT_MONITOR_UTILS_H_
 

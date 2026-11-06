@@ -1,0 +1,4 @@
+# Docerion header of wireplumber.conf.fragment.
+type: config
+title: WirePlumber chrome-remote-desktop profile fragment
+summary: WirePlumber configuration fragment defining the chrome-remote-desktop profile with required and disabled features.

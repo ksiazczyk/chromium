@@ -4,6 +4,12 @@
 
 // Don't include this file from any .h files because it pulls in some X headers.
 
+// ---docerion
+// type: source
+// title: XServerClipboard class header for X11 clipboard access
+// summary: Declares XServerClipboard, a class that monitors and manipulates the X server clipboard selections using only X API calls.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_X_SERVER_CLIPBOARD_H_
 #define REMOTING_HOST_LINUX_X_SERVER_CLIPBOARD_H_
 

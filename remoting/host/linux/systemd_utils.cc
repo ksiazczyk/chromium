@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless systemd session detection for the Linux host
+// summary: Implements detection of headless systemd sessions by checking sd-login remote flags or the chrome-remote-desktop PAM service.
+// ---
+
 #include "remoting/host/linux/systemd_utils.h"
 
 #include <systemd/sd-login.h>

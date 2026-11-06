@@ -1,0 +1,4 @@
+# Docerion header of desktop_session.py.
+type: script
+title: Chrome Remote Desktop X11 session launcher script
+summary: Python script that launches and supervises a standalone Chrome Remote Desktop X11 session, handling logind session termination, signals, and cleanup.

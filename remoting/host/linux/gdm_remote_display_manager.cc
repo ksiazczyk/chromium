@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GdmRemoteDisplayManager implementation
+// summary: Implements GdmRemoteDisplayManager, which initializes against GDM over D-Bus, creates remote displays, and subscribes to display change signals.
+// ---
+
 #include "remoting/host/linux/gdm_remote_display_manager.h"
 
 #include <algorithm>

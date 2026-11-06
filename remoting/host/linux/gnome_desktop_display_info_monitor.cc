@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME desktop display info monitor implementation
+// summary: Converts GNOME display configuration updates into DesktopDisplayInfo, handling physical and logical pixel layouts and monitor scaling.
+// ---
+
 #include "remoting/host/linux/gnome_desktop_display_info_monitor.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux keyboard layout monitor
+// summary: Monitors keyboard layout changes on Linux via GDK keymap signals and X11 events, reporting layouts through a callback.
+// ---
+
 #include "remoting/host/keyboard_layout_monitor.h"
 
 #include <gdk/gdk.h>

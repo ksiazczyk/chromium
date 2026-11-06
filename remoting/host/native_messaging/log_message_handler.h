@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log message handler class header
+// summary: Declares LogMessageHandler, a thread-safe helper that routes log messages to a consistent thread in a format suitable for a native messaging channel.
+// ---
+
 #ifndef REMOTING_HOST_NATIVE_MESSAGING_LOG_MESSAGE_HANDLER_H_
 #define REMOTING_HOST_NATIVE_MESSAGING_LOG_MESSAGE_HANDLER_H_
 

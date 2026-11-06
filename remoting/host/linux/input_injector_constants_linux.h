@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux input injector scroll direction constants
+// summary: Defines the ScrollDirection enum used by the Linux input injector to represent mouse scroll direction.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_INPUT_INJECTOR_CONSTANTS_LINUX_H_
 #define REMOTING_HOST_LINUX_INPUT_INJECTOR_CONSTANTS_LINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote session info tool implementation
+// summary: Implements a command-line tool that reports whether the current session is managed by Chrome Remote Desktop, printing JSON info or using exit codes.
+// ---
+
 #include "remoting/host/linux/remote_session_info_main.h"
 
 #include <iostream>

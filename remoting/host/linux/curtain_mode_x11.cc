@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 curtain mode implementation
+// summary: Implements X11 curtain mode, allowing curtaining only in virtual X sessions and logging an error on physical consoles.
+// ---
+
 #include <memory>
 
 #include "base/task/single_thread_task_runner.h"

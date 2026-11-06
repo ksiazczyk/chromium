@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me daemon process entry point
+// summary: Entry point for the Linux Me2Me daemon, locking the host config file and restarting the host with exponential backoff and signal handling.
+// ---
+
 #include <sys/file.h>
 #include <sys/stat.h>
 

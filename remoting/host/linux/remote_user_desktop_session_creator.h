@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote user desktop session creator interface
+// summary: Interface for requesting a graphical login session for a local user without interactive authentication so a remote client can connect.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_REMOTE_USER_DESKTOP_SESSION_CREATOR_H_
 #define REMOTING_HOST_LINUX_REMOTE_USER_DESKTOP_SESSION_CREATOR_H_
 

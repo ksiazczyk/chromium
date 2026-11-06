@@ -1,0 +1,4 @@
+# Docerion header of common.mojom.
+type: source
+title: Common Mojo types for remoting host IPC
+summary: Shared enums and structs such as protocol error codes, transport routes, port ranges and session policies that mirror C++ remoting types.

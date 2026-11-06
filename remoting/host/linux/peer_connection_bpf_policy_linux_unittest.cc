@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peer connection BPF policy unit tests
+// summary: Unit tests verifying that the Linux peer connection BPF syscall policy denies dangerous syscalls, allows basic ones, and treats others conditionally.
+// ---
+
 #include "remoting/host/linux/peer_connection_bpf_policy_linux.h"
 
 #include <sys/syscall.h>

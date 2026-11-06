@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionWizard class header for macOS permission flow
+// summary: Declares the PermissionWizard class and its delegate interface for guiding users through granting the macOS permissions the host process needs.
+// ---
+
 #ifndef REMOTING_HOST_MAC_PERMISSION_WIZARD_H_
 #define REMOTING_HOST_MAC_PERMISSION_WIZARD_H_
 

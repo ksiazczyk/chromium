@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging JSON parsing and response helpers
+// summary: Implements helpers to parse native messaging JSON, build responses echoing type and id, and populate hello responses with version and supported features.
+// ---
+
 #include "remoting/host/native_messaging/native_messaging_helpers.h"
 
 #include "base/json/json_reader.h"

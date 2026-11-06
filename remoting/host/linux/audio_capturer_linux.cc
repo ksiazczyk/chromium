@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux audio capturer factory
+// summary: Creates a Linux audio capturer, preferring PulseAudio when supported and falling back to Pipewire.
+// ---
+
 #include "remoting/host/audio_capturer.h"
 
 #include <memory>

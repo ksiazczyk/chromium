@@ -1,0 +1,4 @@
+# Docerion header of permission_wizard.mm.
+type: source
+title: PermissionWizard Cocoa implementation
+summary: Implements the PermissionWizard with a Cocoa window controller that shows accessibility and screen recording pages and polls for granted permissions.

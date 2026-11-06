@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GdmManagedDesktopSessionBackend declarations
+// summary: Declares the GDM-managed desktop session backend that associates each desktop session with a GDM remote display, systemd login session, and desktop process.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GDM_MANAGED_DESKTOP_SESSION_BACKEND_H_
 #define REMOTING_HOST_LINUX_GDM_MANAGED_DESKTOP_SESSION_BACKEND_H_
 

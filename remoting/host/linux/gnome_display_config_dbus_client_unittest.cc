@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GnomeDisplayConfigDBusClient
+// summary: Unit tests that feed fake Mutter DisplayConfig GVariant responses to verify parsing of single and dual monitor configurations.
+// ---
+
 #include "remoting/host/linux/gnome_display_config_dbus_client.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnomeRemoteDesktopSession implementation
+// summary: Implements the singleton that creates and manages a GNOME/Mutter remote desktop session, including screencast streams, display layout persistence, and headless detection.
+// ---
+
 #include "remoting/host/linux/gnome_remote_desktop_session.h"
 
 #include <signal.h>

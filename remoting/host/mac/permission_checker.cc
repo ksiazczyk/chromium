@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission checker implementation
+// summary: Implements PermissionChecker by dispatching accessibility and screen recording permission checks to a background task runner for the macOS host.
+// ---
+
 #include "remoting/host/mac/permission_checker.h"
 
 #include <utility>

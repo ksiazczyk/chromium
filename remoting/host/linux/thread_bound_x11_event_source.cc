@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-bound X11 event source implementation
+// summary: Creates an X11EventSource bound to the current thread that deletes itself before the message pump is destroyed.
+// ---
+
 #include "remoting/host/linux/thread_bound_x11_event_source.h"
 
 #include "base/check.h"

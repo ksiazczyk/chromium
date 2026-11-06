@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging writer implementation
+// summary: Implements NativeMessagingWriter, serializing JSON messages with a 4-byte length header and enforcing a 1MB size limit when writing to the client stream.
+// ---
+
 #include "remoting/host/native_messaging/native_messaging_writer.h"
 
 #include <string>

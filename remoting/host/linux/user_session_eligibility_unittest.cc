@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User session eligibility unit tests
+// summary: Tests UID and login shell validation rules, including rejection of root, system accounts, nobody, and nologin or false shells.
+// ---
+
 #include "remoting/host/linux/user_session_eligibility.h"
 
 #include <vector>

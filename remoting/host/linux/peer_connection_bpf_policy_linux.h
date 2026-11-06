@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer connection BPF policy header
+// summary: Declares PeerConnectionBpfPolicyLinux, a Seccomp-BPF policy class that blocks dangerous syscalls for the Peer Connection process on Linux.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PEER_CONNECTION_BPF_POLICY_LINUX_H_
 #define REMOTING_HOST_LINUX_PEER_CONNECTION_BPF_POLICY_LINUX_H_
 

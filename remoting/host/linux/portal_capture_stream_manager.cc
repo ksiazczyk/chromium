@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal capture stream manager implementation
+// summary: Creates and manages PipeWire capture streams via the XDG desktop portal, including virtual monitor streams, observers, and initial stream rects.
+// ---
+
 #include "remoting/host/linux/portal_capture_stream_manager.h"
 
 #include <cstdint>

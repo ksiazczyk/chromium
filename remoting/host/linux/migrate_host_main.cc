@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host migration main logic
+// summary: Implements the migrate_host tool, running privileged steps via sudo to save or migrate host configuration and pairing state between single-process and multi-process daemon modes.
+// ---
+
 #include "remoting/host/linux/migrate_host_main.h"
 
 #include <unistd.h>

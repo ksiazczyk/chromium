@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent process broker main routine
+// summary: Initializes base, logging, thread pool and Mojo IPC support, then runs the agent process broker server loop.
+// ---
+
 #include "remoting/host/mac/agent_process_broker_main.h"
 
 #include "base/at_exit.h"

@@ -67,6 +67,12 @@
 // We can always revisit if this approach turns out not to be ideal for some
 // EIS implementation.
 
+// ---docerion
+// type: source
+// title: EI sender session implementation
+// summary: Implements a libei sender session that injects keyboard, pointer and scroll input through an EIS implementation.
+// ---
+
 #include "remoting/host/linux/ei_sender_session.h"
 
 #include <linux/input-event-codes.h>

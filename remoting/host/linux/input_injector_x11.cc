@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 input injector implementation
+// summary: Implements keyboard, mouse, text, and clipboard event injection on X11 using XTEST for the Chrome Remote Desktop host.
+// ---
+
 #include "remoting/host/linux/input_injector_x11.h"
 
 #include <stddef.h>

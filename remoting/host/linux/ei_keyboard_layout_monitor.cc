@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EI keyboard layout monitor implementation
+// summary: Implements EiKeyboardLayoutMonitor, which reports keyboard layout changes from the EI keymap and warns when multiple layouts make the active one ambiguous.
+// ---
+
 #include "remoting/host/linux/ei_keyboard_layout_monitor.h"
 
 #include <xkbcommon/xkbcommon.h>

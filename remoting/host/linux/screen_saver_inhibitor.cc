@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenSaverInhibitor implementation
+// summary: Inhibits the screen saver via the org.freedesktop.ScreenSaver D-Bus interface while alive and releases the inhibitor cookie on destruction.
+// ---
+
 #include "remoting/host/linux/screen_saver_inhibitor.h"
 
 #include <tuple>

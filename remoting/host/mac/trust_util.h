@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process trust verification header
+// summary: Declares IsProcessTrusted, which validates a process audit token's code signature against a list of bundle identifiers.
+// ---
+
 #ifndef REMOTING_HOST_MAC_TRUST_UTIL_H_
 #define REMOTING_HOST_MAC_TRUST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Agent process broker class declaration
+// summary: Declares the AgentProcessBroker class that tracks agent processes and serves the AgentProcessBroker Mojo interface with connection validation.
+// ---
+
 #ifndef REMOTING_HOST_MAC_AGENT_PROCESS_BROKER_H_
 #define REMOTING_HOST_MAC_AGENT_PROCESS_BROKER_H_
 

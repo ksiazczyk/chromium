@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission checker class declaration
+// summary: Declares PermissionChecker, the PermissionWizard delegate that checks accessibility and screen recording permissions for the macOS host.
+// ---
+
 #ifndef REMOTING_HOST_MAC_PERMISSION_CHECKER_H_
 #define REMOTING_HOST_MAC_PERMISSION_CHECKER_H_
 

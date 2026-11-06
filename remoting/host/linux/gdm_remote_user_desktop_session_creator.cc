@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDM remote user desktop session creator implementation
+// summary: Implements remote user session creation by calling GDM's RemoteDisplayFactory.CreateUserDisplay D-Bus method and detecting errors that mean GDM is missing or too old.
+// ---
+
 #include "remoting/host/linux/gdm_remote_user_desktop_session_creator.h"
 
 #include <string>

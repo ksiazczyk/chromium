@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EI keymap implementation
+// summary: Loads an XKB keymap from a libei keyboard device and maps codepoints to USB keycodes with modifier recipes.
+// ---
+
 #include "remoting/host/linux/ei_keymap.h"
 
 #include <string_view>

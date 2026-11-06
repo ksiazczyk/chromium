@@ -4,6 +4,12 @@
 
 // TODO(jamiewalch): Add unit tests for this.
 
+// ---docerion
+// type: source
+// title: POSIX signal handler implementation
+// summary: Implements RegisterSignalHandler for POSIX by writing a byte to a pipe on signal receipt and dispatching registered callbacks via a file descriptor watcher on the message loop.
+// ---
+
 #include "remoting/host/posix/signal_handler.h"
 
 #include <errno.h>

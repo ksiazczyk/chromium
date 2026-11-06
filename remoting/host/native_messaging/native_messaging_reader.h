@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging reader header
+// summary: Declares NativeMessagingReader, which reads length-prefixed messages from a native messaging client webapp on a dedicated background thread and invokes message and EOF callbacks.
+// ---
+
 #ifndef REMOTING_HOST_NATIVE_MESSAGING_NATIVE_MESSAGING_READER_H_
 #define REMOTING_HOST_NATIVE_MESSAGING_NATIVE_MESSAGING_READER_H_
 

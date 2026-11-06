@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libei input injector header
+// summary: Declares EiInputInjector, an InputInjector that forwards input and clipboard events to an EI sender session using the capture stream manager for mapping.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_EI_INPUT_INJECTOR_H_
 #define REMOTING_HOST_LINUX_EI_INPUT_INJECTOR_H_
 

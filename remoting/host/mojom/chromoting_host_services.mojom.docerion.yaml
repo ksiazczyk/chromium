@@ -1,0 +1,4 @@
+# Docerion header of chromoting_host_services.mojom.
+type: source
+title: Chromoting host services Mojo interface
+summary: Defines APIs in the network/host process that user-launched client processes use to bind WebAuthn, URL opener, security key and agent status services.

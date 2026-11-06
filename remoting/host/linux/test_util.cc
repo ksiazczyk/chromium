@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helpers for GNOME display config and desktop sizes
+// summary: Provides helpers for tests that build GnomeDisplayConfig monitor info and compare or print webrtc desktop sizes.
+// ---
+
 #include "remoting/host/linux/test_util.h"
 
 namespace remoting {

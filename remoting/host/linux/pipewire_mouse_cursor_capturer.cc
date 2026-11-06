@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire mouse cursor capturer implementation
+// summary: Implements PipewireMouseCursorCapturer, tracking the latest cursor shape and global or fractional position across PipeWire capture streams and display info updates.
+// ---
+
 #include "remoting/host/linux/pipewire_mouse_cursor_capturer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 host utility functions
+// summary: Implements X11 helpers for ignoring server grabs, detecting virtual sessions and the video dummy driver, and querying X server state.
+// ---
+
 #include "remoting/host/linux/x11_util.h"
 
 #include <utility>

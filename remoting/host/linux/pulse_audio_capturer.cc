@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PulseAudio audio capturer implementation
+// summary: Implements an audio capturer that reads samples from a PulseAudio pipe sink via AudioPipeReader and emits audio packets while filtering out silence.
+// ---
+
 #include "remoting/host/linux/pulse_audio_capturer.h"
 
 #include <stdint.h>

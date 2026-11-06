@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio pipe reader implementation
+// summary: Implements reading audio samples from a PulseAudio named pipe and dispatching captured data to registered observers.
+// ---
+
 #include "remoting/host/linux/audio_pipe_reader.h"
 
 #include <fcntl.h>

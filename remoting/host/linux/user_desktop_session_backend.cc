@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User desktop session backend implementation
+// summary: Implements the desktop session backend for local Linux users, selecting the best logind graphical session and validating remote session creation.
+// ---
+
 #include "remoting/host/linux/user_desktop_session_backend.h"
 
 #include <memory>

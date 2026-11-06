@@ -1,0 +1,4 @@
+# Docerion header of wireplumber.conf.template.
+type: config
+title: WirePlumber configuration template
+summary: Template WirePlumber configuration setting up PipeWire modules and Lua scripting components for Chrome Remote Desktop.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome Remote Desktop Linux Host
+summary: Overview of the Linux host directory with guidance on using the GVariant C++ wrappers for D-Bus communication.
+relations:
+  - documents /remoting/host/linux/gvariant_type.h
+  - documents /remoting/host/linux/gvariant_ref.h
+  - documents /remoting/host/linux/gvariant_dict_builder.h
+---
+
 # Chrome Remote Desktop Linux Host
 
 This directory contains the implementation of the Chrome Remote Desktop host for

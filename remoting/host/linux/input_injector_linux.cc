@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux input injector factory
+// summary: Factory that creates an X11-based InputInjector for Linux hosts and reports that touch events are unsupported.
+// ---
+
 #include "remoting/host/input_injector.h"
 
 #include "remoting/host/linux/input_injector_x11.h"

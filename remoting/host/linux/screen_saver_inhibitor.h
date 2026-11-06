@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenSaverInhibitor header
+// summary: Declares an RAII class that inhibits the screen saver and screen lock through D-Bus for as long as the object exists.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_SCREEN_SAVER_INHIBITOR_H_
 #define REMOTING_HOST_LINUX_SCREEN_SAVER_INHIBITOR_H_
 

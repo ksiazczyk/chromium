@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User desktop session backend header
+// summary: Declares the DesktopSessionBackend implementation that manages desktop sessions for local Linux users based on SessionRoutingConfig.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_USER_DESKTOP_SESSION_BACKEND_H_
 #define REMOTING_HOST_LINUX_USER_DESKTOP_SESSION_BACKEND_H_
 

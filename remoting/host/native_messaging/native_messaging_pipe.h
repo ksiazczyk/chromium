@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native messaging pipe class header
+// summary: Declares NativeMessagingPipe, which bridges an extensions::NativeMessageHost with a NativeMessagingChannel and handles messages and disconnects.
+// ---
+
 #ifndef REMOTING_HOST_NATIVE_MESSAGING_NATIVE_MESSAGING_PIPE_H_
 #define REMOTING_HOST_NATIVE_MESSAGING_NATIVE_MESSAGING_PIPE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of agent_process_broker.mojom.
+type: source
+title: Agent process broker Mojo interface
+summary: Mac-only Mojo interfaces that broker agent processes so at most one CRD host heartbeats and connects to signaling at a time.

@@ -1,0 +1,4 @@
+# Docerion header of pipewire-pulse.conf.template.
+type: config
+title: PipeWire PulseAudio configuration template
+summary: Template for a PipeWire PulseAudio server configuration that sets up a pipe sink, VM overrides, and client-specific pulse rules.

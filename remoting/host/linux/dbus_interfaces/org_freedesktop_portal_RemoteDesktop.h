@@ -4,6 +4,12 @@
 
 // This file was generated from org_freedesktop_portal_RemoteDesktop.xml
 
+// ---docerion
+// type: source
+// title: Freedesktop portal RemoteDesktop D-Bus interface structs
+// summary: Generated C++ structs describing methods of the org.freedesktop.portal.RemoteDesktop D-Bus interface, including session creation, device selection, and pointer and keyboard input notification.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_REMOTEDESKTOP_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_FREEDESKTOP_PORTAL_REMOTEDESKTOP_H_
 

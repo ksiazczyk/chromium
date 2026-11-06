@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login session manager implementation
+// summary: Implements LoginSessionManager, querying, listing and terminating systemd login sessions and subscribing to session signals via org.freedesktop.login1 D-Bus interfaces.
+// ---
+
 #include "remoting/host/linux/login_session_manager.h"
 
 #include <memory>

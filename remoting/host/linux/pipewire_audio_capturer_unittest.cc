@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipeWire audio capturer unit tests
+// summary: Unit tests checking that the PipeWire audio capturer can be created and started and torn down repeatedly without crashing.
+// ---
+
 #include "remoting/host/linux/pipewire_audio_capturer.h"
 
 #include <memory>

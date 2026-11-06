@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GnomeRemoteDesktopSession header
+// summary: Declares the singleton managing the GNOME/Mutter remote desktop session with accessors for capture streams, cursor capturer, resizer, display config, and EI session.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_REMOTE_DESKTOP_SESSION_H_
 #define REMOTING_HOST_LINUX_GNOME_REMOTE_DESKTOP_SESSION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of remoting_me2me_host-Info.plist.
+type: config
+title: remoting_me2me_host-Info.plist bundle metadata
+summary: macOS bundle property list defining the me2me host app's identifier, version, icon, minimum system version, and Breakpad crash reporting settings.

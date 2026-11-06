@@ -4,6 +4,12 @@
 
 // This file was generated from org.gnome.Mutter.ScreenCast.xml
 
+// ---docerion
+// type: source
+// title: Generated D-Bus interface header for org.gnome.Mutter.ScreenCast
+// summary: Generated C++ structs with GVariant types for the methods, properties and signals of the GNOME Mutter ScreenCast D-Bus interfaces used by the Linux host.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_MUTTER_SCREENCAST_H_
 #define REMOTING_HOST_LINUX_DBUS_INTERFACES_ORG_GNOME_MUTTER_SCREENCAST_H_
 

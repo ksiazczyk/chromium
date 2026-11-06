@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux desktop session factory implementation
+// summary: Implements DesktopSessionFactoryLinux, which loads the session routing configuration and delegates session management to the user or GDM-managed backend.
+// ---
+
 #include "remoting/host/linux/desktop_session_factory_linux.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipe messaging channel header
+// summary: Declares PipeMessagingChannel, a pipe-based NativeMessagingChannel used by the It2Me and Me2Me hosts to communicate with the Chrome process.
+// ---
+
 #ifndef REMOTING_HOST_NATIVE_MESSAGING_PIPE_MESSAGING_CHANNEL_H_
 #define REMOTING_HOST_NATIVE_MESSAGING_PIPE_MESSAGING_CHANNEL_H_
 

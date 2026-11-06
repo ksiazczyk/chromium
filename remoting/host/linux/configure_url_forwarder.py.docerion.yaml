@@ -1,0 +1,4 @@
+# Docerion header of configure_url_forwarder.py.
+type: script
+title: URL forwarder default browser configuration script
+summary: Python script that sets the default browser to the Chrome Remote Desktop URL forwarder per desktop environment and backs up previous settings in the host settings file.

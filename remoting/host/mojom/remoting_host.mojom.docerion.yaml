@@ -1,0 +1,4 @@
+# Docerion header of remoting_host.mojom.
+type: source
+title: Remoting host control Mojom interfaces
+summary: Defines Mojom interfaces for the daemon process to control the network process and for reporting host and client connection status over IPC.

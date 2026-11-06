@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Portal interaction strategy header
+// summary: Declares PortalInteractionStrategy and its factory, which build desktop environment components on top of a portal remote desktop session.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_PORTAL_INTERACTION_STRATEGY_H_
 #define REMOTING_HOST_LINUX_PORTAL_INTERACTION_STRATEGY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipeWire utilities implementation
+// summary: Implements RAII deleters for PipeWire objects, thread-loop locking, library loading and initialization, and PipeWire stream creation for the Linux host.
+// ---
+
 #include "remoting/host/linux/pipewire_utils.h"
 
 #include <pipewire/pipewire.h>

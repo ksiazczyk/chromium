@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X server clipboard
+// summary: Implements clipboard sharing with the X server using XFixes selection events, supporting UTF-8 text transfer for the remote host.
+// ---
+
 
 #include "remoting/host/linux/x_server_clipboard.h"
 

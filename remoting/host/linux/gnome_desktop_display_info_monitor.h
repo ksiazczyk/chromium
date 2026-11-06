@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GNOME desktop display info monitor class declaration
+// summary: Declares a DesktopDisplayInfoMonitor that derives display info from a GnomeDisplayConfigMonitor and notifies callbacks when displays change.
+// ---
+
 #ifndef REMOTING_HOST_LINUX_GNOME_DESKTOP_DISPLAY_INFO_MONITOR_H_
 #define REMOTING_HOST_LINUX_GNOME_DESKTOP_DISPLAY_INFO_MONITOR_H_
 
