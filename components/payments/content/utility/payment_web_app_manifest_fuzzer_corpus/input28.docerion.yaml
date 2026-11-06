@@ -1,0 +1,4 @@
+# Docerion header of input28.
+type: test
+title: 'Fuzzer input: decimal min_version value'
+summary: Fuzzer corpus input with a related Play application whose min_version is the decimal value 1.0.

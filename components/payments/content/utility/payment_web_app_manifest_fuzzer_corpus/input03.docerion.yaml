@@ -1,0 +1,4 @@
+# Docerion header of input03.
+type: test
+title: 'Fuzzer input 03: EvePay payment manifest'
+summary: Fuzzer corpus input with an EvePay payment web app manifest listing one Play store application and a SHA256 certificate fingerprint.

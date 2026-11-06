@@ -1,0 +1,4 @@
+# Docerion header of input07.
+type: test
+title: 'Fuzzer input 07: AlicePay manifest with single quotes'
+summary: Fuzzer corpus input repeating the AlicePay manifest using single quotes instead of double quotes to exercise malformed JSON handling.

@@ -1,0 +1,4 @@
+# Docerion header of input39.
+type: test
+title: 'Fuzzer input 39: fingerprint with truncated hash value'
+summary: Fuzzer corpus input with a sha256_cert fingerprint value that is shorter than the full certificate hash used in the other inputs.

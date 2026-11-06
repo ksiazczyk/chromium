@@ -1,0 +1,4 @@
+# Docerion header of input36.
+type: test
+title: 'Fuzzer input 36: fingerprint missing the value field'
+summary: Fuzzer corpus input with a fingerprint object that has only a sha256_cert type and no value.

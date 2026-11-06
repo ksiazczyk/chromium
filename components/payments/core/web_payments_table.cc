@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payments table implementation
+// summary: Implements SQLite tables for payment method manifests, secure payment confirmation credentials and browser bound keys, including schema creation, migrations and expired data removal.
+// ---
+
 #include "components/payments/core/web_payments_table.h"
 
 #include <time.h>

@@ -1,0 +1,4 @@
+# Docerion header of input06.
+type: test
+title: 'Fuzzer corpus input06: manifest with default application and wildcard origins'
+summary: Payment method manifest sample combining a henrypay default application with wildcard supported_origins, used as fuzzer corpus input.

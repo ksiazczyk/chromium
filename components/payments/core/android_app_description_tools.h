@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Splitting Android app activities header
+// summary: Declares SplitPotentiallyMultipleActivities, which moves each activity into its own app description.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_ANDROID_APP_DESCRIPTION_TOOLS_H_
 #define COMPONENTS_PAYMENTS_CORE_ANDROID_APP_DESCRIPTION_TOOLS_H_
 

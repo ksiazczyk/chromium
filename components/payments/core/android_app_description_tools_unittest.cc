@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android app description tools
+// summary: Tests that Android app descriptions are split into one app per activity, including fuzz test coverage.
+// ---
+
 #include "components/payments/core/android_app_description_tools.h"
 
 #include <memory>

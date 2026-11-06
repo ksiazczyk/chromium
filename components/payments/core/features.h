@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments feature flag declarations
+// summary: Declares payments feature flags and the CredentialDiscoveryMode enum that controls how Secure Payment Confirmation credentials are discovered per platform.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_FEATURES_H_
 #define COMPONENTS_PAYMENTS_CORE_FEATURES_H_
 

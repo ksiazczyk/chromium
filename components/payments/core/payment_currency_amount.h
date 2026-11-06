@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment currency amount header
+// summary: Declares functions to populate a PaymentCurrencyAmount from a dictionary and serialize it back to a dictionary.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_CURRENCY_AMOUNT_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_CURRENCY_AMOUNT_H_
 

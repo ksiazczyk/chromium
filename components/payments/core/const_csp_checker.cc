@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConstCSPChecker implementation
+// summary: Implements the test-only CSP checker that always allows or denies connection requests based on a constructor flag.
+// ---
+
 #include "components/payments/core/const_csp_checker.h"
 
 #include "base/functional/callback.h"

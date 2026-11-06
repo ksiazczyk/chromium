@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment details modifier implementation
+// summary: Implements copy, equality, and dictionary serialization for PaymentDetailsModifier, which adjusts totals per payment method.
+// ---
+
 #include "components/payments/core/payment_details_modifier.h"
 
 #include "base/memory/values_equivalent.h"

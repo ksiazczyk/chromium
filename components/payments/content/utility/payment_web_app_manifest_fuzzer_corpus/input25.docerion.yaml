@@ -1,0 +1,4 @@
+# Docerion header of input25.
+type: test
+title: 'Fuzzer input: related application with empty min_version'
+summary: Fuzzer corpus input with a related Play application whose min_version field is an empty string.

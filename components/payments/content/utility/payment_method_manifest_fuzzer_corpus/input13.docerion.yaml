@@ -1,0 +1,4 @@
+# Docerion header of input13.
+type: test
+title: Fuzzer corpus input 13 with missing comma
+summary: Seed input for the payment method manifest fuzzer missing the comma between the manifest's top-level members.

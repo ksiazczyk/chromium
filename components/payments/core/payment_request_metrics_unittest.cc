@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment request metrics unit tests
+// summary: Verifies that can-make-payment pref metrics are recorded correctly for user, extension, custodian, and managed policy settings.
+// ---
+
 #include "components/payments/core/payment_request_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

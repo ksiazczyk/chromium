@@ -1,0 +1,4 @@
+# Docerion header of input37.
+type: test
+title: 'Fuzzer input 37: fingerprint with empty value'
+summary: Fuzzer corpus input with a sha256_cert fingerprint whose value is an empty string.

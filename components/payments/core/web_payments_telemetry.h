@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payments telemetry declarations for 3D-Secure metrics
+// summary: Declares the ThreeDSecureTransactionStatus enum and a function that records 3D-Secure challenge request and response telemetry from form data as UKM metrics.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_WEB_PAYMENTS_TELEMETRY_H_
 #define COMPONENTS_PAYMENTS_CORE_WEB_PAYMENTS_TELEMETRY_H_
 

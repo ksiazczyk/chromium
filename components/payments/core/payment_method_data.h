@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentMethodData class header
+// summary: Declares the PaymentMethodData class holding a supported payment method, optional method-specific data and supported card networks.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_METHOD_DATA_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_METHOD_DATA_H_
 

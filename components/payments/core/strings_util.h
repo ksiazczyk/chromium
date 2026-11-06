@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment shipping string utilities
+// summary: Declares helpers that create shipping address labels from autofill profiles and fetch localized strings for shipping types.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_STRINGS_UTIL_H_
 #define COMPONENTS_PAYMENTS_CORE_STRINGS_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentMethodData unit tests
+// summary: Unit tests covering PaymentMethodData dictionary parsing success and failure cases plus equality comparison of method data objects.
+// ---
+
 #include "components/payments/core/payment_method_data.h"
 
 #include "base/values.h"

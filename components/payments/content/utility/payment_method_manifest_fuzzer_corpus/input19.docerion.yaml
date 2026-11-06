@@ -1,0 +1,4 @@
+# Docerion header of input19.
+type: test
+title: Fuzzer corpus input 19 with missing colons
+summary: Seed input for the payment method manifest fuzzer with colons missing after the JSON member names.

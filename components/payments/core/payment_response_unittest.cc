@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentResponse equality unit tests
+// summary: Checks that PaymentResponse objects compare equal only when all property values match.
+// ---
+
 #include "components/payments/core/payment_response.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

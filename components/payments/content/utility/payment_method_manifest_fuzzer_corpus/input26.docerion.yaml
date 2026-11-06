@@ -1,0 +1,4 @@
+# Docerion header of input26.
+type: test
+title: 'Fuzzer corpus input: numeric supported_origins entry'
+summary: Fuzzer seed input with a numeric 0 entry in supported_origins to test handling of invalid origin values.

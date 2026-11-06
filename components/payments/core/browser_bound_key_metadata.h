@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser bound key metadata struct
+// summary: Defines metadata for browser bound keys, identified by passkey relying party id and credential id.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_BROWSER_BOUND_KEY_METADATA_H_
 #define COMPONENTS_PAYMENTS_CORE_BROWSER_BOUND_KEY_METADATA_H_
 

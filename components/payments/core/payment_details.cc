@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment details parsing
+// summary: Implements PaymentDetails parsing from dictionaries, covering id, total, display items, shipping options, and modifiers.
+// ---
+
 #include "components/payments/core/payment_details.h"
 
 #include <algorithm>

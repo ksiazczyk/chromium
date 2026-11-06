@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for payments Mojo bindings
+summary: Defines the mojom GN target that generates Blink, Java and JS bindings from payment_request_data.mojom.

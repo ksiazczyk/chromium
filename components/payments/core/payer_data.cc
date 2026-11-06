@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PayerData struct implementation
+// summary: Implements constructors and destructor for the PayerData struct holding payer name, email, phone, and shipping details.
+// ---
+
 #include "components/payments/core/payer_data.h"
 
 namespace payments {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payments web data service implementation
+// summary: Implements the web data service that schedules database tasks for storing and retrieving payment method and web app manifests plus secure payment confirmation credentials.
+// ---
+
 #include "components/payments/core/web_payments_web_data_service.h"
 
 #include <optional>

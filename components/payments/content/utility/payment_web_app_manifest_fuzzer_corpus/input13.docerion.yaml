@@ -1,0 +1,4 @@
+# Docerion header of input13.
+type: data
+title: 'Fuzzer input 13: manifest with fingerprints as object'
+summary: Fuzzer corpus input exercising a manifest where the fingerprints field is an object instead of an array.

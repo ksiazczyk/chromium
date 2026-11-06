@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HasEnrolledInstrument query quota implementation
+// summary: Implements per-origin quota tracking for hasEnrolledInstrument() queries, remembering queries for 30 minutes via one-shot timers.
+// ---
+
 #include "components/payments/core/has_enrolled_instrument_query.h"
 
 #include <utility>

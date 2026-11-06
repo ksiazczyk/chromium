@@ -1,0 +1,4 @@
+# Docerion header of input19.
+type: data
+title: 'Fuzzer input 19: Donate app manifest with service worker'
+summary: Fuzzer corpus input with a Donate app manifest covering icons, screenshots, a service worker and several related applications.

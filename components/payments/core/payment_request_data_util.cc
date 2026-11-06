@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request data utility implementation
+// summary: Implements helpers that build payment addresses from autofill profiles and parse or filter merchant-supported payment method identifiers.
+// ---
+
 #include "components/payments/core/payment_request_data_util.h"
 
 #include <utility>

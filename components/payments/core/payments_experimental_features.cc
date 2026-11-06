@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments experimental features helper
+// summary: Reports whether a payments feature is enabled via the Web Payments experimental features flag or its own flag.
+// ---
+
 #include "components/payments/core/payments_experimental_features.h"
 
 #include "base/feature_list.h"

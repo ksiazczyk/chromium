@@ -1,0 +1,4 @@
+# Docerion header of input38.
+type: test
+title: Payment method manifest fuzzer input 38
+summary: Fuzzer corpus input with a payment method manifest whose supported_origins URL includes a query string.

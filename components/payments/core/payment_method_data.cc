@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentMethodData implementation
+// summary: Implements PaymentMethodData parsing from dictionaries, validating supportedMethods and optional data with supportedNetworks entries.
+// ---
+
 #include "components/payments/core/payment_method_data.h"
 
 #include "base/json/json_writer.h"

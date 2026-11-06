@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Payments strings directory OWNERS file
+summary: Points to the components/payments OWNERS file as the owner of this payments strings directory.

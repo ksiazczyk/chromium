@@ -1,0 +1,4 @@
+# Docerion header of payment_request_data.mojom.
+type: source
+title: Payment request data Mojo interface definitions
+summary: Defines Mojo structs for payment data exchanged between browser and renderer, covering addresses, currency amounts and validation errors.

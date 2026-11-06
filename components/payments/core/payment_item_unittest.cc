@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentItem unit tests
+// summary: Unit tests covering PaymentItem dictionary parsing success and failure cases, equality comparison and serialization of empty and populated items.
+// ---
+
 #include "components/payments/core/payment_item.h"
 
 #include "base/strings/utf_string_conversions.h"

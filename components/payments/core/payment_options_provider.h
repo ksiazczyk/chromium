@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentOptionsProvider interface header
+// summary: Declares the PaymentOptionsProvider interface and PaymentShippingType enum exposing merchant-requested payer information such as name, email, phone and shipping.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_OPTIONS_PROVIDER_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_OPTIONS_PROVIDER_H_
 

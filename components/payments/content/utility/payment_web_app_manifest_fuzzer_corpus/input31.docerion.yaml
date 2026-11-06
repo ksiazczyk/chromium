@@ -1,0 +1,4 @@
+# Docerion header of input31.
+type: test
+title: 'Fuzzer input 31: manifest with many repeated certificate fingerprints'
+summary: Large fuzzer corpus input repeating the same sha256_cert fingerprint object many times in a related application entry.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Payments core include rules
+summary: Specifies allowed and forbidden include directories for the payments core code and its tests.

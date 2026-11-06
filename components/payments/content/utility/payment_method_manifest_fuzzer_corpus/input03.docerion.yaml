@@ -1,0 +1,4 @@
+# Docerion header of input03.
+type: test
+title: 'Fuzzer corpus input03: manifest with two evepay applications'
+summary: Payment method manifest sample listing two applications from evepay.com, used as fuzzer corpus input.

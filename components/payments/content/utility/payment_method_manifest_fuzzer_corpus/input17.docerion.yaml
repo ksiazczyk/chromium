@@ -1,0 +1,4 @@
+# Docerion header of input17.
+type: test
+title: Fuzzer corpus input 17 with string supported_origins
+summary: Seed input for the payment method manifest fuzzer with supported_origins given as a string instead of a list.

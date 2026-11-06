@@ -1,0 +1,4 @@
+# Docerion header of input23.
+type: test
+title: 'Fuzzer corpus input: long default_applications list'
+summary: Fuzzer seed input whose default_applications array lists 101 payment app URLs to test large manifest handling.

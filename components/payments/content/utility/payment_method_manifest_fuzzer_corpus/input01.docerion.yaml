@@ -1,0 +1,4 @@
+# Docerion header of input01.
+type: test
+title: 'Fuzzer corpus input01: manifest with bobpay default application'
+summary: Payment method manifest sample listing a default application at bobpay.com, used as fuzzer corpus input.

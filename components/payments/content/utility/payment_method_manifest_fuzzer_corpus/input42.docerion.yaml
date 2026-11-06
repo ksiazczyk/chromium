@@ -1,0 +1,4 @@
+# Docerion header of input42.
+type: test
+title: 'Fuzzer input 42: username in default application URL'
+summary: Payment method manifest fuzzer input with a username in the default application URL.

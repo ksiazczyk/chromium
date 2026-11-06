@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_fuzzer.dict.
+type: data
+title: Fingerprint fuzzer dictionary
+summary: Dictionary of colon separator and uppercase hex byte tokens used to guide the fingerprint parser fuzzer.

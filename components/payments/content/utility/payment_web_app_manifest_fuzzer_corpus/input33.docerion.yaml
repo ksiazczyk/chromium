@@ -1,0 +1,4 @@
+# Docerion header of input33.
+type: test
+title: 'Fuzzer input 33: fingerprint entry as empty object'
+summary: Fuzzer corpus input with a related application whose fingerprints array holds a single empty object.

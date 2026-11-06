@@ -1,0 +1,4 @@
+# Docerion header of input04.
+type: test
+title: 'Fuzzer corpus input04: manifest allowing all supported origins'
+summary: Payment method manifest sample with supported_origins set to the wildcard *, used as fuzzer corpus input.

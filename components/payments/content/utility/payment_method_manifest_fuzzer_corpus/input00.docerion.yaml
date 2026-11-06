@@ -1,0 +1,4 @@
+# Docerion header of input00.
+type: test
+title: 'Fuzzer corpus input00: manifest with alicepay default application'
+summary: Payment method manifest sample listing a default application at alicepay.com, used as fuzzer corpus input.

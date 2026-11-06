@@ -1,0 +1,4 @@
+# Docerion header of input20.
+type: test
+title: 'Fuzzer corpus input: uppercase manifest keys'
+summary: Fuzzer seed input with uppercase DEFAULT_APPLICATIONS and SUPPORTED_ORIGINS keys to exercise manifest key case handling.

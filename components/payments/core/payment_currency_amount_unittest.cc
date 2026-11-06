@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment currency amount unit tests
+// summary: Tests parsing success and failure cases, equality, and serialization of PaymentCurrencyAmount, including fuzz tests.
+// ---
+
 #include "components/payments/core/payment_currency_amount.h"
 
 #include "base/test/fuzztest_support.h"

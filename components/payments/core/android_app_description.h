@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android payment app description structs
+// summary: Defines structs describing Android payment apps, their PAY activities and ready-to-pay services.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_ANDROID_APP_DESCRIPTION_H_
 #define COMPONENTS_PAYMENTS_CORE_ANDROID_APP_DESCRIPTION_H_
 

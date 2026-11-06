@@ -1,0 +1,4 @@
+# Docerion header of input38.
+type: test
+title: 'Fuzzer input 38: fingerprint with non-ASCII value'
+summary: Fuzzer corpus input with a sha256_cert fingerprint whose value contains Chinese characters instead of a certificate hash.

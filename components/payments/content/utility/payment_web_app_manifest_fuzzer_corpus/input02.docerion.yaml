@@ -1,0 +1,4 @@
+# Docerion header of input02.
+type: test
+title: 'Fuzzer input 02: DavePay manifest with two apps'
+summary: Fuzzer corpus input with a DavePay manifest listing two Play store applications, prod and dev, each with a SHA256 certificate fingerprint.

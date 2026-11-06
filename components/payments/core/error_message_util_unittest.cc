@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error message utilities unit tests
+// summary: Unit tests verifying the HTTP status code error messages generated for payment manifest download failures, including unknown status codes.
+// ---
+
 #include "components/payments/core/error_message_util.h"
 
 #include "net/http/http_status_code.h"

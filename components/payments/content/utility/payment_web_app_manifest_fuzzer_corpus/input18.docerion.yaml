@@ -1,0 +1,4 @@
+# Docerion header of input18.
+type: data
+title: 'Fuzzer input 18: HackerWeb manifest with iTunes related app'
+summary: Fuzzer corpus input with a HackerWeb manifest adding an iTunes related application alongside web and Play entries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestDelegate interface
+// summary: Declares the delegate interface for showing, retrying and closing the payment request dialog plus error, spinner and loading views.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_REQUEST_DELEGATE_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_REQUEST_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment details class
+// summary: Defines the PaymentDetails class holding transaction details such as total, display items, shipping options, and modifiers.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_DETAILS_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_DETAILS_H_
 

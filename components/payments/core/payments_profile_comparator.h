@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments profile comparator header
+// summary: Declares PaymentsProfileComparator, a helper that evaluates autofill profiles for completeness and similarity for contact and shipping use.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENTS_PROFILE_COMPARATOR_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENTS_PROFILE_COMPARATOR_H_
 

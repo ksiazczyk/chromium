@@ -1,0 +1,4 @@
+# Docerion header of input30.
+type: test
+title: 'Fuzzer input 30: manifest with empty fingerprints array'
+summary: Fuzzer corpus input with a web app manifest declaring a Play related application and an empty fingerprints array.

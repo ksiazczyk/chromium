@@ -1,0 +1,4 @@
+# Docerion header of input06.
+type: test
+title: 'Fuzzer input 06: IkePay payment manifest'
+summary: Fuzzer corpus input with an IkePay payment web app manifest listing one Play store application and a SHA256 certificate fingerprint.

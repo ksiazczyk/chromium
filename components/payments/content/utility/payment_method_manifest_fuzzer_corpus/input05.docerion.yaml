@@ -1,0 +1,4 @@
+# Docerion header of input05.
+type: test
+title: 'Fuzzer corpus input05: manifest with a single supported origin'
+summary: Payment method manifest sample listing alicepay.com as the only supported origin, used as fuzzer corpus input.

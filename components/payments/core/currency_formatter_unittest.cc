@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CurrencyFormatter unit tests
+// summary: Parameterized unit tests checking currency amount formatting across currencies and locales, including documented ICU en_AU behavior.
+// ---
+
 #include "components/payments/core/currency_formatter.h"
 
 #include "base/strings/string_util.h"

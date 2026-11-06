@@ -1,0 +1,4 @@
+# Docerion header of input14.
+type: data
+title: 'Fuzzer input 14: manifest with misspelled related app keys'
+summary: Fuzzer corpus input using altered key names such as related_application, platforms and fingerprint to stress manifest parsing.

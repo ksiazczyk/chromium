@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web payments table unit tests
+// summary: Unit tests for WebPaymentsTable covering manifests, secure payment confirmation credentials and browser bound key records in a temporary web database.
+// ---
+
 #include "components/payments/core/web_payments_table.h"
 
 #include <stdint.h>

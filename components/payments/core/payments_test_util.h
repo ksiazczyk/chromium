@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments test utilities header
+// summary: Declares a shared test helper that returns a PrefService with Payments preferences registered for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENTS_TEST_UTIL_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENTS_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of input32.
+type: test
+title: Payment method manifest fuzzer input 32
+summary: Fuzzer corpus input with a payment method manifest whose supported_origins list contains an empty string.

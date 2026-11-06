@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConstCSPChecker unit tests
+// summary: Unit tests verifying that ConstCSPChecker always allows or always denies connection requests as configured.
+// ---
+
 #include "components/payments/core/const_csp_checker.h"
 
 #include "base/functional/bind.h"

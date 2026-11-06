@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentOptions implementation
+// summary: Implements PaymentOptions constructors that initialize payer and shipping request flags with shipping as the default shipping type.
+// ---
+
 #include "components/payments/core/payment_options.h"
 
 #include "base/values.h"

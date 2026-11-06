@@ -1,0 +1,4 @@
+# Docerion header of input10.
+type: test
+title: Fuzzer corpus input 10 with default_application key
+summary: Seed input for the payment method manifest fuzzer using a singular default_application key alongside a supported_origins list.

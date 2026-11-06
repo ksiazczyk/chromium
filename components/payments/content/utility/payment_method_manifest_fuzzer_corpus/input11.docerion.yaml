@@ -1,0 +1,4 @@
+# Docerion header of input11.
+type: test
+title: Fuzzer corpus input 11 with single-quoted JSON
+summary: Seed input for the payment method manifest fuzzer using single quotes instead of double quotes around JSON keys and values.

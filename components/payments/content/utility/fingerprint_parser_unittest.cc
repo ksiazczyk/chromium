@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fingerprint parser unit tests
+// summary: Tests fingerprint parsing rules for input length, colon separators, and uppercase hex digit requirements.
+// ---
+
 #include "components/payments/content/utility/fingerprint_parser.h"
 
 #include "components/payments/core/error_logger.h"

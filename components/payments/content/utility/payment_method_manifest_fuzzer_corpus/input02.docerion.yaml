@@ -1,0 +1,4 @@
+# Docerion header of input02.
+type: test
+title: 'Fuzzer corpus input02: manifest with two charliepay applications'
+summary: Payment method manifest sample listing dev and prod applications from charliepay.com, used as fuzzer corpus input.

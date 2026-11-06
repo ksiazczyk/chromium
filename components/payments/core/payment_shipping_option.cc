@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentShippingOption implementation
+// summary: Implements PaymentShippingOption, including parsing of id, label, amount, and selected values from a dictionary.
+// ---
+
 #include "components/payments/core/payment_shipping_option.h"
 
 #include "base/values.h"

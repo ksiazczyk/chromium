@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments profile comparator implementation
+// summary: Implements PaymentsProfileComparator, which scores, filters and deduplicates autofill profiles for contact and shipping details in Payment Request.
+// ---
+
 #include "components/payments/core/payments_profile_comparator.h"
 
 #include <algorithm>

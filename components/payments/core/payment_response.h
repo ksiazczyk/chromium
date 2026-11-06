@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentResponse class declaration
+// summary: Declares the PaymentResponse class, C++ bindings for the W3C PaymentRequest API response with shipping and payer details.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENT_RESPONSE_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENT_RESPONSE_H_
 

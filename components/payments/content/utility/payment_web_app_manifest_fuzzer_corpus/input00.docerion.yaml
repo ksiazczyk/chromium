@@ -1,0 +1,4 @@
+# Docerion header of input00.
+type: test
+title: 'Fuzzer input 00: AlicePay payment manifest'
+summary: Fuzzer corpus input with an AlicePay payment web app manifest listing one Play store application and a SHA256 certificate fingerprint.

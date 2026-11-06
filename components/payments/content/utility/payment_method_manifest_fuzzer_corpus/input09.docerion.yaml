@@ -1,0 +1,4 @@
+# Docerion header of input09.
+type: test
+title: 'Fuzzer corpus input09: manifest with string default application'
+summary: Payment method manifest sample where default_applications is a string instead of an array, used as fuzzer corpus input.

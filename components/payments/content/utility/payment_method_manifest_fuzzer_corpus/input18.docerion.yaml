@@ -1,0 +1,4 @@
+# Docerion header of input18.
+type: test
+title: Fuzzer corpus input 18 with supported_origin key
+summary: Seed input for the payment method manifest fuzzer using a singular supported_origin key.

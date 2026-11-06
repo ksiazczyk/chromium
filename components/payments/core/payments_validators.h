@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments validators header
+// summary: Declares static validators for currency codes, amounts, country codes and payment validation error formats.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENTS_VALIDATORS_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENTS_VALIDATORS_H_
 

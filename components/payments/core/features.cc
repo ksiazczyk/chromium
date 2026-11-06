@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments feature flag definitions
+// summary: Defines default-enabled and default-disabled feature flags and parameters for the payments component, including Secure Payment Confirmation credential discovery modes.
+// ---
+
 #include "components/payments/core/features.h"
 
 #include "build/build_config.h"

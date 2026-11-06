@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConstCSPChecker class header
+// summary: Declares ConstCSPChecker, a test-only CSPChecker subclass that always allows or denies connections depending on a constructor parameter.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_CONST_CSP_CHECKER_H_
 #define COMPONENTS_PAYMENTS_CORE_CONST_CSP_CHECKER_H_
 

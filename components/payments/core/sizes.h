@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure Payment Confirmation UI size constants
+// summary: Defines inline constants for icon, logo, and inset sizes used in Secure Payment Confirmation and payment handler UI views.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_SIZES_H_
 #define COMPONENTS_PAYMENTS_CORE_SIZES_H_
 

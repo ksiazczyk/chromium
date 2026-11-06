@@ -1,0 +1,4 @@
+# Docerion header of input34.
+type: test
+title: 'Fuzzer input 34: fingerprint missing the type field'
+summary: Fuzzer corpus input with a fingerprint object that has only a value and no type in a related application.

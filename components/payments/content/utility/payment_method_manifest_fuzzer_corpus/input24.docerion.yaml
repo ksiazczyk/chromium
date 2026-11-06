@@ -1,0 +1,4 @@
+# Docerion header of input24.
+type: test
+title: 'Fuzzer corpus input: long supported_origins list'
+summary: Fuzzer seed input whose supported_origins array lists 101 origins to test large manifest handling.

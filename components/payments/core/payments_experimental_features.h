@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments experimental features header
+// summary: Declares PaymentsExperimentalFeatures, a helper that reports whether a given feature or the Web Payments experimental features flag is enabled.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_PAYMENTS_EXPERIMENTAL_FEATURES_H_
 #define COMPONENTS_PAYMENTS_CORE_PAYMENTS_EXPERIMENTAL_FEATURES_H_
 

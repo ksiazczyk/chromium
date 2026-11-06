@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentShippingOption unit tests
+// summary: Tests dictionary parsing success and failure cases and equality semantics for shipping option objects.
+// ---
+
 #include "components/payments/core/payment_shipping_option.h"
 
 #include <memory>

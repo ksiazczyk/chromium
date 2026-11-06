@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments validators unit tests
+// summary: Parameterized unit tests verifying currency code, amount, country code and error message validation in PaymentsValidators.
+// ---
+
 
 #include "components/payments/core/payments_validators.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of input45.
+type: test
+title: 'Fuzzer input 45: fragment in supported origins URL'
+summary: Payment method manifest fuzzer input with a URL fragment in a supported origins URL.

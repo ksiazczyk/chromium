@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment request metrics implementation
+// summary: Records UMA histograms for the can-make-payment preference state and identifies which source disabled it.
+// ---
+
 #include "components/payments/core/payment_request_metrics.h"
 
 #include <string>

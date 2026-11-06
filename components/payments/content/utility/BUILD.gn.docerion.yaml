@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Payments content utility build targets
+summary: GN build file defining the utility static library, unit test set, and fuzzer targets for the payment and fingerprint parsers.

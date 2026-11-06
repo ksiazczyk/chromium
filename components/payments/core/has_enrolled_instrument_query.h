@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HasEnrolledInstrument query quota header
+// summary: Declares a KeyedService that tracks hasEnrolledInstrument() queries per browser context and enforces a 30-minute quota per frame and top-level origin.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_HAS_ENROLLED_INSTRUMENT_QUERY_H_
 #define COMPONENTS_PAYMENTS_CORE_HAS_ENROLLED_INSTRUMENT_QUERY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of input12.
+type: test
+title: Fingerprint fuzzer corpus input 12
+summary: Fuzzer seed input for the payments fingerprint utility containing a colon-separated uppercase hexadecimal fingerprint string.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web payments web data service class declaration
+// summary: Declares the WebPaymentsWebDataService interface for reading and writing payment manifests, secure payment confirmation credentials and browser bound keys in the web database.
+// ---
+
 #ifndef COMPONENTS_PAYMENTS_CORE_WEB_PAYMENTS_WEB_DATA_SERVICE_H_
 #define COMPONENTS_PAYMENTS_CORE_WEB_PAYMENTS_WEB_DATA_SERVICE_H_
 

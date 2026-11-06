@@ -1,0 +1,4 @@
+# Docerion header of input43.
+type: test
+title: 'Fuzzer input 43: username in supported origins URL'
+summary: Payment method manifest fuzzer input with a username in a supported origins URL.
