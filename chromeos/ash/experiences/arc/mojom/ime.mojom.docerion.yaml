@@ -1,0 +1,4 @@
+# Docerion header of ime.mojom.
+type: source
+title: ARC input method editor Mojo interface
+summary: Defines Mojo types and interfaces for ARC IME communication, including text input types, key event data, composition segments, and host notifications.

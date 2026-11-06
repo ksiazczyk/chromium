@@ -1,0 +1,4 @@
+# Docerion header of process.mojom.
+type: source
+title: ARC process state Mojo interface
+summary: Defines the ARC process state enum mirroring Android ActivityManager values and interfaces for reporting running ARC processes to Chrome.

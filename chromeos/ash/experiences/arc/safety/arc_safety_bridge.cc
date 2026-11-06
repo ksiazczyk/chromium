@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSafetyBridge implementation
+// summary: Implements the ArcSafetyBridge keyed service and its browser-context factory, which registers as the OnDeviceSafety host and reports whether the CrosSafetyService feature is enabled.
+// ---
+
 #include "chromeos/ash/experiences/arc/safety/arc_safety_bridge.h"
 
 #include <utility>

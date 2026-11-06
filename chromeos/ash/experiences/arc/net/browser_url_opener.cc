@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser URL opener implementation
+// summary: Implements the BrowserUrlOpener singleton lifecycle, managing the global instance used to open URLs in the Chrome browser.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/browser_url_opener.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcProcess implementation
+// summary: Implements the ArcProcess class, classifying Android process states and checking OOM kill protection for ARC, persistent, and GMS Core processes.
+// ---
+
 #include "chromeos/ash/experiences/arc/process/arc_process.h"
 
 #include <utility>

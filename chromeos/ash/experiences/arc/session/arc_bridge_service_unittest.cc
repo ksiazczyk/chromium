@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Arc bridge service unit tests
+// summary: Unit tests verifying that ArcBridgeService observers are notified before and after the ARC bridge closes.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_bridge_service.h"
 
 #include "base/scoped_observation.h"

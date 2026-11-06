@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC VM data migration status
+// summary: Defines enums for ARCVM /data migration status, finish reason and prompt strategy, plus related histogram names kept in sync with UMA metrics.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_VM_DATA_MIGRATION_STATUS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_VM_DATA_MIGRATION_STATUS_H_
 

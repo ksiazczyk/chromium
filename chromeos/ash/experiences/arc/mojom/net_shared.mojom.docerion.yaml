@@ -1,0 +1,4 @@
+# Docerion header of net_shared.mojom.
+type: source
+title: ARC shared network Mojo definitions
+summary: Defines shared Mojo components, such as the wireless security type enum, used by both arc_wifi.mojom and net.mojom.

@@ -1,0 +1,4 @@
+# Docerion header of video_protected_buffer_allocator.mojom.
+type: source
+title: Video protected buffer allocator Mojo interface
+summary: Defines the VideoProtectedBufferAllocator Mojo interface for allocating and releasing protected shared memory and native pixmaps in the GPU sandbox.

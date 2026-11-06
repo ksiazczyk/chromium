@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcSafetyBridge unit tests
+// summary: Unit tests verifying ArcSafetyBridge construction and that the CrosSafetyService-enabled callback returns false by default and true when the feature flag is enabled.
+// ---
+
 #include "chromeos/ash/experiences/arc/safety/arc_safety_bridge.h"
 
 #include "ash/constants/ash_features.h"

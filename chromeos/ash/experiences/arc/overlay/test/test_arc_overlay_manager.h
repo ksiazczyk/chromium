@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ARC overlay manager class declaration
+// summary: Declares TestArcOverlayManager, a test double of ArcOverlayManager that creates fake overlay controllers.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_TEST_TEST_ARC_OVERLAY_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_TEST_TEST_ARC_OVERLAY_MANAGER_H_
 

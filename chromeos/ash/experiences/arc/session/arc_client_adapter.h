@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc client adapter interface
+// summary: Declares the ArcClientAdapter interface for managing ARC instance lifetime, including mini start, upgrade, stop, and demo mode support.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_CLIENT_ADAPTER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_CLIENT_ADAPTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcProcess class header
+// summary: Declares the ArcProcess class that models an ARC process with pid, nspid, state, and priority queries used for OOM handling.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_PROCESS_ARC_PROCESS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_PROCESS_ARC_PROCESS_H_
 

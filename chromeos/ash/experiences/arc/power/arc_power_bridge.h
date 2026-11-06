@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPowerBridge class declaration
+// summary: Declares ArcPowerBridge, a browser-context keyed service that sets power management policy based on requests from ARC instances.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_POWER_ARC_POWER_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_POWER_ARC_POWER_BRIDGE_H_
 

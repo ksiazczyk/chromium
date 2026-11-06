@@ -1,0 +1,4 @@
+# Docerion header of boot_phase_monitor.mojom.
+type: source
+title: ARC boot phase monitor Mojo interface
+summary: Defines a Mojo interface that notifies the host when ARC's system_server reaches the boot completed phase.

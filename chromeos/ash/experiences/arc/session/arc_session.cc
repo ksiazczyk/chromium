@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSession base implementation
+// summary: Implements observer management and the Create factory that builds an ArcSessionImpl for starting ARC instances.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_session.h"
 
 #include "chromeos/ash/experiences/arc/session/arc_session_impl.h"

@@ -1,0 +1,4 @@
+# Docerion header of iio_sensor.mojom.
+type: source
+title: ARC IIO sensor Mojo interface
+summary: Defines Mojo interfaces letting ARC register a sensor HAL client with iioservice and receive tablet mode changes to adjust sensor measurement direction.

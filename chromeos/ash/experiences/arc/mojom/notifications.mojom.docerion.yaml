@@ -1,0 +1,4 @@
+# Docerion header of notifications.mojom.
+type: source
+title: ARC notifications Mojo interface
+summary: Defines Mojo enums, structs and interfaces for rendering and controlling Android notifications in ChromeOS ARC.

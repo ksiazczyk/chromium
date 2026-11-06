@@ -1,0 +1,4 @@
+# Docerion header of volume_mounter.mojom.
+type: source
+title: Volume mounter Mojo interface
+summary: Defines the VolumeMounter host and instance interfaces that notify Android about mount events and set up external storage mount points for MyFiles and removable media.

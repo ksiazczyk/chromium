@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc overlay manager interface
+// summary: Declares ArcOverlayManager, which lets an exo shell surface window become an overlay on a different Aura window.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_ARC_OVERLAY_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_OVERLAY_ARC_OVERLAY_MANAGER_H_
 

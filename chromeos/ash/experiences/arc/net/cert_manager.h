@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate manager interface
+// summary: Declares CertManager, an interface to import PEM private keys and user certificates into the Chrome OS key store for Passpoint provisioning.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_NET_CERT_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_NET_CERT_MANAGER_H_
 

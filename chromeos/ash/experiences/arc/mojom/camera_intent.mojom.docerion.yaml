@@ -1,0 +1,4 @@
+# Docerion header of camera_intent.mojom.
+type: source
+title: ARC camera intent Mojo enums
+summary: Defines enums describing camera intent handling modes and actions such as finish, cancel, and data updates for ARC.

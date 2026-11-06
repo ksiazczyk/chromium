@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC session runner header
+// summary: Declares ArcSessionRunner, which accepts requests to start and stop the ARC instance, supports automatic restarting on unexpected crashes, and defines its observer interface and container lifetime UMA enum.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_SESSION_RUNNER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_SESSION_RUNNER_H_
 

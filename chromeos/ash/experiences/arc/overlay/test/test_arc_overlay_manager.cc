@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ARC overlay manager implementation
+// summary: Implements TestArcOverlayManager, whose CreateController returns a FakeArcOverlayControllerImpl for tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/overlay/test/test_arc_overlay_manager.h"
 
 #include "chromeos/ash/experiences/arc/overlay/test/fake_arc_overlay_controller_impl.h"

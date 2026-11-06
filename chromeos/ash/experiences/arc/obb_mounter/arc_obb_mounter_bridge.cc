@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc OBB mounter bridge implementation
+// summary: Implements ArcObbMounterBridge, a keyed service that forwards OBB mount and unmount requests from Android to the ArcObbMounterClient D-Bus client.
+// ---
+
 #include "chromeos/ash/experiences/arc/obb_mounter/arc_obb_mounter_bridge.h"
 
 #include <utility>

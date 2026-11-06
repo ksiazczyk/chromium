@@ -1,0 +1,4 @@
+# Docerion header of oemcrypto.mojom.
+type: source
+title: ARC OEMCrypto Mojo interface
+summary: Defines the Mojo interface between Android, Chrome and the ChromeOS daemon for the Widevine L1 OEMCrypto implementation in ARC++.

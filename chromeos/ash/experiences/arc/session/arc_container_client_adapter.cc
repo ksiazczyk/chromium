@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc container client adapter implementation
+// summary: Implements the container-based ArcClientAdapter that talks to session_manager over D-Bus to start, upgrade, and stop ARC containers.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_container_client_adapter.h"
 
 #include <string>

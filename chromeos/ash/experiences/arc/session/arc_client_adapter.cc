@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc client adapter implementation
+// summary: Implements ArcClientAdapter, converting start parameters into mini instance requests and selecting the VM or container adapter.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_client_adapter.h"
 
 #include "chromeos/ash/components/dbus/arc/arc.pb.h"

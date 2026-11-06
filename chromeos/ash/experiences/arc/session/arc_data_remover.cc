@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc data remover implementation
+// summary: Implements ARC user data removal by scheduling a preference and running the arc-remove-data upstart job for the user's cryptohome.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_data_remover.h"
 
 #include <string>

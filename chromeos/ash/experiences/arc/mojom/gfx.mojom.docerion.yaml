@@ -1,0 +1,4 @@
+# Docerion header of gfx.mojom.
+type: source
+title: ARC graphics common Mojo structs
+summary: Defines shared graphics structs such as Rect, Range, and Size for ARC Mojo interfaces, kept separate from ui/gfx for wire-format compatibility.

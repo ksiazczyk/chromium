@@ -1,0 +1,4 @@
+# Docerion header of video_encode_accelerator.mojom.
+type: source
+title: Video encode accelerator Mojo interface (video_encode_accelerator.mojom)
+summary: Defines the Mojo interface for hardware video encoding, including encoder configurations, bitrate modes and supported profile queries.

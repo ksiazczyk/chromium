@@ -1,0 +1,4 @@
+# Docerion header of auth.mojom.
+type: source
+title: ARC auth Mojo interface
+summary: Defines Mojo interfaces and error enums for ARC authentication, GMS sign-in, check-in and cloud provisioning flows.

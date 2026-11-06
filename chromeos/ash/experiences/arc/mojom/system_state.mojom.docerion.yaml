@@ -1,0 +1,4 @@
+# Docerion header of system_state.mojom.
+type: source
+title: ARC system state Mojo interface
+summary: Defines Mojo interfaces for ARC to report app and service running state, such as foreground or background, to Chrome.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC session runner unit tests
+// summary: Unit tests for ArcSessionRunner using FakeArcSession to verify start, stop, restart, and crash handling behavior along with UMA histogram recording.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_session_runner.h"
 
 #include <memory>

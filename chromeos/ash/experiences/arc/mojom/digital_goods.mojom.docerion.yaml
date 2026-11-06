@@ -1,0 +1,4 @@
+# Docerion header of digital_goods.mojom.
+type: source
+title: Digital Goods API Mojo interface for ARC
+summary: Mojo interface that forwards Digital Goods API billing queries, acknowledgements, and purchase operations from the browser to ARC++.

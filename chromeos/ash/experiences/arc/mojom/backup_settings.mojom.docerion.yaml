@@ -1,0 +1,4 @@
+# Docerion header of backup_settings.mojom.
+type: source
+title: ARC backup settings Mojo interface
+summary: Defines a Mojo interface for enabling or disabling the ARC backup and restore feature, including whether the setting is enterprise managed.

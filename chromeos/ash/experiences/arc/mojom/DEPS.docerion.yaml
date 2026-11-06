@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC mojom directory
+summary: DEPS file allowing printing includes directory-wide and media base and video includes for video source files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC WiFi host unit tests
+// summary: Tests for ArcWifiHostImpl covering WiFi enable and disable toggling, observer registration on connection ready and closed, and shutdown behavior.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/arc_wifi_host_impl.h"
 
 #include <string>

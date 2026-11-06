@@ -1,0 +1,4 @@
+# Docerion header of system_ui.mojom.
+type: source
+title: ARC system UI Mojo interface
+summary: Defines the interface for Chrome to notify ARC about dark theme status and dynamic color overlay settings with a theme style.

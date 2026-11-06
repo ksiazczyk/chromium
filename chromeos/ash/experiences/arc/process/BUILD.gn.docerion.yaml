@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the ARC process library
+summary: Defines the GN build targets for the ARC process static library and its unit tests, listing sources and dependencies.

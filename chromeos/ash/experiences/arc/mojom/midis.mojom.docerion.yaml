@@ -1,0 +1,4 @@
+# Docerion header of midis.mojom.
+type: source
+title: ARC MIDI Mojo interface
+summary: Defines the Mojo interface between Android, Chrome and the Chrome OS midis daemon for listing MIDI devices and requesting subdevice ports in ARC.

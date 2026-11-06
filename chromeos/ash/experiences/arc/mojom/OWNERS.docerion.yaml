@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for ARC Mojo interface files
+summary: Assigns per-file ownership of .mojom and mojom traits files to the IPC and ChromeOS security owners for review.

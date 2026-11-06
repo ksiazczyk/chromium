@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owners for the ARC OBB mounter directory, currently niwa@chromium.org.

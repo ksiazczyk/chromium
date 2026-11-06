@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC bridge service implementation
+// summary: Implements ArcBridgeService observer management and instantiates connection holders for each ARC mojo instance.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_bridge_service.h"
 
 // These header is necessary for instantiation of ConnectionHolder.

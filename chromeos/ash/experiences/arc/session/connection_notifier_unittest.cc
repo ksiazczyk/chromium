@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionNotifier unit tests
+// summary: Unit tests verifying that ConnectionNotifier notifies added observers of connection ready and closed events and stops notifying removed ones.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/connection_notifier.h"
 
 #include "chromeos/ash/experiences/arc/session/connection_observer.h"

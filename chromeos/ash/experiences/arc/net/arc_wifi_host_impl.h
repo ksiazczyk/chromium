@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC WiFi host interface header
+// summary: Declares ArcWifiHostImpl, a keyed service bridging Android WiFi requests to Chrome OS network state handling and observing scan and connection events.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_NET_ARC_WIFI_HOST_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_NET_ARC_WIFI_HOST_IMPL_H_
 

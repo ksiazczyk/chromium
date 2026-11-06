@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcProcessService class header
+// summary: Declares the ArcProcessService keyed service for requesting ARC app and system process lists and memory info via callbacks.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_PROCESS_ARC_PROCESS_SERVICE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_PROCESS_ARC_PROCESS_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasspointDialogView unit tests
+// summary: Unit tests for the ARC Passpoint approval dialog, verifying allow and don't-allow button callbacks and the learn-more link opening a URL.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/passpoint_dialog_view.h"
 
 #include <memory>

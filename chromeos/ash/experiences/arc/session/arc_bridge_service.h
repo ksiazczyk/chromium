@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC bridge service class declaration
+// summary: Declares ArcBridgeService, which holds mojo connection holders proxying to ARC-side service instances and notifies observers.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_BRIDGE_SERVICE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_BRIDGE_SERVICE_H_
 

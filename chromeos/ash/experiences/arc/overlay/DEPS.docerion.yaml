@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC overlay directory
+summary: Defines the allowed header include dependencies for code in the ARC overlay directory.

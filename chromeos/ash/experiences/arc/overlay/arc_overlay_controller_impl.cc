@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arc overlay controller implementation
+// summary: Implements attaching an overlay window to a host window, handling focus, stacking, bounds and system keys.
+// ---
+
 #include "chromeos/ash/experiences/arc/overlay/arc_overlay_controller_impl.h"
 
 #include "ash/wm/window_state.h"

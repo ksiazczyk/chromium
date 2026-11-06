@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC WiFi host implementation
+// summary: Implements the ARC WiFi host service that reports and toggles the WiFi enabled state and serves scan results to Android via the ARC bridge.
+// ---
+
 #include "chromeos/ash/experiences/arc/net/arc_wifi_host_impl.h"
 
 #include "base/no_destructor.h"

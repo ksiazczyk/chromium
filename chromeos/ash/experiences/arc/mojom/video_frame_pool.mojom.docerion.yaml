@@ -1,0 +1,4 @@
+# Docerion header of video_frame_pool.mojom.
+type: source
+title: Video frame pool Mojo interface
+summary: Defines the arc.mojom VideoFramePool and VideoFramePoolClient interfaces for managing a pool of video frames supplied by the client to the associated video decoder.

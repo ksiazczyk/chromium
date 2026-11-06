@@ -1,0 +1,4 @@
+# Docerion header of app_permissions.mojom.
+type: source
+title: ARC app permissions Mojo interface
+summary: Defines app permission enums, a permission state struct and an interface for Chrome to grant or revoke ARC app permissions.

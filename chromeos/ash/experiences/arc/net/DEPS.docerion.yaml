@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules
+summary: Defines the allowed include paths for the ARC net directory in Chromium's dependency checks.

@@ -1,0 +1,4 @@
+# Docerion header of protected_buffer_manager.mojom.
+type: source
+title: Protected buffer manager Mojo interface
+summary: Defines the GPU-process interface that translates dummy handles into protected shared memory or native pixmap handles for secure video decoding.

@@ -1,0 +1,4 @@
+# Docerion header of policy.mojom.
+type: source
+title: ARC policy Mojo interface
+summary: Defines Mojo interfaces for exchanging ChromeOS policies, compliance reports and remote commands with ARC.

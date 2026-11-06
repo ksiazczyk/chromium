@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: ARC session directory owners
+summary: Names the reviewers responsible for the ARC session directory, including backup reviewers and a per-file owner for the bridge policy.

@@ -1,0 +1,4 @@
+# Docerion header of disk_space.mojom.
+type: source
+title: ARC disk space Mojo interface
+summary: Mojo interface for quota-based disk space usage queries, application storage sizes, and ARC storage balloon resizing.

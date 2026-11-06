@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcInstanceMode enum definition
+// summary: Defines the ArcInstanceMode enum distinguishing mini instances started on the login screen from fully set up instances, plus logging operators.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_INSTANCE_MODE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_INSTANCE_MODE_H_
 

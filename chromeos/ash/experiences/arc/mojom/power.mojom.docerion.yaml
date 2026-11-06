@@ -1,0 +1,4 @@
+# Docerion header of power.mojom.
+type: source
+title: ARC power Mojo interface
+summary: Defines Mojo interfaces for power management, wake locks, wakefulness, screen brightness and battery saver state between ARC and ChromeOS.

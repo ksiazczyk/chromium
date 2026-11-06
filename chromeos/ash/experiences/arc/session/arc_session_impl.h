@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC session implementation header
+// summary: Declares ArcSessionImpl with its documented session state machine for starting, upgrading, and stopping the ARC instance, plus the minimum free disk space constant.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_SESSION_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_SESSION_IMPL_H_
 

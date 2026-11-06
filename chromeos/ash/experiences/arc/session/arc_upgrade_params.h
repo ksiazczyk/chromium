@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC upgrade parameters
+// summary: Defines the UpgradeParams struct holding account, management, sideloading, cache, locale and demo session settings for ARC container upgrade requests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_UPGRADE_PARAMS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_UPGRADE_PARAMS_H_
 

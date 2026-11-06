@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcInstanceMode logging unit tests
+// summary: Unit tests verifying that ArcInstanceMode and optional ArcInstanceMode values are logged correctly, including handling of invalid values.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_instance_mode.h"
 
 #include <optional>

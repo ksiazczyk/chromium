@@ -1,0 +1,4 @@
+# Docerion header of input_method_manager.mojom.
+type: source
+title: ARC input method manager Mojo interface
+summary: Defines Mojo interfaces for managing Android input methods, exposing IME info, text field state, and an InputConnection to control focused text fields.

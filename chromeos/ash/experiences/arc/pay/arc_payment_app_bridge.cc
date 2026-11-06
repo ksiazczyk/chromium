@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC payment app bridge implementation
+// summary: Implements the ArcPaymentAppBridge keyed service that invokes, aborts and queries Android TWA payment apps through the ARC bridge service.
+// ---
+
 #include "chromeos/ash/experiences/arc/pay/arc_payment_app_bridge.h"
 
 #include <utility>

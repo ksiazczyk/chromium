@@ -1,0 +1,4 @@
+# Docerion header of compatibility_mode.mojom.
+type: source
+title: ARC compatibility mode Mojo interface
+summary: Mojo interface for synchronizing ChromeOS compatibility mode resize lock settings and optimized-for-Chromebook app queries to Android.

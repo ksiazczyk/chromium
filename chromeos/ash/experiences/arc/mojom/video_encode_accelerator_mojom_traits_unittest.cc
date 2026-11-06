@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video encode accelerator Mojo traits unit tests
+// summary: Unit tests verifying round-trip serialization of bitrate unions and video encode accelerator configs between media and arc::mojom types, including maximum-value cases.
+// ---
+
 #include "chromeos/ash/experiences/arc/mojom/video_encode_accelerator_mojom_traits.h"
 
 #include <limits>

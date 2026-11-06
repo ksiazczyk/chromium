@@ -1,0 +1,4 @@
+# Docerion header of video.mojom.
+type: source
+title: Video Mojo interfaces (video.mojom)
+summary: Defines Mojo interfaces to bootstrap video accelerator factories connecting ARC to hardware video decoding and encoding services.

@@ -1,0 +1,4 @@
+# Docerion header of adbd.mojom.
+type: source
+title: Adbd monitoring Mojo interface
+summary: Defines AdbdMonitorHost and AdbdMonitorInstance interfaces for notifying Chrome when the Android adbd daemon starts or stops.

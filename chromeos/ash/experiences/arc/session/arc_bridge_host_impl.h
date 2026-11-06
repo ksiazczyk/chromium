@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC bridge host class declaration
+// summary: Declares ArcBridgeHostImpl, which ties ARC mojo channel lifetimes to the bridge host and exposes instance-ready handler methods.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_BRIDGE_HOST_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_BRIDGE_HOST_IMPL_H_
 

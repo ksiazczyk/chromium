@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcManagementTransition stream output implementation
+// summary: Implements the ostream operator that converts ArcManagementTransition enum values into readable strings for logging.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_management_transition.h"
 
 #include "base/notreached.h"

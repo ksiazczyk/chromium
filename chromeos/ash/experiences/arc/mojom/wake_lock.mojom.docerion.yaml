@@ -1,0 +1,4 @@
+# Docerion header of wake_lock.mojom.
+type: source
+title: Wake lock Mojo interface
+summary: Defines the WakeLockHost and WakeLockInstance interfaces for acquiring and releasing reference-counted CPU wake locks on the host on behalf of the ARC instance.

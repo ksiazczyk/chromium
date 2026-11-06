@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC system UI bridge implementation
+// summary: Implements ArcSystemUIBridge, a keyed service that forwards ChromeOS dark theme state, overlay color and theme style to Android over the ARC system UI Mojo connection.
+// ---
+
 #include "chromeos/ash/experiences/arc/system_ui/arc_system_ui_bridge.h"
 
 #include "ash/constants/ash_features.h"

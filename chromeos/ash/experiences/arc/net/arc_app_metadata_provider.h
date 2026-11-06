@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app metadata provider interface
+// summary: Declares a delegate interface to look up ARC app package names from browser preferences.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_NET_ARC_APP_METADATA_PROVIDER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_NET_ARC_APP_METADATA_PROVIDER_H_
 

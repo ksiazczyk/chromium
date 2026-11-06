@@ -1,0 +1,4 @@
+# Docerion header of webapk.mojom.
+type: source
+title: WebAPK Mojo interface
+summary: Defines the WebApkInstance interface for installing, updating and reading metadata of WebAPKs in ARC, along with the WebApkInstallResult enum used for logging.

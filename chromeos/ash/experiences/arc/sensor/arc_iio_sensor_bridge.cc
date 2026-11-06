@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcIioSensorBridge implementation
+// summary: Implements the browser-context keyed service that registers sensor HAL clients and forwards Chrome OS tablet mode changes to the ARC container.
+// ---
+
 #include "chromeos/ash/experiences/arc/sensor/arc_iio_sensor_bridge.h"
 
 #include <utility>

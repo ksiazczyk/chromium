@@ -1,0 +1,4 @@
+# Docerion header of camera.mojom.
+type: source
+title: ARC camera Mojo interface definitions
+summary: Mojo interface definitions for the ARC camera service, covering device info, supported formats, and stream control methods.

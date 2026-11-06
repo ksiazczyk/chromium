@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video accelerator Mojo traits implementation
+// summary: Implements Mojo serialization traits that map video codec profiles, pixel formats and frame layouts between arc::mojom and media types.
+// ---
+
 #include "chromeos/ash/experiences/arc/mojom/video_accelerator_mojom_traits.h"
 
 #include "base/notimplemented.h"

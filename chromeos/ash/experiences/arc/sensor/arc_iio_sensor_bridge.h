@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcIioSensorBridge class declaration
+// summary: Declares the ArcIioSensorBridge keyed service that handles sensor-related requests from the ARC container and observes power manager tablet mode events.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SENSOR_ARC_IIO_SENSOR_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SENSOR_ARC_IIO_SENSOR_BRIDGE_H_
 

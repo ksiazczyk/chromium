@@ -1,0 +1,4 @@
+# Docerion header of keymaster.mojom.
+type: source
+title: ARC Keymaster Mojo interface
+summary: Defines the Mojo interface between Android and Chrome OS for the keymaster implementation used in ARC, mirroring the Keymaster 3.0 HIDL interface.

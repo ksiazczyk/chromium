@@ -1,3 +1,12 @@
+---
+type: readme
+title: Mojo interfaces for ARC
+summary: Explains versioning rules for ARC Mojo interfaces, covering how to add, deprecate and remove methods and guard calls by version.
+relations:
+  - references /mojo/public/tools/bindings/README.md
+  - references /chromeos/ash/experiences/arc/session/connection_holder.h
+---
+
 # Mojo interfaces for ARC
 
 This directory contains the *.mojom files used for communication between Chrome

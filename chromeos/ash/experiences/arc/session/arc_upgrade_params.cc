@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC upgrade parameters implementation
+// summary: Implements the UpgradeParams constructor, populating package cache mode and cache-skipping flags from command-line switches and feature flags.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_upgrade_params.h"
 
 #include "ash/constants/ash_switches.h"

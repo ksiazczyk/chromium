@@ -1,0 +1,4 @@
+# Docerion header of anr.mojom.
+type: source
+title: ANR event Mojo definitions
+summary: Defines enums and a struct describing application-not-responding events, their types and sources, for reporting from ARC to Chrome.

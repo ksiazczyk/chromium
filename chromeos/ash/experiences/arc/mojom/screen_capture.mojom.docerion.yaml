@@ -1,0 +1,4 @@
+# Docerion header of screen_capture.mojom.
+type: source
+title: ARC screen capture Mojo interface
+summary: Defines Mojo interfaces for Android to request desktop capture permission and run screen capture sessions on ChromeOS.

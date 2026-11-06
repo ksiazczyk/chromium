@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC session implementation
+// summary: Implements ArcSessionImpl, managing the ARC instance lifecycle from mini instance start through full instance upgrade and Mojo connection, including dalvik memory profile selection based on device memory.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/arc_session_impl.h"
 
 #include <fcntl.h>

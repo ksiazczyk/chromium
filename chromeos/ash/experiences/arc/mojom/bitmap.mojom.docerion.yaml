@@ -1,0 +1,4 @@
+# Docerion header of bitmap.mojom.
+type: source
+title: ARC bitmap Mojo struct
+summary: Defines the ArcBitmap Mojo struct holding width, height and ARGB_8888 pixel data shared between Chrome OS and ARC.

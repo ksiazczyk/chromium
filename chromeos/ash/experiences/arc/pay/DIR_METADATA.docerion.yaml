@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ARC pay
+summary: Routes arc_payment_app_bridge files to the Blink>Payments component and payments-dev team email for bug tracking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encode accelerator Mojo traits header
+// summary: Declares Mojo enum, struct and union traits mapping media::VideoEncodeAccelerator types such as bitrate, supported profiles and encoder config to arc::mojom equivalents.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_VIDEO_ENCODE_ACCELERATOR_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_MOJOM_VIDEO_ENCODE_ACCELERATOR_MOJOM_TRAITS_H_
 

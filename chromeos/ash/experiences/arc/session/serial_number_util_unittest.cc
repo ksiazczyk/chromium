@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ARC serial number utilities
+// summary: Tests fake serial number generation, salt persistence in local state, reuse of an on-disk salt, and reading salt files.
+// ---
+
 #include "chromeos/ash/experiences/arc/session/serial_number_util.h"
 
 #include "base/containers/span.h"

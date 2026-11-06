@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoInitData header for ARC bootstrap connection
+// summary: Defines MojoInitData, which holds the protocol version, token, and interface version list sent to ARC during the bootstrap Mojo connection.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_MOJO_INIT_DATA_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_MOJO_INIT_DATA_H_
 

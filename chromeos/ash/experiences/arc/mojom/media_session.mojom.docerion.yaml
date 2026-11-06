@@ -1,0 +1,4 @@
+# Docerion header of media_session.mojom.
+type: source
+title: ARC Media Session Mojo interface
+summary: Defines the Mojo interface for enabling and disabling audio focus integration between ARC and Chrome's media session service.

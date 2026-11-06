@@ -1,0 +1,4 @@
+# Docerion header of appfuse.mojom.
+type: source
+title: Appfuse file system Mojo interface
+summary: Defines AppfuseHost and AppfuseInstance interfaces for mounting, unmounting and opening files in appfuse file systems.

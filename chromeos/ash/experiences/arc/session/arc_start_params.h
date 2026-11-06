@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC start parameters
+// summary: Declares the StartParams struct with flags and enums controlling ARC instance startup, such as Play Store auto-update, dalvik memory profile, ureadahead mode, and various feature toggles.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_START_PARAMS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_SESSION_ARC_START_PARAMS_H_
 
