@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox attestations protobuf definition
+// summary: Defines protobuf enums and messages describing sites attested for Privacy Sandbox-gated APIs, mirroring the C++ enum.
+// ---
+
 syntax = "proto3";
 
 package privacy_sandbox;

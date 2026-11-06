@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for preloaded Privacy Sandbox attestations
+summary: Restricts updates to the preloaded attestation manifest and data files to the adservices-enrollment team for component bot updates.

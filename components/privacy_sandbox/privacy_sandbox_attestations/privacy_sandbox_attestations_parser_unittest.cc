@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox Attestations parser unit tests
+// summary: Unit and fuzz tests verifying that serialized attestations protos parse into the expected site-to-API maps, including error cases.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_attestations/privacy_sandbox_attestations_parser.h"
 
 #include <string>

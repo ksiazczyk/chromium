@@ -1,0 +1,4 @@
+# Docerion header of privacy-sandbox-attestations.dat.
+type: data
+title: Preloaded Privacy Sandbox attestations origin list
+summary: Binary list of origins enrolled for Privacy Sandbox attestations, shipped as a preloaded component resource.

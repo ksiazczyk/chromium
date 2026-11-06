@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the privacy sandbox strings directory
+summary: Points to the components/privacy_sandbox OWNERS file, delegating code review ownership for this directory to that team.

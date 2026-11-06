@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Privacy Sandbox attestations proto build file
+summary: Defines a fuzzable protobuf library target that builds privacy_sandbox_attestations.proto with lite runtime generation.

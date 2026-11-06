@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to Privacy Sandbox
+summary: Points to the privacy sandbox OWNERS file to define code ownership for this strings directory.

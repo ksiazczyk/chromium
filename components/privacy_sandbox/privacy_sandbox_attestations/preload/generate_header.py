@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Generates the Android attestation asset header
+# summary: Build script that reads the component version from manifest.json and writes android_apk_assets.h with the asset path and version constants.
+# ---
+
 import json
 import os
 import sys

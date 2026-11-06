@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Sandbox settings unit tests
+// summary: Unit tests for PrivacySandboxSettingsImpl covering pref, content setting, and attestation behaviors via declarative test cases.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_settings_impl.h"
 
 #include <string>

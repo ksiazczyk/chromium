@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Printing component strings OWNERS pointer
+summary: OWNERS file that delegates ownership of the printing component strings directory to the OWNERS file of components/printing.

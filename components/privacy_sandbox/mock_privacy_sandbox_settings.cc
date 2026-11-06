@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Privacy Sandbox settings implementation
+// summary: Implements the constructor and destructor of the MockPrivacySandboxSettings test double.
+// ---
+
 #include "components/privacy_sandbox/mock_privacy_sandbox_settings.h"
 
 namespace privacy_sandbox_test_util {

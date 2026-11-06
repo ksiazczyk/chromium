@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Privacy Sandbox include rules
+summary: Lists the include rules that control which dependencies may be included from the Privacy Sandbox component directory.

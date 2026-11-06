@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Printing component directory metadata
+summary: Directory metadata that assigns the printing strings to the Internals>Printing monorail component and public Buganizer component 1457089 for issue tracking.

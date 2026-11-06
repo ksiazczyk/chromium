@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Privacy Sandbox Attestations implementation
+// summary: Implements the ScopedPrivacySandboxAttestations helper that swaps in a test PrivacySandboxAttestations instance and restores the previous singleton on destruction.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_attestations/scoped_privacy_sandbox_attestations.h"
 
 #include <memory>

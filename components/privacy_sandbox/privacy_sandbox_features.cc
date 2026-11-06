@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Sandbox feature definitions
+// summary: Defines feature flags for Privacy Sandbox attestations enforcement, Related Website Sets UI, and Ad Privacy UX deprecation.
+// ---
+
 #include "components/privacy_sandbox/privacy_sandbox_features.h"
 
 #include "base/feature_list.h"
