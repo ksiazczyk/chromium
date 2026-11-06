@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Category setting exceptions element tests
+// summary: WebUI test suite verifying site list visibility for specific content setting categories and policy-driven read-only behavior in the category-setting-exceptions element.
+// ---
+
 // clang-format off
 import type {CategorySettingExceptionsElement} from 'chrome://settings/lazy_load.js';
 import {ContentSetting, DefaultSettingSource, ContentSettingsTypes, SiteSettingsBrowserProxyImpl} from'chrome://settings/lazy_load.js';

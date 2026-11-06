@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Travel page WebUI test
+// summary: Browser test suite checking the settings travel page opt-in toggle behavior and its interaction with Autofill AI preferences and entity data.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {AiEnterpriseFeaturePrefName, EntityDataManagerProxyImpl} from 'chrome://settings/lazy_load.js';

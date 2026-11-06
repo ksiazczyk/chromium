@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation Page Test
+// summary: WebUI test suite for the settings dictation page, verifying voice typing shortcut updates, failure reverts, formatted shortcuts, and the learn-more link.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 import 'chrome://settings/settings.js';
 

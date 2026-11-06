@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lit site settings mixin tests
+// summary: WebUI test suite for the Lit-based site settings mixin covering port sanitization, URL parsing, and origin representation helpers.
+// ---
+
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {ContentSetting, ContentSettingsTypes, SiteSettingsBrowserProxyImpl, SiteSettingsMixinLit, SiteSettingSource} from 'chrome://settings/lazy_load.js';
 import {assertEquals, assertNull, assertTrue} from 'chrome://webui-test/chai_assert.js';

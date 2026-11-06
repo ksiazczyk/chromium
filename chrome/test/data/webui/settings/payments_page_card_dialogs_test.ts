@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments page card dialog tests
+// summary: WebUI tests for credit card and virtual card dialogs on the payments settings page, covering add versus edit titles, input validation, and unenroll flows.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

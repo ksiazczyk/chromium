@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab discard exception dialog tests
+// summary: WebUI test suite for the tab discard exception add and edit dialogs, covering rule validation, input length limits, and pref updates.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Languages page metrics tests
+// summary: Browser tests verifying that the languages settings page records impression and action metrics for adding languages, menus and UI language changes.
+// ---
+
 // clang-format off
 import type {LanguageHelper, SettingsLanguagesPageElement} from 'chrome://settings/lazy_load.js';
 import {getLanguageHelperInstance, LanguageHelperImpl, LanguagesBrowserProxyImpl, LanguageSettingsMetricsProxyImpl, LanguageSettingsPageImpressionType} from 'chrome://settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notifications settings page tests
+// summary: WebUI tests for the notifications settings page, checking default radio groups, content setting exceptions, and CPSS preference behavior.
+// ---
+
 // clang-format off
 import type {NotificationsPageElement} from 'chrome://settings/lazy_load.js';
 import {ContentSetting, ContentSettingsTypes, SettingsState, SiteSettingsBrowserProxyImpl} from 'chrome://settings/lazy_load.js';

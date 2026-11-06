@@ -4,6 +4,12 @@
 
 // clang-format off
 
+// ---docerion
+// type: test
+// title: Clear browsing data dialog tests
+// summary: WebUI test suite covering data type checkboxes, time periods and dialog behavior of the clear browsing data dialog.
+// ---
+
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import type {ClearBrowsingDataResult, SettingsCheckboxElement, SettingsClearBrowsingDataDialogElement, SettingsHistoryDeletionDialogElement} from 'chrome://settings/lazy_load.js';

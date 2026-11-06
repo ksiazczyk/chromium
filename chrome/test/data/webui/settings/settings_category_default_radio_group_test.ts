@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Category default radio group tests
+// summary: Tests the settings-category-default-radio-group element for content setting categories and their default values.
+// ---
+
 // clang-format off
 import type {SettingsCategoryDefaultRadioGroupElement, SettingsCollapseRadioButtonElement} from 'chrome://settings/lazy_load.js';
 import {ContentSetting, ContentSettingsTypes, DefaultSettingSource, SiteSettingsBrowserProxyImpl} from 'chrome://settings/lazy_load.js';

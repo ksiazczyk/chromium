@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collapsible autofill settings card tests
+// summary: WebUI test suite verifying eligibility, enterprise policy and opt-in handling for the collapsible autofill settings card.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {CrCollapseElement, CrExpandButtonElement} from 'chrome://settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security keys reset dialog tests
+// summary: Tests the security key reset dialog states, including unsupported devices, errors, and reset confirmation.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import type {SecurityKeysResetBrowserProxy, SettingsSecurityKeysResetDialogElement} from 'chrome://settings/lazy_load.js';
 import {ResetDialogPage, SecurityKeysResetBrowserProxyImpl} from 'chrome://settings/lazy_load.js';

@@ -7,6 +7,12 @@
  * secure-dns-input interactively.
  */
 
+// ---docerion
+// type: test
+// title: Secure DNS interactive tests
+// summary: Interactively tests the secure DNS settings elements, covering input focus, resolver options, and toggle behavior.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

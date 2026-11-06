@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test performance browser proxy
+// summary: Fake PerformanceBrowserProxy returning CPU performance info, open sites, battery presence and tab discard rule validation for settings tests.
+// ---
+
 import type {CpuPerformanceInfo, PerformanceBrowserProxy} from 'chrome://settings/settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

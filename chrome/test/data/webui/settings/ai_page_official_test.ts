@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI page official build tests
+// summary: WebUI test suite for the settings-ai-page element in official builds, testing the on-device AI toggle behavior and its policy-based disabling.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 import 'chrome://settings/settings.js';
 

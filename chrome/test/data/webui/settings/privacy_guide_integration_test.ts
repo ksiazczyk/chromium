@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide integration tests
+// summary: Integration tests that generate all eligibility permutations of privacy guide steps and assert the steps eligible and reached metrics.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

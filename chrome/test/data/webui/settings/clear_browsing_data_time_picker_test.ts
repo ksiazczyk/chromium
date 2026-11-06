@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clear browsing data time picker tests
+// summary: WebUI test suite verifying chip and dropdown menu selection of time periods in the clear browsing data time picker.
+// ---
+
 // clang-format off
 import type {SettingsClearBrowsingDataTimePickerElement} from 'chrome://settings/lazy_load.js';
 import {getTimePeriodString, TimePeriod} from 'chrome://settings/lazy_load.js';

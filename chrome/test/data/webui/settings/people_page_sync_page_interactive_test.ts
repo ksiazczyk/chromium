@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: People page sync page interactive tests
+// summary: Interactive WebUI test verifying the sync page autofocuses the passphrase input when a passphrase is required.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

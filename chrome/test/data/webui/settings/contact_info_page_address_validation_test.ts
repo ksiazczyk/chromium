@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contact info page address validation tests
+// summary: WebUI test suite verifying required field validation and save behavior when editing addresses in the contact info page dialog.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

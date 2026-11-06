@@ -4,6 +4,12 @@
 
 /** @fileoverview Runs tests for the settings menu. */
 
+// ---docerion
+// type: test
+// title: Settings menu tests
+// summary: Tests settings menu navigation, clearing of URL search parameters, and visibility of the AI page entry.
+// ---
+
 // clang-format off
 import type {SettingsMenuElement, SettingsRoutes} from 'chrome://settings/settings.js';
 import {AutofillSettingsReferrer, resetRouterForTesting, loadTimeData, MetricsBrowserProxyImpl, resetPageVisibilityForTesting, Router} from 'chrome://settings/settings.js';

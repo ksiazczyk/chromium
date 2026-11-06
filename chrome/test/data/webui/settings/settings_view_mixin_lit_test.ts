@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsViewMixinLit focus tests
+// summary: WebUI test suite for SettingsViewMixinLit verifying focus moves between parent and child views on route navigation.
+// ---
+
 import {CrLitElement, html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {Router, routes, SettingsViewMixinLit} from 'chrome://settings/settings.js';
 import type {Route} from 'chrome://settings/settings.js';

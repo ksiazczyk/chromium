@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill account card WebUI tests
+// summary: WebUI tests for the settings account card, checking display of syncing account info and the account link row with mocked sync and profile proxies.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI logging info bullet tests
+// summary: WebUI test suite for the settings-ai-logging-info-bullet element, verifying labels and policy indicators for AI enterprise logging preference values.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {SettingsAiLoggingInfoBulletElement} from 'chrome://settings/settings.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide safe browsing fragment tests
+// summary: WebUI tests verifying safe browsing fragment radio behavior and metrics when the safe browsing setting is viewed or changed.
+// ---
+
 // clang-format off
 import type {PrivacyGuideSafeBrowsingFragmentElement, SettingsCollapseRadioButtonElement, SettingsRadioGroupElement} from 'chrome://settings/lazy_load.js';
 import {SafeBrowsingSetting} from 'chrome://settings/lazy_load.js';

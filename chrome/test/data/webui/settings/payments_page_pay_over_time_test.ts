@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payments page pay over time tests
+// summary: WebUI tests for the pay over time settings toggle and issuer list entries on the Chrome settings payments page.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

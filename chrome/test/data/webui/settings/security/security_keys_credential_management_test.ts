@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security keys credential management tests
+// summary: Tests the security key credential management dialog, including PIN entry, credential listing, and updates.
+// ---
+
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import type {Credential, CredentialManagementResponse, CrIconButtonElement, SecurityKeysCredentialBrowserProxy, SettingsSecurityKeysCredentialManagementDialogElement, StartCredentialManagementResponse} from 'chrome://settings/lazy_load.js';

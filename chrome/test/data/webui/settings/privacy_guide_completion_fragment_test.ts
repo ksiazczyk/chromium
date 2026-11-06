@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide completion fragment tests
+// summary: WebUI tests for the privacy guide completion fragment, checking back and close navigation, metrics recording, and sign-in dependent link visibility.
+// ---
+
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {ClearBrowsingDataBrowserProxyImpl} from 'chrome://settings/lazy_load.js';
 import type {PrivacyGuideCompletionFragmentElement} from 'chrome://settings/lazy_load.js';

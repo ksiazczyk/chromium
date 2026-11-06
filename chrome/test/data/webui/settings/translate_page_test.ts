@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate page WebUI test
+// summary: Browser test suite covering the settings translate page, including target language changes and always/never translate language preference handling.
+// ---
+
 // clang-format off
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import type {CrIconButtonElement, LanguageHelper, SettingsAddLanguagesDialogElement, SettingsTranslatePageElement} from 'chrome://settings/lazy_load.js';

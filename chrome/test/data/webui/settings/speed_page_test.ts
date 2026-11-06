@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speed page WebUI tests
+// summary: Tests the speed page's preloading and network prediction controls, verifying pref updates across disabled, standard, and extended preloading options.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import {NetworkPredictionOptions} from 'chrome://settings/lazy_load.js';

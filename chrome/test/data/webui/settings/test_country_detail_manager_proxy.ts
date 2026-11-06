@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test country detail manager proxy for settings
+// summary: Fake CountryDetailManagerProxy that serves configurable country lists and address formats for autofill settings tests.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {CountryDetailManagerProxy} from 'chrome://settings/lazy_load.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

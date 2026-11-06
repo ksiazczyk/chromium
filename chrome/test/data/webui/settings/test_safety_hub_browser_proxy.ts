@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Safety Hub browser proxy for settings
+// summary: Test double of SafetyHubBrowserProxy that tracks calls and supplies mock card, entry point, and unused site permissions data for Safety Hub tests.
+// ---
+
 // clang-format off
 import type {CardInfo, EntryPointInfo, SafetyHubBrowserProxy, UnusedSitePermissions} from 'chrome://settings/lazy_load.js';
 import {CardState} from 'chrome://settings/lazy_load.js';

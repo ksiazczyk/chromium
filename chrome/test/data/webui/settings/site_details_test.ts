@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site details element tests
+// summary: WebUI test suite for the site-details element covering site permissions, website usage clearing, and prefs handling with mock proxies.
+// ---
+
 // clang-format off
 import {isChromeOS} from 'chrome://resources/js/platform.js';
 import {assert} from 'chrome://resources/js/assert.js';

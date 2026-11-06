@@ -6,6 +6,12 @@
  * @fileoverview Suite of tests for storage-access-static-site-list-entry.
  */
 
+// ---docerion
+// type: test
+// title: Storage access static site list entry tests
+// summary: WebUI test suite verifying display name, description, incognito tooltip, and reset permission behavior of the storage-access-static-site-list-entry settings element.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

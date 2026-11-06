@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site favicon element tests
+// summary: WebUI test suite for the site-favicon element verifying generated favicon image-set URLs for normal, wildcard, and themed icon inputs.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {SiteFaviconElement} from 'chrome://settings/settings.js';

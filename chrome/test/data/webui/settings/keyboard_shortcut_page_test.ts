@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard shortcut page tests
+// summary: WebUI tests for the keyboard shortcut settings page, verifying the dropdown state, pref updates and recorded search engine interaction metrics.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {KeyboardShortcutPageElement} from 'chrome://settings/settings.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine entry WebUI tests
+// summary: Tests the search engine entry element, checking initialization from the engine model, action menu buttons, and omnibox extension entries.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system site details tests
+// summary: Tests for the file system site details page, covering grant entry population and navigation when grants are removed.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

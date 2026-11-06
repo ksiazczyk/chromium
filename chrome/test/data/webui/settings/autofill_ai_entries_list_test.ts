@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI entries list WebUI tests
+// summary: WebUI tests for the Autofill with AI entries list, covering eligibility status, enterprise policy prefs, opt-in state and entry management.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

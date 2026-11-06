@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for the Settings help page. */
 
+// ---docerion
+// type: test
+// title: Settings help page WebUI tests
+// summary: WebUI test verifying that the settings help route renders the about page within the settings UI.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';

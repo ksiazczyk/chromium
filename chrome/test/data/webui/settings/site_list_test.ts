@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for site-list. */
 
+// ---docerion
+// type: test
+// title: Site list element tests
+// summary: WebUI test suite for the site-list element covering site exceptions across many content setting categories, schemes, and cookie types.
+// ---
+
 // clang-format off
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

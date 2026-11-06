@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy guide welcome fragment tests
+// summary: WebUI test suite verifying that the privacy guide welcome fragment renders and that its start button fires the start-button-click event.
+// ---
+
 // clang-format off
 import {loadTimeData} from 'chrome://settings/settings.js';
 import type {PrivacyGuideWelcomeFragmentElement} from 'chrome://settings/lazy_load.js';

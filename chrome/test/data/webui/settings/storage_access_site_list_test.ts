@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for storage-access-site-list. */
 
+// ---docerion
+// type: test
+// title: Storage access site list tests
+// summary: Tests the storage access site list element, verifying the category header and rendering of storage access exception entries fetched via the browser proxy.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

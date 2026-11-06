@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings section tests
+// summary: Tests visibility and the send-feedback event of the settings-section element's feedback button.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {CrIconButtonElement} from 'chrome://settings/lazy_load.js';

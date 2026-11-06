@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestions from Gemini page tests
+// summary: WebUI test suite for the settings Suggestions from Gemini page, covering connected apps link, quality logging columns, prefs, enterprise policy, and metrics.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import type {CrShortcutInputElement, SettingsSuggestionsFromGeminiPageElement} from 'chrome://settings/lazy_load.js';

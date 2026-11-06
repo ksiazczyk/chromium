@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation settings page WebUI tests
+// summary: WebUI tests for the geolocation settings page covering the default location radio group and the CPSS geolocation preference behavior.
+// ---
+
 // clang-format off
 import type {GeolocationPageElement} from 'chrome://settings/lazy_load.js';
 import {ContentSetting, ContentSettingsTypes, SettingsState, SiteSettingsBrowserProxyImpl} from 'chrome://settings/lazy_load.js';

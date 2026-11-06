@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings menu interactive UI tests
+// summary: Tests that the settings menu focuses the first visible item depending on page visibility.
+// ---
+
 import type {SettingsMenuElement} from 'chrome://settings/settings.js';
 import {resetPageVisibilityForTesting} from 'chrome://settings/settings.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

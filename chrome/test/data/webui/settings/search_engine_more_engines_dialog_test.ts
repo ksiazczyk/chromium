@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine more engines dialog tests
+// summary: WebUI tests for the settings more-engines dialog covering engine listing, search filtering with diacritics, and guest choice saving.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

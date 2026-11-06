@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search metrics recorder tests
+// summary: Tests the SearchMetricsRecorder that records settings search query submission, result presence, and exit reasons.
+// ---
+
 // clang-format off
 import {MAX_DWELL_TIME_MS, MetricsBrowserProxyImpl, QUERY_SUBMITTED_DELAY_MS, Router, routes, SearchMetricsRecorder, SettingsSearchExitReasonDesktop} from 'chrome://settings/settings.js';
 import {assertEquals, assertGE, assertTrue} from 'chrome://webui-test/chai_assert.js';

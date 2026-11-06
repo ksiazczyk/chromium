@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test prefs browser proxy
+// summary: Fake PrefsBrowserProxy backed by FakeSettingsPrivate for reading, setting and observing preferences in settings tests.
+// ---
+
 import type {PrefsBrowserProxy} from 'chrome://settings/settings.js';
 import {FakeSettingsPrivate} from 'chrome://webui-test/fake_settings_private.js';
 

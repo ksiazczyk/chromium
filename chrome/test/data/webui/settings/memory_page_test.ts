@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory Saver settings page tests
+// summary: WebUI tests for the Chrome settings memory page, covering the memory saver mode toggle, aggressiveness radio options, and related preference and metrics behavior.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {CrCollapseElement, SettingsRadioGroupElement} from 'chrome://settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefServiceObserverMixinLit tests
+// summary: Tests for the Lit version of the PrefServiceObserverMixin, verifying pref mirroring, pref observers, and cleanup on disconnect.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import {PrefsBrowserProxy, PrefService, PrefServiceObserverMixinLit} from 'chrome://settings/settings.js';
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

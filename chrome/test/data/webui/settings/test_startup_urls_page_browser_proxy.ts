@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test startup URLs page browser proxy
+// summary: Test double of StartupUrlsPageBrowserProxy that records startup page operations and simulates configurable URL validation results.
+// ---
+
 import type {StartupUrlsPageBrowserProxy} from 'chrome://settings/settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

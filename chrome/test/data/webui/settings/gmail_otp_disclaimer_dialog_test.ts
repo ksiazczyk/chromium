@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmail OTP disclaimer dialog WebUI tests
+// summary: WebUI tests for the Gmail OTP disclaimer dialog covering title and step rendering, links, and confirm or cancel closing behavior.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

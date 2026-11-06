@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for settings tests
+summary: Owner rules for the test directory, including per-file owners for specific settings test files.

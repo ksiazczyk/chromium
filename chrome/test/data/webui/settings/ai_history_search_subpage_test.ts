@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI history search subpage tests
+// summary: Tests for the AI history search subpage, verifying opt-in toggle states, enterprise policy handling, and recorded metrics.
+// ---
+
 // clang-format off
 import type {SettingsHistorySearchPageElement} from 'chrome://settings/lazy_load.js';
 import {AiEnterpriseFeaturePrefName, AiPageActions, FeatureOptInState, SettingsAiPageFeaturePrefName as PrefName} from 'chrome://settings/lazy_load.js';

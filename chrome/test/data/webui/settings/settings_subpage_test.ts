@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings subpage element WebUI tests
+// summary: WebUI test suite for the settings-subpage element covering help icon, favicon and search term handling.
+// ---
+
 // clang-format off
 import type {SettingsRoutes} from 'chrome://settings/settings.js';
 import {loadTimeData, Route, Router} from 'chrome://settings/settings.js';

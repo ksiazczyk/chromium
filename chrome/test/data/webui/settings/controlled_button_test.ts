@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Button Test
+// summary: WebUI test suite checking that the controlled-button element is disabled and shows a policy indicator when its pref is managed by extension or user policy.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

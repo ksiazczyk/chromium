@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cr Policy Pref Indicator Test
+// summary: WebUI test suite for the cr-policy-pref-indicator element, checking icons and tooltips for owner, device policy, recommended, and parent-supervised prefs.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

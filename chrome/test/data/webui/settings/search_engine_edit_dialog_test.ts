@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine edit dialog WebUI tests
+// summary: Tests the search engine edit dialog, verifying add and edit flows, pre-populated and read-only policy fields, validation, and cancel behavior.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

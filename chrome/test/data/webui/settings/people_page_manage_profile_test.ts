@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manage profile tests
+// summary: WebUI tests for the manage profile settings page, covering profile icons, name changes, and shortcut handling with fake browser proxies.
+// ---
+
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import type {ManageProfileBrowserProxy, SettingsManageProfileElement} from 'chrome://settings/lazy_load.js';
 import {ManageProfileBrowserProxyImpl, ProfileShortcutStatus} from 'chrome://settings/lazy_load.js';

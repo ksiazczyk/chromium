@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup URLs page focus tests
+// summary: Tests focus restoration in the startup URLs page when entries are deleted, covering deletion of the last, first, and only remaining items.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

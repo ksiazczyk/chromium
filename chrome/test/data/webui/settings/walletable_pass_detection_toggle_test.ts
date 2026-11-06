@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Walletable pass detection toggle WebUI test
+// summary: Browser test suite verifying the walletable pass detection toggle updates the opt-in status and reverts correctly when the backend call fails.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

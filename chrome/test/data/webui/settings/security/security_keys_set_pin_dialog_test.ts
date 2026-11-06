@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security keys set PIN dialog tests
+// summary: Tests the security key PIN dialog, covering immediate error codes, lockouts, and PIN length validation.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 import type {CrInputElement, SecurityKeysPinBrowserProxy, SettingsSecurityKeysSetPinDialogElement} from 'chrome://settings/lazy_load.js';
 import {SecurityKeysPinBrowserProxyImpl, SetPinDialogPage} from 'chrome://settings/lazy_load.js';

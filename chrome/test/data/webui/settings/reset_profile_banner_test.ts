@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reset profile banner tests
+// summary: WebUI tests for the reset profile banner, verifying dialog content, tampered preference listing, and button behavior via a test proxy.
+// ---
+
 // clang-format off
 import type {SettingsResetProfileBannerElement} from 'chrome://settings/settings.js';
 import {loadTimeData, ResetBrowserProxyImpl} from 'chrome://settings/settings.js';

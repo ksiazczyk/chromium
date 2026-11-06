@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test captions browser proxy for settings
+// summary: Fake CaptionsBrowserProxy that records method calls and returns sample live caption language pack data for settings WebUI tests.
+// ---
+
 import type {CaptionsBrowserProxy, LiveCaptionLanguageList} from 'chrome://settings/lazy_load.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

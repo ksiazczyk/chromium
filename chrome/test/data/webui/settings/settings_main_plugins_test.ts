@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings main plugins tests
+// summary: Tests that settings-main activates the correct page plugin for each route and shows all views while searching.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {Route, SettingsMainElement} from 'chrome://settings/settings.js';

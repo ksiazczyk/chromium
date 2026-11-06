@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery page WebUI tests
+// summary: WebUI tests for the settings battery page, covering battery saver mode states, toggle and radio group behavior.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import type {CrCollapseElement, SettingsRadioGroupElement} from 'chrome://settings/lazy_load.js';

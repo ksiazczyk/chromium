@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings checkbox element tests
+// summary: WebUI test suite covering settings-checkbox click toggling, change events, disabled state, numerical prefs and sub label link behavior.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

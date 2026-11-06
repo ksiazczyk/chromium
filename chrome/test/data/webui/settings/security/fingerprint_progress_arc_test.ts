@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fingerprint progress arc tests
+// summary: Tests the fingerprint progress arc element's canvas rendering in light and dark color schemes.
+// ---
+
 import 'chrome://settings/lazy_load.js';
 
 import type {FingerprintProgressArcElement} from 'chrome://settings/lazy_load.js';

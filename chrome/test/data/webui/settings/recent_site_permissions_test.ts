@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent site permissions tests
+// summary: WebUI tests for the recent site permissions element, checking empty states and rendering of mock recent permission data through a test browser proxy.
+// ---
+
 // clang-format off
 import {flush} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import type {SettingsRecentSitePermissionsElement} from 'chrome://settings/lazy_load.js';

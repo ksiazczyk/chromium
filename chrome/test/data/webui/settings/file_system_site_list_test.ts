@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system site list WebUI tests
+// summary: WebUI tests verifying that the file-system-site-list element populates entries for persistent file system read and write grants per origin.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: About page tests
+// summary: Tests for the About settings page, covering update status icons, messages, and related browser proxy interactions.
+// ---
+
 // clang-format off
 import type {SettingsAboutPageElement} from 'chrome://settings/settings.js';
 import {AboutPageBrowserProxyImpl, LifetimeBrowserProxyImpl, loadTimeData, Router, routes} from 'chrome://settings/settings.js';

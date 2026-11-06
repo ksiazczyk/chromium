@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Controlled Radio Button Test
+// summary: WebUI test suite verifying that the controlled-radio-button element disables and shows a policy indicator for enforced prefs and supports additional content slots.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 

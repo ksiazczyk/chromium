@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Do Not Track Toggle Test
+// summary: WebUI test suite for the do-not-track toggle, covering metrics logging, confirmation dialog behavior, pref updates, and sublabel variants.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

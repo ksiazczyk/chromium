@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic subpage WebUI tests
+// summary: WebUI tests for the Glic settings subpage covering launcher toggles, feature interaction metrics, admin restrictions, and window opening.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

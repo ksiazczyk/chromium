@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI page tests
+// summary: WebUI test suite for the settings-ai-page element, verifying feature row visibility and recorded visibility and interaction metrics.
+// ---
+
 import 'chrome://settings/settings.js';
 
 import {FeatureOptInState, SettingsAiPageFeaturePrefName as PrefName} from 'chrome://settings/lazy_load.js';

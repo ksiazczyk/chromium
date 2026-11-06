@@ -6,6 +6,12 @@
  * @fileoverview Tests for the passkeys page.
  */
 
+// ---docerion
+// type: test
+// title: Passkeys page tests
+// summary: WebUI tests for the passkeys settings page, covering credential listing, deletion, and error display when passkey management is unsupported.
+// ---
+
 import type {Passkey, PasskeysBrowserProxy, SettingsPasskeysPageElement, SettingsSimpleConfirmationDialogElement} from 'chrome://settings/lazy_load.js';
 import {PasskeysBrowserProxyImpl} from 'chrome://settings/lazy_load.js';
 import {assertDeepEquals, assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit dictionary page tests
+// summary: Tests for the spellcheck edit dictionary page, covering word validation, duplicate handling, and Enter/Escape key behavior.
+// ---
+
 // clang-format off
 import type {SettingsEditDictionaryPageElement} from 'chrome://settings/lazy_load.js';
 import {LanguagesBrowserProxyImpl} from 'chrome://settings/lazy_load.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default Browser Page Test
+// summary: WebUI test suite for the default browser settings page, using a fake browser proxy to verify default browser state display and set-as-default behavior.
+// ---
+
 // clang-format off
 import type {DefaultBrowserBrowserProxy, DefaultBrowserInfo, SettingsDefaultBrowserPageElement} from 'chrome://settings/settings.js';
 import {DefaultBrowserBrowserProxyImpl, loadTimeData, Router, routes} from 'chrome://settings/settings.js';

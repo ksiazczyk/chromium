@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safety Hub page WebUI tests
+// summary: Tests the Safety Hub settings page with fakes for prefs, passwords, metrics, and lifetime proxies, verifying card data and page behavior.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

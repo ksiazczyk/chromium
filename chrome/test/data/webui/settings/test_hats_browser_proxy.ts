@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test HaTS browser proxy for settings
+// summary: Fake HaTS BrowserProxy that records trust and safety survey interactions and provides a controllable clock for settings tests.
+// ---
+
 import type {HatsBrowserProxy, SafeBrowsingSetting, SecurityPageInteraction, TrustSafetyInteraction} from 'chrome://settings/settings.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chooser exception list tests
+// summary: WebUI test suite verifying rendering of USB chooser exceptions from user and policy sources in the chooser-exception-list element.
+// ---
+
 // clang-format off
 import 'chrome://settings/settings.js';
 import 'chrome://webui-test/cr_elements/cr_policy_strings.js';

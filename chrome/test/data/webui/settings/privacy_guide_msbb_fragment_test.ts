@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide MSBB fragment tests
+// summary: WebUI tests verifying the metrics recorded by the privacy guide MSBB fragment when the url-keyed anonymized data collection setting is viewed or toggled.
+// ---
+
 // clang-format off
 import type {PrivacyGuideMsbbFragmentElement} from 'chrome://settings/lazy_load.js';
 import {loadTimeData, MetricsBrowserProxyImpl, PrefService, PrefsBrowserProxy, PrivacyGuideSettingsStates} from 'chrome://settings/settings.js';

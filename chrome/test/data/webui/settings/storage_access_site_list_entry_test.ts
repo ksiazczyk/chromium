@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for storage-access-site-list-entry. */
 
+// ---docerion
+// type: test
+// title: Storage access site list entry tests
+// summary: Tests the storage access site list entry element, verifying origin display, descriptions, and expansion behavior for storage access exceptions.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system site entry item tests
+// summary: Tests for the file system site entry item element, covering directory and file grant display and individual grant revocation.
+// ---
+
 // clang-format off
 import 'chrome://settings/lazy_load.js';
 

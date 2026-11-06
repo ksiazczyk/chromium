@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Guide history sync fragment tests
+// summary: WebUI tests verifying the metrics recorded by the privacy guide history sync fragment across sync status and sync preference changes.
+// ---
+
 // clang-format off
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import type {PrivacyGuideHistorySyncFragmentElement} from 'chrome://settings/lazy_load.js';

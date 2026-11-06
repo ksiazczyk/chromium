@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Settings WebUI tests build file
+summary: GN build configuration that defines the settings WebUI test targets and lists the TypeScript test sources and browser test files.

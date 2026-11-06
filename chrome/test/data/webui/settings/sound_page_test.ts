@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sound page WebUI tests
+// summary: Tests the sound page's block autoplay toggle, checking its enabled and checked states, visibility flag handling, and clicks that update the setting via the browser proxy.
+// ---
+
 // clang-format off
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import type {SoundPageElement} from 'chrome://settings/lazy_load.js';
