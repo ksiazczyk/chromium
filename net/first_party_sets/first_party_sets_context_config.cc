@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetsContextConfig implementation
+// summary: Implements FirstPartySetsContextConfig, validating and storing per-context customizations and aliases for First-Party Sets.
+// ---
+
 #include "net/first_party_sets/first_party_sets_context_config.h"
 
 #include "base/containers/map_util.h"

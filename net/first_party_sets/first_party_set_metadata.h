@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetMetadata class declaration
+// summary: Declares FirstPartySetMetadata, bundling optional frame and top-frame First-Party Set entries for a given context.
+// ---
+
 #ifndef NET_FIRST_PARTY_SETS_FIRST_PARTY_SET_METADATA_H_
 #define NET_FIRST_PARTY_SETS_FIRST_PARTY_SET_METADATA_H_
 

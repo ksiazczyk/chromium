@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalFirstPartySets implementation
+// summary: Implements GlobalFirstPartySets, including entry lookup, metadata computation, iteration over public and effective set entries, and validity checks on construction.
+// ---
+
 #include "net/first_party_sets/global_first_party_sets.h"
 
 #include <algorithm>

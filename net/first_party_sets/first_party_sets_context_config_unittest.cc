@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstPartySetsContextConfig unit tests
+// summary: Unit tests covering FindOverride, Contains, customization entry iteration, Clone, and alias handling of FirstPartySetsContextConfig.
+// ---
+
 #include "net/first_party_sets/first_party_sets_context_config.h"
 
 #include <optional>

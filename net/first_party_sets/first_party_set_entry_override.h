@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetEntryOverride class declaration
+// summary: Declares FirstPartySetEntryOverride, representing a single modification applied on top of the global First-Party Sets list, with mojo support.
+// ---
+
 #ifndef NET_FIRST_PARTY_SETS_FIRST_PARTY_SET_ENTRY_OVERRIDE_H_
 #define NET_FIRST_PARTY_SETS_FIRST_PARTY_SET_ENTRY_OVERRIDE_H_
 

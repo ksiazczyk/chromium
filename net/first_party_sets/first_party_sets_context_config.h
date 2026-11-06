@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstPartySetsContextConfig class header
+// summary: Declares FirstPartySetsContextConfig, which bundles per-network-context customizations and aliases that override First-Party Sets entries, with lookup, containment, and iteration helpers.
+// ---
+
 #ifndef NET_FIRST_PARTY_SETS_FIRST_PARTY_SETS_CONTEXT_CONFIG_H_
 #define NET_FIRST_PARTY_SETS_FIRST_PARTY_SETS_CONTEXT_CONFIG_H_
 

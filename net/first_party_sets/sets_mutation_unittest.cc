@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetsMutation unit tests
+// summary: Unit tests verifying that SetsMutation accepts valid replacement, addition, and alias sets and rejects nondisjoint mutations via death tests.
+// ---
+
 #include "net/first_party_sets/sets_mutation.h"
 
 #include "net/base/schemeful_site.h"
