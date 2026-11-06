@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default model test base header
+// summary: Declares DefaultModelTestBase, a GoogleTest base class offering helpers to initialize models, run them with inputs and check classifier or subsegment results.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_DEFAULT_MODEL_TEST_BASE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_DEFAULT_MODEL_TEST_BASE_H_
 

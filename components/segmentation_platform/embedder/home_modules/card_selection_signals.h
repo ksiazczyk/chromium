@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card selection signals header
+// summary: Defines signal key and card name types, the EphemeralHomeModuleRank enum with score conversion, and classes that hold and query card signals.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_CARD_SELECTION_SIGNALS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_CARD_SELECTION_SIGNALS_H_
 

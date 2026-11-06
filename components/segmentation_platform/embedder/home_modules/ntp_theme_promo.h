@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme promo class declaration
+// summary: Declares the NtpThemePromo class, an ephemeral home module that decides when to show the NTP theme promo card based on signals and interaction history.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_NTP_THEME_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_NTP_THEME_PROMO_H_
 

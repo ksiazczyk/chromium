@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resume heavy user model header
+// summary: Declares the ResumeHeavyUserModel provider and its feature enum for the resume heavy user segment.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_RESUME_HEAVY_USER_MODEL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_RESUME_HEAVY_USER_MODEL_H_
 

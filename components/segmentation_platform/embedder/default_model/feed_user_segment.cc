@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed user segment model implementation
+// summary: Implements the Feed user default model that segments users by feed and new tab page engagement using UMA user actions and enum metrics.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/feed_user_segment.h"
 
 #include <array>

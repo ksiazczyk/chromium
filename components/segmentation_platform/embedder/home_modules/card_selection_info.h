@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card selection info header
+// summary: Defines the CardSelectionInfo interface that each ephemeral home module card implements for signal inputs, show decisions, and impression or interaction handling.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_CARD_SELECTION_INFO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_CARD_SELECTION_INFO_H_
 

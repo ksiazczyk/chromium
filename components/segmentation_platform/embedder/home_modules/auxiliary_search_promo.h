@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search promo header
+// summary: Declares the AuxiliarySearchPromo class that decides when to show the promo for enabling auxiliary search and tracks session impressions.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_AUXILIARY_SEARCH_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_AUXILIARY_SEARCH_PROMO_H_
 

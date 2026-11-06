@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android home modules card registry implementation
+// summary: Implements the Android card registry, registering enabled ephemeral promo cards such as default browser, tab group, history sync, and quick delete promos.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/home_modules_card_registry_android.h"
 
 #include <memory>

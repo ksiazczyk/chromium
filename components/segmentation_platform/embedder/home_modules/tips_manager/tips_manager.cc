@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsManager service implementation
+// summary: Implements the TipsManager keyed service that records, prunes, and queries tip signal history in profile and local preference services.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tips_manager/tips_manager.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auxiliary search promo unit tests
+// summary: Unit tests covering expected inputs, shown and not-shown results, once-per-session behavior, and force-show override for the auxiliary search promo.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/auxiliary_search_promo.h"
 
 #include "base/test/scoped_feature_list.h"

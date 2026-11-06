@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab session source implementation
+// summary: Builds tab metric tensors from synced session data, including bucketized timestamps, transition types, and tab ranks within sessions.
+// ---
+
 #include "components/segmentation_platform/embedder/input_delegate/tab_session_source.h"
 #include <math.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme promo implementation
+// summary: Implements the NTP theme promo card for Chrome Android, defining UMA shown-count signals and custom inputs to decide when to promote NTP theme customization.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/ntp_theme_promo.h"
 
 #include "base/metrics/field_trial_params.h"

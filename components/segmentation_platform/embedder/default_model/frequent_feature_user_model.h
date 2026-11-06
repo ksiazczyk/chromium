@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frequent feature user model header
+// summary: Declares the FrequentFeatureUserModel class and its feature enum for the frequent feature user segment.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_FREQUENT_FEATURE_USER_MODEL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_FREQUENT_FEATURE_USER_MODEL_H_
 

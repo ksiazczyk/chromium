@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab rank dispatcher class declaration
+// summary: Declares TabRankDispatcher, a user-data utility that fetches and orders synced tabs by ranking heuristics for segmentation features.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_INPUT_DELEGATE_TAB_RANK_DISPATCHER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_INPUT_DELEGATE_TAB_RANK_DISPATCHER_H_
 

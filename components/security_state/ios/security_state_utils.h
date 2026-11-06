@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security state utilities for iOS
+// summary: Header declaring functions that return the malicious content status, visible security state, and security level for a WebState.
+// ---
+
 #ifndef COMPONENTS_SECURITY_STATE_IOS_SECURITY_STATE_UTILS_H_
 #define COMPONENTS_SECURITY_STATE_IOS_SECURITY_STATE_UTILS_H_
 

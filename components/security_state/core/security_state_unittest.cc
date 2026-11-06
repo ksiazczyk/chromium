@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for security level computation
+// summary: gtest suite verifying GetSecurityLevel behavior across URLs, certificates, mixed content, HTTPS-First Mode, and malicious content statuses.
+// ---
+
 #include "components/security_state/core/security_state.h"
 
 #include <stdint.h>

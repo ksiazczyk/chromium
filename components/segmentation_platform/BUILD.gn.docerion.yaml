@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Segmentation platform unit test build targets
+summary: GN build file that groups the component's unit test targets and packages the gtest filter file as test data.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS default browser promo model header
+// summary: Declares the IosDefaultBrowserPromo model provider with its feature and label enums for the iOS default browser promo segment.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_IOS_DEFAULT_BROWSER_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_IOS_DEFAULT_BROWSER_PROMO_H_
 

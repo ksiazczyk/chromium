@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab notification promo card implementation
+// summary: Implements the SendTabNotificationPromo ephemeral card, deciding when to show the Send Tab To Self notification promo on the home modules stack and tracking impressions via profile prefs.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/send_tab_notification_promo.h"
 
 #include "base/metrics/field_trial_params.h"

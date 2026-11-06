@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default model test base implementation
+// summary: Implements the shared test base class that fetches model metadata, executes default segmentation model providers and verifies expected results in unit tests.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"
 
 #include "components/segmentation_platform/internal/metadata/metadata_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme ephemeral module class declaration
+// summary: Declares the NTPThemeEphemeralModule class, which determines when to show the NTP background tip based on signals and interaction history.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_NTP_THEME_EPHEMERAL_MODULE_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_NTP_THEME_EPHEMERAL_MODULE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens ephemeral module implementation
+// summary: Implements the Lens ephemeral Magic Stack module, defining required, supplemental, and disabling signals that decide when Lens tips are shown.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/lens_ephemeral_module.h"
 
 #include <algorithm>

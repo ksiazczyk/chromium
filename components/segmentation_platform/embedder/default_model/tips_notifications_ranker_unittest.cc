@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Tips notifications ranker unit tests
+// summary: Unit tests checking model initialization, metadata fetching, and classification outcomes for tips notification segments including the V2 ecosystem lock-in variant.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/tips_notifications_ranker.h"
 
 #include "base/test/scoped_feature_list.h"

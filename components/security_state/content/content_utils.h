@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for visible security state retrieval
+// summary: Declares GetVisibleSecurityState, which retrieves the visible security state from the current page in a WebContents.
+// ---
+
 #ifndef COMPONENTS_SECURITY_STATE_CONTENT_CONTENT_UTILS_H_
 #define COMPONENTS_SECURITY_STATE_CONTENT_CONTENT_UTILS_H_
 

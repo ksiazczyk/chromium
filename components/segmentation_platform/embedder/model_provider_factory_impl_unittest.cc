@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the model provider factory
+// summary: Verifies provider creation for segmentation targets and the dummy provider behavior when the optimization guide model provider is unavailable.
+// ---
+
 #include "components/segmentation_platform/embedder/model_provider_factory_impl.h"
 
 #include "base/test/task_environment.h"

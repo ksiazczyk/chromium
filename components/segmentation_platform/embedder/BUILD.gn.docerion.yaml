@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the segmentation platform embedder
+summary: Defines the embedder source set and its unit tests, listing the input delegate, model provider, and tab fetcher sources with their dependencies.

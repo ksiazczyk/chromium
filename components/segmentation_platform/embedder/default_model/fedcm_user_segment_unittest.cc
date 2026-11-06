@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FedCM user segment model unit tests
+// summary: Unit tests verifying the FedCM user model initializes its metadata and classifies inputs as FedCM loud or quiet users.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/fedcm_user_segment.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

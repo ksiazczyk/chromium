@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization target segmentation dummy model header
+// summary: Declares the OptimizationTargetSegmentationDummy model provider class and its enabling feature flag.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_OPTIMIZATION_TARGET_SEGMENTATION_DUMMY_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_OPTIMIZATION_TARGET_SEGMENTATION_DUMMY_H_
 

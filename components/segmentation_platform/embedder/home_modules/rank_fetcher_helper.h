@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rank fetcher helper header
+// summary: Declares RankFetcherHelper, a helper class that fetches ranks from stable and ephemeral modules and merges them into a final list.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_RANK_FETCHER_HELPER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_RANK_FETCHER_HELPER_H_
 

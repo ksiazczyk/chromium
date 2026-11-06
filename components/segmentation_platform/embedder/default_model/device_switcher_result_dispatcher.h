@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device switcher result dispatcher header
+// summary: Declares DeviceSwitcherResultDispatcher, which returns cached device switcher classification results or waits for fresh ones within a timeout.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_DEVICE_SWITCHER_RESULT_DISPATCHER_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_DEVICE_SWITCHER_RESULT_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for the Android security state model
+// summary: Implements JNI functions that expose security level, malicious content status, and HTTPS-Only upgrades to Java via the delegate.
+// ---
+
 #include "components/security_state/content/android/security_state_client.h"
 #include "components/security_state/content/android/security_state_model_delegate.h"
 #include "components/security_state/content/content_utils.h"

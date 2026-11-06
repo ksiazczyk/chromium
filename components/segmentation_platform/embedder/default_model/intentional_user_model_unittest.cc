@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intentional user model unit tests
+// summary: Tests initialization, execution with invalid and valid inputs, and classifier labels for the intentional user model.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/intentional_user_model.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

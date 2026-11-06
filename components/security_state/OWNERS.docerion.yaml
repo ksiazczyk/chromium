@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of security_state
+summary: Lists cthomp@chromium.org as the code owner responsible for reviewing changes in the security_state component.

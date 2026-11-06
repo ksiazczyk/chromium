@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security state enums and helper declarations
+// summary: Declares SecurityLevel, ContentStatus, and MaliciousContentStatus enums plus VisibleSecurityState and helpers used to classify page security.
+// ---
+
 #ifndef COMPONENTS_SECURITY_STATE_CORE_SECURITY_STATE_H_
 #define COMPONENTS_SECURITY_STATE_CORE_SECURITY_STATE_H_
 

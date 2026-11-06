@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ephemeral module utilities header
+// summary: Declares GetForcedEphemeralModuleShowResult, which returns a forced show or hide result for an ephemeral module from field trial parameters.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_EPHEMERAL_MODULE_UTILS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_EPHEMERAL_MODULE_UTILS_H_
 

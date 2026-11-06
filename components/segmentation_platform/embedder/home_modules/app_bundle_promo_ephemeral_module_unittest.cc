@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the app bundle promo ephemeral module
+// summary: Tests inputs, card result ranking, and impression limit behavior of the app bundle promo module.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/app_bundle_promo_ephemeral_module.h"
 
 #include "components/prefs/testing_pref_service.h"

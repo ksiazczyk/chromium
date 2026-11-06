@@ -1,0 +1,4 @@
+# Docerion header of security_state_utils.mm.
+type: source
+title: Security state utilities implementation for iOS
+summary: Implements mapping of Safe Browsing threat types to malicious content status and computes the visible security state for iOS WebStates.

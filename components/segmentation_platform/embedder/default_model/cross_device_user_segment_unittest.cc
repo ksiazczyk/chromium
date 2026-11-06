@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross device user segment unit tests
+// summary: Unit tests verifying cross device user segment classification results for combinations of phone, desktop, and tablet device count inputs.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/cross_device_user_segment.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

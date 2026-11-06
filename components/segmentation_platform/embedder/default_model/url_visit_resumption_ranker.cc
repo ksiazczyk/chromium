@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL visit resumption ranker implementation
+// summary: Implements a ranker that scores URL visit resumption from time-since-last-active inputs, with an optional random score field trial parameter.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/url_visit_resumption_ranker.h"
 
 #include <memory>

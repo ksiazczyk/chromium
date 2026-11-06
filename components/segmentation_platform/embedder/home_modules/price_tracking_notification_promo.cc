@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking notification promo implementation
+// summary: Implements the price tracking notification promo card, showing it at top rank when the user has a subscription, is not a new user, and is synced.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/price_tracking_notification_promo.h"
 
 #include "base/metrics/field_trial_params.h"

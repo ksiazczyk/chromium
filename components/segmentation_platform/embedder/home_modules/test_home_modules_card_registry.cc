@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHomeModulesCardRegistry implementation
+// summary: Implements a simplified HomeModulesCardRegistry for tests that accepts injected test cards and stubs out card notification callbacks.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/test_home_modules_card_registry.h"
 
 #include "components/prefs/pref_service.h"

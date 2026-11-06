@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price tracking notification promo unit tests
+// summary: Tests the price tracking notification promo's card result computation and its enablement behavior across the impression limit.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/price_tracking_notification_promo.h"
 
 #include <memory>

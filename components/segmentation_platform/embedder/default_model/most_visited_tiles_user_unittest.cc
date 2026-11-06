@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Most visited tiles user model unit tests
+// summary: Unit tests verifying model init and classification of most visited tiles usage counts into High, Medium, Low, and None results.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/most_visited_tiles_user.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

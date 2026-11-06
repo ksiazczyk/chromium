@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick delete promo header
+// summary: Declares the QuickDeletePromo ephemeral home module class for the quick delete promo card in the educational tip section on Chrome Android.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_QUICK_DELETE_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_QUICK_DELETE_PROMO_H_
 

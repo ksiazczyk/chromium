@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization target segmentation dummy model implementation
+// summary: Implements a disabled-by-default dummy segmentation model that returns a constant result and defines its metadata configuration.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/optimization_target_segmentation_dummy.h"
 
 #include <memory>

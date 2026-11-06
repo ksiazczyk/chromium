@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device tier segment unit tests
+// summary: Unit tests verifying the device tier segment model classifies devices into high, medium, low and none tiers based on RAM, OS version and pixel density.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/device_tier_segment.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

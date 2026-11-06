@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low user engagement model implementation
+// summary: Implements the default model that flags low user engagement when Chrome was not used in every one of the last four weeks.
+// ---
+
 
 #include "components/segmentation_platform/embedder/default_model/low_user_engagement_model.h"
 

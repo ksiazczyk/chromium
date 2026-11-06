@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips manager constants implementation
+// summary: Implements conversions between tip identifiers, presentation contexts, and their string names, and defines pref keys for the tips signal history.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tips_manager/constants.h"
 
 namespace segmentation_platform {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab fetcher implementation
+// summary: Implements fetching and looking up local and synced remote tabs from the session sync service, including counts and session modification times.
+// ---
+
 #include "components/segmentation_platform/embedder/tab_fetcher.h"
 
 #include "base/memory/raw_ptr.h"

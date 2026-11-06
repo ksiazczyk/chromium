@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP theme ephemeral module unit tests
+// summary: Unit tests covering module label identification, expected inputs, and card ranking outcomes for the NTP theme ephemeral module.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/ntp_theme_ephemeral_module.h"
 
 #include "base/test/scoped_feature_list.h"

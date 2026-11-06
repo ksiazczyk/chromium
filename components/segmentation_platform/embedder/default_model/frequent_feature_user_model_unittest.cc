@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frequent feature user model unit tests
+// summary: Unit tests verifying the frequent feature user model classifies inputs as positive or negative based on feature usage counts.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/frequent_feature_user_model.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

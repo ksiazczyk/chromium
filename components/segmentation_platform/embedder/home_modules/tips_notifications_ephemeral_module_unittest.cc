@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tips notifications ephemeral module unit tests
+// summary: Unit tests covering module label identification, input signals, and card result computation for the tips notifications ephemeral module.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tips_notifications_ephemeral_module.h"
 
 #include "base/test/scoped_feature_list.h"

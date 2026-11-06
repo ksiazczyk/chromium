@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Database API clients unit tests
+// summary: Unit tests verifying that the database API clients model tracks the expected TestEvents custom event with its metric hash filter.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/database_api_clients.h"
 
 #include "base/metrics/metrics_hashes.h"

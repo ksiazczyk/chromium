@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync promo card implementation
+// summary: Implements the TabGroupSyncPromo ephemeral card, deciding when to show the tab group sync promo based on synced tab group signals, interaction history, and impression limits.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tab_group_sync_promo.h"
 
 #include "base/metrics/field_trial_params.h"

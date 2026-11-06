@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo card for Chrome Android
+// summary: Implements the default browser promo card, deciding visibility from signals, impression counts and interaction history.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/default_browser_promo.h"
 
 #include "base/metrics/field_trial_params.h"

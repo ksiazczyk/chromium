@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rank fetcher helper implementation
+// summary: Fetches and merges rankings of stable and ephemeral home modules, falling back to a fixed module list, to produce the final module order for the new tab page.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/rank_fetcher_helper.h"
 
 #include "base/feature_list.h"

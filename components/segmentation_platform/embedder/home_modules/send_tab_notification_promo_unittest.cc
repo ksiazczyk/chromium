@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab notification promo unit tests
+// summary: Unit tests for SendTabNotificationPromo, verifying card result computation with valid signals and the impression limit behavior of the IsEnabled method on iOS.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/send_tab_notification_promo.h"
 
 #include "components/prefs/testing_pref_service.h"

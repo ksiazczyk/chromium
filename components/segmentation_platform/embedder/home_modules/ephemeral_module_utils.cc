@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ephemeral module forced show and hide utilities
+// summary: Implements a helper that reads field trial parameters to force showing or hiding a specific ephemeral module card.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/ephemeral_module_utils.h"
 
 #include <string>

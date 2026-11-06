@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the embedder directory
+summary: Specifies which directories, such as commerce, sync, and visited URL ranking, embedder code may include headers from.

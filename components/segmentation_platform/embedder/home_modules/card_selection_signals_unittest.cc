@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Card selection signals unit tests
+// summary: Unit tests verifying rank-to-score conversion and signal lookup behavior, including missing signals and missing cards.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/card_selection_signals.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

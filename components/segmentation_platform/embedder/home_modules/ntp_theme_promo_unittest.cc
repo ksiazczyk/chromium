@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NTP theme promo unit tests
+// summary: Unit tests verifying the inputs and ComputeCardResult ranking behavior of the NTP theme promo card across various signal combinations.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/ntp_theme_promo.h"
 
 #include "base/test/scoped_feature_list.h"

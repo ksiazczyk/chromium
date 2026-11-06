@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips notifications ephemeral module implementation
+// summary: Implements the Magic Stack ephemeral module for the tips notifications tip, tracking impression and interaction counts via profile prefs.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tips_notifications_ephemeral_module.h"
 
 #include <optional>

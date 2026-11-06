@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card selection signals implementation
+// summary: Implements AllCardSignals and CardSelectionSignals lookup of signal values by card name and signal key.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/card_selection_signals.h"
 
 #include "base/check.h"

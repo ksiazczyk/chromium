@@ -1,3 +1,11 @@
+---
+type: readme
+title: Segmentation Platform
+summary: Introduces the segmentation platform, its layered code structure, test models, and how to run its unit tests.
+relations:
+  - documents /components/segmentation_platform/components_unittests.filter
+---
+
 # Segmentation Platform
 
 ## Introduction

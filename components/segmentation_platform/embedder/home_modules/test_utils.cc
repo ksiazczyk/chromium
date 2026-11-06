@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home modules test utilities implementation
+// summary: Implements helpers that build AllCardSignals objects and assert whether cards and their signal keys are registered in tests.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/test_utils.h"
 
 #include <map>

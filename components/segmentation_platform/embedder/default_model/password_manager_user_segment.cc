@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager user segment model implementation
+// summary: Implements the default model that classifies users as password manager users from stored password counts, filling assistance and save UI dismissal metrics.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/password_manager_user_segment.h"
 
 #include <cstdint>

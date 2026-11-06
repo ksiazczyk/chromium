@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resume heavy user model implementation
+// summary: Implements a binary classifier that flags users who resume workflows via bookmarks, most visited tiles, tab groups, history and recent tabs.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/resume_heavy_user_model.h"
 
 #include <array>

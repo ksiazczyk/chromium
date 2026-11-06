@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL visit resumption ranker unit tests
+// summary: Unit tests verifying model initialization, metadata input features, and resumption score computation for various time inputs.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/url_visit_resumption_ranker.h"
 
 #include "components/segmentation_platform/embedder/default_model/default_model_test_base.h"

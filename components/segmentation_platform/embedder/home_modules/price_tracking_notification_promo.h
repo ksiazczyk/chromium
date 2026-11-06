@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking notification promo header
+// summary: Declares the PriceTrackingNotificationPromo card selection class that decides when to show the price tracking notification promo based on subscription, new user, and sync signals.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_PRICE_TRACKING_NOTIFICATION_PROMO_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_PRICE_TRACKING_NOTIFICATION_PROMO_H_
 

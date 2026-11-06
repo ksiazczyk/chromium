@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FedCM user segment model implementation
+// summary: Implements the FedCM user default model that predicts whether a user engages with FedCM sign-in features using UMA metrics collected over 28 days.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/fedcm_user_segment.h"
 
 #include <cstdint>

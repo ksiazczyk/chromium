@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intentional user model implementation
+// summary: Implements the default segmentation model that classifies a user as intentional based on Chrome launches from the main launcher icon over 28 days.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/intentional_user_model.h"
 
 #include <array>

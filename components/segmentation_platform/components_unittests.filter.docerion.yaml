@@ -1,0 +1,4 @@
+# Docerion header of components_unittests.filter.
+type: test
+title: Components unit tests gtest filter
+summary: Lists test suite patterns used to filter which segmentation platform tests run in components_unittests.

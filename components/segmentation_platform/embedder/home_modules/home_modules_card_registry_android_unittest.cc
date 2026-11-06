@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android home modules card registry unit tests
+// summary: Unit tests verifying that the Android registry registers ephemeral cards like DefaultBrowserPromo and TabGroupPromo based on feature flags and impression history.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/home_modules_card_registry_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual page actions model header
+// summary: Declares the ContextualPageActionsModel class, a default model provider with metadata and execution for the contextual page actions segment.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_CONTEXTUAL_PAGE_ACTIONS_MODEL_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_CONTEXTUAL_PAGE_ACTIONS_MODEL_H_
 

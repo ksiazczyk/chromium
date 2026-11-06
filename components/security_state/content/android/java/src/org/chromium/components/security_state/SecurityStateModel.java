@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityStateModel Java class for page security state
+// summary: Java bridge that fetches the connection security level, malicious content status, and HTTPS-only upgrade state for web contents via native JNI calls.
+// ---
+
 package org.chromium.components.security_state;
 
 import androidx.annotation.VisibleForTesting;

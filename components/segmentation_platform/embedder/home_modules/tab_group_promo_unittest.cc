@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group promo unit tests
+// summary: Unit tests for TabGroupPromo, checking the expected input signals and card result positions for enabled, disabled, and interaction-based scenarios.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/tab_group_promo.h"
 
 #include "components/prefs/testing_pref_service.h"

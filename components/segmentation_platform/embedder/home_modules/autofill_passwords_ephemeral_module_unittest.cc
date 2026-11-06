@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill passwords ephemeral module unit tests
+// summary: Unit tests verifying module label identification, output labels, signal inputs, and card result computation for the Autofill Passwords ephemeral module.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/autofill_passwords_ephemeral_module.h"
 
 #include "base/test/scoped_feature_list.h"

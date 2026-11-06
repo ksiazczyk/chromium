@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS home modules card registry implementation
+// summary: Implements the iOS card registry, mapping tips manager identifiers to enabled ephemeral module cards such as Lens, address bar position, and password promos.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/home_modules_card_registry_ios.h"
 
 #include <algorithm>

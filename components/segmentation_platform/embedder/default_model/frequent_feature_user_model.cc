@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frequent feature user model implementation
+// summary: Implements the frequent feature user default model that identifies users of bookmarks, translate, autofill, password manager and omnibox features via UMA actions.
+// ---
+
 #include "components/segmentation_platform/embedder/default_model/frequent_feature_user_model.h"
 
 #include <array>

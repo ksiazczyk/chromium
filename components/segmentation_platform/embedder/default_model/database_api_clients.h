@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database API clients header
+// summary: Declares the DatabaseApiClients model provider and helper methods for writing sum queries over metrics and events for database API clients.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_DATABASE_API_CLIENTS_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_DEFAULT_MODEL_DATABASE_API_CLIENTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for home modules
+summary: GN build rules defining the home_modules library, constants source set, and unit tests with iOS- and Android-specific sources.

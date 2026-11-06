@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP theme ephemeral module implementation
+// summary: Implements the NTP theme ephemeral Magic Stack module, tracking impressions and using background-related signals to decide whether to show the NTP background tip.
+// ---
+
 #include "components/segmentation_platform/embedder/home_modules/ntp_theme_ephemeral_module.h"
 
 #include <optional>

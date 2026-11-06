@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ephemeral home module backend declarations
+// summary: Declares the EphemeralHomeModuleBackend model provider and a test backend that gives a command-line-specified card a top score.
+// ---
+
 #ifndef COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_EPHEMERAL_HOME_MODULE_BACKEND_H_
 #define COMPONENTS_SEGMENTATION_PLATFORM_EMBEDDER_HOME_MODULES_EPHEMERAL_HOME_MODULE_BACKEND_H_
 
