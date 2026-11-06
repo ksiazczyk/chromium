@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync cycle event declaration
+// summary: Declares the SyncCycleEvent struct with its EventCause enum and a snapshot of the last sync cycle.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_CYCLE_EVENT_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_CYCLE_EVENT_H_
 

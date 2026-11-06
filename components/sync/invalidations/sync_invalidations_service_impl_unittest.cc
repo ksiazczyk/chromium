@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncInvalidationsServiceImpl unit tests
+// summary: Unit tests verifying that SyncInvalidationsServiceImpl stores, initializes, and notifies handlers about changes to interested data types.
+// ---
+
 #include "components/sync/invalidations/sync_invalidations_service_impl.h"
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetUpdatesProcessor unit tests
+// summary: Unit tests for GetUpdatesProcessor covering nudges, configure and poll requests, retries, and response processing.
+// ---
+
 #include "components/sync/engine/get_updates_processor.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HttpBridge unit tests
+// summary: Unit tests for HttpBridge covering request completion, aborts, timeouts and race conditions using an embedded test server and a shunted bridge.
+// ---
+
 #include "components/sync/engine/net/http_bridge.h"
 
 #include <stddef.h>

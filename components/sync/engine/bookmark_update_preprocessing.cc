@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark update preprocessing implementation
+// summary: Implements utilities to preprocess remote bookmark updates, including GUID inference for legacy bookmarks and unique position adaptation.
+// ---
+
 #include "components/sync/engine/bookmark_update_preprocessing.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancelation signal class declaration
+// summary: Declares CancelationSignal, which supports early task exit via a signaled flag and a single observer handler.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CANCELATION_SIGNAL_H_
 #define COMPONENTS_SYNC_ENGINE_CANCELATION_SIGNAL_H_
 

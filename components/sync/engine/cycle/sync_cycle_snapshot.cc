@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncCycleSnapshot implementation
+// summary: Implements the SyncCycleSnapshot class, including JSON serialization of sync cycle state such as progress markers, commit counts, conflicts, and poll timing.
+// ---
+
 #include "components/sync/engine/cycle/sync_cycle_snapshot.h"
 
 #include <string>

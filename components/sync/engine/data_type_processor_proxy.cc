@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type processor proxy implementation
+// summary: Implements DataTypeProcessorProxy, which forwards data type processor calls between the model sequence and the sync sequence via a task runner.
+// ---
+
 #include "components/sync/engine/data_type_processor_proxy.h"
 
 #include <utility>

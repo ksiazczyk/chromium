@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress marker map to dictionary conversion
+// summary: Converts a map of data types to serialized progress markers into a base dictionary with base64-encoded payloads for debugging.
+// ---
+
 #include "components/sync/base/progress_marker_map.h"
 
 #include "base/base64.h"

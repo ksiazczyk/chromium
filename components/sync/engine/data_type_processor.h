@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeProcessor interface
+// summary: Interface used by the sync backend to issue requests to a synced data type, covering commits, incoming updates and pending invalidation storage.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_PROCESSOR_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_PROCESSOR_H_
 

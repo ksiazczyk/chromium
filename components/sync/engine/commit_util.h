@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit message utility declarations
+// summary: Declares helper functions for adding extensions activity and client configuration parameters to sync commit messages.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_COMMIT_UTIL_H_
 #define COMPONENTS_SYNC_ENGINE_COMMIT_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveDevicesInvalidationInfo class header
+// summary: Declares a class holding known active devices' invalidation information used for invalidation-related fields in sync commit messages.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_ACTIVE_DEVICES_INVALIDATION_INFO_H_
 #define COMPONENTS_SYNC_ENGINE_ACTIVE_DEVICES_INVALIDATION_INFO_H_
 

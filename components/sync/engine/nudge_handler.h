@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NudgeHandler interface
+// summary: Declares the interface for scheduling initial sync downloads, commits, and reporting pending invalidations per data type.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_NUDGE_HANDLER_H_
 #define COMPONENTS_SYNC_ENGINE_NUDGE_HANDLER_H_
 

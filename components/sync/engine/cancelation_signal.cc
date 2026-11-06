@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancelation signal implementation
+// summary: Implements a thread-safe signal that lets one thread request another task to abort and return early.
+// ---
+
 #include "components/sync/engine/cancelation_signal.h"
 
 #include "base/check_op.h"

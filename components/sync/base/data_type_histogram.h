@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type histogram declarations
+// summary: Declares update drop reason and migration step enums plus functions for recording per-data-type sync metrics.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_DATA_TYPE_HISTOGRAM_H_
 #define COMPONENTS_SYNC_BASE_DATA_TYPE_HISTOGRAM_H_
 

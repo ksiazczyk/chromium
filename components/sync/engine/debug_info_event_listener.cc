@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug info event listener implementation
+// summary: Implements a listener that records sync engine debug events such as cycle completion, passphrase changes, and connection status into a bounded queue for diagnostics.
+// ---
+
 #include "components/sync/engine/debug_info_event_listener.h"
 
 #include <stddef.h>

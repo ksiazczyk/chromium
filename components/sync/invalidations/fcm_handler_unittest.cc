@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the FCM handler
+// summary: Tests FCMHandler using a fake GCM driver and mocked InstanceID, listener and token observer classes to verify invalidation and token handling behaviour.
+// ---
+
 #include "components/sync/invalidations/fcm_handler.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeTracker implementation
+// summary: Implements per-data-type sync scheduling, defining nudge delays for local changes and remote invalidations across the supported data types.
+// ---
+
 #include "components/sync/engine/cycle/data_type_tracker.h"
 
 #include <algorithm>

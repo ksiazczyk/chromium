@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServerConnectionManager implementation
+// summary: Implements HttpResponse helpers and ServerConnectionManager, which tracks sync server connection status and manages cached access token information.
+// ---
+
 #include "components/sync/engine/net/server_connection_manager.h"
 
 #include <errno.h>

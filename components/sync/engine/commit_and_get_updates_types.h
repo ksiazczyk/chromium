@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit and update data structures
+// summary: Defines structs for commit requests, successful and failed commit responses, and update responses used by the sync engine.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_COMMIT_AND_GET_UPDATES_TYPES_H_
 #define COMPONENTS_SYNC_ENGINE_COMMIT_AND_GET_UPDATES_TYPES_H_
 

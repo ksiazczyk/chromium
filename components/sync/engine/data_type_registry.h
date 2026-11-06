@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type registry header
+// summary: Declares DataTypeRegistry, which tracks active update handlers and commit contributors for connected sync data types and observes encryption handler changes.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_REGISTRY_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync enum to string conversions
+// summary: Converts connection status and passphrase type enum values into their string names for logging and display.
+// ---
+
 #include "components/sync/engine/sync_string_conversions.h"
 
 #include "base/notreached.h"

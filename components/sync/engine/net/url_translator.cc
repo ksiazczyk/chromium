@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync URL query string translator implementation
+// summary: Implements AppendSyncQueryString, which appends client and client ID query parameters to sync server URLs, selecting the client name by branding.
+// ---
+
 #include "components/sync/engine/net/url_translator.h"
 
 #include "build/branding_buildflags.h"

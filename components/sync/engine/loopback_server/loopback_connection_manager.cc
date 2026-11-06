@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Loopback connection manager implementation
+// summary: Implements the ServerConnectionManager interface by forwarding sync protocol POSTs to a local LoopbackServer and mapping its responses to HTTP-like results.
+// ---
+
 #include "components/sync/engine/loopback_server/loopback_connection_manager.h"
 
 #include "components/sync/engine/net/server_connection_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync service URL and user agent utilities
+// summary: Implements helpers that resolve the sync service URL from command line, Gaia config or channel defaults and format the sync user agent string.
+// ---
+
 #include "components/sync/base/sync_util.h"
 
 #include <string_view>

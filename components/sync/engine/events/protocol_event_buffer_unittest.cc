@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol event buffer unit tests
+// summary: Unit tests verifying that ProtocolEventBuffer returns recorded events in order and drops the oldest events on overflow.
+// ---
+
 #include "components/sync/engine/events/protocol_event_buffer.h"
 
 #include <stdint.h>

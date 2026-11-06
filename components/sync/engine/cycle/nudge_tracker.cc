@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nudge tracker implementation
+// summary: Implements NudgeTracker, which records local changes, refresh requests, invalidations and commit results per data type and decides when a sync cycle or GetUpdates is required.
+// ---
+
 #include "components/sync/engine/cycle/nudge_tracker.h"
 
 #include <algorithm>

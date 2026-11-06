@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarding data type processor header
+// summary: Declares ForwardingDataTypeProcessor, a trivial wrapper that delegates DataTypeProcessor calls when ownership must be transferred but the caller keeps the real implementation.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_FORWARDING_DATA_TYPE_PROCESSOR_H_
 #define COMPONENTS_SYNC_ENGINE_FORWARDING_DATA_TYPE_PROCESSOR_H_
 

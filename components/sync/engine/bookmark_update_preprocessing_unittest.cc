@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark update preprocessing unit tests
+// summary: Tests adaptation of unique positions, types, titles, and GUIDs for bookmark updates from various legacy and modern sources.
+// ---
+
 #include "components/sync/engine/bookmark_update_preprocessing.h"
 
 #include <stdint.h>

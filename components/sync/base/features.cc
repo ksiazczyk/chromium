@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync feature flag definitions
+// summary: Defines base::Feature flags controlling sync data types, promos, and startup behavior, including country-restricted Autofill AI features.
+// ---
+
 #include "components/sync/base/features.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit processor unit tests
+// summary: Tests that CommitProcessor gathers contributions in the correct priority phases and never combines NIGORI with other data types.
+// ---
+
 #include "components/sync/engine/commit_processor.h"
 
 #include <memory>

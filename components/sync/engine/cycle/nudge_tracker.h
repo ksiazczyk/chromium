@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nudge tracker class declaration
+// summary: Declares the NudgeTracker class that tracks outstanding sync work per data type, including nudge delays, throttling, backoff and invalidation connection state.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_NUDGE_TRACKER_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_NUDGE_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncStatusTracker class header
+// summary: Declares SyncStatusTracker, an engine event listener that maintains a SyncStatus from sync cycle and protocol events and reports changes through a callback for diagnostics.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_STATUS_TRACKER_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_STATUS_TRACKER_H_
 

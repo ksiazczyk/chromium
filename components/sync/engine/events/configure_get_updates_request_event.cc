@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configure GetUpdates request event implementation
+// summary: Implements the ProtocolEvent subclass that records a configure GetUpdates request sent to the sync server, including its origin reason.
+// ---
+
 #include "components/sync/engine/events/configure_get_updates_request_event.h"
 
 #include "base/strings/stringprintf.h"

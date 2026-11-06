@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync cycle context class declaration
+// summary: Declares SyncCycleContext, which encapsulates contextual information and engine components such as the connection manager and data type registry, reusable across sync cycles.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_SYNC_CYCLE_CONTEXT_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_SYNC_CYCLE_CONTEXT_H_
 

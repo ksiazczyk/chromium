@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom passphrase bootstrap token unit tests
+// summary: Unit tests covering default construction, proto conversion, encryption round-trips and equality of the bootstrap token.
+// ---
+
 #include "components/sync/base/custom_passphrase_bootstrap_token.h"
 
 #include "base/memory/scoped_refptr.h"

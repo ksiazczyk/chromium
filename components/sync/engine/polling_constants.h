@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync polling and backoff constants
+// summary: Defines poll interval and exponential backoff timing constants used by the sync scheduler when polling servers for updates.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_POLLING_CONSTANTS_H_
 #define COMPONENTS_SYNC_ENGINE_POLLING_CONSTANTS_H_
 

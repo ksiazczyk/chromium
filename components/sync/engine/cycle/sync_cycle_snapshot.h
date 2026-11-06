@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncCycleSnapshot class header
+// summary: Declares an immutable snapshot of sync cycle state, including model-neutral state, download progress markers, and poll timing, intended for thread-safe notifications.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_SYNC_CYCLE_SNAPSHOT_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_SYNC_CYCLE_SNAPSHOT_H_
 

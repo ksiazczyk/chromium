@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status controller class declaration
+// summary: Declares StatusController, which handles counter and status tracking on behalf of a SyncCycle, including download, commit and conflict counters and cycle timing.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_STATUS_CONTROLLER_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_STATUS_CONTROLLER_H_
 

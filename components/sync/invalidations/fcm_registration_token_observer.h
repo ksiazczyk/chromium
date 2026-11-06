@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM registration token observer interface
+// summary: Declares the FCMRegistrationTokenObserver interface for being notified whenever the FCM registration token changes.
+// ---
+
 #ifndef COMPONENTS_SYNC_INVALIDATIONS_FCM_REGISTRATION_TOKEN_OBSERVER_H_
 #define COMPONENTS_SYNC_INVALIDATIONS_FCM_REGISTRATION_TOKEN_OBSERVER_H_
 

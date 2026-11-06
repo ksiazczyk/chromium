@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncStatus struct header
+// summary: Declares the SyncStatus struct that captures detailed sync engine internal state, including counters, encryption details, and throttled or backed-off data types, for status reporting and debugging.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_STATUS_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_STATUS_H_
 

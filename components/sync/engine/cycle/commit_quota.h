@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommitQuota class declaration
+// summary: Declares the CommitQuota class that tracks a refillable token quota for sync commits with a configurable maximum token count and refill interval.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_COMMIT_QUOTA_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_COMMIT_QUOTA_H_
 

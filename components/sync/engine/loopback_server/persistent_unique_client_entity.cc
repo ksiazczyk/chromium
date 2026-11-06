@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent unique client entity implementation
+// summary: Implements PersistentUniqueClientEntity, the loopback server representation of client-created entities unique per account, with factories from sync entities and testing specifics.
+// ---
+
 #include "components/sync/engine/loopback_server/persistent_unique_client_entity.h"
 
 #include "base/logging.h"

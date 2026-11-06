@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit message utilities
+// summary: Populates commit messages with extensions activity records and client configuration parameters such as enabled types and FCM registration tokens.
+// ---
+
 #include "components/sync/engine/commit_util.h"
 
 #include "components/sync/protocol/sync.pb.h"

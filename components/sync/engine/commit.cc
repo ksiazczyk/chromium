@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit operation implementation
+// summary: Implements building and sending sync commit messages, including CRIME-mitigating padding and response error handling.
+// ---
+
 #include "components/sync/engine/commit.h"
 
 #include <utility>

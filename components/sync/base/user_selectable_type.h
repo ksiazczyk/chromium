@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User selectable sync type declarations
+// summary: Declares the UserSelectableType and ChromeOS UserSelectableOsType enums with conversion helpers between selectable types and sync data types.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_USER_SELECTABLE_TYPE_H_
 #define COMPONENTS_SYNC_BASE_USER_SELECTABLE_TYPE_H_
 

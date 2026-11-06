@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShutdownReason enum
+// summary: Defines the enum of reasons for shutting down the sync engine and declares helpers for string and metadata fate conversion.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SHUTDOWN_REASON_H_
 #define COMPONENTS_SYNC_ENGINE_SHUTDOWN_REASON_H_
 

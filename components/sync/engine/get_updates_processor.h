@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUpdatesProcessor class declaration
+// summary: Declares the class that manages per-type update handlers and downloads, applies, and reports failures for sync updates.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_GET_UPDATES_PROCESSOR_H_
 #define COMPONENTS_SYNC_ENGINE_GET_UPDATES_PROCESSOR_H_
 

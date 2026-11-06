@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTagHash class header
+// summary: Declares the ClientTagHash class representing hashed client tags for sync entities, with hash support for STL and Abseil containers.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_CLIENT_TAG_HASH_H_
 #define COMPONENTS_SYNC_BASE_CLIENT_TAG_HASH_H_
 

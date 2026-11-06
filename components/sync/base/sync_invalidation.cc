@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncInvalidation version ordering implementation
+// summary: Implements version-based ordering of sync invalidations, handling unknown-version cases for the syncer component.
+// ---
+
 #include "components/sync/base/sync_invalidation.h"
 
 namespace syncer {

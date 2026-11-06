@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent permanent entity class declaration
+// summary: Declares PersistentPermanentEntity, a LoopbackServerEntity subclass for server-created permanent entities with factories for new, top-level and Nigori entities.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_PERSISTENT_PERMANENT_ENTITY_H_
 #define COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_PERSISTENT_PERMANENT_ENTITY_H_
 

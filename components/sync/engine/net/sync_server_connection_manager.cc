@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServerConnectionManager implementation
+// summary: Implements SyncServerConnectionManager, issuing blocking POST requests to the sync server through HttpPostProvider with access tokens and cancelation support.
+// ---
+
 #include "components/sync/engine/net/sync_server_connection_manager.h"
 
 #include <stdint.h>

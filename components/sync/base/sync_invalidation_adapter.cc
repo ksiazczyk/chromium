@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncInvalidationAdapter implementation
+// summary: Implements SyncInvalidationAdapter, a simple payload-and-version invalidation whose acknowledge and drop operations are no-ops.
+// ---
+
 #include "components/sync/base/sync_invalidation_adapter.h"
 
 #include "base/check.h"

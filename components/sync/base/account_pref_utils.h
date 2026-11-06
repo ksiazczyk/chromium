@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account-keyed preference utilities header
+// summary: Declares helpers for account-keyed preferences, including value lookup, dictionary entry access and cleanup of entries for unavailable accounts.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_ACCOUNT_PREF_UTILS_H_
 #define COMPONENTS_SYNC_BASE_ACCOUNT_PREF_UTILS_H_
 

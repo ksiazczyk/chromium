@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncStopMetadataFate enum
+// summary: Defines the SyncStopMetadataFate enum controlling whether models keep or clear their sync metadata when sync is stopped.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_SYNC_STOP_METADATA_FATE_H_
 #define COMPONENTS_SYNC_BASE_SYNC_STOP_METADATA_FATE_H_
 

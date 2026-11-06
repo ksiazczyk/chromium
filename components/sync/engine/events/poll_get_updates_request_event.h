@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Poll GetUpdates request event header
+// summary: Declares PollGetUpdatesRequestEvent, an immutable ProtocolEvent wrapping a poll ClientToServerMessage with its timestamp.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_EVENTS_POLL_GET_UPDATES_REQUEST_EVENT_H_
 #define COMPONENTS_SYNC_ENGINE_EVENTS_POLL_GET_UPDATES_REQUEST_EVENT_H_
 

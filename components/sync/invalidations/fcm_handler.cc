@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM handler implementation for sync invalidations
+// summary: Implements FCMHandler, which registers with GCM/FCM, manages the registration token and its validation, and delivers incoming invalidation messages to listeners.
+// ---
+
 #include "components/sync/invalidations/fcm_handler.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalidations listener interface
+// summary: Declares the InvalidationsListener interface whose OnInvalidationReceived callback handles each incoming invalidation payload without parsing.
+// ---
+
 #ifndef COMPONENTS_SYNC_INVALIDATIONS_INVALIDATIONS_LISTENER_H_
 #define COMPONENTS_SYNC_INVALIDATIONS_INVALIDATIONS_LISTENER_H_
 

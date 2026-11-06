@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type registry implementation
+// summary: Implements DataTypeRegistry, which connects and disconnects data types and tracks their workers, update handlers, and commit contributors on the sync sequence.
+// ---
+
 #include "components/sync/engine/data_type_registry.h"
 
 #include <stddef.h>

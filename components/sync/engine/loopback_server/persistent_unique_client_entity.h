@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentUniqueClientEntity class header
+// summary: Declares a loopback server sync entity that is unique per client account, with factory functions for creating it from sync entities or specifics.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_PERSISTENT_UNIQUE_CLIENT_ENTITY_H_
 #define COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_PERSISTENT_UNIQUE_CLIENT_ENTITY_H_
 

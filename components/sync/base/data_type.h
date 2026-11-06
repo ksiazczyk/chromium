@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync data type enum and helpers
+// summary: Defines the DataType enum of all syncable item types and declares conversion and helper functions for them.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_DATA_TYPE_H_
 #define COMPONENTS_SYNC_BASE_DATA_TYPE_H_
 

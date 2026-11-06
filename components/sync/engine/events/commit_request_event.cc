@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit request event implementation
+// summary: Implements the ProtocolEvent subclass that records a commit request message sent to the sync server, exposing its timestamp, item count, contributing types and protobuf details.
+// ---
+
 #include "components/sync/engine/events/commit_request_event.h"
 
 #include <stddef.h>

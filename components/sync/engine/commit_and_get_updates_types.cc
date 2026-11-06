@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit and update data type implementations
+// summary: Implements constructors and memory usage estimation for commit request and update response data structures.
+// ---
+
 #include "components/sync/engine/commit_and_get_updates_types.h"
 
 #include "base/trace_event/memory_usage_estimator.h"

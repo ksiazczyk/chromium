@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loopback connection manager header
+// summary: Declares LoopbackConnectionManager, a ServerConnectionManager that routes sync requests to an in-process LoopbackServer without a network connection.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_LOOPBACK_CONNECTION_MANAGER_H_
 #define COMPONENTS_SYNC_ENGINE_LOOPBACK_SERVER_LOOPBACK_CONNECTION_MANAGER_H_
 

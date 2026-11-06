@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpPostProvider interface
+// summary: Defines the HttpPostProvider interface that the embedding application implements to supply one-time-use HTTP POST functionality to the syncer backend.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_NET_HTTP_POST_PROVIDER_H_
 #define COMPONENTS_SYNC_ENGINE_NET_HTTP_POST_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniquePosition implementation
+// summary: Implements the UniquePosition ordinal class for ordering sync items, covering suffix generation, protobuf parsing, compression and comparison operations.
+// ---
+
 #include "components/sync/base/unique_position.h"
 
 #include <algorithm>

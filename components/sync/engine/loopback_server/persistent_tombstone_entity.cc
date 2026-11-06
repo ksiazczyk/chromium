@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent tombstone entity implementation
+// summary: Implements PersistentTombstoneEntity, the loopback server representation of deleted sync entities, with factories for regular, test and shared tombstones.
+// ---
+
 #include "components/sync/engine/loopback_server/persistent_tombstone_entity.h"
 
 #include "base/logging.h"

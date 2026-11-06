@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passphrase type and key derivation enum definitions
+// summary: Defines the PassphraseType and KeyDerivationMethod enums used for sync encryption passphrases and declares conversion helpers to and from protocol buffer values.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_PASSPHRASE_ENUMS_H_
 #define COMPONENTS_SYNC_BASE_PASSPHRASE_ENUMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync utility declarations
+// summary: Declares sync utility helpers for resolving the sync server URL and constructing the user agent string used by the sync backend.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_SYNC_UTIL_H_
 #define COMPONENTS_SYNC_BASE_SYNC_UTIL_H_
 

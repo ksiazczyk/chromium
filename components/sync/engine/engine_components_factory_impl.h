@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Engine components factory implementation header
+// summary: Declares EngineComponentsFactoryImpl with factory methods for standard HTTP-based server sync and local sync via a LoopbackServer backend folder.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_ENGINE_COMPONENTS_FACTORY_IMPL_H_
 #define COMPONENTS_SYNC_ENGINE_ENGINE_COMPONENTS_FACTORY_IMPL_H_
 

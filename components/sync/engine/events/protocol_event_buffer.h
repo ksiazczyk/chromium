@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol event buffer header
+// summary: Declares ProtocolEventBuffer, a container that stores up to a maximum number of ProtocolEvents and drops the oldest ones.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_EVENTS_PROTOCOL_EVENT_BUFFER_H_
 #define COMPONENTS_SYNC_ENGINE_EVENTS_PROTOCOL_EVENT_BUFFER_H_
 

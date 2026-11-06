@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit queue interface
+// summary: Interface that lets a synced data type nudge the sync engine when it has local changes waiting to be committed.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_COMMIT_QUEUE_H_
 #define COMPONENTS_SYNC_ENGINE_COMMIT_QUEUE_H_
 

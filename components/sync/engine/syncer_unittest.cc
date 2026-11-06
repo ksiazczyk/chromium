@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Syncer unit tests
+// summary: Unit tests for the Syncer engine, exercising sync cycles with a fake connection manager, mock processors, and multiple data types.
+// ---
+
 #include "components/sync/engine/syncer.h"
 
 #include <stddef.h>

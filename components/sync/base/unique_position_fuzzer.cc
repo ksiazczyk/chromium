@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UniquePosition protobuf fuzzer
+// summary: Fuzz test harness that feeds arbitrary input as a custom compressed unique position protobuf into UniquePosition::FromProto.
+// ---
+
 #include "components/sync/base/unique_position.h"
 
 #include <string>

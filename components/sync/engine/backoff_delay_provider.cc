@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffDelayProvider implementation
+// summary: Implements calculation of exponential backoff delays and initial retry delays for failed sync attempts, including jitter and network error handling.
+// ---
+
 #include "components/sync/engine/backoff_delay_provider.h"
 
 #include <algorithm>

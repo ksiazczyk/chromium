@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sync engine net
+summary: Defines the allowed include dependencies for the sync engine net directory, covering signin, variations, net, network services and zlib compression.

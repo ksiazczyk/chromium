@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncSchedulerImpl implementation
+// summary: Implements the sync task scheduler with configuration and normal modes, polling, backoff, throttling, and nudge batching.
+// ---
+
 #include "components/sync/engine/sync_scheduler_impl.h"
 
 #include <cstring>

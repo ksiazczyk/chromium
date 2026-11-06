@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug info event listener header
+// summary: Declares DebugInfoEventListener, which observes sync manager and encryption events, stores the most recent ones, and serves them as debug info when requested.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DEBUG_INFO_EVENT_LISTENER_H_
 #define COMPONENTS_SYNC_ENGINE_DEBUG_INFO_EVENT_LISTENER_H_
 

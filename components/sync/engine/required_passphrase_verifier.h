@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequiredPassphraseVerifier interface
+// summary: Declares an interface to verify whether a passphrase or bootstrap token decrypts pending sync keys, safe to pass across threads.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_REQUIRED_PASSPHRASE_VERIFIER_H_
 #define COMPONENTS_SYNC_ENGINE_REQUIRED_PASSPHRASE_VERIFIER_H_
 

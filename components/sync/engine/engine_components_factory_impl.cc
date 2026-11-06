@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Engine components factory implementation
+// summary: Production EngineComponentsFactory implementation that builds the sync scheduler, cycle context, and either an HTTP server connection or a local loopback connection.
+// ---
+
 #include "components/sync/engine/engine_components_factory_impl.h"
 
 #include <map>

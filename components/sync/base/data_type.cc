@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync data type info table implementation
+// summary: Implements the per-data-type info table with encryption, priority and policy attributes plus conversion helpers for sync data types.
+// ---
+
 #include "components/sync/base/data_type.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync string conversion declarations
+// summary: Declares helper functions that convert ConnectionStatus and PassphraseType enum values to strings.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_STRING_CONVERSIONS_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_STRING_CONVERSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncerProtoUtil unit tests
+// summary: Unit tests for SyncerProtoUtil covering type migration, protocol error conversion, and store birthday verification of server responses.
+// ---
+
 #include "components/sync/engine/syncer_proto_util.h"
 
 #include <memory>

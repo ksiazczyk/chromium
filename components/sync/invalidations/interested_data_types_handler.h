@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interested data types handler interface
+// summary: Declares the InterestedDataTypesHandler interface for handling changes to the data types for which the device wants to receive invalidations.
+// ---
+
 #ifndef COMPONENTS_SYNC_INVALIDATIONS_INTERESTED_DATA_TYPES_HANDLER_H_
 #define COMPONENTS_SYNC_INVALIDATIONS_INTERESTED_DATA_TYPES_HANDLER_H_
 

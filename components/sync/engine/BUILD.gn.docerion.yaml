@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sync engine BUILD.gn build definition
+summary: Defines the sync engine static library target, listing its source files and build configuration for the Chromium sync engine.

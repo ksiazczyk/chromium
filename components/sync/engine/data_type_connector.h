@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeConnector interface
+// summary: Interface into core sync for data types, controlling which types sync and linking DataTypeWorker on the sync side with DataTypeProcessor on the model side.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_CONNECTOR_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_CONNECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit response event implementation
+// summary: Implements the ProtocolEvent subclass that records a commit response received from the sync server, exposing its timestamp, result and protobuf details.
+// ---
+
 #include "components/sync/engine/events/commit_response_event.h"
 
 #include "base/values.h"

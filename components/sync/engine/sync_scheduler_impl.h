@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncSchedulerImpl class header
+// summary: Declares SyncSchedulerImpl, the SyncScheduler implementation handling modes, throttling, backoff, and sync cycle delegation on the sync sequence.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_SCHEDULER_IMPL_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_SCHEDULER_IMPL_H_
 

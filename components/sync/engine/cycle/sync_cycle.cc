@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync cycle implementation
+// summary: Implements SyncCycle, building snapshots with download progress markers and sending cycle end, event and protocol event notifications to engine listeners.
+// ---
+
 #include "components/sync/engine/cycle/sync_cycle.h"
 
 #include <algorithm>

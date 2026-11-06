@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncManagerFactory header
+// summary: Declares a factory helper class that allows dependency injection of the SyncManager, primarily for use in tests.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_MANAGER_FACTORY_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_MANAGER_FACTORY_H_
 

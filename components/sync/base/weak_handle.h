@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeakHandle header for cross-sequence weak pointers
+// summary: Declares the syncer WeakHandle template, which lets weak pointers be safely copied across sequences and invoke methods on the owner thread.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_WEAK_HANDLE_H_
 #define COMPONENTS_SYNC_BASE_WEAK_HANDLE_H_
 

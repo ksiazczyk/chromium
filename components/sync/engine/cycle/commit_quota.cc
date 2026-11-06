@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit quota token bucket implementation
+// summary: Implements the CommitQuota token bucket that limits sync commits, refilling tokens over time and supporting runtime parameter changes.
+// ---
+
 #include "components/sync/engine/cycle/commit_quota.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type processor metrics declarations
+// summary: Declares functions that log histograms for data type configuration time, updates received by processors, update freshness, and metadata clearing.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_PROCESSOR_METRICS_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_PROCESSOR_METRICS_H_
 

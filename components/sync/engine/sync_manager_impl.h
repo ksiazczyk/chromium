@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncManagerImpl class header
+// summary: Declares SyncManagerImpl, the SyncManager implementation living on the sync sequence that observes network, engine, connection, and encryption events.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_SYNC_MANAGER_IMPL_H_
 #define COMPONENTS_SYNC_ENGINE_SYNC_MANAGER_IMPL_H_
 

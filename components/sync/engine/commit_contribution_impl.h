@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommitContributionImpl class declaration
+// summary: Declares the concrete CommitContribution that builds commit protos and reports commit results via callbacks.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_COMMIT_CONTRIBUTION_IMPL_H_
 #define COMPONENTS_SYNC_ENGINE_COMMIT_CONTRIBUTION_IMPL_H_
 

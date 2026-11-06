@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataTypeConnectorProxy implementation
+// summary: Implements DataTypeConnectorProxy by posting connect and disconnect calls to the task runner where the real DataTypeConnector lives.
+// ---
+
 #include "components/sync/engine/data_type_connector_proxy.h"
 
 #include <utility>

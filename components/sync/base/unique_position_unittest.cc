@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UniquePosition unit tests
+// summary: Unit tests covering ordering, suffix handling, insertion between positions and protobuf round-trips of the UniquePosition class.
+// ---
+
 #include "components/sync/base/unique_position.h"
 
 #include <algorithm>

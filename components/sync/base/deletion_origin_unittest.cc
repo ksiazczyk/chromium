@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeletionOrigin unit tests
+// summary: Unit tests verifying DeletionOrigin's specified state, proto conversion with version and location hashes, and file name truncation behavior.
+// ---
+
 #include "components/sync/base/deletion_origin.h"
 
 #include <string>

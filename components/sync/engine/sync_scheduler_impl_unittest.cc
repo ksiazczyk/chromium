@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync scheduler implementation unit tests
+// summary: Unit tests for the sync scheduler implementation, covering scheduling, throttling, backoff, poll interval updates and configuration cycles using fake engine components.
+// ---
+
 #include "components/sync/engine/sync_scheduler_impl.h"
 
 #include <stddef.h>

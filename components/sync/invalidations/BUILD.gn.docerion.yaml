@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the sync invalidations library
+summary: Defines the static_library target for the sync invalidations component, listing its sources and public dependencies on base, GCM driver, keyed service and sync base.

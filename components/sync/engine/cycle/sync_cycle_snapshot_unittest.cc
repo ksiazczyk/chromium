@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncCycleSnapshot unit tests
+// summary: Unit tests verifying that SyncCycleSnapshot serializes its state to the expected JSON dictionary values, using a fixed en_US locale for time formatting.
+// ---
+
 #include "components/sync/engine/cycle/sync_cycle_snapshot.h"
 
 #include "base/test/icu_test_util.h"

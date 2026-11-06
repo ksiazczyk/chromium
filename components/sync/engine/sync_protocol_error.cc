@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync protocol error string helpers
+// summary: Provides string conversion functions for sync protocol error types and client actions.
+// ---
+
 #include "components/sync/engine/sync_protocol_error.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Engine components factory interface
+// summary: Abstract factory interface so tests can override creation of sync engine components such as the scheduler, cycle context, and connection manager.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_ENGINE_COMPONENTS_FACTORY_H_
 #define COMPONENTS_SYNC_ENGINE_ENGINE_COMPONENTS_FACTORY_H_
 

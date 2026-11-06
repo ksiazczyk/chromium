@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit processor implementation
+// summary: Gathers per-data-type commit contributions in priority phases, always collecting NIGORI first so encrypted data is not committed before it.
+// ---
+
 #include "components/sync/engine/commit_processor.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit response event header
+// summary: Declares CommitResponseEvent, a ProtocolEvent representing a commit response message received from the sync server.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_EVENTS_COMMIT_RESPONSE_EVENT_H_
 #define COMPONENTS_SYNC_ENGINE_EVENTS_COMMIT_RESPONSE_EVENT_H_
 

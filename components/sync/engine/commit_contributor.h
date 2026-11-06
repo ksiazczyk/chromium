@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit contributor interface
+// summary: Interface for sources of items to commit, returning CommitContribution objects holding up to a maximum number of unsynced entries.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_COMMIT_CONTRIBUTOR_H_
 #define COMPONENTS_SYNC_ENGINE_COMMIT_CONTRIBUTOR_H_
 

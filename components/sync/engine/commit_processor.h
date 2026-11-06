@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit processor interface
+// summary: Declares CommitProcessor, which manages per-type committers and gathers commit contributions without exceeding a maximum entry count.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_COMMIT_PROCESSOR_H_
 #define COMPONENTS_SYNC_ENGINE_COMMIT_PROCESSOR_H_
 

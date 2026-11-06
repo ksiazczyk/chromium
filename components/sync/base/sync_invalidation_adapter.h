@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncInvalidationAdapter class
+// summary: Declares SyncInvalidationAdapter, a concrete SyncInvalidation that holds a payload string and an optional version number.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_SYNC_INVALIDATION_ADAPTER_H_
 #define COMPONENTS_SYNC_BASE_SYNC_INVALIDATION_ADAPTER_H_
 

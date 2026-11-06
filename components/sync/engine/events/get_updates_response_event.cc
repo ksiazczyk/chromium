@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetUpdates response event implementation
+// summary: Implements the ProtocolEvent subclass that records a GetUpdates response from the sync server, reporting received updates or errors.
+// ---
+
 #include "components/sync/engine/events/get_updates_response_event.h"
 
 #include <utility>

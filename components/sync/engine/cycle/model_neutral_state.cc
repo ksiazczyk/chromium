@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelNeutralState implementation
+// summary: Implements ModelNeutralState constructors and the HasSyncerError helper that checks for GetKey, GetUpdates, or commit failures.
+// ---
+
 #include "components/sync/engine/cycle/model_neutral_state.h"
 
 #include "components/sync/engine/syncer_error.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Poll GetUpdates request event implementation
+// summary: Implements PollGetUpdatesRequestEvent, a ProtocolEvent representing a poll GetUpdates request sent to the sync server.
+// ---
+
 #include "components/sync/engine/events/poll_get_updates_request_event.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync traffic logger header
+// summary: Declares functions to log all sync-related HTTP communication, enabled in debug builds via the --vmodule=traffic_logger=1 flag.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_TRAFFIC_LOGGER_H_
 #define COMPONENTS_SYNC_ENGINE_TRAFFIC_LOGGER_H_
 

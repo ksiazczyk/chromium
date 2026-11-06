@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deletion origin implementation
+// summary: Implements building the deletion origin proto from a code location with hashed and truncated file names.
+// ---
+
 #include "components/sync/base/deletion_origin.h"
 
 #include <optional>

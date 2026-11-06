@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync cycle class declaration
+// summary: Declares SyncCycle, representing one attempt to synchronize local data with the sync server, together with its Delegate interface for throttling, poll and error handling.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_CYCLE_SYNC_CYCLE_H_
 #define COMPONENTS_SYNC_ENGINE_CYCLE_SYNC_CYCLE_H_
 

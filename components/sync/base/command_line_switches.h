@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync command-line switches declarations
+// summary: Declares sync-related command-line switch names for server URL, logging, retries and testing, plus the IsSyncAllowedByFlag function.
+// ---
+
 #ifndef COMPONENTS_SYNC_BASE_COMMAND_LINE_SWITCHES_H_
 #define COMPONENTS_SYNC_BASE_COMMAND_LINE_SWITCHES_H_
 

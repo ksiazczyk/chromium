@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WeakHandle
+// summary: GTest suite verifying WeakHandle initialization, calls across threads, and behavior after object destruction or weak pointer invalidation.
+// ---
+
 #include "components/sync/base/weak_handle.h"
 
 #include "base/functional/bind.h"

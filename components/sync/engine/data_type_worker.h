@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type worker header
+// summary: Declares DataTypeWorker, a per-data-type cache on the sync sequence that relays and reconciles messages between the data type processor and the sync server.
+// ---
+
 #ifndef COMPONENTS_SYNC_ENGINE_DATA_TYPE_WORKER_H_
 #define COMPONENTS_SYNC_ENGINE_DATA_TYPE_WORKER_H_
 

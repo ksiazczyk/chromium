@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type histogram recording implementation
+// summary: Records histograms for update drop reasons, memory usage, entity counts and entity sizes per sync data type.
+// ---
+
 #include "components/sync/base/data_type_histogram.h"
 
 #include <string>

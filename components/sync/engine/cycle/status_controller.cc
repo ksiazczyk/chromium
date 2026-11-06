@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status controller implementation
+// summary: Implements StatusController methods that update counters, sync results and timestamps held in the ModelNeutralState for a sync cycle.
+// ---
+
 #include "components/sync/engine/cycle/status_controller.h"
 
 #include "components/sync/base/data_type.h"

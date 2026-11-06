@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page transition conversion unit tests
+// summary: Unit tests verifying lossless roundtrip conversion of page transitions and stripping of qualifiers for sync protocol conversion.
+// ---
+
 #include "components/sync/base/page_transition_conversion.h"
 
 #include "components/sync/protocol/sync_enums.pb.h"

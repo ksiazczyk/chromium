@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync status tracker implementation
+// summary: Implements the tracker that updates SyncStatus from sync cycle events and engine notifications and reports changes through a callback.
+// ---
+
 #include "components/sync/engine/sync_status_tracker.h"
 
 #include <algorithm>
