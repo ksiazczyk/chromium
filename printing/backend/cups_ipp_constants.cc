@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP attribute name constants
+// summary: Defines string constants for IPP operation, printer, and job attribute names used by the CUPS printing backend.
+// ---
+
 #include "printing/backend/cups_ipp_constants.h"
 
 #include <cups/cups.h>

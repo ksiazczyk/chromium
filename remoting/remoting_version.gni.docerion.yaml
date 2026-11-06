@@ -1,0 +1,4 @@
+# Docerion header of remoting_version.gni.
+type: config
+title: Remoting version and branding variables
+summary: GN configuration that derives remoting version numbers, host bundle names, and Mac and iOS bundle identifiers from the VERSION and branding files.

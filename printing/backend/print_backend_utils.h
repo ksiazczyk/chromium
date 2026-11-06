@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print backend utilities header
+// summary: Declares helpers for parsing paper sizes, resolving printer display names and descriptions, and converting printable areas and margins.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINT_BACKEND_UTILS_H_
 #define PRINTING_BACKEND_PRINT_BACKEND_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS helper functions header
+// summary: Declares helper functions for CUPS, including PPD capability parsing, printer destination filtering, and an HTTP connection wrapper for Linux.
+// ---
+
 #ifndef PRINTING_BACKEND_CUPS_HELPER_H_
 #define PRINTING_BACKEND_CUPS_HELPER_H_
 

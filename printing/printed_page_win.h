@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintedPage class declaration
+// summary: Declares the immutable, thread-safe PrintedPage class holding page number, metafile, page size, printable area and shrink factor.
+// ---
+
 #ifndef PRINTING_PRINTED_PAGE_WIN_H_
 #define PRINTING_PRINTED_PAGE_WIN_H_
 

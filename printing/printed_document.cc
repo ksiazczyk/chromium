@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printed document implementation
+// summary: Implements PrintedDocument, a thread-safe collection of rendered pages with immutable settings, page storage, and optional debug dumps.
+// ---
+
 #include "printing/printed_document.h"
 
 #include <algorithm>

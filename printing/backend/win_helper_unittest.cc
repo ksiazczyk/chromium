@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows printing helpers
+// summary: Unit test verifying conversion of a Windows driver version value into its dotted decimal string representation.
+// ---
+
 #include "printing/backend/win_helper.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing Mojom build targets
+summary: Defines the GN Mojo bindings targets for printing, wiring print.mojom and printing_context.mojom with C++ typemaps and out-of-process printing feature flags.

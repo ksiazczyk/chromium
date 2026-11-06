@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print settings class declarations
+// summary: Header declaring the PrintSettings class with requested media, margins, and orientation data, plus color model conversion helpers and system print dialog constants.
+// ---
+
 #ifndef PRINTING_PRINT_SETTINGS_H_
 #define PRINTING_PRINT_SETTINGS_H_
 

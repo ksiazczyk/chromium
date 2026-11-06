@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreGraphics PDF metafile implementation for macOS
+// summary: Implements PdfMetafileCg, which renders pages into a PDF data stream through CoreGraphics on macOS, including page rotation handling.
+// ---
+
 #include "printing/pdf_metafile_cg_mac.h"
 
 #include <stdint.h>

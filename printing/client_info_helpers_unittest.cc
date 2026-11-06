@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IPP client info validation
+// summary: Tests ValidateClientInfoItem with valid, invalid character and out-of-range client info values.
+// ---
+
 #include "printing/client_info_helpers.h"
 
 #include <optional>

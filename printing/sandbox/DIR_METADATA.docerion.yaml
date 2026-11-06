@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Printing sandbox directory metadata (DIR_METADATA)
+summary: Points to the shared sandbox COMMON_METADATA mixins for this directory's metadata.

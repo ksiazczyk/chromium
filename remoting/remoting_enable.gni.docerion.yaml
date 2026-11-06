@@ -1,0 +1,4 @@
+# Docerion header of remoting_enable.gni.
+type: config
+title: Remoting build enablement flag
+summary: Declares the enable_remoting GN build argument that enables or disables remoting based on platform and GTK support.

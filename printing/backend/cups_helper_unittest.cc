@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CUPS helper unit tests
+// summary: Unit tests verifying PPD capability parsing, covering color models, duplex modes, resolutions, and paper handling behaviors.
+// ---
+
 #include "printing/backend/cups_helper.h"
 
 #include "base/files/file_util.h"

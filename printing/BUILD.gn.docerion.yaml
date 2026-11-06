@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the printing component
+summary: Defines GN build targets, sources and platform conditions for the Chromium printing component.

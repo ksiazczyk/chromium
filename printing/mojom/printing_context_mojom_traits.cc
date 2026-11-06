@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print settings Mojom traits implementation
+// summary: Implements Mojo deserialization for print settings types, validating page setup, margins, and media when converting into printing::PrintSettings.
+// ---
+
 #include "printing/mojom/printing_context_mojom_traits.h"
 
 #include <string>

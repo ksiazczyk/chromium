@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageRange Mojom traits declaration
+// summary: Declares the Mojo StructTraits mapping between printing.mojom.PageRange and the native printing::PageRange type.
+// ---
+
 #ifndef PRINTING_MOJOM_PRINT_MOJOM_TRAITS_H_
 #define PRINTING_MOJOM_PRINT_MOJOM_TRAITS_H_
 

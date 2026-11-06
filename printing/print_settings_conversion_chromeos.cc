@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS IPP client info conversion
+// summary: Converts IPP client info between mojom IppClientInfo structures and print job setting dictionaries for ChromeOS printing.
+// ---
+
 #include "printing/print_settings_conversion_chromeos.h"
 
 #include "printing/print_job_constants.h"

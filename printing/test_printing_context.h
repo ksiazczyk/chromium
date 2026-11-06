@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test printing context header
+// summary: Declares TestPrintingContext and its delegate so tests can stub printing flows with preset device and user settings and forced error outcomes.
+// ---
+
 #ifndef PRINTING_TEST_PRINTING_CONTEXT_H_
 #define PRINTING_TEST_PRINTING_CONTEXT_H_
 

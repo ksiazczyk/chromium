@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: CUPS code ownership rules (OWNERS)
+summary: Delegates ownership of CUPS-specific files in the printing backend to the ChromeOS printing owners.

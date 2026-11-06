@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print settings Mojom traits declaration
+// summary: 'Declares Mojo StructTraits templates mapping printing.mojom print settings structs to their native printing:: counterparts.'
+// ---
+
 #ifndef PRINTING_MOJOM_PRINTING_CONTEXT_MOJOM_TRAITS_H_
 #define PRINTING_MOJOM_PRINTING_CONTEXT_MOJOM_TRAITS_H_
 

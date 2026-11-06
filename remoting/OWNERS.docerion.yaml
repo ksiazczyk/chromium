@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Remoting directory owners
+summary: Lists the code owners for the remoting directory and routes translation artifact reviews to the translation owners.

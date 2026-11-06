@@ -4,6 +4,12 @@
 
 // Implementations of IPP requests for printer queue information.
 
+// ---docerion
+// type: source
+// title: IPP printer queue query declarations
+// summary: Declares structures and functions for querying IPP printers and print servers, including job states, printer info, and OAuth settings.
+// ---
+
 #ifndef PRINTING_BACKEND_CUPS_JOBS_H_
 #define PRINTING_BACKEND_CUPS_JOBS_H_
 

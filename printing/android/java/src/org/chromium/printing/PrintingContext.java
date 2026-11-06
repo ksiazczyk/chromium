@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintingContext
+// summary: Java-side JNI bridge to the native PrintingContextAndroid for PDF generation, coordinating with the PrintingController to show the print dialog.
+// ---
+
 package org.chromium.printing;
 
 import android.app.Activity;

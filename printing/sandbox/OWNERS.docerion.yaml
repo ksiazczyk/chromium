@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Printing sandbox owners (OWNERS)
+summary: Delegates code ownership to the top-level sandbox OWNERS file with no parent owners.

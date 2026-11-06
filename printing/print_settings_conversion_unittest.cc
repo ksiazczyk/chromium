@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print settings conversion unit tests
+// summary: Unit tests for converting print job settings JSON into PrintSettings objects, covering margins, media size, DPI, and client info.
+// ---
+
 #include "printing/print_settings_conversion.h"
 
 #include "base/test/values_test_util.h"

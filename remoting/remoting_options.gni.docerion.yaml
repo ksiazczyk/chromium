@@ -1,0 +1,4 @@
+# Docerion header of remoting_options.gni.
+type: config
+title: Remoting build options
+summary: GN build options for remoting that define platform support flags, multi-process host settings, branding paths, and the H.264 feature toggle.

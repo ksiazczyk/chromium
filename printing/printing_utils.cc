@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing utility functions implementation
+// summary: Implements printing helpers for simplifying document titles, locale-based default paper sizes, centered page content rects, and PDF data checks.
+// ---
+
 #include "printing/printing_utils.h"
 
 #include <algorithm>

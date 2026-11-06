@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows print settings initializer header
+// summary: Declares the PrintSettingsInitializerWin class that initializes PrintSettings from a Windows device context.
+// ---
+
 #ifndef PRINTING_PRINT_SETTINGS_INITIALIZER_WIN_H_
 #define PRINTING_PRINT_SETTINGS_INITIALIZER_WIN_H_
 

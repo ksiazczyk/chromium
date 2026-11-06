@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows EMF metafile
+// summary: Tests Emf creation, data playback, and printing through PrintingContextWin, with printer-dependent cases skipped when no UnitTest Printer exists.
+// ---
+
 #include "printing/emf_win.h"
 
 // For quick access.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP attribute handler declarations
+// summary: Declares handler functions that map IPP attributes of various types into printer advanced capabilities.
+// ---
+
 #ifndef PRINTING_BACKEND_IPP_HANDLERS_H_
 #define PRINTING_BACKEND_IPP_HANDLERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP-based CUPS print backend implementation
+// summary: Implements the PrintBackend interface through a CupsConnection using IPP, and creates this backend instance on macOS.
+// ---
+
 #include "printing/backend/print_backend_cups_ipp.h"
 
 #include <cups/cups.h>

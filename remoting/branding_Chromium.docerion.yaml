@@ -1,0 +1,4 @@
+# Docerion header of branding_Chromium.
+type: config
+title: Chromium branding values for remoting
+summary: Defines Chromium-branded package names, bundle identifiers, and host descriptions for the Chromoting product across platforms.

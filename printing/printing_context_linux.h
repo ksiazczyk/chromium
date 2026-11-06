@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux printing context header
+// summary: Declares PrintingContextLinux, which integrates native Linux print dialogs and PDF paper size lookup with the printing context.
+// ---
+
 #ifndef PRINTING_PRINTING_CONTEXT_LINUX_H_
 #define PRINTING_PRINTING_CONTEXT_LINUX_H_
 

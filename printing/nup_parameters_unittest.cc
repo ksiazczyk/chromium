@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NupParameters unit tests
+// summary: Unit tests verifying N-up layout parameters for all supported pages-per-sheet values in portrait and landscape source documents.
+// ---
+
 #include "printing/nup_parameters.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing context without system dialog
+// summary: Implements a printing context that never shows a system print dialog, using default settings and locale-based paper sizes.
+// ---
+
 #include "printing/printing_context_no_system_dialog.h"
 
 #include <stdint.h>

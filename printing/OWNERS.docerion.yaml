@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the printing directory
+summary: Lists the code owners for printing and delegates Android files to the Android OWNERS file.

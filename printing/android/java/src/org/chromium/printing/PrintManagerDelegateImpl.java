@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintManagerDelegateImpl
+// summary: Implements PrintManagerDelegate using the Android framework print manager, handling activity state checks, errors, and debug logging of print job states.
+// ---
+
 package org.chromium.printing;
 
 import android.app.Activity;

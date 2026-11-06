@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintingContext implementation
+// summary: Implements the PrintingContext base class covering print settings management, out-of-process behavior and test factory hooks.
+// ---
+
 #include "printing/printing_context.h"
 
 #include <utility>

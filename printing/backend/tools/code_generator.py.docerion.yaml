@@ -1,0 +1,4 @@
+# Docerion header of code_generator.py.
+type: source
+title: IPP attribute code generator
+summary: Python tool that maps IPP attribute names to handlers and localization IDs based on their types in the IANA IPP registration CSV files.

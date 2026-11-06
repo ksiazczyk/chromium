@@ -4,6 +4,12 @@
 
 // Constant defines used in the print backend code
 
+// ---docerion
+// type: source
+// title: Print backend shared constants implementation
+// summary: Defines constant strings used across the print backend code, including CUPS destination option names and platform-specific printer status and location keys.
+// ---
+
 #include "printing/backend/print_backend_consts.h"
 
 // TODO(dhoss): Evaluate removing the strings used as keys for

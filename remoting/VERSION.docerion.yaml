@@ -1,0 +1,4 @@
+# Docerion header of VERSION.
+type: config
+title: Remoting version patch value
+summary: Holds the remoting version patch number used when producing versioned remoting build outputs.

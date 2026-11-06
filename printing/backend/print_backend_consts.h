@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print backend shared constants declarations
+// summary: Declares the exported print backend constants such as CUPS option names, driver info tags, and boolean value strings for platform-conditional use.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINT_BACKEND_CONSTS_H_
 #define PRINTING_BACKEND_PRINT_BACKEND_CONSTS_H_
 

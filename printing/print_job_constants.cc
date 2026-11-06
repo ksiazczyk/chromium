@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job setting constants implementation
+// summary: Defines string constants for print job setting keys such as preview IDs, color, duplex, media size, margins, and header/footer options used across the printing component.
+// ---
+
 #include "printing/print_job_constants.h"
 
 #include <limits>

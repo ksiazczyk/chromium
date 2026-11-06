@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print settings ChromeOS conversion unit tests
+// summary: Unit tests verifying conversion between IPP client info structures and ChromeOS print job settings.
+// ---
+
 #include "printing/print_settings_conversion_chromeos.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of code_generator.gni.
+type: config
+title: GN template for IPP code generation
+summary: Defines the ipp_code_generate GN template that runs code_generator.py against the three IANA IPP registration CSV files.

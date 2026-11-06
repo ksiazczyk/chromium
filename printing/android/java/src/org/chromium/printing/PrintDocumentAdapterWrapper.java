@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintDocumentAdapterWrapper
+// summary: Wraps Android's PrintDocumentAdapter with testable callback interfaces so print layout and write callbacks can be emulated in tests.
+// ---
+
 package org.chromium.printing;
 
 import android.os.Bundle;

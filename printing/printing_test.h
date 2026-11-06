@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing test base for printer availability
+// summary: Test base template that disables printing test cases when no default printer or running print spooler service is found on Windows.
+// ---
+
 #ifndef PRINTING_PRINTING_TEST_H_
 #define PRINTING_PRINTING_TEST_H_
 

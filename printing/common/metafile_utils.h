@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metafile utilities header
+// summary: Declares serialization and deserialization context types plus MakePdfDocument and Skia serial procs helpers for printing metafiles.
+// ---
+
 #ifndef PRINTING_COMMON_METAFILE_UTILS_H_
 #define PRINTING_COMMON_METAFILE_UTILS_H_
 

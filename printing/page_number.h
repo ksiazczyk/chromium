@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageNumber class header
+// summary: Declares PageNumber, an iterator representing the series of pages to print based on page ranges and document page count.
+// ---
+
 #ifndef PRINTING_PAGE_NUMBER_H_
 #define PRINTING_PAGE_NUMBER_H_
 

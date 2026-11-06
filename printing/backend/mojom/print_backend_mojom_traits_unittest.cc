@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for printing backend Mojo traits
+// summary: Round-trip serialization tests for printer basic info, papers, media types, and capabilities, covering validation of empty names and ChromeOS-specific fields.
+// ---
+
 #include <map>
 #include <optional>
 #include <string>

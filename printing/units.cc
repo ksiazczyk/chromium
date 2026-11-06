@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing unit conversion implementation
+// summary: Implements integer and float conversion of values between unit systems, with correct rounding for printing measurements.
+// ---
+
 #include "printing/units.h"
 
 #include "base/check_op.h"

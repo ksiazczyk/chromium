@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing backend mojom build definition
+summary: GN build file that defines the printing backend mojom target and its C++ typemaps, including ChromeOS-only advanced capability types.

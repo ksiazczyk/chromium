@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrintBackend fake print backend header
+// summary: Declares a fake PrintBackend for tests with setup methods to add valid, invalid-data and access-denied printers and set defaults.
+// ---
+
 #ifndef PRINTING_BACKEND_TEST_PRINT_BACKEND_H_
 #define PRINTING_BACKEND_TEST_PRINT_BACKEND_H_
 

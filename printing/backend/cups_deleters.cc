@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS object deleters
+// summary: Defines deleters that free CUPS HTTP, destination, destination info and option objects.
+// ---
+
 #include "printing/backend/cups_deleters.h"
 
 namespace printing {

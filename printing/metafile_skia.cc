@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia-based metafile implementation
+// summary: Implements MetafileSkia, which records pages as Skia paint records and serializes them into PDF or multi-picture document data streams.
+// ---
+
 #include "printing/metafile_skia.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native drawing context typedefs
+// summary: Defines the platform-specific NativeDrawingContext type as HDC on Windows, CGContextRef on macOS, and void* elsewhere.
+// ---
+
 #ifndef PRINTING_NATIVE_DRAWING_CONTEXT_H_
 #define PRINTING_NATIVE_DRAWING_CONTEXT_H_
 

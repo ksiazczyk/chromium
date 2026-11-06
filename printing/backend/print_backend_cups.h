@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS print backend class declaration
+// summary: Declares PrintBackendCUPS, a Linux PrintBackend implementation that wraps CUPS functions for printer enumeration, capabilities, and driver info.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINT_BACKEND_CUPS_H_
 #define PRINTING_BACKEND_PRINT_BACKEND_CUPS_H_
 

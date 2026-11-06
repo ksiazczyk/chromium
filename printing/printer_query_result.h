@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer query result codes
+// summary: Defines the PrinterQueryResult enum of printer query status codes used as UMA histogram values.
+// ---
+
 #ifndef PRINTING_PRINTER_QUERY_RESULT_H_
 #define PRINTING_PRINTER_QUERY_RESULT_H_
 

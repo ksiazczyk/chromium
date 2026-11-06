@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS printing context unit tests
+// summary: Unit tests for PrintingContextChromeos using mocked CUPS connections and printers to verify IPP option generation and printing behavior.
+// ---
+
 #include "printing/printing_context_chromeos.h"
 
 #include <string>

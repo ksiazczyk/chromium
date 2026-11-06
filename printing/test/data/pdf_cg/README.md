@@ -1,3 +1,9 @@
+---
+type: readme
+title: pdf_cg test expectations
+summary: Explains that the PNG files in this directory are CoreGraphics rendering outputs for PDFs in //pdf/test/data/, generated from raw BGRA bitmaps with gfx::PNGCodec::Encode and optimized with optipng.
+---
+
 pdf_cg test expectations
 ---
 The PNG files in this directory are the CoreGraphics rendering outputs for PDFs

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing backend build targets (BUILD.gn)
+summary: GN build file defining the printing backend component with platform- and CUPS-conditional sources plus a test support target.

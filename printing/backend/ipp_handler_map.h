@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP attribute handler map declaration
+// summary: Declares GenerateHandlers, which builds a map from IPP attribute names to capability handlers generated from the IANA IPP list.
+// ---
+
 #ifndef PRINTING_BACKEND_IPP_HANDLER_MAP_H_
 #define PRINTING_BACKEND_IPP_HANDLER_MAP_H_
 

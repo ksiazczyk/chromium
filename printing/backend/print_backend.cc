@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print backend data structure implementations
+// summary: Implements printer info, capability, and paper margin structs for the print backend, including a test override hook.
+// ---
+
 #include "printing/backend/print_backend.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows printing helper implementation
+// summary: Implements Windows printing helpers including XPS print ticket APIs, scoped printer handles, printer info and driver version utilities.
+// ---
+
 #include "printing/backend/win_helper.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac print settings initializer
+// summary: Initializes PrintSettings on macOS from a PMPrinter and page format, including orientation, DPI, and printable area.
+// ---
+
 #include "printing/print_settings_initializer_mac.h"
 
 #include <stdint.h>

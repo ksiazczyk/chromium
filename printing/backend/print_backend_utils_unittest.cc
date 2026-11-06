@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print backend utilities unit tests
+// summary: Tests paper size parsing for various media names, display name and description resolution, and printable area and margin conversions.
+// ---
+
 #include "printing/backend/print_backend_utils.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metafile player and creator interfaces
+// summary: Declares the MetafilePlayer and Metafile base classes for playing, rendering, and serializing PDF or EMF metafile data streams across platforms.
+// ---
+
 #ifndef PRINTING_METAFILE_H_
 #define PRINTING_METAFILE_H_
 

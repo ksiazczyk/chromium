@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for printing/test
+# summary: Presubmit script that runs CheckBundleData to verify the pdf_metafile_cg_mac_unittest_bundle_data filelist stays consistent.
+# ---
+
 """Presubmit checks for printing/test
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts

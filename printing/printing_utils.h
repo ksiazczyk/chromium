@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing utility functions header
+// summary: Declares printing utilities for document title formatting, default paper size lookup, printable area queries, and PDF data validation.
+// ---
+
 #ifndef PRINTING_PRINTING_UTILS_H_
 #define PRINTING_PRINTING_UTILS_H_
 

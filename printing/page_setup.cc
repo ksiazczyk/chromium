@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page setup implementation
+// summary: Implements PageMargins and PageSetup, computing printable, overlay, and content areas from page size, printable area, and margins.
+// ---
+
 #include "printing/page_setup.h"
 
 #include <algorithm>

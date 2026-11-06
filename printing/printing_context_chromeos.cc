@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS printing context implementation
+// summary: Implements the ChromeOS printing context, converting print settings into IPP options and streaming documents to CUPS printers.
+// ---
+
 #include "printing/printing_context_chromeos.h"
 
 #include <cups/cups.h>

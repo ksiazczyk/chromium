@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sample printer capability test constant declarations
+// summary: Declares sample papers, media types, advanced capabilities, and other printer capability constants shared by print backend tests.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINT_BACKEND_TEST_CONSTANTS_H_
 #define PRINTING_BACKEND_PRINT_BACKEND_TEST_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print backend interface and data types
+// summary: Defines the platform-specific print backend interface plus structs for printer info, advanced capabilities, and semantic capabilities.
+// ---
+
 #ifndef PRINTING_BACKEND_PRINT_BACKEND_H_
 #define PRINTING_BACKEND_PRINT_BACKEND_H_
 

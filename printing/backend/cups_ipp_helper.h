@@ -4,6 +4,12 @@
 
 // Methods for parsing IPP Printer attributes.
 
+// ---docerion
+// type: source
+// title: IPP printer attribute parsing header
+// summary: Declares functions for parsing IPP printer attributes, including capability extraction, paper defaults, and media-col database handling.
+// ---
+
 #ifndef PRINTING_BACKEND_CUPS_IPP_HELPER_H_
 #define PRINTING_BACKEND_CUPS_IPP_HELPER_H_
 

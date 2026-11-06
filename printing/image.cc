@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing image pixel access implementation
+// summary: Implements the Image class methods for bounds-checked access to raw ARGB pixel data used to inspect printed output.
+// ---
+
 #include "printing/image.h"
 
 #include <utility>

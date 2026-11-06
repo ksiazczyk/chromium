@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageRange Mojom traits implementation
+// summary: Implements Mojo deserialization for printing::PageRange, rejecting ranges whose start page exceeds their end page.
+// ---
+
 #include "printing/mojom/print_mojom_traits.h"
 
 namespace mojo {

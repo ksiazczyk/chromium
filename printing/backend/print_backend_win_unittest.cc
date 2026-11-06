@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows print backend unit tests
+// summary: Tests caching of the default paper printable area in the Windows print backend, skipping when real print drivers are unavailable.
+// ---
+
 #include "printing/backend/print_backend_win.h"
 
 #include <stddef.h>

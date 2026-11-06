@@ -1,0 +1,4 @@
+# Docerion header of print_backend.mojom.
+type: source
+title: Mojo definitions for printing backend types
+summary: Mojom module defining structs and enums for printer basic info, papers, media types, and printer semantic capabilities and defaults, with ChromeOS-only extensions.

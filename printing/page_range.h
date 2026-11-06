@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page range struct for print selections
+// summary: Defines the PageRange struct and PageRanges list used to select inclusive page ranges for printing, with normalization of overlapping entries.
+// ---
+
 #ifndef PRINTING_PAGE_RANGE_H_
 #define PRINTING_PAGE_RANGE_H_
 

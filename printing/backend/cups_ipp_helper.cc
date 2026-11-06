@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPP printer attribute parsing implementation
+// summary: Implements conversion of IPP printer attributes into printer capabilities such as color, duplex, media sizes, and printable area.
+// ---
+
 #include "printing/backend/cups_ipp_helper.h"
 
 #include <cups/cups.h>

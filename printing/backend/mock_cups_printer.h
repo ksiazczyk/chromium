@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockCupsPrinter gmock class
+// summary: Defines a gmock-based mock of CupsPrinter used to fake CUPS printer behavior in tests.
+// ---
+
 #ifndef PRINTING_BACKEND_MOCK_CUPS_PRINTER_H_
 #define PRINTING_BACKEND_MOCK_CUPS_PRINTER_H_
 

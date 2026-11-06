@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintingController
+// summary: Interface describing a controller that talks to the printing backend, managing print starts, pending prints, and PDF writing completion notifications.
+// ---
+
 package org.chromium.printing;
 
 import org.chromium.build.annotations.NullMarked;
