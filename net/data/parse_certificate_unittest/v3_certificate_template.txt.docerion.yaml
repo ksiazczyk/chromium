@@ -1,0 +1,4 @@
+# Docerion header of v3_certificate_template.txt.
+type: data
+title: ASCII-DER certificate template for parse certificate tests
+summary: ASCII-DER certificate template with named sections that the helper scripts substitute to generate test certificates for the parse_certificate unittests.

@@ -1,0 +1,4 @@
+# Docerion header of empty.
+type: data
+title: Empty PAC fetch test fixture
+summary: Zero-byte file fixture used in pac_file_fetcher unit tests for a PAC URL that returns an empty body.

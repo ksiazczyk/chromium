@@ -1,0 +1,4 @@
+# Docerion header of 5.txt.
+type: test
+title: Accept header list fuzzer corpus entry with quoted values
+summary: Fuzzer corpus input with Accept-style list entries including quoted media types, encodings and languages.

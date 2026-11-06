@@ -1,0 +1,4 @@
+# Docerion header of large-pac.nsproxy.
+type: data
+title: Large PAC test fixture
+summary: Proxy auto-config fixture filled with placeholder characters, serving as a large PAC response body in fetcher tests.

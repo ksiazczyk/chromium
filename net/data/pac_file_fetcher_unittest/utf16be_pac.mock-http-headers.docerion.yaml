@@ -1,0 +1,4 @@
+# Docerion header of utf16be_pac.mock-http-headers.
+type: data
+title: UTF-16BE PAC mock HTTP headers
+summary: Mock HTTP response headers serving a PAC file with the UTF-16BE charset for the PAC file fetcher unit tests.

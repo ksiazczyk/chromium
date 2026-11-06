@@ -1,0 +1,4 @@
+# Docerion header of net_ntlm_ntlm_client_fuzzer.dict.
+type: test
+title: NTLM client fuzzer dictionary
+summary: Fuzzer dictionary of NTLM message signatures, negotiate flags, target info payloads and challenge responses for the NTLM client fuzzer.

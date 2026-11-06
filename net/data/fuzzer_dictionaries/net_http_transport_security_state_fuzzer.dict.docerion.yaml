@@ -1,0 +1,4 @@
+# Docerion header of net_http_transport_security_state_fuzzer.dict.
+type: test
+title: HTTP transport security state fuzzer dictionary
+summary: Fuzzer dictionary with preloaded TLDs, hostname fragments and Huffman tree characters for transport security state lookups.

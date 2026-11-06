@@ -1,0 +1,4 @@
+# Docerion header of net_data_url_fuzzer.dict.
+type: data
+title: net_data_url_fuzzer.dict
+summary: 'libFuzzer dictionary with data: URL schemes, MIME types, charset and base64 tokens for fuzzing data URL handling.'

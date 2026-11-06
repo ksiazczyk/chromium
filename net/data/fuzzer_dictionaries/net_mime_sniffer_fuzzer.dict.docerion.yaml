@@ -1,0 +1,4 @@
+# Docerion header of net_mime_sniffer_fuzzer.dict.
+type: test
+title: MIME sniffer fuzzer dictionary
+summary: Fuzzer dictionary with MIME types, magic byte signatures and RFC 2045 tokens for the net MIME sniffer fuzzer.

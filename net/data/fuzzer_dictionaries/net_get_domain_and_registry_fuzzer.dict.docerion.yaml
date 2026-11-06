@@ -1,0 +1,4 @@
+# Docerion header of net_get_domain_and_registry_fuzzer.dict.
+type: data
+title: net_get_domain_and_registry_fuzzer.dict
+summary: libFuzzer dictionary of DNS message fragments and RFC 1034/1035 vocabulary for fuzzing domain and registry extraction.

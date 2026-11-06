@@ -1,0 +1,4 @@
+# Docerion header of net_host_resolver_manager_fuzzer.dict.
+type: data
+title: net_host_resolver_manager_fuzzer.dict
+summary: libFuzzer dictionary of DNS and mDNS message headers, record types and RFC vocabulary for fuzzing the host resolver manager.

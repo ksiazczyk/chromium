@@ -1,0 +1,4 @@
+# Docerion header of 404.pac.mock-http-headers.
+type: data
+title: 404.pac mock HTTP headers
+summary: Mock HTTP response headers serving 404.pac with a 404 status and application/x-javascript-config content type.

@@ -1,0 +1,4 @@
+# Docerion header of pac.nsproxy.mock-http-headers.
+type: data
+title: Mock HTTP headers for pac.nsproxy
+summary: Mock HTTP response headers serving pac.nsproxy as proxy auto-config content.

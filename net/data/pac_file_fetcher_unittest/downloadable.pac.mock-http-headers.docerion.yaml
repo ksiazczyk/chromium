@@ -1,0 +1,4 @@
+# Docerion header of downloadable.pac.mock-http-headers.
+type: data
+title: downloadable.pac mock HTTP headers
+summary: Mock HTTP response headers serving downloadable.pac as 200 OK with a Content-Disposition attachment header.

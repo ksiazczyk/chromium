@@ -1,0 +1,4 @@
+# Docerion header of 500.pac.mock-http-headers.
+type: data
+title: 500.pac mock HTTP headers
+summary: Mock HTTP response headers serving 500.pac with a 500 status and application/x-javascript-config content type.

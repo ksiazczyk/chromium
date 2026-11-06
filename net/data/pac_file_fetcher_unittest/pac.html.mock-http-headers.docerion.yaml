@@ -1,0 +1,4 @@
+# Docerion header of pac.html.mock-http-headers.
+type: data
+title: Mock HTTP headers for pac.html
+summary: Mock HTTP response headers serving pac.html with an HTML content type.

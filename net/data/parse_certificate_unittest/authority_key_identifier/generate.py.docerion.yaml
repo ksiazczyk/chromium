@@ -1,0 +1,4 @@
+# Docerion header of generate.py.
+type: script
+title: Generator for authority key identifier PEM test data
+summary: Python script that regenerates the authority key identifier *.pem test fixtures in its directory by converting der-ascii definitions to DER via the ascii2der tool.

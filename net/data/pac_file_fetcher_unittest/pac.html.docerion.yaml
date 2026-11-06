@@ -1,0 +1,4 @@
+# Docerion header of pac.html.
+type: data
+title: HTML PAC test fixture
+summary: Tiny HTML fixture whose body marks it as the pac.html response in PAC file fetcher tests.

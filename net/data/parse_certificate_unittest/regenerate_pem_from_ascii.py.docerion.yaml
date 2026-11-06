@@ -1,0 +1,4 @@
+# Docerion header of regenerate_pem_from_ascii.py.
+type: script
+title: Regenerate PEM certificates from ascii-der substitutions
+summary: Script that regenerates the CERTIFICATE block of a test .pem file by applying ascii-der substitutions to the template and converting the result with ascii2der.

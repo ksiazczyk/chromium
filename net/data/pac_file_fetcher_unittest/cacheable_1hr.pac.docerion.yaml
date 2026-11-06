@@ -1,0 +1,4 @@
+# Docerion header of cacheable_1hr.pac.
+type: data
+title: cacheable_1hr.pac test fixture
+summary: PAC file fixture with marker content used in pac_file_fetcher unit tests to exercise caching of fetched PAC files.

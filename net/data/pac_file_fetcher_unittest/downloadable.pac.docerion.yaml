@@ -1,0 +1,4 @@
+# Docerion header of downloadable.pac.
+type: data
+title: downloadable.pac test fixture
+summary: PAC file fixture with marker content used in pac_file_fetcher unit tests for a PAC file served as a download attachment.

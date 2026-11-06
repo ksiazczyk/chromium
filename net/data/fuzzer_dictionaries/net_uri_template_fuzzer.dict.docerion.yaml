@@ -1,0 +1,4 @@
+# Docerion header of net_uri_template_fuzzer.dict.
+type: data
+title: URI template parser fuzzer dictionary
+summary: libFuzzer dictionary of URI template expressions, variable names and values used to fuzz the URI template parser.

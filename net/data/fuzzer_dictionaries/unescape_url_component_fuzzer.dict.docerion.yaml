@@ -1,0 +1,4 @@
+# Docerion header of unescape_url_component_fuzzer.dict.
+type: data
+title: Unescape URL component fuzzer dictionary
+summary: libFuzzer dictionary of percent-encoded and escape sequences used to fuzz URL component unescaping.

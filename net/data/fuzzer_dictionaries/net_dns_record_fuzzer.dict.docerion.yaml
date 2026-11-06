@@ -1,0 +1,4 @@
+# Docerion header of net_dns_record_fuzzer.dict.
+type: data
+title: net_dns_record_fuzzer.dict
+summary: libFuzzer dictionary of DNS message headers, A/AAAA/CNAME/HTTPS record data and ESNI tokens for fuzzing DNS record parsing.

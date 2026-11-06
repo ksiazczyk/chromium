@@ -1,0 +1,4 @@
+# Docerion header of 404.pac.
+type: data
+title: 404.pac test fixture
+summary: Minimal PAC file fixture with marker content used in pac_file_fetcher unit tests for a PAC URL served with a 404 status.

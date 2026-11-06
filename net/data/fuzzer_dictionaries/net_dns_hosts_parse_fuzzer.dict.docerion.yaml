@@ -1,0 +1,4 @@
+# Docerion header of net_dns_hosts_parse_fuzzer.dict.
+type: data
+title: net_dns_hosts_parse_fuzzer.dict
+summary: libFuzzer dictionary of encoded DNS messages, domain names, record suffixes and RFC 1034/1035 vocabulary for fuzzing DNS hosts parsing.

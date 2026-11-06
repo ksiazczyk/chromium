@@ -1,0 +1,4 @@
+# Docerion header of redirect-to-file.
+type: data
+title: Redirect target fixture
+summary: Fixture body served as the target of a redirect in PAC file fetcher tests.

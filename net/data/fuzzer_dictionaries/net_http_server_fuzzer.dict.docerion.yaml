@@ -1,0 +1,4 @@
+# Docerion header of net_http_server_fuzzer.dict.
+type: test
+title: HTTP server fuzzer dictionary
+summary: Fuzzer dictionary of HTTP/1.1 request tokens, WebSocket handshake headers and FuzzedDataProvider helpers for the net HTTP server fuzzer.

@@ -1,0 +1,4 @@
+# Docerion header of 3.txt.
+type: test
+title: Third-party signature header fuzzer corpus entry
+summary: Fuzzer corpus input with a thirdpartysig signature entry referencing third-party validity and certificate URLs.

@@ -1,0 +1,4 @@
+# Docerion header of net_dns_nsswitch_reader_fuzzer.dict.
+type: data
+title: net_dns_nsswitch_reader_fuzzer.dict
+summary: libFuzzer dictionary with nsswitch.conf database entries, service names and action tokens for fuzzing the NSSwitch reader.
