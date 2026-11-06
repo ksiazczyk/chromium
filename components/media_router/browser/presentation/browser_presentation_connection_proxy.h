@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser presentation connection proxy class declaration
+// summary: Declares BrowserPresentationConnectionProxy, the browser-side PresentationConnection that exchanges messages between a render frame and the Media Router.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_BROWSER_PRESENTATION_CONNECTION_PROXY_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_BROWSER_PRESENTATION_CONNECTION_PROXY_H_
 

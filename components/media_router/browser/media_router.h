@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouter interface header
+// summary: Declares the MediaRouter KeyedService interface for creating and joining media routes, observing sinks and routes, and managing presentation connections.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTER_H_
 

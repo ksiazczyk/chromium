@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local presentation manager implementation
+// summary: Implements LocalPresentationManager, which tracks local presentations and connects controlling frames with receiver frames for message exchange.
+// ---
+
 #include "components/media_router/browser/presentation/local_presentation_manager.h"
 
 #include <utility>

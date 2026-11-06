@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser media router JNI bridge
+// summary: Implements the JNI interface called from the C++ Media Router on Android, owning media route providers and dispatching native calls to them.
+// ---
+
 package org.chromium.components.media_router;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

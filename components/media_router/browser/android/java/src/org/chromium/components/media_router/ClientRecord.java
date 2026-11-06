@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media route client record
+// summary: Holds information about a single client connection to a media route, including route and client IDs, app ID, origin and pending messages.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.chromium.build.annotations.NullMarked;

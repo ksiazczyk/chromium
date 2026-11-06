@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaController interface for media playback control
+// summary: Generic Java interface for controlling media playback, with methods to play, pause, mute, set volume and seek, propagating status changes via MediaStatusObserver.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.chromium.build.annotations.NullMarked;

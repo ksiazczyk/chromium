@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation navigation policy implementation
+// summary: Implements navigation policies that allow all navigations by default and restrict presentations to a single top-level navigation.
+// ---
+
 #include "components/media_router/browser/presentation/presentation_navigation_policy.h"
 
 #include "content/public/browser/navigation_handle.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric test base class for BrowserMediaRouter
+// summary: Shared base class providing mock route providers and common test constants for BrowserMediaRouter Robolectric tests.
+// ---
+
 package org.chromium.components.media_router;
 
 import static org.junit.Assert.assertEquals;

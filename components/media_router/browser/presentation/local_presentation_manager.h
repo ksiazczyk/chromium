@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local presentation manager class declaration
+// summary: Declares LocalPresentationManager, a keyed service managing local presentations such as 1-UA offscreen presentations and presentations to wired displays.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_LOCAL_PRESENTATION_MANAGER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_LOCAL_PRESENTATION_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation notification controller for Cast sessions
+// summary: Notification controller for presentations that supplies the presentation notification ID and a content intent that brings the originating tab to the front.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

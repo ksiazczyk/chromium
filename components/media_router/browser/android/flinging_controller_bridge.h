@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flinging controller bridge class declaration
+// summary: Declares the class that lets native code call a Java FlingingController and receive media status updates from the Java side.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_ANDROID_FLINGING_CONTROLLER_BRIDGE_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_ANDROID_FLINGING_CONTROLLER_BRIDGE_H_
 

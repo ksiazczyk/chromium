@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouteManager interface for provider callbacks
+// summary: Interface that media route providers use to communicate back to BrowserMediaRouter, reporting sinks, route creation, errors, termination, messages and source updates.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.chromium.build.annotations.NullMarked;

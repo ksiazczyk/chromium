@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flinging controller interface
+// summary: Interface grouping hooks to control media flung to a Cast device as part of RemotePlayback, mirroring media/base/flinging_controller.h.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.chromium.build.annotations.NullMarked;

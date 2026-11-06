@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CafExpandedControllerActivity
+// summary: Android activity opened from the video casting notification that provides expanded media controls such as play, pause, and seek for the active remote playback session.
+// ---
+
 package org.chromium.components.media_router.caf.remoting;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

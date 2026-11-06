@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utility methods for Cast context and origins
+// summary: Utility class providing access to the shared CastContext instance and a helper for comparing URL origin strings used in Cast routing.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

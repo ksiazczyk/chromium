@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRouterBase unit tests
+// summary: Unit tests for MediaRouterBase presentation ID generation and notification of presentation connection state change and close callbacks.
+// ---
+
 #include "components/media_router/browser/media_router_base.h"
 
 #include "base/functional/bind.h"

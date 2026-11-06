@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Route message conversion utilities header
+// summary: Declares conversion functions between route messages and presentation connection messages in the media_router message_util namespace.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_ROUTE_MESSAGE_UTIL_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_ROUTE_MESSAGE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Router metrics unit tests
+// summary: Unit tests verifying that Media Router metric recording functions write the expected samples to their histograms.
+// ---
+
 #include "components/media_router/browser/media_router_metrics.h"
 
 #include <string>

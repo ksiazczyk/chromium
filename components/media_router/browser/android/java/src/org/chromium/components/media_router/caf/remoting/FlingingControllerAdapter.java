@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingingControllerAdapter
+// summary: Adapter that bridges the Cast RemoteMediaClient with the FlingingController interface, handling load, play, pause, and seek commands for flung media.
+// ---
+
 package org.chromium.components.media_router.caf.remoting;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

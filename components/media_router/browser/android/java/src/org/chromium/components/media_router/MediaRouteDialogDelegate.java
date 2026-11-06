@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouteDialogDelegate callback interface
+// summary: Interface providing callbacks for BaseMediaRouteDialogManager, covering sink selection, route closure and dialog cancellation without user action.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local presentation manager factory implementation
+// summary: Implements a BrowserContextKeyedServiceFactory that creates and provides the per-profile LocalPresentationManager instance.
+// ---
+
 #include "components/media_router/browser/presentation/local_presentation_manager_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

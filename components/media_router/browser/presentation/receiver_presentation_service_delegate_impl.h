@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver presentation service delegate class declaration
+// summary: Declares ReceiverPresentationServiceDelegateImpl, a WebContentsUserData implementing receiver Presentation API for a single local presentation.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_RECEIVER_PRESENTATION_SERVICE_DELEGATE_IMPL_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_RECEIVER_PRESENTATION_SERVICE_DELEGATE_IMPL_H_
 

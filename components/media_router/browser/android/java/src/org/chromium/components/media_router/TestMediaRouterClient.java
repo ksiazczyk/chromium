@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMediaRouterClient stub for test mode
+// summary: MediaRouterClient subclass providing test-specific stub behavior such as fixed tab and notification ids, no-op notifications, and immediate deferred task execution.
+// ---
+
 package org.chromium.components.media_router;
 
 import android.content.Context;

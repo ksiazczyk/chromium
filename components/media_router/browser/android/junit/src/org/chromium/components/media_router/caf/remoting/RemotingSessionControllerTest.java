@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemotingSessionControllerTest
+// summary: Robolectric tests for RemotingSessionController, covering session launch, route creation info and media source updates.
+// ---
+
 package org.chromium.components.media_router.caf.remoting;
 
 import static org.junit.Assert.assertSame;

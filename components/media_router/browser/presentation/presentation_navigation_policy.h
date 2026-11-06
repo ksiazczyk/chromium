@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation navigation policy class declarations
+// summary: Declares the NavigationPolicy interface and implementations that decide whether navigations are allowed in presentation tabs.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_PRESENTATION_NAVIGATION_POLICY_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_PRESENTATION_NAVIGATION_POLICY_H_
 

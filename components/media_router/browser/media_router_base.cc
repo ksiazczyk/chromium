@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterBase implementation
+// summary: Implements MediaRouterBase helpers for registering presentation connection state callbacks, notifying state changes and closes, and generating presentation IDs.
+// ---
+
 #include "components/media_router/browser/media_router_base.h"
 
 #include <string>

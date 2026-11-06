@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemotingMediaSource
+// summary: Parses remote-playback source IDs to extract the Cast application ID and the media URL used for flinging to a Cast device.
+// ---
+
 package org.chromium.components.media_router.caf.remoting;
 
 import android.content.Context;

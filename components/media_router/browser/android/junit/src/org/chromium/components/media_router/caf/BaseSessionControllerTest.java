@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for BaseSessionController
+// summary: Robolectric unit tests covering session attachment, callbacks, and route creation behavior of BaseSessionController in the Cast media router.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.junit.Assert.assertEquals;

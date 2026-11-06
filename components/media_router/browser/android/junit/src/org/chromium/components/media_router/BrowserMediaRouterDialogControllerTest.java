@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for BrowserMediaRouterDialogController
+// summary: Robolectric tests verifying route chooser dialog behavior in BrowserMediaRouterDialogController, including local network permission requests and cancellation on denial.
+// ---
+
 package org.chromium.components.media_router;
 
 import static org.junit.Assert.assertFalse;

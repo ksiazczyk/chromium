@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirroring media controller host unit tests
+// summary: Unit tests covering freeze and unfreeze behavior, media status updates, and observer notifications for MirroringMediaControllerHostImpl.
+// ---
+
 #include "components/media_router/browser/mirroring_media_controller_host_impl.h"
 
 #include "base/run_loop.h"

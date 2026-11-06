@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemotingMediaSourceTest
+// summary: Robolectric tests verifying that RemotingMediaSource.from parses remote-playback source IDs and rejects invalid ones.
+// ---
+
 package org.chromium.components.media_router.caf.remoting;
 
 import static org.junit.Assert.assertEquals;

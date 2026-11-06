@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log ID truncation utility header
+// summary: Declares the TruncateId helper that shortens sink ID strings for media router logging.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_LOG_UTIL_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_LOG_UTIL_H_
 

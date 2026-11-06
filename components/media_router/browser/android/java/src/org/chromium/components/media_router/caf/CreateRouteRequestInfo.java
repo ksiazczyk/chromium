@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateRouteRequestInfo
+// summary: Java class in the Chromium Cast media router that stores the details of a create route request, including source, sink, presentation ID, origin, tab ID, and native request ID.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import androidx.mediarouter.media.MediaRouter;

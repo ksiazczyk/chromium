@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flinging controller bridge native implementation
+// summary: Implements the native side of the flinging controller JNI bridge, forwarding playback controls and translating Android media status updates for observers.
+// ---
+
 #include "components/media_router/browser/android/flinging_controller_bridge.h"
 
 #include "base/android/jni_string.h"

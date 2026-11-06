@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMediaRouter class declaration
+// summary: Declares a GMock-based mock of the Media Router used in tests, with mocked methods for creating and joining routes, sending messages, and observing state changes.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_TEST_MOCK_MEDIA_ROUTER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_TEST_MOCK_MEDIA_ROUTER_H_
 

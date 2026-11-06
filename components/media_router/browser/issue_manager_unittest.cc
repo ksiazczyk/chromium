@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Issue manager unit tests
+// summary: Unit tests covering adding, clearing, and ordering of issues plus observer notifications for the IssueManager.
+// ---
+
 #include "components/media_router/browser/issue_manager.h"
 
 #include <string>

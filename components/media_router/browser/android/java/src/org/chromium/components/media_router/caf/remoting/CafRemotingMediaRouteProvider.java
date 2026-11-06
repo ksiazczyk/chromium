@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CafRemotingMediaRouteProvider
+// summary: Media route provider for remote playback that manages routes and the remoting session controller using the Cast v3 API.
+// ---
+
 package org.chromium.components.media_router.caf.remoting;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

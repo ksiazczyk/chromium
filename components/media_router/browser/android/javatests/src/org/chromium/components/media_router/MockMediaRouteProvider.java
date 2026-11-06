@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock media route provider for MediaRouter Android tests
+// summary: Implements a mocked MediaRouteProvider with configurable sinks, delays and error messages so MediaRouter tests can simulate routing behaviour.
+// ---
+
 package org.chromium.components.media_router;
 
 import androidx.annotation.Nullable;

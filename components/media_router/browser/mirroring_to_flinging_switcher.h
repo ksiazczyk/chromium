@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring to flinging switcher header
+// summary: Declares SwitchToFlingingIfPossible, which switches a mirroring session to flinging when the site has a default presentation request.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MIRRORING_TO_FLINGING_SWITCHER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MIRRORING_TO_FLINGING_SWITCHER_H_
 

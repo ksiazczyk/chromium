@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Issue manager class declaration
+// summary: Declares IssueManager, which tracks media router casting issues on the UI thread and notifies registered observers when the top issue changes.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_ISSUE_MANAGER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_ISSUE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast v3 media route provider for Cast devices and apps
+// summary: Concrete MediaRouteProvider using the Cast v3 API to create, join and close routes, manage client records for auto-join and dispatch messages via CafMessageHandler.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

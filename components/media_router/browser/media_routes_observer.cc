@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRoutesObserver implementation
+// summary: Implements registration and unregistration of a MediaRoutesObserver with the Media Router on the browser UI thread.
+// ---
+
 #include "components/media_router/browser/media_routes_observer.h"
 
 #include "base/check.h"

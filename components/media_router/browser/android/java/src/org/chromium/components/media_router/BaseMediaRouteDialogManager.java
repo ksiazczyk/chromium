@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base media route dialog manager
+// summary: Abstract base class providing shared logic for media route dialogs, including system UI visibility saving and dialog open, close and visibility handling.
+// ---
+
 package org.chromium.components.media_router;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

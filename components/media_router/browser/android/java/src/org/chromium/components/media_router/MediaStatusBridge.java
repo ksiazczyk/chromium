@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStatusBridge exposing Cast MediaStatus to native code
+// summary: JNI wrapper that exposes a Google Play Services Cast MediaStatus object to native media router code, reporting play state, idle reason, metadata, and supported commands.
+// ---
+
 package org.chromium.components.media_router;
 
 import com.google.android.gms.cast.MediaInfo;

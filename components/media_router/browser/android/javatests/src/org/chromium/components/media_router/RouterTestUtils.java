@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for MediaRouter Android tests
+// summary: Provides helper methods that wait for the route chooser dialog and device buttons during MediaRouter Android instrumentation tests.
+// ---
+
 package org.chromium.components.media_router;
 
 import android.app.Dialog;

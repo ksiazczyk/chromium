@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flinging controller native bridge
+// summary: JNI wrapper around a FlingingController that lets native code play, pause, seek and observe media status updates for flung media.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.jni_zero.CalledByNative;

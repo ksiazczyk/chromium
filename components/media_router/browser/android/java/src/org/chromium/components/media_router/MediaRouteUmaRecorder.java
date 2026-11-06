@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouteUmaRecorder for cast event statistics
+// summary: Records UMA statistics on cast events and actions, such as the number of devices shown in the media route chooser dialog.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.chromium.base.metrics.RecordHistogram;

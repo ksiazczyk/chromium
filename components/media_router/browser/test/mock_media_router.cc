@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMediaRouter implementation
+// summary: Implements the MockMediaRouter test double, providing a factory that returns a NiceMock instance and default constructor and destructor.
+// ---
+
 #include "components/media_router/browser/test/mock_media_router.h"
 
 #include <memory>

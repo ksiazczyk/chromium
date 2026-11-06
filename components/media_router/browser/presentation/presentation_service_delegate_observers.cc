@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation service delegate observers implementation
+// summary: Implements PresentationServiceDelegateObservers, managing per-frame observer registration and notifying observers when the delegate is destroyed.
+// ---
+
 #include "components/media_router/browser/presentation/presentation_service_delegate_observers.h"
 
 

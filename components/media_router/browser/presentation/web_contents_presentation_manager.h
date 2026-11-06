@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsPresentationManager interface
+// summary: Declares the abstract WebContentsPresentationManager interface that tracks the default PresentationRequest and presentation MediaRoutes for a WebContents and manages presentation observers.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_WEB_CONTENTS_PRESENTATION_MANAGER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_WEB_CONTENTS_PRESENTATION_MANAGER_H_
 

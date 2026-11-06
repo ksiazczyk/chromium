@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media sinks observer unit tests
+// summary: Unit tests verifying that MediaSinksObserver only reports sinks when the updated origin list matches the observer's origin.
+// ---
+
 #include "components/media_router/browser/media_sinks_observer.h"
 
 #include "components/media_router/browser/test/mock_media_router.h"

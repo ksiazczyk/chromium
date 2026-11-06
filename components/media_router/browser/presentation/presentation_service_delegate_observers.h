@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation service delegate observers class declaration
+// summary: Declares PresentationServiceDelegateObservers, which maps render frame hosts to PresentationServiceDelegate observers for updates.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_PRESENTATION_SERVICE_DELEGATE_OBSERVERS_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_PRESENTATION_SERVICE_DELEGATE_OBSERVERS_H_
 

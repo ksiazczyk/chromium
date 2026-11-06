@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media router JNI bridge implementation
+// summary: Implements the JNI layer that forwards route creation, joining, termination, and messaging between MediaRouterAndroid and the Java BrowserMediaRouter.
+// ---
+
 #include "components/media_router/browser/android/media_router_android_bridge.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Issues observer implementation
+// summary: Implements the IssuesObserver base class, handling registration with and unregistration from the IssueManager.
+// ---
+
 #include "components/media_router/browser/issues_observer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base notification controller for Cast media sessions
+// summary: Abstract base controller that builds and updates Android media notifications for Cast and MediaFling sessions, handling session start, end, status and metadata changes.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

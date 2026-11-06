@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinksObserver implementation
+// summary: Implements sink observer initialization and origin-based filtering of sink updates before dispatching them to OnSinksReceived.
+// ---
+
 #include "components/media_router/browser/media_sinks_observer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouteControllerDialogManager for route control dialog
+// summary: Manages the Android dialog fragment used to control an existing media route, notifying the delegate when the route is unselected or the dialog is dismissed.
+// ---
+
 package org.chromium.components.media_router;
 
 import android.content.Context;

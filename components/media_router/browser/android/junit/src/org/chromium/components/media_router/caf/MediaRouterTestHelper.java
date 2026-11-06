@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRouter test helper for Cast route provider tests
+// summary: Test helper that mocks MediaRouter routes and selection behavior for use in Cast media router Robolectric tests.
+// ---
+
 package org.chromium.components.media_router.caf;
 
 import static org.mockito.ArgumentMatchers.anyInt;

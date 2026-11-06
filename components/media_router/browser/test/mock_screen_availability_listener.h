@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockScreenAvailabilityListener class declaration
+// summary: Declares a GMock mock of the presentation screen availability listener that reports a fixed availability URL and mocks screen availability change callbacks.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_TEST_MOCK_SCREEN_AVAILABILITY_LISTENER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_TEST_MOCK_SCREEN_AVAILABILITY_LISTENER_H_
 

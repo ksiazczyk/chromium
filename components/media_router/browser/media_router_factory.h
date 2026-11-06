@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterFactory class declaration
+// summary: Declares the MediaRouterFactory keyed service factory that returns an existing or newly created MediaRouter instance for a browser context.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTER_FACTORY_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTER_FACTORY_H_
 

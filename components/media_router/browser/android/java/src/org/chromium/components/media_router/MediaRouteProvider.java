@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouteProvider interface for sink and route providers
+// summary: Interface that components providing media sinks and routes implement to hook into BrowserMediaRouter, covering sink discovery, route creation, joining, closing and messaging.
+// ---
+
 package org.chromium.components.media_router;
 
 import org.chromium.build.annotations.NullMarked;

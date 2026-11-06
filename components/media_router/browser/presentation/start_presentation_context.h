@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartPresentationContext class declaration
+// summary: Declares the StartPresentationContext helper data structure that stores a Presentation API request plus success and error callbacks, exactly one of which is invoked per route outcome.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_START_PRESENTATION_CONTEXT_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_START_PRESENTATION_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRoutesObserver class declaration
+// summary: Declares the base observer class notified when the set of media routes and their associated sinks is updated.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTES_OBSERVER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_MEDIA_ROUTES_OBSERVER_H_
 

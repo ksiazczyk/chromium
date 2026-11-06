@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Issue manager implementation
+// summary: Implements the IssueManager that stores casting issues, auto-dismisses them by severity timeout, and notifies observers of the top issue.
+// ---
+
 #include "components/media_router/browser/issue_manager.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media router dialog controller Android implementation
+// summary: Implements the Android media router dialog controller, handling JNI callbacks for sink selection, route termination, dialog cancellation and unsupported media sources.
+// ---
+
 #include "components/media_router/browser/android/media_router_dialog_controller_android.h"
 
 #include <string>

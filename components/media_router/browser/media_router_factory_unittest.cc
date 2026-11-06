@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaRouterFactory unit tests
+// summary: Unit tests verifying that GetApiForBrowserContextIfExists returns null for a null browser context and does not create an instance when none exists.
+// ---
+
 #include "components/media_router/browser/media_router_factory.h"
 
 #include "content/public/test/browser_task_environment.h"

@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_media_router_strings.grd.
+type: config
+title: Android Chrome Media Router strings resource definition
+summary: Grit resource bundle defining localized media router strings for Chrome on Android, with per-language output files for dozens of locales.

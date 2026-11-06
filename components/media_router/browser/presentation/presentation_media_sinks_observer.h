@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation media sinks observer class declaration
+// summary: Declares PresentationMediaSinksObserver, a MediaSinksObserver that propagates sink availability changes for a presentation source to a listener.
+// ---
+
 #ifndef COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_PRESENTATION_MEDIA_SINKS_OBSERVER_H_
 #define COMPONENTS_MEDIA_ROUTER_BROWSER_PRESENTATION_PRESENTATION_MEDIA_SINKS_OBSERVER_H_
 

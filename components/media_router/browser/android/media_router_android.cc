@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android media router implementation
+// summary: Implements the MediaRouter interface on Android, managing routes, presentation connections, and callbacks from the Java bridge.
+// ---
+
 #include "components/media_router/browser/android/media_router_android.h"
 
 #include <algorithm>
