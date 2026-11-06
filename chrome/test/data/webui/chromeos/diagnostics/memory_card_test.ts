@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory card tests
+// summary: Tests the memory card element, verifying memory usage bar charts, the routine section, and the run tests button with fake memory usage data.
+// ---
+
 import 'chrome://diagnostics/memory_card.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

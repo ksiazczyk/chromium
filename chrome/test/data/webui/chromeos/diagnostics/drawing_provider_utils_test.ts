@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drawing provider utils tests
+// summary: Tests for drawing provider utilities covering CSS variable lookup, trail opacity from pressure, and RGBA color construction.
+// ---
+
 import 'chrome://diagnostics/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

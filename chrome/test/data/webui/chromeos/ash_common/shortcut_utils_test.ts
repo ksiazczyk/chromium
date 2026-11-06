@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShortcutUtils unit tests
+// summary: Unit tests for shortcut_utils, verifying that createInputKeyParts builds correct key parts from accelerator properties.
+// ---
+
 import 'chrome://resources/ash/common/shortcut_input_ui/shortcut_input.js';
 
 import {VKey} from 'chrome://resources/ash/common/shortcut_input_ui/accelerator_keys.mojom-webui.js';

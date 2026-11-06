@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks extension API tests
+// summary: Tests the bookmark manager extension API, including creating and sorting bookmarks, reading subtrees, and clipboard copy, cut, and paste operations.
+// ---
+
 // Bookmark Manager API test for Chrome.
 import {assertEquals, assertFalse, assertNotReached, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

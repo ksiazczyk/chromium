@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Account manager WebUI tests build definition
+summary: Defines the build_webui_tests target, source files and TypeScript dependencies for the account manager WebUI tests.

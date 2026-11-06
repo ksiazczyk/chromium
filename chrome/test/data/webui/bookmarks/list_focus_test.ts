@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: List keyboard focus tests
+// summary: Tests keyboard navigation and focus behavior of the bookmarks list, including arrow key selection, modifier keys, and menu button focus.
+// ---
+
 import type {BookmarksItemElement, BookmarksListElement} from 'chrome://bookmarks/bookmarks.js';
 import {BookmarkManagerApiProxyImpl, BookmarksApiProxyImpl, Command} from 'chrome://bookmarks/bookmarks.js';
 import {isMac} from 'chrome://resources/js/platform.js';

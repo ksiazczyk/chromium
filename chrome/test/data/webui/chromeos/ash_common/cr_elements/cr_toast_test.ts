@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-toast element tests
+// summary: WebUI test suite for cr-toast covering show and hide behavior, auto-hide durations, and how setting or clearing the duration affects the auto-hide timer.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_toast/cr_toast.js';
 

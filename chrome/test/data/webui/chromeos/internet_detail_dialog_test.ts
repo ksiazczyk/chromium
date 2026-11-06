@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Internet detail dialog WebUI tests
+// summary: Browser test suite for the ChromeOS internet detail dialog, covering APN settings, IP configuration, proxies and SIM info using a fake network config Mojo backend.
+// ---
+
 import 'chrome://internet-detail-dialog/internet_detail_dialog.js';
 
 import type {InternetDetailDialogElement} from 'chrome://internet-detail-dialog/internet_detail_dialog.js';

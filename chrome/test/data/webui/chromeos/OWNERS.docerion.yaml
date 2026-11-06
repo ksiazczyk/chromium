@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for WebUI test mojom files
+summary: Sets the IPC security owners as reviewers for mojom files in the ChromeOS WebUI test directory.

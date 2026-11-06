@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for the ListPropertyUpdateBehavior.  */
 
+// ---docerion
+// type: test
+// title: ListPropertyUpdateBehavior tests
+// summary: Tests ListPropertyUpdateBehavior.updateList on simple and nested arrays, checking splice notifications and identity-based updates.
+// ---
+
 import {ListPropertyUpdateBehavior} from 'chrome://resources/ash/common/list_property_update_behavior.js';
 import {mixinBehaviors, PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI assertion failure behavior tests
+// summary: Browser tests verifying that WebUI assertion failures produce correct messages and that failing sync and async tests are reported without hanging.
+// ---
+
 GEN('#include "content/public/test/browser_test.h"');
 
 function WebUIAssertionsTest() {}

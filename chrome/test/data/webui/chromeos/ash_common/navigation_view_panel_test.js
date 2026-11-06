@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation view panel tests
+// summary: Tests the navigation-view-panel element including page switching, drawer behavior, and page-changed event notifications.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 import {SelectorItem} from 'chrome://resources/ash/common/navigation_selector.js';
 import {NavigationViewPanelElement} from 'chrome://resources/ash/common/navigation_view_panel.js';

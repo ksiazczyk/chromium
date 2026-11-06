@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test command manager
+// summary: Helper that wraps the bookmarks command manager to intercept and assert which commands run during tests.
+// ---
+
 import type {BookmarksCommandManagerElement, Command} from 'chrome://bookmarks/bookmarks.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';
 

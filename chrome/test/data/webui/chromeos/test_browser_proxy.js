@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy base class
+// summary: Base class for test browser proxies that tracks method calls, resolves promises via whenCalled, and can mock methods generated from a given class.
+// ---
+
 import {assert} from 'chrome://resources/ash/common/assert.js';
 import {PromiseResolver} from 'chrome://resources/ash/common/promise_resolver.js';
 

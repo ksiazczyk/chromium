@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth base page WebUI tests
+// summary: Test suite verifying the Bluetooth base page title, scan progress indicator, cancel and pair button states, default focus and the events fired on button clicks.
+// ---
+
 import 'chrome://bluetooth-pairing/strings.m.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_base_page.js';
 

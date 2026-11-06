@@ -4,6 +4,12 @@
 
 // Tests for chrome/browser/resources/chromeos/arc_support/i18n_template_no_process.js
 
+// ---docerion
+// type: test
+// title: i18nTemplate process tests
+// summary: Browser test verifying i18nTemplate.process applies loadTimeData to document attributes, fragments, nested templates, and reruns.
+// ---
+
 GEN('#include "content/public/test/browser_test.h"');
 
 /**

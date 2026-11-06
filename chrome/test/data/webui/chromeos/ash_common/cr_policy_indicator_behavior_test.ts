@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for CrPolicyIndicatorBehavior. */
 
+// ---docerion
+// type: test
+// title: Tests for CrPolicyIndicatorBehavior
+// summary: Checks indicator icons and tooltips for policy, parent, child restriction, recommended and extension indicator types.
+// ---
+
 // clang-format off
 import './cr_policy_strings.js';
 

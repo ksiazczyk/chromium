@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test strings for policy indicator elements
+// summary: Provides strings used by policy indicator elements and exposes them on window for tests in JS modules.
+// ---
+
 import type {CrPolicyStringsType} from 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator_mixin.js';
 
 /** @fileoverview Sets up strings used by policy indicator elements. */

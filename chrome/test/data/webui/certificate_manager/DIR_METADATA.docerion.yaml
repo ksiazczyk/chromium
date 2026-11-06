@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromium team and bug component metadata for certificate manager tests
+summary: Declares the owning team email and Buganizer component for the certificate manager WebUI test directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca app WebUI Mocha browser test
+// summary: C++ browser test that builds a BocaManager with identity and GCM services, intercepts network requests, and hosts the Boca UI WebUI Mocha tests.
+// ---
+
 #include <optional>
 #include <string>
 

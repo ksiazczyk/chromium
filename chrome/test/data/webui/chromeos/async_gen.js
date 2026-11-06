@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Async WebUI test fixture and continuation tests
+// summary: Defines the async test fixture and tests for preload counts, teardown timing, continuations and running multiple async actions in js2gtest WebUI tests.
+// ---
+
 GEN('#include "content/public/test/browser_test.h"');
 
 /**

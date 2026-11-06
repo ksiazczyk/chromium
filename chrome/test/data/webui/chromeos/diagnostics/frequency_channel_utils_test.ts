@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frequency channel utils tests
+// summary: Tests for frequency channel utilities verifying Wi-Fi frequency to channel conversion and channel band classification.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {ChannelBand} from 'chrome://diagnostics/diagnostics_types.js';

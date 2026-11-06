@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Routine result list tests
+// summary: Tests for the routine result list element, covering rendering, initialization of routines, clearing and entry updates.
+// ---
+
 import 'chrome://diagnostics/routine_result_list.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for color_internals WebUI tests
+summary: GN build configuration defining the WebUI test target that builds the color internals browser test and TypeScript test suite.

@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: test
+// title: Certificate manager navigation tests
+// summary: Tests the certificate manager router, verifying path parsing for all pages, route observer notifications, invalid paths, and direct navigation to subpages.
+// ---
+
 import 'chrome://certificate-manager/navigation.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

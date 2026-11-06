@@ -5,6 +5,12 @@
 // Define chrome.networkingPrivate enums, normally provided by chrome WebUI.
 // NOTE: These need to be kept in sync with netwroking_private.idl.
 
+// ---docerion
+// type: test
+// title: Networking private API test constants
+// summary: Defines chrome.networkingPrivate enum constants used by tests, kept in sync with networking_private.idl.
+// ---
+
 chrome.networkingPrivate = chrome.networkingPrivate || {};
 
 /**

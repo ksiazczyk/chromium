@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-link-row WebUI element tests
+// summary: Tests cr-link-row label visibility, external link icon switching, role descriptions, and customizable button aria descriptions.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 

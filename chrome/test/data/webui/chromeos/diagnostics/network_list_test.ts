@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network list tests
+// summary: Tests the network list element, including connectivity card display and network list observer updates with fake network and routine providers.
+// ---
+
 import 'chrome://diagnostics/network_list.js';
 
 import {ConnectivityCardElement} from 'chrome://diagnostics/connectivity_card.js';

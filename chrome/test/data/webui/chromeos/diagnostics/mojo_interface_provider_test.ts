@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo interface provider tests
+// summary: Tests that fake providers for system data, system routines, and network health can be set and retrieved through the Mojo interface provider for testing.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {FakeNetworkHealthProvider} from 'chrome://diagnostics/fake_network_health_provider.js';

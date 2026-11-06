@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: C++ support for generated async WebUI tests
+// summary: Implements the WebUIBrowserAsyncGenTest fixture and its message handler that invokes JavaScript continuations and tracks teardown.
+// ---
+
 #include "chrome/test/data/webui/chromeos/async_gen.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session config receiver test
+// summary: Tests that the Boca app receiver correctly maps mojo session config updates, including Gemini URL types, to its UI session config.
+// ---
+
 import type {ClientApi, SessionConfig} from 'chrome-untrusted://boca-app/app/boca_app.js';
 import {UrlType} from 'chrome-untrusted://boca-app/app/boca_app.js';
 import {callbackRouter} from 'chrome-untrusted://boca-app/app/mojo_api_bootstrap.js';

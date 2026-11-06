@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics app WebUI Mocha browser test
+// summary: Browser test fixture that runs the ChromeOS Diagnostics WebUI Mocha test suites, mapping each test case to its corresponding JavaScript test file.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

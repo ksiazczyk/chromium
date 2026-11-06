@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca Receiver untrusted UI browser test
+// summary: C++ WebUI mocha browser test harness that loads the Boca Receiver untrusted page with the feature flag enabled and runs the TypeScript client API tests.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/webui/boca_receiver_app_ui/url_constants.h"
 #include "base/test/scoped_feature_list.h"

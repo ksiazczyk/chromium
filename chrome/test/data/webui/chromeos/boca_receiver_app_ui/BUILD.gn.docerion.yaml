@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Boca Receiver WebUI tests build definition
+summary: Defines the build target for the Boca Receiver untrusted WebUI tests, listing the C++ and TypeScript test files, path mappings and TypeScript dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome.requestPresentationTime WebUI mocha test
+// summary: WebUI mocha tests verifying that chrome.requestPresentationTime resolves after DOM changes, is idempotent within a task, and returns null for frames without updates.
+// ---
+
 import {assertEquals, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 // Lets any frame requested by earlier work go out, then waits a task so that

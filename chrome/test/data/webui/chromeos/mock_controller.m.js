@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock controller ES module for WebUI tests
+// summary: ES module variant of the mock controller, providing MockMethod and MockController classes for recording and verifying function calls in tests.
+// ---
+
 import {assertDeepEquals, assertEquals} from './chai_assert.js';
 
 /**

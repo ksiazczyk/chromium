@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FocusRowBehavior unit tests
+// summary: Mocha tests verifying the FocusRowBehavior Polymer behavior, covering focus handling, IDs, and aria-rowindex attributes.
+// ---
+
 // clang-format off
 import {FocusRowBehavior} from 'chrome://resources/ash/common/focus_row_behavior.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

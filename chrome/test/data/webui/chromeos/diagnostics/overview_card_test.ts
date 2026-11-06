@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview card tests
+// summary: Browser tests for the diagnostics overview card, checking device name and version display plus handling of missing or TBD marketing names.
+// ---
+
 import 'chrome://diagnostics/overview_card.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

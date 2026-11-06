@@ -6,6 +6,12 @@
  * @fileoverview Test suite for the Network debug UI.
  */
 
+// ---docerion
+// type: test
+// title: Network debug UI browser test
+// summary: Browser test suite that verifies the Network debug UI, checking tab names and key elements across the General, Health, Logs, and State tabs.
+// ---
+
 GEN('#include "ash/constants/ash_features.h"');
 GEN('#include "content/public/test/browser_test.h"');
 

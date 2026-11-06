@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Boca UI test dependency allowlist
+summary: Grants the boca_app_browsertest access to the gcm_driver components it needs to construct a BocaManager through its production constructor.

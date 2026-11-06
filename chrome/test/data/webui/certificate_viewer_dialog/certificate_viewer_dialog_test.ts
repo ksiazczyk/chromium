@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate viewer dialog WebUI tests
+// summary: TypeScript mocha tests for the certificate viewer dialog, covering the dialog URL, certificate details, and trust and constraint changes via a test browser proxy.
+// ---
+
 import type {CrIconButtonElement} from 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import type {CrTreeBaseElement} from 'chrome://resources/cr_elements/cr_tree/cr_tree_base.js';
 import {assert} from 'chrome://resources/js/assert.js';

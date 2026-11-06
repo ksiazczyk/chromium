@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: find shortcut mixin tests
+// summary: WebUI test suite for the find shortcut mixin and manager verifying Ctrl+F and slash shortcut handling, modal context, and listener cleanup.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 

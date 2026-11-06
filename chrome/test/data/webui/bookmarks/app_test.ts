@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the bookmarks app element
+// summary: WebUI tests for the bookmarks app element, covering folder open state and sidebar width persistence, focus ring behavior and API proxy wiring.
+// ---
+
 import type {BookmarksAppElement, MojoRootNode} from 'chrome://bookmarks/bookmarks.js';
 import {ACCOUNT_HEADING_NODE_ID, BookmarksApiProxyImpl, HIDE_FOCUS_RING_ATTRIBUTE, LOCAL_HEADING_NODE_ID, LOCAL_STORAGE_FOLDER_STATE_KEY, LOCAL_STORAGE_TREE_WIDTH_KEY, normalizeMojoNode, PermanentFolderType, ROOT_NODE_ID} from 'chrome://bookmarks/bookmarks.js';
 import {COLORS_CSS_SELECTOR} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';

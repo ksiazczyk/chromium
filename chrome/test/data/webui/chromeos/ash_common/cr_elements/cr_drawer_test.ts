@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-drawer WebUI element tests
+// summary: Tests cr-drawer opening, closing, cancellation state, left-to-right and right-to-left alignment, and repeated calls to open, close, and toggle.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_drawer/cr_drawer.js';
 

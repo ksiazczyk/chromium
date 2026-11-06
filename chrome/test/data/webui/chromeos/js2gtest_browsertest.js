@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JS to gtest browser test fixture
+// summary: Browser test fixture that verifies js2gtest generation of C++ feature flags and field trial parameters declared in JavaScript tests.
+// ---
+
 GEN(`
 #include "base/metrics/field_trial_params.h"
 #include "content/public/test/browser_test.h"

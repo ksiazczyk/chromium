@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-lottie WebUI element tests
+// summary: Tests cr-lottie animation initialization, playback events, and canvas pixel rendering using sample green and blue Lottie data URLs.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_lottie/cr_lottie.js';
 

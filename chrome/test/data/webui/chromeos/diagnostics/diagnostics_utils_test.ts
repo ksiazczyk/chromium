@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics utils tests
+// summary: Tests for diagnostics utility functions such as KiB to GiB conversion, routing prefix to subnet mask mapping, and routine group setup.
+// ---
+
 import 'chrome://diagnostics/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

@@ -6,6 +6,12 @@
 // and functioning correctly in WebUI. The tests here do not make any assertions
 // but instead trigger the API calls which are then verified by the C++ test.
 
+// ---docerion
+// type: test
+// title: chrome.histograms WebUI mocha test
+// summary: WebUI mocha test that exercises every chrome.histograms recording function, with the actual histogram and user action verification done by the C++ browser test.
+// ---
+
 import {assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 suite('ChromeHistogramsTest', () => {

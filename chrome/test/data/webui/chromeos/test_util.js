@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI test utility helpers
+// summary: Test utilities offering promise-based waits for attributes, events and DOM checks plus visibility helpers, deliberately independent of the Chai assertion library.
+// ---
+
 // clang-format off
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 // clang-format on

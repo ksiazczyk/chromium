@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-radio-button tests
+// summary: WebUI test suite checking checked, disabled, ripple and label behavior of the cr-radio-button element.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';
 

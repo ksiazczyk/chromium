@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks policy tests
+// summary: Tests how the bookmarks app reacts to policy changes, updating incognito availability and edit permissions and their effect on command execution.
+// ---
+
 import type {BookmarksAppElement} from 'chrome://bookmarks/bookmarks.js';
 import {BookmarksCommandManagerElement, BrowserProxyImpl, Command, IncognitoAvailability} from 'chrome://bookmarks/bookmarks.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

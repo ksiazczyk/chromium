@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for bookmarks tests
+summary: Dependency check rules allowing includes from components/bookmarks for the bookmarks WebUI tests.

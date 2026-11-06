@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities
+// summary: Shared helpers that build bookmark trees, folders and items, and manage the test document body for bookmarks tests.
+// ---
+
 import type {BookmarksFolderNodeElement, FolderOpenState, MojoBookmarkNode, MojoRootNode, NodeMap} from 'chrome://bookmarks/bookmarks.js';
 import {normalizeNodes, PermanentFolderType, ROOT_NODE_ID} from 'chrome://bookmarks/bookmarks.js';
 import {isMac} from 'chrome://resources/js/platform.js';

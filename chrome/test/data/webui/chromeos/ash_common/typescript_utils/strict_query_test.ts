@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: strictQuery unit tests
+// summary: WebUI test suite verifying the strictQuery helper returns matching elements and throws when an element is missing or of the wrong type.
+// ---
+
 import {strictQuery} from 'chrome://resources/ash/common/typescript_utils/strict_query.js';
 import {assertEquals, assertThrows} from 'chrome://webui-test/chai_assert.js';
 

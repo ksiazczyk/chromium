@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for CrScrollableBehavior
+// summary: Tests scroll state classes plus saving and restoring scroll position for the CrScrollableBehavior mixin.
+// ---
+
 // clang-format off
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 

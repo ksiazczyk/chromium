@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for bookmarks WebUI tests
+summary: GN build definition for the bookmarks WebUI test targets, listing TypeScript test files, C++ browser tests and TypeScript dependencies.

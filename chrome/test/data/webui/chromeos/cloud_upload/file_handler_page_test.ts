@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud upload file handler page WebUI tests
+// summary: WebUI unit tests for the file-handler-page element of the ChromeOS cloud upload dialog, covering app selection and user actions via a test browser proxy.
+// ---
+
 import 'chrome://cloud-upload/file_handler_page.js';
 
 import type {DialogTask} from 'chrome://cloud-upload/cloud_upload.mojom-webui.js';

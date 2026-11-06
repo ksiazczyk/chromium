@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-lazy-render WebUI element tests
+// summary: Tests cr-lazy-render stamping of templates on demand and one-way and two-way data binding within the lazily rendered content.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_lazy_render/cr_lazy_render.js';
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';

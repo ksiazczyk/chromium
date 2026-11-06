@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth discovery delegate test double
+// summary: Implements a fake BluetoothDiscoveryDelegate that records discovered devices and notifies registered callbacks when the device list changes during tests.
+// ---
+
 import type {BluetoothDeviceProperties, BluetoothDiscoveryDelegateInterface} from 'chrome://resources/mojo/chromeos/ash/services/bluetooth_config/public/mojom/cros_bluetooth_config.mojom-webui.js';
 
 /**

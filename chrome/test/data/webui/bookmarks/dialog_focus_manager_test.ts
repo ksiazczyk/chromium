@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the bookmarks dialog focus manager
+// summary: WebUI tests verifying that the dialog focus manager restores focus after menus and dialogs are dismissed, stacked or shown repeatedly.
+// ---
+
 import type {BookmarksCommandManagerElement, BookmarksItemElement, BookmarksListElement} from 'chrome://bookmarks/bookmarks.js';
 import {Command, DialogFocusManager, MenuSource} from 'chrome://bookmarks/bookmarks.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

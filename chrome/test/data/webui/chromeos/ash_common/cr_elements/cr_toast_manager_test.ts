@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-toast-manager element tests
+// summary: WebUI test suite for cr-toast-manager covering getToastManager, show and hide, string piece rendering, duration pass-through, and slotted content hiding.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_toast/cr_toast_manager.js';
 

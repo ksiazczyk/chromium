@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Confirmation code page tests
+// summary: WebUI tests for the confirmation code page, covering forward navigation on Enter and display of the profile name.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/cellular_setup/confirmation_code_page.js';
 

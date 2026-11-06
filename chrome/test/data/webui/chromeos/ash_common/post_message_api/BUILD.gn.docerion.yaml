@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Post message API WebUI tests build file
+summary: GN build configuration that assembles the post message API WebUI test targets, listing the browser test, TypeScript tests and the static iframe page.

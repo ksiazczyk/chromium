@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks toolbar tests
+// summary: Tests the bookmarks toolbar, covering the selection overlay, delete commands and keyboard shortcuts in the search field.
+// ---
+
 import type {BookmarksToolbarElement} from 'chrome://bookmarks/bookmarks.js';
 import {BookmarkManagerApiProxyImpl, BookmarksApiProxyImpl, Command, PermanentFolderType} from 'chrome://bookmarks/bookmarks.js';
 import {isMac} from 'chrome://resources/js/platform.js';

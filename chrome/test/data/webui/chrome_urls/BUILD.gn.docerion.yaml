@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chrome-urls WebUI tests
+summary: GN build configuration that defines the chrome-urls WebUI test target, listing its C++ and TypeScript test sources and build dependencies.

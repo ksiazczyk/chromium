@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake barcode detector and image capture
+// summary: Test doubles for BarcodeDetector and ImageCapture that simulate QR code detection results and failures for cellular setup tests.
+// ---
+
 /**
  * Used by |FakeBarcodeDetector|, if false |FakeBarcodeDetector|
  * will return truthy values.

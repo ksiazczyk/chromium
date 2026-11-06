@@ -7,6 +7,12 @@
  * and/or have non-trivial logic.
  */
 
+// ---docerion
+// type: test
+// title: Tests for bookmarks action creators
+// summary: WebUI test suite for bookmark action creators, covering item selection, shift-range selection in lists and search results, and rejection of invalid folder selections.
+// ---
+
 import type {SelectItemsAction} from 'chrome://bookmarks/bookmarks.js';
 import {ROOT_NODE_ID, selectFolder, selectItem} from 'chrome://bookmarks/bookmarks.js';
 import {assertDeepEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';

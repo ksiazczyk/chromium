@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth pairing confirm code page WebUI tests
+// summary: Test suite verifying the pairing confirm code page displays the given code and fires the confirm-code event when the pair action is triggered.
+// ---
+
 import 'chrome://bluetooth-pairing/strings.m.js';
 import './fake_bluetooth_config.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_pairing_confirm_code_page.js';

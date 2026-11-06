@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the certificate provisioning list and entry elements
+// summary: Tests the certificate provisioning entry and list elements, including menu actions and details dialog, using a fake provisioning browser proxy.
+// ---
+
 import 'chrome://certificate-manager/certificate_provisioning_list.js';
 import 'chrome://certificate-manager/certificate_provisioning_entry.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser actuator internals WebUI browser test
+// summary: Browser test that enables the browser actuator features, allows internal-only WebUIs, and runs the mocha test suite for the browser actuator internals page.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/browser_actuator/internals/browser_actuator_internals_ui.h"
 #include "chrome/browser/browser_process.h"

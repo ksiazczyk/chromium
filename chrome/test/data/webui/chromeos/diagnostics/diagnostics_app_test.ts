@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics app tests
+// summary: WebUI test suite for the main Diagnostics app element, covering fake providers, the session log button, caution banner and toast behavior.
+// ---
+
 import 'chrome://diagnostics/diagnostics_app.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

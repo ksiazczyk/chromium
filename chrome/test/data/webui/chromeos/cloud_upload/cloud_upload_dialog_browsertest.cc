@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud upload dialog browser test
+// summary: Browser test that loads the cloud upload WebUI dialog for non-managed users and runs the associated JavaScript dialog test suite.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_dialog_browsertest.h"
 
 #include "ash/constants/webui_url_constants.h"

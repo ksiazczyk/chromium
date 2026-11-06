@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for cr-toolbar. */
 
+// ---docerion
+// type: test
+// title: cr-toolbar focus tests
+// summary: WebUI test suite for cr-toolbar checking autofocus propagation to the search field and menu button focus behavior.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_toolbar/cr_toolbar.js';
 

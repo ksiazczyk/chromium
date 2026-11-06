@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the cr-card-radio-button element
+// summary: Tests that the cr-card-radio-button element renders checked, unchecked and disabled states correctly with proper ARIA attributes.
+// ---
+
 // clang-format off
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_card_radio_button.js';
 

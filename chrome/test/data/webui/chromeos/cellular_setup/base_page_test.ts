@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base page tests
+// summary: WebUI tests for the cellular setup base page element, checking conditional display of the title and message icon.
+// ---
+
 import 'chrome://resources/ash/common/cellular_setup/base_page.js';
 
 import type {BasePageElement} from 'chrome://resources/ash/common/cellular_setup/base_page.js';

@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Provisioning page WebUI tests
+// summary: Checks that the cellular setup provisioning page renders its base page element.
+// ---
+
 import 'chrome://resources/ash/common/cellular_setup/provisioning_page.js';
 
 import type {ProvisioningPageElement} from 'chrome://resources/ash/common/cellular_setup/provisioning_page.js';

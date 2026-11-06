@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page toolbar tests
+// summary: Tests the page-toolbar element, verifying it initializes and displays the given title.
+// ---
+
 import {PageToolbarElement} from 'chrome://resources/ash/common/page_toolbar.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {flushTasks} from 'chrome://webui-test/polymer_test_util.js';

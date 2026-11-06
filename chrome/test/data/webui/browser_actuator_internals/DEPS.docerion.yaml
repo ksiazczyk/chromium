@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for browser actuator internals tests
+summary: Grants the test directory include access to the components/browser_actuator/public dependency.

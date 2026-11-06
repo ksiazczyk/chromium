@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Routine group tests
+// summary: Unit tests for the RoutineGroup class, checking group progress status transitions and correct handling of failed routines.
+// ---
+
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 
 import {createRoutine} from 'chrome://diagnostics/diagnostics_utils.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth pairing UI WebUI tests
+// summary: Exercises the bluetooth-pairing-ui element, verifying page transitions and pairing flows such as device selection, code entry, confirmation and cancellation using a fake Bluetooth config.
+// ---
+
 import 'chrome://bluetooth-pairing/strings.m.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_pairing_ui.js';
 

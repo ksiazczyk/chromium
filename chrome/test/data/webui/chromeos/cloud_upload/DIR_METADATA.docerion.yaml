@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata pointing to file manager mixins
+summary: DIR_METADATA entry that applies the shared file manager COMMON_METADATA mixins to this test directory.

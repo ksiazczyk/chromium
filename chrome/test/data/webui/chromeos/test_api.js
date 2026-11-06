@@ -8,6 +8,12 @@
 
 /* eslint-disable no-console */
 
+// ---docerion
+// type: test
+// title: WebUI test framework library
+// summary: Library providing basic test framework functionality for WebUI browser tests, including the testing.Test fixture with configuration and lifecycle callbacks.
+// ---
+
 /**
  * See assert.js for where this is used.
  * @suppress {globalThis}

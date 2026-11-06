@@ -4,6 +4,12 @@
 
 // These test suites test the local-certs-section component.
 
+// ---docerion
+// type: test
+// title: Local certificates section tests
+// summary: Tests the local-certs-section component, including OS certificate counts, managed import toggles, and plural strings across different platforms.
+// ---
+
 import 'chrome://certificate-manager/local_certs_section.js';
 
 import {PluralStringProxyImpl} from '//resources/js/plural_string_proxy.js';

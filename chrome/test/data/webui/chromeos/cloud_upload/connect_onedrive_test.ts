@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connect OneDrive page tests
+// summary: TypeScript tests for the connect-to-OneDrive page, checking successful sign-in, connection failure errors and cancel behaviour through the mocked proxy.
+// ---
+
 import 'chrome://cloud-upload/connect_onedrive.js';
 
 import {UserAction} from 'chrome://cloud-upload/cloud_upload.mojom-webui.js';

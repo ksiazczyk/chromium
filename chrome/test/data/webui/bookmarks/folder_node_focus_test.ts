@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Folder node keyboard focus tests
+// summary: Tests keyboard focus and selection behavior of the bookmarks folder node element, including tabindex handling and arrow key navigation.
+// ---
+
 import type {BookmarksFolderNodeElement, SelectFolderAction} from 'chrome://bookmarks/bookmarks.js';
 import {BookmarkManagerApiProxyImpl, BookmarksApiProxyImpl, changeFolderOpen, Command, ROOT_NODE_ID, selectFolder} from 'chrome://bookmarks/bookmarks.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';

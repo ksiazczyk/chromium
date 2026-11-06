@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test post message API client
+// summary: Test client running inside the iframe that exercises post message API methods and reports test completion to the server.
+// ---
+
 import {PostMessageApiClient} from 'chrome://resources/ash/common/post_message_api/post_message_api_client.js';
 import {RequestHandler} from 'chrome://resources/ash/common/post_message_api/post_message_api_request_handler.js';
 

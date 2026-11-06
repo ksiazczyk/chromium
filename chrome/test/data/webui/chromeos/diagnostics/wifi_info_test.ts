@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wi-Fi info element tests
+// summary: Web UI test suite verifying that the Wi-Fi info element populates network data points such as SSID, IP address, security, signal strength, and channel.
+// ---
+
 import 'chrome://diagnostics/wifi_info.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

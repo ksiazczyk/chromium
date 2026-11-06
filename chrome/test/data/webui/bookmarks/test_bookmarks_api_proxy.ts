@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test bookmarks API proxy
+// summary: Fake BookmarksApiProxy that simulates bookmark creation, updates, deletion and tree retrieval for tests.
+// ---
+
 import type {BookmarksApiProxy, MojoRootNode, NodeMap} from 'chrome://bookmarks/bookmarks.js';
 import {normalizeNodes} from 'chrome://bookmarks/bookmarks.js';
 import {FakeChromeEvent} from 'chrome://webui-test/fake_chrome_event.js';

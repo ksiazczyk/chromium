@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks utility function unit tests
+// summary: Unit tests for the bookmarks WebUI utility functions, covering descendant collection, ID removal from objects and sets, node editability and reordering rules, search, and default folder selection.
+// ---
+
 import {ACCOUNT_HEADING_NODE_ID, canEditNode, canReorderChildren, flattenNodes, getDefaultSelectedFolder, getDescendants, isRootNode, isRootOrChildOfRoot, LOCAL_HEADING_NODE_ID, PermanentFolderType, removeIdsFromObject, removeIdsFromSet, ROOT_NODE_ID, searchBookmarks} from 'chrome://bookmarks/bookmarks.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

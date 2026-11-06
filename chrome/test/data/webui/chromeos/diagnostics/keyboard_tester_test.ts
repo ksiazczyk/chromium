@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard tester tests
+// summary: Tests the keyboard tester element, including top-right key corrections and F13 remapping behavior against a fake keyboard.
+// ---
+
 import 'chrome://diagnostics/keyboard_tester.js';
 import 'chrome://diagnostics/strings.m.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

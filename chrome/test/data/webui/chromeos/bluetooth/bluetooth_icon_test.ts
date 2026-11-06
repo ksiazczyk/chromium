@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Bluetooth icon WebUI tests
+// summary: Test suite asserting the Bluetooth icon element renders the correct device type icon or a default image depending on device properties and image URL availability.
+// ---
+
 import 'chrome://resources/ash/common/bluetooth/bluetooth_icon.js';
 
 import type {IronIconElement} from '//resources/polymer/v3_0/iron-icon/iron-icon.js';

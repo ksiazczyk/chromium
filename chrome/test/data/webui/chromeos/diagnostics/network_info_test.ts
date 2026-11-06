@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network info tests
+// summary: Tests that the network info element shows the correct Wi-Fi, cellular, or Ethernet info sub-element when the network changes.
+// ---
+
 import 'chrome://diagnostics/network_info.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

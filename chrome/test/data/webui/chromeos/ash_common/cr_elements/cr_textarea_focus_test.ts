@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cr-textarea element tests
+// summary: WebUI test suite checking cr-textarea value syncing, label visibility, disabled state, rows, and underline and footer colors on focus and invalid states.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_textarea/cr_textarea.js';
 
 import type {CrTextareaElement} from 'chrome://resources/ash/common/cr_elements/cr_textarea/cr_textarea.js';

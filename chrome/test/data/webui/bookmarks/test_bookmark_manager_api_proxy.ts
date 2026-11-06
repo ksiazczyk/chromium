@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test bookmark manager API proxy
+// summary: Fake BookmarkManagerApiProxy that records calls for copy, cut, paste, drag, drop and open-in-new commands during tests.
+// ---
+
 import type {BookmarkManagerApiProxy, OpenInNewTabParams} from 'chrome://bookmarks/bookmarks.js';
 import {FakeChromeEvent} from 'chrome://webui-test/fake_chrome_event.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

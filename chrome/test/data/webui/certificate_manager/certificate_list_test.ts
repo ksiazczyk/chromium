@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the certificate-list WebUI element
+// summary: Tests the certificate-list element's rendering of certificate entries, collapse behavior, and export action against a test proxy.
+// ---
+
 import 'chrome://certificate-manager/certificate_list.js';
 
 import type {CertificateListElement} from 'chrome://certificate-manager/certificate_list.js';

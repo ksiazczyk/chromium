@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sample tests for the downloads page
+// summary: Sample tests exercising the JS test library and demonstrating how the framework could be used to test the downloads page.
+// ---
+
 // Sample tests that exercise the test JS library and show how this framework
 // could be used to test the downloads page.
 function testAssertFalse() {

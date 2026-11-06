@@ -1,0 +1,4 @@
+# Docerion header of cr_test.html.
+type: test
+title: HTML harness for cr.js tests
+summary: Loads cr.js so the cr_test.js Mocha suite can exercise the cr utility library in the browser.

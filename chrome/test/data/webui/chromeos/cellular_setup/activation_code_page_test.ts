@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activation code page tests
+// summary: WebUI tests for the cellular setup activation code page, exercising QR code scanning, camera media devices and activation code input validation.
+// ---
+
 import 'chrome://os-settings/strings.m.js';
 import 'chrome://resources/ash/common/cellular_setup/activation_code_page.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ethernet info tests
+// summary: Tests for the ethernet info element verifying IP address and authentication data points based on fake network data.
+// ---
+
 import 'chrome://diagnostics/ethernet_info.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

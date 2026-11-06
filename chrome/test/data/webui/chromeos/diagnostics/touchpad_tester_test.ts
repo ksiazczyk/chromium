@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touchpad tester element tests
+// summary: Web UI test suite checking touchpad tester dialog initialization, show and close behavior, and drawing of touch events on the canvas.
+// ---
+
 import 'chrome://diagnostics/strings.m.js';
 import 'chrome://diagnostics/touchpad_tester.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';

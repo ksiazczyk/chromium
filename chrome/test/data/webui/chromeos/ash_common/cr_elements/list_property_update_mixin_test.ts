@@ -4,6 +4,12 @@
 
 /** @fileoverview Suite of tests for the ListPropertyUpdateMixin.  */
 
+// ---docerion
+// type: test
+// title: ListPropertyUpdateMixin tests
+// summary: WebUI test suite verifying ListPropertyUpdateMixin's updateList behavior for simple and nested arrays, including splice notifications.
+// ---
+
 import {ListPropertyUpdateMixin} from 'chrome://resources/ash/common/cr_elements/list_property_update_mixin.js';
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

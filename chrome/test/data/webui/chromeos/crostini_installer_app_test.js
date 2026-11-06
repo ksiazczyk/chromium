@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini installer app tests
+// summary: Mocha tests for the Crostini installer WebUI app covering the install flow, cancellation, and disk space handling with fake proxies.
+// ---
+
 import 'chrome://crostini-installer/app.js';
 import 'chrome://webui-test/chromeos/mojo_webui_test_support.js';
 

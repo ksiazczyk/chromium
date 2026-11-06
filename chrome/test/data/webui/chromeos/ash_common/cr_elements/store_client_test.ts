@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StoreClient mixin tests
+// summary: WebUI test suite for the StoreClient mixin, verifying display of store values, conditional property updates, and observer lifecycle on removal.
+// ---
+
 import {makeStoreClientMixin} from 'chrome://resources/ash/common/cr_elements/store_client/store_client.js';
 import {assertNotReachedCase} from 'chrome://resources/js/assert.js';
 import type {Action} from 'chrome://resources/js/store.js';

@@ -12,6 +12,12 @@
 // (instead of binding |this|), since |this| within those objects will reference
 // the Mocha Suite or Test instance.
 
+// ---docerion
+// type: test
+// title: Mocha adapter for browser tests
+// summary: Mocha adapter that connects the Mocha test runner to the browser test framework, reporting pass and fail counts through testDone.
+// ---
+
 /**
  * Initializes a mocha reporter for the BrowserTest framework, which registers
  * event listeners on the given Runner.
