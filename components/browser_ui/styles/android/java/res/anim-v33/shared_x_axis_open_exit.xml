@@ -8,6 +8,13 @@ This is a variation of GM3's Forward/backward transition, with changes
 on the durations.
 https://m3.material.io/styles/motion/transitions/transition-patterns
 -->
+
+<!--docerion
+type: config
+title: Shared X axis open exit animation resource
+summary: Android animation resource defining the exit transition when opening, fading out and translating to -25% along the x axis per the GM3 transition pattern.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:shareInterpolator="false">
     <alpha android:fromAlpha="1.0"

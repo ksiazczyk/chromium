@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dark theme drawable alias for play circle icon
+summary: Aliases the play circle filled icon to its dark-background variant for night mode.
+-->
+
 <resources>
     <drawable name="ic_play_circle_filled_24dp">
         @drawable/ic_play_circle_filled_24dp_on_dark_bg

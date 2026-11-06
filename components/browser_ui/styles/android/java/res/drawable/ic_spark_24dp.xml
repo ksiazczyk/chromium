@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Spark icon vector drawable
+summary: Android vector drawable rendering a white 24dp spark (sparkle) icon for Chromium browser UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
         android:height="24dp"
         android:width="24dp"

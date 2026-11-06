@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Chrome browser UI color definitions
+summary: Defines named colors and macros for toolbar, navigation bar, control, favicon, chip, and empty state coloring across Chrome's Android browser UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Surface tint -->
     <color name="gm3_baseline_surface_tint">@color/gm3_baseline_surface_tint_light</color>

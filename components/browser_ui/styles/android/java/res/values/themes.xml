@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Browser UI theme overlays
+summary: Defines theme overlays for fullscreen dialogs, dynamic colors, elevation settings, and dark mode action bars in Chrome's Android UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Theme overlays -->
 

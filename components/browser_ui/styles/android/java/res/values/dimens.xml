@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Chrome browser UI dimension values
+summary: Defines dimension values for menus, dialogs, toolbars, favicons, new tab page elements, and bookmark bar chips in Chrome's Android UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Standard menu dimensions -->
     <dimen name="menu_width">258dp</dimen>

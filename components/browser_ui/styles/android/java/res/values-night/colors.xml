@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dark theme color resources for browser UI
+summary: Defines night-mode color overrides for the browser UI, mapping control, highlight, surface tint, and empty-state colors to their dark variants.
+-->
+
 <resources>
     <!-- Surface tint -->
     <color name="gm3_baseline_surface_tint">@color/gm3_baseline_surface_tint_dark</color>

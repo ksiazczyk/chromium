@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet dimensions for the signin promo
+summary: Defines tablet-specific dimension values, such as lateral paddings, for the polished signin promo in the browser UI resources.
+-->
+
 <resources>
     <!-- Polished Signin promo dimensions -->
     <dimen name="signin_promo_lateral_paddings">0dp</dimen>

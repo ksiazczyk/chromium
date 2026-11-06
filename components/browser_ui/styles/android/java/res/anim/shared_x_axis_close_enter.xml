@@ -8,6 +8,13 @@ This is a variation of GM3's Forward/backward transition, with changes
 on the durations.
 https://m3.material.io/styles/motion/transitions/transition-patterns
 -->
+
+<!--docerion
+type: asset
+title: Shared X axis close enter animation
+summary: Android animation resource for the enter step of a close (backward) transition, fading in while translating from -25% with Material 3 easing and adjusted durations.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <alpha android:fromAlpha="0.0"
             android:toAlpha="1.0"

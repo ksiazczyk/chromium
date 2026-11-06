@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser UI styles
+summary: Defines dependency rules for the browser UI styles directory, allowing includes from ui/android.

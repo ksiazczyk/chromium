@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tablet style overrides for browser UI
+summary: Overrides the ModernToolbar background and the fullscreen theme overlay for tablet-sized screens in the browser UI resources.
+-->
+
 <resources>
     <style name="ModernToolbar" parent="Base.ModernToolbar">
         <item name="android:background">@null</item>

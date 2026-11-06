@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: File download icon vector drawable, 36 dp
+summary: Android vector drawable providing a 36 dp file download icon for Chromium's browser UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="36dp"
     android:height="36dp"

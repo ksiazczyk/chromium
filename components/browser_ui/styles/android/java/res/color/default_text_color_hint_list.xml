@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Default text color hint tint list
+summary: Android color selector for hint text using the on-surface variant color with a disabled on-surface state at default disabled alpha.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/default_disabled_alpha" android:color="?attr/colorOnSurface"
         android:state_enabled="false"/>

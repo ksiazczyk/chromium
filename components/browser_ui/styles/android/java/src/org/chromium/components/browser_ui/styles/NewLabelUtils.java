@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'NewLabelUtils: New badge helpers for marked strings'
+// summary: Utility that adds or removes the standard New badge on strings containing <new>...</new> markers, delegating to NewLabelSpan to avoid clipping.
+// ---
+
 package org.chromium.components.browser_ui.styles;
 
 import android.content.Context;

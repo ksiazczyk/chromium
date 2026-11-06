@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: GM3 dynamic color resources for Android S and above
+summary: Android values-v31 resource XML that maps material primary, secondary and tertiary color names to Material You dynamic colors for Android 12+.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!-- GM3 dynamic colors for Android S and above.-->
   <!-- go/keep-sorted start group_start_regex=<color -->

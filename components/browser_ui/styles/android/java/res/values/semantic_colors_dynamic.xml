@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Dynamic semantic color macros
+summary: Defines semantic color macros resolving to Material theme attributes for dynamic theming, kept in sync with SemanticColorUtils.java.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- LINT.IfChange -->
     <macro name="default_bg_color">?attr/colorSurface</macro>

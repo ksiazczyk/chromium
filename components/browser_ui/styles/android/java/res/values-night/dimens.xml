@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dark theme dimension resources for browser UI
+summary: Provides a night-mode dimension override for the site settings zoom button vertical inset.
+-->
+
 <resources>
     <!-- Site settings zoom -->
     <dimen name="site_settings_zoom_button_vertical_inset">8dp</dimen>

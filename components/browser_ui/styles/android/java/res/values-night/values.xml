@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dark theme system bar boolean resources
+summary: Sets night-mode boolean flags so the navigation and status bars use light icons on a dark background.
+-->
+
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Bottom navigation bar styling. -->
     <bool name="window_light_navigation_bar">false</bool>

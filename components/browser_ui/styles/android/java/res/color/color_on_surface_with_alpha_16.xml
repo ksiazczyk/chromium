@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: On-surface color at 16 percent alpha
+summary: Color selector that applies 0.16 alpha to the theme's colorOnSurface attribute for translucent on-surface coloring.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item
     android:alpha="0.16"

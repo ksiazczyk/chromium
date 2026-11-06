@@ -7,6 +7,13 @@ found in the LICENSE file.
 Material 3: Forward/backward transition
 https://m3.material.io/styles/motion/transitions/transition-patterns
 -->
+
+<!--docerion
+type: config
+title: Shared X-axis open enter animator
+summary: Android animator resource defining the Material 3 shared X-axis open-enter transition using alpha and translationX object animators.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android"
         android:ordering="together">
     <set android:ordering="sequentially">

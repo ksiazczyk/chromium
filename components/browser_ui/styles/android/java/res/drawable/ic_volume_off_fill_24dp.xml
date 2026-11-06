@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Filled volume off 24dp icon
+summary: Android vector drawable of a filled 24dp muted speaker icon with a slash, tinted by colorControlNormal.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

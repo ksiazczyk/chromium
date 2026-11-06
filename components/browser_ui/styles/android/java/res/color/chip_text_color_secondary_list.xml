@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Chip secondary text color state list
+summary: Color selector for secondary chip text that applies a disabled alpha and switches between on-accent2-container and assistive chip colors based on selection and enabled state.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/default_disabled_alpha"
         android:color="@macro/default_text_color_on_accent2_container"

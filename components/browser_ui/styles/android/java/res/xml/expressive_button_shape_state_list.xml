@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Expressive button shape state list
+summary: Android selector XML that switches a button's shape appearance between pressed, selected, checked, and default Material3 full-corner states.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:state_pressed="true"

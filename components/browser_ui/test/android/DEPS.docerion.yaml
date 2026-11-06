@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser UI Android tests
+summary: Grants this directory permission to include headers and code from ui/android.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Back to tab icon 20dp
+summary: Android vector drawable providing a 20 dp back-to-tab icon, tinted by the control normal color.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="20dp"
     android:height="20dp"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: ic_photo_library_fill_24dp
+summary: Android vector drawable of a filled 24 dp photo library icon tinted via the colorControlNormal attribute.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the browser_ui styles Android component
+summary: GN build configuration defining the Java library, Robolectric unit tests, and Android resources such as colors and animations for the browser_ui styles component.

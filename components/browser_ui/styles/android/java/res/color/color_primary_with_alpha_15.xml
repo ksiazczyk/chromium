@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Primary color with 15% alpha selector
+summary: Android color selector that renders the theme primary color at 15% alpha for browser UI styling.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:alpha="0.15" android:color="?attr/colorPrimary" />
 </selector>

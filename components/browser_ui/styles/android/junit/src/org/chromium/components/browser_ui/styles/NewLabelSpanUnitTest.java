@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NewLabelSpan unit tests
+// summary: Unit tests for NewLabelSpan verifying that reserving line-box space keeps a raised badge from clipping in tall-script fonts, unlike a plain superscript baseline shift.
+// ---
+
 package org.chromium.components.browser_ui.styles;
 
 import static org.junit.Assert.assertEquals;

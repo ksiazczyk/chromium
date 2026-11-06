@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Animated icon faded color state list
+summary: Android color selector that tints animated icons with the accent1 icon color at a faded alpha level.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/icon_animated_faded_alpha" android:color="@macro/default_icon_color_accent1" />
 </selector>

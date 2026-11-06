@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ChromeColors: default colors for Chrome UI'
+// summary: Java helper that supplies common default theme, background, text style, and icon tint colors for the Chrome UI, switching between adaptive and incognito variants.
+// ---
+
 package org.chromium.components.browser_ui.styles;
 
 import android.content.Context;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Drawable name aliases for Chrome UI icons
+summary: Maps generic drawable names such as the settings cog and storage icon to specific icon drawables used elsewhere in Chrome's Android UI.
+-->
+
 <resources>
     <drawable name="ic_play_circle_filled_24dp">
         @drawable/ic_play_circle_filled_24dp_on_light_bg

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Default dark icon color state tint list
+summary: Color selector applying the dark default icon color across selected, focused, pressed, activated and disabled states for icon tinting.
+-->
+
 <!-- The colors used here should match the colors in non-night mode standard_mode_tint. -->
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_selected="true" android:color="@color/default_icon_color_dark" />
