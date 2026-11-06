@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatisticsProviderImpl header
+// summary: Declares StatisticsProviderImpl with configurable statistics sources, file watchers and loading state tracking.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_STATISTICS_PROVIDER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_STATISTICS_PROVIDER_IMPL_H_
 

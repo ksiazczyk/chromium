@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network eligibility checker implementation
+// summary: Determines whether a WiFi network is eligible for sync, logging reasons such as policy restrictions, bad passwords, hidden SSIDs, or unsupported security types.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/network_eligibility_checker.h"
 
 #include "chromeos/ash/components/network/network_event_log.h"

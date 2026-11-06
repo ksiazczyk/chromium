@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake local network collector implementation for tests
+// summary: Implements an in-memory fake of LocalNetworkCollector that returns stored network protos and tracks autoconnect fixes for tests.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/fake_local_network_collector.h"
 
 #include "base/functional/callback.h"

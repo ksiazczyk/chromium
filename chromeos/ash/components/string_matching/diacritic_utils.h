@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveDiacritics function declaration
+// summary: Declares RemoveDiacritics, a helper that strips diacritics from a string for diacritic-insensitive matching.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_DIACRITIC_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_DIACRITIC_UTILS_H_
 

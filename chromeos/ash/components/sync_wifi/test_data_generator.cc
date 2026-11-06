@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data generator for Wi-Fi sync
+// summary: Provides helpers that build NetworkIdentifier objects and sample WifiConfigurationSpecifics protos for use in unit tests.
+// ---
+
 #include "base/notreached.h"
 #include "base/strings/string_number_conversions.h"
 #include "chromeos/ash/components/sync_wifi/network_identifier.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StatisticsProviderImpl unit tests
+// summary: Unit tests for the statistics provider implementation using fake crossystem, VPD and runtime HWID tools in temporary directories.
+// ---
+
 #include "chromeos/ash/components/system/statistics_provider_impl.h"
 
 #include <map>

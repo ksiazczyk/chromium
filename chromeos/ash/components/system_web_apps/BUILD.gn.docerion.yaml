@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for system_web_app_type
+summary: GN build file that asserts a ChromeOS build and defines a source_set containing the system_web_app_type.h header.

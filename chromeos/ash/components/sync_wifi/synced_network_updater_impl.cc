@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedNetworkUpdater implementation
+// summary: Implements SyncedNetworkUpdater by applying synced Wi-Fi configuration changes through CrosNetworkConfig, with retry and timeout handling.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/synced_network_updater_impl.h"
 
 #include "base/functional/bind.h"

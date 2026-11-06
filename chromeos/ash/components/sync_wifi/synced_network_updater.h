@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedNetworkUpdater interface
+// summary: Interface for applying add, update, and delete operations for synced Wi-Fi networks to the local Chrome OS networking stack.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_SYNCED_NETWORK_UPDATER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_SYNCED_NETWORK_UPDATER_H_
 

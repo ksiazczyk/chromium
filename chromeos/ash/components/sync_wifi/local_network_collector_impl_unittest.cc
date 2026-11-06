@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local network collector unit tests
+// summary: Unit tests for LocalNetworkCollectorImpl verifying syncable network collection, passphrase retrieval, proxy handling, and autoconnect fixes.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/local_network_collector_impl.h"
 
 #include <memory>

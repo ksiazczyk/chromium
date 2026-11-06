@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending network configuration update header
+// summary: Defines a pending network configuration change holding the network identifier, change GUID, sync specifics, and completed attempt count.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_PENDING_NETWORK_CONFIGURATION_UPDATE_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_PENDING_NETWORK_CONFIGURATION_UPDATE_H_
 

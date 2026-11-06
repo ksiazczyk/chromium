@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network type conversions header
+// summary: Declares conversion functions between mojo network configuration types and sync WiFi configuration protobufs, such as security, proxy, and auto-connect options.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_NETWORK_TYPE_CONVERSIONS_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_NETWORK_TYPE_CONVERSIONS_H_
 

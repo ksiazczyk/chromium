@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenizedString fuzzer
+// summary: Fuzz target that runs TokenizedString tokenization on arbitrary UTF-16 input to find crashes.
+// ---
+
 #include <string>
 
 #include "chromeos/ash/components/string_matching/tokenized_string.h"

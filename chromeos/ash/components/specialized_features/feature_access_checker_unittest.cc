@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FeatureAccessChecker
+// summary: Tests each access check of FeatureAccessChecker, covering kiosk mode, preferences, feature flags, secret keys, account capabilities and country restrictions.
+// ---
+
 #include "chromeos/ash/components/specialized_features/feature_access_checker.h"
 
 #include <memory>

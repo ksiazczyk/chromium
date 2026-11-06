@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestSuite implementation
+// summary: Implements the AshTestSuite test suite, setting up software GL, accessibility and network test trackers, path providers, and ash test resource packs.
+// ---
+
 #include "chromeos/ash/components/test/ash_test_suite.h"
 
 #include "ash/constants/ash_paths.h"

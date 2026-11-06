@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiConfigurationBridge class header
+// summary: Declares WifiConfigurationBridge, a sync bridge that merges network configuration updates from sync and the system network stack.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_WIFI_CONFIGURATION_BRIDGE_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_WIFI_CONFIGURATION_BRIDGE_H_
 

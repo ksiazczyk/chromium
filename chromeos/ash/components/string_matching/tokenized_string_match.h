@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenizedStringMatch class header
+// summary: Declares a matcher that scores how well a tokenized query matches text and records matched index ranges.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_TOKENIZED_STRING_MATCH_H_
 #define CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_TOKENIZED_STRING_MATCH_H_
 

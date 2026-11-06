@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for string_matching
+summary: Grants the string_matching directory an include dependency on ui/gfx.

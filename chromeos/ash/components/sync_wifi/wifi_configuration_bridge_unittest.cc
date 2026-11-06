@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiConfigurationBridge unit tests
+// summary: Unit tests for WifiConfigurationBridge covering merge, incremental sync changes, and local network configuration handling.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/wifi_configuration_bridge.h"
 
 #include <algorithm>

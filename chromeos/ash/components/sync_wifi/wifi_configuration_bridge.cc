@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi configuration sync bridge implementation
+// summary: Implements the DataTypeSyncBridge that keeps Wi-Fi configurations in sync between the Chrome sync backend and the local network stack.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/wifi_configuration_bridge.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wifi configuration sync service implementation
+// summary: Implements the WifiConfigurationSyncService keyed service, wiring together the sync bridge, network updater, collector, metrics logger and timer factory for Wi-Fi configuration syncing.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/wifi_configuration_sync_service.h"
 
 #include <utility>

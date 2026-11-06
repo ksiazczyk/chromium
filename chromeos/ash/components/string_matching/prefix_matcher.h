@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefixMatcher class header
+// summary: Declares PrefixMatcher, which matches query characters as prefixes of text tokens, along with its scoring constants and MatchInfo helper.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_PREFIX_MATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_PREFIX_MATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequence matcher implementation
+// summary: Implements longest common substring search and similarity ratio computation between two strings using optimized dynamic programming with character position maps.
+// ---
+
 #include "chromeos/ash/components/string_matching/sequence_matcher.h"
 
 #include <algorithm>

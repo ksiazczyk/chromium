@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzy tokenized string match unit tests
+// summary: Unit tests verifying relevance scores, ratio behavior, score ordering and a regression time bound for the fuzzy tokenized string matcher.
+// ---
+
 #include "chromeos/ash/components/string_matching/fuzzy_tokenized_string_match.h"
 
 #include <ranges>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuUsageData class header
+// summary: Declares the CpuUsageData class that stores user, system and idle CPU times and supports delta calculations for CPU usage.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_INFO_CPU_USAGE_DATA_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_INFO_CPU_USAGE_DATA_H_
 

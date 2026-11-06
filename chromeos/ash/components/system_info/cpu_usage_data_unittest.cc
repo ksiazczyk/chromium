@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CpuUsageData unit tests
+// summary: Unit tests covering CpuUsageData initialization, total time and addition and subtraction operators.
+// ---
+
 #include "chromeos/ash/components/system_info/cpu_usage_data.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

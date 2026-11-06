@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network test helper implementation
+// summary: Sets up fake network handlers, user sessions, and preferences so tests can configure and exercise WiFi sync network classes.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/network_test_helper.h"
 
 #include "base/files/file_path.h"

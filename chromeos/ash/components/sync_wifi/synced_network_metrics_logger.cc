@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced network metrics logger implementation
+// summary: Implements metrics logging for connections and update operations on sync-configured networks, mapping shill error strings to failure reason enums.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/synced_network_metrics_logger.h"
 
 #include "base/functional/bind.h"

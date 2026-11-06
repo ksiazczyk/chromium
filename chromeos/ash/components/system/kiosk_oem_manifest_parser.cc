@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk OEM manifest parser implementation
+// summary: Loads a kiosk OEM manifest JSON file and fills a Manifest struct with enterprise management, enrollment exit, requisition, and OOBE settings.
+// ---
+
 #include "chromeos/ash/components/system/kiosk_oem_manifest_parser.h"
 
 #include <memory>

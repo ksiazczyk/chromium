@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedNetworkUpdaterImpl class header
+// summary: Declares SyncedNetworkUpdaterImpl, which applies sync backend network changes to the local network stack and observes network state changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_SYNCED_NETWORK_UPDATER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_SYNCED_NETWORK_UPDATER_IMPL_H_
 

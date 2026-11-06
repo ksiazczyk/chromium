@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupervisedUserServiceProvider interface header
+// summary: Declares the abstract SupervisedUserServiceProvider interface that exposes SupervisedUserService to ChromeOS callers without depending on //chrome's Profile-keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SUPERVISED_USER_SUPERVISED_USER_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SUPERVISED_USER_SUPERVISED_USER_SERVICE_PROVIDER_H_
 

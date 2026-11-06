@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wifi configuration sync service provider implementation
+// summary: Implements the process-wide singleton lifecycle of WifiConfigurationSyncServiceProvider, registering and clearing the global instance.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/wifi_configuration_sync_service_provider.h"
 
 #include "base/check.h"

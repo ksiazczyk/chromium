@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sequence matcher unit tests
+// summary: Unit tests covering longest match finding, matching blocks, and similarity ratios with and without penalty and text-length agnosticism, including empty strings.
+// ---
+
 #include "chromeos/ash/components/string_matching/sequence_matcher.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

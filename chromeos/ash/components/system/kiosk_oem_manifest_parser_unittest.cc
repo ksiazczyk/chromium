@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk OEM manifest parser unit test
+// summary: Verifies that a sample kiosk_manifest.json test file loads with the expected enterprise managed, enrollment, and OOBE values.
+// ---
+
 #include "chromeos/ash/components/system/kiosk_oem_manifest_parser.h"
 
 #include "chromeos/test/chromeos_test_utils.h"

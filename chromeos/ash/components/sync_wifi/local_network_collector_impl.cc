@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local network collector implementation
+// summary: Implements collection of local ChromeOS network configurations via Shill and cros_network_config, converting eligible networks into syncable WiFi protos.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/local_network_collector_impl.h"
 
 #include "ash/constants/ash_features.h"

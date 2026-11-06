@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CpuData class header
+// summary: Declares the CpuData class that stores final CPU usage and health data, including user, system and free percentages, temperature and frequency.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_INFO_CPU_DATA_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_INFO_CPU_DATA_H_
 

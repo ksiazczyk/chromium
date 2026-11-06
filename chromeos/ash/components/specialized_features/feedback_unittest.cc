@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for specialized features feedback
+// summary: Verifies SendFeedback uses the product id, sends the description, and redacts sensitive content at the start and end of the description.
+// ---
+
 #include "chromeos/ash/components/specialized_features/feedback.h"
 
 #include <memory>

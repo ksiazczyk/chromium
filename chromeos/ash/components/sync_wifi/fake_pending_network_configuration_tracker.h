@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePendingNetworkConfigurationTracker test double header
+// summary: Declares a test fake of PendingNetworkConfigurationTracker that stores pending updates in maps and retains completed attempt counts for verification.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_FAKE_PENDING_NETWORK_CONFIGURATION_TRACKER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_FAKE_PENDING_NETWORK_CONFIGURATION_TRACKER_H_
 

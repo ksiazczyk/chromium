@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcronymMatcher class declaration
+// summary: Declares AcronymMatcher, which matches query characters as an acronym of tokens in the text and exposes the hit ranges of the match.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_ACRONYM_MATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_ACRONYM_MATCHER_H_
 

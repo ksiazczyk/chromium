@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the sync_wifi component
+summary: Defines GN build targets for the sync_wifi static library, the eligibility checker, test support, and unit tests with their dependencies.

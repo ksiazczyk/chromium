@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chrome OS string matching library overview
+summary: Describes the string matching library that scores similarity between strings, its fuzzy and non-fuzzy entry points, and how to run benchmarking tests with verbose logging.
+relations:
+  - documents /chromeos/ash/components/string_matching/fuzzy_tokenized_string_match.cc
+---
+
 ## About
 
 This Chrome OS string matching library provides functionality to compute the

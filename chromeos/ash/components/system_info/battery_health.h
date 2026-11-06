@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryHealth class header
+// summary: Declares the BatteryHealth class that stores battery cycle count, wear percentage, power time, accessibility label and battery percentage.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_INFO_BATTERY_HEALTH_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_INFO_BATTERY_HEALTH_H_
 

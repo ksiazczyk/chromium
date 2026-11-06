@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending network configuration tracker implementation
+// summary: Implements the pending update tracker by persisting in-flight network changes, specifics, and attempt counts in profile preferences.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/pending_network_configuration_tracker_impl.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Diagnostics BUILD.gn build definition
+summary: Defines the ChromeOS-only diagnostics source set that compiles mojo_utils.cc and mojo_utils.h with dependencies on base and Mojo C++ bindings.

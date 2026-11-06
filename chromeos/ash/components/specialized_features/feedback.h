@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendFeedback declaration for specialized features
+// summary: Declares SendFeedback, which uploads redacted feedback about a specialized feature, and documents redaction limitations of the description.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SPECIALIZED_FEATURES_FEEDBACK_H_
 #define CHROMEOS_ASH_COMPONENTS_SPECIALIZED_FEATURES_FEEDBACK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake sync service provider implementation
+// summary: Implements the test fake that maps account IDs to SyncService instances and looks them up via Find().
+// ---
+
 #include "chromeos/ash/components/sync/fake_sync_service_provider.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuzzyTokenizedStringMatch class header
+// summary: Declares the FuzzyTokenizedStringMatch class that matches a query against text, returns a relevance score in [0,1] and records matched portions as index ranges.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_FUZZY_TOKENIZED_STRING_MATCH_H_
 #define CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_FUZZY_TOKENIZED_STRING_MATCH_H_
 

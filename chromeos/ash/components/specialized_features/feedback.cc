@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback sending with description redaction
+// summary: Builds feedback reports with Chrome and ChromeOS version logs, redacts the description, and queues them through the feedback uploader.
+// ---
+
 #include "chromeos/ash/components/specialized_features/feedback.h"
 
 #include <optional>

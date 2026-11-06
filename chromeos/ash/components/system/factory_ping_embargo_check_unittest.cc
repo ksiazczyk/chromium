@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Factory ping embargo check unit tests
+// summary: Unit tests covering missing, malformed, invalid, not-yet-passed, and passed RLZ embargo end dates using a fake statistics provider.
+// ---
+
 #include "chromeos/ash/components/system/factory_ping_embargo_check.h"
 
 #include "base/strings/stringprintf.h"

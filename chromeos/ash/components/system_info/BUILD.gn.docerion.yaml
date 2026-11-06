@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the system_info component
+summary: Defines the GN build targets, sources and dependencies for the ChromeOS ash system_info component and its unit tests.

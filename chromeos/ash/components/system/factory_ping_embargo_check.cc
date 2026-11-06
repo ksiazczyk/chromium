@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory ping embargo state check implementation
+// summary: Implements parsing and validation of the factory ping embargo end date from VPD, reporting date validity via UMA histograms.
+// ---
+
 #include "chromeos/ash/components/system/factory_ping_embargo_check.h"
 
 #include <string>

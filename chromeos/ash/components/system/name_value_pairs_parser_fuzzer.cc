@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NameValuePairsParser fuzzer
+// summary: libFuzzer harness that feeds random input to the name-value pairs parser to exercise VPD dump format handling.
+// ---
+
 #include "chromeos/ash/components/system/name_value_pairs_parser.h"
 
 #include <stddef.h>

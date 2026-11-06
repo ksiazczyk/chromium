@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemWebAppType enum header
+// summary: Defines the SystemWebAppType enum listing ChromeOS system web apps such as File Manager, Settings, and Terminal, with persisted values used to retrieve app IDs from the web app system.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_TYPE_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_TYPE_H_
 

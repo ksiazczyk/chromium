@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TermBreakIterator class header
+// summary: Declares an iterator that splits a word into terms at camel case and alpha/number boundaries.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_TERM_BREAK_ITERATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_TERM_BREAK_ITERATOR_H_
 

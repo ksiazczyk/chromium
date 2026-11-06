@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diacritic removal implementation
+// summary: Implements RemoveDiacritics, mapping Latin accented characters to their base letters for diacritic-insensitive search.
+// ---
+
 #include "chromeos/ash/components/string_matching/diacritic_utils.h"
 
 #include <string>

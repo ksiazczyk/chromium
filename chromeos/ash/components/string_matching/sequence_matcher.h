@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceMatcher class header
+// summary: Declares SequenceMatcher, inspired by Python's difflib, which computes string similarity ratios and matching blocks with optional block-count penalty and text-length agnosticism.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_SEQUENCE_MATCHER_H_
 #define CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_SEQUENCE_MATCHER_H_
 
