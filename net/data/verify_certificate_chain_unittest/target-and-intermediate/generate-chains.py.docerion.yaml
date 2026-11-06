@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for target-and-intermediate tests
+summary: Python script that generates chain.pem, a serverAuth chain of root, intermediate, and target certificates, for the verify_certificate_chain unit tests.

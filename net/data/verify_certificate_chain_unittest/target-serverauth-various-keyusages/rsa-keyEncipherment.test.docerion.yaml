@@ -1,0 +1,4 @@
+# Docerion header of rsa-keyEncipherment.test.
+type: test
+title: RSA keyEncipherment key usage serverAuth chain test
+summary: Test case verifying a chain whose target certificate uses an RSA key with the keyEncipherment key usage under the serverAuth extended key usage.

@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Test expectations for trusted anchor with constraints
+summary: Runs the same chain verification with last_cert_trust set to TRUSTED_ANCHOR_WITH_CONSTRAINTS, expecting policy set 1.2.3.5 and no errors.

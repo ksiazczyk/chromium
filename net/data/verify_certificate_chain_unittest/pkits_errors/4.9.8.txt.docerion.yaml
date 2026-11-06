@@ -1,0 +1,4 @@
+# Docerion header of 4.9.8.txt.
+type: test
+title: PKITS 4.9.8 expected chain verification errors
+summary: Expected errors for PKITS test 4.9.8, where the invalid self-issued requireExplicitPolicy certificate chain must fail with a no valid policy error.

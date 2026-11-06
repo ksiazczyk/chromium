@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: MSApplicationPolicies and EKU chain test case
+summary: Test case that verifies the generated chain against a trusted anchor for server auth and expects no verification errors.

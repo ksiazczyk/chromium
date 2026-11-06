@@ -1,0 +1,4 @@
+# Docerion header of ta-with-expiration.test.
+type: test
+title: Chain verification test with trust anchor with expiration
+summary: Defines a verify_certificate_chain test case where the root is a trust anchor with expiration and the chain is expected to verify without errors.

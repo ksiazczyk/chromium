@@ -1,0 +1,4 @@
+# Docerion header of 4.13.21.txt.
+type: test
+title: PKITS test 4.13.21 expected verification errors
+summary: Expected certificate chain verification errors for PKITS test 4.13.21, where an RFC822 name-constrained end-entity certificate is rejected as not permitted by name constraints.

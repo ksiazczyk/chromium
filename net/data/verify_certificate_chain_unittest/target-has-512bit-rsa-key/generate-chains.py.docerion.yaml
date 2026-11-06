@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate chains with 512-bit RSA target key
+summary: Python script that generates a certificate chain whose target certificate uses a weak 512-bit RSA key for certificate verification tests.

@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate certificate chains with policies and requireExplicitPolicy
+summary: Python script that generates a certificate chain with certificatePolicies and requireExplicitPolicy constraints for the verify_certificate_chain unittest.

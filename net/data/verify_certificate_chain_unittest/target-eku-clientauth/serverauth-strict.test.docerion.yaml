@@ -1,0 +1,4 @@
+# Docerion header of serverauth-strict.test.
+type: test
+title: 'serverauth-strict.test: strict server auth rejects clientAuth target'
+summary: Test parameters expecting strict server auth validation to fail on the target certificate because its extended key usage does not include server auth.

@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf-and-trust_anchor.test.
+type: test
+title: Trusted leaf and trust anchor test case
+summary: Test case expecting no errors when the self-signed serverAuth target is trusted as either a trust anchor or a trusted leaf.

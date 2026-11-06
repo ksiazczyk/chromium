@@ -1,0 +1,4 @@
+# Docerion header of serverauth-strict.test.
+type: test
+title: Strict server auth verification test for multi-EKU target
+summary: Test data expecting errors when the chain is verified with strict server auth, as the target EKU includes code signing, OCSP signing and time stamping.

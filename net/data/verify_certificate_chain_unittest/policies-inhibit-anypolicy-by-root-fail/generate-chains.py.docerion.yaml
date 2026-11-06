@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Chain generator for inhibitAnyPolicy-by-root failure test
+summary: Generates a certificate chain with inhibitAnyPolicy on the root and anyPolicy on the intermediate, producing chain.pem used as test data for policy verification tests.

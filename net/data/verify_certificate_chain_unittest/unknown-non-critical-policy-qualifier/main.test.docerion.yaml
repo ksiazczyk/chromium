@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for unknown non-critical policy qualifier chain
+summary: Test case file specifying the generated chain, trusted anchor, server auth key purpose, and empty expected errors for the certificate verifier.

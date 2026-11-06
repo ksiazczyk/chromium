@@ -1,0 +1,4 @@
+# Docerion header of 4.11.11.txt.
+type: test
+title: PKITS 4.11.11 expected chain verification errors
+summary: Expected error output for PKITS test 4.11.11, where the invalid self-issued inhibitPolicyMapping EE certificate fails with no valid policy errors.

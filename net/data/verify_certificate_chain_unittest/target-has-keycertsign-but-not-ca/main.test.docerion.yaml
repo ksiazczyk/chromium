@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for keyCertSign without CA chain
+summary: Defines the chain, trusted anchor, key purpose and expected errors for verifying a leaf certificate with keyCertSign usage but no CA constraint.

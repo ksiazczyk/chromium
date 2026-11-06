@@ -1,0 +1,4 @@
+# Docerion header of trusted_anchor.test.
+type: test
+title: Trusted anchor test for target-only chain
+summary: Test case expecting a not-a-trust-anchor error when the target-only chain is validated with the last certificate trusted as an anchor.

@@ -1,0 +1,4 @@
+# Docerion header of target_only-trusted_leaf.test.
+type: test
+title: Expected errors for target-only chain trusted as leaf
+summary: Test case specifying that verifying target_only.pem as a trusted leaf fails with an unconsumed critical extension error on the target certificate.

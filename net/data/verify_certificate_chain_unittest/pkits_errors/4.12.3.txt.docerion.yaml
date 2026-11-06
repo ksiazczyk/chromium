@@ -1,0 +1,4 @@
+# Docerion header of 4.12.3.txt.
+type: test
+title: PKITS 4.12.3 expected errors
+summary: Expected errors for PKITS test 4.12.3, where the inhibitAnyPolicy end-entity and subCA1 certificates must fail with no valid policy.

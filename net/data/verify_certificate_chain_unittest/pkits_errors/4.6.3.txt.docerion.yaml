@@ -1,0 +1,4 @@
+# Docerion header of 4.6.3.txt.
+type: test
+title: 'PKITS 4.6.3 expected error: basic constraints not a CA'
+summary: Expected error output for PKITS test 4.6.3, where a non-critical Basic Constraints extension with cA false makes the certificate invalid as a CA.

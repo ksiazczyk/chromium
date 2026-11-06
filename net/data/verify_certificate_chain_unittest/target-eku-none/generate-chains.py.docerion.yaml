@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generator for certificate chain without extended key usage
+summary: Python script that builds a Root–Intermediate–Target chain, removes the extendedKeyUsage property from the target, and writes chain.pem.

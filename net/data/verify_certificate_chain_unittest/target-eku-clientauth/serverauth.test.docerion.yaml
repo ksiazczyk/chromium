@@ -1,0 +1,4 @@
+# Docerion header of serverauth.test.
+type: test
+title: 'serverauth.test: server auth rejects clientAuth-only target'
+summary: Test parameters expecting server auth validation to fail on the target certificate because its extended key usage does not include server auth.

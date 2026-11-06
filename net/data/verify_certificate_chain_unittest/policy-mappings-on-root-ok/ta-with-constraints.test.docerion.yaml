@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Policy mappings on root test with constrained trust anchor
+summary: Defines the test case expecting user constrained policy 1.2.3.4 when the root is trusted as an anchor with constraints.

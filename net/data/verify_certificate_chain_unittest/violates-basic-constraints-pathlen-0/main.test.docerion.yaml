@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for pathlen 0 violation chain
+summary: Test case that verifies chain.pem fails with a max_path_length error on Intermediate2 when the root is a trusted anchor.

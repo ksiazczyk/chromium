@@ -1,0 +1,4 @@
+# Docerion header of 4.10.2.txt.
+type: test
+title: 'PKITS 4.10.2 expected errors: policy mapping test 2'
+summary: Expected error output for PKITS test 4.10.2, recording no valid policy errors for the invalid policy mapping end-entity certificate.

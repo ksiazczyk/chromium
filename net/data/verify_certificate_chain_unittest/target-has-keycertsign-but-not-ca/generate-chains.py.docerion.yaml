@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate certificate chain with keyCertSign but no CA basic constraints
+summary: Python script that generates a test certificate chain whose leaf asserts the keyCertSign key usage while lacking CA=true in its basic constraints extension.

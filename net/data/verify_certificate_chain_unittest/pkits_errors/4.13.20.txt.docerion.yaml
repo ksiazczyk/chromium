@@ -1,0 +1,4 @@
+# Docerion header of 4.13.20.txt.
+type: test
+title: PKITS test 4.13.20 expected verification errors
+summary: Expected certificate chain verification errors for PKITS test 4.13.20, where the nameConstraints DN1 CA certificate is rejected as not permitted by name constraints.

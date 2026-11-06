@@ -1,0 +1,4 @@
+# Docerion header of serverauth-strict.test.
+type: test
+title: Server auth strict test with trusted anchor
+summary: Test case running the clientAuth-only chain under strict server auth with the root as a trusted anchor, expecting no errors.

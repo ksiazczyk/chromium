@@ -1,0 +1,4 @@
+# Docerion header of clientauth.test.
+type: test
+title: Client auth verification test for multi-EKU target
+summary: Test data expecting warnings when the chain is verified for client auth because the target certificate's EKU includes additional disallowed uses.

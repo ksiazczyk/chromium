@@ -1,0 +1,4 @@
+# Docerion header of 4.9.5.txt.
+type: test
+title: PKITS 4.9.5 expected chain verification errors
+summary: Expected errors for PKITS test 4.9.5, where the invalid requireExplicitPolicy end-entity certificate chain must fail with two no valid policy errors.

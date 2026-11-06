@@ -1,0 +1,4 @@
+# Docerion header of clientauth.test.
+type: test
+title: 'clientauth.test: clientAuth EKU chain accepted for client auth'
+summary: Test parameters verifying that a chain with a clientAuth EKU target validates successfully under the client auth key purpose.

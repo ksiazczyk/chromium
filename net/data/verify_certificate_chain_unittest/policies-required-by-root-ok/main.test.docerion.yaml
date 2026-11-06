@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test case with fully trusted anchor
+summary: Test expectations verifying the generated chain against a fully trusted anchor with server auth, expecting no errors.

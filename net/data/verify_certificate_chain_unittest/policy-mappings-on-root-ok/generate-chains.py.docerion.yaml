@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for policy mappings on root
+summary: Generates a certificate chain with policyMappings on the root and matching policies on the intermediate and leaf, which should pass verification.

@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for wrong-signature chain
+summary: Defines the chain, trust anchor, and expected VerifySignedData error for the wrong-signature certificate verification test.

@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Policy mappings on root test expectations
+summary: Defines the default test case expecting successful verification of the generated chain with user constrained policy 1.2.3.5 under a trusted anchor.

@@ -1,0 +1,4 @@
+# Docerion header of 4.1.5.txt.
+type: test
+title: 'PKITS 4.1.5 expected errors: inherited DSA parameters'
+summary: Expected error output for PKITS test 4.1.5, listing unacceptable signature algorithm and public key errors for the DSA parameters inherited CA chain.

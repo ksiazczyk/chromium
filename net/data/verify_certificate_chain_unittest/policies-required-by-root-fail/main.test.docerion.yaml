@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test case with root as trusted anchor
+summary: Defines a verification test expecting the chain to validate without errors when the root is trusted as a plain anchor and its constraints are not enforced.

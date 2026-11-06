@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate chain with target signed using ECDSA
+summary: Python script that generates a test certificate chain where an RSA root signs an EC (P-384) intermediate, which signs an RSA target using ECDSA.

@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Target-only certificate chain generator
+summary: Python script that generates a certificate chain containing only a serverAuth target certificate without its issuer, for use in certificate verification tests.

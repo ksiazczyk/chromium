@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Expected verification errors for MSApplicationPolicies target without EKU
+summary: Test fixture specifying the expected warnings and errors when verifying the generated chain with a critical MSApplicationPolicies extension and no EKU.

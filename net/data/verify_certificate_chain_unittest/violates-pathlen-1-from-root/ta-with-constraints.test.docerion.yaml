@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Chain verification test with constrained trust anchor
+summary: Test case expecting a max_path_length error when the pathlen-violating chain is verified against a trust anchor with enforced constraints.

@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test case for target signed using ECDSA
+summary: Test definition pointing to chain.pem with a trusted anchor and server auth key purpose, expecting successful verification with no errors.

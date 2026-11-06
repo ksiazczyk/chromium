@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf-wrong_eku.test.
+type: test
+title: Trusted leaf wrong EKU test case
+summary: Test case expecting an extended key usage error when a serverAuth-only self-signed trusted leaf is validated for client auth.

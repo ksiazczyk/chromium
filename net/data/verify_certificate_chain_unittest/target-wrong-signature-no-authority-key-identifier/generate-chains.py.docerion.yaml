@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate certificate chain with wrong signature and no authority key identifier
+summary: Python script that generates a test chain where the target is signed by a different key and lacks an authorityKeyIdentifier extension.

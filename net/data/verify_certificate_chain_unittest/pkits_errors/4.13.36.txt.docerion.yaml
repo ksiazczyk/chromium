@@ -1,0 +1,4 @@
+# Docerion header of 4.13.36.txt.
+type: data
+title: PKITS 4.13.36 URI nameConstraints expected error
+summary: Expected error output for PKITS test 4.13.36, where the URI nameConstraints end-entity certificate Test36 must fail with 'Not permitted by name constraints'.

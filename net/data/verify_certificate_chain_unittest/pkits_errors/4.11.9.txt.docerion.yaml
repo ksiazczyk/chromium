@@ -1,0 +1,4 @@
+# Docerion header of 4.11.9.txt.
+type: test
+title: PKITS 4.11.9 expected errors
+summary: Expected errors for PKITS test 4.11.9, where the invalid self-issued inhibitPolicyMapping certificate chain must fail with no valid policy.

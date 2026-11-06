@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for wrong target signature chain
+summary: Test definition specifying that verifying chain.pem fails with a VerifySignedData error on the target certificate.

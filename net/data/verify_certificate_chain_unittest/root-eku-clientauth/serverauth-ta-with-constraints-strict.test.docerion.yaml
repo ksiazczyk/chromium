@@ -1,0 +1,4 @@
+# Docerion header of serverauth-ta-with-constraints-strict.test.
+type: test
+title: Server auth strict test with anchor constraints
+summary: Test case expecting an error that the root's extended key usage lacks server auth when the anchor has constraints and strict server auth is enforced.

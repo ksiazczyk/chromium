@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test case for target-has-pathlen-but-not-ca chain
+summary: Test definition specifying the chain, trusted anchor, server auth key purpose and expected errors for the pathlen-on-non-CA scenario.

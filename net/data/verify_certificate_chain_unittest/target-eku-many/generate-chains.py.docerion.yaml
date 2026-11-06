@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Chain generator for multi-EKU target certificates
+summary: Python script that generates a certificate chain whose target sets extended key usage to clientAuth, serverAuth, codeSigning, OCSPSigning and timeStamping.

@@ -1,0 +1,4 @@
+# Docerion header of any.test.
+type: test
+title: anyExtendedKeyUsage target chain test with ANY_EKU key purpose
+summary: Test case verifying a chain whose target certificate has anyExtendedKeyUsage, expecting no errors when the key purpose is ANY_EKU.

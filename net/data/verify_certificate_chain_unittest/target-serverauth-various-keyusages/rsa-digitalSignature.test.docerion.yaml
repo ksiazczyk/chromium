@@ -1,0 +1,4 @@
+# Docerion header of rsa-digitalSignature.test.
+type: test
+title: RSA digitalSignature key usage serverAuth chain test
+summary: Test case verifying a chain whose target certificate uses an RSA key with the digitalSignature key usage under the serverAuth extended key usage.

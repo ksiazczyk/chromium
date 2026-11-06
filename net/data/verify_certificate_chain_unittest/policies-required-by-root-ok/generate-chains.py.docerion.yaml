@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate certificate chain with requireExplicitPolicy on root
+summary: Python script that generates a three-certificate chain whose root sets requireExplicitPolicy=3, writing chain.pem for the certificate verification tests.

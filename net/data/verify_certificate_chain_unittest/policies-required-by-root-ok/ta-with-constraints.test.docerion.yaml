@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Test case with trust anchor and constraints
+summary: Test expectations verifying the generated chain against a trust anchor with constraints, expecting no errors.

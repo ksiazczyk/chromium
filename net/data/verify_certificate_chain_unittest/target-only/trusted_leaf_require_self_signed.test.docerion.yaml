@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf_require_self_signed.test.
+type: test
+title: Trusted leaf require self-signed test for target-only chain
+summary: Test case expecting a subject-issuer mismatch error when the target-only chain is validated with a trusted leaf required to be self-signed.

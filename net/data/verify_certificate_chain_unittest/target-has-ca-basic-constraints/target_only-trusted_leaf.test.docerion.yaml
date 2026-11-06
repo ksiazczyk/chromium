@@ -1,0 +1,4 @@
+# Docerion header of target_only-trusted_leaf.test.
+type: test
+title: Target-only trusted leaf test
+summary: Test definition verifying the target-only chain as a trusted leaf under server auth with no expected errors.

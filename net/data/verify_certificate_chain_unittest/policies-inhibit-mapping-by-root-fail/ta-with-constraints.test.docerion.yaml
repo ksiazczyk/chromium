@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Test expectations for trust anchor with constraints
+summary: Specifies the expected 'no valid policy' errors when the chain is verified with a trust anchor that has constraints.

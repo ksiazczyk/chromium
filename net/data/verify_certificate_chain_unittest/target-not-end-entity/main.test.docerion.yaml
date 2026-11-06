@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Chain verification expectations for a CA target (default policy)
+summary: Test data specifying expected verification warnings when the target certificate is a CA instead of an end-entity, under the default server auth policy.

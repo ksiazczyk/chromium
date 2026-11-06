@@ -1,0 +1,4 @@
+# Docerion header of 4.2.1.txt.
+type: test
+title: 'PKITS 4.2.1 expected error: time before notBefore'
+summary: Expected error output for PKITS test 4.2.1, asserting chain verification fails with 'Time is before notBefore' for a CA whose validity has not started.

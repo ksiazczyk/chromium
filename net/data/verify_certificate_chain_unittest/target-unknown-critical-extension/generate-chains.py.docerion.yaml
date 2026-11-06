@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate certificate chain with unknown critical extension
+summary: Python script that generates the test certificate chain and target-only chain whose target certificate carries an unknown critical X.509v3 extension.

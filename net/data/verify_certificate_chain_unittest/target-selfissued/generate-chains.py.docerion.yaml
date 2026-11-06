@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate self-issued target certificate chain
+summary: Generates a serverAuth certificate chain whose target is self-issued but the signer certificate is absent, writing the result to chain.pem.

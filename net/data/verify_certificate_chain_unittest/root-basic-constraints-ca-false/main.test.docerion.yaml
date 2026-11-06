@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Main test case for root with CA:false basic constraints
+summary: Test fixture that verifies the generated chain with the root trusted as a plain trusted anchor and expects no errors.

@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for pathlen 0 violation
+summary: Python script that generates a certificate chain where an intermediate with pathlen=0 issues another intermediate, writing chain.pem for verification tests.

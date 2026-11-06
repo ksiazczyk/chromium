@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate certificate chain with unknown non-critical policy qualifier
+summary: Python script that generates a test certificate chain whose intermediate has a non-critical policies extension containing an unknown policy qualifier.

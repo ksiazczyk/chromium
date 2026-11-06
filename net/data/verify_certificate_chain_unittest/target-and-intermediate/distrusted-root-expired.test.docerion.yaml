@@ -1,0 +1,4 @@
+# Docerion header of distrusted-root-expired.test.
+type: test
+title: Chain verification test with distrusted root at fixed time
+summary: Defines a verify_certificate_chain test case where the chain's root is distrusted and the verification time is fixed, expecting a distrusted-by-trust-store error.

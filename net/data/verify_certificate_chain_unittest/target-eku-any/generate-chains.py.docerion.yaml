@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generator script for anyExtendedKeyUsage target certificate chain
+summary: Python script that generates a certificate chain whose target sets extendedKeyUsage to anyExtendedKeyUsage and writes it to chain.pem.

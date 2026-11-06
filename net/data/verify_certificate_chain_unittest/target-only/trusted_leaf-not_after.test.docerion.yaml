@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf-not_after.test.
+type: test
+title: Trusted leaf notAfter expiry test for target-only chain
+summary: Test case expecting a time-after-notAfter error when the target-only chain is validated at a time past the certificate expiry.

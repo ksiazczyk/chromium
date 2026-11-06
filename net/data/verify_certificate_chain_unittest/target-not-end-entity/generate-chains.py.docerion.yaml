@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate chains where the target is a CA
+summary: Python script that generates a certificate chain whose target certificate is a CA rather than an end-entity certificate, for use in verification tests.

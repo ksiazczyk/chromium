@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate SHA1-signed target certificate chain
+summary: Python script that generates a certificate chain whose target certificate is signed with SHA1, for use in verify_certificate_chain unittests.

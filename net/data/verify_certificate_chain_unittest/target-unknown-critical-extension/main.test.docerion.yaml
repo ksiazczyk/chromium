@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Expected errors for full chain with unknown critical extension
+summary: Test case specifying that verifying chain.pem fails with an unconsumed critical extension error on the target certificate.

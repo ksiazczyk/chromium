@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf_require_self_signed.test.
+type: test
+title: Trusted leaf require self-signed test for self-issued chain
+summary: Expects a VerifySignedData failure when the self-issued chain is verified with the last certificate required to be self-signed.

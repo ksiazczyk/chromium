@@ -1,0 +1,4 @@
+# Docerion header of 4.1.2.txt.
+type: test
+title: 'PKITS 4.1.2 expected errors: bad signed CA signature'
+summary: Expected error output for PKITS test 4.1.2, recording a VerifySignedData failure for the Bad Signed CA certificate in the chain verifier unit test.
