@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland display utility implementation
+// summary: Implements OutputTransform, mapping display rotation values to the corresponding wl_output transform used to compensate for output rotation.
+// ---
+
 #include "components/exo/wayland/wayland_display_util.h"
 
 #include "base/notreached.h"

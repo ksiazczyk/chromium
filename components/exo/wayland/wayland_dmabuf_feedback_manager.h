@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandDmabufFeedbackManager class header
+// summary: Declares WaylandDmabufFeedbackManager, which provides default and per-surface dmabuf feedback, tracks supported formats and modifiers, and manages scanout candidates.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_DMABUF_FEEDBACK_MANAGER_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_DMABUF_FEEDBACK_MANAGER_H_
 

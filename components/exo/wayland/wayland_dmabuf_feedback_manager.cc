@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland dmabuf feedback manager implementation
+// summary: Implements the zwp_linux_dmabuf_feedback_v1 protocol, advertising DRM formats, modifiers, and scanout tranches to Wayland clients for buffer allocation.
+// ---
+
 #include "components/exo/wayland/wayland_dmabuf_feedback_manager.h"
 
 #include <bits/types.h>

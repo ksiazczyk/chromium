@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote shell v1 protocol request dispatch
+// summary: Wires the zcr remote shell v1 protocol requests for remote, notification, and input method surfaces to the shared remote shell implementation.
+// ---
+
 #include "ash/public/cpp/window_properties.h"
 #include "ash/shell.h"
 #include "ash/wm/desks/desks_util.h"

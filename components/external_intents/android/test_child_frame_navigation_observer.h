@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the child frame navigation test observer
+// summary: Declares a WebContentsObserver-based test helper that reports child frame navigation events to a Java test observer.
+// ---
+
 #ifndef COMPONENTS_EXTERNAL_INTENTS_ANDROID_TEST_CHILD_FRAME_NAVIGATION_OBSERVER_H_
 #define COMPONENTS_EXTERNAL_INTENTS_ANDROID_TEST_CHILD_FRAME_NAVIGATION_OBSERVER_H_
 

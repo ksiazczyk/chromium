@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Wayland protocol C argument mapping helpers
+# summary: Maps Wayland protocol argument types to C argument and return type strings for server and client requests and events during code generation.
+# ---
+
 import wayland_protocol_data_classes
 
 # Short aliases for typing

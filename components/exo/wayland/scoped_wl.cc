@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Wayland display deleter implementation
+// summary: Implements a deleter that manually destroys all Wayland clients before destroying the display.
+// ---
+
 #include "components/exo/wayland/scoped_wl.h"
 
 #include <wayland-server-core.h>

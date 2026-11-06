@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTracker implementation
+// summary: Implements ClientTracker, which listens for wl_client creation and destruction on a wl_display to track client lifetimes.
+// ---
+
 #include "components/exo/wayland/client_tracker.h"
 
 #include "base/compiler_specific.h"

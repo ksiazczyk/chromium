@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: reference
+title: Surface augmenter Wayland protocol
+summary: Wayland protocol specification for delegated surface composition, including solid color buffers, subsurfaces, and rounded corner support.
+-->
+
 <protocol name="surface_augmenter">
 
   <copyright>

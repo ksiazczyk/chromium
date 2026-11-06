@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blur test client header
+// summary: Declares the Blur client class used to measure the cost of blur filter effects across different devices.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_CLIENTS_BLUR_H_
 #define COMPONENTS_EXO_WAYLAND_CLIENTS_BLUR_H_
 

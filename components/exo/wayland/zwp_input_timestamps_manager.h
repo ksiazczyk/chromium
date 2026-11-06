@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zwp_input_timestamps_manager.h: input timestamps manager binding header'
+// summary: Declares bind_input_timestamps_manager, the entry point for binding the input timestamps manager Wayland protocol.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZWP_INPUT_TIMESTAMPS_MANAGER_H_
 #define COMPONENTS_EXO_WAYLAND_ZWP_INPUT_TIMESTAMPS_MANAGER_H_
 

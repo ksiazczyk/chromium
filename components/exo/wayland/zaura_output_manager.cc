@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura output manager implementation
+// summary: Implements AuraOutputManager, which relays display metrics and output state to Wayland clients via the zaura_output_manager protocol.
+// ---
+
 #include "components/exo/wayland/zaura_output_manager.h"
 
 #include <wayland-server-core.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandDisplayUtil unit tests
+// summary: Verifies that OutputTransform maps each display rotation to the expected wl_output transform value.
+// ---
+
 #include "components/exo/wayland/wayland_display_util.h"
 
 #include <wayland-server-protocol-core.h>

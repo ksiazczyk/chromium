@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland gaming input protocol implementation
+// summary: Implements the zcr gaming input Wayland protocol, forwarding gamepad axes, buttons, frames, and device configuration to clients.
+// ---
+
 #include "components/exo/wayland/zcr_gaming_input.h"
 
 #include <gaming-input-unstable-v2-server-protocol.h>

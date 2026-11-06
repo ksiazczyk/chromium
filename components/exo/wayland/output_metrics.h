@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputMetrics struct for wl_output and extensions
+// summary: Declares metrics for wl_output, xdg_output and aura output extensions that describe a Wayland output.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_OUTPUT_METRICS_H_
 #define COMPONENTS_EXO_WAYLAND_OUTPUT_METRICS_H_
 

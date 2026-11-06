@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Wayland protocol XML data classes
+# summary: Defines dataclasses that parse Wayland protocol XML into protocols, interfaces, requests, events and arguments for use by the code generator.
+# ---
+
 import dataclasses
 import enum
 import os.path

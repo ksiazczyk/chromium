@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: wl_data_device_manager unit tests
+// summary: Tests drag-and-drop data device behavior over the Wayland protocol, driving a test client and server harness to verify serial handling and drag start.
+// ---
+
 #include <linux/input-event-codes.h>
 #include <wayland-client-core.h>
 

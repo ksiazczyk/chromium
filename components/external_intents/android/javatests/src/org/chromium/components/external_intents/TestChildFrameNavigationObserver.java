@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestChildFrameNavigationObserver
+// summary: Test helper that attaches to native WebContents and notifies callbacks on child frame navigation start, finish, and failure for external intents testing.
+// ---
+
 package org.chromium.components.external_intents;
 
 import org.jni_zero.CalledByNative;

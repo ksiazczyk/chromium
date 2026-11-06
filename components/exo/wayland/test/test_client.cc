@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestClient implementation for Wayland server tests
+// summary: Implements TestClient initialization, connecting to the Wayland server socket and setting up the shared memory buffer factory.
+// ---
+
 #include "components/exo/wayland/test/test_client.h"
 
 #include "base/logging.h"

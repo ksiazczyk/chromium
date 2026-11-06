@@ -1,0 +1,4 @@
+# Docerion header of wayland_templater.gni.
+type: config
+title: GN template for running the Wayland templater
+summary: Defines a GN template that runs the templating script over .tmpl sources and Wayland protocol specs, producing generated outputs under the gen directory.

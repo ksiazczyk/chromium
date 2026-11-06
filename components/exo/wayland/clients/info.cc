@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland client that prints output information
+// summary: Standalone client that queries compositor outputs for geometry, modes, scales and insets and prints the results to standard output.
+// ---
+
 #include <iomanip>
 #include <iostream>
 #include <string>

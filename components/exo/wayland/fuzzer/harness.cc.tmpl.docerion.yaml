@@ -1,0 +1,4 @@
+# Docerion header of harness.cc.tmpl.
+type: source
+title: Template for the fuzzer harness implementation
+summary: Template that generates harness.cc with event listeners and request dispatch code that replays action protos as a Wayland client.

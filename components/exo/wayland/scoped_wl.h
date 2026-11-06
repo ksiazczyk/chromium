@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Wayland display deleter declaration
+// summary: Declares WlDisplayDeleter for managing wl_display lifetime with smart pointers.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_SCOPED_WL_H_
 #define COMPONENTS_EXO_WAYLAND_SCOPED_WL_H_
 

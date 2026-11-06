@@ -1,0 +1,4 @@
+# Docerion header of docs.md.tmpl.
+type: source
+title: Wayland protocol documentation Markdown template
+summary: Jinja template that renders markdown documentation for wayland interfaces, their requests, events, arguments, and doc comments.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland presentation time protocol implementation
+// summary: Implements the wp_presentation Wayland protocol, delivering presentation feedback timestamps and flags for surface commits to clients.
+// ---
+
 #include "components/exo/wayland/wp_presentation.h"
 
 #include <presentation-time-server-protocol.h>

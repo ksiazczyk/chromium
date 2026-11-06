@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland client performance tests
+// summary: Performance tests measuring framerate and presentation latency for the simple and blur Wayland clients across several blur sigma values.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/stringprintf.h"
 #include "components/exo/wayland/clients/blur.h"

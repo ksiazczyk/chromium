@@ -1,0 +1,4 @@
+# Docerion header of actions.proto.tmpl.
+type: source
+title: Template for the fuzzer actions protobuf
+summary: Jinja template that generates actions.proto, enumerating Wayland requests as fuzzable protobuf actions including the special wl_registry bind case.

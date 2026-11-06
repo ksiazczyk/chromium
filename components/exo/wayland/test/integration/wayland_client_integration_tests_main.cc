@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland client integration tests entry point
+// summary: Main entry point that initializes the test suite and launches the Wayland client integration unit tests serially so tests run to completion.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "base/test/test_suite.h"

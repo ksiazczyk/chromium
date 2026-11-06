@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_output Wayland interface implementation
+// summary: Implements the wl_output protocol interface, binding display outputs to Wayland client resources via WaylandDisplayHandler.
+// ---
+
 #include "components/exo/wayland/wl_output.h"
 
 #include "components/exo/wayland/server_util.h"

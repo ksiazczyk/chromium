@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus protocol implementation
+// summary: Implements the stylus v2 Wayland protocol, forwarding tool type, force and tilt events for pointer and touch input.
+// ---
+
 #include "components/exo/wayland/zcr_stylus.h"
 
 #include "base/memory/raw_ptr.h"

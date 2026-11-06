@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland keyboard configuration protocol implementation
+// summary: Implements the zcr keyboard device configuration Wayland protocol, reporting keyboard type, layout, and key bit changes from Chrome OS IME and device state.
+// ---
+
 #include "components/exo/wayland/zcr_keyboard_configuration.h"
 
 #include <linux/input.h>

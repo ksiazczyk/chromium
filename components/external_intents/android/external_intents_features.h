@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External intents feature flag declarations
+// summary: Declares the external_intents feature flags for use in native code, mirroring the features exposed to the Java ExternalIntentsFeatures API.
+// ---
+
 #ifndef COMPONENTS_EXTERNAL_INTENTS_ANDROID_EXTERNAL_INTENTS_FEATURES_H_
 #define COMPONENTS_EXTERNAL_INTENTS_ANDROID_EXTERNAL_INTENTS_FEATURES_H_
 

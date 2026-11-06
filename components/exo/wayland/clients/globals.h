@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland globals registry binding header
+// summary: Declares the Globals struct that owns bound Wayland global objects and supports a test observer for registry events.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_CLIENTS_GLOBALS_H_
 #define COMPONENTS_EXO_WAYLAND_CLIENTS_GLOBALS_H_
 

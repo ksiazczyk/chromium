@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OutputMetrics
+// summary: Checks that display state maps correctly to wl_output, xdg_output and aura output metrics.
+// ---
+
 #include "components/exo/wayland/output_metrics.h"
 
 #include "base/bit_cast.h"

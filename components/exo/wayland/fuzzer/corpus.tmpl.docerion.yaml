@@ -1,0 +1,4 @@
+# Docerion header of corpus.tmpl.
+type: source
+title: Template for fuzzer seed corpus entries
+summary: Renders enumerated Wayland call sequences into protobuf text actions used to seed the fuzzer corpus.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_shell binding declarations
+// summary: Declares the bind_shell function that registers the wl_shell interface for Wayland clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WL_SHELL_H_
 #define COMPONENTS_EXO_WAYLAND_WL_SHELL_H_
 

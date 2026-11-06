@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_seat binding declarations
+// summary: Declares the WaylandSeat struct linking an Exo seat with the serial tracker, plus the bind_seat function.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WL_SEAT_H_
 #define COMPONENTS_EXO_WAYLAND_WL_SEAT_H_
 

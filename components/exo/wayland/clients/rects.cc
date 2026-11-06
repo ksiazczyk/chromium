@@ -7,6 +7,12 @@
 // buffers when receiving pointer/touch events. RGB contains the lower
 // 24 bits of the event timestamp and A is 0xff.
 
+// ---docerion
+// type: source
+// title: Wayland client drawing rects from input events
+// summary: Client that renders RGBA buffers encoding pointer and touch event timestamps as colors, used for input latency benchmarking.
+// ---
+
 #include <linux-dmabuf-unstable-v1-client-protocol.h>
 #include <presentation-time-client-protocol.h>
 #include <wayland-client-core.h>

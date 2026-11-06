@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared Wayland client base header
+// summary: Declares the ClientBase class with InitParams and Buffer types shared by the Exo Wayland test clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_CLIENTS_CLIENT_BASE_H_
 #define COMPONENTS_EXO_WAYLAND_CLIENTS_CLIENT_BASE_H_
 

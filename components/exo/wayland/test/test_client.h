@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestClient header for Wayland server test clients
+// summary: Declares the TestClient class used by WaylandServerTest, providing access to Wayland globals, buffer creation support and custom client data.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_TEST_CLIENT_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_TEST_CLIENT_H_
 

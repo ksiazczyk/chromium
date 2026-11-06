@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandDisplayOutput unit tests
+// summary: Tests delayed self-destruction of WaylandDisplayOutput when displays are removed, including before the client's initial bind, using a test Wayland server.
+// ---
+
 #include "components/exo/wayland/wayland_display_output.h"
 
 #include <cstdint>

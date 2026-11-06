@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventRecorder class declaration
+// summary: Declares EventRecorder, which stores the version at which each named Wayland event was received so tests can validate event delivery.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_COMPATIBILITY_TEST_WAYLAND_CLIENT_EVENT_RECORDER_H_
 #define COMPONENTS_EXO_WAYLAND_COMPATIBILITY_TEST_WAYLAND_CLIENT_EVENT_RECORDER_H_
 

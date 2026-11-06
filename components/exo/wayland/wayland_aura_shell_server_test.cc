@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland Aura shell server tests
+// summary: Tests Aura shell integration over Wayland, covering xdg toplevel surfaces, focus activation, and overview events.
+// ---
+
 #include <wayland-server-protocol-core.h>
 
 #include "ash/shell.h"

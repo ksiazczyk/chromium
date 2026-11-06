@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland server implementation
+// summary: Implements the Wayland display server wrapper that binds Exo protocol globals and dispatches client events.
+// ---
+
 #include "components/exo/wayland/server.h"
 
 #include <alpha-compositing-unstable-v1-server-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Wayland protocol logger
+// summary: Verifies that the protocol logger records human-readable descriptions of client requests and server events through a testable handler.
+// ---
+
 #include "components/exo/wayland/wayland_protocol_logger.h"
 
 #include <wayland-server-core.h>

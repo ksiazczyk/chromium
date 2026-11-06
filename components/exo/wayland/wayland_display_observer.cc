@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland display observer implementation
+// summary: Implements WaylandDisplayHandler, which sends display metrics, active display changes, and xdg output updates to Wayland clients.
+// ---
+
 #include "components/exo/wayland/wayland_display_observer.h"
 
 #include <wayland-server-core.h>

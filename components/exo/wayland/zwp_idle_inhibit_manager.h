@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zwp_idle_inhibit_manager.h: idle inhibit manager binding header'
+// summary: Declares bind_zwp_idle_inhibit_manager, the entry point for binding the idle inhibit manager Wayland protocol.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZWP_IDLE_INHIBIT_MANAGER_H_
 #define COMPONENTS_EXO_WAYLAND_ZWP_IDLE_INHIBIT_MANAGER_H_
 

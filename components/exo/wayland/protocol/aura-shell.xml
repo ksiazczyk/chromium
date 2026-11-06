@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: reference
+title: Aura shell Wayland protocol
+summary: Wayland protocol specification exposing Aura shell capabilities such as aura surfaces and outputs, layout mode, desks, and bug fix notifications to Exo clients.
+-->
+
 <protocol name="aura_shell">
 
   <copyright>

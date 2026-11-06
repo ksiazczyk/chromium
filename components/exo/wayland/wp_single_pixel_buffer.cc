@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland single pixel buffer protocol implementation
+// summary: Implements the wp_single_pixel_buffer Wayland protocol, creating one-pixel solid color buffers for Exo surfaces.
+// ---
+
 #include "components/exo/wayland/wp_single_pixel_buffer.h"
 
 #include <cstdint>

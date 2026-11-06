@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland resource key struct for tests
+// summary: Defines the ResourceKey struct used to pass Wayland resource id and class name between server and client in tests.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_RESOURCE_KEY_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_RESOURCE_KEY_H_
 

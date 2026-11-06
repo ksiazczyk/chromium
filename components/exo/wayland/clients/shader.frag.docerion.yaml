@@ -1,0 +1,4 @@
+# Docerion header of shader.frag.
+type: source
+title: Vulkan fragment shader for the Wayland client
+summary: GLSL fragment shader that samples a texture and writes the sampled color, used by the Vulkan Wayland test client.

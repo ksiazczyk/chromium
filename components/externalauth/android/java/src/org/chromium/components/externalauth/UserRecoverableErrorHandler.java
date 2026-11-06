@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserRecoverableErrorHandler
+// summary: Abstract handler for user-recoverable Google Play Services errors, providing silent, system notification, and modal dialog strategies that subclasses can extend.
+// ---
+
 package org.chromium.components.externalauth;
 
 import android.app.Activity;

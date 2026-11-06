@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the external_intents Android component
+summary: GN build file defining Java and native library targets, JNI header generation, resources, and unit test targets for the external_intents Android component.

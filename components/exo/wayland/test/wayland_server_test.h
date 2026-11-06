@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandServerTest fixture header
+// summary: Declares the WaylandServerTest gtest fixture base class for testing Wayland server-side logic with a client running on a dedicated thread.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_WAYLAND_SERVER_TEST_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_WAYLAND_SERVER_TEST_H_
 

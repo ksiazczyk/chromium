@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestBuffer header for Wayland test buffers
+// summary: Declares TestBuffer, a test helper that owns a wl_buffer with a release listener, used by Wayland test clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_TEST_BUFFER_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_TEST_BUFFER_H_
 

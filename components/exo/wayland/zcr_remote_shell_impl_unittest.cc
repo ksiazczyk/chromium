@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote shell implementation unit tests
+// summary: Unit tests for the Wayland remote shell implementation, covering surface delegates, window state changes, and protocol event sending.
+// ---
+
 #include "components/exo/wayland/zcr_remote_shell_impl.h"
 
 #include <wayland-server-core.h>

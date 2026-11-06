@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ClientTracker
+// summary: Unit tests verifying that ClientTracker registers and deregisters Wayland clients correctly and flags clients as destroyed once destruction begins.
+// ---
+
 
 #include "components/exo/wayland/client_tracker.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared Wayland client base implementation
+// summary: Implements the ClientBase class with buffer allocation over shared memory, DRM/GBM and Vulkan, Wayland protocol setup and shared command line switches.
+// ---
+
 #include "components/exo/wayland/clients/client_base.h"
 
 #include <aura-shell-client-protocol.h>

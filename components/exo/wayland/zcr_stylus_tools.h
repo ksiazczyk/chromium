@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus tools protocol binding header
+// summary: Declares the Wayland binder for the stylus-tools v1 protocol.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_STYLUS_TOOLS_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_STYLUS_TOOLS_H_
 

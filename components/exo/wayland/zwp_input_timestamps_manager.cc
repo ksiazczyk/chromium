@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zwp_input_timestamps_manager.cc: input timestamps protocol implementation'
+// summary: Implements the input-timestamps-unstable-v1 Wayland protocol, forwarding high-resolution timestamps of keyboard, pointer, and touch events to clients.
+// ---
+
 #include "components/exo/wayland/zwp_input_timestamps_manager.h"
 
 #include <input-timestamps-unstable-v1-server-protocol.h>

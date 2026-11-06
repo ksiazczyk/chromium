@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface augmenter tests
+// summary: Verifies augmented subsurface behavior, including suppression of leave/enter events and accessibility handling for augmented surfaces.
+// ---
+
 #include <surface-augmenter-client-protocol.h>
 #include <xdg-shell-client-protocol.h>
 

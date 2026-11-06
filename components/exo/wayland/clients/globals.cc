@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland globals registry binding implementation
+// summary: Implements registry handling that binds the Wayland global interfaces needed by the Exo test clients, honoring requested interface versions.
+// ---
+
 #include "components/exo/wayland/clients/globals.h"
 
 #include <algorithm>

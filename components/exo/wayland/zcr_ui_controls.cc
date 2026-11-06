@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zcr_ui_controls.cc: ui-controls test protocol implementation'
+// summary: Implements the zcr ui-controls-unstable-v1 Wayland protocol so test clients can inject input events and adjust display info, reporting request_processed events back to the client.
+// ---
+
 #include "components/exo/wayland/zcr_ui_controls.h"
 
 #include <stdint.h>

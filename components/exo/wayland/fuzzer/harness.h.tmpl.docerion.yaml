@@ -1,0 +1,4 @@
+# Docerion header of harness.h.tmpl.
+type: source
+title: Template for the fuzzer harness header
+summary: Template that generates the Harness class declaration, which tracks Wayland objects and globals while replaying fuzzed action sequences.

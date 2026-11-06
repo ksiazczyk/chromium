@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_shm shared memory interface implementation
+// summary: Implements the wl_shm and wl_shm_pool protocol interfaces, creating shared memory buffers in supported pixel formats.
+// ---
+
 #include "components/exo/wayland/wl_shm.h"
 
 #include <wayland-server-protocol-core.h>

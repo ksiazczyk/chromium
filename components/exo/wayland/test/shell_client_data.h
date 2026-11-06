@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell client data class for Wayland test clients
+// summary: Declares ShellClientData and InputListener, a test shell object acting as xdg toplevel or remote surface with input and drag-and-drop support.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_SHELL_CLIENT_DATA_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_SHELL_CLIENT_DATA_H_
 

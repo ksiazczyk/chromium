@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura output manager class declaration
+// summary: Declares the AuraOutputManager class and bind function that relay display and output state required by clients for supported output extensions.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZAURA_OUTPUT_MANAGER_H_
 #define COMPONENTS_EXO_WAYLAND_ZAURA_OUTPUT_MANAGER_H_
 

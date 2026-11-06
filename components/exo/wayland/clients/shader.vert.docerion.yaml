@@ -1,0 +1,4 @@
+# Docerion header of shader.vert.
+type: source
+title: Vulkan vertex shader for the Wayland client
+summary: GLSL vertex shader that generates a fullscreen quad with texture coordinates for the Vulkan Wayland test client.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland shell destruction tests
+// summary: Tests that xdg and remote shell surfaces are destroyed correctly via widget close, client-initiated close, or window deletion.
+// ---
+
 #include <xdg-shell-client-protocol.h>
 
 #include <cstdint>

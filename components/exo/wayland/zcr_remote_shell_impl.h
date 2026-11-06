@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote shell Wayland classes header
+// summary: Declares the WaylandRemoteOutput and WaylandRemoteShell classes that implement the remote shell protocol and observe display and seat changes.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_REMOTE_SHELL_IMPL_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_REMOTE_SHELL_IMPL_H_
 

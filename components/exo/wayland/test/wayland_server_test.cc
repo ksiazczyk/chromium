@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandServerTest fixture implementation
+// summary: Implements the WaylandServerTest gtest fixture, setting up a server on a temporary socket and a connected client thread with waiters for client creation and destruction.
+// ---
+
 #include "components/exo/wayland/test/wayland_server_test.h"
 
 #include <wayland-server-protocol-core.h>

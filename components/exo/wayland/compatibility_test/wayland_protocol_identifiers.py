@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Wayland identifier naming helpers
+# summary: Converts Wayland interface names to kebab-case and PascalCase identifiers and builds unique human-readable name maps for code generation.
+# ---
+
 import collections
 import functools
 import itertools

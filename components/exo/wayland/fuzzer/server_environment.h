@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzer server environment declaration
+// summary: Declares ServerEnvironment, which brings up and retains the Wayland server test environment between fuzzer runs.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_FUZZER_SERVER_ENVIRONMENT_H_
 #define COMPONENTS_EXO_WAYLAND_FUZZER_SERVER_ENVIRONMENT_H_
 

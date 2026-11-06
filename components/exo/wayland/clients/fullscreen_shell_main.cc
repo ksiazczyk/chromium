@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen shell Wayland client entry point
+// summary: Main entry point that initializes and runs the fullscreen shell Wayland test client with output-mode buffer allocation and touch support.
+// ---
+
 #include "components/exo/wayland/clients/fullscreen_shell.h"
 
 #include "base/at_exit.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzer server environment implementation
+// summary: Implements one-time UI-thread setup of ICU, GL, aura, and mojo resources needed to host the fuzzer's Wayland server.
+// ---
+
 #include "components/exo/wayland/fuzzer/server_environment.h"
 
 #include <cassert>

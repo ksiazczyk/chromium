@@ -1,0 +1,4 @@
+# Docerion header of wayland_protocol_codegen.gni.
+type: config
+title: GN template for Wayland protocol codegen
+summary: Defines the wayland_protocol_codegen GN template that invokes the code generation script over protocol sources with a Jinja2 template and clang-format.

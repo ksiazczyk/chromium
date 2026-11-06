@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWaylandClientThread header
+// summary: Declares TestWaylandClientThread, which runs a Wayland test client on its own thread for use with WaylandServerTest.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_TEST_WAYLAND_CLIENT_THREAD_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_TEST_WAYLAND_CLIENT_THREAD_H_
 

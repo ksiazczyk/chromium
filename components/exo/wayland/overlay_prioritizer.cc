@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay prioritizer Wayland protocol implementation
+// summary: Implements the overlay prioritizer protocol, applying overlay priority hints to Exo surfaces.
+// ---
+
 #include "components/exo/wayland/overlay_prioritizer.h"
 
 #include <overlay-prioritizer-server-protocol.h>

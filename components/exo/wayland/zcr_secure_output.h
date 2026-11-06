@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure output protocol binding header
+// summary: Declares the Wayland binder for the zcr_secure_output v1 protocol.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_SECURE_OUTPUT_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_SECURE_OUTPUT_H_
 

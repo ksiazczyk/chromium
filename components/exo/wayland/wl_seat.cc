@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_seat and input device interface implementation
+// summary: Implements the wl_seat, wl_pointer, wl_keyboard, and wl_touch protocol interfaces, creating Exo pointer, keyboard, and touch objects for clients.
+// ---
+
 #include "components/exo/wayland/wl_seat.h"
 
 #include "base/notimplemented.h"

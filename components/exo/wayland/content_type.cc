@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland content type protocol implementation
+// summary: Implements the wp_content_type_v1 Wayland protocol, mapping content types such as video onto exo surface properties.
+// ---
+
 #include "components/exo/wayland/content_type.h"
 
 #include <content-type-v1-server-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for the Wayland fuzzer harness
+// summary: Verifies the harness can bind registry globals such as wl_compositor and wl_shm against a running exo Wayland server.
+// ---
+
 #include "components/exo/wayland/fuzzer/harness.h"
 
 #include "base/files/scoped_temp_dir.h"

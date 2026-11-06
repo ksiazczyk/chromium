@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Wayland protocol code generator
+# summary: Generates C++ test helper sources from Wayland protocol XML files by expanding Jinja2 templates with helper functions and formatting the output with clang-format.
+# ---
+
 import argparse
 import os.path
 import subprocess

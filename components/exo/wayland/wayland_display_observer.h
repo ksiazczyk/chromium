@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland display observer declarations
+// summary: Declares WaylandDisplayObserver and WaylandDisplayHandler for synchronizing display metric changes with wl_output done events.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_DISPLAY_OBSERVER_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_DISPLAY_OBSERVER_H_
 

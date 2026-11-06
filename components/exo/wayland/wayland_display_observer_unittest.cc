@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland display observer unit tests
+// summary: Unit tests for WaylandDisplayObserver verifying that logical position and size updates are sent to Wayland clients through xdg-output and zaura output interfaces.
+// ---
+
 
 #include "components/exo/wayland/wayland_display_observer.h"
 

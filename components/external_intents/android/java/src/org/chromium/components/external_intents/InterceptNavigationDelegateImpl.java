@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InterceptNavigationDelegateImpl
+// summary: Implementation that observes and intercepts navigations on Android, converting them to intents for third-party apps while recording UMA launch metrics.
+// ---
+
 package org.chromium.components.external_intents;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

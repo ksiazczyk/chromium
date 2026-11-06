@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the fuzzer directory
+summary: Specific include rule granting the server_environment sources access to chromeos/ash test headers.

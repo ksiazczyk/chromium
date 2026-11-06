@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: zaura shell unit tests
+// summary: Unit tests for the zaura_shell bindings, covering AuraSurface occlusion tracking, tooltips, frame colors, and related surface behavior.
+// ---
+
 #include "components/exo/wayland/zaura_shell.h"
 
 #include <aura-shell-server-protocol.h>

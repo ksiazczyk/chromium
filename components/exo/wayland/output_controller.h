@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputController interface for Wayland output management
+// summary: Declares OutputController, which tracks Wayland outputs, observes display changes and exposes output resources to clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_OUTPUT_CONTROLLER_H_
 #define COMPONENTS_EXO_WAYLAND_OUTPUT_CONTROLLER_H_
 

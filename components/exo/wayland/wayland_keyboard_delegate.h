@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaylandKeyboardDelegate class header
+// summary: Declares the WaylandKeyboardDelegate that bridges Exo keyboard events to a wl_keyboard resource for surfaces of the same client, plus a repeat rate test helper.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_KEYBOARD_DELEGATE_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_KEYBOARD_DELEGATE_H_
 

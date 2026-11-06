@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'zcr_touchpad_haptics.h: touchpad haptics protocol binding'
+// summary: Declares bind_touchpad_haptics, the exo wayland server entry point that exposes the touchpad haptics Wayland protocol to clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_TOUCHPAD_HAPTICS_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_TOUCHPAD_HAPTICS_H_
 

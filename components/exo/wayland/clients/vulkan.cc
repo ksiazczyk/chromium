@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vulkan demo client
+// summary: Demo client that renders Wayland frames with Vulkan, using command buffers, render passes, and optional blitting managed by a scoped render-frame helper.
+// ---
+
 #include <drm_fourcc.h>
 
 #include <array>

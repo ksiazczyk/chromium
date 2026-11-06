@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial tracker unit tests
+// summary: Tests that serial numbers issued for mouse buttons map to the correct event types in the tracker.
+// ---
+
 #include "components/exo/wayland/serial_tracker.h"
 
 #include <linux/input-event-codes.h>

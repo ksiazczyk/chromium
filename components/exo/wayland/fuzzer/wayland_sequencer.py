@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Wayland sequencer for fuzzer input generation
+# summary: Generates sequences of valid Wayland instructions by computing the transitive dependencies needed to instantiate and invoke a given protocol message for the fuzzer.
+# ---
+
 """Generate sequences of valid wayland instructions.
 
 Determines sequences of calls necessary to instantiate and invoke a given

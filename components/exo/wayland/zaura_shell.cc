@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: zaura shell protocol implementation
+// summary: Implements the zaura_shell Wayland protocol bindings, including AuraSurface behavior for frames, snapping, desks, tooltips, and occlusion in Ash.
+// ---
+
 #include "components/exo/wayland/zaura_shell.h"
 
 #include <wayland-server-core.h>

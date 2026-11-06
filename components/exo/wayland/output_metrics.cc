@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputMetrics implementation from display state
+// summary: Builds OutputMetrics from a display, computing scales, physical sizes, transforms and connection type.
+// ---
+
 #include "components/exo/wayland/output_metrics.h"
 
 #include "base/bit_cast.h"

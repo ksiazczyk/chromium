@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland server unit tests
+// summary: Tests server opening, file descriptor access, security delegate association, and client connection dispatch.
+// ---
+
 #include "components/exo/wayland/server.h"
 
 #include <stdlib.h>

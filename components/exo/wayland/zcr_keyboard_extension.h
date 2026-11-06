@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended keyboard Wayland protocol header
+// summary: Declares the WaylandKeyboardExtension struct and the bind function that registers the zcr keyboard extension protocol with the Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_KEYBOARD_EXTENSION_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_KEYBOARD_EXTENSION_H_
 

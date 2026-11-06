@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland keyboard configuration header
+// summary: Declares bind_keyboard_configuration and the supported version constant for the zcr keyboard configuration protocol in the Exo Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZCR_KEYBOARD_CONFIGURATION_H_
 #define COMPONENTS_EXO_WAYLAND_ZCR_KEYBOARD_CONFIGURATION_H_
 

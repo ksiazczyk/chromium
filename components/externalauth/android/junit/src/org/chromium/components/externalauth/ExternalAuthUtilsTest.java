@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ExternalAuthUtilsTest: Robolectric tests for ExternalAuthUtils'
+// summary: Robolectric unit tests for Chromium's ExternalAuthUtils, using Mockito to verify Google Play Services availability checks and calling-package handling.
+// ---
+
 package org.chromium.components.externalauth;
 
 import static org.junit.Assert.assertFalse;

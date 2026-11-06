@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalNavigationHelper
+// summary: Interface for external navigation actions such as launching an external app, including a flow that asks for user confirmation when leaving incognito.
+// ---
+
 package org.chromium.components.external_intents;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple Wayland client class declaration
+// summary: Declares the Simple client class, its Run method, presentation feedback aggregation, and run parameters for vsync logging and single-pixel buffers.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_CLIENTS_SIMPLE_H_
 #define COMPONENTS_EXO_WAYLAND_CLIENTS_SIMPLE_H_
 

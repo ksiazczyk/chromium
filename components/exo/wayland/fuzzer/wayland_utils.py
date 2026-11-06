@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Utilities for working with Wayland protocols
+# summary: Provides shared helpers for parsing Wayland protocol XML, enumerating interfaces and messages, and detecting constructors, destructors, and documentation.
+# ---
+
 """Utilities for working with wayland protocols.
 
 A collection of all the generically useful wayland utilities.

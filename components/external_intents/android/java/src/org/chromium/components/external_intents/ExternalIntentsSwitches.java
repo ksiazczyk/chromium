@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalIntentsSwitches
+// summary: Defines the command-line switches for external intent launching, including disable-external-intent-requests to stop forwarding URLs to external intents.
+// ---
+
 package org.chromium.components.external_intents;
 
 import org.chromium.build.annotations.NullMarked;

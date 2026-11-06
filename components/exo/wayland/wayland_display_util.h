@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland display utility header
+// summary: Declares OutputTransform, which converts a display rotation into the wl_output transform a compositor applies to compensate for output rotation.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WAYLAND_DISPLAY_UTIL_H_
 #define COMPONENTS_EXO_WAYLAND_WAYLAND_DISPLAY_UTIL_H_
 

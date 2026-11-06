@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus tools protocol implementation
+// summary: Implements the stylus-tools v1 Wayland protocol, allowing clients to mark a surface as stylus-only.
+// ---
+
 #include "components/exo/wayland/zcr_stylus_tools.h"
 
 #include <stylus-tools-unstable-v1-server-protocol.h>

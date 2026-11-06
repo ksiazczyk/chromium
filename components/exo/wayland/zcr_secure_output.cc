@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure output protocol implementation
+// summary: Implements the secure-output v1 Wayland protocol so surfaces can be marked as visible only on secure output.
+// ---
+
 #include "components/exo/wayland/zcr_secure_output.h"
 
 #include <secure-output-unstable-v1-server-protocol.h>

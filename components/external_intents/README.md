@@ -1,3 +1,9 @@
+---
+type: readme
+title: External intents component documentation
+summary: Explains how and why Chrome launches external intents on Android, covering motivation, supported and blocked flows, code structure, and embedding of the component.
+---
+
 This directory holds the core logic that Chrome uses to launch external intents
 on Android. External Navigation is surprisingly subtle, with implications on
 privacy, security, and platform integration. This document goes through the

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland relative pointer manager implementation
+// summary: Implements the zwp_relative_pointer_manager protocol, sending relative motion events to Wayland clients through a RelativePointerDelegate.
+// ---
+
 #include "components/exo/wayland/zwp_relative_pointer_manager.h"
 
 #include <relative-pointer-unstable-v1-server-protocol.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer gestures protocol implementation
+// summary: Implements the zwp_pointer_gestures protocol, forwarding pinch gesture events to Wayland clients, while swipe gestures are not implemented.
+// ---
+
 #include "components/exo/wayland/zwp_pointer_gestures.h"
 
 #include <pointer-gestures-unstable-v1-server-protocol.h>

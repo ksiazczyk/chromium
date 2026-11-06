@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output configuration change types for Exo Wayland
+// summary: Declares a struct that encapsulates an atomic Wayland output configuration change with added, removed and changed outputs.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_OUTPUT_CONFIGURATION_CHANGE_H_
 #define COMPONENTS_EXO_WAYLAND_OUTPUT_CONFIGURATION_CHANGE_H_
 

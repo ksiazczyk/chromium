@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for Wayland client resource key utility
+// summary: Declares GetResourceKey, which returns a ResourceKey for a given Wayland client-side resource.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_CLIENT_UTIL_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_CLIENT_UTIL_H_
 

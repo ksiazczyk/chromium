@@ -1,3 +1,9 @@
+---
+type: readme
+title: Exo Wayland protocol extensions overview
+summary: Explains exo-specific Wayland protocol extensions and gives guidance for safely updating the protocol shared between ash-chrome and lacros-chrome.
+---
+
 This directory contains exo-specific extensions to the Wayland protocol.
 
 To begin with, we recommend this

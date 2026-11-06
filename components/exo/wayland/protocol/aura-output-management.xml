@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: reference
+title: Aura output management Wayland protocol
+summary: Wayland protocol specification for the zaura_output_manager_v2 interface that propagates atomic ChromeOS output configuration changes to clients.
+-->
+
 <protocol name="aura_output_management">
 
   <copyright>

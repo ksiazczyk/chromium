@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTracker class declaration
+// summary: Declares ClientTracker, a utility class that tracks wl_client lifetime so client resources are not accessed after destruction begins.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_CLIENT_TRACKER_H_
 #define COMPONENTS_EXO_WAYLAND_CLIENT_TRACKER_H_
 

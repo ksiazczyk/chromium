@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland keyboard delegate unit tests
+// summary: Unit tests verifying conversion of key repeat intervals to integer Wayland repeat rates, including the disabled case and the 1 Hz rounding fallback.
+// ---
+
 #include "components/exo/wayland/wayland_keyboard_delegate.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wayland surface attach and commit tests
+// summary: Parameterized tests that verify surface buffer attach, commit, and buffer release behavior across device scale factors.
+// ---
+
 #include "components/exo/surface.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland Linux DMA-BUF protocol implementation
+// summary: Implements the zwp_linux_dmabuf protocol for creating wl_buffer objects from DMA-BUF planes with modifiers in the Exo Wayland server.
+// ---
+
 #include "components/exo/wayland/zwp_linux_dmabuf.h"
 #include "base/memory/raw_ptr.h"
 

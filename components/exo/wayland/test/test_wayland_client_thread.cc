@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWaylandClientThread implementation
+// summary: Implements a dedicated thread that runs a Wayland test client, dispatching display events and running callbacks with roundtrips.
+// ---
+
 #include "components/exo/wayland/test/test_wayland_client_thread.h"
 
 #include <utility>

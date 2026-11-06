@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland keyboard delegate implementation
+// summary: Implements the Wayland keyboard delegate, forwarding enter, leave, key, modifier, and keymap events to clients via wl_keyboard with serial tracking.
+// ---
+
 #include "components/exo/wayland/wayland_keyboard_delegate.h"
 
 #include <wayland-server-core.h>

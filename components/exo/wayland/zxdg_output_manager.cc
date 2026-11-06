@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland xdg output manager implementation
+// summary: Implements the zxdg_output_manager_v1 protocol, creating xdg_output resources that attach a WaylandDisplayHandler to wl_output objects and clean up on destruction.
+// ---
+
 #include "components/exo/wayland/zxdg_output_manager.h"
 
 #include <xdg-output-unstable-v1-server-protocol.h>

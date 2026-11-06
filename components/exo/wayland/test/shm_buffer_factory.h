@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for shared memory buffer factory
+// summary: Declares ShmBufferFactory, which uses wl_shm_pool to create test buffers with an optional buffer listener.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_SHM_BUFFER_FACTORY_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_SHM_BUFFER_FACTORY_H_
 

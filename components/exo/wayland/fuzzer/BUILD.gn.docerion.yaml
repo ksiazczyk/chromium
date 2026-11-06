@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wayland fuzzer build definition
+summary: GN build file listing the default Wayland protocols and defining templater targets, the seed corpus, and the wayland_fuzzer libFuzzer test.

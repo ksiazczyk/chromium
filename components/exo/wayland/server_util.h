@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland server utility function declarations
+// summary: Declares Wayland server helpers for resource user data, surface and data offer resource lookup, security delegate association, and client destruction checks.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_SERVER_UTIL_H_
 #define COMPONENTS_EXO_WAYLAND_SERVER_UTIL_H_
 

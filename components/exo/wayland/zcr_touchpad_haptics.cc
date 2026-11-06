@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touchpad haptics protocol implementation
+// summary: Implements the touchpad-haptics v1 Wayland protocol to play haptic touchpad effects and report haptic support state.
+// ---
+
 #include "components/exo/wayland/zcr_touchpad_haptics.h"
 
 #include <touchpad-haptics-unstable-v1-server-protocol.h>

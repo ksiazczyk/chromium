@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland relative pointer manager header
+// summary: Declares the bind function that exposes the relative pointer manager protocol to Wayland clients.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_ZWP_RELATIVE_POINTER_MANAGER_H_
 #define COMPONENTS_EXO_WAYLAND_ZWP_RELATIVE_POINTER_MANAGER_H_
 

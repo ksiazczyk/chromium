@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for OutputController
+// summary: Verifies OutputController initialization and its handling of added and removed displays.
+// ---
+
 #include "components/exo/wayland/output_controller.h"
 
 #include <wayland-server-core.h>

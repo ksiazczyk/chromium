@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Wayland interface construction step helpers
+# summary: Computes the construction steps, constructors and minimum versions needed to build each Wayland interface for the generated compatibility tests.
+# ---
+
 import argparse  # noqa: F401
 import collections
 import dataclasses

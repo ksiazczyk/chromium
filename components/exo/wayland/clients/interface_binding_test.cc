@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interface binding version skew test
+// summary: Wayland client test that checks interface binding across protocol versions, covering valid, skewed and invalid version cases.
+// ---
+
 #include "base/logging.h"
 #include "components/exo/wayland/clients/test/client_version_test.h"
 #include "components/exo/wayland/clients/test/wayland_client_test.h"

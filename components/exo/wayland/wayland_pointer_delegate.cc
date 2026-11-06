@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland pointer delegate implementation
+// summary: Implements the Wayland pointer delegate, sending pointer enter, leave, motion, button, and scroll events to clients through wl_pointer with serial tracking.
+// ---
+
 #include "components/exo/wayland/wayland_pointer_delegate.h"
 
 #include <linux/input-event-codes.h>

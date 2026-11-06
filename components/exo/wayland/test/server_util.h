@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for Wayland server resource lookup utility
+// summary: Declares LookUpResource and a GetUserDataForResource helper that returns typed user data for a resource found by key.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_SERVER_UTIL_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_SERVER_UTIL_H_
 

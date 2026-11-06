@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandServerTestBase header
+// summary: Declares WaylandServerTestBase, the base fixture for tests that create an exo Wayland server, including the ScopedTempSocket helper.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_TEST_WAYLAND_SERVER_TEST_BASE_H_
 #define COMPONENTS_EXO_WAYLAND_TEST_WAYLAND_SERVER_TEST_BASE_H_
 

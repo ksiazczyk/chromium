@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: wl_output binding declarations
+// summary: Declares the bind_output function and the supported wl_output protocol version for the Exo Wayland server.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WL_OUTPUT_H_
 #define COMPONENTS_EXO_WAYLAND_WL_OUTPUT_H_
 

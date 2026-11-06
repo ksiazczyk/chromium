@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland server file descriptor watcher implementation
+// summary: Watches the Wayland server file descriptor for readability and dispatches and flushes the server when client messages arrive.
+// ---
+
 #include "components/exo/wayland/wayland_watcher.h"
 
 #include "base/task/current_thread.h"

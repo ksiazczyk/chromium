@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the Wayland client version test
+// summary: Declares the ClientVersionTest class with version validity types for testing interface binding and version skew support.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_CLIENTS_TEST_CLIENT_VERSION_TEST_H_
 #define COMPONENTS_EXO_WAYLAND_CLIENTS_TEST_CLIENT_VERSION_TEST_H_
 

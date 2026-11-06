@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland keyboard shortcuts inhibit manager implementation
+// summary: Implements the server side of the Wayland keyboard shortcuts inhibit protocol, creating per-surface inhibitors that mark Exo surfaces as suppressing keyboard shortcuts and clean up on destruction.
+// ---
+
 #include "components/exo/wayland/zwp_keyboard_shortcuts_inhibit_manager.h"
 
 #include <keyboard-shortcuts-inhibit-unstable-v1-server-protocol.h>

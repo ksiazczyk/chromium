@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalAuthUtils
+// summary: Singleton utility class for external authentication, offering checks for Google signing, system build membership, and Google Play Services availability.
+// ---
+
 package org.chromium.components.externalauth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

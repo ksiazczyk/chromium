@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaylandServerTestBase implementation with ScopedTempSocket
+// summary: Implements WaylandServerTestBase and ScopedTempSocket, which manage temporary Unix sockets and create exo Wayland servers for tests.
+// ---
+
 #include "components/exo/wayland/test/wayland_server_test_base.h"
 
 #include <stdlib.h>

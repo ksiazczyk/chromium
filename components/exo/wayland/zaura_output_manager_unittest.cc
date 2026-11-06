@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura output manager unit tests
+// summary: Unit tests for AuraOutputManager that use a mock listener to verify output metrics and activation events sent to Wayland clients.
+// ---
+
 
 #include "components/exo/wayland/zaura_output_manager.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for external_intents Android
+summary: Specifies allowed and forbidden include paths for the external_intents Android directory, covering navigation interception, messages, and content public browser headers.

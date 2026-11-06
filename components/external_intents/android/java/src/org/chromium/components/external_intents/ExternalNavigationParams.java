@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalNavigationParams
+// summary: Container object carrying navigation parameters such as URL, referrer, transition type, and incognito state into ExternalNavigationHandler.
+// ---
+
 package org.chromium.components.external_intents;
 
 import static org.chromium.build.NullUtil.assertNonNull;

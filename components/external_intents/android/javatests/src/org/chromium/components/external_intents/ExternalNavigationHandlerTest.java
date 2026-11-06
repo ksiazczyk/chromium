@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalNavigationHandlerTest
+// summary: Instrumentation tests for ExternalNavigationHandler covering URL loading override outcomes such as incognito dialogs, WebAPK starts, file access, and intent sanitization exceptions.
+// ---
+
 package org.chromium.components.external_intents;
 
 import static com.google.common.truth.Truth.assertThat;

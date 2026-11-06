@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland single pixel buffer binding header
+// summary: Declares the single pixel buffer manager bind function and the constant for its supported protocol version.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_WP_SINGLE_PIXEL_BUFFER_H_
 #define COMPONENTS_EXO_WAYLAND_WP_SINGLE_PIXEL_BUFFER_H_
 

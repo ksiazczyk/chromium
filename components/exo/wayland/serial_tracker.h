@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wayland serial tracker class declaration
+// summary: Declares SerialTracker, which maps Wayland serial numbers to pointer and touch event types.
+// ---
+
 #ifndef COMPONENTS_EXO_WAYLAND_SERIAL_TRACKER_H_
 #define COMPONENTS_EXO_WAYLAND_SERIAL_TRACKER_H_
 

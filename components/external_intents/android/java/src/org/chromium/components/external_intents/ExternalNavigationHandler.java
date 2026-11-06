@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalNavigationHandler
+// summary: Core handler for URL overriding and interception that converts suitable navigations into Android intents so links can open in native apps like YouTube.
+// ---
+
 package org.chromium.components.external_intents;
 
 import static org.chromium.build.NullUtil.assumeNonNull;
