@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Address editor GN build configuration
+summary: Defines GN source sets and dependencies for the address editor UI, covering constants, edit flow, shared UI, and unit tests.

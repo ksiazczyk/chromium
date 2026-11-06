@@ -1,0 +1,4 @@
+# Docerion header of wallet_reminder_notice_mediator_unittest.mm.
+type: test
+title: Wallet Reminder Notice mediator unit tests
+summary: Unit tests verifying the mediator sets the consumer title, button label, and disclaimer text from legal message lines.

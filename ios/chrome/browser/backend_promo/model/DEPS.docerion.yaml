@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Backend promo model DEPS include rules
+summary: Restricts header includes in the backend promo model directory to the identity manager, browser list, and feature engagement tracker factories.

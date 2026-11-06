@@ -1,0 +1,4 @@
+# Docerion header of badge_static_item.mm.
+type: source
+title: Badge static item implementation
+summary: Implements BadgeStaticItem, setting the badge type and marking the item non-tappable, with full screen only for the incognito badge.

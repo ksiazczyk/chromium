@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card bottom sheet mediator header
+// summary: Declares the mediator that tracks the save card bottom sheet model, updates the consumer, and forwards user actions, including the SaveCardActionType enum.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_BOTTOM_SHEET_SAVE_CARD_BOTTOM_SHEET_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_BOTTOM_SHEET_SAVE_CARD_BOTTOM_SHEET_MEDIATOR_H_
 

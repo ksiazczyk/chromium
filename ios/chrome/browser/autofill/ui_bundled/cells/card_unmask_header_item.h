@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardUnmaskHeaderItem header
+// summary: Declares CardUnmaskHeaderItem and CardUnmaskHeaderView, the header item and view showing a title and instructions in the card unmask prompt.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CELLS_CARD_UNMASK_HEADER_ITEM_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CELLS_CARD_UNMASK_HEADER_ITEM_H_
 

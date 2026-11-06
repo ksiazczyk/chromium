@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the bottom sheet directory
+summary: Allows the directory to include headers from the credit card scanner settings UI.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for iOS autofill UI (BUILD.gn)
+summary: Defines GN build targets and dependencies for the iOS autofill UI bundled directory, including the coordinator source set.

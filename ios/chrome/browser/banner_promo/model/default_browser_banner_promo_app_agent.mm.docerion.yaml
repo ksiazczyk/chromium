@@ -1,0 +1,4 @@
+# Docerion header of default_browser_banner_promo_app_agent.mm.
+type: source
+title: Default browser banner promo app agent implementation
+summary: Implements the app agent that observes web state navigation to show or hide the default browser banner promo and record metrics.

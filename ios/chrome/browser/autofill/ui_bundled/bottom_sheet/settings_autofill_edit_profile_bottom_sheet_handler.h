@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings autofill edit profile bottom sheet handler
+// summary: Declares the handler supplying settings-specific logic for manually adding an address through the AutofillEditProfileCoordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_BOTTOM_SHEET_SETTINGS_AUTOFILL_EDIT_PROFILE_BOTTOM_SHEET_HANDLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_BOTTOM_SHEET_SETTINGS_AUTOFILL_EDIT_PROFILE_BOTTOM_SHEET_HANDLER_H_
 

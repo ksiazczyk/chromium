@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_service.mm.
+type: source
+title: BackendPromoService implementation
+summary: Implements synthetic field trial registration for backend promo campaigns via the iOS Chrome metrics service accessor.

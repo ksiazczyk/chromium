@@ -1,0 +1,4 @@
+# Docerion header of badge_mediator.mm.
+type: source
+title: Badge mediator implementation
+summary: Implements BadgeMediator, observing infobar and web state changes to decide which badges to display and handling badge tap actions.

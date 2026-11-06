@@ -1,0 +1,4 @@
+# Docerion header of autofill_progress_dialog_mediator.mm.
+type: source
+title: Autofill progress dialog mediator implementation
+summary: Implements the bridge that feeds loading content and cancel actions to the alert consumer and shows a success confirmation before a delayed dismissal.

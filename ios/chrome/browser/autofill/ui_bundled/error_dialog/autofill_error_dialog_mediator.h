@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill error dialog mediator header
+// summary: Declares the C++ bridge class implementing AutofillErrorDialogView to connect the autofill error dialog model controller with the iOS view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_ERROR_DIALOG_AUTOFILL_ERROR_DIALOG_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_ERROR_DIALOG_AUTOFILL_ERROR_DIALOG_MEDIATOR_H_
 

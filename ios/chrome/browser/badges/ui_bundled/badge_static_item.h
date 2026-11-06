@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge static item header
+// summary: Declares BadgeStaticItem, which holds the configuration for a non-tappable badge button such as the incognito badge.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_STATIC_ITEM_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_STATIC_ITEM_H_
 

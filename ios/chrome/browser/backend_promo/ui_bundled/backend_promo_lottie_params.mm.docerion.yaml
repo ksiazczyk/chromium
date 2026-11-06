@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_lottie_params.mm.
+type: source
+title: Backend promo Lottie parameters implementation
+summary: Implements the BackendPromoLottieParams class that carries color and text mapping parameters for Lottie animations.

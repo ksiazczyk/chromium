@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend promo custom UI view controller interface
+// summary: Declares the view controller for backend promo modals with Lottie animations and a factory that falls back to a confirmation alert.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_CUSTOM_UI_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_CUSTOM_UI_VIEW_CONTROLLER_H_
 

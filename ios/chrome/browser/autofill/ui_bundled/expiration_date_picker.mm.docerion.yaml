@@ -1,0 +1,4 @@
+# Docerion header of expiration_date_picker.mm.
+type: source
+title: ExpirationDatePicker implementation
+summary: Implements the expiration date picker with month and year sections, showing twenty upcoming years and reporting selections.

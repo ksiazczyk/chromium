@@ -1,0 +1,4 @@
+# Docerion header of infobar_autofill_edit_profile_bottom_sheet_handler.mm.
+type: source
+title: Infobar autofill edit profile bottom sheet handler implementation
+summary: Implements infobar-driven address profile save, update, migration and decline actions for the bottom sheet.

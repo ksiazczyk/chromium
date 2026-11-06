@@ -1,0 +1,4 @@
+# Docerion header of wallet_reminder_notice_view_controller.mm.
+type: source
+title: WalletReminderNoticeViewController implementation
+summary: Builds the Wallet Reminder Notice bottom sheet with branding illustration, styled legal disclaimer text views, and delegate notifications for actions and link taps.

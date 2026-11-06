@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_profile_agent_unittest.mm.
+type: test
+title: BackendPromoProfileAgent unit tests
+summary: Tests that the agent notifies a fake BackendPromoService once the profile reaches its final init stage and on subsequent foreground activation transitions.

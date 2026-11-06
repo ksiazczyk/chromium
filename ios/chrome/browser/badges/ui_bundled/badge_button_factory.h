@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BadgeButtonFactory interface
+// summary: Declares BadgeButtonFactory, which creates configured BadgeButton objects for a badge type using an infobar, with incognito support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_BUTTON_FACTORY_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_BADGE_BUTTON_FACTORY_H_
 

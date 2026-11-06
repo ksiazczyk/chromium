@@ -1,0 +1,4 @@
+# Docerion header of save_card_bottom_sheet_view_controller_unittest.mm.
+type: test
+title: Save card bottom sheet view controller unit tests
+summary: Unit tests for the save card view controller covering loading and confirmation states and the GPay pill icon shown with wallet branding enabled.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Wallet Reminder Notice UI
+summary: Defines source sets, bundled asset resources, and unit test targets for the iOS Wallet Reminder Notice bottom sheet.

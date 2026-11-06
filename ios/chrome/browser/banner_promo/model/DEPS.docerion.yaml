@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for banner promo model
+summary: Restricts includes in the banner promo model directory to the default browser and feature engagement model folders.

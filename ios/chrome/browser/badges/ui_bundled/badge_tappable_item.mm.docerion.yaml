@@ -1,0 +1,4 @@
+# Docerion header of badge_tappable_item.mm.
+type: source
+title: BadgeTappableItem implementation
+summary: Implements a tappable badge item that wraps a BadgeType with tappable enabled and default badge state.

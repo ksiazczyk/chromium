@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar autofill edit profile bottom sheet handler header
+// summary: Declares the handler that supplies infobar-specific logic to the AutofillEditProfileCoordinator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_BOTTOM_SHEET_INFOBAR_AUTOFILL_EDIT_PROFILE_BOTTOM_SHEET_HANDLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_BOTTOM_SHEET_INFOBAR_AUTOFILL_EDIT_PROFILE_BOTTOM_SHEET_HANDLER_H_
 

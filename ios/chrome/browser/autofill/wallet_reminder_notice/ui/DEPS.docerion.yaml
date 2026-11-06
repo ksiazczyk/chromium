@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Wallet Reminder Notice UI dependencies
+summary: Restricts allowed includes for the directory and grants specific autofill legal message headers to the view controller and its tests.

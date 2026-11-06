@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the autofill bottom sheet directory
+summary: Lists default owners and per-file reviewers for virtual card and save card bottom sheet files.

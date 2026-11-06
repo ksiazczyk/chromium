@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rule allowlist for iOS autofill UI (DEPS)
+summary: Lists the allowed include dependencies for code in the iOS autofill UI directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card expiration date fix flow view bridge
+// summary: Declares the iOS bridge and table view controller that present the dialog for fixing an expired credit card's expiration date.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CARD_EXPIRATION_DATE_FIX_FLOW_VIEW_BRIDGE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CARD_EXPIRATION_DATE_FIX_FLOW_VIEW_BRIDGE_H_
 

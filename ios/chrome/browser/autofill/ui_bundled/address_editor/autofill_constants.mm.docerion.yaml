@@ -1,0 +1,4 @@
+# Docerion header of autofill_constants.mm.
+type: source
+title: Autofill address editor constant definitions
+summary: Defines the NSString constants for the country selection table view and search scrim accessibility identifiers.

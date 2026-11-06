@@ -1,0 +1,4 @@
+# Docerion header of backend_promo_custom_ui_view_controller_unittest.mm.
+type: test
+title: Backend promo custom UI view controller unit tests
+summary: Unit tests covering parameter storage, view controller creation, and Lottie color and text mapping behavior.

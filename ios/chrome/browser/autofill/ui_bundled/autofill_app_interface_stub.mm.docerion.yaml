@@ -1,0 +1,4 @@
+# Docerion header of autofill_app_interface_stub.mm.
+type: source
+title: Stub registration for the autofill app interface
+summary: Registers the autofill app interface as an Earl Grey stub in the app main queue for test builds.

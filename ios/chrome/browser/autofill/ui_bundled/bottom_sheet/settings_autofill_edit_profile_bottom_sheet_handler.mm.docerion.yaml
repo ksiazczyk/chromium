@@ -1,0 +1,4 @@
+# Docerion header of settings_autofill_edit_profile_bottom_sheet_handler.mm.
+type: source
+title: Settings autofill edit profile bottom sheet handler implementation
+summary: Implements the settings handler that adds a new autofill address profile through the bottom sheet using the address data manager.

@@ -1,0 +1,4 @@
+# Docerion header of bottom_sheet_constants.mm.
+type: source
+title: Bottom sheet constants implementation
+summary: Defines the accessibility identifier strings and the 1.5 second confirmation dismiss delay.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask prompt view controller
+// summary: Declares the iOS view controller for the card unmask prompt, which collects CVC and expiration date input to verify a saved credit card.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CARD_UNMASK_PROMPT_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CARD_UNMASK_PROMPT_VIEW_CONTROLLER_H_
 

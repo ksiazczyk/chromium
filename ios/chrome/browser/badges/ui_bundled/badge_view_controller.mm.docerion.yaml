@@ -1,0 +1,4 @@
+# Docerion header of badge_view_controller.mm.
+type: source
+title: BadgeViewController implementation
+summary: Implements badge display with fullscreen handling, unread indicator, separators and animated badge switching.

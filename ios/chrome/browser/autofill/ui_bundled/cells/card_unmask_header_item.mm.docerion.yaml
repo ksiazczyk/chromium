@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_header_item.mm.
+type: source
+title: CardUnmaskHeaderItem implementation
+summary: Implements the card unmask prompt header, laying out the Google Pay badge, title and instructions labels with accessibility label support.

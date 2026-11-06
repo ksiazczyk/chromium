@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend promo custom UI params interface
+// summary: Declares the parameter object holding promo title, body, action titles, image URL, Lottie configuration, and instruction steps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_CUSTOM_UI_PARAMS_H_
 #define IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_CUSTOM_UI_PARAMS_H_
 

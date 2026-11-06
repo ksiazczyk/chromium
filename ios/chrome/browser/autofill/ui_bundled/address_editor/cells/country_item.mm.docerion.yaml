@@ -1,0 +1,4 @@
+# Docerion header of country_item.mm.
+type: source
+title: Country item implementation
+summary: Implements the CountryItem class without adding behavior beyond its declared properties.

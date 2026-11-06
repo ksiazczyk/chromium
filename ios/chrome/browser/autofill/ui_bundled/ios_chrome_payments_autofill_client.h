@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSChromePaymentsAutofillClient header
+// summary: Declares the Chrome iOS PaymentsAutofillClient handling card save, unmask, fix flows and virtual card enrollment UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_IOS_CHROME_PAYMENTS_AUTOFILL_CLIENT_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_IOS_CHROME_PAYMENTS_AUTOFILL_CLIENT_H_
 

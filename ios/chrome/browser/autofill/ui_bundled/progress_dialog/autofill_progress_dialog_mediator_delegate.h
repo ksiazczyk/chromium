@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill progress dialog mediator delegate protocol
+// summary: Defines the protocol through which the mediator asks its delegate to dismiss the progress dialog.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_PROGRESS_DIALOG_AUTOFILL_PROGRESS_DIALOG_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_PROGRESS_DIALOG_AUTOFILL_PROGRESS_DIALOG_MEDIATOR_DELEGATE_H_
 

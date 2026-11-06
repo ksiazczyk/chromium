@@ -1,0 +1,4 @@
+# Docerion header of virtual_card_enrollment_bottom_sheet_view_controller.mm.
+type: source
+title: Virtual card enrollment bottom sheet view controller implementation
+summary: Implements the virtual card enrollment bottom sheet UI with card details, legal messages, loading and confirmation states, and accept or cancel actions.

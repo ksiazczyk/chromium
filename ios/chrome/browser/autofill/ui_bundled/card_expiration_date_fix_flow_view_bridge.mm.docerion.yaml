@@ -1,0 +1,4 @@
+# Docerion header of card_expiration_date_fix_flow_view_bridge.mm.
+type: source
+title: Card expiration date fix flow view bridge implementation
+summary: Implements the bridge and view controller showing the expiration date fix flow, handling confirmation, dismissal, and self-deletion after the dialog closes.

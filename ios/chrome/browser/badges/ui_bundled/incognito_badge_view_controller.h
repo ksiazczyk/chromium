@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito badge view controller interface
+// summary: Declares the view controller that manages the display of the incognito badge, conforming to FullscreenUIElement and IncognitoBadgeConsumer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_INCOGNITO_BADGE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_BADGES_UI_BUNDLED_INCOGNITO_BADGE_VIEW_CONTROLLER_H_
 

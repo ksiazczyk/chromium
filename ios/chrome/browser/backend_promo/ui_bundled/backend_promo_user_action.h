@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backend promo user action enum
+// summary: Defines the BackendPromoUserAction enum with accepted, dismissed, and cancelled actions taken on the backend promo UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_USER_ACTION_H_
 #define IOS_CHROME_BROWSER_BACKEND_PROMO_UI_BUNDLED_BACKEND_PROMO_USER_ACTION_H_
 

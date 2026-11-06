@@ -1,0 +1,4 @@
+# Docerion header of blocking_overlay_view_controller.mm.
+type: source
+title: Blocking overlay view controller implementation
+summary: Implements the Safe Mode overlay with a blurred background, explanatory label, and a button that activates the blocking scene through the command handler.

@@ -1,0 +1,4 @@
+# Docerion header of card_unmask_prompt_view_controller.mm.
+type: source
+title: Card unmask prompt view controller implementation
+summary: Implements the unmask prompt UI with card info header, CVC and expiration date inputs, error alerts, loading state, and focus handling.

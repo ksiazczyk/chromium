@@ -1,0 +1,4 @@
+# Docerion header of wallet_reminder_notice_ui_delegate_ios.mm.
+type: source
+title: WalletReminderNoticeUiDelegateIOS implementation
+summary: Implements ShowWalletReminderNotice by dispatching the notice with legal message lines to the Autofill commands handler on the origin web state.

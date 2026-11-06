@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet Reminder Notice mediator header
+// summary: Declares the mediator that updates the Wallet Reminder Notice view controller consumer with title, action label, and disclaimer.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_WALLET_REMINDER_NOTICE_COORDINATOR_WALLET_REMINDER_NOTICE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_WALLET_REMINDER_NOTICE_COORDINATOR_WALLET_REMINDER_NOTICE_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of autofill_settings_util.mm.
+type: source
+title: AutofillSettingsUtil implementation
+summary: Composes accessibility labels from field name, essential placeholders, and errors, and maps field types to localized messages.

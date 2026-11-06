@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpirationDateEditItem testing category header
+// summary: Declares a Testing category on ExpirationDateEditItem that makes the month and year properties writable for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CELLS_EXPIRATION_DATE_EDIT_ITEM_TESTING_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_CELLS_EXPIRATION_DATE_EDIT_ITEM_TESTING_H_
 

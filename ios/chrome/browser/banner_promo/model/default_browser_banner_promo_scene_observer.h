@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser banner promo scene observer header
+// summary: Declares a per-scene observer that tracks the active web state's last navigated URL for the banner promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_BANNER_PROMO_MODEL_DEFAULT_BROWSER_BANNER_PROMO_SCENE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_BANNER_PROMO_MODEL_DEFAULT_BROWSER_BANNER_PROMO_SCENE_OBSERVER_H_
 

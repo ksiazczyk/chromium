@@ -1,0 +1,4 @@
+# Docerion header of virtual_card_enrollment_bottom_sheet_mediator.mm.
+type: source
+title: Virtual card enrollment bottom sheet mediator implementation
+summary: Implements the mediator that bridges the C++ virtual card enrollment UI model to the iOS bottom sheet, building display data and logging card art metrics.

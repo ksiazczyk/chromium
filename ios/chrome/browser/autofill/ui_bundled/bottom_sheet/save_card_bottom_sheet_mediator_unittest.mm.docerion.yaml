@@ -1,0 +1,4 @@
+# Docerion header of save_card_bottom_sheet_mediator_unittest.mm.
+type: test
+title: Save card bottom sheet mediator unit tests
+summary: Unit tests for the save card mediator verifying offer, result, loading, and confirmation metrics histograms across local and upload save flows.

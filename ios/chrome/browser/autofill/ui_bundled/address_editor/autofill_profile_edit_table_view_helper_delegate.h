@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill profile edit table view helper delegate protocol
+// summary: Declares the delegate protocol for viewing and editing autofill profile data, covering country selection, field validation, value updates, and required field tracking.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_ADDRESS_EDITOR_AUTOFILL_PROFILE_EDIT_TABLE_VIEW_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_AUTOFILL_UI_BUNDLED_ADDRESS_EDITOR_AUTOFILL_PROFILE_EDIT_TABLE_VIEW_HELPER_DELEGATE_H_
 

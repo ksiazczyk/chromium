@@ -1,0 +1,4 @@
+# Docerion header of autofill_credit_card_edit_item.mm.
+type: source
+title: AutofillCreditCardEditItem implementation
+summary: Implements the AutofillCreditCardEditItem class used to configure credit card edit cells in the autofill UI.

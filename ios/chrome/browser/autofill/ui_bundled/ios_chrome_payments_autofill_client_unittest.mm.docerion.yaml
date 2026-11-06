@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_payments_autofill_client_unittest.mm.
+type: test
+title: IOSChromePaymentsAutofillClient unit tests
+summary: Unit tests for the payments autofill client verifying save card, error dialog and virtual card enrollment behavior with fake commands.

@@ -1,0 +1,4 @@
+# Docerion header of wallet_reminder_notice_view_controller_unittest.mm.
+type: test
+title: WalletReminderNoticeViewController unit tests
+summary: Tests consumer property updates, disclaimer text setup, and delegate notifications for primary action and link taps using a fake delegate and OCMock.

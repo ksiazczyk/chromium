@@ -1,0 +1,4 @@
+# Docerion header of autofill_error_dialog_coordinator.mm.
+type: source
+title: Autofill error dialog coordinator implementation
+summary: Implements the coordinator that shows autofill error alerts, queuing pending alerts and retrying presentation when another view controller is presented.

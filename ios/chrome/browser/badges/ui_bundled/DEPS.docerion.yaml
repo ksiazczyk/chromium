@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Badges UI include rules
+summary: Lists the allowed include rules for the badges UI directory, restricting dependencies to specific Chrome iOS headers.
