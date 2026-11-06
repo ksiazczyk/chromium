@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser UI Android test support build file
+summary: Defines the test_support_java Android library with the BrowserUiTestFragmentActivity source and its dependencies for browser UI tests.

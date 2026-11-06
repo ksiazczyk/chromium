@@ -8,6 +8,13 @@ found in the LICENSE file.
 A pill-shaped background, with a very large corner radius to achieve the pill
 effect.
 -->
+
+<!--docerion
+type: asset
+title: Pill-shaped background drawable
+summary: Android shape drawable that renders a pill-shaped background using a very large corner radius and the default background color macro.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
     <solid android:color="@macro/default_bg_color" />

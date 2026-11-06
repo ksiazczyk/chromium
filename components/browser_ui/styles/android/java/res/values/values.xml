@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Boolean flags and transition durations
+summary: Defines boolean flags for light status and navigation bars plus shared x axis transition durations used by Chrome's Android UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Bottom navigation bar styling. -->
     <bool name="window_light_navigation_bar">true</bool>

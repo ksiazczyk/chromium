@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Google shield icon vector drawable, 24 dp
+summary: Android vector drawable with a 24 dp shield icon containing a G, likely representing Google Safe Browsing protection.
+-->
+
 <vector android:alpha="0.9" android:height="24dp"
     android:viewportHeight="960" android:viewportWidth="960"
     android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">

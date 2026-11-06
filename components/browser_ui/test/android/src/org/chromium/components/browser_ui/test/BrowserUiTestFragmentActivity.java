@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserUiTestFragmentActivity
+// summary: FragmentActivity for JUnit tests that applies the BrowserUI DayNight theme and overlays to prevent issues caused by missing styles.
+// ---
+
 package org.chromium.components.browser_ui.test;
 
 import android.os.Bundle;

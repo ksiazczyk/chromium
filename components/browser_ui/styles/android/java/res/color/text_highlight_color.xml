@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Text highlight color
+summary: Android color selector applying the primary color at a highlight alpha for text highlighting.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/text_highlight_alpha" android:color="?attr/colorPrimary" />
 </selector>

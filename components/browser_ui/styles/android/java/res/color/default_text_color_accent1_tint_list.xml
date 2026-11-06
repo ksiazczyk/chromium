@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Default text color accent1 tint list
+summary: Android color selector for the accent1 default text color with a disabled state at the default disabled alpha.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/default_disabled_alpha" android:color="@macro/default_text_color"
         android:state_enabled="false" />

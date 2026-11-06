@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Default icon color disabled color state list
+summary: Android color selector that applies the default disabled alpha to the default icon color macro.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/default_disabled_alpha" android:color="@macro/default_icon_color" />
 </selector>

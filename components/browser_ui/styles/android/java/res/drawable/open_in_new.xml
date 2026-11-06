@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Open in new icon drawable (24dp)
+summary: Android vector drawable of an open-in-new icon at 24dp tinted with the control normal color, pending a rename to ic_open_in_new_24dp.
+-->
+
 <!-- TODO(crbug.com/483405120): Rename to ic_open_in_new_24dp -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SemanticColorUtils: semantic color values for Chrome UI'
+// summary: Utility providing semantic color values resolved from Material theme attributes, standing in for XML macros that cannot be used in Java code.
+// ---
+
 package org.chromium.components.browser_ui.styles;
 
 import android.content.Context;

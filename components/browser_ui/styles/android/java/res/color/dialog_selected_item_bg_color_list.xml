@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Dialog selected item background color state list
+summary: Android color state list that highlights selected dialog items with the chip selected background color and falls back to colorSurfaceContainer.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item
       android:state_selected="true"

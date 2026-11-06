@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Arrow selector spark icon 16dp
+summary: Android vector drawable providing a 16 dp arrow-and-spark icon for selector UI, tinted by the control normal color.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="16dp"
     android:height="16dp"

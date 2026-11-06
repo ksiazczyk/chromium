@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS restrictions for res_chromium resources
+summary: Restricts ownership of the res_chromium resource directory by setting noparent and delegating reviews to the ui/android layout OWNERS file to prevent unintended additions to top-level layout files.

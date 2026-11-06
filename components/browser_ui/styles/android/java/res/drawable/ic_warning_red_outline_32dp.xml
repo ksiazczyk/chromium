@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Warning triangle icon drawable (32dp)
+summary: Android vector drawable showing a warning triangle icon sized 32dp and tinted with the theme error color for browser UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="32dp"
     android:height="32dp"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'NewLabelSpan: clipping-safe raised New badge span'
+// summary: ReplacementSpan that draws the raised New badge while growing line metrics so the badge is not clipped in tall scripts like Thai, Urdu, and Devanagari.
+// ---
+
 package org.chromium.components.browser_ui.styles;
 
 import android.graphics.Canvas;

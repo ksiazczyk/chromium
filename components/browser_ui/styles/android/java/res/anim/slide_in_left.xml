@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Slide in left animation
+summary: Android animation resource that slides a view in from the left, moving from -100% of the parent to its position over the standard medium animation time.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <translate android:fromXDelta="-100%p" android:toXDelta="0"
         android:duration="@android:integer/config_mediumAnimTime"/>

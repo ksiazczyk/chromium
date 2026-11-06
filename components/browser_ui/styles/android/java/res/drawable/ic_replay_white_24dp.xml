@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- TODO(crbug.com/40854594): Convert this to PNG resource. -->
+
+<!--docerion
+type: asset
+title: Replay icon vector drawable (24dp)
+summary: Android vector drawable of a 24dp white replay icon, carrying a TODO to convert it to a PNG resource.
+-->
+
 <vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"

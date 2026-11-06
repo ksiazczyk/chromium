@@ -1,0 +1,4 @@
+# Docerion header of signin_spin.json.
+type: asset
+title: Sign-in spin Lottie animation
+summary: Lottie animation JSON defining the sign-in spinner used in Chromium's Android browser UI, with rotating colored shapes and fade-out keyframes.

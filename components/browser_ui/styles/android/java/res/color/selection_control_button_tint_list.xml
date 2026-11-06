@@ -4,6 +4,13 @@ Copyright 2017 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Selection control button tint list
+summary: Android color selector tinting selection controls across disabled, checked and normal states using control color macros.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/default_disabled_alpha"
         android:color="@macro/default_control_color_normal" android:state_enabled="false" />

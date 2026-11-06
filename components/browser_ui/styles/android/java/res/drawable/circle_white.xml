@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: White circle outline shape drawable
+summary: Shape drawable drawing a 20dp oval outlined with a 2dp white stroke, usable as a ring or selection indicator.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval">
     <size android:height="20dp"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'IncognitoColors: incognito-aware color and style helpers'
+// summary: Helper methods that fetch colors and text styles, returning either the day/night adaptive dynamic resource or the incognito baseline version based on a boolean.
+// ---
+
 package org.chromium.components.browser_ui.styles;
 
 import android.content.Context;

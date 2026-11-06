@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Default accent1 icon color tint list
+summary: Color selector that tints icons with the default_icon_color_accent1 macro value for browser UI icons.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="@macro/default_icon_color_accent1" />
 </selector>

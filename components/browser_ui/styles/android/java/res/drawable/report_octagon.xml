@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Report octagon icon drawable
+summary: Android vector drawable of a 48dp octagonal report icon containing an exclamation mark, tinted with the control normal color.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
         android:width="48dp"
         android:height="48dp"

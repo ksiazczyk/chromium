@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NewLabelUtils unit tests
+// summary: Unit tests for NewLabelUtils checking that badge markers are stripped, the badge span covers only the badge text, and badge removal yields plain text.
+// ---
+
 package org.chromium.components.browser_ui.styles;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for browser UI Android tests
+summary: Delegates code ownership for this directory to the parent components/browser_ui/OWNERS file.
