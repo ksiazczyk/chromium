@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Kiosk policy group details
+# summary: Defines the caption and description metadata for the Kiosk policy group covering public session and kiosk account settings.
+# ---
+
 caption: Kiosk settings
 desc: Controls public session and kiosk account types.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Kiosk policy atomic group definition
+# summary: Defines the Kiosk atomic policy group that bundles related device policies such as DeviceLocalAccounts and KioskTroubleshootingToolsEnabled.
+# ---
+
 Kiosk:
   caption: Kiosk settings
   policies:

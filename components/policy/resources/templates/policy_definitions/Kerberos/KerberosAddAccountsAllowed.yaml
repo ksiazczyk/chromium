@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: KerberosAddAccountsAllowed policy definition
+# summary: Defines the ChromeOS policy that controls whether users may add Kerberos accounts themselves in the Kerberos settings.
+# ---
+
 caption: Users can add Kerberos accounts
 default: true
 desc: |-

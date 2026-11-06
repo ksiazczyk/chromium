@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Kiosk web app offline network prompt policy
+# summary: Defines the Chrome OS policy that controls whether a kiosk web app shows a network prompt on launch when the device is offline, defaulting to offline-capable behavior.
+# ---
+
 caption: Allow kiosk web app to show network prompt on app launch if the device is offline
 default: true
 desc: |-

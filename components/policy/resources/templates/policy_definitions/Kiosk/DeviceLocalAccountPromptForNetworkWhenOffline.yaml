@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable network configuration prompt when offline
+# summary: Policy definition controlling whether an offline device with zero-delay auto-login shows a network-configuration prompt or an error message.
+# ---
+
 caption: Enable network configuration prompt when offline
 default: true
 desc: |-

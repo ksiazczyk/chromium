@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: KerberosCustomPrefilledConfig policy definition
+# summary: Defines the ChromeOS policy that sets a suggested krb5 configuration shown for new manually created Kerberos tickets.
+# ---
+
 caption: Prefilled configuration for Kerberos tickets
 default: ""
 desc: |-

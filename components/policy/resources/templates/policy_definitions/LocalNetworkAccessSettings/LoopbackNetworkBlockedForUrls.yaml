@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LoopbackNetworkBlockedForUrls policy definition
+# summary: Chromium policy definition listing URL patterns whose sites are blocked from making Local Network Access requests to the local device, supported from Chrome 146.
+# ---
+
 owners:
 - hchao@chromium.org
 - cthomp@chromium.org

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable Kiosk troubleshooting tools policy
+# summary: Defines the Chrome OS policy that makes Kiosk troubleshooting tools such as Chrome DevTools, a browser window and the task manager available in Kiosk sessions.
+# ---
+
 owners:
 - pbond@chromium.org
 - file://chrome/browser/ash/app_mode/OWNERS

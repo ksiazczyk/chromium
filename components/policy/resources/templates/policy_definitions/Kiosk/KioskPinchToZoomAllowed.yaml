@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow pinch-to-zoom in Kiosk mode policy
+# summary: Defines the Chrome OS policy that controls whether pinch-to-zoom is allowed in a Kiosk session, enabled by default.
+# ---
+
 caption: Allow pinch-to-zoom in Kiosk mode
 default: true
 desc: |-

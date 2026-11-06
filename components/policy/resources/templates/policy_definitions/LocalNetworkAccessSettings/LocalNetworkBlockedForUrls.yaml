@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LocalNetworkBlockedForUrls policy definition
+# summary: Chrome policy listing URL patterns blocked from making requests to local network endpoints under Local Network Access.
+# ---
+
 owners:
 - hchao@chromium.org
 - cthomp@chromium.org

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: KerberosEnabled policy definition
+# summary: Defines the ChromeOS policy that enables or disables Kerberos functionality and the Kerberos accounts settings.
+# ---
+
 caption: Enable Kerberos functionality
 default: false
 desc: |-

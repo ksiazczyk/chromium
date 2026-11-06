@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LocalNetworkAccessIpAddressSpaceOverrides policy definition
+# summary: Chrome policy that reclassifies IP address ranges as public, local, or loopback to control which requests are subject to Local Network Access checks.
+# ---
+
 owners:
 - cthomp@chromium.org
 - hchao@chromium.org

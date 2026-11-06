@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: LocallyManagedUsers group details
+# summary: Group metadata providing the caption and description for the locally managed users policy definition group.
+# ---
+
 caption: Locally managed users settings
 desc: Configure settings for managed users.

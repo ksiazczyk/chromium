@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: KerberosAccounts policy definition
+# summary: Defines the ChromeOS policy that prefills Kerberos accounts with principals, passwords and krb5 configuration so tickets can be retrieved automatically.
+# ---
+
 caption: Configure Kerberos accounts
 desc: |-
   Adds prefilled Kerberos accounts. If the Kerberos credentials match the login credentials, an account can be configured to reuse the login credentials by specifying '<ph name="LOGIN_EMAIL_PLACEHOLDER">${LOGIN_EMAIL}</ph>' and <ph name="PASSWORD_PLACEHOLDER">${PASSWORD}</ph>' for principal and password, respectively, so that the Kerberos ticket can be retrieved automatically, unless two-factor authentication is configured. Users cannot modify accounts added via this policy.

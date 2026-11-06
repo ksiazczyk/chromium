@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: KerberosDomainAutocomplete policy definition
+# summary: Defines the ChromeOS policy that prefills a domain in the Kerberos authentication dialog when users create new tickets.
+# ---
+
 caption: Autocomplete domain for new Kerberos tickets
 desc: |-
   Adds a prefilled domain to the Kerberos authentication dialog.

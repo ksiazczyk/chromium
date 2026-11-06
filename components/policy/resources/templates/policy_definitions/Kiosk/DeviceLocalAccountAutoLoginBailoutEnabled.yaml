@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Enable bailout keyboard shortcut for auto-login
+# summary: Policy definition enabling the Ctrl+Alt+S shortcut that lets users bypass zero-delay automatic sign-in to a device-local account.
+# ---
+
 caption: Enable bailout keyboard shortcut for auto-login
 default: true
 desc: |-

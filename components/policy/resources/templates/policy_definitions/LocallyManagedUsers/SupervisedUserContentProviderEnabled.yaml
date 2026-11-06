@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SupervisedUserContentProviderEnabled policy definition
+# summary: Deprecated policy definition that let Android apps query a supervised user's web restrictions through a content provider, supported on Android 49-70.
+# ---
+
 caption: Enable the supervised user content provider
 deprecated: true
 desc: |-
