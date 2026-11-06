@@ -1,0 +1,4 @@
+# Docerion header of name-calc-focusable-expected-blink.txt.
+type: test
+title: Name calculation focusable expected Blink output
+summary: Expected Blink accessibility tree snapshot for the name-calc-focusable test page, showing how tabindex and focus affect the computed accessible name.

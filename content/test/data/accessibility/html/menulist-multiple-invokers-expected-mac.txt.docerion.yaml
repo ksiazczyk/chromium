@@ -1,0 +1,4 @@
+# Docerion header of menulist-multiple-invokers-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for menulist-multiple-invokers
+summary: Expected accessibility tree dump for the menulist-multiple-invokers test on macOS, listing pop-up buttons, a menu and a menu item.

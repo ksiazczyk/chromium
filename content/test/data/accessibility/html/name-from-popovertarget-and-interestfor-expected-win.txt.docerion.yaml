@@ -1,0 +1,4 @@
+# Docerion header of name-from-popovertarget-and-interestfor-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for popovertarget and interestfor name test
+summary: Expected Windows accessibility tree snapshot verifying popovertarget and interestfor buttons are named 'popover description' with the tooltip name source.

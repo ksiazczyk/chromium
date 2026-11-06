@@ -1,0 +1,4 @@
+# Docerion header of multi-selectable-expected-android-external.txt.
+type: test
+title: Multi-selectable expected Android external output
+summary: Expected Android accessibility tree snapshot in external format for the multi-selectable HTML test page, listing listbox and option nodes with selection state.

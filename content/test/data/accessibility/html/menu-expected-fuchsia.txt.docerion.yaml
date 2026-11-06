@@ -1,0 +1,4 @@
+# Docerion header of menu-expected-fuchsia.txt.
+type: test
+title: Menu accessibility test expectations for Fuchsia
+summary: Expected Fuchsia accessibility tree for the menu test page with a paragraph and a list containing Cats and Dogs elements.

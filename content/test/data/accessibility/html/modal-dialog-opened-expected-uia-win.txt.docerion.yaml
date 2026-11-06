@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-opened-expected-uia-win.txt.
+type: test
+title: UIA Win expected accessibility tree for modal dialog opened
+summary: Expected Windows UIA accessibility tree snapshot for the modal dialog opened test with a modal window and hyperlink.

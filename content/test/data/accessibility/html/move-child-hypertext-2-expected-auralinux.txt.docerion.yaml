@@ -1,0 +1,4 @@
+# Docerion header of move-child-hypertext-2-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for move-child-hypertext-2
+summary: Expected accessibility tree dump for the move-child-hypertext-2 test on AuraLinux, showing a document web with one embedded object character.

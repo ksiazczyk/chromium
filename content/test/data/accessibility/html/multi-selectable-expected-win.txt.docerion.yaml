@@ -1,0 +1,4 @@
+# Docerion header of multi-selectable-expected-win.txt.
+type: test
+title: Multi-selectable expected Windows output
+summary: Expected Windows accessibility tree snapshot for the multi-selectable HTML test page, showing combobox, list and listitem roles with selection state.

@@ -1,0 +1,4 @@
+# Docerion header of optgroup-custom-menulist-expected-auralinux.txt.
+type: test
+title: Optgroup custom menulist expected Auralinux
+summary: Expected Auralinux accessibility tree snapshot for the optgroup custom menulist test page.

@@ -1,0 +1,4 @@
+# Docerion header of optgroup-menulist-expected-blink.txt.
+type: test
+title: Optgroup menulist expected Blink output
+summary: Expected Blink internal accessibility tree snapshot for the optgroup menulist test page.

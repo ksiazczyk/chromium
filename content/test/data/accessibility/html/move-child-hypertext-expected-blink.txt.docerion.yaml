@@ -1,0 +1,4 @@
+# Docerion header of move-child-hypertext-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for move-child-hypertext
+summary: Expected Blink accessibility tree for the move-child-hypertext test, listing nested generic containers under the root web area.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoker-haspopup-expected-blink.txt.
+type: test
+title: Expected Blink output for menulist invoker haspopup test
+summary: Expected Blink accessibility tree for the menulist invoker haspopup test, covering popUpButton, menuBar, menuItem and button nodes with haspopup and set attributes.

@@ -1,0 +1,4 @@
+# Docerion header of object-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for object element on Aura Linux
+summary: Expected Aura Linux accessibility tree snapshot for an HTML object element test.

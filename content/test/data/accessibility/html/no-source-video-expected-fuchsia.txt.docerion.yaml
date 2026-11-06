@@ -1,0 +1,4 @@
+# Docerion header of no-source-video-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for no-source video test
+summary: Expected Fuchsia accessibility tree for a video element without a media source, with disabled play, mute, full screen, and media controls buttons.

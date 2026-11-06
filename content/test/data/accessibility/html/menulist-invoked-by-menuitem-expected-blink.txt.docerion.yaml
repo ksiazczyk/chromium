@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoked-by-menuitem-expected-blink.txt.
+type: test
+title: Expected Blink output for menulist invoked by menuitem test
+summary: Expected Blink accessibility tree for the menulist-invoked-by-menuitem test, listing popUpButton, menu and menuItem nodes with nameFrom and haspopup properties.

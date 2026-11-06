@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-in-iframe-opened-expected-blink.txt.
+type: test
+title: Blink expected accessibility tree for modal dialog in iframe opened
+summary: Expected Blink accessibility tree snapshot for the test page that opens a modal dialog inside an iframe.

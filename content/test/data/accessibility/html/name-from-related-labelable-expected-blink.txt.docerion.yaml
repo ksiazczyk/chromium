@@ -1,0 +1,4 @@
+# Docerion header of name-from-related-labelable-expected-blink.txt.
+type: test
+title: Expected Blink output for name from related labelable element
+summary: Expected Blink accessibility tree for a text field whose name is derived from a related label element.

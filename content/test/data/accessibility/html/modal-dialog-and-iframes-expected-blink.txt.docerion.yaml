@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-and-iframes-expected-blink.txt.
+type: test
+title: Modal dialog and iframes expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for a modal dialog containing normal and nested iframes.

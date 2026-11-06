@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for navigation test
+summary: Expected Fuchsia accessibility tree for a page with a navigation landmark containing a link named Don't click on me.

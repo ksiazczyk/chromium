@@ -1,0 +1,4 @@
+# Docerion header of offscreen-select-expected-uia-win.txt.
+type: test
+title: Offscreen select expected UIA accessibility tree for Windows
+summary: Expected Windows UIA accessibility tree snapshot for the offscreen select test page, showing two collapsed combo boxes.

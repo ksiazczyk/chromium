@@ -1,0 +1,4 @@
+# Docerion header of next-and-previous-on-line-id-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for next and previous on line IDs
+summary: Expected Blink accessibility tree snapshot showing nextOnLineId and previousOnLineId relationships between text objects in the line-order test page.

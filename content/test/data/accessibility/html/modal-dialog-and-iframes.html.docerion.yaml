@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-and-iframes.html.
+type: test
+title: Modal dialog and iframes accessibility test page
+summary: HTML test page that opens a modal dialog containing nested iframes while further iframes outside the dialog remain inert, for accessibility tree verification.

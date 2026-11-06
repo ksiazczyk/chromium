@@ -1,0 +1,4 @@
+# Docerion header of menulist-multiple-invokers-2-expected-auralinux.txt.
+type: test
+title: Expected auralinux output for menulist multiple invokers test
+summary: Expected Linux accessibility tree for a test with two buttons invoking menus, showing details and label relations between invokers and menus.

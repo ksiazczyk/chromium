@@ -1,0 +1,4 @@
+# Docerion header of object-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for object element on Windows
+summary: Expected UIA accessibility tree snapshot for an HTML object element test on Windows.

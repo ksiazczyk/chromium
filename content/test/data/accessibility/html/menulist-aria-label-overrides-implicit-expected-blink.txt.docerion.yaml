@@ -1,0 +1,4 @@
+# Docerion header of menulist-aria-label-overrides-implicit-expected-blink.txt.
+type: test
+title: Menulist aria-label overrides implicit name expected Blink tree
+summary: Expected Blink accessibility tree showing an aria-label overriding the implicit button name on a menu list.

@@ -1,0 +1,4 @@
+# Docerion header of object-image-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for object image on Aura Linux
+summary: Expected Aura Linux accessibility tree snapshot for an object element test involving an image.

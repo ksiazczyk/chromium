@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-stack-expected-auralinux.txt.
+type: test
+title: Modal dialog stack expected accessibility tree for Auralinux
+summary: Expected Auralinux accessibility tree snapshot for the stacked modal dialogs test page.

@@ -1,0 +1,4 @@
+# Docerion header of menu-expected-auralinux.txt.
+type: test
+title: Menu accessibility test expectations for Aura Linux
+summary: Expected Aura Linux accessibility tree for the menu test page with a paragraph, a list, and list items named Cats and Dogs.

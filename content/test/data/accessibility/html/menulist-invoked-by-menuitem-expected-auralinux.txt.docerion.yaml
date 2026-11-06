@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoked-by-menuitem-expected-auralinux.txt.
+type: test
+title: Expected auralinux output for menulist invoked by menuitem test
+summary: Expected Linux accessibility tree for the menulist-invoked-by-menuitem test, showing a push button, menus and menu items with label and name-from relations.

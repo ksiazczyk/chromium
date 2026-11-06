@@ -1,0 +1,4 @@
+# Docerion header of nestedlist-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for nested list test
+summary: Expected Android accessibility tree in external format for the nested list test page, with collection info, actions and chrome roles.

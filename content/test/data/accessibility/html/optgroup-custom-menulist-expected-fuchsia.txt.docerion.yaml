@@ -1,0 +1,4 @@
+# Docerion header of optgroup-custom-menulist-expected-fuchsia.txt.
+type: test
+title: Optgroup custom menulist expected Fuchsia
+summary: Expected Fuchsia accessibility tree snapshot for the optgroup custom menulist test page.

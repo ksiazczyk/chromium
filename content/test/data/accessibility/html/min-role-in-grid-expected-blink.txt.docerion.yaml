@@ -1,0 +1,4 @@
+# Docerion header of min-role-in-grid-expected-blink.txt.
+type: test
+title: Minimum role in grid expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the minimum role in grid test page.

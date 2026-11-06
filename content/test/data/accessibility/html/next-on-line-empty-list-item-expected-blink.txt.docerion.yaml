@@ -1,0 +1,4 @@
+# Docerion header of next-on-line-empty-list-item-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for next-on-line empty list item test
+summary: Expected Blink accessibility tree output for the next-on-line empty list item test, showing list markers linked to inline text boxes via nextOnLineId.

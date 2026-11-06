@@ -1,0 +1,4 @@
+# Docerion header of menulist-multiple-invokers-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for menulist-multiple-invokers
+summary: Expected accessibility tree dump for the menulist-multiple-invokers test on the Aura Linux platform, showing buttons and a menu labelled by a button.

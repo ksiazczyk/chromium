@@ -1,0 +1,4 @@
+# Docerion header of node-changed-crash-in-editable-text-expected-blink.txt.
+type: test
+title: Node changed crash in editable text expected Blink tree
+summary: Expected Blink internal accessibility tree snapshot for the editable text node-changed crash test.

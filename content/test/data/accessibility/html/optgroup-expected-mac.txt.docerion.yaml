@@ -1,0 +1,4 @@
+# Docerion header of optgroup-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for optgroup test
+summary: Expected macOS accessibility tree for the optgroup test, with an AXList, AXApplicationGroup entries, static texts and a pop up button for the select.

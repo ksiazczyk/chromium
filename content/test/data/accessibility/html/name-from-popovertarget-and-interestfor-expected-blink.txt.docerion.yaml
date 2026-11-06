@@ -1,0 +1,4 @@
+# Docerion header of name-from-popovertarget-and-interestfor-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for popovertarget and interestfor name test
+summary: Expected Blink accessibility tree snapshot verifying popovertarget and interestfor buttons are named from the popover's aria-label with their nameFrom sources recorded.

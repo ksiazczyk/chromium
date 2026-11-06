@@ -1,0 +1,4 @@
+# Docerion header of offscreen-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for offscreen test
+summary: Expected Blink accessibility tree snapshot contrasting onscreen and offscreen buttons for the offscreen HTML test.

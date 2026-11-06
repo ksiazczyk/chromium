@@ -1,0 +1,4 @@
+# Docerion header of name-img-labelledby-inputs-tree-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for image labelled by inputs
+summary: Expected Blink accessibility tree for an image whose accessible name is built from three text inputs via aria-labelledby.

@@ -1,0 +1,4 @@
+# Docerion header of offscreen-iframe-expected-win.txt.
+type: test
+title: Offscreen iframe expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the offscreen iframe test, marking the offscreen iframe group as OFFSCREEN.

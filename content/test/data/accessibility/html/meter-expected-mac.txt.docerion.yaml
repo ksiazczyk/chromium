@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the meter element test
+summary: Expected macOS accessibility tree dump for the meter element, showing an AXLevelIndicator with subrole AXMeter and min, max and current values.

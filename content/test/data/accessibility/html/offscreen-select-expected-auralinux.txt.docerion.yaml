@@ -1,0 +1,4 @@
+# Docerion header of offscreen-select-expected-auralinux.txt.
+type: test
+title: Offscreen select expected accessibility tree for Aura Linux
+summary: Expected Aura Linux accessibility tree snapshot for the offscreen select test page, listing combo box menu items that are onscreen and offscreen.

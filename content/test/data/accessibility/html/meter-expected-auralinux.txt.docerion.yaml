@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-auralinux.txt.
+type: test
+title: Expected AuraLinux accessibility tree for the meter element test
+summary: Expected AuraLinux accessibility tree dump for the meter element, showing a level bar with current, minimum and maximum values.

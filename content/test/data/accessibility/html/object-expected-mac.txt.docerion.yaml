@@ -1,0 +1,4 @@
+# Docerion header of object-expected-mac.txt.
+type: test
+title: Expected accessibility tree for object element on macOS
+summary: Expected macOS accessibility tree snapshot for an HTML object element test.

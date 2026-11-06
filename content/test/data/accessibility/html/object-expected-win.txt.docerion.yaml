@@ -1,0 +1,4 @@
+# Docerion header of object-expected-win.txt.
+type: test
+title: Expected accessibility tree for object element on Windows
+summary: Expected Windows accessibility tree snapshot for an HTML object element test.

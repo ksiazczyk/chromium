@@ -1,0 +1,4 @@
+# Docerion header of menulist-aria-labelledby-overrides-label-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for menulist aria-labelledby override test
+summary: Expected macOS accessibility tree output verifying that aria-labelledby takes precedence over aria-label when naming a menulist.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoked-by-menuitem-expected-mac.txt.
+type: test
+title: Expected macOS output for menulist invoked by menuitem test
+summary: Expected macOS accessibility tree for the menulist-invoked-by-menuitem test with AXPopUpButton, AXMenu and AXMenuItem nodes.

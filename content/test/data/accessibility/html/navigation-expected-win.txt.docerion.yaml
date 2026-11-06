@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-win.txt.
+type: test
+title: Expected IA2 accessibility tree for navigation test on Windows
+summary: Expected Windows IA2/MSAA accessibility tree snapshot for the navigation landmark test page, including the xml-roles navigation landmark.

@@ -1,0 +1,4 @@
+# Docerion header of optgroup-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for optgroup test
+summary: Expected Windows IA2 accessibility tree for the optgroup test, with a system list, groupings, list items and a collapsed combobox with menu popup.

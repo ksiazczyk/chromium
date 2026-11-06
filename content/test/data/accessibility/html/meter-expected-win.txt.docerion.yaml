@@ -1,0 +1,4 @@
+# Docerion header of meter-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for the meter element test
+summary: Expected Windows MSAA/IA2 accessibility tree dump for the meter element, showing a progress bar role with current, minimum and maximum values.

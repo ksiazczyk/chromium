@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-opened-expected-auralinux.txt.
+type: test
+title: Auralinux expected accessibility tree for modal dialog opened
+summary: Expected Linux accessibility tree snapshot for the modal dialog opened test, showing a modal dialog with static text and a link.

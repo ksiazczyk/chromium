@@ -1,0 +1,4 @@
+# Docerion header of output-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for output element test
+summary: Expected Windows UIA accessibility tree for the output element test, listing spinners, text nodes and a status bar.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoked-by-button-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for button-invoked menulist test
+summary: Expected macOS accessibility tree output verifying that a menulist invoked by a button exposes the button's name and expanded state.

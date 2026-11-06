@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-in-iframe-opened-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for modal dialog opened in iframe
+summary: Expected Android accessibility tree snapshot for a modal dialog opened inside an iframe.

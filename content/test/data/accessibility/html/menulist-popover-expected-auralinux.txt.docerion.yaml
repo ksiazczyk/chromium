@@ -1,0 +1,4 @@
+# Docerion header of menulist-popover-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for menulist-popover
+summary: Expected accessibility tree dump for the menulist-popover test on the Aura Linux platform, showing a button and a menu with Copy and Paste items.

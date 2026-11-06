@@ -1,0 +1,4 @@
+# Docerion header of non-text-selection-expected-android-external.txt.
+type: test
+title: Non-text selection expected Android external tree
+summary: Expected Android accessibility tree snapshot for the non-text selection test, covering an image, static text and buttons with selection markers.

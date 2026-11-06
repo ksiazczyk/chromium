@@ -1,0 +1,4 @@
+# Docerion header of menulist-violation-mode-setsize-no-direct-menuitem-expected-auralinux.txt.
+type: test
+title: AuraLinux expected output for menulist setsize no direct menuitem test
+summary: Expected AuraLinux accessibility tree snapshot for the menulist setsize test without direct menuitem children.

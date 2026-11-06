@@ -1,0 +1,4 @@
+# Docerion header of menu-expected-android.txt.
+type: test
+title: Menu accessibility test expectations for Android
+summary: Expected Android accessibility tree for the menu test page, listing a text view and a list view with two collection items named Cats and Dogs.

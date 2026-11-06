@@ -1,0 +1,4 @@
+# Docerion header of meta-expected-mac.txt.
+type: test
+title: Mac expected output for meta accessibility test
+summary: Expected Mac accessibility tree snapshot for the meta test, marked as skipped because the element is not mapped.

@@ -1,0 +1,4 @@
+# Docerion header of menulist-popover-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for menulist-popover
+summary: Expected accessibility tree dump for the menulist-popover test on the Blink platform, showing a pop-up button and a menu with set and position sizes.

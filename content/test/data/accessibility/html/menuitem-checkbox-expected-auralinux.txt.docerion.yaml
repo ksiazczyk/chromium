@@ -1,0 +1,4 @@
+# Docerion header of menuitem-checkbox-expected-auralinux.txt.
+type: test
+title: Menuitem checkbox expected Linux accessibility tree
+summary: Expected Linux accessibility tree for the menu item checkbox test page, covering check, radio and plain menu items.

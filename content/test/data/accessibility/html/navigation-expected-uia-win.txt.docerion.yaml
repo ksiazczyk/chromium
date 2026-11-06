@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-uia-win.txt.
+type: test
+title: Expected UIA accessibility tree for navigation test on Windows
+summary: Expected Windows UIA accessibility tree snapshot for the navigation landmark test page, showing the document, group and hyperlink.

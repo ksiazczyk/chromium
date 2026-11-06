@@ -1,0 +1,4 @@
+# Docerion header of menu.html.
+type: test
+title: Menu element accessibility test page
+summary: HTML test page rendering a deprecated menu element with list item children Cats and Dogs, used to verify accessibility tree output.

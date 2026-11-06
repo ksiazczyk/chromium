@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-opened-expected-win.txt.
+type: test
+title: Modal dialog opened expected accessibility tree for Windows
+summary: Expected Windows accessibility tree snapshot for the modal dialog opened test page.

@@ -1,0 +1,4 @@
+# Docerion header of optgroup-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for optgroup test
+summary: Expected Android accessibility tree snapshot for the optgroup test with a list view, enabled and disabled groups, collection items and a combo box.

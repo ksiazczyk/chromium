@@ -1,0 +1,4 @@
+# Docerion header of meta-expected-win.txt.
+type: test
+title: Win expected output for meta accessibility test
+summary: Expected Win accessibility tree snapshot for the meta test, marked as skipped because the element is not mapped.

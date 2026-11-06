@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-auralinux.txt.
+type: test
+title: Expected Auralinux accessibility output for navigation test
+summary: Expected Auralinux accessibility output showing a navigation landmark with a link for the navigation test page.

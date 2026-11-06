@@ -1,0 +1,4 @@
+# Docerion header of multi-selectable-expected-blink.txt.
+type: test
+title: Multi-selectable expected Blink output
+summary: Expected Blink accessibility tree snapshot for the multi-selectable HTML test page, showing combo box, list box and option nodes with selection state.

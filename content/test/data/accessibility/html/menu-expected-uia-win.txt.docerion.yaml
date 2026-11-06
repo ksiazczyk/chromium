@@ -1,0 +1,4 @@
+# Docerion header of menu-expected-uia-win.txt.
+type: test
+title: Menu accessibility test expectations for UIA on Windows
+summary: Expected UIA accessibility tree for the menu test page with a document, text, and a list of items named Cats and Dogs.

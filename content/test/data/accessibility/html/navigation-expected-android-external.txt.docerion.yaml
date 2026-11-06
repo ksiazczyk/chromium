@@ -1,0 +1,4 @@
+# Docerion header of navigation-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility output for navigation test
+summary: Expected Android external-format accessibility output for a page with a navigation landmark containing a link labelled Don't click on me.

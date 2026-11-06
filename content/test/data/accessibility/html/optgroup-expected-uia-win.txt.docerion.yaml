@@ -1,0 +1,4 @@
+# Docerion header of optgroup-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for optgroup test
+summary: Expected Windows UIA accessibility tree for the optgroup test, with a list, named groups, list items and a collapsed combo box value.

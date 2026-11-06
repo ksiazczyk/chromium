@@ -1,0 +1,4 @@
+# Docerion header of noscript-expected-auralinux.txt.
+type: test
+title: noscript expected Auralinux accessibility output
+summary: Expected Auralinux accessibility tree for the noscript HTML test, containing a document web node.

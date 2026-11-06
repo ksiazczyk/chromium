@@ -1,0 +1,4 @@
+# Docerion header of object-expected-android-assist-data.txt.
+type: test
+title: object expected Android assist data
+summary: Expected Android assist data for the object HTML test, describing the WebView, body and object element referencing a SWF file.

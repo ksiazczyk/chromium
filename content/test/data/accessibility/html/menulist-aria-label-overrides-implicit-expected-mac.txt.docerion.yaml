@@ -1,0 +1,4 @@
+# Docerion header of menulist-aria-label-overrides-implicit-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for menulist aria-label override test
+summary: Expected macOS accessibility tree output verifying that aria-label overrides the implicit name of a menulist opened by a button.

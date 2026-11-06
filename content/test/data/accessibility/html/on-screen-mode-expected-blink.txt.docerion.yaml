@@ -1,0 +1,4 @@
+# Docerion header of on-screen-mode-expected-blink.txt.
+type: test
+title: on-screen-mode expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshots showing page content before and after a node is scrolled into view.

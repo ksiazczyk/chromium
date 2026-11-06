@@ -1,0 +1,4 @@
+# Docerion header of menulist-invoked-by-button-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for button-invoked menulist test
+summary: Expected Blink accessibility tree output verifying that a menulist invoked by a button exposes the button's name and popup state.

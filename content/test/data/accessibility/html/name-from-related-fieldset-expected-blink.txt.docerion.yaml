@@ -1,0 +1,4 @@
+# Docerion header of name-from-related-fieldset-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for fieldset-related name test
+summary: Expected Blink accessibility tree snapshot verifying a checkbox is named from the related fieldset legend and label elements.

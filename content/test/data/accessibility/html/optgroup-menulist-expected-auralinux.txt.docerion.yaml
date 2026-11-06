@@ -1,0 +1,4 @@
+# Docerion header of optgroup-menulist-expected-auralinux.txt.
+type: test
+title: Optgroup menulist expected Linux accessibility output
+summary: Expected Linux accessibility tree snapshot for the optgroup menulist test page, listing combo box, menu items and groups.

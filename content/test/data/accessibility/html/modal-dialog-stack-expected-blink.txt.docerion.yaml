@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-stack-expected-blink.txt.
+type: test
+title: Modal dialog stack expected accessibility tree for Blink
+summary: Expected Blink internal accessibility tree snapshot for the stacked modal dialogs test page.

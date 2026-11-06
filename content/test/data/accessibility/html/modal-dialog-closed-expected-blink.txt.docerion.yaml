@@ -1,0 +1,4 @@
+# Docerion header of modal-dialog-closed-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree after modal dialog closes
+summary: Expected Blink accessibility tree snapshot verifying that elements respawn in the tree after a modal dialog closes.

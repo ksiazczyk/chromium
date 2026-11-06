@@ -1,0 +1,4 @@
+# Docerion header of menu-expected-win.txt.
+type: test
+title: Menu accessibility test expectations for Windows
+summary: Expected Windows MSAA and IA2 accessibility tree for the menu test page with a document, paragraph, list, and list items.

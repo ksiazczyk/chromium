@@ -1,0 +1,4 @@
+# Docerion header of menulist-violation-mode-setsize-expected-auralinux.txt.
+type: test
+title: Expected Aura Linux accessibility tree for menulist violation mode setsize
+summary: Expected accessibility tree dump for the menulist violation mode setsize test on the Aura Linux platform, covering lists, menus and checkable items.

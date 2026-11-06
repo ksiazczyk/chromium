@@ -1,0 +1,4 @@
+# Docerion header of ol-expected-android-external.txt.
+type: test
+title: Ordered list expected Android external accessibility tree
+summary: Expected Android external accessibility tree snapshot for an ordered list test page, describing list items, markers and static text.

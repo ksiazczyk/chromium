@@ -1,0 +1,4 @@
+# Docerion header of min-role-expected-blink.txt.
+type: test
+title: Minimum role expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the minimum role test page.

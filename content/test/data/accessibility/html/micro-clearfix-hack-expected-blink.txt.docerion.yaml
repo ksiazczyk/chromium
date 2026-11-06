@@ -1,0 +1,4 @@
+# Docerion header of micro-clearfix-hack-expected-blink.txt.
+type: test
+title: Micro clearfix hack expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the micro clearfix hack test page.
