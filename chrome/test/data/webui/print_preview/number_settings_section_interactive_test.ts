@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Number settings section interactive tests
+// summary: Interactive WebUI tests checking that blurring an empty number input resets it to the default while explicit invalid values are preserved.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewNumberSettingsSectionElement} from 'chrome://print/print_preview.js';

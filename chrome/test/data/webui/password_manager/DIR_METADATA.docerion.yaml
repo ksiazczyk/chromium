@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for password manager tests
+summary: Points this test directory to the shared password manager metadata for ownership and code review routing.

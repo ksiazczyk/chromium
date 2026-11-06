@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print Button Tests
+// summary: Tests print and cancel button behavior when clicked while the preview is still loading, including preview hiding and state transitions.
+// ---
+
 import type {CrButtonElement, NativeInitialSettings, PrintPreviewAppElement, PrintTicket} from 'chrome://print/print_preview.js';
 import {
   NativeLayerImpl, PluginProxyImpl, State} from 'chrome://print/print_preview.js';

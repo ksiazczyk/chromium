@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User util mixin tests
+// summary: WebUI tests for the UserUtilMixin covering actionable error state updates and gating of actions behind trusted vault unlocking.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {PasswordManagerActionableError, PasswordManagerImpl, SyncBrowserProxyImpl, UserUtilMixin} from 'chrome://password-manager/password_manager.js';

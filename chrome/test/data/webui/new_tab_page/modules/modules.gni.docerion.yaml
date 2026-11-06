@@ -1,0 +1,4 @@
+# Docerion header of modules.gni.
+type: config
+title: GN file aggregating New Tab Page modules test files
+summary: GN import that collects the New Tab Page modules WebUI test files, combining per-module test lists and adding dummy tests for non-official builds.

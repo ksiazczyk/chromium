@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Checkup list item tests
+// summary: Tests the checkup list item rendering across automatic password change states, including action button and status text visibility.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {CheckupListItemElement} from 'chrome://password-manager/password_manager.js';

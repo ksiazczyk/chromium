@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: New Tab Shared directory metadata
+summary: Directory metadata that inherits the COMMON_METADATA mixin from the new_tab_shared resources directory.

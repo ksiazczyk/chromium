@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page searchbox tests
+// summary: WebUI tests for the New Tab Page realbox searchbox element, covering matches, keyboard navigation, icons, and browser proxy interactions.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import type {NtpSearchboxElement, SearchboxIconElement, SearchboxMatchElement} from 'chrome://new-tab-page/new_tab_page.js';

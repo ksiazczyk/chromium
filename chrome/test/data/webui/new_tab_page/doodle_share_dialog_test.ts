@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Doodle share dialog tests
+// summary: Tests the doodle share dialog, including opening, Facebook, Twitter and email sharing, and button icons.
+// ---
+
 import type {DoodleShareDialogElement} from 'chrome://new-tab-page/new_tab_page.js';
 import {WindowProxy} from 'chrome://new-tab-page/new_tab_page.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

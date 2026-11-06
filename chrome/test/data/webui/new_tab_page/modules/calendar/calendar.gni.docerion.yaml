@@ -1,0 +1,4 @@
+# Docerion header of calendar.gni.
+type: config
+title: Calendar module test file list for GN build
+summary: GN build configuration listing the TypeScript test sources for the New Tab Page calendar module.

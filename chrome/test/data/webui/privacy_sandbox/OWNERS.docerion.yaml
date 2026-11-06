@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Privacy Sandbox WebUI test OWNERS
+summary: OWNERS file that delegates reviewer ownership for the privacy sandbox WebUI tests to components/privacy_sandbox/OWNERS via a file include.

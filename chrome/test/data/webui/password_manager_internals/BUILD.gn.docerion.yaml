@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for password manager internals tests
+summary: Defines the build_webui_tests target that builds the C++ browser test together with the TypeScript test files for the password manager internals WebUI.

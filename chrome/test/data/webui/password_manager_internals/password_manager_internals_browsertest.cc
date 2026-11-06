@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password Manager Internals browser tests
+// summary: Browser tests verifying that the password manager internals WebUI page shows log text, is empty on load and after reload, and that navigating away works.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/common/chrome_switches.h"
 #include "chrome/common/webui_url_constants.h"

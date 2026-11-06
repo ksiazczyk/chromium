@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page focus interactive UI tests
+// summary: C++ interactive UI test fixture with a mock AIM eligibility service that runs the focus-related NTP Mocha suites.
+// ---
+
 #include <vector>
 
 #include "base/check_deref.h"

@@ -4,6 +4,12 @@
 
 /** @fileoverview Test implementation of NotificationCardsProxy. */
 
+// ---docerion
+// type: test
+// title: Test notification cards browser proxy
+// summary: Test double for the NotificationCardsProxy browser proxy that records calls and returns a configurable notification card for password manager WebUI tests.
+// ---
+
 import type {NotificationCard, NotificationCardsProxy} from 'chrome://password-manager/password_manager.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mocha tests for the notebooks internals page
+// summary: Mocha test suite verifying the page title, browser proxy data fetching, and display of eligibility and feature flag state.
+// ---
+
 import 'chrome://notebooks-internals/app.js';
 
 import type {NotebooksInternalsAppElement} from 'chrome://notebooks-internals/app.js';

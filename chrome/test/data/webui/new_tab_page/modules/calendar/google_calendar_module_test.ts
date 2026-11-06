@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Calendar module WebUI tests
+// summary: WebUI tests for the Google Calendar New Tab Page module, covering module creation, disable toast message, event data and info dialog.
+// ---
+
 import type {DisableModuleEvent, GoogleCalendarModuleElement} from 'chrome://new-tab-page/lazy_load.js';
 import {googleCalendarDescriptor, GoogleCalendarProxyImpl} from 'chrome://new-tab-page/lazy_load.js';
 import {$$, GoogleCalendarPageHandlerRemote} from 'chrome://new-tab-page/new_tab_page.js';

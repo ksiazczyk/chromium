@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page app focus tests
+// summary: WebUI tests for focus behavior of the New Tab Page app, including searchbox, modules and customize buttons.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import type {Module} from 'chrome://new-tab-page/lazy_load.js';

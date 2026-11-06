@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer panel WebUI browser tests
+// summary: Runs the organizer panel WebUI Mocha test suites in browser tests via WebUIMochaBrowserTest, covering the app, list sections, delegates, search utils and stacked favicons.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

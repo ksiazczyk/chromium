@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination list tests
+// summary: Tests filtering of the print preview destination list by search query, including which items are shown and the no-match hint.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewDestinationListElement} from 'chrome://print/print_preview.js';

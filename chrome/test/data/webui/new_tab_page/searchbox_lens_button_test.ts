@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox Lens button tests
+// summary: WebUI tests for the Lens search button in the New Tab Page realbox, covering its presence, feature gating, and effect on shown matches.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import type {NtpSearchboxElement} from 'chrome://new-tab-page/new_tab_page.js';

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for omnibox popup tests
+summary: Points this test directory to the shared omnibox component metadata mixins.

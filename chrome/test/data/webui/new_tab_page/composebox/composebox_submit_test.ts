@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox submit button tests
+// summary: WebUI tests for the composebox submit button, covering icons, disabled states, energy effect dimming, and submit-click events.
+// ---
+
 import {SubmitButtonIconType} from 'chrome://new-tab-page/lazy_load.js';
 import {SingleTabMenuItemAction, SingleTabType} from 'chrome://resources/cr_components/composebox/common.js';
 import {ContextUploadStatus} from 'chrome://resources/cr_components/composebox/composebox_query.mojom-webui.js';

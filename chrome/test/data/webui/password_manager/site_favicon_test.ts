@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site favicon tests
+// summary: WebUI tests for the site favicon element, verifying behavior on successful download, failed download, and URL changes.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {SiteFaviconElement} from 'chrome://password-manager/password_manager.js';

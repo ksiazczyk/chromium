@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module descriptor tests for New Tab Page modules
+// summary: WebUI tests for ModuleDescriptor covering module instantiation on NTP load, load and duration metrics, null modules, and initialization timeouts.
+// ---
+
 import {ModuleDescriptor} from 'chrome://new-tab-page/lazy_load.js';
 import {WindowProxy} from 'chrome://new-tab-page/new_tab_page.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

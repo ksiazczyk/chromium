@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image transparency detection tests
+// summary: Tests for the New Tab Page image format detection and transparency checks for BMP, PNG, and WebP files.
+// ---
+
 import {checkTransparency, isBMP, isPNG, isWebP} from 'chrome://new-tab-page/new_tab_page.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

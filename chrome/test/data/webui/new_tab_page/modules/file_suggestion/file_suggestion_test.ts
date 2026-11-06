@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File suggestion element WebUI tests
+// summary: Tests the ntp-file-suggestion element, verifying file rendering, usage events and file click metrics recording.
+// ---
+
 import {FileAction, FileSuggestionElement} from 'chrome://new-tab-page/lazy_load.js';
 import type {File} from 'chrome://new-tab-page/new_tab_page.js';
 import {RecommendationType} from 'chrome://new-tab-page/new_tab_page.js';

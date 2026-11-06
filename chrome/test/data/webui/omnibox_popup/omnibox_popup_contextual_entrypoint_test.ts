@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual entrypoint WebUI tests
+// summary: Mocha suite for the popup contextual entrypoint, covering Lens search clicks and tab context Mojo calls.
+// ---
+
 import 'chrome://omnibox-popup.top-chrome/omnibox_popup.js';
 
 import type {OmniboxPopupContextualEntrypointElement, OmniboxPopupPageRemote} from 'chrome://omnibox-popup.top-chrome/omnibox_popup.js';

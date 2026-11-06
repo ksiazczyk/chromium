@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scaling settings interactive tests
+// summary: Interactive tests checking that the scaling settings input is focused when custom scaling is chosen in the UI but not when set programmatically.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewModelElement, PrintPreviewScalingSettingsElement} from 'chrome://print/print_preview.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Microsoft authentication module WebUI tests
+// summary: Test suite verifying that the Microsoft auth module fires disable events and starts sign-in token acquisition with metrics.
+// ---
+
 import type {DisableModuleEvent, MicrosoftAuthModuleElement} from 'chrome://new-tab-page/lazy_load.js';
 import {microsoftAuthModuleDescriptor, ParentTrustedDocumentProxy} from 'chrome://new-tab-page/lazy_load.js';
 import {AuthType, MicrosoftAuthUntrustedDocumentRemote} from 'chrome://new-tab-page/new_tab_page.js';

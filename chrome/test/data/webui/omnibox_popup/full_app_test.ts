@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full popup app WebUI tests
+// summary: Mocha suite for the full omnibox popup app, checking context menu and mousedown default prevention behavior.
+// ---
+
 import 'chrome://omnibox-popup.top-chrome/omnibox_popup.js';
 
 import type {OmniboxFullAppElement} from 'chrome://omnibox-popup.top-chrome/omnibox_popup.js';

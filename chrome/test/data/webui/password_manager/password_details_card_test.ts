@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password details card tests
+// summary: Tests the password details card, covering content display, federated credentials, password copying and hiding, and edit and delete actions.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {EditPasswordDialogElement, PasswordDetailsCardElement} from 'chrome://password-manager/password_manager.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module wrapper element tests
+// summary: WebUI tests for ModuleWrapperElement verifying module rendering, impression detection, and usage and menu event handling with metrics.
+// ---
+
 import {ModuleDescriptor, ModuleWrapperElement} from 'chrome://new-tab-page/lazy_load.js';
 import type {ModuleInstance} from 'chrome://new-tab-page/lazy_load.js';
 import {NewTabPageProxy, PageCallbackRouter, PageHandlerRemote, WindowProxy} from 'chrome://new-tab-page/new_tab_page.js';

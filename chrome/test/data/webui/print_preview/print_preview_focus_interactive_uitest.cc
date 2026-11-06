@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print Preview Focus Interactive UI Tests
+// summary: C++ interactive UI test harness running Print Preview focus tests for the print button, number and scaling inputs, destination lists, and dialogs.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "build/build_config.h"
 #include "chrome/common/webui_url_constants.h"

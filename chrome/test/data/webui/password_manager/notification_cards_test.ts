@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification cards tests
+// summary: Tests display, dismissal, and actions of notification cards in the passwords section, including the checkup promo navigation and batch upload entry points.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {PasswordsSectionElement} from 'chrome://password-manager/password_manager.js';

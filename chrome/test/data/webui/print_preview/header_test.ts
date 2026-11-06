@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview header tests
+// summary: Tests the print preview header element, checking sheet and page summary plural messages, state-driven text changes, and print button behavior.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewHeaderElement, PrintPreviewModelElement} from 'chrome://print/print_preview.js';

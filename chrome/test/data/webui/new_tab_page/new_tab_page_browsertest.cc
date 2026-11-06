@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page browser tests
+// summary: C++ browser test fixtures and cases that run the New Tab Page WebUI Mocha suites with feature flags for default and Next variants.
+// ---
+
 #include <tuple>
 
 #include "base/strings/stringprintf.h"

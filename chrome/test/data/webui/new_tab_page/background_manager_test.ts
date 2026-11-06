@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background manager tests
+// summary: Tests BackgroundManager handling of background image URLs, show and hide attributes and load time messages.
+// ---
+
 import {BackgroundManager, NtpBackgroundImageSource} from 'chrome://new-tab-page/new_tab_page.js';
 import {assertEquals, assertFalse, assertNotReached, assertTrue} from 'chrome://webui-test/chai_assert.js';
 

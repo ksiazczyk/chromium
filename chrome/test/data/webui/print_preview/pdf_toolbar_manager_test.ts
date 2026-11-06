@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF toolbar manager tests
+// summary: WebUI tests for the PDF viewer toolbar manager covering toolbar visibility during mouse movement, scrolling, and keyboard navigation.
+// ---
+
 import type {ViewerZoomToolbarElement} from 'chrome://print/pdf/pdf_print_wrapper.js';
 import {ToolbarManager} from 'chrome://print/pdf/pdf_print_wrapper.js';
 import {assert} from 'chrome://resources/js/assert.js';

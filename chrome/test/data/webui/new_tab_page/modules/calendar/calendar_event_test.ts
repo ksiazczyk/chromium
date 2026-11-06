@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar event element WebUI tests
+// summary: WebUI tests for the New Tab Page calendar event element, covering visibility, time status labels and expanded event details.
+// ---
+
 import {CalendarAction, CalendarEventElement} from 'chrome://new-tab-page/lazy_load.js';
 import {$$, WindowProxy} from 'chrome://new-tab-page/new_tab_page.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preview Generation Tests
+// summary: Tests preview generation when Print Preview settings change, verifying print ticket values, scaling updates, and preview regeneration.
+// ---
+
 import type {NativeInitialSettings, PreviewTicket, PrintPreviewAppElement, Settings} from 'chrome://print/print_preview.js';
 import {ColorMode, CustomMarginsOrientation, Destination, DestinationOrigin, Margins, MarginsType, NativeLayerImpl, PluginProxyImpl, ScalingType} from 'chrome://print/print_preview.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

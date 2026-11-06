@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fre chin element WebUI tests
+// summary: WebUI tests verifying the fre-chin element's shortcut setup rendering, hotkey token badges, and dropdown trigger events.
+// ---
+
 import 'chrome://omnibox-everywhere.top-chrome/fre_chin.js';
 
 import {FreChinMode} from 'chrome://omnibox-everywhere.top-chrome/fre_chin.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview invalid settings tests
+// summary: Tests print preview handling of invalid settings, verifying the invalid printer error message and recovery by selecting a different valid printer.
+// ---
+
 import type {CrButtonElement, Destination, NativeInitialSettings, PrintPreviewAppElement} from 'chrome://print/print_preview.js';
 import {MeasurementSystemUnitType, NativeLayerImpl, PluginProxyImpl, State, whenReady} from 'chrome://print/print_preview.js';
 import {assert} from 'chrome://resources/js/assert.js';

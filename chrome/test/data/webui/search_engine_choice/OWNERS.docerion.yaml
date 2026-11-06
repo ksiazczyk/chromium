@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Search engine choice WebUI tests owners
+summary: Designates the compliance owners of the search engine choice component as reviewers for changes in this test directory.

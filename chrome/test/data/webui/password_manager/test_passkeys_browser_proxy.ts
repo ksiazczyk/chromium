@@ -4,6 +4,12 @@
 
 /** @fileoverview Test implementation of PasskeysBrowserProxy. */
 
+// ---docerion
+// type: test
+// title: Test passkeys browser proxy
+// summary: Test double for the PasskeysBrowserProxy that simulates passkey presence checks and the manage passkeys flow in password manager WebUI tests.
+// ---
+
 import type {PasskeysBrowserProxy} from 'chrome://password-manager/password_manager.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox everywhere browser test fixture
+// summary: C++ browser test fixture that enables the Omnibox Everywhere feature and runs the omnibox, fre modal, and fre chin mocha suites.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/omnibox/omnibox_next_features.h"
 #include "chrome/common/webui_url_constants.h"

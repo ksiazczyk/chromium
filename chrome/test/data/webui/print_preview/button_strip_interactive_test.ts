@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Button strip interactive tests
+// summary: Interactive test verifying that the print button is automatically focused when the destination becomes ready.
+// ---
+
 import type {PrintPreviewButtonStripElement} from 'chrome://print/print_preview.js';
 import {Destination, DestinationOrigin, State} from 'chrome://print/print_preview.js';
 import {assert} from 'chrome://resources/js/assert.js';

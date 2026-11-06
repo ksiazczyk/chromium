@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search utils tests
+// summary: Tests search helpers such as renderHighlightedText, sliceRangesForParts and search, including match range highlighting behavior.
+// ---
+
 import {renderHighlightedText, search, SearchApiProxyImpl, sliceRangesForParts} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 import type {Range, SearchOptions} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 import {html, render} from 'chrome://resources/lit/v3_0/lit.rollup.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination dialog tests
+// summary: Tests that the print preview destination dialog lists local, extension and Save as PDF printers correctly, including preloaded destination scenarios.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {Destination, DestinationStore, LocalDestinationInfo, PrintPreviewDestinationDialogElement, PrintPreviewDestinationListItemElement} from 'chrome://print/print_preview.js';

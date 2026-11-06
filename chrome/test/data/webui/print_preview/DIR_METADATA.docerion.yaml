@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Print Preview test directory metadata
+summary: Declares the Monorail and Buganizer tracking components used for issues in this print preview test directory.

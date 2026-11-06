@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive module WebUI tests
+// summary: WebUI tests for the New Tab Page Drive module, covering file rendering, the empty state and the info dialog behavior.
+// ---
+
 import type {DisableModuleEvent, DriveModuleElement} from 'chrome://new-tab-page/lazy_load.js';
 import {driveModuleDescriptor, FileProxy} from 'chrome://new-tab-page/lazy_load.js';
 import {$$, DriveSuggestionHandlerRemote} from 'chrome://new-tab-page/new_tab_page.js';

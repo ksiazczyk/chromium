@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test proxy for NTP promo tests
+// summary: Shared test helpers providing a fake NTP promo proxy and handler that record promo shown, clicked, and dismissed calls during WebUI tests.
+// ---
+
 import 'chrome://new-tab-page/lazy_load.js';
 
 import {NtpPromoProxyImpl} from 'chrome://new-tab-page/lazy_load.js';

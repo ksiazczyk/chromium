@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination list focus tests
+// summary: Tests keyboard focus behavior of the destination list, verifying focus delegation to extension icons and focus staying on normal items.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewDestinationListElement} from 'chrome://print/print_preview.js';

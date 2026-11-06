@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential field tests
+// summary: Tests the credential field element attribute setup and its copy-to-clipboard interaction recording.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {CredentialFieldElement} from 'chrome://password-manager/password_manager.js';

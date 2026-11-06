@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Outlook Calendar module WebUI tests
+// summary: WebUI tests for the Outlook Calendar New Tab Page module, covering module creation, disable event and sign out request.
+// ---
+
 import type {DisableModuleEvent, OutlookCalendarModuleElement} from 'chrome://new-tab-page/lazy_load.js';
 import {outlookCalendarDescriptor, OutlookCalendarProxyImpl, ParentTrustedDocumentProxy} from 'chrome://new-tab-page/lazy_load.js';
 import {MicrosoftAuthUntrustedDocumentRemote, OutlookCalendarPageHandlerRemote} from 'chrome://new-tab-page/new_tab_page.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realbox WebUI tests
+// summary: WebUI tests for the NTP searchbox element, covering composebox tools, model selection, uploads, metrics reporting and input state handling.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import type {NtpSearchboxElement} from 'chrome://new-tab-page/new_tab_page.js';

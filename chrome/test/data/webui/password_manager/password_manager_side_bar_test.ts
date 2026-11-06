@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager sidebar tests
+// summary: Tests the password manager sidebar element, covering layout, page navigation, selected item updates and the compromised passwords indicator.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {PasswordManagerSideBarElement} from 'chrome://password-manager/password_manager.js';

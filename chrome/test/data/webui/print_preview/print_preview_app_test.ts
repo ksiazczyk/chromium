@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print Preview App Tests
+// summary: Tests the print preview app element, covering print presets for copies and duplex, managed destinations, and policy-managed settings.
+// ---
+
 import type {NativeInitialSettings, PrintPreviewAppElement} from 'chrome://print/print_preview.js';
 import {DuplexMode, NativeLayerImpl, PluginProxyImpl} from 'chrome://print/print_preview.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

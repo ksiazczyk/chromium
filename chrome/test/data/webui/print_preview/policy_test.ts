@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print Preview Policy Tests
+// summary: Tests how Print Preview applies allowed and default mode policies to settings such as header/footer and background graphics, including overriding sticky settings.
+// ---
+
 import type {CrCheckboxElement, NativeInitialSettings, PolicyObjectEntry, PrintPreviewAppElement, SerializedSettings} from 'chrome://print/print_preview.js';
 import {BackgroundGraphicsModeRestriction, NativeLayerImpl, PluginProxyImpl} from 'chrome://print/print_preview.js';
 import {assertEquals, assertFalse} from 'chrome://webui-test/chai_assert.js';

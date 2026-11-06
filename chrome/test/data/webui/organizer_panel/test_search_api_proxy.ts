@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test search API proxy mock
+// summary: Provides a TestBrowserProxy mock of the SearchApiProxy that returns configurable token match ranges for search tests.
+// ---
+
 import type {SearchApiProxy, TokenRange} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

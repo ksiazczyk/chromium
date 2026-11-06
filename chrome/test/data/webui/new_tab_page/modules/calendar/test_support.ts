@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar test support helpers
+// summary: Test support utilities that create mock calendar events, attachments and Mojo time values for the calendar module tests.
+// ---
+
 import type {Attachment, CalendarEvent} from 'chrome://new-tab-page/new_tab_page.js';
 import type {Time} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 

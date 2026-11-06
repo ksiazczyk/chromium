@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share password loading dialog tests
+// summary: WebUI tests for the share password loading dialog, checking that the header title and spinner appear in the initial state.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {SharePasswordLoadingDialogElement} from 'chrome://password-manager/password_manager.js';

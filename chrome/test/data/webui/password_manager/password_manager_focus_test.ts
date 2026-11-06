@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager keyboard focus tests
+// summary: Tests keyboard focus behavior in the password manager app, such as focusing the first search result and restoring focus when navigating to and from password details.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import {CheckupSubpage, Page, PasswordManagerImpl, Router} from 'chrome://password-manager/password_manager.js';

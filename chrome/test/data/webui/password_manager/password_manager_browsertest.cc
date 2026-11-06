@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager WebUI browser test runner
+// summary: C++ browser test harness that runs the password manager WebUI mocha suites, including a Windows-disabled app test and a WebuiRefresh2026 variant.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/branding_buildflags.h"
 #include "build/build_config.h"

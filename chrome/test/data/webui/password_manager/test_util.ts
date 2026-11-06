@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for password manager WebUI tests
+// summary: Helper functions that build fake password entries, credential groups, password check statuses, and family member data for use in tests.
+// ---
+
 export interface PasswordCheckParams {
   state?: chrome.passwordsPrivate.PasswordCheckState;
   totalNumber?: number;

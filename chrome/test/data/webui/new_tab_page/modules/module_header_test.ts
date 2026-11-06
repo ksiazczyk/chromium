@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module header V2 element tests
+// summary: WebUI tests for ModuleHeaderElementV2 checking title visibility, the action menu, menu items, the customize entry, and horizontal rule behavior.
+// ---
+
 import {ModuleHeaderElementV2} from 'chrome://new-tab-page/lazy_load.js';
 import {$$} from 'chrome://new-tab-page/new_tab_page.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

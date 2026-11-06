@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for sandbox WebUI tests
+summary: Defines the GN build target that assembles the sandbox WebUI browser tests and TypeScript test files.

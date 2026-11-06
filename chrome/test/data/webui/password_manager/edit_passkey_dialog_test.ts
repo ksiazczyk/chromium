@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit passkey dialog tests
+// summary: WebUI tests verifying that the edit passkey dialog displays passkey fields and affiliated domains and saves updated username and display name via the password manager proxy.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {EditPasskeyDialogElement} from 'chrome://password-manager/password_manager.js';

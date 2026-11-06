@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Share password confirmation dialog tests
+// summary: WebUI tests for the share password confirmation dialog, checking loading, canceled, and success states with single or multiple recipients.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {SharePasswordConfirmationDialogElement} from 'chrome://password-manager/password_manager.js';

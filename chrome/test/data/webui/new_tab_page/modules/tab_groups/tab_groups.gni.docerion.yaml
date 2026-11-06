@@ -1,0 +1,4 @@
+# Docerion header of tab_groups.gni.
+type: config
+title: GN variable for tab groups test files
+summary: GN import file defining the tab_groups_test_files list that references the tab groups module WebUI test for the build.

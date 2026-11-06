@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Microsoft files module WebUI tests
+// summary: Tests the New Tab Page Microsoft Files module, including the info dialog, disable module event and sign out behavior.
+// ---
+
 import type {DisableModuleEvent, MicrosoftFilesModuleElement} from 'chrome://new-tab-page/lazy_load.js';
 import {microsoftFilesModuleDescriptor, MicrosoftFilesProxyImpl, ParentTrustedDocumentProxy} from 'chrome://new-tab-page/lazy_load.js';
 import type {File} from 'chrome://new-tab-page/new_tab_page.js';

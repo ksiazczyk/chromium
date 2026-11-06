@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox file upload tests
+// summary: WebUI tests for composebox file and tab uploads, verifying autocomplete behavior, upload statuses, and file deletion.
+// ---
+
 import {ComposeboxElement} from 'chrome://new-tab-page/lazy_load.js';
 import type {CrA11yAnnouncerMessagesSentEvent} from 'chrome://new-tab-page/new_tab_page.js';
 import {$$} from 'chrome://new-tab-page/new_tab_page.js';

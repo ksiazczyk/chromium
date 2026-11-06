@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sample image bytes for transparency tests
+// summary: Exports byte arrays of sample transparent and opaque PNG, BMP, and WebP images used by the transparency tests.
+// ---
+
 import {IMAGE_FILE} from './image_processor_test_support.js';
 
 /**

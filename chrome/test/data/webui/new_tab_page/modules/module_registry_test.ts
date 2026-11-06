@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module registry tests for New Tab Page modules
+// summary: WebUI tests for ModuleRegistry covering multi-instance modules, instantiation order, disabled modules, and related load metrics.
+// ---
+
 import {ModuleDescriptor, ModuleRegistry} from 'chrome://new-tab-page/lazy_load.js';
 import {NewTabPageProxy, PageCallbackRouter, PageHandlerRemote, WindowProxy} from 'chrome://new-tab-page/new_tab_page.js';
 import type {ModuleIdName, PageRemote} from 'chrome://new-tab-page/new_tab_page.js';

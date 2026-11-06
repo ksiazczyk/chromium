@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password export UI tests
+// summary: Tests the password export UI, covering the export flow, progress spinner, success toast with open-in-shell action and error dialogs.
+// ---
+
 import 'chrome://password-manager/password_manager.js';
 
 import type {CrButtonElement, CrDialogElement, PasswordsExporterElement} from 'chrome://password-manager/password_manager.js';

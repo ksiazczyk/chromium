@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandbox status browser tests
+// summary: C++ browser tests that run the sandbox Mocha suites, covering SUID or namespace sandbox on Linux and ChromeOS, seccomp-BPF, and a disabled GPU sandbox case.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

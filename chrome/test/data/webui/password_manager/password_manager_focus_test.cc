@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager focus browser test runner
+// summary: C++ browser test that runs the password manager focus mocha suite, disabled on Mac and Windows because the test is flaky there.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "components/password_manager/content/common/web_ui_constants.h"

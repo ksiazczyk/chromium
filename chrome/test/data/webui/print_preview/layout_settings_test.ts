@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview layout settings tests
+// summary: Tests the print preview layout settings element, verifying that portrait and landscape selection stays in sync between the UI and the setting.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewLayoutSettingsElement} from 'chrome://print/print_preview.js';

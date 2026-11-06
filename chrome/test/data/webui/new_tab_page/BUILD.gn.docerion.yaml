@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: New Tab Page WebUI tests build file
+summary: GN build definition for the New Tab Page WebUI test suite, listing C++ and TypeScript test files and TypeScript dependencies.

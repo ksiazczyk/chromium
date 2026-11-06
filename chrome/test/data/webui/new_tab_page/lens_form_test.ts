@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens form WebUI tests
+// summary: WebUI tests for the Lens form element, checking file and URL submissions and error handling for missing, multiple or unsupported file types.
+// ---
+
 import 'chrome://new-tab-page/new_tab_page.js';
 
 import type {LensFormElement} from 'chrome://new-tab-page/lazy_load.js';

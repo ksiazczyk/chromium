@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox popup WebUI tests build definition
+summary: GN build file that assembles the TypeScript and C++ WebUI tests for the omnibox popup with path mappings and dependencies.

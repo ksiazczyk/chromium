@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Search engine choice test directory metadata
+summary: Points the test directory's metadata mixins at the common metadata of the search engine choice browser component.

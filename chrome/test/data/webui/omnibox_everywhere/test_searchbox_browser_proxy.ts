@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser proxy mocks for omnibox everywhere
+// summary: Provides test mock proxies for the searchbox and omnibox everywhere Mojo handlers, with default input state, used by the WebUI tests.
+// ---
+
 import {PageCallbackRouter as OmniboxEverywherePageCallbackRouter, PageHandlerRemote as OmniboxEverywherePageHandlerRemote} from 'chrome://omnibox-everywhere.top-chrome/omnibox_everywhere.mojom-webui.js';
 import type {PageRemote as OmniboxEverywherePageRemote} from 'chrome://omnibox-everywhere.top-chrome/omnibox_everywhere.mojom-webui.js';
 import {PageCallbackRouter as SearchboxPageCallbackRouter, PageHandlerRemote as SearchboxPageHandlerRemote} from 'chrome://resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';

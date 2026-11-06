@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview model tests
+// summary: WebUI tests for the print preview model covering sticky setting persistence, state restoration, and setting values across destination changes.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {CloudJobTicket, ColorOption, DocumentSettings, DpiOption, DuplexOption, PrintPreviewModelElement, PrintTicket, Settings} from 'chrome://print/print_preview.js';

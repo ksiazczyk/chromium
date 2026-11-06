@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: New Tab Page tests directory metadata
+summary: Directory metadata that reuses the New Tab Page COMMON_METADATA mixins for this test folder.

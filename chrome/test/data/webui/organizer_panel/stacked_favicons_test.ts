@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stacked favicons element tests
+// summary: Tests the stacked-favicons element rendering of two favicons, updates when URLs change and the vertical stacking attribute.
+// ---
+
 import 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 
 import type {StackedFaviconsElement} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';

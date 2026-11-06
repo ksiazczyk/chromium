@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize buttons WebUI test
+// summary: WebUI test suite for the ntp-customize-buttons element that verifies the customize button's box shadow appears and disappears according to the showShadow and showBackgroundImage properties.
+// ---
+
 import type {CustomizeButtonsElement} from 'chrome://newtab-shared/customize_buttons/customize_buttons.js';
 import {assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {hasStyle, microtasksFinished} from 'chrome://webui-test/test_util.js';

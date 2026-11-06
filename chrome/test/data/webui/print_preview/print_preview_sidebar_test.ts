@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print Preview Sidebar Tests
+// summary: Tests the print preview sidebar, verifying that settings sections show and hide correctly as setting availability changes.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewModelElement, PrintPreviewSidebarElement, Settings} from 'chrome://print/print_preview.js';

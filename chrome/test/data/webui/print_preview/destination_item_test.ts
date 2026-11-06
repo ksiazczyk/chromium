@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination list item tests
+// summary: Tests rendering of destination list items, including name display and search query highlighting of names and descriptions.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {PrintPreviewDestinationListItemElement} from 'chrome://print/print_preview.js';

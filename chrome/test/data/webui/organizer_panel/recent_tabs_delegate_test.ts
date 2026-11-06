@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent tabs delegate tests
+// summary: Verifies the RecentTabsDelegate that supplies recently closed tabs, tab groups and split views as organizer list section items.
+// ---
+
 import {browserProxyFactory, PageHandlerRemote, RecentTabsDelegate, SplitTabLayout} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 import type {OrganizerListSectionClient, OrganizerListSectionItem, PageRemote, ProfileData, RecentlyClosedSplitView, RecentlyClosedTab, RecentlyClosedTabGroup} from 'chrome://organizer-panel.top-chrome/organizer_panel.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

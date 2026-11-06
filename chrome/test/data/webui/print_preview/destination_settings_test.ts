@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Destination settings tests
+// summary: Tests destination settings behavior, including dropdown enablement by state, recent destinations and handling of destination errors.
+// ---
+
 import 'chrome://print/print_preview.js';
 
 import type {LocalDestinationInfo, PrintPreviewDestinationSettingsElement, RecentDestination} from 'chrome://print/print_preview.js';
