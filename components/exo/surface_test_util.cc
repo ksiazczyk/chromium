@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Surface test observer implementation
+// summary: Implements SurfaceObserverForTest, a test surface observer constructed with a last occlusion state for use in exo tests.
+// ---
+
 #include "components/exo/surface_test_util.h"
 
 namespace exo {

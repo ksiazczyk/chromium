@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamingSeat implementation
+// summary: Implements the GamingSeat class, which tracks focused surfaces, manages connected gamepads, and dispatches gamepad events via the Ozone gamepad provider.
+// ---
+
 #include "components/exo/gaming_seat.h"
 
 #include <vector>

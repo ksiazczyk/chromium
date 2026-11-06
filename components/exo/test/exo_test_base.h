@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExoTestBase test fixture header
+// summary: Declares the ExoTestBase fixture extending AshTestBase with access to the surface manager, shell surface origins, and Exo test helpers.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_EXO_TEST_BASE_H_
 #define COMPONENTS_EXO_TEST_EXO_TEST_BASE_H_
 

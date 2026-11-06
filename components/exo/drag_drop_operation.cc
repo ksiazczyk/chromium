@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and drop operation implementation
+// summary: Implements DragDropOperation, which manages drag-and-drop operations started by exo Wayland clients and maps DnD actions to UI drag operations.
+// ---
+
 #include "components/exo/drag_drop_operation.h"
 
 #include "ash/drag_drop/drag_drop_controller.h"

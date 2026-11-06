@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seat observer interface
+// summary: Observer interface for seat events such as surface creation, focus changes, pointer capture and keyboard modifier updates.
+// ---
+
 #ifndef COMPONENTS_EXO_SEAT_OBSERVER_H_
 #define COMPONENTS_EXO_SEAT_OBSERVER_H_
 

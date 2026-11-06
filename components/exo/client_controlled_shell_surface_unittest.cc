@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientControlledShellSurface unit tests
+// summary: Unit tests covering client controlled shell surface behavior such as bounds changes, fullscreen and pinned states, tablet mode, snap, drag and backdrop interactions.
+// ---
+
 #include "components/exo/client_controlled_shell_surface.h"
 
 #include "ash/display/screen_orientation_controller.h"

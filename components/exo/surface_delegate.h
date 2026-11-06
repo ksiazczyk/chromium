@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface delegate interface
+// summary: Defines the SurfaceDelegate interface with callbacks for commits, frame types and colors, parenting, snapping, PiP, desks, and other context-specific surface events.
+// ---
+
 #ifndef COMPONENTS_EXO_SURFACE_DELEGATE_H_
 #define COMPONENTS_EXO_SURFACE_DELEGATE_H_
 

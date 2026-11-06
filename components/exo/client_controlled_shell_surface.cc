@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientControlledShellSurface implementation
+// summary: Implements ClientControlledShellSurface, a shell surface whose window state and bounds are driven by a remote client, including fullscreen, pinned, PiP, split view, orientation and zoom handling.
+// ---
+
 #include "components/exo/client_controlled_shell_surface.h"
 
 #include <map>

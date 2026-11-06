@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast surface class declaration
+// summary: Declares the ToastSurface class, a ClientControlledShellSurface subclass that handles the toast surface role and adds the surface to its manager on first commit.
+// ---
+
 #ifndef COMPONENTS_EXO_TOAST_SURFACE_H_
 #define COMPONENTS_EXO_TOAST_SURFACE_H_
 

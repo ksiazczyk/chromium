@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Exo directory metadata
+summary: Maps the exo directory to a Buganizer component and lists the owning team email address.

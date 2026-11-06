@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell surface utility functions implementation
+// summary: Implements helper functions for exo shell surfaces, managing application and startup IDs, fullscreen shelf behavior, accessibility IDs, and resolving target surfaces for events.
+// ---
+
 #include "components/exo/shell_surface_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory abstraction header
+// summary: Declares the SharedMemory abstraction wrapping base::UnsafeSharedMemoryRegion with functionality to create buffers for display, query the size, and resize the region.
+// ---
+
 #ifndef COMPONENTS_EXO_SHARED_MEMORY_H_
 #define COMPONENTS_EXO_SHARED_MEMORY_H_
 

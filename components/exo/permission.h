@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission class declaration
+// summary: Declares the Permission aura window property class that adds a capability to a window, with optional timeout, revocation, and expiry checks.
+// ---
+
 #ifndef COMPONENTS_EXO_PERMISSION_H_
 #define COMPONENTS_EXO_PERMISSION_H_
 

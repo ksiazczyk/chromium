@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data offer delegate implementation
+// summary: Implements a test DataOfferDelegate that records offered MIME types, source actions and drag-and-drop actions for inspection.
+// ---
+
 #include "components/exo/test/test_data_offer_delegate.h"
 
 namespace exo::test {

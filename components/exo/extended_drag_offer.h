@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended drag offer class declaration
+// summary: Declares the ExtendedDragOffer class, a DataOfferObserver wrapper linking a data offer to a delegate during extended drag operations.
+// ---
+
 #ifndef COMPONENTS_EXO_EXTENDED_DRAG_OFFER_H_
 #define COMPONENTS_EXO_EXTENDED_DRAG_OFFER_H_
 

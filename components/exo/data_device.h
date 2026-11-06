@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDevice class declaration
+// summary: Declares DataDevice, which handles drag-and-drop and copy-paste for a seat, including the DndAction enum and drag drop, clipboard and seat observer callbacks.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_DEVICE_H_
 #define COMPONENTS_EXO_DATA_DEVICE_H_
 

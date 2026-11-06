@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification surface implementation
+// summary: Implements the notification surface role in exo, hosting a client surface and registering it with a notification surface manager once content is available for display.
+// ---
+
 #include "components/exo/notification_surface.h"
 #include <cmath>
 

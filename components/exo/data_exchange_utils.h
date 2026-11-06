@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data exchange utils header
+// summary: Declares FilterCustomData, which strips fs/ keys from guest-provided custom data so a guest cannot forge fs metadata to manipulate FilesApp or HoldingSpace.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_EXCHANGE_UTILS_H_
 #define COMPONENTS_EXO_DATA_EXCHANGE_UTILS_H_
 

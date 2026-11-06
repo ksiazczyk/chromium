@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VSync timing manager implementation
+// summary: Implements VSyncTimingManager, forwarding vsync parameter updates and frame throttling intervals from the display compositor to registered exo observers over Mojo.
+// ---
+
 #include "components/exo/vsync_timing_manager.h"
 
 #include <vector>

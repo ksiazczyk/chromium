@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MimeUtils unit tests
+// summary: Unit tests verifying GetCharset behavior for legacy UTF8_STRING, missing charset parameters and present charset parameters.
+// ---
+
 #include "components/exo/mime_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data offer delegate interface
+// summary: Declares a test DataOfferDelegate that persists offered MIME types and drag-and-drop actions so tests can inspect them.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_TEST_DATA_OFFER_DELEGATE_H_
 #define COMPONENTS_EXO_TEST_TEST_DATA_OFFER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell surface implementation
+// summary: Implements ShellSurface, the toplevel surface whose position and state are managed by the shell, including configure requests, maximize, minimize, fullscreen, popup, and compositor lock handling.
+// ---
+
 #include "components/exo/shell_surface.h"
 
 #include <optional>

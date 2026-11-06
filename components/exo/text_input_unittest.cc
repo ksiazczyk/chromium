@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text input unit tests
+// summary: Unit tests for TextInput using a mock delegate, covering activation, composition text, surrounding text edits, and virtual keyboard behavior.
+// ---
+
 #include "components/exo/text_input.h"
 
 #include <memory>

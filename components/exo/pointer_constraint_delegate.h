@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer constraint delegate interface
+// summary: Defines the PointerConstraintDelegate interface for pointer lock constraints, covering activation, breakage, persistence, and the constrained surface.
+// ---
+
 #ifndef COMPONENTS_EXO_POINTER_CONSTRAINT_DELEGATE_H_
 #define COMPONENTS_EXO_POINTER_CONSTRAINT_DELEGATE_H_
 

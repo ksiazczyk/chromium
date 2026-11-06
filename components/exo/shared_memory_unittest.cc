@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory unit tests
+// summary: Unit tests verifying that SharedMemory successfully creates buffers for full-size, top-left, and bottom-right regions using the RGBA 8888 format.
+// ---
+
 #include "components/exo/shared_memory.h"
 
 #include <stddef.h>

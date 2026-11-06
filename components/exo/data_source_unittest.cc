@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data source unit tests
+// summary: Unit tests for the exo data source, verifying retrieval of data for preferred mime types including text, HTML, images, filenames, and web custom data.
+// ---
+
 #include "components/exo/data_source.h"
 
 #include <atomic>

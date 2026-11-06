@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamingSeatDelegate interface header
+// summary: Declares the GamingSeatDelegate interface for accepting gamepad events on surfaces and assigning delegates to newly connected gamepads.
+// ---
+
 #ifndef COMPONENTS_EXO_GAMING_SEAT_DELEGATE_H_
 #define COMPONENTS_EXO_GAMING_SEAT_DELEGATE_H_
 

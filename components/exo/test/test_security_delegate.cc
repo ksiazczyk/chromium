@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test security delegate implementation for Exo tests
+// summary: Implements TestSecurityDelegate, providing configurable permission checks for activation, pointer lock, bounds, remote shell, restore info, and modal windows, plus file and pickle data sending for tests.
+// ---
+
 #include "components/exo/test/test_security_delegate.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientControlledShellSurface class declaration
+// summary: Declares ClientControlledShellSurface and its Delegate interface for windows whose state and bounds are controlled by a remote shell client rather than the window manager.
+// ---
+
 #ifndef COMPONENTS_EXO_CLIENT_CONTROLLED_SHELL_SURFACE_H_
 #define COMPONENTS_EXO_CLIENT_CONTROLLED_SHELL_SURFACE_H_
 

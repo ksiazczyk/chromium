@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface class implementation
+// summary: Implements the Surface class, the core displayable rectangular area in exo, handling buffer attachment, commits, input, occlusion, overlay promotion, and compositor frames.
+// ---
+
 #include "components/exo/surface.h"
 
 #include <algorithm>

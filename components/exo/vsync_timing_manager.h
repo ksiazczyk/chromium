@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VSync timing manager
+// summary: Declares VSyncTimingManager, which multiplexes vsync parameter updates from the display compositor to exo clients using the zcr_vsync_feedback_v1 protocol.
+// ---
+
 #ifndef COMPONENTS_EXO_VSYNC_TIMING_MANAGER_H_
 #define COMPONENTS_EXO_VSYNC_TIMING_MANAGER_H_
 

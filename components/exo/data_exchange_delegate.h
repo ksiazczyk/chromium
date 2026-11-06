@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataExchangeDelegate interface
+// summary: Defines an interface for Chrome-implemented data exchange operations such as data transfer endpoint types, URI list mime types, and file sharing for VMs.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_EXCHANGE_DELEGATE_H_
 #define COMPONENTS_EXO_DATA_EXCHANGE_DELEGATE_H_
 

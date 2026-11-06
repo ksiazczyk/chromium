@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event latency metrics unit test
+// summary: Verifies that Ash event latency metrics are not recorded when the target window is an exo window.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "components/exo/shell_surface.h"
 #include "components/exo/test/exo_test_base.h"

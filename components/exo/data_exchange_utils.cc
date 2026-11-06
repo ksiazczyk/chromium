@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data exchange utils implementation
+// summary: Implements FilterCustomData, which reads clipboard custom data, removes keys starting with fs/, and re-serializes the remaining map into a Pickle.
+// ---
+
 #include "components/exo/data_exchange_utils.h"
 
 #include <unordered_map>

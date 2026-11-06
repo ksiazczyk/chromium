@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame timing history implementation
+// summary: Implements FrameTimingHistory, which records frame submission and remote receipt times to estimate frame transfer duration.
+// ---
+
 #include "components/exo/frame_timing_history.h"
 
 #include "base/logging.h"

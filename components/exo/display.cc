@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display implementation
+// summary: Implements the core exo Display class that creates surfaces, shared memory, DMA-buf buffers, shell surfaces, and data devices.
+// ---
+
 #include "components/exo/display.h"
 
 #include <GLES2/gl2extchromium.h>

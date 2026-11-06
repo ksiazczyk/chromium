@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WMHelper unit tests
+// summary: Unit tests for the Exo window manager helper, covering frame throttling of ARC windows and the default device scale factor in docked mode.
+// ---
+
 #include "components/exo/wm_helper.h"
 
 #include <memory>

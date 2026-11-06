@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI lock controller implementation
+// summary: Implements the UI lock controller that shows Esc-key notifications when apps enter fullscreen or pointer lock, handling external keyboard detection, notification timing and cooldowns.
+// ---
+
 #include "components/exo/ui_lock_controller.h"
 
 #include <memory>

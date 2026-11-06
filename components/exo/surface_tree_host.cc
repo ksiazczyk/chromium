@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface tree host implementation
+// summary: Implements SurfaceTreeHost, hosting an exo surface tree in an aura window with compositor frame handling, hit testing, and display change updates.
+// ---
+
 #include "components/exo/surface_tree_host.h"
 
 #include <algorithm>

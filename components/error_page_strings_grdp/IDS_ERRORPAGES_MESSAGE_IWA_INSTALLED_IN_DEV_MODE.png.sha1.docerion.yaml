@@ -1,0 +1,4 @@
+# Docerion header of IDS_ERRORPAGES_MESSAGE_IWA_INSTALLED_IN_DEV_MODE.png.sha1.
+type: data
+title: SHA1 checksum for the IWA installed in dev mode message image
+summary: Holds the SHA1 hash that verifies the PNG image for the isolated web app installed in developer mode error message.

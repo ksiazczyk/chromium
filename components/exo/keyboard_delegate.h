@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard delegate interface
+// summary: Defines the KeyboardDelegate interface for context-specific handling of keyboard enter, leave, key, modifier, key repeat and layout events.
+// ---
+
 #ifndef COMPONENTS_EXO_KEYBOARD_DELEGATE_H_
 #define COMPONENTS_EXO_KEYBOARD_DELEGATE_H_
 

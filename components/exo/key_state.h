@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key state and physical code types
+// summary: Defines the PhysicalCode variant and KeyState struct used to represent pressed key state, with equality and ordering operators.
+// ---
+
 #ifndef COMPONENTS_EXO_KEY_STATE_H_
 #define COMPONENTS_EXO_KEY_STATE_H_
 

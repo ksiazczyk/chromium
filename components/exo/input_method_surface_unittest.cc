@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputMethodSurface unit tests
+// summary: Unit tests verifying that InputMethodSurface geometry is set to the buffer size while ignoring display work area insets.
+// ---
+
 #include "components/exo/input_method_surface.h"
 
 #include "ash/shell.h"

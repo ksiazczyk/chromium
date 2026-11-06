@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exo test helper header
+// summary: Declares ExoTestHelper for common Exo test setup plus a shell surface delegate for observing state and bounds changes.
+// ---
+
 #ifndef COMPONENTS_EXO_TEST_EXO_TEST_HELPER_H_
 #define COMPONENTS_EXO_TEST_EXO_TEST_HELPER_H_
 

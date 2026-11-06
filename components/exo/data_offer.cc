@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataOffer implementation
+// summary: Implements the DataOffer class representing data offered to a client, handling clipboard reads, drag-and-drop data, file descriptor writes and text encoding.
+// ---
+
 #include "components/exo/data_offer.h"
 
 #include <iterator>

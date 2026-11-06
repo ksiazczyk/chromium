@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataOffer unit tests
+// summary: Unit tests for DataOffer covering clipboard and drag-and-drop data transfer, file descriptor reads, data transfer policy handling and pixel comparisons.
+// ---
+
 #include "components/exo/data_offer.h"
 
 #include <fcntl.h>

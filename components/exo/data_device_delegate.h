@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataDeviceDelegate interface
+// summary: Defines the DataDeviceDelegate interface with callbacks for device destruction, data offers, drag enter, leave, motion, drop, selection, and surface event acceptance.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_DEVICE_DELEGATE_H_
 #define COMPONENTS_EXO_DATA_DEVICE_DELEGATE_H_
 

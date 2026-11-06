@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client-controlled accelerator target declaration
+// summary: Declares the accelerator target that maps registered accelerators to zoom actions on client-controlled shell surfaces.
+// ---
+
 #ifndef COMPONENTS_EXO_CLIENT_CONTROLLED_ACCELERATORS_H_
 #define COMPONENTS_EXO_CLIENT_CONTROLLED_ACCELERATORS_H_
 

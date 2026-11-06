@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display class header
+// summary: Declares the exo Display class, which provides functions for creating surfaces and combines their contents into one displayable output.
+// ---
+
 #ifndef COMPONENTS_EXO_DISPLAY_H_
 #define COMPONENTS_EXO_DISPLAY_H_
 

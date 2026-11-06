@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seat implementation
+// summary: Implements the exo Seat, tracking input focus, keyboard state, clipboard selection and drag operations while observing window and platform events.
+// ---
+
 #include "components/exo/seat.h"
 
 #include <linux/input-event-codes.h>

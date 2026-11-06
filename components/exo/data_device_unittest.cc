@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataDevice unit tests
+// summary: Unit tests for DataDevice covering destroy notifications, drag-and-drop data events, exit handling, and clipboard selection behavior using test delegates and seats.
+// ---
+
 #include "components/exo/data_device.h"
 
 #include <memory>

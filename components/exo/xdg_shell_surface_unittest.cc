@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XdgShellSurface unit tests
+// summary: Unit tests verifying that XDG shell surfaces auto-maximize and that decorated windows render a nonzero frame and are smaller than undecorated ones.
+// ---
+
 #include "components/exo/xdg_shell_surface.h"
 
 #include "components/exo/buffer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell surface base class header
+// summary: Declares ShellSurfaceBase, a SurfaceTreeHost subclass providing widget behavior for treating surfaces as toplevel, fullscreen, or popup windows with metadata, callbacks, and activation control.
+// ---
+
 #ifndef COMPONENTS_EXO_SHELL_SURFACE_BASE_H_
 #define COMPONENTS_EXO_SHELL_SURFACE_BASE_H_
 

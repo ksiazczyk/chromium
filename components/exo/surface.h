@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface class declaration
+// summary: Declares the Surface class representing a rectangular on-screen area with location, size, and pixel contents, including buffer attachment, transforms, and overlay priority APIs.
+// ---
+
 #ifndef COMPONENTS_EXO_SURFACE_H_
 #define COMPONENTS_EXO_SURFACE_H_
 

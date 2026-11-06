@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer stylus delegate interface
+// summary: Abstract delegate extending PointerDelegate that receives stylus tool events such as tool changes, force and tilt.
+// ---
+
 #ifndef COMPONENTS_EXO_POINTER_STYLUS_DELEGATE_H_
 #define COMPONENTS_EXO_POINTER_STYLUS_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data source delegate implementation
+// summary: Implements a test DataSourceDelegate that writes test or configured data to file descriptors and tracks cancellation for exo tests.
+// ---
+
 #include "components/exo/test/test_data_source_delegate.h"
 
 #include <vector>

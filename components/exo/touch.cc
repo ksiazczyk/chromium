@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch device event handling implementation
+// summary: Implements the Touch class, which intercepts Aura touch events, resolves the target surface, and forwards down, up, motion, shape, cancel and stylus events to its delegates.
+// ---
+
 #include "components/exo/touch.h"
 
 #include <algorithm>

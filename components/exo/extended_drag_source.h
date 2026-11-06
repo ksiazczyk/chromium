@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended drag source class declaration
+// summary: Declares ExtendedDragSource, a singleton managing extended drag sessions of shell surface windows, with delegate and observer interfaces and testing hooks.
+// ---
+
 #ifndef COMPONENTS_EXO_EXTENDED_DRAG_SOURCE_H_
 #define COMPONENTS_EXO_EXTENDED_DRAG_SOURCE_H_
 

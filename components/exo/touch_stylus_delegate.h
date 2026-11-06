@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch stylus delegate interface
+// summary: Defines the TouchStylusDelegate interface extending touch handling with stylus-specific tool type, pressure force and tilt callbacks.
+// ---
+
 #ifndef COMPONENTS_EXO_TOUCH_STYLUS_DELEGATE_H_
 #define COMPONENTS_EXO_TOUCH_STYLUS_DELEGATE_H_
 

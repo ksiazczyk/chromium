@@ -1,3 +1,13 @@
+---
+type: readme
+title: 'Exo: Wayland display server on the Aura Shell'
+summary: Explains that Exo implements a Wayland display server for Chrome OS clients like ARC++ and Crostini, and lists notable protocol extensions.
+relations:
+  - references /components/exo/client_controlled_shell_surface.h
+  - references /components/exo/wayland/protocol/aura-shell.xml
+  - references /components/exo/wayland/zaura_shell.h
+---
+
 Exo implements a display server on top of the Aura Shell. It uses the
 [Wayland protocol](https://wayland.freedesktop.org/docs/html/)
 to communicate with clients. For a general introduction to Wayland see

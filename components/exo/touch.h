@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch device class declaration
+// summary: Declares the Touch class representing a client touch device, tracking touch points per surface and supporting an optional stylus delegate.
+// ---
+
 #ifndef COMPONENTS_EXO_TOUCH_H_
 #define COMPONENTS_EXO_TOUCH_H_
 

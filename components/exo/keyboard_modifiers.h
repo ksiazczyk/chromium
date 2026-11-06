@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard modifiers struct
+// summary: Defines the KeyboardModifiers struct holding depressed, locked, latched and group modifier states with an equality operator.
+// ---
+
 #ifndef COMPONENTS_EXO_KEYBOARD_MODIFIERS_H_
 #define COMPONENTS_EXO_KEYBOARD_MODIFIERS_H_
 

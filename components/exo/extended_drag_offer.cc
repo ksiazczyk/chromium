@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended drag offer implementation
+// summary: Implements ExtendedDragOffer, a DataOfferObserver that ties a data offer to an extended drag session and notifies its delegate when the offer is destroyed.
+// ---
+
 #include "components/exo/extended_drag_offer.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XkbTracker class header
+// summary: Declares the XkbTracker class that tracks XKB keyboard state, remaining empty when Chrome is not built against libxkbcommon.
+// ---
+
 #ifndef COMPONENTS_EXO_XKB_TRACKER_H_
 #define COMPONENTS_EXO_XKB_TRACKER_H_
 

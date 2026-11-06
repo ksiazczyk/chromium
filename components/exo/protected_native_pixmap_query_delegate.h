@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected native pixmap query delegate interface
+// summary: Interface for asynchronously querying whether a GMB handle is associated with a protected native pixmap, needed for hardware protected video.
+// ---
+
 #ifndef COMPONENTS_EXO_PROTECTED_NATIVE_PIXMAP_QUERY_DELEGATE_H_
 #define COMPONENTS_EXO_PROTECTED_NATIVE_PIXMAP_QUERY_DELEGATE_H_
 

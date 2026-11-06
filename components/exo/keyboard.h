@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard class declaration
+// summary: Declares the Keyboard class managing client keyboard devices, including observers, key acks, focus changes and keyboard and IME settings updates.
+// ---
+
 #ifndef COMPONENTS_EXO_KEYBOARD_H_
 #define COMPONENTS_EXO_KEYBOARD_H_
 

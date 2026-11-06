@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data source observer interface
+// summary: Defines a DataSourceObserver interface that is notified when a data source is being destroyed.
+// ---
+
 #ifndef COMPONENTS_EXO_DATA_SOURCE_OBSERVER_H_
 #define COMPONENTS_EXO_DATA_SOURCE_OBSERVER_H_
 

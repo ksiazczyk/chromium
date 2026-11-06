@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputMethodSurface implementation
+// summary: Implements the InputMethodSurface, a client-controlled shell surface for the ARC virtual keyboard container that reports its touchable bounds to a manager.
+// ---
+
 #include "components/exo/input_method_surface.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

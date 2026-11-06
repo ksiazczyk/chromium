@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GamingSeat unit tests
+// summary: Unit tests for the exo GamingSeat class covering connection changes, focus handling, and gamepad event dispatching with mock delegates.
+// ---
+
 #include "components/exo/gaming_seat.h"
 
 #include <memory>

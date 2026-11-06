@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XdgShellSurface implementation
+// summary: Implements the XDG shell surface, overriding widget init params and applying auto-maximize when an XDG window's bounds cover the work area.
+// ---
+
 #include "components/exo/xdg_shell_surface.h"
 
 #include "ash/frame/frame_view_ash.h"

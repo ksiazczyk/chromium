@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI lock controller
+// summary: Declares UILockController, which helps users escape fullscreen and pointer lock states held by windows, for example by holding Escape, and manages related notifications.
+// ---
+
 #ifndef COMPONENTS_EXO_UI_LOCK_CONTROLLER_H_
 #define COMPONENTS_EXO_UI_LOCK_CONTROLLER_H_
 

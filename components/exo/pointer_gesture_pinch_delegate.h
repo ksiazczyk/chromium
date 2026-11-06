@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer gesture pinch delegate interface
+// summary: Abstract delegate extending PointerDelegate that receives pointer pinch gesture begin, update and end events.
+// ---
+
 #ifndef COMPONENTS_EXO_POINTER_GESTURE_PINCH_DELEGATE_H_
 #define COMPONENTS_EXO_POINTER_GESTURE_PINCH_DELEGATE_H_
 

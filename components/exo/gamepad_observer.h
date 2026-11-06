@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GamepadObserver interface header
+// summary: Declares the GamepadObserver interface whose implementations are notified when a gamepad is being destroyed.
+// ---
+
 #ifndef COMPONENTS_EXO_GAMEPAD_OBSERVER_H_
 #define COMPONENTS_EXO_GAMEPAD_OBSERVER_H_
 

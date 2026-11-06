@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface observer interface
+// summary: Defines the SurfaceObserver interface for listening to events on exo surfaces such as commits, occlusion, desk changes, tooltips, and frame throttling.
+// ---
+
 #ifndef COMPONENTS_EXO_SURFACE_OBSERVER_H_
 #define COMPONENTS_EXO_SURFACE_OBSERVER_H_
 

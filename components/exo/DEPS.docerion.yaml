@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Exo include dependency rules
+summary: Specifies allowed include paths for the exo directory, with special rules for tests and specific files.

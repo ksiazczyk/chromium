@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sub-surface implementation
+// summary: Implements the SubSurface class that manages a child surface's position, transform, stacking order, and synchronized commit behavior relative to its parent surface.
+// ---
+
 #include "components/exo/sub_surface.h"
 
 #include "base/logging.h"

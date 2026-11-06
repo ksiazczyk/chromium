@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seat class declaration
+// summary: Declares the Seat class that groups input devices, tracks input focus, manages prioritized observers, selection and drag operations.
+// ---
+
 #ifndef COMPONENTS_EXO_SEAT_H_
 #define COMPONENTS_EXO_SEAT_H_
 

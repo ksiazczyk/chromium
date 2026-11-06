@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window property definitions
+// summary: Defines aura window property keys used by exo, including application ID, restore-or-maximize fullscreen behavior, and the protected native pixmap query delegate.
+// ---
+
 #include "components/exo/window_properties.h"
 
 DEFINE_UI_CLASS_PROPERTY_TYPE(exo::ProtectedNativePixmapQueryDelegate*)

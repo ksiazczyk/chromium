@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ArcOverlayManager
+// summary: Exo-based test that builds a client-controlled shell surface with a child surface to exercise basic ARC overlay manager behavior.
+// ---
+
 #include "chromeos/ash/experiences/arc/overlay/arc_overlay_manager.h"
 
 #include "components/exo/buffer.h"

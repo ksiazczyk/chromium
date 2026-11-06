@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window property keys
+// summary: Declares exo window property keys for application ID, restore or maximize exiting fullscreen, protected pixmap queries, and ignoring maximum size hints for maximizing.
+// ---
+
 #ifndef COMPONENTS_EXO_WINDOW_PROPERTIES_H_
 #define COMPONENTS_EXO_WINDOW_PROPERTIES_H_
 

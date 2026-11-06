@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Seat unit tests
+// summary: Unit tests for the exo Seat covering observer priorities, focus notifications, selection and clipboard handling.
+// ---
+
 #include "components/exo/seat.h"
 
 #include <optional>
