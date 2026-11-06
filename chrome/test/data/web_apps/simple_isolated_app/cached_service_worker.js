@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker caching a test response
+// summary: Service worker that on install caches a synthetic response for /test.js under a request cache.
+// ---
+
 const CACHE_NAME = 'request-cache-v1';
 
 self.addEventListener('install', evt => {

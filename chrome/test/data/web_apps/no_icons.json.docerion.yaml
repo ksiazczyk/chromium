@@ -1,0 +1,4 @@
+# Docerion header of no_icons.json.
+type: test
+title: No icons web app manifest
+summary: Web app manifest fixture with an empty icons list used to test installation without icons.

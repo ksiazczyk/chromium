@@ -1,0 +1,4 @@
+# Docerion header of clear_site_data.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for Clear-Site-Data page
+summary: Mock response headers adding Clear-Site-Data and cross-origin policies for clear_site_data.html.

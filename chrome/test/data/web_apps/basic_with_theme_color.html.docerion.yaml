@@ -1,0 +1,4 @@
+# Docerion header of basic_with_theme_color.html.
+type: test
+title: Basic web app test page with theme color
+summary: Test page like the basic web app but adding a yellow theme-color meta tag.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Sub1 web app manifest
+summary: Web app manifest for the sub1 test app, declaring a 512x512 PNG icon, the start URL /sub1/page.html and standalone display.

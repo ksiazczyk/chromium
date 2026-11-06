@@ -1,0 +1,4 @@
+# Docerion header of favicon_only.html.
+type: test
+title: Favicon only test page
+summary: Test page that provides only a favicon link and no web app manifest, for testing favicon-based app detection.

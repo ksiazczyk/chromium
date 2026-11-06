@@ -1,0 +1,4 @@
+# Docerion header of update_trigger_with_update.html.
+type: test
+title: Migrate To update trigger with update test page
+summary: Test page that triggers a web app update check in the scenario where a manifest update occurs.

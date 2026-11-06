@@ -1,0 +1,4 @@
+# Docerion header of index2.html.
+type: test
+title: Non-installable page for navigation capture testing
+summary: Non-installable test page used to exercise navigation capturing, loading the launch params detector script and a 192px icon.

@@ -1,0 +1,4 @@
+# Docerion header of file_handler_action.html.
+type: test
+title: File handler launch action page
+summary: Test page that consumes launchQueue launch params to handle file launches in the file handler web app.

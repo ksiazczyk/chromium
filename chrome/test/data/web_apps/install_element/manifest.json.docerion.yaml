@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Install element test app manifest
+summary: Web app manifest defining the test app's id, icons, start URL and standalone display for install element tests.

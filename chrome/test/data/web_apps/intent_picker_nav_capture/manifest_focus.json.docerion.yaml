@@ -1,0 +1,4 @@
+# Docerion header of manifest_focus.json.
+type: test
+title: Web app manifest with focus-existing launch handler for nav capture test
+summary: Web app manifest variant that sets the launch handler client mode to focus-existing so launches focus the existing client during navigation capture testing.

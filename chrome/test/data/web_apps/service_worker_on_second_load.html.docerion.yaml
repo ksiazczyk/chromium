@@ -1,0 +1,4 @@
+# Docerion header of service_worker_on_second_load.html.
+type: test
+title: Service worker on second load page
+summary: Test page that registers the service worker only on a second load, tracked via localStorage.

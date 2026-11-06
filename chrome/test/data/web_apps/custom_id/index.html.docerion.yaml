@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Basic web app with a custom id and separate scope
+summary: Test page for a basic web app that uses a custom id and a scope separate from other test sites.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Simple web app manifest
+summary: Web app manifest for the simple test app, defining its name, icons, start_url, standalone display, and scope.

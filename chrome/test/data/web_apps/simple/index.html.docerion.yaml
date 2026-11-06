@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Basic web app test page with separate scope
+summary: Test web app page linking a manifest and icon, used to verify a basic web app whose scope is separate from other test sites.

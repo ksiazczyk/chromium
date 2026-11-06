@@ -1,0 +1,4 @@
+# Docerion header of page1.html.
+type: test
+title: Page1 in-scope page without manifest
+summary: Simple HTML page with no manifest, used as an in-scope page in web app tests.

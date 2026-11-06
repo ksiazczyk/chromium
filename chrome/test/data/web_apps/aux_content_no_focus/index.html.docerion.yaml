@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Aux Content Focus test page
+summary: Test web app page that records launch params received via the launch queue, used to test focus behavior with aux content.

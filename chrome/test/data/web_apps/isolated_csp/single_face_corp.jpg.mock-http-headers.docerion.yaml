@@ -1,0 +1,4 @@
+# Docerion header of single_face_corp.jpg.mock-http-headers.
+type: test
+title: Mock HTTP headers for single_face_corp.jpg
+summary: Supplies mock HTTP response headers with a cross-origin Cross-Origin-Resource-Policy for the single_face_corp.jpg resource in the isolated CSP web app tests.

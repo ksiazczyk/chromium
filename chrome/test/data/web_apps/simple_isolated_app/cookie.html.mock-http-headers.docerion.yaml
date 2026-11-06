@@ -1,0 +1,4 @@
+# Docerion header of cookie.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for cookie.html
+summary: Mock HTTP response headers for cookie.html that set a cookie and COOP, COEP and CORP policies.

@@ -1,0 +1,4 @@
+# Docerion header of service_worker_on_second_load.json.
+type: test
+title: Service worker on second load manifest
+summary: Web app manifest for the service worker on second load test page.

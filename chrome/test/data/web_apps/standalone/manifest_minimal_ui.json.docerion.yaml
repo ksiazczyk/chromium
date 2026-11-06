@@ -1,0 +1,4 @@
+# Docerion header of manifest_minimal_ui.json.
+type: test
+title: Minimal-UI web app manifest for Site A
+summary: Web app manifest variant identical to basic.json but with minimal-ui display mode for integration tests.

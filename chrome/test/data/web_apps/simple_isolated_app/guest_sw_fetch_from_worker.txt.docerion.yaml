@@ -1,0 +1,4 @@
+# Docerion header of guest_sw_fetch_from_worker.txt.
+type: test
+title: Guest service worker fetch target
+summary: Text resource that the guest service worker fetches to verify that fetching from a worker succeeds.

@@ -1,0 +1,4 @@
+# Docerion header of download_baseline.txt.
+type: test
+title: Controlled Frame download baseline
+summary: Baseline file used in the Controlled Frame download permission test.

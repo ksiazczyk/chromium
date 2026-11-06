@@ -1,0 +1,4 @@
+# Docerion header of suggest_new_manifest.html.
+type: test
+title: Migrate From new manifest test page
+summary: Test page for the 'migrate from' web app that links to an updated manifest suggesting migration.

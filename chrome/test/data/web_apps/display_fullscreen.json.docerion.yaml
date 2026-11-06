@@ -1,0 +1,4 @@
+# Docerion header of display_fullscreen.json.
+type: test
+title: Fullscreen web app manifest
+summary: Web app manifest that sets the display mode to fullscreen with icons and a start URL.

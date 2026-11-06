@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app test utilities
+// summary: JavaScript helpers for web app tests that add a manifest link tag, register service workers and react to window controls overlay geometry changes.
+// ---
+
 function addManifestLinkTag(optionalCustomUrl) {
   const url = new URL(window.location.href);
   let manifestUrl = url.searchParams.get('manifest');

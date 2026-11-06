@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Source to foo.example.com test page
+summary: Test HTML page for a web app that migrates to foo.example.com, linking its manifest.

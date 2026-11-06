@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Standalone web app manifest for Site A
+summary: Web app manifest with standalone display mode, icons and start URL used by the dPWA integration test page.

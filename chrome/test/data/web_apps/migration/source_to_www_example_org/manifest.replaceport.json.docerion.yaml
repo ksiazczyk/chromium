@@ -1,0 +1,4 @@
+# Docerion header of manifest.replaceport.json.
+type: test
+title: Migration source web app manifest
+summary: Web app manifest for the migration test, declaring the app identity, icon, and a migrate_to target with a port placeholder.

@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_with_b_launched_in_setup_AppAStandaloneAppBBrowser_CaptureOff.json.
+type: test
+title: Navigation capture expectations, AppAStandaloneAppBBrowser, CaptureOff
+summary: Expected states for navigation capture tests where app A is standalone and app B runs in a browser window launched in setup, with link capture off.

@@ -1,0 +1,4 @@
+# Docerion header of basic_new_name.json.
+type: test
+title: Basic web app manifest with new name
+summary: Manifest variant that renames the basic web app to Basic web app 2 while keeping the same icons and start URL.

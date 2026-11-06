@@ -1,0 +1,4 @@
+# Docerion header of identical_scope_sub_app_index.html.
+type: test
+title: Sub App Identical Scope Test Page
+summary: HTML test page for a sub app with an identical scope, linking to its web app manifest and icon for Chromium sub apps testing.

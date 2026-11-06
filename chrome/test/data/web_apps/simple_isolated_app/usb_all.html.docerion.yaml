@@ -1,0 +1,4 @@
+# Docerion header of usb_all.html.
+type: test
+title: USB allowed on all origins page
+summary: Minimal test page served with a Permissions-Policy header that allows USB access on all origins.

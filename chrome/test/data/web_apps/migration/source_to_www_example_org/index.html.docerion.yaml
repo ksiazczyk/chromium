@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Source app page for migration test
+summary: Test page for a Chrome web app migration scenario, linking the manifest that migrates the app to a replacement origin.

@@ -1,0 +1,4 @@
+# Docerion header of theme_color_only.json.
+type: test
+title: Theme color only manifest
+summary: Minimal web app manifest containing only a theme color value, used for theme color tests.

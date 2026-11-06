@@ -1,0 +1,4 @@
+# Docerion header of guest_sw_test.html.
+type: test
+title: Guest service worker test page
+summary: Test page that registers the guest service worker, sends it a FETCH message and waits for the FETCH_DONE reply.

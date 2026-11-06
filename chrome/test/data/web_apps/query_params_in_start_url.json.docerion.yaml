@@ -1,0 +1,4 @@
+# Docerion header of query_params_in_start_url.json.
+type: test
+title: Query params in start URL manifest
+summary: Web app manifest with query parameters in its start_url for testing start URL handling.

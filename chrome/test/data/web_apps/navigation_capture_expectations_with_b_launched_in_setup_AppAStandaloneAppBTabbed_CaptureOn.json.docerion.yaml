@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_with_b_launched_in_setup_AppAStandaloneAppBTabbed_CaptureOn.json.
+type: test
+title: Navigation capture expectations, AppAStandaloneAppBTabbed, CaptureOn
+summary: Expected states for navigation capture tests with app A standalone and app B tabbed, capture on, covering focus and navigation scenarios across scopes.

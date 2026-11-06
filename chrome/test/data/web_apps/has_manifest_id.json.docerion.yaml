@@ -1,0 +1,4 @@
+# Docerion header of has_manifest_id.json.
+type: test
+title: Web app manifest with id
+summary: Test manifest for a standalone web app that defines a unique manifest id for identity testing.

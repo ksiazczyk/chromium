@@ -1,0 +1,4 @@
+# Docerion header of manifest_update_trigger_no_update.json.
+type: test
+title: Migrate To update trigger without update manifest
+summary: Web app manifest for the update-trigger scenario where no manifest update is installed.

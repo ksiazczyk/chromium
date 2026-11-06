@@ -1,0 +1,4 @@
+# Docerion header of app.json.
+type: test
+title: Scoped install test app manifest
+summary: Web app manifest defining a test app whose scope is limited to the in_scope directory, used for scoped install testing.

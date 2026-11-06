@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registration script
+// summary: Registers /service_worker.js at root scope through a Trusted Types policy, matching the scope in the isolated app manifest.
+// ---
+
 (async function() {
   const policy = trustedTypes.createPolicy('default', {
     createScriptURL: url => url,

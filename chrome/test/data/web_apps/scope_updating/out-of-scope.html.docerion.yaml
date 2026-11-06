@@ -1,0 +1,4 @@
+# Docerion header of out-of-scope.html.
+type: test
+title: Out-of-scope test page for scope updating app
+summary: Test page that lies outside the narrow scope and is only reachable once the app scope is widened.

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Target App test page
+summary: Minimal HTML page for the Target App web app migration test, linking to the manifest.replaceport.json manifest.

@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Parent web app test page
+summary: Minimal HTML page for the parent web app that links its manifest and icon, used as test data for web app nesting.

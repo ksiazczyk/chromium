@@ -1,0 +1,4 @@
+# Docerion header of basic.json.
+type: test
+title: Basic web app manifest
+summary: Web app manifest for the basic web app with 48 and 192 pixel icons, standalone display and a start URL.

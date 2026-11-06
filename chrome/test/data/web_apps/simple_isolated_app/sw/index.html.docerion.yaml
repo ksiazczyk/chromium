@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: SW Scope HTML File
+summary: Test page for a simple isolated web app that should be controlled by a service worker.

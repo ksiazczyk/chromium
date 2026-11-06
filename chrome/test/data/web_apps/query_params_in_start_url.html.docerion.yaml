@@ -1,0 +1,4 @@
+# Docerion header of query_params_in_start_url.html.
+type: test
+title: Query params in start URL page
+summary: Test page linking a manifest whose start_url has query parameters and registering a service worker.

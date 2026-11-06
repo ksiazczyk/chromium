@@ -1,0 +1,4 @@
+# Docerion header of no_manifest_id.json.
+type: test
+title: Web app manifest with no manifest id
+summary: Web app manifest fixture lacking an id field, used to test manifest processing without an app id.

@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_wildcard_home_scope.json.
+type: test
+title: Tab strip wildcard home scope manifest
+summary: Web app manifest with the tabbed display override using a wildcard home tab scope pattern over the web_apps directory.

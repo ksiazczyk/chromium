@@ -1,0 +1,4 @@
+# Docerion header of different_start_url.html.
+type: test
+title: Different start URL test page
+summary: Test page whose manifest start URL points to basic.html instead of the page itself.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Unframed isolated web app test styles
+summary: Stylesheet fixture that colors the page by display mode and defines app-region drag and no-drag areas for the test app.
+*/
+
 body {
   background: blue;
 }

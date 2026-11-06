@@ -1,0 +1,4 @@
+# Docerion header of sandboxed.html.
+type: test
+title: Sandboxed in-scope test page
+summary: In-scope test page served with a sandbox CSP that commits an opaque origin and records launch params to verify it is never targeted by focus-existing launches.

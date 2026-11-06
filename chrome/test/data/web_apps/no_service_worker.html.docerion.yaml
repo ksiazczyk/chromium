@@ -1,0 +1,4 @@
+# Docerion header of no_service_worker.html.
+type: test
+title: Web app page with no service worker
+summary: Test page linking a manifest for a web app that has no service worker.

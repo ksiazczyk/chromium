@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Intent Picker Navigation Capture test page
+summary: Test page that loads a manifest chosen via URL parameter and records launch params received through the launch queue for intent picker navigation capture testing.

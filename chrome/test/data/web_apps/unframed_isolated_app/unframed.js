@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unframed display mode test script
+// summary: Script fixture that sets the document title on load and when the unframed display-mode media query changes, letting browser tests verify the mode.
+// ---
+
 'use strict';
 
 // This string must match with

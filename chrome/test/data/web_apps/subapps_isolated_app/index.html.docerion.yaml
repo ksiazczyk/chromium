@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Sub Apps Isolated Web App Test Page
+summary: Entry HTML page of the sub apps isolated web app test app, linking to the web app manifest at the root scope.

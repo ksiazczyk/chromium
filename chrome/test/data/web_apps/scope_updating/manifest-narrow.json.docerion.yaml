@@ -1,0 +1,4 @@
+# Docerion header of manifest-narrow.json.
+type: test
+title: Narrow scope manifest for scope updating test app
+summary: Web app manifest defining a narrow scope limited to /web_apps/scope_updating/page, used as test data for scope updating behavior.

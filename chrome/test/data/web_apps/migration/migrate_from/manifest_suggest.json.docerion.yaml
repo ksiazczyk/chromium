@@ -1,0 +1,4 @@
+# Docerion header of manifest_suggest.json.
+type: test
+title: Suggested migration web app manifest
+summary: Web app manifest that suggests migration to a target app via its migrate_to field.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Sub2 web app manifest
+summary: Web app manifest for the sub2 test app, defining its name, 512x512 icon, start URL and standalone display.

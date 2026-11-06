@@ -1,0 +1,4 @@
+# Docerion header of index2.html.
+type: test
+title: index2.html
+summary: Non-installable test page used to verify simple navigation capturing in web app launch handler tests.

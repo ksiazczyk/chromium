@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest service worker script
+// summary: Guest service worker that skips waiting, claims clients and performs a fetch from a worker when it receives a FETCH message.
+// ---
+
 importScripts('guest_sw_fetch_worker.js');
 
 self.addEventListener('install', e => {

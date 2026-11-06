@@ -1,0 +1,4 @@
+# Docerion header of page_without_app_title.html.
+type: test
+title: Page without app title meta tag
+summary: Test page with only a document title and no application-title meta tag.

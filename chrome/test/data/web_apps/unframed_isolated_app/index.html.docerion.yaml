@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: test
+title: Isolated Web App test page
+summary: HTML fixture for unframed isolated web app browser tests, providing draggable and non-draggable regions plus a target element.

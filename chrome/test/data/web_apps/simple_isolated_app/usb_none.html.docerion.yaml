@@ -1,0 +1,4 @@
+# Docerion header of usb_none.html.
+type: test
+title: USB blocked on all origins page
+summary: Minimal test page served with a Permissions-Policy header that blocks USB access on all origins.

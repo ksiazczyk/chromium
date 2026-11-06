@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Sub App 2 test page
+summary: HTML start page of the sub2 test web app that links the manifest and icon and shows a Sub App 2 heading.

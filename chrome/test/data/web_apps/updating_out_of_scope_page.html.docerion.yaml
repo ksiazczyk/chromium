@@ -1,0 +1,4 @@
+# Docerion header of updating_out_of_scope_page.html.
+type: test
+title: Out-of-scope page linking to updating web app manifest
+summary: Test fixture HTML page outside the web app's scope that links to a manifest with an alternative start_url to test updating or installation from such a page.

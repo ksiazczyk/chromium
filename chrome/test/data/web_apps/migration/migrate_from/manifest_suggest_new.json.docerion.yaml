@@ -1,0 +1,4 @@
+# Docerion header of manifest_suggest_new.json.
+type: test
+title: Suggested migration manifest with updated name
+summary: Web app manifest with an updated app name that suggests migration to a target app.

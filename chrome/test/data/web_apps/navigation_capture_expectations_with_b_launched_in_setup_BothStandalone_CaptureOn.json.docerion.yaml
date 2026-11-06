@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_with_b_launched_in_setup_BothStandalone_CaptureOn.json.
+type: test
+title: Navigation capture expectations with B launched in setup (BothStandalone)
+summary: Expected browser and app window states for link capturing tests where app B is launched during setup with both apps standalone and capture on.

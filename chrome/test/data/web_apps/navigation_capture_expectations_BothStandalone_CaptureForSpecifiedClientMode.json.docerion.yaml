@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_BothStandalone_CaptureForSpecifiedClientMode.json.
+type: test
+title: Navigation capture expectations, BothStandalone, CaptureForSpecifiedClientMode
+summary: Expected browser and tab states for web app navigation capturing tests with both apps installed standalone in CaptureForSpecifiedClientMode, including many disabled cases.

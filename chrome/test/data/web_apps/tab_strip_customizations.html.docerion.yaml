@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_customizations.html.
+type: test
+title: Tab strip customizations test page
+summary: HTML test page for a web app with tab strip customizations that links a manifest, registers a service worker and includes an iframe and a target=_blank test link.

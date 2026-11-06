@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Nested app web app manifest
+summary: Web app manifest for the nested test app declaring its name, 192px icon, start URL and minimal-ui display.

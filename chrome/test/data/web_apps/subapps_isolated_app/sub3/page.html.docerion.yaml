@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: Sub App 3 test page
+summary: HTML fixture page for the sub3 test app that links to its web app manifest and icon for sub-app isolation tests.

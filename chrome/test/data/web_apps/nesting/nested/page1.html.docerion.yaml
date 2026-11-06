@@ -1,0 +1,4 @@
+# Docerion header of page1.html.
+type: test
+title: In-scope page without manifest
+summary: Test page with no manifest that serves as an in-scope page of the nested web app.

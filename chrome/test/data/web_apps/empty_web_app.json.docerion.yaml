@@ -1,0 +1,4 @@
+# Docerion header of empty_web_app.json.
+type: test
+title: Empty web app test fixture
+summary: JSON fixture of a web app database entry with empty and default field values, used to test serialization of a minimal web app.

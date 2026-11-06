@@ -1,0 +1,4 @@
+# Docerion header of title_appname_prefix.html.
+type: test
+title: Title app name prefix test page
+summary: Simple HTML page titled 'A Web App - funny cat video' used to test prefixing of page titles with the app name.

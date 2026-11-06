@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker for isolated app test scenarios
+// summary: Service worker that serves cached HTML responses and a controllable stream to give tests deterministic fetch interception handshakes.
+// ---
+
 self.addEventListener('install', e => {
   self.skipWaiting();
 });

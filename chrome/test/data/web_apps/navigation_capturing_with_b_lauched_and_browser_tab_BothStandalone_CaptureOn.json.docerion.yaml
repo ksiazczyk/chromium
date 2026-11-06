@@ -1,0 +1,4 @@
+# Docerion header of navigation_capturing_with_b_lauched_and_browser_tab_BothStandalone_CaptureOn.json.
+type: test
+title: Navigation capturing expectations with B launched and a browser tab
+summary: Expected browser and app window states for navigation capturing tests where app B is already launched and a browser tab exists.

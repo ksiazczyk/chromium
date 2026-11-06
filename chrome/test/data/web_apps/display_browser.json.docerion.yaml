@@ -1,0 +1,4 @@
+# Docerion header of display_browser.json.
+type: test
+title: Display browser web app manifest
+summary: Web app manifest that sets the display mode to browser.

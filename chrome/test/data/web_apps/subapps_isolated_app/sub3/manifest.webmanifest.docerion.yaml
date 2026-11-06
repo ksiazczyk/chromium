@@ -1,0 +1,4 @@
+# Docerion header of manifest.webmanifest.
+type: test
+title: Sub3 web app manifest
+summary: Web app manifest fixture defining the sub3 test app with an icon, start URL and standalone display for sub-app isolation tests.

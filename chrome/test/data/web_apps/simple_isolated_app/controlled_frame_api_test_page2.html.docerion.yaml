@@ -1,0 +1,4 @@
+# Docerion header of controlled_frame_api_test_page2.html.
+type: test
+title: Controlled Frame navigation test page 2
+summary: Simple page used as a second navigation target in Controlled Frame API tests.

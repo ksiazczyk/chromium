@@ -1,0 +1,4 @@
+# Docerion header of navigation_capture_expectations_AppAStandaloneAppBBrowser_CaptureOn.json.
+type: test
+title: Navigation capture expectations with capture on
+summary: Expected browser and app states for navigation capturing tests with link capturing enabled for a standalone app and a normal browser window.

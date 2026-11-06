@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Web app manifest for intent picker navigation capture test
+summary: Web app manifest for a simple standalone test app with 48 and 192 pixel icons, used as the default manifest in the intent picker navigation capture test.

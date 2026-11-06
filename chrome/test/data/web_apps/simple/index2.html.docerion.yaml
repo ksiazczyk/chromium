@@ -1,0 +1,4 @@
+# Docerion header of index2.html.
+type: test
+title: Non-installable test page for navigation capturing
+summary: Test page without a manifest link, used to verify navigation capturing in a simple non-installable site.
