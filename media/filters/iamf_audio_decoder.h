@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IAMF audio decoder class declaration
+// summary: Declares IamfAudioDecoder, an AudioDecoder that uses the iamf_tools library to decode IAMF audio streams, optionally decoding for a specific target hardware channel layout.
+// ---
+
 #ifndef MEDIA_FILTERS_IAMF_AUDIO_DECODER_H_
 #define MEDIA_FILTERS_IAMF_AUDIO_DECODER_H_
 

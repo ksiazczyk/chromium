@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pipeline controller unit tests
+// summary: Unit tests for PipelineController covering start, seek, suspend, resume, and callback behavior using a mocked pipeline and gtest/gmock.
+// ---
+
 #include "media/filters/pipeline_controller.h"
 
 #include <memory>

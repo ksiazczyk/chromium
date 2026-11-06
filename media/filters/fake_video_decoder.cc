@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeVideoDecoder implementation
+// summary: Implements FakeVideoDecoder, a configurable test double video decoder with controllable decoding delay, parallel request limits, and failure behavior.
+// ---
+
 #include "media/filters/fake_video_decoder.h"
 
 #include <variant>

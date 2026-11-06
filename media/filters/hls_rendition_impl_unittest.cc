@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HLS rendition implementation unit tests
+// summary: Unit tests for HlsRenditionImpl that exercise live and VOD playback using embedded HLS playlists and mock network access.
+// ---
+
 #include "media/filters/hls_rendition_impl.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderStream class declaration
+// summary: Declares the DecoderStream template that wraps a DemuxerStream and decoders to provide decoded output to clients such as audio and video renderers.
+// ---
+
 #ifndef MEDIA_FILTERS_DECODER_STREAM_H_
 #define MEDIA_FILTERS_DECODER_STREAM_H_
 

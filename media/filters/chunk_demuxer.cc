@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunkDemuxer implementation
+// summary: Implements the chunk-based demuxer for Media Source Extensions, managing stream parsers, appended buffers, seeks, buffered ranges and stream shutdown.
+// ---
+
 #include "media/filters/chunk_demuxer.h"
 
 #include <algorithm>

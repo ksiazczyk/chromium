@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HLS network access implementation unit tests
+// summary: Unit tests for HlsNetworkAccessImpl that verify manifest and media segment reads, byte ranges, and encryption handling using mock data sources.
+// ---
+
 #include "media/filters/hls_network_access_impl.h"
 
 #include "base/compiler_specific.h"

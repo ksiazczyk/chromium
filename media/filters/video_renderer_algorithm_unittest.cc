@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video renderer algorithm unit tests
+// summary: Unit tests for VideoRendererAlgorithm that exercise frame cadence detection, glitch handling, and render behavior using generated tick sequences and test video frames.
+// ---
+
 
 #include "media/filters/video_renderer_algorithm.h"
 

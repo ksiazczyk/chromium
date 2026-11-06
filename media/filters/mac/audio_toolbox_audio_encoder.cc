@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioToolbox audio encoder implementation
+// summary: Implements AudioToolboxAudioEncoder, using macOS AudioToolbox to encode raw audio to AAC-LC with codec description generation.
+// ---
+
 #include "media/filters/mac/audio_toolbox_audio_encoder.h"
 
 #include "base/apple/osstatus_logging.h"

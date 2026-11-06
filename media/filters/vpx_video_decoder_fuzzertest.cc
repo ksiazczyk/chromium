@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VpxVideoDecoder fuzzer test
+// summary: LibFuzzer entry point that seeds a random generator from input data to build decoder configurations and buffers, exercising VpxVideoDecoder initialization and decoding.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockingUrlProtocol header
+// summary: Declares BlockingUrlProtocol, an FFmpegURLProtocol implementation that blocks until asynchronous DataSource reads complete and supports abort.
+// ---
+
 #ifndef MEDIA_FILTERS_BLOCKING_URL_PROTOCOL_H_
 #define MEDIA_FILTERS_BLOCKING_URL_PROTOCOL_H_
 

@@ -7,6 +7,12 @@
 // stream format.
 // See H.264 spec Annex B and chapter 7 for more details.
 
+// ---docerion
+// type: source
+// title: H26x Annex B bitstream builder header
+// summary: Declares H26xAnnexBBitstreamBuilder, a class for building raw NAL unit bitstream buffers in H.264 Annex B format, used by VA-API and D3D12 encoders.
+// ---
+
 #ifndef MEDIA_FILTERS_H26X_ANNEX_B_BITSTREAM_BUILDER_H_
 #define MEDIA_FILTERS_H26X_ANNEX_B_BITSTREAM_BUILDER_H_
 

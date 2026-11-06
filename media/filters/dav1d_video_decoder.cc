@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dav1d AV1 video decoder implementation
+// summary: Implements a software AV1 video decoder backed by the dav1d library, mapping pixel formats, tuning thread counts and managing frame buffer pools.
+// ---
+
 #include "media/filters/dav1d_video_decoder.h"
 
 #include <memory>

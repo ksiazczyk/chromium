@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChunkDemuxer unit tests
+// summary: Extensive unit tests for ChunkDemuxer covering WebM cluster appends, seeks, durations, text tracks, encrypted init data and stream state transitions.
+// ---
+
 #include "media/filters/chunk_demuxer.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pipeline controller
+// summary: Declares PipelineController, a wrapper around Pipeline exposing one-at-a-time seek, suspend, and resume operations with tracking and eliding of pending requests.
+// ---
+
 #ifndef MEDIA_FILTERS_PIPELINE_CONTROLLER_H_
 #define MEDIA_FILTERS_PIPELINE_CONTROLLER_H_
 

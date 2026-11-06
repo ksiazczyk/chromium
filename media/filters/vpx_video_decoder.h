@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpxVideoDecoder class declaration
+// summary: Declares the libvpx video decoder wrapper class, which handles VP8 alpha content and VP9 streams as an offloadable VideoDecoder implementation.
+// ---
+
 #ifndef MEDIA_FILTERS_VPX_VIDEO_DECODER_H_
 #define MEDIA_FILTERS_VPX_VIDEO_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS data source provider implementation
+// summary: Implements HlsDataSourceProviderImpl, which creates data sources via a factory, reads URL segments, and manages aborts and stream lifecycle for HLS playback.
+// ---
+
 #include "media/filters/hls_data_source_provider_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 to Annex B bitstream converter header
+// summary: Declares the H265ToAnnexBBitstreamConverter class that converts H.265 bitstreams from MP4 format into Annex B bytestream format per ISO/IEC 14496-15 and Annex B.
+// ---
+
 #ifndef MEDIA_FILTERS_H265_TO_ANNEX_B_BITSTREAM_CONVERTER_H_
 #define MEDIA_FILTERS_H265_TO_ANNEX_B_BITSTREAM_CONVERTER_H_
 

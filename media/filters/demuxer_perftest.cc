@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demuxer performance test
+// summary: Performance test that benchmarks FFmpeg demuxer reading across streams, simulating playback read patterns over many iterations.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <memory>

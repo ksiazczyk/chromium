@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FFmpeg H.264 to Annex B converter unit tests
+// summary: Unit tests for the FFmpeg H.264 to Annex B bitstream converter using encoded header and packet data arrays.
+// ---
+
 #include "media/filters/ffmpeg_h264_to_annex_b_bitstream_converter.h"
 
 #include <stdint.h>

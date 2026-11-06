@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS manifest demuxer engine implementation
+// summary: Implements the HLS manifest demuxer engine that fetches and parses playlists, checks codec support, and appends media segments.
+// ---
+
 #include "media/filters/hls_manifest_demuxer_engine.h"
 
 #include <optional>

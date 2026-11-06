@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video cadence estimator implementation
+// summary: Implements the video cadence estimator that computes repeating frame patterns for smooth playback of non-integer frame rate to refresh rate ratios.
+// ---
+
 #include "media/filters/video_cadence_estimator.h"
 
 #include <algorithm>

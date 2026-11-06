@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HLS test helper declarations
+// summary: Declares mock classes and helper factories used to stub data sources, demuxer engine hosts, and renditions in HLS tests.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_TEST_HELPERS_H_
 #define MEDIA_FILTERS_HLS_TEST_HELPERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS demuxer status codes
+// summary: Defines HlsDemuxerStatus error codes and readable names for HLS demuxer failures such as manifest, crypto, and network errors.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_DEMUXER_STATUS_H_
 #define MEDIA_FILTERS_HLS_DEMUXER_STATUS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation audio decoder class header
+// summary: Declares the MediaFoundationAudioDecoder class, an AudioDecoder that uses the Windows Media Foundation API to decode codecs not supported natively by Chromium.
+// ---
+
 #ifndef MEDIA_FILTERS_WIN_MEDIA_FOUNDATION_AUDIO_DECODER_H_
 #define MEDIA_FILTERS_WIN_MEDIA_FOUNDATION_AUDIO_DECODER_H_
 

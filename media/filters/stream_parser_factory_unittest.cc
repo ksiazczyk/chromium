@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StreamParserFactory unit tests
+// summary: Tests that StreamParserFactory creates relaxed parsers for MP2T, AAC and feature-gated MP4 MIME types.
+// ---
+
 #include "media/filters/stream_parser_factory.h"
 
 #include "base/test/scoped_feature_list.h"

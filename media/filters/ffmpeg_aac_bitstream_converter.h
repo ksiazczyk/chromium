@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg AAC bitstream converter header
+// summary: Declares FFmpegAACBitstreamConverter, a bitstream converter that adds ADTS headers to AAC frames.
+// ---
+
 #ifndef MEDIA_FILTERS_FFMPEG_AAC_BITSTREAM_CONVERTER_H_
 #define MEDIA_FILTERS_FFMPEG_AAC_BITSTREAM_CONVERTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChunkDemuxer header
+// summary: Declares ChunkDemuxer and ChunkDemuxerStream, including append, coded frame removal and eviction, buffered range and memory usage APIs.
+// ---
+
 #ifndef MEDIA_FILTERS_CHUNK_DEMUXER_H_
 #define MEDIA_FILTERS_CHUNK_DEMUXER_H_
 

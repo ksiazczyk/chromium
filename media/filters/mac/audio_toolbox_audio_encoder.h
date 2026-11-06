@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioToolbox audio encoder header
+// summary: Declares the AudioToolboxAudioEncoder class, a macOS AudioToolbox-based AudioEncoder for codecs not supported natively by Chromium.
+// ---
+
 #ifndef MEDIA_FILTERS_MAC_AUDIO_TOOLBOX_AUDIO_ENCODER_H_
 #define MEDIA_FILTERS_MAC_AUDIO_TOOLBOX_AUDIO_ENCODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg H.264 to Annex B bitstream converter header
+// summary: Declares FFmpegH264ToAnnexBBitstreamConverter, which converts H.264 FFmpeg packets to Annex B bytestream format using stream codec parameters.
+// ---
+
 #ifndef MEDIA_FILTERS_FFMPEG_H264_TO_ANNEX_B_BITSTREAM_CONVERTER_H_
 #define MEDIA_FILTERS_FFMPEG_H264_TO_ANNEX_B_BITSTREAM_CONVERTER_H_
 

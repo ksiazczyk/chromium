@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg audio decoder implementation
+// summary: Implements audio decoding via FFmpeg with synchronous and asynchronous execution modes and custom buffer allocation.
+// ---
+
 #include "media/filters/ffmpeg_audio_decoder.h"
 
 #include <stdint.h>

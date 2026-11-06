@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg bitstream converter interface
+// summary: Defines the FFmpegBitstreamConverter interface for classes that reformat FFmpeg packets in place.
+// ---
+
 #ifndef MEDIA_FILTERS_FFMPEG_BITSTREAM_CONVERTER_H_
 #define MEDIA_FILTERS_FFMPEG_BITSTREAM_CONVERTER_H_
 

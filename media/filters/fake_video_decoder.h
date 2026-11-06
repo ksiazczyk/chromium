@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeVideoDecoder test double header
+// summary: Declares a fake VideoDecoder with configurable decoding delay, callback holding, and error simulation for use in tests.
+// ---
+
 #ifndef MEDIA_FILTERS_FAKE_VIDEO_DECODER_H_
 #define MEDIA_FILTERS_FAKE_VIDEO_DECODER_H_
 

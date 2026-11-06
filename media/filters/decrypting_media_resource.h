@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptingMediaResource header
+// summary: Declares DecryptingMediaResource, a MediaResource wrapper that decrypts streams via DecryptingDemuxerStreams for decrypt-only CDM contexts.
+// ---
+
 #ifndef MEDIA_FILTERS_DECRYPTING_MEDIA_RESOURCE_H_
 #define MEDIA_FILTERS_DECRYPTING_MEDIA_RESOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioVideoMetadataExtractor unit tests
+// summary: Unit tests that run AudioVideoMetadataExtractor over test media files and check extracted durations, tags, stream info and attached images.
+// ---
+
 #include "media/filters/audio_video_metadata_extractor.h"
 
 #include <memory>

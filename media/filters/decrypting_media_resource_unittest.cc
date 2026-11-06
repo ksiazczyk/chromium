@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecryptingMediaResource unit tests
+// summary: Unit tests for DecryptingMediaResource covering stream initialization and decryption using mock demuxer, decryptor, and CDM context objects.
+// ---
+
 #include "media/filters/decrypting_media_resource.h"
 
 #include <memory>

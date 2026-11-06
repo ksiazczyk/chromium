@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Source buffer state unit tests
+// summary: Unit tests for SourceBufferState covering initialization, track configuration, and append and parse behavior using mock stream parsers and frame processors.
+// ---
+
 #include "media/filters/source_buffer_state.h"
 
 #include <vector>

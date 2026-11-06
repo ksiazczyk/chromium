@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source buffer state
+// summary: Declares SourceBufferState, which holds per-source-id state for stream parsing, frame processing, and appending media data according to the MSE specification.
+// ---
+
 #ifndef MEDIA_FILTERS_SOURCE_BUFFER_STATE_H_
 #define MEDIA_FILTERS_SOURCE_BUFFER_STATE_H_
 

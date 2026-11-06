@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition implementation header
+// summary: Declares HlsRenditionImpl with helpers for segment fetching, buffer sizing, live manifest updates, and AES decryption support.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_RENDITION_IMPL_H_
 #define MEDIA_FILTERS_HLS_RENDITION_IMPL_H_
 

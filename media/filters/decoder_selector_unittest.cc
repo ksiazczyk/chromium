@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecoderSelector unit tests
+// summary: Parameterized unit tests for DecoderSelector covering audio and video decoder selection, decryptor capabilities, fallback and error cases.
+// ---
+
 #include <memory>
 #include <tuple>
 

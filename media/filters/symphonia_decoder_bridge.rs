@@ -46,6 +46,12 @@
 //! This bridge is built using the `cxx` crate, which automates the generation
 //! of safe FFI bindings between the two languages.
 
+// ---docerion
+// type: source
+// title: Symphonia decoder Rust FFI bridge
+// summary: Rust FFI bridge exposing the Symphonia audio decoding library to C++ via cxx bindings for initialization, packet decoding and sample copying.
+// ---
+
 use symphonia_core::audio::conv::ConvertibleSample;
 use symphonia_core::audio::sample::SampleBytes;
 use symphonia_core::audio::{Audio, Channels, GenericAudioBufferRef, Position};

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecryptingVideoDecoder unit tests
+// summary: Unit tests for DecryptingVideoDecoder covering initialization, reinitialization, decoding, and key events with mock CDM contexts and decryptors.
+// ---
+
 #include "media/filters/decrypting_video_decoder.h"
 
 #include <stdint.h>

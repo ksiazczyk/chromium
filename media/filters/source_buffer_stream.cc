@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SourceBufferStream implementation
+// summary: Implements a stream that stores media buffers in ranges for Media Source Extensions, handling appends, removals, garbage collection, seeking and logging.
+// ---
+
 #include "media/filters/source_buffer_stream.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioVideoMetadataExtractor header
+// summary: Declares AudioVideoMetadataExtractor, an interface for extracting metadata tags, stream info and attached images from audio and video files.
+// ---
+
 #ifndef MEDIA_FILTERS_AUDIO_VIDEO_METADATA_EXTRACTOR_H_
 #define MEDIA_FILTERS_AUDIO_VIDEO_METADATA_EXTRACTOR_H_
 

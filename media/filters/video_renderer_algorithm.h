@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video renderer algorithm header
+// summary: Declares VideoRendererAlgorithm, which manages a queue of video frames and chooses the best frame for each render interval to ensure smooth playback.
+// ---
+
 #ifndef MEDIA_FILTERS_VIDEO_RENDERER_ALGORITHM_H_
 #define MEDIA_FILTERS_VIDEO_RENDERER_ALGORITHM_H_
 

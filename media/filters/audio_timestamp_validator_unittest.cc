@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioTimestampValidator unit tests
+// summary: Parameterized unit tests verifying AudioTimestampValidator warns on erratic audio timestamps and reconciles codec delay and discard padding.
+// ---
+
 #include "media/filters/audio_timestamp_validator.h"
 
 #include <array>

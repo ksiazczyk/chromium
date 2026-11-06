@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS data source provider implementation header
+// summary: Declares HlsDataSourceProviderImpl, which reads HLS data from URLs and existing streams through cross-origin data sources.
+// ---
+
 #ifndef MEDIA_FILTERS_HLS_DATA_SOURCE_PROVIDER_IMPL_H_
 #define MEDIA_FILTERS_HLS_DATA_SOURCE_PROVIDER_IMPL_H_
 

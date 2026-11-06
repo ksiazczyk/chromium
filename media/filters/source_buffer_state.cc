@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source buffer state implementation
+// summary: Implements SourceBufferState, handling stream parser setup, media data appending and parsing, and computation of buffered ranges per the Media Source Extensions spec.
+// ---
+
 #include "media/filters/source_buffer_state.h"
 
 #include <algorithm>

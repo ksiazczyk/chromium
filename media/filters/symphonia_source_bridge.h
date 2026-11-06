@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Symphonia source bridge interface
+// summary: C++ header declaring a pure virtual interface that adapts Chromium media data sources to Symphonia's Rust MediaSource trait over the CXX FFI boundary.
+// ---
+
 #ifndef MEDIA_FILTERS_SYMPHONIA_SOURCE_BRIDGE_H_
 #define MEDIA_FILTERS_SYMPHONIA_SOURCE_BRIDGE_H_
 

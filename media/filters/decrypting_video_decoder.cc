@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptingVideoDecoder implementation
+// summary: Implements DecryptingVideoDecoder, a decryptor-based video decoder that decrypts and decodes encrypted video buffers and delivers video frames.
+// ---
+
 #include "media/filters/decrypting_video_decoder.h"
 
 #include "base/functional/bind.h"

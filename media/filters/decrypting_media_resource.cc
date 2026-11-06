@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptingMediaResource implementation
+// summary: Implements DecryptingMediaResource, which wraps a MediaResource and decrypts its streams through DecryptingDemuxerStreams so the pipeline receives clear streams.
+// ---
+
 #include "media/filters/decrypting_media_resource.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition implementation
+// summary: Implements HLS rendition playback, including buffer management, seeking, segment fetching and parsing, and live stream pause and resume.
+// ---
+
 
 #include "media/filters/hls_rendition_impl.h"
 

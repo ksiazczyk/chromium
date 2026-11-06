@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Symphonia decoder bridge unit tests
+// summary: Rust unit tests verifying sample format conversion, bit depth handling, and F32 clamping behavior in the Symphonia decoder bridge.
+// ---
+
 chromium::import! {
     "//media/filters:symphonia_decoder_bridge";
 }

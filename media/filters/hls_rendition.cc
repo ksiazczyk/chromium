@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition factory
+// summary: Creates HLS rendition instances and derives playlist duration, distinguishing live streams from VOD content.
+// ---
+
 #include "media/filters/hls_rendition.h"
 
 #include "media/filters/hls_rendition_impl.h"

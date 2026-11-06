@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H265 to Annex B bitstream converter unit tests
+// summary: Unit tests covering successful HEVC configuration parsing and NAL unit conversion, plus failure cases like header buffer overflow and zero-sized NAL units.
+// ---
+
 #include "media/filters/h265_to_annex_b_bitstream_converter.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioVideoMetadataExtractor implementation
+// summary: Implements AudioVideoMetadataExtractor, which uses FFmpeg to extract duration, dimensions, rotation, tags and attached images from media files.
+// ---
+
 #include "media/filters/audio_video_metadata_extractor.h"
 
 #include <algorithm>

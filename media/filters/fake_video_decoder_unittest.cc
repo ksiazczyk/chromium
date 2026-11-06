@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeVideoDecoder unit tests
+// summary: Parameterized unit tests for FakeVideoDecoder covering initialization, decode, reset, pending callbacks, and error paths.
+// ---
+
 #include "media/filters/fake_video_decoder.h"
 
 #include <memory>

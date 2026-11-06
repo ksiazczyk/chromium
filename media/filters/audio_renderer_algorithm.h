@@ -18,6 +18,12 @@
 //
 // Audio at very low or very high playback rates are muted to preserve quality.
 
+// ---docerion
+// type: source
+// title: AudioRendererAlgorithm header
+// summary: Declares AudioRendererAlgorithm, which buffers audio and uses WSOLA or resampling to stretch or compress audio for playback rates other than the natural rate.
+// ---
+
 #ifndef MEDIA_FILTERS_AUDIO_RENDERER_ALGORITHM_H_
 #define MEDIA_FILTERS_AUDIO_RENDERER_ALGORITHM_H_
 

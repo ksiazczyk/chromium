@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dav1dVideoDecoder unit tests
+// summary: Unit tests for the dav1d-based AV1 decoder covering initialization, single and multiple frame decoding, reset, reinitialization and error logging.
+// ---
+
 #include "media/filters/dav1d_video_decoder.h"
 
 #include <memory>

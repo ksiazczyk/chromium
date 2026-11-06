@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioTimestampValidator header
+// summary: Declares AudioTimestampValidator, which checks decoder buffer timestamps for gaps and records output durations to warn developers about AV sync drift.
+// ---
+
 #ifndef MEDIA_FILTERS_AUDIO_TIMESTAMP_VALIDATOR_H_
 #define MEDIA_FILTERS_AUDIO_TIMESTAMP_VALIDATOR_H_
 

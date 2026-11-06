@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough DTS audio decoder
+// summary: Declares PassthroughDTSAudioDecoder, which wraps DTS audio frames in IEC-61937 containers for decoding by a compatible HDMI sink instead of decoding them directly.
+// ---
+
 #ifndef MEDIA_FILTERS_PASSTHROUGH_DTS_AUDIO_DECODER_H_
 #define MEDIA_FILTERS_PASSTHROUGH_DTS_AUDIO_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecAudioDecoder class header
+// summary: Declares the MediaCodecAudioDecoder class that decodes audio through Android's MediaCodec API, including its state diagram and MediaCodecLoop client interface.
+// ---
+
 #ifndef MEDIA_FILTERS_ANDROID_MEDIA_CODEC_AUDIO_DECODER_H_
 #define MEDIA_FILTERS_ANDROID_MEDIA_CODEC_AUDIO_DECODER_H_
 

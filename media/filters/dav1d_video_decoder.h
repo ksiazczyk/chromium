@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dav1dVideoDecoder header
+// summary: Declares Dav1dVideoDecoder, an offloadable AV1 video decoder, plus OffloadingDav1dVideoDecoder for offloading AV1 decoding from the media thread.
+// ---
+
 #ifndef MEDIA_FILTERS_DAV1D_VIDEO_DECODER_H_
 #define MEDIA_FILTERS_DAV1D_VIDEO_DECODER_H_
 

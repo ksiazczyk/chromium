@@ -31,6 +31,12 @@
 //! 4. **Cleanup**: The `SymphoniaDemuxerBridge` handle is owned via `Box` on
 //!    the C++ side and cleans up all format reader state upon destruction.
 
+// ---docerion
+// type: source
+// title: Symphonia demuxer FFI bridge
+// summary: Rust FFI bridge exposing the Symphonia demuxing library to Chromium's C++ media stack for probing containers, reading packets, and seeking.
+// ---
+
 use std::collections::HashMap;
 use std::io::{self, Read, Seek, SeekFrom};
 use std::pin::Pin;

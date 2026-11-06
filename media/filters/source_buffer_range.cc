@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source buffer range implementation
+// summary: Implements SourceBufferRange, which manages a continuous range of buffered media data ordered by GOP and decode order, including appends, seeks, and deletions.
+// ---
+
 #include "media/filters/source_buffer_range.h"
 
 #include <algorithm>

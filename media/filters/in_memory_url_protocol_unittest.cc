@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory URL protocol unit tests
+// summary: Unit tests for InMemoryUrlProtocol covering reads from the buffer, zero-size reads, and position validation.
+// ---
+
 #include "media/filters/in_memory_url_protocol.h"
 
 #include <stdint.h>

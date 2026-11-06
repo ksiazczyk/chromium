@@ -8,6 +8,12 @@
 // correct rate.  We always pass in a very large destination buffer with the
 // expectation that FillBuffer() will fill as much as it can but no more.
 
+// ---docerion
+// type: test
+// title: AudioRendererAlgorithm unit tests
+// summary: Unit tests that enqueue known audio data and verify AudioRendererAlgorithm fills and consumes buffers correctly across playback rates and formats.
+// ---
+
 #include "media/filters/audio_renderer_algorithm.h"
 
 #include <stddef.h>

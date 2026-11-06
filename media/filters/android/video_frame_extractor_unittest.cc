@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoFrameExtractor unit tests
+// summary: Unit tests verifying key frame extraction for H264, HEVC, AV1, VP8, and VP9 test media, plus graceful failure on invalid video files.
+// ---
+
 #include "media/filters/android/video_frame_extractor.h"
 
 #include <memory>

@@ -4,6 +4,12 @@
 
 // A set of utility functions to perform WSOLA.
 
+// ---docerion
+// type: source
+// title: WSOLA internals declarations
+// summary: Declares utility functions for WSOLA, including multi-channel dot products, moving block energies, quadratic interpolation, search routines, and a periodic Hann window.
+// ---
+
 #ifndef MEDIA_FILTERS_WSOLA_INTERNALS_H_
 #define MEDIA_FILTERS_WSOLA_INTERNALS_H_
 

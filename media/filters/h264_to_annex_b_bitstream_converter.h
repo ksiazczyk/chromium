@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 to Annex B bitstream converter header
+// summary: Declares H264ToAnnexBBitstreamConverter, which converts H.264 bitstreams from MP4 format to Annex B bytestream per ISO/IEC 14496.
+// ---
+
 #ifndef MEDIA_FILTERS_H264_TO_ANNEX_B_BITSTREAM_CONVERTER_H_
 #define MEDIA_FILTERS_H264_TO_ANNEX_B_BITSTREAM_CONVERTER_H_
 

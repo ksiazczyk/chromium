@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg audio decoder header
+// summary: Declares FFmpegAudioDecoder, an AudioDecoder backed by FFmpeg, including its state machine and callback binding helpers.
+// ---
+
 #ifndef MEDIA_FILTERS_FFMPEG_AUDIO_DECODER_H_
 #define MEDIA_FILTERS_FFMPEG_AUDIO_DECODER_H_
 

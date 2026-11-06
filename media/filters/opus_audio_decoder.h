@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opus audio decoder header
+// summary: Declares OpusAudioDecoder, an AudioDecoder for Opus multistream decoding with synchronous or asynchronous execution modes.
+// ---
+
 #ifndef MEDIA_FILTERS_OPUS_AUDIO_DECODER_H_
 #define MEDIA_FILTERS_OPUS_AUDIO_DECODER_H_
 

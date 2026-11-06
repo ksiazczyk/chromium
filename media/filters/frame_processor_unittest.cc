@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame processor unit tests
+// summary: Extensive unit tests for FrameProcessor covering sequence and segments append modes, track ID changes, append windows, and duration increases.
+// ---
+
 #include "media/filters/frame_processor.h"
 
 #include <stddef.h>

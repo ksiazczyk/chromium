@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video decoder stream unit tests
+// summary: Parameterized GTest suite exercising VideoDecoderStream initialization, decoding, reset, and encrypted stream handling with mock decoders and demuxer streams.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

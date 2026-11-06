@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioFileReader class declaration
+// summary: Declares AudioFileReader for opening audio files, reading decoded PCM packets, and querying channels, sample rate, and duration.
+// ---
+
 #ifndef MEDIA_FILTERS_AUDIO_FILE_READER_H_
 #define MEDIA_FILTERS_AUDIO_FILE_READER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decrypting audio decoder unit tests
+// summary: Unit tests for DecryptingAudioDecoder using mock CDM context and decryptor to verify initialization, decoding, and key-added behavior.
+// ---
+
 #include "media/filters/decrypting_audio_decoder.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H265 to Annex B bitstream converter implementation
+// summary: Converts H.265 bitstreams from MP4 format into Annex B bytestream format, parsing HEVC decoder configuration records and rewriting NAL unit length fields.
+// ---
+
 #include "media/filters/h265_to_annex_b_bitstream_converter.h"
 
 #include <stddef.h>

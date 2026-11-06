@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the media filters module
+summary: GN build file defining the media filters source set and Rust Symphonia decoder and demuxer bridge targets with their sources and dependencies.

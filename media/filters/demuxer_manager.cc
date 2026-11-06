@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DemuxerManager implementation
+// summary: Implements DemuxerManager, which owns the Demuxer and DataSource together and handles demuxer selection, HLS fallback, and error handling.
+// ---
+
 #include "media/filters/demuxer_manager.h"
 
 #include <string_view>

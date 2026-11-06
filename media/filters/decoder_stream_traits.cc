@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio decoder stream traits implementation
+// summary: Implements the audio specialization of DecoderStreamTraits, covering decoder initialization, statistics reporting, and audio timestamp validation.
+// ---
+
 #include "media/filters/decoder_stream_traits.h"
 
 #include <limits>

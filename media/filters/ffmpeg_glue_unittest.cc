@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FFmpegGlue unit tests
+// summary: Unit tests for FFmpegGlue verifying AVIO read and seek operations, destruction ordering, and container name detection for supported media files.
+// ---
+
 #include "media/filters/ffmpeg_glue.h"
 
 #include <stdint.h>

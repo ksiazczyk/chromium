@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg video decoder header
+// summary: Declares FFmpegVideoDecoder, a media VideoDecoder that decodes video via FFmpeg, including buffer allocation, HDR metadata handling, and decoder state management.
+// ---
+
 #ifndef MEDIA_FILTERS_FFMPEG_VIDEO_DECODER_H_
 #define MEDIA_FILTERS_FFMPEG_VIDEO_DECODER_H_
 

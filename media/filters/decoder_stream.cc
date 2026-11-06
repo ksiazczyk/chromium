@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderStream implementation
+// summary: Implements the templated DecoderStream that wraps a demuxer stream and a list of decoders, selecting decoders and delivering decoded audio or video output to renderers.
+// ---
+
 #include "media/filters/decoder_stream.h"
 
 #include <utility>

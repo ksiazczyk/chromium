@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL protocol implementation
+// summary: Implements InMemoryUrlProtocol, an FFmpegURLProtocol that reads data from an in-memory buffer with position and size tracking.
+// ---
+
 #include "media/filters/in_memory_url_protocol.h"
 
 #include "media/ffmpeg/ffmpeg_common.h"

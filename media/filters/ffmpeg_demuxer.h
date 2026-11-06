@@ -19,6 +19,12 @@
 // and buffered packets.  Reads from a stopped FFmpegDemuxerStream will not be
 // replied to.
 
+// ---docerion
+// type: source
+// title: FFmpeg demuxer header
+// summary: Declares FFmpegDemuxer and FFmpegDemuxerStream for demuxing audio and video streams via FFmpeg libavformat.
+// ---
+
 #ifndef MEDIA_FILTERS_FFMPEG_DEMUXER_H_
 #define MEDIA_FILTERS_FFMPEG_DEMUXER_H_
 

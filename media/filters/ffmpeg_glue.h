@@ -18,6 +18,12 @@
 // The glue in turn processes those read and seek requests using the
 // FFmpegURLProtocol provided during construction.
 
+// ---docerion
+// type: source
+// title: FFmpegGlue interface
+// summary: Declares FFmpegGlue and FFmpegURLProtocol, the interface that routes FFmpeg's AVIO read and seek operations to Chrome's internal data structures.
+// ---
+
 #ifndef MEDIA_FILTERS_FFMPEG_GLUE_H_
 #define MEDIA_FILTERS_FFMPEG_GLUE_H_
 

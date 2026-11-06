@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory data source header
+// summary: Declares MemoryDataSource, a DataSource that reads media data from an in-memory buffer with thread-safe stop support.
+// ---
+
 #ifndef MEDIA_FILTERS_MEMORY_DATA_SOURCE_H_
 #define MEDIA_FILTERS_MEMORY_DATA_SOURCE_H_
 
