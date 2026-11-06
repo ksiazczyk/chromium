@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT context class declaration
+// summary: Declares ContextImplOrt, the WebNN context implementation responsible for creating ORT graphs and tensors for inference.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_CONTEXT_IMPL_ORT_H_
 #define SERVICES_WEBNN_ORT_CONTEXT_IMPL_ORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN and ONNX data type conversion declarations
+// summary: Declares helper functions converting data types, device types and shapes between WebNN and ONNX Runtime representations.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_ORT_DATA_TYPE_H_
 #define SERVICES_WEBNN_ORT_ORT_DATA_TYPE_H_
 

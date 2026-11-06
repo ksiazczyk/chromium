@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External weights manager header
+// summary: Declares ExternalWeightsManager, an OrtAllocator that stores external weight data and keeps it alive until ORT releases it via its Free callback.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_EXTERNAL_WEIGHTS_MANAGER_H_
 #define SERVICES_WEBNN_ORT_EXTERNAL_WEIGHTS_MANAGER_H_
 

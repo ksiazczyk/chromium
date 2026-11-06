@@ -1,0 +1,4 @@
+# Docerion header of buffer_content_coreml.mm.
+type: source
+title: BufferContent implementation for CoreML tensor data
+summary: Implements BufferContent by delegating MLMultiArray reads and writes to CoreML utilities and exposing the array as an MLFeatureValue.

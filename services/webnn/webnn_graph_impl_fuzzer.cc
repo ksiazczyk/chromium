@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN graph fuzz tests
+// summary: Fuzz tests that build and compute WebNN graphs with randomized inputs across CPU, GPU, and NPU device types to uncover validation crashes.
+// ---
+
 #include <array>
 #include <cmath>
 #include <cstdint>

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: WebNN issue tracker metadata
+summary: Maps the WebNN directory to the Blink>WebML monorail component and a Buganizer component for issue tracking.

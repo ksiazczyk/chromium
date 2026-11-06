@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN compiler service implementation
+// summary: Implements the WebNN compiler service that creates ORT and CoreML compiler contexts in the compiler utility process and shuts the process down after an idle timeout.
+// ---
+
 #include "services/webnn/webnn_compiler_service_impl.h"
 
 #include "base/command_line.h"

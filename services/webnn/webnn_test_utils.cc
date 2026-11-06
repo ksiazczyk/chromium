@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN test utilities implementation
+// summary: Implements GraphInfoBuilder and helpers that construct WebNN graph operands, constants and operations for use in unit tests.
+// ---
+
 #include "services/webnn/webnn_test_utils.h"
 
 #include <limits.h>

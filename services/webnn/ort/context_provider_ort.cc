@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT context provider feature check
+// summary: Defines ShouldTryCreateOrtContext, which gates ORT context creation on the WebNN OnnxRuntime feature flag.
+// ---
+
 #include "services/webnn/ort/context_provider_ort.h"
 
 #include "base/feature_list.h"

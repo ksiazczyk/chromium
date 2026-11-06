@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT status error message helper
+// summary: Formats ONNX Runtime status error codes and messages into a string for WebNN logging.
+// ---
+
 #include "services/webnn/ort/ort_status.h"
 
 #include "base/strings/strcat.h"

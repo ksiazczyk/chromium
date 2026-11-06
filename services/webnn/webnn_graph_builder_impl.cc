@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN graph builder implementation
+// summary: Implements the services-side MLGraphBuilder connection, validating operation attributes and converting Mojo graph info into WebNN graphs.
+// ---
+
 #include "services/webnn/webnn_graph_builder_impl.h"
 
 #include <variant>

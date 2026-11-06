@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueueableResourceStateBase reference-counted resource handle
+// summary: Declares a reference-counted resource handle with lock state and a queue of waiting ResourceTasks, meant to be extended via QueueableResourceState.
+// ---
+
 #ifndef SERVICES_WEBNN_QUEUEABLE_RESOURCE_STATE_BASE_H_
 #define SERVICES_WEBNN_QUEUEABLE_RESOURCE_STATE_BASE_H_
 

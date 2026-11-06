@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferContent header for CoreML tensor data
+// summary: Declares the BufferContent class that wraps an MLMultiArray as the internal contents of a CoreML MLTensor, with read, write, and feature value access.
+// ---
+
 #ifndef SERVICES_WEBNN_COREML_BUFFER_CONTENT_COREML_H_
 #define SERVICES_WEBNN_COREML_BUFFER_CONTENT_COREML_H_
 

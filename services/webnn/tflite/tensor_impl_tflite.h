@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TensorImplTflite class declaration for the WebNN TFLite backend
+// summary: Declares TensorImplTflite, a WebNNTensorImpl implementation backed by CPU buffers for the TFLite WebNN context, supporting read, write, import and export tensor operations.
+// ---
+
 #ifndef SERVICES_WEBNN_TFLITE_TENSOR_IMPL_TFLITE_H_
 #define SERVICES_WEBNN_TFLITE_TENSOR_IMPL_TFLITE_H_
 

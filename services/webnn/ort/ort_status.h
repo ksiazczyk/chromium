@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT status checking macros
+// summary: Defines CHECK_STATUS, CALL_ORT_FUNC and ORT_CALL_FAILED macros for handling and logging ONNX Runtime status results.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_ORT_STATUS_H_
 #define SERVICES_WEBNN_ORT_ORT_STATUS_H_
 

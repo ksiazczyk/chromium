@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU task scheduler implementation
+// summary: Implements scheduling of WebNN tasks on GPU scheduler sequences with sync-token fences and safe shutdown.
+// ---
+
 #include "services/webnn/gpu_task_scheduler.h"
 
 #include "base/functional/callback_helpers.h"

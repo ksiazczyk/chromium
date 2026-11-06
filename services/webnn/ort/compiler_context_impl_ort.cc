@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT compiler context implementation
+// summary: Implements the ORT-based WebNN compiler context that builds and compiles graphs on a background thread in the Compiler utility process.
+// ---
+
 #include "services/webnn/ort/compiler_context_impl_ort.h"
 
 #include <vector>

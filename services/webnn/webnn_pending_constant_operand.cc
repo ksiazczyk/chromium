@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN pending constant operand implementation
+// summary: Implements the pending constant operand that holds constant data until it is validated against a descriptor and converted into a WebNN constant operand.
+// ---
+
 #include "services/webnn/webnn_pending_constant_operand.h"
 
 #include "services/webnn/public/cpp/operand_descriptor.h"

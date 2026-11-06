@@ -1,0 +1,4 @@
+# Docerion header of simple.textproto.
+type: test
+title: Simple WebNN graph MojoLPM fuzzer seed corpus input
+summary: Seed input for the WebNN graph MojoLPM fuzzer, encoding create_graph actions with operands, a gelu operation, and device selections in text protobuf format.

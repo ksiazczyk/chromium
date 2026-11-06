@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN test environment
+// summary: Provides a test environment that binds the WebNN context provider and mimics renderer fallback to in-process TFLite, LiteRT, or ORT backends during tests.
+// ---
+
 #include "services/webnn/webnn_test_environment.h"
 
 #include "base/functional/bind.h"

@@ -4,6 +4,12 @@
 
 // Message format for the MojoLPM fuzzer for the webnn service interface.
 
+// ---docerion
+// type: source
+// title: WebNN graph MojoLPM fuzzer protobuf definition
+// summary: Defines the protobuf message format used by the MojoLPM fuzzer to drive the WebNN graph service interface with graph creation actions and seeded input data.
+// ---
+
 syntax = "proto2";
 
 package services.fuzzing.webnn_graph.proto;

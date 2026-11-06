@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN ONNX Runtime model editor class declaration
+// summary: Declares the ModelEditor class for incrementally constructing ONNX models with inputs, outputs, initializers, attributes and nodes, plus the resulting ModelInfo.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_MODEL_EDITOR_H_
 #define SERVICES_WEBNN_ORT_MODEL_EDITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphBuilderTflite class declaration
+// summary: Declares GraphBuilderTflite, which converts a WebNN graph into a TFLite model persisted in a FlatBuffer with input and output tensor descriptors.
+// ---
+
 #ifndef SERVICES_WEBNN_TFLITE_GRAPH_BUILDER_TFLITE_H_
 #define SERVICES_WEBNN_TFLITE_GRAPH_BUILDER_TFLITE_H_
 

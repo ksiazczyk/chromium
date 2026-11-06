@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTaskRunnerDeleter implementation
+// summary: Implements constructors and move operations for OnTaskRunnerDeleter, which deletes objects on a specific task runner sequence.
+// ---
+
 #include "services/webnn/sequence_deleter.h"
 
 namespace webnn {

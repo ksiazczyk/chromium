@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN ORT platform functions header
+// summary: Declares the PlatformFunctions singleton that loads onnxruntime.dll and exposes ORT, model editor, compile, and interop API pointers.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_PLATFORM_FUNCTIONS_ORT_H_
 #define SERVICES_WEBNN_ORT_PLATFORM_FUNCTIONS_ORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT environment header
+// summary: Declares the Environment class, a reference-counted thread-safe OrtEnv wrapper shared by all WebNN sessions with helpers for selecting execution provider devices.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_ENVIRONMENT_H_
 #define SERVICES_WEBNN_ORT_ENVIRONMENT_H_
 

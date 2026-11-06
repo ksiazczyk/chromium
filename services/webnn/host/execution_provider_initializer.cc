@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows execution provider initializer for WebNN ONNX Runtime backend
+// summary: Implements initialization of Windows execution providers for the WebNN ONNX Runtime backend, including package version checks, installation triggering, and status metrics.
+// ---
+
 #include "services/webnn/host/execution_provider_initializer.h"
 
 #include <appmodel.h>

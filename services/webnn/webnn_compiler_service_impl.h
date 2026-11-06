@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN compiler service class declaration
+// summary: Declares WebNNCompilerServiceImpl, which maintains WebNN compiler context instances in the compiler utility process and manages idle shutdown via a timer.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_COMPILER_SERVICE_IMPL_H_
 #define SERVICES_WEBNN_WEBNN_COMPILER_SERVICE_IMPL_H_
 

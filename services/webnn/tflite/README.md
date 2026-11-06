@@ -1,3 +1,9 @@
+---
+type: readme
+title: Quantization
+summary: Explains how WebNN quantizeLinear/dequantizeLinear pairs are fused into TFLite quantized tensors during graph building, covering fusion criteria and edge cases.
+---
+
 # Quantization
 TFLite's representation for quantization differs from WebNN. The quantization information is attached to the tensor itself instead of being represented as explicit `quantizeLinear` and `dequantizeLinear` operations. TFLite does support `quantize` and `dequantize` operations but using them explicitly is not as efficient as representing the graph with quantized tensors. This lets each operation kernel to decide whether it can operate on the quantized values directly or needs to dequantize back to floats.
 

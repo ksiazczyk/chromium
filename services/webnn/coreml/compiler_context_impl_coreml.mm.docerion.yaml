@@ -1,0 +1,4 @@
+# Docerion header of compiler_context_impl_coreml.mm.
+type: source
+title: CoreML compiler context implementation
+summary: Implements CompilerContextImplCoreml, building WebNN graphs and compiling CoreML models on background threads with error handling and metrics.

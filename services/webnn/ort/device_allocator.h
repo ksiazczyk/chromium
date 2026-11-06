@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT device allocator class declaration
+// summary: Declares DeviceAllocator, which wraps an ORT device allocator for creating device tensors and reports whether the CPU can access them.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_DEVICE_ALLOCATOR_H_
 #define SERVICES_WEBNN_ORT_DEVICE_ALLOCATOR_H_
 

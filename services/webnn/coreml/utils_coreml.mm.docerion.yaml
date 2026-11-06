@@ -1,0 +1,4 @@
+# Docerion header of utils_coreml.mm.
+type: source
+title: CoreML MLMultiArray read and write helpers
+summary: Implements reading from and writing to MLMultiArray buffers, recursively handling non-contiguous data using shape and stride information.

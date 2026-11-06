@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN ORT tensor implementation
+// summary: Implements WebNN tensor read, write, import, and export on top of ORT values, including D3D12 fence synchronization.
+// ---
+
 #include "services/webnn/ort/tensor_impl_ort.h"
 
 #include "base/check_op.h"

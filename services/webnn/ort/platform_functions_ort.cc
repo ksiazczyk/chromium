@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN ORT platform functions implementation
+// summary: Loads onnxruntime.dll, resolves the ORT API tables, and manages the process-lifetime PlatformFunctions singleton.
+// ---
+
 #include "services/webnn/ort/platform_functions_ort.h"
 
 #include <winerror.h>

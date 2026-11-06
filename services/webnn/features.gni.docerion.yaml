@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: WebNN build feature flags
+summary: Declares GN build arguments controlling TFLite, LiteRT, Chrome ML API and profiler options for WebNN.

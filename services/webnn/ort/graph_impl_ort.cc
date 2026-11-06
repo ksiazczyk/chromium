@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT graph implementation
+// summary: Implements the ORT-backed WebNN graph, building operand descriptors from session metadata, creating sessions and dispatching compute asynchronously.
+// ---
+
 #include "services/webnn/ort/graph_impl_ort.h"
 
 #include <optional>

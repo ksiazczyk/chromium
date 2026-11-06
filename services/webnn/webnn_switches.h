@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN command-line switch declarations
+// summary: Declares WebNN switches for dumping CoreML and TFLite models and for configuring ONNX Runtime logging, execution providers, and session options on Windows.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_SWITCHES_H_
 #define SERVICES_WEBNN_WEBNN_SWITCHES_H_
 

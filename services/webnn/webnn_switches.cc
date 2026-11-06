@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN switch list implementation
+// summary: Returns the lists of WebNN command-line switches copied from the GpuProcessHost to the GPU and renderer processes, guarded by platform and backend build flags.
+// ---
+
 #include "services/webnn/webnn_switches.h"
 
 #include <array>

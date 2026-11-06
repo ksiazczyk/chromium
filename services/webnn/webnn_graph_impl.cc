@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN graph implementation
+// summary: Implements the WebNN graph object, holding compute resource info and scheduling dispatch of input and output tensors through its context.
+// ---
+
 #include "services/webnn/webnn_graph_impl.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN service utility declarations
+// summary: Declares shared WebNN helpers for operation naming, array permutation, strides, constant data transposition and mojo type conversion.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_UTILS_H_
 #define SERVICES_WEBNN_WEBNN_UTILS_H_
 

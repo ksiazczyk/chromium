@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN weights file session header
+// summary: Declares the browser-process WeightsFileSession implementation that owns the tempfile, enforces a 4 GiB per-context cap, and releases per-origin reservations.
+// ---
+
 #ifndef SERVICES_WEBNN_HOST_WEIGHTS_FILE_SESSION_IMPL_H_
 #define SERVICES_WEBNN_HOST_WEIGHTS_FILE_SESSION_IMPL_H_
 

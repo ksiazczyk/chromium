@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuTaskScheduler header for GPU sequence task scheduling
+// summary: Declares GpuTaskScheduler, a non-owning wrapper that schedules tasks on a gpu::Sequence with sync token fences and exposes a scheduler task runner for Mojo messages.
+// ---
+
 #ifndef SERVICES_WEBNN_GPU_TASK_SCHEDULER_H_
 #define SERVICES_WEBNN_GPU_TASK_SCHEDULER_H_
 

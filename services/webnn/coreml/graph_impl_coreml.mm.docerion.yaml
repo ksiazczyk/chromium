@@ -1,0 +1,4 @@
+# Docerion header of graph_impl_coreml.mm.
+type: source
+title: CoreML graph implementation
+summary: Implements GraphImplCoreml, including an MLFeatureProvider, compilation of models to temporary files, and execution of CoreML graphs with tensor resources.

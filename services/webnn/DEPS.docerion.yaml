@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebNN directory dependency allowlist
+summary: Lists the headers and directories that code in services/webnn is allowed to include.

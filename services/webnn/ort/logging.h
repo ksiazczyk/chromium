@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT logging helpers header
+// summary: Declares helpers that return the configured ORT logging level and log detailed information about registered execution provider devices.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_LOGGING_H_
 #define SERVICES_WEBNN_ORT_LOGGING_H_
 

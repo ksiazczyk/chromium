@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ORT compiler context class declaration
+// summary: Declares CompilerContextImplOrt, which manages graph compilation and sends compiled results back to the GPU process.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_COMPILER_CONTEXT_IMPL_ORT_H_
 #define SERVICES_WEBNN_ORT_COMPILER_CONTEXT_IMPL_ORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphBuilderContext interface for hosting graph builders
+// summary: Defines the interface implemented by GPU and compiler contexts to host WebNNGraphBuilderImpl instances and build graphs from validated graph info.
+// ---
+
 #ifndef SERVICES_WEBNN_GRAPH_BUILDER_CONTEXT_H_
 #define SERVICES_WEBNN_GRAPH_BUILDER_CONTEXT_H_
 

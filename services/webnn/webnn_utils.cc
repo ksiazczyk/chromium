@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN service utility functions
+// summary: Implements shared WebNN helpers for operation name strings, axis validation, stride calculation and XNNPACK-accelerated constant tensor transposition.
+// ---
+
 #include "services/webnn/webnn_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN graph backend tests
+// summary: Backend tests that build and compute WebNN graphs against real device backends, verifying results across supported operations.
+// ---
+
 #include <stdint.h>
 
 #include <cmath>

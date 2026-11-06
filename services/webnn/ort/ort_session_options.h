@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONNX Runtime session options wrapper declaration
+// summary: Declares the SessionOptions wrapper for creating ORT sessions for dispatch and compilation, plus helpers for trivial model options and command line config entries.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_ORT_SESSION_OPTIONS_H_
 #define SERVICES_WEBNN_ORT_ORT_SESSION_OPTIONS_H_
 

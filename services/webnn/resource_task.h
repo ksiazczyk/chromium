@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceTask header for resource-locked task execution
+// summary: Declares ResourceTask, a reference-counted task that runs once it can lock its required shared and exclusive resources.
+// ---
+
 #ifndef SERVICES_WEBNN_RESOURCE_TASK_H_
 #define SERVICES_WEBNN_RESOURCE_TASK_H_
 

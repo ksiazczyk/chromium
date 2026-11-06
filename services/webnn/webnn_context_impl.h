@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN context class declaration
+// summary: Declares WebNNContextImpl, a device-bound owner of WebNN graphs and tensors that also acts as a graph builder context and memory dump provider.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_CONTEXT_IMPL_H_
 #define SERVICES_WEBNN_WEBNN_CONTEXT_IMPL_H_
 

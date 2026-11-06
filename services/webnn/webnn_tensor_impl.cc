@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN tensor implementation
+// summary: Implements the GPU process MLTensor interface, validating usage flags and dispatching read and write tensor tasks to backend-specific implementations.
+// ---
+
 #include "services/webnn/webnn_tensor_impl.h"
 
 #include "base/functional/callback_helpers.h"

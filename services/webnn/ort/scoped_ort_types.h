@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped ORT type wrappers
+// summary: Defines RAII scoped wrappers with release traits for ORT objects such as environments, sessions, statuses, models, and graphs.
+// ---
+
 #ifndef SERVICES_WEBNN_ORT_SCOPED_ORT_TYPES_H_
 #define SERVICES_WEBNN_ORT_SCOPED_ORT_TYPES_H_
 

@@ -1,3 +1,11 @@
+---
+type: reference
+title: WebNN Compiler vs GPU process sandbox comparison
+summary: Documents the Windows sandbox policies of the WebNN Compiler process and GPU process and how they differ.
+relations:
+  - references /services/webnn/public/mojom/webnn_compiler_service.mojom
+---
+
 # WebNN Compiler process vs. GPU process sandboxes
 
 WebNN inference runs in the GPU process. On Windows, when the

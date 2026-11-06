@@ -1,0 +1,4 @@
+# Docerion header of tensor_impl_coreml.mm.
+type: source
+title: CoreML WebNN tensor implementation
+summary: Implements CoreML-backed WebNN tensors, creating MLMultiArray objects and wrapping IOSurface-backed pixel buffers for float16 tensor data.

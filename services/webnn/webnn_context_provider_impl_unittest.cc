@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN context provider unit tests
+// summary: Unit tests verifying that WebNN context creation reports a not-supported error on platforms without a WebNN backend.
+// ---
+
 #include "services/webnn/webnn_context_provider_impl.h"
 
 #include "base/run_loop.h"

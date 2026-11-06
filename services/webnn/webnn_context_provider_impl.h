@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNN context provider class declaration
+// summary: Declares WebNNContextProviderImpl, which maintains the set of WebNN context instances created by the provider and exposes service introspection.
+// ---
+
 #ifndef SERVICES_WEBNN_WEBNN_CONTEXT_PROVIDER_IMPL_H_
 #define SERVICES_WEBNN_WEBNN_CONTEXT_PROVIDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ONNX Runtime session options implementation
+// summary: Creates ORT session options, including an execution provider selection delegate that picks devices based on WebNN context options and command line config entries.
+// ---
+
 #include "services/webnn/ort/ort_session_options.h"
 
 #include <set>
