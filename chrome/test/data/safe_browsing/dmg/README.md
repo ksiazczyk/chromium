@@ -1,3 +1,12 @@
+---
+type: readme
+title: Safe Browsing DMG Test Data
+summary: Explains how to generate test DMG and HFS files for the Safe Browsing archive scanner and upload them to CIPD.
+relations:
+  - references /docs/cipd_and_3pp.md
+  - documents /chrome/test/data/safe_browsing/dmg/generate_test_data.sh
+---
+
 # Safe Browsing DMG Test Data
 
 This directory contains scripts to generate test DMG and HFS files for

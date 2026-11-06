@@ -1,0 +1,4 @@
+# Docerion header of page_with_third_party_iframe.html.
+type: test
+title: Page with third-party iframe
+summary: Test page that appends an iframe for a given URL and resolves a promise once the iframe has loaded.

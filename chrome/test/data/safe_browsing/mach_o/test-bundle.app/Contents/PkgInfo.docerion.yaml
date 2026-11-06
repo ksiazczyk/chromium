@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: PkgInfo of the test-bundle app fixture
+summary: Four-character package type and creator signature (APPL????) marking the test-bundle fixture as a macOS application.

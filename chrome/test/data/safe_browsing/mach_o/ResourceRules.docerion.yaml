@@ -1,0 +1,4 @@
+# Docerion header of ResourceRules.
+type: test
+title: Code signing resource rules plist
+summary: Property list of resource rules passed to codesign when signing the test application bundles.

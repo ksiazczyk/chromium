@@ -1,0 +1,4 @@
+# Docerion header of frames-encodings.htm.
+type: test
+title: frames-encodings.htm
+summary: Test page embedding iframes in various encodings, including ISO-8859-2 and UTF-16 variants, to verify frame encoding handling when saving pages.

@@ -1,0 +1,4 @@
+# Docerion header of txt_as_xlsx.xlsx.
+type: test
+title: Text file disguised as XLSX test fixture
+summary: A five-byte text file with an .xlsx extension used as test data for Safe Browsing document scanning alongside other mislabelled document fixtures.

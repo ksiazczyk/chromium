@@ -1,0 +1,4 @@
+# Docerion header of test-bundle.
+type: test
+title: Safe Browsing Mach-O test bundle shell script
+summary: Shell script fixture inside a Mach-O app bundle that serves as test data for Safe Browsing Mach-O handling tests.

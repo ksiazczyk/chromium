@@ -1,0 +1,4 @@
+# Docerion header of codesign.csr.
+type: test
+title: Certificate signing request for the test code signing identity
+summary: PEM-encoded certificate signing request used to generate the untrusted code signing certificate for the test binaries.

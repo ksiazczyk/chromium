@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Info.plist of modified-bundle-and-exec test app bundle
+summary: Property list with macOS bundle metadata (identifier, executable, versions, build info) for the modified-bundle-and-exec Safe Browsing test fixture.

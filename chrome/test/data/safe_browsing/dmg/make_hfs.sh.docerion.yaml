@@ -1,0 +1,4 @@
+# Docerion header of make_hfs.sh.
+type: script
+title: Create HFS test filesystem image
+summary: Shell script that builds an HFS volume on a ramdisk with assorted files and symlinks, then dumps the raw image to a file.

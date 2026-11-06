@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: Test bundle PkgInfo
+summary: Package info marker (APPL????) identifying the test-bundle app bundle used in Safe Browsing tests.

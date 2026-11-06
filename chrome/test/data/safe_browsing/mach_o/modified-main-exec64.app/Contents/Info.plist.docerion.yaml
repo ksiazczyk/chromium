@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: test
+title: Info.plist of the modified-main-exec64 test app bundle
+summary: Bundle metadata for the modified-main-exec64.app test fixture, declaring the test-bundle executable, identifier, and build information for Safe Browsing Mach-O tests.

@@ -1,0 +1,4 @@
+# Docerion header of InfoPlist.strings.
+type: test
+title: InfoPlist.strings
+summary: Deliberately corrupted InfoPlist.strings fixture inside a modified macOS app bundle used as test data for Chrome safe browsing Mach-O checks.

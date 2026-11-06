@@ -1,0 +1,4 @@
+# Docerion header of minimal.xhtml.mock-http-headers.
+type: test
+title: Mock HTTP headers for minimal.xhtml
+summary: Mock HTTP response headers that serve minimal.xhtml with the application/xhtml+xml content type.

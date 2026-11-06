@@ -1,0 +1,4 @@
+# Docerion header of text.txt.
+type: test
+title: Plain text test fixture
+summary: Simple text file used as test data alongside the RAR fixtures in the Safe Browsing test suite.

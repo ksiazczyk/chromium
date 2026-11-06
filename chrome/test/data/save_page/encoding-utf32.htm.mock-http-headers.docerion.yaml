@@ -1,0 +1,4 @@
+# Docerion header of encoding-utf32.htm.mock-http-headers.
+type: test
+title: encoding-utf32.htm.mock-http-headers
+summary: Mock HTTP headers serving the UTF-32 test page as text/html with charset=utf-32 for save-page encoding tests.

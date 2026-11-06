@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: PkgInfo of modified-localization test app bundle
+summary: Standard macOS bundle type marker file within the Safe Browsing Mach-O test app bundle.

@@ -5,6 +5,12 @@
 // A worker that imports "empty.js" and also accepts a URL parameter like
 // "?import=script.js" and imports "script.js".
 
+// ---docerion
+// type: test
+// title: Service worker importing scripts from a URL parameter
+// summary: Test service worker that always imports empty.js and additionally imports a script named by the import query parameter.
+// ---
+
 const url = new URL(self.location);
 const import_url = url.searchParams.get('import');
 

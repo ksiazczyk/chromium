@@ -1,0 +1,4 @@
+# Docerion header of session_cookies.html.
+type: test
+title: Session cookie test page
+summary: Test page that sets a session cookie and reports whether it persists via the document title.

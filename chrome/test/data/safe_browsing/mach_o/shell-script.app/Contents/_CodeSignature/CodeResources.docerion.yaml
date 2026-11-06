@@ -1,0 +1,4 @@
+# Docerion header of CodeResources.
+type: test
+title: CodeResources
+summary: macOS code signing resource manifest plist for the shell-script.app fixture, listing resource hashes and signing rules used by Safe Browsing Mach-O tests.

@@ -1,0 +1,4 @@
+# Docerion header of style.htm.
+type: test
+title: Test page with iframes and stylesheet for save page tests
+summary: Test page linking style.css and embedding several hidden and visible iframes with content verification markers for save page tests.

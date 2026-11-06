@@ -1,0 +1,4 @@
+# Docerion header of frames-xsite.htm.
+type: test
+title: frames-xsite.htm
+summary: Test page combining a cross-site and a same-site iframe to test saving across renderer processes and deduplication of shared resources.

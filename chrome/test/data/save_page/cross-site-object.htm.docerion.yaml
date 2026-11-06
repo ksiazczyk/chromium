@@ -1,0 +1,4 @@
+# Docerion header of cross-site-object.htm.
+type: test
+title: Cross-site object save page test page
+summary: Test page embedding three cross-site object elements with different content types to catch save-page serialization regressions.

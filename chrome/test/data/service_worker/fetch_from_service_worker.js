@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker that fetches URLs on message
+// summary: Test service worker that fetches a URL received by message and posts the response text or error back over the message channel.
+// ---
+
 async function handleMessage(e) {
   try {
     const response = await fetch(e.data.url);

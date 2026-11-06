@@ -1,0 +1,4 @@
+# Docerion header of CodeResources.
+type: test
+title: CodeResources manifest for modified-main-exec32 test app
+summary: Code signing resource manifest for the modified-main-exec32.app test bundle, listing file hashes and signing rules used in Safe Browsing Mach-O tests.

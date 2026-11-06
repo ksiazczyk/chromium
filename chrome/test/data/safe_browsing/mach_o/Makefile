@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Makefile for Mach-O test binaries and code signing
+# summary: Builds the 32-bit, 64-bit, and fat Mach-O executables and dylibs, generates an untrusted code signing certificate, and produces the signed test artifacts.
+# ---
+
 # This must match the commonName in codesign.cfg.
 KEYCHAIN_IDENTITY=untrusted@goat.local
 

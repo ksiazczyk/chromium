@@ -1,0 +1,4 @@
+# Docerion header of not-a-crx.crx.mock-http-headers.
+type: test
+title: Mock HTTP headers for not-a-crx.crx
+summary: Mock HTTP headers that serve not-a-crx.crx with a 200 OK and image/png content type during save page browser tests.

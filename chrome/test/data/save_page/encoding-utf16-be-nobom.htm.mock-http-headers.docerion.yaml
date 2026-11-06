@@ -1,0 +1,4 @@
+# Docerion header of encoding-utf16-be-nobom.htm.mock-http-headers.
+type: test
+title: encoding-utf16-be-nobom.htm.mock-http-headers
+summary: Mock HTTP headers serving the UTF-16BE no-BOM test page as text/html with charset=utf-16be for save-page encoding tests.

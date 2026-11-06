@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the DOM activity telemetry test extension
+summary: Manifest version 3 definition granting scripting and host permissions and wiring the background worker, content script, popup, and web-accessible injected resource.

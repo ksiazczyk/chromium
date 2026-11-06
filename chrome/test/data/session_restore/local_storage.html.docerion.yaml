@@ -1,0 +1,4 @@
+# Docerion header of local_storage.html.
+type: test
+title: Local storage test page
+summary: Test page that writes a value to localStorage and reports the result via the document title.

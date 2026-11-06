@@ -1,0 +1,4 @@
+# Docerion header of iso_2022_jp.html.
+type: test
+title: ISO 2022 JP XSS test page
+summary: HTML test page titled XSS that embeds ISO 2022 JP escape sequences in an img alt attribute, used to test charset-related XSS handling.

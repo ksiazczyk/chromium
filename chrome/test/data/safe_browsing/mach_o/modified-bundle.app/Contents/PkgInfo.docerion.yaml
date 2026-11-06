@@ -1,0 +1,4 @@
+# Docerion header of PkgInfo.
+type: test
+title: PkgInfo for the modified-bundle test app
+summary: Standard macOS package marker (APPL????) completing the modified-bundle.app test fixture for Safe Browsing Mach-O tests.

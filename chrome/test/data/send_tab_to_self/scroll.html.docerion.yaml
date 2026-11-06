@@ -1,0 +1,4 @@
+# Docerion header of scroll.html.
+type: test
+title: Scroll Test page for Send Tab to Self
+summary: HTML test fixture with tall padding and a target paragraph, used to test scrolling behavior in the Send Tab to Self feature.

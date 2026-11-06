@@ -1,0 +1,4 @@
+# Docerion header of CodeResources.
+type: test
+title: CodeResources code signature manifest
+summary: Plist manifest listing resource hashes and signing rules for the modified-localization.app bundle used in Safe Browsing Mach-O tests.

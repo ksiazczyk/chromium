@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Gitignore for generated DMG test data
+# summary: Ignores the data/ subdirectory where the generated DMG and HFS test files are placed.
+# ---
+
 data/
