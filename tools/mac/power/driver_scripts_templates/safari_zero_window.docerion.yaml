@@ -1,0 +1,4 @@
+# Docerion header of safari_zero_window.
+type: source
+title: Safari zero window script template
+summary: Jinja template generating an AppleScript that opens about:blank in Safari and closes every window so no window is visible.

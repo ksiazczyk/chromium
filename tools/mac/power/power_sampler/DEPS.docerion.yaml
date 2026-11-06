@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for power_sampler
+summary: Declares include rules allowing the power_sampler tool to depend on components/power_metrics.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Gitiles extended blocks Markdown extension
+# summary: Markdown extension that turns Gitiles note, aside and promo blocks written with triple-asterisk notation into styled div elements.
+# ---
+
 """Implements Gitiles' notification, aside and promotion blocks.
 
 This extention makes the Markdown parser recognize the Gitiles' extended

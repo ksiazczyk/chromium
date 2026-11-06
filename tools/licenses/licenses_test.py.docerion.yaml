@@ -1,0 +1,4 @@
+# Docerion header of licenses_test.py.
+type: test
+title: Unit tests for license URL generation
+summary: Tests how license file URLs are derived for git repositories, multiple remotes, non-git directories, and relative scan roots.

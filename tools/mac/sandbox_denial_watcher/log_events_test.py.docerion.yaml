@@ -1,0 +1,4 @@
+# Docerion header of log_events_test.py.
+type: test
+title: Unit tests for log_events.py
+summary: Covers parsing of denial messages, targets with spaces, duplicate summaries, and multiline events.

@@ -1,0 +1,4 @@
+# Docerion header of battery_sampler.mm.
+type: source
+title: BatterySampler implementation
+summary: Implements BatterySampler, reading battery data via IOKit and computing average power consumption between samples.

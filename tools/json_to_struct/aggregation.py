@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Aggregation support for json_to_struct
+# summary: Parses aggregation descriptors from JSON input and generates C++ array or fixed flat map aggregation code.
+# ---
+
 from dataclasses import dataclass
 from enum import Enum
 from typing import Optional

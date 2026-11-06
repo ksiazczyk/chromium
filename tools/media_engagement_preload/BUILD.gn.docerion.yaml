@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for make_dafsa runtime dependencies
+summary: GN build file defining a group that bundles make_dafsa.py with the protobuf Python runtime dependencies needed to run it.

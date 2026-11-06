@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User idle level sampler implementation
+// summary: Reads the machdep.user_idle_level sysctl value on macOS and reports it as a power sampler datum.
+// ---
+
 #include "tools/mac/power/power_sampler/user_idle_level_sampler.h"
 
 #include <sys/sysctl.h>

@@ -1,0 +1,4 @@
+# Docerion header of json_to_struct.gni.
+type: config
+title: GN template for json_to_struct targets
+summary: GN import defining a json_to_struct template that converts a JSON file into generated C++ .cc and .h sources.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Process and path helper utilities
+# summary: Provides helpers to terminate or signal processes, find a process by name and locate the Chromium source directory.
+# ---
+
 import subprocess
 import logging
 import psutil

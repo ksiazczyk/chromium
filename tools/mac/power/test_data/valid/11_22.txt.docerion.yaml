@@ -1,0 +1,4 @@
+# Docerion header of 11_22.txt.
+type: test
+title: Valid test data 11_22
+summary: Valid-case test fixture with fake module stack frame lines and a count, used to exercise parsing of macOS power tool output.

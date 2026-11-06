@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power sampler tool entry point
+// summary: Main entry point of the power_sampler command line tool that configures samplers, sampling events and CSV or JSON output.
+// ---
+
 #include <signal.h>
 
 #include <cstdio>

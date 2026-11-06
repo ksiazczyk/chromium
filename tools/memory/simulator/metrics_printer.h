@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsPrinter header for CSV output of memory stats
+// summary: Declares MetricsPrinter, which outputs memory stats in CSV format to stdout and aggregates registered metrics providers.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_METRICS_PRINTER_H_
 #define TOOLS_MEMORY_SIMULATOR_METRICS_PRINTER_H_
 

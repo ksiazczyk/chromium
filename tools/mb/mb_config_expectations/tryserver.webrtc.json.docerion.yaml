@@ -1,0 +1,4 @@
+# Docerion header of tryserver.webrtc.json.
+type: config
+title: tryserver.webrtc MB config expectations
+summary: Defines expected GN arguments for WebRTC tryserver Chromium compile builders on Android, Linux, Mac, and Windows, including debug variants.

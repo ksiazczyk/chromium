@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Parser for macOS sandbox denial log events
+# summary: Parses macOS unified logging ndjson lines into SandboxDenial records with process, action, and target.
+# ---
+
 """Parser for macOS Unified Logging sandbox denial events.
 
 Raw log events from `/usr/bin/log stream --style ndjson` contain keys such as:

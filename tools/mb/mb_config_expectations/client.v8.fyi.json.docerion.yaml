@@ -1,0 +1,4 @@
+# Docerion header of client.v8.fyi.json.
+type: config
+title: MB build config expectations for client.v8.fyi
+summary: Maps client.v8.fyi builders such as Android V8 FYI Release, V8 Blink Linux and ASAN builders to their expected GN arguments for MB validation.

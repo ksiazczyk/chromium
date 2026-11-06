@@ -1,0 +1,4 @@
+# Docerion header of check_env.sh.
+type: script
+title: Benchmark environment check
+summary: zsh script that verifies the laptop is unplugged, brightness is fixed and no terminals are open before power measurements.

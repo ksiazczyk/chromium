@@ -1,0 +1,4 @@
+# Docerion header of sectaskaccess_info.plist.
+type: config
+title: macOS SecTaskAccess plist
+summary: Property list granting SecTaskAccess allowed so the inspection tools can read Chrome process memory on macOS.

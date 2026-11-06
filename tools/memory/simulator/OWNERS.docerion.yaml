@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the memory simulator tool
+summary: Lists the email addresses of the people responsible for reviewing changes to the memory simulator directory.

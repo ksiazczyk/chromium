@@ -5,6 +5,12 @@
 // This uses SDL+OpenGL as documented at
 // <https://github.com/ocornut/imgui/blob/master/examples/example_sdl_opengl2/main.cpp>.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc viewer GUI application
+// summary: SDL and imgui application that attaches to a running process via ptrace and visualizes its PartitionAlloc buckets, spans, and superpages.
+// ---
+
 #include <assert.h>
 #include <dirent.h>
 #include <err.h>

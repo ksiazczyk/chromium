@@ -1,0 +1,4 @@
+# Docerion header of mb.
+type: script
+title: Shell launcher for MB
+summary: POSIX shell wrapper that launches mb.py with python3 while suppressing bytecode writing.

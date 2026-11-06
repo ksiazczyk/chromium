@@ -1,0 +1,4 @@
+# Docerion header of test_list_with_gn_target.golden.
+type: test
+title: Golden output for licenses list with GN target
+summary: Expected golden output for the licenses list command with a GN target, recording the exit code and the license file paths reported for each target.

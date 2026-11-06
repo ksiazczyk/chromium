@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User active simulator header
+// summary: Declares a class that simulates user activity on macOS so benchmarks run with active-user scheduling policies.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_USER_ACTIVE_SIMULATOR_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_USER_ACTIVE_SIMULATOR_H_
 

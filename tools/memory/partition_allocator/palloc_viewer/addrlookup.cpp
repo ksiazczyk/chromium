@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWARF-based symbol and struct lookup for the viewer
+// summary: Uses libdwfl to find compilation units, struct member offsets, and variable addresses needed to inspect PartitionAlloc in a target process.
+// ---
+
 #include <assert.h>
 #include <dwarf.h>
 #include <elfutils/libdwfl.h>

@@ -1,0 +1,4 @@
+# Docerion header of plug.py.
+type: source
+title: Kasa smart plug battery controller
+summary: Controls a device's charger through a Kasa smart plug power strip to charge or discharge the battery to a target level.

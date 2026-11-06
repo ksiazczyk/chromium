@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: LLDB tools directory metadata
+summary: Declares the bug tracker component used for issues in the tools/lldb directory.

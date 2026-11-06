@@ -1,0 +1,4 @@
+# Docerion header of idle.
+type: source
+title: Idle driver script template
+summary: AppleScript template that simply waits for a configurable delay before quitting, used in Mac power test scenarios.

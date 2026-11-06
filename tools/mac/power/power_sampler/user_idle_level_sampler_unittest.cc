@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User idle level sampler unit tests
+// summary: Verifies the user idle level sampler's name, datum units and that samples contain the expected value.
+// ---
+
 #include "tools/mac/power/power_sampler/user_idle_level_sampler.h"
 
 #include <memory>

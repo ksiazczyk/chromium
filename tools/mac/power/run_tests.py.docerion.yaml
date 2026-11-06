@@ -1,0 +1,4 @@
+# Docerion header of run_tests.py.
+type: script
+title: Test runner for the power tools
+summary: Discovers and runs all *_test.py unittest files in the directory and exits with a status reflecting the outcome.

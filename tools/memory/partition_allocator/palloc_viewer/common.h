@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared declarations for addrlookup
+// summary: Header declaring the addrlookup API for DWARF initialization, library lookup, struct offsets, and variable addresses.
+// ---
+
 #ifndef TOOLS_MEMORY_PARTITION_ALLOCATOR_PALLOC_VIEWER_COMMON_H_
 #define TOOLS_MEMORY_PARTITION_ALLOCATOR_PALLOC_VIEWER_COMMON_H_
 

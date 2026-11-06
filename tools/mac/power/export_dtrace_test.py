@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Unit tests for the DTrace parser
+# summary: Unit tests covering DTrace file parsing, sample accumulation, unsymbolized frames and stack collapsing behaviour.
+# ---
+
 import unittest
 from export_dtrace import DTraceParser
 

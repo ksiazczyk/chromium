@@ -1,0 +1,4 @@
+# Docerion header of maketoc.py.
+type: script
+title: 'maketoc: add or verify a TOC in .icns files'
+summary: Python script that inserts a TOC section into an .icns file or verifies an existing one by checking chunk headers and lengths.

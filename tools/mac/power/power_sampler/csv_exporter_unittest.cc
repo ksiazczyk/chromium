@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CsvExporter unit tests
+// summary: Unit tests for CsvExporter verifying CSV output when created from a file path or a file handle.
+// ---
+
 #include "tools/mac/power/power_sampler/csv_exporter.h"
 
 #include "base/files/file.h"

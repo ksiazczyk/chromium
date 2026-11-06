@@ -1,0 +1,4 @@
+# Docerion header of smc_sampler.mm.
+type: source
+title: SMC power and temperature sampler
+summary: Implements a sampler that reads Mac SMC keys for total power, CPU and GPU power, and CPU temperature.

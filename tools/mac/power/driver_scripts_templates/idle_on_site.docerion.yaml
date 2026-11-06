@@ -1,0 +1,4 @@
+# Docerion header of idle_on_site.
+type: source
+title: Idle on site driver script template
+summary: Jinja template for an AppleScript that navigates to a given idle site, optionally enters full screen, and remains there for a set delay.

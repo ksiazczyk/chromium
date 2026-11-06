@@ -1,0 +1,4 @@
+# Docerion header of m1_sampler_unittest.mm.
+type: test
+title: M1 sampler unit tests
+summary: Unit tests for the M1Sampler covering name, datum units and sample output using a fake M1SensorsReader.

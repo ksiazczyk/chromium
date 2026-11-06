@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: LLDB visualizers for Chromium types
+# summary: Provides LLDB data formatters and synthetic child providers for common Chromium types to improve debugging output.
+# ---
+
 """
 Provides visualizers for common types for debugging in LLDB.
 

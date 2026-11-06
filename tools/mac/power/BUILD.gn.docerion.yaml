@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for Mac power measurement tools
+summary: Root GN build file defining the power_sampler binary, its sampler library, a proto target and unit tests for macOS power measurement.

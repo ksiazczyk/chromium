@@ -1,6 +1,13 @@
 # Copyright 2022 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Live bucket fragmentation graph
+# summary: Draws a live matplotlib graph of internal fragmentation per bucket from the dump.dat file produced by pa_buckets_inspect.
+# ---
+
 """
 This script allows us to create a live graph of internal fragmentation in
 Chrome, updated as chrome runs.

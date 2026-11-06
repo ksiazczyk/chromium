@@ -1,0 +1,4 @@
+# Docerion header of makeicns2.m.
+type: source
+title: Build .icns icon files from PNG images
+summary: Objective-C utility that assembles macOS .icns icon files from sized PNG images in an iconset, handling alpha data and icon type codes.

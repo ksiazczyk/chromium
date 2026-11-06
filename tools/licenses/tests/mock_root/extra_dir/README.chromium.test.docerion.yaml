@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.test.
+type: test
+title: Mock README.chromium fixture for licenses tool tests
+summary: Mock README.chromium metadata fixture describing a test dependency named AlwaysIncluded with an Apache 2.0 license and a LICENSE file.

@@ -1,0 +1,4 @@
+# Docerion header of LICENSE.
+type: test
+title: Mock LICENSE fixture for licenses tool tests
+summary: Mock LICENSE file in the test mock root that simulates an extra license file for the licenses tool tests.

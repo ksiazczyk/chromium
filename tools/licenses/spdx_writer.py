@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: SPDX licensing output writer
+# summary: Provides a writer that converts package metadata into SPDX 2.2 JSON licensing documents.
+# ---
+
 import collections
 import dataclasses
 import json

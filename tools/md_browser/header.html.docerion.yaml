@@ -1,0 +1,4 @@
+# Docerion header of header.html.
+type: source
+title: HTML header template for rendered pages
+summary: HTML fragment providing the doctype, stylesheet links and opening header and content markup for rendered pages.

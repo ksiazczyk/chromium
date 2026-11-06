@@ -1,0 +1,4 @@
+# Docerion header of parse_mac_vmmap_ioaccelerator.py.
+type: source
+title: Parse Mac vmmap IOAccelerator allocations
+summary: Parses Mac vmmap output from a live process or saved file to count and histogram IOAccelerator GPU memory allocations.

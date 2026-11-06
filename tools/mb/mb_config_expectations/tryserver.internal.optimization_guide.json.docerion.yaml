@@ -1,0 +1,4 @@
+# Docerion header of tryserver.internal.optimization_guide.json.
+type: config
+title: tryserver.internal.optimization_guide MB config expectations
+summary: Defines expected GN arguments for internal Optimization Guide tryserver builders, including model validation and platform builds across Android, ChromeOS, iOS, Linux, Mac, and Windows.

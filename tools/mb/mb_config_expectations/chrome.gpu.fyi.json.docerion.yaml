@@ -1,0 +1,4 @@
+# Docerion header of chrome.gpu.fyi.json.
+type: config
+title: MB config expectations for chrome.gpu.fyi builders
+summary: Defines the expected GN arguments for the ChromeOS FYI Release Skylab (jacuzzi) builder on the chrome.gpu.fyi waterfall.

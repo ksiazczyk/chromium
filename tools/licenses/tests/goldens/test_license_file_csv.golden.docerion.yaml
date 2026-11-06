@@ -1,0 +1,4 @@
+# Docerion header of test_license_file_csv.golden.
+type: test
+title: Golden CSV output for the license_file command
+summary: Expected CSV output of licenses.py license_file listing libraries, license files and validation status.

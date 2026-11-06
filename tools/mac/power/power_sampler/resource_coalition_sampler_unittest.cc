@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the resource coalition sampler
+// summary: Unit tests for ResourceCoalitionSampler covering coalition ID lookup, resource usage sampling and energy impact calculations with injected test functions.
+// ---
+
 #include "tools/mac/power/power_sampler/resource_coalition_sampler.h"
 
 #include <stdint.h>

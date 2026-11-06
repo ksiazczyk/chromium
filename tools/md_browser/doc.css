@@ -16,6 +16,12 @@
 
 /* Markdown rendered in /+doc/ or tree view page . */
 
+/*docerion
+type: source
+title: Stylesheet for rendered Markdown documents
+summary: Styles Markdown content such as headings, links, code blocks, tables, table of contents and note, aside and promo blocks.
+*/
+
 .Site-Content--markdown {
   padding-top: 0;
 }

@@ -1,0 +1,4 @@
+# Docerion header of internal.optimization_guide.json.
+type: config
+title: MB build config expectations for internal.optimization_guide
+summary: Maps internal Optimization Guide builders across Linux, Mac, Windows, ChromeOS, Android and iOS to their expected GN arguments for MB validation.

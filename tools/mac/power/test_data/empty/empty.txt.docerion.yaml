@@ -1,0 +1,4 @@
+# Docerion header of empty.txt.
+type: test
+title: Empty test data file
+summary: Empty text file in the test data directory for the macOS power tool, likely serving as a test fixture.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryHolder interface header
+// summary: Declares the MemoryHolder interface for allocating, reading and writing memory pages, together with a shared random generator.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_MEMORY_HOLDER_H_
 #define TOOLS_MEMORY_SIMULATOR_MEMORY_HOLDER_H_
 

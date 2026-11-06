@@ -1,0 +1,4 @@
+# Docerion header of test_license_file_spdx.golden.
+type: test
+title: Golden SPDX output for the license_file command
+summary: Expected SPDX 2.2 JSON document from licenses.py license_file describing Chromium packages and their licenses.

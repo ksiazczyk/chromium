@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Java element generator
+# summary: Generates Java constructor calls for elements from JSON descriptions, mainly for field trial testing configs.
+# ---
+
 import json
 import class_generator
 

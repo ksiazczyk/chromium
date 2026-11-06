@@ -1,0 +1,4 @@
+# Docerion header of zero_window.
+type: source
+title: Browser zero window script template
+summary: Jinja template generating an AppleScript that navigates a configurable browser to about:blank and closes all its windows.

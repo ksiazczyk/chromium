@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners file
+summary: Delegates ownership and review of this directory to the PartitionAlloc OWNERS in base/allocator/partition_allocator.

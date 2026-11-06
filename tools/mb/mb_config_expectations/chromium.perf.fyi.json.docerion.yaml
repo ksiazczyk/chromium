@@ -1,0 +1,4 @@
+# Docerion header of chromium.perf.fyi.json.
+type: config
+title: MB config expectations for perf FYI builders
+summary: Defines the expected GN arguments for performance FYI builders on Android, ChromeOS, Fuchsia, and Linux.

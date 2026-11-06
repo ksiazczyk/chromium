@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: MB presubmit checks
+# summary: Presubmit checks that run freeze validation, Python unit tests, and MB config validation when MB files are changed.
+# ---
+
 
 PRESUBMIT_VERSION = '2.0.0'
 

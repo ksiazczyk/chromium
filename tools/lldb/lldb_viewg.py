@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: LLDB view hierarchy graph command
+# summary: Adds a viewg LLDB command that renders the views::View hierarchy as an SVG graph using Graphviz.
+# ---
+
 """
 Creates a SVG graph of the view hierarchy, when stopped in a
 method of an object that inherits from views::View. Requires

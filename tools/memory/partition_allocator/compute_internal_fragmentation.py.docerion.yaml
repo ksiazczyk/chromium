@@ -1,0 +1,4 @@
+# Docerion header of compute_internal_fragmentation.py.
+type: script
+title: Internal fragmentation calculator
+summary: Estimates internal fragmentation by comparing a trace's memory usage against a given bucket mapping and plots the increase per bucket.

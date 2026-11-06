@@ -1,0 +1,4 @@
+# Docerion header of client.openscreen.chromium.json.
+type: config
+title: MB config expectations for OpenScreen Chromium builders
+summary: Defines the expected GN arguments for OpenScreen Chromium builders on Linux, Mac, and Windows.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Mac power measurement
+summary: Explains how to set up the environment and run browser power benchmarks, profiling and result comparison with the tools in this directory.
+relations:
+  - documents /tools/mac/power/benchmark.py
+  - references /tools/mac/power/requirements.txt
+  - documents /tools/mac/power/analyze.py
+---
+
 # Mac power measurement
 
 This directory contains the tools necessary to run different browsers and usage scenarios and measuring their

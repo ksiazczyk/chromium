@@ -1,0 +1,4 @@
+# Docerion header of navigation.
+type: source
+title: Site navigation driver script template
+summary: Jinja template for an AppleScript that cycles through a list of sites for a set number of rounds, staying on each for a fixed delay.

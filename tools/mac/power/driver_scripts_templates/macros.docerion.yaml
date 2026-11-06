@@ -1,0 +1,4 @@
+# Docerion header of macros.
+type: source
+title: Shared Jinja macros for driver script templates
+summary: Jinja macros reused across the driver script templates, providing the osascript shebang and an AppleScript block that maximizes the window.

@@ -3,6 +3,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Gitiles smart quotes Markdown extension
+# summary: Markdown extension that converts straight single and double quotes into curly quotes like Gitiles.
+# ---
+
 """Implements Gitiles' smart quotes.
 
 This extention converts dumb quotes into smart quotes like Gitiles:

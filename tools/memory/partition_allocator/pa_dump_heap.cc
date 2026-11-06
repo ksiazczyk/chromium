@@ -4,6 +4,12 @@
 
 // Dumps PartitionAlloc's heap into a file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc heap dumper
+// summary: Dumps the heap layout of a running Chrome process, walking super pages and slot spans, into a compressed JSON file.
+// ---
+
 #include <sys/types.h>
 #include <unistd.h>
 

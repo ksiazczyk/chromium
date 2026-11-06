@@ -1,0 +1,4 @@
+# Docerion header of blocklist_win.txt.
+type: config
+title: ASan Windows compile-time blocklist
+summary: Lists Windows sandbox functions and source files that are excluded from AddressSanitizer instrumentation at compile time to avoid faults before the shadow memory is initialized.

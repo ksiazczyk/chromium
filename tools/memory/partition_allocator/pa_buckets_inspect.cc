@@ -8,6 +8,12 @@
 // To use this tool, chrome needs to be compiled with the RECORD_ALLOC_INFO
 // flag.
 
+// ---docerion
+// type: source
+// title: Bucket usage inspection tool
+// summary: Connects to a running Chrome process and reports per-bucket allocation counts, sizes and fragmentation, writing stats to dump.dat.
+// ---
+
 #include <algorithm>
 #include <cstring>
 #include <ios>

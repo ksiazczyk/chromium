@@ -1,0 +1,4 @@
+# Docerion header of open_background.
+type: source
+title: Background sites driver script template
+summary: Jinja template for an AppleScript that opens all configured background sites in tabs, waits for each to load, then delays on the last tab.

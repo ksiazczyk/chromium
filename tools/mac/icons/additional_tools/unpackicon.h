@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring UnpackIcon
+// summary: Declares the UnpackIcon function used by unmakeicns to decompress RLE icon data.
+// ---
+
 #ifndef UNPACKICON_H_
 #define UNPACKICON_H_
 

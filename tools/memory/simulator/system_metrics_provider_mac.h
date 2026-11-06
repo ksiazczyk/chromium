@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS system memory metrics provider header
+// summary: Declares SystemMetricsProviderMac, a MetricsProvider that reports system-wide memory metrics on macOS.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_SYSTEM_METRICS_PROVIDER_MAC_H_
 #define TOOLS_MEMORY_SIMULATOR_SYSTEM_METRICS_PROVIDER_MAC_H_
 

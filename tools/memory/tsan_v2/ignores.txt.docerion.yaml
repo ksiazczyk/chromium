@@ -1,0 +1,4 @@
+# Docerion header of ignores.txt.
+type: config
+title: ThreadSanitizer compile-time ignore rules
+summary: Lists functions excluded from ThreadSanitizer instrumentation at compile time, with comments linking to Chromium bug reports for each rule.

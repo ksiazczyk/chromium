@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tools/l10n
+summary: Lists the code owners responsible for changes in the tools/l10n directory.

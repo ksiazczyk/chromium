@@ -1,0 +1,4 @@
+# Docerion header of bug_tracker_test.py.
+type: test
+title: Unit tests for bug_tracker.py
+summary: Verifies bug URL contents, home directory redaction, and denial summary formatting.

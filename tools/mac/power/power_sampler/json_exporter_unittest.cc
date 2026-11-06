@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JsonExporter unit tests
+// summary: Unit tests for JsonExporter covering file creation, invalid paths and the resulting JSON output content.
+// ---
+
 #include "tools/mac/power/power_sampler/json_exporter.h"
 
 #include "base/files/file_util.h"

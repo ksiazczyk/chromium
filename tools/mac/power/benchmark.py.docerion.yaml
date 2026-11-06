@@ -1,0 +1,4 @@
+# Docerion header of benchmark.py.
+type: script
+title: Browser power benchmark runner
+summary: Command-line tool that runs browsers under usage scenarios while measuring power, with options for profiling, tracing and a Kasa switch.

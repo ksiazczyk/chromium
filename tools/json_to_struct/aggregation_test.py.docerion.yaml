@@ -1,0 +1,4 @@
+# Docerion header of aggregation_test.py.
+type: test
+title: Tests for aggregation.py
+summary: Unit tests for aggregation detail extraction, alias validation and C++ aggregation code generation.

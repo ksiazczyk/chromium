@@ -1,0 +1,4 @@
+# Docerion header of sandbox_denial_watcher_test.py.
+type: test
+title: Unit tests for sandbox_denial_watcher.py
+summary: Tests filtering, batching, validation, and dialog flow with mocked log stream and dialogs.

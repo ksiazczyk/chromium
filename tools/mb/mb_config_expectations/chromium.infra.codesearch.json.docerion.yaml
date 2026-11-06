@@ -1,0 +1,4 @@
+# Docerion header of chromium.infra.codesearch.json.
+type: config
+title: MB config expectations for codesearch builders
+summary: Defines the expected GN arguments for Chromium codesearch index generators across Android, ChromeOS, Fuchsia, iOS, Linux, Mac, WebView, and Windows.

@@ -1,0 +1,4 @@
+# Docerion header of procfs_tests.py.
+type: test
+title: ProcMaps unit tests
+summary: Unit tests that verify the ProcMaps module correctly parses Linux /proc maps entries, checking permissions, offsets, devices, inodes and mapped names against expected values.

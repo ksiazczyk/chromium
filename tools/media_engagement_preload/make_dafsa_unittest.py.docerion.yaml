@@ -1,0 +1,4 @@
+# Docerion header of make_dafsa_unittest.py.
+type: test
+title: Unit tests for make_dafsa
+summary: Unittest suite covering DAFSA construction, word expansion, and label joining in make_dafsa.py.

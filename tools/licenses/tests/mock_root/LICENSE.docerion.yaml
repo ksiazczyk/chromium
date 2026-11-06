@@ -1,0 +1,4 @@
+# Docerion header of LICENSE.
+type: test
+title: Mock Chromium root license file
+summary: Mock license file placed in the test mock root to serve as fixture data for the license tooling tests.

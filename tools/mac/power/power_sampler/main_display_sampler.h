@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main display sampler header
+// summary: Declares the MainDisplaySampler class that samples the backlight level and sleep state of the main display.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_MAIN_DISPLAY_SAMPLER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_MAIN_DISPLAY_SAMPLER_H_
 

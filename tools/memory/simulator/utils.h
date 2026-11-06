@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory simulator unit conversion utilities
+// summary: Declares helper functions for converting between bytes, MB, GB and memory pages and for computing MB/s throughput in the memory simulator.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_UTILS_H_
 #define TOOLS_MEMORY_SIMULATOR_UTILS_H_
 

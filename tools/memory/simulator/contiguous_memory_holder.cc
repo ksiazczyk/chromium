@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contiguous memory holder implementation
+// summary: Implements allocation, reading and writing of contiguous memory pages through PartitionAlloc, forcing pages into the process private footprint.
+// ---
+
 #include "tools/memory/simulator/contiguous_memory_holder.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coalition sampler header
+// summary: Declares ResourceCoalitionSampler, which samples resource usage data for a macOS resource coalition of processes, including energy impact computation.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_RESOURCE_COALITION_SAMPLER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_RESOURCE_COALITION_SAMPLER_H_
 

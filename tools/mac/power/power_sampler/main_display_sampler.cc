@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main display sampler implementation
+// summary: Implements the MainDisplaySampler that reports main display brightness in percent and a display sleeping flag on macOS.
+// ---
+
 #include "tools/mac/power/power_sampler/main_display_sampler.h"
 
 #include "base/memory/ptr_util.h"

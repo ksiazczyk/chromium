@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Browser driver classes
+# summary: Defines the BrowserDriver base class and Safari and Chromium drivers that launch, monitor and tear down browsers for benchmark scenarios.
+# ---
+
 import abc
 import logging
 import os

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Monitor interface header
+// summary: Defines the Monitor interface with session start, sample and end callbacks for consuming sampler data rows.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_MONITOR_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_MONITOR_H_
 

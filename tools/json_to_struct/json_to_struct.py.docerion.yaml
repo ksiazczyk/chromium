@@ -1,0 +1,4 @@
+# Docerion header of json_to_struct.py.
+type: script
+title: 'json_to_struct: JSON to C++ struct converter'
+summary: Main script that reads a JSON schema and description and generates C++ .h and .cc files with static struct definitions.

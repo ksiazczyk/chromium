@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for json_to_struct
+# summary: Presubmit script that runs the directory's Python unit tests on changes affecting tools/json_to_struct.
+# ---
+
 """Presubmit script for changes affecting tools/json_to_struct/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

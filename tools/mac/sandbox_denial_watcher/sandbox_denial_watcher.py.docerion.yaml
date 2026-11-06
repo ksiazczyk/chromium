@@ -1,0 +1,4 @@
+# Docerion header of sandbox_denial_watcher.py.
+type: script
+title: Watcher for unexpected macOS sandbox denials
+summary: Watches macOS system logs for unexpected Chrome sandbox denials and prompts to file pre-filled bugs.

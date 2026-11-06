@@ -1,0 +1,4 @@
+# Docerion header of client.devtools-frontend.integration.json.
+type: config
+title: MB config expectations for DevTools frontend integration
+summary: Defines the expected GN arguments for the DevTools Linux builder on the devtools-frontend integration waterfall.

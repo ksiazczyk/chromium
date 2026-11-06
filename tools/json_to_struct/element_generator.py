@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: C++ element initializer generator
+# summary: Generates C++ static initializer content for elements, handling strings, UTF-16 strings, arrays and nested structs.
+# ---
+
 import json
 import struct_generator
 

@@ -1,0 +1,4 @@
+# Docerion header of test_credits.golden.
+type: test
+title: Golden output for the credits command
+summary: Expected output of licenses.py credits, an HTML credits page listing third-party projects and their licenses.

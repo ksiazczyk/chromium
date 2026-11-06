@@ -1,0 +1,4 @@
+# Docerion header of official.chrome.json.
+type: config
+title: MB build config expectations for official.chrome
+summary: Maps official Chrome Fuchsia arm64 and x64 builders to their expected GN arguments, referencing a custom args file, for MB validation.

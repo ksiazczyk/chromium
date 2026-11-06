@@ -1,0 +1,4 @@
+# Docerion header of chromium.perf.pinpoint.json.
+type: config
+title: MB config expectations for perf pinpoint builders
+summary: Defines the expected GN arguments for performance builders used by Pinpoint try jobs, largely Android variants.

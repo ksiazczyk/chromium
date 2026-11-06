@@ -1,0 +1,4 @@
+# Docerion header of escalate_sanitizer_warnings.py.
+type: script
+title: Escalate sanitizer warnings to test failures
+summary: Python script that scans test launcher JSON output for sanitizer warnings (ASan, LSan, MSan, TSan, UBSan) and rewrites successful test statuses to FAILURE so such builds fail.

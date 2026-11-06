@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: C++ struct definition generator
+# summary: Generates C++ struct definitions with const fields, including nested structs and span-based arrays, from a schema.
+# ---
+
 
 def _GenerateArrayField(field_info):
   """Generate a string defining an array field in a C structure."""

@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chrome.json.
+type: config
+title: MB build config expectations for tryserver.chrome
+summary: Maps tryserver.chrome trybots, including finch smoke and celab builders, to their expected GN arguments for MB configuration validation.

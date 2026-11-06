@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coalition sampler implementation
+// summary: Implements the ResourceCoalitionSampler that computes per-second resource usage rates for a macOS process resource coalition.
+// ---
+
 #include "tools/mac/power/power_sampler/resource_coalition_sampler.h"
 
 #include "base/memory/ptr_util.h"

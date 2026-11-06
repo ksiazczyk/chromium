@@ -1,0 +1,4 @@
+# Docerion header of build.ninja.
+type: config
+title: Ninja build rules for palloc-viewer-gui
+summary: Build file that compiles imgui, implot, and addrlookup sources and links them into the palloc-viewer-gui executable.

@@ -1,0 +1,4 @@
+# Docerion header of tryserver.chrome.gpu.json.
+type: config
+title: MB build config expectations for tryserver.chrome.gpu
+summary: Maps the gpu-fyi-try-chromeos-skylab-jacuzzi trybot to its expected GN arguments for MB configuration validation.

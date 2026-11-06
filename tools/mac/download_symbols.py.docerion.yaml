@@ -1,0 +1,4 @@
+# Docerion header of download_symbols.py.
+type: script
+title: Download dSYM symbols for official Chrome Mac builds
+summary: Downloads and extracts dSYM symbol files for official Google Chrome Mac builds by version, channel, and architecture, and can also be used as a Python module.

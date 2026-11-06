@@ -1,0 +1,4 @@
+# Docerion header of LICENSE.
+type: test
+title: Placeholder license file for metadata parsing tests
+summary: Fake license file that exists only to exercise directory metadata parsing in the license tools tests.

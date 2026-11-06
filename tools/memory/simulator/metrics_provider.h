@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsProvider abstract interface header
+// summary: Defines the abstract MetricsProvider interface whose implementations supply metric names and values for the memory simulator.
+// ---
+
 #ifndef TOOLS_MEMORY_SIMULATOR_METRICS_PROVIDER_H_
 #define TOOLS_MEMORY_SIMULATOR_METRICS_PROVIDER_H_
 

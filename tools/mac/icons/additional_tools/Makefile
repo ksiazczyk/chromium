@@ -1,3 +1,9 @@
+# ---docerion
+# type: script
+# title: Icon tools Makefile
+# summary: Builds the makeicns, unmakeicns, unpackicon and makepng tools, linking against libpng where needed and stripping the resulting binaries.
+# ---
+
 CXXFLAGS ?= -g -Os
 DSYMUTIL ?= dsymutil
 STRIP ?= strip

@@ -1,0 +1,4 @@
+# Docerion header of plot_superpages.py.
+type: script
+title: Superpage occupancy plotter
+summary: Visualizes superpage occupancy, slot span fullness and compression data from pa_dump_heap JSON output as images.

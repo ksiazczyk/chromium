@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'makepng: encode PNG from image and mask data'
+// summary: Implements EncodePNG, which merges raw image and mask buffers into an RGBA PNG file using libpng.
+// ---
+
 #include <errno.h>
 #include <fcntl.h>
 #include <png.h>

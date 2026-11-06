@@ -1,0 +1,4 @@
+# Docerion header of chromium.perf.json.
+type: config
+title: MB config expectations for Chromium perf builders
+summary: Defines the expected GN arguments for the main Chromium performance builders, largely Android variants.

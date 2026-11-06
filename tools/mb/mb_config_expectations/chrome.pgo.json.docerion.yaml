@@ -1,0 +1,4 @@
+# Docerion header of chrome.pgo.json.
+type: config
+title: MB config expectations for PGO builders
+summary: Defines the expected GN arguments for Chrome PGO builders on Android, Linux, Mac, and Windows.

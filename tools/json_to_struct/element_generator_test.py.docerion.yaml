@@ -1,0 +1,4 @@
+# Docerion header of element_generator_test.py.
+type: test
+title: Tests for element_generator.py
+summary: Unit tests verifying generated C++ field content for ints, strings, UTF-16 strings, enums, classes and arrays.

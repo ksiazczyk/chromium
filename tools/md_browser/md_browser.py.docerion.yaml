@@ -1,0 +1,4 @@
+# Docerion header of md_browser.py.
+type: source
+title: 'md_browser.py: local Markdown browser for a Git checkout'
+summary: Runs a local HTTP server that renders Markdown files from a Git checkout in a browser, emulating Gitiles styling and named anchors.

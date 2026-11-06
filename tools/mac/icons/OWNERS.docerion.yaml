@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file redirecting to Cocoa UI owners
+summary: Points code ownership for this directory to the Cocoa UI OWNERS file.

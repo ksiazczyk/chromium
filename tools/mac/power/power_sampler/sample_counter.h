@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample counter header
+// summary: Declares SampleCounter, a Monitor that counts samples and causes the sampling session to end after a maximum sample count.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_SAMPLE_COUNTER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_SAMPLE_COUNTER_H_
 

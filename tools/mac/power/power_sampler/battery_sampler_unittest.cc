@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BatterySampler unit tests
+// summary: Unit tests for BatterySampler covering creation, sampler name and datum units, and average consumption computation.
+// ---
+
 #include "tools/mac/power/power_sampler/battery_sampler.h"
 
 #include <cstdint>

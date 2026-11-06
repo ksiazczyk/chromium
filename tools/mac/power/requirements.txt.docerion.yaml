@@ -1,0 +1,4 @@
+# Docerion header of requirements.txt.
+type: config
+title: Python dependencies for the power tools
+summary: Lists required Python packages such as matplotlib, pandas, psutil and python-kasa for the Mac power measurement tools.

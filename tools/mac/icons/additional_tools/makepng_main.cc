@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry point for the makepng tool
+// summary: Command-line entry point for makepng that parses image, mask, output and dimension arguments and calls EncodePNG.
+// ---
+
 #include <stdlib.h>
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics printer implementation
+// summary: Prints a CSV header and periodic metric values collected from registered metrics providers to standard output.
+// ---
+
 #include "tools/memory/simulator/metrics_printer.h"
 
 #include <iostream>

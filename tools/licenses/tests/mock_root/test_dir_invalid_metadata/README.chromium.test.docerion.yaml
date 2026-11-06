@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.test.
+type: readme
+title: Test package README for license tools metadata parsing
+summary: Chromium-style README metadata describing a placeholder package used to test the ParseDir function in tools/licenses.py.

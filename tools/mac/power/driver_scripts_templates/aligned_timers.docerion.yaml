@@ -1,0 +1,4 @@
+# Docerion header of aligned_timers.
+type: source
+title: Aligned timers driver script template
+summary: Jinja template for an AppleScript that opens several staggered windows on spam_tasks.html so their JavaScript tasks all run visibly and unthrottled.

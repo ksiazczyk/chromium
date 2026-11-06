@@ -1,0 +1,4 @@
+# Docerion header of licenses.py.
+type: source
+title: Third-party license checking and processing utility
+summary: Scans third_party directories for license metadata, checks compliance, and generates credits and SPDX licensing output.

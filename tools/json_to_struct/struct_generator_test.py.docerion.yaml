@@ -1,0 +1,4 @@
+# Docerion header of struct_generator_test.py.
+type: test
+title: Unit tests for struct_generator
+summary: Python unittest suite verifying that GenerateField and GenerateStruct produce the expected C++ field and struct declarations for int, string, enum, array, class and nested struct schemas.

@@ -1,0 +1,4 @@
+# Docerion header of mb_config.pyl.
+type: config
+title: MB build configuration
+summary: Central configuration mapping Chromium builder groups and bots to MB build configs, mixins, and GN args location files.

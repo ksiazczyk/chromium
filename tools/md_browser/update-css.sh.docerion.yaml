@@ -1,0 +1,4 @@
+# Docerion header of update-css.sh.
+type: script
+title: update-css.sh
+summary: Shell script that downloads the latest Gitiles base, doc, and prettify CSS files and overwrites the local copies.

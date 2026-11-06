@@ -1,3 +1,12 @@
+---
+type: readme
+title: MB - The Meta-Build wrapper
+summary: Introduces MB, a wrapper around the GN build tool, describing its gen and analyze commands and linking to the user guide and design spec.
+relations:
+  - references /tools/mb/docs/design_spec.md
+  - references /tools/mb/docs/user_guide.md
+---
+
 # MB - The Meta-Build wrapper
 
 MB is a simple wrapper around the GN build tool.

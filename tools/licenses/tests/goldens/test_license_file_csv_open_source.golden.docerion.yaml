@@ -1,0 +1,4 @@
+# Docerion header of test_license_file_csv_open_source.golden.
+type: test
+title: Golden output for license_file with --open-source
+summary: Expected failure output when licenses.py license_file is run with the unsupported --open-source flag.

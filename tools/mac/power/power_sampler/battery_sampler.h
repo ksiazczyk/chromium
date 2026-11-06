@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatterySampler class header
+// summary: Declares the BatterySampler class that samples battery voltage, capacities and average power consumption from the IOPMPowerSource.
+// ---
+
 #ifndef TOOLS_MAC_POWER_POWER_SAMPLER_BATTERY_SAMPLER_H_
 #define TOOLS_MAC_POWER_POWER_SAMPLER_BATTERY_SAMPLER_H_
 

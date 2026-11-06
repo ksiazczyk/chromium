@@ -1,0 +1,4 @@
+# Docerion header of internal.chrome.fyi.json.
+type: config
+title: MB build config expectations for internal.chrome.fyi
+summary: Maps internal Chrome FYI builders, including finch smoke, celab and lorenz-graph builders, to their expected GN arguments for MB validation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the sampling controller
+// summary: Unit tests for SamplingController verifying sampler registration, monitor notifications and session lifecycle using test and mock samplers and monitors.
+// ---
+
 #include "tools/mac/power/power_sampler/sampling_controller.h"
 
 #include "base/test/task_environment.h"

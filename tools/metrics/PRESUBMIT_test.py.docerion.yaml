@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for the PRESUBMIT quote consistency check
+summary: Unit tests verifying the quote consistency check in PRESUBMIT.py, covering single, double, triple, and implicitly concatenated quote styles.

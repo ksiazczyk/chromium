@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling controller implementation
+// summary: Implements SamplingController, which collects datums from all registered samplers on a sampling event and notifies monitors of each sample.
+// ---
+
 #include "tools/mac/power/power_sampler/sampling_controller.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of client.v8.chromium.json.
+type: config
+title: MB build config expectations for client.v8.chromium
+summary: Maps the Linux V8 API Stability builder to its expected GN arguments for MB configuration validation on the client.v8.chromium bucket.

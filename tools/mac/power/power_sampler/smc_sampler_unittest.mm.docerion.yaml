@@ -1,0 +1,4 @@
+# Docerion header of smc_sampler_unittest.mm.
+type: test
+title: SMC sampler unit tests
+summary: Tests the SMC sampler with a fake SMC reader, checking datum names, units and sample values including missing fields.
