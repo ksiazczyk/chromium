@@ -1,0 +1,4 @@
+# Docerion header of ios_trusted_vault_service_factory.mm.
+type: source
+title: IOSTrustedVaultServiceFactory implementation
+summary: Implements the factory that builds a TrustedVaultService per profile, wiring an IOSTrustedVaultClient for the Chrome Sync security domain.

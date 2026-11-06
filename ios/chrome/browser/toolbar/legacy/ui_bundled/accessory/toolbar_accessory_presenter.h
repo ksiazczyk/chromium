@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar accessory presenter header
+// summary: Header declaring ToolbarAccessoryPresenter, a contained presenter that displays accessories over or next to the toolbar on iPhone and iPad.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_ACCESSORY_TOOLBAR_ACCESSORY_PRESENTER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_ACCESSORY_TOOLBAR_ACCESSORY_PRESENTER_H_
 

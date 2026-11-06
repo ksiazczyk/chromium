@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab Groups promo coordinator header
+// summary: Declares TabGroupsPromoCoordinator, a Chrome coordinator interface for presenting the Tab Groups promo screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_COORDINATOR_TAB_GROUPS_PROMO_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_COORDINATOR_TAB_GROUPS_PROMO_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_ios_translate_client.mm.
+type: source
+title: ChromeIOSTranslateClient implementation
+summary: Implements the translate client, wiring the translate manager, language services, metrics, and infobar creation.

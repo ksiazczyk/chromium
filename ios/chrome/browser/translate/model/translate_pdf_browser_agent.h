@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate PDF browser agent header
+// summary: Declares a browser agent that wires the TranslatePDFDelegate into TranslatePDFMetricLogger instances as tabs are added.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_PDF_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_PDF_BROWSER_AGENT_H_
 

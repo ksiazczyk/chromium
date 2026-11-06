@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate infobar metrics recorder header
+// summary: Declares UMA histogram enums and the TranslateInfobarMetricsRecorder class for recording Translate banner and modal events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_INFOBAR_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_INFOBAR_METRICS_RECORDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tips_notification_client_unittest.mm.
+type: test
+title: Tips notification client unit tests
+summary: Unit tests for TipsNotificationClient covering notification scheduling, interaction handling and opt-in behavior with mocked notification center and services.

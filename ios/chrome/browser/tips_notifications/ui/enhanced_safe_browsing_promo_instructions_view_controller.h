@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enhanced Safe Browsing promo instructions view controller header
+// summary: Declares a view controller that displays step-by-step instructions for enabling Enhanced Safe Browsing.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_ENHANCED_SAFE_BROWSING_PROMO_INSTRUCTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_ENHANCED_SAFE_BROWSING_PROMO_INSTRUCTIONS_VIEW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar tab grid badge button header
+// summary: Declares a toolbar button that overlays the tab count on a tab grid symbol and tracks tab group membership.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_TAB_GRID_BADGE_BUTTON_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_TAB_GRID_BADGE_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group indicator mutator protocol
+// summary: Declares handler methods for view actions such as sharing, managing, editing, adding tabs, closing, ungrouping, deleting, and leaving groups.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_UI_TAB_GROUP_INDICATOR_MUTATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_UI_TAB_GROUP_INDICATOR_MUTATOR_H_
 

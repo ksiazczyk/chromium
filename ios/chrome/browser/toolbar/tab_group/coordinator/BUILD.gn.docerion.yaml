@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the tab group indicator coordinator
+summary: Defines the coordinator source_set for the tab group indicator, listing its Objective-C sources and dependencies on collaboration, saved tab groups, and shared Chrome iOS components.

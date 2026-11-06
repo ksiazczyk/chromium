@@ -1,0 +1,4 @@
+# Docerion header of translate_service_ios.mm.
+type: source
+title: Translate service iOS implementation
+summary: Implements the iOS translate service singleton, wiring the translate download manager, language list updates and translatable URL rules.

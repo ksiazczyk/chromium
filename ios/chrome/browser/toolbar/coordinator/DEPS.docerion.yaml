@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Toolbar coordinator DEPS
+summary: Specifies the header include rules allowed for code in the toolbar coordinator directory.

@@ -1,0 +1,4 @@
+# Docerion header of translate_app_interface.mm.
+type: source
+title: Translate app interface for Earl Grey tests
+summary: Implements the TranslateAppInterface used by iOS UI tests, including fakes for network connectivity and language detection observation.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for toolbar tests
+summary: Grants the test directory permission to include headers from the broadcaster UI directory.

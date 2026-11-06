@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for tips notifications EG tests
+summary: GN build file defining the eg2 Earl Grey test source set for tips notifications and promos, listing its sources and dependencies.

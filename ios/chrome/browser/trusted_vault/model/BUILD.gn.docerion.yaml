@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Trusted vault model BUILD.gn build definition
+summary: Defines the model source_set for the iOS trusted vault client and service factory, listing their sources and build dependencies.

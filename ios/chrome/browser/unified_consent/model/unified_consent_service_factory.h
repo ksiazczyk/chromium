@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnifiedConsentServiceFactory header
+// summary: Declares UnifiedConsentServiceFactory, a profile-keyed service factory that builds UnifiedConsentService instances for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIFIED_CONSENT_MODEL_UNIFIED_CONSENT_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_UNIFIED_CONSENT_MODEL_UNIFIED_CONSENT_SERVICE_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of unified_consent_service_factory.mm.
+type: source
+title: UnifiedConsentServiceFactory implementation
+summary: Implements UnifiedConsentServiceFactory, building UnifiedConsentService with syncable prefs, identity manager, and sync service while recording consent settings metrics.

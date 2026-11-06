@@ -1,0 +1,4 @@
+# Docerion header of toolbar_button.mm.
+type: source
+title: ToolbarButton class implementation
+summary: Implements ToolbarButton, handling background and shadow setup, tint colors, appearance updates for trait changes and context menu interaction.

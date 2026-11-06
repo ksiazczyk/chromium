@@ -1,0 +1,4 @@
+# Docerion header of enhanced_safe_browsing_promo_view_controller.mm.
+type: source
+title: Enhanced Safe Browsing promo view controller implementation
+summary: Implements the Enhanced Safe Browsing promo with Lottie animation names, localized title, subtitle, and action strings, and an accessibility identifier.

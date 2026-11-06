@@ -1,0 +1,4 @@
+# Docerion header of main_toolbar_mediator.mm.
+type: source
+title: Main toolbar mediator implementation
+summary: Implements the main toolbar mediator, logging omnibox position metrics and updating the layout state toolbar position.

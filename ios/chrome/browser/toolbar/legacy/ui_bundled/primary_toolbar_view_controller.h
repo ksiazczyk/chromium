@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Primary toolbar view controller header
+// summary: Declares the view controller for the primary toolbar at the top of the screen, exposing omnibox state, share button, and tab group indicator access.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_PRIMARY_TOOLBAR_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_PRIMARY_TOOLBAR_VIEW_CONTROLLER_H_
 

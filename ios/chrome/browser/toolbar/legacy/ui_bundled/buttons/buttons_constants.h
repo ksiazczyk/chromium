@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button blue dot accessibility ID declaration
+// summary: Declares the accessibility identifier constant for the blue dot view shown on toolbar buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_BUTTONS_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BUTTONS_BUTTONS_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tips notifications coordinator
+summary: Declares the allowed include rules for the directory, permitting dependencies on the Lens UI bundled package.

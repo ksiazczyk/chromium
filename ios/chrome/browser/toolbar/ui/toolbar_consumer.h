@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar consumer protocol
+// summary: Declares the ToolbarConsumer protocol with methods for updating button states, omnibox presence, loading progress, menus, banner promos, and tab count.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_TOOLBAR_CONSUMER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_TOOLBAR_CONSUMER_H_
 

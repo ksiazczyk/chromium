@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button size constants header
+// summary: Declares the shared toolbar button size and square corner radius constants used by the iOS toolbar UI.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_BUTTON_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_BUTTON_CONSTANTS_H_
 

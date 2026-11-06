@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tips notifications utility declarations
+// summary: Declares notification identifiers, preference keys, and enums for tips notification types, user classifications, and metrics events used by iOS tips notifications.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_MODEL_UTILS_H_
 #define IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_MODEL_UTILS_H_
 

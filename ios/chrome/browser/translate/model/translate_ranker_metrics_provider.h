@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate ranker metrics provider header
+// summary: Declares a metrics provider that supplies translate ranker session data and toggles ranker logging with metrics recording.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_RANKER_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_RANKER_METRICS_PROVIDER_H_
 

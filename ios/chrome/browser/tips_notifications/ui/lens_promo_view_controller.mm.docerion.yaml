@@ -1,0 +1,4 @@
+# Docerion header of lens_promo_view_controller.mm.
+type: source
+title: Lens promo view controller implementation
+summary: Implements the Lens promo with its animation name, light and dark mode color providers, localized texts, and action strings.

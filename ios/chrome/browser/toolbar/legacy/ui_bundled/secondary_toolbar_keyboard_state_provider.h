@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secondary toolbar keyboard state provider protocol
+// summary: Declares a protocol to query keyboard activity and find navigator visibility for the active web content.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_SECONDARY_TOOLBAR_KEYBOARD_STATE_PROVIDER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_SECONDARY_TOOLBAR_KEYBOARD_STATE_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tips_notifications_egtest.mm.
+type: test
+title: Earl Grey tests for tips notifications
+summary: Earl Grey UI tests for tips notifications, covering permission popups, tapping and dismissing iOS notifications, and reactivation flows.

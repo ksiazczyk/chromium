@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the tab group indicator coordinator
+// summary: Declares the TabGroupIndicatorCoordinator Chrome coordinator that manages the tab group indicator view shown in the primary toolbar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_COORDINATOR_TAB_GROUP_INDICATOR_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_COORDINATOR_TAB_GROUP_INDICATOR_COORDINATOR_H_
 

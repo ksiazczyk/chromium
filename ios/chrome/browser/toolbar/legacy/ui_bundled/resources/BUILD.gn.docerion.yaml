@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Toolbar legacy resources build definition
+summary: Defines a bundle_data_xcassets GN target that packages the toolbar asset catalog and its banner promo color sets for the legacy iOS toolbar UI.

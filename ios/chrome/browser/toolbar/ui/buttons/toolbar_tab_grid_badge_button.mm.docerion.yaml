@@ -1,0 +1,4 @@
+# Docerion header of toolbar_tab_grid_badge_button.mm.
+type: source
+title: Toolbar tab grid badge button implementation
+summary: Implements the tab grid badge button with a tab count label, symbol view, and constraint sets for normal and tab group states.

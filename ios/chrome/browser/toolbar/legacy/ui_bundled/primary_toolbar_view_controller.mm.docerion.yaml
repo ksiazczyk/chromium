@@ -1,0 +1,4 @@
+# Docerion header of primary_toolbar_view_controller.mm.
+type: source
+title: Primary toolbar view controller implementation
+summary: Implements the primary toolbar view controller, handling banner promos, fullscreen progress, side swipe snapshots, and keyboard commands.

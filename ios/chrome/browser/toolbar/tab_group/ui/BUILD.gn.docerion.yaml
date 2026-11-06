@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab group toolbar UI build file
+summary: Defines the ui and constants source sets, their sources, dependencies, and UIKit framework linkage for the tab group indicator.

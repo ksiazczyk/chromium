@@ -1,0 +1,4 @@
+# Docerion header of tab_group_indicator_mediator.mm.
+type: source
+title: Implementation of the tab group indicator mediator
+summary: Implements the tab group indicator mediator, observing web state list, tab group sync, and data sharing changes to update the toolbar indicator and trigger group actions.

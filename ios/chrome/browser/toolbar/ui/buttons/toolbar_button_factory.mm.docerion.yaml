@@ -1,0 +1,4 @@
+# Docerion header of toolbar_button_factory.mm.
+type: source
+title: ToolbarButtonFactory implementation
+summary: Implements ToolbarButtonFactory, building toolbar buttons from symbols with visibility masks, accessibility labels and layout-specific adjustments.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Trusted vault model DEPS include rules
+summary: Declares the allowed include rules for the directory, covering signin identity manager, trusted vault, profile, and signin model dependencies.

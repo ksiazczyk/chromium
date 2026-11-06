@@ -1,0 +1,4 @@
+# Docerion header of toolbar_view_controller.mm.
+type: source
+title: ToolbarViewController implementation
+summary: Implements the iOS Chrome toolbar view controller, covering button stack layout, transition animations, NTP scroll progress, and banner promo display.

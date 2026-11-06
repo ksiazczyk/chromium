@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbars size broadcasting utility interface
+// summary: Declares functions to start and stop broadcasting toolbar size properties through a ChromeBroadcaster.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_FULLSCREEN_TOOLBARS_SIZE_BROADCASTING_UTIL_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_FULLSCREEN_TOOLBARS_SIZE_BROADCASTING_UTIL_H_
 

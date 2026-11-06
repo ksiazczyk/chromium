@@ -1,0 +1,4 @@
+# Docerion header of utils.mm.
+type: source
+title: Tips notifications utility implementation
+summary: Implements tips notification helpers, including localized title and body content selection per notification type and promo action metrics logging.

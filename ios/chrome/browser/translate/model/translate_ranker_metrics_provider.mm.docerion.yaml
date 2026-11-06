@@ -1,0 +1,4 @@
+# Docerion header of translate_ranker_metrics_provider.mm.
+type: source
+title: Translate ranker metrics provider implementation
+summary: Implements the metrics provider, flushing translate ranker events into UMA protos and updating logging state across loaded profiles.

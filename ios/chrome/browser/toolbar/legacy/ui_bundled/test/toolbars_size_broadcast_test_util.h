@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbars size broadcast test utility interface
+// summary: Declares a helper that verifies whether toolbar size properties are broadcast through a broadcaster.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_TEST_TOOLBARS_SIZE_BROADCAST_TEST_UTIL_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_TEST_TOOLBARS_SIZE_BROADCAST_TEST_UTIL_H_
 

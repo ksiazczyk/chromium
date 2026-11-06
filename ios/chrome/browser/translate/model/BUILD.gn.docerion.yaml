@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for iOS translate model
+summary: Defines the public, model, unit test, and test support source sets with their dependencies for the iOS Chrome translate model.

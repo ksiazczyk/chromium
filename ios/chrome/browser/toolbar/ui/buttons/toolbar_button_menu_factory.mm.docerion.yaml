@@ -1,0 +1,4 @@
+# Docerion header of toolbar_button_menu_factory.mm.
+type: source
+title: ToolbarButtonMenuFactory implementation
+summary: Implements ToolbarButtonMenuFactory, building context menus from navigation items, favicons, clipboard content, search engines and tab grid state.

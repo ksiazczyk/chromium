@@ -1,0 +1,4 @@
+# Docerion header of tab_groups_promo_view_controller.mm.
+type: source
+title: Tab groups promo view controller implementation
+summary: Implements the tab groups promo with its Lottie animation, localized texts, and take me there and keep browsing buttons.

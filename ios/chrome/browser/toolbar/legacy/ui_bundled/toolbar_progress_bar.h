@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar progress bar header
+// summary: Declares the toolbar page-load progress bar with animated hiding and a VoiceOver-friendly accessibility value.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_TOOLBAR_PROGRESS_BAR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_TOOLBAR_PROGRESS_BAR_H_
 

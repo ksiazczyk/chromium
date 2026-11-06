@@ -1,0 +1,4 @@
+# Docerion header of toolbar_button_actions_handler.mm.
+type: source
+title: Toolbar button actions handler implementation
+summary: Implements toolbar button actions, triggering web navigation, the tab switcher, share sheet, new tab commands, and intent donations.

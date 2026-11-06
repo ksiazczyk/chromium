@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for toolbar accessory
+summary: GN build file defining the accessory and constants source sets, their source files, dependencies and the UIKit framework.

@@ -1,0 +1,4 @@
+# Docerion header of toolbar_accessory_constants.mm.
+type: source
+title: Toolbar accessory constants implementation
+summary: Implementation defining the accessibility identifier string for the toolbar accessory container view.

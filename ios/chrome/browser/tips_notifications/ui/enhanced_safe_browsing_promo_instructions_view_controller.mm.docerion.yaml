@@ -1,0 +1,4 @@
+# Docerion header of enhanced_safe_browsing_promo_instructions_view_controller.mm.
+type: source
+title: Enhanced Safe Browsing promo instructions view controller implementation
+summary: Implements the Enhanced Safe Browsing instructions sheet with a localized title, instruction steps, primary action, and accessibility identifier.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy toolbar consumer protocol
+// summary: Declares the LegacyToolbarConsumer protocol used to update the legacy toolbar's navigation, loading, tab count, and other UI states.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_LEGACY_TOOLBAR_CONSUMER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_LEGACY_TOOLBAR_CONSUMER_H_
 

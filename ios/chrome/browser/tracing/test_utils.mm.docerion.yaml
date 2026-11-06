@@ -1,0 +1,4 @@
+# Docerion header of test_utils.mm.
+type: test
+title: Implementation of the tracing controller test helper
+summary: Implements test setup and teardown for the controller, including an in-memory trace report database and Perfetto reset for testing.

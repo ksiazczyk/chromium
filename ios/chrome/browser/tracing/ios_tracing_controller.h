@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS tracing controller declaration
+// summary: Declares the iOS tracing controller singleton that initializes Perfetto in-process and manages startup tracing and developer trace configs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRACING_IOS_TRACING_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TRACING_IOS_TRACING_CONTROLLER_H_
 

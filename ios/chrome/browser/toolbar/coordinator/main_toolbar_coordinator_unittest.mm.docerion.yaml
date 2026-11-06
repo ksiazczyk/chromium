@@ -1,0 +1,4 @@
+# Docerion header of main_toolbar_coordinator_unittest.mm.
+type: test
+title: Main toolbar coordinator unit tests
+summary: Unit tests for the main toolbar coordinator using test browser, profile, and scene state fixtures.

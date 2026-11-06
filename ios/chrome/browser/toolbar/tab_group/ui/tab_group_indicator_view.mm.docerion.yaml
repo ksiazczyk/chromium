@@ -1,0 +1,4 @@
+# Docerion header of tab_group_indicator_view.mm.
+type: source
+title: Tab group indicator view implementation
+summary: Implements the indicator view with title label, colored dot, menu button, face pile, and actions for sharing and managing the tab group.

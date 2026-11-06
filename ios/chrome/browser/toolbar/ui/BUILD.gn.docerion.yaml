@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Toolbar UI build configuration
+summary: Defines GN source sets for the iOS toolbar UI, including view, constants, utils, and height delegate targets with their dependencies and frameworks.

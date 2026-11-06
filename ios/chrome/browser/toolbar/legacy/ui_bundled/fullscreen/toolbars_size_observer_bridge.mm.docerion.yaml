@@ -1,0 +1,4 @@
+# Docerion header of toolbars_size_observer_bridge.mm.
+type: source
+title: ToolbarsSizeObserverBridge implementation
+summary: Implements the bridge that forwards top and bottom toolbar height change callbacks to the registered Objective-C observer, validating the weak references before dispatch.

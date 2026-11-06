@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlKeyedDataCollectionConsentHelperFactoryIOS header
+// summary: Declares UrlKeyedDataCollectionConsentHelperFactoryIOS, a profile-keyed service factory for the iOS URL-keyed data collection consent helper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_UNIFIED_CONSENT_MODEL_URL_KEYED_DATA_COLLECTION_CONSENT_HELPER_FACTORY_IOS_H_
 #define IOS_CHROME_BROWSER_UNIFIED_CONSENT_MODEL_URL_KEYED_DATA_COLLECTION_CONSENT_HELPER_FACTORY_IOS_H_
 

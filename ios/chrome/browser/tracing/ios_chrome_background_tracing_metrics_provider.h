@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS background tracing metrics provider declaration
+// summary: Declares the iOS-specific metrics provider that supplies background tracing reports and core system profile metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRACING_IOS_CHROME_BACKGROUND_TRACING_METRICS_PROVIDER_H_
 #define IOS_CHROME_BROWSER_TRACING_IOS_CHROME_BACKGROUND_TRACING_METRICS_PROVIDER_H_
 

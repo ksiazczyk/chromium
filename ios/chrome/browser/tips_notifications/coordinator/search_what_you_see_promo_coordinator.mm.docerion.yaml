@@ -1,0 +1,4 @@
+# Docerion header of search_what_you_see_promo_coordinator.mm.
+type: source
+title: Search What You See promo coordinator implementation
+summary: Presents the Search What You See promo, shows an instructions screen, and opens the Lens learn-more URL in a new tab.

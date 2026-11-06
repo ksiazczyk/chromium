@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate service iOS header
+// summary: Declares the TranslateServiceIOS singleton that initializes and shuts down translate resources and exposes target language and URL checks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_SERVICE_IOS_H_
 #define IOS_CHROME_BROWSER_TRANSLATE_MODEL_TRANSLATE_SERVICE_IOS_H_
 

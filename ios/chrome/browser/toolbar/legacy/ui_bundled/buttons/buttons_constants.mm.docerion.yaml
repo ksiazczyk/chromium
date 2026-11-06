@@ -1,0 +1,4 @@
+# Docerion header of buttons_constants.mm.
+type: source
+title: Toolbar button blue dot accessibility ID definition
+summary: Defines the accessibility identifier string for the blue dot view on toolbar buttons.

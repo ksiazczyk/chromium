@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tips notifications model
+summary: GN build file defining the client, utils and unit_tests source sets with their sources, dependencies and frameworks for the iOS tips notifications model.

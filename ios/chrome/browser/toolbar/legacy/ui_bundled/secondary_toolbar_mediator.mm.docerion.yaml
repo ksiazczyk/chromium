@@ -1,0 +1,4 @@
+# Docerion header of secondary_toolbar_mediator.mm.
+type: source
+title: Secondary toolbar mediator implementation
+summary: Implements the secondary toolbar mediator, observing the web state list and contextual panel to update tab group state and keyboard info.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for toolbar buttons
+summary: Defines the GN source sets for the toolbar buttons code, its dependencies, constants, and the unit test target.

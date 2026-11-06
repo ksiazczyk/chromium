@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate protocol for the tab group indicator mediator
+// summary: Declares the TabGroupIndicatorMediatorDelegate protocol with methods for editing, sharing, confirming, and leaving or deleting shared tab groups.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_COORDINATOR_TAB_GROUP_INDICATOR_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_COORDINATOR_TAB_GROUP_INDICATOR_MEDIATOR_DELEGATE_H_
 

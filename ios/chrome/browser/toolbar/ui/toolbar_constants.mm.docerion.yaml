@@ -1,0 +1,4 @@
+# Docerion header of toolbar_constants.mm.
+type: source
+title: Toolbar constants implementation
+summary: Defines the values of toolbar accessibility identifiers and layout constants such as toolbar heights, padding, and glass effect dimensions.

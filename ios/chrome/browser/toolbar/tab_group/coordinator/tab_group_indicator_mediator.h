@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the tab group indicator mediator
+// summary: Declares the TabGroupIndicatorMediator that propagates tab group updates to the indicator view, with services such as tab group sync, share kit, and data sharing injected at init.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_COORDINATOR_TAB_GROUP_INDICATOR_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_COORDINATOR_TAB_GROUP_INDICATOR_MEDIATOR_H_
 

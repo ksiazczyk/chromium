@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarsSize class interface
+// summary: Declares the ToolbarsSize object holding collapsed and expanded toolbar heights with observer registration support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_FULLSCREEN_TOOLBARS_SIZE_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_FULLSCREEN_TOOLBARS_SIZE_H_
 

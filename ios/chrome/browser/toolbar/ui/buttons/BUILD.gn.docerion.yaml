@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for toolbar buttons and menus
+summary: GN build file defining the buttons and menus source sets with their sources, dependencies and UIKit framework for the iOS toolbar buttons.

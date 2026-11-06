@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Primary toolbar view controller delegate protocol
+// summary: Defines the delegate protocol for the primary toolbar view controller, covering trait changes, location bar expansion, and close requests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_PRIMARY_TOOLBAR_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_PRIMARY_TOOLBAR_VIEW_CONTROLLER_DELEGATE_H_
 

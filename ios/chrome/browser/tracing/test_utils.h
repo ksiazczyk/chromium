@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RAII test helper for the iOS tracing controller
+// summary: Declares a test subclass of IOSTracingController that initializes Perfetto and background tracing for tests and cleans up global state on destruction.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRACING_TEST_UTILS_H_
 #define IOS_CHROME_BROWSER_TRACING_TEST_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of tips_promos_egtest.mm.
+type: test
+title: Earl Grey tests for tips promos
+summary: Earl Grey UI tests for tips promos, verifying the Lens promo and Enhanced Safe Browsing promo interactions and their coordinator actions.

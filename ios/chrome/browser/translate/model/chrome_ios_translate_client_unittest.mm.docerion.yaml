@@ -1,0 +1,4 @@
+# Docerion header of chrome_ios_translate_client_unittest.mm.
+type: test
+title: Unit tests for ChromeIOSTranslateClient
+summary: Verifies translate UI creation, metrics logging, and page-load behavior of the translate client.

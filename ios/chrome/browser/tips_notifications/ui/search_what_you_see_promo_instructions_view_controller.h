@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search What You See promo instructions view controller interface
+// summary: Declares a bottom sheet view controller that displays step-by-step instructions for the Search What You See feature.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_SEARCH_WHAT_YOU_SEE_PROMO_INSTRUCTIONS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_TIPS_NOTIFICATIONS_UI_SEARCH_WHAT_YOU_SEE_PROMO_INSTRUCTIONS_VIEW_CONTROLLER_H_
 

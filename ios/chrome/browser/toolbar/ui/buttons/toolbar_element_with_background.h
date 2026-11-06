@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar element with background protocol
+// summary: Defines a protocol for toolbar elements that expose a background alpha setter.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_ELEMENT_WITH_BACKGROUND_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_ELEMENT_WITH_BACKGROUND_H_
 

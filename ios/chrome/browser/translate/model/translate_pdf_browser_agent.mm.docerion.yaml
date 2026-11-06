@@ -1,0 +1,4 @@
+# Docerion header of translate_pdf_browser_agent.mm.
+type: source
+title: Translate PDF browser agent implementation
+summary: Implements the browser agent that attaches the PDF metric logger delegate and reports whether an opener tab was translated.

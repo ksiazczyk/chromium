@@ -1,0 +1,4 @@
+# Docerion header of search_what_you_see_promo_view_controller.mm.
+type: source
+title: Search What You See promo view controller implementation
+summary: Implements the Search What You See promo, assembling animation, title, and button brick configurations with themed colors.

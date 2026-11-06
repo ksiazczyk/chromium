@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group indicator consumer protocol
+// summary: Declares the consumer interface for updating the indicator with group title, color palette, share availability, sharing state, and face pile provider.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_UI_TAB_GROUP_INDICATOR_CONSUMER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_TAB_GROUP_UI_TAB_GROUP_INDICATOR_CONSUMER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of legacy_toolbar_button.mm.
+type: source
+title: Legacy toolbar button implementation
+summary: Implements the legacy toolbar button, handling size class visibility, lazy image loading, IPH highlighting, and the blue dot promo view.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for toolbar buttons
+summary: Lists the allowed include rules for the toolbar buttons directory, granting access to content suggestions and Gemini constants.

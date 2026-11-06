@@ -1,0 +1,4 @@
+# Docerion header of fake_translate_infobar_delegate.mm.
+type: test
+title: Fake translate infobar delegate implementation
+summary: Implements the fake infobar delegate and its factory using mock translate drivers, clients, rankers, and language models.

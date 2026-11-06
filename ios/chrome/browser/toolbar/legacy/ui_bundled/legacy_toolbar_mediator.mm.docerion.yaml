@@ -1,0 +1,4 @@
+# Docerion header of legacy_toolbar_mediator.mm.
+type: source
+title: Legacy toolbar mediator implementation
+summary: Implements LegacyToolbarMediator, observing web states and the bottom omnibox preference to update toolbar and omnibox positioning.

@@ -1,0 +1,4 @@
+# Docerion header of translate_infobar_metrics_recorder.mm.
+type: source
+title: Translate infobar metrics recorder implementation
+summary: Logs Translate banner, modal and presentation events to the Mobile.Messages.Translate UMA histograms.

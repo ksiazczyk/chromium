@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake translate infobar delegate for tests
+// summary: Declares a fake TranslateInfoBarDelegate and factory that can trigger observer callbacks in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TRANSLATE_MODEL_FAKE_TRANSLATE_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_TRANSLATE_MODEL_FAKE_TRANSLATE_INFOBAR_DELEGATE_H_
 

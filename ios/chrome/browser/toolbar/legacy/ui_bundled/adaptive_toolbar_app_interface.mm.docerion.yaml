@@ -1,0 +1,4 @@
+# Docerion header of adaptive_toolbar_app_interface.mm.
+type: source
+title: Adaptive toolbar app interface implementation
+summary: Implements the app interface helper that creates a test infobar on the current web state's infobar manager.

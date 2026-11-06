@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Banner promo view interface
+// summary: Declares BannerPromoView, a view for showing banner promos in the toolbar, and its delegate protocol for tap and close button events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BANNER_PROMO_VIEW_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_BANNER_PROMO_VIEW_H_
 

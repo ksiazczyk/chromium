@@ -1,0 +1,4 @@
+# Docerion header of toolbar_buttons_utils.mm.
+type: source
+title: Toolbar buttons utilities implementation
+summary: Implements toolbar element background color, shadow, and corner radius helpers, with dedicated styling for the glass toolbar feature.

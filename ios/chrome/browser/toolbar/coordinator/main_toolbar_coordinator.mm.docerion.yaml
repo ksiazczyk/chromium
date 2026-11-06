@@ -1,0 +1,4 @@
+# Docerion header of main_toolbar_coordinator.mm.
+type: source
+title: Main toolbar coordinator implementation
+summary: Implements the main toolbar coordinator, handling toolbar updates, omnibox focus, and command dispatching.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button menu factory delegate protocol
+// summary: Declares the ToolbarButtonMenuFactoryDelegate protocol with actions for navigating to pages and creating tabs or tab groups from toolbar context menus.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_BUTTON_MENU_FACTORY_DELEGATE_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_BUTTONS_TOOLBAR_BUTTON_MENU_FACTORY_DELEGATE_H_
 

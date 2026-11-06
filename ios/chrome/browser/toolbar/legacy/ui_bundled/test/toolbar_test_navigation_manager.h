@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarTestNavigationManager interface
+// summary: Declares a fake navigation manager with settable back and forward availability for toolbar tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_TEST_TOOLBAR_TEST_NAVIGATION_MANAGER_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_LEGACY_UI_BUNDLED_TEST_TOOLBAR_TEST_NAVIGATION_MANAGER_H_
 

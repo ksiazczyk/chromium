@@ -1,0 +1,4 @@
+# Docerion header of url_keyed_data_collection_consent_helper_factory_ios.mm.
+type: source
+title: UrlKeyedDataCollectionConsentHelperFactoryIOS implementation
+summary: Implements UrlKeyedDataCollectionConsentHelperFactoryIOS, creating a UrlKeyedDataCollectionConsentHelperIOS from the profile's pref service.

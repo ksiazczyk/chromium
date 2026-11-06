@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for iOS Chrome tracing dependencies
+summary: Lists the allowed include paths for tracing components, services tracing, and Perfetto headers used in this directory.

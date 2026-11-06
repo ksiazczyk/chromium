@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for unified consent model
+summary: Points to the signin iOS OWNERS file to define the code owners for this directory.

@@ -1,0 +1,4 @@
+# Docerion header of adaptive_toolbar_coordinator.mm.
+type: source
+title: Adaptive toolbar coordinator implementation
+summary: Implements the adaptive toolbar coordinator, wiring the mediator, view controller, button actions, and fullscreen, bubble, and side swipe handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar mutator protocol
+// summary: Declares the ToolbarMutator protocol handling toolbar button actions such as navigation, reload, stop, fullscreen exit, and assistant taps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TOOLBAR_UI_TOOLBAR_MUTATOR_H_
 #define IOS_CHROME_BROWSER_TOOLBAR_UI_TOOLBAR_MUTATOR_H_
 

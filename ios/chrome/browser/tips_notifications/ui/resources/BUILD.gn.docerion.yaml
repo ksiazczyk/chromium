@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tips notifications resources build file
+summary: GN build target that packages the promo Lottie JSON files as bundle resources for the iOS tips notifications UI.

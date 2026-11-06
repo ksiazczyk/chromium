@@ -1,0 +1,4 @@
+# Docerion header of tips_promo_view_controller.mm.
+type: source
+title: Tips promo view controller implementation
+summary: Implements the tips promo layout, building the Lottie animation, title, and subtitle stack with light and dark mode animation handling.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tips notifications model
+summary: Defines the allowed include directories for code in the tips notifications model directory.

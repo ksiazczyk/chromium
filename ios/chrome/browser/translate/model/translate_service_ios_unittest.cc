@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateServiceIOS unit tests
+// summary: Unit tests verifying that TranslateServiceIOS::IsTranslatableURL rejects empty and Chrome internal URLs while accepting ordinary web page URLs.
+// ---
+
 #include "ios/chrome/browser/translate/model/translate_service_ios.h"
 
 #include "ios/chrome/browser/shared/model/url/chrome_url_constants.h"
