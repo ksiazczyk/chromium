@@ -1,0 +1,4 @@
+# Docerion header of account_info_fetcher_ios.mm.
+type: source
+title: AccountInfoFetcherIos implementation
+summary: Fetches account details via ChromeAccountManagerService, using cached or requested hosted domain data to build AccountInfo results.

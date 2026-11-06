@@ -1,0 +1,4 @@
+# Docerion header of print_activity_unittest.mm.
+type: test
+title: Print activity unit tests
+summary: Unit tests covering PrintActivity availability for printable pages and images and that execution calls the appropriate print handler methods.

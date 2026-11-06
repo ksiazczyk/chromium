@@ -1,0 +1,4 @@
+# Docerion header of system_identity_manager_unittest.mm.
+type: test
+title: System identity manager unit tests
+summary: Unit tests for SystemIdentityManager using a test subclass and a mock observer to verify observer notification behavior.

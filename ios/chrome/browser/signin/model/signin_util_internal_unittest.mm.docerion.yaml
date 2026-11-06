@@ -1,0 +1,4 @@
+# Docerion header of signin_util_internal_unittest.mm.
+type: test
+title: Signin internal utility unit tests
+summary: Unit tests verifying sentinel file creation and device restore detection in the internal signin utility.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System identity manager interface
+// summary: Defines SystemIdentityManager, Chrome's interface to the iOS shared authentication library for device accounts, access tokens, capabilities, and account dialogs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_MANAGER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_MANAGER_H_
 

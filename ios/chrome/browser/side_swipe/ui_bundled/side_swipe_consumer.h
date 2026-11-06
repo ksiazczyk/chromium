@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side swipe consumer protocol
+// summary: Declares the SideSwipeConsumer protocol for enabling or disabling leading and trailing edge swipe navigation and cancelling ongoing swipes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SIDE_SWIPE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SIDE_SWIPE_CONSUMER_H_
 

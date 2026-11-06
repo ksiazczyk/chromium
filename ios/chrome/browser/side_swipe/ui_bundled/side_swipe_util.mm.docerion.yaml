@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_util.mm.
+type: source
+title: Side swipe utility implementations
+summary: Implements swipe direction checks with RTL support, native swipe detection for NTP and crash pages, Lens overlay snapshot retrieval, and view translation logic.

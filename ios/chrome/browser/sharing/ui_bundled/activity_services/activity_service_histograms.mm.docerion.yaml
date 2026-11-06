@@ -1,0 +1,4 @@
+# Docerion header of activity_service_histograms.mm.
+type: source
+title: Activity service histograms implementation
+summary: Maps activity types to aggregated share actions and records Mobile.Share histograms for each sharing entry point.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwipeView interface
+// summary: Declares a UIView for side swipe transitions that shows a content image with top and bottom toolbar snapshot images and adjustable margins.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SWIPE_VIEW_H_
 #define IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SWIPE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake system identity details interface
+// summary: Declares a helper that attaches capabilities, cached avatar, hosted domain, and token error state to fake identities for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_SYSTEM_IDENTITY_DETAILS_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_SYSTEM_IDENTITY_DETAILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ai_tier_avatar_view.mm.
+type: source
+title: AITierAvatarView implementation
+summary: Implements the avatar view, laying out the avatar image and optional premium ring image based on the configuration.

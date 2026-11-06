@@ -1,0 +1,4 @@
+# Docerion header of canonical_url_retriever_unittest.mm.
+type: test
+title: Canonical URL retriever unit tests
+summary: Tests canonical URL retrieval scenarios such as matching and differing URLs, missing links, and the associated histogram logging.

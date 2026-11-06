@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin client factory header
+// summary: Declares a singleton factory that owns SigninClient instances and associates them with iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_CLIENT_FACTORY_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_CLIENT_FACTORY_H_
 

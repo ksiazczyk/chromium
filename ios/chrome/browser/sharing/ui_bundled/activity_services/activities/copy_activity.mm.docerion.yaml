@@ -1,0 +1,4 @@
+# Docerion header of copy_activity.mm.
+type: source
+title: CopyActivity implementation
+summary: Implements copying a single item's text and URL or multiple URLs to the pasteboard via pasteboard utilities.

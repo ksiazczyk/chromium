@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia auth fetcher iOS bridge header
+// summary: Declares the interface for fetching Gaia auth requests that include cookies on iOS, with a delegate for completion callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_GAIA_AUTH_FETCHER_IOS_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_GAIA_AUTH_FETCHER_IOS_BRIDGE_H_
 

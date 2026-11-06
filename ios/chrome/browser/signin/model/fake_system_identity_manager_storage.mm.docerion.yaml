@@ -1,0 +1,4 @@
+# Docerion header of fake_system_identity_manager_storage.mm.
+type: source
+title: Fake system identity manager storage implementation
+summary: Implements the fake identity storage with ordered keys, mutation tracking and NSFastEnumeration support.

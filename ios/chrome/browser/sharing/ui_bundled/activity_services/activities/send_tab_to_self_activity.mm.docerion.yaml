@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_activity.mm.
+type: source
+title: Send Tab to Self share activity implementation
+summary: Implements Send Tab to Self share sheet activities that open the device picker or send the tab directly to up to two target devices.

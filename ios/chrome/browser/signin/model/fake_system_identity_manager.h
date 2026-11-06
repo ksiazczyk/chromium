@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake system identity manager interface
+// summary: Declares a test implementation of SystemIdentityManager that fakes the available identities, their capabilities, avatars, and errors.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_SYSTEM_IDENTITY_MANAGER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_SYSTEM_IDENTITY_MANAGER_H_
 

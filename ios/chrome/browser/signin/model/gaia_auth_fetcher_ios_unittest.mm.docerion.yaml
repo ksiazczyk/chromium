@@ -1,0 +1,4 @@
+# Docerion header of gaia_auth_fetcher_ios_unittest.mm.
+type: test
+title: Gaia auth fetcher iOS unit tests
+summary: Unit tests for GaiaAuthFetcherIOS that use a fake bridge and mock consumer to verify fetch success, error and abort handling.

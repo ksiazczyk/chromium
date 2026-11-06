@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeActivityFileSource interface
+// summary: Declares ChromeActivityFileSource, a UIActivityItemSource that shares a downloaded file path with sharing extensions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_CHROME_ACTIVITY_FILE_SOURCE_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_CHROME_ACTIVITY_FILE_SOURCE_H_
 

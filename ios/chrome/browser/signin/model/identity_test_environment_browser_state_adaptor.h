@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identity test environment browser state adaptor header
+// summary: Declares an adaptor that builds a test identity manager keyed by profile for use in signin tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_IDENTITY_TEST_ENVIRONMENT_BROWSER_STATE_ADAPTOR_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_IDENTITY_TEST_ENVIRONMENT_BROWSER_STATE_ADAPTOR_H_
 

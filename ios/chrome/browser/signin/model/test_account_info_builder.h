@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAccountInfoBuilder header
+// summary: Declares TestAccountInfoBuilder, which configures email, names and capabilities to build immutable TestAccountInfo test objects.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_TEST_ACCOUNT_INFO_BUILDER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_TEST_ACCOUNT_INFO_BUILDER_H_
 

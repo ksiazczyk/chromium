@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System identity interaction manager protocol
+// summary: Declares the SystemIdentityInteractionManager protocol for starting and cancelling iOS activities that add or re-authenticate Google accounts.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_INTERACTION_MANAGER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_INTERACTION_MANAGER_H_
 

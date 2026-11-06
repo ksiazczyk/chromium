@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the sharing message model directory
+summary: Names the reviewer responsible for this directory and defers to the sharing_message component owners.

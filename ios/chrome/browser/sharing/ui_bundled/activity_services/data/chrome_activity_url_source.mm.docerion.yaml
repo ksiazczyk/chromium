@@ -1,0 +1,4 @@
+# Docerion header of chrome_activity_url_source.mm.
+type: source
+title: ChromeActivityURLSource implementation
+summary: Implements the URL activity item source, building NSExtensionItem attachments with preview thumbnails and honoring a share kill-switch feature flag.

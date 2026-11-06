@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_activity_unittest.mm.
+type: test
+title: Find in page activity unit tests
+summary: Unit tests verifying FindInPageActivity availability based on page searchability and that performing it invokes the find-in-page handler.

@@ -1,0 +1,4 @@
+# Docerion header of signin_profile_info_updater_unittest.mm.
+type: test
+title: SigninProfileInfoUpdater unit tests
+summary: Unit tests verifying that profile attributes are updated on signin, signout and authentication error changes.

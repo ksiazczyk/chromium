@@ -1,0 +1,4 @@
+# Docerion header of test_account_info_builder.mm.
+type: test
+title: TestAccountInfoBuilder implementation
+summary: Implements TestAccountInfoBuilder, setting tri-state capability values and building TestAccountInfo instances for tests.

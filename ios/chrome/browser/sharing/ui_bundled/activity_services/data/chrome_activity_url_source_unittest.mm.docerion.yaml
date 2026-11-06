@@ -1,0 +1,4 @@
+# Docerion header of chrome_activity_url_source_unittest.mm.
+type: test
+title: ChromeActivityURLSource unit tests
+summary: Unit tests verifying that ChromeActivityURLSource returns a thumbnail resized to the suggested size and returns nil when no thumbnail is set.

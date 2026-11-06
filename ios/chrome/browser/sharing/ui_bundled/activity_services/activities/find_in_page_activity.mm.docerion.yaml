@@ -1,0 +1,4 @@
+# Docerion header of find_in_page_activity.mm.
+type: source
+title: Find in page share activity implementation
+summary: Implements the FindInPageActivity UIActivity that opens find-in-page from the iOS share menu when the page is searchable.

@@ -1,0 +1,4 @@
+# Docerion header of copy_activity_unittest.mm.
+type: test
+title: CopyActivity unit tests
+summary: Tests CopyActivity pasteboard behavior for single and multiple shared items with a cleaned pasteboard setup.

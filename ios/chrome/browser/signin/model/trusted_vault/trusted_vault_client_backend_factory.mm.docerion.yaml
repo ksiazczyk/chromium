@@ -1,0 +1,4 @@
+# Docerion header of trusted_vault_client_backend_factory.mm.
+type: source
+title: Trusted vault client backend factory implementation
+summary: Implements the factory, creating backends via the iOS provider or a test hook override used by instrumentation tests.

@@ -1,0 +1,4 @@
+# Docerion header of signin_profile_info_updater.mm.
+type: source
+title: SigninProfileInfoUpdater implementation
+summary: Implements updates of profile authentication attributes and widget data on signin, signout and authentication error changes.

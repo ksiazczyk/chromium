@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountPreviewDataServiceFactory class header
+// summary: Declares the profile-keyed service factory that creates the AccountPreviewDataService for iOS Chrome profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_ACCOUNT_PREVIEW_DATA_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_ACCOUNT_PREVIEW_DATA_SERVICE_FACTORY_H_
 

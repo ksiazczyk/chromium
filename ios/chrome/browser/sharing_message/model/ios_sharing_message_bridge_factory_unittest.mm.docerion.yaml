@@ -1,0 +1,4 @@
+# Docerion header of ios_sharing_message_bridge_factory_unittest.mm.
+type: test
+title: iOS sharing message bridge factory unit tests
+summary: Verifies that the factory creates a SharingMessageBridge service for a test profile.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print activity header
+// summary: Declares PrintActivity, a share-menu activity that presents print preview for tab data or shared images through a browser coordinator handler.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITIES_PRINT_ACTIVITY_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITIES_PRINT_ACTIVITY_H_
 

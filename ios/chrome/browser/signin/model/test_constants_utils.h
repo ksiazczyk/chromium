@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake auth stay-signed-out button helper header
+// summary: Declares FakeSystemIdentityManagerStaySignedOutButtons, which lists buttons that dismiss the fake authentication view while staying signed out.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_TEST_CONSTANTS_UTILS_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_TEST_CONSTANTS_UTILS_H_
 

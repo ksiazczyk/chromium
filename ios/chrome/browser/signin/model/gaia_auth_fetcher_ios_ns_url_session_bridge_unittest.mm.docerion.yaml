@@ -1,0 +1,4 @@
+# Docerion header of gaia_auth_fetcher_ios_ns_url_session_bridge_unittest.mm.
+type: test
+title: Gaia auth fetcher NSURLSession bridge unit tests
+summary: Unit tests for the NSURLSession Gaia auth fetcher bridge, covering fetch completion, cookies and cancellation using OCMock.

@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: iOS device management error details header
+// summary: Declares the iOS DeviceManagementErrorDetails subclass that carries an NSError user info dictionary and a user-actionable flag.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_IOS_DEVICE_MANAGEMENT_ERROR_DETAILS_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_IOS_DEVICE_MANAGEMENT_ERROR_DETAILS_H_
 

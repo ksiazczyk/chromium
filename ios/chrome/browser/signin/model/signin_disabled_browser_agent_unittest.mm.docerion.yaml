@@ -1,0 +1,4 @@
+# Docerion header of signin_disabled_browser_agent_unittest.mm.
+type: test
+title: Signin disabled browser agent unit tests
+summary: Unit tests verifying the sign-out behavior of SigninDisabledBrowserAgent when the sign-in allowed pref changes.

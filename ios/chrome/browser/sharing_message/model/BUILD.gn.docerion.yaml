@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the iOS sharing message model
+summary: Defines the model and bridge factory source sets, their dependencies, and the unit test target for this directory.

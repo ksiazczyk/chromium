@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity service presentation protocol
+// summary: Declares the ActivityServicePresentation protocol that lets implementors dismiss the activity services UI and clean up after it completes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITY_SERVICE_PRESENTATION_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITY_SERVICE_PRESENTATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of swipe_view.mm.
+type: source
+title: SwipeView implementation
+summary: Implements SwipeView layout with Auto Layout constraints, image bounds and zoom fitting, margin updates, and setters for content and toolbar snapshot images.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side swipe navigation delegate protocol
+// summary: Declares the navigation delegate protocol for checking swipe navigation availability and providing overlay snapshots.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SIDE_SWIPE_NAVIGATION_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_SIDE_SWIPE_NAVIGATION_DELEGATE_H_
 

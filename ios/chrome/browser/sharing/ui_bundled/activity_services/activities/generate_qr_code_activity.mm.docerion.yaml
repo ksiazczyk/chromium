@@ -1,0 +1,4 @@
+# Docerion header of generate_qr_code_activity.mm.
+type: source
+title: Generate QR code share activity implementation
+summary: Implements the Generate QR Code UIActivity that dispatches a QR generation command for the activity URL from the iOS share menu.

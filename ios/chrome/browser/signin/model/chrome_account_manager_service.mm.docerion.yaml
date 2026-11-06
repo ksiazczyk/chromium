@@ -1,0 +1,4 @@
+# Docerion header of chrome_account_manager_service.mm.
+type: source
+title: Chrome account manager service implementation
+summary: Implements ChromeAccountManagerService, which lists and filters iOS system identities per profile, including restricted account patterns.

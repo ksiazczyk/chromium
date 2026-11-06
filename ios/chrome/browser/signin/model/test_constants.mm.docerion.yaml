@@ -1,0 +1,4 @@
+# Docerion header of test_constants.mm.
+type: test
+title: Sign-in test accessibility identifier definitions
+summary: Defines the accessibility identifier string constants for the fake authentication and account details views.

@@ -1,0 +1,4 @@
+# Docerion header of share_to_data_builder.mm.
+type: source
+title: ShareToData builder implementation
+summary: Builds ShareToData from a web state or URL, gathering the page title, printability, Find-in-Page support, snapshot thumbnail, link metadata and Send Tab to Self eligibility.

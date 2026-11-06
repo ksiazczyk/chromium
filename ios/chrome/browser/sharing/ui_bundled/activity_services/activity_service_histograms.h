@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity service histograms interface
+// summary: Declares the ShareActionType enum and functions that record sharing scenario and activity metrics.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITY_SERVICE_HISTOGRAMS_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITY_SERVICE_HISTOGRAMS_H_
 

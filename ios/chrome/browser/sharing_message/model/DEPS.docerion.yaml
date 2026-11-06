@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sharing message model directory
+summary: Restricts which directories this folder may include headers from when checking dependencies.

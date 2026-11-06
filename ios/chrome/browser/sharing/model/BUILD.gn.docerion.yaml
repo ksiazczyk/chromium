@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for the sharing model
+summary: Defines the model source set listing the tab helper sources and its build dependencies.

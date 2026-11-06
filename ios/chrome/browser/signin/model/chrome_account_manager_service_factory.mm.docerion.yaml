@@ -1,0 +1,4 @@
+# Docerion header of chrome_account_manager_service_factory.mm.
+type: source
+title: Chrome account manager service factory implementation
+summary: Implements the factory that creates a ChromeAccountManagerService for each profile using local state and the profile name.

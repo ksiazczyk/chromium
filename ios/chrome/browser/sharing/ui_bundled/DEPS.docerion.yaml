@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for sharing UI dependencies
+summary: Lists the headers and directories that files in the sharing UI bundled directory are allowed to include.

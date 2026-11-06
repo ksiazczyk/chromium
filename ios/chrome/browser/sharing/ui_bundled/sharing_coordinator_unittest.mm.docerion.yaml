@@ -1,0 +1,4 @@
+# Docerion header of sharing_coordinator_unittest.mm.
+type: test
+title: Sharing coordinator unit tests
+summary: Unit tests for SharingCoordinator covering download handling, snackbar commands, and sharing scenarios using fake web states and OCMock.

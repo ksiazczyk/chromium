@@ -1,0 +1,4 @@
+# Docerion header of signin_metrics_service_factory.mm.
+type: source
+title: SigninMetricsServiceFactory implementation
+summary: Implements the factory that builds a SigninMetricsService per profile, depending on the identity manager and iOS profile metrics services.

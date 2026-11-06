@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list activity header
+// summary: Declares ReadingListActivity, a share-menu activity that adds a URL with a title to the reading list via the reading list browser agent.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITIES_READING_LIST_ACTIVITY_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_ACTIVITIES_READING_LIST_ACTIVITY_H_
 

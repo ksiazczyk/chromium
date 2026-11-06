@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the iOS sign-in model
+summary: Points the directory to the shared sign-in metadata mixins and marks it as iOS-specific.

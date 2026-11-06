@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System identity protocol
+// summary: Defines the SystemIdentity protocol representing a device account with Gaia ID, email, names and authentication validity.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_H_
 

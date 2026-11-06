@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System account updater
+// summary: Declares SystemAccountUpdater, an observer that reacts to system identity list changes and identity updates.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_ACCOUNT_UPDATER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_ACCOUNT_UPDATER_H_
 

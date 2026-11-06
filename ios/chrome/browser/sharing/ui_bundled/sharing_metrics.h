@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share This Page location metrics enum
+// summary: Defines the ShareThisPageLocation enum used for histogram metrics recording where the Share This Page button is shown or used.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_SHARING_METRICS_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_SHARING_METRICS_H_
 

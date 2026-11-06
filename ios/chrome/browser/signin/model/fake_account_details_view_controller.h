@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake account details view controller
+// summary: Declares a view controller that fakes the My Google Account screen for use in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_ACCOUNT_DETAILS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_ACCOUNT_DETAILS_VIEW_CONTROLLER_H_
 

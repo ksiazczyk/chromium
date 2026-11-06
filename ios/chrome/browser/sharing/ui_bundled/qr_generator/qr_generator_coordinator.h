@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR generator coordinator interface
+// summary: Declares QRGeneratorCoordinator, the public entry point for presenting the QR code generation feature for a webpage title and URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_QR_GENERATOR_QR_GENERATOR_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_QR_GENERATOR_QR_GENERATOR_COORDINATOR_H_
 

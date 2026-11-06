@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authentication service observer interface
+// summary: Defines AuthenticationServiceObserver with callbacks for service status changes, primary identity changes, and enterprise account restrictions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_AUTHENTICATION_SERVICE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_AUTHENTICATION_SERVICE_OBSERVER_H_
 

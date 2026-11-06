@@ -1,0 +1,4 @@
+# Docerion header of gaia_auth_fetcher_ios.mm.
+type: source
+title: iOS Gaia auth fetcher implementation
+summary: Implements the iOS Gaia auth fetcher, routing requests that require cookies through a bridge instead of the base fetcher.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for trusted vault
+summary: Defines the trusted_vault and trusted_vault_factory source sets with their sources, dependencies, and frameworks.

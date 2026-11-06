@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the sharing model directory
+summary: Restricts includes in this directory to the download model dependency.

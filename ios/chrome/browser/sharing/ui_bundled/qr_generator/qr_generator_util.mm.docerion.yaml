@@ -1,0 +1,4 @@
+# Docerion header of qr_generator_util.mm.
+type: source
+title: QR code generation utility implementation
+summary: Implements GenerateQRCode using the CoreImage CIQRCodeGenerator filter and scales the resulting image to the requested size and display scale.

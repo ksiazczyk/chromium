@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_activity_unittest.mm.
+type: test
+title: Send Tab to Self activity unit tests
+summary: Unit tests covering enabling, handler execution and device-specific titles of the Send Tab to Self share sheet activities.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutSigninInternals profile-keyed service factory header
+// summary: Declares the singleton profile-keyed service factory that creates AboutSigninInternals instances for browser profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_ABOUT_SIGNIN_INTERNALS_FACTORY_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_ABOUT_SIGNIN_INTERNALS_FACTORY_H_
 

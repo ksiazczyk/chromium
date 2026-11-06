@@ -1,0 +1,4 @@
+# Docerion header of account_consistency_service_factory.mm.
+type: source
+title: AccountConsistencyServiceFactory implementation
+summary: Implements the factory that builds AccountConsistencyService instances wired to the cookie manager, account reconcilor, identity manager and profile prefs.

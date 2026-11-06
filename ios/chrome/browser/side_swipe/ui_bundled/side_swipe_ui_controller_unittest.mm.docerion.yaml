@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_ui_controller_unittest.mm.
+type: test
+title: SideSwipeUIController unit tests
+summary: Unit tests verifying edge navigation direction behavior in RTL and LTR layouts and that gesture recognizers are removed on disconnect.

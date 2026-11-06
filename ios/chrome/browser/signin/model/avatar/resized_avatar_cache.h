@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResizedAvatarCache class header
+// summary: Declares the ResizedAvatarCache image cache and the IOSResizedAvatarCacheGetAvatarResult histogram enum for avatar retrieval outcomes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_AVATAR_RESIZED_AVATAR_CACHE_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_AVATAR_RESIZED_AVATAR_CACHE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_coordinator.mm.
+type: source
+title: Side swipe coordinator implementation
+summary: Implements the side swipe coordinator that wires the mediator, UI controller, and command dispatcher into the browser.

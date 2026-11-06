@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_signin_client_unittest.mm.
+type: test
+title: IOSChromeSigninClient unit tests
+summary: Unit tests verifying IsAccountSignedInOnOtherProfile across personal and managed profiles using fake system identities.

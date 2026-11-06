@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin disabled browser agent header
+// summary: Declares a browser agent that observes the sign-in allowed pref and signs the user out when sign-in is disabled on the device.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_DISABLED_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_DISABLED_BROWSER_AGENT_H_
 

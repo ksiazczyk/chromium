@@ -1,0 +1,4 @@
+# Docerion header of account_profile_mapper_unittest.mm.
+type: test
+title: AccountProfileMapper unit tests
+summary: Unit tests for AccountProfileMapper covering identity-to-profile mapping, observers, and profile deletion using fake identities.

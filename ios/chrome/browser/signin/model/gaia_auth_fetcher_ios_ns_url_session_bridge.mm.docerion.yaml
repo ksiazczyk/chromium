@@ -1,0 +1,4 @@
+# Docerion header of gaia_auth_fetcher_ios_ns_url_session_bridge.mm.
+type: source
+title: Gaia auth fetcher NSURLSession bridge implementation
+summary: Implements the NSURLSession-based Gaia auth fetcher bridge, including cookie storage from responses, redirect handling and metrics.

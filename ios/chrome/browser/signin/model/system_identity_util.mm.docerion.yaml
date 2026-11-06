@@ -1,0 +1,4 @@
+# Docerion header of system_identity_util.mm.
+type: source
+title: System identity utility implementation
+summary: Implements GetPrimarySystemIdentity, mapping the signed-in primary account to its matching system identity via the account manager service.

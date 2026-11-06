@@ -1,0 +1,4 @@
+# Docerion header of signin_test_util.mm.
+type: test
+title: Signin test utility implementation
+summary: Implements AddManagedProfileWithBuilder, registering the managed identity in FakeSystemIdentityManager and adding the managed test profile.

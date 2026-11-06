@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSSharingServiceFactory header
+// summary: Declares the IOSSharingServiceFactory singleton that owns SharingService instances and associates them with ProfileIOS via the typed profile-keyed service factory base.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_MESSAGE_MODEL_IOS_SHARING_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SHARING_MESSAGE_MODEL_IOS_SHARING_SERVICE_FACTORY_H_
 

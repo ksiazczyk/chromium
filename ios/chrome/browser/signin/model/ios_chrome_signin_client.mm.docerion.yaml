@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_signin_client.mm.
+type: source
+title: IOSChromeSigninClient implementation
+summary: Implements the iOS Chrome signin client, including cookie handling, delayed network calls and OAuth consumer registry lookups.

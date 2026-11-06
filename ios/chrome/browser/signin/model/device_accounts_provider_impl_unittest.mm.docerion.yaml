@@ -1,0 +1,4 @@
+# Docerion header of device_accounts_provider_impl_unittest.mm.
+type: test
+title: Device accounts provider unit tests
+summary: Unit tests for DeviceAccountsProviderImpl covering access token fetching errors and account change observer notifications.

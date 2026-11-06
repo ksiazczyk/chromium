@@ -1,0 +1,4 @@
+# Docerion header of activity_service_coordinator.mm.
+type: source
+title: Activity service coordinator implementation
+summary: Implements the share menu coordinator, building the activity view controller and dispatching sharing scenarios through the mediator.

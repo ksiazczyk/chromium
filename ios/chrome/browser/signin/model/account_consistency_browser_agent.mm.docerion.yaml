@@ -1,0 +1,4 @@
+# Docerion header of account_consistency_browser_agent.mm.
+type: source
+title: Account consistency browser agent implementation
+summary: Implements the account consistency browser agent, wiring web state events to the account consistency service and sign-in UI flows.

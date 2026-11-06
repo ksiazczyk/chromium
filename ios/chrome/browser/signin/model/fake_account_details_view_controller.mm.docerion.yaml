@@ -1,0 +1,4 @@
+# Docerion header of fake_account_details_view_controller.mm.
+type: source
+title: Fake account details view controller for tests
+summary: Implements a simple test view controller that shows fake account details with a Done button and dismisses via a completion block.

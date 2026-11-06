@@ -1,0 +1,4 @@
+# Docerion header of activity_service_controller_egtest.mm.
+type: test
+title: Activity service controller Earl Grey tests
+summary: Earl Grey integration tests that open the share sheet and verify copy and open extension actions in the activity service controller.

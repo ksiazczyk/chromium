@@ -1,0 +1,4 @@
+# Docerion header of fake_system_identity.mm.
+type: source
+title: Fake system identity implementation
+summary: Implements fake system identities with NSKeyedArchiver encoding, predefined accounts, and equality based on Gaia ID and refresh token.

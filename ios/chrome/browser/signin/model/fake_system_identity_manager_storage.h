@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake system identity manager storage header
+// summary: Declares a storage class that keeps fake identities keyed by Gaia ID while preserving deterministic insertion order for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_SYSTEM_IDENTITY_MANAGER_STORAGE_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_SYSTEM_IDENTITY_MANAGER_STORAGE_H_
 

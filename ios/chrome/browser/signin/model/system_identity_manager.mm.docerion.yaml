@@ -1,0 +1,4 @@
+# Docerion header of system_identity_manager.mm.
+type: source
+title: System identity manager implementation
+summary: Implements core SystemIdentityManager behavior such as dialog presentation configuration, observer registration, and identity change notifications.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System identity utility header
+// summary: Declares GetPrimarySystemIdentity, a helper returning the primary system identity from the identity manager and account manager service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_UTIL_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SYSTEM_IDENTITY_UTIL_H_
 

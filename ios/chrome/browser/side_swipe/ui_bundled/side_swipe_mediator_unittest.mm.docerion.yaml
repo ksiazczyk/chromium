@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_mediator_unittest.mm.
+type: test
+title: Side swipe mediator unit tests
+summary: Unit tests for SideSwipeMediator using fake web states, a fake consumer, and OCMock to verify edge swipe navigation behavior.

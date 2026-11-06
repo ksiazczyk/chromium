@@ -1,0 +1,4 @@
+# Docerion header of ios_sharing_service_factory.mm.
+type: source
+title: IOSSharingServiceFactory implementation
+summary: Implements the SharingService factory for iOS profiles, declaring dependencies on GCM, sync, device info, and send-tab-to-self services and building the service with its collaborators.

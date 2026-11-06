@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake system identity interaction manager interface
+// summary: Declares a fake interaction manager that simulates sign-in taps, cancels, unhandled errors, and interrupted auth activity in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_SYSTEM_IDENTITY_INTERACTION_MANAGER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_FAKE_SYSTEM_IDENTITY_INTERACTION_MANAGER_H_
 

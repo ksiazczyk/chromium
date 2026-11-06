@@ -1,0 +1,4 @@
+# Docerion header of bookmark_activity.mm.
+type: source
+title: BookmarkActivity implementation
+summary: Implements the bookmark share activity, showing add or edit actions and invoking the bookmarks command handler.

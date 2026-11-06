@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share download overlay coordinator declaration
+// summary: Declares a coordinator that presents a download overlay over the currently displayed web view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_SHARE_DOWNLOAD_OVERLAY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_SHARE_DOWNLOAD_OVERLAY_COORDINATOR_H_
 

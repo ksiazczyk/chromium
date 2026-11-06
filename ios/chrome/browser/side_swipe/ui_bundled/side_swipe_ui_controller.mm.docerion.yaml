@@ -1,0 +1,4 @@
+# Docerion header of side_swipe_ui_controller.mm.
+type: source
+title: SideSwipeUIController implementation
+summary: Implements edge swipe gesture handling for tab and page navigation, including gesture recognizers, fullscreen disablers and snapshot coordination.

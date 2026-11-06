@@ -1,0 +1,4 @@
+# Docerion header of ios_device_management_error_details.mm.
+type: source
+title: iOS device management error details implementation
+summary: Implements cloning, equality and user-actionable checks for iOS device management error details backed by an NSDictionary.

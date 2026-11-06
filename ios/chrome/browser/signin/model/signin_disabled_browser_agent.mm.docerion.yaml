@@ -1,0 +1,4 @@
+# Docerion header of signin_disabled_browser_agent.mm.
+type: source
+title: Signin disabled browser agent implementation
+summary: Implements sign-out handling when the device sign-in pref is disabled, switching to the personal profile first if needed.

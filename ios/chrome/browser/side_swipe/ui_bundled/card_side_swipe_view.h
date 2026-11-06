@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card side swipe view interface
+// summary: Declares CardSideSwipeView, a UIView that shows adjacent tab cards during edge swipes and handles horizontal pan gestures for tab switching.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_CARD_SIDE_SWIPE_VIEW_H_
 #define IOS_CHROME_BROWSER_SIDE_SWIPE_UI_BUNDLED_CARD_SIDE_SWIPE_VIEW_H_
 

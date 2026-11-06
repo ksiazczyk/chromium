@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninProfileInfoUpdater interface
+// summary: Declares a keyed service that listens to signin events and updates signin-related fields of ProfileAttributesStorageIOS, including widget info.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_PROFILE_INFO_UPDATER_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_SIGNIN_PROFILE_INFO_UPDATER_H_
 

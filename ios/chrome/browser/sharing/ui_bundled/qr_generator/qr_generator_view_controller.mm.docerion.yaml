@@ -1,0 +1,4 @@
+# Docerion header of qr_generator_view_controller.mm.
+type: source
+title: QR generator view controller implementation
+summary: Implements the QR code screen with scrollable image, title, and subtitle views plus action buttons, and exposes the rendered content image for sharing.

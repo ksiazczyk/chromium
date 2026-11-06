@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticationService class header
+// summary: Declares AuthenticationService, which handles sign-in and sign-out operations, service status, and reauth prompt tracking.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SIGNIN_MODEL_AUTHENTICATION_SERVICE_H_
 #define IOS_CHROME_BROWSER_SIGNIN_MODEL_AUTHENTICATION_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_activity_file_source.mm.
+type: source
+title: ChromeActivityFileSource implementation
+summary: Implements the file activity item source, returning the file path as the shared item and excluding copy-to-pasteboard activity.

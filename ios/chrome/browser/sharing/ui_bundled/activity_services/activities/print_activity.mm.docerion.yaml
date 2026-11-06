@@ -1,0 +1,4 @@
+# Docerion header of print_activity.mm.
+type: source
+title: Print activity implementation
+summary: Implements the Print UIActivity that triggers printing of the current tab or an image, dismissing the share menu before showing print preview.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the avatar source set
+summary: Defines the avatar source_set listing the AI tier avatar sources and their build dependencies.

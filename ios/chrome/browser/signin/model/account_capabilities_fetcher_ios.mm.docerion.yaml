@@ -1,0 +1,4 @@
+# Docerion header of account_capabilities_fetcher_ios.mm.
+type: source
+title: iOS account capabilities fetcher implementation
+summary: Implements the iOS account capabilities fetcher, converting system identity capability results into AccountCapabilities.

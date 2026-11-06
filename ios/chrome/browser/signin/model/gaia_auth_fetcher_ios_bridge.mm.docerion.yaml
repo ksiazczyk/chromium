@@ -1,0 +1,4 @@
+# Docerion header of gaia_auth_fetcher_ios_bridge.mm.
+type: source
+title: Gaia auth fetcher iOS bridge implementation
+summary: Implements the bridge delegate base class together with the bridge constructor and destructor.

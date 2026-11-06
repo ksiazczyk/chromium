@@ -1,0 +1,4 @@
+# Docerion header of ai_tier_avatar_content_configuration.mm.
+type: source
+title: AITierAvatarContentConfiguration implementation
+summary: Implements the content configuration, creating the avatar view and computing the content size including the ring.

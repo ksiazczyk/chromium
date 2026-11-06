@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareImageData class header
+// summary: Declares ShareImageData, the data object representing an image and its title to be shared via the activity view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_SHARE_IMAGE_DATA_H_
 #define IOS_CHROME_BROWSER_SHARING_UI_BUNDLED_ACTIVITY_SERVICES_DATA_SHARE_IMAGE_DATA_H_
 

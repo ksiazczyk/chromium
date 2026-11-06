@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the side swipe UI directory
+summary: Names justincohen@chromium.org as the owner for reviewing changes in this directory.

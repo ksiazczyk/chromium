@@ -1,0 +1,4 @@
+# Docerion header of trusted_vault_configuration.mm.
+type: source
+title: Trusted vault configuration implementation
+summary: Provides the Objective-C implementation of the trusted vault configuration object.

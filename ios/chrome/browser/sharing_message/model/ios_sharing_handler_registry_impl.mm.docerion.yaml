@@ -1,0 +1,4 @@
+# Docerion header of ios_sharing_handler_registry_impl.mm.
+type: source
+title: iOS sharing handler registry implementation
+summary: Implements the sharing handler registry that currently returns no handlers and rejects registration calls.

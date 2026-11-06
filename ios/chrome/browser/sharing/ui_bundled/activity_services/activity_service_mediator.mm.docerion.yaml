@@ -1,0 +1,4 @@
+# Docerion header of activity_service_mediator.mm.
+type: source
+title: Activity service mediator implementation
+summary: Implements creation of share activities such as bookmark, copy, print, and QR code, plus activity items for URL, image, and file data.

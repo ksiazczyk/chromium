@@ -1,0 +1,4 @@
+# Docerion header of share_file_data.mm.
+type: source
+title: ShareFileData implementation
+summary: Implements the ShareFileData initializer that stores the file path to be shared.
