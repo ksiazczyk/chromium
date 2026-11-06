@@ -1,0 +1,4 @@
+# Docerion header of search.mojom.
+type: source
+title: Embedded search Mojo interfaces
+summary: Defines the EmbeddedSearch and EmbeddedSearchClient Mojo interfaces connecting render frames to browser search data.

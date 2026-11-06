@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search Mojo bindings build file
+summary: GN build target that generates Mojo bindings for search.mojom with IPC typemaps for NTP and omnibox types.

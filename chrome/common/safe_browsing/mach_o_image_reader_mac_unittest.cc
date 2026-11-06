@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mach-O image reader unit tests
+// summary: Tests Mach-O parsing and code signature extraction against signed test binaries loaded from the safe_browsing test data directory.
+// ---
+
 #include "chrome/common/safe_browsing/mach_o_image_reader_mac.h"
 
 #include <arpa/inet.h>

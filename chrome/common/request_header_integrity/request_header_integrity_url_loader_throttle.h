@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestHeaderIntegrityURLLoaderThrottle header
+// summary: Declares the blink URL loader throttle that adds integrity headers to requests, with resource type enums and static helpers for CORS-exempt and prefetch header updates.
+// ---
+
 #ifndef CHROME_COMMON_REQUEST_HEADER_INTEGRITY_REQUEST_HEADER_INTEGRITY_URL_LOADER_THROTTLE_H_
 #define CHROME_COMMON_REQUEST_HEADER_INTEGRITY_REQUEST_HEADER_INTEGRITY_URL_LOADER_THROTTLE_H_
 

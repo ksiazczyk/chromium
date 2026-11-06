@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary feature extractor implementation
+// summary: Implements platform-neutral extraction of image features and SHA256 digests from downloaded binaries.
+// ---
+
 #include "chrome/common/safe_browsing/binary_feature_extractor.h"
 
 #include "build/build_config.h"

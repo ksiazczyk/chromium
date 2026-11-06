@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wallet Mojo bindings build file
+summary: GN build file that defines the mojo_bindings target compiling boarding_pass_extractor.mojom into Mojo bindings.

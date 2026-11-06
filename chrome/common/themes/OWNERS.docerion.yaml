@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists a code owner for the themes directory and includes the owners from chrome/browser/themes.

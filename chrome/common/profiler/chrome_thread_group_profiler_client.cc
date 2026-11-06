@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome thread group profiler client implementation
+// summary: Implements the Chrome thread group profiler client, supplying sampling parameters, profile builders, periodic scheduling, and unwinders for thread pool worker profiling.
+// ---
+
 #include "chrome/common/profiler/chrome_thread_group_profiler_client.h"
 
 #include "base/command_line.h"

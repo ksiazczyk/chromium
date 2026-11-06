@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformRuntimeHeaders class declaration
+// summary: Declares the lock-guarded holder for Platform Runtime headers and the UMA result enum for apply outcomes.
+// ---
+
 #ifndef CHROME_COMMON_REQUEST_HEADER_INTEGRITY_PLATFORM_RUNTIME_HEADERS_H_
 #define CHROME_COMMON_REQUEST_HEADER_INTEGRITY_PLATFORM_RUNTIME_HEADERS_H_
 

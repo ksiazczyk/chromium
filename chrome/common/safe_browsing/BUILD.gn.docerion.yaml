@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for safe_browsing common code
+summary: Defines GN source sets and dependencies for the safe_browsing download protection code and its tests.

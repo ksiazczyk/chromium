@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome thread group profiler client header
+// summary: Declares ChromeThreadGroupProfilerClient, which implements the base ThreadGroupProfilerClient interface to configure and control thread group profiling in Chrome.
+// ---
+
 #ifndef CHROME_COMMON_PROFILER_CHROME_THREAD_GROUP_PROFILER_CLIENT_H_
 #define CHROME_COMMON_PROFILER_CHROME_THREAD_GROUP_PROFILER_CLIENT_H_
 

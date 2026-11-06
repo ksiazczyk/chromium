@@ -1,0 +1,4 @@
+# Docerion header of eventlog_provider.ver.
+type: config
+title: Event log provider version resource values
+summary: Defines internal name and original filename values for the event log provider DLL version resource.

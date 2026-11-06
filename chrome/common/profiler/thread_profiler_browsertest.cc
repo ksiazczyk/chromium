@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread profiler browser tests
+// summary: Browser tests that intercept and verify CPU profiles collected by the thread profiler and delivered to the metrics provider.
+// ---
+
 #include <vector>
 
 #include "base/functional/bind.h"

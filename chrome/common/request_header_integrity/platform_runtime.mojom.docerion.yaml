@@ -1,0 +1,4 @@
+# Docerion header of platform_runtime.mojom.
+type: source
+title: Platform Runtime Mojo interfaces
+summary: Defines interfaces for loading and running the native Platform Runtime library in a sandboxed utility process to process headers.

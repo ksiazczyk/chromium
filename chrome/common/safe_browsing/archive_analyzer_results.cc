@@ -5,6 +5,12 @@
 // This file contains the archive file analysis implementation for download
 // protection, which runs in a sandboxed utility process.
 
+// ---docerion
+// type: source
+// title: Archive analyzer results implementation
+// summary: Implements archive file analysis for download protection, updating results with per-file inspection in a sandboxed utility process.
+// ---
+
 #include "chrome/common/safe_browsing/archive_analyzer_results.h"
 
 #include "base/files/file.h"

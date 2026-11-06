@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing process initialization implementation
+// summary: Implements InitializeProcessForPrinting, which on Windows with print preview enabled sets the function used to obtain user-friendly printer names.
+// ---
+
 #include "chrome/common/printing/printing_init.h"
 
 #include "build/build_config.h"

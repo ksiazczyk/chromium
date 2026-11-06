@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread profiler configuration implementation
+// summary: Implements ThreadProfilerConfiguration, choosing the stack sampling profiler enable state, sampling params, browser test mode, synthetic field trial and child process command line switches.
+// ---
+
 #include "chrome/common/profiler/thread_profiler_configuration.h"
 
 #include <variant>

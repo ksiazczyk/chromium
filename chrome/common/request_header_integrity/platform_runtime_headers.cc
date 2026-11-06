@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformRuntimeHeaders implementation
+// summary: Implements the process-local holder that validates, stores and applies Platform Runtime headers to outgoing requests.
+// ---
+
 #include "chrome/common/request_header_integrity/platform_runtime_headers.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common delay load failure handler
+// summary: Implements HandleDelayLoadFailureCommon, terminating on out-of-memory, honoring suppression, and crashing with crash keys on failure.
+// ---
+
 // windows.h needs to be included before delayimp.h.
 #include <windows.h>
 

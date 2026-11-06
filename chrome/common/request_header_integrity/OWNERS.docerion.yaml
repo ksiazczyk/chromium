@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for request header integrity
+summary: Lists directory code owners and routes mojom file reviews to the IPC security owners.

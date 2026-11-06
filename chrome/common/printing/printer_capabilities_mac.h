@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS custom paper size interface
+// summary: Declares macOS-specific functions to read custom paper sizes and a test hook to override them.
+// ---
+
 #ifndef CHROME_COMMON_PRINTING_PRINTER_CAPABILITIES_MAC_H_
 #define CHROME_COMMON_PRINTING_PRINTER_CAPABILITIES_MAC_H_
 

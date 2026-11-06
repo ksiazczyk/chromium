@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud shared constants
+// summary: Declares shared Read Aloud constants for audio parameters, buffering, timeouts, retry limits, playback rate bounds, and text payload validation caps.
+// ---
+
 #ifndef CHROME_COMMON_READALOUD_READ_ALOUD_CONSTANTS_H_
 #define CHROME_COMMON_READALOUD_READ_ALOUD_CONSTANTS_H_
 

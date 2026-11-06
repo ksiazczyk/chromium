@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestHeaderIntegrityURLLoaderThrottle implementation
+// summary: Implements the URL loader throttle that attaches request header integrity headers to requests for target domains, handles redirects and prefetch, and records presence histograms.
+// ---
+
 #include "chrome/common/request_header_integrity/request_header_integrity_url_loader_throttle.h"
 
 #include <algorithm>

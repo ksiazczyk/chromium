@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Anything utility header
+// summary: Declares Read Anything helper functions for supported fonts, font scale adjustment and font metrics logging.
+// ---
+
 #ifndef CHROME_COMMON_READ_ANYTHING_READ_ANYTHING_UTIL_H_
 #define CHROME_COMMON_READ_ANYTHING_READ_ANYTHING_UTIL_H_
 

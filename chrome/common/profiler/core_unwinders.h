@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core unwinders interface and Android declarations
+// summary: Declares functions to request and check unwind prerequisites and to create core unwinders, including Android-specific feature and factory declarations.
+// ---
+
 #ifndef CHROME_COMMON_PROFILER_CORE_UNWINDERS_H_
 #define CHROME_COMMON_PROFILER_CORE_UNWINDERS_H_
 

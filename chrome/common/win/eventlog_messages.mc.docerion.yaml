@@ -1,0 +1,4 @@
+# Docerion header of eventlog_messages.mc.
+type: source
+title: Event log message definitions for SYSLOG logging
+summary: Message compiler source defining categories and messages for SYSLOG events from the browser, elevation service, and ETW service.

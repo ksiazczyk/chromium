@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android unwind prerequisites
+// summary: Unit tests verifying unwind prerequisite installation requests and availability across Chrome channels and build configurations.
+// ---
+
 #include "chrome/common/profiler/core_unwinders.h"
 
 #include "base/command_line.h"

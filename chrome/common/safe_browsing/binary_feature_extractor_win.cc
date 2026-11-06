@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary feature extractor Windows implementation
+// summary: Windows implementation that checks Authenticode signatures and extracts PE image headers for download protection.
+// ---
+
 #include "chrome/common/safe_browsing/binary_feature_extractor.h"
 
 #include <windows.h>

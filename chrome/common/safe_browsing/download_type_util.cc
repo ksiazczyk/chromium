@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download type utility implementation
+// summary: Maps file name extensions to safe browsing download types such as APK, Chrome extension, archives, and Mac executables.
+// ---
+
 #include "chrome/common/safe_browsing/download_type_util.h"
 
 #include "base/files/file_path.h"

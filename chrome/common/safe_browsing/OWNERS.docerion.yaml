@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners and IPC security review rules
+summary: Lists directory owners and requires IPC security review for protobuf bridge, mojom, and typemap files.

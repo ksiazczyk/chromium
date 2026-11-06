@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the search folder
+summary: Points to the shared search component metadata via a COMMON_METADATA mixin for the chrome/common/search directory.

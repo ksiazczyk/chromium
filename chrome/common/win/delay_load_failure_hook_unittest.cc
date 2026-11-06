@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the delay load failure hook
+// summary: Verifies that the delay load failure hook is linked in, crashes on failures, honors suppression, and reports out-of-memory distinctly.
+// ---
+
 #include <windows.h>
 
 #include <delayimp.h>

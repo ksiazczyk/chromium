@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Readaloud directory metadata
+summary: Directory metadata that mixes in the shared readaloud COMMON_METADATA settings for chrome/common/readaloud.

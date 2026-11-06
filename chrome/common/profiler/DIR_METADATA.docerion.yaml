@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Profiler issue tracking metadata (DIR_METADATA)
+summary: Maps the directory to the Internals>Metrics>SamplingProfiler Monorail component and a Buganizer component for issue routing.

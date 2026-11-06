@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread profiler platform configuration interface
+// summary: Declares the platform-specific ThreadProfilerConfiguration interface, defining supported versus enabled state, relative populations and per-thread enablement queries.
+// ---
+
 #ifndef CHROME_COMMON_PROFILER_THREAD_PROFILER_PLATFORM_CONFIGURATION_H_
 #define CHROME_COMMON_PROFILER_THREAD_PROFILER_PLATFORM_CONFIGURATION_H_
 

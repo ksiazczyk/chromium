@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC protobuf message write macros
+// summary: Defines macros that generate ParamTraits Write methods for serializing protobuf messages into IPC pickles.
+// ---
+
 #ifndef CHROME_COMMON_SAFE_BROWSING_PROTOBUF_MESSAGE_WRITE_MACROS_H_
 #define CHROME_COMMON_SAFE_BROWSING_PROTOBUF_MESSAGE_WRITE_MACROS_H_
 

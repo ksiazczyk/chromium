@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeCompaneroLoader implementation
+// summary: Implements a per-process token cache that polls the ChromeCompanero Mojo service and serves header name and value with a TTL.
+// ---
+
 #include "chrome/common/request_header_integrity/chrome_companero_loader.h"
 
 #include <utility>

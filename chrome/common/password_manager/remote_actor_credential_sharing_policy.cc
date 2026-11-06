@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential sharing origin policy implementation
+// summary: Implements the allowlist check that permits remote actor credential sharing only for approved Gemini origins or a feature-flag-configured test host.
+// ---
+
 #include "chrome/common/password_manager/remote_actor_credential_sharing_policy.h"
 
 #include <vector>

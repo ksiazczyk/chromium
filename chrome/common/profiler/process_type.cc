@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profiler process type resolution
+// summary: Maps command line process type switches to the profiler process type such as browser, renderer, GPU, utility, network service, or zygote.
+// ---
+
 #include "chrome/common/profiler/process_type.h"
 
 #include "base/command_line.h"

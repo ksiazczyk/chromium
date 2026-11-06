@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac disk image type sniffer header
+// summary: Declares DiskImageTypeSnifferMac, which identifies Mac disk image files by their koly trailer signature.
+// ---
+
 #ifndef CHROME_COMMON_SAFE_BROWSING_DISK_IMAGE_TYPE_SNIFFER_MAC_H_
 #define CHROME_COMMON_SAFE_BROWSING_DISK_IMAGE_TYPE_SNIFFER_MAC_H_
 

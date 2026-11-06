@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the printing directory
+summary: Defines GN build targets for the printing source set, printing buildflags, ChromeOS IPP localization generation, and the associated unit tests.

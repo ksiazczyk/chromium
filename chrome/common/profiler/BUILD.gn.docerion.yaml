@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Profiler build targets (BUILD.gn)
+summary: Defines GN source sets for the Chrome profiler library, its unit tests, and browser tests, including Android-specific sources and dependencies.

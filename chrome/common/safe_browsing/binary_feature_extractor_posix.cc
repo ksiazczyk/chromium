@@ -5,6 +5,12 @@
 // This is a stub for the code signing utilities on Mac and Linux.
 // It should eventually be replaced with a real implementation.
 
+// ---docerion
+// type: source
+// title: Binary feature extractor POSIX stub
+// summary: Stub implementation of signature checking and image feature extraction for non-Mac POSIX platforms, returning no results.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

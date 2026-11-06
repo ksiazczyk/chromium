@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delay load failure hook installation
+// summary: Installs the common delay load failure handler as __pfnDliFailureHook2 so failures crash with reports instead of structured exceptions.
+// ---
+
 // windows.h needs to be included before delayimp.h.
 #include <windows.h>
 
