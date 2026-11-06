@@ -1,0 +1,4 @@
+# Docerion header of vue1_page.html.
+type: test
+title: Vue window.Vue framework detection test page
+summary: Test page that sets window.Vue so page load metrics tests can verify detection of the Vue JavaScript framework.

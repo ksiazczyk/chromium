@@ -1,0 +1,4 @@
+# Docerion header of nuxtjs_page.html.
+type: test
+title: Nuxt.js framework detection test page
+summary: Test page defining window.__NUXT__ to verify that pages using the Nuxt.js JavaScript framework are detected.

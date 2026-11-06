@@ -1,0 +1,4 @@
+# Docerion header of amp_basic.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for basic AMP page
+summary: Mock HTTP headers serving amp_basic.html with 200 OK and a fenced-frame loading mode header.

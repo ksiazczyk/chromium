@@ -1,0 +1,4 @@
+# Docerion header of not-detected.html.
+type: test
+title: No framework detection test page
+summary: Empty test page used to verify that no framework version is detected on a plain page.

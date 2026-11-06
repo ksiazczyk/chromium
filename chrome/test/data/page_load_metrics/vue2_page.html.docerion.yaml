@@ -1,0 +1,4 @@
+# Docerion header of vue2_page.html.
+type: test
+title: Vue __vue__ property detection test page
+summary: Test page that adds a __vue__ property to a div so page load metrics tests can verify detection of the Vue JavaScript framework.

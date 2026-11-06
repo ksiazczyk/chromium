@@ -1,0 +1,4 @@
+# Docerion header of angular-clamped.html.
+type: test
+title: Angular clamped version test page
+summary: Test page with an out-of-range Angular ng-version value used to verify version clamping in framework detection.

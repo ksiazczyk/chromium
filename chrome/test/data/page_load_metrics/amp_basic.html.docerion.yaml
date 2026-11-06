@@ -1,0 +1,4 @@
+# Docerion header of amp_basic.html.
+type: test
+title: Basic AMP page test fixture
+summary: Basic AMP HTML page used to test page load metrics for AMP content.

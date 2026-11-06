@@ -1,0 +1,4 @@
+# Docerion header of angular.html.
+type: test
+title: Angular version detection test page
+summary: Test page with an ng-version attribute of 14.0.4 used to verify Angular framework version detection.

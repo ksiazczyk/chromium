@@ -1,0 +1,4 @@
+# Docerion header of joomla_page.html.
+type: test
+title: Joomla page test fixture
+summary: Minimal test page carrying a Joomla generator meta tag for framework detection tests.

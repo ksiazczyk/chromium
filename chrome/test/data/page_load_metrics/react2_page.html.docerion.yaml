@@ -1,0 +1,4 @@
+# Docerion header of react2_page.html.
+type: test
+title: React detection test page using react-root div id
+summary: Test page with a div whose id is react-root to verify that pages using the React JavaScript framework are detected.

@@ -1,0 +1,4 @@
+# Docerion header of react5_page.html.
+type: test
+title: React detection test page using _reactListening property
+summary: Test page setting a _reactListening-prefixed property on a div to verify that pages using the React JavaScript framework are detected.

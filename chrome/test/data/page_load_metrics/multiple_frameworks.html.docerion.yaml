@@ -1,0 +1,4 @@
+# Docerion header of multiple_frameworks.html.
+type: test
+title: Multiple frameworks detection test page
+summary: Test page simulating Next.js, Nuxt and Gatsby markers to verify multi-framework categorization.

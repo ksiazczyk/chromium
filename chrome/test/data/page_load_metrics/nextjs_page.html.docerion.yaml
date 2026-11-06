@@ -1,0 +1,4 @@
+# Docerion header of nextjs_page.html.
+type: test
+title: Next.js page detection test page
+summary: Test page exposing a window.next object to verify Next.js framework detection.

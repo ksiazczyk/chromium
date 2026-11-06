@@ -1,0 +1,4 @@
+# Docerion header of drupal_page.html.
+type: test
+title: Drupal page test fixture
+summary: Minimal test page carrying a Drupal 7 generator meta tag, used to test detection of Drupal CMS pages in page load metrics.

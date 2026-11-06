@@ -1,0 +1,4 @@
+# Docerion header of badxml.xhtml.mock-http-headers.
+type: test
+title: Mock HTTP headers for malformed XHTML
+summary: Mock HTTP headers serving badxml.xhtml as application/xhtml+xml.

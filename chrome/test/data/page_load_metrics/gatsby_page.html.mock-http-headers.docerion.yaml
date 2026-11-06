@@ -1,0 +1,4 @@
+# Docerion header of gatsby_page.html.mock-http-headers.
+type: test
+title: Gatsby page mock HTTP headers
+summary: Mock HTTP response headers served with gatsby_page.html, declaring support for the fenced-frame loading mode.

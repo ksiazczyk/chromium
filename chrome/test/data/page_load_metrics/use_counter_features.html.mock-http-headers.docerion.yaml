@@ -1,0 +1,4 @@
+# Docerion header of use_counter_features.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for UseCounter features test
+summary: Mock HTTP response headers returning 200 with an empty fullscreen permissions policy for the UseCounter features test.

@@ -1,0 +1,4 @@
+# Docerion header of vue3.html.
+type: test
+title: Vue 3 detection test page
+summary: Test page setting window.__VUE__ to true used to verify Vue 3 detection without a version string.

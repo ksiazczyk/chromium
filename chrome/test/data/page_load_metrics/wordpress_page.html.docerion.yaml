@@ -1,0 +1,4 @@
+# Docerion header of wordpress_page.html.
+type: test
+title: WordPress framework detection test page
+summary: Test page with a WordPress 6.2 generator meta tag used to verify WordPress detection in page load metrics tests.

@@ -1,0 +1,4 @@
+# Docerion header of pixel.png.mock-http-headers.
+type: test
+title: Mock HTTP headers for pixel.png
+summary: Mock HTTP response headers serving pixel.png as text/html with a one-year cache for page load metrics tests.

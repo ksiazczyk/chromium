@@ -1,0 +1,4 @@
+# Docerion header of squarespace_page.html.
+type: test
+title: Squarespace framework detection test page
+summary: Test page defining window.Squarespace to verify detection of pages using the Squarespace framework.

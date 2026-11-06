@@ -1,0 +1,4 @@
+# Docerion header of react6_page.html.
+type: test
+title: React detection test page using __reactFiber property
+summary: Test page setting a __reactFiber-prefixed property on a div to verify that pages using the React JavaScript framework are detected.

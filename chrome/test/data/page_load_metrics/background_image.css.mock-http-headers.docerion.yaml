@@ -1,0 +1,4 @@
+# Docerion header of background_image.css.mock-http-headers.
+type: test
+title: Mock HTTP headers for background image CSS
+summary: Mock HTTP headers serving background_image.css with a long cache lifetime.

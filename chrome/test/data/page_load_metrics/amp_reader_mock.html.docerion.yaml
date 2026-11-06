@@ -1,0 +1,4 @@
+# Docerion header of amp_reader_mock.html.
+type: test
+title: AMP reader mock page
+summary: Mock AMP reader page that embeds amp_basic.html in an iframe.

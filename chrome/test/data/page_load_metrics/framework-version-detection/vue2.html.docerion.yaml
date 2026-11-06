@@ -1,0 +1,4 @@
+# Docerion header of vue2.html.
+type: test
+title: Vue 2 version detection test page
+summary: Test page exposing Vue 2.1.2 through window.Vue used to verify Vue 2 version detection.

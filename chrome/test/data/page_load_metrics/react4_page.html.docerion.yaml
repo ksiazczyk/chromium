@@ -1,0 +1,4 @@
+# Docerion header of react4_page.html.
+type: test
+title: React detection test page using _reactRootContainer property
+summary: Test page setting a _reactRootContainer property on a div to verify that pages using the React JavaScript framework are detected.

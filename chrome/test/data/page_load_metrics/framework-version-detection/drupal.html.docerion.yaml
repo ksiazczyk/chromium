@@ -1,0 +1,4 @@
+# Docerion header of drupal.html.
+type: test
+title: Drupal version detection test page
+summary: Test page with a Drupal 7 generator meta tag used to verify Drupal framework version detection.

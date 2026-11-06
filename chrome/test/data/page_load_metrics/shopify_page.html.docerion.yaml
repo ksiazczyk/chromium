@@ -1,0 +1,4 @@
+# Docerion header of shopify_page.html.
+type: test
+title: Shopify framework detection test page
+summary: Test page defining window.Shopify to verify detection of pages using the Shopify framework.

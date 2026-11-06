@@ -1,0 +1,4 @@
+# Docerion header of wix_page.html.
+type: test
+title: Wix framework detection test page
+summary: Test page with a Wix Website Builder generator meta tag used to verify Wix detection in page load metrics tests.

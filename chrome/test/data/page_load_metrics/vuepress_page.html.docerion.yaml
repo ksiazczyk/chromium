@@ -1,0 +1,4 @@
+# Docerion header of vuepress_page.html.
+type: test
+title: VuePress framework detection test page
+summary: Test page that sets window.__VUEPRESS__ so page load metrics tests can verify detection of the VuePress framework.

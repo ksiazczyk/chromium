@@ -1,0 +1,4 @@
+# Docerion header of circle.svg.mock-http-headers.
+type: test
+title: Mock HTTP headers for circle.svg
+summary: Supplies the mock HTTP response headers served when the circle.svg image is requested during tests.

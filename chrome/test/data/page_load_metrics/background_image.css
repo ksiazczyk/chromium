@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: test
+title: Background image CSS test fixture
+summary: CSS file setting a body background image to pixel.png for page load metrics tests.
+*/
+
 body {
   background-image: url("pixel.png");
 }
