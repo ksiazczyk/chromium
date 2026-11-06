@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SampleToGroupIterator implementation
+// summary: Implements iteration over compact sample-to-group tables to yield the group description index for each sample.
+// ---
+
 #include "media/formats/mp4/sample_to_group_iterator.h"
 
 #include "base/check.h"

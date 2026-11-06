@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AC4 parser unit tests
+// summary: Unit tests for the AC4 parser, verifying rejection of invalid input and correct stream info extraction for channel-based, IMS and AJOC AC-4 bitstream samples.
+// ---
+
 #include "media/formats/mp4/ac4.h"
 
 #include <vector>

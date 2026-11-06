@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG audio stream parser base implementation
+// summary: Implements the shared C++ MPEG audio stream parser that buffers appended data, parses frames and emits buffers and media segments.
+// ---
+
 #include "media/formats/mpeg/mpeg_audio_stream_parser_base.h"
 
 #include <memory>

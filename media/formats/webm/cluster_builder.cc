@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cluster builder implementation
+// summary: Implements ClusterBuilder, which serializes WebM cluster, simple block and block group elements into byte streams for constructing test media data.
+// ---
+
 #include "media/formats/webm/cluster_builder.h"
 
 #include <memory>

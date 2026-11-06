@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM parser interface
+// summary: Defines the WebMParserClient event interface and WebMListParser for incremental parsing of WebM list elements.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_PARSER_H_
 #define MEDIA_FORMATS_WEBM_WEBM_PARSER_H_
 

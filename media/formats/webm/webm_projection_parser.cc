@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM projection parser implementation
+// summary: Parses WebM Projection elements, validating projection type, pose angles, and private data for video projection metadata.
+// ---
+
 #include "media/formats/webm/webm_projection_parser.h"
 
 #include "base/check.h"

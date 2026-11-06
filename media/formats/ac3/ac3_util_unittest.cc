@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ac3_util_unittest.cc
+// summary: Unit tests verifying Ac3Util sample-count parsing against bear.ac3 and bear.eac3 test data, including cases with missing or invalid frames.
+// ---
+
 #include "media/formats/ac3/ac3_util.h"
 
 #include <algorithm>

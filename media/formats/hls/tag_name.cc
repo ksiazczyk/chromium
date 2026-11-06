@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS tag name mapping implementation
+// summary: Implements mapping between HLS tag name strings and their enum constants, with static checks that tag name sets are contiguous and disjoint.
+// ---
+
 #include "media/formats/hls/tag_name.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM crypto helpers implementation
+// summary: Implements WebMCreateDecryptConfig, building CTR counter blocks and extracting subsample entries from encrypted WebM frame data.
+// ---
+
 #include "media/formats/webm/webm_crypto_helpers.h"
 
 #include <array>

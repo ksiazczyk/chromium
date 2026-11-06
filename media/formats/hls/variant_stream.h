@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS VariantStream class declaration
+// summary: Declares the VariantStream class that models an HLS variant stream with bandwidth, codecs, resolution, frame rate, and associated audio and video renditions.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_VARIANT_STREAM_H_
 #define MEDIA_FORMATS_HLS_VARIANT_STREAM_H_
 

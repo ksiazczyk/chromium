@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM colour parser implementation
+// summary: Implements parsing of the WebM Colour element, mapping matrix coefficients, chroma siting, range, and mastering display luminance values into color metadata.
+// ---
+
 #include "media/formats/webm/webm_colour_parser.h"
 
 #include "base/check.h"

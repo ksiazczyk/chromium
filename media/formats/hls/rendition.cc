@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition implementation
+// summary: Implements the Rendition class constructors and a testing factory, storing rendition URI, name, language, channels, and autoselect settings.
+// ---
+
 #include "media/formats/hls/rendition.h"
 
 #include <optional>

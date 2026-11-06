@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MPEG-1 audio stream parser unit tests
+// summary: Tests MPEG-1 audio stream parsing with unaligned appends, MP2 files, and ID3 and Xing metadata frame handling.
+// ---
+
 #include "media/formats/mpeg/mpeg1_audio_stream_parser.h"
 
 #include <stdint.h>

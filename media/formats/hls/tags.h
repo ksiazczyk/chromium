@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS tag definitions and parsers
+// summary: Declares structs for implemented HLS tags such as EXTM3U, EXT-X-DEFINE, EXT-X-VERSION and EXT-X-MEDIA, each with a Parse method for tag contents.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_TAGS_H_
 #define MEDIA_FORMATS_HLS_TAGS_H_
 

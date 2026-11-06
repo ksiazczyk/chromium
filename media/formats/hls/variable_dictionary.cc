@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the HLS variable dictionary
+// summary: Implements storage, lookup and {$Name} substitution of HLS playlist variables, producing resolved strings or undefined-variable errors.
+// ---
+
 #include "media/formats/hls/variable_dictionary.h"
 
 #include <string_view>

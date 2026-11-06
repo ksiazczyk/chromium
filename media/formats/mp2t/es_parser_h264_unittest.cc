@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H264 ES parser unit tests
+// summary: Unit tests for the MPEG-2 TS H.264 elementary stream parser, building streams with inserted AUD NALUs and verifying access units and timestamps.
+// ---
+
 #include "media/formats/mp2t/es_parser_h264.h"
 
 #include <stddef.h>

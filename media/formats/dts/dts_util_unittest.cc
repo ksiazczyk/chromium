@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DTS utility unit tests
+// summary: Unit tests covering empty and incomplete input handling, sample counting, samples per frame, and IEC 61937 wrapping of DTS frames.
+// ---
+
 #include <stdint.h>
 
 #include <string>

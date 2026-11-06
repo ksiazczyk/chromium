@@ -9,6 +9,12 @@
 // WebM Container Guidelines is at https://www.webmproject.org/docs/container/
 // WebM Encryption spec is at: https://www.webmproject.org/docs/webm-encryption/
 
+// ---docerion
+// type: source
+// title: WebM element parser implementation
+// summary: Implements WebM element and list parsing based on the Matroska spec, with tables of valid element IDs for each WebM container element.
+// ---
+
 #include "media/formats/webm/webm_parser.h"
 
 #include <stddef.h>

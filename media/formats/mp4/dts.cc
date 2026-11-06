@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DTS audio configuration parsing
+// summary: Implements parsing of the ddts box to extract DTS sampling frequency, bitrates, PCM sample depth, and frame duration.
+// ---
+
 #include "media/formats/mp4/dts.h"
 
 #include "base/logging.h"

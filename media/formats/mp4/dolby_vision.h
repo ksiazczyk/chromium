@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dolby Vision configuration declarations
+// summary: Declares the DOVIDecoderConfigurationRecord and dvcC/dvvC box structs for parsing Dolby Vision metadata in MP4 files.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_DOLBY_VISION_H_
 #define MEDIA_FORMATS_MP4_DOLBY_VISION_H_
 

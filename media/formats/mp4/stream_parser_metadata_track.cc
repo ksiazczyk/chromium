@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamParserMetadataTrack implementation
+// summary: Implements attaching timed metadata buffers to matching render track buffers, holding them until metadata arrives.
+// ---
+
 #include "media/formats/mp4/stream_parser_metadata_track.h"
 
 #include <iterator>

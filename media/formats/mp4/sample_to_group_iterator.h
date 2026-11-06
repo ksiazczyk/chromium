@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SampleToGroupIterator class declaration
+// summary: Declares an iterator over the MP4 sample-to-group box table that maps samples to group description indices.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_SAMPLE_TO_GROUP_ITERATOR_H_
 #define MEDIA_FORMATS_MP4_SAMPLE_TO_GROUP_ITERATOR_H_
 

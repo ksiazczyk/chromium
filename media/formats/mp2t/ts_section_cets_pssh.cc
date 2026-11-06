@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CETS PSSH section parser implementation
+// summary: Parses CETS-PSSH sections to extract pssh box bytes and pass them to a registration callback.
+// ---
+
 #include "media/formats/mp2t/ts_section_cets_pssh.h"
 
 #include "base/check.h"

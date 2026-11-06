@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS source string implementation
+// summary: Implements SourceString and ResolvedSourceString slices of manifest lines plus SourceLineIterator for line-by-line HLS playlist parsing.
+// ---
+
 #include "media/formats/hls/source_string.h"
 
 #include <string_view>

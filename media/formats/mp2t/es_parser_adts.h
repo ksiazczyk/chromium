@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EsParserAdts class declaration
+// summary: Declares the ADTS audio ES parser, including frame synchronization, audio configuration updates and encryption subsample handling.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_ES_PARSER_ADTS_H_
 #define MEDIA_FORMATS_MP2T_ES_PARSER_ADTS_H_
 

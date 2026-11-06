@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MPEG1 audio ES parser fuzzer
+// summary: LibFuzzer entry point that feeds arbitrary input data to the MPEG-2 TS MPEG-1 audio elementary stream parser to uncover crashes.
+// ---
+
 #include "media/formats/mp2t/es_parser_mpeg1audio.h"
 
 #include <stddef.h>

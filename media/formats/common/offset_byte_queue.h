@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offset byte queue class declaration
+// summary: Declares OffsetByteQueue, a ByteQueue wrapper that accesses buffered data via absolute file offsets and supports trimming bytes up to a given offset.
+// ---
+
 #ifndef MEDIA_FORMATS_COMMON_OFFSET_BYTE_QUEUE_H_
 #define MEDIA_FORMATS_COMMON_OFFSET_BYTE_QUEUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 box definitions
+// summary: Declares MP4 box structures such as FileType, protection system headers, sample encryption entries and track types used by the MP4 stream parser.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_BOX_DEFINITIONS_H_
 #define MEDIA_FORMATS_MP4_BOX_DEFINITIONS_H_
 

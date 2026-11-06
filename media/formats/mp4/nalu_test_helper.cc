@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper for building Annex-B NALU streams
+// summary: Provides helpers that convert compact NALU notation strings into H.264 and H.265 Annex-B byte streams with subsample entries for parser tests.
+// ---
+
 #include "media/formats/mp4/nalu_test_helper.h"
 
 #include "base/check_op.h"

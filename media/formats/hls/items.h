@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS line item types
+// summary: Defines TagItem and UriItem variants representing lexical HLS manifest items that are not yet fully parsed or validated.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_ITEMS_H_
 #define MEDIA_FORMATS_HLS_ITEMS_H_
 

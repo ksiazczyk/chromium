@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HEVC configuration record and Annex-B conversion implementation
+// summary: Implements parsing and serialization of the HEVC decoder configuration record and conversion of HEVC bitstreams between MP4 and Annex-B formats for the MP4 demuxer.
+// ---
+
 #include "media/formats/mp4/hevc.h"
 
 #include <algorithm>

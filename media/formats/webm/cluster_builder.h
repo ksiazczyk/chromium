@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cluster builder header
+// summary: Declares the Cluster and ClusterBuilder classes used to assemble WebM cluster byte streams with simple blocks and block groups.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_CLUSTER_BUILDER_H_
 #define MEDIA_FORMATS_WEBM_CLUSTER_BUILDER_H_
 

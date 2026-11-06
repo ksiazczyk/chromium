@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebM projection parser unit tests
+// summary: Unit tests for the WebM Projection parser covering unexpected ids, invalid or repeated projection values, ProjectionPrivate requirements and yaw/roll range checks.
+// ---
+
 #include "media/formats/webm/webm_projection_parser.h"
 
 #include <array>

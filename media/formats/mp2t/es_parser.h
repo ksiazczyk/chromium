@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EsParser base class declaration
+// summary: Declares the abstract EsParser base class for parsing MPEG-2 TS elementary streams with PTS/DTS timing descriptors.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_ES_PARSER_H_
 #define MEDIA_FORMATS_MP2T_ES_PARSER_H_
 

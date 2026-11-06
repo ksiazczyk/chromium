@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust bit reader for MPEG parsing
+// summary: Provides a bounds-checked SimpleBitReader that reads up to 32 bits at a time from byte slices, modeled after the C++ media::BitReader.
+// ---
+
 /// A high-performance, bounds-checked bit reader that reads bits from a byte
 /// slice. Modeled after the C++ media::BitReader.
 ///

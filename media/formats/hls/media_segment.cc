@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media segment implementation
+// summary: Implements MediaSegment and its encryption data handling, including initialization segments, IV computation, key import, and plaintext stream sourcing.
+// ---
+
 #include "media/formats/hls/media_segment.h"
 
 #include "base/containers/span.h"

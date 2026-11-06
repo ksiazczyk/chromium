@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM projection parser header
+// summary: Declares the parser for the WebM Projection element, which validates projection type, private data and pose values and derives a video transformation.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_PROJECTION_PARSER_H_
 #define MEDIA_FORMATS_WEBM_WEBM_PROJECTION_PARSER_H_
 

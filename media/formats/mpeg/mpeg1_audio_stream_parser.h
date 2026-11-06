@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG-1 audio stream parser class header
+// summary: Declares the MPEG1AudioStreamParser class handling MPEG-1, MPEG-2, and MPEG2.5 audio streams with a static header parser.
+// ---
+
 #ifndef MEDIA_FORMATS_MPEG_MPEG1_AUDIO_STREAM_PARSER_H_
 #define MEDIA_FORMATS_MPEG_MPEG1_AUDIO_STREAM_PARSER_H_
 

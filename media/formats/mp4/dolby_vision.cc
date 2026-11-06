@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dolby Vision configuration parsing
+// summary: Implements parsing of Dolby Vision decoder configuration records and maps profiles to codec profiles and color spaces.
+// ---
+
 #include "media/formats/mp4/dolby_vision.h"
 
 #include "base/logging.h"

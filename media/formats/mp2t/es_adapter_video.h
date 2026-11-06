@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EsAdapterVideo class declaration
+// summary: Declares the video ES adapter that modifies incoming MPEG-2 TS video buffers to satisfy Media Source Extensions requirements.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_ES_ADAPTER_VIDEO_H_
 #define MEDIA_FORMATS_MP2T_ES_ADAPTER_VIDEO_H_
 

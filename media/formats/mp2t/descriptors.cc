@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG-2 TS descriptor parsing implementation
+// summary: Implements parsing of MPEG-2 Systems descriptor lists, including registration, CA, CENC CA and private data indicator descriptors.
+// ---
+
 #include "media/formats/mp2t/descriptors.h"
 
 #include <array>

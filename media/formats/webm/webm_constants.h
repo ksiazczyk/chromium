@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM element ID constants
+// summary: Declares the subset of Matroska and WebM element ID constants shared by the WebM parsers, including cluster, track, cue, chapter, and encoding IDs.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_CONSTANTS_H_
 #define MEDIA_FORMATS_WEBM_WEBM_CONSTANTS_H_
 

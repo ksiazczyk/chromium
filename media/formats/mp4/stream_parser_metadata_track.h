@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamParserMetadataTrack class declaration
+// summary: Declares a class that attaches metadata from a timed metadata track to StreamParserBuffers of render tracks.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_STREAM_PARSER_METADATA_TRACK_H_
 #define MEDIA_FORMATS_MP4_STREAM_PARSER_METADATA_TRACK_H_
 

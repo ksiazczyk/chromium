@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.265 Annex B to HEVC bitstream converter header
+// summary: Declares H265AnnexBToHevcBitstreamConverter, which converts H.265 bitstreams from Annex B to HEVC per ISO/IEC 14496-15, with optional in-band parameter sets.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_H265_ANNEX_B_TO_HEVC_BITSTREAM_CONVERTER_H_
 #define MEDIA_FORMATS_MP4_H265_ANNEX_B_TO_HEVC_BITSTREAM_CONVERTER_H_
 

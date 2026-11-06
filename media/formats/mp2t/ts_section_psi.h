@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TsSectionPsi header for PSI section parsers
+// summary: Declares TsSectionPsi, the abstract base class for PSI section parsers that buffers transport stream payloads and waits for a payload unit start indicator.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_TS_SECTION_PSI_H_
 #define MEDIA_FORMATS_MP2T_TS_SECTION_PSI_H_
 

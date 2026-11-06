@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MP4 box reading
+// summary: Unit tests verifying top-level box parsing, child box scanning, and 32-bit size overflow handling in the MP4 box reader.
+// ---
+
 #include "media/formats/mp4/box_reader.h"
 
 #include <stdint.h>

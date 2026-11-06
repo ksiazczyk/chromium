@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackRunIterator unit tests
+// summary: Unit tests for TrackRunIterator covering sample iteration, CENC auxiliary info, constant and per-sample IVs, subsamples and sample groups.
+// ---
+
 #include "media/formats/mp4/track_run_iterator.h"
 
 #include <stddef.h>

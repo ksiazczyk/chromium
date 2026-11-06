@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stream parser test base implementation
+// summary: Implements the StreamParserTestBase helper that parses test media files in chunks and records segments and frame timestamps as strings.
+// ---
+
 #include "media/formats/common/stream_parser_test_base.h"
 
 #include <memory>

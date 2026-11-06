@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ABR algorithm unit tests
+// summary: Verifies the EWMA adaptive bitrate algorithm's speed calculations across successive network speed updates.
+// ---
+
 #include "media/formats/hls/abr_algorithm.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

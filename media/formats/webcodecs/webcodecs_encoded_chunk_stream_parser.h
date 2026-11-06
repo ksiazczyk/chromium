@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebCodecs encoded chunk stream parser header
+// summary: Declares the WebCodecsEncodedChunkStreamParser class, a StreamParser for encoded audio or video chunks that holds a single decoder config and forwards buffers via callbacks.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBCODECS_WEBCODECS_ENCODED_CHUNK_STREAM_PARSER_H_
 #define MEDIA_FORMATS_WEBCODECS_WEBCODECS_ENCODED_CHUNK_STREAM_PARSER_H_
 

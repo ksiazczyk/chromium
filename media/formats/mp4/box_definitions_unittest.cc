@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MP4 box definitions unit tests
+// summary: Unit tests verifying parsing of stereoscopic 3D and spherical video boxes, covering side-by-side stereo mode and equirectangular projection payloads.
+// ---
+
 #include "media/formats/mp4/box_definitions.h"
 
 #include <stdint.h>

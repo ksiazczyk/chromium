@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS tag parsing implementation
+// summary: Implements parsing of HLS playlist tags such as EXT-X-DEFINE, EXT-X-MEDIA, and EXT-X-STREAM-INF into structured tag items.
+// ---
+
 #include "media/formats/hls/tags.h"
 
 #include <cstddef>

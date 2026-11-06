@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H.264 Annex B to AVC converter fuzz test
+// summary: LibFuzzer entry point that runs the H.264 Annex B to AVC converter on arbitrary inputs in both parameter-set modes to uncover parsing and conversion crashes.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

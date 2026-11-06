@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segment stream unit tests
+// summary: Unit tests for SegmentStream covering queue usage, seeking within and beyond the queue, live stream behavior, and playlist updates.
+// ---
+
 #include "media/formats/hls/segment_stream.h"
 
 #include <optional>

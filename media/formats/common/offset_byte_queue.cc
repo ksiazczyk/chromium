@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offset byte queue implementation
+// summary: Implements OffsetByteQueue, a byte queue wrapper that tracks a monotonically increasing offset for push, pop, offset-based data access, and trimming.
+// ---
+
 #include "media/formats/common/offset_byte_queue.h"
 
 #include "base/check.h"

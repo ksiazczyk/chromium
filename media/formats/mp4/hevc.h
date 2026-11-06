@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HEVC decoder configuration record and Annex-B helper declarations
+// summary: Declares the HEVC decoder configuration record box and HEVC helpers for converting, inserting parameter sets into, and analyzing Annex-B HEVC bitstreams.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_HEVC_H_
 #define MEDIA_FORMATS_MP4_HEVC_H_
 

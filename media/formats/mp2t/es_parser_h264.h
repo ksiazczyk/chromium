@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H264 ES parser header
+// summary: Declares EsParserH264, the MPEG-2 TS H.264 elementary stream parser that splits frames on AUD NALUs and updates the video decoder config from SPS.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_ES_PARSER_H264_H_
 #define MEDIA_FORMATS_MP2T_ES_PARSER_H264_H_
 

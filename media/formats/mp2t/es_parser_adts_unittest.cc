@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ADTS AAC ES parser unit tests
+// summary: Unit tests for the MPEG-2 TS ADTS AAC elementary stream parser, checking config and buffer counts with and without PTS timing information.
+// ---
+
 #include <vector>
 
 #include "base/functional/bind.h"

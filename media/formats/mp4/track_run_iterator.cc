@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackRunIterator implementation
+// summary: Implements iteration over MP4 track run samples, including timing, offsets, and sample encryption information.
+// ---
+
 #include "media/formats/mp4/track_run_iterator.h"
 
 #include <algorithm>

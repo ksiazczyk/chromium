@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common playlist parsing state and helpers
+// summary: Declares CommonParserState and shared helpers for parsing tags, URIs and unique tags across both playlist types.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_PLAYLIST_COMMON_H_
 #define MEDIA_FORMATS_HLS_PLAYLIST_COMMON_H_
 

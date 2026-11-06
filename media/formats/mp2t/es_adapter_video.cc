@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video elementary stream adapter implementation
+// summary: Implements EsAdapterVideo, which adjusts video buffers to meet MSE constraints such as frame durations and replacing leading non-key frames.
+// ---
+
 #include "media/formats/mp2t/es_adapter_video.h"
 
 #include <stddef.h>

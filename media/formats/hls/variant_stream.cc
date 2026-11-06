@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of HLS variant streams
+// summary: Implements VariantStream, including human-readable formatting of bandwidth, resolution, frame rate, codecs, score and rendition URIs.
+// ---
+
 #include "media/formats/hls/variant_stream.h"
 
 #include <sstream>

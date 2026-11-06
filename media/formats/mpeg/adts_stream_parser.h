@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADTS stream parser class header
+// summary: Declares the ADTSStreamParser class, an MPEG audio stream parser base subclass with a static ADTS header parsing method.
+// ---
+
 #ifndef MEDIA_FORMATS_MPEG_ADTS_STREAM_PARSER_H_
 #define MEDIA_FORMATS_MPEG_ADTS_STREAM_PARSER_H_
 

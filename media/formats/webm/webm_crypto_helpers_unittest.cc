@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebM crypto helpers unit tests
+// summary: Unit tests for WebMCreateDecryptConfig covering clear, encrypted, and partitioned frame data as well as malformed inputs.
+// ---
+
 #include "media/formats/webm/webm_crypto_helpers.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media playlist test builder helper
+// summary: Declares a test helper for building media playlist test cases with inline segment assertions and forking of test cases via copying.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_MEDIA_PLAYLIST_TEST_BUILDER_H_
 #define MEDIA_FORMATS_HLS_MEDIA_PLAYLIST_TEST_BUILDER_H_
 

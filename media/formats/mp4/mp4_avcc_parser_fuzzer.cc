@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for AVC decoder configuration record parsing
+// summary: LibFuzzer harness that feeds arbitrary data into AVCDecoderConfigurationRecord::Parse to uncover crashes in AVC configuration parsing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

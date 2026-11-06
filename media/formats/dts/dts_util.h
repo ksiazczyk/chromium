@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DTS utility header
+// summary: Declares DTS helper functions for counting audio samples, wrapping DTS frames in IEC 61937 for HDMI/SPDIF, and getting samples per frame.
+// ---
+
 #ifndef MEDIA_FORMATS_DTS_DTS_UTIL_H_
 #define MEDIA_FORMATS_DTS_DTS_UTIL_H_
 

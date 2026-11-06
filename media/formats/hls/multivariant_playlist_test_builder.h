@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multivariant playlist test builder
+// summary: Header for a helper that builds multivariant playlist test cases, letting tests attach assertions next to playlist lines and fork cases.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_MULTIVARIANT_PLAYLIST_TEST_BUILDER_H_
 #define MEDIA_FORMATS_HLS_MULTIVARIANT_PLAYLIST_TEST_BUILDER_H_
 

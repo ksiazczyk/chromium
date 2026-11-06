@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AVC bitstream converter unit tests
+// summary: Unit tests for AVC-to-Annex-B conversion, parameter set insertion and keyframe analysis, using NALU test helpers and encrypted subsample data.
+// ---
+
 #include "media/formats/mp4/avc.h"
 
 #include <stddef.h>

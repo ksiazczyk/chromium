@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS security metadata implementation
+// summary: Implements SecurityMetadata methods for creating test instances, checking whether a load is safe from the manifest origin, and merging metadata.
+// ---
+
 #include "media/formats/hls/security_metadata.h"
 
 #include "url/gurl.h"

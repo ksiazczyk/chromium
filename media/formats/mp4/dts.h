@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DTS audio configuration class
+// summary: Declares the DTS class that parses DTS decoder specific information from the ddts box in ISO BMFF files.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_DTS_H_
 #define MEDIA_FORMATS_MP4_DTS_H_
 

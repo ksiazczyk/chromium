@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the MP4 stream parser
+// summary: Tests MP4StreamParser behavior across audio, video, encryption, metadata tracks, and keyframe sequencing using mock media logs and test media.
+// ---
+
 #include "media/formats/mp4/mp4_stream_parser.h"
 
 #include <stddef.h>

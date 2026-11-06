@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackRunIterator for MP4 track runs
+// summary: Declares the TrackRunIterator class that walks MP4 movie fragment runs and samples, exposing timing, encryption and clear-offset properties.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_TRACK_RUN_ITERATOR_H_
 #define MEDIA_FORMATS_MP4_TRACK_RUN_ITERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common HLS playlist parser tests
+// summary: Runs shared parsing tests against both media and multivariant playlist builders, covering line endings, M3U tags, versions, and tags.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 #include "media/formats/hls/media_playlist_test_builder.h"
 #include "media/formats/hls/multivariant_playlist_test_builder.h"

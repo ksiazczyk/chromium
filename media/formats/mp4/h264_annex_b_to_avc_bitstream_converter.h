@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 Annex B to AVC bitstream converter header
+// summary: Declares H264AnnexBToAvcBitstreamConverter, which converts H.264 bitstreams from Annex B to AVC per ISO/IEC 14496-15, with options for embedding parameter sets.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_H264_ANNEX_B_TO_AVC_BITSTREAM_CONVERTER_H_
 #define MEDIA_FORMATS_MP4_H264_ANNEX_B_TO_AVC_BITSTREAM_CONVERTER_H_
 

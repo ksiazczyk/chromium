@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 FourCC box type definitions
+// summary: Defines the FourCC enum of MP4 box and codec identifiers, with entries gated by build flags for optional codecs.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_FOURCCS_H_
 #define MEDIA_FORMATS_MP4_FOURCCS_H_
 

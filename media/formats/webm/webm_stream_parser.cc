@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM stream parser implementation
+// summary: Implements the WebMStreamParser that buffers appended bytes and parses WebM headers, tracks and clusters, emitting configuration, segments and encrypted media init data.
+// ---
+
 #include "media/formats/webm/webm_stream_parser.h"
 
 #include <memory>

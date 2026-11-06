@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM audio client header
+// summary: Declares WebMAudioClient, a WebMParserClient helper that parses Audio elements and builds audio decoder configurations.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_AUDIO_CLIENT_H_
 #define MEDIA_FORMATS_WEBM_WEBM_AUDIO_CLIENT_H_
 

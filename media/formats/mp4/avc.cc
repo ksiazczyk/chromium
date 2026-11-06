@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AVC bitstream conversion implementation
+// summary: Implements conversion of AVC/H.264 and HEVC MP4 bitstreams to Annex B format, including NALU filtering, subsample handling and keyframe analysis helpers.
+// ---
+
 #include "media/formats/mp4/avc.h"
 
 #include <algorithm>

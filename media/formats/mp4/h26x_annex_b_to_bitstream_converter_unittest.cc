@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H.26x Annex B to AVC/HEVC converter unit tests
+// summary: Unit tests verifying that the H.26x converter converts H.264 and H.265 keyframe chunks correctly and reports the expected codec, profile and level.
+// ---
+
 #include "media/formats/mp4/h26x_annex_b_to_bitstream_converter.h"
 
 #include <stdint.h>

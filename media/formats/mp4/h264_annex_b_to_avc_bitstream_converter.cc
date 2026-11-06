@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.264 Annex B to AVC bitstream converter implementation
+// summary: Implements conversion of H.264 Annex B video chunks into AVC format, building and updating the AVCDecoderConfigurationRecord from parsed SPS, PPS and slice NALUs.
+// ---
+
 #include "media/formats/mp4/h264_annex_b_to_avc_bitstream_converter.h"
 
 #include "base/compiler_specific.h"

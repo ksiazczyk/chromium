@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebM content encodings client unit tests
+// summary: Unit tests verifying WebMContentEncodingsClient parsing of ContentEncodings elements, including error cases for missing or unexpected encoding fields.
+// ---
+
 #include "media/formats/webm/webm_content_encodings_client.h"
 
 #include <stdint.h>

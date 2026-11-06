@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS variable dictionary interface
+// summary: Declares VariableDictionary, which stores defined playlist variables and resolves variable references in source strings using a substitution buffer.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_VARIABLE_DICTIONARY_H_
 #define MEDIA_FORMATS_HLS_VARIABLE_DICTIONARY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 status codes for parsing errors
+// summary: Defines the MP4Status typed status with error codes for unsupported streams, parse failures, and invalid H.264/H.265 parameter sets, slice headers, and VPS lookups.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_MP4_STATUS_H_
 #define MEDIA_FORMATS_MP4_MP4_STATUS_H_
 

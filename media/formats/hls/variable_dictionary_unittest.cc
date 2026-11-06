@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HLS variable substitution
+// summary: Tests variable insertion, case-sensitive lookup, rejection of redefinitions and substitution of variable references in strings.
+// ---
+
 #include "media/formats/hls/variable_dictionary.h"
 
 #include <optional>

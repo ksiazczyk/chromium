@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: H.26x Annex B to AVC/HEVC bitstream converter implementation
+// summary: Implements a codec-agnostic shim that dispatches Annex B to AVC/HEVC chunk conversion to the H.264 or H.265 converter and exposes codec description and profile.
+// ---
+
 #include "media/formats/mp4/h26x_annex_b_to_bitstream_converter.h"
 
 #include <utility>

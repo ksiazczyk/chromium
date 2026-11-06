@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media playlist test builder implementation
+// summary: Implements MediaPlaylistTestBuilder, verifying recorded segment expectations against a parsed media playlist during tests.
+// ---
+
 #include "media/formats/hls/media_playlist_test_builder.h"
 
 #include "base/location.h"

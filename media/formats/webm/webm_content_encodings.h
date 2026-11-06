@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentEncoding class declaration
+// summary: Declares the ContentEncoding class modeling WebM ContentEncoding elements with scope, type, encryption algorithm, cipher mode, and key ID fields.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_CONTENT_ENCODINGS_H_
 #define MEDIA_FORMATS_WEBM_WEBM_CONTENT_ENCODINGS_H_
 

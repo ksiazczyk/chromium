@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebMVideoClient unit tests
+// summary: Unit tests for WebMVideoClient verifying VP9 profile autodetection and VideoDecoderConfig initialization from codec private data, colour fields, and HDR metadata.
+// ---
+
 #include "media/formats/webm/webm_video_client.h"
 
 #include "media/base/media_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS ABR algorithm interface
+// summary: Declares the ABRAlgorithm interface plus EWMA and fixed-speed implementations used to approximate network speed for HLS playback.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_ABR_ALGORITHM_H_
 #define MEDIA_FORMATS_HLS_ABR_ALGORITHM_H_
 

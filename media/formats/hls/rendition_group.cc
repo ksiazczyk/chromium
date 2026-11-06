@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition group implementation
+// summary: Implements RenditionGroup and its View, adding renditions from EXT-X-MEDIA tags and creating media tracks for audio and video renditions.
+// ---
+
 #include "media/formats/hls/rendition_group.h"
 
 #include <optional>

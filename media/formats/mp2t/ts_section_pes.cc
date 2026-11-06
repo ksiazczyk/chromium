@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PES section parser implementation
+// summary: Implements PES packet parsing for transport streams, reassembling packets, converting PTS/DTS timestamps, and feeding elementary streams to the ES parser.
+// ---
+
 #include "media/formats/mp2t/ts_section_pes.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HLS rendition group unit tests
+// summary: Unit tests covering rendition group behavior, including autoselect defaults and EXT-X-MEDIA tag handling across multiple audio groups.
+// ---
+
 #include <optional>
 
 #include "media/formats/hls/multivariant_playlist.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS security metadata declaration
+// summary: Defines the SecurityMetadata struct that tracks origin tainting, redirects, range requests, and response origins for HLS network data.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_SECURITY_METADATA_H_
 #define MEDIA_FORMATS_HLS_SECURITY_METADATA_H_
 

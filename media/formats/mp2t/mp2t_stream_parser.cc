@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG-2 TS stream parser implementation
+// summary: Implements the MPEG-2 transport stream parser, mapping PIDs to PAT, PMT, CAT and PES section parsers and dispatching audio and video elementary stream parsing.
+// ---
+
 #include "media/formats/mp2t/mp2t_stream_parser.h"
 
 #include <memory>

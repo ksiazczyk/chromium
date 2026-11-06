@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opus constants compile-time checks
+// summary: Verifies at compile time that the Opus extra data offset constants are properly ordered within the extra data size.
+// ---
+
 #include "media/formats/common/opus_constants.h"
 
 namespace media {

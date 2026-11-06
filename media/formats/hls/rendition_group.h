@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition group class header
+// summary: Declares the ref-counted RenditionGroup and its View class for matching and selecting renditions within a multivariant playlist.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_RENDITION_GROUP_H_
 #define MEDIA_FORMATS_HLS_RENDITION_GROUP_H_
 

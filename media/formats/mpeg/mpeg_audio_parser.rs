@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG audio parser action dispatch in Rust
+// summary: Determines the next parsing action for MPEG audio streams, detecting ADTS or MP3 frame headers, Icecast metadata and ID3 tags.
+// ---
+
 use crate::ffi::{ActionType, MpegAudioHeaderInfo, MpegAudioParserAction};
 use crate::ParserError;
 use std::cmp;

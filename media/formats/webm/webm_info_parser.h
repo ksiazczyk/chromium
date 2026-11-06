@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM Info parser header
+// summary: Declares WebMInfoParser, a WebMParserClient that parses Info elements and exposes timecode scale, duration, and date.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_INFO_PARSER_H_
 #define MEDIA_FORMATS_WEBM_WEBM_INFO_PARSER_H_
 

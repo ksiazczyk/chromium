@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 stream parser implementation
+// summary: Implements the MP4 stream parser that reads moov and moof boxes, builds track configurations, and emits audio, video, and metadata samples including encrypted media init data.
+// ---
+
 #include "media/formats/mp4/mp4_stream_parser.h"
 
 #include <stddef.h>

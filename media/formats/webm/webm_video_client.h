@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM video client header
+// summary: Declares the WebMVideoClient helper class used to parse a Video element inside a TrackEntry and initialize the video decoder configuration.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_VIDEO_CLIENT_H_
 #define MEDIA_FORMATS_WEBM_WEBM_VIDEO_CLIENT_H_
 

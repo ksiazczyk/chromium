@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust crate root and CXX FFI bridge
+// summary: Defines the Rust crate modules and the CXX bridge exposing MP3 and ADTS header and action parsing functions to C++.
+// ---
+
 pub mod bit_reader;
 pub mod mpeg_audio_parser;
 pub mod parse_adts;

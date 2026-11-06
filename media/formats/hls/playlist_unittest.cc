@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HLS playlist identification unit tests
+// summary: Unit tests verifying Playlist::IdentifyPlaylist version and kind detection, including error cases for invalid or unsupported playlist versions.
+// ---
+
 #include "media/formats/hls/playlist.h"
 
 #include <string_view>

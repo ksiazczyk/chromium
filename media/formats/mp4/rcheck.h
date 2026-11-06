@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP4 parsing check macros
+// summary: Defines RCHECK macros that log failures and early-return false when MP4 parsing conditions are not met.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_RCHECK_H_
 #define MEDIA_FORMATS_MP4_RCHECK_H_
 

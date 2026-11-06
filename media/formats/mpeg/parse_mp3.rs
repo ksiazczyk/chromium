@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MP3 frame header parser in Rust
+// summary: Parses MP3 frame headers using bitrate and sample rate tables and detects Xing and Info silent metadata frames.
+// ---
+
 use crate::bit_reader::SimpleBitReader;
 use crate::ffi::MpegAudioHeaderInfo;
 use crate::ParserError;

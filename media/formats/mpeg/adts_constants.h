@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADTS constants for AAC stream parsing
+// summary: Defines ADTS header sizes, samples per AAC frame, and frequency and channel layout lookup tables used by the ADTS stream parser.
+// ---
+
 #ifndef MEDIA_FORMATS_MPEG_ADTS_CONSTANTS_H_
 #define MEDIA_FORMATS_MPEG_ADTS_CONSTANTS_H_
 

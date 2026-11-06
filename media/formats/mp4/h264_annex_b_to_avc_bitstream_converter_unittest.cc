@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: H.264 Annex B to AVC converter unit tests
+// summary: Unit tests that convert recorded H.264 Annex B chunks and verify output bitstreams, parameter set placement and AVCDecoderConfigurationRecord contents.
+// ---
+
 #include "media/formats/mp4/h264_annex_b_to_avc_bitstream_converter.h"
 
 #include <stdint.h>

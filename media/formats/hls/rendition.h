@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS rendition class header
+// summary: Declares the Rendition class with accessors for URI, name, language, stable ID, characteristics, channels, and autoselect behavior.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_RENDITION_H_
 #define MEDIA_FORMATS_HLS_RENDITION_H_
 

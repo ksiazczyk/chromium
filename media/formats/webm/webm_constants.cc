@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM constants implementation
+// summary: Defines WebVTT codec identifier string constants for subtitles, captions, descriptions, and metadata used by the WebM text track parsers.
+// ---
+
 #include "media/formats/webm/webm_constants.h"
 
 namespace media {

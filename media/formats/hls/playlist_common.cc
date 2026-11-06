@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common playlist parsing helpers
+// summary: Implements shared parsing routines for media and multivariant playlists, such as M3U tag checks, common tags and URI parsing.
+// ---
+
 #include "media/formats/hls/playlist_common.h"
 
 #include <variant>

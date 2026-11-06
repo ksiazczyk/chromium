@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AC3 constants declaration
+// summary: Declares AC3 and EC3 constants including dependent substream channel locations, field sizes and the audio coding mode channel layout table.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_AC3_CONSTANTS_H_
 #define MEDIA_FORMATS_MP4_AC3_CONSTANTS_H_
 

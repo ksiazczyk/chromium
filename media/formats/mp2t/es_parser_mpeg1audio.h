@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MPEG1 audio ES parser header
+// summary: Declares EsParserMpeg1Audio, the MPEG-2 TS MPEG-1 audio elementary stream parser with PTS interpolation and audio config callbacks.
+// ---
+
 #ifndef MEDIA_FORMATS_MP2T_ES_PARSER_MPEG1AUDIO_H_
 #define MEDIA_FORMATS_MP2T_ES_PARSER_MPEG1AUDIO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DTS utility fuzzer
+// summary: LibFuzzer entry point that feeds arbitrary input to ParseTotalSampleCount to fuzz the DTS sample counting code.
+// ---
+
 #include "media/formats/dts/dts_util.h"
 
 #include <stddef.h>

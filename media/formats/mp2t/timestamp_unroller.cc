@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timestamp unroller implementation
+// summary: Implements unrolling of 33-bit MPEG-2 TS timestamps into 64-bit values by choosing the extension closest to the previous unrolled timestamp.
+// ---
+
 #include "media/formats/mp2t/timestamp_unroller.h"
 
 #include "base/check_op.h"

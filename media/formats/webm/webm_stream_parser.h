@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebM stream parser header
+// summary: Declares the WebMStreamParser StreamParser implementation for incrementally parsing WebM header, info, tracks and cluster elements.
+// ---
+
 #ifndef MEDIA_FORMATS_WEBM_WEBM_STREAM_PARSER_H_
 #define MEDIA_FORMATS_WEBM_WEBM_STREAM_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS compatibility quirks flags
+// summary: Header defining HLSQuirks constants that relax strict HLS spec rules to match other players, such as allowing media tags in multivariant playlists.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_QUIRKS_H_
 #define MEDIA_FORMATS_HLS_QUIRKS_H_
 

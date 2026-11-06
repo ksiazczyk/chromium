@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DTSX DTS-UHD parser header
+// summary: Declares the DTSX class and channel mask enum for parsing DTS-UHD decoder specific information from the udts box in ISO BMFF files.
+// ---
+
 #ifndef MEDIA_FORMATS_MP4_DTSX_H_
 #define MEDIA_FORMATS_MP4_DTSX_H_
 

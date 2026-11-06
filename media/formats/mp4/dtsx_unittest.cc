@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DTSX parser unit tests
+// summary: Unit tests covering DTSX parsing of empty, invalid, normal, and sample rate modified udts box configurations.
+// ---
+
 #include "media/formats/mp4/dtsx.h"
 
 #include <stdint.h>

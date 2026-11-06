@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HLS source string declaration
+// summary: Declares SourceString and ResolvedSourceString classes representing manifest line slices with line and column tracking and variable substitution state.
+// ---
+
 #ifndef MEDIA_FORMATS_HLS_SOURCE_STRING_H_
 #define MEDIA_FORMATS_HLS_SOURCE_STRING_H_
 

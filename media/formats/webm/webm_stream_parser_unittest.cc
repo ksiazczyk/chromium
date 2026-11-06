@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebM stream parser unit tests
+// summary: Unit tests that parse sample WebM files through WebMStreamParser and verify init parameters, track counts, media segment callbacks and parse behavior.
+// ---
+
 #include "media/formats/webm/webm_stream_parser.h"
 
 #include <memory>

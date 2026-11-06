@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADTS stream parser implementation
+// summary: Implements the ADTS AAC stream parser, converting headers returned by the Rust FFI into the C++ parser's Header structure.
+// ---
+
 #include "media/formats/mpeg/adts_stream_parser.h"
 
 #include <stddef.h>

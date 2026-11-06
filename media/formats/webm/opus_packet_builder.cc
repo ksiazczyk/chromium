@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opus packet builder implementation
+// summary: Implements OpusPacket construction and BuildAllOpusPackets, generating Opus packets across all configs, frame counts and VBR modes for testing.
+// ---
+
 
 #include "media/formats/webm/opus_packet_builder.h"
 

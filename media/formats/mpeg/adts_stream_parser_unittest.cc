@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ADTS stream parser unit tests
+// summary: Tests ADTS stream parsing with unaligned appends and verifies the Rust channel layout mapping matches C++ ChannelLayout values.
+// ---
+
 #include "media/formats/mpeg/adts_stream_parser.h"
 
 #include <memory>
