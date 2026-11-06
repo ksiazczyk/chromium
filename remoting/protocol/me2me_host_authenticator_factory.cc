@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me host authenticator factory implementation
+// summary: Creates authenticators for incoming Me2Me host connections, validating signaling IDs and access permissions before negotiating authentication.
+// ---
+
 #include "remoting/protocol/me2me_host_authenticator_factory.h"
 
 #include <memory>

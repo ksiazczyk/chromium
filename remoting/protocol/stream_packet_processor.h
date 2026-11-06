@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamPacketProcessor interface
+// summary: Defines the StreamPacketProcessor interface for packing and unpacking packets sent over StreamPacketSocket.
+// ---
+
 #ifndef REMOTING_PROTOCOL_STREAM_PACKET_PROCESSOR_H_
 #define REMOTING_PROTOCOL_STREAM_PACKET_PROCESSOR_H_
 

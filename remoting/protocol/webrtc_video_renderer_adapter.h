@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video renderer adapter
+// summary: Declares WebrtcVideoRendererAdapter, a WebRTC video sink that feeds frames to the video renderer and handles the video-stats data channel.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_VIDEO_RENDERER_ADAPTER_H_
 #define REMOTING_PROTOCOL_WEBRTC_VIDEO_RENDERER_ADAPTER_H_
 

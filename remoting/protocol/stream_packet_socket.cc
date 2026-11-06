@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamPacketSocket implementation
+// summary: Implements a WebRTC AsyncPacketSocket on top of a net StreamSocket for TCP connections in Chrome Remote Desktop.
+// ---
+
 #include "remoting/protocol/stream_packet_socket.h"
 
 #include "base/containers/span.h"

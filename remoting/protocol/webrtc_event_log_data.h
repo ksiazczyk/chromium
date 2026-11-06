@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC event log data store header
+// summary: Declares WebrtcEventLogData, a thread-safe circular buffer that records the most recent WebRTC event log data written by an RTCEventLogOutput instance.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_EVENT_LOG_DATA_H_
 #define REMOTING_PROTOCOL_WEBRTC_EVENT_LOG_DATA_H_
 

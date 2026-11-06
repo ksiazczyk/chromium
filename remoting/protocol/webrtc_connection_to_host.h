@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC connection to host class declaration
+// summary: Declares WebrtcConnectionToHost, the client-side ConnectionToHost implementation managing session state, WebRTC transport events and channel dispatchers.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_CONNECTION_TO_HOST_H_
 #define REMOTING_PROTOCOL_WEBRTC_CONNECTION_TO_HOST_H_
 

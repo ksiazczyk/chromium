@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairingHostAuthenticator implementation
+// summary: Implements the host side of pairing authentication, looking up the client's paired secret in the pairing registry and falling back to the PIN when it is unknown.
+// ---
+
 #include "remoting/protocol/pairing_host_authenticator.h"
 
 #include <utility>

@@ -6,6 +6,12 @@
 //
 // This interface handles control messages defined in control.proto.
 
+// ---docerion
+// type: source
+// title: HostStub interface
+// summary: Defines the abstract HostStub interface through which a Chromoting client sends control commands such as resolution, video and audio control to the host.
+// ---
+
 #ifndef REMOTING_PROTOCOL_HOST_STUB_H_
 #define REMOTING_PROTOCOL_HOST_STUB_H_
 

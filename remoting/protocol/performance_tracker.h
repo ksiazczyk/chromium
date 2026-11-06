@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance tracker header
+// summary: Declares PerformanceTracker, a bundle of chromoting performance counters and running averages for video bandwidth, frame rates, and latency metrics.
+// ---
+
 #ifndef REMOTING_PROTOCOL_PERFORMANCE_TRACKER_H_
 #define REMOTING_PROTOCOL_PERFORMANCE_TRACKER_H_
 

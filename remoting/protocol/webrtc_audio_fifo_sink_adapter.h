@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcAudioFifoSinkAdapter class declaration
+// summary: Declares an adapter that receives PCM audio frames from WebRTC audio tracks and writes them into a FIFO buffer with format hot-swapping support.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_AUDIO_FIFO_SINK_ADAPTER_H_
 #define REMOTING_PROTOCOL_WEBRTC_AUDIO_FIFO_SINK_ADAPTER_H_
 

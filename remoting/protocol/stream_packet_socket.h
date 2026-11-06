@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamPacketSocket class header
+// summary: Declares StreamPacketSocket, an AsyncPacketSocket wrapper around a stream socket used for TCP connections.
+// ---
+
 #ifndef REMOTING_PROTOCOL_STREAM_PACKET_SOCKET_H_
 #define REMOTING_PROTOCOL_STREAM_PACKET_SOCKET_H_
 

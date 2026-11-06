@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioStream interface
+// summary: Declares the AudioStream interface that sends captured audio to the client and supports pausing.
+// ---
+
 #ifndef REMOTING_PROTOCOL_AUDIO_STREAM_H_
 #define REMOTING_PROTOCOL_AUDIO_STREAM_H_
 

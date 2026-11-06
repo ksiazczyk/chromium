@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ValidatingAuthenticator unit tests
+// summary: Unit tests covering ValidatingAuthenticator behavior for accepted and rejected connections across single and multiple authentication messages using mock authenticators.
+// ---
+
 #include "remoting/protocol/validating_authenticator.h"
 
 #include <memory>

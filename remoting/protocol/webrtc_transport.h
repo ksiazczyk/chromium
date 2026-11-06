@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC transport header
+// summary: Declares WebrtcTransport and its EventHandler interface for managing WebRTC peer connections, data channels, and media streams in remoting sessions.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_TRANSPORT_H_
 #define REMOTING_PROTOCOL_WEBRTC_TRANSPORT_H_
 

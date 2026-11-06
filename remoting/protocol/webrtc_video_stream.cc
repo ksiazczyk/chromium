@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video stream implementation
+// summary: Implements WebrtcVideoStream, which captures desktop frames and encodes and sends them over a WebRTC video track, including frame statistics and framerate control.
+// ---
+
 #include "remoting/protocol/webrtc_video_stream.h"
 
 #include <algorithm>

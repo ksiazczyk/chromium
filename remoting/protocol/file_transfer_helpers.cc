@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File transfer error helpers implementation
+// summary: Builds FileTransfer_Error protobuf messages with function, file and line details and prints them to a stream.
+// ---
+
 #include "remoting/protocol/file_transfer_helpers.h"
 
 namespace remoting::protocol {

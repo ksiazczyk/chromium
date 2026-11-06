@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairingRegistry
+// summary: Header declaring the registry of paired clients holding client name, id and shared secret, with a delegate interface for persistent storage back-ends.
+// ---
+
 #ifndef REMOTING_PROTOCOL_PAIRING_REGISTRY_H_
 #define REMOTING_PROTOCOL_PAIRING_REGISTRY_H_
 

@@ -5,6 +5,12 @@
 // Interface for an object that receives clipboard events.
 // This interface handles some event messages defined in event.proto.
 
+// ---docerion
+// type: source
+// title: Clipboard stub interface
+// summary: Defines the ClipboardStub interface for objects that receive clipboard events in the remoting protocol.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CLIPBOARD_STUB_H_
 #define REMOTING_PROTOCOL_CLIPBOARD_STUB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium port allocator factory declaration
+// summary: Declares the PortAllocatorFactory implementation that builds port allocators from Chromium networking components.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CHROMIUM_PORT_ALLOCATOR_FACTORY_H_
 #define REMOTING_PROTOCOL_CHROMIUM_PORT_ALLOCATOR_FACTORY_H_
 

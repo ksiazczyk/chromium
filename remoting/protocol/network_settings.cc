@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network settings implementation
+// summary: Builds NetworkSettings from session policies, mapping STUN, relay and port range restrictions onto NAT traversal flags.
+// ---
+
 #include "remoting/protocol/network_settings.h"
 
 namespace remoting::protocol {

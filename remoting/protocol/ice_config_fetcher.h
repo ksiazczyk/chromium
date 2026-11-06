@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IceConfigFetcher interface header
+// summary: Declares the abstract interface for asynchronously fetching STUN and TURN configuration via a callback.
+// ---
+
 #ifndef REMOTING_PROTOCOL_ICE_CONFIG_FETCHER_H_
 #define REMOTING_PROTOCOL_ICE_CONFIG_FETCHER_H_
 

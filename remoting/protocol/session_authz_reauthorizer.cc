@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAuthzReauthorizer implementation
+// summary: Implements periodic session reauthorization against the SessionAuthz service, scheduling retries based on the reauth token lifetime and reporting failures via callback.
+// ---
+
 #include "remoting/protocol/session_authz_reauthorizer.h"
 
 #include <algorithm>

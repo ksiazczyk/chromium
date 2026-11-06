@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoordinateConverter class header
+// summary: Declares a converter class that maps fractional coordinates between 0 and 1 to absolute coordinates using a provided video layout.
+// ---
+
 #ifndef REMOTING_PROTOCOL_COORDINATE_CONVERTER_H_
 #define REMOTING_PROTOCOL_COORDINATE_CONVERTER_H_
 

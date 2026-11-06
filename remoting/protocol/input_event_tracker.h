@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event tracker header
+// summary: Declares InputEventTracker, a filtering InputStub that monitors input events and can release stuck keys, buttons and touch points when needed.
+// ---
+
 #ifndef REMOTING_PROTOCOL_INPUT_EVENT_TRACKER_H_
 #define REMOTING_PROTOCOL_INPUT_EVENT_TRACKER_H_
 

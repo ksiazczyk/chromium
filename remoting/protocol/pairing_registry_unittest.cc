@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PairingRegistry unit tests
+// summary: Unit tests for PairingRegistry covering pairing creation, retrieval of pairings and shared secrets, and save behaviour using mock registry delegates.
+// ---
+
 #include "remoting/protocol/pairing_registry.h"
 
 #include <stdlib.h>

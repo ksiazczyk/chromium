@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoStream interface
+// summary: Declares the VideoStream interface for controlling capture, including pausing, display source selection, target framerate, and temporary framerate boosts.
+// ---
+
 #ifndef REMOTING_PROTOCOL_VIDEO_STREAM_H_
 #define REMOTING_PROTOCOL_VIDEO_STREAM_H_
 

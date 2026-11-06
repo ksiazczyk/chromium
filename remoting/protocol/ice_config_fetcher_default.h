@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default ICE config fetcher header
+// summary: Declares IceConfigFetcherDefault, an IceConfigFetcher that retrieves ICE configuration from the private v1 NetworkTraversal service.
+// ---
+
 #ifndef REMOTING_PROTOCOL_ICE_CONFIG_FETCHER_DEFAULT_H_
 #define REMOTING_PROTOCOL_ICE_CONFIG_FETCHER_DEFAULT_H_
 

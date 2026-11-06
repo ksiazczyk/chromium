@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StunTcpPacketProcessor header
+// summary: Declares StunTcpPacketProcessor, a StreamPacketProcessor for STUN and TURN TCP packets with padding adjustment.
+// ---
+
 #ifndef REMOTING_PROTOCOL_STUN_TCP_PACKET_PROCESSOR_H_
 #define REMOTING_PROTOCOL_STUN_TCP_PACKET_PROCESSOR_H_
 

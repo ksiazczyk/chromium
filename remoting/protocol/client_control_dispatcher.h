@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client control dispatcher header
+// summary: Declares ClientControlDispatcher, which routes incoming control messages to ClientStub, ClipboardStub and CursorShapeStub and sends outgoing control messages.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CLIENT_CONTROL_DISPATCHER_H_
 #define REMOTING_PROTOCOL_CLIENT_CONTROL_DISPATCHER_H_
 

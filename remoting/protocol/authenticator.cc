@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator base class implementation
+// summary: Implements the Authenticator base class, including rejection details and post-acceptance state change notification.
+// ---
+
 #include "remoting/protocol/authenticator.h"
 
 #include "base/functional/bind.h"

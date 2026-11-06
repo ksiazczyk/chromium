@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoStatsStub interface
+// summary: Declares the stub interface used to send per-frame video statistics from the host to the client.
+// ---
+
 #ifndef REMOTING_PROTOCOL_VIDEO_STATS_STUB_H_
 #define REMOTING_PROTOCOL_VIDEO_STATS_STUB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port allocator factory implementation
+// summary: Implements the constructors and destructor of the port allocator factory's CreatePortAllocatorResult struct.
+// ---
+
 #include "remoting/protocol/port_allocator_factory.h"
 
 #include "third_party/webrtc/p2p/base/port_allocator.h"

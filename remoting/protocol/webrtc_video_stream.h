@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video stream class declaration
+// summary: Declares the WebrtcVideoStream class, a VideoStream that captures and encodes desktop video and sends it through a WebRTC transport with framerate and stats support.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_VIDEO_STREAM_H_
 #define REMOTING_PROTOCOL_WEBRTC_VIDEO_STREAM_H_
 

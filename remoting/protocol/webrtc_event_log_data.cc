@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC event log data storage
+// summary: Collects WebRTC event log entries into size-limited sections with buffer recycling so log data can be taken for diagnostics without heap churn.
+// ---
+
 #include "remoting/protocol/webrtc_event_log_data.h"
 
 #include <utility>

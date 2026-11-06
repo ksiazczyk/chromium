@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host authentication config implementation
+// summary: Implements HostAuthenticationConfig, registering session authorization, pairing and shared secret authentication methods.
+// ---
+
 #include "remoting/protocol/host_authentication_config.h"
 
 #include "base/check.h"

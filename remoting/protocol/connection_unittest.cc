@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection unit tests
+// summary: Tests for Webrtc connection classes covering connection state events, video and audio streams, input injection, and capture failure handling.
+// ---
+
 #include <memory>
 #include <numbers>
 #include <utility>

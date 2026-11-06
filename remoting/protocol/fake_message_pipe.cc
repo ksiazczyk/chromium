@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMessagePipe implementation
+// summary: Implements FakeMessagePipe, a test MessagePipe that records sent protobuf messages and delivers received messages synchronously or asynchronously.
+// ---
+
 #include "remoting/protocol/fake_message_pipe.h"
 
 #include <algorithm>

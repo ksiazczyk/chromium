@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host control dispatcher implementation
+// summary: Sends control-channel messages such as capabilities, clipboard events and cursor shape from host to client, dropping messages that exceed the size limit.
+// ---
+
 #include "remoting/protocol/host_control_dispatcher.h"
 
 #include "base/functional/callback_helpers.h"

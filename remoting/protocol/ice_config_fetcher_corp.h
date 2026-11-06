@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IceConfigFetcherCorp class header
+// summary: Declares the IceConfigFetcher implementation intended to fetch ICE configuration from the Corp API using a service account.
+// ---
+
 #ifndef REMOTING_PROTOCOL_ICE_CONFIG_FETCHER_CORP_H_
 #define REMOTING_PROTOCOL_ICE_CONFIG_FETCHER_CORP_H_
 

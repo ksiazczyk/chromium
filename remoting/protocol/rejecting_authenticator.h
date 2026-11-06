@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RejectingAuthenticator
+// summary: Declares an authenticator that accepts one message and then rejects the connection with a given reason, message, and source location.
+// ---
+
 #ifndef REMOTING_PROTOCOL_REJECTING_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_REJECTING_AUTHENTICATOR_H_
 

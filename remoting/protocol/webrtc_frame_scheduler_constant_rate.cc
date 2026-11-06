@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constant rate WebRTC frame scheduler implementation
+// summary: Implements WebrtcFrameSchedulerConstantRate, capturing frames at a fixed rate with post-task timing adjustments and temporary capture rate boosts.
+// ---
+
 #include "remoting/protocol/webrtc_frame_scheduler_constant_rate.h"
 
 #include <algorithm>

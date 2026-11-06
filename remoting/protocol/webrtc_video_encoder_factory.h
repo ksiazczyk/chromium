@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video encoder factory
+// summary: Declares the encoder factory passed to WebRTC peer connections, which creates video encoders wrapping remoting codecs and supports VP8, VP9 and AV1 formats.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_VIDEO_ENCODER_FACTORY_H_
 #define REMOTING_PROTOCOL_WEBRTC_VIDEO_ENCODER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionOptionsProvider interface
+// summary: Interface that exposes the session options for the current session to protocol code.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SESSION_OPTIONS_PROVIDER_H_
 #define REMOTING_PROTOCOL_SESSION_OPTIONS_PROVIDER_H_
 

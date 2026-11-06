@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC video encoder wrapper unit tests
+// summary: Unit tests for WebrtcVideoEncoderWrapper covering VP8 and VP9 encoding, rate control, frame stats and encoded frame callbacks.
+// ---
+
 #include "remoting/protocol/webrtc_video_encoder_wrapper.h"
 
 #include "base/test/task_environment.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard filter implementation
+// summary: Implements ClipboardFilter, forwarding clipboard events to a configured stub with optional disabling and truncation to a maximum payload size.
+// ---
+
 #include "remoting/protocol/clipboard_filter.h"
 
 #include "remoting/proto/internal.pb.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rejecting authenticator implementation
+// summary: Implements an authenticator that always rejects incoming connections with a configured rejection reason and details.
+// ---
+
 #include "remoting/protocol/rejecting_authenticator.h"
 
 #include "base/check_op.h"

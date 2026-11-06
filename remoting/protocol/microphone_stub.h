@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone stub interface
+// summary: Interface for sending microphone control messages to the host.
+// ---
+
 #ifndef REMOTING_PROTOCOL_MICROPHONE_STUB_H_
 #define REMOTING_PROTOCOL_MICROPHONE_STUB_H_
 

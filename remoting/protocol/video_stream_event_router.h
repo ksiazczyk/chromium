@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoStreamEventRouter interface
+// summary: Declares VideoStreamEventRouter, which dispatches video channel state events to observers registered per stream name or screen ID.
+// ---
+
 #ifndef REMOTING_PROTOCOL_VIDEO_STREAM_EVENT_ROUTER_H_
 #define REMOTING_PROTOCOL_VIDEO_STREAM_EVENT_ROUTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me host authenticator factory implementation
+// summary: Implements It2MeHostAuthenticatorFactory, creating negotiating and validating authenticators with shared secret or session authorization authentication.
+// ---
+
 #include "remoting/protocol/it2me_host_authenticator_factory.h"
 
 #include <memory>

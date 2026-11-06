@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transport interface header
+// summary: Declares the Transport interface for P2P connections and TransportRoute describing route type and addresses.
+// ---
+
 #ifndef REMOTING_PROTOCOL_TRANSPORT_H_
 #define REMOTING_PROTOCOL_TRANSPORT_H_
 

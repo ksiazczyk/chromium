@@ -5,6 +5,12 @@
 // Interface for a device that receives input events.
 // This interface handles input event messages defined in event.proto.
 
+// ---docerion
+// type: source
+// title: InputStub interface header
+// summary: Declares the InputStub interface for devices that receive key, text, mouse and touch input events defined in event.proto.
+// ---
+
 #ifndef REMOTING_PROTOCOL_INPUT_STUB_H_
 #define REMOTING_PROTOCOL_INPUT_STUB_H_
 

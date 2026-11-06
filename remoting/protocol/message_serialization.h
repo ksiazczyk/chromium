@@ -5,6 +5,12 @@
 // This file defines utility methods used for encoding and decoding the protocol
 // used in Chromoting.
 
+// ---docerion
+// type: source
+// title: Protocol message parsing utility
+// summary: Provides a template helper that parses protobuf protocol messages from a CompoundBuffer for Chromoting.
+// ---
+
 #ifndef REMOTING_PROTOCOL_MESSAGE_SERIALIZATION_H_
 #define REMOTING_PROTOCOL_MESSAGE_SERIALIZATION_H_
 

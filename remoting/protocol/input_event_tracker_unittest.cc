@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputEventTracker unit tests
+// summary: Verifies that the input tracker releases pressed keys, mouse buttons and touch points correctly, including stuck modifier key handling.
+// ---
+
 #include "remoting/protocol/input_event_tracker.h"
 
 #include <stdint.h>

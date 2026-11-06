@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observing input filter implementation
+// summary: Implements an input filter that invokes a callback for key, text, mouse and touch events before forwarding them to the next input stub.
+// ---
+
 #include "remoting/protocol/observing_input_filter.h"
 
 namespace remoting::protocol {

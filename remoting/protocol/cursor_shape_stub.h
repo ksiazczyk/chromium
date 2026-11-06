@@ -4,6 +4,12 @@
 
 // Interface for an object that receives cursor shape events.
 
+// ---docerion
+// type: source
+// title: CursorShapeStub interface
+// summary: Declares an interface for objects that receive cursor shape events and host cursor position updates in the remoting protocol.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CURSOR_SHAPE_STUB_H_
 #define REMOTING_PROTOCOL_CURSOR_SHAPE_STUB_H_
 

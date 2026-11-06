@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator interface for connection authentication
+// summary: Defines the abstract Authenticator interface with states, rejection reasons, and details for client-host session authentication.
+// ---
+
 #ifndef REMOTING_PROTOCOL_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_AUTHENTICATOR_H_
 

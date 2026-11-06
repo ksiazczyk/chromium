@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host authentication config
+// summary: Declares the HostAuthenticationConfig struct that holds host credentials and computes the supported authentication methods.
+// ---
+
 #ifndef REMOTING_PROTOCOL_HOST_AUTHENTICATION_CONFIG_H_
 #define REMOTING_PROTOCOL_HOST_AUTHENTICATION_CONFIG_H_
 

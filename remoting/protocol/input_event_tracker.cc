@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event tracker implementation
+// summary: Implements InputEventTracker, which tracks pressed keys, mouse buttons and touch points and can dispatch release events for all of them.
+// ---
+
 #include "remoting/protocol/input_event_tracker.h"
 
 #include "base/check.h"

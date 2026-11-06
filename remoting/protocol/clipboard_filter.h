@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard filter header
+// summary: Declares ClipboardFilter, a ClipboardStub that forwards events to a configured stub with enable/disable control and an optional maximum data size.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CLIPBOARD_FILTER_H_
 #define REMOTING_PROTOCOL_CLIPBOARD_FILTER_H_
 

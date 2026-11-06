@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard thread proxy implementation
+// summary: Implements ClipboardThreadProxy, posting clipboard event injection to the task runner owning the target ClipboardStub or invoking it directly when already on that sequence.
+// ---
+
 #include "remoting/protocol/clipboard_thread_proxy.h"
 
 #include <utility>

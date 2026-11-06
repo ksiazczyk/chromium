@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataChannelManager class
+// summary: Declares a manager for optional data channels that lets consumers register handler callbacks by name prefix and buffers unmatched channels until registration completes.
+// ---
+
 #ifndef REMOTING_PROTOCOL_DATA_CHANNEL_MANAGER_H_
 #define REMOTING_PROTOCOL_DATA_CHANNEL_MANAGER_H_
 

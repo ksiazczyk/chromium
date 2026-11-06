@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairingAuthenticatorBase implementation
+// summary: Implements the shared pairing authenticator logic that wraps a SPAKE2 authenticator and falls back from a paired secret to PIN authentication when pairing fails.
+// ---
+
 #include "remoting/protocol/pairing_authenticator_base.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnectionToHost class declaration
+// summary: Header declaring FakeConnectionToHost, a test double for ConnectionToHost with mock clipboard, host, and input stubs for remoting tests.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_CONNECTION_TO_HOST_H_
 #define REMOTING_PROTOCOL_FAKE_CONNECTION_TO_HOST_H_
 

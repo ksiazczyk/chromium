@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC audio stream implementation
+// summary: Implements the AudioStream interface by creating a WebRTC audio track from a source adapter and adding it as a transceiver to the peer connection, with pause support.
+// ---
+
 #include "remoting/protocol/webrtc_audio_stream.h"
 
 #include "base/check.h"

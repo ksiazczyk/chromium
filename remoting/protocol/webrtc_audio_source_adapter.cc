@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcAudioSourceAdapter implementation
+// summary: Implements an adapter that feeds captured audio packets from an AudioSource into WebRTC audio track sinks in 10ms frames.
+// ---
+
 #include "remoting/protocol/webrtc_audio_source_adapter.h"
 
 #include <algorithm>

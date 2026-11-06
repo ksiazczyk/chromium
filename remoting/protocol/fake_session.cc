@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSession implementation
+// summary: Implements FakeSession, a test Session that simulates connections between peer sessions, transport startup, and signaling with optional delay.
+// ---
+
 #include "remoting/protocol/fake_session.h"
 
 #include <memory>

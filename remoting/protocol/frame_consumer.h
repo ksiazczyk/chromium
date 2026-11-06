@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame consumer interface
+// summary: Defines the interface for allocating and drawing desktop video frames and reporting the platform's preferred pixel format.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FRAME_CONSUMER_H_
 #define REMOTING_PROTOCOL_FRAME_CONSUMER_H_
 

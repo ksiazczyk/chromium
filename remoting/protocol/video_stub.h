@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoStub interface for video packet processing
+// summary: Defines the abstract VideoStub interface that receives and processes video packets in the remoting protocol.
+// ---
+
 #ifndef REMOTING_PROTOCOL_VIDEO_STUB_H_
 #define REMOTING_PROTOCOL_VIDEO_STUB_H_
 

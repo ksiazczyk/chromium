@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IceConfigFetcherDefault unit tests
+// summary: Tests the default ICE config fetcher for successful responses with TURN and STUN servers and for failed request handling.
+// ---
+
 #include "remoting/protocol/ice_config_fetcher_default.h"
 
 #include <memory>

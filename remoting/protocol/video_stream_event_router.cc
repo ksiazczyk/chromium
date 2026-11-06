@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoStreamEventRouter implementation
+// summary: Implements routing of encoded-frame events to single- or multi-stream VideoChannelStateObserver instances based on stream name and screen ID.
+// ---
+
 #include "remoting/protocol/video_stream_event_router.h"
 
 #include "base/logging.h"

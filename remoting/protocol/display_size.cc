@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplaySize implementation
+// summary: Implements DisplaySize comparisons, DIP-to-pixel conversions, DPI scaling and stream output for remote display dimensions.
+// ---
+
 #include "remoting/protocol/display_size.h"
 
 #include "build/build_config.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for remoting protocol
+summary: Specifies the include dependencies allowed for code in the remoting protocol directory.

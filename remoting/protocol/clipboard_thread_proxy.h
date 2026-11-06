@@ -5,6 +5,12 @@
 // ClipboardThreadProxy is used to allow a Clipboard on the UI thread to invoke
 // a ClipboardStub on the network thread.
 
+// ---docerion
+// type: source
+// title: Clipboard thread proxy header
+// summary: Declares ClipboardThreadProxy, which lets a clipboard on the UI thread invoke a ClipboardStub on the network thread via a sequenced task runner.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CLIPBOARD_THREAD_PROXY_H_
 #define REMOTING_PROTOCOL_CLIPBOARD_THREAD_PROXY_H_
 

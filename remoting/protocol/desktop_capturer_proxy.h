@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCapturerProxy class
+// summary: Declares a DesktopCapturer proxy that invokes the underlying capturer on a dedicated capture thread and safely delivers results back to the caller's thread.
+// ---
+
 #ifndef REMOTING_PROTOCOL_DESKTOP_CAPTURER_PROXY_H_
 #define REMOTING_PROTOCOL_DESKTOP_CAPTURER_PROXY_H_
 

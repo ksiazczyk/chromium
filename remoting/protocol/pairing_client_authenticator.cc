@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairingClientAuthenticator implementation
+// summary: Implements the client side of pairing authentication, starting with a paired secret when available or prompting the user for a PIN otherwise.
+// ---
+
 #include "remoting/protocol/pairing_client_authenticator.h"
 
 #include "base/check.h"

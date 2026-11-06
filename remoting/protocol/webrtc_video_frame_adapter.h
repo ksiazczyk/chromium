@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video frame adapter
+// summary: Declares WebrtcVideoFrameAdapter, which wraps a capturer-produced DesktopFrame as a webrtc::VideoFrameBuffer for the WebRTC video sink and encoder.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_VIDEO_FRAME_ADAPTER_H_
 #define REMOTING_PROTOCOL_WEBRTC_VIDEO_FRAME_ADAPTER_H_
 

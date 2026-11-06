@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransportContext implementation
+// summary: Implements TransportContext, which supplies ICE configuration with caching and a request cooldown for connections.
+// ---
+
 #include "remoting/protocol/transport_context.h"
 
 #include <sstream>

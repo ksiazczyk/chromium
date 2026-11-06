@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Negotiating authenticator unit tests
+// summary: Unit tests for client and host negotiating authenticators, covering method negotiation, pairing, PIN-based flows and session authorization.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <tuple>

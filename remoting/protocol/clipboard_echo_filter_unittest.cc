@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard echo filter unit tests
+// summary: Unit tests verifying that ClipboardEchoFilter blocks identical clipboard events echoed to the client and drops events when the client or host stub is unset.
+// ---
+
 #include "remoting/protocol/clipboard_echo_filter.h"
 
 #include "remoting/proto/event.pb.h"

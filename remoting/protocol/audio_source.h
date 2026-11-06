@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSource interface
+// summary: Declares the AudioSource interface that starts audio capture and delivers packets through a callback.
+// ---
+
 #ifndef REMOTING_PROTOCOL_AUDIO_SOURCE_H_
 #define REMOTING_PROTOCOL_AUDIO_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video encoder factory implementation
+// summary: Implements WebrtcVideoEncoderFactory, creating video encoder wrappers and reporting supported formats including optional hardware H264 encoding.
+// ---
+
 #include "remoting/protocol/webrtc_video_encoder_factory.h"
 
 #include "base/check.h"

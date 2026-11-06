@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCapturerWrapper adapter header
+// summary: Declares a wrapper that adapts a WebRTC DesktopCapturer into the remoting DesktopCapturer interface and drives frame capture at the target rate.
+// ---
+
 #ifndef REMOTING_PROTOCOL_DESKTOP_CAPTURER_WRAPPER_H_
 #define REMOTING_PROTOCOL_DESKTOP_CAPTURER_WRAPPER_H_
 

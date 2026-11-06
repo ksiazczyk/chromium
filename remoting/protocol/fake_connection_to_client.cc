@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeConnectionToClient implementation
+// summary: Implements fake ConnectionToClient and FakeVideoStream classes that record calls and return stubs for host-side testing.
+// ---
+
 #include "remoting/protocol/fake_connection_to_client.h"
 
 #include <utility>

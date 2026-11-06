@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialsType enum
+// summary: Defines an enum of authentication credential types used by the remoting protocol, such as shared secret, paired, third-party, and SessionAuthz variants.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CREDENTIALS_TYPE_H_
 #define REMOTING_PROTOCOL_CREDENTIALS_TYPE_H_
 

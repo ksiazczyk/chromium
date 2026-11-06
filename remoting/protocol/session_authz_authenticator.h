@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAuthzAuthenticator
+// summary: Declares the host-side SessionAuthz authenticator that handles initial authorization, exposing session ID, host token, and a reauthorizer for the session.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SESSION_AUTHZ_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_SESSION_AUTHZ_AUTHENTICATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fractional coordinate conversion implementation
+// summary: Implements conversion of local absolute screen coordinates to fractional coordinates, clamping values to the [0, 1] range.
+// ---
+
 #include "remoting/protocol/coordinate_conversion.h"
 
 namespace remoting::protocol {

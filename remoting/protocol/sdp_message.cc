@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SdpMessage implementation
+// summary: Implements parsing and modification of WebRTC SDP session descriptions, including codec parameter handling, preferred video format selection, and signature normalization.
+// ---
+
 #include "remoting/protocol/sdp_message.h"
 
 #include <algorithm>

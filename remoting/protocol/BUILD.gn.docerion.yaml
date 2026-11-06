@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for remoting protocol
+summary: Defines the GN targets, sources, and dependencies for the remoting protocol library.

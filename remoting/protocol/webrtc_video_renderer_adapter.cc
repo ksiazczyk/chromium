@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video renderer adapter implementation
+// summary: Implements the client-side video renderer adapter that converts incoming WebRTC YUV frames to RGB for the video renderer and collects frame statistics.
+// ---
+
 #include "remoting/protocol/webrtc_video_renderer_adapter.h"
 
 #include <memory>

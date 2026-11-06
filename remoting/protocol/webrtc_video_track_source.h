@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video track source class declaration
+// summary: Declares WebrtcVideoTrackSource, a WebRTC video track source that delivers captured desktop frames with frame stats to registered sinks.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_VIDEO_TRACK_SOURCE_H_
 #define REMOTING_PROTOCOL_WEBRTC_VIDEO_TRACK_SOURCE_H_
 

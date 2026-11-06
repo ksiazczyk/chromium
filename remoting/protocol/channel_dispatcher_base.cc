@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel dispatcher base implementation
+// summary: Implements ChannelDispatcherBase, wiring a named message pipe to event handler notifications for channel initialization and closure.
+// ---
+
 #include "remoting/protocol/channel_dispatcher_base.h"
 
 #include <utility>

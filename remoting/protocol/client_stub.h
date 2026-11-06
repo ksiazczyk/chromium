@@ -7,6 +7,12 @@
 // This interface is responsible for a subset of control messages sent to
 // the Chromoting client.
 
+// ---docerion
+// type: source
+// title: Client stub interface for host commands
+// summary: Defines the ClientStub interface that receives control messages from the Chromoting host, covering capabilities, pairing, video layout, transport info and displays.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CLIENT_STUB_H_
 #define REMOTING_PROTOCOL_CLIENT_STUB_H_
 

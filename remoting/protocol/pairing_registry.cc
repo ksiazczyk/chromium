@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PairingRegistry implementation
+// summary: Implements the pairing registry that creates, serializes and retrieves pairing records with client ids, names and shared secrets for PIN-less authentication.
+// ---
+
 #include "remoting/protocol/pairing_registry.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port allocator implementation
+// summary: Implements the ICE port allocator, applying network settings such as STUN, relay, IPv6, and port ranges, and fetching ICE configurations for allocator sessions.
+// ---
+
 #include "remoting/protocol/port_allocator.h"
 
 #include <algorithm>

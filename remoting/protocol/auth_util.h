@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared secret hash declarations
+// summary: Declares the shared secret hash length constant and the GetSharedSecretHash function for SPAKE2 authentication.
+// ---
+
 #ifndef REMOTING_PROTOCOL_AUTH_UTIL_H_
 #define REMOTING_PROTOCOL_AUTH_UTIL_H_
 

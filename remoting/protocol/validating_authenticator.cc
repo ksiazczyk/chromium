@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValidatingAuthenticator implementation
+// summary: Implements ValidatingAuthenticator, which wraps an underlying authenticator and runs an asynchronous validation callback before accepting or rejecting a connection.
+// ---
+
 #include "remoting/protocol/validating_authenticator.h"
 
 #include <memory>

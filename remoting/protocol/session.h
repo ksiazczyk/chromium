@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session
+// summary: Declares the Session interface responsible for initializing and authenticating incoming and outgoing connections, with state changes, error codes, transports, and plugins.
+// ---
+
 #ifndef REMOTING_PROTOCOL_SESSION_H_
 #define REMOTING_PROTOCOL_SESSION_H_
 

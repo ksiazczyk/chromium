@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValidatingAuthenticator interface
+// summary: Declares the ValidatingAuthenticator class that validates incoming connection requests via a caller-supplied asynchronous callback once the underlying authenticator accepts.
+// ---
+
 #ifndef REMOTING_PROTOCOL_VALIDATING_AUTHENTICATOR_H_
 #define REMOTING_PROTOCOL_VALIDATING_AUTHENTICATOR_H_
 

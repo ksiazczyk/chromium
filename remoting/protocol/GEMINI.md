@@ -1,3 +1,13 @@
+---
+type: guide
+title: Remoting protocol instructions for AI assistants
+summary: Explains the architecture of the remoting protocol directory and lists key files for AI coding assistants to read.
+relations:
+  - documents /remoting/protocol/authenticator.h
+  - documents /remoting/protocol/session.h
+  - documents /remoting/protocol/webrtc_connection_to_client.h
+---
+
 # Remoting Protocol Instructions
 
 Instructions for working in `//remoting/protocol`.

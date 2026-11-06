@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDesktopCapturer class declaration
+// summary: Header declaring FakeDesktopCapturer, a double-buffered DesktopCapturer that produces artificial frames for testing, with a customizable frame generator.
+// ---
+
 #ifndef REMOTING_PROTOCOL_FAKE_DESKTOP_CAPTURER_H_
 #define REMOTING_PROTOCOL_FAKE_DESKTOP_CAPTURER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC audio source adapter unit tests
+// summary: Unit tests verifying that WebrtcAudioSourceAdapter converts audio packets into WebRTC audio frames with the expected sample rate, channel count and handling of partial frames.
+// ---
+
 #include "remoting/protocol/webrtc_audio_source_adapter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared secret hash implementation
+// summary: Implements HMAC-SHA-256 hashing of shared secrets used in SPAKE2 authentication.
+// ---
+
 #include "remoting/protocol/auth_util.h"
 
 #include "base/base64.h"

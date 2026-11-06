@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium packet socket factory for WebRTC
+// summary: Declares ChromiumPacketSocketFactory, which creates UDP and TCP packet sockets and async DNS resolvers for WebRTC connections in the remoting protocol.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CHROMIUM_SOCKET_FACTORY_H_
 #define REMOTING_PROTOCOL_CHROMIUM_SOCKET_FACTORY_H_
 

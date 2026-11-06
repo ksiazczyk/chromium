@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client video stats dispatcher implementation
+// summary: Parses incoming frame statistics messages on the video stats channel and forwards them to the VideoStatsStub as host frame stats.
+// ---
+
 #include "remoting/protocol/client_video_stats_dispatcher.h"
 
 #include <utility>

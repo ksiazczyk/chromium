@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video track source implementation
+// summary: Implements WebrtcVideoTrackSource, which forwards captured desktop frames to WebRTC video sinks and buffers a pending frame until a sink is registered.
+// ---
+
 #include "remoting/protocol/webrtc_video_track_source.h"
 
 #include <utility>

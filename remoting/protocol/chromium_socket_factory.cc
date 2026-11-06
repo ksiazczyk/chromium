@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromium packet socket factory implementation
+// summary: Implements packet sockets that adapt Chromium's UDP and TCP networking to the WebRTC AsyncPacketSocket interface for remoting sessions.
+// ---
+
 #include "remoting/protocol/chromium_socket_factory.h"
 
 #include <stddef.h>

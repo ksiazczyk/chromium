@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JingleSessionManager implementation
+// summary: Implements JingleSessionManager, which accepts incoming and creates outgoing Jingle sessions over a signal strategy.
+// ---
+
 #include "remoting/protocol/jingle_session_manager.h"
 
 #include <string>

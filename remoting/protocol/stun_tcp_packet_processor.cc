@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StunTcpPacketProcessor implementation
+// summary: Packs and unpacks STUN and TURN packets over TCP, adding padding to meet the 4-byte alignment of RFC 5766.
+// ---
+
 #include "remoting/protocol/stun_tcp_packet_processor.h"
 
 #include <algorithm>

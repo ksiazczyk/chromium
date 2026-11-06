@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC data stream adapter class declaration
+// summary: Declares WebrtcDataStreamAdapter, a MessagePipe implementation that wraps a WebRTC data channel with send queues, state tracking and asynchronous event handling.
+// ---
+
 #ifndef REMOTING_PROTOCOL_WEBRTC_DATA_STREAM_ADAPTER_H_
 #define REMOTING_PROTOCOL_WEBRTC_DATA_STREAM_ADAPTER_H_
 

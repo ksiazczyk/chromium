@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel dispatcher base class declaration
+// summary: Declares the base class for channel message dispatchers that create named channels and dispatch incoming and outgoing messages.
+// ---
+
 #ifndef REMOTING_PROTOCOL_CHANNEL_DISPATCHER_BASE_H_
 #define REMOTING_PROTOCOL_CHANNEL_DISPATCHER_BASE_H_
 

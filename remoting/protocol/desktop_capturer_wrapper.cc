@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopCapturerWrapper implementation
+// summary: Implements a wrapper around a webrtc DesktopCapturer that adds constant-rate frame scheduling and forwards capture controls such as pause and frame rate changes.
+// ---
+
 #include "remoting/protocol/desktop_capturer_wrapper.h"
 
 #include <cstdint>
