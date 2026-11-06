@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Challenge-response known-user pref utilities implementation
+// summary: Serializes and deserializes challenge-response key information, including base64-encoded public keys and extension IDs, for known-user preferences.
+// ---
+
 #include "chromeos/ash/components/login/auth/challenge_response/known_user_pref_utils.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for login_state
+summary: Allows the component to include headers from components/account_id and components/user_manager.

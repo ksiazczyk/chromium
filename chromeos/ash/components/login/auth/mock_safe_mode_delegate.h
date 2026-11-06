@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSafeModeDelegate class declaration
+// summary: Declares MockSafeModeDelegate, a gmock fake of SafeModeDelegate that stubs safe mode and ownership checks for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_MOCK_SAFE_MODE_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_MOCK_SAFE_MODE_DELEGATE_H_
 

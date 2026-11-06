@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallAttributes unit tests
+// summary: Unit tests covering device locking, attribute caching, and lock result codes using fake InstallAttributesClient and TpmManagerClient instances.
+// ---
+
 #include "chromeos/ash/components/install_attributes/install_attributes.h"
 
 #include <memory>

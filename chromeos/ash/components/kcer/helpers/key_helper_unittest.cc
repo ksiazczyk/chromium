@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for kcer key helper
+// summary: Unit tests covering corner cases of the kcer key helpers, such as private key extraction with leading zero padding and handling of empty EC key inputs.
+// ---
+
 #include "chromeos/ash/components/kcer/helpers/key_helper.h"
 
 #include <pk11pub.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for kcer PKCS#12 reader
+// summary: Unit tests for the Pkcs12Reader helper, mainly checking error handling when parsing PKCS#12 data and extracting certificate fields such as serial, issuer, and subject names.
+// ---
+
 #include "chromeos/ash/components/kcer/helpers/pkcs12_reader.h"
 
 #include <pk11pub.h>

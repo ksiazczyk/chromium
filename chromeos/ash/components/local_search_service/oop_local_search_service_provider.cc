@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process local search service provider implementation
+// summary: Launches the Local Search Service in a dedicated service process and binds the mojo receiver to it.
+// ---
+
 #include "chromeos/ash/components/local_search_service/oop_local_search_service_provider.h"
 
 #include "chromeos/ash/components/local_search_service/public/mojom/local_search_service.mojom.h"

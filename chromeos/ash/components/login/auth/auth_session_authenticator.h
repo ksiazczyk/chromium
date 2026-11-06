@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthSessionAuthenticator class header
+// summary: Declares AuthSessionAuthenticator, the AuthSession-based cryptohome authenticator handling login, unlock, guest, public session and kiosk authentication flows.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTH_SESSION_AUTHENTICATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTH_SESSION_AUTHENTICATOR_H_
 

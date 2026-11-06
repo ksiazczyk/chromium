@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSLPrivateKeyKcer unit tests
+// summary: Unit tests covering successful signing and failure paths of the Kcer-backed SSL private key when the cert or Kcer is missing.
+// ---
+
 #include "chromeos/ash/components/kcer/ssl_private_key_kcer.h"
 
 #include "base/test/test_future.h"

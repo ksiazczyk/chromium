@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthPerformer unit tests
+// summary: Unit tests for AuthPerformer covering auth session start, factor authentication and legacy password key handling using a mocked UserDataAuthClient.
+// ---
+
 #include "chromeos/ash/components/login/auth/auth_performer.h"
 
 #include <memory>

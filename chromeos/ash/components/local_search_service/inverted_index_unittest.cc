@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the inverted index
+// summary: Unit tests for the InvertedIndex class, checking posting lists, TF-IDF scores, and document add, remove, and update operations.
+// ---
+
 #include "chromeos/ash/components/local_search_service/inverted_index.h"
 
 #include <cmath>

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Directory metadata for the kcer folder
+summary: Directory metadata specifying Buganizer components and the owning team email for the kcer directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientCertIdentity implementation backed by Kcer
+// summary: Implements a net::ClientCertIdentity that acquires an SSL private key for a certificate through the Kcer interface.
+// ---
+
 #include "chromeos/ash/components/kcer/client_cert_identity_kcer.h"
 
 #include "base/memory/scoped_refptr.h"

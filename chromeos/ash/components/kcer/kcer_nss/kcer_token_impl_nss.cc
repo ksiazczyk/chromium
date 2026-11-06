@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerTokenImplNss implementation
+// summary: Implements KcerToken operations such as key generation, certificate import and removal, and signing on top of NSS and chaps.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer_nss/kcer_token_impl_nss.h"
 
 #include <certdb.h>

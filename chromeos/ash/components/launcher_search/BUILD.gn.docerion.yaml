@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Launcher search BUILD.gn build configuration
+summary: Defines the launcher_search GN component target with its system_info sources, defines, and dependencies for ChromeOS builds.

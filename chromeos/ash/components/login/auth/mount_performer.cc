@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MountPerformer implementation
+// summary: Implements MountPerformer, which drives cryptohomed operations to create, mount, migrate, and remove user home directories during login.
+// ---
+
 #include "chromeos/ash/components/login/auth/mount_performer.h"
 
 #include "ash/constants/ash_switches.h"

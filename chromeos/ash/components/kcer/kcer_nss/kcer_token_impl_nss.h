@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerTokenImplNss class declaration
+// summary: Declares the NSS-backed KcerToken implementation, including its cache state machine and the token operation method overrides.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_KCER_NSS_KCER_TOKEN_IMPL_NSS_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_KCER_NSS_KCER_TOKEN_IMPL_NSS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionChapsClient unit tests
+// summary: Unit tests for SessionChapsClientImpl using FakeChapsClient to verify object creation, attribute retrieval, lookup and destruction flows.
+// ---
+
 #include "chromeos/ash/components/kcer/chaps/session_chaps_client.h"
 
 #include <stdint.h>

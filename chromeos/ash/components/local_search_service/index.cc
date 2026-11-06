@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Index implementation
+// summary: Implements the Index base class, including mojo receiver binding and UMA metrics logging for search and index operations.
+// ---
+
 #include "chromeos/ash/components/local_search_service/index.h"
 
 #include <optional>

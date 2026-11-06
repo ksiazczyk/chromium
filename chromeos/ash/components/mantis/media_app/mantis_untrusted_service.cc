@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MantisUntrustedService implementation
+// summary: Implements the untrusted Mojo service that forwards media app image segmentation, fill, inpaint, outpaint and safety requests to the Mantis processor.
+// ---
+
 #include "chromeos/ash/components/mantis/media_app/mantis_untrusted_service.h"
 
 #include <utility>

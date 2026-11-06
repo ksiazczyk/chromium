@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubAuthenticator implementation
+// summary: Implements StubAuthenticator, a stub that fakes login and unlock authentication with configurable success, failure, or old-encryption outcomes for testing.
+// ---
+
 #include "chromeos/ash/components/login/auth/stub_authenticator.h"
 
 #include "ash/constants/ash_features.h"

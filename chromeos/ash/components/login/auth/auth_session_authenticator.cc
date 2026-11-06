@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthSessionAuthenticator implementation
+// summary: Implements the Authenticator that authenticates users against ChromeOS cryptohome via the AuthSession API, covering login, unlock, guest, public session and kiosk flows.
+// ---
+
 #include "chromeos/ash/components/login/auth/auth_session_authenticator.h"
 
 #include "ash/constants/ash_features.h"

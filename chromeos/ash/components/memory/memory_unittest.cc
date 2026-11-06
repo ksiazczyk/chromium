@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for zram stat parsing
+// summary: Unit tests verifying parsing of zram mm_stat, bd_stat, and io_stat sysfs contents, including malformed and truncated input cases.
+// ---
+
 #include "chromeos/ash/components/memory/memory.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

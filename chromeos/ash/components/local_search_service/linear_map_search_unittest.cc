@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the linear map search backend
+// summary: Unit tests verifying size, add, update, delete, and search results of the linear map search backend.
+// ---
+
 #include <map>
 #include <memory>
 #include <set>

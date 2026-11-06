@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubAuthenticatorBuilder implementation
+// summary: Implements StubAuthenticatorBuilder, which creates StubAuthenticator instances configured for success, failure or old-encryption scenarios.
+// ---
+
 #include "chromeos/ash/components/login/auth/stub_authenticator_builder.h"
 
 namespace ash {

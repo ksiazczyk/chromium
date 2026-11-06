@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthStatusConsumer interface
+// summary: Defines the callback interface through which the Authenticator reports authentication success, failure and edge cases such as password changes and old encryption.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTH_STATUS_CONSUMER_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTH_STATUS_CONSUMER_H_
 

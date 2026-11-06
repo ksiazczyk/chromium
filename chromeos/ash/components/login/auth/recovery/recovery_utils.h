@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery default state utility header
+// summary: Declares GetRecoveryDefaultState, which reports whether the recovery auth factor should be activated by default or policy for managed and non-managed users.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_RECOVERY_RECOVERY_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_RECOVERY_RECOVERY_UTILS_H_
 

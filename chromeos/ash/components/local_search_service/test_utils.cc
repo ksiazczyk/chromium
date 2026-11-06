@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper implementations
+// summary: Provides helpers to build test data, verify search results, and compute TF-IDF scores in local search service unit tests.
+// ---
+
 #include "chromeos/ash/components/local_search_service/test_utils.h"
 
 #include <cmath>

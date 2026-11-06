@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HighLevelChapsClient unit tests
+// summary: Unit tests verifying that HighLevelChapsClientImpl correctly translates arguments and forwards calls and results to a mocked SessionChapsClient.
+// ---
+
 #include "chromeos/ash/components/kcer/chaps/high_level_chaps_client.h"
 
 #include "base/test/gmock_callback_support.h"

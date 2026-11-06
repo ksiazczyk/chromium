@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginState singleton implementation
+// summary: Implements the LoginState singleton that tracks Chrome OS login state and user session type and notifies observers.
+// ---
+
 #include "chromeos/ash/components/login/login_state/login_state.h"
 
 #include "ash/constants/ash_switches.h"

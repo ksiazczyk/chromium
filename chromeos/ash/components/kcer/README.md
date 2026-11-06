@@ -1,3 +1,11 @@
+---
+type: readme
+title: Kcer library overview
+summary: Explains the Kcer library for working with keys and client certificates on ChromeOS, covering its interface, user and device tokens, and private key handling.
+relations:
+  - documents /chromeos/ash/components/kcer/kcer.h
+---
+
 Kcer is a library to work with keys and client certificates on ChromeOS.
 
 It can be accessed through the `kcer::Kcer` interface. Each Profile owns an

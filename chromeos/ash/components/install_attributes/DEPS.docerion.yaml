@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for install_attributes
+summary: Grants this directory include access to cryptohome and device_management DBus components and cloud policy constants.

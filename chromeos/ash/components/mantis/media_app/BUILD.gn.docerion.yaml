@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Mantis media app component
+summary: Defines the media_app component and its unit_tests source_set, listing sources and dependencies for the Mantis media app.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL private key adapter backed by Kcer
+// summary: Implements net::SSLPrivateKey on top of Kcer so TLS client authentication can sign with keys managed by Kcer tokens.
+// ---
+
 #include "chromeos/ash/components/kcer/ssl_private_key_kcer.h"
 
 #include <prerror.h>

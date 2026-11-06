@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local search service unit tests
+// summary: Unit tests for LocalSearchService covering index binding, linear map backend usage, and document updates.
+// ---
+
 #include "chromeos/ash/components/local_search_service/local_search_service.h"
 #include <memory>
 

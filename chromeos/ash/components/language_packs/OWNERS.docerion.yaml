@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for language_packs
+summary: Lists the primary and secondary owners responsible for reviewing changes in this directory.

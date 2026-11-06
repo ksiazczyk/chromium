@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighLevelChapsClient implementation
+// summary: Implements the high-level Chaps client, translating PKCS#11 object and attribute operations into SessionChapsClient calls with retries and default attribute sizes.
+// ---
+
 #include "chromeos/ash/components/kcer/chaps/high_level_chaps_client.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session termination manager unit tests
+// summary: Unit tests covering sign-out without reboot, reboot when the device is locked to a single user, and reboot triggered by a remote command on sign-out.
+// ---
+
 #include "chromeos/ash/components/login/session/session_termination_manager.h"
 
 #include "base/memory/raw_ptr.h"

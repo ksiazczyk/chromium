@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared token utilities implementation
+// summary: Implements helpers shared by token implementations, such as building public keys and PKCS#11 ids and finding or importing key and certificate objects in Chaps.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer_token_utils.h"
 
 #include "base/containers/span.h"

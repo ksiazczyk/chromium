@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenResultsMerger header
+// summary: Declares a template helper that collects and aggregates results and errors from several tokens for Kcer methods running in parallel.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_TOKEN_RESULTS_MERGER_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_TOKEN_RESULTS_MERGER_H_
 

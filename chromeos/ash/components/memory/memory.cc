@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main program text locking via mlock
+// summary: Implements LockMainProgramText, which mlocks the main binary's .rodata and .text.hot segments using mlock2 with MLOCK_ONFAULT and a fallback to mlock.
+// ---
+
 #include "chromeos/ash/components/memory/memory.h"
 
 #include <link.h>

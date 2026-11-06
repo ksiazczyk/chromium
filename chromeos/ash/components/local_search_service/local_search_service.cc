@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local search service implementation
+// summary: Implements the LocalSearchService Mojo service that creates and binds index instances by index ID and backend type.
+// ---
+
 #include "chromeos/ash/components/local_search_service/local_search_service.h"
 #include "chromeos/ash/components/local_search_service/inverted_index_search.h"
 #include "chromeos/ash/components/local_search_service/linear_map_search.h"

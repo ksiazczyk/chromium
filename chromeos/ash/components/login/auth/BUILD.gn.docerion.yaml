@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for the ChromeOS Ash login auth component
+summary: Defines the auth component, test support and unit test build targets with their sources and dependencies for the login auth directory.

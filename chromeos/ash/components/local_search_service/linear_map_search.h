@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linear map search backend interface
+// summary: Declares LinearMapSearch, an Index implementation that scans all documents in storage to find matches for a query.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_LINEAR_MAP_SEARCH_H_
 #define CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_LINEAR_MAP_SEARCH_H_
 

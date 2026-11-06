@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process shutdown helper header
+// summary: Declares IsProcessShuttingDown, a UI-thread check for whether the browser process is shutting down, preferred over direct KeepAliveRegistry use in Chrome OS code.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_SESSION_PROCESS_SHUTDOWN_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_SESSION_PROCESS_SHUTDOWN_H_
 

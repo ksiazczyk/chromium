@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: kcer_nss include rules
+summary: Chromium DEPS file defining the include rules that allow kcer_nss to depend on the chaps_util header.

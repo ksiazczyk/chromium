@@ -1,0 +1,4 @@
+# Docerion header of mantis_processor.mojom.
+type: source
+title: MantisProcessor Mojo interface
+summary: Defines the Mojo interface for Mantis image processing, covering inpainting, generative fill, segmentation, outpainting, safety classification, and segmentation mode inference.

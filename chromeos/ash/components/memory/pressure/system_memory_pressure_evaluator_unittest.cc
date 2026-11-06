@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System memory pressure evaluator unit tests
+// summary: Unit tests verifying that the evaluator reports moderate, critical, and no-pressure levels and rate-limits repeated moderate notifications via a mock listener.
+// ---
+
 #include "chromeos/ash/components/memory/pressure/system_memory_pressure_evaluator.h"
 
 #include <unistd.h>

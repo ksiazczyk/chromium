@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestAttemptState implementation
+// summary: Implements TestAttemptState, which presets online login completion and cryptohome mount status for authentication tests.
+// ---
+
 #include "chromeos/ash/components/login/auth/test_attempt_state.h"
 
 #include <utility>

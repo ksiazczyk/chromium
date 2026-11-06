@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the inverted index search backend
+// summary: Unit tests covering size, add, update, delete, and query behavior of the inverted index search backend.
+// ---
+
 #include "chromeos/ash/components/local_search_service/inverted_index_search.h"
 
 #include "base/strings/utf_string_conversions.h"

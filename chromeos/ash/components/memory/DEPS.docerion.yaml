@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash memory component
+summary: Restricts allowed includes for //chromeos/ash/components/memory to required dependencies such as resourced, swap_management, and memory_pressure.

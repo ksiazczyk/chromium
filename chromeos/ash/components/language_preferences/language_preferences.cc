@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language preferences implementation
+// summary: Defines constants for input method engine management and keyboard preferences, and registers the preferred keyboard layout pref.
+// ---
+
 #include "chromeos/ash/components/language_preferences/language_preferences.h"
 #include "components/prefs/pref_registry_simple.h"
 

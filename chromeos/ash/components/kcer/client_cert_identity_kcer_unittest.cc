@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientCertIdentityKcer unit tests
+// summary: Unit tests verifying that ClientCertIdentityKcer acquires and signs with an SSL private key and fails correctly when the cert or Kcer is missing.
+// ---
+
 #include "chromeos/ash/components/kcer/client_cert_identity_kcer.h"
 
 #include "base/test/test_future.h"

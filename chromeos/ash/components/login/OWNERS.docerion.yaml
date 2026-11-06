@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the login component
+summary: Lists the code owners antrim@chromium.org and achuith@chromium.org responsible for the login component directory.

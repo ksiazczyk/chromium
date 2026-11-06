@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher search system info utility header
+// summary: Declares the PopulatePowerStatus and GetSystemInfoKeywordVector functions exported from the launcher_search component for system info launcher search results.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LAUNCHER_SEARCH_SYSTEM_INFO_LAUNCHER_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_LAUNCHER_SEARCH_SYSTEM_INFO_LAUNCHER_UTIL_H_
 

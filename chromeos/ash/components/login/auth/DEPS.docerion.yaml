@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the login auth directory
+summary: Lists allowed and banned include rules, including detailed Abseil restrictions, that apply to code in the login auth directory.

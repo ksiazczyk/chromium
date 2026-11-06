@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for install_attributes
+summary: Defines the install_attributes component, a test_support source set with stub install attributes, and unit_tests targets with their dependencies.

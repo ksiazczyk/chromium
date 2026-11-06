@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallAttributes implementation
+// summary: Implements the InstallAttributes singleton that reads cached install attributes and locks the device into a registration mode via cryptohome and TPM manager D-Bus clients.
+// ---
+
 #include "chromeos/ash/components/install_attributes/install_attributes.h"
 
 #include <stddef.h>

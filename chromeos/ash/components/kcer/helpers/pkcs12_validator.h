@@ -6,6 +6,12 @@
 // validation before data import to chaps. They are used in kcer_chaps_util.cc,
 // but they are not related to chaps, so they were moved to a separate file.
 
+// ---docerion
+// type: source
+// title: PKCS#12 validator declarations for kcer
+// summary: Declares functions that validate and prepare PKCS#12 certificate and key data before import to chaps, used by kcer_chaps_util.cc but independent of chaps itself.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_HELPERS_PKCS12_VALIDATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_HELPERS_PKCS12_VALIDATOR_H_
 

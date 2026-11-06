@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthAttemptState class declaration
+// summary: Declares a class that tracks the state of a single login attempt, holding the user context, cryptohome status and username hash information.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTH_ATTEMPT_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTH_ATTEMPT_STATE_H_
 

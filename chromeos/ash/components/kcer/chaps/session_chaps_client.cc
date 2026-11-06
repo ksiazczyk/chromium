@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionChapsClient implementation
+// summary: Implements the low-level Chaps client, opening and reusing PKCS#11 sessions per slot and retrying D-Bus operations when sessions need to be reopened.
+// ---
+
 #include "chromeos/ash/components/kcer/chaps/session_chaps_client.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubAuthenticator test stub for login flows
+// summary: Declares StubAuthenticator, a test stub of the Authenticator interface that simulates login, kiosk, unlock, auth failure and old-encryption outcomes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_STUB_AUTHENTICATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_STUB_AUTHENTICATOR_H_
 

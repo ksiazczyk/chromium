@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the login_state component
+summary: Defines the login_state component, its test support source set, and unit test targets in GN.

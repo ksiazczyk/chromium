@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KcerNss test helpers declaration
+// summary: Declares TokenHolder, TestKcerHolder, and signature verification utilities used by the KcerNss tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_KCER_NSS_TEST_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_KCER_NSS_TEST_UTILS_H_
 

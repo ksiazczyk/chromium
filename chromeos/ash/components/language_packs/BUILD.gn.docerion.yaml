@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the language_packs component
+summary: Defines the language_packs static library and unit test targets with their sources and dependencies.

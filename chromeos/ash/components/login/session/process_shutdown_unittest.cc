@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process shutdown unit tests
+// summary: Unit tests verifying that IsProcessShuttingDown follows the KeepAliveRegistry state and that the scoped testing override forces the shutdown state.
+// ---
+
 #include "chromeos/ash/components/login/session/process_shutdown.h"
 
 #include "chromeos/ash/components/login/session/scoped_process_shutting_down_override_for_testing.h"

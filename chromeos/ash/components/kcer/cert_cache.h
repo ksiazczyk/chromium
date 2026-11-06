@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate cache declaration
+// summary: Declares CertCache, an internal cache for kcer certificates with transparent lookup by DER byte spans.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_CERT_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_CERT_CACHE_H_
 

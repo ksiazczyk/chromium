@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordUpdateFlow implementation
+// summary: Implements PasswordUpdateFlow, which runs the auth session steps that migrate a user's password auth factor from the old to the new value.
+// ---
+
 #include "chromeos/ash/components/login/auth/password_update_flow.h"
 
 #include <memory>

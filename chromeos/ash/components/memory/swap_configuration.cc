@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swap configuration implementation
+// summary: Implements ChromeOS memory pressure signal experiments and configures resourced pressure thresholds over D-Bus for ARC and non-ARC users.
+// ---
+
 #include "chromeos/ash/components/memory/swap_configuration.h"
 
 #include "base/byte_size.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped public session login state test helper
+// summary: Declares a stack-scoped helper that sets up and tears down public session login state in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_LOGIN_STATE_SCOPED_TEST_PUBLIC_SESSION_LOGIN_STATE_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_LOGIN_STATE_SCOPED_TEST_PUBLIC_SESSION_LOGIN_STATE_H_
 

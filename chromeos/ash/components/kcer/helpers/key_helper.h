@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key helper declarations for kcer
+// summary: Declares kcer internal helpers for creating PKCS#11 key IDs, converting SECItems to bytes, extracting EC key bytes, DER-encoding octet strings, and checking EVP_PKEY key types.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_HELPERS_KEY_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_HELPERS_KEY_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorEditor class declaration
+// summary: Declares a higher-level API for cryptohomed operations that establish and update authentication factors for user sessions.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTH_FACTOR_EDITOR_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTH_FACTOR_EDITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Swap configuration unit tests
+// summary: Unit tests verifying that ConfigureSwap sends the expected moderate and critical margins to a fake resourced client for ARC and non-ARC cases.
+// ---
+
 #include "chromeos/ash/components/memory/swap_configuration.h"
 
 #include "base/memory/raw_ptr.h"

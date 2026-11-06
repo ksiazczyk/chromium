@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inverted index search backend implementation
+// summary: Implements the inverted index search backend, extracting document tokens and running TF-IDF ranked queries on a blocking task runner.
+// ---
+
 #include "chromeos/ash/components/local_search_service/inverted_index_search.h"
 
 #include <cstdint>

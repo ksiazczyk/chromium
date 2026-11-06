@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubInstallAttributes test support header
+// summary: Declares StubInstallAttributes for configuring device registration states in tests and ScopedStubInstallAttributes to install and tear down the singleton.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_INSTALL_ATTRIBUTES_STUB_INSTALL_ATTRIBUTES_H_
 #define CHROMEOS_ASH_COMPONENTS_INSTALL_ATTRIBUTES_STUB_INSTALL_ATTRIBUTES_H_
 

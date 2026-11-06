@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MountPerformer class declaration
+// summary: Declares MountPerformer, a high-level API over the AuthSession-based cryptohomed API for creating, mounting, migrating, and removing user home directories.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_MOUNT_PERFORMER_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_MOUNT_PERFORMER_H_
 

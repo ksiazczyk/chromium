@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for string set diffing
+// summary: Declares StringsDiff and ComputeStringsDiff for computing additions and removals between two string sets.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LANGUAGE_PACKS_DIFF_H_
 #define CHROMEOS_ASH_COMPONENTS_LANGUAGE_PACKS_DIFF_H_
 

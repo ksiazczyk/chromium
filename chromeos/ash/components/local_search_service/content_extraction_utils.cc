@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content extraction utilities implementation
+// summary: Implements text tokenization, normalization with diacritic and hyphen removal, and stopword and locale checks for search indexing.
+// ---
+
 #include "chromeos/ash/components/local_search_service/content_extraction_utils.h"
 
 #include <memory>

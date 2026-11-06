@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kcer value types implementation
+// summary: Implements Kcer value types including PublicKey, KeyInfo, Cert and PrivateKeyHandle with their constructors and comparison operators.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped process shutting down test override header
+// summary: Declares ScopedProcessShuttingDownOverrideForTesting, which makes IsProcessShuttingDown return true while the object is alive.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_SESSION_SCOPED_PROCESS_SHUTTING_DOWN_OVERRIDE_FOR_TESTING_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_SESSION_SCOPED_PROCESS_SHUTTING_DOWN_OVERRIDE_FOR_TESTING_H_
 

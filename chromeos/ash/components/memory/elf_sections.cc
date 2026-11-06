@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedded ELF section address placeholders
+// summary: Defines const volatile placeholder variables for .rodata and .text.hot addresses and sizes that embed_sections.py fills in after linking.
+// ---
+
 #include "chromeos/ash/components/memory/elf_sections.h"
 
 #include <cstdint>

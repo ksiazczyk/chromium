@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSessionChapsClient class
+// summary: GMock implementation of the SessionChapsClient interface, mocking the low-level Chaps D-Bus operations for unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_CHAPS_MOCK_SESSION_CHAPS_CLIENT_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_CHAPS_MOCK_SESSION_CHAPS_CLIENT_H_
 

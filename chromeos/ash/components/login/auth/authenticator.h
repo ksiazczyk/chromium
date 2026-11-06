@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator interface for Chromium OS user login
+// summary: Declares the Authenticator interface that authenticates Chromium OS users for login, unlock, guest, public session and kiosk modes, reporting results to an AuthStatusConsumer.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTHENTICATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_AUTHENTICATOR_H_
 

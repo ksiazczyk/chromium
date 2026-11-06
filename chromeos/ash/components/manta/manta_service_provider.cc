@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manta service provider singleton implementation
+// summary: Implements the process-wide MantaServiceProvider singleton with checks that only one instance exists at a time.
+// ---
+
 #include "chromeos/ash/components/manta/manta_service_provider.h"
 
 #include "base/check.h"

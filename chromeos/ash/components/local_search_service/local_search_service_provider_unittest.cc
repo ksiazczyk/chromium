@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local search service provider unit tests
+// summary: Unit tests verifying that the testing provider binds a LocalSearchService index and answers size queries.
+// ---
+
 #include "chromeos/ash/components/local_search_service/local_search_service_provider_for_testing.h"
 
 #include <memory>

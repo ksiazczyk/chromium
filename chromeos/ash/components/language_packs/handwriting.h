@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handwriting DLC and locale mapping declarations
+// summary: Declares helpers to map engine and input method IDs to handwriting locales and to convert between locales and DLC IDs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LANGUAGE_PACKS_HANDWRITING_H_
 #define CHROMEOS_ASH_COMPONENTS_LANGUAGE_PACKS_HANDWRITING_H_
 

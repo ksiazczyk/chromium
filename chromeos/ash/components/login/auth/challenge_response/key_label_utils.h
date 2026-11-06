@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Challenge-response key label utilities header
+// summary: Declares the function that generates the cryptohome user key label for a given list of challenge-response keys.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_CHALLENGE_RESPONSE_KEY_LABEL_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_CHALLENGE_RESPONSE_KEY_LABEL_UTILS_H_
 

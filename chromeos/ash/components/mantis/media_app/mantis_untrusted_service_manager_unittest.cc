@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MantisUntrustedServiceManager unit tests
+// summary: Unit tests for the Mantis untrusted service manager using fake Mojo services, mocked feature access checks and a testing pref service.
+// ---
+
 #include "chromeos/ash/components/mantis/media_app/mantis_untrusted_service_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtraInstances singleton header
+// summary: Declares a singleton giving components without Profile access special Kcer instances, intended as a temporary helper for the NSS to Kcer migration.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_EXTRA_INSTANCES_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_EXTRA_INSTANCES_H_
 

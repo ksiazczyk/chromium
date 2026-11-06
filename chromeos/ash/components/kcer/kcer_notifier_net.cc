@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerNotifierNet implementation
+// summary: Implements KcerNotifierNet, forwarding client cert store change notifications from net::CertDatabase to registered observers.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer_notifier_net.h"
 
 #include "base/callback_list.h"

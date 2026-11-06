@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKCS#12 validator implementation for kcer
+// summary: Implements validation of PKCS#12 data before chaps import, including error conversion, import error messages, and finding or creating unique certificate nicknames.
+// ---
+
 #include "chromeos/ash/components/kcer/helpers/pkcs12_validator.h"
 
 #include <cert.h>

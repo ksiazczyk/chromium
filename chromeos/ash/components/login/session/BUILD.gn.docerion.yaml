@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the login session component
+summary: Defines GN build targets for the login session directory, including the session component, process_shutdown and test_support source sets, and the unit test target.

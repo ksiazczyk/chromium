@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local search service preference name declarations
+// summary: Declares preference name constants backing daily event samples and search counts reported by the metrics reporter.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_PREF_NAMES_H_
 #define CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_PREF_NAMES_H_
 

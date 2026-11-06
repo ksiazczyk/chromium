@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome recovery performer implementation
+// summary: Implements CryptohomeRecoveryPerformer, which authenticates an auth session with the recovery factor by exchanging the Gaia refresh token, fetching recovery data and driving cryptohome calls.
+// ---
+
 #include "chromeos/ash/components/login/auth/recovery/cryptohome_recovery_performer.h"
 
 #include <utility>

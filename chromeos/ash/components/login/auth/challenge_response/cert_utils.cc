@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Challenge-response certificate utilities implementation
+// summary: Implements extraction of challenge-response keys from X.509 certificates and mapping of TLS 1.3 signature schemes to challenge-response key signature algorithms.
+// ---
+
 #include "chromeos/ash/components/login/auth/challenge_response/cert_utils.h"
 
 #include <string>

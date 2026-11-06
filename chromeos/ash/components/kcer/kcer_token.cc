@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KcerToken factory for NSS and non-NSS token creation
+// summary: Factory implementation that creates KcerToken instances backed either directly by Chaps or through the NSS-based token implementation.
+// ---
+
 #include "chromeos/ash/components/kcer/kcer_token.h"
 
 #include "chromeos/ash/components/kcer/chaps/high_level_chaps_client.h"

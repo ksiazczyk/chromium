@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKCS#12 reader implementation for kcer
+// summary: Implements the Pkcs12Reader class that parses PKCS#12 blobs with BoringSSL to extract keys and certificates and reads DER-encoded certificate fields, mapping errors to status codes.
+// ---
+
 #include "chromeos/ash/components/kcer/helpers/pkcs12_reader.h"
 
 #include <stdint.h>

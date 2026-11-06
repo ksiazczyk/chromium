@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the login auth directory
+summary: Declares a metadata mixin pointing to the login lock metadata for the login auth directory.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for login integrity
+summary: Specifies allowed include directories for the login integrity component and bans most Abseil features in line with the Chromium C++ style guide.

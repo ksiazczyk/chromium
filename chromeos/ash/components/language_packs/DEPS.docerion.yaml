@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for language_packs
+summary: Lists the allowed include paths for dependencies used by the language_packs directory.

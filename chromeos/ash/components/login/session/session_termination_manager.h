@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session termination manager header
+// summary: Declares the SessionTerminationManager class that handles session termination, observer notifications, and reboot policies applied on Chrome OS sign-out.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_SESSION_SESSION_TERMINATION_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_SESSION_SESSION_TERMINATION_MANAGER_H_
 

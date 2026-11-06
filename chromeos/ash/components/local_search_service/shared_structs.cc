@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared struct implementations
+// summary: Defines constructors for shared structs such as Content, Data, Position, Result, and WeightedPosition used across the local search service.
+// ---
+
 #include "chromeos/ash/components/local_search_service/shared_structs.h"
 
 #include <optional>

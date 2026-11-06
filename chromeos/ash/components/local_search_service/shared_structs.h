@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared data structures for the local search service
+// summary: Declares shared types including IndexId and Backend enums plus Content, Data, SearchParams, Position, and Result structs for the service.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_SHARED_STRUCTS_H_
 #define CHROMEOS_ASH_COMPONENTS_LOCAL_SEARCH_SERVICE_SHARED_STRUCTS_H_
 

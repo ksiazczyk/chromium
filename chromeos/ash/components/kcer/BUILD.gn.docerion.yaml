@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for the kcer library
+summary: GN build configuration defining the kcer component, its Chaps protobuf target, test support, unit tests and a fuzzer.

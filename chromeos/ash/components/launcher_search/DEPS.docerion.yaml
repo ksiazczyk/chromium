@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Launcher search include dependency rules
+summary: Lists the allowed include dependencies for the launcher_search directory, covering power manager protos, system_info, cros_healthd mojom, and ui/base headers.

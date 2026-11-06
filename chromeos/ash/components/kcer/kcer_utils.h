@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kcer utility function declarations
+// summary: Declares helpers for computing supported signing schemes and converting raw ECDSA signatures to the DER encoding required by Kcer.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_KCER_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_KCER_UTILS_H_
 

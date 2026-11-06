@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchMetricsReporter unit tests
+// summary: Unit tests verifying that SearchMetricsReporter counts searches per index and reports daily UMA histogram samples correctly.
+// ---
+
 #include "chromeos/ash/components/local_search_service/search_metrics_reporter.h"
 
 #include <memory>

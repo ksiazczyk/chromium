@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chrome OS Local Search Service
+summary: Explains the local search service, its Index backends and search parameters, and how in-process and out-of-process clients can use it.
+relations:
+  - documents /chromeos/ash/components/local_search_service/index.h
+---
+
 # Chrome OS Local Search Service
 
 `LocalSearchService` provides on-device data storage/indexing and flexible search functions via approximate string matching. It supports both in-process and out-of-process clients with the use of a mojo wrapper.

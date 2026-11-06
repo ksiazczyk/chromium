@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MantisUntrustedServiceManager class declaration
+// summary: Declares the manager that controls creation and lifetime of the Mantis untrusted service for the media app.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_MANTIS_MEDIA_APP_MANTIS_UNTRUSTED_SERVICE_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_MANTIS_MEDIA_APP_MANTIS_UNTRUSTED_SERVICE_MANAGER_H_
 

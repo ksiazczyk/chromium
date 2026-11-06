@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PKCS#12 reader declarations and status codes
+// summary: Declares the Pkcs12Reader helper class, its status code enum, and the CertData and KeyData structs used to extract keys and certificates from PKCS#12 data.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_HELPERS_PKCS12_READER_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_HELPERS_PKCS12_READER_H_
 

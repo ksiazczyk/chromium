@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kcer public API header
+// summary: 'Defines the main Kcer API: error codes, token types, strong aliases, key and certificate classes and the Kcer interface for ChromeOS key and certificate operations.'
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_KCER_KCER_H_
 #define CHROMEOS_ASH_COMPONENTS_KCER_KCER_H_
 

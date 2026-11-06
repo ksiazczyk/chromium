@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeModeDelegate interface
+// summary: Declares the SafeModeDelegate interface that lets cryptohome mounting code check safe mode and owner rights when DeviceSettings are corrupted.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_SAFE_MODE_DELEGATE_H_
 #define CHROMEOS_ASH_COMPONENTS_LOGIN_AUTH_SAFE_MODE_DELEGATE_H_
 
