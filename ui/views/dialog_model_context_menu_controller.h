@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog model context menu controller
+// summary: Declares a ContextMenuController subclass that hosts context menus generated from ui::DialogModel callbacks for a host view.
+// ---
+
 #ifndef UI_VIEWS_DIALOG_MODEL_CONTEXT_MENU_CONTROLLER_H_
 #define UI_VIEWS_DIALOG_MODEL_CONTEXT_MENU_CONTROLLER_H_
 

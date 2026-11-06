@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchSelectionController unit tests
+// summary: Extensive unit tests for TouchSelectionController with a mock client and drawable, covering touch sequences, selection events and drag behavior.
+// ---
+
 #include "ui/touch_selection/touch_selection_controller.h"
 
 #include <vector>

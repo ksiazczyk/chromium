@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighlightBorder painting implementation
+// summary: Implements HighlightBorder painting with color-provider highlight and border colors, plus insets and minimum size behavior for the rounded border.
+// ---
+
 #include "ui/views/highlight_border.h"
 
 #include "ui/color/color_id.h"

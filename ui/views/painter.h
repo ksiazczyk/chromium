@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Painter interface
+// summary: Declares the Painter base class and factory methods for creating round rect, border, image, and image grid painters.
+// ---
+
 #ifndef UI_VIEWS_PAINTER_H_
 #define UI_VIEWS_PAINTER_H_
 

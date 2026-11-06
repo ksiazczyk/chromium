@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Views feature flags for GN builds
+summary: GN import defining Views build feature flags, including enable_desktop_aura for DesktopNativeWidgetAura and supports_ax_text_offsets for accessibility text offsets on Windows.

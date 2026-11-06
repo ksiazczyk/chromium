@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Border unit tests
+// summary: Unit tests verifying border painting, insets, and minimum sizes using a mock SkCanvas that records draw and clip calls.
+// ---
+
 #include "ui/views/border.h"
 
 #include <algorithm>

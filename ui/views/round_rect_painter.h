@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundRectPainter class header
+// summary: Declares RoundRectPainter, a Painter subclass that draws a one-pixel rounded-corner border in a given color.
+// ---
+
 #ifndef UI_VIEWS_ROUND_RECT_PAINTER_H_
 #define UI_VIEWS_ROUND_RECT_PAINTER_H_
 

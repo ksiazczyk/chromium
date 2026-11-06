@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch selection magnifier for Aura implementation
+// summary: Implements the Aura magnifier layer that displays a zoomed view of the caret or selection endpoint during touch text selection.
+// ---
+
 #include "ui/touch_selection/touch_selection_magnifier_aura.h"
 
 #include "cc/paint/paint_flags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RepeatController class header
+// summary: Declares RepeatController, a views helper that auto-repeats a callback after an initial 250 ms delay and then every 50 ms while active.
+// ---
+
 #ifndef UI_VIEWS_REPEAT_CONTROLLER_H_
 #define UI_VIEWS_REPEAT_CONTROLLER_H_
 

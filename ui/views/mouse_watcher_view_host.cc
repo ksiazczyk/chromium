@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseWatcherViewHost implementation
+// summary: Implements a MouseWatcherHost that monitors the area around a view's bounds expanded by hot zone insets and checks whether the cursor is over the view's window.
+// ---
+
 #include "ui/views/mouse_watcher_view_host.h"
 
 #include "ui/display/screen.h"

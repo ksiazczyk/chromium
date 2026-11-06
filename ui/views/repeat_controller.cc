@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RepeatController implementation
+// summary: Implements RepeatController, which runs a callback repeatedly using a timer with a longer initial wait before subsequent repeats.
+// ---
+
 #include "ui/views/repeat_controller.h"
 
 #include <utility>

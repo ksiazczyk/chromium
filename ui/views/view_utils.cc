@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View debug utilities implementation
+// summary: Implements the view debug wrapper, view hierarchy printing, and debug info with optional creation stack traces behind a command-line switch.
+// ---
+
 #include "ui/views/view_utils.h"
 
 #include <memory>

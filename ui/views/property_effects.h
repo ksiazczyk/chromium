@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyEffects enum
+// summary: Defines the PropertyEffects enum describing how property changes affect a container through layout, paint, or preferred size updates.
+// ---
+
 #ifndef UI_VIEWS_PROPERTY_EFFECTS_H_
 #define UI_VIEWS_PROPERTY_EFFECTS_H_
 

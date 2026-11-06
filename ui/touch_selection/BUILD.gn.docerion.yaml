@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the touch_selection component
+summary: GN build file defining the touch_selection component with Aura and Blink sources, a test support library, and the ui_touch_selection_unittests target.

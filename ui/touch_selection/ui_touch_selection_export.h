@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI touch selection export macro
+// summary: Defines the UI_TOUCH_SELECTION_EXPORT macro for exporting touch selection symbols in component builds.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_UI_TOUCH_SELECTION_EXPORT_H_
 #define UI_TOUCH_SELECTION_UI_TOUCH_SELECTION_EXPORT_H_
 

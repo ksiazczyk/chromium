@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventMonitor unit tests
+// summary: Parameterized unit tests checking that application and window event monitors deliver only requested event types while installed and ignore events from other windows.
+// ---
+
 #include "ui/views/event_monitor.h"
 
 #include <utility>

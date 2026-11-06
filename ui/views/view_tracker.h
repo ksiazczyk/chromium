@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTracker class declaration
+// summary: Declares ViewTracker, a ViewObserver that safely tracks a view and invokes a callback before the view is deleted.
+// ---
+
 #ifndef UI_VIEWS_VIEW_TRACKER_H_
 #define UI_VIEWS_VIEW_TRACKER_H_
 

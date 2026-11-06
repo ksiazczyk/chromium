@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseWatcher interfaces for monitoring mouse movement
+// summary: Declares MouseWatcher, MouseWatcherListener, and MouseWatcherHost, which together notify a listener when the mouse moves outside a monitored region.
+// ---
+
 #ifndef UI_VIEWS_MOUSE_WATCHER_H_
 #define UI_VIEWS_MOUSE_WATCHER_H_
 

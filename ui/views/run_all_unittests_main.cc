@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views unit test main entry point
+// summary: Main function that initializes Mojo and runs the Views test suite for the Views unit tests.
+// ---
+
 #include "mojo/core/embedder/embedder.h"
 #include "ui/views/views_test_suite.h"
 

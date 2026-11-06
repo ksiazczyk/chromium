@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTargeterDelegate class declaration
+// summary: Declares the delegate interface defining default hit-testing and rect-based event-targeting behaviour for views.
+// ---
+
 #ifndef UI_VIEWS_VIEW_TARGETER_DELEGATE_H_
 #define UI_VIEWS_VIEW_TARGETER_DELEGATE_H_
 

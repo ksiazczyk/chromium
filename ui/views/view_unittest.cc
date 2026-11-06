@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View class unit tests
+// summary: Extensive unit tests covering View behaviour such as layout, painting, event handling, accessibility, clipboard and layer management.
+// ---
+
 #include "ui/views/view.h"
 
 #include <stddef.h>

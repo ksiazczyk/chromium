@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionControllerDelegate interface
+// summary: Declares the SelectionControllerDelegate interface that views implement to support text selection, drag, and selection clipboard behavior with a SelectionController.
+// ---
+
 #ifndef UI_VIEWS_SELECTION_CONTROLLER_DELEGATE_H_
 #define UI_VIEWS_SELECTION_CONTROLLER_DELEGATE_H_
 

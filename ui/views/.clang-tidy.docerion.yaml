@@ -1,0 +1,4 @@
+# Docerion header of .clang-tidy.
+type: config
+title: Clang-tidy configuration for ui/views
+summary: Configures clang-tidy checks and header filtering for C++ code in the Views UI toolkit.

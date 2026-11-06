@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: Vector icons C++ source template
+summary: Template from which the build generates vector_icons.cc, expanding the touch selection icon definitions in namespace ui.

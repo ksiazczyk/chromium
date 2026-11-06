@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaskedTargeterDelegate hit-test implementation
+// summary: Implements DoesIntersectRect so hit testing respects a view's custom Skia hit-test mask in addition to its rectangular bounds.
+// ---
+
 #include "ui/views/masked_targeter_delegate.h"
 
 #include "third_party/skia/include/core/SkPath.h"

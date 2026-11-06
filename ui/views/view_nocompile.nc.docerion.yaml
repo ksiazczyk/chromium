@@ -1,0 +1,4 @@
+# Docerion header of view_nocompile.nc.
+type: test
+title: View no-compile tests
+summary: No-compile test suite asserting that synchronous and superclass layout of View can only be triggered through the intended passkey-based APIs.

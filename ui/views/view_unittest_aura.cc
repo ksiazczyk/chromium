@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View unit tests for the Aura platform
+// summary: Unit tests verifying View and Widget behavior on Aura, including layer recreation across child views and windows with preserved z-order.
+// ---
+
 #include <memory>
 
 #include "base/test/scoped_feature_list.h"

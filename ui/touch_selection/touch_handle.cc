@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch handle rendering and interaction implementation
+// summary: Implements TouchHandle, handling visibility, fading, positioning, hit testing, and drag behavior for selection and insertion handles.
+// ---
+
 #include "ui/touch_selection/touch_handle.h"
 
 #include <algorithm>

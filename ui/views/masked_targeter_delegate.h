@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaskedTargeterDelegate for masked view hit-testing
+// summary: Declares the MaskedTargeterDelegate interface that lets views define a custom hit-test mask so rectangular regions are tested against the mask shape.
+// ---
+
 #ifndef UI_VIEWS_MASKED_TARGETER_DELEGATE_H_
 #define UI_VIEWS_MASKED_TARGETER_DELEGATE_H_
 

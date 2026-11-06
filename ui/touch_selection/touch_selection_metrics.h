@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch selection metrics declarations
+// summary: Declares histogram names, drag type and menu action enums, and recording functions for touch selection metrics.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_TOUCH_SELECTION_METRICS_H_
 #define UI_TOUCH_SELECTION_TOUCH_SELECTION_METRICS_H_
 

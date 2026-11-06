@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View model utilities unit tests
+// summary: Unit tests covering SetViewBoundsToIdealBounds and DetermineMoveIndex for both horizontal and vertical orientations.
+// ---
+
 #include "ui/views/view_model_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

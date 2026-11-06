@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the longpress drag selector
+// summary: Exercises LongPressDragSelector behavior with mock motion events, covering drag initiation, slop handling, selection extension, and cancellation.
+// ---
+
 #include "ui/touch_selection/longpress_drag_selector.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

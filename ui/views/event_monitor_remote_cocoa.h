@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventMonitorRemoteCocoa class declaration
+// summary: Declares an EventMonitor implementation for macOS that observes events on windows in other processes, such as PWAs, via NativeWidgetMacEventMonitor.
+// ---
+
 #ifndef UI_VIEWS_EVENT_MONITOR_REMOTE_COCOA_H_
 #define UI_VIEWS_EVENT_MONITOR_REMOTE_COCOA_H_
 

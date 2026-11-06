@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessiblePaneView implementation
+// summary: Implements pane focus management and accessibility support for pane views, including a custom focus search that subclasses can extend.
+// ---
+
 #include "ui/views/accessible_pane_view.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ui/views
+summary: Lists allowed include directories and per-file exceptions for dependencies of code in the ui/views directory.

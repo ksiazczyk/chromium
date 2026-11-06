@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch selection menu runner implementation
+// summary: Implements singleton registration for TouchSelectionMenuRunner and the TouchSelectionMenuClient base class.
+// ---
+
 #include "ui/touch_selection/touch_selection_menu_runner.h"
 
 #include "base/check_op.h"

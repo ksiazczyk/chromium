@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the touch_selection directory
+summary: Declares the directories that code in ui/touch_selection may include from, such as cc/paint, Skia, aura, and other ui subdirectories.

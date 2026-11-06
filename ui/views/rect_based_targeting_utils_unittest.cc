@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rect-based targeting utilities tests
+// summary: Unit tests for UsePointBasedTargeting, PercentCoveredBy, and DistanceSquaredFromCenterToPoint with various rectangle and point cases.
+// ---
+
 #include "ui/views/rect_based_targeting_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

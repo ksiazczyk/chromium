@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of drag-and-drop loop utilities
+// summary: Implements RunDragDropLoop and CancelDragDropLoop on Aura by delegating to the root window's drag-drop client.
+// ---
+
 #include "base/check.h"
 #include "ui/aura/client/drag_drop_client.h"
 #include "ui/aura/window.h"

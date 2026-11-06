@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cascading property helpers for view hierarchy
+// summary: Defines a CascadingProperty template that resolves properties by walking up the view tree, plus helpers for cascading background, accent, and radio group values.
+// ---
+
 #ifndef UI_VIEWS_CASCADING_PROPERTY_H_
 #define UI_VIEWS_CASCADING_PROPERTY_H_
 

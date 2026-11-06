@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Touch selection vector icons build file
+summary: GN build file that aggregates the touch selection handle icons and defines the vector_icons source set with its dependencies.

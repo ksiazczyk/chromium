@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View class property declarations
+// summary: Declares shared class property keys for views, documenting properties for margins, internal padding, flex layout, highlight paths, and table layout.
+// ---
+
 #ifndef UI_VIEWS_VIEW_CLASS_PROPERTIES_H_
 #define UI_VIEWS_VIEW_CLASS_PROPERTIES_H_
 

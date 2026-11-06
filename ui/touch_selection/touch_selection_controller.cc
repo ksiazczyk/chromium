@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch selection controller implementation
+// summary: Implements TouchSelectionController, managing touch-driven text selection, handle updates, and swapping of start and end handles as selection bounds change.
+// ---
+
 #include "ui/touch_selection/touch_selection_controller.h"
 
 #include <memory>

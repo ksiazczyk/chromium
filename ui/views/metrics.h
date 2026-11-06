@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views timing metrics constants and accessors
+// summary: Declares the default menu show delay and exported functions returning the double-click interval and menu show delay used across the Views toolkit.
+// ---
+
 #ifndef UI_VIEWS_METRICS_H_
 #define UI_VIEWS_METRICS_H_
 

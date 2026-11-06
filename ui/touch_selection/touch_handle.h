@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch handle class and drawable interfaces
+// summary: Declares TouchHandle plus the TouchHandleDrawable and TouchHandleClient interfaces used to render and manipulate selection or insertion handles.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_TOUCH_HANDLE_H_
 #define UI_TOUCH_SELECTION_TOUCH_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura and Windows implementation of views metrics
+// summary: Implements GetDoubleClickInterval and GetMenuShowDelay, reading Windows system settings and falling back to default values on other platforms.
+// ---
+
 #include "base/time/time.h"
 #include "build/build_config.h"
 #include "ui/views/metrics.h"

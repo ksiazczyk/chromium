@@ -1,3 +1,9 @@
+---
+type: reference
+title: Nested message loop mechanism in Views
+summary: Explains the nested message loop mechanism and re-entrancy risks, such as Windows SendMessage and COM calls, that can cause security bugs in Views UI code.
+---
+
 # Nested Message Loop Mechanism
 
 ## Overview

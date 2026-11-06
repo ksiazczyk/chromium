@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedPaintLock implementation
+// summary: Implements ScopedPaintLock, observing a View to add and remove a paint lock and handling view deletion safely.
+// ---
+
 #include "ui/views/scoped_paint_lock.h"
 
 #include "ui/views/view.h"

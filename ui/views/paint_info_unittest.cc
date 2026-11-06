@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintInfo unit tests
+// summary: Tests PaintInfo recording bounds coverage across nested views and pixel canvas corner scaling at various device scale factors.
+// ---
+
 #include "ui/views/paint_info.h"
 
 #include <memory>

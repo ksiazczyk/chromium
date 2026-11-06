@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Word lookup client interface
+// summary: Defines the WordLookupClient interface for views to retrieve decorated text and bounds for word lookups at a point or from the current selection.
+// ---
+
 #ifndef UI_VIEWS_WORD_LOOKUP_CLIENT_H_
 #define UI_VIEWS_WORD_LOOKUP_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag-and-drop loop utility declarations
+// summary: Declares helpers to run and cancel the blocking drag-and-drop loop and to get the drag scale factor for a widget.
+// ---
+
 #ifndef UI_VIEWS_DRAG_UTILS_H_
 #define UI_VIEWS_DRAG_UTILS_H_
 

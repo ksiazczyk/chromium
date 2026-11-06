@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ui_unittests target
+summary: GN build file that defines the ui_unittests test target, listing its sources and platform-dependent dependencies on ui test support targets.

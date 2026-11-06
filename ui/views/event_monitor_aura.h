@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventMonitorAura class declaration
+// summary: Declares EventMonitorAura, which observes events by installing a pre-target handler on the ui::EventTarget and tears it down on destruction.
+// ---
+
 #ifndef UI_VIEWS_EVENT_MONITOR_AURA_H_
 #define UI_VIEWS_EVENT_MONITOR_AURA_H_
 

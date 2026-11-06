@@ -1,0 +1,4 @@
+# Docerion header of event_monitor_mac.mm.
+type: source
+title: Mac implementation of EventMonitor
+summary: Implements Mac event monitors via local NSEvent monitors and picks remote Cocoa monitoring for out-of-process windows such as PWAs.

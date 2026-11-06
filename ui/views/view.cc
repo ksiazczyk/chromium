@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View base class implementation
+// summary: Implements the View base class of the Views UI toolkit, covering layout, painting, events, focus, drag-and-drop, accessibility, and hierarchy management.
+// ---
+
 #include "ui/views/view.h"
 
 #include <algorithm>

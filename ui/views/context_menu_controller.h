@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu controller base class
+// summary: Declares the base ContextMenuController interface that views use to show context menus, with a pure virtual hook for subclasses.
+// ---
+
 #ifndef UI_VIEWS_CONTEXT_MENU_CONTROLLER_H_
 #define UI_VIEWS_CONTEXT_MENU_CONTROLLER_H_
 

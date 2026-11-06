@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseWatcher implementation
+// summary: Implements MouseWatcher, which observes mouse events and notifies its listener after the cursor leaves the host's monitored region, with a configurable delay.
+// ---
+
 #include "ui/views/mouse_watcher.h"
 
 #include <utility>

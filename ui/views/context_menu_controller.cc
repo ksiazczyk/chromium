@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu controller implementation
+// summary: Implements ShowContextMenuForView with a re-entrancy guard so subclasses can safely show context menus for views.
+// ---
+
 #include "ui/views/context_menu_controller.h"
 
 #include "ui/base/mojom/menu_source_type.mojom-forward.h"

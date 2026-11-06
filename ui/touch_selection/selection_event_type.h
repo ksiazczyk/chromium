@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection event type enum
+// summary: Defines the SelectionEventType enum of selection and insertion handle events used to notify Java when the renderer selection changes.
+// ---
+
 #ifndef UI_TOUCH_SELECTION_SELECTION_EVENT_TYPE_H_
 #define UI_TOUCH_SELECTION_SELECTION_EVENT_TYPE_H_
 

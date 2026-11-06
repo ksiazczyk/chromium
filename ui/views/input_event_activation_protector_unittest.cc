@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputEventActivationProtector unit tests
+// summary: Unit tests verifying rapid clicks after visibility changes are blocked, custom policies replace the default, and widget stationarity changes restart protection.
+// ---
+
 #include "ui/views/input_event_activation_protector.h"
 
 #include <memory>

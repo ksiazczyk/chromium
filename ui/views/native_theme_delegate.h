@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeThemeDelegate for animated theme painting
+// summary: Declares the NativeThemeDelegate interface supplying theme part, paint rect, state, and animation data for animating native theme borders and painters.
+// ---
+
 #ifndef UI_VIEWS_NATIVE_THEME_DELEGATE_H_
 #define UI_VIEWS_NATIVE_THEME_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputEventActivationProtector class declaration
+// summary: Declares InputEventActivationProtector, which detects possibly unintended interactions such as click-spam or inputs right after a view is shown, with pluggable policies.
+// ---
+
 #ifndef UI_VIEWS_INPUT_EVENT_ACTIVATION_PROTECTOR_H_
 #define UI_VIEWS_INPUT_EVENT_ACTIVATION_PROTECTOR_H_
 

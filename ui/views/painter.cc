@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Painter implementations
+// summary: Implements Painter subclasses such as SolidRoundRectPainter that draw rounded rectangles, borders, and images on canvases.
+// ---
+
 #include "ui/views/painter.h"
 
 #include <utility>

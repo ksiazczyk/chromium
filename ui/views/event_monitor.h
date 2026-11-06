@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventMonitor interface for observing UI events
+// summary: Declares the EventMonitor RAII class that forwards matching events to an observer, with factories for application-wide and per-window monitors.
+// ---
+
 #ifndef UI_VIEWS_EVENT_MONITOR_H_
 #define UI_VIEWS_EVENT_MONITOR_H_
 

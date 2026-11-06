@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the views component
+summary: Defines the views component build targets, public headers, vector icon aggregation, build flags, and histogram allowlist generation.

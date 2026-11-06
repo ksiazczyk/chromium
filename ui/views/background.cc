@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background painting implementations
+// summary: Implements Background subclasses including solid, rounded rectangle, and layer-based backgrounds that paint view backgrounds with theme-aware colors.
+// ---
+
 #include "ui/views/background.h"
 
 #include <algorithm>

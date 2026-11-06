@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Longpress drag selector implementation
+// summary: Implements touch-driven selection extension after a longpress or double press, translating motion events into drag updates on the selection bounds.
+// ---
+
 #include "ui/touch_selection/longpress_drag_selector.h"
 
 #include "ui/events/velocity_tracker/motion_event.h"

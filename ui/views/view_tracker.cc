@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTracker implementation
+// summary: Implements tracking of a single view, clearing the pointer and running a callback when the view or its hierarchy is deleted.
+// ---
+
 #include "ui/views/view_tracker.h"
 
 #include <utility>

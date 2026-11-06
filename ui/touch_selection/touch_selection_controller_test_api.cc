@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch selection controller test API implementation
+// summary: Implements the test API that exposes handle visibility, alpha and orientation from TouchSelectionController internals for use in tests.
+// ---
+
 #include "ui/touch_selection/touch_selection_controller_test_api.h"
 
 namespace ui {

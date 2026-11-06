@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewTracker unit tests
+// summary: Unit tests verifying that ViewTracker clears its tracked view on deletion, runs callbacks, and can track an entire view hierarchy.
+// ---
+
 #include "ui/views/view_tracker.h"
 
 #include <memory>

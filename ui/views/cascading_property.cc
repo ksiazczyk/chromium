@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cascading property implementation for views
+// summary: Implements cascading view properties such as color-provider colors and radio group views that resolve through the view hierarchy.
+// ---
+
 #include "ui/views/cascading_property.h"
 
 #include "ui/base/theme_provider.h"

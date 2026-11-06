@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessiblePaneView class declaration
+// summary: Declares the AccessiblePaneView class that gives views such as toolbars keyboard-accessible pane focus with F6 traversal, accelerator handling, and customizable focus search.
+// ---
+
 #ifndef UI_VIEWS_ACCESSIBLE_PANE_VIEW_H_
 #define UI_VIEWS_ACCESSIBLE_PANE_VIEW_H_
 

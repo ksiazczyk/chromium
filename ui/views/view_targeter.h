@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTargeter class declaration
+// summary: Declares ViewTargeter, an event targeter that lets a view use custom hit-testing and event-targeting behaviour defined by a delegate.
+// ---
+
 #ifndef UI_VIEWS_VIEW_TARGETER_H_
 #define UI_VIEWS_VIEW_TARGETER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RepeatController unit tests
+// summary: Unit tests verifying RepeatController timing, start and stop behavior, and that no callbacks fire after stopping.
+// ---
+
 #include "ui/views/repeat_controller.h"
 
 #include "base/functional/bind.h"

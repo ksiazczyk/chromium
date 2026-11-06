@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionController class header
+// summary: Declares SelectionController, a helper that processes mouse events for text selection through a SelectionControllerDelegate interface.
+// ---
+
 #ifndef UI_VIEWS_SELECTION_CONTROLLER_H_
 #define UI_VIEWS_SELECTION_CONTROLLER_H_
 

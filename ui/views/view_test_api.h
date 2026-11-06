@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ViewTestApi test accessor for View
+// summary: Provides a test-only API to inspect View layout and paint state such as the needs_layout and needs_paint flags.
+// ---
+
 #ifndef UI_VIEWS_VIEW_TEST_API_H_
 #define UI_VIEWS_VIEW_TEST_API_H_
 

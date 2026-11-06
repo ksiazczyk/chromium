@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rect-based targeting utilities implementation
+// summary: Implements helpers for rect-based hit targeting, including point-based targeting checks, area coverage percentages, and center distance calculations.
+// ---
+
 #include "ui/views/rect_based_targeting_utils.h"
 
 #include "ui/gfx/geometry/point.h"

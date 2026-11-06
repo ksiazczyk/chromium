@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HighlightBorder class declaration
+// summary: Declares HighlightBorder, a rounded border with inner highlight and outer colors, supporting no-shadow and on-shadow types and configurable inset modes.
+// ---
+
 #ifndef UI_VIEWS_HIGHLIGHT_BORDER_H_
 #define UI_VIEWS_HIGHLIGHT_BORDER_H_
 

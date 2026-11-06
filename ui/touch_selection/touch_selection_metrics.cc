@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch selection metrics recording
+// summary: Records UMA histograms for touch selection drag types and menu actions such as cut, copy, paste, and select.
+// ---
+
 #include "ui/touch_selection/touch_selection_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

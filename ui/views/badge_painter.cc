@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BadgePainter implementation
+// summary: Implements static BadgePainter methods that draw and size badges on view canvases using theme colors and typography-derived fonts.
+// ---
+
 #include "ui/views/badge_painter.h"
 
 #include <algorithm>

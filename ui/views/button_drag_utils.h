@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button drag utilities for URL and drag image
+// summary: Declares helpers that set a URL, title, and bookmark-style drag image on drag exchange data for button drags.
+// ---
+
 #ifndef UI_VIEWS_BUTTON_DRAG_UTILS_H_
 #define UI_VIEWS_BUTTON_DRAG_UTILS_H_
 
