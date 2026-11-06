@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Get client capabilities test
+// summary: Sanity test that navigates to a secure page and evaluates PublicKeyCredential.getClientCapabilities().
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       `Tests PublicKeyCredential.getClientCapabilities() in a secure context.`);

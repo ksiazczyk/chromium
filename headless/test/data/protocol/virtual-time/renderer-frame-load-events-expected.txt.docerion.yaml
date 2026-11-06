@@ -1,0 +1,4 @@
+# Docerion header of renderer-frame-load-events-expected.txt.
+type: test
+title: Expected output for renderer frame load events test
+summary: Expected output for the headless virtual time test covering frame load events across nested frames and an iframe.

@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-interrupt-expected.txt.
+type: test
+title: Virtual time interrupt expected output
+summary: Expected output for the test checking that a virtual time fence does not block interrupting protocol commands.

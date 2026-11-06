@@ -1,0 +1,4 @@
+# Docerion header of headless-session-basics-expected.txt.
+type: test
+title: Expected output for headless session basics test
+summary: Expected output confirming that Target.createTarget returns a sessionId in the headless session basics test.

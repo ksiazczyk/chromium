@@ -1,0 +1,4 @@
+# Docerion header of beforeunload.html.
+type: test
+title: Beforeunload test page
+summary: HTML test fixture that registers a window.onbeforeunload handler returning a string, used as test data for page protocol tests.

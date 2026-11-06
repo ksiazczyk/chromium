@@ -1,0 +1,4 @@
+# Docerion header of only_figure_role.html.
+type: test
+title: Only figure role test page
+summary: HTML fixture using a div with role figure and aria-labelledby to mark up a figure.

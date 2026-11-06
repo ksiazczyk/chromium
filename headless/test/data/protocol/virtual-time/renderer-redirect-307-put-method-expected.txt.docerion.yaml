@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-307-put-method-expected.txt.
+type: test
+title: Renderer redirect 307 PUT method expected output
+summary: Expected output for the virtual time renderer test verifying that a 307 redirect preserves the PUT method.

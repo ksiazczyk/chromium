@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer test helper
+// summary: Helper class that sets up common objects such as the HTTP interceptor, frame navigation helper and virtual time controller for renderer tests.
+// ---
+
 /**
  * A helper class to instantiate classes commonly used in renderer tests.
  */

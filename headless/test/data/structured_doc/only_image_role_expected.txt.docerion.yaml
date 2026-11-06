@@ -1,0 +1,4 @@
+# Docerion header of only_image_role_expected.txt.
+type: test
+title: Only image role expected output
+summary: Expected structured document tree for the only image role HTML fixture, showing a Figure node with alt text.

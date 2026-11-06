@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-cross-process-navigation-expected.txt.
+type: test
+title: Virtual time cross-process navigation expected output
+summary: Expected output for the protocol test verifying that virtual time survives cross-process navigation, listing document requests with their virtual time stamps.

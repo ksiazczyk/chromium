@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot WEBP test
+// summary: Headless protocol test that captures a beginFrame screenshot in WEBP format and checks its RIFF and WEBP signatures.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, dp} = await testRunner.startWithFrameControl(
       'Tests screenshot produced by beginFrame supports WEBP encoding');

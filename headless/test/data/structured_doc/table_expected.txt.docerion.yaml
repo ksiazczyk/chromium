@@ -1,0 +1,4 @@
+# Docerion header of table_expected.txt.
+type: test
+title: Expected structure for table
+summary: Expected structured document tree verifying conversion of table headers and cells with scope, span and header references.

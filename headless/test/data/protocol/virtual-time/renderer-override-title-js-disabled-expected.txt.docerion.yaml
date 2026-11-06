@@ -1,0 +1,4 @@
+# Docerion header of renderer-override-title-js-disabled-expected.txt.
+type: test
+title: Renderer override title with JavaScript disabled expected output
+summary: Expected output for the virtual-time renderer test that overrides the page title with JavaScript disabled.

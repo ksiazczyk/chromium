@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-after-completion-expected.txt.
+type: test
+title: Renderer redirect after completion expected output
+summary: Expected output for the virtual time renderer test of a meta tag refresh navigation scheduled after document completion.

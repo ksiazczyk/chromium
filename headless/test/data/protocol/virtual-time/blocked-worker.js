@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Blocked worker virtual time test
+// summary: Headless test verifying that a worker start aborted due to CDP does not block virtual time, using a blob worker created on a page with a content security policy.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} =
       await testRunner.startWithFrameControl(`Tests that worker start aborted` +

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Grant permissions sanity test
+// summary: Sanity test that grants geolocation permission through the DevTools protocol and verifies permission state changes and resets.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} =
       await testRunner.startBlank('Tests grant permissions.');

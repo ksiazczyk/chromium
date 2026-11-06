@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Headless browser context disposal on session detach test
+// summary: Protocol test that creates browser contexts with and without disposeOnDetach and checks they are disposed when sessions detach.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   testRunner.log('Tests headless context destruction on session close.\n');
 

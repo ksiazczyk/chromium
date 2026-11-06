@@ -1,0 +1,4 @@
+# Docerion header of compositor-image-animation.html.
+type: test
+title: Compositor image animation test page
+summary: Test page that displays an animated GIF image to exercise compositor-driven image animation.

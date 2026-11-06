@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-fetch-read-body-blob-expected.txt.
+type: test
+title: Virtual time fetch read body blob expected output
+summary: Expected output for the test checking that virtual time does not deadlock with Response.blob() and URL.createObjectURL().

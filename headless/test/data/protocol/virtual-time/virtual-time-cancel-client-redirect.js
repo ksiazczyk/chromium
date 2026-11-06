@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time cancel client redirect test
+// summary: Headless protocol test that verifies virtual time is not stalled by an aborted client-side redirect, using Fetch interception and BeginFrame control.
+// ---
+
 const html = `
     <script>
       setTimeout(() => console.log('DONE'), 1000);

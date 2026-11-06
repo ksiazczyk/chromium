@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time worker lockstep test
+// summary: Headless protocol test verifying that virtual time advances in lockstep between a web worker and the host page using a virtual time budget.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests that VT advances in lockstep between worker and host page.`);

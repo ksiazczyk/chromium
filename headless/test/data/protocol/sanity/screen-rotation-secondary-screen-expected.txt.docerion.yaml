@@ -1,0 +1,4 @@
+# Docerion header of screen-rotation-secondary-screen-expected.txt.
+type: test
+title: Screen rotation on secondary screen expected output
+summary: Expected output for the sanity test that checks screen rotation on a secondary screen.

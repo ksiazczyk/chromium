@@ -1,0 +1,4 @@
+# Docerion header of textinput.html.
+type: test
+title: Text input test page
+summary: HTML fixture covering many input types and labeling methods such as aria-label, title, wrapped labels and for/id associations.

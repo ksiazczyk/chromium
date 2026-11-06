@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time SVG test
+// summary: Headless DevTools protocol test that loads a page with an SVG image via fetch interception and runs it under a virtual time budget.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       `Tests virtual time with history navigation.`);

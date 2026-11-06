@@ -1,0 +1,4 @@
+# Docerion header of auto-hyphenation-expected.txt.
+type: test
+title: Auto hyphenation test expected output
+summary: Expected output for the headless sanity test that checks text auto hyphenation.

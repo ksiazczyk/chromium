@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-dispose-while-running-expected.txt.
+type: test
+title: Virtual time dispose while running expected output
+summary: Expected output for the protocol test verifying that disposing the Emulation agent before virtual time expires does not cause a crash.

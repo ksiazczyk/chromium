@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot after metrics override test
+// summary: Headless protocol test that captures a screenshot immediately after overriding device metrics to ensure it does not hang.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests that screenshot right after viewport resize doesn\'t hang');

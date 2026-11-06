@@ -1,0 +1,4 @@
+# Docerion header of site-per-process-expected.txt.
+type: test
+title: Site per process expected output
+summary: Expected output for the sanity test of cross origin iframes with and without the --site-per-process flag.

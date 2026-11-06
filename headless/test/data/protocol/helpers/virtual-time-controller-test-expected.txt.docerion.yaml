@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-controller-test-expected.txt.
+type: test
+title: Expected output for virtual time controller test
+summary: Expected output for the virtual time controller protocol test, listing logged expiration and animation frame events.

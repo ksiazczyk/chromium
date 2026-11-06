@@ -1,0 +1,4 @@
+# Docerion header of renderer-window-location-fragments-expected.txt.
+type: test
+title: Window location fragments test expectations
+summary: Expected output for the headless virtual time test covering navigation across window location hash fragments.

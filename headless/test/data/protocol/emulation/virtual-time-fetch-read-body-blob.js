@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time fetch read body blob test
+// summary: Protocol test verifying that virtual time does not deadlock when reading fetch responses as blobs and refetching them via object URLs.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank('Tests that Virtual Time' +
       ' does not deadlock with Response.blob() and URL.createObjectURL()');

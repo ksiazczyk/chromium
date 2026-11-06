@@ -1,0 +1,4 @@
+# Docerion header of emphasis_expected.txt.
+type: test
+title: Emphasis expected output
+summary: Expected structured tree for the emphasis test, mapping both em and ARIA emphasis to Em nodes.

@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-303-put-get-expected.txt.
+type: test
+title: Renderer redirect 303 PUT GET expected output
+summary: Expected output for the virtual time renderer test covering a 303 redirect that follows a PUT request with a GET.

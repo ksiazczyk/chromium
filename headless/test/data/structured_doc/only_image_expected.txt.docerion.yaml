@@ -1,0 +1,4 @@
+# Docerion header of only_image_expected.txt.
+type: test
+title: Only image expected document structure
+summary: Expected structured document tree for the single image test, wrapping the image in a Figure node.

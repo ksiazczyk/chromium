@@ -1,0 +1,4 @@
+# Docerion header of button.html.
+type: test
+title: Button element test input
+summary: HTML test page with an aria-labeled button, a plain button, and input button and submit controls.

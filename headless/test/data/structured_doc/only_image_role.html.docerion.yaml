@@ -1,0 +1,4 @@
+# Docerion header of only_image_role.html.
+type: test
+title: Only image role test page
+summary: HTML fixture using a div with role img and aria-label to represent an image.

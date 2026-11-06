@@ -1,0 +1,4 @@
+# Docerion header of treegrid.html.
+type: test
+title: Treegrid HTML fixture
+summary: HTML fixture with a treegrid containing column headers and grid cells, used as input for structured document tests.

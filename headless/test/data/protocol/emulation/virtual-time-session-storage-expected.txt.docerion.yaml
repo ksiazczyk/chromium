@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-session-storage-expected.txt.
+type: test
+title: Virtual time session storage expected output
+summary: Expected output for the headless protocol test running virtual time against a session storage page.

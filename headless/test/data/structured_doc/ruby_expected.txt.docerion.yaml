@@ -1,0 +1,4 @@
+# Docerion header of ruby_expected.txt.
+type: test
+title: Ruby annotation expected output
+summary: Expected structured document tree for the ruby annotation HTML fixture, with Ruby and RT nodes.

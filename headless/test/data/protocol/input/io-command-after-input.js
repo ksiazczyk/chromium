@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IO command after input protocol test
+// summary: Headless protocol test using virtual time to verify that a Performance.getMetrics command dispatched on the IO thread after input events behaves correctly.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests sequence of input event processing.');

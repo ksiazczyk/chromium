@@ -1,0 +1,4 @@
+# Docerion header of only_figure_role_expected.txt.
+type: test
+title: Only figure role expected document structure
+summary: Expected structured document tree for the role-based figure test, including the describing text as alt.

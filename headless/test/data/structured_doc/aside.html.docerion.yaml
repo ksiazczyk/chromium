@@ -1,0 +1,4 @@
+# Docerion header of aside.html.
+type: test
+title: Aside element and complementary role test input
+summary: HTML test page with an aside element and a div with the complementary ARIA role for structure extraction.

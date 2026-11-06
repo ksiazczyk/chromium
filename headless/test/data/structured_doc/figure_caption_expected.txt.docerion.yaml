@@ -1,0 +1,4 @@
+# Docerion header of figure_caption_expected.txt.
+type: test
+title: Figure caption expected document structure
+summary: Expected structured document tree for the figure with caption test case, describing Figure and Caption elements.

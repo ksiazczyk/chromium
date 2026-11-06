@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-invalid-url-expected.txt.
+type: test
+title: Expected output for redirect with invalid URL test
+summary: Expected output for the virtual time renderer test that follows a redirect whose Location header is an invalid URL.

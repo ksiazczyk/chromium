@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-fetch-stream-expected.txt.
+type: test
+title: Virtual time fetch stream expected output
+summary: Expected output for the test checking that fetching a stream with back pressure does not stall when virtual time is enabled.

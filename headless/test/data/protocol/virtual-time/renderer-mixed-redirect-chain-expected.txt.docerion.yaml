@@ -1,0 +1,4 @@
+# Docerion header of renderer-mixed-redirect-chain-expected.txt.
+type: test
+title: Renderer mixed redirect chain expected output
+summary: Expected output for the virtual-time renderer test covering a mixed redirection chain of meta refresh, script and HTTP redirects.

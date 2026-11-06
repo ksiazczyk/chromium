@@ -1,0 +1,4 @@
+# Docerion header of renderer-css-url-filter-expected.txt.
+type: test
+title: Renderer CSS url filter expected output
+summary: Expected screenshot pixel values for the virtual time test rendering an image with an SVG blur filter referenced via CSS url().

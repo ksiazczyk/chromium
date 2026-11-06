@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame navigation helper for protocol tests
+// summary: Helper class that tracks and logs frame navigations and scheduled navigations during headless protocol renderer tests.
+// ---
+
 /**
  * A helper class to keep track of renderer tests frame navigations.
  */

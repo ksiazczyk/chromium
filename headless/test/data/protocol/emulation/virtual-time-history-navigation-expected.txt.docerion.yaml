@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-history-navigation-expected.txt.
+type: test
+title: Virtual time history navigation expected output
+summary: Expected output for the test covering virtual time behavior during history navigation across pages and frames.

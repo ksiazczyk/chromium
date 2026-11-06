@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show directory picker no crash test
+// summary: Sanity test that calls showDirectoryPicker and checks the dialog opens without crashing the browser.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startURL(
       'resources/body.html',

@@ -1,0 +1,4 @@
+# Docerion header of show-file-picker-interception-expected.txt.
+type: test
+title: Show file picker interception expected output
+summary: Expected output for the sanity test of file chooser dialog interception, including the selectSingle mode.

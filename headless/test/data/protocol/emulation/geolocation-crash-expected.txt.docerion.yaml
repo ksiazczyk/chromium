@@ -1,0 +1,4 @@
+# Docerion header of geolocation-crash-expected.txt.
+type: test
+title: Geolocation crash test expected output
+summary: Expected output verifying that a geolocation request does not crash the headless browser.

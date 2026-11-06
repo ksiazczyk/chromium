@@ -1,0 +1,4 @@
+# Docerion header of switch.html.
+type: test
+title: Switch role test page
+summary: HTML fixture with div elements using the ARIA switch role in various label and checked-state combinations for conversion tests.

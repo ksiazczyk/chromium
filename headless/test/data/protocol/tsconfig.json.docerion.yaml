@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript config for protocol test data
+summary: TypeScript configuration that maps the inspector-protocol test runner module and disables emission for editor support.

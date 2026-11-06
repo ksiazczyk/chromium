@@ -1,0 +1,4 @@
+# Docerion header of block-new-web-contents-expected.txt.
+type: test
+title: Block new web contents test expected output
+summary: Expected output for the sanity test checking that --block-new-web-contents blocks new web contents creation.

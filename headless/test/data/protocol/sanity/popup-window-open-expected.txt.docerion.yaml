@@ -1,0 +1,4 @@
+# Docerion header of popup-window-open-expected.txt.
+type: test
+title: Popup window open expected output
+summary: Expected output for the sanity test verifying that pop-ups can be blocked.

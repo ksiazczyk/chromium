@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-dialog-while-loading-expected.txt.
+type: test
+title: Virtual time dialog while loading expected output
+summary: Expected output for the protocol test verifying that virtual time pausing during main resource loading works when a dialog is shown while the page loads.

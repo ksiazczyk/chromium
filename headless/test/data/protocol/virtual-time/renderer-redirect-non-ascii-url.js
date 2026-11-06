@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Redirect with non-ASCII URL virtual time test
+// summary: Headless browser test verifying redirects through percent-encoded non-ASCII (Chinese) URLs under virtual time control.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: redirect non ascii url.');

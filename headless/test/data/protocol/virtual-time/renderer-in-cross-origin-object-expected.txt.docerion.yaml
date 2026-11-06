@@ -1,0 +1,4 @@
+# Docerion header of renderer-in-cross-origin-object-expected.txt.
+type: test
+title: Expected output for renderer cross origin object test
+summary: Expected output for the headless virtual time test verifying that cross-origin frame property access is blocked.

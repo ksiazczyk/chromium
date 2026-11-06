@@ -4,6 +4,13 @@
 //
 // META: --screen-info={800x600}
 //
+
+// ---docerion
+// type: test
+// title: Screen orientation lock natural landscape test
+// summary: Sanity test with an 800x600 screen that locks each screen orientation and logs the resulting orientation type.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const html = `<!doctype html>
   <html>

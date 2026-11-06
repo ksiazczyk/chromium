@@ -1,0 +1,4 @@
+# Docerion header of only_figure_expected.txt.
+type: test
+title: Only figure expected document structure
+summary: Expected structured document tree for the plain figure element test, with Figure and Caption nodes.

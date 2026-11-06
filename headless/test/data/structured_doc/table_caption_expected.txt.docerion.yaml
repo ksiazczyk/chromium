@@ -1,0 +1,4 @@
+# Docerion header of table_caption_expected.txt.
+type: test
+title: Expected structure for table caption
+summary: Expected structured document tree verifying that a table caption becomes the first child of the table element.

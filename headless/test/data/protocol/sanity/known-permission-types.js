@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Known permission types sanity test
+// summary: Sanity test that grants each permission from the test parameters via Browser.grantPermissions and logs success or failure.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank('Tests all known permission types.');
 

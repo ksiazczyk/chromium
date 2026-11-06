@@ -1,0 +1,4 @@
+# Docerion header of toggle_button.html.
+type: test
+title: Toggle button test page
+summary: HTML fixture with buttons using aria-pressed states, with and without labels, to test toggle button conversion.

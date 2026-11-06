@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time error loop test
+// summary: Protocol test that counts resources loaded under virtual time to verify it advances 10ms on each navigation in an error loop page.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startBlank(
       `Tests that virtual time advances 10ms on every navigation.`);

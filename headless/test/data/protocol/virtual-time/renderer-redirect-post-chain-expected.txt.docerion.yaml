@@ -1,0 +1,4 @@
+# Docerion header of renderer-redirect-post-chain-expected.txt.
+type: test
+title: Renderer redirect post chain expected output
+summary: Expected output for the virtual time test verifying a chain of POST form submission redirects, including requested methods, frames and scheduled navigations.

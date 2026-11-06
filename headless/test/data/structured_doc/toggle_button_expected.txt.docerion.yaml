@@ -1,0 +1,4 @@
+# Docerion header of toggle_button_expected.txt.
+type: test
+title: Toggle button expected structure tree
+summary: Expected structured document tree for the toggle button test, describing pressed and unpressed print field form elements.

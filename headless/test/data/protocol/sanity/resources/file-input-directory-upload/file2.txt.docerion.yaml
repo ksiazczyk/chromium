@@ -1,0 +1,4 @@
+# Docerion header of file2.txt.
+type: test
+title: file2.txt
+summary: Test fixture text file containing 'test2' used as sample data for file input directory upload tests.

@@ -1,0 +1,4 @@
+# Docerion header of blockquote_expected.txt.
+type: test
+title: Expected structure tree for the blockquote test
+summary: Expected structured document tree output for the blockquote element test page.

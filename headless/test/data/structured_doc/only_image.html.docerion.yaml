@@ -1,0 +1,4 @@
+# Docerion header of only_image.html.
+type: test
+title: Only image test page
+summary: HTML fixture containing only a single image element with alt text.

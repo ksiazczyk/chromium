@@ -4,6 +4,13 @@
 //
 // META: --js-flags=--expose-gc
 //
+
+// ---docerion
+// type: test
+// title: Get DOM counters for leak detection test
+// summary: Sanity test that logs the counters returned by Memory.getDOMCountersForLeakDetection.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {dp} = await testRunner.startBlank(
       'Tests getDOMCountersForLeakDetection output.');

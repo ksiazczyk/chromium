@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer redirect post chain test
+// summary: Headless protocol test that drives a chain of POST form submission redirects under virtual time and logs requested methods, frames and scheduled navigations.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   let {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests renderer: post chain redirection.');

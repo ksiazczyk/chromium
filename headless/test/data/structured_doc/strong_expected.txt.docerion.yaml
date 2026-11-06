@@ -1,0 +1,4 @@
+# Docerion header of strong_expected.txt.
+type: test
+title: Expected structure for strong elements
+summary: Expected structured document tree fixture verifying that strong (bold) text elements are converted correctly in headless tests.

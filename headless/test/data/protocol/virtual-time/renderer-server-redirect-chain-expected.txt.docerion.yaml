@@ -1,0 +1,4 @@
+# Docerion header of renderer-server-redirect-chain-expected.txt.
+type: test
+title: Renderer server redirect chain expected output
+summary: Expected output for the virtual time test covering a chain of server-side 301 and 302 redirections ending in a passing page.

@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-video-expected.txt.
+type: test
+title: Virtual time video expected output
+summary: Expected output for the test verifying that video does not block virtual time.

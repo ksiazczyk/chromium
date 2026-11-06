@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-svg-expected.txt.
+type: test
+title: Virtual time SVG expected output
+summary: Expected output for the headless protocol test covering virtual time with history navigation and an SVG image request.

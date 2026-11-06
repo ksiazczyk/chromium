@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor CSS animation virtual time test
+// summary: Test script checking compositor handling of animated CSS, logging animation events and screenshot colors while granting virtual time in chunks.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   var {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests compositor animated css handling.');

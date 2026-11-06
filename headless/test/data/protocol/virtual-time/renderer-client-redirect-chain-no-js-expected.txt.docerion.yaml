@@ -1,0 +1,4 @@
+# Docerion header of renderer-client-redirect-chain-no-js-expected.txt.
+type: test
+title: Renderer client redirect chain without JavaScript expected output
+summary: Expected output for the chained client redirect test run with script execution disabled under virtual time.

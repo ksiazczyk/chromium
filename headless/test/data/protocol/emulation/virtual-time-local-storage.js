@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual time local storage test
+// summary: Protocol test that runs a local storage page under a virtual time budget and logs the page's console output.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const  {page, session, dp} = await testRunner.startBlank(
       `Tests virtual time with local storage.`);

@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Double beginFrame virtual time test
+// summary: Test script verifying that beginFrame correctly reports an error when another frame is still pending under virtual time control.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   var {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests that beginFrame correctly reports an error ' +

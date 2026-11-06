@@ -1,0 +1,4 @@
+# Docerion header of checkbox_expected.txt.
+type: test
+title: Checkbox structured tree expected output
+summary: Expected structured tree for the checkbox test, listing PrintField form elements with checkbox roles and checked states.

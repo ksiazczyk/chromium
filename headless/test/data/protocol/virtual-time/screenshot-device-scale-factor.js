@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot device scale factor test
+// summary: Headless protocol test that checks screenshots are not clipped when a device scale factor override is applied.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startWithFrameControl(
       'Tests screenshot with overridden device scale factor');

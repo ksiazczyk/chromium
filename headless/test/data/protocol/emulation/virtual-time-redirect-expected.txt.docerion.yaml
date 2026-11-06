@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-redirect-expected.txt.
+type: test
+title: Virtual time redirect expected output
+summary: Expected output for the headless protocol test verifying that redirects of documents and stylesheets do not break virtual time.

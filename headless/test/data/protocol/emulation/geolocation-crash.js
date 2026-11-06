@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation crash protocol test
+// summary: Tests that a geolocation request with a geolocation override does not crash headless.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   testRunner.log('Tests geolocation request does not crash headless.\n');
   const { result: { sessionId } } =

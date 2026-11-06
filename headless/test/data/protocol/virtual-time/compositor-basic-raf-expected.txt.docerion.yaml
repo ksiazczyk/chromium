@@ -1,0 +1,4 @@
+# Docerion header of compositor-basic-raf-expected.txt.
+type: test
+title: Compositor basic rAF test expected output
+summary: Expected output for the compositor basic requestAnimationFrame test, listing elapsed virtual time, animation frame callbacks and screenshot values.

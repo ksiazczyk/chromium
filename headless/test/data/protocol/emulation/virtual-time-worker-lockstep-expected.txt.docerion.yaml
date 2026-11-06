@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-worker-lockstep-expected.txt.
+type: test
+title: Virtual time worker lockstep expected output
+summary: Expected output for the test checking that virtual time advances in lockstep between a worker and its host page.

@@ -1,0 +1,4 @@
+# Docerion header of renderer-javascript-console-errors-expected.txt.
+type: test
+title: Renderer JavaScript console errors expected output
+summary: Expected output for the virtual-time renderer test that verifies JavaScript console errors are reported.

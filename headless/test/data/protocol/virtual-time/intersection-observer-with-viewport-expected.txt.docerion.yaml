@@ -1,0 +1,4 @@
+# Docerion header of intersection-observer-with-viewport-expected.txt.
+type: test
+title: Intersection observer with viewport expected output
+summary: Expected output for the protocol test checking IntersectionObserver behavior with device emulation under virtual time.

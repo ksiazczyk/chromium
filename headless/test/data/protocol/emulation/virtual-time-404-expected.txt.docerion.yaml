@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-404-expected.txt.
+type: test
+title: Virtual time 404 test expected output
+summary: Expected output confirming that virtual time is not blocked by a 404 page.

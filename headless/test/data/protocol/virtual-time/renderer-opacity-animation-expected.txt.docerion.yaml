@@ -1,0 +1,4 @@
+# Docerion header of renderer-opacity-animation-expected.txt.
+type: test
+title: Renderer opacity animation expected output
+summary: Expected output for the virtual-time test checking that animating layer transparency produces correct screenshot pixels.

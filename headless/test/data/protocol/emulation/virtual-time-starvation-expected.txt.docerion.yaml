@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-starvation-expected.txt.
+type: test
+title: Virtual time starvation expected output
+summary: Expected output for the headless protocol test checking that virtual time advances under task starvation.

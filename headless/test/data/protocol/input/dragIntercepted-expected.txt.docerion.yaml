@@ -1,0 +1,4 @@
+# Docerion header of dragIntercepted-expected.txt.
+type: test
+title: Input.dragIntercepted expected output
+summary: Expected output for the headless protocol test of the Input.dragIntercepted event, listing dragged link data in several MIME types.

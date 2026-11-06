@@ -1,0 +1,4 @@
+# Docerion header of div.html.
+type: test
+title: Div role test page
+summary: HTML test page comparing a div with group role, which maps to Div, against a plain div that maps to NonStruct.

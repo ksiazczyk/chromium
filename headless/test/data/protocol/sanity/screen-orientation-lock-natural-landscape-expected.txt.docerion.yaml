@@ -1,0 +1,4 @@
+# Docerion header of screen-orientation-lock-natural-landscape-expected.txt.
+type: test
+title: Screen orientation lock natural landscape expected output
+summary: Expected output for locking screen orientations on a device whose natural orientation is landscape.

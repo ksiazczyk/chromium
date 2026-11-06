@@ -1,0 +1,4 @@
+# Docerion header of unordered_list.html.
+type: test
+title: Unordered list HTML fixture
+summary: HTML fixture with a two-item unordered list, used as input for structured document tests.

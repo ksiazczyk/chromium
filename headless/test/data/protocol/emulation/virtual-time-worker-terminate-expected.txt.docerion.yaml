@@ -1,0 +1,4 @@
+# Docerion header of virtual-time-worker-terminate-expected.txt.
+type: test
+title: Virtual time worker terminate expected output
+summary: Expected output for the test checking that virtual time is unpaused when a worker is terminated before start.

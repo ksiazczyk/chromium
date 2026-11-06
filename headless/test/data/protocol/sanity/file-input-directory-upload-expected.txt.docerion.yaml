@@ -1,0 +1,4 @@
+# Docerion header of file-input-directory-upload-expected.txt.
+type: test
+title: File input directory upload expected output
+summary: Expected output listing file names, relative paths and contents for the directory upload sanity test.

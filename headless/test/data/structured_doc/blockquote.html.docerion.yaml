@@ -1,0 +1,4 @@
+# Docerion header of blockquote.html.
+type: test
+title: Blockquote element test input
+summary: HTML test page with a blockquote element used to check structured document tree extraction.

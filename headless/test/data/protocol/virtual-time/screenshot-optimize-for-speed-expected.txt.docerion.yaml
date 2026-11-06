@@ -1,0 +1,4 @@
+# Docerion header of screenshot-optimize-for-speed-expected.txt.
+type: test
+title: Screenshot optimize for speed test expectations
+summary: Expected output for the test that beginFrame screenshots honor the optimizeForSpeed parameter.

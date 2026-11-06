@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show file picker interception test
+// summary: Sanity test that enables Page.setInterceptFileChooserDialog and exercises the open, save and directory picker APIs plus a file input element.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {page, session, dp} = await testRunner.startURL(
       'resources/body.html',

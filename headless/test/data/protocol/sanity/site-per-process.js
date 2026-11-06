@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process test
+// summary: Sanity test that loads a cross origin iframe and checks target isolation depending on the sitePerProcessEnabled parameter.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   const {session, dp} = await testRunner.startBlank(
       'Tests cross origin iframe with and withhout --site-per-process.');

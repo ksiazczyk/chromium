@@ -1,0 +1,4 @@
+# Docerion header of checkbox.html.
+type: test
+title: Checkbox input test page
+summary: HTML test page with checkboxes using aria labels, wrapping labels, and label for associations.

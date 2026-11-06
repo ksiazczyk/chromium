@@ -1,0 +1,4 @@
+# Docerion header of show-directory-picker-no-crash-expected.txt.
+type: test
+title: Show directory picker no crash expected output
+summary: Expected output for the sanity test verifying that showDirectoryPicker does not crash the browser.

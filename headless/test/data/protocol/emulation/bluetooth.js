@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth emulation protocol test
+// summary: Tests requesting a Bluetooth device headless using the BluetoothEmulation and DeviceAccess protocol domains.
+// ---
+
 (async function(/** @type {import('test_runner').TestRunner} */ testRunner) {
   testRunner.log('Tests request bluetooth device headless.');
   const {result: {sessionId}} =

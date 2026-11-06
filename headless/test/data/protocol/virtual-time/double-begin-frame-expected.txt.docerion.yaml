@@ -1,0 +1,4 @@
+# Docerion header of double-begin-frame-expected.txt.
+type: test
+title: Double beginFrame test expected output
+summary: Expected output for the double beginFrame test, showing the error response reported when another frame is pending.

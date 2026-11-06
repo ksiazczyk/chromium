@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for structured_doc test data
+summary: Delegates review ownership of the structured document test data to the ui/accessibility OWNERS file.

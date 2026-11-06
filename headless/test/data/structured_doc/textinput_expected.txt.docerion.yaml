@@ -1,0 +1,4 @@
+# Docerion header of textinput_expected.txt.
+type: test
+title: Expected structure for text inputs
+summary: Expected structured document tree verifying that text inputs, textareas and ARIA textboxes become form fields with descriptions.

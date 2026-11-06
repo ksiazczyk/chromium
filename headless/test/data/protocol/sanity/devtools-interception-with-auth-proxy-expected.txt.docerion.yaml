@@ -1,0 +1,4 @@
+# Docerion header of devtools-interception-with-auth-proxy-expected.txt.
+type: test
+title: DevTools interception with auth proxy expected output
+summary: Expected output of the network interception sanity test run against an authenticating proxy.

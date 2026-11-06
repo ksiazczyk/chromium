@@ -1,0 +1,4 @@
+# Docerion header of radio.html.
+type: test
+title: Radio button test page
+summary: HTML fixture covering radio buttons with titles, aria-labels, wrapped labels, checked states, and ARIA roles.
