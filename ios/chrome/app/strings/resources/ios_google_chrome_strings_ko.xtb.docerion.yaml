@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_ko.xtb.
+type: data
+title: Korean iOS Chrome strings translation bundle
+summary: XML translation bundle providing Chrome for iOS UI strings in Korean, including sign-in prompts, sync options, and usage metrics explanations.

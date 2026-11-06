@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for accessibility model
+summary: Defines the GN source_set for the accessibility model, listing the app agent sources and their build dependencies.

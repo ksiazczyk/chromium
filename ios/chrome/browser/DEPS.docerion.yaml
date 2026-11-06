@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the iOS Chrome browser directory
+summary: Defines the allowed include dependencies for code in the ios/chrome/browser directory by listing permitted component and module paths.

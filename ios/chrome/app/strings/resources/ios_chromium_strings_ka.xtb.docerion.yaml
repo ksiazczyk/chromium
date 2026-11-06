@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_ka.xtb.
+type: data
+title: Georgian Chromium iOS strings
+summary: Georgian translation bundle with localized Chromium iOS interface strings for menus, incognito tabs, sign-in, and update notices.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_cs.xtb.
+type: data
+title: iOS Chromium strings, Czech
+summary: Czech translation bundle providing localized Chromium iOS interface strings for menus, settings, sign-in prompts and other UI text.

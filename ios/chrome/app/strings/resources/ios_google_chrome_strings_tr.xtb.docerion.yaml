@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_tr.xtb.
+type: data
+title: 'Google Chrome iOS strings: Turkish'
+summary: Turkish translation bundle with localized Chrome for iOS UI strings covering tab grids, crash reporting notices, and security messaging.

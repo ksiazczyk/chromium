@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_ne.xtb.
+type: data
+title: Nepali translation bundle for iOS Chrome strings
+summary: XML translation bundle providing Nepali UI strings for Google Chrome on iOS, used by the localization build to translate browser interface text.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_sq.xtb.
+type: data
+title: Chromium iOS strings (Albanian)
+summary: Albanian translation bundle with localized Chromium iOS interface strings for browser features, account sign-in, and security checkup.

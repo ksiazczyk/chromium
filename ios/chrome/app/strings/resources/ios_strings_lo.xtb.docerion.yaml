@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_lo.xtb.
+type: data
+title: Lao iOS Chrome translation bundle
+summary: XML translation bundle supplying Lao localized UI strings for the iOS Chrome app, covering tabs, passwords, settings and Gemini features.

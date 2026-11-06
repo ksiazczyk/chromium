@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_pl.xtb.
+type: data
+title: Polish Chrome iOS strings translation bundle
+summary: XML translation bundle providing Polish translations of Chrome for iOS interface strings, keyed by numeric message IDs.

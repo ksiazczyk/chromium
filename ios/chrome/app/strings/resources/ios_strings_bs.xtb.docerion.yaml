@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_bs.xtb.
+type: data
+title: Bosnian Chrome iOS translation bundle
+summary: XTB translation bundle providing Bosnian translations of Chrome for iOS UI strings, covering features such as passkeys, password manager, tabs, sync, and Gemini.

@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_iw.xtb.
+type: data
+title: Chrome iOS strings translation bundle (Hebrew)
+summary: XML translation bundle with Hebrew localized UI strings for Chrome on iOS, covering tabs, passwords, settings, and Gemini features.

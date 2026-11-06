@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_sl.xtb.
+type: data
+title: Chromium iOS strings (Slovenian)
+summary: Slovenian translation bundle with localized Chromium iOS interface strings for browsing features, sign-in prompts, and security notices.

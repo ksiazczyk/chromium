@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for iOS theme resources
+summary: Defines the grit build target that compiles the theme PNG images into pak resource files and generated headers for iOS Chrome.

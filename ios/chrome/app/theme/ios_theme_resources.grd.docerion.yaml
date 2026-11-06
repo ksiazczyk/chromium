@@ -1,0 +1,4 @@
+# Docerion header of ios_theme_resources.grd.
+type: config
+title: GRD resource list for iOS theme images
+summary: Declares the pre-scaled theme images such as checkmark, error and infobar icons, along with the generated pak and header outputs.

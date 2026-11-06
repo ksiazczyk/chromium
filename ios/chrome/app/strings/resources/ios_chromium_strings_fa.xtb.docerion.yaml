@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_fa.xtb.
+type: data
+title: Chromium iOS strings in Persian
+summary: Persian translation bundle with localized Chromium iOS browser UI strings covering menus, settings, sign-in, and safety prompts.

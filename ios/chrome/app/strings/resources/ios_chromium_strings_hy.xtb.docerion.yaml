@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_hy.xtb.
+type: data
+title: Armenian Chromium iOS strings
+summary: Armenian translation bundle with localized Chromium iOS interface strings for menus, settings prompts, password manager, and update notices.

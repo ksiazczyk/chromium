@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_cy.xtb.
+type: data
+title: Chrome iOS UI strings in Welsh
+summary: Welsh translation bundle providing localized Chrome for iOS interface strings, covering sign-in prompts, password manager messages, and default browser suggestions.

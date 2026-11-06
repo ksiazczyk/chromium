@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_ar.xtb.
+type: data
+title: iOS Chrome strings translation bundle (Arabic)
+summary: XML translation bundle with Arabic UI strings for Chrome on iOS, covering tabs, passwords, sync, and other browser features.

@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_my.xtb.
+type: data
+title: Burmese Chrome iOS strings translation bundle
+summary: XML translation bundle providing Burmese translations of Chrome for iOS interface strings, keyed by numeric message IDs.

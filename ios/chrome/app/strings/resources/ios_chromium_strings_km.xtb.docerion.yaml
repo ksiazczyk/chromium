@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_km.xtb.
+type: data
+title: Khmer Chromium iOS strings
+summary: Khmer translation bundle with localized Chromium iOS interface strings for menus, private tabs, sign-in, and update notices.

@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_hu.xtb.
+type: data
+title: Chrome iOS strings translation bundle (Hungarian)
+summary: XML translation bundle with Hungarian localized UI strings for Chrome on iOS, covering tabs, passwords, settings, and Gemini features.

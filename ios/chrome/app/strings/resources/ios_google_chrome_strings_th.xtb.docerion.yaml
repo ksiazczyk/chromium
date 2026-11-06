@@ -1,0 +1,4 @@
+# Docerion header of ios_google_chrome_strings_th.xtb.
+type: data
+title: 'Google Chrome iOS strings: Thai'
+summary: Thai translation bundle containing localized Chrome for iOS UI strings for sign-in, updates, syncing, and default browser prompts.

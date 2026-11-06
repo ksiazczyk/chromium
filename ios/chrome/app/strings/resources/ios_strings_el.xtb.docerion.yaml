@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_el.xtb.
+type: data
+title: Greek Chrome iOS translation bundle
+summary: XTB translation bundle providing Greek translations of Chrome for iOS UI strings, covering features such as passkeys, password manager, tabs, sync, and Gemini.

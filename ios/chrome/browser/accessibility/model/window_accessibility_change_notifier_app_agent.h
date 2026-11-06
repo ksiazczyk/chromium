@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowAccessibilityChangeNotifierAppAgent interface
+// summary: Declares an app agent that monitors the number of visible scenes and provides accessibility notifications when the count changes.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_ACCESSIBILITY_MODEL_WINDOW_ACCESSIBILITY_CHANGE_NOTIFIER_APP_AGENT_H_
 #define IOS_CHROME_BROWSER_ACCESSIBILITY_MODEL_WINDOW_ACCESSIBILITY_CHANGE_NOTIFIER_APP_AGENT_H_
 

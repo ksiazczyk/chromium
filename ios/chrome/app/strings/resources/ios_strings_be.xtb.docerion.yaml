@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_be.xtb.
+type: data
+title: iOS Chrome strings translation bundle (Belarusian)
+summary: XML translation bundle with Belarusian UI strings for Chrome on iOS, covering tabs, passwords, sync, and other browser features.

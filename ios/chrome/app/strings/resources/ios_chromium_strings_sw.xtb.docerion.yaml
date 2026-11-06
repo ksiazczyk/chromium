@@ -1,0 +1,4 @@
+# Docerion header of ios_chromium_strings_sw.xtb.
+type: data
+title: Chromium iOS strings (Swahili)
+summary: Swahili translation bundle with localized Chromium iOS interface strings for browser features, sign-in prompts, and privacy controls.

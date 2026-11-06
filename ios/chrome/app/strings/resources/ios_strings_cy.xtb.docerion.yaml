@@ -1,0 +1,4 @@
+# Docerion header of ios_strings_cy.xtb.
+type: data
+title: Welsh Chrome iOS translation bundle
+summary: XTB translation bundle providing Welsh translations of Chrome for iOS UI strings, covering features such as passkeys, password manager, tabs, sync, and Gemini.
