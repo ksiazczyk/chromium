@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools page manifest handler
+// summary: Implements parsing and validation of the devtools_page manifest key, storing the DevTools page URL and granting the devtools API permission.
+// ---
+
 #include "extensions/common/manifest_handlers/devtools_page_handler.h"
 
 #include <memory>

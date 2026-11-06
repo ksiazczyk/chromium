@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB device permission unit tests
+// summary: Unit tests for USB device permission data ordering and permission checks against test USB devices and extension apps.
+// ---
+
 #include <memory>
 #include <utility>
 

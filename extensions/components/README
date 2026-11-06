@@ -1,3 +1,9 @@
+---
+type: readme
+title: Extensions components directory README
+summary: Explains that this directory holds components reused across embedders with extensions dependencies, and that component code should use a namespace matching the component name.
+---
+
 This directory holds components reused in multiple embedders which themselves
 have extensions dependencies. Components such as these do not belong in the root
 src/components, because src/extensions already depends on src/components. A

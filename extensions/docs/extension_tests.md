@@ -1,3 +1,9 @@
+---
+type: guide
+title: Writing Extensions Tests
+summary: Guides developers through writing tests for the Chromium extensions system, covering unit, browser, and interactive UI tests plus common test utilities and suites.
+---
+
 # Writing Extensions Tests
 
 [TOC]

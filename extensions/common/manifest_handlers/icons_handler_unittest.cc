@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icons manifest unit tests
+// summary: Unit tests checking icon size keys in the icons manifest key, rejecting sizes that are too large, too small or non-numeric.
+// ---
+
 #include "extensions/common/manifest_handlers/icons_handler.h"
 #include "base/strings/stringprintf.h"
 #include "base/test/values_test_util.h"

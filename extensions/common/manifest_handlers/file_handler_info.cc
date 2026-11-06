@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File handlers manifest parser implementation
+// summary: Implements parsing and validation of the file_handlers manifest key, including MIME types, file extensions, include directories and supported verbs.
+// ---
+
 #include "extensions/common/manifest_handlers/file_handler_info.h"
 
 #include <stddef.h>

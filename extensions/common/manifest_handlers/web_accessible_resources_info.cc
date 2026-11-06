@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web accessible resources handler implementation
+// summary: Implements parsing of the web_accessible_resources manifest key for MV2 and MV3 and checks whether resources are web accessible.
+// ---
+
 #include "extensions/common/manifest_handlers/web_accessible_resources_info.h"
 
 #include <stddef.h>

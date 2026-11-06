@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Version name manifest unit tests
+// summary: Manifest tests covering empty, omitted, invalid, and valid version_name values and their effect on the displayed version.
+// ---
+
 #include "extensions/browser/extension_util.h"
 #include "extensions/common/extension.h"
 #include "extensions/common/manifest_constants.h"

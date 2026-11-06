@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Description manifest handler header
+// summary: Declares DescriptionInfo and DescriptionHandler, which parse the description manifest key of an extension.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_DESCRIPTION_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_DESCRIPTION_INFO_H_
 

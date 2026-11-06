@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Case-insensitive ASCII string set lookup implementation
+// summary: Implements ContainsStringIgnoreCaseASCII, which checks whether a set of strings contains a given value using case-insensitive ASCII comparison.
+// ---
+
 #include "base_string.h"
 
 #include <algorithm>

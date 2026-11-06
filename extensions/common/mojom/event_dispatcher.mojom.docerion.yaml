@@ -1,0 +1,4 @@
+# Docerion header of event_dispatcher.mojom.
+type: source
+title: Mojom interface for dispatching extension events to renderers
+summary: Defines the EventDispatcher interface plus EventArgs, EventFilteringInfo and DispatchEventParams structs used to deliver extension API events to listeners in renderer processes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background info manifest handler implementation
+// summary: Implements parsing of the background manifest key, exposing background page, script, and service worker details for extensions.
+// ---
+
 #include "extensions/common/manifest_handlers/background_info.h"
 
 #include <stddef.h>

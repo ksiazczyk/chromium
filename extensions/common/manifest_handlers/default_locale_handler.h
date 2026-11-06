@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default locale manifest handler header
+// summary: Declares LocaleInfo and DefaultLocaleHandler, which parse and validate the default_locale manifest key for extensions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_DEFAULT_LOCALE_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_DEFAULT_LOCALE_HANDLER_H_
 

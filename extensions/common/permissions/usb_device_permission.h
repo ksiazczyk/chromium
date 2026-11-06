@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDevicePermission class declaration
+// summary: Declares the USB device permission class and its check parameters for matching devices by vendor, product and interface IDs.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_USB_DEVICE_PERMISSION_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_USB_DEVICE_PERMISSION_H_
 

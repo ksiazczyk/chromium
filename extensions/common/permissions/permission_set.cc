@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission set implementation
+// summary: Implements the PermissionSet class, including difference, intersection, and union operations over API, manifest, and host permissions.
+// ---
+
 #include "extensions/common/permissions/permission_set.h"
 
 #include <memory>

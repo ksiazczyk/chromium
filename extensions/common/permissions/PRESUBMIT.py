@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit script for the permissions directory
+# summary: Runs the strict enum value checker on uploads to keep the APIPermissionID enum consistent with its Mojom definition.
+# ---
+
 """Chromium presubmit script for src/extensions/common/permissions.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

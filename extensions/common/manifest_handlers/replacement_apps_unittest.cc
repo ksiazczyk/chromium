@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the replacement_web_app manifest key
+// summary: Manifest unit tests verifying that invalid replacement_web_app values are rejected and valid HTTPS URLs are parsed into the extension's manifest data.
+// ---
+
 #include <memory>
 #include <utility>
 

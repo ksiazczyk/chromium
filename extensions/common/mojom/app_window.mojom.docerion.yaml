@@ -1,0 +1,4 @@
+# Docerion header of app_window.mojom.
+type: source
+title: AppWindow Mojo interface
+summary: Defines the AppWindow Mojo interface with a SetVisuallyDeemphasized method for marking an app window as visually deemphasized.

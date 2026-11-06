@@ -1,0 +1,4 @@
+# Docerion header of automation_registry.mojom.
+type: source
+title: RendererAutomationRegistry Mojo interface
+summary: Defines the browser-process interface that lets the extensions renderer process bind an Automation remote to receive accessibility automation updates.

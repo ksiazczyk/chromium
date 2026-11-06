@@ -1,0 +1,4 @@
+# Docerion header of code_injection.mojom.
+type: source
+title: Code injection Mojo definitions
+summary: Defines Mojo structs and a union describing JavaScript and CSS sources injected into the renderer, including worlds, origins, and execution options.

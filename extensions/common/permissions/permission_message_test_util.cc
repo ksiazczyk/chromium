@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission message test assertion helpers implementation
+// summary: Implements gtest assertion helpers that verify expected permission warning messages and submessages for extension permissions in tests.
+// ---
+
 #include "extensions/common/permissions/permission_message_test_util.h"
 
 #include <stddef.h>

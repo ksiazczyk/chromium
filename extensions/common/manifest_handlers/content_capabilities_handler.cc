@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content capabilities manifest handler implementation
+// summary: Implements parsing of the content_capabilities manifest key, filtering URL patterns and permissions granted to web content.
+// ---
+
 #include "extensions/common/manifest_handlers/content_capabilities_handler.h"
 
 #include <memory>

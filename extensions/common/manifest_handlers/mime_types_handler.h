@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME types handler declarations
+// summary: Declares the MimeTypesHandler class with per-MIME-type handler configuration and the MimeTypesHandlerParser manifest handler.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_MIME_TYPES_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_MIME_TYPES_HANDLER_H_
 

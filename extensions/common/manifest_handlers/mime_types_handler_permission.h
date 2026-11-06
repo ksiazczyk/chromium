@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME types handler permission declarations
+// summary: Declares the MimeTypesHandlerPermission class that manages per-MIME-type permissions, set operations and management UI warnings.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_MIME_TYPES_HANDLER_PERMISSION_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_MIME_TYPES_HANDLER_PERMISSION_H_
 

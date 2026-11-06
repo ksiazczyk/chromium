@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation manifest handler implementation
+// summary: Implements the automation manifest permission and handler that parse the automation manifest key and manage desktop automation permissions for extensions.
+// ---
+
 #include "extensions/common/manifest_handlers/automation.h"
 
 #include <memory>

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Extensions Security FAQ
+summary: Answers common questions about extensions security, clarifying which behaviors are considered security bugs in Chromium and how permissions and reviews mitigate risks.
+---
+
 # Extensions Security FAQ
 
 [TOC]

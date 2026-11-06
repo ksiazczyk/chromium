@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest permission set header
+// summary: Declares ManifestPermissionSet, a set of manifest permissions with JSON parsing support built on the base set operators.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_MANIFEST_PERMISSION_SET_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_MANIFEST_PERMISSION_SET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automation manifest handler header
+// summary: Declares AutomationInfo, the parsed form of the automation manifest entry, and the AutomationHandler manifest handler.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_AUTOMATION_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_AUTOMATION_H_
 

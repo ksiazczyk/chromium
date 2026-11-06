@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for APIPermissionSet
+// summary: Tests insertion, lookup, erase, union, intersection and difference behavior of APIPermissionSet, including socket permission parsing.
+// ---
+
 #include "base/pickle.h"
 #include "base/values.h"
 #include "extensions/common/permissions/api_permission_set.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App URLs manifest handler header
+// summary: Declares the AppURLsHandler manifest handler that parses the app.urls manifest key for hosted app web extents.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_APP_URLS_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_APP_URLS_HANDLER_H_
 

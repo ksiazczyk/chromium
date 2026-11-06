@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame mojom unit tests
+// summary: Unit tests exercising the frame mojom interfaces via a test implementation of LocalFrame and LocalFrameHost, covering requests, script injection permission, and messaging paths.
+// ---
+
 #include <string>
 #include <utility>
 

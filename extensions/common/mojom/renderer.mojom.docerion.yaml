@@ -1,0 +1,4 @@
+# Docerion header of renderer.mojom.
+type: source
+title: Renderer Mojo interface for browser-to-renderer extension messages
+summary: Defines the Renderer Mojo interface and ExtensionLoadedParams used by the browser to load, activate, unload, and configure extensions in the renderer process.

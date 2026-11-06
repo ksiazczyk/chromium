@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message serialization manifest unit tests
+// summary: Unit tests checking valid and invalid message_serialization manifest values and the resulting structured clone opt-in behavior.
+// ---
+
 #include "extensions/common/manifest_constants.h"
 #include "extensions/common/manifest_handlers/message_serialization_info.h"
 #include "extensions/common/manifest_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for APIPermission and permission registration
+// summary: Verifies that the ExtensionPermission3 histogram enum matches the Mojom APIPermissionID enum and tests permission info flags and name lookup.
+// ---
+
 #include "extensions/common/permissions/api_permission.h"
 
 #include <map>

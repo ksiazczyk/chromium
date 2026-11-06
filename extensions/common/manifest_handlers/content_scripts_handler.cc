@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content scripts manifest handler implementation
+// summary: Implements parsing of the content_scripts manifest key, converting manifest entries into UserScript objects.
+// ---
+
 #include "extensions/common/manifest_handlers/content_scripts_handler.h"
 
 #include <stddef.h>

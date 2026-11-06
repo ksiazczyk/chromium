@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIPermissionSet, PermissionID and PermissionIDSet declarations
+// summary: Declares the APIPermissionSet container, its JSON parsing entry point, and PermissionID types that carry parameters used when generating permission messages.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_API_PERMISSION_SET_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_API_PERMISSION_SET_H_
 

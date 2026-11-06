@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest permission interface
+// summary: Defines the abstract ManifestPermission interface describing how a top-level manifest entry contributes permissions, warning messages and serialization.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_MANIFEST_PERMISSION_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_MANIFEST_PERMISSION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of service_worker.mojom.
+type: source
+title: ServiceWorker Mojo interface for extension service workers
+summary: Defines the ServiceWorker Mojo interface the renderer implements to update extension service worker permissions and dispatch message channel connect events.

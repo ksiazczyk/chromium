@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission set Mojo traits unit tests
+// summary: Unit tests verifying serialize and deserialize round-trips for permission set Mojo types using mock manifest handlers and sample permissions.
+// ---
+
 #include "extensions/common/mojom/permission_set_mojom_traits.h"
 
 #include "extensions/common/manifest_handler.h"

@@ -1,0 +1,4 @@
+# Docerion header of host_id.mojom.
+type: source
+title: HostID mojom struct
+summary: Defines the immutable HostID struct identifying hosts that own user scripts, with types for extensions, WebUI, and controlled frame embedders.

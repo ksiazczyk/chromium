@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Externally connectable manifest handler
+// summary: Implements parsing of the externally_connectable manifest entry, building URL pattern and extension ID sets for connections to the extension.
+// ---
+
 #include "extensions/common/manifest_handlers/externally_connectable.h"
 
 #include <stddef.h>

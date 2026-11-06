@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo enum traits for Channel
+// summary: Header providing EnumTraits that map between version_info::Channel and the extensions Mojo Channel enum in both directions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MOJOM_CHANNEL_MOJOM_TRAITS_H_
 #define EXTENSIONS_COMMON_MOJOM_CHANNEL_MOJOM_TRAITS_H_
 

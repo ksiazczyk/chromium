@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message serialization manifest handler implementation
+// summary: Parses the message_serialization manifest key and records whether an extension opts into structured clone message serialization.
+// ---
+
 #include "extensions/common/manifest_handlers/message_serialization_info.h"
 
 #include <memory>

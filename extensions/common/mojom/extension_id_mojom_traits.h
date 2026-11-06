@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension ID Mojo struct traits header
+// summary: Declares Mojo StructTraits mapping extensions::ExtensionId to its mojom DataView, validating IDs on the wire so invalid ones never reach the receiver.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MOJOM_EXTENSION_ID_MOJOM_TRAITS_H_
 #define EXTENSIONS_COMMON_MOJOM_EXTENSION_ID_MOJOM_TRAITS_H_
 

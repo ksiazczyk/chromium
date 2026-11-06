@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trial tokens handler declarations
+// summary: Declares the TrialTokens manifest data struct holding a set of trial tokens and the TrialTokensHandler that parses the trial_tokens manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_TRIAL_TOKENS_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_TRIAL_TOKENS_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk mode info manifest handler header
+// summary: Declares SecondaryKioskAppInfo, the KioskModeInfo manifest data with kiosk status and platform version helpers, and KioskModeHandler for the kiosk_enabled and kiosk_only keys.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_KIOSK_MODE_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_KIOSK_MODE_INFO_H_
 

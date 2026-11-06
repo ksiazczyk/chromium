@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Renderer Mojo ExtensionId validation
+// summary: Unit tests verifying that extension IDs passed to Renderer Mojo methods such as ActivateExtension and UpdatePermissions pass validation and keep the pipe connected.
+// ---
+
 #include <optional>
 #include <string>
 

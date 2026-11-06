@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon variants manifest handler declarations
+// summary: Declares IconVariantsInfo and IconVariantsHandler for the icon_variants manifest key with color-scheme-specific icon sets.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_ICON_VARIANTS_HANDLER_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_ICON_VARIANTS_HANDLER_H_
 

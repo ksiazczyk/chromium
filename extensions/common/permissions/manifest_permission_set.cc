@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest permission set parsing
+// summary: Implements parsing of manifest permissions from JSON lists, reporting errors and collecting unhandled permission names.
+// ---
+
 #include "extensions/common/permissions/manifest_permission_set.h"
 
 #include <stddef.h>

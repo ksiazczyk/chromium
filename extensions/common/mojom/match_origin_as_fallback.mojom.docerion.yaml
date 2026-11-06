@@ -1,0 +1,4 @@
+# Docerion header of match_origin_as_fallback.mojom.
+type: source
+title: Match origin as fallback behavior Mojo definitions
+summary: 'Defines the MatchOriginAsFallbackBehavior enum controlling when origin matching falls back for frames with about: or data: URLs.'

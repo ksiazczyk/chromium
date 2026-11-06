@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension ID and HostID helpers header
+// summary: Declares helpers for converting between extension IDs and HostID instances and for checking command-line extension allowlisting.
+// ---
+
 #ifndef EXTENSIONS_COMMON_UTILS_EXTENSION_UTILS_H_
 #define EXTENSIONS_COMMON_UTILS_EXTENSION_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trial tokens handler implementation
+// summary: Implements TrialTokens and TrialTokensHandler, parsing the trial_tokens manifest key with limits on token count, size, and duplicates while recording install warnings.
+// ---
+
 #include "extensions/common/manifest_handlers/trial_tokens_handler.h"
 
 #include <memory>

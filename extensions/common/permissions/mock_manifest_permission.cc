@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock manifest permission implementation
+// summary: Implements MockManifestPermission, a stand-in ManifestPermission used to exercise permission set logic in unit tests.
+// ---
+
 #include "extensions/common/permissions/mock_manifest_permission.h"
 
 #include "extensions/common/permissions/api_permission_set.h"

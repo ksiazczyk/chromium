@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Requirements manifest handler implementation
+// summary: Implements parsing of the requirements manifest key, recording WebGL support and warning on the deprecated plugins requirement.
+// ---
+
 #include "extensions/common/manifest_handlers/requirements_info.h"
 
 #include <algorithm>

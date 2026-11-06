@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ServiceWorkerHost Mojo interface
+// summary: Unit tests exercising the ServiceWorkerHost Mojo interface with test implementations to verify extension ID handling and message pipe behavior.
+// ---
+
 #include <string>
 #include <utility>
 

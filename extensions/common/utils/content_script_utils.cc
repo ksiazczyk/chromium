@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content script parsing and validation implementation
+// summary: Implements parsing and validation of content script fields, including match patterns, file sources, globs, mime types and script size limits.
+// ---
+
 #include "extensions/common/utils/content_script_utils.h"
 
 #include <stddef.h>

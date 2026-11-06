@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Socket permission unit tests
+// summary: Unit tests covering parsing, comparison and validation of socket permission strings such as tcp-connect, udp-bind and resolve-host.
+// ---
+
 #include <memory>
 #include <string>
 

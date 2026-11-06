@@ -1,0 +1,4 @@
+# Docerion header of extra_response_data.mojom.
+type: source
+title: ExtraResponseData mojom struct
+summary: Defines the ExtraResponseData struct carrying serialized blobs that are part of an extension API response but cannot be encoded in the ListValue holding most response data.

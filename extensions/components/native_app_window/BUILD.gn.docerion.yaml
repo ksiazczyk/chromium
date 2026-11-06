@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the native_app_window static library
+summary: Defines the native_app_window static library target with its sources and dependencies on base, content, extensions, skia, and views.

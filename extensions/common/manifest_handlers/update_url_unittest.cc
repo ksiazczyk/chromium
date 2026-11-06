@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update URL manifest unit tests
+// summary: Manifest tests verifying that valid update_url values load successfully and invalid ones produce the expected update URL error.
+// ---
+
 #include "extensions/common/manifest_constants.h"
 #include "extensions/common/manifest_handlers/manifest_url_handlers.h"
 #include "extensions/common/manifest_test.h"

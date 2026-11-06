@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission set Mojo traits implementation
+// summary: Implements Mojo deserialization of permission set structs into extensions API permission, manifest permission, and PermissionSet objects.
+// ---
+
 #include "extensions/common/mojom/permission_set_mojom_traits.h"
 #include "base/memory/ptr_util.h"
 #include "extensions/common/manifest_handler.h"

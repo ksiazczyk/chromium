@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest URL handler declarations
+// summary: Declares the ManifestURL manifest data structure and the HomepageURLHandler, UpdateURLHandler and AboutPageHandler manifest key parsers.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_MANIFEST_URL_HANDLERS_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_MANIFEST_URL_HANDLERS_H_
 

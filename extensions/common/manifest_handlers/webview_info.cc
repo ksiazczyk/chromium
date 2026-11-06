@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webview accessible resources handler implementation
+// summary: Implements parsing of the webview manifest key and per-partition checks for webview-accessible extension resources.
+// ---
+
 #include "extensions/common/manifest_handlers/webview_info.h"
 
 #include <stddef.h>

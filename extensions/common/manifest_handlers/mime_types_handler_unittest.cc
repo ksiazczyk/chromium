@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the mime_types_handler manifest key
+// summary: Verifies parsing of the mime_types_handler manifest key, including legacy format handling, dict-format gating by feature flag and channel, and warnings for unsupported MIME types.
+// ---
+
 #include "extensions/common/manifest_handlers/mime_types_handler.h"
 
 #include <algorithm>

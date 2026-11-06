@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLPatternSet Mojo traits unit tests
+// summary: Unit tests verifying round-trip serialization of URLPattern and URLPatternSet through their mojom traits with SerializeAndDeserialize.
+// ---
+
 #include "extensions/common/mojom/url_pattern_set_mojom_traits.h"
 
 #include "extensions/common/mojom/url_pattern_set.mojom.h"

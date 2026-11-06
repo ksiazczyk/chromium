@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito info manifest handler header
+// summary: Declares the IncognitoInfo manifest data struct with spanning, split, and allowed mode helpers, plus the IncognitoHandler that parses the incognito manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_INCOGNITO_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_INCOGNITO_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared module manifest unit tests
+// summary: Manifest tests verifying shared module export allowlist behavior, import path parsing, and error handling for invalid import and export manifest values.
+// ---
+
 #include "base/version.h"
 #include "extensions/common/extension.h"
 #include "extensions/common/extension_id.h"

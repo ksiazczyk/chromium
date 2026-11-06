@@ -1,0 +1,4 @@
+# Docerion header of context_type.mojom.
+type: source
+title: ContextType Mojo enum
+summary: Defines the Mojo enum of context types for a running JS context, such as privileged extension, content script, web page, WebUI, and user script.

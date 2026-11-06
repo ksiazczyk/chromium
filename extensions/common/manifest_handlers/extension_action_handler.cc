@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action manifest handler
+// summary: Parses the action, page_action, and browser_action manifest keys, synthesizing default actions for extensions without one and warning about missing popups.
+// ---
+
 #include "extensions/common/manifest_handlers/extension_action_handler.h"
 
 #include <memory>

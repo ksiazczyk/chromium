@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension types conversion helpers implementation
+// summary: Implements conversions between extension_types API enums and mojom types for script run locations and execution worlds.
+// ---
+
 #include "extensions/common/utils/extension_types_utils.h"
 
 #include "base/notreached.h"

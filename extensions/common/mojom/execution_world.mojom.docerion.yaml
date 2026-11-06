@@ -1,0 +1,4 @@
+# Docerion header of execution_world.mojom.
+type: source
+title: Mojom enum for JavaScript execution worlds
+summary: Defines the ExecutionWorld enum selecting the isolated, main or user script world for injected JavaScript.

@@ -1,0 +1,4 @@
+# Docerion header of frame.mojom.
+type: source
+title: Frame extension IPC mojom definitions
+summary: Defines extension IPC structures and interfaces for frames, including ExecuteCodeParams, RequestParams, and the LocalFrame interface that lets extensions execute code in tabs.

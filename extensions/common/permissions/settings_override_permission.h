@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsOverrideAPIPermission declaration
+// summary: Declares the API permission class that creates custom permission messages for extensions that override settings.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_SETTINGS_OVERRIDE_PERMISSION_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_SETTINGS_OVERRIDE_PERMISSION_H_
 

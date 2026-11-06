@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default locale manifest unit tests
+// summary: Manifest tests checking that a valid default_locale value loads successfully and an invalid one produces an error.
+// ---
+
 #include "extensions/common/manifest_constants.h"
 #include "extensions/common/manifest_handlers/default_locale_handler.h"
 #include "extensions/common/manifest_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension action handler unit tests
+// summary: Tests parsing and validation of action, page_action, and browser_action manifest keys, including icon visibility and warning behavior.
+// ---
+
 #include "extensions/common/manifest_handlers/extension_action_handler.h"
 
 #include "base/files/file_path.h"

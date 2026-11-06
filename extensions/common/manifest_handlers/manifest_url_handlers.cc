@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest URL handlers for homepage, update and about keys
+// summary: Implements manifest handlers and accessors for extension URLs such as homepage_url, update_url and about_page, including web store URL resolution.
+// ---
+
 #include "extensions/common/manifest_handlers/manifest_url_handlers.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the dialog extensions client
+summary: Grants include access to components/javascript_dialogs, content/public/browser, and the extensions browser and common headers.

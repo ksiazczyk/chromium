@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDevicePermission implementation
+// summary: Implements USB device permission checks, building check parameters for USB, HID and interface-class based device matching.
+// ---
+
 #include "extensions/common/permissions/usb_device_permission.h"
 
 #include <string>

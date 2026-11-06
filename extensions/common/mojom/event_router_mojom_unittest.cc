@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the EventRouter mojom interface
+// summary: Verifies EventRouter mojom message passing using a test implementation, covering listener add, remove and filtered variants for main thread and service worker contexts.
+// ---
+
 #include <string>
 #include <utility>
 

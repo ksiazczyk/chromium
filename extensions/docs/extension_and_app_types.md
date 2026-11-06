@@ -1,3 +1,9 @@
+---
+type: reference
+title: Extension and App Types
+summary: Explains the hierarchy of extension and app types in Chromium, how to identify each type from the manifest, and their deprecation status.
+---
+
 # Extension and App Types
 
 Generally, browser extensions cut across websites and web apps, while apps

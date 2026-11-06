@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline enabled manifest info header
+// summary: Declares OfflineEnabledInfo and OfflineEnabledHandler, which store and parse the offline_enabled manifest key for extensions and apps.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_OFFLINE_ENABLED_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_OFFLINE_ENABLED_INFO_H_
 

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Writing a New Extension API
+summary: Describes the process, concepts, and best practices for implementing a new Chromium extension API, from the proposal stage through development and launch.
+relations:
+  - references /chrome/common/extensions/api/_features.md
+  - references /chrome/common/extensions/api/schemas.md
+  - references /extensions/OWNERS
+---
+
 # Writing a New Extension API
 
 [TOC]

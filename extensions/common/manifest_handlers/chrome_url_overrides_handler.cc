@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome URL overrides manifest handler implementation
+// summary: Implements parsing of the chrome_url_overrides manifest key, mapping pages like newtab and history to extension URLs.
+// ---
+
 #include "extensions/common/manifest_handlers/chrome_url_overrides_handler.h"
 
 #include <memory>

@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SocketPermissionData pattern declaration
+// summary: Declares a socket permission pattern class with the grammar for operations, hosts and ports used to match socket requests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_SOCKET_PERMISSION_DATA_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_SOCKET_PERMISSION_DATA_H_
 

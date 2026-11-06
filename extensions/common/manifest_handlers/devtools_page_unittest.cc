@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools page manifest handler unit tests
+// summary: Unit tests verifying parsing, validation warnings, and error handling for the devtools_page manifest key.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 #include "base/strings/utf_string_conversions.h"
 #include "base/values.h"

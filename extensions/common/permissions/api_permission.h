@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APIPermission interface and APIPermissionInfo declarations
+// summary: Declares the APIPermission interface for complex permissions and the immutable APIPermissionInfo class describing a single named permission.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_API_PERMISSION_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_API_PERMISSION_H_
 

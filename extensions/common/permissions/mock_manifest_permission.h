@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock manifest permission header
+// summary: Declares MockManifestPermission, a configurable fake ManifestPermission for mocking manifest permissions in tests.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_MOCK_MANIFEST_PERMISSION_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_MOCK_MANIFEST_PERMISSION_H_
 

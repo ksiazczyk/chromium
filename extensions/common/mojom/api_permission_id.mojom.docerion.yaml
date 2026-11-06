@@ -1,0 +1,4 @@
+# Docerion header of api_permission_id.mojom.
+type: source
+title: APIPermissionID Mojo enum
+summary: Enumerates the IDs of all permissions available to apps for generating permission messages, kept in sync with APIPermission::ID and not to be reordered.

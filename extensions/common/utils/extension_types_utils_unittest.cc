@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension types conversion unit tests
+// summary: Unit test verifying that RunAt to RunLocation conversions round-trip one-to-one and stay within valid enum ranges.
+// ---
+
 #include "extensions/common/utils/extension_types_utils.h"
 
 #include "extensions/common/api/extension_types.h"

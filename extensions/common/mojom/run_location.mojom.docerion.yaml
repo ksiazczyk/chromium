@@ -1,0 +1,4 @@
+# Docerion header of run_location.mojom.
+type: source
+title: RunLocation enum for user script injection points
+summary: Defines the RunLocation enum listing the document positions where user scripts can be injected, from document start through deferred and browser-driven runs.

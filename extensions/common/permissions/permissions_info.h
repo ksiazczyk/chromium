@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsInfo class declaration
+// summary: Declares the global PermissionsInfo registry that stores extension API permission instances and provides lookup by ID, name and child permissions.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_PERMISSIONS_INFO_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_PERMISSIONS_INFO_H_
 

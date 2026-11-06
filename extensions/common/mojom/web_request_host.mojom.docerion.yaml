@@ -1,0 +1,4 @@
+# Docerion header of web_request_host.mojom.
+type: source
+title: WebRequestHost mojom interface for webRequest event handling
+summary: Defines the browser-side WebRequestHost channel-associated interface that receives webRequest event handling completion messages from renderers.

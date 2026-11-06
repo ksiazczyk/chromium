@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port Mojo traits header
+// summary: Declares Mojo union and struct traits for serializing extension messaging types between the message port C++ classes and mojom.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MOJOM_MESSAGE_PORT_MOJOM_TRAITS_H_
 #define EXTENSIONS_COMMON_MOJOM_MESSAGE_PORT_MOJOM_TRAITS_H_
 

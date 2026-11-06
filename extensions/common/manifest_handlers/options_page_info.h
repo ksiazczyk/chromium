@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Options page manifest info header
+// summary: Declares OptionsPageInfo and OptionsPageHandler, which expose an extension's options page URL, Chrome styling, and tab-opening settings from the manifest.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_OPTIONS_PAGE_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_OPTIONS_PAGE_INFO_H_
 

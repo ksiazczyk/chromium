@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLPattern and URLPatternSet Mojo traits implementation
+// summary: Implements Read functions that deserialize mojom URLPattern and URLPatternSet data into the corresponding C++ extensions types.
+// ---
+
 #include "extensions/common/mojom/url_pattern_set_mojom_traits.h"
 
 namespace mojo {

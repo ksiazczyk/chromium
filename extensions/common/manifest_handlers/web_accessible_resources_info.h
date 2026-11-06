@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web accessible resources handler header
+// summary: Declares the WebAccessibleResourcesInfo entry structure and WebAccessibleResourcesHandler for the web_accessible_resources manifest key.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MANIFEST_HANDLERS_WEB_ACCESSIBLE_RESOURCES_INFO_H_
 #define EXTENSIONS_COMMON_MANIFEST_HANDLERS_WEB_ACCESSIBLE_RESOURCES_INFO_H_
 

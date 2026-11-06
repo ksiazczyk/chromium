@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission set class declaration
+// summary: Declares PermissionSet, which encapsulates an extension's API permissions, manifest permissions, explicit hosts, and scriptable hosts.
+// ---
+
 #ifndef EXTENSIONS_COMMON_PERMISSIONS_PERMISSION_SET_H_
 #define EXTENSIONS_COMMON_PERMISSIONS_PERMISSION_SET_H_
 

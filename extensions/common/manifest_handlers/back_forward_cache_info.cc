@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-forward cache info manifest handler implementation
+// summary: Implements parsing of the back_forward_cache manifest key, which lets component extensions opt into back-forward cache support.
+// ---
+
 #include "extensions/common/manifest_handlers/back_forward_cache_info.h"
 
 #include <memory>

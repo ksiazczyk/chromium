@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo struct traits header for EventArgs
+// summary: Declares the mojo StructTraits mapping between mojom EventArgs data views and scoped_refptr const extensions::EventArgs.
+// ---
+
 #ifndef EXTENSIONS_COMMON_MOJOM_EVENT_DISPATCHER_MOJOM_TRAITS_H_
 #define EXTENSIONS_COMMON_MOJOM_EVENT_DISPATCHER_MOJOM_TRAITS_H_
 

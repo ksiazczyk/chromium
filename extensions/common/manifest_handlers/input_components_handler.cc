@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input components manifest handler implementation
+// summary: Implements the InputComponentsHandler that parses the input_components manifest key, validating component names, ids, languages, and keyboard layouts for input method extensions.
+// ---
+
 #include "extensions/common/manifest_handlers/input_components_handler.h"
 
 #include <stddef.h>

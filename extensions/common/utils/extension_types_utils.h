@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension types conversion helpers header
+// summary: Declares conversion helpers between api::extension_types and mojom types for run locations and execution worlds.
+// ---
+
 #ifndef EXTENSIONS_COMMON_UTILS_EXTENSION_TYPES_UTILS_H_
 #define EXTENSIONS_COMMON_UTILS_EXTENSION_TYPES_UTILS_H_
 

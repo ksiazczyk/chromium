@@ -1,0 +1,4 @@
+# Docerion header of manifest.mojom.
+type: source
+title: Extension manifest location Mojo definitions
+summary: Defines the ManifestLocation enum describing where and how an extension was installed, such as internal, external policy, unpacked, or component.

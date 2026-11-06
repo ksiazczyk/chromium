@@ -1,0 +1,4 @@
+# Docerion header of renderer_host.mojom.
+type: source
+title: RendererHost Mojo interface for renderer-to-browser extension messages
+summary: Defines the RendererHost Mojo interface the renderer uses to log extension API, event, and DOM actions and to fetch extension message bundles from the browser.

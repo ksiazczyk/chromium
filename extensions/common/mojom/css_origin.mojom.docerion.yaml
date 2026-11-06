@@ -1,0 +1,4 @@
+# Docerion header of css_origin.mojom.
+type: source
+title: Mojom enum for the origin of injected CSS
+summary: Defines the CSSOrigin enum distinguishing author and user origin for CSS injected by extensions.
