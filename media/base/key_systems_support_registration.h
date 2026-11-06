@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeySystemSupportRegistration declaration
+// summary: Declares KeySystemSupportRegistration, a holder that keeps renderer-browser key system support and observer mojo channels alive.
+// ---
+
 #ifndef MEDIA_BASE_KEY_SYSTEMS_SUPPORT_REGISTRATION_H_
 #define MEDIA_BASE_KEY_SYSTEMS_SUPPORT_REGISTRATION_H_
 

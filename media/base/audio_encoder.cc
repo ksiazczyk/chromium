@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioEncoder base class implementation
+// summary: Implements AudioEncoder base defaults and EncodedAudioBuffer, binding encoder callbacks to the current task loop.
+// ---
+
 #include "media/base/audio_encoder.h"
 
 #include "base/containers/heap_array.h"

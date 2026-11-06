@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM context header
+// summary: Defines the CdmContext interface that media players use to obtain decryptors, events, and platform-specific CDM proxies.
+// ---
+
 #ifndef MEDIA_BASE_CDM_CONTEXT_H_
 #define MEDIA_BASE_CDM_CONTEXT_H_
 

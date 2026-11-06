@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioPullFifo header
+// summary: Declares AudioPullFifo, a pull-based FIFO that buffers audio and requests more data from a producer callback when the consumer needs frames.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_PULL_FIFO_H_
 #define MEDIA_BASE_AUDIO_PULL_FIFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libvpx thread wrapper header
+// summary: Declares InitLibVpxThreadWrapper, which installs Media's libvpx worker interface once per process.
+// ---
+
 #ifndef MEDIA_BASE_LIBVPX_THREAD_WRAPPER_H_
 #define MEDIA_BASE_LIBVPX_THREAD_WRAPPER_H_
 

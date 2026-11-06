@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioLimiter implementation
+// summary: Implements the AudioLimiter, which reduces gain so audio output stays within the [-1.0, 1.0] range using fixed attack and release times.
+// ---
+
 #include "media/base/audio_limiter.h"
 
 #include <algorithm>

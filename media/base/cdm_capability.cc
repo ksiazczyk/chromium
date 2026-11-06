@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM capability implementation
+// summary: Implements the CdmCapability and VideoCodecInfo structs and converts CDM capability query status values to strings.
+// ---
+
 #include "media/base/cdm_capability.h"
 
 #include <utility>

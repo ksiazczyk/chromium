@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBufferSideData header
+// summary: Declares DecoderBufferSideData holding VP9 spatial layers, alpha data, HDR metadata, secure handles, discard padding, and next decoder config for EOS buffers.
+// ---
+
 #ifndef MEDIA_BASE_DECODER_BUFFER_SIDE_DATA_H_
 #define MEDIA_BASE_DECODER_BUFFER_SIDE_DATA_H_
 

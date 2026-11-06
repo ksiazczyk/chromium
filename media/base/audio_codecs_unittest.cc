@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio codec ID parsing unit tests
+// summary: Unit tests for parsing Dolby AC-4 and IAMF codec identifiers and their version and profile fields.
+// ---
+
 #include "media/base/audio_codecs.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

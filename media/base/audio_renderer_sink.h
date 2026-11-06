@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioRendererSink interface
+// summary: Declares AudioRendererSink, the interface for the endpoint of rendered audio, with render callbacks, playback control, and output device information.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_RENDERER_SINK_H_
 #define MEDIA_BASE_AUDIO_RENDERER_SINK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FlingingController interface for cast remote playback
+// summary: Interface grouping the hooks needed to control media flung to a cast device as part of RemotePlayback, exposing a media controller, status observers, and approximate playback time.
+// ---
+
 #ifndef MEDIA_BASE_FLINGING_CONTROLLER_H_
 #define MEDIA_BASE_FLINGING_CONTROLLER_H_
 

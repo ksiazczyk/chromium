@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CallbackRegistry unit tests
+// summary: Unit tests for CallbackRegistry covering registration, notification with various parameter types, registration after notify, and unregistration.
+// ---
+
 #include "media/base/callback_registry.h"
 
 #include "base/functional/callback.h"

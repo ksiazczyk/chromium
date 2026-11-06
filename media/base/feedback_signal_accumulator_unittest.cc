@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feedback signal accumulator unit tests
+// summary: Unit tests verifying reset behavior, update ordering, same-timestamp max handling, and the expected hold response of the FeedbackSignalAccumulator.
+// ---
+
 #include "media/base/feedback_signal_accumulator.h"
 
 #include "base/time/time.h"

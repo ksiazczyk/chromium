@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmKeyInformation implementation
+// summary: Implements the CdmKeyInformation class, including KeyStatus-to-string conversion and stream output operators for logging key IDs, status, and system code.
+// ---
+
 #include "media/base/cdm_key_information.h"
 
 #include <ostream>

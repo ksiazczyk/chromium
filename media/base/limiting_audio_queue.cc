@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Limiting audio queue implementation
+// summary: Implements LimitingAudioQueue, pushing AudioBus input through an AudioLimiter into pooled AudioBuffers delivered via callback.
+// ---
+
 #include "media/base/limiting_audio_queue.h"
 
 #include "base/containers/to_vector.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM config header
+// summary: Defines the CdmConfig struct holding the runtime configuration for new content decryption module instances.
+// ---
+
 #ifndef MEDIA_BASE_CDM_CONFIG_H_
 #define MEDIA_BASE_CDM_CONFIG_H_
 

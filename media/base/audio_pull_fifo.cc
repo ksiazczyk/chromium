@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio pull FIFO implementation
+// summary: Implements AudioPullFifo, a pull-based FIFO that fills an AudioBus from a producer callback to satisfy consumer frame requests.
+// ---
+
 #include "media/base/audio_pull_fifo.h"
 
 #include <algorithm>

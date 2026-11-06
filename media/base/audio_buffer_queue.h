@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBufferQueue header
+// summary: Declares AudioBufferQueue, a queue of AudioBuffers supporting reads, peeks and seeks of arbitrary frame chunks into an AudioBus.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_BUFFER_QUEUE_H_
 #define MEDIA_BASE_AUDIO_BUFFER_QUEUE_H_
 

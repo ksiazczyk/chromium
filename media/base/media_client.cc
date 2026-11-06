@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaClient global setter and getter
+// summary: Stores and retrieves the global MediaClient instance that embedders set to customize media behavior.
+// ---
+
 #include "media/base/media_client.h"
 
 

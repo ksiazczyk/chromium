@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio FIFO class declaration
+// summary: Declares AudioFifo, a thread-unsafe first-in first-out container for AudioBus frames with fixed maximum capacity.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_FIFO_H_
 #define MEDIA_BASE_AUDIO_FIFO_H_
 

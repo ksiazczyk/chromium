@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackSignalAccumulator template header
+// summary: Template utility that maintains an exponentially decaying average of timestamped feedback signal values with a configurable half-life.
+// ---
+
 #ifndef MEDIA_BASE_FEEDBACK_SIGNAL_ACCUMULATOR_H_
 #define MEDIA_BASE_FEEDBACK_SIGNAL_ACCUMULATOR_H_
 

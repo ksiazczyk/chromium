@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStatus playback state struct
+// summary: Defines the MediaStatus struct describing remote media playback state such as title, volume, duration, and playback controls.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_STATUS_H_
 #define MEDIA_BASE_MEDIA_STATUS_H_
 

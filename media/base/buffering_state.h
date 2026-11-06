@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffering state enums
+// summary: Defines buffering state and change reason enums, a serializable buffering state struct, and the buffering state callback.
+// ---
+
 #ifndef MEDIA_BASE_BUFFERING_STATE_H_
 #define MEDIA_BASE_BUFFERING_STATE_H_
 

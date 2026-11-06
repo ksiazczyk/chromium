@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBufferQueue implementation
+// summary: Implements AudioBufferQueue methods for appending buffers and reading, peeking, seeking and timestamping frames into an AudioBus.
+// ---
+
 #include "media/base/audio_buffer_queue.h"
 
 #include <algorithm>

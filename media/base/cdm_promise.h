@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmPromise interface and templates
+// summary: Declares the CdmPromise interface and CdmPromiseTemplate for resolving or rejecting content decryption module session promises, including exception and system code enums.
+// ---
+
 #ifndef MEDIA_BASE_CDM_PROMISE_H_
 #define MEDIA_BASE_CDM_PROMISE_H_
 

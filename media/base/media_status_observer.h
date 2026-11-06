@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaStatusObserver interface
+// summary: Declares the MediaStatusObserver interface that receives updates about media controlled via the FlingingController.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_STATUS_OBSERVER_H_
 #define MEDIA_BASE_MEDIA_STATUS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSingleThreadTaskRunner implementation
+// summary: Implements a fake task runner that queues delayed tasks against a test tick clock and detects infinite task posting loops.
+// ---
+
 #include "media/base/fake_single_thread_task_runner.h"
 
 #include <utility>

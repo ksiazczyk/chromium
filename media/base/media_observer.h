@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaObserver and client interface header
+// summary: Declares MediaObserver and MediaObserverClient interfaces for observing media player events and switching between local and remote renderers.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_OBSERVER_H_
 #define MEDIA_BASE_MEDIA_OBSERVER_H_
 

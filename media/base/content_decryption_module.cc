@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content decryption module base implementation
+// summary: Implements ContentDecryptionModule defaults and helpers, including HDCP version string parsing used for policy status checks.
+// ---
+
 #include "media/base/content_decryption_module.h"
 
 #include "media/base/cdm_promise.h"

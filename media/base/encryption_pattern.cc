@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptionPattern implementation
+// summary: Implements the EncryptionPattern class, validating crypt and skip byte block sizes against the maximum pattern size when the validation feature is enabled.
+// ---
+
 #include "media/base/encryption_pattern.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDiscardHelper unit tests
+// summary: Tests frame conversion, buffer processing, timestamp preservation, and discard padding behavior of AudioDiscardHelper.
+// ---
+
 #include "media/base/audio_discard_helper.h"
 
 #include <stddef.h>

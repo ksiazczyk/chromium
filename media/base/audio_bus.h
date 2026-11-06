@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBus header
+// summary: Declares AudioBus, a multi-channel float audio frame container with aligned allocation, memory wrapping and interleaved conversion APIs.
+// ---
+
 
 #ifndef MEDIA_BASE_AUDIO_BUS_H_
 #define MEDIA_BASE_AUDIO_BUS_H_

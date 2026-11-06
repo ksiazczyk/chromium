@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio processor controls interface
+// summary: Declares AudioProcessorControls and AudioProcessingStats for interacting with the audio service, including stats retrieval and voice isolation control.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_PROCESSOR_CONTROLS_H_
 #define MEDIA_BASE_AUDIO_PROCESSOR_CONTROLS_H_
 

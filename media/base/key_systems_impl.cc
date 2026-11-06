@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeySystems implementation
+// summary: Implements KeySystems with mime type and codec mappings, capability config rules and support updates for registered EME key systems.
+// ---
+
 #include "media/base/key_systems_impl.h"
 
 #include <stddef.h>

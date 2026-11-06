@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR metadata reordering map implementation
+// summary: Implements a timestamp-indexed map that stores per-frame HDR metadata so decoders can merge decode-order metadata onto presentation-order frames.
+// ---
+
 #include "media/base/hdr_metadata_reordering_map.h"
 
 #include "base/check.h"

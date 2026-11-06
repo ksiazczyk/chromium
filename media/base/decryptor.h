@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decryptor interface
+// summary: Declares the Decryptor interface for decrypting and decrypt-and-decoding encrypted audio and video buffers with status and callback definitions.
+// ---
+
 #ifndef MEDIA_BASE_DECRYPTOR_H_
 #define MEDIA_BASE_DECRYPTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmPromise trait specializations
+// summary: Defines CdmPromiseTraits specializations and GetResolveParameterType implementations for void, int, string, and key status promise types.
+// ---
+
 #include "media/base/cdm_promise.h"
 
 namespace media {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio point unit tests
+// summary: Unit tests verifying PointsToString output for populated and empty point vectors.
+// ---
+
 #include <cmath>
 
 #include "media/base/audio_point.h"

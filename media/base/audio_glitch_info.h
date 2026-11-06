@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio glitch info declaration
+// summary: Declares AudioGlitchInfo, which tracks audio glitch duration and count, plus an Accumulator helper for pending glitch data.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_GLITCH_INFO_H_
 #define MEDIA_BASE_AUDIO_GLITCH_INFO_H_
 

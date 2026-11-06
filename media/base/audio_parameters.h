@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioParameters class header
+// summary: Declares AudioParameters and the shared-memory audio input and output buffer parameter structs used to describe stream formats and hardware capabilities.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_PARAMETERS_H_
 #define MEDIA_BASE_AUDIO_PARAMETERS_H_
 

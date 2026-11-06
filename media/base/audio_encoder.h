@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio encoder interface and encoded audio buffer
+// summary: Defines the AudioEncoder interface with codec-specific options and the EncodedAudioBuffer move-only wrapper for encoded audio output.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_ENCODER_H_
 #define MEDIA_BASE_AUDIO_ENCODER_H_
 

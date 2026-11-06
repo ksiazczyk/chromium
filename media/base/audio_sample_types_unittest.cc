@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio sample type traits unit tests
+// summary: Unit tests verifying conversions between unsigned 8-bit, signed 16-bit, signed 32-bit, and float or double audio sample formats.
+// ---
+
 #include <stdint.h>
 
 #include "media/base/audio_sample_types.h"

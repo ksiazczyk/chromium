@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackAudioConverter class declaration
+// summary: Declares a converter that resamples input streams to new audio parameters and can feed converted audio into another AudioConverter as a mixer input.
+// ---
+
 #ifndef MEDIA_BASE_LOOPBACK_AUDIO_CONVERTER_H_
 #define MEDIA_BASE_LOOPBACK_AUDIO_CONVERTER_H_
 

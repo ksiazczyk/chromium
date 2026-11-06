@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecoderBuffer unit tests
+// summary: Unit tests for DecoderBuffer covering constructors, EOS buffers with next config, copying from arrays and shared memory regions, and other buffer operations.
+// ---
+
 #include "media/base/decoder_buffer.h"
 
 #include <stdint.h>

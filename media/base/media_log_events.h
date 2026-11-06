@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaLogEvent enum and event type macros
+// summary: Defines the MediaLogEvent enum of player state changes and interactions, plus macros binding events to their allowed argument types.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_LOG_EVENTS_H_
 #define MEDIA_BASE_MEDIA_LOG_EVENTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EncryptionPattern unit tests
+// summary: Tests EncryptionPattern::Create validation behavior with the kValidateEncryptionPatternSize feature both enabled and disabled.
+// ---
+
 #include "media/base/encryption_pattern.h"
 
 #include "base/test/scoped_feature_list.h"

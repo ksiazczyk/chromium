@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioPushFifo unit tests
+// summary: Parameterized unit tests verifying AudioPushFifo re-chunking of audio input, frame delay reporting, and flush behavior.
+// ---
+
 #include <limits>
 #include <memory>
 #include <vector>

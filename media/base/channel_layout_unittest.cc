@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel layout unit tests
+// summary: Unit tests for channel mask to layout conversion, ChannelLayoutConfig constexpr constructors and channel count guessing.
+// ---
+
 #include "media/base/channel_layout.h"
 
 #include <type_traits>

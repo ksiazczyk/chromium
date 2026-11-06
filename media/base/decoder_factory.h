@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderFactory interface
+// summary: Declares the DecoderFactory base class used to create audio and video decoders for the media pipeline.
+// ---
+
 #ifndef MEDIA_BASE_DECODER_FACTORY_H_
 #define MEDIA_BASE_DECODER_FACTORY_H_
 

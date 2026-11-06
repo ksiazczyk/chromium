@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioTimestampHelper class declaration
+// summary: Declares AudioTimestampHelper, a utility for generating accurate timestamps for audio sample frame sequences while avoiding rounding and truncation errors.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_TIMESTAMP_HELPER_H_
 #define MEDIA_BASE_AUDIO_TIMESTAMP_HELPER_H_
 

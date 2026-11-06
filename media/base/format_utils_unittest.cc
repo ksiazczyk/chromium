@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Format utils unit tests
+// summary: Unit tests checking that SharedImageFormat and VideoPixelFormat values map to each other correctly in both conversion directions.
+// ---
+
 #include "media/base/format_utils.h"
 
 #include "components/viz/common/resources/shared_image_format.h"

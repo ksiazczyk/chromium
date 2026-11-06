@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioRendererSink class header
+// summary: Declares a fake AudioRendererSink implementing the renderer sink interface with controllable state for media tests.
+// ---
+
 #ifndef MEDIA_BASE_FAKE_AUDIO_RENDERER_SINK_H_
 #define MEDIA_BASE_FAKE_AUDIO_RENDERER_SINK_H_
 

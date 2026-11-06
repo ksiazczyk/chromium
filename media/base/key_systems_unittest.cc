@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key systems unit tests
+// summary: Extensive unit tests for key system support, codec and mime type mappings, robustness rules and capability queries using fake key systems.
+// ---
+
 #include "media/base/key_systems.h"
 
 #include <optional>

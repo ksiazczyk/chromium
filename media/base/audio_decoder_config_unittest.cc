@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioDecoderConfig unit tests
+// summary: Tests AudioDecoderConfig initialization with discrete, stereo, and bitstream layouts plus invalid sample format handling.
+// ---
+
 #include "media/base/audio_decoder_config.h"
 
 #include "base/test/gtest_util.h"

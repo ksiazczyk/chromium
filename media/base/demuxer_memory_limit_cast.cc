@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast demuxer memory limits
+// summary: Selects demuxer memory limits for Cast based on audio and video codec, channel count, and demuxer type.
+// ---
+
 #include "media/base/demuxer_memory_limit.h"
 
 #include "base/check.h"

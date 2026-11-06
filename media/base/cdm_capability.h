@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM capability header
+// summary: Defines the CdmCapability struct, VideoCodecInfo, and CdmCapabilityQueryStatus enum describing what codecs, encryption schemes, and session types a CDM supports.
+// ---
+
 #ifndef MEDIA_BASE_CDM_CAPABILITY_H_
 #define MEDIA_BASE_CDM_CAPABILITY_H_
 

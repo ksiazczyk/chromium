@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AGTM metadata parsing
+// summary: GTest suite verifying AGTM extraction from T.35 payloads, including country code variants, wrong types, and short data.
+// ---
+
 #include "media/base/agtm.h"
 
 #include "base/test/scoped_feature_list.h"

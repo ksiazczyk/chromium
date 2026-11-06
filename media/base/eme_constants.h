@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EME constants and codec bitmasks
+// summary: Defines Encrypted Media Extensions initialization data types and codec bitmask constants used to describe supported codecs for encrypted playback.
+// ---
+
 #ifndef MEDIA_BASE_EME_CONSTANTS_H_
 #define MEDIA_BASE_EME_CONSTANTS_H_
 

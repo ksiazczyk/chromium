@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for media/base
+summary: Delegates review ownership of audio-related and media remoting files to the media/audio and media/remoting owners.

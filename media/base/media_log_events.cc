@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media log event helpers
+// summary: Implements TruncateUrlString, a helper that shortens overly long URLs for media log event records.
+// ---
+
 #include "media/base/media_log_events.h"
 
 #include <string>

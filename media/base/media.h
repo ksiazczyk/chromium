@@ -5,6 +5,12 @@
 // Contains code that should be used for initializing, or querying the state
 // of the media library as a whole.
 
+// ---docerion
+// type: source
+// title: Media library initialization API
+// summary: Declares functions to initialize the media library and CPU-specific media features, including a variant for sandboxed processes with pre-fetched CPU flags.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_H_
 #define MEDIA_BASE_MEDIA_H_
 

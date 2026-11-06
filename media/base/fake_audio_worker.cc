@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioWorker implementation
+// summary: Implements a fake audio worker that invokes a callback at the playback rate derived from audio parameters to simulate audio output timing.
+// ---
+
 #include "media/base/fake_audio_worker.h"
 
 #include <utility>

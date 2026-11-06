@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptionScheme helpers implementation
+// summary: Implements name lookup and stream output operators for the EncryptionScheme enum values used in logging.
+// ---
+
 #include "media/base/encryption_scheme.h"
 
 #include <ostream>

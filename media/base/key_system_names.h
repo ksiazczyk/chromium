@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key system name helper declarations
+// summary: Declares media namespace helpers for checking whether a key system is Clear Key, External Clear Key or a sub key system of a base name.
+// ---
+
 #ifndef MEDIA_BASE_KEY_SYSTEM_NAMES_H_
 #define MEDIA_BASE_KEY_SYSTEM_NAMES_H_
 

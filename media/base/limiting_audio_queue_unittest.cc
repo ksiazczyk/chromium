@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Limiting audio queue unit tests
+// summary: Unit tests verifying LimitingAudioQueue passthrough, flush, clear and limiting behavior using sine wave audio input.
+// ---
+
 #include "media/base/limiting_audio_queue.h"
 
 #include <algorithm>

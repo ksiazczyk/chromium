@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio processing settings string conversion
+// summary: Implements AudioProcessingSettings::ToString, producing a human-readable summary of echo cancellation, noise suppression and related flags.
+// ---
+
 #include "media/base/audio_processing.h"
 
 #include "base/strings/strcat.h"

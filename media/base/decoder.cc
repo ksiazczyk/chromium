@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoder name and type helpers implementation
+// summary: Implements name lookup for audio and video decoder types, stream output operators and Linux hardware video decoder backend selection.
+// ---
+
 #include "media/base/decoder.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecoderBufferQueue unit tests
+// summary: Unit tests for DecoderBufferQueue covering emptiness, clearing, duration calculation, out-of-order buffers, and buffers without timestamps.
+// ---
+
 #include "media/base/decoder_buffer_queue.h"
 
 #include "base/memory/scoped_refptr.h"

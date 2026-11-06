@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioBus unit tests
+// summary: Unit tests verifying AudioBus channel and frame counts, alignment, copying, zeroing, and bitstream format behavior.
+// ---
+
 #include "media/base/audio_bus.h"
 
 #include <stddef.h>

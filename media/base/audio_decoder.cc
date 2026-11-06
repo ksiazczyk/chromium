@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDecoder base class implementation
+// summary: Implements default constructor, destructor, and bitstream conversion behavior for the AudioDecoder interface.
+// ---
+
 #include "media/base/audio_decoder.h"
 
 namespace media {

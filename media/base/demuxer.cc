@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demuxer base implementation
+// summary: Implements Demuxer and DemuxerHost base class defaults such as destructor and DisableCanChangeType.
+// ---
+
 #include "media/base/demuxer.h"
 
 namespace media {

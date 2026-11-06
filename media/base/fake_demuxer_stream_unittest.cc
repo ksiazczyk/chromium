@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDemuxerStream unit tests
+// summary: Tests FakeDemuxerStream reads, config changes, held reads, aborts, errors, and end-of-stream behavior.
+// ---
+
 #include "media/base/fake_demuxer_stream.h"
 
 #include <memory>

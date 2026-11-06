@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioTimestampHelper unit tests
+// summary: Unit tests covering AudioTimestampHelper frame-to-time and time-to-frame conversions, base timestamps, and target frame calculations.
+// ---
+
 #include "media/base/audio_timestamp_helper.h"
 
 #include <stddef.h>

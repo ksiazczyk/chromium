@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EME init data type conversions
+// summary: Implements conversions between EmeInitDataType values and their canonical registry strings such as webm, cenc, and keyids.
+// ---
+
 #include "media/base/eme_constants.h"
 
 #include "base/notreached.h"

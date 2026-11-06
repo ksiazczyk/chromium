@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio point string formatting implementation
+// summary: Implements PointsToString, which formats a vector of 3D audio points as a human-readable comma-separated string.
+// ---
+
 #include "media/base/audio_point.h"
 
 #include <stddef.h>

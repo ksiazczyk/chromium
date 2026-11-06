@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitReader class declaration
+// summary: Declares the BitReader class, a template-based reader for pulling bits, flags, strings, and byte spans from a byte stream.
+// ---
+
 #ifndef MEDIA_BASE_BIT_READER_H_
 #define MEDIA_BASE_BIT_READER_H_
 

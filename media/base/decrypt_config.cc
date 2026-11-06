@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecryptConfig implementation
+// summary: Implements DecryptConfig creation for CENC and CBCS encryption schemes plus cloning, matching, and printing of decryption information.
+// ---
+
 #include "media/base/decrypt_config.h"
 
 #include <stddef.h>

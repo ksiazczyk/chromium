@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async destroy wrapper for video encoders
+// summary: Template VideoEncoder wrapper that schedules a wrapped encoder's asynchronous cleanup via DestroyAsync before its memory is released.
+// ---
+
 #ifndef MEDIA_BASE_ASYNC_DESTROY_VIDEO_ENCODER_H_
 #define MEDIA_BASE_ASYNC_DESTROY_VIDEO_ENCODER_H_
 

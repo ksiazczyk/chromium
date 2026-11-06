@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demuxer memory limit Cast unit tests
+// summary: Tests that Cast demuxer memory limit selection returns the expected limits for various audio and video codecs.
+// ---
+
 #include <optional>
 
 #include "media/base/audio_decoder_config.h"

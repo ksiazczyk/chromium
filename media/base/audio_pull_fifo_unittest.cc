@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioPullFifo unit tests
+// summary: Parameterized unit tests verifying that AudioPullFifo consumes audio frames correctly at various buffer sizes via a producer callback.
+// ---
+
 #include "media/base/audio_pull_fifo.h"
 
 #include <memory>

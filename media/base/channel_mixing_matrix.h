@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelMixingMatrix class header
+// summary: Declares ChannelMixingMatrix, which creates the input-to-output channel transformation matrix and reports whether it is a pure remapping.
+// ---
+
 #ifndef MEDIA_BASE_CHANNEL_MIXING_MATRIX_H_
 #define MEDIA_BASE_CHANNEL_MIXING_MATRIX_H_
 

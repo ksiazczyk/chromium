@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioCapturerSource interface header
+// summary: Defines the AudioCapturerSource interface and CaptureCallback contract for starting, stopping, and delivering captured audio samples.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_CAPTURER_SOURCE_H_
 #define MEDIA_BASE_AUDIO_CAPTURER_SOURCE_H_
 

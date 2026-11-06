@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioBufferConverter unit tests
+// summary: Unit tests for AudioBufferConverter covering pass-through, downsampling, upsampling and resampling of small and differently sized buffers.
+// ---
+
 #include "media/base/audio_buffer_converter.h"
 
 #include <stdint.h>

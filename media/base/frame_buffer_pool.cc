@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame buffer pool implementation
+// summary: Implements a thread-safe pool of CPU frame buffers with allocation, release, stale-buffer expiration, and trace-event memory dump reporting.
+// ---
+
 #include "media/base/frame_buffer_pool.h"
 
 #include <inttypes.h>

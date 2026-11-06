@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localized strings provider interface for media
+// summary: Declares media message IDs and a provider function so embedders can supply localized audio device strings from Chrome's resource bundle.
+// ---
+
 #ifndef MEDIA_BASE_LOCALIZED_STRINGS_H_
 #define MEDIA_BASE_LOCALIZED_STRINGS_H_
 

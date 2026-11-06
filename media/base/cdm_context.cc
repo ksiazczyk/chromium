@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM context implementation
+// summary: Provides default implementations of the CdmContext accessors, returning null or no-op results per platform.
+// ---
+
 #include "media/base/cdm_context.h"
 
 #include "build/build_config.h"

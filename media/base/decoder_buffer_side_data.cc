@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBufferSideData implementation
+// summary: Implements DecoderBufferSideData with matching and cloning of side data such as spatial layers, alpha data, HDR metadata, secure handles, and discard padding.
+// ---
+
 #include "media/base/decoder_buffer_side_data.h"
 
 namespace media {

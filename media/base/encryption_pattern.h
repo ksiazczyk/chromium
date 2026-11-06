@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptionPattern class header
+// summary: Declares the EncryptionPattern class modeling CENC pattern encryption with crypt and skip 16-byte block counts and a maximum pattern size of 15.
+// ---
+
 #ifndef MEDIA_BASE_ENCRYPTION_PATTERN_H_
 #define MEDIA_BASE_ENCRYPTION_PATTERN_H_
 

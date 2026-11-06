@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Amplitude peak detector implementation
+// summary: Implements detection of loud audio amplitude peaks across sample formats to trigger callbacks used for audio latency tracing.
+// ---
+
 #include "media/base/amplitude_peak_detector.h"
 
 #include "base/check_op.h"

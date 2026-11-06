@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Amplitude peak detector class declaration
+// summary: Declares a filter class that detects large audio amplitude increases and runs a callback, intended for measuring end-to-end audio latency via tracing.
+// ---
+
 #ifndef MEDIA_BASE_AMPLITUDE_PEAK_DETECTOR_H_
 #define MEDIA_BASE_AMPLITUDE_PEAK_DETECTOR_H_
 

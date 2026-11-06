@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio sample type traits
+// summary: Defines sample type traits classes for audio sample formats, including conversions between integer and floating-point representations with clipping.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_SAMPLE_TYPES_H_
 #define MEDIA_BASE_AUDIO_SAMPLE_TYPES_H_
 

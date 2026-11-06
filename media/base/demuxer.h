@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demuxer interface
+// summary: Declares the Demuxer interface, DemuxerHost, and DemuxerType enum used by media pipeline demuxer implementations.
+// ---
+
 #ifndef MEDIA_BASE_DEMUXER_H_
 #define MEDIA_BASE_DEMUXER_H_
 

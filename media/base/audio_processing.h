@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio processing settings struct
+// summary: Defines AudioProcessingSettings, specifying software audio effects such as echo cancellation, gain control and voice isolation for mic capture.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_PROCESSING_H_
 #define MEDIA_BASE_AUDIO_PROCESSING_H_
 

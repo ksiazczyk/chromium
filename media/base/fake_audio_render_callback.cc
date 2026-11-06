@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioRenderCallback implementation
+// summary: Implements a fake render callback that fills audio buffers with a sine wave, supporting half fills, fade-in and volume control for media tests.
+// ---
+
 #include "media/base/fake_audio_render_callback.h"
 
 #include <algorithm>

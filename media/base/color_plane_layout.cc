@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorPlaneLayout implementation
+// summary: Implements constructors, equality comparison operators and stream output for the ColorPlaneLayout struct.
+// ---
+
 #include "media/base/color_plane_layout.h"
 
 #include "base/check_op.h"

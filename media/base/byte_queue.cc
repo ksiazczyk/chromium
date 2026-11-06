@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ByteQueue implementation
+// summary: Implements a growable byte queue with push and pop operations that minimizes buffer copies and handles allocation failure.
+// ---
+
 #include "media/base/byte_queue.h"
 
 #include <algorithm>

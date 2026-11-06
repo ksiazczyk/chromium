@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChannelMixer implementation
+// summary: Implements audio channel layout conversion by applying a precomputed transformation matrix between input and output AudioBus channels.
+// ---
+
 #include "media/base/channel_mixer.h"
 
 #include <stddef.h>

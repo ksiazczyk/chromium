@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioShifter class declaration
+// summary: Declares the AudioShifter class, a buffer between push-based audio sources and pull-based sinks that resamples audio to handle clock drift between hardware clocks.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_SHIFTER_H_
 #define MEDIA_BASE_AUDIO_SHIFTER_H_
 

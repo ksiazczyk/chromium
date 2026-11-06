@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android overlay configuration for media
+// summary: Defines the AndroidOverlayConfig struct with ready, failed, destroyed and power-efficient callbacks plus overlay creation options.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_OVERLAY_CONFIG_H_
 #define MEDIA_BASE_ANDROID_OVERLAY_CONFIG_H_
 

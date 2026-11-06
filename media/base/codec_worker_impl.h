@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CodecWorkerImpl thread wrapper template
+// summary: Template class providing shared thread wrapper guts for libvpx and libaom codec workers to avoid duplicated threading code.
+// ---
+
 #include "base/feature_list.h"
 #include "media/base/media_switches.h"
 

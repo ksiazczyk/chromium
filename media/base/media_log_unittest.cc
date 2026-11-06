@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaLog unit tests
+// summary: Tests MediaLog event forwarding, invalidation, cloned log player ids, URL truncation limits, and PLog error reporting using MockMediaLog.
+// ---
+
 #include <sstream>
 #include <string>
 

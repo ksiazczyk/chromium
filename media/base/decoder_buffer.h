@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBuffer class declaration
+// summary: Declares the DecoderBuffer class used to pass audio and video data to decoders, with decryption, external memory and end-of-stream support.
+// ---
+
 #ifndef MEDIA_BASE_DECODER_BUFFER_H_
 #define MEDIA_BASE_DECODER_BUFFER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media player logging ID header
+// summary: Declares the MediaPlayerLoggingID id type alias and the function that generates unique player logging IDs.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_PLAYER_LOGGING_ID_H_
 #define MEDIA_BASE_MEDIA_PLAYER_LOGGING_ID_H_
 

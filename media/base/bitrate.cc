@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitrate implementation
+// summary: Implements the Bitrate class supporting constant, variable, and external rate control modes for media encoding.
+// ---
+
 #include "media/base/bitrate.h"
 #include "base/check_op.h"
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-origin data source interface
+// summary: Declares CrossOriginDataSource, a DataSource that may make cross-origin requests, with a factory, MIME type access, and initialization hook.
+// ---
+
 #ifndef MEDIA_BASE_CROSS_ORIGIN_DATA_SOURCE_H_
 #define MEDIA_BASE_CROSS_ORIGIN_DATA_SOURCE_H_
 

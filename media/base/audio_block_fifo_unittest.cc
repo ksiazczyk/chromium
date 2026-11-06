@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioBlockFifo unit tests
+// summary: Unit tests verifying construction, push, sample-format handling, consume, clear and capacity growth of AudioBlockFifo.
+// ---
+
 #include "media/base/audio_block_fifo.h"
 
 #include <stdint.h>

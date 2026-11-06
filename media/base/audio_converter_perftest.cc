@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioConverter performance tests
+// summary: Benchmarks AudioConverter conversion throughput with and without FIFO buffering across common parameter sets.
+// ---
+
 #include "media/base/audio_converter.h"
 
 #include <memory>

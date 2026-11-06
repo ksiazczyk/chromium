@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderBufferQueue class declaration
+// summary: Declares a queue of DecoderBuffers kept in increasing timestamp order with push, pop, clear, duration and memory usage tracking.
+// ---
+
 #ifndef MEDIA_BASE_DECODER_BUFFER_QUEUE_H_
 #define MEDIA_BASE_DECODER_BUFFER_QUEUE_H_
 

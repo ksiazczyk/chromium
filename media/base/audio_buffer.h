@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBuffer class
+// summary: Declares an audio buffer that copies and holds audio data, converts it to AudioBus, and supports end-of-stream markers.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_BUFFER_H_
 #define MEDIA_BASE_AUDIO_BUFFER_H_
 

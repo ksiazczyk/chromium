@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeySystemInfo default implementation
+// summary: Provides default KeySystemInfo behavior, supporting only the base key system, no hardware-secure codecs, and no use of AesDecryptor.
+// ---
+
 #include "media/base/key_system_info.h"
 
 namespace media {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameRateEstimator bucketed FPS estimator
+// summary: Declares a utility class that estimates a stable, bucketed frame rate from frame duration samples or indicates that the rate is not yet stable.
+// ---
+
 #ifndef MEDIA_BASE_FRAME_RATE_ESTIMATOR_H_
 #define MEDIA_BASE_FRAME_RATE_ESTIMATOR_H_
 

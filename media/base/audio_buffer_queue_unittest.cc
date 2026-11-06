@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioBufferQueue unit tests
+// summary: Unit tests for AudioBufferQueue verifying append, clear, read, peek and seek behavior across sample formats.
+// ---
+
 
 #include "media/base/audio_buffer_queue.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media serializers unit tests
+// summary: Unit tests verifying that MediaSerialize correctly serializes base types, optionals, vectors, and AutoPipInfo flags.
+// ---
+
 #include "media/base/media_serializers.h"
 
 #include <memory>

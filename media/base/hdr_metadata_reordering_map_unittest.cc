@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HDR metadata reordering map unit tests
+// summary: Unit tests for HdrMetadataReorderingMap covering insertion, merge-and-erase by timestamp across multiple buffers, and clearing stored metadata.
+// ---
+
 #include "media/base/hdr_metadata_reordering_map.h"
 
 #include "media/base/decoder_buffer.h"

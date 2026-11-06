@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CdmPromiseAdapter declarations
+// summary: Declares CdmPromiseAdapter, which converts CdmPromises to integer identifiers so promises can be passed across IPC and JNI boundaries.
+// ---
+
 #ifndef MEDIA_BASE_CDM_PROMISE_ADAPTER_H_
 #define MEDIA_BASE_CDM_PROMISE_ADAPTER_H_
 

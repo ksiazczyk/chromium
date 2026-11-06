@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioBusPool header
+// summary: Declares a thread-safe pool interface for reusing AudioBus objects, with an implementation supporting preallocation and a maximum capacity.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_BUS_POOL_H_
 #define MEDIA_BASE_AUDIO_BUS_POOL_H_
 

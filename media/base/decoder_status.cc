@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoderStatus implementation
+// summary: Implements string conversion for DecoderStatus codes and the ScopedDecodeTrace helper for tracing decode operations.
+// ---
+
 #include "media/base/decoder_status.h"
 
 #include <sstream>

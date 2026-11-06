@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioParameters implementation
+// summary: Implements AudioParameters helpers including format-to-string conversion, shared memory buffer size computation and glitch tracking for audio buffer parameters.
+// ---
+
 #include "media/base/audio_parameters.h"
 
 #include <sstream>

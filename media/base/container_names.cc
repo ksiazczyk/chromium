@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Container format detection implementation
+// summary: Implements DetermineContainer, which inspects buffer bytes to identify media container formats such as AAC, AC3, MP3, HLS, and WebM for logging purposes.
+// ---
+
 #include "media/base/container_names.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeySystemCapability header
+// summary: Declares the KeySystemCapability struct pairing software and hardware CDM capability or status values for a key system, with equality support.
+// ---
+
 #ifndef MEDIA_BASE_KEY_SYSTEM_CAPABILITY_H_
 #define MEDIA_BASE_KEY_SYSTEM_CAPABILITY_H_
 

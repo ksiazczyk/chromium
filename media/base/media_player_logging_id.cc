@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media player logging ID implementation
+// summary: Implements GetNextMediaPlayerLoggingID, which hands out unique per-process IDs for media players used in logging.
+// ---
+
 #include "media/base/media_player_logging_id.h"
 
 namespace media {

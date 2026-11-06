@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChannelMixingMatrix unit tests
+// summary: Verifies transformation matrices for all layout conversions and specific cases such as stereo to mono and mono to stereo mixing.
+// ---
+
 #include "media/base/channel_mixing_matrix.h"
 
 #include <stddef.h>

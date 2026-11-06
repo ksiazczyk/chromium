@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media library initialization implementation
+// summary: Initializes media libraries such as libyuv, ffmpeg, libvpx and libaom once per process, including a sandboxed variant with forced CPU flags.
+// ---
+
 #include "media/base/media.h"
 
 #include <stdint.h>

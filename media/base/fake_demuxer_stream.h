@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeDemuxerStream header
+// summary: Declares a test double DemuxerStream producing configurable, optionally encrypted video buffers with hold, reset, and seek controls.
+// ---
+
 #ifndef MEDIA_BASE_FAKE_DEMUXER_STREAM_H_
 #define MEDIA_BASE_FAKE_DEMUXER_STREAM_H_
 

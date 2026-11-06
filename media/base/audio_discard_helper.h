@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDiscardHelper class declaration
+// summary: Declares a helper managing timestamps and discard events around audio decoding, with TimeInfo and ProcessBuffers APIs.
+// ---
+
 #ifndef MEDIA_BASE_AUDIO_DISCARD_HELPER_H_
 #define MEDIA_BASE_AUDIO_DISCARD_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackHolder helper
+// summary: Template helper that can hold a callback from firing until it is explicitly released.
+// ---
+
 #ifndef MEDIA_BASE_CALLBACK_HOLDER_H_
 #define MEDIA_BASE_CALLBACK_HOLDER_H_
 

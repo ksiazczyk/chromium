@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntervalMap unit tests
+// summary: Unit tests that validate IntervalMap against a simple reference implementation using randomized interval increment, set, and clear operations.
+// ---
+
 #include "media/base/interval_map.h"
 
 #include <stdint.h>

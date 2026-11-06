@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Limiting audio queue
+// summary: Declares LimitingAudioQueue, a wrapper around AudioLimiter that limits audio to the [-1.0, 1.0] range and outputs AudioBuffers.
+// ---
+
 #ifndef MEDIA_BASE_LIMITING_AUDIO_QUEUE_H_
 #define MEDIA_BASE_LIMITING_AUDIO_QUEUE_H_
 

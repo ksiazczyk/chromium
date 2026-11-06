@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeAudioRenderCallback class header
+// summary: Declares a fake audio render callback that renders sine waves into AudioBus buffers and implements the AudioConverter input callback interface.
+// ---
+
 #ifndef MEDIA_BASE_FAKE_AUDIO_RENDER_CALLBACK_H_
 #define MEDIA_BASE_FAKE_AUDIO_RENDER_CALLBACK_H_
 

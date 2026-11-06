@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoopbackAudioConverter implementation
+// summary: Implements LoopbackAudioConverter by delegating stream conversion to an internal AudioConverter for use as loopback input.
+// ---
+
 #include "media/base/loopback_audio_converter.h"
 
 namespace media {

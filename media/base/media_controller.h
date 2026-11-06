@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaController playback control interface
+// summary: Declares the MediaController interface for issuing simple media commands such as play, pause, mute, volume and seek, modeled after the MediaController Mojom interface.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_CONTROLLER_H_
 #define MEDIA_BASE_MEDIA_CONTROLLER_H_
 

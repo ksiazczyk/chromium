@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Libaom thread wrapper header
+// summary: Declares InitLibAomThreadWrapper, which installs Media's libaom worker interface once per process.
+// ---
+
 #ifndef MEDIA_BASE_LIBAOM_THREAD_WRAPPER_H_
 #define MEDIA_BASE_LIBAOM_THREAD_WRAPPER_H_
 

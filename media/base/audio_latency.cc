@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioLatency implementation
+// summary: Implements platform-specific audio latency helpers that compute high-latency, RTC, interactive and exact audio buffer sizes for Chromium's media stack.
+// ---
+
 #include "media/base/audio_latency.h"
 
 #include <stdint.h>

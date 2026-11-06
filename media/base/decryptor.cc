@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decryptor base implementation
+// summary: Implements the Decryptor base class, including status name lookup and default can-always-decrypt behavior.
+// ---
+
 #include "media/base/decryptor.h"
 
 namespace media {
