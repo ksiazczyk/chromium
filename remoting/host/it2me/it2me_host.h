@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2MeHost class declaration
+// summary: Declares the It2MeHost class implementing the internal It2Me remote support host logic, including session state, policies, signaling context, and ChromeOS enterprise parameters.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_HOST_H_
 #define REMOTING_HOST_IT2ME_IT2ME_HOST_H_
 

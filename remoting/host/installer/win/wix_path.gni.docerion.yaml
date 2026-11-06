@@ -1,0 +1,4 @@
+# Docerion header of wix_path.gni.
+type: config
+title: GN setting for the WiX tool path
+summary: GN import declaring the remoting_wix_path argument that locates the WiX toolchain, defaulting to third_party/wix for Chrome-branded builds.

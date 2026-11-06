@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mac remoting host installer archive build rules
+summary: Defines the GN action that assembles the Mac remoting host installer archive, collecting entitlements, pkgproj files, scripts and generated bundles into a zip.

@@ -1,0 +1,4 @@
+# Docerion header of credits_entry.tmpl.
+type: asset
+title: Credits entry template
+summary: Template for a single credits entry with name, URL and license placeholders, used when generating the remoting CREDITS.txt file.

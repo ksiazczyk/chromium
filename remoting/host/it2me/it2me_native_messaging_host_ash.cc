@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash It2Me native messaging host Mojo wrapper
+// summary: Implements the Ash wrapper that bridges the It2Me native messaging host to Mojo IPC, converting JSON messages and events for ChromeOS remote support sessions.
+// ---
+
 #include "remoting/host/it2me/it2me_native_messaging_host_ash.h"
 
 #include <utility>

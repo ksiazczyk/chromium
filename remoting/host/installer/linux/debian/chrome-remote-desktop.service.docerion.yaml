@@ -1,0 +1,4 @@
+# Docerion header of chrome-remote-desktop.service.
+type: config
+title: Chrome Remote Desktop host systemd service
+summary: Systemd unit that runs the Chrome Remote Desktop multi-process host daemon after GDM and restarts it only on abnormal exit.

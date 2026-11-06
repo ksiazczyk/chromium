@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me native messaging host entry point declaration
+// summary: Declares the exported It2MeNativeMessagingHostMain function that serves as the entry point for the It2Me native messaging host.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_MAIN_H_
 #define REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_MAIN_H_
 

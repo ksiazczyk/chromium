@@ -1,0 +1,4 @@
+# Docerion header of remoting_preflight.sh.
+type: script
+title: Chrome Remote Desktop macOS installer preflight script
+summary: Pre-install script that backs up host state, records users with active hosts and stops the Chrome Remote Desktop services before an upgrade.

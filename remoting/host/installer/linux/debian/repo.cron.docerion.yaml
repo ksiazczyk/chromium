@@ -1,0 +1,4 @@
+# Docerion header of repo.cron.
+type: script
+title: APT repository setup and maintenance cron script
+summary: Cron script that creates the APT repository sources list for package updates and re-enables it after distro upgrades.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS IT2Me confirmation dialog header
+// summary: Declares the ChromeOS IT2Me confirmation dialog class with dialog style and auto-accept timeout support.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_CONFIRMATION_DIALOG_CHROMEOS_H_
 #define REMOTING_HOST_IT2ME_IT2ME_CONFIRMATION_DIALOG_CHROMEOS_H_
 

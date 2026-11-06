@@ -1,0 +1,4 @@
+# Docerion header of host_payload_files.gni.
+type: config
+title: Canonical Windows host payload file list
+summary: GN import listing the files installed into the Chrome Remote Desktop Windows installation directory, shared by the archive build and the native installer.

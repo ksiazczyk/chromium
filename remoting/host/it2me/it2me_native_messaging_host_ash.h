@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Ash It2Me native messaging host wrapper declaration
+// summary: Declares It2MeNativeMessageHostAsh, which wraps the It2Me native messaging host and forwards its JSON messages and events over Mojo IPC.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_ASH_H_
 #define REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_ASH_H_
 

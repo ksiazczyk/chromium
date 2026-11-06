@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS IT2Me confirmation dialog implementation
+// summary: Implements the ChromeOS IT2Me confirmation dialog with modal dialogs and notifications, including auto-accept countdown behavior.
+// ---
+
 #include "remoting/host/it2me/it2me_confirmation_dialog_chromeos.h"
 
 #include <memory>

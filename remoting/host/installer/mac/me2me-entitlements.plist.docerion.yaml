@@ -1,0 +1,4 @@
+# Docerion header of me2me-entitlements.plist.
+type: config
+title: Me2me host signing entitlements
+summary: Entitlements plist with restricted entitlements, including persistent content capture, for signing the me2me host bundle with official credentials.

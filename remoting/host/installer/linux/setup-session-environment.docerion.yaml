@@ -1,0 +1,4 @@
+# Docerion header of setup-session-environment.
+type: source
+title: Setup session environment
+summary: Manages systemd user environment variables for Chrome Remote Desktop sessions via D-Bus, saving and restoring previous session state.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: It2Me native messaging host unit tests
+// summary: Unit tests that verify message handling, policy behavior, and connect or disconnect flows of the It2Me native messaging host.
+// ---
+
 #include "remoting/host/it2me/it2me_native_messaging_host.h"
 
 #include <cstdint>

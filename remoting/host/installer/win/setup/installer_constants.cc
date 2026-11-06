@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer default install directory implementation
+// summary: Resolves the default installation directory under Program Files, with branding-specific paths for Google Chrome and Chromium builds.
+// ---
+
 #include "remoting/host/installer/win/setup/installer_constants.h"
 
 #include "base/base_paths_win.h"

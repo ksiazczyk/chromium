@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me confirmation dialog proxy implementation
+// summary: Implements the proxy core that shows the wrapped confirmation dialog on the UI thread and reports results back to the caller's thread.
+// ---
+
 #include "remoting/host/it2me/it2me_confirmation_dialog_proxy.h"
 
 #include <memory>

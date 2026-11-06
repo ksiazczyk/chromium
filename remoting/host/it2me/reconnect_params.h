@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reconnect parameters structure
+// summary: Defines the ReconnectParams struct holding support ID, host secret, private key, FTL device ID, and client address used for session reconnection.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_RECONNECT_PARAMS_H_
 #define REMOTING_HOST_IT2ME_RECONNECT_PARAMS_H_
 

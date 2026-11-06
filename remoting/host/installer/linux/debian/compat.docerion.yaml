@@ -1,0 +1,4 @@
+# Docerion header of compat.
+type: config
+title: Debhelper compatibility level
+summary: Declares debhelper compatibility level 11 for building the chrome-remote-desktop package.

@@ -1,0 +1,4 @@
+# Docerion header of setup_session_environment_unittest.py.
+type: test
+title: Python unit tests for setup-session-environment
+summary: Unit tests for the setup-session-environment script, mocking D-Bus to verify systemd environment handling.

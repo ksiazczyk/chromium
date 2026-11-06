@@ -1,0 +1,4 @@
+# Docerion header of copyright.
+type: config
+title: Debian copyright file
+summary: States the package copyright as 2022 The Chromium Authors.

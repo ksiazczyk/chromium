@@ -1,0 +1,4 @@
+# Docerion header of it2me_confirmation_dialog_mac.mm.
+type: source
+title: It2Me confirmation dialog for macOS
+summary: macOS Cocoa implementation of the It2Me confirmation dialog that asks the local user to accept an incoming remote support connection and cancels it after a one-minute timeout.

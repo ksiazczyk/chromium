@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Python wrapper running build-deb.sh for GN
+# summary: Small Python wrapper that lets the GN build invoke build-deb.sh and print its output, such as the expected Debian package filename.
+# ---
+
 """A simple python wrapper so GN can run build-deb.sh."""
 import os
 import subprocess

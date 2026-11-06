@@ -1,0 +1,4 @@
+# Docerion header of Xsession.
+type: script
+title: Xsession wrapper delegating to the system Xsession
+summary: Bash script used by the session chooser to launch the user-selected session by delegating to the distro-supplied /etc/X11/Xsession script.

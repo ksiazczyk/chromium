@@ -1,0 +1,4 @@
+# Docerion header of postrm.
+type: script
+title: Post-removal maintainer script
+summary: On purge removes the chrome-remote-desktop group, defaults file, Google apt repository entry, and configuration directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows service management implementation
+// summary: Implements Windows service install, update, start, stop, and uninstall plus event-based checks for active host sessions and pending updates.
+// ---
+
 #include "remoting/host/installer/win/setup/service_util.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of remoting_uninstaller-Info.plist.
+type: config
+title: Remoting uninstaller Info.plist
+summary: macOS bundle property list that defines core metadata such as identifier, version and icon for the Chrome Remote Desktop host uninstaller app.

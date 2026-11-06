@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me host state enum and messaging constants
+// summary: Declares the It2MeHostState enum and the string constants for messages and parameters exchanged between the It2Me host and the web client.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_CONSTANTS_H_
 #define REMOTING_HOST_IT2ME_IT2ME_CONSTANTS_H_
 

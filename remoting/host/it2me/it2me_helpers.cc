@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me host state to string helper
+// summary: Maps It2MeHostState enum values to their human-readable string names for logging and host state changed messages.
+// ---
+
 #include "remoting/host/it2me/it2me_helpers.h"
 
 #include "base/json/json_reader.h"

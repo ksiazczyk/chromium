@@ -1,0 +1,4 @@
+# Docerion header of remote_assistance_host-Info.plist.
+type: config
+title: Remote assistance host Info.plist
+summary: macOS bundle property list defining identifiers, version strings, and crash reporting settings for the remote assistance host application.

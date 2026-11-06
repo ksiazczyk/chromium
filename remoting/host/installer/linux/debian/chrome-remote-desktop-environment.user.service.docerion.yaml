@@ -1,0 +1,4 @@
+# Docerion header of chrome-remote-desktop-environment.user.service.
+type: config
+title: Chrome Remote Desktop session environment user service
+summary: Systemd user unit that injects environment variables for Chrome Remote Desktop sessions before the graphical session starts and cleans up on teardown.

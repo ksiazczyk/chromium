@@ -1,0 +1,4 @@
+# Docerion header of credits.tmpl.
+type: asset
+title: Credits file template
+summary: Template containing an entries placeholder used to render the CREDITS.txt file generated for the remoting installer.

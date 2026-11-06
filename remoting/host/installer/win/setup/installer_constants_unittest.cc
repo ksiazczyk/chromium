@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for default install directory
+// summary: Verifies that the default install directory resolves to a non-empty path.
+// ---
+
 #include "remoting/host/installer/win/setup/installer_constants.h"
 
 #include "base/files/file_path.h"

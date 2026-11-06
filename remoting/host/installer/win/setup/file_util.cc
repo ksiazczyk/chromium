@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows installer file utilities implementation
+// summary: Implements payload file deployment, staged renames of locked binaries to .old paths, reboot-scheduled deletion, and uninstall cleanup for the Windows host installer.
+// ---
+
 #include "remoting/host/installer/win/setup/file_util.h"
 
 #include <windows.h>

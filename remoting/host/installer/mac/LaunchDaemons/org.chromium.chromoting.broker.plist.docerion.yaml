@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.chromoting.broker.plist.
+type: config
+title: Chromoting broker LaunchDaemon plist
+summary: macOS launchd property list that registers the remoting agent process broker as a LaunchDaemon and advertises the chromoting.agent_process_broker_mojo_ipc Mach service.

@@ -1,0 +1,4 @@
+# Docerion header of repo_variables.include.
+type: config
+title: Package repository variables template
+summary: Defines the REPOCONFIG template variables used to set the sources.list entry for package updates.

@@ -1,0 +1,4 @@
+# Docerion header of remote_assistance_host-InfoPlist.strings.jinja2.
+type: asset
+title: Remote assistance host localized copyright template
+summary: Jinja2 template that supplies the localized copyright string for the remote assistance host Info.plist.

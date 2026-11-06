@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ChromeOS It2Me native messaging host factory declaration
+// summary: Declares the factory function that creates an It2Me native messaging host on the ChromeOS browser UI thread.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_CHROMEOS_H_
 #define REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_CHROMEOS_H_
 

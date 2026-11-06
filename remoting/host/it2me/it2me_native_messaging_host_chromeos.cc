@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS It2Me native messaging host factory
+// summary: Creates an It2Me native messaging host instance configured for ChromeOS browser contexts.
+// ---
+
 #include "remoting/host/it2me/it2me_native_messaging_host_chromeos.h"
 
 #include <memory>

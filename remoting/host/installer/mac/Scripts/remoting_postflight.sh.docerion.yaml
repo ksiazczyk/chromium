@@ -1,0 +1,4 @@
+# Docerion header of remoting_postflight.sh.
+type: script
+title: Chrome Remote Desktop macOS installer postflight script
+summary: Post-install script that registers the host with Keystone, restores backed-up files, creates the PAM config and restarts the host service.

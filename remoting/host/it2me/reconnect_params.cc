@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reconnect parameters implementation
+// summary: Implements conversion of reconnect parameters to and from JSON dictionaries plus validation of support ID, host secret, and FTL fields.
+// ---
+
 #include "remoting/host/it2me/reconnect_params.h"
 
 #include "base/check.h"

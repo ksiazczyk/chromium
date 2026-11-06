@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux IT2Me confirmation dialog implementation
+// summary: Implements the Linux IT2Me confirmation dialog using GTK with a one-minute response timeout.
+// ---
+
 #include "remoting/host/it2me/it2me_confirmation_dialog.h"
 
 #include <gtk/gtk.h>

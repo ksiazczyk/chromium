@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me native messaging host class declaration
+// summary: Declares the It2MeNativeMessagingHost class that processes native messaging requests, observes host state, and forwards responses to the client.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_H_
 #define REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_H_
 

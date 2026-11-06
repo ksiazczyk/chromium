@@ -1,0 +1,4 @@
+# Docerion header of app-entitlements.plist.
+type: config
+title: Default app signing entitlements
+summary: Default entitlements plist granting audio input, used for local signing of Chromoting bundles.

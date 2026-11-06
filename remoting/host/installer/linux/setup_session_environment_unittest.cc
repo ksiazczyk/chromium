@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: C++ launcher for Python session environment tests
+// summary: C++ test that runs the Python unit test suite for setup-session-environment through vpython3.
+// ---
+
 #include <string>
 
 #include "base/base_paths.h"

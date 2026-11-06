@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me confirmation dialog interface
+// summary: Declares the interface and factory for dialogs that ask the local user to confirm an IT2Me session.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_CONFIRMATION_DIALOG_H_
 #define REMOTING_HOST_IT2ME_IT2ME_CONFIRMATION_DIALOG_H_
 

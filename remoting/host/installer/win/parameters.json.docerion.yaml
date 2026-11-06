@@ -1,0 +1,4 @@
+# Docerion header of parameters.json.
+type: config
+title: WiX build parameters for the Windows installer
+summary: JSON parameters for the WiX build, holding preprocessor defines, WiX extensions, the list of binaries to sign and light.exe switches.

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: It2Me native messaging host allowed origins
+// summary: Defines the Chrome extension origins allowed to instantiate an It2Me host and the native messaging host registration name.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_ALLOWED_ORIGINS_H_
 #define REMOTING_HOST_IT2ME_IT2ME_NATIVE_MESSAGING_HOST_ALLOWED_ORIGINS_H_
 

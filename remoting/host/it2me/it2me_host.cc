@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me host implementation
+// summary: Core implementation of the It2Me host that sets up signaling, authentication, policies, and the ChromotingHost for remote assistance sessions.
+// ---
+
 #include "remoting/host/it2me/it2me_host.h"
 
 #include <cstddef>

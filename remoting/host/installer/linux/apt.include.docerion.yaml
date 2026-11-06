@@ -1,0 +1,4 @@
+# Docerion header of apt.include.
+type: script
+title: Shell functions for apt repository and key setup
+summary: Shell functions included by the packaging scripts to install the Google signing key and create, update or clean the apt sources list for the repository.

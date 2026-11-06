@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows installer file utilities API
+// summary: Declares installer file helpers for deploying and uninstalling payload files, handling locked binaries via staged renames, and injectable callbacks for tests.
+// ---
+
 #ifndef REMOTING_HOST_INSTALLER_WIN_SETUP_FILE_UTIL_H_
 #define REMOTING_HOST_INSTALLER_WIN_SETUP_FILE_UTIL_H_
 

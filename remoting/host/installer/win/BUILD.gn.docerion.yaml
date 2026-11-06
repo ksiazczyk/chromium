@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Windows host installer archive build file
+summary: GN build file defining the remoting_me2me_host_archive action that packages Windows host binaries, manifests and WiX inputs into the installer archive.

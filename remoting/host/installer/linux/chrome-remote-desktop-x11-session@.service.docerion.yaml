@@ -1,0 +1,4 @@
+# Docerion header of chrome-remote-desktop-x11-session@.service.
+type: config
+title: Systemd unit for the Chrome Remote Desktop X11 session
+summary: Systemd template service that starts the CRD X11 desktop session for a user via desktop-session, with PAM, TTY and shutdown cleanup settings.

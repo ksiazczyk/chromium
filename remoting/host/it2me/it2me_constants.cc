@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me native messaging constants
+// summary: Defines string constants for It2Me native messaging messages, parameters, host state values, and reconnectable session keys.
+// ---
+
 #include "remoting/host/it2me/it2me_constants.h"
 
 namespace remoting {
