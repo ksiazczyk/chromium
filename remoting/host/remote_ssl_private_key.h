@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote SSL private key class declaration
+// summary: Declares the RemoteSSLPrivateKey class that proxies SSL signing operations to a remote Mojo SSLPrivateKey instance.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_SSL_PRIVATE_KEY_H_
 #define REMOTING_HOST_REMOTE_SSL_PRIVATE_KEY_H_
 

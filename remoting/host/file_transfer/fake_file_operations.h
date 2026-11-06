@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake file operations class declaration
+// summary: Declares FakeFileOperations with InputFile, OutputFile and TestIo structures used to simulate file operations in tests.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_FAKE_FILE_OPERATIONS_H_
 #define REMOTING_HOST_FILE_TRANSFER_FAKE_FILE_OPERATIONS_H_
 

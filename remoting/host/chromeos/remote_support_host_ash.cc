@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote support host for Ash implementation
+// summary: Implements the IPC-facing remote support host that starts, reconnects, and disconnects it2me support sessions.
+// ---
+
 #include "remoting/host/chromeos/remote_support_host_ash.h"
 
 #include <stddef.h>

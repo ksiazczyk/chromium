@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows touch injection implementation
+// summary: Converts remote touch events into Windows POINTER_TOUCH_INFO structures and injects them via the Windows touch injection API with keep-alive reinjection.
+// ---
+
 #include "remoting/host/touch_injector_win.h"
 
 #include <string>

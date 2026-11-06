@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ChromeOS file chooser
+// summary: Tests single file selection, cancellation, and open-file dialog type for the ChromeOS file chooser using fake select file dialog factories.
+// ---
+
 #include "remoting/host/file_transfer/file_chooser_chromeos.h"
 
 #include <algorithm>

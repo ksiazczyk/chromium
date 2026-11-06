@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows file chooser implementation
+// summary: Launches a dedicated chooser process and communicates with it over Mojo to open a file selection dialog for transfers.
+// ---
+
 #include "remoting/host/file_transfer/file_chooser_win.h"
 
 #include <windows.h>

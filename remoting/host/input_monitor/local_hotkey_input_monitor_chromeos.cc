@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS local hotkey input monitor
+// summary: ChromeOS implementation that observes platform events to detect the local Ctrl-Alt-Esc disconnect shortcut while ignoring remotely injected input.
+// ---
+
 #include "remoting/host/input_monitor/local_hotkey_input_monitor.h"
 
 #include <utility>

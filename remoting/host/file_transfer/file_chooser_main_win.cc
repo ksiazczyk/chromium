@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows file chooser process entry point
+// summary: Main entry point for the Windows file chooser helper process that shows an IFileOpenDialog and reports the result over Mojo.
+// ---
+
 #include <windows.h>
 
 #include <shlobj.h>

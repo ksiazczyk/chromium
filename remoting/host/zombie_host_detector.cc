@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zombie host detector implementation
+// summary: Implements ZombieHostDetector, which flags a host as zombie when heartbeats or signaling activity exceed their maximum intervals while online.
+// ---
+
 #include "remoting/host/zombie_host_detector.h"
 
 #include "base/check.h"

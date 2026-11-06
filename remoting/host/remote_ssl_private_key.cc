@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote SSL private key implementation
+// summary: Implements net::SSLPrivateKey by forwarding Sign requests over Mojo to a remote network SSLPrivateKey service, with size and connection checks.
+// ---
+
 #include "remoting/host/remote_ssl_private_key.h"
 
 #include <utility>

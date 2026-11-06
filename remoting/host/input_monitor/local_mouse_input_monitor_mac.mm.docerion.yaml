@@ -1,0 +1,4 @@
+# Docerion header of local_mouse_input_monitor_mac.mm.
+type: source
+title: macOS mouse input monitor
+summary: Monitors local mouse events on macOS via a CGEventTap, filtering out events injected by the CRD host process.

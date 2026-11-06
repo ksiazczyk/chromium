@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad database reporting tool
+// summary: Command-line tool that initializes the crashpad database and logs completed crash reports.
+// ---
+
 #include <iostream>
 #include <vector>
 

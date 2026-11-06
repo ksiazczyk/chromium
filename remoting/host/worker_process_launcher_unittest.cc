@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker process launcher unit tests
+// summary: Unit tests for WorkerProcessLauncher using mock launcher and IPC delegates to verify process launching, channel handling, and error behavior.
+// ---
+
 #include "remoting/host/worker_process_launcher.h"
 
 #include <stdint.h>

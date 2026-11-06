@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC file operations header
+// summary: Declares IpcFileOperations and its factory, which forward file transfer requests over a Mojo channel to a request handler in another process.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_IPC_FILE_OPERATIONS_H_
 #define REMOTING_HOST_FILE_TRANSFER_IPC_FILE_OPERATIONS_H_
 

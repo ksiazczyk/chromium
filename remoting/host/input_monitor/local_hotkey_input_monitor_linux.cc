@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux local hotkey input monitor factory
+// summary: Creates the X11-based hotkey monitor for Linux builds and fails compilation when X11 support is disabled.
+// ---
+
 #include "remoting/host/input_monitor/local_hotkey_input_monitor.h"
 
 #include <memory>

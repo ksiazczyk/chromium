@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting resource loading interface
+// summary: Declares LoadResources and UnloadResources functions that initialize or release the shared Chromoting resource bundle for a given locale.
+// ---
+
 #ifndef REMOTING_HOST_RESOURCES_H_
 #define REMOTING_HOST_RESOURCES_H_
 

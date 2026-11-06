@@ -1,0 +1,4 @@
+# Docerion header of local_keyboard_input_monitor_mac.mm.
+type: source
+title: macOS keyboard input monitor
+summary: macOS implementation of LocalKeyboardInputMonitor using a CGEventTap to capture local key events while filtering events injected by the host process.

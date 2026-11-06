@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy watcher unit tests
+// summary: Unit tests covering policy updates, default values, domain lists and error handling for the host policy watcher.
+// ---
+
 #include "remoting/host/policy_watcher.h"
 
 #include "base/containers/flat_set.h"

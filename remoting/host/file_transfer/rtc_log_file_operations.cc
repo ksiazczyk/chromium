@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTC log file operations implementation
+// summary: Implements FileOperations that stream the in-memory WebRTC event log to the client and gracefully reject upload attempts with a protocol error.
+// ---
+
 #include "remoting/host/file_transfer/rtc_log_file_operations.h"
 
 #include <algorithm>

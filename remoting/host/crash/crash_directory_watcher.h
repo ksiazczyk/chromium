@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashDirectoryWatcher class declaration
+// summary: Declares a class that monitors a directory and invokes a callback when crash dump and metadata files are written.
+// ---
+
 #ifndef REMOTING_HOST_CRASH_CRASH_DIRECTORY_WATCHER_H_
 #define REMOTING_HOST_CRASH_CRASH_DIRECTORY_WATCHER_H_
 

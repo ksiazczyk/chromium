@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows process utility unit tests
+// summary: Unit tests verifying named-pipe launcher process ID resolution behavior for the Windows process utilities.
+// ---
+
 #include "remoting/host/base/process_util.h"
 
 #include <windows.h>

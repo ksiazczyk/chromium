@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker process launcher
+// summary: Declares the WorkerProcessLauncher class and its Delegate interface for starting, controlling, and terminating worker processes via an IPC channel.
+// ---
+
 #ifndef REMOTING_HOST_WORKER_PROCESS_LAUNCHER_H_
 #define REMOTING_HOST_WORKER_PROCESS_LAUNCHER_H_
 

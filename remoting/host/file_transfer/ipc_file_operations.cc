@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC file operations implementation
+// summary: Implements FileOperations that proxy file read and write requests from the low-privilege network process to the desktop process over Mojo IPC.
+// ---
+
 #include "remoting/host/file_transfer/ipc_file_operations.h"
 
 #include <cstdint>

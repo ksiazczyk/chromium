@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame sink desktop capturer header
+// summary: Declares FrameSinkDesktopCapturer, a webrtc DesktopCapturer that captures the current desktop through a frame sink video consumer and must run on the UI thread.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_FRAME_SINK_DESKTOP_CAPTURER_H_
 #define REMOTING_HOST_CHROMEOS_FRAME_SINK_DESKTOP_CAPTURER_H_
 

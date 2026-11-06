@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake file chooser class declaration
+// summary: Declares FakeFileChooser, a FileChooser test double whose returned result can be set statically for testing.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_FAKE_FILE_CHOOSER_H_
 #define REMOTING_HOST_FILE_TRANSFER_FAKE_FILE_CHOOSER_H_
 

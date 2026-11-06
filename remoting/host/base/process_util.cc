@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process utility implementation
+// summary: Implements helpers to retrieve process image paths on Linux and Windows and to resolve named-pipe server process IDs.
+// ---
+
 #include "remoting/host/base/process_util.h"
 
 #include <string.h>

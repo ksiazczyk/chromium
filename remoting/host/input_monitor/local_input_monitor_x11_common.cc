@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared X11 input monitor helpers
+// summary: Implements shared X11 helpers that build the root window XI event mask and query the set of synthetic XTEST device IDs.
+// ---
+
 #include "remoting/host/input_monitor/local_input_monitor_x11_common.h"
 
 #include "base/containers/span.h"

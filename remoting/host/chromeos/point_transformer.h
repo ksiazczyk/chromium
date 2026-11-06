@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Point transformer interface
+// summary: Declares coordinate conversion helpers and documents the screen, window, DIP, and pixel coordinate systems on ChromeOS.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_POINT_TRANSFORMER_H_
 #define REMOTING_HOST_CHROMEOS_POINT_TRANSFORMER_H_
 

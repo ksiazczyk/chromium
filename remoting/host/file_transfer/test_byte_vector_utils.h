@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test byte vector utilities
+// summary: Provides AppendBytes and ByteArrayFrom helper templates for building byte vectors from iterables in file transfer tests.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_TEST_BYTE_VECTOR_UTILS_H_
 #define REMOTING_HOST_FILE_TRANSFER_TEST_BYTE_VECTOR_UTILS_H_
 

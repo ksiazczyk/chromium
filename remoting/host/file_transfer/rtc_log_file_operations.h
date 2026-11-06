@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RTC log file operations header
+// summary: Declares RtcLogFileOperations, a FileOperations implementation that sends the RTC event log to the client without blocking IO.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_RTC_LOG_FILE_OPERATIONS_H_
 #define REMOTING_HOST_FILE_TRANSFER_RTC_LOG_FILE_OPERATIONS_H_
 

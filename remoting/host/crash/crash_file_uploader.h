@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashFileUploader class declaration
+// summary: Declares a class that uploads crash dump files to the crash collector service from a dedicated IO thread.
+// ---
+
 #ifndef REMOTING_HOST_CRASH_CRASH_FILE_UPLOADER_H_
 #define REMOTING_HOST_CRASH_CRASH_FILE_UPLOADER_H_
 

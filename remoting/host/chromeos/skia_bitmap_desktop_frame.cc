@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaBitmapDesktopFrame implementation
+// summary: Implements creation of desktop frames that wrap the pixel data of an SkBitmap for ChromeOS screen capture.
+// ---
+
 #include "remoting/host/chromeos/skia_bitmap_desktop_frame.h"
 
 #include <stddef.h>

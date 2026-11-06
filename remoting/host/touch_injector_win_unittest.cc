@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows touch injector unit tests
+// summary: Unit tests for TouchInjectorWin verifying conversion of touch events to Windows touch structures and injection of start, move, end and cancel flags.
+// ---
+
 #include "remoting/host/touch_injector_win.h"
 
 #include <stddef.h>

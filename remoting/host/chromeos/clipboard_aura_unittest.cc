@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura clipboard unit tests
+// summary: Unit tests for ClipboardAura covering writing remote clipboard events to the local clipboard and monitoring local clipboard changes.
+// ---
+
 #include "remoting/host/chromeos/clipboard_aura.h"
 
 #include <memory>

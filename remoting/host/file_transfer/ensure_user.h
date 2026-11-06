@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ensure user header
+// summary: Declares EnsureUserContext, which verifies the thread runs as a logged-in user before file transfers, plus a testing bypass.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_ENSURE_USER_H_
 #define REMOTING_HOST_FILE_TRANSFER_ENSURE_USER_H_
 

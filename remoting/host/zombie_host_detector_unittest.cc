@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zombie host detector unit tests
+// summary: Tests zombie state detection with mock time and a mock network change notifier, covering heartbeat, signaling, and offline scenarios.
+// ---
+
 #include "remoting/host/zombie_host_detector.h"
 
 #include "base/functional/callback_helpers.h"

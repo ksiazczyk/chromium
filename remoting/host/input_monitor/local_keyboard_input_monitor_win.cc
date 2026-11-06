@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows keyboard input monitor
+// summary: Windows implementation of the local keyboard input monitor that uses the Raw Input API to detect locally generated key presses and filter out CRD-injected input.
+// ---
+
 #include "remoting/host/input_monitor/local_keyboard_input_monitor.h"
 
 #include <cstdint>

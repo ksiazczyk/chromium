@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local hotkey input monitor interface
+// summary: Declares the LocalHotkeyInputMonitor interface that invokes a disconnect callback when the local Ctrl-Alt-Esc hotkey is pressed.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_MONITOR_LOCAL_HOTKEY_INPUT_MONITOR_H_
 #define REMOTING_HOST_INPUT_MONITOR_LOCAL_HOTKEY_INPUT_MONITOR_H_
 

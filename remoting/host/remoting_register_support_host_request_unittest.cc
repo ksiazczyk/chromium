@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remoting support host registration unit tests
+// summary: Unit tests validating support host registration requests, ChromeOS enterprise options, and authorized helper handling.
+// ---
+
 #include "remoting/host/remoting_register_support_host_request.h"
 
 #include <optional>

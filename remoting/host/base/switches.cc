@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host command-line switch constants
+// summary: Defines the names of command-line switches and process type values used by the remoting host, including platform-specific switches.
+// ---
+
 #include "remoting/host/base/switches.h"
 
 #include "build/build_config.h"

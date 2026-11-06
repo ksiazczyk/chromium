@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File transfer message handler unit tests
+// summary: Unit tests for the file transfer message handler, verifying upload and download message flows against fake file operations and a fake message pipe.
+// ---
+
 #include "remoting/host/file_transfer/file_transfer_message_handler.h"
 
 #include <memory>

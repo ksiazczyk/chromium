@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows SAS injector implementation
+// summary: Windows implementation that temporarily enables the software SAS generation policy and calls SendSAS from sas.dll to inject Ctrl+Alt+Delete.
+// ---
+
 #include "remoting/host/sas_injector.h"
 
 #include <memory>

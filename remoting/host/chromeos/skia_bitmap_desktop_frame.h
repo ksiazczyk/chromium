@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaBitmapDesktopFrame
+// summary: Header declaring a webrtc DesktopFrame subclass that stores screen capture frame data in an SkBitmap on ChromeOS.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_SKIA_BITMAP_DESKTOP_FRAME_H_
 #define REMOTING_HOST_CHROMEOS_SKIA_BITMAP_DESKTOP_FRAME_H_
 

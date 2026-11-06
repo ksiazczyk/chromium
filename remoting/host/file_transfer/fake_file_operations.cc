@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake file operations implementation for tests
+// summary: Implements fake reader and writer classes that record file I/O in a TestIo structure so tests can inspect written files and simulated errors.
+// ---
+
 #include "remoting/host/file_transfer/fake_file_operations.h"
 
 #include <algorithm>

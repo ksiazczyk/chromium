@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpHandler implementation
+// summary: Implements MinidumpHandler by starting the crash directory watcher and routing new Breakpad minidumps to the crash file uploader.
+// ---
+
 #include "remoting/host/crash/minidump_handler.h"
 
 #include "base/functional/bind.h"

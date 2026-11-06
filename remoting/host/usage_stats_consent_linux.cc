@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux usage stats consent implementation
+// summary: Reads the usage stats consent from the multi-process host config file or per-host config on Linux and reports whether crash reporting is allowed.
+// ---
+
 #include "remoting/host/usage_stats_consent.h"
 
 #include <memory>

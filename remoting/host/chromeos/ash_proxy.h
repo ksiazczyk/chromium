@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash proxy interface for ChromeOS shell access
+// summary: Declares AshProxy, an abstraction over ash::Shell actions so remoting code can be mocked in unit tests, with a testing instance setter.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_ASH_PROXY_H_
 #define REMOTING_HOST_CHROMEOS_ASH_PROXY_H_
 

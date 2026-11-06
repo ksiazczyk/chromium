@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Directory helpers header
+// summary: Declares GetFileUploadDirectory and SetFileUploadDirectoryForTesting for retrieving the user's file upload directory.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_DIRECTORY_HELPERS_H_
 #define REMOTING_HOST_FILE_TRANSFER_DIRECTORY_HELPERS_H_
 

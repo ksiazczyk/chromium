@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer Connection process entry point
+// summary: Entry point that initializes the Peer Connection process, connects Mojo IPC to the parent, and engages the Seccomp-BPF sandbox on Linux.
+// ---
+
 #include "base/command_line.h"
 #include "base/memory/scoped_refptr.h"
 #include "base/message_loop/message_pump_type.h"

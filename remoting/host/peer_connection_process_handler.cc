@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer Connection process handler implementation
+// summary: Implements lifecycle management and Mojo bootstrapping for a dedicated Peer Connection process, tearing down the session when the process stops.
+// ---
+
 #include "remoting/host/peer_connection_process_handler.h"
 
 #include <utility>

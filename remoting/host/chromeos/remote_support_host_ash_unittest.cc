@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote support host unit tests
+// summary: Unit tests covering successful and failed support session starts, enterprise parameters, and reconnection behavior.
+// ---
+
 #include "remoting/host/chromeos/remote_support_host_ash.h"
 
 #include <memory>

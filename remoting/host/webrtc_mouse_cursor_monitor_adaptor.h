@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC mouse cursor monitor adaptor header
+// summary: Declares an adaptor that bridges webrtc::MouseCursorMonitor to the remoting protocol mouse cursor monitor interface.
+// ---
+
 #ifndef REMOTING_HOST_WEBRTC_MOUSE_CURSOR_MONITOR_ADAPTOR_H_
 #define REMOTING_HOST_WEBRTC_MOUSE_CURSOR_MONITOR_ADAPTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Register support host request base unit tests
+// summary: Unit tests verifying the base registration request with a fake signal strategy, mocked registration callbacks and ChromeOS enterprise parameter checks.
+// ---
+
 #include "remoting/host/register_support_host_request_base.h"
 
 #include <memory>

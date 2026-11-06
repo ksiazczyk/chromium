@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer session implementation header
+// summary: Declares PeerSessionImpl, which keeps a connection to a client and maintains per-client state, implementing host stub, session control and session services interfaces.
+// ---
+
 #ifndef REMOTING_HOST_PEER_SESSION_IMPL_H_
 #define REMOTING_HOST_PEER_SESSION_IMPL_H_
 

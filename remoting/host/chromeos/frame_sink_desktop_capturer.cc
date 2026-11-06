@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame sink desktop capturer implementation
+// summary: Implements a webrtc desktop capturer that captures the selected display via the Ash frame sink video capturer for Chrome Remote Desktop.
+// ---
+
 #include "remoting/host/chromeos/frame_sink_desktop_capturer.h"
 
 #include "base/time/time.h"

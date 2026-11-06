@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RTC log file operations unit tests
+// summary: Unit tests for RtcLogFileOperations verifying log reading, multiple log section handling, and error behavior for non-WebRTC connections.
+// ---
+
 #include "remoting/host/file_transfer/rtc_log_file_operations.h"
 
 #include "base/memory/raw_ptr.h"

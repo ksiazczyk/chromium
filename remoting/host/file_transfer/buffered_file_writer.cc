@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Buffered file writer implementation
+// summary: Implements BufferedFileWriter, queuing written chunks and feeding them to the underlying FileOperations writer with state tracking and error callbacks.
+// ---
+
 #include "remoting/host/file_transfer/buffered_file_writer.h"
 #include "base/functional/bind.h"
 

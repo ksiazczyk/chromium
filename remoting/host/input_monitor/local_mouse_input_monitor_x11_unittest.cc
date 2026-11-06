@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X11 mouse input monitor unit tests
+// summary: Unit tests verifying that the X11 mouse input monitor fires callbacks for local motion events and ignores XTEST-injected motion.
+// ---
+
 #include <memory>
 #include <utility>
 

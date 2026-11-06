@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS ensure user implementation
+// summary: macOS implementation of EnsureUserContext that rejects file transfers with NOT_LOGGED_IN when running as root on the log-in screen.
+// ---
+
 #include "remoting/host/file_transfer/ensure_user.h"
 
 #include <unistd.h>

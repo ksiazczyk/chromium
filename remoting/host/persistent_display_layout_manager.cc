@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent display layout manager implementation
+// summary: Implements a manager that loads a saved display layout from disk, validates and applies it, then throttles writes of layout changes back to the file.
+// ---
+
 #include "remoting/host/persistent_display_layout_manager.h"
 
 #include <memory>

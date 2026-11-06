@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message box dialog implementation
+// summary: Implements the core of a system modal message box dialog with OK and cancel buttons for the ChromeOS remoting host.
+// ---
+
 #include "remoting/host/chromeos/message_box.h"
 
 #include <optional>

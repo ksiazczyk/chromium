@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows raw input handler
+// summary: Registers a hidden Windows message window to receive raw input events and dispatch them to observers, with error handling when monitoring cannot start.
+// ---
+
 #include "remoting/host/input_monitor/raw_input_handler.h"
 
 #include <cstdint>

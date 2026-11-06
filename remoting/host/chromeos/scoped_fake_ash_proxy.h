@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedFakeAshProxy
+// summary: Header declaring a scoped fake AshProxy test double that fakes displays, screen capture and security curtain controller access.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_SCOPED_FAKE_ASH_PROXY_H_
 #define REMOTING_HOST_CHROMEOS_SCOPED_FAKE_ASH_PROXY_H_
 

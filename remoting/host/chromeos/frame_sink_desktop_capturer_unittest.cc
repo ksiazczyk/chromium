@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame sink desktop capturer unit tests
+// summary: Unit tests covering frame capture, resolution changes and updated regions of FrameSinkDesktopCapturer using a fake Ash proxy and shared memory video frame pool.
+// ---
+
 #include "remoting/host/chromeos/frame_sink_desktop_capturer.h"
 
 #include <stddef.h>

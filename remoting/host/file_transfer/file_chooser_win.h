@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows file chooser class declaration
+// summary: Declares FileChooserWindows, which launches a chooser process and binds a Mojo FileChooser remote, with a test launcher hook.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_FILE_CHOOSER_WIN_H_
 #define REMOTING_HOST_FILE_TRANSFER_FILE_CHOOSER_WIN_H_
 

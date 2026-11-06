@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message box dialog interface
+// summary: Declares a system modal message box class that shows dialogs in the Ash UI and reports the user's result via callback.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_MESSAGE_BOX_H_
 #define REMOTING_HOST_CHROMEOS_MESSAGE_BOX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based CRD session storage implementation
+// summary: Implements storing, retrieving, deleting and checking CRD session information as a JSON file so a session can resume after a Chrome restart.
+// ---
+
 #include "remoting/host/chromeos/file_session_storage.h"
 
 #include <optional>

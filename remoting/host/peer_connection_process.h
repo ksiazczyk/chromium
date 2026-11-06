@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer Connection process class declaration
+// summary: Declares the PeerConnectionProcess class that hosts WebRTC signaling and data channels in a lower-privilege process connected to the daemon via Mojo IPC.
+// ---
+
 #ifndef REMOTING_HOST_PEER_CONNECTION_PROCESS_H_
 #define REMOTING_HOST_PEER_CONNECTION_PROCESS_H_
 

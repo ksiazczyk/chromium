@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS file chooser implementation
+// summary: Implements the ChromeOS file chooser with ui::SelectFileDialog, restricting selection to native paths and USB drives and reporting cancellations as errors.
+// ---
+
 #include "remoting/host/file_transfer/file_chooser_chromeos.h"
 
 #include <memory>

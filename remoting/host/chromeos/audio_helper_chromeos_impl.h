@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS audio helper implementation header
+// summary: Declares AudioHelperChromeOsImpl, which captures audio input streams for remote sessions, plus histogram enums for stream start results and open outcomes.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_AUDIO_HELPER_CHROMEOS_IMPL_H_
 #define REMOTING_HOST_CHROMEOS_AUDIO_HELPER_CHROMEOS_IMPL_H_
 

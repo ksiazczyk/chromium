@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen resolution unit tests
+// summary: Unit tests verifying ScreenResolution emptiness checks, DPI scaling results and saturation at the 32-bit integer limit.
+// ---
+
 #include "remoting/host/base/screen_resolution.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash Mojom video consumer class declaration
+// summary: Declares AshMojomVideoConsumer, which binds a FrameSinkVideoCapturer and provides the latest captured frame as a WebRTC desktop frame with updated-region aggregation.
+// ---
+
 #ifndef REMOTING_HOST_CHROMEOS_ASH_MOJOM_VIDEO_CONSUMER_H_
 #define REMOTING_HOST_CHROMEOS_ASH_MOJOM_VIDEO_CONSUMER_H_
 

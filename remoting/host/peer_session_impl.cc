@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peer session implementation
+// summary: Implements the host-side peer session, wiring desktop environment, input, audio, clipboard, file transfer, WebAuthn and other handlers to the client connection.
+// ---
+
 #include "remoting/host/peer_session_impl.h"
 
 #include <algorithm>

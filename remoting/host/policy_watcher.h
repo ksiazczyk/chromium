@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy watcher header
+// summary: Declares PolicyWatcher, which observes managed remote access host policy changes and invokes update and error callbacks.
+// ---
+
 #ifndef REMOTING_HOST_POLICY_WATCHER_H_
 #define REMOTING_HOST_POLICY_WATCHER_H_
 

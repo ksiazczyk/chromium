@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop environment options class
+// summary: Declares the DesktopEnvironmentOptions class and AudioPlaybackMode enum used to configure desktop environment behavior for remoting sessions.
+// ---
+
 #ifndef REMOTING_HOST_BASE_DESKTOP_ENVIRONMENT_OPTIONS_H_
 #define REMOTING_HOST_BASE_DESKTOP_ENVIRONMENT_OPTIONS_H_
 

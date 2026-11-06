@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux GTK file chooser
+// summary: Implements the file chooser for Linux by showing a GTK file open dialog on the UI thread and returning the selected file.
+// ---
+
 #include "remoting/host/file_transfer/file_chooser.h"
 
 #include <gtk/gtk.h>

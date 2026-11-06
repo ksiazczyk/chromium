@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared video memory helper declarations
+// summary: Declares SharedVideoMemory, SharedVideoMemoryFactory and IPC shared buffer classes for sharing captured video frames between processes.
+// ---
+
 #ifndef REMOTING_HOST_VIDEO_MEMORY_UTILS_H_
 #define REMOTING_HOST_VIDEO_MEMORY_UTILS_H_
 

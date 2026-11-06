@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote client certificate store header
+// summary: Declares a client certificate store that queries certificates and delegates SSL private key signing to the elevated daemon process over Mojo.
+// ---
+
 #ifndef REMOTING_HOST_REMOTE_CLIENT_CERT_STORE_H_
 #define REMOTING_HOST_REMOTE_CLIENT_CERT_STORE_H_
 

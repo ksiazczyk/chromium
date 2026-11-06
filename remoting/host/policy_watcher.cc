@@ -5,6 +5,12 @@
 // Most of this code is copied from:
 //   src/chrome/browser/policy/asynchronous_policy_loader.{h,cc}
 
+// ---docerion
+// type: source
+// title: Policy watcher implementation
+// summary: Implements watching of remote access host policies through platform policy loaders, merging defaults and reporting updates or malformed-policy errors.
+// ---
+
 #include "remoting/host/policy_watcher.h"
 
 #include <memory>

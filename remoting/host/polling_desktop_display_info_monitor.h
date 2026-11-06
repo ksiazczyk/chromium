@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Polling desktop display info monitor header
+// summary: Declares a DesktopDisplayInfoMonitor implementation that polls display configuration on the UI thread and reports changes to callbacks.
+// ---
+
 #ifndef REMOTING_HOST_POLLING_DESKTOP_DISPLAY_INFO_MONITOR_H_
 #define REMOTING_HOST_POLLING_DESKTOP_DISPLAY_INFO_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared X11 input monitor helper declarations
+// summary: Declares shared X11 helpers used by all local input monitors, covering the common root window event mask and XTEST device ID lookup.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_MONITOR_LOCAL_INPUT_MONITOR_X11_COMMON_H_
 #define REMOTING_HOST_INPUT_MONITOR_LOCAL_INPUT_MONITOR_X11_COMMON_H_
 

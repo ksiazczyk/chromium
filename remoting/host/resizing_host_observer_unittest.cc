@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResizingHostObserver unit tests
+// summary: Unit tests for ResizingHostObserver using a fake desktop resizer to verify resolution changes, restoration, and rate limiting of desktop resizes.
+// ---
+
 #include "remoting/host/resizing_host_observer.h"
 
 #include <list>

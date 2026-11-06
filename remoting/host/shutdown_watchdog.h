@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown watchdog class declaration
+// summary: Declares a watchdog timer that ensures the host process terminates even if threads are blocked during shutdown.
+// ---
+
 #ifndef REMOTING_HOST_SHUTDOWN_WATCHDOG_H_
 #define REMOTING_HOST_SHUTDOWN_WATCHDOG_H_
 

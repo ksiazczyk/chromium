@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for remoting crash tools
+summary: Defines GN targets for the crashpad handler, crashpad database tool, and the Windows crash uploader sources and executable.

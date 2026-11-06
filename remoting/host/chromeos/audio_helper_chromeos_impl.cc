@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS audio helper implementation
+// summary: Implements the ChromeOS audio helper, opening 48 kHz stereo PCM streams with playback-mode device selection and recording stream outcome histograms.
+// ---
+
 #include "remoting/host/chromeos/audio_helper_chromeos_impl.h"
 
 #include <cstdint>

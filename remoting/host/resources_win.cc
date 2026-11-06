@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows resource loading stub
+// summary: Windows implementation of the resource loading interface that does nothing because .pak files are not used on Windows.
+// ---
+
 #include "remoting/host/resources.h"
 
 namespace remoting {

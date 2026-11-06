@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux terminal process monitor implementation
+// summary: Polls procfs to detect active child processes of a terminal shell and reports activity state and sanitized process names.
+// ---
+
 #include "remoting/host/terminal_process_monitor_linux.h"
 
 #include <algorithm>

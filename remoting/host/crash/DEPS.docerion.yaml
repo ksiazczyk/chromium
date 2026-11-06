@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the crash directory
+summary: Grants this directory include access to stability report components and the crashpad client and handler libraries.

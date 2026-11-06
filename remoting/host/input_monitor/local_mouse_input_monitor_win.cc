@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows mouse input monitor
+// summary: Windows implementation of the local mouse input monitor that uses the Raw Input API to track cursor movement and button events while ignoring injected input.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <utility>

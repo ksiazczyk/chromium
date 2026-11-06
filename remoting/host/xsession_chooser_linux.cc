@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux X session chooser dialog
+// summary: Implements a GTK dialog on Linux that lists installed X sessions from .desktop files and launches the selected session via Xsession.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/containers/auto_spanification_helper.h"
 #include "base/containers/span.h"

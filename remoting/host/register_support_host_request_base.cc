@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register support host request base implementation
+// summary: Implements the shared support-host registration flow, waiting for signaling connectivity, registering host details and mapping HTTP status errors to error codes.
+// ---
+
 #include "remoting/host/register_support_host_request_base.h"
 
 #include "base/logging.h"

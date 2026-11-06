@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen controls interface
+// summary: Defines the ScreenControls interface for setting and restoring screen resolution and applying video layout during remote sessions.
+// ---
+
 #ifndef REMOTING_HOST_BASE_SCREEN_CONTROLS_H_
 #define REMOTING_HOST_BASE_SCREEN_CONTROLS_H_
 

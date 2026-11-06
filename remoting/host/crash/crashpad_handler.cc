@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad handler main with Linux privilege dropping
+// summary: Entry point for the Crashpad handler that drops root privileges to a dedicated crashpad user on Linux while retaining the capabilities needed to inspect crashed processes.
+// ---
+
 #include "third_party/crashpad/crashpad/handler/handler_main.h"
 
 #if BUILDFLAG(IS_WIN)

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X11 local hotkey input monitor
+// summary: X11 implementation that watches raw key events for Ctrl-Alt-Esc and ignores XTEST-injected input to block remote hotkey manipulation.
+// ---
+
 #include "remoting/host/input_monitor/local_hotkey_input_monitor_x11.h"
 
 #include <utility>

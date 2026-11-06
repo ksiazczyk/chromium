@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash Mojom video consumer unit tests
+// summary: Unit tests verifying that the video consumer rejects unsupported pixel formats, invalid strides and out-of-bounds content rects.
+// ---
+
 #include "remoting/host/chromeos/ash_mojom_video_consumer.h"
 
 #include <memory>

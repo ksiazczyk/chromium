@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote input filter unit tests
+// summary: Unit tests verifying that RemoteInputFilter blocks remote input events that echo local pointer activity while letting genuine remote input through.
+// ---
+
 #include "remoting/host/remote_input_filter.h"
 
 #include <stdint.h>

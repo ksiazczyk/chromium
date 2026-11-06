@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zombie host detector
+// summary: Declares ZombieHostDetector, which monitors heartbeat and signaling recency to detect a running host that appears offline or unreachable.
+// ---
+
 #ifndef REMOTING_HOST_ZOMBIE_HOST_DETECTOR_H_
 #define REMOTING_HOST_ZOMBIE_HOST_DETECTOR_H_
 

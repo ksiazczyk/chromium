@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File operations interface
+// summary: Defines the FileOperations interface with Reader and Writer abstractions for chunked file transfer reading and writing.
+// ---
+
 #ifndef REMOTING_HOST_FILE_TRANSFER_FILE_OPERATIONS_H_
 #define REMOTING_HOST_FILE_TRANSFER_FILE_OPERATIONS_H_
 

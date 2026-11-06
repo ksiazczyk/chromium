@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen resolution header
+// summary: Declares the ScreenResolution class describing a screen's dimensions and DPI, with helpers for scaling, emptiness and equality checks.
+// ---
+
 #ifndef REMOTING_HOST_BASE_SCREEN_RESOLUTION_H_
 #define REMOTING_HOST_BASE_SCREEN_RESOLUTION_H_
 
