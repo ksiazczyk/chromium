@@ -1,0 +1,4 @@
+# Docerion header of page_action.json.
+type: source
+title: Page action API schema
+summary: Defines the chrome.pageAction API for per-page toolbar icons, with functions to show, hide, and set the title or icon of a page action.

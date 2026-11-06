@@ -1,0 +1,4 @@
+# Docerion header of panels.json.
+type: source
+title: chrome.devtools.panels API definition
+summary: Defines the chrome.devtools.panels API for integrating extensions into the DevTools UI by creating panels, sidebar panes, and status bar buttons.

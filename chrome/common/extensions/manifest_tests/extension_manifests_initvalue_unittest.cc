@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for manifest init value validation
+// summary: Unit tests validating manifest init values, covering invalid versions, names, icons and content script declarations.
+// ---
+
 #include "base/command_line.h"
 #include "base/i18n/language_tag.h"
 #include "base/i18n/rtl.h"

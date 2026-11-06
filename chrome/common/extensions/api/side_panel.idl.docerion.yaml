@@ -1,0 +1,4 @@
+# Docerion header of side_panel.idl.
+type: source
+title: sidePanel extension API definition
+summary: Defines the chrome.sidePanel API for hosting extension content in the browser's side panel, including panel options, behavior, and open/close controls.

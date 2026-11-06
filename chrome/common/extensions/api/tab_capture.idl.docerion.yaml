@@ -1,0 +1,4 @@
+# Docerion header of tab_capture.idl.
+type: source
+title: tabCapture extension API definition
+summary: Defines the chrome.tabCapture API for capturing and interacting with tab media streams, including capture status and stream ID handling.

@@ -1,0 +1,4 @@
+# Docerion header of processes.idl.
+type: reference
+title: processes extension API definition
+summary: Defines the chrome.processes API for inspecting browser processes, their types, resource usage, and tasks, and for terminating processes.

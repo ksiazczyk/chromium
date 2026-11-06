@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X509 certificate model implementation
+// summary: Implements the X509CertificateModel used by the WebUI certificate viewer, parsing and formatting certificate names, extensions, keys, and signatures.
+// ---
+
 #include "chrome/common/net/x509_certificate_model.h"
 
 #include <ranges>

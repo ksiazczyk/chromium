@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Firefox profiles.ini lookup
+// summary: Finds the Firefox profiles.ini file on Linux and ChromeOS across standard, Snap, Flatpak and XDG install locations.
+// ---
+
 #include "chrome/common/importer/firefox_importer_utils.h"
 
 #include "base/base_paths.h"

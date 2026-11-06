@@ -1,0 +1,4 @@
+# Docerion header of enterprise_kiosk_input.webidl.
+type: reference
+title: Enterprise kiosk input API WebIDL definition
+summary: Defines the chrome.enterprise.kioskInput API for setting the current input method in ChromeOS Kiosk sessions.

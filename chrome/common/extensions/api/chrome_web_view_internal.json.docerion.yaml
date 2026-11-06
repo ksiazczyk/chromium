@@ -1,0 +1,4 @@
+# Docerion header of chrome_web_view_internal.json.
+type: source
+title: chromeWebViewInternal API schema
+summary: Schema for the internal chromeWebViewInternal extension API that provides context menu support for webview tags.

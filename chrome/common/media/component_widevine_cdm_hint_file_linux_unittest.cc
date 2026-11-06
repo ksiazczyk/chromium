@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Widevine CDM hint file
+// summary: Tests writing, reading, replacing and handling corrupt Widevine CDM hint files using overridden user data and component update paths.
+// ---
+
 #include "chrome/common/media/component_widevine_cdm_hint_file_linux.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of vpn_provider.idl.
+type: reference
+title: vpnProvider extension API definition
+summary: Defines the chrome.vpnProvider IDL for implementing VPN clients on ChromeOS, covering tunnel parameters, session events, and UI state.

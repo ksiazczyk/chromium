@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Firefox importer utilities
+// summary: Windows implementation that reads the installed Firefox version and install directory from the registry and locates the Firefox profiles.ini file.
+// ---
+
 #include "chrome/common/importer/firefox_importer_utils.h"
 
 #include <shlobj.h>

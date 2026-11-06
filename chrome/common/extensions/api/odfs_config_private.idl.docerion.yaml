@@ -1,0 +1,4 @@
+# Docerion header of odfs_config_private.idl.
+type: source
+title: OneDrive configuration private API definition
+summary: Defines the private API for configuring OneDrive integration, including admin policy mount modes, account restrictions, and opening tabs in the M365 PWA.

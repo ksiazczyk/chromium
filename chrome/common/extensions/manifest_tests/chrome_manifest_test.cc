@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeManifestTest fixture implementation
+// summary: Implements the ChromeManifestTest fixture, providing the path to the Chrome extensions manifest test data directory.
+// ---
+
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 
 #include "base/files/file_path.h"

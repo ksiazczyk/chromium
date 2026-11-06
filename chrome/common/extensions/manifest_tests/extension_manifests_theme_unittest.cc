@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme extension manifest unit tests
+// summary: Unit tests validating the theme manifest key, covering invalid image value types, invalid image paths, and warnings for non-existent theme images.
+// ---
+
 #include "base/files/scoped_temp_dir.h"
 #include "base/strings/stringprintf.h"
 #include "base/strings/utf_string_conversions.h"

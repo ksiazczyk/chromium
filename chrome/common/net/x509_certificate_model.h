@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: X509 certificate model class header
+// summary: Declares the X509CertificateModel class and helpers for displaying certificate issuer, subject, extensions, and public key information.
+// ---
+
 #ifndef CHROME_COMMON_NET_X509_CERTIFICATE_MODEL_H_
 #define CHROME_COMMON_NET_X509_CERTIFICATE_MODEL_H_
 

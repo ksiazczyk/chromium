@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_private.idl.
+type: source
+title: safeBrowsingPrivate extension API definition
+summary: Defines the chrome.safeBrowsingPrivate API for observing events such as password reuse and dangerous downloads and retrieving referrer chains.

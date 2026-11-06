@@ -1,0 +1,4 @@
+# Docerion header of web_authentication_proxy.webidl.
+type: reference
+title: webAuthenticationProxy extension API definition
+summary: Defines the WebIDL API for proxying WebAuthn requests, letting an extension remotely handle create, get, and isUvpaa calls and return their responses.

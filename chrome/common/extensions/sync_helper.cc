@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension sync helper implementation
+// summary: Implements sync_helper functions that decide whether an extension, including select component extensions, is eligible for profile sync.
+// ---
+
 #include "chrome/common/extensions/sync_helper.h"
 
 #include "base/logging.h"

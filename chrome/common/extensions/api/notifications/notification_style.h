@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationBitmapSizes struct header
+// summary: Declares the NotificationBitmapSizes struct and GetNotificationBitmapSizes function describing image sizes used by the notification center.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_API_NOTIFICATIONS_NOTIFICATION_STYLE_H_
 #define CHROME_COMMON_EXTENSIONS_API_NOTIFICATIONS_NOTIFICATION_STYLE_H_
 

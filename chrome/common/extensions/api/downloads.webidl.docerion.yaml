@@ -1,0 +1,4 @@
+# Docerion header of downloads.webidl.
+type: reference
+title: Downloads API WebIDL definition
+summary: Defines the chrome.downloads extension API types, enums, and download options such as filename conflict actions and danger types.

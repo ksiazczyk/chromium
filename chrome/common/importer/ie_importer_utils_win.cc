@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows IE importer registry key helpers
+// summary: Returns Windows registry keys for IE favorites ordering and settings, redirecting them to a temporary key when a test override is active.
+// ---
+
 #include "chrome/common/importer/ie_importer_utils_win.h"
 
 #include "chrome/common/importer/importer_test_registry_overrider_win.h"

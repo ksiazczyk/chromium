@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icons manifest unit tests
+// summary: Unit test checking that icons with a non-image MIME type produce a warning and result in an empty icon set.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "base/strings/string_number_conversions.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

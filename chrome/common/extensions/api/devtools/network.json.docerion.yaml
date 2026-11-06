@@ -1,0 +1,4 @@
+# Docerion header of network.json.
+type: source
+title: chrome.devtools.network API definition
+summary: Defines the chrome.devtools.network API for retrieving information about network requests shown in the DevTools Network panel, including HAR logs, request content, and navigation events.

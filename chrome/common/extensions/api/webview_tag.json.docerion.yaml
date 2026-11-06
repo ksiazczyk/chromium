@@ -1,0 +1,4 @@
+# Docerion header of webview_tag.json.
+type: source
+title: WebView Tag API
+summary: JSON API definition describing the webview tag for embedding live web content in Chrome Apps, including its types, methods, and events.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content scripts manifest unit tests
+// summary: Unit tests for content script match patterns, scriptable hosts and content script IDs, including invalid schemes and chrome URL rules.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_path.h"
 #include "base/path_service.h"

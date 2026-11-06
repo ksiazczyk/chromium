@@ -1,0 +1,4 @@
+# Docerion header of settings_private.idl.
+type: source
+title: settingsPrivate extension API definition
+summary: Defines the chrome.settingsPrivate API for getting and setting allowed user preferences from the settings UI, including policy control details.

@@ -1,0 +1,4 @@
+# Docerion header of quick_unlock_private.idl.
+type: reference
+title: quickUnlockPrivate extension API definition
+summary: Defines the ChromeOS quickUnlockPrivate API for lock screen settings, including enabling the lock screen and managing PIN quick unlock credentials.

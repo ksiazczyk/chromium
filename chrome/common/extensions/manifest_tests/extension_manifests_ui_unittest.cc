@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UI manifest unit tests
+// summary: Unit test verifying that extension manifests declaring more than one UI surface are rejected with an error.
+// ---
+
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 #include "extensions/buildflags/buildflags.h"
 #include "extensions/common/manifest_constants.h"

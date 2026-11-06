@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension sync type unit tests
+// summary: Unit tests verifying sync_helper::IsSyncable behavior for extensions, apps, user scripts, and themes with various update URLs.
+// ---
+
 #include <utility>
 
 #include "base/files/file_path.h"

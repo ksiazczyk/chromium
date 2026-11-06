@@ -1,0 +1,4 @@
+# Docerion header of enterprise_reporting_private.webidl.
+type: source
+title: Enterprise reporting private API definition
+summary: Defines types for the enterprise reporting private API covering device info, context signals, antivirus and hotfix data, and certificates.

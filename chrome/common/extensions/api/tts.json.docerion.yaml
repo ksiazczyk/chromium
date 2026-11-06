@@ -1,0 +1,4 @@
+# Docerion header of tts.json.
+type: reference
+title: tts extension API definition
+summary: Defines the chrome.tts API for playing synthesized text-to-speech, with options for voice, language, rate, pitch, volume, and speech events.

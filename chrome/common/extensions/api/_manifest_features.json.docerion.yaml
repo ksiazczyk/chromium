@@ -1,0 +1,4 @@
+# Docerion header of _manifest_features.json.
+type: config
+title: Chrome manifest key availability features
+summary: Specifies the channel, extension type, platform, and manifest version requirements for manifest keys implemented under src/chrome.

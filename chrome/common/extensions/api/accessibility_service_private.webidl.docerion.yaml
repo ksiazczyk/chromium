@@ -1,0 +1,4 @@
+# Docerion header of accessibility_service_private.webidl.
+type: source
+title: accessibilityServicePrivate API schema
+summary: WebIDL definition of the ChromeOS accessibilityServicePrivate API supporting Select to Speak text reading and clipboard copy events in Google Docs.

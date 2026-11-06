@@ -1,0 +1,4 @@
+# Docerion header of performance.json.
+type: source
+title: chrome.devtools.performance API definition
+summary: Defines the chrome.devtools.performance API for listening to recording start and stop events in the DevTools Performance panel.

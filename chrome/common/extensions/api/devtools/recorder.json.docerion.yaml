@@ -1,0 +1,4 @@
+# Docerion header of recorder.json.
+type: source
+title: chrome.devtools.recorder API definition
+summary: Defines the chrome.devtools.recorder API for customizing the DevTools Recorder panel through extension plugins and embedded replay views.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Media DRM bridge client header
+// summary: Declares the Chrome Media DRM bridge client that supplies Widevine and ClearKey delegates on Android.
+// ---
+
 #ifndef CHROME_COMMON_MEDIA_CHROME_MEDIA_DRM_BRIDGE_CLIENT_H_
 #define CHROME_COMMON_MEDIA_CHROME_MEDIA_DRM_BRIDGE_CLIENT_H_
 

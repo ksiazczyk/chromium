@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge importer utilities interface for Windows
+// summary: Declares importer namespace functions for the Edge settings key, data path, favorites legacy mode and import availability.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_EDGE_IMPORTER_UTILS_WIN_H_
 #define CHROME_COMMON_IMPORTER_EDGE_IMPORTER_UTILS_WIN_H_
 

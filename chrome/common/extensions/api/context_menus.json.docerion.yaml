@@ -1,0 +1,4 @@
+# Docerion header of context_menus.json.
+type: reference
+title: contextMenus API schema
+summary: Defines the chrome.contextMenus API for adding items to Chrome's context menu, covering context and item types, creation options and click event data.

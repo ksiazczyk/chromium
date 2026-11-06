@@ -1,0 +1,4 @@
+# Docerion header of dictation_private.webidl.
+type: reference
+title: dictationPrivate WebIDL API definition
+summary: Defines the private dictationPrivate API for the dictation extension to start and end transcription streams, update context and transcription, and log messages.

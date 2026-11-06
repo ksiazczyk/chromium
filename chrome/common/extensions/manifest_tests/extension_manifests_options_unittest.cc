@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension manifest options page unit tests
+// summary: Unit tests for the options_page and options_ui manifest keys, covering chrome style, open in tab behaviour, precedence and hosted app restrictions.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 #include "extensions/buildflags/buildflags.h"

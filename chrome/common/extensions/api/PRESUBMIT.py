@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for extension API externs
+# summary: Presubmit script that runs the externs checker over uploaded changes to validate the extension API extern definitions.
+# ---
+
 """Chromium presubmit script for src/extensions/common.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

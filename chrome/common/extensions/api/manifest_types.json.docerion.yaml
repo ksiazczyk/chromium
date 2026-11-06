@@ -1,0 +1,4 @@
+# Docerion header of manifest_types.json.
+type: source
+title: Manifest types API schema
+summary: Schema definitions for structured manifest entries, such as Chrome settings overrides, rather than a callable extension API.

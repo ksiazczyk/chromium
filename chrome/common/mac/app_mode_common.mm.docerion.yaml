@@ -1,0 +1,4 @@
+# Docerion header of app_mode_common.mm.
+type: source
+title: App mode common implementation
+summary: Implements app mode Info.plist key constants and ChromeConnectionConfig encoding, with layout assertions for ChromeAppModeInfo.

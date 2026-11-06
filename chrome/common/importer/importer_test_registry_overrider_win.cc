@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer test registry overrider implementation
+// summary: Creates a random temporary HKCU registry key and exports it via an environment variable so importer tests can redirect registry access, deleting it on destruction.
+// ---
+
 #include "chrome/common/importer/importer_test_registry_overrider_win.h"
 
 #include <windows.h>

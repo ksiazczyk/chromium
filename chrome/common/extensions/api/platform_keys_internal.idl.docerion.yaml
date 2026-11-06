@@ -1,0 +1,4 @@
+# Docerion header of platform_keys_internal.idl.
+type: reference
+title: platformKeysInternal extension API definition
+summary: Internal IDL API that backs the platformKeys and enterprise.platformKeys APIs with certificate selection, signing, and public key retrieval functions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch info manifest handler header
+// summary: Declares the AppLaunchInfo manifest data container and the AppLaunchManifestHandler that parses app launch related manifest keys.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_MANIFEST_HANDLERS_APP_LAUNCH_INFO_H_
 #define CHROME_COMMON_EXTENSIONS_MANIFEST_HANDLERS_APP_LAUNCH_INFO_H_
 

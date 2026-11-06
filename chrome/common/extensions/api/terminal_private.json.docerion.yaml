@@ -1,0 +1,4 @@
+# Docerion header of terminal_private.json.
+type: reference
+title: terminalPrivate extension API definition
+summary: Defines the private terminalPrivate API for opening, closing, and sending input to terminal processes such as crosh and vmshell, and handling resize and output events.

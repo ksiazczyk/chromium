@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme manifest tests
+// summary: Manifest tests verifying warnings for non-PNG theme images, images without file extensions, and missing theme image variants.
+// ---
+
 #include "base/memory/scoped_refptr.h"
 #include "chrome/common/extensions/manifest_handlers/theme_handler.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

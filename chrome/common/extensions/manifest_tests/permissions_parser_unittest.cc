@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions parser unit tests
+// summary: Unit tests for the extension permissions parser, verifying overlapping required and optional API or host permissions are deduplicated with warnings.
+// ---
+
 #include "extensions/common/manifest_handlers/permissions_parser.h"
 
 #include <algorithm>

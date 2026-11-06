@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension metrics declarations
+// summary: Declares functions for recording app launch types and web store launches as UMA metrics.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_EXTENSION_METRICS_H_
 #define CHROME_COMMON_EXTENSIONS_EXTENSION_METRICS_H_
 

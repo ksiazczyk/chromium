@@ -1,0 +1,4 @@
+# Docerion header of action.json.
+type: source
+title: action API schema
+summary: Defines the chrome.action API for controlling an extension's toolbar icon, including title, icon, badge and popup behavior per tab.

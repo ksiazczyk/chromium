@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome manifest handler registration
+// summary: Registers Chrome-specific manifest handlers such as app launch info, omnibox, side panel, settings overrides, storage schema, and theme in the registry.
+// ---
+
 #include "chrome/common/extensions/chrome_manifest_handlers.h"
 
 #include <memory>

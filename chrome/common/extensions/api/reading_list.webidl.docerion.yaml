@@ -1,0 +1,4 @@
+# Docerion header of reading_list.webidl.
+type: reference
+title: readingList extension API definition
+summary: Defines the chrome.readingList API for adding, removing, updating, and querying Reading List entries and observing related events.

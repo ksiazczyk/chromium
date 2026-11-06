@@ -1,0 +1,4 @@
+# Docerion header of accessibility_features.json.
+type: source
+title: accessibilityFeatures API schema
+summary: Defines the chrome.accessibilityFeatures API for reading and modifying ChromeOS accessibility settings such as spoken feedback, cursor size and screen magnification.

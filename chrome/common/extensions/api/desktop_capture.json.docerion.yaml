@@ -1,0 +1,4 @@
+# Docerion header of desktop_capture.json.
+type: reference
+title: desktopCapture API schema
+summary: Defines the chrome.desktopCapture API for capturing screens, windows or tabs, including media source types and audio capture preferences for the picker.

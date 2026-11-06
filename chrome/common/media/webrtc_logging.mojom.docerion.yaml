@@ -1,0 +1,4 @@
+# Docerion header of webrtc_logging.mojom.
+type: source
+title: WebRTC logging Mojo interfaces
+summary: Defines Mojo interfaces for WebRTC logging, letting a client receive batched log messages and control the renderer-side logging agent.

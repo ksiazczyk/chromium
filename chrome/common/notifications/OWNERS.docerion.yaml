@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the notifications folder
+summary: Delegates code ownership to the owners listed in chrome/browser/notifications/OWNERS.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for chrome/common/net
+summary: Lists code owners for the directory and delegates mojom file reviews to IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch info manifest handler implementation
+// summary: Implements AppLaunchInfo, parsing app launch keys such as launch_local_path, launch_web_url and launch_container from extension manifests.
+// ---
+
 #include "chrome/common/extensions/manifest_handlers/app_launch_info.h"
 
 #include <memory>

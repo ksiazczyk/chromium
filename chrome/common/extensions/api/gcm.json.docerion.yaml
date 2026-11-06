@@ -1,0 +1,4 @@
+# Docerion header of gcm.json.
+type: source
+title: GCM API definition
+summary: Defines the chrome.gcm API for registering with Firebase Cloud Messaging and sending or receiving push messages.

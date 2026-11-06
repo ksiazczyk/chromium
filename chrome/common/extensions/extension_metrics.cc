@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension app launch metrics
+// summary: Records UMA histograms for app and extension launches, including app list search, main view, and web store launches.
+// ---
+
 #include "chrome/common/extensions/extension_metrics.h"
 
 #include "base/metrics/histogram_macros.h"

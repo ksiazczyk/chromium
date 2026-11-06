@@ -1,0 +1,4 @@
+# Docerion header of windows.json.
+type: source
+title: Windows API
+summary: JSON API definition for chrome.windows, which lets extensions create, modify, and rearrange browser windows and query window types and states.

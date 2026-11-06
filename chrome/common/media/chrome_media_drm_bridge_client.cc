@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Media DRM bridge client implementation
+// summary: Returns the appropriate Media DRM bridge delegate for Widevine or ClearKey based on the DRM scheme UUID on Android.
+// ---
+
 #include "chrome/common/media/chrome_media_drm_bridge_client.h"
 
 ChromeMediaDrmBridgeClient::ChromeMediaDrmBridgeClient() = default;

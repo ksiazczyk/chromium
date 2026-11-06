@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS certificate name and nickname helpers
+// summary: Provides NSS-based helpers that return a certificate's common name or nickname, with IDN processing applied.
+// ---
+
 #include "chrome/common/net/x509_certificate_model_nss.h"
 
 #include <cert.h>

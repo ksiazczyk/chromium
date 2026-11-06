@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile import Mojo traits implementation
+// summary: Implements Mojo StructTraits Read methods and IPC param traits serialization for importer data types such as ImportedPasswordForm.
+// ---
+
 #include "chrome/common/importer/profile_import_process_param_mojom_traits.h"
 
 // Get basic type definitions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image writer utility for Mac implementation
+// summary: Implements IsSuitableRemovableStorageDevice, which checks via IOKit drive info whether a macOS disk is a removable USB device suitable for writing an image, excluding APFS and Core Storage volumes.
+// ---
+
 #include "chrome/common/extensions/image_writer/image_writer_util_mac.h"
 
 #include <IOKit/storage/IOMedia.h>

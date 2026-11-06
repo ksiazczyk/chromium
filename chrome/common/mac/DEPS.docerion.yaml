@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome/common/mac
+summary: Defines include rules allowing this directory to depend on mojo/core/embedder.

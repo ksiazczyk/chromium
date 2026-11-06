@@ -1,0 +1,4 @@
+# Docerion header of command_line_private.json.
+type: source
+title: commandLinePrivate API schema
+summary: Schema for the private commandLinePrivate extension API that reports whether a Chrome command-line switch is present.

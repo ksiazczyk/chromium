@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome/common/net
+summary: Declares allowed dependency includes for the directory, covering certificate_model, google core common, and boringssl pki.

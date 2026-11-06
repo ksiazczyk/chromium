@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome permission manifest unit tests
+// summary: Unit tests checking that extension manifest permissions for Chrome internal pages are rejected, allowed only for component extensions or with the extensions-on-Chrome-URLs switch, and never granted for untrusted internal pages.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

@@ -1,0 +1,4 @@
+# Docerion header of proxy_override_rules_private.json.
+type: reference
+title: proxyOverrideRulesPrivate extension API definition
+summary: Defines the proxyOverrideRulesPrivate API, which exposes a ChromeSetting for configuring proxy override rules with destination matchers and conditions.

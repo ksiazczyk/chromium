@@ -1,0 +1,4 @@
+# Docerion header of chromeos_info_private.json.
+type: source
+title: chromeosInfoPrivate API schema
+summary: Schema for the chromeosInfoPrivate extension API that reads Chrome OS system properties such as session type and accessibility settings.

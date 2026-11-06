@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/common/mac
+summary: Specifies code owners and per-file owner rules routing Mojom and Mojom traits files to security owners.

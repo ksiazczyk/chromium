@@ -1,0 +1,4 @@
+# Docerion header of webrtc_desktop_capture_private.idl.
+type: source
+title: WebRTC Desktop Capture Private API
+summary: IDL definition of the chrome.webrtcDesktopCapturePrivate API for showing the desktop media picker and capturing desktop media requested from a WebView.

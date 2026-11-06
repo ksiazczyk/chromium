@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log policy utilities for telemetry signals
+// summary: Implements classification of high-risk extension activities such as cookie access and script injection into enterprise telemetry signal types.
+// ---
+
 #include "chrome/common/extensions/activity_log_policy_util.h"
 
 #include <string_view>

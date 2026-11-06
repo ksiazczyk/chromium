@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension constants and IDs
+// summary: Defines Chrome extension constants including known extension IDs, public keys, web store launch source values, and app launch buckets.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_EXTENSION_CONSTANTS_H_
 #define CHROME_COMMON_EXTENSIONS_EXTENSION_CONSTANTS_H_
 

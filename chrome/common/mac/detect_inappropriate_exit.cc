@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inappropriate exit detection implementation
+// summary: Implements an atexit handler that backtraces to find OS library code calling exit(69) and crashes via CHECK to aid troubleshooting of related bugs.
+// ---
+
 #include "chrome/common/mac/detect_inappropriate_exit.h"
 
 #include <dlfcn.h>

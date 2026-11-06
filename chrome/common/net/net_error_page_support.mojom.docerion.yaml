@@ -1,0 +1,4 @@
+# Docerion header of net_error_page_support.mojom.
+type: source
+title: NetErrorPageSupport Mojo interface for network error pages
+summary: Defines a per-frame Mojo interface supporting network error pages with offline page download and captive portal signin actions.

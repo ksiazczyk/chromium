@@ -1,0 +1,4 @@
+# Docerion header of wallpaper.json.
+type: reference
+title: wallpaper extension API definition
+summary: Defines the chrome.wallpaper API for setting the ChromeOS wallpaper from image data or a URL with layout and thumbnail options.

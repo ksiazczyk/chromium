@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the notifications source set
+summary: Defines a GN source_set that compiles the notification constants and operation headers shared by Chrome notification code.

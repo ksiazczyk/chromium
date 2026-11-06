@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension manifest version unit tests
+// summary: Unit tests verifying how the manifest_version key is validated, including missing, old, unsupported and future versions under different create flags.
+// ---
+
 #include <memory>
 
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

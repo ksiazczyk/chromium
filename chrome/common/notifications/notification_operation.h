@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification operation enum header
+// summary: Defines the NotificationOperation enum listing user actions on notifications such as click, close, settings, and spam reporting.
+// ---
+
 #ifndef CHROME_COMMON_NOTIFICATIONS_NOTIFICATION_OPERATION_H_
 #define CHROME_COMMON_NOTIFICATIONS_NOTIFICATION_OPERATION_H_
 

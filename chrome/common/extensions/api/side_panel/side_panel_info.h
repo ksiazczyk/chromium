@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel manifest data and handler declarations
+// summary: Declares the SidePanelInfo manifest data struct and the SidePanelManifestHandler for the extension side_panel manifest key.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_API_SIDE_PANEL_SIDE_PANEL_INFO_H_
 #define CHROME_COMMON_EXTENSIONS_API_SIDE_PANEL_SIDE_PANEL_INFO_H_
 

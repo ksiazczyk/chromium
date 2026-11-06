@@ -1,0 +1,4 @@
+# Docerion header of inspected_window.json.
+type: source
+title: chrome.devtools.inspectedWindow API definition
+summary: Defines the chrome.devtools.inspectedWindow API for interacting with the inspected window, including evaluating code, reloading the page, and reading or writing page resources.

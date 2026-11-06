@@ -1,0 +1,4 @@
+# Docerion header of login.webidl.
+type: reference
+title: Login extension API definition
+summary: Defines the chrome.login API for launching, locking, unlocking and exiting user sessions, including SAML session properties and logout events.

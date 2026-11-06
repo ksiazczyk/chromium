@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web accessible resources manifest unit tests
+// summary: Unit tests for the web_accessible_resources manifest key across manifest versions, checking resource accessibility patterns and valid configurations.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"

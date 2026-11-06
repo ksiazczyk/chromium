@@ -1,0 +1,4 @@
+# Docerion header of instance_id.json.
+type: reference
+title: Instance ID extension API definition
+summary: Defines the chrome.instanceID API for retrieving app instance identifiers and creation time and for getting, deleting and subscribing to tokens.

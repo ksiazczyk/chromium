@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM registration implementation
+// summary: Registers supported content decryption modules such as Widevine, ClearKey and PlayReady across the supported platforms.
+// ---
+
 #include "chrome/common/media/cdm_registration.h"
 
 #include <memory>

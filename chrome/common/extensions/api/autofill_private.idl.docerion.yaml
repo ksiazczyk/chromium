@@ -1,0 +1,4 @@
+# Docerion header of autofill_private.idl.
+type: source
+title: autofillPrivate API schema
+summary: IDL definition of the autofillPrivate API used by the Chrome settings UI to add, update and remove autofill address and credit card data.

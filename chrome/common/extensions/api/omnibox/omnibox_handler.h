@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox manifest handler declarations
+// summary: Declares OmniboxInfo, which stores an extension's omnibox keyword, and OmniboxHandler, the manifest handler for the omnibox key.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_API_OMNIBOX_OMNIBOX_HANDLER_H_
 #define CHROME_COMMON_EXTENSIONS_API_OMNIBOX_OMNIBOX_HANDLER_H_
 

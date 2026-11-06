@@ -1,0 +1,4 @@
+# Docerion header of enterprise_webrtc.webidl.
+type: source
+title: Enterprise WebRTC private API definition
+summary: Defines the enterprise WebRTC private API for capture status, snapshots, peer connection records, and related events.

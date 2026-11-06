@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Protected Store COM interface declarations
+// summary: Provides a minimal set of Windows Protected Store (PStore) COM interface declarations because pstore.h is no longer shipped in the Windows 8 SDK.
+// ---
+
 #ifndef CHROME_COMMON_IMPORTER_PSTORE_DECLARATIONS_H_
 #define CHROME_COMMON_IMPORTER_PSTORE_DECLARATIONS_H_
 

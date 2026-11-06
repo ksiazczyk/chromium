@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: X509 certificate model unit tests
+// summary: Unit tests verifying X509CertificateModel field extraction such as hashes, issuer and subject names, validity times, and signature algorithms.
+// ---
+
 #include "chrome/common/net/x509_certificate_model.h"
 
 #include <array>

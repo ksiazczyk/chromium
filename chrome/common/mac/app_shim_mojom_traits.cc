@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shim Mojom traits implementation
+// summary: Implements Mojo StructTraits that read app shim feature state data into a variations::VariationsCommandLine, covering field trials, params, and feature flags.
+// ---
+
 #include "chrome/common/mac/app_shim_mojom_traits.h"
 
 #include "chrome/common/mac/app_shim.mojom-shared.h"

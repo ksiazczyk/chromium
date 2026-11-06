@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log telemetry policy utility declarations
+// summary: Declares enums and helper functions for identifying and normalizing high-risk extension activities shared by renderer filtering and browser telemetry.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_ACTIVITY_LOG_POLICY_UTIL_H_
 #define CHROME_COMMON_EXTENSIONS_ACTIVITY_LOG_POLICY_UTIL_H_
 

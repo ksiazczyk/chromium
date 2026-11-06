@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for Chrome common extensions
+summary: Sets code owners for the directory, delegating to extensions/OWNERS and assigning IPC security owners for message and Mojom files.

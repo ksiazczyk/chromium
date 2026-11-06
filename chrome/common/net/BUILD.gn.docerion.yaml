@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for chrome/common/net
+summary: Defines the net static library and unit test targets, conditionally including certificate model sources and NSS support.

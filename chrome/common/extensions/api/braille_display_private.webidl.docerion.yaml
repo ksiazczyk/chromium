@@ -1,0 +1,4 @@
+# Docerion header of braille_display_private.webidl.
+type: source
+title: brailleDisplayPrivate API definition
+summary: WebIDL definition of the private brailleDisplayPrivate extension API for display state, key events, and writing dot patterns.

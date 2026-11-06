@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension manifest offline enabled unit tests
+// summary: Unit tests for the offline_enabled manifest key across extensions and app types, including default values and ChromeOS webview behaviour.
+// ---
+
 #include "chrome/common/extensions/manifest_tests/chrome_manifest_test.h"
 #include "extensions/buildflags/buildflags.h"
 #include "extensions/common/extension.h"

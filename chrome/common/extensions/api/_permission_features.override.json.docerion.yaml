@@ -1,0 +1,4 @@
+# Docerion header of _permission_features.override.json.
+type: config
+title: Permission features override for downstream forks
+summary: Empty override file that downstream forks can modify to add or change extension API permission features without touching _permission_features.json.

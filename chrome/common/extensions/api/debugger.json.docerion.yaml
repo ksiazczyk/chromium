@@ -1,0 +1,4 @@
+# Docerion header of debugger.json.
+type: reference
+title: debugger API schema
+summary: Defines the chrome.debugger API as an alternate transport for Chrome's remote debugging protocol, with Debuggee identifiers, sessions and target info.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension manifest side panel unit tests
+// summary: Unit tests for the side_panel manifest key, validating default_path types, invalid or missing files and resulting errors and warnings.
+// ---
+
 #include <memory>
 
 #include "base/files/scoped_temp_dir.h"

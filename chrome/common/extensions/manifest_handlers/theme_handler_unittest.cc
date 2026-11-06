@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme handler unit tests
+// summary: Unit tests for the theme manifest handler, checking that an empty theme dictionary still produces a valid extension.
+// ---
+
 #include "chrome/common/extensions/manifest_handlers/theme_handler.h"
 
 #include "base/feature_list.h"

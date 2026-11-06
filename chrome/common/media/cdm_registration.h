@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM registration header
+// summary: Declares functions to register CDM information and to retrieve the software-secure Widevine CDM on Linux and ChromeOS.
+// ---
+
 #ifndef CHROME_COMMON_MEDIA_CDM_REGISTRATION_H_
 #define CHROME_COMMON_MEDIA_CDM_REGISTRATION_H_
 

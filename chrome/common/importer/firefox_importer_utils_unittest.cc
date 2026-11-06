@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Firefox importer utils unit tests
+// summary: Unit tests for Firefox importer helpers, covering prefs.js value parsing and detection of the Firefox or Iceweasel importer name from application.ini.
+// ---
+
 #include "chrome/common/importer/firefox_importer_utils.h"
 
 #include <stddef.h>

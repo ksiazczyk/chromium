@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PermissionsData unit tests
+// summary: Unit tests for the extensions PermissionsData class, covering restricted Chrome URLs, host permissions, and socket permission checks.
+// ---
+
 #include "extensions/common/permissions/permissions_data.h"
 
 #include <stdint.h>

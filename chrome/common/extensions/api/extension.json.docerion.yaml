@@ -1,0 +1,4 @@
+# Docerion header of extension.json.
+type: source
+title: Extension API definition
+summary: Defines the chrome.extension API with deprecated messaging and view utilities such as sendRequest, getURL, and getViews.

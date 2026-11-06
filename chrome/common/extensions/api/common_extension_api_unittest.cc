@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionAPI unit tests
+// summary: Unit tests for the ExtensionAPI class, covering API creation, schema lookup, dependency splitting, and feature session types.
+// ---
+
 #include <stddef.h>
 
 #include <array>

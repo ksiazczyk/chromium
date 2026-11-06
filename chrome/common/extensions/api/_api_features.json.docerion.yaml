@@ -1,0 +1,4 @@
+# Docerion header of _api_features.json.
+type: config
+title: Chrome extension API availability features
+summary: Defines the contexts, permissions, channels, platforms, flags, and allowlists that gate the availability of each Chrome extension API.

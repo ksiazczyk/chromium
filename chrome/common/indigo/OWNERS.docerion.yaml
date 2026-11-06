@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome/common/indigo
+summary: Sets code ownership for the indigo directory and delegates review of .mojom files to the IPC security owners.

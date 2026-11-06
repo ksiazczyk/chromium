@@ -1,0 +1,4 @@
+# Docerion header of sessions.json.
+type: source
+title: sessions extension API definition
+summary: Defines the chrome.sessions API to query and restore tabs and windows from a browsing session, including synced sessions from other devices.

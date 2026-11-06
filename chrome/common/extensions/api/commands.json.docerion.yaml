@@ -1,0 +1,4 @@
+# Docerion header of commands.json.
+type: source
+title: commands API schema
+summary: Schema for the chrome.commands extension API that registers extension keyboard shortcuts and fires the onCommand event.

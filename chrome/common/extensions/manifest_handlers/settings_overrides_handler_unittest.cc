@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings overrides manifest handler unit tests
+// summary: Unit tests verifying parsing of chrome_settings_overrides manifests, including search providers, homepage and startup pages, and error cases for broken values.
+// ---
+
 #include "chrome/common/extensions/manifest_handlers/settings_overrides_handler.h"
 
 #include <memory>

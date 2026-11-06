@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL handlers manifest parser declarations
+// summary: Declares UrlHandlerInfo, UrlHandlers and UrlHandlersParser, which let platform apps declare URL handlers in their manifest.
+// ---
+
 #ifndef CHROME_COMMON_EXTENSIONS_API_URL_HANDLERS_URL_HANDLERS_PARSER_H_
 #define CHROME_COMMON_EXTENSIONS_API_URL_HANDLERS_URL_HANDLERS_PARSER_H_
 

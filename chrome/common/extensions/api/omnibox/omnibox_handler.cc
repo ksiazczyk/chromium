@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox manifest handler implementation
+// summary: Implements OmniboxHandler and OmniboxInfo, parsing the omnibox manifest key and rejecting extensions with an empty keyword.
+// ---
+
 #include "chrome/common/extensions/api/omnibox/omnibox_handler.h"
 
 #include <memory>

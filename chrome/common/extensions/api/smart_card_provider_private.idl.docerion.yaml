@@ -1,0 +1,4 @@
+# Docerion header of smart_card_provider_private.idl.
+type: source
+title: smartCardProviderPrivate extension API definition
+summary: Defines the ChromeOS smartCardProviderPrivate API that gives the browser a winscard-compatible PC/SC backend for the Web Smart Card API.

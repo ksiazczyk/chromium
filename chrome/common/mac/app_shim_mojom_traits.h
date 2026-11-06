@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shim Mojom traits declaration
+// summary: Declares the Mojo StructTraits specialization exposing VariationsCommandLine fields for the app shim FeatureState Mojom view.
+// ---
+
 #ifndef CHROME_COMMON_MAC_APP_SHIM_MOJOM_TRAITS_H_
 #define CHROME_COMMON_MAC_APP_SHIM_MOJOM_TRAITS_H_
 

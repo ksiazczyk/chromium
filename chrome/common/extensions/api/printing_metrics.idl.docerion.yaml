@@ -1,0 +1,4 @@
+# Docerion header of printing_metrics.idl.
+type: reference
+title: printingMetrics extension API definition
+summary: Defines the chrome.printingMetrics API, which reports finished print jobs with their source, status, printer, and settings on ChromeOS.

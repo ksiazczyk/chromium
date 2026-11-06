@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inappropriate exit detection header
+// summary: Declares InitializeExitSixtyNineDetector, which installs an atexit handler that turns inappropriate exit calls into visible CHECK failures.
+// ---
+
 #ifndef CHROME_COMMON_MAC_DETECT_INAPPROPRIATE_EXIT_H_
 #define CHROME_COMMON_MAC_DETECT_INAPPROPRIATE_EXIT_H_
 

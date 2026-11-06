@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media directory bug tracking metadata
+summary: Specifies the Monorail and Buganizer components used to track bugs for the chrome/common/media directory.
