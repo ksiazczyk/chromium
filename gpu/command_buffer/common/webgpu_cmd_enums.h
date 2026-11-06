@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU command buffer enums
+// summary: Defines enums used by the WebGPU command buffer, including power preference, Dawn return data types, and mailbox flags.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_WEBGPU_CMD_ENUMS_H_
 #define GPU_COMMAND_BUFFER_COMMON_WEBGPU_CMD_ENUMS_H_
 

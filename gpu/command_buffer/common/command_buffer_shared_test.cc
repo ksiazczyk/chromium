@@ -4,6 +4,12 @@
 
 // This file contains the tests for the CommandBufferSharedState class.
 
+// ---docerion
+// type: test
+// title: Unit tests for shared command buffer state
+// summary: Unit tests verifying that CommandBufferSharedState reads and writes stay correct and consistent when accessed from multiple threads.
+// ---
+
 #include "gpu/command_buffer/common/command_buffer_shared.h"
 
 #include <stdint.h>

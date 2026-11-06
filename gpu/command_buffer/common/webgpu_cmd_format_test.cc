@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebGPU command format
+// summary: Contains unit tests verifying that WebGPU command structures write the expected bytes into a command buffer.
+// ---
+
 #include "gpu/command_buffer/common/webgpu_cmd_format.h"
 
 #include <stddef.h>

@@ -4,6 +4,12 @@
 
 // Tests for GLES2Implementation.
 
+// ---docerion
+// type: test
+// title: GLES2Implementation unit tests
+// summary: Unit tests for GLES2Implementation that use mock command buffers and transfer buffers to verify GLES2 client behavior.
+// ---
+
 #include "gpu/command_buffer/client/gles2_implementation.h"
 
 #include <GLES2/gl2.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of command buffer backing and Buffer classes
+// summary: Implements memory and shared-memory buffer backing, Buffer data access helpers, buffer ID generation and tracing GUIDs for the command buffer.
+// ---
+
 #include "gpu/command_buffer/common/buffer.h"
 
 #include <stddef.h>

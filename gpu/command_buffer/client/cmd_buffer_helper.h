@@ -4,6 +4,12 @@
 
 // This file contains the command buffer helper class.
 
+// ---docerion
+// type: source
+// title: CommandBufferHelper header
+// summary: Declares CommandBufferHelper, which simplifies command buffer ring buffer management, flushing, ordering barriers, and token synchronization.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_CMD_BUFFER_HELPER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_CMD_BUFFER_HELPER_H_
 

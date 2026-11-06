@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogSettings implementation
+// summary: Implements LogSettings, which caches whether the --enable-gpu-client-logging switch is enabled for GPU client debug logging.
+// ---
+
 #include "gpu/command_buffer/client/logging.h"
 
 #if defined(GPU_CLIENT_DEBUG)

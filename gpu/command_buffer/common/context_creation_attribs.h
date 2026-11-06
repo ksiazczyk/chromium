@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context creation attributes header
+// summary: Declares the ContextType enum and helper functions for classifying WebGL and OpenGL ES context types used when creating GPU contexts.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_CONTEXT_CREATION_ATTRIBS_H_
 #define GPU_COMMAND_BUFFER_COMMON_CONTEXT_CREATION_ATTRIBS_H_
 

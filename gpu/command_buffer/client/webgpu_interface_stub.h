@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU interface stub header
+// summary: Declares WebGPUInterfaceStub, a no-op base of WebGPUInterface used to support mocks of the WebGPU client interface.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_WEBGPU_INTERFACE_STUB_H_
 #define GPU_COMMAND_BUFFER_CLIENT_WEBGPU_INTERFACE_STUB_H_
 

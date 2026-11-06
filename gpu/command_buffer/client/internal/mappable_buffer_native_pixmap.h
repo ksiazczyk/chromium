@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappableBufferNativePixmap class declaration
+// summary: Declares the MappableBufferNativePixmap class, an Ozone native pixmap-backed MappableBuffer with mapping, stride, and handle cloning methods.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_NATIVE_PIXMAP_H_
 #define GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_NATIVE_PIXMAP_H_
 

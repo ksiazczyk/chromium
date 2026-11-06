@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dawn memory transfer handle
+// summary: Defines MemoryTransferHandle and TransferBufferType describing shared memory allocations for bulk data transfers between the Dawn WebGPU client and service.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_DAWN_MEMORY_TRANSFER_HANDLE_H_
 #define GPU_COMMAND_BUFFER_COMMON_DAWN_MEMORY_TRANSFER_HANDLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadbackBufferShadowTracker unit tests
+// summary: Unit test verifying that ReadbackBufferShadowTracker::Buffer::Alloc handles mapped memory allocation failures by returning invalid shm ids.
+// ---
+
 #include "gpu/command_buffer/client/readback_buffer_shadow_tracker.h"
 
 #include <memory>

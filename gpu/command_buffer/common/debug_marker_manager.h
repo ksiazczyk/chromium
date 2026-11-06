@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug marker manager class declaration
+// summary: Declares the DebugMarkerManager class that tracks GLES2 debug markers across nested groups held on a stack.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_DEBUG_MARKER_MANAGER_H_
 #define GPU_COMMAND_BUFFER_COMMON_DEBUG_MARKER_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryTracker implementation
+// summary: Implements QuerySyncManager and QueryTracker, which manage client-side GPU query state in buckets of mapped shared memory.
+// ---
+
 #include "gpu/command_buffer/client/query_tracker.h"
 
 #include <GLES2/gl2.h>

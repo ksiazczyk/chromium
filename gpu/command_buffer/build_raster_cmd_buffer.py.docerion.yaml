@@ -1,0 +1,4 @@
+# Docerion header of build_raster_cmd_buffer.py.
+type: script
+title: Raster command buffer code generator
+summary: Generates raster command buffer code from raster_cmd_buffer_functions.txt, defining named type validity rules and per-function generation options.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextSupport interface
+// summary: Abstract client interface for flushing pending work, sync token and query signaling, GPU fences, error callbacks, and transfer cache management.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_CONTEXT_SUPPORT_H_
 #define GPU_COMMAND_BUFFER_CLIENT_CONTEXT_SUPPORT_H_
 

@@ -4,6 +4,12 @@
 
 // This file defines the command buffer commands.
 
+// ---docerion
+// type: source
+// title: Common command buffer command formats
+// summary: Defines wire-format structures for command buffer commands, including SizedResult for pointer-returning queries and QuerySync for occlusion queries.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_COMMON_CMD_FORMAT_H_
 #define GPU_COMMAND_BUFFER_COMMON_COMMON_CMD_FORMAT_H_
 

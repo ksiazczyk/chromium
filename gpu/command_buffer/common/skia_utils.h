@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia memory statistics dump declarations
+// summary: Declares functions to dump GrDirectContext memory statistics into a process memory dump, including a background dump variant.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SKIA_UTILS_H_
 #define GPU_COMMAND_BUFFER_COMMON_SKIA_UTILS_H_
 

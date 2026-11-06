@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raster command format unit tests
+// summary: Unit tests for raster command buffer commands, checking that command encoding writes the expected bytes into a test buffer.
+// ---
+
 #include <array>
 
 // This file contains unit tests for raster commmands

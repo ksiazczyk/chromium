@@ -4,6 +4,12 @@
 
 // These functions emulate GLES2 over command buffers.
 
+// ---docerion
+// type: source
+// title: GLES2 library context management header
+// summary: Declares exported functions to initialize and terminate the GLES2 library, get or set the current GL context, and look up GL function pointers.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_GLES2_LIB_H_
 #define GPU_COMMAND_BUFFER_CLIENT_GLES2_LIB_H_
 

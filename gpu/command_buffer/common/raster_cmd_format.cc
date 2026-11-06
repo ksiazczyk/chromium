@@ -6,6 +6,12 @@
 // This file contains the binary format definition of the command buffer and
 // command buffer commands.
 
+// ---docerion
+// type: source
+// title: Raster command format implementation
+// summary: Provides GetCommandName for raster command buffer commands, mapping command IDs to names from the generated command list.
+// ---
+
 // We explicitly do NOT include raster_cmd_format.h here because client side
 // and service side have different requirements.
 #include <stddef.h>

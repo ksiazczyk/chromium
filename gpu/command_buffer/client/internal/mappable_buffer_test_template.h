@@ -5,6 +5,12 @@
 // This file defines tests that implementations of MappableBuffer should
 // pass in order to be conformant.
 
+// ---docerion
+// type: test
+// title: MappableBuffer conformance test template
+// summary: Defines a templated GoogleTest suite that MappableBuffer implementations must pass, covering allocation, mapping, and platform-specific backends.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_TEST_TEMPLATE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_TEST_TEMPLATE_H_
 

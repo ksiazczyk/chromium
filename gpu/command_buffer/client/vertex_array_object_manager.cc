@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertex array object manager implementation
+// summary: Implements VertexArrayObject and VertexArrayObjectManager, which shadow vertex attribute pointers and copy client-side buffer data into a VBO at draw time.
+// ---
+
 #include "gpu/command_buffer/client/vertex_array_object_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image usage helpers implementation
+// summary: Implements validation of client shared image usage sets and builds human-readable labels for shared image usage flag combinations.
+// ---
+
 #include "gpu/command_buffer/common/shared_image_usage.h"
 
 #include <cstdint>

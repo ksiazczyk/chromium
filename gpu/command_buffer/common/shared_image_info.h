@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image metadata and info structs
+// summary: Defines SharedImageMetadata and SharedImageInfo structs describing a shared image's format, size, color space, usage, alpha type, and debug label.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SHARED_IMAGE_INFO_H_
 #define GPU_COMMAND_BUFFER_COMMON_SHARED_IMAGE_INFO_H_
 

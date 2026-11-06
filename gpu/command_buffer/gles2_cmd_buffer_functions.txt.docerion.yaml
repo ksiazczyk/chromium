@@ -1,0 +1,4 @@
+# Docerion header of gles2_cmd_buffer_functions.txt.
+type: data
+title: GLES2 command buffer function definitions
+summary: Declares the GLES2 API function signatures that build_gles2_cmd_buffer.py parses to generate command buffer commands.

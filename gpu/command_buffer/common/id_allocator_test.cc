@@ -4,6 +4,12 @@
 
 // This file has the unit tests for the IdAllocator class.
 
+// ---docerion
+// type: test
+// title: IdAllocator unit tests
+// summary: Unit tests for IdAllocator covering allocation, freeing, reuse, MarkAsUsed, and wrap-around at the maximum ID.
+// ---
+
 #include "gpu/command_buffer/common/id_allocator.h"
 
 #include <stdint.h>

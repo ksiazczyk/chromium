@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory-backed MappableBuffer implementation
+// summary: Implements MappableBuffer over shared memory regions with stride, offset, and buffer size validation for single- and multi-plane formats.
+// ---
+
 #include "gpu/command_buffer/client/internal/mappable_buffer_shared_memory.h"
 
 #include <errno.h>

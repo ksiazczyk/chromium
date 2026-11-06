@@ -1,0 +1,4 @@
+# Docerion header of gles2_cmd_format_docs.txt.
+type: reference
+title: GLES2 command buffer format documentation
+summary: Reference documentation for the GPU command buffer format, covering command headers, data-passing modes such as shared memory, immediate data and buckets, validation rules, and OpenGL ES 2.0 command caveats.

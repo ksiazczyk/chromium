@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU command buffer helper implementation
+// summary: Implements the WebGPUCmdHelper constructor and destructor, a thin CommandBufferHelper subclass for issuing WebGPU commands.
+// ---
+
 #include "gpu/command_buffer/client/webgpu_cmd_helper.h"
 
 namespace gpu {

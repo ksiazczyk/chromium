@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command buffer constants and error enums
+// summary: Declares shared constants and enums such as command buffer error codes, context loss reasons, command buffer namespaces, and transfer buffer allocation options.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_CONSTANTS_H_
 #define GPU_COMMAND_BUFFER_COMMON_CONSTANTS_H_
 

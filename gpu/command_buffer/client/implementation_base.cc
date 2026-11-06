@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImplementationBase for GLES2 and Raster command buffer clients
+// summary: Implements the shared base class for GLES2 and Raster implementations, covering sync token generation and verification, memory freeing, and GPU control callbacks.
+// ---
+
 #include "gpu/command_buffer/client/implementation_base.h"
 
 #include <algorithm>

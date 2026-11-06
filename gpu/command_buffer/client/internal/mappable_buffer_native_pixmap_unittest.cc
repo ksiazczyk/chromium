@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native pixmap MappableBuffer unit test instantiation
+// summary: Instantiates the shared MappableBufferTest suite for the native pixmap implementation, skipping Fuchsia where Vulkan is unavailable in tests.
+// ---
+
 #include "gpu/command_buffer/client/internal/mappable_buffer_native_pixmap.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImagePoolId class
+// summary: Declares a unique, unguessable identifier class for shared image pools with comparison, hashing, and validity helpers.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SHARED_IMAGE_POOL_ID_H_
 #define GPU_COMMAND_BUFFER_COMMON_SHARED_IMAGE_POOL_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 client-side interface header
+// summary: Declares the GLES2Interface abstract class, the interface for all client-side GL functions, including SharedImage copy methods and an included auto-generated section.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_GLES2_INTERFACE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_GLES2_INTERFACE_H_
 

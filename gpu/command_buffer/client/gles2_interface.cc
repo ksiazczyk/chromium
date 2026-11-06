@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2Interface default methods
+// summary: Provides default implementations of GLES2Interface shared image copy methods, returning false or no-op callbacks for direct GL texture copies.
+// ---
+
 #include "gpu/command_buffer/client/gles2_interface.h"
 
 #include <GLES2/gl2.h>

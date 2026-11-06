@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientFontManager implementation
+// summary: Implements client-side font management, serializing Skia strike data and discardable handle state for raster.
+// ---
+
 #include "gpu/command_buffer/client/client_font_manager.h"
 
 #include <bit>

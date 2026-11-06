@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyTextureCHROMIUM helper declaration
+// summary: Declares the CopyTextureCHROMIUMNeedsESSL3 helper used to determine shader requirements for texture copies.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_GLES2_CMD_COPY_TEXTURE_CHROMIUM_UTILS_H_
 #define GPU_COMMAND_BUFFER_COMMON_GLES2_CMD_COPY_TEXTURE_CHROMIUM_UTILS_H_
 

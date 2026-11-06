@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Struct-of-arrays copy helpers for transfer buffer commands
+// summary: Template helpers that compute overflow-checked sizes and copy multiple arrays into a struct-of-arrays layout inside the transfer buffer.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_TRANSFER_BUFFER_CMD_COPY_HELPERS_H_
 #define GPU_COMMAND_BUFFER_CLIENT_TRANSFER_BUFFER_CMD_COPY_HELPERS_H_
 

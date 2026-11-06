@@ -4,6 +4,12 @@
 
 // A class to emulate GLES2 over command buffers.
 
+// ---docerion
+// type: source
+// title: GLES2 over command buffers implementation
+// summary: Implements GLES2Implementation, which emulates GLES2 over command buffers, handling client state, shared memory, transfer buffers, and error checking.
+// ---
+
 #include "gpu/command_buffer/client/gles2_implementation.h"
 
 #include <GLES2/gl2.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the internal component
+summary: Defines the internal GN component that compiles the MappableBuffer sources, adding platform-specific files and libraries for Windows, Ozone, Android and Apple builds.

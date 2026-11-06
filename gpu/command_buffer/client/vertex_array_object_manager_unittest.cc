@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the vertex array object manager
+// summary: Tests default attribute values, buffer unbinding, vertex array binding, and pointer queries of VertexArrayObjectManager.
+// ---
+
 #include "gpu/command_buffer/client/vertex_array_object_manager.h"
 
 #include <GLES2/gl2ext.h>

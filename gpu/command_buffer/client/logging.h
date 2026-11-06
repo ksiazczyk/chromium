@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU client logging macros
+// summary: Defines GPU_CLIENT_LOG and related macros plus LogSettings for debug logging controlled by --enable-gpu-client-logging, compiled out when debugging is disabled.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_LOGGING_H_
 #define GPU_COMMAND_BUFFER_CLIENT_LOGGING_H_
 

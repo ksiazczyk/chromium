@@ -4,6 +4,12 @@
 
 // This file contains the implementation of IdAllocator.
 
+// ---docerion
+// type: source
+// title: IdAllocator implementation
+// summary: Implements allocation, marking, and freeing of resource IDs using merged ranges in a range map.
+// ---
+
 #include "gpu/command_buffer/common/id_allocator.h"
 
 #include <stdint.h>

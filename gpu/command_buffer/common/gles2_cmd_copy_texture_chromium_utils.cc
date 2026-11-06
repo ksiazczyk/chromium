@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CopyTextureCHROMIUM helper implementation
+// summary: Implements the helper that reports whether CopyTextureCHROMIUM needs ESSL3 for a given destination texture format.
+// ---
+
 #include "gpu/command_buffer/common/gles2_cmd_copy_texture_chromium_utils.h"
 
 #include "gpu/command_buffer/common/gles2_cmd_utils.h"

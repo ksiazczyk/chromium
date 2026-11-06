@@ -1,0 +1,4 @@
+# Docerion header of webgpu_cmd_buffer_functions.txt.
+type: data
+title: WebGPU command buffer function definitions
+summary: Declares the WebGPU command signatures, such as Dawn command submission and mailbox association, parsed by build_webgpu_cmd_buffer.py.

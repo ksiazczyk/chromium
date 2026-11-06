@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandBufferDirectLocked class declaration
+// summary: Declares a CommandBufferDirect subclass that can lock flushes, count flushes, and optionally fail transfer buffer creation, mainly for testing.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_COMMAND_BUFFER_DIRECT_LOCKED_H_
 #define GPU_COMMAND_BUFFER_CLIENT_COMMAND_BUFFER_DIRECT_LOCKED_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared image usage unit tests
+// summary: Unit tests covering construction, set operations, intersection, and removal behavior of SharedImageUsageSet.
+// ---
+
 #include "gpu/command_buffer/common/shared_image_usage.h"
 
 #include <cstdint>

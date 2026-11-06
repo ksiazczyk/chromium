@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientDiscardableManager class declaration
+// summary: Declares the helper class that creates, locks, frees, and reuses client discardable handles.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_CLIENT_DISCARDABLE_MANAGER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_CLIENT_DISCARDABLE_MANAGER_H_
 

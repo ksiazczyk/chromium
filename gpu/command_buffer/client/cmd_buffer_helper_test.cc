@@ -4,6 +4,12 @@
 
 // Tests for the Command Buffer Helper.
 
+// ---docerion
+// type: test
+// title: Command Buffer Helper unit tests
+// summary: Unit tests for CommandBufferHelper that exercise command allocation, flushing, and waiting against a direct command buffer with a mocked API interface.
+// ---
+
 #include "gpu/command_buffer/client/cmd_buffer_helper.h"
 
 #include <stddef.h>

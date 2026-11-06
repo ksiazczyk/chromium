@@ -4,6 +4,12 @@
 
 // This file contains the definition of the FencedAllocator class.
 
+// ---docerion
+// type: source
+// title: FencedAllocator class declaration
+// summary: Declares FencedAllocator, which manages allocations in a fixed buffer and defers reuse of memory freed pending the passage of a command buffer token.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_FENCED_ALLOCATOR_H_
 #define GPU_COMMAND_BUFFER_CLIENT_FENCED_ALLOCATOR_H_
 

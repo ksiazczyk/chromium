@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebGPU client interface header
+// summary: Defines the WebGPUInterface and APIChannel abstract interfaces for issuing WebGPU commands, reserving buffers and textures, and mailbox association.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_WEBGPU_INTERFACE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_WEBGPU_INTERFACE_H_
 

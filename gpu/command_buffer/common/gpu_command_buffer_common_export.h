@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the command buffer common component
+// summary: Defines the GPU_COMMAND_BUFFER_COMMON_EXPORT macro for symbol import and export in component builds.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_GPU_COMMAND_BUFFER_COMMON_EXPORT_H_
 #define GPU_COMMAND_BUFFER_COMMON_GPU_COMMAND_BUFFER_COMMON_EXPORT_H_
 

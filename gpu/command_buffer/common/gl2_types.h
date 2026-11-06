@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenGL type definitions
+// summary: Defines GL typedefs such as GLenum and GLint so code common to client and service sides avoids including GL headers.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_GL2_TYPES_H_
 #define GPU_COMMAND_BUFFER_COMMON_GL2_TYPES_H_
 

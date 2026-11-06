@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadbackBufferShadowTracker class declaration
+// summary: Declares ReadbackBufferShadowTracker and its Buffer class, which track readback buffer shadow copies in mapped memory with serial-based staleness checks.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_READBACK_BUFFER_SHADOW_TRACKER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_READBACK_BUFFER_SHADOW_TRACKER_H_
 

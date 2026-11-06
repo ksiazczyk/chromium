@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discardable handle declarations
+// summary: Declares the discardable handle base class and its client and service subclasses that manage locked, unlocked and deleted states over a GPU buffer.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_DISCARDABLE_HANDLE_H_
 #define GPU_COMMAND_BUFFER_COMMON_DISCARDABLE_HANDLE_H_
 

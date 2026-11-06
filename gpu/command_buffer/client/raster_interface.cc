@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterInterface implementation for shared image raster operations
+// summary: Implements client-side RasterInterface helpers that copy, write pixels into, and rasterize paint records onto shared images while managing sync tokens and raster access.
+// ---
+
 #include "gpu/command_buffer/client/raster_interface.h"
 
 #include <utility>

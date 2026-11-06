@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgramInfoManager implementation
+// summary: Implements client-side caching of OpenGL ES program information such as attribs, uniforms, uniform blocks and transform feedback varyings for the GLES2 command buffer client.
+// ---
+
 #include "gpu/command_buffer/client/program_info_manager.h"
 
 #include <stddef.h>

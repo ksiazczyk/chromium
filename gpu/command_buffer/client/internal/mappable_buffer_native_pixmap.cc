@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native pixmap-backed MappableBuffer implementation
+// summary: Implements MappableBuffer on Ozone platforms using client native pixmaps, including test allocation via Ozone and plane-count mismatch handling.
+// ---
+
 #include "gpu/command_buffer/client/internal/mappable_buffer_native_pixmap.h"
 
 #include <utility>

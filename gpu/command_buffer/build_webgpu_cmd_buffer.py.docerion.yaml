@@ -1,0 +1,4 @@
+# Docerion header of build_webgpu_cmd_buffer.py.
+type: script
+title: WebGPU command buffer code generator
+summary: Generates WebGPU command buffer code from webgpu_cmd_buffer_functions.txt, defining mailbox-related types and command argument layouts.

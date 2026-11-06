@@ -4,6 +4,12 @@
 
 // Tests for the QueryTracker.
 
+// ---docerion
+// type: test
+// title: QueryTracker unit tests
+// summary: Unit tests for QuerySyncManager and QueryTracker covering allocation, freeing and shrinking of query sync buckets.
+// ---
+
 #include "gpu/command_buffer/client/query_tracker.h"
 
 #include <GLES2/gl2ext.h>

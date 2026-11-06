@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappableBufferAHB Android Hardware Buffer implementation
+// summary: Implements the Android Hardware Buffer backend of MappableBuffer, mapping native buffers into shared memory asynchronously through a GPU-process copy callback.
+// ---
+
 #include "gpu/command_buffer/client/internal/mappable_buffer_ahb.h"
 
 #include <android/hardware_buffer.h>

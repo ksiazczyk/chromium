@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageInterface API for creating shared images
+// summary: Declares the thread-safe interface for creating, importing, updating, and destroying shared images and swap chains that other APIs can import.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_SHARED_IMAGE_INTERFACE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_SHARED_IMAGE_INTERFACE_H_
 

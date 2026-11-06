@@ -1,6 +1,13 @@
 # Copyright 2019 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for command buffer code generation
+# summary: Presubmit script that reruns the GLES2, raster, and WebGPU command buffer generators with --check to verify generated files match the script output.
+# ---
+
 """Enforces command buffer autogen matches script output.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug marker manager implementation
+// summary: Implements the GLES2 debug marker manager that tracks the current debug marker through a stack of named groups.
+// ---
+
 #include "gpu/command_buffer/common/debug_marker_manager.h"
 
 namespace gpu {

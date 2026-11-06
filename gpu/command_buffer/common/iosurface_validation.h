@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSurface validation header
+// summary: Declares ValidateIOSurface, which guards against clients lying about IOSurface properties and causing out-of-bounds memory access.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_IOSURFACE_VALIDATION_H_
 #define GPU_COMMAND_BUFFER_COMMON_IOSURFACE_VALIDATION_H_
 

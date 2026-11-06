@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTransferCache implementation
+// summary: Implements the client-side transfer cache that maps memory and creates, locks, and deletes transfer cache entries in the GPU service.
+// ---
+
 #include "gpu/command_buffer/client/client_transfer_cache.h"
 
 namespace gpu {

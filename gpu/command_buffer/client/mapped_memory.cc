@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mapped memory manager implementation
+// summary: Implements MemoryChunk and MappedMemoryManager, which allocate and reclaim shared memory blocks for command buffer transfers with size limits and tracing.
+// ---
+
 #include "gpu/command_buffer/client/mapped_memory.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia GPU memory tracing implementation
+// summary: Dumps Skia GPU memory statistics into Chromium process memory dumps, mapping GL texture, buffer, and renderbuffer backings to tracing GUIDs.
+// ---
+
 #include "gpu/command_buffer/common/skia_utils.h"
 
 #include <inttypes.h>

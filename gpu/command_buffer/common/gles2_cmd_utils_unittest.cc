@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GLES2Util
+// summary: Tests GLES2Util helpers including GLGetNumValuesReturned and ComputeImageDataSizes across many GL formats.
+// ---
+
 #include "gpu/command_buffer/common/gles2_cmd_utils.h"
 
 #include <limits>

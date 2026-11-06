@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 command buffer utility implementation
+// summary: Implements GLES2Util helpers such as GL enum value counts, image size computation, and error bit handling.
+// ---
+
 #include <array>
 
 // This file is here so other GLES2 related files can have a common set of

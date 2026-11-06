@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for Buffer shared memory backing
+// summary: Verifies that a Buffer created from a shared memory region reports the region's GUID as its backing GUID.
+// ---
+
 #include "gpu/command_buffer/common/buffer.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

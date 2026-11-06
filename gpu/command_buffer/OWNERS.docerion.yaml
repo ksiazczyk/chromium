@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Command buffer directory owners
+summary: Lists the owners responsible for reviewing changes in the gpu/command_buffer directory, including dedicated reviewers for Dawn and WebGPU changes.

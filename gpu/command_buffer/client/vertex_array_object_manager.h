@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertex array object manager header
+// summary: Declares VertexArrayObjectManager, which manages client-side vertex array objects, attribute pointers, and element array bindings for the GLES2 command buffer client.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_VERTEX_ARRAY_OBJECT_MANAGER_H_
 #define GPU_COMMAND_BUFFER_CLIENT_VERTEX_ARRAY_OBJECT_MANAGER_H_
 

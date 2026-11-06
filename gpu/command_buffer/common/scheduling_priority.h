@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU scheduling priority enum
+// summary: Defines the SchedulingPriority enum with high, normal, and low levels used to prioritize GPU command buffer contexts.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SCHEDULING_PRIORITY_H_
 #define GPU_COMMAND_BUFFER_COMMON_SCHEDULING_PRIORITY_H_
 

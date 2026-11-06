@@ -5,6 +5,12 @@
 // This file is here so other GLES2 related files can have a common set of
 // includes where appropriate.
 
+// ---docerion
+// type: source
+// title: GLES2 command buffer utility declarations
+// summary: Declares GLES2Util and helpers for computing image data sizes, channel formats, and immediate data access.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_GLES2_CMD_UTILS_H_
 #define GPU_COMMAND_BUFFER_COMMON_GLES2_CMD_UTILS_H_
 

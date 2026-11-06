@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuControl interface header
+// summary: Declares the GpuControl common interface covering capabilities, queries, GPU fences, locking, namespace and command buffer IDs, and fence sync and sync token handling.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_GPU_CONTROL_H_
 #define GPU_COMMAND_BUFFER_CLIENT_GPU_CONTROL_H_
 

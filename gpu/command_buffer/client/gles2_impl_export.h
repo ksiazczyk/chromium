@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLES2 implementation export macros
+// summary: Defines the GLES2_IMPL_EXPORT macros that control symbol visibility for the GLES2 command buffer client implementation across build configurations.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_GLES2_IMPL_EXPORT_H_
 #define GPU_COMMAND_BUFFER_CLIENT_GLES2_IMPL_EXPORT_H_
 

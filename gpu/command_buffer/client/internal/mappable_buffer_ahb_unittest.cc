@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MappableBufferAHB unit test instantiation
+// summary: Instantiates the shared MappableBufferTest typed test suite for the Android Hardware Buffer implementation.
+// ---
+
 #include "gpu/command_buffer/client/internal/mappable_buffer_ahb.h"
 
 #include "gpu/command_buffer/client/internal/mappable_buffer_test_template.h"

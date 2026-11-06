@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientTransferCache header
+// summary: Declares ClientTransferCache, which inserts client transfer cache entries into the service transfer cache and documents the usage flow.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_CLIENT_TRANSFER_CACHE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_CLIENT_TRANSFER_CACHE_H_
 

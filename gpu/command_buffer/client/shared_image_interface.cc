@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImageInterface implementation
+// summary: Implements helpers of the SharedImageInterface base, including shared memory region creation and CPU usage mapping for shared images.
+// ---
+
 #include "gpu/command_buffer/client/shared_image_interface.h"
 
 #include <GLES2/gl2.h>

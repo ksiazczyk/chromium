@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSharedImageInterface fake implementation
+// summary: Provides a test fake of SharedImageInterface that creates shared images from shared memory for use in unit tests.
+// ---
+
 #include "gpu/command_buffer/client/test_shared_image_interface.h"
 
 #include <GLES2/gl2.h>

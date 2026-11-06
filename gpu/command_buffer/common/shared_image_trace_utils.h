@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image tracing GUID helper
+// summary: Declares GetSharedImageGUIDForTracing, which generates a memory tracing GUID linking client and service memory dumps for a shared image mailbox.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_SHARED_IMAGE_TRACE_UTILS_H_
 #define GPU_COMMAND_BUFFER_COMMON_SHARED_IMAGE_TRACE_UTILS_H_
 

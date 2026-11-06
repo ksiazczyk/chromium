@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for transfer buffer command copy helpers
+// summary: Tests size computation, copy layout, and chunked TransferArraysAndExecute behavior of the copy helpers using a fake scoped transfer buffer.
+// ---
+
 #include "gpu/command_buffer/client/transfer_buffer_cmd_copy_helpers.h"
 
 #include <type_traits>

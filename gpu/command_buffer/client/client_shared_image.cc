@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSharedImage implementation
+// summary: Implements ClientSharedImage, managing client-side shared images, texture target computation, and platform-specific mappable buffers.
+// ---
+
 #include "gpu/command_buffer/client/client_shared_image.h"
 
 #include <GLES2/gl2.h>

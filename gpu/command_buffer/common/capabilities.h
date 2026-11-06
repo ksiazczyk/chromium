@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU command buffer capability definitions
+// summary: Declares Capabilities and GLCapabilities structs describing GPU features, texture limits, DRM formats and shader precision information.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_COMMON_CAPABILITIES_H_
 #define GPU_COMMAND_BUFFER_COMMON_CAPABILITIES_H_
 

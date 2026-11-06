@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MappableBufferDXGI class declaration
+// summary: Declares the MappableBufferDXGI class, the DXGI-based Windows implementation of MappableBuffer with premapped memory support and handle token accessors.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_DXGI_H_
 #define GPU_COMMAND_BUFFER_CLIENT_INTERNAL_MAPPABLE_BUFFER_DXGI_H_
 

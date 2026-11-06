@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareGroup implementation with GL resource id handlers
+// summary: Implements ShareGroup and id handlers that allocate, free, and bind GL resource ids across contexts with flush generation and locking support.
+// ---
+
 #include "gpu/command_buffer/client/share_group.h"
 
 #include <stdint.h>

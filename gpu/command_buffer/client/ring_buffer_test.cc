@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RingBuffer unit tests
+// summary: GTest suite exercising RingBuffer allocation, freeing, and wrapping behavior using a command buffer helper with mocked API and token handling.
+// ---
+
 #include <array>
 
 // This file contains the tests for the RingBuffer class.

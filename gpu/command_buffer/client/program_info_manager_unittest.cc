@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProgramInfoManager unit tests
+// summary: Unit tests for ProgramInfoManager covering ES2 program info, uniform blocks, transform feedback varyings and cached uniform queries.
+// ---
+
 #include "gpu/command_buffer/client/program_info_manager.h"
 
 #include <stddef.h>

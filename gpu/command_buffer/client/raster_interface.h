@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterInterface class declaration
+// summary: Declares the abstract RasterInterface class defining shared image copy, pixel write, and raster command entry points for the GPU command buffer client.
+// ---
+
 #ifndef GPU_COMMAND_BUFFER_CLIENT_RASTER_INTERFACE_H_
 #define GPU_COMMAND_BUFFER_CLIENT_RASTER_INTERFACE_H_
 

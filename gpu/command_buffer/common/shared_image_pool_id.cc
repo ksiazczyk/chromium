@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedImagePoolId implementation
+// summary: Implements SharedImagePoolId creation from cryptographically random unguessable tokens and its string representation.
+// ---
+
 #include "gpu/command_buffer/common/shared_image_pool_id.h"
 
 namespace gpu {
