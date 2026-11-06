@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for BindingsManagerCast
+// summary: Contains browser tests verifying binding injection and message port connection for BindingsManagerCast using an embedded test server.
+// ---
+
 #include "chromecast/bindings/bindings_manager_cast.h"
 
 #include <string>

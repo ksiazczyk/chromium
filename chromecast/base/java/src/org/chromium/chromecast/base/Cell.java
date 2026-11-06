@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cell single-activation observable
+// summary: An Observable holding exactly one activation at a time, with sequenced mutators to set or mutate the activation data.
+// ---
+
 package org.chromium.chromecast.base;
 
 import java.util.ArrayList;

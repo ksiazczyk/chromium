@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Path utility declarations
+// summary: Declares helpers that resolve relative paths against the HOME, BIN and TMP directories and pass absolute paths through unchanged.
+// ---
+
 #ifndef CHROMECAST_BASE_PATH_UTILS_H_
 #define CHROMECAST_BASE_PATH_UTILS_H_
 

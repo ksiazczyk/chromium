@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_vi.xtb.
+type: data
+title: Vietnamese Chromecast settings translation bundle
+summary: Translation bundle providing the Chromecast settings accept-languages string in Vietnamese.

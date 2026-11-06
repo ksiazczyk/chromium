@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_gu.xtb.
+type: data
+title: Chromecast settings translations for Gujarati
+summary: Translation bundle that sets the accepted languages for Chromecast settings to Gujarati and Hindi with English fallbacks.

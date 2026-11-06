@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observer utility unit tests
+// summary: Unit tests for the Observer utility class that builds readable subscribers for Observable.subscribe() with onOpen and onClose handlers.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.hamcrest.MatcherAssert.assertThat;

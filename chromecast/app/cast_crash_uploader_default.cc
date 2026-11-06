@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default CastCrashUploader implementation
+// summary: Provides the non-Android CastCrashUploader whose UploadDumps is a NOTREACHED placeholder pending crash reporting migration.
+// ---
+
 #include "chromecast/app/cast_crash_uploader_default.h"
 #include <memory>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Box mutable variable wrapper
+// summary: Encapsulates a mutable variable so it can be shared between a local scope and capturing lambdas.
+// ---
+
 package org.chromium.chromecast.base;
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_et.xtb.
+type: data
+title: Chromecast settings translations for Estonian
+summary: Translation bundle that sets the accepted languages for Chromecast settings to Estonian with English fallbacks.

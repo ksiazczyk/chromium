@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped temp file implementation
+// summary: Implements ScopedTempFile, which creates a temporary file on construction, deletes it on destruction, and provides write and read helpers for tests.
+// ---
+
 #include "chromecast/base/scoped_temp_file.h"
 #include "base/check.h"
 #include "base/files/file_util.h"

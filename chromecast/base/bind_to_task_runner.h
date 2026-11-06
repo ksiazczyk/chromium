@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bind callbacks to current task runner helpers
+// summary: Header providing templates that bind callbacks to run on the current thread or sequence via base::BindPostTask.
+// ---
+
 #ifndef CHROMECAST_BASE_BIND_TO_TASK_RUNNER_H_
 #define CHROMECAST_BASE_BIND_TO_TASK_RUNNER_H_
 

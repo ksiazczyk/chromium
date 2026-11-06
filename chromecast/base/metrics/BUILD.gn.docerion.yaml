@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast metrics GN build definition
+summary: Defines the GN source sets for the Chromecast metrics library and its test-only gmock test support target.

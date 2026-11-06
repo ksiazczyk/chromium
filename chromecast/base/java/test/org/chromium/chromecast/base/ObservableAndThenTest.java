@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableAndThenTest: unit tests for the Observable.andThen() operator'
+// summary: JUnit tests verifying that Observable.andThen() fires only when the first state activates before the second, covering open and close notification sequences.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.hamcrest.MatcherAssert.assertThat;

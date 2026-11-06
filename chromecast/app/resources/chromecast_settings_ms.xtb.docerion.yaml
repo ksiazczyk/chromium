@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_ms.xtb.
+type: data
+title: Chromecast settings translation bundle for Malay (ms)
+summary: XML translation bundle that supplies the Malay accept-languages list for Chromecast settings.

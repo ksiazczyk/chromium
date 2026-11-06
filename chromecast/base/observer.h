@@ -95,6 +95,12 @@
 // };
 //
 
+// ---docerion
+// type: source
+// title: Observable/Observer pattern header
+// summary: Implements a thread-safe Observable/Observer pattern for observing copyable values with asynchronous updates across threads.
+// ---
+
 #ifndef CHROMECAST_BASE_OBSERVER_H_
 #define CHROMECAST_BASE_OBSERVER_H_
 

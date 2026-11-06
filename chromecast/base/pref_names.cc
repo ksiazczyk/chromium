@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast preference name constants
+// summary: Defines constant preference key names for Chromecast, covering DCS experiments and features, metrics client ID, opt-in stats, TOS acceptance, stability crash counts, and web color scheme.
+// ---
+
 #include "chromecast/base/pref_names.h"
 
 namespace chromecast {

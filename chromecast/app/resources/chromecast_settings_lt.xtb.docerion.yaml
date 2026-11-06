@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_lt.xtb.
+type: data
+title: Chromecast settings Lithuanian translation bundle
+summary: XML translation bundle for Lithuanian that sets the IDS_CHROMECAST_SETTINGS_ACCEPT_LANGUAGES list to lt, en-US, en, ru and pl for Chromecast settings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scope interface for cleanup on state exit
+// summary: AutoCloseable interface representing cleanup actions performed when leaving a state, with an and method to combine scopes.
+// ---
+
 package org.chromium.chromecast.base;
 
 /**

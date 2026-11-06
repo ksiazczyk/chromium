@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy Cast system info implementation
+// summary: Implements a dummy CastSysInfo with default values, optional JSON file overrides and setters for testing.
+// ---
+
 #include "chromecast/base/cast_sys_info_dummy.h"
 
 #include "base/files/file_path.h"

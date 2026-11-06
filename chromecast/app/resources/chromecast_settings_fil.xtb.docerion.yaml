@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_fil.xtb.
+type: data
+title: Chromecast settings translations for Filipino
+summary: Translation bundle that sets the accepted languages for Chromecast settings to Filipino and Tagalog with English fallbacks.

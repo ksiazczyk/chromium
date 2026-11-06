@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dumpstate bugreport value writer
+// summary: Stores named values to be written into a bugreport when dumpstate runs, with values addable from native code.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.jni_zero.CalledByNative;

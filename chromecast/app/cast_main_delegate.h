@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMainDelegate class declaration
+// summary: Declares the content main delegate that creates Cast browser, GPU, and renderer clients and hooks startup stages.
+// ---
+
 #ifndef CHROMECAST_APP_CAST_MAIN_DELEGATE_H_
 #define CHROMECAST_APP_CAST_MAIN_DELEGATE_H_
 

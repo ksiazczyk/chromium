@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feature flag management implementation
+// summary: Implements Cast platform feature registration with DCS and command-line overrides, plus feature list initialization.
+// ---
+
 #include "chromecast/base/cast_features.h"
 
 #include <algorithm>

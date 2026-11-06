@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromecast app build configuration
+summary: Defines GN targets for the Cast app, crash reporting clients, crash uploader, test support, unittests, and grit resources.

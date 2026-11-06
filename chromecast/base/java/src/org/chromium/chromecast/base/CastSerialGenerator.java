@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast serial number generator
+// summary: Generates a random Base64 serial number on Android and persists it in shared preferences for reuse.
+// ---
+
 package org.chromium.chromecast.base;
 
 import android.content.SharedPreferences;

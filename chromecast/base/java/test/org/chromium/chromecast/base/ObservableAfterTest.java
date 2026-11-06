@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Observable.after()
+// summary: JUnit tests for Observable#after(), ensuring observers only receive state changes occurring after subscription and that after() is idempotent when chained.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

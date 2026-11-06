@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Cast bindings directory
+summary: Lists allowed include paths for chromecast/bindings, with extra rules for the Cast browser test and Fuchsia files.

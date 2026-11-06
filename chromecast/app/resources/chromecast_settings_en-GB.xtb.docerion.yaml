@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_en-GB.xtb.
+type: data
+title: Chromecast settings translations for English (United Kingdom)
+summary: Translation bundle that sets the accepted languages for Chromecast settings to en-GB, en-US and en.

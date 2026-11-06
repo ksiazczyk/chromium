@@ -1,0 +1,4 @@
+# Docerion header of shell_resources.grd.
+type: config
+title: Cast shell GRIT resource definitions
+summary: GRIT resource file that packages the shell's JavaScript, devtools discovery page, and speaker icon into shell_resources.pak.

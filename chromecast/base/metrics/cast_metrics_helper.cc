@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastMetricsHelper implementation
+// summary: Implements CastMetricsHelper, which records Cast user actions and timing metrics, encoding app ID, session ID and SDK version into metric names.
+// ---
+
 #include "chromecast/base/metrics/cast_metrics_helper.h"
 
 #include <utility>

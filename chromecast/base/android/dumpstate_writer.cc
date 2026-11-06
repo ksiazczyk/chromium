@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DumpstateWriter JNI implementation
+// summary: Implements the native side of the DumpstateWriter JNI bridge, forwarding added dump values to the Java DumpstateWriter class.
+// ---
+
 #include "chromecast/base/android/dumpstate_writer.h"
 
 #include "base/android/jni_android.h"

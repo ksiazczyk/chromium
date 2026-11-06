@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper classes Base and Derived
+// summary: Provides simple Base and Derived classes used by tests to exercise generic subtype and supertype handling.
+// ---
+
 package org.chromium.chromecast.base;
 
 class Inheritance {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast crash reporter client for Android implementation
+// summary: Implements CastCrashReporterClientAndroid, supplying product info, the reporter log filename, and crash dump and report locations on Android.
+// ---
+
 #include "chromecast/app/android/cast_crash_reporter_client_android.h"
 
 #include "base/android/apk_info.h"

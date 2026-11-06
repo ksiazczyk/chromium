@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Cast system info class declaration
+// summary: Declares CastSysInfoAndroid, the Android CastSysInfo implementation exposing device, build and factory locale information.
+// ---
+
 #ifndef CHROMECAST_BASE_CAST_SYS_INFO_ANDROID_H_
 #define CHROMECAST_BASE_CAST_SYS_INFO_ANDROID_H_
 

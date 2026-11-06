@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_nl.xtb.
+type: data
+title: Chromecast settings translation bundle for Dutch (nl)
+summary: XML translation bundle that supplies the Dutch accept-languages list for Chromecast settings.

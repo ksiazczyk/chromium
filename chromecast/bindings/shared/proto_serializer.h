@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtoSerializer template for base64 protobuf conversion
+// summary: Header-only template class offering static Serialize and Deserialize helpers that convert protobufs to and from base64 for consistent use by bindings frontends and backends.
+// ---
+
 #ifndef CHROMECAST_BINDINGS_SHARED_PROTO_SERIALIZER_H_
 #define CHROMECAST_BINDINGS_SHARED_PROTO_SERIALIZER_H_
 

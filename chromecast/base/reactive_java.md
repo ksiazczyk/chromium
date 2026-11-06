@@ -1,3 +1,9 @@
+---
+type: guide
+title: Reactive Android Java programming
+summary: Explains the Observable and Observer reactive programming pattern for Android Java, with motivating examples, data flow handling, subscriptions as scopes, best practices, testing, and debugging tips.
+---
+
 # Reactive Android Java programming
 
 [TOC]

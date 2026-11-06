@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromecast command-line switch declarations
+// summary: Declares Chromecast switch constants and helper functions to read boolean, integer, and floating point values from the command line.
+// ---
+
 #ifndef CHROMECAST_BASE_CHROMECAST_SWITCHES_H_
 #define CHROMECAST_BASE_CHROMECAST_SWITCHES_H_
 

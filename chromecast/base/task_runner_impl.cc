@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task runner implementation
+// summary: Implements TaskRunnerImpl, which posts Chromecast Task objects as delayed tasks on a single-thread task runner for vendor backend use.
+// ---
+
 #include "chromecast/base/task_runner_impl.h"
 
 #include "base/functional/bind.h"

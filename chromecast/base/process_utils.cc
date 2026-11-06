@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetAppOutput process helper implementation
+// summary: Implements GetAppOutput, which runs a command via popen, captures its stdout into a string, and returns success only when the process exits cleanly.
+// ---
+
 #include "chromecast/base/process_utils.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableAndTest: unit tests for the Observable.and() operator'
+// summary: JUnit tests verifying that Observable.and() activates only when both source controllers are active and handles activation, deactivation, and reactivation ordering.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequencerTest
+// summary: JUnit tests verifying that Sequencer runs posted tasks in order, queues nested tasks, and throws InceptionException on infinite loops.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeightedMean implementation
+// summary: Implements the WeightedMean class, which incrementally computes a weighted mean and variance while supporting both adding and removing samples.
+// ---
+
 #include "chromecast/base/statistics/weighted_mean.h"
 
 #include <cmath>

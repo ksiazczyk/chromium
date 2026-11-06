@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to chromecast/android
+summary: Points to chromecast/android/OWNERS so that directory's owners also review changes in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastMetricsHelper unit tests
+// summary: Unit tests for CastMetricsHelper covering app load tracking, SDK info updates and application event recording against a mock metrics sink.
+// ---
+
 #include "chromecast/base/metrics/cast_metrics_helper.h"
 
 #include <memory>

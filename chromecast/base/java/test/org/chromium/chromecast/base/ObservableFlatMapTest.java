@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableFlatMapTest: unit tests for the Observable.flatMap() operator'
+// summary: JUnit tests verifying that Observable.flatMap() switches between inner observables when the source changes, with identity and accessor-based mappings.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

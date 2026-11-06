@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-app grouped histogram implementation
+// summary: Implements grouped histograms that override selected network histograms and emit app-name-suffixed variants for each recorded sample.
+// ---
+
 #include "chromecast/base/metrics/grouped_histogram.h"
 
 #include <stddef.h>

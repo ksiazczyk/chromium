@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableMapTest: unit tests for the Observable.map() operator'
+// summary: JUnit tests verifying that Observable.map() transforms data, supports generic super- and subtype functions, and drops null results.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

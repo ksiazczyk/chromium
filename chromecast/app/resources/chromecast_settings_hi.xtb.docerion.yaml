@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_hi.xtb.
+type: data
+title: Chromecast settings Hindi translation bundle
+summary: XML translation bundle for Hindi that sets the IDS_CHROMECAST_SETTINGS_ACCEPT_LANGUAGES list to hi-IN, hi, en-US and en for Chromecast settings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Observer unit tests
+// summary: Unit tests covering Observable and Observer behavior, including multiple observers, cross-thread updates and value checks.
+// ---
+
 #include <functional>
 #include <memory>
 

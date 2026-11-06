@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the chromecast activity source set
+summary: GN build configuration defining the activity source set that contains queryable_data_host.h and depends on //base.

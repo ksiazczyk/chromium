@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feature declarations and utilities
+// summary: Declares Cast features and APIs to initialize, query, persist, and test feature state.
+// ---
+
 #ifndef CHROMECAST_BASE_CAST_FEATURES_H_
 #define CHROMECAST_BASE_CAST_FEATURES_H_
 

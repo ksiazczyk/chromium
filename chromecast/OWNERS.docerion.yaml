@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owner rules for chromecast
+summary: Delegates ownership to CHROMECAST_OWNERS and assigns per-file owners for Android, Java, and Fuchsia changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableAnyTest: unit tests for Observable.any()'
+// summary: JUnit tests verifying that Observable.any() activates when any source activation exists and deactivates only after all source activations are closed.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

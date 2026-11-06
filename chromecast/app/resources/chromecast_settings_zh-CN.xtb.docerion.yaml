@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_zh-CN.xtb.
+type: data
+title: Simplified Chinese Chromecast settings translation bundle
+summary: Translation bundle providing the Chromecast settings accept-languages string in Simplified Chinese.

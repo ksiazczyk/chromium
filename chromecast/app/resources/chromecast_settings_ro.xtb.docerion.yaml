@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_ro.xtb.
+type: data
+title: Chromecast settings translation bundle for Romanian (ro)
+summary: XML translation bundle that supplies the Romanian accept-languages list for Chromecast settings.

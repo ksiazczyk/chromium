@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalService base class for same-process bound services
+// summary: Abstract Android Service base class that lets clients in the same application share a resource through an Observable returned by the bind method.
+// ---
+
 package org.chromium.chromecast.base;
 
 import android.app.Service;

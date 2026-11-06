@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadHealthChecker implementation
+// summary: Implements ThreadHealthChecker, which periodically posts a sentinel task to a patient task runner and invokes a failure callback when it does not run within the timeout.
+// ---
+
 #include "chromecast/base/thread_health_checker.h"
 
 #include <memory>

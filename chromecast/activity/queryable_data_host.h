@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryableDataHost interface header
+// summary: Declares the QueryableDataHost interface for sending queryable key-value data to a host via WebContents or FIDL on Fuchsia.
+// ---
+
 #ifndef CHROMECAST_ACTIVITY_QUERYABLE_DATA_HOST_H_
 #define CHROMECAST_ACTIVITY_QUERYABLE_DATA_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer interface for state entry and exit actions
+// summary: Interface defining actions to run when entering and exiting a state, with helpers onOpen, onClose, and both for common observer patterns.
+// ---
+
 package org.chromium.chromecast.base;
 
 import java.util.function.BiFunction;

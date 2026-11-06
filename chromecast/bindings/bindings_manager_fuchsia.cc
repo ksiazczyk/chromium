@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of BindingsManagerFuchsia
+// summary: Implements BindingsManagerFuchsia, which serves binding scripts as Fuchsia memory buffers over the chromium::cast::ApiBindings FIDL service.
+// ---
+
 #include "chromecast/bindings/bindings_manager_fuchsia.h"
 
 #include <memory>

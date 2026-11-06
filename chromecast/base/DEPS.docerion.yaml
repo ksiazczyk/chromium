@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chromecast/base
+summary: Allows including JNI headers from chromecast/base and chromecast/browser within this directory.

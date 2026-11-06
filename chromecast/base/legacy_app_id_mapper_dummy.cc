@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy legacy app ID mapper
+// summary: Stub implementation of MapLegacyAppId that always returns the unknown-app fallback AppID.
+// ---
+
 #include "chromecast/base/legacy_app_id_mapper.h"
 
 namespace chromecast {

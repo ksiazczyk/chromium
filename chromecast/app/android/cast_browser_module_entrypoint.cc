@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast browser module JNI entry point
+// summary: Implements JNI_OnLoad_cast_browser, initializing the content compositor and installing the CastMainDelegate for the cast browser module.
+// ---
+
 #include "base/android/jni_utils.h"
 #include "chromecast/app/cast_main_delegate.h"
 #include "content/public/app/content_main.h"

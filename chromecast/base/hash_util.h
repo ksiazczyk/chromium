@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast hash utility declarations
+// summary: Declares utilities that hash strings and Cast-related identifiers into 32- and 64-bit integers for UMA metrics.
+// ---
+
 #ifndef CHROMECAST_BASE_HASH_UTIL_H_
 #define CHROMECAST_BASE_HASH_UTIL_H_
 

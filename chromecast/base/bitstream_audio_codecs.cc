@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitstream audio codec info implementation
+// summary: Implements codec bitmap operations, masking, and string conversion for supported bitstream audio codecs.
+// ---
+
 #include "chromecast/base/bitstream_audio_codecs.h"
 
 #include <string_view>

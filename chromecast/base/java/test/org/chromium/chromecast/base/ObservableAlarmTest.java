@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Observable.alarm()
+// summary: JUnit tests for Observable#alarm(), verifying scheduler interaction, delayed callback resolution, unsubscribe behavior, and zero-delay asynchronous notification.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.mockito.ArgumentMatchers.any;

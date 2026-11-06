@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CastSettingsManager
+// summary: Robolectric and Mockito tests for CastSettingsManager, checking device name lookup, cast enablement, settings observer registration, and listener callbacks.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static android.provider.Settings.Global.DEVICE_NAME;

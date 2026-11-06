@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pool unit tests
+// summary: Unit tests for Pool covering adding and removing items, multiple observers, unsubscribe ordering, and duplicate data activations.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

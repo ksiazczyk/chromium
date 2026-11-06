@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeightedMean class header
+// summary: Declares the WeightedMean class, which calculates the weighted mean and variance of a set of values that can be added to or removed from the mean.
+// ---
+
 #ifndef CHROMECAST_BASE_STATISTICS_WEIGHTED_MEAN_H_
 #define CHROMECAST_BASE_STATISTICS_WEIGHTED_MEAN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial error code persistence
+// summary: Reads and writes the initial_error file that records the error code for cast_shell's first idle screen.
+// ---
+
 #include "chromecast/base/error_codes.h"
 
 #include <errno.h>

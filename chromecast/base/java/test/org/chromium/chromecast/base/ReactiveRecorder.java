@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReactiveRecorder test utility
+// summary: Test helper that records events emitted by Observables and offers a fluent interface for descriptive assertions in unit tests.
+// ---
+
 package org.chromium.chromecast.base;
 
 import static org.hamcrest.MatcherAssert.assertThat;

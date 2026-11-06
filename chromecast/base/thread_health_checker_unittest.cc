@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadHealthChecker unit tests
+// summary: Unit tests for ThreadHealthChecker using mock time task runners to verify timeout firing, timely task flushing, later-iteration timeouts, and destruction behavior.
+// ---
+
 #include "chromecast/base/thread_health_checker.h"
 
 #include "base/functional/bind.h"

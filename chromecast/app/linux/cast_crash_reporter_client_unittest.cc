@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast crash reporter client unit tests
+// summary: Unit tests that simulate app crashes to verify minidumps are moved to the minidumps directory, dumpstate files are written, and lockfile dump info records the correct app state.
+// ---
+
 #include "chromecast/app/linux/cast_crash_reporter_client.h"
 
 #include <fstream>

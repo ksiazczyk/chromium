@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'ObservableFoldTest: unit tests for the Observable.fold() operator'
+// summary: JUnit tests verifying that Observable.fold() accumulates activations and deactivations into running sums and transition strings for static and mutable sources.
+// ---
+
 package org.chromium.chromecast.base;
 
 import org.junit.Test;

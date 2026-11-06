@@ -1,0 +1,4 @@
+# Docerion header of verify_cast_locales.py.
+type: script
+title: Cast locales verification script
+summary: Checks that the CAST_LOCALES list matches the GN locale list so Chromecast owners review any locale changes.

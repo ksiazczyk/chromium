@@ -1,0 +1,4 @@
+# Docerion header of chromecast_settings_he.xtb.
+type: data
+title: Chromecast settings translations for Hebrew
+summary: Translation bundle that sets the accepted languages for Chromecast settings to Hebrew with English fallbacks.

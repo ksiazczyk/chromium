@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the proto_serializer source set
+summary: GN build file defining the proto_serializer source set with proto_serializer.h as its source and a public dependency on //base.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hash utility unit tests
+// summary: Unit tests verifying HashCastBuildNumber64, HashSdkVersion64 and HashAndroidBuildNumber64 against known version and build number strings.
+// ---
+
 #include "chromecast/base/hash_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

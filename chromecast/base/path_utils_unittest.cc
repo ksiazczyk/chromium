@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Path utility unit tests
+// summary: Unit tests verifying that GetHomePath, GetBinPath and GetTmpPath resolve relative paths and keep absolute paths unchanged.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/path_service.h"
 #include "chromecast/base/path_utils.h"
