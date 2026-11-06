@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetPrefsManager class declaration
+// summary: Declares CronetPrefsManager, which manages the PrefService, JsonPrefStore, and persistence managers for network quality and host cache on the network thread.
+// ---
+
 #ifndef COMPONENTS_CRONET_CRONET_PREFS_MANAGER_H_
 #define COMPONENTS_CRONET_CRONET_PREFS_MANAGER_H_
 

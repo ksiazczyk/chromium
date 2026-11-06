@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash keys implementation
+// summary: Implements crash key helpers that record the metrics client ID, command-line switches, and enabled or disabled feature flags for crash reports.
+// ---
+
 #include "components/crash/core/common/crash_keys.h"
 
 #include <algorithm>

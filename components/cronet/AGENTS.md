@@ -1,3 +1,13 @@
+---
+type: guide
+title: Cronet Project Overview and AI Guidelines
+summary: Describes Cronet's layered architecture, typical call flow, build and test workflows, and coding style for AI agents working on the project.
+relations:
+  - documents /components/cronet/android/cronet_context_adapter.cc
+  - documents /components/cronet/android/cronet_url_request_adapter.cc
+  - documents /components/cronet/android/cronet_library_loader.cc
+---
+
 # Cronet Project Overview
 
 **Cronet** is the networking stack of Chromium extracted into a library for use

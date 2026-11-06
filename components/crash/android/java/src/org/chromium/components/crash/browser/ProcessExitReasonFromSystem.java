@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessExitReasonFromSystem
+// summary: Retrieves the exit reason of a dead process from ActivityManager's ApplicationExitInfo on Android R+ and records it to UMA histograms.
+// ---
+
 package org.chromium.components.crash.browser;
 
 import android.app.ActivityManager;

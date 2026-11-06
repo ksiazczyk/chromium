@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IO buffer with byte buffer implementation
+// summary: Implements net IO buffer wrappers that share data with Java direct ByteBuffers over JNI in both directions.
+// ---
+
 #include "components/cronet/android/io_buffer_with_byte_buffer.h"
 
 #include "base/android/jni_bytebuffer.h"

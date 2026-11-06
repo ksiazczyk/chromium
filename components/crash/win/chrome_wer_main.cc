@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_wer_main.cc WER runtime exception callbacks
+// summary: Implements the DLL entry point and WER exception callbacks that forward stack buffer overrun exceptions to the crashpad WER handler.
+// ---
+
 #include <Windows.h>
 
 // werapi.h must be after Windows.h

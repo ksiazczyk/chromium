@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR Metadata for the Critical Actions Component
+summary: Maps the directory to the Chrome privacy issue-tracking components in Monorail and public Buganizer.

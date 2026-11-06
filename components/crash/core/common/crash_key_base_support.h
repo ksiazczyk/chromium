@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of crash key base support initialization
+// summary: Declares InitializeCrashKeyBaseSupport, which hooks the crash reporter key implementation into base's crash logging interface.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_CRASH_KEY_BASE_SUPPORT_H_
 #define COMPONENTS_CRASH_CORE_COMMON_CRASH_KEY_BASE_SUPPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Objective-C zombie debugging header
+// summary: Declares ZombieEnable and ZombieDisable to turn deallocated Objective-C objects into zombies for detecting use-after-free errors.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_OBJC_ZOMBIE_H_
 #define COMPONENTS_CRASH_CORE_COMMON_OBJC_ZOMBIE_H_
 

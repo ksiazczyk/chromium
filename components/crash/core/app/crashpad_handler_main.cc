@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad handler main entry point
+// summary: Entry point for the Crashpad handler process that assembles user stream data sources such as stability reports, GWP-ASan, and the allocation recorder before running the handler.
+// ---
+
 #include <memory>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Run as Crashpad handler on Windows
+// summary: Runs an embedded copy of crashpad_handler on Windows, cleaning command-line arguments and wiring shared memory user stream data sources.
+// ---
+
 #include "components/crash/core/app/run_as_crashpad_handler_win.h"
 
 #include <algorithm>

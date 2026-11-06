@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Implementation of third-party credential management requests
+// summary: Handles store and get requests for the Credential Management API through the bridge, enforcing visibility, focus and off-the-record checks and mediation rules.
+// ---
+
 #include "components/credential_management/android/third_party_credential_manager_impl.h"
 
 #include "base/android/callback_android.h"

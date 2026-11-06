@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cronet Android include rules
+summary: Specifies allowed include dependencies for the Cronet Android directory, such as metrics, crypto, JNI, protobuf, and BoringSSL.

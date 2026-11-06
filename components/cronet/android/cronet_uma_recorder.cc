@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native UMA recorder for Cronet on Android
+// summary: Records UMA histogram samples reported from Java via JNI, parsing a startup allowlist of metric name hashes with per-metric sampling rates.
+// ---
+
 #include "components/cronet/android/cronet_uma_recorder.h"
 
 #include <algorithm>

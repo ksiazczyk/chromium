@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter client implementation
+// summary: Implements default CrashReporterClient behavior and the global client setter and getter, including the default crash upload URL for official Google Chrome builds.
+// ---
+
 #include "components/crash/core/app/crash_reporter_client.h"
 
 #include "build/branding_buildflags.h"

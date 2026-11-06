@@ -1,0 +1,4 @@
+# Docerion header of cronet_test_templates.gni.
+type: config
+title: GN templates for Cronet test targets
+summary: Defines GN templates that rename Java classes in test jars and provide drop-in replacements for test and instrumentation test APK targets matching shipped Cronet jars.

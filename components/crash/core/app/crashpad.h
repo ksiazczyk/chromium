@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad initialization API
+// summary: Declares the Crashpad initialization API, including Windows embedded-handler variants, dump requests, database access, and related helper functions per platform.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_CRASHPAD_H_
 #define COMPONENTS_CRASH_CORE_APP_CRASHPAD_H_
 

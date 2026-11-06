@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy callback request adapter implementation
+// summary: Implements the JNI adapter that lets Java ProxyCallbackRequestImpl forward or cancel proxy tunnel requests to Chromium's ProxyDelegate callback.
+// ---
+
 #include "components/cronet/android/proxy_callback_request_adapter.h"
 
 #include <memory>

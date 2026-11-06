@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet bidirectional stream adapter header
+// summary: Declares the adapter bridging Java BidirectionalStream calls to net::BidirectionalStream, including the CronetMetrics and PendingWriteData helper structs.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_CRONET_BIDIRECTIONAL_STREAM_ADAPTER_H_
 #define COMPONENTS_CRONET_ANDROID_CRONET_BIDIRECTIONAL_STREAM_ADAPTER_H_
 

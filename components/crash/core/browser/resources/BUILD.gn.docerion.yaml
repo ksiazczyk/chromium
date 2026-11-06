@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crashes WebUI build definition
+summary: GN build rules that assemble the crashes WebUI page from its CSS, HTML and SVG static files plus the crashes TypeScript source.

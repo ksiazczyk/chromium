@@ -1,0 +1,4 @@
+# Docerion header of dependencies.txt.
+type: data
+title: Cronet Android dependency list
+summary: Lists the GN build dependency paths, including base, net, and third-party libraries, required by the Cronet Android component.

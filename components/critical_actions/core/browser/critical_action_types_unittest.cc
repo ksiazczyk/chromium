@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Critical action types unit tests
+// summary: Verifies that labels and tooltips for every critical action type match the expected localized strings, including WebMCP tool metadata variants.
+// ---
+
 #include "components/critical_actions/core/browser/critical_action_types.h"
 
 #include "components/strings/grit/components_strings.h"

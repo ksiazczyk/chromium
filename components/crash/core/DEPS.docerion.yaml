@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Crash core DEPS dependency rules
+summary: Defines include rules that keep the crash core component's dependencies minimal, since it is shared with the Chrome OS build, allowing only specific crashpad and breakpad headers.

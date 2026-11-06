@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: chrome_wer_module_unittest.cc module load and export tests
+// summary: Unit test that loads chrome_wer.dll and verifies its required WER exports exist, return the expected HRESULTs, and use the correct calling convention.
+// ---
+
 #include <Windows.h>
 #include <werapi.h>
 

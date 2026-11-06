@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter client interface
+// summary: Defines the CrashReporterClient embedder interface and the trivially copyable ProductInfo struct that embedders implement to configure crash reporting behavior.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_CRASH_REPORTER_CLIENT_H_
 #define COMPONENTS_CRASH_CORE_APP_CRASH_REPORTER_CLIENT_H_
 

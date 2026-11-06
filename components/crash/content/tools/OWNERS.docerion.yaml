@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the crash content tools
+summary: Lists the Chromium developers responsible for reviewing changes in the crash content tools directory.

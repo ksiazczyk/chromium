@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad Windows crash reporting implementation
+// summary: Implements Crashpad initialization on Windows, gathering platform annotations and configuring the crashpad client, database path and upload URL.
+// ---
+
 #include "components/crash/core/app/crashpad.h"
 #include "components/crash/core/app/shared_memory_user_stream_args.h"
 

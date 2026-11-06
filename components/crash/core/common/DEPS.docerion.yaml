@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for crash common dependencies
+summary: Allows includes of GWP-ASan build flags, sampling malloc shims, previous session info, and iOS Breakpad headers within this directory.

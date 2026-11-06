@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet Android library loader implementation
+// summary: Implements Cronet library initialization on Android, including JNI registration, base feature overrides, network change notifier setup and task executor creation.
+// ---
+
 #include "components/cronet/android/cronet_library_loader.h"
 
 #include <android/trace.h>

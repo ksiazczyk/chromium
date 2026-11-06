@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompletionOnceCallbackAdapter implementation
+// summary: Implements the JNI adapter that wraps a net completion callback and posts its result to a task runner when the Java counterpart runs.
+// ---
+
 #include "components/cronet/android/completion_once_callback_adapter.h"
 
 #include <memory>

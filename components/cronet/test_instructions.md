@@ -1,3 +1,13 @@
+---
+type: guide
+title: Testing and debugging Cronet
+summary: Instructions for building Cronet, running its Java, C++, and performance tests locally and remotely, and debugging via tracing, logs, and stack symbolication.
+relations:
+  - references /components/cronet/build_instructions.md
+  - references /components/cronet/tracing.md
+  - references /docs/android_build_instructions.md
+---
+
 # Testing and debugging Cronet
 
 [TOC]

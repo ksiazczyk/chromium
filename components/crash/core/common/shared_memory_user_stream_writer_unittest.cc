@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory user stream writer unit tests
+// summary: Unit tests for the shared memory user stream writer, covering header initialization, invalid slot sizes, and ping-ponging between slots.
+// ---
+
 #include "components/crash/core/common/shared_memory_user_stream_writer.h"
 
 #include <algorithm>

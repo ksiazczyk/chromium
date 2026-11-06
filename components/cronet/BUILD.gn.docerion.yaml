@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cronet GN build targets
+summary: GN build file defining the Cronet version header, proto libraries, common implementation sources, metrics utility, unit tests, and package targets.

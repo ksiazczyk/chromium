@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalActionDatabase implementation
+// summary: Implements SQLite schema creation, versioned migrations, and CRUD queries for the critical action entries, visits, and conversations tables.
+// ---
+
 #include "components/critical_actions/core/browser/critical_action_database.h"
 
 #include <algorithm>

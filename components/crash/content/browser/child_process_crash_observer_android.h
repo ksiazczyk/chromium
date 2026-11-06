@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessCrashObserver class declaration for Android
+// summary: Declares ChildProcessCrashObserver, a ChildExitObserver client that records metrics and initiates minidump upload for child process crashes on Android.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_CHILD_PROCESS_CRASH_OBSERVER_ANDROID_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_CHILD_PROCESS_CRASH_OBSERVER_ANDROID_H_
 

@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for Breakpad crash key storage
+// summary: Tests allocation, setting, clearing, and chunked storage behavior of the Breakpad-based crash key implementation.
+// ---
+
 #include "base/containers/span.h"
 #include "components/crash/core/common/crash_key.h"
 #include "components/crash/core/common/crash_key_internal.h"

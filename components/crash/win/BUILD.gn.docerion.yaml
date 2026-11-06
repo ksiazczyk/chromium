@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the chrome_wer module
+summary: Defines GN build targets for the chrome_wer shared library, its version resources, and its unit tests, keeping the DLL minimal via assert_no_deps.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Credential Management
+summary: Explains the credential management component used by Chrome Password Manager, WebView and 3P mode, including 3P autofill support and the Credential Management API request flow.
+---
+
 # Credential Management
 
 This component should contain the code that is used for credential management

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for the browser to Android Credential Manager bridge
+// summary: Declares the CredentialManagerBridge interface and ThirdPartyCredentialManagerBridge with a mockable JNI delegate for get, store and cancel operations.
+// ---
+
 #ifndef COMPONENTS_CREDENTIAL_MANAGEMENT_ANDROID_THIRD_PARTY_CREDENTIAL_MANAGER_BRIDGE_H_
 #define COMPONENTS_CREDENTIAL_MANAGEMENT_ANDROID_THIRD_PARTY_CREDENTIAL_MANAGER_BRIDGE_H_
 

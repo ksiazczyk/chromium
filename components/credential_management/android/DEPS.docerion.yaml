@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the credential management Android directory
+summary: Restricts allowed includes for the directory, permitting content public browser, net and UI Android headers, with extra allowances for test files.

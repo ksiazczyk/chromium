@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetProxyDelegate class declaration
+// summary: Declares CronetProxyDelegate, a net::ProxyDelegate implementation that realizes org.chromium.net.ProxyOptions and forwards callbacks to CronetContext.
+// ---
+
 #ifndef COMPONENTS_CRONET_CRONET_PROXY_DELEGATE_H_
 #define COMPONENTS_CRONET_CRONET_PROXY_DELEGATE_H_
 

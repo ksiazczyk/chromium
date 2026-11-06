@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Crash component owners
+summary: Lists code owners for the crash component and delegates Android-specific files to the OWNERS file in components/crash/android.

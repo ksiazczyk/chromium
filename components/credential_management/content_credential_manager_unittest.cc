@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content credential manager unit tests
+// summary: Unit tests verifying that ContentCredentialManager forwards Store calls to a mocked CredentialManagerInterface implementation.
+// ---
+
 #include "components/credential_management/content_credential_manager.h"
 
 #include "base/test/mock_callback.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the crashpad WER header
+summary: Grants this directory include access to the crashpad WER handler header used by the module.

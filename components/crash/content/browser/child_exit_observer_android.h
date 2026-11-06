@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildExitObserver class declaration for Android
+// summary: Declares the ChildExitObserver class and TerminationInfo struct used to observe and report child process terminations and crashes on Android.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_CHILD_EXIT_OBSERVER_ANDROID_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_CHILD_EXIT_OBSERVER_ANDROID_H_
 

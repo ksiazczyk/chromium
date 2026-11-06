@@ -1,3 +1,12 @@
+---
+type: guide
+title: Tracing Cronet
+summary: Guide to capturing Cronet traces with Perfetto or the Android Traceur app, gathering unredacted NetLogs, and handling dropped early events.
+relations:
+  - references /components/cronet/tracing.png
+  - references /net/docs/net-log.md
+---
+
 # Tracing Cronet
 
 Cronet is deeply integrated with the [Perfetto](https://perfetto.dev/) tracing

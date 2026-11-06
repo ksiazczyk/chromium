@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minidump updater adding Crashpad info
+// summary: Edits minidumps written by MiniDumpWriteDump to append a crash key dictionary and update the CrashpadInfo stream so Crashpad can upload the dumps.
+// ---
+
 #include "components/crash/core/app/minidump_with_crashpad_info.h"
 
 #include <stdint.h>

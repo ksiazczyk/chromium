@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock crash endpoint test helper
+// summary: Declares MockCrashEndpoint, a test helper that installs a mock crash server on an EmbeddedTestServer to receive, count, and inspect crash reports and configure responses and consent.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_ERROR_REPORTING_MOCK_CRASH_ENDPOINT_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_ERROR_REPORTING_MOCK_CRASH_ENDPOINT_H_
 

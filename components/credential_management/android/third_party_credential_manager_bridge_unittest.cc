@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the third-party credential manager bridge
+// summary: Tests bridge get, store and cancel behaviour using a fake JNI delegate that can simulate errors and record cancel calls.
+// ---
+
 #include "components/credential_management/android/third_party_credential_manager_bridge.h"
 
 #include <jni.h>

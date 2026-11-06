@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalActionBackend implementation
+// summary: Implements the background-sequence backend that forwards critical action add, get, and delete operations to the database.
+// ---
+
 #include "components/critical_actions/core/browser/critical_action_backend.h"
 
 #include <cstdint>

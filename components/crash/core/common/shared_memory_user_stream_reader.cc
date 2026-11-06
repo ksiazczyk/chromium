@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream reader
+// summary: Implements lock-free, retry-based extraction of minidump user stream type and payload from a shared memory buffer, validating headers and detecting concurrent writes.
+// ---
+
 #include "components/crash/core/common/shared_memory_user_stream_reader.h"
 
 #include <stdint.h>

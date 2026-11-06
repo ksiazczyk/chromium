@@ -1,3 +1,9 @@
+---
+type: readme
+title: chrome_wer - Runtime Exception Helper Module for Windows Error Reporting
+summary: Explains that chrome_wer is a DLL registered as a Windows Error Reporting runtime exception helper, how it integrates with crashpad, and how to register it in the registry.
+---
+
 # chrome_wer - Runtime Exception Helper Module for Windows Error Reporting
 
 This builds a DLL which can be registered as a runtime exception helper using

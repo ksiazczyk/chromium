@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetContext implementation
+// summary: Implements the CronetContext wrapper around net::URLRequestContext, including network thread tasks, preferences, NetLog handling, and network quality callbacks.
+// ---
+
 #include "components/cronet/cronet_context.h"
 
 #include <limits.h>

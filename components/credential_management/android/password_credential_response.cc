@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI conversions for password credential responses
+// summary: Implements creating and parsing the Java PasswordCredentialResponse object used to pass password credentials from Android to native code.
+// ---
+
 #include "components/credential_management/android/password_credential_response.h"
 
 #include <string>

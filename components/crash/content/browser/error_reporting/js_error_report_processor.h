@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsErrorReportProcessor interface
+// summary: Declares the thread-safe JsErrorReportProcessor interface that sends JavaScript error reports to Google's error collection service.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_ERROR_REPORTING_JS_ERROR_REPORT_PROCESSOR_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_ERROR_REPORTING_JS_ERROR_REPORT_PROCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet URL request class declaration
+// summary: Declares CronetURLRequest, a wrapper around net::URLRequest with a Callback interface for redirects, response start, reads, success, and failure events.
+// ---
+
 #ifndef COMPONENTS_CRONET_CRONET_URL_REQUEST_H_
 #define COMPONENTS_CRONET_CRONET_URL_REQUEST_H_
 

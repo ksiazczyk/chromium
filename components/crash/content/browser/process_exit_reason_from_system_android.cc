@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android process exit reason JNI implementation
+// summary: Implements the JNI bridge that records a process's exit reason from Android's ActivityManager to a UMA histogram.
+// ---
+
 #include "components/crash/content/browser/process_exit_reason_from_system_android.h"
 
 #include "base/android/jni_android.h"

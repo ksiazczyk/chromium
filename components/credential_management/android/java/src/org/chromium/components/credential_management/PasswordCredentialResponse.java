@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password credential response JNI wrapper
+// summary: Conveys the result of a Credential Management API get() call, including success flag, username and password, from Java to C++ via JNI.
+// ---
+
 package org.chromium.components.credential_management;
 
 import org.jni_zero.CalledByNative;

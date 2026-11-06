@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client upload consent and product info implementation
+// summary: Implements helpers that retrieve the user's stats consent and product information for crash uploads, using export thunks on Windows.
+// ---
+
 #include "components/crash/core/app/client_upload_info.h"
 
 #include "build/build_config.h"

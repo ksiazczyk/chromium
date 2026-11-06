@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestContextConfig unit tests
+// summary: Tests parsing of JSON experimental options and how URLRequestContextConfig is applied to build the Chromium network stack configuration.
+// ---
+
 #include "components/cronet/url_request_context_config.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows fallback crash handling declarations
+// summary: Declares SetupFallbackCrashHandling and RunAsFallbackCrashHandler, which install and run the Windows fallback crash handler process.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_FALLBACK_CRASH_HANDLING_WIN_H_
 #define COMPONENTS_CRASH_CORE_APP_FALLBACK_CRASH_HANDLING_WIN_H_
 

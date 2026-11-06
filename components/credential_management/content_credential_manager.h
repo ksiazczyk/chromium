@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content credential manager class declaration
+// summary: Declares ContentCredentialManager, which implements blink::mojom::CredentialManager and delegates Store, PreventSilentAccess and Get to a CredentialManagerInterface.
+// ---
+
 #ifndef COMPONENTS_CREDENTIAL_MANAGEMENT_CONTENT_CREDENTIAL_MANAGER_H_
 #define COMPONENTS_CREDENTIAL_MANAGEMENT_CONTENT_CREDENTIAL_MANAGER_H_
 

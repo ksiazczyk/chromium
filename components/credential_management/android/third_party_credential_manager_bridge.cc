@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the bridge to the Android Credential Manager
+// summary: Implements JNI calls for getting, storing and cancelling credentials through the Android Credential Manager and posts results back to the UI thread.
+// ---
+
 #include "components/credential_management/android/third_party_credential_manager_bridge.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy callback request adapter header
+// summary: Declares the C++ adapter paired with Java ProxyCallbackRequestImpl for proceeding with or canceling proxy tunnel request callbacks.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_PROXY_CALLBACK_REQUEST_ADAPTER_H_
 #define COMPONENTS_CRONET_ANDROID_PROXY_CALLBACK_REQUEST_ADAPTER_H_
 

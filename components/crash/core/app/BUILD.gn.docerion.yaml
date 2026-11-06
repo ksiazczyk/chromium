@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the crash reporting app component
+summary: Defines GN build targets for the crash reporting component, including the crashpad handler, shared memory data sources, and platform-specific sources.

@@ -1,0 +1,4 @@
+# Docerion header of breakages.json.
+type: data
+title: Known Cronet Android breakages
+summary: Manually maintained JSON list of known Android Cronet breakages, pairing bad Gerrit change IDs with fixes, bugs, and descriptions for release checks.

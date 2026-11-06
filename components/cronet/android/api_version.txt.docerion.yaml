@@ -1,0 +1,4 @@
+# Docerion header of api_version.txt.
+type: data
+title: Cronet Android API level
+summary: Holds the Cronet Android API level (49) that the build reads to generate the ApiVersion class.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLRequestContextConfig implementation
+// summary: Implements applying Cronet request context configuration, including experimental option parsing, DNS, QUIC, proxy, and certificate verifier setup.
+// ---
+
 #include "components/cronet/url_request_context_config.h"
 
 #include <algorithm>

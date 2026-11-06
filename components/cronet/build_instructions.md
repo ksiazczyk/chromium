@@ -1,3 +1,12 @@
+---
+type: guide
+title: Cronet build instructions
+summary: Step-by-step instructions for checking out the Cronet code and building it for development, debugging, and release using gn and ninja.
+relations:
+  - references /components/cronet/tools/cr_cronet.py
+  - references /components/cronet/BUILD.gn
+---
+
 # Cronet build instructions
 
 [TOC]

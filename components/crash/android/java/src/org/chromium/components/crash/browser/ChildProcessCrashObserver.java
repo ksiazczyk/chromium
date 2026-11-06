@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildProcessCrashObserver
+// summary: Java-side bridge that notifies a registered callback when an Android child process crashes after Crashpad has written its minidump.
+// ---
+
 package org.chromium.components.crash.browser;
 
 import org.jni_zero.CalledByNative;

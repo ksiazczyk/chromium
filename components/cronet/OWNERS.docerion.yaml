@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cronet per-file owners rules
+summary: Sets ownership for the Cronet directory, delegating to CRONET_OWNERS and adding per-file rules for Android lint, dependencies, and breakages files.

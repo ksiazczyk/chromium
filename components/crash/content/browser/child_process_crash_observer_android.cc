@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process crash observer implementation for Android
+// summary: Implements ChildProcessCrashObserver, which records crash metrics and asks Java to attach logcat to crashes when a child process exits.
+// ---
+
 #include "components/crash/content/browser/child_process_crash_observer_android.h"
 
 #include "base/android/jni_android.h"

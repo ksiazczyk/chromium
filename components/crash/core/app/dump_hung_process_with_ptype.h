@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hung process dump API
+// summary: Declares DumpHungProcessWithPtype and its chrome_elf implementation thunk for capturing crash dumps of hung processes.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_DUMP_HUNG_PROCESS_WITH_PTYPE_H_
 #define COMPONENTS_CRASH_CORE_APP_DUMP_HUNG_PROCESS_WITH_PTYPE_H_
 

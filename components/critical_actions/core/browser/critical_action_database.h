@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalActionDatabase class declaration
+// summary: Declares the SQL database wrapper for critical action history with init, add, get, delete, and close operations on the backend sequence.
+// ---
+
 #ifndef COMPONENTS_CRITICAL_ACTIONS_CORE_BROWSER_CRITICAL_ACTION_DATABASE_H_
 #define COMPONENTS_CRITICAL_ACTIONS_CORE_BROWSER_CRITICAL_ACTION_DATABASE_H_
 

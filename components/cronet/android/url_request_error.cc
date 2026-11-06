@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request error conversion
+// summary: Converts common net error codes into UrlRequestError values used by Java UrlRequestException.
+// ---
+
 #include "components/cronet/android/url_request_error.h"
 
 #include "net/base/net_errors.h"

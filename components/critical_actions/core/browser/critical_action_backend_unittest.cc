@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CriticalActionBackend unit tests
+// summary: Tests backend initialization, graceful behavior before init, forwarding of CRUD calls to the database, and conversation ID association.
+// ---
+
 #include "components/critical_actions/core/browser/critical_action_backend.h"
 
 #include "base/files/file_util.h"

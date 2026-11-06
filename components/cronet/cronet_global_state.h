@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet global state API
+// summary: Declares platform-specific functions for Cronet initialization, proxy service creation, default user agent generation, and network thread priority.
+// ---
+
 #ifndef COMPONENTS_CRONET_CRONET_GLOBAL_STATE_H_
 #define COMPONENTS_CRONET_CRONET_GLOBAL_STATE_H_
 

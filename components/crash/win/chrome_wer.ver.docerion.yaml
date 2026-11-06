@@ -1,0 +1,4 @@
+# Docerion header of chrome_wer.ver.
+type: config
+title: chrome_wer.ver version resource values
+summary: Provides version resource values naming the internal name and original filename of chrome_wer.dll.

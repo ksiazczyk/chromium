@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the crash core browser directory
+summary: Declares the includes allowed in this directory, covering branded and general component strings headers and the upload_list component.

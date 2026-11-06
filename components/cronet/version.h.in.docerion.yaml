@@ -1,0 +1,4 @@
+# Docerion header of version.h.in.
+type: source
+title: Cronet version header template
+summary: Template from which version.h is generated, defining the CRONET_VERSION macro with the full version string placeholder.

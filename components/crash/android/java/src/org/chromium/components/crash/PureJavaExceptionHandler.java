@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PureJavaExceptionHandler: uncaught exception handler before native load'
+// summary: Default uncaught exception handler that uploads Java stack traces before native is loaded, and is disabled via a flag once native crash reporting takes over.
+// ---
+
 package org.chromium.components.crash;
 
 import static org.chromium.base.JavaExceptionReporter.shouldReportThrowable;

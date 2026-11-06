@@ -5,6 +5,12 @@
 // NOTE: This file is only compiled when Crashpad is not used as the crash
 // reproter.
 
+// ---docerion
+// type: source
+// title: Breakpad-backed crash key storage
+// summary: Implements crash key set, clear, and chunked storage in a transitional key-value storage used when Crashpad is not the crash reporter.
+// ---
+
 #include <string_view>
 
 #include "base/check_op.h"

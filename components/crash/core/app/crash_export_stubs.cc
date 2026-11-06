@@ -6,6 +6,12 @@
 // crash_export_thunks.h. This is solely for linking into tests, where
 // crash reporting is unwanted and never initialized.
 
+// ---docerion
+// type: source
+// title: No-op export thunk stubs for tests
+// summary: Provides no-op stub implementations of the crash export thunk functions so tests can link without initializing crash reporting.
+// ---
+
 #include <windows.h>
 
 #include "build/build_config.h"

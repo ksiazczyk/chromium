@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream reader API
+// summary: Declares the reader that extracts user stream metadata and payload from a shared memory buffer, returning nullopt on invalid or corrupted data.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_SHARED_MEMORY_USER_STREAM_READER_H_
 #define COMPONENTS_CRASH_CORE_COMMON_SHARED_MEMORY_USER_STREAM_READER_H_
 

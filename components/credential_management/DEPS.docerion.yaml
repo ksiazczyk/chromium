@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Credential management dependency rules
+summary: Chromium DEPS rules listing the allowed includes for the credential management component, such as mojo bindings and password manager headers.

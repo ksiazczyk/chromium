@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory OS metadata
+summary: DIR_METADATA entry marking this directory as Android-specific code.

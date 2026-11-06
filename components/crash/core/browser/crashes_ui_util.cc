@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashes WebUI upload list conversion utilities
+// summary: Converts upload list entries into dictionary values with IDs, times, sizes and state strings for use by the crashes WebUI page.
+// ---
+
 #include "components/crash/core/browser/crashes_ui_util.h"
 
 #include <memory>

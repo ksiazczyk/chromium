@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows fallback crash handler class declaration
+// summary: Declares the FallbackCrashHandler class, which parses handler arguments and generates crash dumps for upload via the Crashpad database on Windows.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_FALLBACK_CRASH_HANDLER_WIN_H_
 #define COMPONENTS_CRASH_CORE_APP_FALLBACK_CRASH_HANDLER_WIN_H_
 

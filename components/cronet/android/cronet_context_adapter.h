@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet context adapter header
+// summary: Declares the adapter between the Java CronetUrlRequestContext and the native CronetContext, including NetLog and network thread methods.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_CRONET_CONTEXT_ADAPTER_H_
 #define COMPONENTS_CRONET_ANDROID_CRONET_CONTEXT_ADAPTER_H_
 

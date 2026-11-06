@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Credential management component metadata
+summary: Metadata assigning the directory to the UI>Browser>Credential Management tracker with team email and Buganizer component ID.

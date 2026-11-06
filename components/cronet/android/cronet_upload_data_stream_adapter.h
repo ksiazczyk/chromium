@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet upload data stream adapter header
+// summary: Declares the adapter delegate that bridges Java upload data stream callbacks to the native CronetUploadDataStream while keeping buffers alive across threads.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_CRONET_UPLOAD_DATA_STREAM_ADAPTER_H_
 #define COMPONENTS_CRONET_ANDROID_CRONET_UPLOAD_DATA_STREAM_ADAPTER_H_
 

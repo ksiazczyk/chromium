@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error reporting URL redaction utility header
+// summary: Declares RedactUrlForErrorReports, a helper that removes privacy-sensitive URL components before error reporting.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_ERROR_REPORTING_ERROR_REPORTING_UTIL_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_ERROR_REPORTING_ERROR_REPORTING_UTIL_H_
 

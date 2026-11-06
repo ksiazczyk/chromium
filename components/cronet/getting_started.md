@@ -1,3 +1,9 @@
+---
+type: guide
+title: Quick Start Guide to Using Cronet
+summary: Tutorial introducing Cronet's Java asynchronous API and the java.net.HttpURLConnection API, covering downloading, uploading, configuration, and debugging.
+---
+
 # Quick Start Guide to Using Cronet
 Cronet offers its own Java asynchronous API as well as support for the
 [java.net.HttpURLConnection] API. This document gives a brief introduction to

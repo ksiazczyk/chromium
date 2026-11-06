@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad crash upload list implementation
+// summary: Implements CrashUploadListCrashpad by loading crash reports from the Crashpad database, mapping upload states, and supporting clearing reports and requesting single uploads.
+// ---
+
 #include "components/crash/core/browser/crash_upload_list_crashpad.h"
 
 #include "base/time/time.h"

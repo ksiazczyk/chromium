@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows fallback crash handler launcher class
+// summary: Declares the FallbackCrashHandlerLauncher class that pre-computes a command line to launch the fallback crash handler after an exception.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_APP_FALLBACK_CRASH_HANDLER_LAUNCHER_WIN_H_
 #define COMPONENTS_CRASH_CORE_APP_FALLBACK_CRASH_HANDLER_LAUNCHER_WIN_H_
 

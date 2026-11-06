@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScriptErrorReport struct definition
+// summary: Defines the JavaScriptErrorReport struct carrying message, URL, stack trace, and other fields for reporting JavaScript errors to Google.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_ERROR_REPORTING_JAVASCRIPT_ERROR_REPORT_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_ERROR_REPORTING_JAVASCRIPT_ERROR_REPORT_H_
 

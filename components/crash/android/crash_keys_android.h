@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android crash keys header
+// summary: Declares the CrashKeyIndex enum and the crash key set, clear, and flush functions exposed for testing.
+// ---
+
 #ifndef COMPONENTS_CRASH_ANDROID_CRASH_KEYS_ANDROID_H_
 #define COMPONENTS_CRASH_ANDROID_CRASH_KEYS_ANDROID_H_
 

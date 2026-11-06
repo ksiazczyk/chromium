@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet context adapter implementation
+// summary: Implements the adapter between the Java CronetUrlRequestContext and the native CronetContext, handling initialization, NetLog, and network quality settings.
+// ---
+
 #include "components/cronet/android/cronet_context_adapter.h"
 
 #include <limits.h>

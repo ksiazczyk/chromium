@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Crash component directory metadata
+summary: Maps the components/crash directory to the Internals>CrashReporting Monorail component and Buganizer component ID 1456911.

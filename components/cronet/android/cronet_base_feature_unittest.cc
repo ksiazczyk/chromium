@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cronet base feature override unit tests
+// summary: Tests ApplyBaseFeatureOverrides for enabling, disabling, parameter association, and no-op behavior when features are already initialized.
+// ---
+
 #include "components/cronet/android/cronet_base_feature.h"
 #include "base/feature_list.h"
 #include "base/metrics/field_trial_params.h"

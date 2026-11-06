@@ -1,0 +1,4 @@
+# Docerion header of generate_breakpad_symbols.py.
+type: script
+title: generate_breakpad_symbols.py
+summary: Tool that generates Breakpad symbol files for binaries on Linux, Android, and Mac by running dump_syms and resolving shared library dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of cronet_combined_impl_native_proguard_golden.cfg.
+type: config
+title: Golden ProGuard config for the Cronet native implementation
+summary: Golden copy of the ProGuard rules expected for apps that depend on the Cronet native implementation JAR, including JNI Zero and reflection keep rules.

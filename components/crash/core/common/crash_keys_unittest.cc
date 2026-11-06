@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash keys unit tests
+// summary: Unit tests for command-line switch, filter, and feature crash keys, including limits and clearing behavior.
+// ---
+
 #include "components/crash/core/common/crash_keys.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary with byte buffer header
+// summary: Declares SharedDictionaryWithByteBuffer, a net::SharedDictionary wrapper around dictionary content held in a Java byte buffer.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_SHARED_DICTIONARY_WITH_BYTE_BUFFER_H_
 #define COMPONENTS_CRONET_ANDROID_SHARED_DICTIONARY_WITH_BYTE_BUFFER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for crash core app dependencies
+summary: Specifies allowed include rules for the crash core app directory, granting access to sandbox, Breakpad, Crashpad, and related component headers.

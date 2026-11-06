@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub Cronet global state implementations
+// summary: Provides minimal stub implementations of the Cronet global state functions so the native library build of cronet_tests and cronet_unittests can compile.
+// ---
+
 #include "components/cronet/cronet_global_state.h"
 
 #include <tuple>

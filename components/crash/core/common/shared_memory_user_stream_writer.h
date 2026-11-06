@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared memory user stream writer API
+// summary: Declares the writer class that allocates a shared memory region and publishes double-buffered user stream data for crash handler consumption.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_SHARED_MEMORY_USER_STREAM_WRITER_H_
 #define COMPONENTS_CRASH_CORE_COMMON_SHARED_MEMORY_USER_STREAM_WRITER_H_
 

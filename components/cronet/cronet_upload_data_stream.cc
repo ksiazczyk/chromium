@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet upload data stream implementation
+// summary: Implements CronetUploadDataStream, a net::UploadDataStream that delegates read and rewind operations for request uploads to a client-provided delegate.
+// ---
+
 #include "components/cronet/cronet_upload_data_stream.h"
 
 #include "net/base/io_buffer.h"

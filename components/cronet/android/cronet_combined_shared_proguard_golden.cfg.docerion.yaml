@@ -1,0 +1,4 @@
+# Docerion header of cronet_combined_shared_proguard_golden.cfg.
+type: config
+title: Golden ProGuard config for flags shared with Cronet
+summary: Golden copy of the combined ProGuard flags shared with third-party Cronet apps, covering Parcelable, enum, and Chromium annotation keep rules.

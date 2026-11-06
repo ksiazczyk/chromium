@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ANR ELF build ID provider implementation
+// summary: Implements GetElfBuildId, reading the executable's ELF build ID and truncating it to 40 characters for ANR report uploads.
+// ---
+
 #include "components/crash/android/anr_build_id_provider.h"
 
 #include <string>

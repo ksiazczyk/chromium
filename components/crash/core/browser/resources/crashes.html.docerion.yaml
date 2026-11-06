@@ -1,0 +1,4 @@
+# Docerion header of crashes.html.
+type: source
+title: HTML template for the crashes page
+summary: HTML template for the crashes page with localized strings, upload controls, a disabled-mode notice and a crash list row template.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompletionOnceCallbackAdapter class declaration
+// summary: Declares the C++ adapter pairing a net::CompletionOnceCallback with an owning Java CompletionOnceCallback that triggers it.
+// ---
+
 #ifndef COMPONENTS_CRONET_ANDROID_COMPLETION_ONCE_CALLBACK_ADAPTER_H_
 #define COMPONENTS_CRONET_ANDROID_COMPLETION_ONCE_CALLBACK_ADAPTER_H_
 

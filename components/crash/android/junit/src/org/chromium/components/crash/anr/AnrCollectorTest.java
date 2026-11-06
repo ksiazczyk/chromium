@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnrCollector unit tests
+// summary: JUnit Robolectric tests for the Chromium AnrCollector, using a line-for-line copy of real ANR trace output from the getTraceInputStream API as fixture data.
+// ---
+
 package org.chromium.components.crash.anr;
 
 import static org.junit.Assert.assertEquals;

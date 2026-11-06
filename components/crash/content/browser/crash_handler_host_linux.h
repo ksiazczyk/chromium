@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash handler host declarations for Linux and Android
+// summary: Declares CrashHandlerHostLinux and crashpad::CrashHandlerHost, which perform crash dumps for sandboxed child processes from the browser.
+// ---
+
 #ifndef COMPONENTS_CRASH_CONTENT_BROWSER_CRASH_HANDLER_HOST_LINUX_H_
 #define COMPONENTS_CRASH_CONTENT_BROWSER_CRASH_HANDLER_HOST_LINUX_H_
 

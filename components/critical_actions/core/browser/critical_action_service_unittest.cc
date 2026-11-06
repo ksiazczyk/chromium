@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Critical action service unit tests
+// summary: Unit tests for the critical action service, covering visit notifications, redirect chain handling, and database-backed critical action recording with histogram checks.
+// ---
+
 #include "components/critical_actions/core/browser/critical_action_service.h"
 
 #include <memory>

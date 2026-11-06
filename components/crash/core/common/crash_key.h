@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash key interface compatible with Crashpad annotations
+// summary: Declares the CrashKeyString API for storing name-value pairs in crash reports, backed by Crashpad annotations or a Breakpad-compatible storage implementation.
+// ---
+
 #ifndef COMPONENTS_CRASH_CORE_COMMON_CRASH_KEY_H_
 #define COMPONENTS_CRASH_CORE_COMMON_CRASH_KEY_H_
 

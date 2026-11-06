@@ -1,0 +1,4 @@
+# Docerion header of cronet_combined_impl_fake_proguard_golden.cfg.
+type: config
+title: Golden ProGuard config for the Cronet fake implementation
+summary: Golden copy of the ProGuard rules expected for apps that depend on the Cronet fake implementation JAR, keeping FakeCronetProvider's constructor.

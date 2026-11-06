@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Third-party credential manager metrics recorder tests
+// summary: Robolectric tests verifying that each Credential Manager exception type is recorded as the expected value in the store and get histograms.
+// ---
+
 package org.chromium.components.credential_management;
 
 import androidx.credentials.exceptions.CreateCredentialCancellationException;

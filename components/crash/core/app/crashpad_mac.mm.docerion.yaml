@@ -1,0 +1,4 @@
+# Docerion header of crashpad_mac.mm.
+type: source
+title: Crashpad macOS crash reporting implementation
+summary: Implements Crashpad crash reporting on macOS, building product and channel annotations and supporting dumping a process without crashing.

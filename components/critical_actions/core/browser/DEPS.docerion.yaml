@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the critical actions browser component
+summary: Sets allowed include rules for the component and permits third_party/sqlite only in unittest files.

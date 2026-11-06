@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mach port transport unit tests for shared memory user streams
+// summary: Unit tests covering Mach port transmission of shared memory user streams, including empty inputs, invalid ports, and single and multiple region transfers.
+// ---
+
 #include "components/crash/core/app/shared_memory_user_stream_mach_port.h"
 
 #include <mach/mach.h>

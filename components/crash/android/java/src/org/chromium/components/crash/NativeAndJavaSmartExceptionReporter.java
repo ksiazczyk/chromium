@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'NativeAndJavaSmartExceptionReporter: pre-native exception routing'
+// summary: Exception reporter that delegates uploads to a pure Java reporter until native is loaded, then switches to base's JavaExceptionReporter on the UI thread.
+// ---
+
 package org.chromium.components.crash;
 
 import org.chromium.base.Callback;

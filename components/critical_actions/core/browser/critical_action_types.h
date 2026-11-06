@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical action types and enums
+// summary: Defines ActionType, ActionSource, and OpenConversationResult enums plus the CriticalActionEntry struct and builder used to represent critical action history records.
+// ---
+
 #ifndef COMPONENTS_CRITICAL_ACTIONS_CORE_BROWSER_CRITICAL_ACTION_TYPES_H_
 #define COMPONENTS_CRITICAL_ACTIONS_CORE_BROWSER_CRITICAL_ACTION_TYPES_H_
 

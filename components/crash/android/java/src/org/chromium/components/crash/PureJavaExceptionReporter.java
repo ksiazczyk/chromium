@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PureJavaExceptionReporter: pure Java crash report creation and upload'
+// summary: Abstract reporter that builds a multipart crash report with device and version fields, writes a minidump file, and uploads it to the crash server for Java exceptions before native is available.
+// ---
+
 package org.chromium.components.crash;
 
 import android.annotation.SuppressLint;

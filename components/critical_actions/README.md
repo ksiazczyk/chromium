@@ -1,3 +1,9 @@
+---
+type: readme
+title: Critical Action History Component
+summary: Describes the component that stores histories of sensitive user actions, its use cases, and its directory structure.
+---
+
 # Critical Action History Component
 
 Component that manages the critical action history

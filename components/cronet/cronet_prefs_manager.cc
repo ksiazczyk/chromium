@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CronetPrefsManager implementation
+// summary: Implements storage directory setup and the PrefService wiring that persists HTTP server properties, host cache, and network quality data for Cronet.
+// ---
+
 #include "components/cronet/cronet_prefs_manager.h"
 
 #include <memory>

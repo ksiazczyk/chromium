@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared dictionary with byte buffer implementation
+// summary: Implements a net::SharedDictionary backed by a Java ByteBuffer, exposing its SHA-256 hash, content, ID, and size to the network stack.
+// ---
+
 #include "components/cronet/android/shared_dictionary_with_byte_buffer.h"
 
 #include "base/android/jni_array.h"

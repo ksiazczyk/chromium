@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the third-party credential forwarding feature flag
+// summary: Declares the kCredentialManagementThirdPartyWebApiRequestForwarding base feature for export from the credential management component.
+// ---
+
 #ifndef COMPONENTS_CREDENTIAL_MANAGEMENT_ANDROID_FEATURES_H_
 #define COMPONENTS_CREDENTIAL_MANAGEMENT_ANDROID_FEATURES_H_
 

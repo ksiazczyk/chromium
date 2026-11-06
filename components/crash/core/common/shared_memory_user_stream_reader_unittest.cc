@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory user stream reader unit tests
+// summary: Unit tests for the shared memory user stream reader, covering valid and empty payloads, invalid buffers, and missing active slots.
+// ---
+
 #include "components/crash/core/common/shared_memory_user_stream_reader.h"
 
 #include <stdint.h>

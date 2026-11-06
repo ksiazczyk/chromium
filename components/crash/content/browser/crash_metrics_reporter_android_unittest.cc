@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash metrics reporter Android unit tests
+// summary: Unit tests verifying that the Android crash metrics reporter maps child process terminations, including OOM crashes, to the expected crash types and UMA histograms.
+// ---
+
 #include "components/crash/content/browser/crash_metrics_reporter_android.h"
 
 #include <signal.h>

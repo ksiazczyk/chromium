@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content credential manager implementation
+// summary: Implements the blink CredentialManager mojo interface, binding main-frame receivers and forwarding Store, Get and PreventSilentAccess calls to the credential manager.
+// ---
+
 #include "components/credential_management/content_credential_manager.h"
 
 #include <utility>

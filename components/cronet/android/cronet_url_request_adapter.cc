@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cronet URL request adapter implementation
+// summary: Implements the JNI adapter that creates, starts, and manages native URL requests on behalf of the Java CronetUrlRequest, including headers and redirects.
+// ---
+
 #include "components/cronet/android/cronet_url_request_adapter.h"
 
 #include <limits>
