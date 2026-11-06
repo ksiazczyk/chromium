@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for facilitated payments features
+summary: Delegates ownership of the features.* files to the owners of components/autofill/core/browser/payments.

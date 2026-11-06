@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurePayload JNI conversion unit test
+// summary: Unit test verifying that ConvertSecurePayloadToJavaObject produces a non-null Java SecurePayload object from native payload data.
+// ---
+
 #include "components/facilitated_payments/android/secure_payload_android.h"
 
 #include <utility>

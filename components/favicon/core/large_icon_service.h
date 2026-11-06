@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large icon service interface
+// summary: Declares the LargeIconService keyed service API for fetching large icons or fallback styles for page and icon URLs, including Google server request methods.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_LARGE_ICON_SERVICE_H_
 #define COMPONENTS_FAVICON_CORE_LARGE_ICON_SERVICE_H_
 

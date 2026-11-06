@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacilitatedPaymentsDriver implementation
+// summary: Implements the driver, translating Rust Pix code validation results and routing clipboard copy and payment link events to managers.
+// ---
+
 #include "components/facilitated_payments/core/browser/facilitated_payments_driver.h"
 
 #include <optional>

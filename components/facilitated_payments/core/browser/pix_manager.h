@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pix manager class declaration
+// summary: Declares PixManager, the cross-platform interface that manages the Pix payment flow from code detection to payment initiation.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_PIX_MANAGER_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_PIX_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconBackendDelegate interface
+// summary: Declares the abstract delegate interface supplying cached recent redirects and the most recently visited URL for an origin to FaviconBackend.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_BACKEND_DELEGATE_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_BACKEND_DELEGATE_H_
 

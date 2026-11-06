@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentFaviconDriver unit tests
+// summary: Unit tests covering favicon fetching, manifest icon handling, and notification behavior of ContentFaviconDriver using content test harnesses.
+// ---
+
 #include "components/favicon/content/content_favicon_driver.h"
 
 #include <memory>

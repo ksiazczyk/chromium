@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon driver shared implementation
+// summary: Partial FaviconDriver implementation shared across embedders, coordinating FaviconHandlers to fetch, download and store page favicons.
+// ---
+
 #include "components/favicon/core/favicon_driver_impl.h"
 
 #include <memory>

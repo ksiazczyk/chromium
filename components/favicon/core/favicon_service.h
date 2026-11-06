@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconService interface
+// summary: Declares the FaviconService abstract interface for requesting favicon images and raw bitmaps by icon URL or page URL, with size and fallback options.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_SERVICE_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pix account linking manager implementation
+// summary: Implements the Pix account linking flow, showing the prompt after the user returns from the bank app and handling client tokens, eligibility, and linking results.
+// ---
+
 #include "components/facilitated_payments/core/browser/pix_account_linking_manager.h"
 
 #include <string_view>

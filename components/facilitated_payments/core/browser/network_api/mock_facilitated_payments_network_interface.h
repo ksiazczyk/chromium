@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock facilitated payments network interface declaration
+// summary: Declares a GoogleMock subclass of FacilitatedPaymentsNetworkInterface that stubs InitiatePayment and GetDetailsForCreatePaymentInstrument for tests.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NETWORK_API_MOCK_FACILITATED_PAYMENTS_NETWORK_INTERFACE_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NETWORK_API_MOCK_FACILITATED_PAYMENTS_NETWORK_INTERFACE_H_
 

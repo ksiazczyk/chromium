@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for Android device interactions in facilitated payments
+// summary: Lets the native side query supported payment apps and invoke them on Android via intents, reporting A2A transaction outcomes.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockFacilitatedPaymentsApiClient
+// summary: GMock implementation of the facilitated payments API client covering availability, client tokens, purchase actions, and instrument management.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_MOCK_FACILITATED_PAYMENTS_API_CLIENT_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_MOCK_FACILITATED_PAYMENTS_API_CLIENT_H_
 

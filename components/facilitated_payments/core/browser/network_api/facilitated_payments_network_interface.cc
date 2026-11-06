@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated Payments network interface implementation
+// summary: Implements the network interface that issues initiate payment and account linking requests to the Payments server, dispatching eWallet or Pix requests by payload type.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/facilitated_payments_network_interface.h"
 
 #include "base/notreached.h"

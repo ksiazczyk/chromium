@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon backend unit tests
+// summary: Unit tests for FaviconBackend covering favicon storage, icon mappings, redirect caching and bitmap handling against a temporary favicon database.
+// ---
+
 #include "components/favicon/core/favicon_backend.h"
 
 #include <memory>

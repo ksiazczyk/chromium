@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated Payments initiate payment request class declaration
+// summary: Declares the PaymentsRequest subclass that encapsulates initiate payment server calls for all Facilitated Payments payment methods and pipes responses back through a callback.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NETWORK_API_FACILITATED_PAYMENTS_INITIATE_PAYMENT_REQUEST_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NETWORK_API_FACILITATED_PAYMENTS_INITIATE_PAYMENT_REQUEST_H_
 

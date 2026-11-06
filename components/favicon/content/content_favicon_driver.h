@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentFaviconDriver class declaration
+// summary: Declares ContentFaviconDriver, a FaviconDriver implementation tied to WebContents that tracks favicon and manifest URLs during navigation.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CONTENT_CONTENT_FAVICON_DRIVER_H_
 #define COMPONENTS_FAVICON_CONTENT_CONTENT_FAVICON_DRIVER_H_
 

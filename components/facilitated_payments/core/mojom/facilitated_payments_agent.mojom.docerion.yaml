@@ -1,0 +1,4 @@
+# Docerion header of facilitated_payments_agent.mojom.
+type: source
+title: Facilitated payments agent Mojom interfaces
+summary: Defines the renderer agent and browser driver Mojom interfaces plus a heuristic signals struct used to decide QR payment image extraction.

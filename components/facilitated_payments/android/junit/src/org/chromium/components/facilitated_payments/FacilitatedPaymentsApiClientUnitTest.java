@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FacilitatedPaymentsApiClientUnitTest
+// summary: Unit tests for the facilitated payment API client using a test delegate and a fake client, checking availability, client token retrieval, and purchase action results.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import org.junit.After;

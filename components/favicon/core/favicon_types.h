@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon data type declarations
+// summary: Declares favicon data structures including IconMapping, FaviconBitmap, PageUrlType, and UpdateFaviconMappingsResult used by the favicon database and services.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_TYPES_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_TYPES_H_
 

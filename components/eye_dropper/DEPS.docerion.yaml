@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Eye dropper include rules
+summary: Lists include rules allowing the eye dropper component to depend on color, content, Skia, WebRTC, and ui headers.

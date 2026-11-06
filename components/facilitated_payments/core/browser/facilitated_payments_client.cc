@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacilitatedPaymentsClient implementation
+// summary: Implements the FacilitatedPaymentsClient constructor, creating a Pix account linking manager on Android.
+// ---
+
 #include "components/facilitated_payments/core/browser/facilitated_payments_client.h"
 
 #include <memory>

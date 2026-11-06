@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FacilitatedPaymentsApiClientBridgeUnitTest
+// summary: Unit tests for the native bridge of the facilitated payment API client, verifying default availability, client token retrieval, purchase action failure, and native pointer reset behavior.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import static org.mockito.ArgumentMatchers.eq;

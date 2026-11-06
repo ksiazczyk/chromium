@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the junit folder
+summary: DEPS file granting the junit test folder access to the content/public/android directory via include rules.

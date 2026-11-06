@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentFacilitatedPaymentsDriverFactory implementation
+// summary: Implements the driver factory that creates per-frame drivers, evaluates heuristic signals, and triggers QR code image extraction for payment detection.
+// ---
+
 #include "components/facilitated_payments/content/browser/content_facilitated_payments_driver_factory.h"
 
 #include <algorithm>

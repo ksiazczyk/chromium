@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock facilitated payments client
+// summary: Declares a GMock mock of FacilitatedPaymentsClient that stubs risk data loading, origin and device queries, UI prompts, and account linking methods for tests.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_MOCK_FACILITATED_PAYMENTS_CLIENT_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_MOCK_FACILITATED_PAYMENTS_CLIENT_H_
 

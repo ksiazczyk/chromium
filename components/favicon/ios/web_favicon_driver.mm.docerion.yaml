@@ -1,0 +1,4 @@
+# Docerion header of web_favicon_driver.mm.
+type: source
+title: WebFaviconDriver implementation
+summary: Implements WebFaviconDriver for iOS, fetching favicon images through the iOS image data fetcher and updating the WebState favicon status.

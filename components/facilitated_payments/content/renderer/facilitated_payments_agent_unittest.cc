@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the facilitated payments agent
+// summary: Tests the agent's debounce timer, signal reporting to the driver, and enablement behavior using mock time and a fake driver implementation.
+// ---
+
 #include "components/facilitated_payments/content/renderer/facilitated_payments_agent.h"
 
 #include <memory>

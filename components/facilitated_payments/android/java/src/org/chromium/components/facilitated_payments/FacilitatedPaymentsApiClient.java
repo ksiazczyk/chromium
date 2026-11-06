@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base client for facilitated payment APIs such as Pix
+// summary: Defines the base client for facilitated payment APIs such as Pix, with a factory for subclass creation and a delegate for availability, token and result callbacks.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import org.chromium.build.annotations.NullMarked;

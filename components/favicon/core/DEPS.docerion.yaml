@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for favicon core
+summary: DEPS file listing the include rules that define which directories the favicon core component may depend on.

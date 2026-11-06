@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security checker interface for facilitated payments
+// summary: Declares the SecurityChecker class that verifies SSL validity and payment Permissions Policy before payment links are handled.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CONTENT_BROWSER_SECURITY_CHECKER_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CONTENT_BROWSER_SECURITY_CHECKER_H_
 

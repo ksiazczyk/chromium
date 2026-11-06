@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the iOS favicon component
+summary: Lists the include paths allowed in the iOS favicon directory, covering image fetcher, ios/web public, network, and specific Skia headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconHandler class declaration
+// summary: Declares FaviconHandler and its Delegate interface, which work with FaviconDriver to request, download, and update favicons for web pages.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_HANDLER_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_HANDLER_H_
 

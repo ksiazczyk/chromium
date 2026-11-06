@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback icon text declaration
+// summary: Declares GetFallbackIconText, which returns a very short string such as the capitalized first domain letter to represent a URL.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FALLBACK_URL_UTIL_H_
 #define COMPONENTS_FAVICON_CORE_FALLBACK_URL_UTIL_H_
 

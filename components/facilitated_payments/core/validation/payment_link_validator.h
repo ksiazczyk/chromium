@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment link validator class declaration
+// summary: Declares the PaymentLinkValidator class with its supported payment link schemes and methods for scheme detection and URL sanitization.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_VALIDATION_PAYMENT_LINK_VALIDATOR_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_VALIDATION_PAYMENT_LINK_VALIDATOR_H_
 

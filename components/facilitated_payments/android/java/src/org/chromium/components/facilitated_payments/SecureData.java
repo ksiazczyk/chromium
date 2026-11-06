@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key-value pair for secure data from the Payments backend
+// summary: Represents a key-value pair of secure data returned from the Payments backend, constructible from native code.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import org.jni_zero.CalledByNative;

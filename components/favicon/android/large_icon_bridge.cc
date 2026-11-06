@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LargeIconBridge native JNI implementation
+// summary: Implements the C++ side of the LargeIconBridge JNI interface, fetching large favicons or fallback styles via LargeIconService and returning them to Java as bitmaps.
+// ---
+
 #include "components/favicon/android/large_icon_bridge.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SecurePayloadTest
+// summary: Unit tests for SecurePayload creation, verifying the action token and secure data are handled correctly, including null and empty input cases.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import org.junit.Assert;

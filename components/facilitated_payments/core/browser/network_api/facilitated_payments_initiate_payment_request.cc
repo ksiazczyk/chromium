@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated Payments initiate payment request implementation
+// summary: Implements the request to the Payments server's initiatepayment endpoint, building JSON content with risk data, client token, context, and merchant info for Pix and payment link flows.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/facilitated_payments_initiate_payment_request.h"
 
 #include <string>

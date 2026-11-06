@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pix manager unit tests
+// summary: Unit tests for PixManager covering Pix code validation, allowlist checks, payment initiation, UI screens, and metrics.
+// ---
+
 #include "components/facilitated_payments/core/browser/pix_manager.h"
 
 #include <cstdint>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the facilitated payments renderer
+summary: Defines the renderer static library and the unit and browser test targets for the facilitated payments agent, along with their source files and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentFacilitatedPaymentsDriverFactory class declaration
+// summary: Declares the WebContentsObserver factory that manages ContentFacilitatedPaymentsDriver lifetimes and decides QR code detection eligibility per main frame.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CONTENT_BROWSER_CONTENT_FACILITATED_PAYMENTS_DRIVER_FACTORY_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CONTENT_BROWSER_CONTENT_FACILITATED_PAYMENTS_DRIVER_FACTORY_H_
 

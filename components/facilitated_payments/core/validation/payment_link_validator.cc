@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment link validator implementation
+// summary: Implements detection of supported payment link schemes such as DuitNow, ShopeePay, TNG, PromptPay, MoMo and DANA, plus URL sanitization for payment app retrieval.
+// ---
+
 #include "components/facilitated_payments/core/validation/payment_link_validator.h"
 
 #include <algorithm>

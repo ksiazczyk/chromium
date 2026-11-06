@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconServiceImpl class declaration
+// summary: Declares FaviconServiceImpl, the FaviconService implementation that accesses favicons through the history service and runs callbacks asynchronously.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_SERVICE_IMPL_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_SERVICE_IMPL_H_
 

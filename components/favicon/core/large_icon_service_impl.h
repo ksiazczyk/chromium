@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large icon service implementation header
+// summary: Declares LargeIconServiceImpl, which implements large icon retrieval with configurable server request sizes, icon types, and a testing override for the server URL.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_LARGE_ICON_SERVICE_IMPL_H_
 #define COMPONENTS_FAVICON_CORE_LARGE_ICON_SERVICE_IMPL_H_
 

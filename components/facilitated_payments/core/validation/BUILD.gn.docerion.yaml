@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for facilitated payments validation
+summary: Defines GN build targets for the Rust Pix validator, its CXX FFI glue, the C++ payment link validator, and their unit tests and fuzzer.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native account linking handler unit tests
+// summary: Unit tests for NativeAccountLinkingHandler covering prompt eligibility, client token fetching, network calls, and result handling using mocks and a test strike database.
+// ---
+
 #include "components/facilitated_payments/core/browser/native_account_linking_handler.h"
 
 #include <memory>

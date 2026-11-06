@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the facilitated payments Android directory
+summary: Chromium DEPS file listing the directories whose headers code in the facilitated payments Android folder may include.

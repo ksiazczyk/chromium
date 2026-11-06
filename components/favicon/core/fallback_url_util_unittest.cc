@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fallback icon text unit tests
+// summary: Unit tests verifying GetFallbackIconText for empty and invalid URLs, registry domains, localhost, IP addresses, Android app URLs and punycode cases.
+// ---
+
 #include "components/favicon/core/fallback_url_util.h"
 
 #include <stddef.h>

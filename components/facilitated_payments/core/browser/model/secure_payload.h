@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurePayload class declaration
+// summary: Declares the SecurePayload struct holding an action token and decrypted Payments backend data, plus the SecureData struct, used to trigger UI flows in Google Play Services.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_MODEL_SECURE_PAYLOAD_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_MODEL_SECURE_PAYLOAD_H_
 

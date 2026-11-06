@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreFaviconService interface
+// summary: Declares the abstract KeyedService API for persisting and restoring favicons, including lookups by page URL, setting and merging favicons, and cloning mappings.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_CORE_FAVICON_SERVICE_H_
 #define COMPONENTS_FAVICON_CORE_CORE_FAVICON_SERVICE_H_
 

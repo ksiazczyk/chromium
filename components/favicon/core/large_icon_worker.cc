@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large icon worker implementation
+// summary: Implements LargeIconWorker, which decodes and resizes large favicon PNG data on a background thread and computes fallback icon styles and dominant colors.
+// ---
+
 #include "components/favicon/core/large_icon_worker.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon database implementation
+// summary: Implements the SQLite-backed favicon database with tables for icon mappings, favicons and PNG bitmap data, including schema migrations, metrics and recovery.
+// ---
+
 #include "components/favicon/core/favicon_database.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback icon text implementation
+// summary: Derives short fallback icon text for a URL, returning the capitalized first character of the domain or special text for IP addresses and Android app URLs.
+// ---
+
 #include "components/favicon/core/fallback_url_util.h"
 
 #include "base/i18n/break_iterator.h"

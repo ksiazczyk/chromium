@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab favicon desaturation utility
+// summary: Implements GetTabFaviconMaybeDesaturatedOnError, which returns the tab favicon desaturated when the committed page is a network error page.
+// ---
+
 #include "components/favicon/content/content_favicon_util.h"
 
 #include "base/check.h"

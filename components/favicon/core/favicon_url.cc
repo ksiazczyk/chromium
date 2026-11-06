@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconURL implementation
+// summary: Implements constructors for FaviconURL, which describes a favicon candidate with its icon URL, icon type, and icon sizes.
+// ---
+
 #include "components/favicon/core/favicon_url.h"
 
 namespace favicon {

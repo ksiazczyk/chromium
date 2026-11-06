@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurePayload JNI conversion declaration
+// summary: Declares the ConvertSecurePayloadToJavaObject helper that converts a native SecurePayload into its Java representation via JNI.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_ANDROID_SECURE_PAYLOAD_ANDROID_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_ANDROID_SECURE_PAYLOAD_ANDROID_H_
 

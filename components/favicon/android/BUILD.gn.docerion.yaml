@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Favicon Android build targets
+summary: Defines GN build targets for the favicon Android Java library, JNI header generation, and the native large_icon_bridge source set with their dependencies.

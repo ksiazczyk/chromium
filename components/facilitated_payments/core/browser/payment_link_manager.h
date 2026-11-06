@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment link manager
+// summary: Declares PaymentLinkManager, which manages the push payment flow triggered by payment links, together with the SelectedFopData struct and FopType enum.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_PAYMENT_LINK_MANAGER_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_PAYMENT_LINK_MANAGER_H_
 

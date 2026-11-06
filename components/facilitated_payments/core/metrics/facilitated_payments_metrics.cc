@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments metrics logging implementation
+// summary: Implements histogram and UKM logging helpers for Pix, eWallet, and A2A payment flows, including account linking and payment link events.
+// ---
+
 #include "components/facilitated_payments/core/metrics/facilitated_payments_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

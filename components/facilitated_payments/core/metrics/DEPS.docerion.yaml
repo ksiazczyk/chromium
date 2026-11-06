@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for facilitated payments metrics
+summary: DEPS file allowing metrics service includes in the folder and UKM test support only in the unit test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device delegate interface for facilitated payments
+// summary: Abstract interface for device-specific operations such as observing app state, listing supported payment apps and invoking a payment app.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_DEVICE_DELEGATE_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_DEVICE_DELEGATE_H_
 

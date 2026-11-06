@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large icon worker class declaration
+// summary: Declares the LargeIconWorker class that processes PNG data returned by FaviconService for LargeIconService requests, handling resizing and decoding off the UI thread.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_LARGE_ICON_WORKER_H_
 #define COMPONENTS_FAVICON_CORE_LARGE_ICON_WORKER_H_
 

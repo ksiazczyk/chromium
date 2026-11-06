@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconBackend implementation
+// summary: Implements the logic for querying and updating favicons on top of FaviconDatabase, including refetch expiry, icon type equivalence and mapping management.
+// ---
+
 #include "components/favicon/core/favicon_backend.h"
 
 #include <algorithm>

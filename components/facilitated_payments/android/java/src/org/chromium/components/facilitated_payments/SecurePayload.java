@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action token and secure data payload for Play Services flows
+// summary: Carries the action token and decrypted secure data from the Payments backend used to trigger UI flows in Google Play Services.
+// ---
+
 package org.chromium.components.facilitated_payments;
 
 import org.jni_zero.CalledByNative;

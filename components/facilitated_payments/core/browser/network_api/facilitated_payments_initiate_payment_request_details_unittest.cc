@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for initiate payment request details
+// summary: Unit tests verifying that IsReadyForPixPayment returns false when any required field is missing and true when all Pix request details are available.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/facilitated_payments_initiate_payment_request_details.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

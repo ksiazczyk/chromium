@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LargeIconBridge Java API for the C++ LargeIconService
+// summary: Android Java bridge that fetches large favicons for URLs via the native LargeIconService, with an LRU cache, fallback colors, and Google server icon callbacks.
+// ---
+
 package org.chromium.components.favicon;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

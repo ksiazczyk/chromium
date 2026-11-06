@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large icon service getter header
+// summary: Declares the LargeIconServiceGetter callback type plus setter and getter functions so components code can obtain an embedder-specific LargeIconService.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CONTENT_LARGE_ICON_SERVICE_GETTER_H_
 #define COMPONENTS_FAVICON_CONTENT_LARGE_ICON_SERVICE_GETTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon utility header
+// summary: Declares GetFaviconImageForPageURL, a helper that requests a favicon image for a page URL from the favicon service with documented sizing behavior.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_UTIL_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_UTIL_H_
 

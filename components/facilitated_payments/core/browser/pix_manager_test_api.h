@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pix manager test API
+// summary: Test-only accessor exposing PixManager private methods and state, such as UI screens and network response handlers, for unit tests.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_PIX_MANAGER_TEST_API_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_PIX_MANAGER_TEST_API_H_
 

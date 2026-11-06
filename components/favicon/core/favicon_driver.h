@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon driver interface
+// summary: Interface letting favicon core code fetch and query the favicon for the current page and manage FaviconDriverObserver registration.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_DRIVER_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_DRIVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Facilitated payments network interface unit tests
+// summary: Unit tests for FacilitatedPaymentsNetworkInterface covering the initiate payment and get details for create payment instrument requests and their response handling.
+// ---
+
 #include "components/facilitated_payments/core/browser/network_api/facilitated_payments_network_interface.h"
 
 #include <cstdint>

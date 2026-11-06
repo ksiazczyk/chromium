@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon database interface
+// summary: Declares the FaviconDatabase API for storing and querying favicon bitmaps, icon mappings and transactions, owned by the history backend.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_DATABASE_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_DATABASE_H_
 

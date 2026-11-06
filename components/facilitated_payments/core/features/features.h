@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments feature flag declarations
+// summary: Declares the facilitated payments feature flags and their field trial parameters for use across the component.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_FEATURES_FEATURES_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_FEATURES_FEATURES_H_
 

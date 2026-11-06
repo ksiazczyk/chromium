@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for facilitated payments metrics
+// summary: Verifies histogram and UKM logging for Pix code copying, iframe URLs, payment link detection, and flow outcomes using test recorders.
+// ---
+
 #include "components/facilitated_payments/core/metrics/facilitated_payments_metrics.h"
 
 #include "base/strings/strcat.h"

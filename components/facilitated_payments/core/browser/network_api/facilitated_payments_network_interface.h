@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated Payments network interface class declaration
+// summary: Declares the interface for issuing Payments RPCs for Facilitated Payments, managing multiple concurrent requests and their response callbacks.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NETWORK_API_FACILITATED_PAYMENTS_NETWORK_INTERFACE_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NETWORK_API_FACILITATED_PAYMENTS_NETWORK_INTERFACE_H_
 

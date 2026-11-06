@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for facilitated payments Mojom bindings
+summary: Defines the GN build target that generates Mojom bindings for the facilitated payments agent interface.

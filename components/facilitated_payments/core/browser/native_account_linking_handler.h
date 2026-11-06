@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native account linking handler
+// summary: Declares the abstract NativeAccountLinkingHandler base class that coordinates Pix and eWallet account linking workflows and deduplicates GMSCore and Payments backend interactions.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NATIVE_ACCOUNT_LINKING_HANDLER_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CORE_BROWSER_NATIVE_ACCOUNT_LINKING_HANDLER_H_
 

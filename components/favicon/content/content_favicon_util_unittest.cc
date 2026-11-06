@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content favicon utility unit tests
+// summary: Tests verifying that favicons are returned unchanged for normal pages, desaturated for error pages, and empty without a favicon driver.
+// ---
+
 #include "components/favicon/content/content_favicon_util.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test API for the Android device delegate
+// summary: Exposes internal app status listener details of DeviceDelegateAndroid to unit tests through a dedicated test API wrapper.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_ANDROID_DEVICE_DELEGATE_ANDROID_TEST_API_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_ANDROID_DEVICE_DELEGATE_ANDROID_TEST_API_H_
 

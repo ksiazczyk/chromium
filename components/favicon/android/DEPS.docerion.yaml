@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for favicon Android
+summary: Lists the allowed include dependencies for the favicon Android component, covering browser UI utilities, content, net, Skia, and embedder support.

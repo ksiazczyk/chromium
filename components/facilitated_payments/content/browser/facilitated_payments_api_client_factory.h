@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments API client factory header
+// summary: Declares functions returning one-time callbacks that create platform-specific facilitated payments API client instances for a frame or WebContents.
+// ---
+
 #ifndef COMPONENTS_FACILITATED_PAYMENTS_CONTENT_BROWSER_FACILITATED_PAYMENTS_API_CLIENT_FACTORY_H_
 #define COMPONENTS_FACILITATED_PAYMENTS_CONTENT_BROWSER_FACILITATED_PAYMENTS_API_CLIENT_FACTORY_H_
 

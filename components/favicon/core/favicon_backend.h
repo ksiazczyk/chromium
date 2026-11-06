@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconBackend class declaration
+// summary: Declares FaviconBackend, which owns FaviconDatabase and exposes methods to get, set, merge and delete favicons and their page URL mappings.
+// ---
+
 #ifndef COMPONENTS_FAVICON_CORE_FAVICON_BACKEND_H_
 #define COMPONENTS_FAVICON_CORE_FAVICON_BACKEND_H_
 

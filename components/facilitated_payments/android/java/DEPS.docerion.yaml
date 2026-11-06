@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Facilitated payments Android Java DEPS include rules
+summary: Specifies include rules allowing this directory to depend on content/public/android and ui/android.

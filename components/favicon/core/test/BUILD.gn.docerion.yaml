@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for favicon core test support
+summary: Defines the testonly test_support static library bundling the favicon driver test helper and mock favicon service with their dependencies.

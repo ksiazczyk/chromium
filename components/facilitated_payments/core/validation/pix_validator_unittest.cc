@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pix QR code validator unit tests
+// summary: Unit tests for the Pix validator that classify merchant-presented QR codes as dynamic, static, or invalid, covering case handling, section ordering, and malformed lengths.
+// ---
+
 #include <string_view>
 
 #include "base/strings/string_view_rust.h"

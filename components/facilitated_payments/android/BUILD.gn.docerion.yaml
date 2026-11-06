@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for facilitated payments Android code
+summary: GN build file defining the Android facilitated payments static library, its unit test target, and test support sources.
