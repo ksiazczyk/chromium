@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system font access and adjustment
+// summary: Implements Windows system font lookup and caching via GDI LOGFONT mapping, with callbacks for minimum font size and font family or scale adjustments.
+// ---
+
 #include "ui/gfx/system_fonts_win.h"
 
 #include <windows.h>

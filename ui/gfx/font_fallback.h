@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font fallback interface
+// summary: Declares the gfx functions for obtaining suitable fallback fonts and for finding a fallback font that can render given text.
+// ---
+
 #ifndef UI_GFX_FONT_FALLBACK_H_
 #define UI_GFX_FONT_FALLBACK_H_
 

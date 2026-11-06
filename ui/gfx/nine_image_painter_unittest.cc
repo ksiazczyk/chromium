@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NineImagePainter unit tests
+// summary: Unit tests verifying subset region computation, high-DPI painting and bounds-cropped painting behavior of NineImagePainter.
+// ---
+
 #include "ui/gfx/nine_image_painter.h"
 
 #include "base/base64.h"

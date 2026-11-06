@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BufferUsage enum for GPU buffers
+// summary: Defines the BufferUsage enum describing how buffers may be used, such as scanout, CPU access, video decode, and protected contexts.
+// ---
+
 #ifndef UI_GFX_BUFFER_TYPES_H_
 #define UI_GFX_BUFFER_TYPES_H_
 

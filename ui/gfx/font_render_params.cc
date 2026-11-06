@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontRenderParams shared implementation
+// summary: Implements conversion of subpixel rendering settings to Skia pixel geometry and the FontRenderParamsQuery constructors.
+// ---
+
 #include "ui/gfx/font_render_params.h"
 
 #include "base/notreached.h"

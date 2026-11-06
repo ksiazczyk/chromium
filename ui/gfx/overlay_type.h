@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayType enum
+// summary: Defines the OverlayType enum that identifies overlay promotion strategies such as simple, underlay, single-on-top, and fullscreen.
+// ---
+
 #ifndef UI_GFX_OVERLAY_TYPE_H_
 #define UI_GFX_OVERLAY_TYPE_H_
 

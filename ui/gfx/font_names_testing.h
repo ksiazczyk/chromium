@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test font name constants
+// summary: Header defining platform-specific font names for default, symbol, and CJK fonts to use in tests across Linux, Android, Windows, Mac, and iOS.
+// ---
+
 #ifndef UI_GFX_FONT_NAMES_TESTING_H_
 #define UI_GFX_FONT_NAMES_TESTING_H_
 

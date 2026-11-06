@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwapCompletionResult implementation
+// summary: Implements SwapCompletionResult constructors carrying a swap result with an optional GPU fence handle or CALayer params.
+// ---
+
 #include "ui/gfx/swap_result.h"
 
 #include "ui/gfx/ca_layer_params.h"

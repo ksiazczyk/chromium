@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font utility implementation
+// summary: Implements Windows helpers that read text contrast and gamma settings from the registry and clamp them to Skia's supported ranges.
+// ---
+
 #include "ui/gfx/font_util_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color utilities implementation
+// summary: Implements color helpers such as HSL conversion, contrast ratios, relative luminance, and Google color palette ramps for Chromium UI.
+// ---
+
 #include "ui/gfx/color_utils.h"
 
 #include <stdint.h>

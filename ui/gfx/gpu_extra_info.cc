@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuExtraInfo implementation
+// summary: Implements default constructors, destructors and assignment operators for the ANGLEFeature and GpuExtraInfo structs.
+// ---
+
 #include "ui/gfx/gpu_extra_info.h"
 
 namespace gfx {

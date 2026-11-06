@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorSpace class implementation
+// summary: Implements the gfx::ColorSpace class, including matrix and transfer function comparisons, serialization support and SDR white level calculations.
+// ---
+
 #include "ui/gfx/color_space.h"
 
 #include <iomanip>

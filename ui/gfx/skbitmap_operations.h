@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkBitmap operations class declaration
+// summary: Declares SkBitmapOperations, a set of static helpers for transforming Skia bitmaps, including inversion, blending, masking, rotation, and HSL shifts.
+// ---
+
 #ifndef UI_GFX_SKBITMAP_OPERATIONS_H_
 #define UI_GFX_SKBITMAP_OPERATIONS_H_
 

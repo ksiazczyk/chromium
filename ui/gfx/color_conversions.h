@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color conversion API declarations
+// summary: Declares the gfx color conversion functions exposed for Blink color conversions, covering Lab, Oklab, Lch, HSL, HWB, legacy sRGB and XYZD50 transforms.
+// ---
+
 #ifndef UI_GFX_COLOR_CONVERSIONS_H_
 #define UI_GFX_COLOR_CONVERSIONS_H_
 

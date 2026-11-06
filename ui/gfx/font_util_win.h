@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font utility header
+// summary: Declares the FontUtilWin class with helpers for accessing text settings registry keys and clamping contrast and gamma values.
+// ---
+
 #ifndef UI_GFX_FONT_UTIL_WIN_H_
 #define UI_GFX_FONT_UTIL_WIN_H_
 

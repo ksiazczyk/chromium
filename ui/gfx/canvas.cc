@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canvas implementation
+// summary: Implementation of the gfx::Canvas class, covering canvas creation and backing management plus string width measurement with a small caching layer.
+// ---
+
 #include "ui/gfx/canvas.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR static metadata constructors
+// summary: Implements the constructors and assignment operators of the HDRStaticMetadata display capability struct.
+// ---
+
 #include "ui/gfx/hdr_static_metadata.h"
 
 namespace gfx {

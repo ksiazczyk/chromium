@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelegatedInkPoint class for delegated ink trails
+// summary: Defines the gfx::DelegatedInkPoint class storing the point, timestamp and pointer id needed to draw a single point of a delegated ink trail in viz.
+// ---
+
 #ifndef UI_GFX_DELEGATED_INK_POINT_H_
 #define UI_GFX_DELEGATED_INK_POINT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformFontSkia class header
+// summary: Declares PlatformFontSkia, the Skia-backed PlatformFont implementation that manages typefaces, font metrics and render parameters for gfx::Font.
+// ---
+
 #ifndef UI_GFX_PLATFORM_FONT_SKIA_H_
 #define UI_GFX_PLATFORM_FONT_SKIA_H_
 

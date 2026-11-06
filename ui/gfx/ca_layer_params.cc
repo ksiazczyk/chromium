@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerParams implementation
+// summary: Implements CALayerParams constructors, fence-free cloning, equality comparison, and emptiness checks for macOS compositing.
+// ---
+
 #include "ui/gfx/ca_layer_params.h"
 
 namespace gfx {

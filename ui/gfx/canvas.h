@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canvas class header
+// summary: Header for gfx::Canvas, a PaintCanvas wrapper that offers text drawing with alignment, prefix, and ellipsis flags plus common rendering operations for ui/gfx applications.
+// ---
+
 #ifndef UI_GFX_CANVAS_H_
 #define UI_GFX_CANVAS_H_
 

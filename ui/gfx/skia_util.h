@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia bitmap comparison and HarfBuzz conversion declarations
+// summary: Declares BitmapsAreEqual and Skia-to-HarfBuzz scalar conversion helpers in the gfx namespace.
+// ---
+
 #ifndef UI_GFX_SKIA_UTIL_H_
 #define UI_GFX_SKIA_UTIL_H_
 

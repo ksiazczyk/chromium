@@ -1,0 +1,4 @@
+# Docerion header of font_fallback_mac.mm.
+type: source
+title: macOS font fallback implementation
+summary: Implements font fallback on macOS using the Core Text cascade list for languages and special handling that routes emoji text to Apple Color Emoji.

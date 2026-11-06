@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CALayerResult enum for overlay processing
+// summary: Defines the CALayerResult enum of success and failure codes from ProcessForCALayerOverlays, used for histogram states on macOS.
+// ---
+
 #ifndef UI_GFX_CA_LAYER_RESULT_H_
 #define UI_GFX_CA_LAYER_RESULT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderText implementation
+// summary: Implements the RenderText base class covering text drawing, styling, elision, fading, selection and cursor handling for UI text rendering.
+// ---
+
 #include "ui/gfx/render_text.h"
 
 #include <limits.h>

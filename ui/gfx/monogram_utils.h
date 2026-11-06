@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Monogram drawing utilities header
+// summary: Declares DrawMonogramInCanvas, which draws a monogram in a colored circle on a canvas, exported from the gfx component.
+// ---
+
 #ifndef UI_GFX_MONOGRAM_UTILS_H_
 #define UI_GFX_MONOGRAM_UTILS_H_
 

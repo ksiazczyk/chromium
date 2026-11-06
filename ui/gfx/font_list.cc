@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontList implementation
+// summary: Implements FontList, including parsing of Pango-style font description strings into families, styles, size and weight.
+// ---
+
 #include "ui/gfx/font_list.h"
 
 #include <ostream>

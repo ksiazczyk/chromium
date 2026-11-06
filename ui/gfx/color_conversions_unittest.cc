@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color conversion unit tests
+// summary: Unit tests verifying color conversion functions such as LabToXYZD50 and XYZD50ToLab against reference color values from an online converter.
+// ---
+
 #include "ui/gfx/color_conversions.h"
 
 #include <stdlib.h>

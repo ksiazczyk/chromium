@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DraggableRegionsToSkRegion helper
+// summary: Provides a template that converts reported draggable and no-drag rects into an SkRegion for window-drag hit testing.
+// ---
+
 #ifndef UI_GFX_DRAGGABLE_REGION_H_
 #define UI_GFX_DRAGGABLE_REGION_H_
 

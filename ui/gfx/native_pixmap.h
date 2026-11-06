@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePixmap buffer interface
+// summary: Defines the abstract NativePixmap interface for buffers importable via GL or exportable as dma-buf fds, including overlay plane scheduling.
+// ---
+
 #ifndef UI_GFX_NATIVE_PIXMAP_H_
 #define UI_GFX_NATIVE_PIXMAP_H_
 

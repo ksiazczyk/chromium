@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia-based PlatformFont implementation
+// summary: Implements PlatformFontSkia, creating Skia typefaces with fallback family handling and font render parameters for platforms such as Linux and Android.
+// ---
+
 #include "ui/gfx/platform_font_skia.h"
 
 #include <algorithm>

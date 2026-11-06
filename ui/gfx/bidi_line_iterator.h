@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BiDiLineIterator class declaration
+// summary: Declares a wrapper around ICU's bidirectional iterator that splits lines of bidirectional text into visual runs.
+// ---
+
 #ifndef UI_GFX_BIDI_LINE_ITERATOR_H_
 #define UI_GFX_BIDI_LINE_ITERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS PlatformFont implementation header
+// summary: Declares PlatformFontIOS, the iOS implementation of PlatformFont built on UIKit fonts, with constructors for system, named, and Skia typeface fonts.
+// ---
+
 #ifndef UI_GFX_PLATFORM_FONT_IOS_H_
 #define UI_GFX_PLATFORM_FONT_IOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for Windows system fonts
+// summary: Unit tests verifying Windows font size adjustment, LOGFONT scaling and face overrides, and system font cache reset behavior.
+// ---
+
 #include "ui/gfx/system_fonts_win.h"
 
 #include <windows.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/gfx
+summary: Lists the headers outside ui/gfx that files here may include, with an extra rule for delegated_ink_point.h.

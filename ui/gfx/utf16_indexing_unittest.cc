@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UTF-16 indexing unit tests
+// summary: Unit tests verifying code point index validity and index/offset conversions for UTF-16 strings containing surrogate pairs.
+// ---
+
 #include <stddef.h>
 
 #include "testing/gtest/include/gtest/gtest.h"

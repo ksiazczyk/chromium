@@ -1,0 +1,4 @@
+# Docerion header of hdr_metadata_mac.mm.
+type: source
+title: macOS HDR metadata generation implementation
+summary: Implements generation of CLLI, mastering display color volume and ambient viewing environment CFData for macOS HDR rendering.

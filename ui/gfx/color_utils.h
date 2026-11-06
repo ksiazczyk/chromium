@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color utilities API header
+// summary: Declares the color_utils API for HSL conversion, contrast ratio, luminance, and HSL shift operations used across Chromium UI.
+// ---
+
 #ifndef UI_GFX_COLOR_UTILS_H_
 #define UI_GFX_COLOR_UTILS_H_
 

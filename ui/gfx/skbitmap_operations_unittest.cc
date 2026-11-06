@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkBitmap operations unit tests
+// summary: Unit tests verifying SkBitmapOperations results, including inverted, blended, masked, HSL-shifted, and downsampled bitmaps.
+// ---
+
 #include "ui/gfx/skbitmap_operations.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux font render params helpers
+// summary: Declares QueryFontconfig for querying Fontconfig render settings and a switch to force-disable subpixel font rendering.
+// ---
+
 #ifndef UI_GFX_FONT_RENDER_PARAMS_LINUX_H_
 #define UI_GFX_FONT_RENDER_PARAMS_LINUX_H_
 

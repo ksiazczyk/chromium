@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequential ID generator class declaration
+// summary: Declares SequentialIDGenerator, which maps numbers to the lowest available sequential IDs and supports looking up, releasing, and resetting those IDs.
+// ---
+
 #ifndef UI_GFX_SEQUENTIAL_ID_GENERATOR_H_
 #define UI_GFX_SEQUENTIAL_ID_GENERATOR_H_
 

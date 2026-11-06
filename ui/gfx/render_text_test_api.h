@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderText test API header
+// summary: Exposes RenderText internals such as run lists, styles and layout state to test code through the RenderTextTestApi wrapper.
+// ---
+
 #ifndef UI_GFX_RENDER_TEXT_TEST_API_H_
 #define UI_GFX_RENDER_TEXT_TEST_API_H_
 

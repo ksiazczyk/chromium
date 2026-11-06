@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecoratedText implementation
+// summary: Implements the RangedAttribute constructor and default lifecycle of the DecoratedText styling struct.
+// ---
+
 #include "ui/gfx/decorated_text.h"
 
 namespace gfx {

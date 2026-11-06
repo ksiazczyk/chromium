@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped CGContext state save helper for macOS
+// summary: Declares a RAII wrapper that saves a CoreGraphics context state and restores it on destruction on macOS.
+// ---
+
 #ifndef UI_GFX_SCOPED_CG_CONTEXT_SAVE_GSTATE_MAC_H_
 #define UI_GFX_SCOPED_CG_CONTEXT_SAVE_GSTATE_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Canvas unit tests
+// summary: Unit tests for gfx::Canvas verifying string width caching, string sizing with line height, empty string behavior, and clip bounds under scaling.
+// ---
+
 #include "ui/gfx/canvas.h"
 
 #include <algorithm>

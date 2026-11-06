@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAnimationDurationScaleMode class header
+// summary: Declares a RAII helper to speed up, slow down, or disable animations within a scope via a global duration multiplier.
+// ---
+
 #ifndef UI_GFX_SCOPED_ANIMATION_DURATION_SCALE_MODE_H_
 #define UI_GFX_SCOPED_ANIMATION_DURATION_SCALE_MODE_H_
 

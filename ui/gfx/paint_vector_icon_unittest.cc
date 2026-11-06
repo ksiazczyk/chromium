@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector icon painting unit tests
+// summary: Unit tests for vector icon rendering covering relative moves after close, nonzero fill rules, and flipping in RTL layouts.
+// ---
+
 #include "ui/gfx/paint_vector_icon.h"
 
 #include <gtest/gtest.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayLayerId implementation
+// summary: Implements OverlayLayerId constructors, factory methods and string conversion for stable per-frame identifiers of overlay layers.
+// ---
+
 #include "ui/gfx/overlay_layer_id.h"
 
 #include <sstream>

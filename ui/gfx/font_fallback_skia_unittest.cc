@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia font fallback unit tests
+// summary: Unit tests verifying GetFallbackFont returns fallback fonts for scripts such as Armenian, Arabic, Devanagari and CJK across locales.
+// ---
+
 #include <string_view>
 
 #include "base/logging.h"

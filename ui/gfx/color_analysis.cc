@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color analysis implementation
+// summary: Implementation of K-means based dominant color extraction for PNG and bitmap images, including cluster tracking, grid sampling, and HSL bound filtering.
+// ---
+
 #include "ui/gfx/color_analysis.h"
 
 #include <limits.h>

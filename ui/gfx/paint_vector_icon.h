@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector icon painting API
+// summary: Declares functions to paint vector icons on canvases and create ImageSkia renderings with optional sizes, colors, and badge icons.
+// ---
+
 #ifndef UI_GFX_PAINT_VECTOR_ICON_H_
 #define UI_GFX_PAINT_VECTOR_ICON_H_
 

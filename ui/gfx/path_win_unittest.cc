@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows HRGN creation from Skia paths
+// summary: Tests CreateHRGNFromSkPath conversion, covering round-corner rectangles, non-contiguous paths, and empty paths yielding empty regions.
+// ---
+
 #include "ui/gfx/path_win.h"
 
 #include <stddef.h>

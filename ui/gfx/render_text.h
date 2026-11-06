@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderText class header
+// summary: Declares the RenderText text rendering base class along with the SkiaTextRenderer and StyleIterator helpers used by concrete implementations.
+// ---
+
 #ifndef UI_GFX_RENDER_TEXT_H_
 #define UI_GFX_RENDER_TEXT_H_
 

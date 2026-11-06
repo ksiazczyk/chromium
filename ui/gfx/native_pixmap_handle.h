@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native pixmap handle types
+// summary: Defines NativePixmapPlane and NativePixmapHandle structs carrying plane metadata, DRM modifiers and Fuchsia sysmem handles for buffer sharing.
+// ---
+
 #ifndef UI_GFX_NATIVE_PIXMAP_HANDLE_H_
 #define UI_GFX_NATIVE_PIXMAP_HANDLE_H_
 

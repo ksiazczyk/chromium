@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux font fallback unit tests
+// summary: Tests Linux fallback font selection, cache behavior across calls and locales, and that Type 1 fonts are not returned as fallbacks.
+// ---
+
 #include "ui/gfx/font_fallback_linux.h"
 
 #include "base/files/file_path.h"

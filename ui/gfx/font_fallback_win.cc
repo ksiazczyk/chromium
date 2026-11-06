@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows font fallback implementation
+// summary: Implements Windows font fallback by querying registry font links and system fonts, backed by a cached singleton of font link settings.
+// ---
+
 #include "ui/gfx/font_fallback_win.h"
 
 #include <algorithm>

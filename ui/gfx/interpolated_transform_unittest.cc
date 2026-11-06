@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interpolated transform unit tests
+// summary: Unit tests verifying interpolated rotation, scale, translation and pivot-based transform behavior.
+// ---
+
 #include "ui/gfx/interpolated_transform.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

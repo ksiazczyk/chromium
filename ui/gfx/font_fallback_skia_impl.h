@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia font fallback typeface header
+// summary: Declares GetSkiaFallbackTypeface, which returns a Skia fallback typeface for a template font, locale and text.
+// ---
+
 #ifndef UI_GFX_FONT_FALLBACK_SKIA_IMPL_H_
 #define UI_GFX_FONT_FALLBACK_SKIA_IMPL_H_
 

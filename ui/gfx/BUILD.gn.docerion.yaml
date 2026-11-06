@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the gfx component
+summary: Defines the gfx, gfx_skia and color_utils build targets with their sources, configs and dependencies for the ui/gfx directory.

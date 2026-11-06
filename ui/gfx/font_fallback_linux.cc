@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux font fallback implementation
+// summary: Implements font fallback on Linux over the Fontconfig API, with caching of typefaces and fallback font entries keyed by font and locale.
+// ---
+
 #include "ui/gfx/font_fallback_linux.h"
 
 #include <fontconfig/fontconfig.h>

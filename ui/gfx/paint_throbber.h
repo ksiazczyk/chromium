@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint throbber API
+// summary: Declares functions to compute and paint spinning throbber animation frames, including a state struct and an eased-in variant, per Material design timing.
+// ---
+
 #ifndef UI_GFX_PAINT_THROBBER_H_
 #define UI_GFX_PAINT_THROBBER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UTF-16 index and offset conversion helpers
+// summary: Implements conversions between UTF-16 string indices and offsets that respect surrogate pair boundaries.
+// ---
+
 #include "ui/gfx/utf16_indexing.h"
 
 #include <string_view>

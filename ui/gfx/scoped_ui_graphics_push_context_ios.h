@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped UIGraphics push context helper for iOS
+// summary: Declares a scoped wrapper that pushes a CoreGraphics context onto the iOS UIKit graphics stack and pops it on destruction.
+// ---
+
 #ifndef UI_GFX_SCOPED_UI_GRAPHICS_PUSH_CONTEXT_IOS_H_
 #define UI_GFX_SCOPED_UI_GRAPHICS_PUSH_CONTEXT_IOS_H_
 

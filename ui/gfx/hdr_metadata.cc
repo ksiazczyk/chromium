@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR metadata implementation
+// summary: Implements the HDRMetadata class, including comparators for Skia HDR metadata types and conversion from skhdr metadata.
+// ---
+
 #include "ui/gfx/hdr_metadata.h"
 
 #include <algorithm>

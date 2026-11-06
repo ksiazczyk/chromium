@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkBitmap operations implementation
+// summary: Implements SkBitmapOperations for inverting, blending, masking, tiling, HSL shifting, and downsampling Skia bitmaps.
+// ---
+
 #include "ui/gfx/skbitmap_operations.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of platform_font_mac_unittest.mm.
+type: test
+title: Unit tests for macOS PlatformFont
+summary: Tests PlatformFontMac font derivation, including italic, bold, underline, and weight handling, validated against native CoreText font traits.

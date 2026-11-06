@@ -1,0 +1,4 @@
+# Docerion header of scoped_ns_graphics_context_save_gstate_mac.mm.
+type: source
+title: Scoped NSGraphicsContext save/restore implementation
+summary: Implements saving and restoring the current NSGraphicsContext state using AppKit on macOS.

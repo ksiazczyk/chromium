@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text layout and alignment constants
+// summary: Defines enums for text breaking, selection behavior, word wrapping, horizontal and vertical alignment, directionality, and text styles used by the gfx text stack.
+// ---
+
 #ifndef UI_GFX_TEXT_CONSTANTS_H_
 #define UI_GFX_TEXT_CONSTANTS_H_
 

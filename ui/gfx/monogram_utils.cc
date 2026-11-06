@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Monogram drawing utilities implementation
+// summary: Implements drawing of a monogram letter inside a colored circle on a gfx canvas, with platform-specific font weight handling.
+// ---
+
 #include "ui/gfx/monogram_utils.h"
 
 #include <string>

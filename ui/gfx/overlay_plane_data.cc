@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayPlaneData implementation
+// summary: Implements the OverlayPlaneData constructors and destructor that initialize overlay plane composition parameters.
+// ---
+
 #include "ui/gfx/overlay_plane_data.h"
 
 #include <variant>

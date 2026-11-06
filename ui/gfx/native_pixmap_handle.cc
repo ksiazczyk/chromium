@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native pixmap handle implementation
+// summary: Implements native pixmap plane and handle structs, including IPC-safe handle cloning on Linux, ChromeOS and Fuchsia.
+// ---
+
 #include "ui/gfx/native_pixmap_handle.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of native_ui_util_mac.mm.
+type: source
+title: macOS implementation of GetViewForWindow
+summary: Implements GetViewForWindow on macOS by returning the window's content view as a NativeView.

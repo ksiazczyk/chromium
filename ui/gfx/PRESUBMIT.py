@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for ui/gfx
+# summary: Runs presubmit validation of the codec and compositor unit test bundle data when changes are uploaded.
+# ---
+
 """Presubmit checks for ui/gfx
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts

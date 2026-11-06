@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay transform conversion and composition helpers
+// summary: Declares gfx helpers that convert an OverlayTransform to a geometry transform for a viewport and invert or concatenate overlay transforms.
+// ---
+
 #ifndef UI_GFX_OVERLAY_TRANSFORM_UTILS_H_
 #define UI_GFX_OVERLAY_TRANSFORM_UTILS_H_
 

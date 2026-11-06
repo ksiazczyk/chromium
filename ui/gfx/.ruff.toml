@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for ui/gfx
+# summary: Extends the repository-wide Ruff configuration and sets the indentation width to four spaces.
+# ---
+
 extend = "../.ruff.toml"
 indent-width = 4

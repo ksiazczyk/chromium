@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS PlatformFont implementation header
+// summary: Declares PlatformFontMac, the macOS PlatformFont implementation supporting general, menu, and tooltip system fonts via CoreText and Skia typefaces.
+// ---
+
 #ifndef UI_GFX_PLATFORM_FONT_MAC_H_
 #define UI_GFX_PLATFORM_FONT_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HDR tone mapping implementation
+// summary: Implements adaptive global tone mapping calculations that decide when HDR content needs a tone mapping shader and apply it to Skia paints.
+// ---
+
 #include "ui/gfx/tone_map_util.h"
 
 #include <algorithm>

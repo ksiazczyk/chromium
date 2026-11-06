@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux font render params unit tests
+// summary: Tests font render parameter resolution by loading Fontconfig XML configurations and using a fake Linux UI delegate to isolate tests from system settings.
+// ---
+
 #include "ui/gfx/font_render_params_linux.h"
 
 #include <fontconfig/fontconfig.h>

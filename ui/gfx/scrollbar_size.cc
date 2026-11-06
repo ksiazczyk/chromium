@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrollbar size implementation
+// summary: Returns the scrollbar thickness in pixels, using Windows system metrics or a default value of 15 on other platforms.
+// ---
+
 #include "ui/gfx/scrollbar_size.h"
 
 #include "base/compiler_specific.h"

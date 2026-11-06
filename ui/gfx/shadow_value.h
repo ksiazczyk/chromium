@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow value class declaration
+// summary: Declares ShadowValue, which encapsulates a shadow's offset, blur, and color, plus factories for elevation-based and Chrome OS shadow values.
+// ---
+
 #ifndef UI_GFX_SHADOW_VALUE_H_
 #define UI_GFX_SHADOW_VALUE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swap result types and timing structs
+// summary: Defines SwapResult, SwapTimings, SwapResponse, and SwapCompletionResult used to report buffer swap outcomes and timings.
+// ---
+
 #ifndef UI_GFX_SWAP_RESULT_H_
 #define UI_GFX_SWAP_RESULT_H_
 

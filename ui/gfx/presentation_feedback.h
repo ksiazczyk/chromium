@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PresentationFeedback struct header
+// summary: Defines the PresentationFeedback struct with timestamps, refresh interval and flags reporting the outcome of buffer swaps and presentation.
+// ---
+
 #ifndef UI_GFX_PRESENTATION_FEEDBACK_H_
 #define UI_GFX_PRESENTATION_FEEDBACK_H_
 

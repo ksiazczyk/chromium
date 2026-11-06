@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font render params Windows unit tests
+// summary: Unit tests verifying Windows font render parameters, including contrast and gamma values read from registry settings when the feature flag is enabled.
+// ---
+
 #include "ui/gfx/font_render_params.h"
 
 #include <limits>

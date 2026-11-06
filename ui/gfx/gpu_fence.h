@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuFence header
+// summary: Declares the GpuFence class that owns a GpuFenceHandle and provides wait, status and client cast methods.
+// ---
+
 #ifndef UI_GFX_GPU_FENCE_H_
 #define UI_GFX_GPU_FENCE_H_
 

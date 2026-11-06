@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux font fallback header
+// summary: Declares FallbackFontData and per-character fallback lookup for Linux, along with testing hooks to inspect and clear the fallback caches.
+// ---
+
 #ifndef UI_GFX_FONT_FALLBACK_LINUX_H_
 #define UI_GFX_FONT_FALLBACK_LINUX_H_
 

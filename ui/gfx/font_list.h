@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FontList class header
+// summary: Declares the FontList class representing a list of fonts with common metrics and documents its description string format.
+// ---
+
 #ifndef UI_GFX_FONT_LIST_H_
 #define UI_GFX_FONT_LIST_H_
 

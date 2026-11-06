@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia paint shader and shadow looper utilities
+// summary: Implements gfx helpers that create Skia paint shaders for image representations and gradients and build draw loopers for shadows.
+// ---
+
 #include "ui/gfx/skia_paint_util.h"
 
 #include "cc/paint/draw_looper.h"

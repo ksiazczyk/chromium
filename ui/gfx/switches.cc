@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gfx switches and feature flag definitions
+// summary: Defines command-line switches and base::Feature flags controlling animation scaling, font rendering, headless mode, GPU memory buffers, and X11 display options in gfx.
+// ---
+
 #include "ui/gfx/switches.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon size constant and declaration
+// summary: Declares the kFaviconSize constant of 16 and CalculateFaviconTargetSize for aspect-ratio-preserving favicon resizing.
+// ---
+
 #ifndef UI_GFX_FAVICON_SIZE_H_
 #define UI_GFX_FAVICON_SIZE_H_
 

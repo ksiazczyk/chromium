@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequential ID generator implementation
+// summary: Implements SequentialIDGenerator, mapping arbitrary numbers to sequential IDs within a bounded range and reusing released IDs.
+// ---
+
 #include "ui/gfx/sequential_id_generator.h"
 
 #include "base/check_op.h"

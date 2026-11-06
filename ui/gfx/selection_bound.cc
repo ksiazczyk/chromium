@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection bound implementation
+// summary: Implements the SelectionBound class and helpers that compute rectangles between selection bounds, including visible-edge variants.
+// ---
+
 #include <algorithm>
 
 #include "base/strings/stringprintf.h"

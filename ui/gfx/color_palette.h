@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google color palette constants
+// summary: Defines constexpr SkColor constants for Google Material Design palette shades from 050 to 900 in blue, red, green, yellow, grey and orange, plus a placeholder color.
+// ---
+
 #ifndef UI_GFX_COLOR_PALETTE_H_
 #define UI_GFX_COLOR_PALETTE_H_
 

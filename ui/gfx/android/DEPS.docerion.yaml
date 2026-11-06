@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/gfx/android
+summary: DEPS include rules granting this directory access to the ui/gfx/gfx_jni_headers target.

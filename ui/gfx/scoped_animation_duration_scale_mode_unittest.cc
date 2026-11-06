@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedAnimationDurationScaleMode unit tests
+// summary: Tests basic, nested, and non-LIFO DISABLE_ANIMATION scopes and verifies the duration multiplier is restored correctly.
+// ---
+
 #include "ui/gfx/scoped_animation_duration_scale_mode.h"
 
 #include <memory>

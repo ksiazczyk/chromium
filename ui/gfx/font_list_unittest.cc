@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FontList unit tests
+// summary: Unit tests for gfx::FontList covering description parsing, construction from font lists, and font comparison helpers.
+// ---
+
 #include "ui/gfx/font_list.h"
 
 #include <algorithm>

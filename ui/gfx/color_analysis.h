@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color analysis header
+// summary: Header declaring the K-means image sampler interfaces and dominant color calculation APIs for PNG and bitmap images with HSL lower and upper bounds.
+// ---
+
 #ifndef UI_GFX_COLOR_ANALYSIS_H_
 #define UI_GFX_COLOR_ANALYSIS_H_
 

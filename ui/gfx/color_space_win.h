@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows color space conversion API
+// summary: Declares ColorSpaceWin helpers that convert gfx::ColorSpace to DXVA2, DXGI and D3D11 color space types and swap chain formats, including HDR support.
+// ---
+
 #ifndef UI_GFX_COLOR_SPACE_WIN_H_
 #define UI_GFX_COLOR_SPACE_WIN_H_
 

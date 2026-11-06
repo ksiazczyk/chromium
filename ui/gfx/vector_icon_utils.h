@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector icon utilities header
+// summary: Declares functions for vector icon command argument counts, default icon sizes, and parsing path element text.
+// ---
+
 #ifndef UI_GFX_VECTOR_ICON_UTILS_H_
 #define UI_GFX_VECTOR_ICON_UTILS_H_
 

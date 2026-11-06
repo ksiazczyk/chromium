@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ui/gfx
+summary: Maps the directory to the UI>GFX issue tracker component, the graphics-dev team email and a Buganizer component.

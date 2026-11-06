@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font fallback unit tests
+// summary: Parameterized unit tests for GetFallbackFont covering many scripts, language tags and base font options using ICU sample text.
+// ---
+
 #include <algorithm>
 #include <string>
 #include <string_view>

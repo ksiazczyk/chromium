@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuFenceHandle implementation
+// summary: Implements GpuFenceHandle ownership, cloning and platform-specific fence duplication for POSIX, Fuchsia and Windows.
+// ---
+
 #include "ui/gfx/gpu_fence_handle.h"
 #include <atomic>
 #include <cstddef>
