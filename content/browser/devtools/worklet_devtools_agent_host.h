@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worklet DevTools Agent Host Header
+// summary: Declares WorkletDevToolsAgentHost, a DevTools agent host for worklets that extends WorkerOrWorkletDevToolsAgentHost and overrides type reporting and session attachment.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_WORKLET_DEVTOOLS_AGENT_HOST_H_
 #define CONTENT_BROWSER_DEVTOOLS_WORKLET_DEVTOOLS_AGENT_HOST_H_
 

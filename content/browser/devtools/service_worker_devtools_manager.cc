@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker DevTools manager implementation
+// summary: Implements the UI-thread singleton that tracks live and installing service worker DevTools agent hosts and notifies observers of worker lifecycle events.
+// ---
+
 #include "content/browser/devtools/service_worker_devtools_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools URL loader interceptor implementation
+// summary: Implements DevTools Fetch and Network request interception, handling modifications, auth challenges, redirects, and response bodies.
+// ---
+
 #include "content/browser/devtools/devtools_url_loader_interceptor.h"
 
 #include <memory>

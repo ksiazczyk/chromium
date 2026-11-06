@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Direct Sockets TCP browser tests
+// summary: Browser tests that send and receive data over TCP sockets using the real Network Service implementation of NetworkContext.
+// ---
+
 
 #include <stdint.h>
 

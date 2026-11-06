@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Display cutout directory metadata
+summary: Directory metadata specifying shared mixins and the media development team contact for this folder.

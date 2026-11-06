@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON protocol encoding fuzzer
+// summary: FuzzTest that verifies JSON to CBOR conversion of DevTools protocol messages using generated and seeded JSON inputs.
+// ---
+
 #include "base/json/json_reader.h"
 #include "base/json/json_writer.h"
 #include "base/rand_util.h"

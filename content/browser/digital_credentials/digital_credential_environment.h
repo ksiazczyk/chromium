@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalCredentialEnvironment header
+// summary: Declares the DigitalCredentialEnvironment singleton, which manages per-frame virtual wallet environments for the Digital Credentials API and resets their state when disabled.
+// ---
+
 #ifndef CONTENT_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_CREDENTIAL_ENVIRONMENT_H_
 #define CONTENT_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_CREDENTIAL_ENVIRONMENT_H_
 

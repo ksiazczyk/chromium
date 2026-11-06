@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAccess DevTools domain handler implementation
+// summary: Implements the DeviceAccess CDP domain, tracking device request prompts and reporting available devices to the DevTools frontend.
+// ---
+
 #include "content/browser/devtools/protocol/device_access_handler.h"
 
 #include "content/browser/devtools/devtools_agent_host_impl.h"

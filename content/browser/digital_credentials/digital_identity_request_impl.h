@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalIdentityRequestImpl header
+// summary: Declares DigitalIdentityRequestImpl, a DocumentService that fulfills mojo digital identity requests from the renderer, computes interstitial types, and applies virtual wallet actions.
+// ---
+
 #ifndef CONTENT_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_REQUEST_IMPL_H_
 #define CONTENT_BROWSER_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_REQUEST_IMPL_H_
 

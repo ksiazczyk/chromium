@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualWallet implementation
+// summary: Implements VirtualWallet, a test helper that stores a digital credential and a simulated wallet action for WebDriver-driven Digital Credentials API flows.
+// ---
+
 #include "content/browser/digital_credentials/virtual_wallet.h"
 
 #include <utility>

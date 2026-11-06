@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request body collector implementation
+// summary: Reads network request body elements, including Mojo data pipes, and reports collected byte entries to a completion callback.
+// ---
+
 #include "content/browser/devtools/request_body_collector.h"
 
 #include "base/byte_size.h"

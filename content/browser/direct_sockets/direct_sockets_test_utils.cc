@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Direct Sockets test utilities implementation
+// summary: Implements mock UDP sockets, restricted UDP sockets, and a mock NetworkContext used by the Direct Sockets browser tests.
+// ---
+
 #include "content/browser/direct_sockets/direct_sockets_test_utils.h"
 
 #include <string_view>

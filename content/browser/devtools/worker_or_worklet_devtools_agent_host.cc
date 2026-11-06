@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerOrWorkletDevToolsAgentHost implementation
+// summary: Implements the shared base for dedicated worker and worklet agent hosts, covering renderer channel setup, disconnection, and process observation.
+// ---
+
 #include "content/browser/devtools/worker_or_worklet_devtools_agent_host.h"
 
 #include "base/functional/bind.h"

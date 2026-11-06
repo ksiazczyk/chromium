@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsTraceableScreenshot class header
+// summary: Declares a trace-format screenshot class with instance counting and a default cap of 450 screenshots per tracing session.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_TRACEABLE_SCREENSHOT_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_TRACEABLE_SCREENSHOT_H_
 

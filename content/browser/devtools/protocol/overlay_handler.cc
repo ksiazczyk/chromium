@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay DevTools domain handler implementation
+// summary: Implements the Overlay domain by toggling inspect mode, paused-in-debugger messages and input capture routing for the inspected page.
+// ---
+
 #include "content/browser/devtools/protocol/overlay_handler.h"
 
 #include <stdint.h>

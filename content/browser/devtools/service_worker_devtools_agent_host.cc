@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker DevTools agent host implementation
+// summary: Implements the DevTools agent host for service workers, including a service worker auto-attacher that watches for new worker versions and wires protocol handlers.
+// ---
+
 #include "content/browser/devtools/service_worker_devtools_agent_host.h"
 
 #include "base/functional/bind.h"

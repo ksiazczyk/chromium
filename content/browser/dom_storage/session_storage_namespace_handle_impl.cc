@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionStorageNamespaceHandleImpl implementation
+// summary: Implements the session storage namespace handle, creating, cloning and deleting session storage namespaces through the DOM storage context wrapper and the storage service mojo interface.
+// ---
+
 #include "content/browser/dom_storage/session_storage_namespace_handle_impl.h"
 
 #include <utility>

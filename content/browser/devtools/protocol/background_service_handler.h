@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Service DevTools domain handler header
+// summary: Declares the BackgroundServiceHandler class that observes and reports background service events through the DevTools protocol.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_BACKGROUND_SERVICE_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_BACKGROUND_SERVICE_HANDLER_H_
 

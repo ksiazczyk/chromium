@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMCP DevTools domain handler class declaration
+// summary: Declares the WebMCPHandler class, a DevTools domain handler that enables tool invocation in renderer frames and observes navigations via WebContentsObserver.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_WEBMCP_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_WEBMCP_HANDLER_H_
 

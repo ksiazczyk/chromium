@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Digital Credentials Directory Metadata
+summary: Declares the issue tracker component, team email, and Buganizer component for the digital credentials browser directory.

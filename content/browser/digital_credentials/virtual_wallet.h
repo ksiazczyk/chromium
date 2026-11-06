@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualWallet header
+// summary: Declares the VirtualWallet class, which stores a credential to return and an action (respond, wait, or decline) controlling simulated wallet behavior.
+// ---
+
 #ifndef CONTENT_BROWSER_DIGITAL_CREDENTIALS_VIRTUAL_WALLET_H_
 #define CONTENT_BROWSER_DIGITAL_CREDENTIALS_VIRTUAL_WALLET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalIdentityRequestImpl implementation
+// summary: Implements browser-side handling of digital identity requests, including protocol parsing, interstitial decisions based on requested claims and origin risk, and virtual wallet interception.
+// ---
+
 #include "content/browser/digital_credentials/digital_identity_request_impl.h"
 
 #include <memory>

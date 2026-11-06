@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceAccess DevTools domain handler header
+// summary: Declares DeviceAccessHandler, which manages device request prompts for the DeviceAccess CDP domain.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DEVICE_ACCESS_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DEVICE_ACCESS_HANDLER_H_
 

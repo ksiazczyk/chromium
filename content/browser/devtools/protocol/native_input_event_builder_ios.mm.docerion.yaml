@@ -1,0 +1,4 @@
+# Docerion header of native_input_event_builder_ios.mm.
+type: source
+title: iOS implementation of native input event creation for DevTools
+summary: Implements NativeInputEventBuilder::CreateEvent for iOS by returning an owned UIEvent for emulated keyboard events.

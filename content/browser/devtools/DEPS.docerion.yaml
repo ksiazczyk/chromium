@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DevTools include dependency rules
+summary: Declares the allowed include rules for this directory, covering V8 version info, inspector protocol, URL pattern validation, and fuzzing support.

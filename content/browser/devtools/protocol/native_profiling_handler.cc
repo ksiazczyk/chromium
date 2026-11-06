@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native profiling DevTools domain handler implementation
+// summary: Implements the NativeProfiling domain by wiring the dispatcher and asking all child processes to dump profiling data, used for PGO instrumented builds.
+// ---
+
 #include "content/browser/devtools/protocol/native_profiling_handler.h"
 
 #include "content/browser/devtools/devtools_agent_host_impl.h"

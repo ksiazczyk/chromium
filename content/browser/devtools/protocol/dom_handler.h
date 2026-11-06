@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM DevTools handler header
+// summary: Declares the DOM DevTools handler class that wires the DOM domain dispatcher and controls file access commands via an allow_file_access flag.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DOM_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DOM_HANDLER_H_
 

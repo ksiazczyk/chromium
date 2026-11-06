@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DigitalCredentials handler unit tests
+// summary: Unit tests for the DigitalCredentials DevTools handler, covering invalid parameters, wallet clearing, and respond-action validation across frames.
+// ---
+
 #include "content/browser/devtools/protocol/digital_credentials_handler.h"
 
 #include <memory>

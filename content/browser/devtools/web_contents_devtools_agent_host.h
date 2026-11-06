@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsDevToolsAgentHost class declaration
+// summary: Declares the WebContents-scoped DevTools agent host with session attachment, target metadata, and instrumentation methods such as WillInitiatePrerender and InspectElement.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_WEB_CONTENTS_DEVTOOLS_AGENT_HOST_H_
 #define CONTENT_BROWSER_DEVTOOLS_WEB_CONTENTS_DEVTOOLS_AGENT_HOST_H_
 

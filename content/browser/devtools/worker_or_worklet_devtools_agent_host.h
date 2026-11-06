@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerOrWorkletDevToolsAgentHost class declaration
+// summary: Declares the base DevTools agent host class for dedicated workers and worklets, with renderer connection handling and DevToolsAgentHost overrides.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_WORKER_OR_WORKLET_DEVTOOLS_AGENT_HOST_H_
 #define CONTENT_BROWSER_DEVTOOLS_WORKER_OR_WORKLET_DEVTOOLS_AGENT_HOST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsThrottleHandle implementation
+// summary: Implements the throttle handle that runs its unthrottle callback when the handle is destroyed.
+// ---
+
 #include "content/browser/devtools/devtools_throttle_handle.h"
 
 namespace content {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display cutout host implementation
+// summary: Implements the browser-side display cutout host that tracks per-frame viewport-fit values and sends safe area insets to the active frame.
+// ---
+
 #include "content/browser/display_cutout/display_cutout_host_impl.h"
 
 #include "content/browser/display_cutout/display_cutout_constants.h"

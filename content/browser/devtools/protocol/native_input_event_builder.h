@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeInputEventBuilder class header for creating native keyboard events
+// summary: Declares a helper that converts DevTools-emulated keyboard events into native OS events, needed only on Apple platforms for browser-side keyboard processing.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_NATIVE_INPUT_EVENT_BUILDER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_NATIVE_INPUT_EVENT_BUILDER_H_
 

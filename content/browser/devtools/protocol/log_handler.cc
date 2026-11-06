@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log DevTools protocol handler implementation
+// summary: Implements the Log DevTools domain, forwarding log entries to the frontend once the domain has been enabled.
+// ---
+
 #include "content/browser/devtools/protocol/log_handler.h"
 
 #include "content/browser/devtools/devtools_agent_host_impl.h"

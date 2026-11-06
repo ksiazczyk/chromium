@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools renderer channel implementation
+// summary: Implements the browser-side channel that binds and manages the Mojo connection to the renderer's blink::mojom::DevToolsAgent for DevTools sessions and child targets.
+// ---
+
 #include "content/browser/devtools/devtools_renderer_channel.h"
 
 #include "base/functional/bind.h"

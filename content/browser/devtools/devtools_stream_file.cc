@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools file stream implementation
+// summary: Implements a DevTools IO context stream backed by a temporary file, supporting reads and appends on a blocking task runner.
+// ---
+
 #include "content/browser/devtools/devtools_stream_file.h"
 
 #include "base/base64.h"

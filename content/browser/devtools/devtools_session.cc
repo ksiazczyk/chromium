@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools session implementation
+// summary: Implements DevTools protocol sessions, dispatching JSON and CBOR messages to domain handlers and managing IO-thread methods and message suspension during navigation.
+// ---
+
 #include "content/browser/devtools/devtools_session.h"
 
 #include <utility>

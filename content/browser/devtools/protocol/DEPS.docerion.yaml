@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for DevTools protocol handlers
+summary: DEPS file granting specific include dependencies needed by protocol handlers, such as back-forward cache disabled reasons and FIDO parsing utilities.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background services context unit tests
+// summary: Unit tests for the background services context covering recording, logging, and querying service worker events.
+// ---
+
 #include "content/browser/devtools/devtools_background_services_context_impl.h"
 
 #include <memory>

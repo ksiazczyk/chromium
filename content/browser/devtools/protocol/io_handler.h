@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IO DevTools protocol handler class declaration
+// summary: Declares IOHandler, the browser-side handler for the IO DevTools domain that reads from and closes DevTools stream handles.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_IO_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_IO_HANDLER_H_
 

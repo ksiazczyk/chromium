@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DOM Storage include rules
+summary: Restricts includes in this directory to the storage service components and the LevelDB third-party library.

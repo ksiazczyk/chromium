@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingProcessSetMonitor class declaration
+// summary: Declares TracingProcessSetMonitor, which observes DevTools sessions and agent hosts to report the set of processes involved in a tracing session.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_TRACING_PROCESS_SET_MONITOR_H_
 #define CONTENT_BROWSER_DEVTOOLS_TRACING_PROCESS_SET_MONITOR_H_
 

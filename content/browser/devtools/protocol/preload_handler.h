@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Preload domain handler header
+// summary: Declares PreloadHandler, which reports prefetch and prerender status updates to DevTools clients over the Preload domain.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_PRELOAD_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_PRELOAD_HANDLER_H_
 

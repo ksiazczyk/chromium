@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools video consumer implementation
+// summary: Implements DevToolsVideoConsumer, which captures frame sink video frames for DevTools screencast and converts them to SkBitmaps.
+// ---
+
 #include "content/browser/devtools/devtools_video_consumer.h"
 
 #include <utility>

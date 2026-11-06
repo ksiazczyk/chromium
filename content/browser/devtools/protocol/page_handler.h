@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Page domain handler header
+// summary: Declares PageHandler, the browser-side backend for the DevTools Page domain, covering navigation, JavaScript dialogs, interstitials and downloads.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_PAGE_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_PAGE_HANDLER_H_
 

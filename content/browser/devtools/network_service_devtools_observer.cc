@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service DevTools observer implementation
+// summary: Relays raw request, response, CORS, trust token, and other network events from the network service to the matching DevTools agent hosts.
+// ---
+
 #include "content/browser/devtools/network_service_devtools_observer.h"
 
 #include "base/feature_list.h"

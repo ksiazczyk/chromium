@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsManager class declaration
+// summary: Declares the DevToolsManager singleton that manages global browser DevTools state, its delegate access, and test shutdown.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_MANAGER_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_MANAGER_H_
 

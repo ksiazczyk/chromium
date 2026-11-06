@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: DevTools browser build targets (BUILD.gn)
+summary: GN build file defining DevTools resource packaging, protocol concatenation, and generated protocol source targets for the browser DevTools code.

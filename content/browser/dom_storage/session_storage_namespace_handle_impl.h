@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionStorageNamespaceHandleImpl class declaration
+// summary: Declares the SessionStorageNamespaceHandleImpl class with factory methods for creating and cloning namespaces, plus persistence and context accessors.
+// ---
+
 #ifndef CONTENT_BROWSER_DOM_STORAGE_SESSION_STORAGE_NAMESPACE_HANDLE_IMPL_H_
 #define CONTENT_BROWSER_DOM_STORAGE_SESSION_STORAGE_NAMESPACE_HANDLE_IMPL_H_
 

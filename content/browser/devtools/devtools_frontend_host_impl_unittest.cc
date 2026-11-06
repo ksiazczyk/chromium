@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevToolsFrontendHostImpl unit tests
+// summary: Unit tests for the DevTools frontend host, verifying that JavaScript error reports are forwarded to the expected browser context.
+// ---
+
 #include "content/browser/devtools/devtools_frontend_host_impl.h"
 
 #include <memory>

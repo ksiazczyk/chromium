@@ -1,0 +1,4 @@
+# Docerion header of protocol_config.json.
+type: config
+title: DevTools protocol code generation config
+summary: Configures which DevTools protocol domains, commands, and events the browser implements and which methods are asynchronous when generating protocol handlers.

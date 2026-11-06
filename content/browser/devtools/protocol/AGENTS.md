@@ -1,3 +1,13 @@
+---
+type: guide
+title: Content DevTools Protocol testing guide
+summary: Canonical guide for Chrome DevTools Protocol testing conventions in the content layer, directing new Inspector Protocol tests to JavaScript in the inspector-protocol folder instead of C++.
+relations:
+  - references /chrome/browser/devtools/AGENTS.md
+  - references /third_party/blink/public/devtools_protocol/AGENTS.md
+  - references /third_party/blink/renderer/core/AGENTS.md
+---
+
 # Content DevTools Protocol (`content/browser/devtools/protocol`)
 
 This directory contains the browser-side implementation of Chrome DevTools Protocol (CDP) domains in the `content` layer.

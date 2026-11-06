@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Direct Sockets directory metadata
+summary: Metadata file that mixes in the common metadata from the Blink direct_sockets renderer module for this directory.

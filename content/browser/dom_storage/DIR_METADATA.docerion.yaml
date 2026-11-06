@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DOM Storage directory metadata
+summary: Points the directory's metadata mixins at COMMON_METADATA to reuse its tracker and team settings.

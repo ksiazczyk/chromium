@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools MHTML snapshot helper implementation
+// summary: Implements DevToolsMHTMLHelper, which captures a WebContents as an MHTML snapshot into a temporary file for the DevTools Page domain.
+// ---
+
 #include "content/browser/devtools/protocol/devtools_mhtml_helper.h"
 
 #include "base/files/file_util.h"

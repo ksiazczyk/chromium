@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info DevTools protocol handler header
+// summary: Declares the SystemInfoHandler class providing DevTools SystemInfo domain methods such as GetInfo and GetProcessInfo for browser targets.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_SYSTEM_INFO_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_SYSTEM_INFO_HANDLER_H_
 

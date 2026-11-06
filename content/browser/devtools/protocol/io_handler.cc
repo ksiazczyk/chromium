@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IO DevTools protocol handler implementation
+// summary: Implements the IO DevTools domain, reading chunks from streams such as blob-backed streams by handle and closing them for the DevTools client.
+// ---
+
 #include "content/browser/devtools/protocol/io_handler.h"
 
 #include <stddef.h>

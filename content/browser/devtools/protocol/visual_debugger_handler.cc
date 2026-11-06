@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual Debugger DevTools protocol handler implementation
+// summary: Implements the VisualDebugger DevTools domain, starting, filtering and stopping the GPU process visual debug stream and forwarding frames.
+// ---
+
 #include "content/browser/devtools/protocol/visual_debugger_handler.h"
 
 #include <string.h>

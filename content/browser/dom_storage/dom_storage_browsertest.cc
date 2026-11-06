@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM Storage browser tests
+// summary: End-to-end browser tests for the DOM Storage system, parameterized over the SQLite backend feature flags.
+// ---
+
 #include <optional>
 #include <set>
 #include <string>

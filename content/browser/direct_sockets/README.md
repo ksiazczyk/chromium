@@ -1,3 +1,12 @@
+---
+type: readme
+title: Direct Sockets API (content/browser/direct_sockets)
+summary: Describes the browser-process service and security checks for the Direct Sockets API, which lets Isolated Web Apps open raw TCP and UDP connections.
+relations:
+  - references /components/webapps/isolated_web_apps/README.md
+  - documents /content/browser/direct_sockets/direct_sockets_service_impl.cc
+---
+
 # Direct Sockets API (`content/browser/direct_sockets`)
 
 This directory implements the browser-process service and security checks for

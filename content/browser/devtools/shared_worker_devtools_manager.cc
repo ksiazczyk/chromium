@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared worker DevTools manager implementation
+// summary: Implements the UI-thread singleton that manages shared worker DevTools agent hosts, reconnecting clients to restarted workers and notifying observers.
+// ---
+
 #include "content/browser/devtools/shared_worker_devtools_manager.h"
 
 #include <algorithm>

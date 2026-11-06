@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools blob stream implementation
+// summary: Implements a DevTools IO context stream that opens and reads Chrome blob storage data on the IO thread for protocol IO operations.
+// ---
+
 #include "content/browser/devtools/devtools_stream_blob.h"
 
 #include <string_view>

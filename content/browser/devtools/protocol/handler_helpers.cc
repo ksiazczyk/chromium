@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools handler helper for frame token lookup
+// summary: Implements FrameTreeNodeFromDevToolsFrameToken, which resolves a DevTools frame token to the matching FrameTreeNode within a frame tree.
+// ---
+
 #include "content/browser/devtools/protocol/handler_helpers.h"
 #include "content/browser/renderer_host/frame_tree.h"
 #include "content/browser/renderer_host/frame_tree_node.h"

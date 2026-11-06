@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools protocol test support implementation
+// summary: Implements the DevToolsProtocolTest base class that attaches a protocol client to a shell WebContents and records console messages.
+// ---
+
 #include "content/browser/devtools/protocol/devtools_protocol_test_support.h"
 
 #include <memory>

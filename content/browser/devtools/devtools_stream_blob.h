@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools blob stream header
+// summary: Declares DevToolsStreamBlob, a DevToolsIOContext stream that reads blob storage content and reports binary or text status.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_STREAM_BLOB_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_STREAM_BLOB_H_
 

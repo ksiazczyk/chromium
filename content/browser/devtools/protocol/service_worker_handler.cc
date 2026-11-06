@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Service Worker domain handler implementation
+// summary: Implements the DevTools Service Worker domain, supporting worker lifecycle commands, push message delivery and sync event dispatch.
+// ---
+
 #include "content/browser/devtools/protocol/service_worker_handler.h"
 
 #include <memory>

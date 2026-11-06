@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DigitalIdentityRequestImpl unit tests
+// summary: Extensive unit tests for digital identity request handling, covering openid4vp protocols, interstitial types, metrics, and virtual wallet behavior with mocked providers.
+// ---
+
 #include "content/browser/digital_credentials/digital_identity_request_impl.h"
 
 #include <optional>

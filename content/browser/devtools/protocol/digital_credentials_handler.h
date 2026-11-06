@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DigitalCredentials DevTools handler header
+// summary: Declares the DigitalCredentials DevTools handler class that exposes commands to configure a virtual wallet for automated testing of the Digital Credentials API.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DIGITAL_CREDENTIALS_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_DIGITAL_CREDENTIALS_HANDLER_H_
 

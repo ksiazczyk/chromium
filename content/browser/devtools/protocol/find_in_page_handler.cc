@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindInPage DevTools protocol handler implementation
+// summary: Implements the FindInPage DevTools domain by driving WebContents find requests across the frame tree and reporting results back to the DevTools client.
+// ---
+
 #include "content/browser/devtools/protocol/find_in_page_handler.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dedicated worker DevTools agent host implementation
+// summary: Implements the DevTools agent host for dedicated workers, attaching IO, storage, target, and network protocol handlers.
+// ---
+
 #include "content/browser/devtools/dedicated_worker_devtools_agent_host.h"
 
 #include "content/browser/devtools/protocol/io_handler.h"

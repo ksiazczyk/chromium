@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request body collector unit tests
+// summary: Unit tests for RequestBodyCollector covering empty bodies, byte entries, unsupported file entries, and data pipe reads including early pipe closure.
+// ---
+
 #include "content/browser/devtools/request_body_collector.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools network resource loader implementation
+// summary: Implements loading of network resources such as source maps requested via DevTools, with cache bypass, credentials, and redirect handling options.
+// ---
+
 #include "content/browser/devtools/protocol/devtools_network_resource_loader.h"
 
 #include <cstddef>

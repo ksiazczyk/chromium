@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame auto attacher implementation
+// summary: Implements auto-attachment of DevTools sessions to frames and matching service workers, including navigation-driven attach and detach logic.
+// ---
+
 #include "content/browser/devtools/frame_auto_attacher.h"
 
 #include "base/time/time.h"

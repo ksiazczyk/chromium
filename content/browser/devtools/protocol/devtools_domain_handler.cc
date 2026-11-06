@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools domain handler base class implementation
+// summary: Implements the DevToolsDomainHandler base class that stores each CDP domain's name and session.
+// ---
+
 #include "content/browser/devtools/protocol/devtools_domain_handler.h"
 
 #include "content/browser/devtools/devtools_agent_host_impl.h"

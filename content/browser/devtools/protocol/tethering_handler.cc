@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tethering DevTools protocol handler implementation
+// summary: Implements the DevTools Tethering domain, binding and unbinding server sockets and pumping traffic to support remote debugging port forwarding.
+// ---
+
 #include "content/browser/devtools/protocol/tethering_handler.h"
 
 #include <map>

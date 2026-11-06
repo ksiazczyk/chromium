@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools IO context class declaration
+// summary: Declares DevToolsIOContext and its Stream base class for handling DevTools protocol IO reads by handle.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_IO_CONTEXT_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_IO_CONTEXT_H_
 

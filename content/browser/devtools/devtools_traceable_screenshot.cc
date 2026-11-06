@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsTraceableScreenshot implementation
+// summary: Implements encoding screenshot bitmaps as base64 JPEG for inclusion in trace event output.
+// ---
+
 #include "content/browser/devtools/devtools_traceable_screenshot.h"
 
 #include "base/base64.h"

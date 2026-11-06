@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared worker DevTools agent host implementation
+// summary: Implements the DevTools agent host for shared workers, handling session attachment, protocol handlers, worker restarts, and browser context lookup.
+// ---
+
 #include "content/browser/devtools/shared_worker_devtools_agent_host.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools target auto-attacher implementation
+// summary: Implements TargetAutoAttacher, which manages automatic attaching and detaching of DevTools agent hosts during navigations as clients are added or removed.
+// ---
+
 #include "content/browser/devtools/protocol/target_auto_attacher.h"
 
 #include "base/observer_list.h"

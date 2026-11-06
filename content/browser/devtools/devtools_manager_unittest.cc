@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevToolsManager unit tests
+// summary: Unit tests checking that DevToolsManager's memory dump reports the correct DevTools session count as clients attach and detach.
+// ---
+
 #include "content/browser/devtools/devtools_manager.h"
 
 #include "base/test/metrics/histogram_tester.h"

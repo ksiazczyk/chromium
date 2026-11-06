@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tracing handler unit tests
+// summary: Unit tests for the Tracing DevTools handler covering trace config conversion, trace data buffering and process filter handling.
+// ---
+
 #include "content/browser/devtools/protocol/tracing_handler.h"
 
 #include <memory>

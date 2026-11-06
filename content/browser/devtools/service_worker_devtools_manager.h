@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service worker DevTools manager declarations
+// summary: Declares ServiceWorkerDevToolsManager, a singleton managing service worker DevTools agent hosts with observer notifications and worker lifecycle hooks.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_SERVICE_WORKER_DEVTOOLS_MANAGER_H_
 #define CONTENT_BROWSER_DEVTOOLS_SERVICE_WORKER_DEVTOOLS_MANAGER_H_
 

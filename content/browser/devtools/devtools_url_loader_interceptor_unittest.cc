@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools URL loader interceptor unit tests
+// summary: Unit tests for DevToolsURLLoaderInterceptor and its factory proxy, covering request ID collision handling, restart behavior, and auth challenge routing across chained interceptors.
+// ---
+
 #include "content/browser/devtools/devtools_url_loader_interceptor.h"
 
 #include <memory>

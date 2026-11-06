@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools target auto-attacher header
+// summary: Declares TargetAutoAttacher and RendererAutoAttacherBase for managing DevTools auto-attach clients, navigation throttles, and wait-for-debugger behavior.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_TARGET_AUTO_ATTACHER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_TARGET_AUTO_ATTACHER_H_
 

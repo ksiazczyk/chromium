@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Device Request Dispatcher Class Declaration
+// summary: Declares the RequestDispatcher class that fetches an identity document from a mobile device via FIDO discovery and reports completion or errors.
+// ---
+
 #ifndef CONTENT_BROWSER_DIGITAL_CREDENTIALS_CROSS_DEVICE_REQUEST_DISPATCHER_H_
 #define CONTENT_BROWSER_DIGITAL_CREDENTIALS_CROSS_DEVICE_REQUEST_DISPATCHER_H_
 

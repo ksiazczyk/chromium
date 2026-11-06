@@ -1,0 +1,4 @@
+# Docerion header of native_input_event_builder_mac.mm.
+type: source
+title: Mac implementation of native input event creation for DevTools
+summary: Builds Cocoa NSEvent objects from emulated keyboard events, mapping event types and modifier flags so macOS can process DevTools key events.

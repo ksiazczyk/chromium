@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site-per-process DevTools browser tests
+// summary: Browser tests verifying DevTools agent host behavior for pages and cross-site iframes in out-of-process rendering, including target listing and download handling.
+// ---
+
 
 #include "base/run_loop.h"
 #include "build/build_config.h"

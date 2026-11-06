@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools download manager delegate implementation
+// summary: Implements the DevTools download manager delegate that overrides download behavior and paths and falls back to the original delegate.
+// ---
+
 #include "content/browser/devtools/protocol/devtools_download_manager_delegate.h"
 
 #include "base/files/file_util.h"

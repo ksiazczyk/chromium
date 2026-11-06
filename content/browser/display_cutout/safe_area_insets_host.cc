@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe area insets host implementation
+// summary: Implements the safe area insets host base class, selecting the edge-to-edge or legacy implementation via a feature flag and relaying insets to Blink.
+// ---
+
 #include "content/browser/display_cutout/safe_area_insets_host.h"
 
 #include "content/browser/display_cutout/display_cutout_host_impl.h"

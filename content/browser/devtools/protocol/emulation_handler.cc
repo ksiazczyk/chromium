@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulation DevTools handler implementation
+// summary: Implements the DevTools Emulation domain, including device metrics, touch, geolocation, sensor and pressure overrides, idle state, and user agent overrides.
+// ---
+
 #include "content/browser/devtools/protocol/emulation_handler.h"
 
 #include <utility>

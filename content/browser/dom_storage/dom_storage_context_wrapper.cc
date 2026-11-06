@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM storage context wrapper implementation
+// summary: Implements the per-storage-partition DOM storage context that manages Local and Session Storage connections to the Storage Service.
+// ---
+
 #include "content/browser/dom_storage/dom_storage_context_wrapper.h"
 
 #include <algorithm>

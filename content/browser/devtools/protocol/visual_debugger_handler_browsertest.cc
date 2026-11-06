@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visual Debugger handler browser tests
+// summary: Browser tests for the VisualDebugger DevTools handler covering stream start, filter and stop commands and GPU process unavailability errors.
+// ---
+
 #include "content/browser/devtools/protocol/visual_debugger_handler.h"
 
 #include <stddef.h>

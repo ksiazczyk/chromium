@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools download manager delegate unit tests
+// summary: Unit tests verifying that DevToolsDownloadManagerDelegate forwards SupportsHistoryLoading to the original delegate and handles a missing delegate.
+// ---
+
 #include "content/browser/devtools/protocol/devtools_download_manager_delegate.h"
 
 #include <memory>

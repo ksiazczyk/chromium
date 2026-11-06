@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol binary base64 unit tests
+// summary: Unit tests verifying base64 encoding and decoding round trips and invalid-input handling for the protocol Binary type.
+// ---
+
 #include <string>
 #include <vector>
 

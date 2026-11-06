@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools instrumentation declarations
+// summary: Declares functions for routing instrumentation signals from browser internals to the relevant set of DevTools protocol handlers.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_INSTRUMENTATION_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_INSTRUMENTATION_H_
 

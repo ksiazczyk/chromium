@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirewallHoleDelegate unit tests
+// summary: Unit tests covering successful and denied TCP hole opening plus UDP hole reuse and closing, using a fake permission broker client.
+// ---
+
 #include "content/browser/direct_sockets/firewall_hole_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Smart Card emulation handler implementation
+// summary: Implements the DevTools SmartCardEmulation domain, converting protocol commands and result codes into emulated smart card connection and transaction operations.
+// ---
+
 #include "content/browser/devtools/protocol/smart_card_emulation_handler.h"
 
 #include <optional>

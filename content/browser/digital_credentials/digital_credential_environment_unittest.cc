@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DigitalCredentialEnvironment unit tests
+// summary: Unit tests covering idempotent wallet creation, ancestor wallet lookup for child frames, and cleanup behavior of the digital credential environment.
+// ---
+
 #include "content/browser/digital_credentials/digital_credential_environment.h"
 
 #include "base/memory/raw_ptr.h"

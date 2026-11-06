@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual Debugger DevTools protocol handler header
+// summary: Declares the VisualDebuggerHandler class that exposes the VisualDebugger DevTools domain backed by the GPU process visual debug stream.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_VISUAL_DEBUGGER_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_VISUAL_DEBUGGER_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage DevTools protocol handler header
+// summary: Declares the StorageHandler class implementing the DevTools Storage domain backend for cookies, quota overrides, and origin storage tracking.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_PROTOCOL_STORAGE_HANDLER_H_
 #define CONTENT_BROWSER_DEVTOOLS_PROTOCOL_STORAGE_HANDLER_H_
 

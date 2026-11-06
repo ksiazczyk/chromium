@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-Device Transaction Implementation
+// summary: Implements cross-device digital identity transactions, checking Bluetooth support and powering the adapter before dispatching requests over the cable v2 tunnel.
+// ---
+
 #include "content/browser/digital_credentials/cross_device_transaction_impl.h"
 
 #include <optional>

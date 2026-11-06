@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe area insets host unit tests
+// summary: Unit tests for SafeAreaInsetsHostImpl using a test subclass that records sent insets and verifies viewport-fit tracking and frame switching behavior.
+// ---
+
 #include "content/browser/display_cutout/safe_area_insets_host_impl.h"
 
 #include <optional>

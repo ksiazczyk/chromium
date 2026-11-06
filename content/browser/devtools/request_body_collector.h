@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request body collector header
+// summary: Declares a collector that assembles request bodies from bytes and data pipe elements, completing synchronously or asynchronously.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_REQUEST_BODY_COLLECTOR_H_
 #define CONTENT_BROWSER_DEVTOOLS_REQUEST_BODY_COLLECTOR_H_
 

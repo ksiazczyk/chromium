@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared worker DevTools agent host unit tests
+// summary: Unit tests verifying that shared worker DevTools agent hosts do not match worker hosts across different browser contexts, such as regular and incognito profiles.
+// ---
+
 #include "content/browser/devtools/shared_worker_devtools_agent_host.h"
 
 #include <memory>

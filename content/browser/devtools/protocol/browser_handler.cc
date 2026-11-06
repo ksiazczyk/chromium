@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser DevTools domain handler implementation
+// summary: Implements the Browser CDP domain, covering download behavior, permission overrides, browser version and metrics information, and video capture connections.
+// ---
+
 #include "content/browser/devtools/protocol/browser_handler.h"
 
 #include <string.h>

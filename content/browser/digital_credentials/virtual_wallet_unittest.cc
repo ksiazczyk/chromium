@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VirtualWallet unit tests
+// summary: Unit tests verifying that VirtualWallet credential retrieval is non-consuming, overwrites follow last-write-wins, and Clear wipes both credential and action.
+// ---
+
 #include "content/browser/digital_credentials/virtual_wallet.h"
 
 #include <memory>

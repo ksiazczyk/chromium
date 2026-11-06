@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools IO context implementation
+// summary: Implements the DevTools IO context that registers, looks up and closes streams used for protocol IO reads.
+// ---
+
 #include "content/browser/devtools/devtools_io_context.h"
 
 #include <array>

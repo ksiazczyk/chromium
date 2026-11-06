@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forwarding agent host implementation
+// summary: Implements ForwardingAgentHost, a DevTools agent host that delegates target info and session handling to an external agent proxy delegate.
+// ---
+
 #include "content/browser/devtools/forwarding_agent_host.h"
 
 #include "content/browser/devtools/devtools_session.h"

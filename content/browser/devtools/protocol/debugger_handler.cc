@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debugger DevTools domain handler implementation
+// summary: Implements the Debugger CDP domain handler that creates and removes URL breakpoints stored in the browser-originating session state.
+// ---
+
 #include "content/browser/devtools/protocol/debugger_handler.h"
 
 #include "base/strings/string_number_conversions.h"

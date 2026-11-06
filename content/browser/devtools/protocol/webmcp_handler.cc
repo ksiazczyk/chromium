@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMCP DevTools domain handler implementation
+// summary: Implements the browser-side DevTools WebMCP domain, dispatching tool invocations to renderer frames and tracking initiated invocations by origin.
+// ---
+
 #include "content/browser/devtools/protocol/webmcp_handler.h"
 
 #include "base/functional/bind.h"

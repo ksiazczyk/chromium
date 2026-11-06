@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsThrottleHandle class header
+// summary: Declares a refcounted handle holding a callback that unthrottles a service worker or navigation on destruction.
+// ---
+
 #ifndef CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_THROTTLE_HANDLE_H_
 #define CONTENT_BROWSER_DEVTOOLS_DEVTOOLS_THROTTLE_HANDLE_H_
 
