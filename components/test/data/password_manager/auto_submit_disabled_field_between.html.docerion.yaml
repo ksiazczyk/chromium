@@ -1,0 +1,4 @@
+# Docerion header of auto_submit_disabled_field_between.html.
+type: test
+title: Auto-submit test page with field between username and password
+summary: Test page verifying that form auto-submit is suppressed when a focusable field sits between the username and password fields.

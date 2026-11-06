@@ -1,0 +1,4 @@
+# Docerion header of simple.html.
+type: test
+title: A simple page
+summary: Test fixture with a minimal plain HTML page for guest contents testing.

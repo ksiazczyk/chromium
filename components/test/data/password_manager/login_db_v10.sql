@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login Database Version 10 Test Fixture
+-- summary: SQL dump of a version 10 password manager login database with extended columns such as federation and sync metadata, plus sample credentials for tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

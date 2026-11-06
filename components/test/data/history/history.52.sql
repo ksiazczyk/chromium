@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database schema version 52 test dump
+-- summary: SQL dump of a History SQLite database at schema version 52, adding embedder download data and foreground duration columns, for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

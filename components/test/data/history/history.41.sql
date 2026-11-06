@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 41 test dump
+-- summary: SQL dump of a version 41 Chromium history database with a adjusted downloads_slices default, used as test data for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

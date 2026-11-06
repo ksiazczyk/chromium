@@ -1,0 +1,4 @@
+# Docerion header of empty_search_strings_file.
+type: data
+title: Empty search strings test fixture
+summary: Empty file used as an edge-case input for history embeddings tests.

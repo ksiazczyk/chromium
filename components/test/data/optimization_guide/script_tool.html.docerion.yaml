@@ -1,0 +1,4 @@
+# Docerion header of script_tool.html.
+type: test
+title: Model context echo tool test page
+summary: Test page that registers an echo tool with document.modelContext, including an input schema and a read-only annotation.

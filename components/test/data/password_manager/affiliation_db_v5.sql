@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: data
+-- title: Affiliation database fixture, schema version 5
+-- summary: SQL dump of a version 5 affiliation database adding a psl_extensions table for public suffix test cases.
+-- ---
+
 PRAGMA foreign_keys=1;
 BEGIN TRANSACTION;
 

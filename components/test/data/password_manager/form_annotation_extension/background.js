@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script generating Python form classifier tests
+// summary: Background script that tracks the user's steps to reach a password form and generates Python test code for the form classifier tests.
+// ---
+
 /**
  * The identation for generated Python code.
  *

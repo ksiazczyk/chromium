@@ -1,0 +1,4 @@
+# Docerion header of bad_search_strings_file.
+type: data
+title: Invalid search strings test fixture
+summary: Deliberately malformed file that stands in for a binary history_search_strings.proto in tests.

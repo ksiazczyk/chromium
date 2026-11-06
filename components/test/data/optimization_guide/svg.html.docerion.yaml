@@ -1,0 +1,4 @@
+# Docerion header of svg.html.
+type: test
+title: SVG text test page
+summary: Test page with an inline SVG containing text, used as test data for optimization guide features.

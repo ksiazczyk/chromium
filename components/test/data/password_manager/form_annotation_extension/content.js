@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script building CSS selectors for clicked elements
+// summary: Content script that computes compact, persistent CSS selectors for clicked page elements and detects parent frames for the generated tests.
+// ---
+
 /**
  * Find one or two CSS classes in the class list |list| that uniquely identify
  * the element in the document |doc|.

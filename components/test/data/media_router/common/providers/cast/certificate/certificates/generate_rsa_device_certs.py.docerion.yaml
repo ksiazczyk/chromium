@@ -1,0 +1,4 @@
+# Docerion header of generate_rsa_device_certs.py.
+type: script
+title: RSA device certificate chain generator
+summary: Generates Cast test certificate chains with 1024-bit and 2048-bit RSA device certificates and writes matching signed data files for each chain.

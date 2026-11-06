@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 44 test dump
+-- summary: SQL dump of a version 44 Chromium history database that adds a cluster_visits table, used as test data for history migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

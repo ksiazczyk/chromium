@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 38 with keychain ID test fixture
+-- summary: Version 38 login database dump that stores a keychain identifier in the password field and includes insecure credential and password note tables, used as password manager test data.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
 INSERT INTO "meta" VALUES('last_compatible_version','38');

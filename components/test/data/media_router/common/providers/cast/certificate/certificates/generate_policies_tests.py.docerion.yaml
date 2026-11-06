@@ -1,0 +1,4 @@
+# Docerion header of generate_policies_tests.py.
+type: script
+title: Cast policy test certificate chain generator
+summary: Generates PEM certificate chains with varying root, intermediate, and leaf certificate policies such as audioOnly, anyPolicy, and unrecognized OIDs for policy tests.

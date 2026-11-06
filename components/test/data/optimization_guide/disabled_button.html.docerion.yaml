@@ -1,0 +1,4 @@
+# Docerion header of disabled_button.html.
+type: test
+title: Disabled button test page
+summary: Test page containing a single disabled button element.

@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Unit tests bundle data globlist for page content annotations
+summary: Glob patterns defining which files in the page content annotations test directory belong in the unit test bundle, used to update the filelist counterpart.

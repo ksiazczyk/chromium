@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Form classification test base class
+# summary: Selenium-based unittest base class that sets up Chrome and ChromeDriver and provides helpers for navigating pages and checking password field classification.
+# ---
+
 """The base class for unittest classes for testing form classification."""
 
 import os.path

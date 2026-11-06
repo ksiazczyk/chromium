@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the forms annotating extension
+summary: Manifest for the forms annotating extension, declaring the background scripts and the content script injected into all frames.

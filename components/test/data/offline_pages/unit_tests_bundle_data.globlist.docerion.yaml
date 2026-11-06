@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: test
+title: Unit tests bundle data globlist
+summary: Glob patterns defining which offline pages test files are included or excluded when regenerating the bundle data filelist.

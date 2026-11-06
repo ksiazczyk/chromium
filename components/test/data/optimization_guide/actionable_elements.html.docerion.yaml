@@ -1,0 +1,4 @@
+# Docerion header of actionable_elements.html.
+type: test
+title: Actionable elements test page
+summary: Test page with a pointer-cursor div used to exercise actionable element detection.

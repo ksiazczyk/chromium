@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 34 test fixture
+-- summary: SQL dump of a version 34 password store login database with sample saved credentials, used as test data for password manager database tests.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
 INSERT INTO "meta" VALUES('last_compatible_version','33');

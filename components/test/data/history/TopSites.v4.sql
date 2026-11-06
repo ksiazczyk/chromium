@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Top Sites version 4 test database dump
+-- summary: SQL dump of a version 4 Top Sites database with a top_sites table, used by the TopSitesDatabaseTest.Version4 unit test.
+-- ---
+
 -- components_unittests --gtest_filter=TopSitesDatabaseTest.Version4
 --
 -- .dump of a version 4 "Top Sites" database.

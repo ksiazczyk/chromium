@@ -1,0 +1,4 @@
+# Docerion header of denylist_test.txt.
+type: test
+title: Denylist test data
+summary: Holds base64-encoded entries used as test input for the omnibox denylist handling.

@@ -1,0 +1,4 @@
+# Docerion header of paragraph.html.
+type: test
+title: Full-height paragraph test page
+summary: Test page showing a full-height red paragraph, used in paragraph-related tests.

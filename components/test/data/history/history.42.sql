@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 42 test dump
+-- summary: SQL dump of a version 42 Chromium history database where keyword_search_terms uses a normalized_term column, used as migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

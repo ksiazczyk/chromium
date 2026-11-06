@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Top Sites version 2 test database dump
+-- summary: SQL dump of a version 2 Top Sites database with thumbnail blobs, used by the TopSitesDatabaseTest.Version2 unit test.
+-- ---
+
 -- components_unittests --gtest_filter=TopSitesDatabaseTest.Version2
 --
 -- .dump of a version 2 "Top Sites" database.  The Google thumbnail

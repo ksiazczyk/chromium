@@ -1,0 +1,4 @@
+# Docerion header of badword_hashes_test.txt.
+type: test
+title: Bad word hash test data
+summary: Contains a single bad word hash value used as test input for the omnibox bad word filtering logic.

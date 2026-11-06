@@ -1,0 +1,4 @@
+# Docerion header of mathml.html.
+type: test
+title: MathML content test page
+summary: Test page rendering visible, linked, and hidden MathML formulas to exercise MathML content extraction and node generation.

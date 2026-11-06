@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: TopSites version 1 test database dump
+-- summary: SQL dump of a version 1 Top Sites database used by TopSitesDatabaseTest.Version1 to test database migration.
+-- ---
+
 -- components_unittests --gtest_filter=TopSitesDatabaseTest.Version1
 --
 -- .dump of a version 1 "Top Sites" database.  The Google thumbnail

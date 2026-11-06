@@ -1,0 +1,4 @@
+# Docerion header of create_signatures.py.
+type: script
+title: Cast certificate signature generation helper
+summary: Helper module that signs data with a private key via OpenSSL to produce SHA1 and SHA256 signatures packaged into a PEM file for Cast certificate test fixtures.

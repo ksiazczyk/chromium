@@ -1,0 +1,4 @@
+# Docerion header of anchored_offscreen_fixed_popup.html.
+type: test
+title: Anchored offscreen fixed popup test page
+summary: Test page with a fixed-position popup translated below the viewport to exercise anchored popup handling.

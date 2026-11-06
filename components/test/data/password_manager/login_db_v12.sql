@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login Database Version 12 Test Fixture
+-- summary: SQL dump of a version 12 login database that adds the generation_upload_status column and a stats table, with sample credentials for tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Cast certificate test suite README
+summary: Explains how to examine the test suite contents with gqui and provides an example command referencing the test_suite proto.
+---
+
 The contents of the test suite can be examined using gqui.
 Example command:
 gqui from testsuite1.pb proto ../../../../cast_certificate/proto/test_suite.proto:cast_certificate.DeviceCertTestSuite

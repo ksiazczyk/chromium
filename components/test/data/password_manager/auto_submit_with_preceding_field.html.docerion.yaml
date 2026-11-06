@@ -1,0 +1,4 @@
+# Docerion header of auto_submit_with_preceding_field.html.
+type: test
+title: Auto-Submit Test (Preceding Field)
+summary: Test page verifying that a focusable text field before the username does not block password manager auto-submission.

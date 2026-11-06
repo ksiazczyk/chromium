@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Favicon database v2 schema found in the wild
+-- summary: SQL fixture recreating a version 2 favicon database schema captured by error diagnostics, exercising migration failure handling in the WildSchema unit test.
+-- ---
+
 -- unit_tests --gtest_filter=FaviconDatabaseTest.WildSchema
 --
 -- Based on version 2 schema found in the wild by error diagnostics.

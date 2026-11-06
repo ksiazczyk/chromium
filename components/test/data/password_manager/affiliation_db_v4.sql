@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: data
+-- title: Affiliation database fixture, schema version 4
+-- summary: SQL dump of a version 4 affiliation database adding main_domain columns to eq_class_groups for tests.
+-- ---
+
 PRAGMA foreign_keys=1;
 BEGIN TRANSACTION;
 

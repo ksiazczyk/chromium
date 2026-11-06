@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database dump at schema version 59
+-- summary: SQL dump of a browser history database at schema version 59, marking synced visits via is_known_to_sync and including cluster keyword tables, used as history migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

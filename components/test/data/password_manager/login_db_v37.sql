@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 37 test fixture
+-- summary: SQL dump of a version 37 login database that adds password sharing columns such as sender email and sharing notification state, used as password manager test data.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
 INSERT INTO "meta" VALUES('last_compatible_version','36');

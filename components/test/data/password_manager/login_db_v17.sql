@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 17 SQL dump
+-- summary: SQL dump of a version 17 password store database whose sample logins skip zero-click, used to test database migration in the password manager.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

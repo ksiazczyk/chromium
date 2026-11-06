@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: test
+title: Unit tests bundle data filelist for page content annotations
+summary: Generated list of test data files, such as the edu_classifier.tflite model, to include in the iOS unit test bundle; do not edit by hand.

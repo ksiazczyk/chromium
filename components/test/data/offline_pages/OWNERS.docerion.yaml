@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for offline pages test data
+summary: Defines per-file ownership so that anyone may update the unit tests bundle data filelist.

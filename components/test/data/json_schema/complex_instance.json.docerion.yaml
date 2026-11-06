@@ -1,0 +1,4 @@
+# Docerion header of complex_instance.json.
+type: test
+title: Complex instance test data
+summary: Sample JSON instance document combining an object with id, url, index and selected fields and a trailing number, for schema validation tests.

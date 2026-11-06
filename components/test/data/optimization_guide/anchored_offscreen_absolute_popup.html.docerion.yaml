@@ -1,0 +1,4 @@
+# Docerion header of anchored_offscreen_absolute_popup.html.
+type: test
+title: Anchored offscreen absolute popup test page
+summary: Test page with an absolutely positioned popup parked off the viewport to exercise anchored popup handling.

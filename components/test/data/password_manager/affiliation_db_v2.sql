@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: data
+-- title: Affiliation database fixture, schema version 2
+-- summary: SQL dump of a version 2 affiliation database adding facet display names and icon URLs for test scenarios.
+-- ---
+
 PRAGMA foreign_keys=1;
 BEGIN TRANSACTION;
 

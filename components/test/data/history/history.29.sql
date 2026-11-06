@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 29 test dump
+-- summary: SQL dump of a version 29 History database schema adding mime type columns to downloads, stored as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

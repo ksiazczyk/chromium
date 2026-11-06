@@ -1,0 +1,4 @@
+# Docerion header of array_tuple_schema.json.
+type: test
+title: Array tuple schema test fixture
+summary: JSON schema test fixture defining an array whose items are positionally a string and an integer.

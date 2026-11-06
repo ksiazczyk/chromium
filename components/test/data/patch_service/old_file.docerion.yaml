@@ -1,0 +1,4 @@
+# Docerion header of old_file.
+type: test
+title: Patch service old file fixture
+summary: Test fixture representing the original file before patching, noting that a patch can be generated with the zucchini tool.

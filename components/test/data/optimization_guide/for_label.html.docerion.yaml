@@ -1,0 +1,4 @@
+# Docerion header of for_label.html.
+type: test
+title: Label for checkbox test page
+summary: Test page with a checkbox input and a label that references it via the for attribute.

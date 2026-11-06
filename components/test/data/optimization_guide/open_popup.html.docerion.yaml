@@ -1,0 +1,4 @@
+# Docerion header of open_popup.html.
+type: test
+title: Open popup test page
+summary: Test page with a select element and a color input that can open popups, used in popup-related tests.

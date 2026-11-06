@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 39 test fixture
+-- summary: SQL dump of a version 39 password manager login database with a keychain_identifier column, used as test data for database migration tests.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
 INSERT INTO "meta" VALUES('last_compatible_version','39');

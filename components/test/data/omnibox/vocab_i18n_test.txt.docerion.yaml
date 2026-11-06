@@ -1,0 +1,4 @@
+# Docerion header of vocab_i18n_test.txt.
+type: test
+title: Internationalized vocabulary test data
+summary: Vocabulary token list including Devanagari, Japanese and Korean entries used to test the internationalized on-device omnibox model.

@@ -1,0 +1,4 @@
+# Docerion header of label_not_actionable.html.
+type: test
+title: Non-actionable label test page
+summary: Test page with a checkbox whose label has pointer-events disabled, for verifying that such labels are treated as not actionable.

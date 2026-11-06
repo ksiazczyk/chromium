@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Prefetch database schema v1.sql
+-- summary: SQL fixture that creates version 1 of the offline pages prefetch database schema and inserts sample rows into prefetch_items and prefetch_downloader_quota for upgrade tests.
+-- ---
+
 INSERT OR REPLACE INTO meta (key, value)
 VALUES ('version', 1), ('last_compatible_version', 1);
 

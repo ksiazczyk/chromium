@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database v7 SQL fixture
+-- summary: SQL dump of a version 7 login database adding display name, avatar, federation and zero-click fields, for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

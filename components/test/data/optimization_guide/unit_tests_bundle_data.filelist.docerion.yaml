@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: config
+title: Unit tests bundle data filelist
+summary: Generated filelist of test data files included in the iOS unit test bundle, updated via build/ios/update_bundle_filelist.py.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 41 test fixture
+-- summary: SQL dump of a version 41 login database that adds a sender_profile_image_url column, used as test data for password manager migration tests.
+-- ---
+
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);
 INSERT INTO "meta" VALUES('last_compatible_version','40');

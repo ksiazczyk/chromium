@@ -1,0 +1,4 @@
+# Docerion header of canvas.html.
+type: test
+title: Canvas test page
+summary: Test page that renders a pink-filled canvas element for canvas-related testing.

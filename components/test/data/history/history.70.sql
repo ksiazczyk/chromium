@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database dump version 70
+-- summary: SQL dump recreating a Chromium history database at schema version 70, used as test fixture data for the history component.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

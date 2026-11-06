@@ -1,0 +1,4 @@
+# Docerion header of fake_search_strings_file.
+type: data
+title: Fake search strings test fixture
+summary: Fabricated search strings payload used as test input for history embeddings.

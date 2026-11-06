@@ -1,0 +1,4 @@
+# Docerion header of basic.html.
+type: test
+title: Basic empty fenced frame test page
+summary: Minimal empty HTML page used as a test fixture for loading content in a fenced frame.

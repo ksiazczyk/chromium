@@ -1,0 +1,4 @@
+# Docerion header of aria_disabled_button.html.
+type: test
+title: ARIA disabled button test page
+summary: Test page containing a button marked aria-disabled for accessibility-related testing.

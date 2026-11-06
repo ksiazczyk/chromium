@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Favicon database v5 schema missing sizes
+-- summary: SQL fixture of a version 5 database whose favicons table lacks the sizes column, testing recovery via RazeAndClose in the WildSchema unit test.
+-- ---
+
 -- unit_tests --gtest_filter=FaviconDatabaseTest.WildSchema
 --
 -- Based on version 5 schema found in the wild by error diagnostics.

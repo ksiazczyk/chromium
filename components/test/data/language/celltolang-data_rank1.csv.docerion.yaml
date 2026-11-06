@@ -1,0 +1,4 @@
+# Docerion header of celltolang-data_rank1.csv.
+type: data
+title: Cell-to-language test data, rank 1
+summary: CSV test data mapping coordinate pairs to English (en) and Tamil (ta) language codes for cell-to-language detection.

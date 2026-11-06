@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database dump at schema version 63
+-- summary: SQL dump of a browser history database at schema version 63, adding a flag marking visits considered for NTP most visited, used as test data for history migrations.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

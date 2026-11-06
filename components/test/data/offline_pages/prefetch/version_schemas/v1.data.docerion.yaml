@@ -1,0 +1,4 @@
+# Docerion header of v1.data.
+type: test
+title: Prefetch database dump for schema v1.data
+summary: Expected database dump for version 1 of the offline pages prefetch database, listing prefetch_items and prefetch_downloader_quota rows used in schema upgrade tests.

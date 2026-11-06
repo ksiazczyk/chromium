@@ -1,0 +1,4 @@
+# Docerion header of scroller.html.
+type: test
+title: Scrollable element test page
+summary: Test page containing a full-viewport scrollable div that is programmatically scrolled on load.

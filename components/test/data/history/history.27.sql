@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 27 test dump
+-- summary: SQL dump of a version 27 History database schema with extension attribution columns in downloads, stored as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

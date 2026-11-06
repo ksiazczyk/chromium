@@ -1,0 +1,4 @@
+# Docerion header of open_popup_iframe.html.
+type: test
+title: Popup inside iframe test page
+summary: Test page that loads open_popup.html inside an iframe whose domain is taken from a URL query parameter.

@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 19 SQL dump
+-- summary: SQL dump of a login database fixture named as schema version 19 that adds a possible_username_pairs column, used in password manager migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

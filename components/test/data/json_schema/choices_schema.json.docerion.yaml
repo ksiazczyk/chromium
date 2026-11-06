@@ -1,0 +1,4 @@
+# Docerion header of choices_schema.json.
+type: test
+title: Choices schema test fixture
+summary: JSON schema test fixture using a choices keyword to allow null, an integer bounded between 42 and 43, or an object with a foo property.

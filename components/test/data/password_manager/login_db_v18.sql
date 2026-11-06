@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 18 SQL dump
+-- summary: SQL dump of a version 18 password store database without the ssl_valid column, used to test database migration in the password manager.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

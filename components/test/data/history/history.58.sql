@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database dump at schema version 58
+-- summary: SQL dump of a browser history database at schema version 58, adding page language, password state and task context columns to the history schema for migration test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

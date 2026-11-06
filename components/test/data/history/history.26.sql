@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 26 test dump
+-- summary: SQL dump of a version 26 History database schema adding downloads_url_chains and updated downloads columns, stored as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

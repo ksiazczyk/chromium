@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Login database version 20 SQL dump
+-- summary: SQL dump of a version 20 password store database with an id primary key on the logins table, used to test database migration in the password manager.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

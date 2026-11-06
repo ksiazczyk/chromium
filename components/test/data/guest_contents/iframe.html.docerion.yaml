@@ -1,0 +1,4 @@
+# Docerion header of iframe.html.
+type: test
+title: Main page with iframe
+summary: Test fixture providing a main HTML document that embeds a blank iframe for guest contents testing.

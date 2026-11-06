@@ -1,0 +1,4 @@
+# Docerion header of v2.data.
+type: test
+title: Prefetch database dump for schema v2.data
+summary: Expected database dump for version 2 of the offline pages prefetch database, used to verify schema upgrade results in tests.

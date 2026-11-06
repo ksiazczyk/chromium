@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.filelist.
+type: test
+title: Unit tests bundle data filelist
+summary: Generated list of data files bundled for offline pages unit tests, maintained by build/ios/update_bundle_filelist.py.

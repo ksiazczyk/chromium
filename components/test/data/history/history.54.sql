@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database schema version 54 test dump
+-- summary: SQL dump of a History SQLite database at schema version 54, adding an alternative title column to content annotations, for migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

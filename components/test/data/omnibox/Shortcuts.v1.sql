@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: Omnibox shortcuts v1 schema test database
+-- summary: SQL fixture of a version 1 omni_box_shortcuts database with sample rows, used to test shortcuts database migration and loading.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE omni_box_shortcuts ( id VARCHAR PRIMARY KEY, text VARCHAR, url VARCHAR, contents VARCHAR, contents_class VARCHAR, description VARCHAR, description_class VARCHAR, last_access_time INTEGER, number_of_hits INTEGER, fill_into_edit VARCHAR, transition INTEGER, type INTEGER, keyword VARCHAR);

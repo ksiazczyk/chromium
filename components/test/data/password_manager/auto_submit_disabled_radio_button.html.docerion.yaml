@@ -1,0 +1,4 @@
+# Docerion header of auto_submit_disabled_radio_button.html.
+type: test
+title: Auto-Submit Test (Disabled Radio Button)
+summary: Test page verifying that a radio button between the username and password fields prevents password manager form auto-submission.

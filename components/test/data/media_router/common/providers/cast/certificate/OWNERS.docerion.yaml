@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cast certificate test data OWNERS
+summary: Delegates ownership of the cast certificate test data directory to the owners of the main cast certificate providers directory.

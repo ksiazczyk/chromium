@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database version 28 test dump
+-- summary: SQL dump of a version 28 History database schema adding etag and last_modified columns to downloads, stored as test data.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

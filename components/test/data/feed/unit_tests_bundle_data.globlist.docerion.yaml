@@ -1,0 +1,4 @@
+# Docerion header of unit_tests_bundle_data.globlist.
+type: data
+title: Feed unit tests bundle data globlist
+summary: Glob patterns used by update_bundle_filelist.py to regenerate the feed unit tests bundle data filelist, excluding list files and OWNERS.

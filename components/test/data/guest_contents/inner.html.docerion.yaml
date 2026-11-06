@@ -1,0 +1,4 @@
+# Docerion header of inner.html.
+type: test
+title: Inner HTML page
+summary: Test fixture with a plain HTML page intended to be hosted in a guest contents.

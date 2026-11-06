@@ -1,3 +1,9 @@
+-- ---docerion
+-- type: test
+-- title: History database schema version 46 test dump
+-- summary: SQL dump of a History SQLite database at schema version 46, providing test data for history database migration tests.
+-- ---
+
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 CREATE TABLE meta(key LONGVARCHAR NOT NULL UNIQUE PRIMARY KEY, value LONGVARCHAR);

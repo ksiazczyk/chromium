@@ -1,0 +1,4 @@
+# Docerion header of script_tool_no_input_schema.html.
+type: test
+title: Model context echo tool without input schema test page
+summary: Test page that registers an echo tool with document.modelContext without an input schema or annotations.
