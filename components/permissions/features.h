@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions feature flag declarations
+// summary: Declares permission feature flags and feature parameters exported for use across the permissions component.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_FEATURES_H_
 #define COMPONENTS_PERMISSIONS_FEATURES_H_
 

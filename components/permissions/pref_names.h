@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission preference names header
+// summary: Declares the permission-related preference name constants and the RegisterProfilePrefs function for registering user preferences.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PREF_NAMES_H_
 #define COMPONENTS_PERMISSIONS_PREF_NAMES_H_
 

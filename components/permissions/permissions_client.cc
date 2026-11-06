@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsClient default implementation
+// summary: Implements the PermissionsClient embedder interface with default behavior for embedded prompts, site engagement, UKM source IDs, icons, and prompt survey hooks.
+// ---
+
 #include "components/permissions/permissions_client.h"
 
 #include "base/functional/callback.h"

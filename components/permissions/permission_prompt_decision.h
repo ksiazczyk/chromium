@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionPromptDecision struct
+// summary: Represents a permission decision made on a prompt, carrying the overall decision, prompt options and finality flag passed into the PermissionRequest infrastructure.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_PROMPT_DECISION_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_PROMPT_DECISION_H_
 

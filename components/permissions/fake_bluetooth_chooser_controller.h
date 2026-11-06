@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Bluetooth chooser controller for testing
+// summary: Declares a ChooserController subclass that simulates a Bluetooth chooser with fake devices and gmock actions for interactive tests.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_FAKE_BLUETOOTH_CHOOSER_CONTROLLER_H_
 #define COMPONENTS_PERMISSIONS_FAKE_BLUETOOTH_CHOOSER_CONTROLLER_H_
 

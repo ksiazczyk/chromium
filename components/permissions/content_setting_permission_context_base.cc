@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingPermissionContextBase implementation
+// summary: Implements permission reset, status lookup, and setting updates for permission contexts whose state is fully represented by a single ContentSetting value.
+// ---
+
 #include "components/permissions/content_setting_permission_context_base.h"
 
 #include "components/content_settings/core/browser/content_settings_registry.h"

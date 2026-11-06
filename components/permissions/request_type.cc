@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestType icon and mapping implementation
+// summary: Implements per-platform icon lookup for permission request types and conversions between RequestType and ContentSettingsType values.
+// ---
+
 #include "components/permissions/request_type.h"
 
 #include <algorithm>

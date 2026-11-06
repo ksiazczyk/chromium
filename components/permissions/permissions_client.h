@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionsClient embedder interface
+// summary: Declares the PermissionsClient interface that the embedder implements to supply settings maps, auto-blockers, action history, and other browser-specific permission logic.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSIONS_CLIENT_H_
 #define COMPONENTS_PERMISSIONS_PERMISSIONS_CLIENT_H_
 

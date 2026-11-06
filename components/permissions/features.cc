@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permissions feature flag definitions
+// summary: Defines feature flags controlling permission prompt, prediction, AI, and survey behaviors in the permissions component.
+// ---
+
 #include "components/permissions/features.h"
 
 #include "base/feature_list.h"

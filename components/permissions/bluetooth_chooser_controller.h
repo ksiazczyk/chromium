@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth chooser controller header
+// summary: Declares the BluetoothChooserController class that manages the list of Bluetooth devices shown to users requesting Web Bluetooth access.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_BLUETOOTH_CHOOSER_CONTROLLER_H_
 #define COMPONENTS_PERMISSIONS_BLUETOOTH_CHOOSER_CONTROLLER_H_
 

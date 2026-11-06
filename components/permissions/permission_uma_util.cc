@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission UMA logging implementation
+// summary: Implements PermissionUmaUtil, which records UMA and UKM metrics for permission requests, prompt outcomes, revocations, and embargo status.
+// ---
+
 #include "components/permissions/permission_uma_util.h"
 
 #include <cstdint>

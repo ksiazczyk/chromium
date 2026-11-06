@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission utility header
+// summary: Declares the PermissionUtil utility class with helpers for permission strings, UMA values, permissions policy features, and request priority.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_UTIL_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_UTIL_H_
 

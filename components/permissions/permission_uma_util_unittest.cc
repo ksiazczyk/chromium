@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission UMA logging unit tests
+// summary: Unit tests for PermissionUmaUtil that verify histogram and UKM logging of permission requests, actions, and cross-origin frame usage.
+// ---
+
 #include "components/permissions/permission_uma_util.h"
 
 #include <memory>

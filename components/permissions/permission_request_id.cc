@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request ID implementation
+// summary: Implements PermissionRequestID, building a string representation from the render frame host ID and the local request ID.
+// ---
+
 #include "components/permissions/permission_request_id.h"
 
 #include <inttypes.h>

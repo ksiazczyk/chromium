@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for permissions component
+summary: Records the issue tracker component, team email, and public bug tracker component ID used for the permissions directory.

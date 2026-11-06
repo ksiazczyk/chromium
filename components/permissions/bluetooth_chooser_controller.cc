@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth chooser controller implementation
+// summary: Implements the controller that presents Bluetooth device options and handles selection, cancellation, and adapter state changes for Web Bluetooth permission prompts.
+// ---
+
 #include "components/permissions/bluetooth_chooser_controller.h"
 
 #include <algorithm>

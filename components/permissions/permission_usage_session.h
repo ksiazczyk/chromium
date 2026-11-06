@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission usage session struct
+// summary: Defines the PermissionUsageSession struct, which stores the origin, permission type, and usage interval of a continuous permission use.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_USAGE_SESSION_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_USAGE_SESSION_H_
 

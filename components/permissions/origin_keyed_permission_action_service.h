@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin-keyed permission action service header
+// summary: Declares a keyed service that tracks the last permission action per origin and content setting type, kept in memory only and used for metrics evaluation.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_ORIGIN_KEYED_PERMISSION_ACTION_SERVICE_H_
 #define COMPONENTS_PERMISSIONS_ORIGIN_KEYED_PERMISSION_ACTION_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request manager implementation
+// summary: Implements the per-WebContents manager that queues, displays and resolves permission requests, including quiet UI and abusive request handling.
+// ---
+
 #include "components/permissions/permission_request_manager.h"
 
 #include <algorithm>

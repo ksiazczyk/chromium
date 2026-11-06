@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChooserController base class for device chooser dialogs
+// summary: Base class defining the interface and view observation hooks for device chooser dialogs such as Bluetooth and USB pickers, which subclasses populate with options.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CHOOSER_CONTROLLER_H_
 #define COMPONENTS_PERMISSIONS_CHOOSER_CONTROLLER_H_
 

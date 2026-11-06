@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission request enums for UMA metrics
+// summary: Header defining enums for gesture type, request relevance, likelihood, prediction models and language detection used in permission UMA logging.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_ENUMS_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_ENUMS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for permissions directory
+summary: Points to the PERMISSIONS_OWNERS file that lists the code owners for the permissions directory.

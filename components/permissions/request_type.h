@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestType enum and helpers
+// summary: Declares the RequestType enum of user-visible permission requests plus helpers for content settings mapping, confirmation chips, icons, and metric keys.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_REQUEST_TYPE_H_
 #define COMPONENTS_PERMISSIONS_REQUEST_TYPE_H_
 

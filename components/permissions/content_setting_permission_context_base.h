@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSettingPermissionContextBase class declaration
+// summary: Declares a PermissionContextBase subclass for permissions that need only a ContentSetting value, without multi-state options or chooser data.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_CONTENT_SETTING_PERMISSION_CONTEXT_BASE_H_
 #define COMPONENTS_PERMISSIONS_CONTENT_SETTING_PERMISSION_CONTEXT_BASE_H_
 

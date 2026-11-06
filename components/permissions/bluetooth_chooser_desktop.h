@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Bluetooth chooser class declaration
+// summary: Declares BluetoothChooserDesktop, the desktop implementation of content::BluetoothChooser for letting the user select a Bluetooth device.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_BLUETOOTH_CHOOSER_DESKTOP_H_
 #define COMPONENTS_PERMISSIONS_BLUETOOTH_CHOOSER_DESKTOP_H_
 

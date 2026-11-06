@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission usage session implementation
+// summary: Implements validity checks for permission usage sessions, ensuring origins are not opaque and usage intervals are well formed.
+// ---
+
 #include "components/permissions/permission_usage_session.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Object permission context base implementation
+// summary: Implements granting, revoking, and observing chooser-style object permissions backed by host content settings.
+// ---
+
 #include "components/permissions/object_permission_context_base.h"
 
 #include <string_view>

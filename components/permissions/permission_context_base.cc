@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission context base implementation
+// summary: Implements common permission-granting operations, including creating permission requests, persisting decisions in content settings, and running callbacks once a decision is made.
+// ---
+
 #include "components/permissions/permission_context_base.h"
 
 #include <stddef.h>

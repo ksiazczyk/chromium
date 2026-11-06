@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission indicators tab data unit tests
+// summary: Unit tests verifying UMA recording of permission indicator usage intervals for geolocation and media capture in tabs.
+// ---
+
 #include "components/permissions/permission_indicators_tab_data.h"
 
 #include "base/test/metrics/histogram_tester.h"

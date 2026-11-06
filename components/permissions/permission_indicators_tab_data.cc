@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission indicators tab data implementation
+// summary: Tracks per-tab camera, microphone, and geolocation usage times and records elapsed-time UMA metrics for permission indicators.
+// ---
+
 #include "components/permissions/permission_indicators_tab_data.h"
 
 #include "components/permissions/permission_uma_util.h"

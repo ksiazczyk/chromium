@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chooser controller base implementation
+// summary: Implements the base ChooserController class with default chooser UI behavior such as button labels, selection rules, and adapter state views.
+// ---
+
 #include "components/permissions/chooser_controller.h"
 
 #include "base/notreached.h"

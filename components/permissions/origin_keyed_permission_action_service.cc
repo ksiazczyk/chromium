@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin-keyed permission action service implementation
+// summary: Implements an in-memory keyed service that records and retrieves the last permission action per origin and content settings type for metrics evaluation.
+// ---
+
 #include "components/permissions/origin_keyed_permission_action_service.h"
 
 #include <utility>

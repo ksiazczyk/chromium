@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRequestData struct
+// summary: Declares the data held for a permission request, including origins, geolocation prompt type, embedded request descriptors and requested audio and video capture device IDs.
+// ---
+
 #ifndef COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_DATA_H_
 #define COMPONENTS_PERMISSIONS_PERMISSION_REQUEST_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth delegate implementation
+// summary: Implements content::BluetoothDelegate by routing chooser, scanning prompt, pairing, and device permission operations to an embedder-supplied client.
+// ---
+
 #include "components/permissions/bluetooth_delegate_impl.h"
 
 #include "base/observer_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permission context unit tests
+// summary: Unit tests for PermissionContextBase, ContentSettingPermissionContextBase, and GeolocationPermissionContext, covering decisions, kill switches, and dismissal blocking.
+// ---
+
 #include <map>
 #include <memory>
 #include <set>
