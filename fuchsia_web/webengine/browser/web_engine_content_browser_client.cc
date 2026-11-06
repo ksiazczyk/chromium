@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine content browser client implementation
+// summary: Implements the WebEngine ContentBrowserClient, covering user agent, navigation throttles, URL loader factories, client certificates and network context setup.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_content_browser_client.h"
 
 #include <string>

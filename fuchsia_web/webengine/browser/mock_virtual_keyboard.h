@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock virtual keyboard declarations
+// summary: Declares MockVirtualKeyboardController and MockVirtualKeyboardControllerCreator, gmock-based fakes of the Fuchsia virtual keyboard FIDL interfaces used in tests.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_MOCK_VIRTUAL_KEYBOARD_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_MOCK_VIRTUAL_KEYBOARD_H_
 

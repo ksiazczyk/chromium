@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngineAudioRenderer unit tests
+// summary: Exercises audio renderer playback, buffering, and StreamSink packet flow using test demuxer streams and FIDL test bases.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_audio_renderer.h"
 
 #include <fuchsia/media/audio/cpp/fidl_test_base.h>

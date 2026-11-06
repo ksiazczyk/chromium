@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine browser interface binders header
+// summary: Declares PopulateFuchsiaFrameBinders, which registers Fuchsia-specific RenderFrame-scoped interface binders for the BrowserInterfaceBroker.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_BROWSER_INTERFACE_BINDERS_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_BROWSER_INTERFACE_BINDERS_H_
 

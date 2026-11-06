@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineRenderFrameObserver implementation
+// summary: Implements the per-RenderFrame observer that owns the URL request rules receiver and notifies the renderer client when the frame detaches.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_render_frame_observer.h"
 
 #include "base/functional/bind.h"

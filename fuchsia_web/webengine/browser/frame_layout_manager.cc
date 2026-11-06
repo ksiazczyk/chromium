@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame layout manager implementation
+// summary: Implements the aura layout manager that sizes the WebContents window to its container and scales overridden render dimensions to fit without clipping.
+// ---
+
 #include "fuchsia_web/webengine/browser/frame_layout_manager.h"
 
 #include "ui/aura/window_tree_host.h"

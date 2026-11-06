@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastComponent implementation
+// summary: Implements the Cast-specific web component that starts frames, injects API bindings, applies URL rewrite rules, and manages views and teardown.
+// ---
+
 
 #include "fuchsia_web/runners/cast/cast_component.h"
 

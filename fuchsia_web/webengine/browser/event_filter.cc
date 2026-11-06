@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventFilter implementation mapping UI events to allowed input types
+// summary: Implements EventFilter input gating, mapping UI event types to fuchsia.web InputTypes and stopping propagation of disallowed key, mouse and gesture events.
+// ---
+
 #include "fuchsia_web/webengine/browser/event_filter.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell relauncher header
+// summary: Declares RelaunchForWebInstanceHostIfParent, which relaunches the shell via RealmBuilder for WebInstanceHost.
+// ---
+
 #ifndef FUCHSIA_WEB_SHELL_SHELL_RELAUNCHER_H_
 #define FUCHSIA_WEB_SHELL_SHELL_RELAUNCHER_H_
 

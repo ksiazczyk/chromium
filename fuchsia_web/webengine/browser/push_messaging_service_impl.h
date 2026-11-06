@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging service header
+// summary: Declares the WebEngine-specific PushMessagingService and GCMAppHandler implementation adapted from Chrome, without notifications, per-profile messaging, or user-controlled permissions.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_PUSH_MESSAGING_SERVICE_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_PUSH_MESSAGING_SERVICE_IMPL_H_
 

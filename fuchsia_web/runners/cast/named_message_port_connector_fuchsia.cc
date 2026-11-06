@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NamedMessagePortConnectorFuchsia implementation
+// summary: Injects the named message port connector JavaScript into a Fuchsia web Frame before page load and removes it on teardown or frame detach.
+// ---
+
 #include "fuchsia_web/runners/cast/named_message_port_connector_fuchsia.h"
 
 #include <fuchsia/mem/cpp/fidl.h>

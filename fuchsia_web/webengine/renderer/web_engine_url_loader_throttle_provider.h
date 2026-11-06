@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineURLLoaderThrottleProvider header
+// summary: Declares the WebEngine URLLoaderThrottleProvider that creates URL rewrite throttles for renderer network requests.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_URL_LOADER_THROTTLE_PROVIDER_H_
 #define FUCHSIA_WEB_WEBENGINE_RENDERER_WEB_ENGINE_URL_LOADER_THROTTLE_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine browser main entry point
+// summary: Implements WebEngineBrowserMain, which creates, initializes, runs and shuts down the content browser main runner.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_browser_main.h"
 
 #include <memory>

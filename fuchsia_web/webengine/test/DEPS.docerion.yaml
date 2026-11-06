@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the WebEngine test directory
+summary: Allows includes of content public APIs, the Mojo core embedder, and ui/ozone public headers within the WebEngine test directory.

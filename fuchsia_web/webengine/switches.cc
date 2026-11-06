@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine command-line switch constants
+// summary: Defines the string constants for WebEngine command-line switches such as content directories, Widevine, incognito, proxy settings, and data quotas.
+// ---
+
 #include "fuchsia_web/webengine/switches.h"
 
 #include "build/chromecast_buildflags.h"

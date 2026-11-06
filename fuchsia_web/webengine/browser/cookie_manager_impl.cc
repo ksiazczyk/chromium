@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the fuchsia.web CookieManager
+// summary: Implements the fuchsia.web CookieManager and CookiesIterator, converting Chromium network cookies and cookie change notifications into Fuchsia web API objects.
+// ---
+
 #include "fuchsia_web/webengine/browser/cookie_manager_impl.h"
 
 #include <lib/fidl/cpp/binding.h>

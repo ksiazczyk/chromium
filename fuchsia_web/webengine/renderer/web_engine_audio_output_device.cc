@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineAudioOutputDevice implementation
+// summary: Implements an AudioRendererSink that pumps audio packets to a Fuchsia AudioConsumer from a dedicated realtime audio thread.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_audio_output_device.h"
 
 #include "base/fuchsia/fuchsia_logging.h"

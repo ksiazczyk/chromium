@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Fuchsia WebEngine build targets
+summary: GN build file defining the WebEngine targets, their dependencies, and lists of disallowed dependencies for cast, extensions, PDF, printing, and variations code.

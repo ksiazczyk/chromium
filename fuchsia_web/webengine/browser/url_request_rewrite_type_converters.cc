@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request rewrite FIDL to Mojo type converters
+// summary: Implements Mojo TypeConverters that translate Fuchsia URL request rewrite rules from the FIDL API into the Mojo types used by the browser process.
+// ---
+
 #include "fuchsia_web/webengine/browser/url_request_rewrite_type_converters.h"
 
 #include <string_view>

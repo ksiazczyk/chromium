@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngine console logging integration test
+// summary: Integration test verifying that JavaScript console messages reach the Fuchsia system log with the expected severity and frame debug tag.
+// ---
+
 #include <fidl/fuchsia.logger/cpp/fidl.h>
 
 #include <algorithm>

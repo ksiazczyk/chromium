@@ -1,0 +1,4 @@
+# Docerion header of web_instance_with_svc_directory.cml.
+type: config
+title: WebInstance manifest with service directory
+summary: Fuchsia component manifest variant for Contexts whose CreateContextParams provide a service directory, granting read access to the /svc directory.

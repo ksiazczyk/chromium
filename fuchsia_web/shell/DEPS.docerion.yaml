@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Fuchsia shell directory
+summary: Sets include dependency rules for the shell directory, with per-file exceptions for cast streaming and Widevine headers.

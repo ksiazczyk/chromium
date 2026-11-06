@@ -1,0 +1,4 @@
+# Docerion header of context_provider.cml.
+type: config
+title: ContextProvider component manifest
+summary: Fuchsia component manifest that runs web_engine_exe with --context-provider and exposes the fuchsia.web.ContextProvider and Debug protocols.

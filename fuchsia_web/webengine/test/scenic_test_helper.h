@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScenicTestHelper class declaration
+// summary: Declares helpers for browser tests that need to create Scenic Views, bypassing Scenic platform window creation.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_TEST_SCENIC_TEST_HELPER_H_
 #define FUCHSIA_WEB_WEBENGINE_TEST_SCENIC_TEST_HELPER_H_
 

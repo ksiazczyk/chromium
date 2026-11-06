@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CORS exempt header API
+// summary: Declares functions to set and query which HTTP header names are exempt from CORS enforcement when injected.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_COMMON_CORS_EXEMPT_HEADERS_H_
 #define FUCHSIA_WEB_WEBENGINE_COMMON_CORS_EXEMPT_HEADERS_H_
 

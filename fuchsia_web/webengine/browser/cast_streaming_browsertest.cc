@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast Streaming receiver browser tests
+// summary: Browser tests for the Cast Streaming receiver, covering load failure when the flag is disabled and streaming when it is enabled.
+// ---
+
 #include <fuchsia/mem/cpp/fidl.h>
 
 #include "base/fuchsia/mem_buffer_util.h"

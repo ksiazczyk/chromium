@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineURLLoaderThrottleProvider implementation
+// summary: Implements the throttle provider that attaches URL rewrite throttles to network requests using per-frame rewrite rules and CORS-exempt header checks.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_url_loader_throttle_provider.h"
 
 #include <functional>

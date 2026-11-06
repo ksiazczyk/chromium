@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebEngine test integration build rules
+summary: Defines a testonly source_set bundling WebEngine test helpers such as ContextProviderForTest and IsolatedArchivist for Fuchsia integration tests.

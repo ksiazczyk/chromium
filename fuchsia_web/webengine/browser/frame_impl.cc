@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameImpl implementation
+// summary: Implements fuchsia.web.Frame on top of content::WebContents, covering navigation, media, permissions, accessibility and popups.
+// ---
+
 #include "fuchsia_web/webengine/browser/frame_impl.h"
 
 #include <fidl/fuchsia.logger/cpp/fidl.h>

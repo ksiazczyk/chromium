@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSemanticTree test double header
+// summary: Declares FakeSemanticTree, a fake accessibility SemanticTree with helpers to look up nodes by id, label or role and wait for commits.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_FAKE_SEMANTIC_TREE_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_FAKE_SEMANTIC_TREE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextProvider process main loop
+// summary: Entry point that registers crash reporting, publishes the ContextProvider and Debug services, exposes version info via Inspect, and runs the message loop.
+// ---
+
 #include "fuchsia_web/webengine/context_provider_main.h"
 
 #include <lib/inspect/component/cpp/component.h>

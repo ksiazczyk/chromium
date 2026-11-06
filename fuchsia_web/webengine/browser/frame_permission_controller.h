@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame permission controller header
+// summary: Declares FramePermissionController, which manages web permissions state and permission requests for a fuchsia.web.Frame instance.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_PERMISSION_CONTROLLER_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_PERMISSION_CONTROLLER_H_
 

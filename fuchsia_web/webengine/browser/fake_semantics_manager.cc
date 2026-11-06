@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSemanticsManager implementation
+// summary: Implements a fake Fuchsia SemanticsManager that registers views, performs hit tests and tracks accessibility actions for tests.
+// ---
+
 #include "fuchsia_web/webengine/browser/fake_semantics_manager.h"
 
 #include "base/check.h"

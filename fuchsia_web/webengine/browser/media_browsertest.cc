@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media codec browser tests
+// summary: Browser tests checking video codec playability in the WebEngine, covering software-only and hardware decoders and the kEnableSoftwareOnlyVideoCodecs feature.
+// ---
+
 #include <fuchsia/mediacodec/cpp/fidl_test_base.h>
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedPortHandler test helper header
+// summary: Declares ScopedPortHandler, an RAII test helper that registers a port handler with a cast_api_bindings::Manager, waits for the connected port, and unregisters it on destruction.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_TEST_SCOPED_PORT_HANDLER_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_TEST_SCOPED_PORT_HANDLER_H_
 

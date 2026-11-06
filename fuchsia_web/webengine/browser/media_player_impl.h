@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaPlayerImpl header
+// summary: Declares MediaPlayerImpl, which exposes a content MediaSession as a fuchsia.media.sessions2 Player FIDL server with playback controls and state observation.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_MEDIA_PLAYER_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_MEDIA_PLAYER_IMPL_H_
 

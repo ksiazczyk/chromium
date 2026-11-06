@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme manager header
+// summary: Declares ThemeManager, which stores the requested theme and overrides Blink web preferences with the light, dark, or system-derived preferred color scheme.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_THEME_MANAGER_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_THEME_MANAGER_H_
 

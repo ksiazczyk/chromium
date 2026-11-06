@@ -1,0 +1,4 @@
+# Docerion header of web_engine_shell.cml.
+type: config
+title: WebEngine shell component manifest
+summary: Fuchsia CML manifest declaring the capabilities web_engine_shell uses and offers to the WebInstance.

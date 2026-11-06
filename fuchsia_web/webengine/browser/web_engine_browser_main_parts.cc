@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine browser main parts implementation
+// summary: Implements WebEngineBrowserMainParts, wiring Fuchsia service connections, legacy metrics, DevTools, FrameHost handling and startup and shutdown behavior.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_browser_main_parts.h"
 
 #include <fuchsia/web/cpp/fidl.h>

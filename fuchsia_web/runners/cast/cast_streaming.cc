@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming helpers
+// summary: Provides helpers to detect Cast streaming app configs and select message port origins, including video-only receiver support via package config.
+// ---
+
 #include "fuchsia_web/runners/cast/cast_streaming.h"
 
 #include <optional>

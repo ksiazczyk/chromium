@@ -1,0 +1,4 @@
+# Docerion header of webgl_presence.html.
+type: test
+title: Test page reporting WebGL presence in title
+summary: HTML test page that sets its title to 'present' or 'absent' depending on whether a WebGL context can be created.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Fuchsia WebEngine shell
+summary: Defines GN targets that build the WebEngine shell and cast streaming shell executables, Fuchsia components, and packages.

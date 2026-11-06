@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast runner test build rules
+summary: GN build file defining the test_support and integration source sets with their sources and dependencies for cast runner tests.

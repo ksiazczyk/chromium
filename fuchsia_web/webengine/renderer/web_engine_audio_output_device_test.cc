@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngineAudioOutputDevice unit tests
+// summary: Tests audio output device initialization, rendering, presentation timing, and error handling against a fake Fuchsia AudioConsumer.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_audio_output_device.h"
 
 #include "base/logging.h"

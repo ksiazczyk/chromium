@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped FIDL protocol connection checker for WebEngine tests
+// summary: Defines template checkers that verify whether clients connected, or never connected, to a given FIDL protocol published through the test's outgoing directory.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_TEST_SCOPED_CONNECTION_CHECKER_H_
 #define FUCHSIA_WEB_WEBENGINE_TEST_SCOPED_CONNECTION_CHECKER_H_
 

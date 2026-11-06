@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastResolver class declaration
+// summary: Declares the CastResolver FIDL server that resolves Cast application components via fuchsia.component.resolution.Resolver.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_CAST_RESOLVER_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_CAST_RESOLVER_H_
 

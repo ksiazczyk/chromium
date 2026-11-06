@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content directory loader factory header
+// summary: Declares a self-deleting URL loader factory class that serves resources stored under named content directories mounted in the browser process namespace.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_CONTENT_DIRECTORY_LOADER_FACTORY_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_CONTENT_DIRECTORY_LOADER_FACTORY_H_
 

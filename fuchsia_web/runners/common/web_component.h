@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebComponent class declaration
+// summary: Declares the base component class for web-based content runners, which owns a fuchsia.web.Frame, implements ViewProvider and navigation event listening, and can be extended by specialized runners.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_COMMON_WEB_COMPONENT_H_
 #define FUCHSIA_WEB_RUNNERS_COMMON_WEB_COMPONENT_H_
 

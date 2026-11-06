@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation controller implementation header
+// summary: Declares NavigationControllerImpl, which implements the fuchsia.web.NavigationController FIDL API for a WebContents and dispatches navigation state events to listeners.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_NAVIGATION_CONTROLLER_IMPL_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_NAVIGATION_CONTROLLER_IMPL_H_
 

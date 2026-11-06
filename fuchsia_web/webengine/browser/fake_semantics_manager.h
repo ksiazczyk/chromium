@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSemanticsManager test double header
+// summary: Declares FakeSemanticsManager, a fake accessibility SemanticsManager wrapping a FakeSemanticTree with action and hit-test helpers.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_FAKE_SEMANTICS_MANAGER_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_FAKE_SEMANTICS_MANAGER_H_
 

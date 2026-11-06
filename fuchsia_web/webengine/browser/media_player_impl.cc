@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media player implementation bridging MediaSession to Fuchsia
+// summary: Implements the fuchsia.media.sessions2 Player protocol on top of the Chromium content MediaSession, mapping session actions, state, and metadata to Fuchsia player controls.
+// ---
+
 #include "fuchsia_web/webengine/browser/media_player_impl.h"
 
 #include <lib/async/default.h>

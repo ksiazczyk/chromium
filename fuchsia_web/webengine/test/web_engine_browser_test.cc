@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngine browser test base class implementation
+// summary: Implements the WebEngineBrowserTest base class that sets up the WebEngine Context FIDL service, embedded test server handlers, and access to context and frame host internals.
+// ---
+
 #include "fuchsia_web/webengine/test/web_engine_browser_test.h"
 
 #include <fuchsia/web/cpp/fidl.h>

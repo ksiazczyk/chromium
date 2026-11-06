@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine shell command-line tool
+// summary: Implements the web_engine_shell tool that loads a URL in Fuchsia WebEngine with headless and remote debugging options.
+// ---
+
 #include <fuchsia/element/cpp/fidl.h>
 #include <fuchsia/io/cpp/fidl.h>
 #include <fuchsia/web/cpp/fidl.h>

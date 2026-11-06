@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine content client implementation
+// summary: Implements localized strings, resource loading, origin trial policy, and Fuchsia directory scheme registration for WebEngine.
+// ---
+
 #include "fuchsia_web/webengine/common/web_engine_content_client.h"
 
 #include <string_view>

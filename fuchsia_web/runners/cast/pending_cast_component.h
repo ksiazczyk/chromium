@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingCastComponent class declaration
+// summary: Declares a class that manages asynchronous retrieval of launch parameters for a Cast app and delegates launching or cancellation to its owner.
+// ---
+
 #ifndef FUCHSIA_WEB_RUNNERS_CAST_PENDING_CAST_COMPONENT_H_
 #define FUCHSIA_WEB_RUNNERS_CAST_PENDING_CAST_COMPONENT_H_
 

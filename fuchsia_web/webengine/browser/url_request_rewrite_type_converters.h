@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL request rewrite type converter declarations
+// summary: Declares the one-way Mojo TypeConverter that converts Fuchsia URL request rewrite rules into Mojo types before validation and use in renderers.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_URL_REQUEST_REWRITE_TYPE_CONVERTERS_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_URL_REQUEST_REWRITE_TYPE_CONVERTERS_H_
 

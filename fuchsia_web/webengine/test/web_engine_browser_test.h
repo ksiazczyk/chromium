@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngine browser test base class header
+// summary: Declares the WebEngineBrowserTest base class for integration testing of the WebEngine Context FIDL service, exposing context, frame host, and test server accessors.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_TEST_WEB_ENGINE_BROWSER_TEST_H_
 #define FUCHSIA_WEB_WEBENGINE_TEST_WEB_ENGINE_BROWSER_TEST_H_
 

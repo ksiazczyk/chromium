@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine DevTools controller implementation
+// summary: Implements the DevTools remote-debugging controller, starting and stopping the HTTP debugging server based on command-line switches and debuggable frames.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_devtools_controller.h"
 
 #include <fuchsia/web/cpp/fidl.h>

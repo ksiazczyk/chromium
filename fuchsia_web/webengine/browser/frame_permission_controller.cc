@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame permission controller implementation
+// summary: Implements per-origin and default web permission state tracking for a fuchsia.web.Frame, covering capture, storage, notifications, and protected media permissions.
+// ---
+
 #include "fuchsia_web/webengine/browser/frame_permission_controller.h"
 
 #include "base/check_op.h"

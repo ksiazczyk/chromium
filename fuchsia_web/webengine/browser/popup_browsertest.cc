@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup frame browser tests
+// summary: Browser tests covering popup frame creation and acknowledgement, autoplay policies inside popups, redirects, and multiple popup handling in WebEngine frames.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/run_until.h"
 #include "content/public/test/browser_test.h"

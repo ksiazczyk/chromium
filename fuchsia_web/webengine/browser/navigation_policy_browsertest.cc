@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation policy browser tests
+// summary: Browser tests checking that a NavigationPolicyProvider can proceed, defer, or abort navigations at the configured main-frame and sub-frame phases.
+// ---
+
 #include <fuchsia/web/cpp/fidl.h>
 
 #include "base/memory/raw_ptr.h"

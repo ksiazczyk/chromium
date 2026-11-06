@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine configuration command-line updater
+// summary: Applies WebEngine config data to the command line with an allow-list of arguments and provides helpers for protected service workers and notification permissions.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_config.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextProviderMain declaration
+// summary: Declares the exported entry point for the process that implements the web ContextProvider interface when started without a --type argument.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_CONTEXT_PROVIDER_MAIN_H_
 #define FUCHSIA_WEB_WEBENGINE_CONTEXT_PROVIDER_MAIN_H_
 

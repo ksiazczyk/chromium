@@ -1,0 +1,4 @@
+# Docerion header of mime_override_invalid.html._metadata.
+type: test
+title: Invalid metadata fixture
+summary: Intentionally malformed metadata file with bogus XML content, used as a test fixture for invalid metadata handling.

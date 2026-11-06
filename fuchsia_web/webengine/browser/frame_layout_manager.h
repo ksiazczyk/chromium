@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame layout manager header
+// summary: Declares FrameLayoutManager, which stretches the main WebContents window to fill the root window and supports forced content dimensions.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_LAYOUT_MANAGER_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_FRAME_LAYOUT_MANAGER_H_
 

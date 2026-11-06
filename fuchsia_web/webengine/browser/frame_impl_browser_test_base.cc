@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameImpl browser test base
+// summary: Implements shared browser test base classes that set the test server root and start the embedded test server for FrameImpl tests.
+// ---
+
 #include "fuchsia_web/webengine/browser/frame_impl_browser_test_base.h"
 
 #include "base/files/file_path.h"

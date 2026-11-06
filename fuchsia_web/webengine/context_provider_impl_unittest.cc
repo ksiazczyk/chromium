@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextProviderImpl unit tests
+// summary: Unit tests verifying ContextProviderImpl web instance creation, argument handling, and instance teardown using a fake fuchsia.component.Realm implementation.
+// ---
+
 #include "fuchsia_web/webengine/context_provider_impl.h"
 
 #include <fuchsia/web/cpp/fidl.h>

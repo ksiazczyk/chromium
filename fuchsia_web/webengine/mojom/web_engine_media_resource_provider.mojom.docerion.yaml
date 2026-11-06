@@ -1,0 +1,4 @@
+# Docerion header of web_engine_media_resource_provider.mojom.
+type: source
+title: WebEngine media resource provider Mojom interface
+summary: Defines the document-scoped Mojo interface renderers use to create Fuchsia media resources such as an AudioConsumer for a frame.

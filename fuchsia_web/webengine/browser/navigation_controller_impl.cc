@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation controller implementation
+// summary: Implements the fuchsia.web NavigationController over Chromium's navigation stack, diffing NavigationState updates and converting favicons into VMO-backed buffers.
+// ---
+
 #include "fuchsia_web/webengine/browser/navigation_controller_impl.h"
 
 #include <fuchsia/mem/cpp/fidl.h>

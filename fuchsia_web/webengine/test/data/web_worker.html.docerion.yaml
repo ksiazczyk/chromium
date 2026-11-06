@@ -1,0 +1,4 @@
+# Docerion header of web_worker.html.
+type: test
+title: Test page creating a web worker
+summary: HTML test page that spawns a web worker from a worker_url query parameter and reflects worker messages in the document title.

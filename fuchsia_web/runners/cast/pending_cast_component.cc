@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PendingCastComponent implementation
+// summary: Asynchronously fetches application config, API bindings and URL rewrite rules for a Cast app before handing complete parameters to its delegate.
+// ---
+
 
 #include "fuchsia_web/runners/cast/pending_cast_component.h"
 

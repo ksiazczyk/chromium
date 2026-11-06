@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedPortHandler implementation for Cast runner tests
+// summary: Implements an RAII helper that registers a message port handler with a cast_api_bindings::Manager and blocks until the port is connected, unregistering it on destruction.
+// ---
+
 #include "fuchsia_web/runners/cast/test/scoped_port_handler.h"
 
 #include <memory>

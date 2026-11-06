@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation policy throttle header
+// summary: Declares NavigationPolicyThrottle, a content NavigationThrottle that consults the NavigationPolicyHandler at each navigation phase.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_NAVIGATION_POLICY_THROTTLE_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_NAVIGATION_POLICY_THROTTLE_H_
 

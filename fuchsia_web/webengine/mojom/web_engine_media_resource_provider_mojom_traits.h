@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioConsumerRequest Mojom traits header
+// summary: Header mapping the AudioConsumerRequest Mojom struct to a Fuchsia FIDL interface request for Mojo serialization.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_MOJOM_WEB_ENGINE_MEDIA_RESOURCE_PROVIDER_MOJOM_TRAITS_H_
 #define FUCHSIA_WEB_WEBENGINE_MOJOM_WEB_ENGINE_MEDIA_RESOURCE_PROVIDER_MOJOM_TRAITS_H_
 

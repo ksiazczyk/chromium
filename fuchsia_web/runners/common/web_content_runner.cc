@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentRunner implementation
+// summary: Implements the runner that creates and maintains a fuchsia.web.Context web instance, serves FrameHost requests, creates Frames, and registers or destroys WebComponent instances.
+// ---
+
 #include "fuchsia_web/runners/common/web_content_runner.h"
 
 #include <lib/fdio/directory.h>

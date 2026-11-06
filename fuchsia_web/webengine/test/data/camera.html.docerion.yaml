@@ -1,0 +1,4 @@
+# Docerion header of camera.html.
+type: test
+title: Camera permission test page
+summary: Test page that calls getUserMedia and enumerateDevices to verify camera access and video device information behavior.

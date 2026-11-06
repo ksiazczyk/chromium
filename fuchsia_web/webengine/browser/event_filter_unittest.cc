@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EventFilter input type configuration
+// summary: Checks EventFilter behavior for default allowance, selective allowing and denying of input types, and pass-through of low-level touch and control events.
+// ---
+
 #include "fuchsia_web/webengine/browser/event_filter.h"
 
 #include <fuchsia/web/cpp/fidl.h>

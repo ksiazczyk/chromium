@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineAudioDeviceFactory implementation
+// summary: Creates audio renderer sinks for frames, using a Fuchsia AudioConsumer when enabled and falling back to the default AudioOutputDevice otherwise.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_audio_device_factory.h"
 
 #include <fuchsia/media/cpp/fidl.h>

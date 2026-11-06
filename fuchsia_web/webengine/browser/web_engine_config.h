@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine configuration API declarations
+// summary: Declares UpdateCommandLineFromConfigFile, IsProtectedServiceWorker and AllowNotifications used to configure the WebEngine from config data.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_CONFIG_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_CONFIG_H_
 

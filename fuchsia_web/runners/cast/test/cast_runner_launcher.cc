@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast runner test realm launcher implementation
+// summary: Builds a component test realm that launches an isolated cast_runner instance with fake services and dynamic component capabilities for integration tests.
+// ---
+
 #include "fuchsia_web/runners/cast/test/cast_runner_launcher.h"
 
 #include <chromium/cast/cpp/fidl.h>

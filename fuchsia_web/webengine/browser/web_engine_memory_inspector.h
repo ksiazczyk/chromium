@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine memory inspector header
+// summary: Declares WebEngineMemoryInspector, which integrates MemoryInstrumentation to publish memory usage details to Inspect on demand.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_MEMORY_INSPECTOR_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_WEB_ENGINE_MEMORY_INSPECTOR_H_
 

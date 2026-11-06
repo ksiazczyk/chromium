@@ -1,0 +1,4 @@
+# Docerion header of cast_streaming_receiver.html.
+type: test
+title: Cast streaming receiver test page
+summary: Test page with a video element acting as a Cast streaming receiver, signaling loadedmetadata or error via the document title.

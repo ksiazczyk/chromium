@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebEngine include rules
+summary: Defines the header include paths allowed for the WebEngine directory, with per-file exceptions for specific sources such as the context provider and browser main parts.

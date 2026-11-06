@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming receiver session client header
+// summary: Declares ReceiverSessionClient, which holds a Cast Streaming Receiver Session and wires its Mojo endpoints to a Fuchsia MessagePort request.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_RECEIVER_SESSION_CLIENT_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_RECEIVER_SESSION_CLIENT_H_
 

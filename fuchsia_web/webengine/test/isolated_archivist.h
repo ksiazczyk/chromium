@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IsolatedArchivist class declaration
+// summary: Declares a class that runs an isolated archivist-for-embedding, publishing its LogSink and providing access to its Log protocol for tests.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_TEST_ISOLATED_ARCHIVIST_H_
 #define FUCHSIA_WEB_WEBENGINE_TEST_ISOLATED_ARCHIVIST_H_
 

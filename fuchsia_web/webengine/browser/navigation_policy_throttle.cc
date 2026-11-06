@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation policy throttle implementation
+// summary: Implements NavigationPolicyThrottle, pausing navigations at configured phases and resuming, aborting, or cancelling them per provider decisions.
+// ---
+
 #include "fuchsia_web/webengine/browser/navigation_policy_throttle.h"
 
 #include "content/public/browser/navigation_handle.h"

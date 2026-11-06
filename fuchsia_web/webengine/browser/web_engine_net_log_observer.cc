@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine net log observer implementation
+// summary: Starts an unbounded file NetLog observer that records network events with WebEngine client constants when a log path is provided.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_net_log_observer.h"
 
 #include <string>

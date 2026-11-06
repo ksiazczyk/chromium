@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NamedMessagePortConnectorFuchsia browser test
+// summary: End-to-end browser test verifying message port connection between the connector and a page served by an embedded test server.
+// ---
+
 #include "fuchsia_web/runners/cast/named_message_port_connector_fuchsia.h"
 
 #include <memory>

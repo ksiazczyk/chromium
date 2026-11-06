@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility browser tests for WebEngine frames
+// summary: Browser tests that verify Fuchsia accessibility semantic tree updates, node actions, and hit testing through a fake semantics manager.
+// ---
+
 #include <fuchsia/accessibility/semantics/cpp/fidl.h>
 #include <zircon/types.h>
 

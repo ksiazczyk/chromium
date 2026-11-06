@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell relauncher implementation
+// summary: Relaunches the shell as a RealmBuilder child component when the parent process cannot host WebInstanceHost directly.
+// ---
+
 #include "fuchsia_web/shell/shell_relauncher.h"
 
 #include <fuchsia/component/cpp/fidl.h>

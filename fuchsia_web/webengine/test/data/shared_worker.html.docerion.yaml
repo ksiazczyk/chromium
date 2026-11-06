@@ -1,0 +1,4 @@
+# Docerion header of shared_worker.html.
+type: test
+title: Shared worker creation test page
+summary: Test page that creates a SharedWorker from a worker_url query parameter and shows its messages in the title.

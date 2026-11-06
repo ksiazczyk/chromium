@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for WebEngine browser
+summary: Lists code owners for the directory and requires IPC security review for interface binder and type converter files.

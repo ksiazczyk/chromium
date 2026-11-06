@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message port conversion API
+// summary: Declares functions to create connected message ports between FIDL fuchsia.web MessagePort handles and Blink WebMessagePorts, plus the TransferableHostType enum.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_BROWSER_MESSAGE_PORT_H_
 #define FUCHSIA_WEB_WEBENGINE_BROWSER_MESSAGE_PORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast streaming receiver session client implementation
+// summary: Configures and starts a Cast Streaming receiver session, setting preferred video and audio codecs and video limits derived from the display resolution.
+// ---
+
 #include "fuchsia_web/webengine/browser/receiver_session_client.h"
 
 #include "base/functional/bind.h"

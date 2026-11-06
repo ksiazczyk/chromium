@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine feature flags
+// summary: Declares base::Feature constants that toggle WebEngine behaviors such as software video codecs, Cast mirroring VP9 decoding, keyboard input, and origin trials.
+// ---
+
 #ifndef FUCHSIA_WEB_WEBENGINE_FEATURES_H_
 #define FUCHSIA_WEB_WEBENGINE_FEATURES_H_
 

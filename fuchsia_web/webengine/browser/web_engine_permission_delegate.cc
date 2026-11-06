@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine permission delegate implementation
+// summary: Implements the content permission delegate for WebEngine, forwarding permission checks and requests to per-frame permission controllers.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_permission_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngine main delegate implementation
+// summary: Implements WebEngine startup for the Fuchsia WebEngine process, initializing logging, CORS-exempt headers, scheduler roles, and resource bundles before dispatching to browser or renderer code.
+// ---
+
 #include "fuchsia_web/webengine/web_engine_main_delegate.h"
 
 #include <utility>

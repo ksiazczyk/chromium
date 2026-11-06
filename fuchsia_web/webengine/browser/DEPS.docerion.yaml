@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for WebEngine browser
+summary: Defines allowed include dependencies for the WebEngine browser directory, with per-file exceptions for tests and Cast Streaming code.

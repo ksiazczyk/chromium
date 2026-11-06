@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the WebEngine renderer
+summary: Defines allowed include dependencies for the renderer directory, with specific exceptions for Cast Streaming and Widevine in the content renderer client.

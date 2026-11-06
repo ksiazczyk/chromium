@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client Hints browser tests
+// summary: Browser tests that verify Client Hint headers requested via Accept-CH are attached to navigation requests made by WebEngine.
+// ---
+
 #include <fuchsia/web/cpp/fidl.h>
 
 #include "base/functional/bind.h"

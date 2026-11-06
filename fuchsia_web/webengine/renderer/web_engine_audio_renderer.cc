@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebEngineAudioRenderer implementation
+// summary: Implements a media AudioRenderer that sends encoded audio streams, including PCM 24-bit conversion, to the Fuchsia AudioConsumer without decoding.
+// ---
+
 #include "fuchsia_web/webengine/renderer/web_engine_audio_renderer.h"
 
 #include <lib/sys/cpp/component_context.h>

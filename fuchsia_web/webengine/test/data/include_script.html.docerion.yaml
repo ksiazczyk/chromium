@@ -1,0 +1,4 @@
+# Docerion header of include_script.html.
+type: test
+title: Same-origin script include test page
+summary: Test page that loads set_title.js from the same origin to change the document title.

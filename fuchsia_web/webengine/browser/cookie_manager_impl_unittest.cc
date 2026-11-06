@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CookieManagerImpl
+// summary: Verifies CookieManagerImpl cookie listing, filtering and change observation against a test network service using canned cookies under a test URL.
+// ---
+
 #include "fuchsia_web/webengine/browser/cookie_manager_impl.h"
 
 #include <lib/fidl/cpp/binding.h>

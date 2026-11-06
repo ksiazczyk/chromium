@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebEngine config unit tests
+// summary: Unit tests verifying that config data updates the command line as expected, covering allow-listed arguments in nested and top-level config locations.
+// ---
+
 #include "fuchsia_web/webengine/browser/web_engine_config.h"
 
 #include <optional>
