@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatisticsProvider interface and VPD keys
+// summary: Declares the StatisticsProvider interface along with constants for VPD and crossystem machine statistic keys and values.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_STATISTICS_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_STATISTICS_PROVIDER_H_
 

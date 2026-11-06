@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Term break iterator implementation
+// summary: Implements an iterator that splits a word into terms at boundaries between numbers, uppercase, lowercase and other characters using a state transition table.
+// ---
+
 #include "chromeos/ash/components/string_matching/term_break_iterator.h"
 
 #include <ostream>

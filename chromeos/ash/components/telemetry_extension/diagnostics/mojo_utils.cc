@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoUtils implementation for reading strings from Mojo handles
+// summary: Implements GetStringFromMojoHandle, which converts a Mojo platform handle into a read-only shared memory mapping and returns its contents as a string, or an empty string on error.
+// ---
+
 #include "chromeos/ash/components/telemetry_extension/diagnostics/mojo_utils.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synced network metrics logger unit tests
+// summary: Unit tests for SyncedNetworkMetricsLogger that verify the histograms recorded for synced Wi-Fi network connection successes and failures.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/synced_network_metrics_logger.h"
 
 #include <memory>

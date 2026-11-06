@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatisticsProviderImpl implementation
+// summary: Implements loading of machine statistics from crossystem, filtered VPD, OEM manifest, cros-regions and runtime HWID sources.
+// ---
+
 #include "chromeos/ash/components/system/statistics_provider_impl.h"
 
 #include <memory>

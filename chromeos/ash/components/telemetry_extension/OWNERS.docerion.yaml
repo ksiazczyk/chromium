@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for telemetry extension
+summary: Points to the cros_healthd OWNERS file as the owner source and lists backup reviewers for this directory.

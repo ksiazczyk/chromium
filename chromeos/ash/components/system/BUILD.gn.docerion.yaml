@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the ash system component
+summary: Defines the chromeos_ash_components_system component, its unit_tests source set, and the name_value_pairs_parser fuzzer target.

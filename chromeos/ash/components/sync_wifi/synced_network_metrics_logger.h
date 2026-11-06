@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced network metrics logger header
+// summary: Declares the synced network metrics logger with histogram names and persisted enums for connection and update failure reasons.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_SYNCED_NETWORK_METRICS_LOGGER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_SYNCED_NETWORK_METRICS_LOGGER_H_
 

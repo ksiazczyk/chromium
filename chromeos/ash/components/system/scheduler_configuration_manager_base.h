@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerConfigurationManagerBase header
+// summary: Declares the base class for scheduler configuration managers with an observer interface for debugd SetSchedulerConfiguration replies.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_SCHEDULER_CONFIGURATION_MANAGER_BASE_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_SCHEDULER_CONFIGURATION_MANAGER_BASE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash components tests
+summary: Defines allowed include rules for the ash components test directory, permitting ui/aura and ui/gl plus specific test headers in ash_test_suite.cc.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Wifi Configuration Sync
+summary: Explains the sync_wifi component that keeps local and server Wi-Fi network lists in sync, including which networks are eligible and how credentials are stored and encrypted.
+---
+
 Wifi Configuration Sync
 
 sync_wifi is a component which provides the necessary APIs to sync Wi-Fi

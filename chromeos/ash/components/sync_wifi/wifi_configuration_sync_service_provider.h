@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wifi configuration sync service provider interface
+// summary: Declares an interface that lets ChromeOS callers look up the WifiConfigurationSyncService for a user account without depending on the browser-side keyed factory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_WIFI_CONFIGURATION_SYNC_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_WIFI_CONFIGURATION_SYNC_SERVICE_PROVIDER_H_
 

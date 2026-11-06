@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenizedString class header
+// summary: Declares a class that breaks text into tokens and records their index mappings in the original string.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_TOKENIZED_STRING_H_
 #define CHROMEOS_ASH_COMPONENTS_STRING_MATCHING_TOKENIZED_STRING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local network collector implementation header
+// summary: Declares LocalNetworkCollectorImpl, which retrieves, filters, and converts local network configurations into syncable protos over the cros_network_config mojo interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_LOCAL_NETWORK_COLLECTOR_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_LOCAL_NETWORK_COLLECTOR_IMPL_H_
 

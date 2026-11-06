@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoUtils header for Mojo handle to string conversion
+// summary: Declares the MojoUtils class with the static GetStringFromMojoHandle helper that converts a valid Mojo platform handle into a string backed by read-only shared memory.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TELEMETRY_EXTENSION_DIAGNOSTICS_MOJO_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_TELEMETRY_EXTENSION_DIAGNOSTICS_MOJO_UTILS_H_
 

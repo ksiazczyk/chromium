@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync service provider singleton implementation
+// summary: Implements process-wide singleton registration and the static Get() accessor for SyncServiceProvider.
+// ---
+
 #include "chromeos/ash/components/sync/sync_service_provider.h"
 
 #include "base/check.h"

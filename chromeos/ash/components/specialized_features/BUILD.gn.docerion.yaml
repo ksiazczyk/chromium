@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the specialized_features component
+summary: GN build file defining the specialized_features component and its unit test source set, listing their sources and dependencies.

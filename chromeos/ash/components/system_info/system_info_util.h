@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info utility functions header
+// summary: Declares utility functions for parsing croshealthd telemetry into battery health and CPU data, plus the BatteryDataError histogram enum.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_INFO_SYSTEM_INFO_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_INFO_SYSTEM_INFO_UTIL_H_
 

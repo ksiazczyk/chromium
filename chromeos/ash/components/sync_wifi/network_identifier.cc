@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network identifier implementation
+// summary: Implements NetworkIdentifier, which uniquely identifies synced networks by hex SSID and security type, with serialization and comparison operators.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/network_identifier.h"
 
 #include "base/strings/string_split.h"

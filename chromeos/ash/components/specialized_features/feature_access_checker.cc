@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureAccessChecker implementation
+// summary: Implements checks for kiosk mode, settings and consent preferences, feature flags, secret keys, account capabilities and country to gate specialized features.
+// ---
+
 #include "chromeos/ash/components/specialized_features/feature_access_checker.h"
 
 #include <algorithm>

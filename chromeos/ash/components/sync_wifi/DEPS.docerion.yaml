@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for sync_wifi
+summary: Lists the directories whose headers the sync_wifi component may include, with special rules for network_test_helper.cc.

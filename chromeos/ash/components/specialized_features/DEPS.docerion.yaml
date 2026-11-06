@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for specialized_features
+summary: DEPS file listing the allowed include dependencies for the directory, with additional rules for unit test files.

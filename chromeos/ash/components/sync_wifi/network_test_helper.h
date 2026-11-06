@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network test helper header
+// summary: Declares NetworkTestHelper, a test helper that configures fake network classes, users, and prefs, including WiFi network setup for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_NETWORK_TEST_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_NETWORK_TEST_HELPER_H_
 

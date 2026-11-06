@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info utility functions implementation
+// summary: Implements helpers that extract battery, CPU and memory information from croshealthd telemetry, format battery time and record error histograms.
+// ---
+
 #include "chromeos/ash/components/system_info/system_info_util.h"
 
 #include <optional>

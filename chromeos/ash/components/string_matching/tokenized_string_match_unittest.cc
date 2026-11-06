@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenizedStringMatch unit tests
+// summary: Unit tests covering match results, hit marking, acronym behavior, and relevance scoring.
+// ---
+
 #include "chromeos/ash/components/string_matching/tokenized_string_match.h"
 
 #include <stddef.h>

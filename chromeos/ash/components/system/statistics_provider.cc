@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatisticsProvider implementation
+// summary: Implements the production StatisticsProvider singleton, machine serial number lookup and test provider override.
+// ---
+
 #include "chromeos/ash/components/system/statistics_provider.h"
 
 #include <array>

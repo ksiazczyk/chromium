@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureAccessChecker API and configuration types
+// summary: Declares the FeatureAccessFailure enum, FeatureAccessConfig struct and FeatureAccessChecker class used to evaluate access conditions for specialized features.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SPECIALIZED_FEATURES_FEATURE_ACCESS_CHECKER_H_
 #define CHROMEOS_ASH_COMPONENTS_SPECIALIZED_FEATURES_FEATURE_ACCESS_CHECKER_H_
 

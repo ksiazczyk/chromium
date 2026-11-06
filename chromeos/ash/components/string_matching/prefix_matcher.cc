@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefix matcher implementation
+// summary: Implements sentence and token prefix matching between query and text tokens, scoring character hits by prefix, token-front and weak-hit positions.
+// ---
+
 #include "chromeos/ash/components/string_matching/prefix_matcher.h"
 
 #include <cstddef>

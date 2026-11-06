@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network identifier header
+// summary: Declares NetworkIdentifier, a unique identifier for synced networks combining a hex-encoded SSID with a security type.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_NETWORK_IDENTIFIER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_NETWORK_IDENTIFIER_H_
 

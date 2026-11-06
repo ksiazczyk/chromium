@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for telemetry extension
+summary: Defines the allowed include dependencies for the telemetry_extension directory, including audio, debug daemon, mojo service manager, cros_healthd, and network health paths.

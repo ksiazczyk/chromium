@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncedNetworkUpdaterImpl unit tests
+// summary: Unit tests covering add, update, delete, retry, and timeout behavior of SyncedNetworkUpdaterImpl using fake trackers and timers.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/synced_network_updater_impl.h"
 
 #include <memory>

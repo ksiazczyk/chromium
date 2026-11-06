@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcronymMatcher unit tests
+// summary: Unit tests verifying AcronymMatcher relevance scores, case insensitivity, rejection of prefix matches, and hit marking of matched text.
+// ---
+
 #include "chromeos/ash/components/string_matching/acronym_matcher.h"
 
 #include <ranges>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefix matcher unit tests
+// summary: Unit tests checking PrefixMatcher relevance scores for exact, prefix, acronym, partial and non-match cases against expected per-character score sums.
+// ---
+
 #include "chromeos/ash/components/string_matching/prefix_matcher.h"
 
 #include "chromeos/ash/components/string_matching/tokenized_string.h"

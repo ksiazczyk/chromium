@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NameValuePairsParser header
+// summary: Declares a parser that reads name-value pairs from files or strings in VPD dump and machine-info formats into a map.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_NAME_VALUE_PAIRS_PARSER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_NAME_VALUE_PAIRS_PARSER_H_
 

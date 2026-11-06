@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshTestSuite class declaration
+// summary: Declares the AshTestSuite class, a base::TestSuite subclass that initializes the environment for ash component unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_TEST_ASH_TEST_SUITE_H_
 #define CHROMEOS_ASH_COMPONENTS_TEST_ASH_TEST_SUITE_H_
 

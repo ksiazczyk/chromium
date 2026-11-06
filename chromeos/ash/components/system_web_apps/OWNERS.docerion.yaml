@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for system_web_apps
+summary: Delegates code ownership for this directory to the PLATFORM_OWNERS file under ash/webui.

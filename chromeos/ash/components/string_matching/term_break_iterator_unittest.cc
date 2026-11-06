@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TermBreakIterator unit tests
+// summary: Unit tests verifying term breaking for empty words, camel case, numbers, and caseless characters.
+// ---
+
 #include "chromeos/ash/components/string_matching/term_break_iterator.h"
 
 #include "base/strings/utf_string_conversions.h"

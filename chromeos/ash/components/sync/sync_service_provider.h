@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncServiceProvider interface for ChromeOS callers
+// summary: Declares the abstract provider that gives ChromeOS callers a user's SyncService without depending on //chrome/browser/sync.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_SYNC_SERVICE_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_SYNC_SERVICE_PROVIDER_H_
 

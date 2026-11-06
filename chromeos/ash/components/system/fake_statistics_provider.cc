@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake statistics provider implementation
+// summary: Implements a test double for StatisticsProvider that stores machine statistics, flags, VPD status, and hardware class in memory.
+// ---
+
 #include "chromeos/ash/components/system/fake_statistics_provider.h"
 
 #include <string>

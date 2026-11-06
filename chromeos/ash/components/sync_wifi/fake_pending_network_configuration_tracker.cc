@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake pending network configuration tracker implementation
+// summary: Implements an in-memory fake of PendingNetworkConfigurationTracker that records pending updates, change GUIDs, and completed attempt counts for tests.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/fake_pending_network_configuration_tracker.h"
 
 #include "base/uuid.h"

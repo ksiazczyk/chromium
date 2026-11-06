@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory ping embargo state check API
+// summary: Declares the FactoryPingEmbargoState enum and GetRlzPingEmbargoState, which determines whether the RLZ embargo period has passed.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_FACTORY_PING_EMBARGO_CHECK_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_FACTORY_PING_EMBARGO_CHECK_H_
 

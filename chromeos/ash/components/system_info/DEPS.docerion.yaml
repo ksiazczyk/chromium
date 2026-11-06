@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for system_info
+summary: Lists the headers that source files in the system_info directory are allowed to include.

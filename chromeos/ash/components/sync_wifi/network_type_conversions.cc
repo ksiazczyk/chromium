@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network type conversions implementation
+// summary: Implements conversion helpers between mojo network configuration types and sync WiFi protobufs, including hex SSID decoding and security type mapping.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/network_type_conversions.h"
 
 #include "ash/constants/ash_features.h"

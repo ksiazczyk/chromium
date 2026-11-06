@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for telemetry extension
+summary: Declares the Buganizer component (ChromeOS Platform Enablement Health) and the owning team email address for this directory.

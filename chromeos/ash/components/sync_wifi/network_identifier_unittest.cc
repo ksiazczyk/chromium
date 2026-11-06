@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network identifier unit tests
+// summary: Unit tests for NetworkIdentifier covering creation from protos and strings, hex format normalization, and equality of valid and invalid identifiers.
+// ---
+
 #include <map>
 #include <set>
 #include <utility>

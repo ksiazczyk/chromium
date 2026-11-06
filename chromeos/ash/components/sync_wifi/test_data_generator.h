@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test data generator header
+// summary: Declares helper functions that generate test network identifiers and Wi-Fi configuration protos for unit tests.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_TEST_DATA_GENERATOR_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_TEST_DATA_GENERATOR_H_
 

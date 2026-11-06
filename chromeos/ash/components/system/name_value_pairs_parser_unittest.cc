@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NameValuePairsParser unit tests
+// summary: Unit tests covering parsing of VPD dump and machine-info name-value pair formats, including quoted names and error cases.
+// ---
+
 #include "chromeos/ash/components/system/name_value_pairs_parser.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuzzy tokenized string match implementation
+// summary: Implements fuzzy matching between a tokenized query and text, combining token set, sort, partial, prefix and acronym ratios into a relevance score with matched ranges.
+// ---
+
 #include "chromeos/ash/components/string_matching/fuzzy_tokenized_string_match.h"
 
 #include <algorithm>

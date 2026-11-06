@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending network configuration tracker unit tests
+// summary: Unit tests for the preference-backed pending network configuration tracker, covering tracking updates, marking complete, and incrementing attempts.
+// ---
+
 #include "chromeos/ash/components/sync_wifi/pending_network_configuration_tracker_impl.h"
 
 #include <memory>

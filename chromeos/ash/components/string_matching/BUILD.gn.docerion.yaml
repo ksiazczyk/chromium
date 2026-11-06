@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for string_matching
+summary: Defines the string_matching source set, its unit tests, and the tokenized_string fuzzer target for Chrome OS builds.

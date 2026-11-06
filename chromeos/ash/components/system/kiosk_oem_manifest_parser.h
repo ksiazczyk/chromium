@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk OEM manifest parser interface
+// summary: Declares KioskOemManifestParser and its Manifest struct for reading app kiosk OEM manifest files.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_KIOSK_OEM_MANIFEST_PARSER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_KIOSK_OEM_MANIFEST_PARSER_H_
 

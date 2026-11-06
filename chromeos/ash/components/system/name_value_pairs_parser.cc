@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Name-value pairs parser implementation
+// summary: Parses name-value pairs from files or strings in VPD dump and machine info formats into a name-value map.
+// ---
+
 #include "chromeos/ash/components/system/name_value_pairs_parser.h"
 
 #include <stddef.h>

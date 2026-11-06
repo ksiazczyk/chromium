@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake statistics provider interface
+// summary: Declares FakeStatisticsProvider and ScopedFakeStatisticsProvider, test fakes that let tests set machine statistics and flags.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYSTEM_FAKE_STATISTICS_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SYSTEM_FAKE_STATISTICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeLocalNetworkCollector test double header
+// summary: Declares a test fake of LocalNetworkCollector that keeps syncable network protos in a vector and exposes helpers like AddNetwork and ClearNetworks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_FAKE_LOCAL_NETWORK_COLLECTOR_H_
 #define CHROMEOS_ASH_COMPONENTS_SYNC_WIFI_FAKE_LOCAL_NETWORK_COLLECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcronymMatcher implementation
+// summary: Implements AcronymMatcher, which scores a query matched as an acronym of text tokens and records the hit positions of the match.
+// ---
+
 #include "chromeos/ash/components/string_matching/acronym_matcher.h"
 
 #include <cstddef>

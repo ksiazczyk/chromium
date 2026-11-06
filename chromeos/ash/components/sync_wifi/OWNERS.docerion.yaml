@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for sync_wifi
+summary: Names the directory owners and delegates wifi_configuration_bridge files to the components/sync owners.
