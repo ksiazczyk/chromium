@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the common directory
+summary: Restricts allowed includes to components/version_info and extensions/common, with extensions/test allowed only in unittest files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NotificationsInstance header
+// summary: Declares a fake NotificationsInstance Mojo interface exposing recorded notification events for ARC tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_NOTIFICATIONS_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_NOTIFICATIONS_INSTANCE_H_
 

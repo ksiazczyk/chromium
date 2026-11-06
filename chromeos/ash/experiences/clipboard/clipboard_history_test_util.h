@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history test utilities header
+// summary: Declares helper classes for tests to wait for image model request completion and clipboard history item updates.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_HISTORY_TEST_UTIL_H_
 #define CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_HISTORY_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for arc usb
+summary: Defines the allowed include dependencies for the arc/usb directory, permitting includes from services/device/public.

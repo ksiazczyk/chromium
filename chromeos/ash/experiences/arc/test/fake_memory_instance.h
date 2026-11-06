@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake memory instance header
+// summary: Declares FakeMemoryInstance, a test double for the MemoryInstance Mojo interface with setters for reclaim and drop-caches results.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_MEMORY_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_MEMORY_INSTANCE_H_
 

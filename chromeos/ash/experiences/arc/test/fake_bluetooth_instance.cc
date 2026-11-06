@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBluetoothInstance implementation
+// summary: Implements a fake BluetoothInstance that records device found, GATT and connection state events for tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_bluetooth_instance.h"
 
 #include <utility>

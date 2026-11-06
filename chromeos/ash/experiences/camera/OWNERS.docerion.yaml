@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Camera directory owners
+summary: Delegates code review ownership of this directory to the camera app UI OWNERS file.

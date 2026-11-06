@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the wake_lock directory
+summary: Defines the allowed include dependencies for the ARC wake lock directory, permitting services/device/public headers.

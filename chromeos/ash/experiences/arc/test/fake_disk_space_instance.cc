@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake disk space instance implementation
+// summary: Implements the fake DiskSpaceInstance that returns stub application sizes and records storage balloon resize requests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_disk_space_instance.h"
 
 namespace arc {

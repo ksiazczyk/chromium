@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake KeyMint instance header
+// summary: Declares FakeKeyMintInstance, a test double for the KeyMintInstance Mojo interface that tracks how often Init was called.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_KEYMINT_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_KEYMINT_INSTANCE_H_
 

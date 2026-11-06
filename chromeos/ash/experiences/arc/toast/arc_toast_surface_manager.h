@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcToastSurfaceManager class header
+// summary: Declares the ash ArcToastSurfaceManager class, which extends exo::ToastSurfaceManager and SessionObserver to manage toast surface visibility.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TOAST_ARC_TOAST_SURFACE_MANAGER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TOAST_ARC_TOAST_SURFACE_MANAGER_H_
 

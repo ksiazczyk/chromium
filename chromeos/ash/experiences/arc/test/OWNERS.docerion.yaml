@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for fake instance files
+summary: Grants approval rights for fake_*_instance files to any reviewer.

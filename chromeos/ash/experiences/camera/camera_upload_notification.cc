@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera upload progress notification implementation
+// summary: Creates and updates the message center progress notification for camera uploads, including a cancel button action.
+// ---
+
 #include "chromeos/ash/experiences/camera/camera_upload_notification.h"
 
 #include "base/strings/utf_string_conversions.h"

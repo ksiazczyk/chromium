@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC video accelerator utility unit tests
+// summary: Unit tests verifying that DuplicateFD returns the requested number of descriptors on success and an empty list for an invalid file descriptor.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/arc_video_accelerator_util.h"
 
 #include "base/files/scoped_file.h"

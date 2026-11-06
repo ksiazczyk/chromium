@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrozenGpu struct with vendor and device PCIIDs
+// summary: Declares the FrozenGpu struct holding vendor and device PCIIDs for GPUs that require updates to be frozen.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_FROZEN_UPDATE_FROZEN_GPU_H_
 #define CHROMEOS_ASH_EXPERIENCES_FROZEN_UPDATE_FROZEN_GPU_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of file_manager_private_internal.webidl.
+type: source
+title: File manager private internal API definition
+summary: WebIDL definition of the internal fileManagerPrivate API used by custom bindings to resolve entries, fetch properties, and execute tasks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated web app API allowlist declaration
+// summary: Declares CanOriginAccessCrosIwaApi, which reports whether an origin is allowed to access the CrOS IWA API.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ISOLATED_WEB_APP_ISOLATED_WEB_APP_API_ALLOWLIST_H_
 #define CHROMEOS_ASH_EXPERIENCES_ISOLATED_WEB_APP_ISOLATED_WEB_APP_API_ALLOWLIST_H_
 

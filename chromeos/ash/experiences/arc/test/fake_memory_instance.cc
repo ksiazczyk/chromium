@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake memory instance implementation
+// summary: Implements a fake MemoryInstance Mojo interface that returns configurable drop-caches and memory reclaim results.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_memory_instance.h"
 
 #include "chromeos/ash/experiences/arc/mojom/memory.mojom-shared.h"

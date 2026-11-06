@@ -1,0 +1,4 @@
+# Docerion header of 16G.
+type: test
+title: 16G memory profile test data
+summary: Meminfo-style snapshot of a 16 GB device stored as ARC test data, likely used as a fixture for memory profiling tests.

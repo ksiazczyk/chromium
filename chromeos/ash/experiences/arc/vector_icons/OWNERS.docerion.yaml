@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for vector_icons
+summary: Delegates code ownership to the shared components/vector_icons OWNERS file.

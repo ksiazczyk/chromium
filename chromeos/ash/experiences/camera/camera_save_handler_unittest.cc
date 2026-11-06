@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera save handler unit tests
+// summary: Unit tests for CameraSaveHandler covering destination paths, upload progress, notifications, and cancellation using a mock delegate.
+// ---
+
 #include "chromeos/ash/experiences/camera/camera_save_handler.h"
 
 #include <memory>

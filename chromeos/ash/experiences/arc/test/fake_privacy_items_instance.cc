@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ARC privacy items instance implementation
+// summary: Implements FakePrivacyItemsInstance, a fake Mojo PrivacyItemsInstance that records the last static privacy indicator bounds reported by the host.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_privacy_items_instance.h"
 
 #include <utility>

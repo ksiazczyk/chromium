@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_actions_2.json.
+type: test
+title: File browser handler manifest with malformed actions entry
+summary: Invalid manifest fixture whose file_browser_handlers list contains a string instead of a handler object, used to test validation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ARC power instance implementation
+// summary: Implements FakePowerInstance, a fake Mojo PowerInstance that records suspend, resume, brightness, wakefulness, and CPU restriction calls for ARC tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_power_instance.h"
 
 #include <utility>

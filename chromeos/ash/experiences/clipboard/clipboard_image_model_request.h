@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardImageModelRequest class declaration
+// summary: Declares ClipboardImageModelRequest, which renders HTML markup in an off-screen WebView and delivers the captured image via callback, timing out after five seconds.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_IMAGE_MODEL_REQUEST_H_
 #define CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_IMAGE_MODEL_REQUEST_H_
 

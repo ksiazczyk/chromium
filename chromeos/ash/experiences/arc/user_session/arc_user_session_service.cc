@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcUserSessionService implementation
+// summary: Implements the keyed service that broadcasts USER_SESSION_ACTIVE to the ARC intent helper when the ChromeOS session becomes active.
+// ---
+
 #include "chromeos/ash/experiences/arc/user_session/arc_user_session_service.h"
 
 #include "base/no_destructor.h"

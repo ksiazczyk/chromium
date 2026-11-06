@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits declarations for volume mounter enums
+// summary: Declares EnumTraits specializations mapping ash DeviceType and DiskMountManager mount event enums to arc::mojom types.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VOLUME_MOUNTER_VOLUME_MOUNTER_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VOLUME_MOUNTER_VOLUME_MOUNTER_MOJOM_TRAITS_H_
 

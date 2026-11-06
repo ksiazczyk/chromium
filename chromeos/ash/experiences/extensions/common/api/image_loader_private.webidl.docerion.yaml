@@ -1,0 +1,4 @@
+# Docerion header of image_loader_private.webidl.
+type: source
+title: Image loader private API definition
+summary: WebIDL definition of the imageLoaderPrivate API used by the ChromeOS Files app ImageLoader extension to fetch Drive, PDF, and ARC document thumbnails.

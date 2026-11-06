@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for toast tests
+summary: Grants test files in the toast directory permission to include the session manager types header.

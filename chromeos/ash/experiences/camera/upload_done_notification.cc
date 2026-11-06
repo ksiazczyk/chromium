@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload done notification implementation
+// summary: Creates a message center notification shown when a camera upload completes, with edit and delete buttons and a thumbnail image.
+// ---
+
 #include "chromeos/ash/experiences/camera/upload_done_notification.h"
 
 #include "base/files/file_path.h"

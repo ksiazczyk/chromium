@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard image model factory header
+// summary: Declares ClipboardImageModelFactoryImpl, which manages pending image model requests and an idle cleanup timer.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_IMAGE_MODEL_FACTORY_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_IMAGE_MODEL_FACTORY_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_access_permission.json.
+type: test
+title: File browser handler manifest with invalid access permission
+summary: Invalid manifest fixture whose file_access entry uses an unsupported permission value, used to test file browser handler validation.

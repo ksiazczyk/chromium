@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history controller delegate implementation
+// summary: Implements the browser-side delegate that pastes into the currently focused WebContents for clipboard history.
+// ---
+
 #include "chromeos/ash/experiences/clipboard/clipboard_history_controller_delegate_impl.h"
 
 #include <set>

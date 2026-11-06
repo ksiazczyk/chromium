@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the file_system_provider directory
+summary: Chromium directory metadata that mixes in the file manager common metadata for ownership and review routing.

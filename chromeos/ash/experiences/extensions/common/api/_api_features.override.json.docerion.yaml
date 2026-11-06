@@ -1,0 +1,4 @@
+# Docerion header of _api_features.override.json.
+type: config
+title: Downstream override hook for extension API features
+summary: Empty extension point that lets downstream forks add or modify entries in the ChromeOS extension API feature definitions.

@@ -1,0 +1,4 @@
+# Docerion header of api_sources.gni.
+type: config
+title: GN source list for ChromeOS extension API schemas
+summary: Lists the ChromeOS extension API schema files and sets the root namespace and include rules used by the API build.

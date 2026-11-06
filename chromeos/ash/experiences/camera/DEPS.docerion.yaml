@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the camera directory
+summary: Restricts allowed includes in the camera directory and grants extra include permissions to the save handler unit test.

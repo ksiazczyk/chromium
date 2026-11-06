@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleDetector class declaration
+// summary: Declares the ash::IdleDetector class, a user activity observer that starts a timer and runs a callback when the idle timeout is reached.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_IDLE_DETECTOR_IDLE_DETECTOR_H_
 #define CHROMEOS_ASH_EXPERIENCES_IDLE_DETECTOR_IDLE_DETECTOR_H_
 

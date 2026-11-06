@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ARC video accelerator
+summary: Defines the GN build targets, sources, and dependencies for the ARC video accelerator static library and its common and protected pixmap query source sets.

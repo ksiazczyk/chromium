@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for //chromeos/ash/experiences/clipboard
+summary: Defines the clipboard and test_support static library targets with their sources and dependencies.

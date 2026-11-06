@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated web app API allowlist implementation
+// summary: Implements the check that decides whether an isolated web app origin may use the ChromeOS SetShape API, based on the feature flag and special app permissions.
+// ---
+
 #include "chromeos/ash/experiences/isolated_web_app/isolated_web_app_api_allowlist.h"
 
 #include "chromeos/constants/chromeos_features.h"

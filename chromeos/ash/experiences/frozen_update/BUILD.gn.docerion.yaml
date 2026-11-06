@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the frozen update notification library
+summary: Defines the process_json action that generates GPU list code and builds the frozen_update static library together with its unit tests.

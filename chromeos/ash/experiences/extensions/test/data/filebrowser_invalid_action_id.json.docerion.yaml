@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_action_id.json.
+type: test
+title: File browser handler manifest missing action ID
+summary: Invalid manifest fixture with a file browser handler that lacks an id, used to test file browser handler validation.

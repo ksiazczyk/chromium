@@ -1,0 +1,4 @@
+# Docerion header of chromeos_extensions_resources.grd.
+type: config
+title: Grit resource list for ChromeOS extension API features
+summary: Grit resource definition that bundles the common extension API features JSON into a generated C header and a compressed pak data package.

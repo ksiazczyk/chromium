@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process ARC video accelerator factory declaration
+// summary: Declares OOPArcVideoAcceleratorFactory, which runs in its own process and wraps a single GpuArcVideoDecodeAccelerator for the mojo service factory.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_OOP_ARC_VIDEO_ACCELERATOR_FACTORY_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_OOP_ARC_VIDEO_ACCELERATOR_FACTORY_H_
 

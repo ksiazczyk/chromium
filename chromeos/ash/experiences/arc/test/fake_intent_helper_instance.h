@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake intent helper instance header
+// summary: Declares FakeIntentHelperInstance, a configurable test double for the IntentHelperInstance Mojo interface exposing recorded broadcasts, intents and verified links.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_INTENT_HELPER_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_INTENT_HELPER_INSTANCE_H_
 

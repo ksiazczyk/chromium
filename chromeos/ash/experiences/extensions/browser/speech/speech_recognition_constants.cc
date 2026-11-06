@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition type to API type conversion
+// summary: Implements SpeechRecognitionTypeToApiType, mapping the internal SpeechRecognitionType enum values to the extension API speech recognition type.
+// ---
+
 #include "chromeos/ash/experiences/extensions/browser/speech/speech_recognition_constants.h"
 
 #include "base/notreached.h"

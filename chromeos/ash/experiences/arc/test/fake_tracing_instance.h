@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tracing instance header
+// summary: Declares FakeTracingInstance, a fake mojom::TracingInstance that records start and stop calls, categories, and the tracing socket for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_TRACING_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_TRACING_INSTANCE_H_
 

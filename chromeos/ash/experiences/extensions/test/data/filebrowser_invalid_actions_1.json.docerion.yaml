@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_actions_1.json.
+type: test
+title: File browser handler manifest with non-list actions
+summary: Invalid manifest fixture where file_browser_handlers is an empty object instead of a list, used to test file browser handler validation.

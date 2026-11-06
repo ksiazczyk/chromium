@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancel camera upload dialog implementation
+// summary: Implements a system modal dialog for canceling a camera upload, with a checkbox to skip the dialog next time and callbacks for cancel and close actions.
+// ---
+
 #include "chromeos/ash/experiences/camera/cancel_camera_upload_dialog.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

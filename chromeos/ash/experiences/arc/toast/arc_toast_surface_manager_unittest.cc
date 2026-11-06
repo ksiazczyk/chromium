@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcToastSurfaceManager unit tests
+// summary: Verifies adding and removing toast surfaces and that toasts are hidden on lock screen and shown again after unlock.
+// ---
+
 #include "chromeos/ash/experiences/arc/toast/arc_toast_surface_manager.h"
 
 #include "ash/public/cpp/session/session_controller.h"

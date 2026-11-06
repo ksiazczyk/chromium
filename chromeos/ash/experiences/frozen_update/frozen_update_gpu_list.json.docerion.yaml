@@ -1,0 +1,4 @@
+# Docerion header of frozen_update_gpu_list.json.
+type: data
+title: GPU PCIID list for frozen update notifications
+summary: Lists vendor and device PCIIDs of GPUs on ChromeOS Flex devices that are targeted by frozen update notifications.

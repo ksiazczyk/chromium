@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOSExtensionsAPIProvider implementation
+// summary: Implements the ChromeOS extensions API provider, wiring up API, manifest, and permission features, generated schemas, permissions, and manifest handlers.
+// ---
+
 #include "chromeos/ash/experiences/extensions/common/chromeos_extensions_api_provider.h"
 
 #include <string_view>

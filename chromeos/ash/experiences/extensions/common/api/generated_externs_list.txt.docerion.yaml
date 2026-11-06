@@ -1,0 +1,4 @@
+# Docerion header of generated_externs_list.txt.
+type: config
+title: Generated externs API list
+summary: List of extension APIs whose externs are generated, pending migration of consumers to TypeScript definitions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Chrome feature flags instance implementation
+// summary: Implements the fake ChromeFeatureFlagsInstance that records feature flags notified to ARC for use in tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_chrome_feature_flags_instance.h"
 
 #include "base/functional/callback_helpers.h"

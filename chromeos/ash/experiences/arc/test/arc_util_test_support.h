@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC util test support header
+// summary: Declares test helpers for enabling ARC availability and no-Play-Store start flags and reading system memory info in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_ARC_UTIL_TEST_SUPPORT_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_ARC_UTIL_TEST_SUPPORT_H_
 

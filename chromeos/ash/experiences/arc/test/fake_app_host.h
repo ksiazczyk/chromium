@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AppHost for ARC tests
+// summary: Declares FakeAppHost, a no-op mojom::AppHost for ARC tests that cannot use the real AppHost implementation in //chrome.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_APP_HOST_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_APP_HOST_H_
 

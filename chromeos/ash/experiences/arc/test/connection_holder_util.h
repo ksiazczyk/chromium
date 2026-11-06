@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection holder test utilities
+// summary: Provides header-only helpers to wait for ARC connection holder readiness and instance closure in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_CONNECTION_HOLDER_UTIL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_CONNECTION_HOLDER_UTIL_H_
 

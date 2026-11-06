@@ -1,0 +1,4 @@
+# Docerion header of 4G.
+type: test
+title: 4G memory profile test data
+summary: Meminfo-style snapshot of a 4 GB device stored as ARC test data, likely used as a fixture for memory profiling tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake IIO sensor instance implementation
+// summary: Implements a fake IioSensorInstance Mojo interface that binds the sensor host remote and records tablet mode changes for ARC tests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_iio_sensor_instance.h"
 
 namespace arc {

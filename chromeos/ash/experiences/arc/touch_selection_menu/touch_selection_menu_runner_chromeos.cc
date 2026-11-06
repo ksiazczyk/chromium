@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchSelectionMenuRunnerChromeOS implementation
+// summary: Implements the ChromeOS menu runner that requests Smart Text Selection actions from ARC via the intent helper and opens the quick menu with the top action.
+// ---
+
 #include "chromeos/ash/experiences/arc/touch_selection_menu/touch_selection_menu_runner_chromeos.h"
 
 #include <utility>

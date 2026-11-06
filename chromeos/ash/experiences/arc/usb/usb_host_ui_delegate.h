@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcUsbHostUiDelegate interface
+// summary: Abstract interface for USB host UI actions such as requesting scan and access permissions, checking and granting access, and handling device removal and pending permission requests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_USB_USB_HOST_UI_DELEGATE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_USB_USB_HOST_UI_DELEGATE_H_
 

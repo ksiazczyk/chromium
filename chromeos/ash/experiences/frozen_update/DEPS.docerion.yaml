@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the frozen update directory
+summary: Restricts include dependencies for the frozen update directory, blocking //chrome and allowing specific ChromeOS and component paths.

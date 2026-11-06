@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake PipInstance implementation
+// summary: Implements a fake PipInstance Mojo interface that counts ClosePip calls and stores PiP suppression status.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_pip_instance.h"
 
 #include <utility>

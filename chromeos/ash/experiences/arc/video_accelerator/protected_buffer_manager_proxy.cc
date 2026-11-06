@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC protected buffer manager proxy implementation
+// summary: Implements GpuArcProtectedBufferManagerProxy, forwarding mojo IPC requests for protected shared memory regions and native pixmap handles to the ProtectedBufferManager.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/protected_buffer_manager_proxy.h"
 
 #include "base/memory/platform_shared_memory_region.h"

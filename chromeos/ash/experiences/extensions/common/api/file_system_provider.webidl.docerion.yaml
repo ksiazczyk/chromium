@@ -1,0 +1,4 @@
+# Docerion header of file_system_provider.webidl.
+type: source
+title: File system provider API definition
+summary: WebIDL definition of the fileSystemProvider API that lets extensions provide and mount file systems, covering errors, metadata, watchers, and events.

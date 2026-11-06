@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake AppInstance for ARC tests
+// summary: Declares FakeAppInstance, a fake mojom::AppInstance that tracks launch and icon requests and offers selectable icon response modes for tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_APP_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_APP_INSTANCE_H_
 

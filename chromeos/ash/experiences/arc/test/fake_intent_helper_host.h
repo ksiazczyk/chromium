@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake intent helper host header
+// summary: Declares a no-op fake IntentHelperHost for ARC tests that cannot use the real IntentHelperHost implementation in //components/arc.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_INTENT_HELPER_HOST_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_INTENT_HELPER_HOST_H_
 

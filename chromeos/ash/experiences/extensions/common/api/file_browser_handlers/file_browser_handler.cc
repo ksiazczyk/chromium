@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileBrowserHandler implementation
+// summary: Implements the FileBrowserHandler class and manifest parsing for the file_browser_handlers extension key, including file access permission flags and URL pattern matching.
+// ---
+
 #include "chromeos/ash/experiences/extensions/common/api/file_browser_handlers/file_browser_handler.h"
 
 #include <stddef.h>

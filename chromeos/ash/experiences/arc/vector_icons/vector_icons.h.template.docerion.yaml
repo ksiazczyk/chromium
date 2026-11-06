@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.h.template.
+type: source
+title: C++ header template for generated vector_icons.h
+summary: Template from which the generated vector_icons.h header declaring the ARC vector icons is produced.

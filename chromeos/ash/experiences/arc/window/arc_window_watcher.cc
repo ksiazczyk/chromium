@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcWindowWatcher implementation
+// summary: Implements ArcWindowWatcher, using per-window Tracker observers to detect ARC windows, maintain the ARC window count, and broadcast count and package-name display events.
+// ---
+
 #include "chromeos/ash/experiences/arc/window/arc_window_watcher.h"
 
 #include <algorithm>

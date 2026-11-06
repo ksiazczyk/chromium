@@ -1,0 +1,4 @@
+# Docerion header of input_method_private.json.
+type: source
+title: Input method private API definition
+summary: JSON API definition for the inputMethodPrivate API covering input method menu items, composition styles, input contexts, and language pack status.

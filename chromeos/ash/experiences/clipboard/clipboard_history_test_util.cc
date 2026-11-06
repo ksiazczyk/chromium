@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history test utilities implementation
+// summary: Implements waiter helpers that let tests synchronize with image model requests and clipboard history list updates.
+// ---
+
 #include "chromeos/ash/experiences/clipboard/clipboard_history_test_util.h"
 
 #include "base/functional/callback_helpers.h"

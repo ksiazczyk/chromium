@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake NearbyShareInstance header
+// summary: Declares a fake NearbyShareInstance Mojo interface that tracks Init calls for use in ARC tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_NEARBY_SHARE_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_NEARBY_SHARE_INSTANCE_H_
 

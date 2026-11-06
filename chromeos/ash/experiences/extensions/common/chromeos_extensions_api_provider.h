@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOSExtensionsAPIProvider class declaration
+// summary: Declares the ChromeOSExtensionsAPIProvider class that extends extensions::ExtensionsAPIProvider with ChromeOS-specific features and handlers.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_EXTENSIONS_COMMON_CHROMEOS_EXTENSIONS_API_PROVIDER_H_
 #define CHROMEOS_ASH_EXPERIENCES_EXTENSIONS_COMMON_CHROMEOS_EXTENSIONS_API_PROVIDER_H_
 

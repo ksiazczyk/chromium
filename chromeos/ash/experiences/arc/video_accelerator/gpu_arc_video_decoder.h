@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC video decoder declarations
+// summary: Declares GpuArcVideoDecoder, a mojom::VideoDecoder implementation that bridges ARC clients to the ChromeOS video decoder pipeline with request queuing.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_GPU_ARC_VIDEO_DECODER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_GPU_ARC_VIDEO_DECODER_H_
 

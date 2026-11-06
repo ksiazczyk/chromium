@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBackupSettingsInstance implementation
+// summary: Implements a fake BackupSettingsInstance that records SetBackupEnabled calls for test verification.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_backup_settings_instance.h"
 
 namespace arc {

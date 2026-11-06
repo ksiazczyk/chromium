@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC video decoder implementation
+// summary: Implements the GPU-process ARC video decoder that forwards mojo decode requests to a media::VideoDecoderPipeline and delivers decoded frames back to the client.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/gpu_arc_video_decoder.h"
 
 #include <utility>

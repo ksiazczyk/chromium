@@ -1,0 +1,4 @@
+# Docerion header of manifest_types.json.
+type: reference
+title: Manifest types API schema
+summary: JSON schema defining types for structured manifest entries, such as file system provider capabilities and sources, rather than a callable API.

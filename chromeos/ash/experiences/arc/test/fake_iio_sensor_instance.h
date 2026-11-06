@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake IIO sensor instance header
+// summary: Declares FakeIioSensorInstance, a test double for the IioSensorInstance Mojo interface that tracks tablet mode state.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_IIO_SENSOR_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_IIO_SENSOR_INSTANCE_H_
 

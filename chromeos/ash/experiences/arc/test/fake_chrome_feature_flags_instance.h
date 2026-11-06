@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Chrome feature flags instance for tests
+// summary: Declares a fake ChromeFeatureFlagsInstance Mojo interface that captures the feature flags passed to NotifyFeatureFlags in tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_CHROME_FEATURE_FLAGS_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_CHROME_FEATURE_FLAGS_INSTANCE_H_
 

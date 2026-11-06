@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS Ash Extensions
+summary: Introduces the directory holding Ash-specific Chrome extension implementations and API definitions, explaining the process-boundary-based subdirectory layout.
+---
+
 # ChromeOS Ash Extensions
 
 This directory contains ChromeOS Ash-specific Chrome Extensions implementations

@@ -1,0 +1,4 @@
+# Docerion header of _api_features.json.
+type: config
+title: ChromeOS extension API feature definitions
+summary: Declares which ChromeOS extension APIs are available, with contexts, dependencies, channels, session types, and extension allowlists.

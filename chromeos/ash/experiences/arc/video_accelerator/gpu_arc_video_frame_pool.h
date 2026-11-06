@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC video frame pool class declaration
+// summary: Declares GpuArcVideoFramePool, a mojo service managing a set of video frames for a remote client and acting as a delegate of VdaVideoFramePool.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_GPU_ARC_VIDEO_FRAME_POOL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_GPU_ARC_VIDEO_FRAME_POOL_H_
 

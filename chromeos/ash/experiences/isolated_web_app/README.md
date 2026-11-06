@@ -1,3 +1,13 @@
+---
+type: readme
+title: ChromeOS Mojo Services and Allowlisting for IWAs
+summary: Explains the directory's key components that enable Blink SetShape features, allowlist IWA origins, and shape windows for Isolated Web Apps.
+relations:
+  - references /chrome/browser/ash/set_shape/README.md
+  - references /components/webapps/isolated_web_apps/README.md
+  - references /third_party/blink/renderer/modules/set_shape/README.md
+---
+
 # ChromeOS Mojo Services and Allowlisting for IWAs (`chromeos/ash/experiences/isolated_web_app`)
 
 This directory hosts ChromeOS Ash-specific feature enablement, API allowlists,

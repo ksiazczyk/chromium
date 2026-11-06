@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ARC volume mounter
+summary: Defines include rules allowing the volume mounter directory to depend on ash and chromeos disks components.

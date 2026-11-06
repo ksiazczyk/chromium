@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider capabilities handler header
+// summary: Declares the FileSystemProviderCapabilities manifest data class and the handler that parses the file_system_provider_capabilities manifest key.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_EXTENSIONS_COMMON_API_FILE_SYSTEM_PROVIDER_CAPABILITIES_FILE_SYSTEM_PROVIDER_CAPABILITIES_HANDLER_H_
 #define CHROMEOS_ASH_EXPERIENCES_EXTENSIONS_COMMON_API_FILE_SYSTEM_PROVIDER_CAPABILITIES_FILE_SYSTEM_PROVIDER_CAPABILITIES_HANDLER_H_
 

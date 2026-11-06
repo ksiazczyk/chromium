@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ArcBridgeHost for ARC tests
+// summary: Declares FakeArcBridgeHost, a fake mojom::ArcBridgeHost that accepts instance-ready callbacks for every ARC Mojo instance.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_ARC_BRIDGE_HOST_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_ARC_BRIDGE_HOST_H_
 

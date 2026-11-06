@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard file copy utility declarations
+// summary: Declares ReadFileAndCopyToClipboard, which reads a local file and copies it to the system clipboard on a thread pool, reporting success or failure via callback.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_UTIL_H_
 #define CHROMEOS_ASH_EXPERIENCES_CLIPBOARD_CLIPBOARD_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tracing instance implementation
+// summary: Implements the fake ARC tracing Mojo instance that returns available trace categories and counts tracing start and stop requests.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_tracing_instance.h"
 
 namespace arc {

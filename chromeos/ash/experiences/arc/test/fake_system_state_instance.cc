@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ARC system state instance implementation
+// summary: Implements FakeSystemStateInstance, a fake Mojo SystemStateInstance that counts Init calls and binds the system state host remote.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_system_state_instance.h"
 
 namespace arc {

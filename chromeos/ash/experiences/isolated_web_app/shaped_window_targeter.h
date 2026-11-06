@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShapedWindowTargeter header
+// summary: Declares a WindowTargeter subclass whose hit-test shape is the union of given rectangles, so events outside the shape fall through to the next targeter.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ISOLATED_WEB_APP_SHAPED_WINDOW_TARGETER_H_
 #define CHROMEOS_ASH_EXPERIENCES_ISOLATED_WEB_APP_SHAPED_WINDOW_TARGETER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_missing_permission.json.
+type: test
+title: File browser handler missing permission test manifest
+summary: Test manifest fixture declaring a file browser handler without the required fileBrowserHandler permission, used to verify manifest validation.

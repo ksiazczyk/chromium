@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeArcSession test double
+// summary: Declares a fake ArcSession that creates a local connection and can emulate boot failures, suspended boots and upgrades.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_ARC_SESSION_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_ARC_SESSION_H_
 

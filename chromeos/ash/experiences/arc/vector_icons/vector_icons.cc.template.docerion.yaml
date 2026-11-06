@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.cc.template.
+type: source
+title: C++ template for generated vector_icons.cc
+summary: Template from which the generated vector_icons.cc implementation is produced; edits belong in the template.

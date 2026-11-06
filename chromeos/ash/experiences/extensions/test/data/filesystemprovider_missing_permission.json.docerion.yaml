@@ -1,0 +1,4 @@
+# Docerion header of filesystemprovider_missing_permission.json.
+type: test
+title: File system provider missing permission test manifest
+summary: Test manifest fixture declaring file system provider capabilities without the required fileSystemProvider permission.

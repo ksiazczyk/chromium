@@ -1,0 +1,4 @@
+# Docerion header of speech_recognition_private.idl.
+type: reference
+title: Speech recognition private API definition
+summary: IDL definition of the chrome.speechRecognitionPrivate API that lets internal ChromeOS extensions start and stop on-device or network speech recognition.

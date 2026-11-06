@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ChromeOS Ash extensions resources
+summary: Defines a grit target that compiles chromeos_extensions_resources.grd into header and pak outputs, plus a unit_tests group depending on the common subdirectory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-process ARC video accelerator factory implementation
+// summary: Implements the out-of-process video accelerator factory that creates decode accelerators, video decoders, encode accelerators and protected buffer allocators.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/oop_arc_video_accelerator_factory.h"
 
 #include <utility>

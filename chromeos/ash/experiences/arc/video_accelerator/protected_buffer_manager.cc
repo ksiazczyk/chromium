@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected buffer manager implementation
+// summary: Implements ProtectedBufferManager, which tracks protected shared memory and native pixmap buffers and maps dummy handles to the underlying protected buffers.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/protected_buffer_manager.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the isolated_web_app directory
+summary: DEPS file restricting allowed header includes for the directory, with extra rules for unittest files.

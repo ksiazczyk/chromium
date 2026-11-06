@@ -1,0 +1,4 @@
+# Docerion header of certificate_provider_internal.webidl.
+type: source
+title: Certificate provider internal API definition
+summary: WebIDL definition of the internal certificateProvider API that pairs extension event callbacks with request IDs for reporting signatures and certificates.

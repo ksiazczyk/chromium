@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake volume mounter instance implementation
+// summary: Implements the fake ARC volume mounter Mojo instance that tracks mount events, mount point info, and queued unmount callbacks.
+// ---
+
 #include "chromeos/ash/experiences/arc/test/fake_volume_mounter_instance.h"
 
 #include <map>

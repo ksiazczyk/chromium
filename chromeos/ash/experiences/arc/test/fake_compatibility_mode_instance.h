@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake compatibility mode instance for tests
+// summary: Declares a fake CompatibilityModeInstance Mojo interface with configurable optimized-for-ChromeOS packages for ARC tests.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_COMPATIBILITY_MODE_INSTANCE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_TEST_FAKE_COMPATIBILITY_MODE_INSTANCE_H_
 

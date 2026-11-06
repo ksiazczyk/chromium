@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC video service host header
+// summary: Declares GpuArcVideoServiceHost and GpuArcVideoKeyedService, which host video accelerator factories for ARC in the browser process on the UI thread.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_GPU_ARC_VIDEO_SERVICE_HOST_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_GPU_ARC_VIDEO_SERVICE_HOST_H_
 

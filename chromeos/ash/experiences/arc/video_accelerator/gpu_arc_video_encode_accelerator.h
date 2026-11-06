@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC video encode accelerator class declaration
+// summary: Declares GpuArcVideoEncodeAccelerator, which manages lifecycle and IPC message translation for media::VideoEncodeAccelerator in the ARC video pipeline.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_GPU_ARC_VIDEO_ENCODE_ACCELERATOR_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_GPU_ARC_VIDEO_ENCODE_ACCELERATOR_H_
 

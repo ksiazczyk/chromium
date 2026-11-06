@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_empty_access_permission_list.json.
+type: test
+title: File browser handler manifest with empty access permission list
+summary: Invalid manifest fixture with an empty file_access list, used to test file browser handler validation.

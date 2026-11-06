@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame plane struct
+// summary: Defines the VideoFramePlane struct holding a video frame plane's offset and stride in bytes.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_VIDEO_FRAME_PLANE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_VIDEO_ACCELERATOR_VIDEO_FRAME_PLANE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU ARC video encode accelerator implementation
+// summary: Implements the GPU-process ARC video encode accelerator, translating mojo IPC requests into media::VideoEncodeAccelerator calls and limiting concurrent encode clients.
+// ---
+
 #include "chromeos/ash/experiences/arc/video_accelerator/gpu_arc_video_encode_accelerator.h"
 
 #include <utility>

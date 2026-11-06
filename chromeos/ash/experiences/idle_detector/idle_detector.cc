@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdleDetector implementation
+// summary: Implements the ash::IdleDetector class, observing user activity and resetting a one-shot timer that fires the idle callback after the configured timeout.
+// ---
+
 #include "chromeos/ash/experiences/idle_detector/idle_detector.h"
 
 #include "base/location.h"

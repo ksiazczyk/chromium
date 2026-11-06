@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcUsbHostBridge class declaration
+// summary: Declares the ArcUsbHostBridge keyed service, which implements the mojom UsbHostHost interface and tracks USB devices, permissions, and connection state for ARC.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ARC_USB_USB_HOST_BRIDGE_H_
 #define CHROMEOS_ASH_EXPERIENCES_ARC_USB_USB_HOST_BRIDGE_H_
 

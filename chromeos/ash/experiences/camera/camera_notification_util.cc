@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera notification string utilities implementation
+// summary: Maps camera capture MIME types to localized string IDs for sign-in, upload done, and upload error notifications.
+// ---
+
 #include "chromeos/ash/experiences/camera/camera_notification_util.h"
 
 #include <string_view>

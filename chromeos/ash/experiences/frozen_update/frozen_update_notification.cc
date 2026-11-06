@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frozen update notification implementation
+// summary: Implements the frozen update notification, checking GPU PCIIDs, feature flags, reven branding, and management state before showing a warning to users.
+// ---
+
 #include "chromeos/ash/experiences/frozen_update/frozen_update_notification.h"
 
 #include "ash/constants/ash_features.h"

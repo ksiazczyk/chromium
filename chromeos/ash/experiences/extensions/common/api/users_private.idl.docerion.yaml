@@ -1,0 +1,4 @@
+# Docerion header of users_private.idl.
+type: reference
+title: Users private API definition
+summary: IDL definition of the chrome.usersPrivate API for managing ChromeOS users, including adding, removing, and querying users and login status.

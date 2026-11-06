@@ -1,0 +1,4 @@
+# Docerion header of filebrowser_invalid_file_filters_1.json.
+type: test
+title: File browser handler manifest with invalid file filters type
+summary: Invalid manifest fixture where file_filters is a string instead of a list, used to test file browser handler validation.

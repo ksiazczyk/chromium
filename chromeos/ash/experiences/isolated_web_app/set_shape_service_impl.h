@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetShapeServiceImpl class declaration
+// summary: Declares the document-scoped Mojo service implementing blink::mojom::SetShapeService with widget observation and window management permission handling.
+// ---
+
 #ifndef CHROMEOS_ASH_EXPERIENCES_ISOLATED_WEB_APP_SET_SHAPE_SERVICE_IMPL_H_
 #define CHROMEOS_ASH_EXPERIENCES_ISOLATED_WEB_APP_SET_SHAPE_SERVICE_IMPL_H_
 
