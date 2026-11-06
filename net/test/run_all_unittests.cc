@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net unit test main entry point
+// summary: Main entry point for the net unit test binary that checks build freshness and launches the NetTestSuite unit tests.
+// ---
+
 #include <iostream>
 
 #include "base/build_time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac client certificate store implementation
+// summary: Implements ClientCertStoreMac, using the macOS Security framework and Keychain to build certificate chains and select client certificates matching a server's request.
+// ---
+
 #include "net/ssl/client_cert_store_mac.h"
 
 #include <CommonCrypto/CommonDigest.h>

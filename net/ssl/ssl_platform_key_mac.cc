@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS SSL platform key implementation
+// summary: Implements TLS client signing with macOS SecKey references, mapping BoringSSL signature algorithms to SecKeyAlgorithm values with PSS fallback support.
+// ---
+
 #include "net/ssl/ssl_platform_key_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

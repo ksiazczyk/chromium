@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSSL SSL utility declarations
+// summary: Declares helpers for mapping OpenSSL errors to net errors, NetLog error logging, SSL version lookup, certificate chain conversion, and SSL credential configuration.
+// ---
+
 #ifndef NET_SSL_OPENSSL_SSL_UTIL_H_
 #define NET_SSL_OPENSSL_SSL_UTIL_H_
 

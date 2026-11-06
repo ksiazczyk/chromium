@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WithTaskEnvironment unit tests
+// summary: Unit tests verifying that the kNetTaskScheduler feature redirects net task runners and that scoped feature lists keep disabled features off.
+// ---
+
 #include "net/test/test_with_task_environment.h"
 
 #include "base/feature_list.h"

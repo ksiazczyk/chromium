@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestMockHTTPJob implementation
+// summary: Implements a mock HTTP job that serves response bodies from files on disk, reading headers from .mock-http-headers sidecar files.
+// ---
+
 #include "net/test/url_request/url_request_mock_http_job.h"
 
 #include <string_view>

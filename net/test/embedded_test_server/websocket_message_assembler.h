@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket message assembler header
+// summary: Declares WebSocketMessageAssembler, which tracks frame state and buffers partial payloads for multi-frame WebSocket messages.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_MESSAGE_ASSEMBLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_MESSAGE_ASSEMBLER_H_
 

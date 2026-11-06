@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate identity implementation
+// summary: Implements client certificate identities, self-owning private key acquisition, and preference sorting by validity, expiration, and chain length.
+// ---
+
 #include "net/ssl/client_cert_identity.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestMockDataJob header
+// summary: Declares URLRequestMockDataJob and static helpers to build mock URLs serving repeated data or triggering client certificate requests.
+// ---
+
 #ifndef NET_TEST_URL_REQUEST_URL_REQUEST_MOCK_DATA_JOB_H_
 #define NET_TEST_URL_REQUEST_URL_REQUEST_MOCK_DATA_JOB_H_
 

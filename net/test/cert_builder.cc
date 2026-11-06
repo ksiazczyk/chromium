@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertBuilder implementation for dynamic test certificates
+// summary: Implements CertBuilder, a helper that dynamically creates test X.509 certificates and chains, including SCT embedding and signature algorithm handling.
+// ---
+
 #include "net/test/cert_builder.h"
 
 #include <algorithm>

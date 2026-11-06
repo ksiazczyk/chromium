@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestNetLogManager for unit tests
+// summary: Manages a NetLog observer for unit tests, dumping NetLog events to log output or a file depending on the --log-net-log switch.
+// ---
+
 #ifndef NET_TEST_TEST_NET_LOG_MANAGER_H_
 #define NET_TEST_TEST_NET_LOG_MANAGER_H_
 

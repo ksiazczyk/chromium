@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP response implementations for the test server
+// summary: Implements response types such as BasicHttpResponse, RawHttpResponse, DelayedHttpResponse, HungResponse and HungAfterHeadersHttpResponse.
+// ---
+
 #include "net/test/embedded_test_server/http_response.h"
 
 #include <algorithm>

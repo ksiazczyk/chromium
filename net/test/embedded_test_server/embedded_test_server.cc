@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EmbeddedTestServer implementation
+// summary: Implements the EmbeddedTestServer, an in-process HTTP and HTTPS server for Chromium network tests, including SSL, OCSP and proxy support.
+// ---
+
 #include "net/test/embedded_test_server/embedded_test_server.h"
 
 #include <stdint.h>

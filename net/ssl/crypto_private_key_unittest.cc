@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crypto private key unit tests
+// summary: Parameterized tests verifying WrapCryptoPrivateKey works for RSA, ECDSA, Ed25519 and ML-DSA keys and rejects unsupported key types.
+// ---
+
 #include "net/ssl/crypto_private_key.h"
 
 #include <string>

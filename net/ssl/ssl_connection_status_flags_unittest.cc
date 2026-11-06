@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL connection status flags unit tests
+// summary: Unit tests verifying that setting the cipher suite or version in the connection status preserves the other field.
+// ---
+
 #include "net/ssl/ssl_connection_status_flags.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default SSL config service unit tests
+// summary: Unit tests verifying that SSLConfigServiceDefaults falls back to opportunistic ECH mode and forwards hostname queries to an injected EchModeGetter.
+// ---
+
 #include "net/ssl/ssl_config_service_defaults.h"
 
 #include <memory>

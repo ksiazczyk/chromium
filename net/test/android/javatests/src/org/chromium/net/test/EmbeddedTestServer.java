@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java client for the Android embedded test server
+// summary: Java client API for starting, controlling and querying the Android embedded test server used by network tests.
+// ---
+
 package org.chromium.net.test;
 
 import android.content.ComponentName;

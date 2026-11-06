@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL platform key utility declarations
+// summary: Declares shared SSL platform key helpers for serializing key operations on one thread, extracting certificate public keys, and adding PSS padding.
+// ---
+
 #ifndef NET_SSL_SSL_PLATFORM_KEY_UTIL_H_
 #define NET_SSL_SSL_PLATFORM_KEY_UTIL_H_
 

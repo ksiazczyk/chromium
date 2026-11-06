@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test static ECH mode getter header
+// summary: Declares TestStaticEchModeGetter, an immutable test-only EchModeGetter that returns a static ECH mode configured at construction.
+// ---
+
 #ifndef NET_SSL_TEST_STATIC_ECH_MODE_GETTER_H_
 #define NET_SSL_TEST_STATIC_ECH_MODE_GETTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SSL platform key implementation
+// summary: Implements TLS client signing with Android Java private keys, mapping BoringSSL signature algorithms to Java algorithm names with an RSA-PSS fallback path.
+// ---
+
 #include "net/ssl/ssl_platform_key_android.h"
 
 #include <strings.h>

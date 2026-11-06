@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket close immediately handler declaration
+// summary: Declares WebSocketCloseImmediatelyHandler, a test server WebSocket handler that cleanly closes the connection immediately after the handshake.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CLOSE_IMMEDIATELY_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CLOSE_IMMEDIATELY_HANDLER_H_
 

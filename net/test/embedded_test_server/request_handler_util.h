@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request handler utility declarations
+// summary: Declares request handler utilities for the embedded test server, including prefix matching, query parsing, and mock header support.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_REQUEST_HANDLER_UTIL_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_REQUEST_HANDLER_UTIL_H_
 

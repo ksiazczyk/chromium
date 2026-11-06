@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cipher suite names unit tests
+// summary: Unit tests verifying cipher suite name conversion, cipher string parsing, and obsolete SSL status computation.
+// ---
+
 #include "net/ssl/ssl_cipher_suite_names.h"
 
 #include "net/ssl/ssl_connection_status_flags.h"

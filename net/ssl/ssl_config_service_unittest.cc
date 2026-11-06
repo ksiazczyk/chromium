@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL config service unit tests
+// summary: Unit tests for SSLConfigService observer notifications, covering unchanged configs, forced notifications and updates to versions, ciphers and other settings.
+// ---
+
 #include "net/ssl/ssl_config_service.h"
 
 #include <vector>

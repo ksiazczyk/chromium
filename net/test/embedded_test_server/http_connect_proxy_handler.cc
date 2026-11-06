@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpConnectProxyHandler implementation
+// summary: Implements an HTTP CONNECT proxy for tests that establishes tunnels to localhost ports and relays data between sockets.
+// ---
+
 #include "net/test/embedded_test_server/http_connect_proxy_handler.h"
 
 #include <stdint.h>

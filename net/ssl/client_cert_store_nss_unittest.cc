@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSS client certificate store unit tests
+// summary: Unit tests for ClientCertStoreNSS covering certificate chain building via NSS and client certificate filtering behavior.
+// ---
+
 #include "net/ssl/client_cert_store_nss.h"
 
 #include <cert.h>

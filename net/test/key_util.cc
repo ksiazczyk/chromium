@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private key loading test utilities implementation
+// summary: Implements helpers that load PEM private key files into EVP_PKEY and SSLPrivateKey objects and serialize keys back to PEM for tests.
+// ---
+
 #include "net/test/key_util.h"
 
 #include <string>

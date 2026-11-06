@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for NSS SSL platform key
+// summary: Tests that NSS-backed client certificate private keys match expected signatures and algorithm preferences for RSA, ECDSA, and ML-DSA keys.
+// ---
+
 #include "net/ssl/ssl_platform_key_nss.h"
 
 #include <string>

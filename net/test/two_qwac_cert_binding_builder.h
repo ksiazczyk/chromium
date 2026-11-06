@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-QWAC certificate binding builder header
+// summary: Declares a test helper that builds valid 2-QWAC TLS certificate binding JWS tokens with overridable headers and bound certificates.
+// ---
+
 #ifndef NET_TEST_TWO_QWAC_CERT_BINDING_BUILDER_H_
 #define NET_TEST_TWO_QWAC_CERT_BINDING_BUILDER_H_
 

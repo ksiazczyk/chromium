@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP response interface and response types
+// summary: Declares the HttpResponse interface, the delegate that sends response bytes, and concrete responses like BasicHttpResponse and DelayedHttpResponse.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_HTTP_RESPONSE_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_HTTP_RESPONSE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket handler base class header
+// summary: Declares the WebSocketHandler base class whose subclasses define specific WebSocket server behavior for the test server.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSSL private key wrapper
+// summary: Wraps a BoringSSL EVP_PKEY into a threaded SSLPrivateKey for client-auth signing, supporting RSA, EC, Ed25519 and ML-DSA key types.
+// ---
+
 #include "net/ssl/openssl_private_key.h"
 
 #include "base/check.h"

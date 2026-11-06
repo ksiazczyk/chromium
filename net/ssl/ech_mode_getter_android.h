@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ECH mode getter class declaration
+// summary: Declares EchModeGetterAndroid, the Android implementation of EchModeGetter that determines the ECH mode for a hostname via the platform's network security policy.
+// ---
+
 #ifndef NET_SSL_ECH_MODE_GETTER_ANDROID_H_
 #define NET_SSL_ECH_MODE_GETTER_ANDROID_H_
 

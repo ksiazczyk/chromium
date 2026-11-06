@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLKeyLoggerManager implementation
+// summary: Implements SSLKeyLoggerManager, a global owner that forwards TLS key log lines to the registered SSLKeyLogger.
+// ---
+
 #include "net/ssl/ssl_key_logger.h"
 
 #include "base/check.h"

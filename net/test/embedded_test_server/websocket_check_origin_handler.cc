@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket origin echo handler implementation
+// summary: Implements a WebSocket handler that stores the request Origin header and echoes it back to the client after the handshake completes.
+// ---
+
 #include "net/test/embedded_test_server/websocket_check_origin_handler.h"
 
 #include "base/logging.h"

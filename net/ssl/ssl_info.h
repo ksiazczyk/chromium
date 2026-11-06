@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLInfo class declaration
+// summary: Declares the SSLInfo class holding SSL connection information such as the certificate, cert status, key exchange group, handshake type and early data acceptance.
+// ---
+
 #ifndef NET_SSL_SSL_INFO_H_
 #define NET_SSL_SSL_INFO_H_
 

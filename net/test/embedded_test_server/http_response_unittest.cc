@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for BasicHttpResponse generation
+// summary: Unit test checking that BasicHttpResponse produces the expected HTTP/1.1 response string with status line, headers and content.
+// ---
+
 #include "net/test/embedded_test_server/http_response.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

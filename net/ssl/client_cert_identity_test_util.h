@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake client certificate identity test utility interface
+// summary: Declares FakeClientCertIdentity and helpers for creating client certificate identities in tests.
+// ---
+
 #ifndef NET_SSL_CLIENT_CERT_IDENTITY_TEST_UTIL_H_
 #define NET_SSL_CLIENT_CERT_IDENTITY_TEST_UTIL_H_
 

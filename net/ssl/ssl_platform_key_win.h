@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows SSL platform key declarations
+// summary: Declares functions to create SSLPrivateKeys from Windows certificate contexts, CAPI providers, CNG keys, and unexportable signing keys.
+// ---
+
 #ifndef NET_SSL_SSL_PLATFORM_KEY_WIN_H_
 #define NET_SSL_SSL_PLATFORM_KEY_WIN_H_
 

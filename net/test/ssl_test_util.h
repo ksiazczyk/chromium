@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL test utility header
+// summary: Declares MakeTestEchKeys, which generates ECH keys and an ECHConfigList for TLS ECH tests.
+// ---
+
 #ifndef NET_TEST_SSL_TEST_UTIL_H_
 #define NET_TEST_SSL_TEST_UTIL_H_
 

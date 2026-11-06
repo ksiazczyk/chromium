@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket connection implementation for the embedded test server
+// summary: Implements WebSocketConnection, managing the WebSocket handshake, frame parsing, text and binary messaging, ping and pong frames, and closing handshakes for the test server.
+// ---
+
 #include "net/test/embedded_test_server/websocket_connection.h"
 
 #include <stdint.h>

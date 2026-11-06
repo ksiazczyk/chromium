@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL cipher suite names header
+// summary: Declares helpers to map TLS cipher suite numbers and versions to names, parse cipher suite strings, and compute obsolete SSL status.
+// ---
+
 #ifndef NET_SSL_SSL_CIPHER_SUITE_NAMES_H_
 #define NET_SSL_SSL_CIPHER_SUITE_NAMES_H_
 

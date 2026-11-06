@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket close observer handler declaration
+// summary: Declares WebSocketCloseObserverHandler, a test server WebSocket handler that observes closing handshakes and reports the close code for paired connections.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CLOSE_OBSERVER_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CLOSE_OBSERVER_HANDLER_H_
 

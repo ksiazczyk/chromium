@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetTaskEnvironment and WithTaskEnvironment test base classes
+// summary: Declares a specialized TaskEnvironment for net tests that configures NetTaskScheduler and provides safe scoped feature list management.
+// ---
+
 #ifndef NET_TEST_TEST_WITH_TASK_ENVIRONMENT_H_
 #define NET_TEST_TEST_WITH_TASK_ENVIRONMENT_H_
 

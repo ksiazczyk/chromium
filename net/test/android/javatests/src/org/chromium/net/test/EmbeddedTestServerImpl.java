@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java bindings for the native embedded test server
+// summary: Implements the AIDL binder interface and JNI bindings that run the native net::test_server::EmbeddedTestServer in a separate process.
+// ---
+
 package org.chromium.net.test;
 
 import android.content.Context;

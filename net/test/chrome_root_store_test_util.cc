@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Root Store signer set test utilities
+// summary: Implements helpers that add usable issuer and mirror signers to Chrome Root Store signer set protos for tests.
+// ---
+
 #include "net/test/chrome_root_store_test_util.h"
 
 #include "net/cert/root_store_proto_lite/signer_set.pb.h"

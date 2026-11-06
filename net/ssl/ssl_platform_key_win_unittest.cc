@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows SSL platform key
+// summary: Tests Windows CAPI and CNG backed SSL private keys across RSA, ECDSA, and ML-DSA key types, including key import and signature verification.
+// ---
+
 #include "net/ssl/ssl_platform_key_win.h"
 
 #include <array>

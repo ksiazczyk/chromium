@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target network checking socket factory and host resolver implementation
+// summary: Implements test socket factory, host resolver, and proxy service wrappers that verify each socket, DNS, and proxy request targets the expected network handle sequence.
+// ---
+
 #include "net/test/target_network_test_util.h"
 
 #include <memory>

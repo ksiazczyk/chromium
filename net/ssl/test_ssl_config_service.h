@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test SSL config service declarations
+// summary: Declares TestSSLConfigService, a test SSLConfigService that serves a fixed SSLContextConfig and can be updated and notified on demand.
+// ---
+
 #ifndef NET_SSL_TEST_SSL_CONFIG_SERVICE_H_
 #define NET_SSL_TEST_SSL_CONFIG_SERVICE_H_
 

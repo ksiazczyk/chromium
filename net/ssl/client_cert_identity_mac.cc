@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac client certificate identity implementation
+// summary: Implements ClientCertIdentityMac, which acquires the private key from a macOS SecIdentity for TLS client authentication.
+// ---
+
 #include "net/ssl/client_cert_identity_mac.h"
 
 #include <Security/SecIdentity.h>

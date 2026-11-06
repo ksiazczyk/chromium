@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Root Store signer set test utility header
+// summary: Declares helpers for adding issuer and mirror signers with usable defaults to Chrome Root Store signer set test protos.
+// ---
+
 #ifndef NET_TEST_CHROME_ROOT_STORE_TEST_UTIL_H_
 #define NET_TEST_CHROME_ROOT_STORE_TEST_UTIL_H_
 

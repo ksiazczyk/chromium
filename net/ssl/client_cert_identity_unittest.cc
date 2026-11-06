@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client cert identity sorting unit test
+// summary: Unit tests verifying that ClientCertIdentitySorter orders client certificates by validity and recency, placing expired and not-yet-valid certificates last.
+// ---
+
 #include "net/ssl/client_cert_identity.h"
 
 #include <memory>

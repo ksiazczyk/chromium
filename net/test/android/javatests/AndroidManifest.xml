@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: test
+title: Android manifest for the Chromium net test support app
+summary: Android manifest for the org.chromium.net.test.support package, declaring permissions and the exported EmbeddedTestServerService used by network tests.
+-->
+
 <!-- package name must be unique. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

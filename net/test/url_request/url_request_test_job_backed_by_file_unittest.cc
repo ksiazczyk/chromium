@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URLRequestTestJobBackedByFile unit tests
+// summary: Unit tests verifying the file-backed test job's open, seek, and read callbacks and its handling of HTTP range requests.
+// ---
+
 #include "net/test/url_request/url_request_test_job_backed_by_file.h"
 
 #include <memory>

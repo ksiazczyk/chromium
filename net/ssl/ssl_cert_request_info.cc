@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL certificate request info implementation
+// summary: Implements SSLCertRequestInfo, including Reset, which clears the host, proxy flag, certificate authorities and signature algorithms of a client certificate request.
+// ---
+
 #include "net/ssl/ssl_cert_request_info.h"
 
 #include "net/cert/x509_certificate.h"

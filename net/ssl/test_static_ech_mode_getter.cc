@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test static ECH mode getter implementation
+// summary: Implements a test-only EchModeGetter that returns a fixed ECH mode and optionally verifies the queried hostname against an expected value.
+// ---
+
 #include "net/ssl/test_static_ech_mode_getter.h"
 
 #include <optional>

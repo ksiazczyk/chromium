@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC simple test server header
+// summary: Declares the QuicSimpleTestServer API for starting, shutting down and configuring an in-process QUIC test server used by net tests.
+// ---
+
 #ifndef NET_TEST_QUIC_SIMPLE_TEST_SERVER_H_
 #define NET_TEST_QUIC_SIMPLE_TEST_SERVER_H_
 

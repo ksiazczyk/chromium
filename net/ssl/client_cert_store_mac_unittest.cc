@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac client certificate store unit tests
+// summary: Unit tests for ClientCertStoreMac covering filtering of client certificates against request criteria and ordering of preferred certificates.
+// ---
+
 #include "net/ssl/client_cert_store_mac.h"
 
 #include <memory>

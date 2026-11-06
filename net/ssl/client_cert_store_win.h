@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientCertStoreWin class declaration
+// summary: Declares the Windows client certificate store that selects client certificates from the current user's MY system cert store.
+// ---
+
 #ifndef NET_SSL_CLIENT_CERT_STORE_WIN_H_
 #define NET_SSL_CLIENT_CERT_STORE_WIN_H_
 

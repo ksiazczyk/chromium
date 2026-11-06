@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EventWaiter test helper
+// summary: Template helper that runs a RunLoop until NotifyEvent reports the expected event, for use in net unit tests.
+// ---
+
 #ifndef NET_TEST_EVENT_WAITER_H_
 #define NET_TEST_EVENT_WAITER_H_
 

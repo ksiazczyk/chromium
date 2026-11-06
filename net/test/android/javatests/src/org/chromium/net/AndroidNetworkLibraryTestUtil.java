@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AndroidNetworkLibraryTestUtil
+// summary: Test utility that simulates Android cleartext traffic policy settings and counts per-host and default security policy checks for tests of AndroidNetworkLibrary.
+// ---
+
 package org.chromium.net;
 
 import org.jni_zero.CalledByNativeForTesting;

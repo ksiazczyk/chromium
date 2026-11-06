@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Windows network cost manager implementation
+// summary: Implements a fake INetworkCostManager COM object that simulates Windows network connection costs, cost-changed events and API errors for tests.
+// ---
+
 #include "net/test/win/fake_network_cost_manager.h"
 
 #include <netlistmgr.h>

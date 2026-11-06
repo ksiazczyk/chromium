@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket connection interface for the embedded test server
+// summary: Declares WebSocketConnection, the ref-counted class tests use to send messages, raw bytes, pings, and close frames and to attach handlers on WebSocket connections.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CONNECTION_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CONNECTION_H_
 

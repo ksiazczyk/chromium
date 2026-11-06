@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit4 rule to start and stop the embedded test server
+// summary: JUnit4 rule that lazily starts the embedded test server for a test and shuts it down afterwards, with configurable port, HTTPS and certificate.
+// ---
+
 package org.chromium.net.test;
 
 import android.content.Context;

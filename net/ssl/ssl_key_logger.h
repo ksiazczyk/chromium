@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL key logger interface
+// summary: Declares the SSLKeyLogger interface for writing TLS key material for debugging and SSLKeyLoggerManager, which owns a single global logger instance.
+// ---
+
 #ifndef NET_SSL_SSL_KEY_LOGGER_H_
 #define NET_SSL_SSL_KEY_LOGGER_H_
 

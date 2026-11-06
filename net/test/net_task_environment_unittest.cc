@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetTaskEnvironment unit tests
+// summary: Parameterized tests checking NetTaskEnvironment task runner setup with the net task scheduler feature enabled and disabled.
+// ---
+
 #include "base/task/single_thread_task_runner.h"
 #include "base/test/scoped_feature_list.h"
 #include "net/base/features.h"

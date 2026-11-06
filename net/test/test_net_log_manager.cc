@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetLog capture manager for tests
+// summary: Implements a manager that captures NetLog events to a file or the error log based on the log-net-log command line switch for net unittests.
+// ---
+
 #include "net/test/test_net_log_manager.h"
 
 #include "base/command_line.h"

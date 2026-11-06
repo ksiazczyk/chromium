@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SSL platform key declarations
+// summary: Declares functions that wrap java.security.PrivateKey objects as SSLPrivateKey instances and convert signature algorithms to Java key types.
+// ---
+
 #ifndef NET_SSL_SSL_PLATFORM_KEY_ANDROID_H_
 #define NET_SSL_SSL_PLATFORM_KEY_ANDROID_H_
 

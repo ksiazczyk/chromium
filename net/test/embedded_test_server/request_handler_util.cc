@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request handler utilities for the embedded test server
+// summary: Implements content-type lookup by extension, prefix-matched request handling, query parsing, and file serving with mock header files.
+// ---
+
 #include "net/test/embedded_test_server/request_handler_util.h"
 
 #include <stdlib.h>

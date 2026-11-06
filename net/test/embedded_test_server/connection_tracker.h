@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConnectionTracker class header
+// summary: Declares ConnectionTracker, a test helper that tracks incoming connections accepted or read by the EmbeddedTestServer and lets tests wait on them.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_CONNECTION_TRACKER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_CONNECTION_TRACKER_H_
 

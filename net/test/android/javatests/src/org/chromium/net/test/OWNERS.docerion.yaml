@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for AIDL files in the Android net tests
+summary: OWNERS file delegating review of AIDL files to the IPC security owners with no parent approval.

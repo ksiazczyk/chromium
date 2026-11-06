@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL client session cache class
+// summary: Declares SSLClientSessionCache, an LRU cache for resumable TLS sessions with configurable size, expiration checks, and generation numbers.
+// ---
+
 #ifndef NET_SSL_SSL_CLIENT_SESSION_CACHE_H_
 #define NET_SSL_SSL_CLIENT_SESSION_CACHE_H_
 

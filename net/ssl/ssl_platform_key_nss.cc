@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSS SSL platform key implementation
+// summary: Implements SSLPrivateKey backed by NSS private keys, signing via PKCS#11 mechanisms including RSA-PSS and ML-DSA for TLS client authentication.
+// ---
+
 #include "net/ssl/ssl_platform_key_nss.h"
 
 #include <cert.h>

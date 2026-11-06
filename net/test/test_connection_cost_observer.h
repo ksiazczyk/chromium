@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connection cost observer test declarations
+// summary: Declares a test observer class that records connection cost change callbacks, counts calls, and blocks until the next cost change event.
+// ---
+
 #ifndef NET_TEST_TEST_CONNECTION_COST_OBSERVER_H_
 #define NET_TEST_TEST_CONNECTION_COST_OBSERVER_H_
 

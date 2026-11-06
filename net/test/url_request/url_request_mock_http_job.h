@@ -4,6 +4,12 @@
 //
 // A URLRequestJob class that pulls the net and http headers from disk.
 
+// ---docerion
+// type: test
+// title: URLRequestMockHTTPJob header
+// summary: Declares URLRequestMockHTTPJob, a file-backed job that responds like an HTTP server, with helpers to register handlers and build mock URLs.
+// ---
+
 #ifndef NET_TEST_URL_REQUEST_URL_REQUEST_MOCK_HTTP_JOB_H_
 #define NET_TEST_URL_REQUEST_URL_REQUEST_MOCK_HTTP_JOB_H_
 

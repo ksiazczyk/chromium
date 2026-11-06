@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenSSL SSL error mapping utilities
+// summary: Maps OpenSSL error codes to Chromium net error codes, posts net errors onto the OpenSSL stack, and logs OpenSSL errors to the NetLog.
+// ---
+
 #include "net/ssl/openssl_ssl_util.h"
 
 #include <errno.h>

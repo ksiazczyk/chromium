@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpenSSL private key unit tests
+// summary: Parametrized unit tests verifying that wrapped OpenSSL private keys sign correctly for RSA, ECDSA, Ed25519 and ML-DSA keys, and that unsupported key types are rejected.
+// ---
+
 #include "net/ssl/openssl_private_key.h"
 
 #include <string>

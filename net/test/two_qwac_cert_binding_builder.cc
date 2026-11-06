@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-QWAC certificate binding builder implementation
+// summary: Implements generation of 2-QWAC TLS certificate binding JWS headers and signatures with configurable signature and hash algorithms for tests.
+// ---
+
 #include "net/test/two_qwac_cert_binding_builder.h"
 
 #include "base/base64.h"

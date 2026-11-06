@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL platform key utility implementation
+// summary: 'Implements shared helpers: a background task runner for private key operations, client certificate public key extraction, and RSA-PSS padding.'
+// ---
+
 #include "net/ssl/ssl_platform_key_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate compression interface
+// summary: Declares ConfigureCertificateCompression to set up certificate compression callbacks on an SSL context.
+// ---
+
 #ifndef NET_SSL_CERT_COMPRESSION_H_
 #define NET_SSL_CERT_COMPRESSION_H_
 

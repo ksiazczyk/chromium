@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared client cert store test suite
+// summary: Templated test cases shared by all platform ClientCertStore implementations to verify client certificate filtering behavior.
+// ---
+
 #ifndef NET_SSL_CLIENT_CERT_STORE_UNITTEST_INL_H_
 #define NET_SSL_CLIENT_CERT_STORE_UNITTEST_INL_H_
 

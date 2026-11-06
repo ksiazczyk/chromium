@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows client certificate store implementation
+// summary: Implements the Windows client certificate store, filtering system certificates by key usage, validity period and private key presence.
+// ---
+
 #include "net/ssl/client_cert_store_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate compression implementation
+// summary: Configures Brotli certificate decompression as a certificate compression algorithm on an SSL context.
+// ---
+
 #include "net/ssl/cert_compression.h"
 
 #include <cstdint>

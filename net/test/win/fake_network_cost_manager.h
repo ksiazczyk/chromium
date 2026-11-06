@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake network cost manager test environment header
+// summary: Declares FakeNetworkCostManagerEnvironment and error status codes to simulate the Windows INetworkCostManager API in network cost change tests.
+// ---
+
 #ifndef NET_TEST_WIN_FAKE_NETWORK_COST_MANAGER_H_
 #define NET_TEST_WIN_FAKE_NETWORK_COST_MANAGER_H_
 

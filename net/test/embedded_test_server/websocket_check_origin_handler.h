@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSocket origin echo handler
+// summary: Declares a WebSocket handler that accepts all handshakes and sends the stored origin back to the client for origin policy testing.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CHECK_ORIGIN_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_CHECK_ORIGIN_HANDLER_H_
 

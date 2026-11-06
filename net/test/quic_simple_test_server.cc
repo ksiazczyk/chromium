@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QUIC simple test server implementation
+// summary: Implements an in-process QUIC test server that serves fixed hello and simple responses on test.example.com for net stack tests.
+// ---
+
 #include "net/test/quic_simple_test_server.h"
 
 #include <memory>

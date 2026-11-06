@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate matcher implementation
+// summary: Implements matching of client certificates against certificate requests by walking issuer chains from provided sources and filtering identities that match the requested certificate authorities.
+// ---
+
 #include "net/ssl/client_cert_matcher.h"
 
 #include <algorithm>

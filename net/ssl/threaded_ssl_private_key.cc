@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Threaded SSL private key implementation
+// summary: Implements ThreadedSSLPrivateKey, which offloads TLS signing operations to a background task runner and posts results back to the caller.
+// ---
+
 #include "net/ssl/threaded_ssl_private_key.h"
 
 #include <string>

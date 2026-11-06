@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate store interface
+// summary: Defines the abstract ClientCertStore interface used to query platform certificate stores for client certificates matching a server's client authentication request.
+// ---
+
 #ifndef NET_SSL_CLIENT_CERT_STORE_H_
 #define NET_SSL_CLIENT_CERT_STORE_H_
 

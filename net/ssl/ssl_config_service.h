@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config service declarations
+// summary: Declares SSLNamedGroupInfo, TimeBoundTrustAnchorIDs, SSLContextConfig and the SSLConfigService base class that notifies observers of SSL context config changes.
+// ---
+
 #ifndef NET_SSL_SSL_CONFIG_SERVICE_H_
 #define NET_SSL_SSL_CONFIG_SERVICE_H_
 

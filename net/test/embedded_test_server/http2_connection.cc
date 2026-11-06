@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Http2Connection implementation
+// summary: Implements HTTP/2 connection handling for the test server, submitting responses and data frames via the quiche adapter.
+// ---
+
 #include "net/test/embedded_test_server/http2_connection.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertBuilder test certificate helper header
+// summary: Declares the CertBuilder class for building test certificates from templates, files, subject public keys, or static certs, with SCT configuration support.
+// ---
+
 #ifndef NET_TEST_CERT_BUILDER_H_
 #define NET_TEST_CERT_BUILDER_H_
 

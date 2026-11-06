@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSocket split packet close handler header
+// summary: Declares WebSocketSplitPacketCloseHandler, which answers client close handshakes with a close frame sent in two parts.
+// ---
+
 #ifndef NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_SPLIT_PACKET_CLOSE_HANDLER_H_
 #define NET_TEST_EMBEDDED_TEST_SERVER_WEBSOCKET_SPLIT_PACKET_CLOSE_HANDLER_H_
 

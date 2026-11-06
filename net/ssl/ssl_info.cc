@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSLInfo implementation
+// summary: Implements the constructors, assignment operators and destructor for the SSLInfo class that carries SSL connection details.
+// ---
+
 #include "net/ssl/ssl_info.h"
 
 #include "net/cert/x509_certificate.h"

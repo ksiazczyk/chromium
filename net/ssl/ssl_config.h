@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL config structure
+// summary: Declares SSLConfig, a collection of TLS settings such as protocol version overrides, early data, ECDHE requirement, and certificate error handling.
+// ---
+
 #ifndef NET_SSL_SSL_CONFIG_H_
 #define NET_SSL_SSL_CONFIG_H_
 

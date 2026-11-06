@@ -1,0 +1,4 @@
+# Docerion header of IEmbeddedTestServerImpl.aidl.
+type: test
+title: AIDL interface for the embedded test server binder API
+summary: AIDL interface describing the binder API of the embedded test server, including start, URL, header, request count and shutdown methods.

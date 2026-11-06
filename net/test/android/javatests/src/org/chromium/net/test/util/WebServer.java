@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-process HTTP test server
+// summary: Simple HTTP server running in a thread of the current process, supporting SSL for loopback testing.
+// ---
+
 package org.chromium.net.test.util;
 
 import android.util.Base64;

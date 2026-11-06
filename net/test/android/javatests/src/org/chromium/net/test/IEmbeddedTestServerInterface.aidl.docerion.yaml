@@ -1,0 +1,4 @@
+# Docerion header of IEmbeddedTestServerInterface.aidl.
+type: test
+title: AIDL declarations of the embedded test server interfaces
+summary: AIDL file that declares the embedded test server and connection listener interfaces for cross-process marshalling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test DNS-over-HTTPS server declarations
+// summary: Declares a test DoH server class letting tests configure DNS records, hostname, failure mode, lifecycle, and URI templates for queries.
+// ---
+
 #ifndef NET_TEST_TEST_DOH_SERVER_H_
 #define NET_TEST_TEST_DOH_SERVER_H_
 

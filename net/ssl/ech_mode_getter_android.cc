@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ECH mode getter implementation
+// summary: Implements the Android-specific EchModeGetter that queries the Android network library for the ECH mode of a given hostname.
+// ---
+
 #include "net/ssl/ech_mode_getter_android.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Basic auth handler registration for the embedded test server
+// summary: Implements registration of Basic and proxy Basic authentication handlers plus URL helpers with embedded credentials for the test server.
+// ---
+
 #include "net/test/embedded_test_server/register_basic_auth_handler.h"
 
 #include <ios>

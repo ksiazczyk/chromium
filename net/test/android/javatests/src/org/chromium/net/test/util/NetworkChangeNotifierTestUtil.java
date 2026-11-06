@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkChangeNotifier test utilities
+// summary: Test helper that flushes the UI thread task queue when testing NetworkChangeNotifier.
+// ---
+
 package org.chromium.net.test.util;
 
 import org.chromium.base.ThreadUtils;
