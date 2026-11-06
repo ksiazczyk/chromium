@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composebox query controller unit tests
+// summary: Unit tests for the ComposeboxQueryController covering request construction, response handling, error paths, and metrics.
+// ---
+
 #include "components/contextual_search/internal/composebox_query_controller.h"
 
 #include <memory>

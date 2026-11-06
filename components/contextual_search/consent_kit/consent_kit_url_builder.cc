@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentKit URL builder implementation
+// summary: Builds ConsentKit consent UI URLs for desktop iframe and mobile WebView endpoints, encoding JSPB config parameters into the request.
+// ---
+
 #include "components/contextual_search/consent_kit/consent_kit_url_builder.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Continuous Search Owners
+summary: Lists the code owners for the component, including owners shared with the history_clusters component.

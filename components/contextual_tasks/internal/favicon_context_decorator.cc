@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon context decorator implementation
+// summary: Implements a decorator that fetches favicons for URL attachments via the favicon service and attaches them to the context.
+// ---
+
 #include "components/contextual_tasks/internal/favicon_context_decorator.h"
 
 #include "base/barrier_closure.h"

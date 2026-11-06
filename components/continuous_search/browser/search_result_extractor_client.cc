@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result extractor client implementation
+// summary: Implements the browser-side client that requests search result extraction from the renderer over Mojo and validates returned URLs and result titles.
+// ---
+
 #include "components/continuous_search/browser/search_result_extractor_client.h"
 
 #include "base/strings/utf_string_conversions.h"

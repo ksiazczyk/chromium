@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake variations client header
+// summary: Declares a fake VariationsClient providing stub variations headers for tests.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_FAKE_VARIATIONS_CLIENT_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_FAKE_VARIATIONS_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FpopServiceImpl class declaration
+// summary: Declares FpopServiceImpl, which implements GetFacs, UpdateActivityControlsSettings and ShouldShowMobileConsentFlow with OAuth token fetching and network request handling.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_FOOTPRINTS_INTERNAL_FPOP_SERVICE_IMPL_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_FOOTPRINTS_INTERNAL_FPOP_SERVICE_IMPL_H_
 

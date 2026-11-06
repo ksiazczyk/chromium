@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for contextual tasks internal
+summary: Defines include rules granting this directory access to prefs, sync, history, omnibox, signin, and lens dependencies.

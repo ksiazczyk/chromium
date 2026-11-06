@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Continuous Search Include Rules
+summary: Specifies allowed include rules for content test support, Mojo C++ bindings and Blink public headers in the component.

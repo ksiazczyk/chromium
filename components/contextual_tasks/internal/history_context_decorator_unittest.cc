@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History context decorator unit tests
+// summary: Unit tests for HistoryContextDecorator using a mocked history service to verify title decoration of URL attachments and null-service handling.
+// ---
+
 #include "components/contextual_tasks/internal/history_context_decorator.h"
 
 #include "base/test/task_environment.h"

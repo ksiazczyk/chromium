@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context upload observer bridge header
+// summary: Declares an Objective-C protocol and a C++ bridge class that forwards context upload status changes from the contextual search controller to an Objective-C observer.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_IOS_COMPOSEBOX_CONTEXT_UPLOAD_OBSERVER_BRIDGE_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_IOS_COMPOSEBOX_CONTEXT_UPLOAD_OBSERVER_BRIDGE_H_
 

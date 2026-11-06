@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for country_codes
+summary: Lists jdonnelly@chromium.org as the owner responsible for reviewing changes in this directory.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the browser folder
+summary: Specifies the allowed include rules for the continuous search browser directory, permitting Google core common and content browser headers.

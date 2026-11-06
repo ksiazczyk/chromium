@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History context decorator header
+// summary: Declares HistoryContextDecorator, a ContextDecorator that enriches URL attachments with page titles from the history service.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_HISTORY_CONTEXT_DECORATOR_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_HISTORY_CONTEXT_DECORATOR_H_
 

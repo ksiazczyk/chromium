@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Uploaded context decorator unit tests
+// summary: Unit tests for the uploaded context decorator, covering construction with null decoration params and decoration of contexts using uploaded contextual search tokens with a mock controller.
+// ---
+
 #include "components/contextual_tasks/internal/uploaded_context_decorator.h"
 
 #include "base/functional/callback_helpers.h"

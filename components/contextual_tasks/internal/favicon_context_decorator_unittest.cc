@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon context decorator unit tests
+// summary: Unit tests for FaviconContextDecorator verifying favicon attachment decoration via a mocked favicon service, including missing favicons and a null service.
+// ---
+
 #include "components/contextual_tasks/internal/favicon_context_decorator.h"
 
 #include "base/test/task_environment.h"

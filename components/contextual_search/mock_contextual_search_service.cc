@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock contextual search service implementation
+// summary: Implements the mock ContextualSearchService constructor and destructor used as a test double.
+// ---
+
 #include "components/contextual_search/mock_contextual_search_service.h"
 
 #include "base/functional/callback_helpers.h"

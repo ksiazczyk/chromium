@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualTaskEntity proto message definition
+// summary: Defines the ContextualTaskEntity protobuf message holding syncable ContextualTaskSpecifics plus local-only UI state such as side panel or tab.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

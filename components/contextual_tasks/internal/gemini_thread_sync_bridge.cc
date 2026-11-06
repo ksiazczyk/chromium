@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini thread sync bridge implementation
+// summary: Implements the DataTypeSyncBridge for the Gemini thread data type, persisting GeminiThreadSpecifics in a data type store and notifying observers of remote changes.
+// ---
+
 #include "components/contextual_tasks/internal/gemini_thread_sync_bridge.h"
 
 #include "base/functional/callback_helpers.h"

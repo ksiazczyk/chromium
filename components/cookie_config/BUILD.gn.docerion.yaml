@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the cookie_config component
+summary: Defines the cookie_config GN component, listing its sources and its build dependencies on base, os_crypt and net extras.

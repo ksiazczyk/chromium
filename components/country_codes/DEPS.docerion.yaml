@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for country_codes
+summary: Declares the allowed include rules for the directory, permitting components/pref_registry and components/prefs.

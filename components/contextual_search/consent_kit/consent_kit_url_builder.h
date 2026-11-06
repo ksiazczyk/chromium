@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsentKit URL builder header
+// summary: Declares a builder class that assembles ConsentKit consent UI URLs from session, locale, flow, product and presentation parameters.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_CONSENT_KIT_CONSENT_KIT_URL_BUILDER_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_CONSENT_KIT_CONSENT_KIT_URL_BUILDER_H_
 

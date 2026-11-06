@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input state model implementation
+// summary: Implements the model that manages composebox input state, including allowed tools, models, and input type rules from the searchbox config.
+// ---
+
 #include "components/contextual_search/input_state_model.h"
 
 #include <algorithm>

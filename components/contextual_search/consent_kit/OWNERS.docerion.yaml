@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Consent kit owners
+summary: OWNERS file that delegates review ownership to the drive picker host OWNERS file.

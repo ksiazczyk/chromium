@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search result extractor render view tests
+// summary: Render view tests that load HTML pages and verify the search result extractor returns the expected status and category results.
+// ---
+
 #include <string_view>
 #include <utility>
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual search internal build targets
+summary: Defines the internal, test_support, and unit_tests source sets with their sources and dependencies for the composebox query controller.

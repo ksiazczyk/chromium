@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Submitted context decorator implementation
+// summary: Implements SubmittedContextDecorator, returning the active submitted context tokens from a contextual search session handle for decoration.
+// ---
+
 #include "components/contextual_tasks/internal/submitted_context_decorator.h"
 
 #include "components/contextual_search/contextual_search_session_handle.h"

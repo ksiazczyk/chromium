@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search service header
+// summary: Declares the ContextualSearchService keyed service that creates and looks up contextual search sessions, hands out session handles, and checks whether context sharing is enabled.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_SERVICE_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_SERVICE_H_
 

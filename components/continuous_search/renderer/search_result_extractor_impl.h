@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result extractor class declaration
+// summary: Declares SearchResultExtractorImpl, a RenderFrameObserver implementing the mojom SearchResultExtractor interface for a render frame.
+// ---
+
 #ifndef COMPONENTS_CONTINUOUS_SEARCH_RENDERER_SEARCH_RESULT_EXTRACTOR_IMPL_H_
 #define COMPONENTS_CONTINUOUS_SEARCH_RENDERER_SEARCH_RESULT_EXTRACTOR_IMPL_H_
 

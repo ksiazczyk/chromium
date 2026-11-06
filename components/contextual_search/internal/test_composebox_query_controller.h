@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test composebox query controller declarations
+// summary: Declares fakes and a test subclass of ComposeboxQueryController for configuring fake network responses in tests.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_TEST_COMPOSEBOX_QUERY_CONTROLLER_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_INTERNAL_TEST_COMPOSEBOX_QUERY_CONTROLLER_H_
 

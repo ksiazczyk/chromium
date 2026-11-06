@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConsentKit URL builder unit tests
+// summary: Unit tests verifying generated ConsentKit URLs, query parameters and the structure of the encoded JSPB config payload.
+// ---
+
 #include "components/contextual_search/consent_kit/consent_kit_url_builder.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uploaded context decorator class declaration
+// summary: Declares the UploadedContextDecorator, a token-based decorator that decorates contexts with tokens in the uploaded state of a contextual search session.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_UPLOADED_CONTEXT_DECORATOR_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_UPLOADED_CONTEXT_DECORATOR_H_
 

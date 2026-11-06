@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiThreadEntity proto message definition
+// summary: Defines the AiThreadEntity protobuf message holding syncable AiThreadSpecifics thread data plus local-only data such as the last turn id.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

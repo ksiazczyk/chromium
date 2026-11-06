@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CountryId
+// summary: Tests CountryId validity for uppercase and lowercase codes, rejection of invalid codes, and serialization and deserialization round trips.
+// ---
+
 #include "components/country_codes/country_codes.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockContextualSearchSessionHandle header
+// summary: Declares a gmock mock of ContextualSearchSessionHandle with stubbed methods for context upload flows, suggest inputs, metrics, controllers, and search URL creation.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_MOCK_CONTEXTUAL_SEARCH_SESSION_HANDLE_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_MOCK_CONTEXTUAL_SEARCH_SESSION_HANDLE_H_
 

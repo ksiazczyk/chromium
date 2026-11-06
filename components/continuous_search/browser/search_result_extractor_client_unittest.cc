@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search result extractor client unit tests
+// summary: Unit tests for SearchResultExtractorClient using a fake extractor to verify success responses, URL validation, and status handling of search result extraction.
+// ---
+
 #include "components/continuous_search/browser/search_result_extractor_client.h"
 
 #include <utility>

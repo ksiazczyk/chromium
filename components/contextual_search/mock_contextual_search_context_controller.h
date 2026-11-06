@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock contextual search context controller header
+// summary: Declares a gmock mock of ContextualSearchContextController stubbing file uploads and context requests for tests.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_MOCK_CONTEXTUAL_SEARCH_CONTEXT_CONTROLLER_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_MOCK_CONTEXTUAL_SEARCH_CONTEXT_CONTROLLER_H_
 

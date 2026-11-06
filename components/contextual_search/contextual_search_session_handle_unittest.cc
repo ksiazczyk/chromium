@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual search session handle unit tests
+// summary: Extensive unit tests for ContextualSearchSessionHandle covering file and tab context upload flows, feature flags, tab validation, and metrics with mock controllers.
+// ---
+
 #include "components/contextual_search/contextual_search_session_handle.h"
 
 #include <memory>

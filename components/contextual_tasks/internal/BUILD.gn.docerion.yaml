@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for contextual tasks internal
+summary: GN build file defining the internal source set and unit test target with their sources and dependencies for the contextual tasks component.

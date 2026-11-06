@@ -1,0 +1,4 @@
+# Docerion header of composebox_context_upload_observer_bridge.mm.
+type: source
+title: Context upload observer bridge implementation
+summary: Implements the bridge that observes upload status changes in the C++ controller and forwards them to the registered Objective-C observer.

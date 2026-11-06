@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent result parser header
+// summary: Declares functions that verify consent flow results and Workspace search consent for the consent kit.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_CONSENT_KIT_CONSENT_KIT_RESULT_PARSER_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_CONSENT_KIT_CONSENT_KIT_RESULT_PARSER_H_
 

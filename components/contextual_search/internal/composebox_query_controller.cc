@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox query controller implementation
+// summary: Implements the controller that builds and sends Lens overlay server requests for composebox queries, including file uploads, interactions, and cluster info fetches.
+// ---
+
 #include "components/contextual_search/internal/composebox_query_controller.h"
 
 #include <limits>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for consent kit proto library
+summary: Defines a GN proto_library target that compiles the iframe_interface and privacy_primitive_config protobuf sources for the consent kit.

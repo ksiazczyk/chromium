@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search session handle implementation
+// summary: Implements session handle logic for managing tab and file context, upload flows, request IDs, and interaction with the context controller, metrics recorder, and prefs.
+// ---
+
 #include "components/contextual_search/contextual_search_session_handle.h"
 
 #include <algorithm>

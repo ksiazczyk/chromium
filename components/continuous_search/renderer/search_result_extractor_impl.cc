@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result extractor implementation
+// summary: Implements extraction of organic search results and related searches from the rendered document DOM and returns them via the SearchResultExtractor Mojo interface.
+// ---
+
 #include "components/continuous_search/renderer/search_result_extractor_impl.h"
 
 #include <utility>

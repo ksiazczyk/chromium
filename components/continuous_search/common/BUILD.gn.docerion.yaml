@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for continuous search common component
+summary: GN build rules defining the continuous search common component, a generated Java enum for Android, and its unit test target.

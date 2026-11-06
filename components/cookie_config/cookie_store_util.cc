@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookie store crypto delegate implementation
+// summary: Implements a CookieCryptoDelegate that uses OSCryptAsync to encrypt and decrypt cookies before they are written to persistent storage on desktop platforms.
+// ---
+
 #include "components/cookie_config/cookie_store_util.h"
 
 #include "base/functional/callback.h"

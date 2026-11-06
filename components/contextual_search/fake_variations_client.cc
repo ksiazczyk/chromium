@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake variations client implementation
+// summary: Implements a fake variations client that returns fixed variations headers for use in tests.
+// ---
+
 #include "components/contextual_search/fake_variations_client.h"
 
 namespace contextual_search {

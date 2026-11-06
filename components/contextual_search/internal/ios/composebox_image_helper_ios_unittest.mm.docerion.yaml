@@ -1,0 +1,4 @@
+# Docerion header of composebox_image_helper_ios_unittest.mm.
+type: test
+title: Unit tests for the iOS composebox image helper
+summary: Platform tests verifying that images are downscaled and encoded with correct metadata dimensions and decodable JPEG bytes.

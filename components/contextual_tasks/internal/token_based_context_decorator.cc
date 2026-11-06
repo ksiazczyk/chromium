@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token-based context decorator implementation
+// summary: Implements the token-based context decorator that turns contextual search file info into URL attachments on a contextual task context, deduplicating by URL, title and tab session ID.
+// ---
+
 #include "components/contextual_tasks/internal/token_based_context_decorator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History context decorator implementation
+// summary: Implements HistoryContextDecorator, which queries the history service for titles of URL attachments and enriches the contextual task context with the results.
+// ---
+
 #include "components/contextual_tasks/internal/history_context_decorator.h"
 
 #include "base/barrier_closure.h"

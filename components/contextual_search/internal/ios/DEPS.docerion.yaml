@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the iOS contextual search folder
+summary: Grants include access to the contextual_search internal and top-level component directories for files in this folder.

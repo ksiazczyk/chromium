@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'InputState: immutable UI state snapshot for contextual search'
+// summary: Java-side immutable snapshot of allowed, disabled and active tools, models and inputs, received from native code to drive the contextual search UI data-driven.
+// ---
+
 package org.chromium.components.contextual_search;
 
 import com.google.protobuf.InvalidProtocolBufferException;

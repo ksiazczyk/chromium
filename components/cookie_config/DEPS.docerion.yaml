@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cookie_config
+summary: Grants this directory include access to components/os_crypt/async and net/extras/sqlite.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search metrics recorder implementation
+// summary: Implements histogram and user action recording for contextual search sessions, queries, and file uploads.
+// ---
+
 #include "components/contextual_search/contextual_search_metrics_recorder.h"
 
 #include "base/metrics/histogram_functions.h"

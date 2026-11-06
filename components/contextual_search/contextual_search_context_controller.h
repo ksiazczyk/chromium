@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search context controller header
+// summary: Declares the controller that manages contextual search query context, search URL construction, and context upload status observers.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_CONTEXT_CONTROLLER_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_CONTEXT_CONTROLLER_H_
 

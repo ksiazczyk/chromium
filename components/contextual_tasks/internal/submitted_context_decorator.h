@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Submitted context decorator header
+// summary: Declares SubmittedContextDecorator, a TokenBasedContextDecorator that decorates tokens for submitted contextual search contexts.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_SUBMITTED_CONTEXT_DECORATOR_H_
 #define COMPONENTS_CONTEXTUAL_TASKS_INTERNAL_SUBMITTED_CONTEXT_DECORATOR_H_
 

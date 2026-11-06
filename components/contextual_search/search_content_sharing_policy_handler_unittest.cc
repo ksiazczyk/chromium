@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchContentSharingPolicyHandler unit tests
+// summary: Unit tests verifying that the policy handler writes integer or boolean preference values correctly and sets nothing when the policy is unset.
+// ---
+
 #include "components/contextual_search/search_content_sharing_policy_handler.h"
 
 #include "base/values.h"

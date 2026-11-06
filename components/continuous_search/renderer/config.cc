@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continuous search renderer config implementation
+// summary: Implements the process-wide Config singleton with GetConfig access and a SetConfigForTesting override for the continuous search renderer.
+// ---
+
 #include "components/continuous_search/renderer/config.h"
 
 #include "base/no_destructor.h"

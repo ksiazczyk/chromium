@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for country_codes
+summary: Maps the directory to the Internals>Core Monorail component and Buganizer public component ID 1456128.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Search preference names
+// summary: Defines preference name constants and the SearchContentSharingSettingsValue enum for the search content sharing setting and the cached Drive consent state.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_PREF_NAMES_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_PREF_NAMES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of composebox_query_controller_ios.mm.
+type: source
+title: iOS-specific query controller implementation
+summary: Implements image upload request creation by decoding data into a UIImage and offloading downscaling and encoding to a background thread.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS per-file rule for sync files
+summary: Grants review ownership of sync-related files in this directory to the components/sync OWNERS via a per-file rule.

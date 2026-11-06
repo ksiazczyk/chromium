@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input state model unit tests
+// summary: Unit tests for InputStateModel covering allowed tools, input types, Drive rules, and config-driven state updates.
+// ---
+
 #include "components/contextual_search/input_state_model.h"
 
 #include <memory>

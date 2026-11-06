@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback title context decorator implementation
+// summary: Implements a decorator that derives display titles from URLs for attachments lacking a title, handling RTL text and elision.
+// ---
+
 #include "components/contextual_tasks/internal/fallback_title_context_decorator.h"
 
 #include <string>

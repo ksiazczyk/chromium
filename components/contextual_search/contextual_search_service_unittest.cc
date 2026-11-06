@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual search service unit tests
+// summary: Unit tests for ContextualSearchService covering session creation and lookup, pref registration, and ClientToAim request capture using mock controllers and fake clients.
+// ---
+
 #include "components/contextual_search/contextual_search_service.h"
 
 #include "base/test/scoped_feature_list.h"

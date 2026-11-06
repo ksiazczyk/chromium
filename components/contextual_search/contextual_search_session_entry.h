@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search session entry header
+// summary: Declares ContextualSearchSessionEntry, a session map entry holding the context controller, its metrics recorder, a reference count, and an upload status observer.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_SESSION_ENTRY_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_SESSION_ENTRY_H_
 

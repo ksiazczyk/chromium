@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchContentSharingPolicyHandler header
+// summary: Declares the policy handler class that maps the SearchContentSharing policy to contextual search preferences, with an optional boolean conversion flag.
+// ---
+
 #ifndef COMPONENTS_CONTEXTUAL_SEARCH_SEARCH_CONTENT_SHARING_POLICY_HANDLER_H_
 #define COMPONENTS_CONTEXTUAL_SEARCH_SEARCH_CONTENT_SHARING_POLICY_HANDLER_H_
 
