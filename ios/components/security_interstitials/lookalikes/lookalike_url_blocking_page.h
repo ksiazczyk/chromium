@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL blocking page interface
+// summary: Declares LookalikeUrlBlockingPage, the iOS interstitial page shown for lookalike URLs, with its constructor and interstitial overrides.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_BLOCKING_PAGE_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_BLOCKING_PAGE_H_
 

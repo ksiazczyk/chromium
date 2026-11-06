@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for iOS security interstitials
+summary: Defines the source_set targets and dependencies for the iOS security interstitials component and its unit tests.

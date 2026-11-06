@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_tab_helper_unittest.mm.
+type: test
+title: Safe Browsing Tab Helper Unit Tests
+summary: Unit tests for the Safe Browsing tab helper covering navigation policy decisions, async check timing, and redirect chain handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard metrics recording implementation
+// summary: Records UMA histograms for the source and allowed outcome of copy, cut and paste actions in the iOS data controls component.
+// ---
+
 #import "ios/components/enterprise/data_controls/metrics_utils.h"
 
 #import "base/metrics/histogram_functions.h"

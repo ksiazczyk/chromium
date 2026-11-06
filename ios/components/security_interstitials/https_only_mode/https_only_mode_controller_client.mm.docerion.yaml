@@ -1,0 +1,4 @@
+# Docerion header of https_only_mode_controller_client.mm.
+type: source
+title: HTTPS-Only Mode controller client implementation
+summary: Implements the HTTPS-Only Mode blocking page controller client, wiring up metrics reporting and handling GoBack and Proceed actions.

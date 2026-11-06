@@ -1,0 +1,4 @@
+# Docerion header of widget_kit_extension.appex.entitlements.
+type: config
+title: Widget Kit Extension external appex entitlements
+summary: Entitlements plist for the external widget kit extension build, setting the application identifier and shared app group memberships.

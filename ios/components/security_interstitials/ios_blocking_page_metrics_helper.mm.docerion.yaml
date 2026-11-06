@@ -1,0 +1,4 @@
+# Docerion header of ios_blocking_page_metrics_helper.mm.
+type: source
+title: IOSBlockingPageMetricsHelper implementation
+summary: Implements the iOS metrics helper with empty overrides for extra user decision, interaction and shutdown metrics.

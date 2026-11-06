@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic type utility declarations
+// summary: Declares the IOSContentSizeCategory enum for UMA reporting and functions returning system suggested font size multipliers for iOS content size categories.
+// ---
+
 #ifndef IOS_COMPONENTS_UI_UTIL_DYNAMIC_TYPE_UTIL_H_
 #define IOS_COMPONENTS_UI_UTIL_DYNAMIC_TYPE_UTIL_H_
 

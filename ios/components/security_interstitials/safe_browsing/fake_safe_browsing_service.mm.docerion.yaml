@@ -1,0 +1,4 @@
+# Docerion header of fake_safe_browsing_service.mm.
+type: source
+title: Fake Safe Browsing service implementation
+summary: Implements the fake service, mapping test URLs to threat types and driving checker callbacks and blocking page helpers.

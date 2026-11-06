@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for credential provider extension
+summary: Lists the allowed dependency includes for autofill proto, password generation and Apple keychain utilities.

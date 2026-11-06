@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift and Objective-C bridging header
+// summary: Bridging header importing pure Objective-C app group, NTP tile and crash helper headers so they can be used from Swift code.
+// ---
+
 #ifndef IOS_CHROME_WIDGET_KIT_EXTENSION_WIDGET_KIT_SWIFT_BRIDGE_H_
 #define IOS_CHROME_WIDGET_KIT_EXTENSION_WIDGET_KIT_SWIFT_BRIDGE_H_
 

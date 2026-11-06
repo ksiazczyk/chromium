@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search widget
+// summary: Defines the configurable Chrome search widget, its entry view template and avatar view for the WidgetKit extension.
+// ---
+
 import Foundation
 import SwiftUI
 import WidgetKit

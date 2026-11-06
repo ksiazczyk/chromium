@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS Safe Browsing
+summary: Defines the safe_browsing, util, test_support and unit_tests source sets with their sources and dependencies.

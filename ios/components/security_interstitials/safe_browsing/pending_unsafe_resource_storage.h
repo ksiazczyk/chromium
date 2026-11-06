@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending unsafe resource storage header
+// summary: Declares storage holding an UnsafeResource while its allow list decision is pending, resetting it once the decision completes.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_PENDING_UNSAFE_RESOURCE_STORAGE_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_SAFE_BROWSING_PENDING_UNSAFE_RESOURCE_STORAGE_H_
 

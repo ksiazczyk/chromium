@@ -1,0 +1,4 @@
+# Docerion header of https_only_mode_blocking_page.mm.
+type: source
+title: HTTPS-Only mode blocking page implementation
+summary: Implements the HTTP interstitial, handling proceed, go back and help center commands while recording user decision metrics.

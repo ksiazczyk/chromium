@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_unsafe_resource_container_unittest.mm.
+type: test
+title: Safe Browsing Unsafe Resource Container Unit Tests
+summary: Tests that main frame unsafe resources are correctly stored in and released from the container when pending decisions are removed.

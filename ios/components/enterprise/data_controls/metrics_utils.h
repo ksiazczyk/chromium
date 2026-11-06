@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard metrics utility declarations
+// summary: Declares functions to record the source and outcome of clipboard actions for iOS data controls metrics.
+// ---
+
 #ifndef IOS_COMPONENTS_ENTERPRISE_DATA_CONTROLS_METRICS_UTILS_H_
 #define IOS_COMPONENTS_ENTERPRISE_DATA_CONTROLS_METRICS_UTILS_H_
 

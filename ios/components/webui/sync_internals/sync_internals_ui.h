@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncInternalsUI header for the iOS sync-internals WebUI page
+// summary: Declares the SyncInternalsUI class, a WebUIIOSController that implements the sync-internals page on iOS.
+// ---
+
 #ifndef IOS_COMPONENTS_WEBUI_SYNC_INTERNALS_SYNC_INTERNALS_UI_H_
 #define IOS_COMPONENTS_WEBUI_SYNC_INTERNALS_SYNC_INTERNALS_UI_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the HTTPS-Only mode directory
+summary: Grants the directory access to core security interstitials, URL formatting and localhost URL utility headers.

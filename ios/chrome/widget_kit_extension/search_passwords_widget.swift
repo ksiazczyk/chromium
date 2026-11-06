@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search passwords widget
+// summary: Defines the configurable WidgetKit widget that opens Chrome's password manager search, including its entry view and deleted-account handling.
+// ---
+
 import Foundation
 import SwiftUI
 import WidgetKit

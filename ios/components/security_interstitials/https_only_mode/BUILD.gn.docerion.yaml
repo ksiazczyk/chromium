@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the iOS HTTPS-Only mode component
+summary: Defines source sets and dependencies for the HTTPS-Only mode component, its feature flags, test utilities and unit tests.

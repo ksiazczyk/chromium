@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_unsafe_resource_container.mm.
+type: source
+title: Safe Browsing Unsafe Resource Container Implementation
+summary: Implements storing and retrieving the pending main frame unsafe resource associated with a WebState's navigation.

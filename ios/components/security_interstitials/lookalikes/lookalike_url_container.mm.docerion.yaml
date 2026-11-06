@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_container.mm.
+type: source
+title: Lookalike URL container implementation
+summary: Implements LookalikeUrlContainer, storing and releasing interstitial parameters and lookalike URL info tied to the current blocking page.

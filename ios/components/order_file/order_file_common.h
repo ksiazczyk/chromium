@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared order file declarations
+// summary: Declares the procedure call node struct and the shared queue and state flags used by the order file collection code.
+// ---
+
 #ifndef IOS_COMPONENTS_ORDER_FILE_ORDER_FILE_COMMON_H_
 #define IOS_COMPONENTS_ORDER_FILE_ORDER_FILE_COMMON_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of cookie_constants.mm.
+type: source
+title: Cookie constants implementation
+summary: Defines the kLastCookieDeletionDate preference key string used to track the last cookie deletion date.

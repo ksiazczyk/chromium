@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of HTTPS-Only mode feature flags
+// summary: Defines the kHttpsUpgrades and kInsecureFormSubmissionInterstitial base features used by the iOS HTTPS-Only mode component.
+// ---
+
 #include "ios/components/security_interstitials/https_only_mode/feature.h"
 
 namespace security_interstitials {

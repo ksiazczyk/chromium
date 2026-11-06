@@ -1,0 +1,4 @@
+# Docerion header of ios_widget_kit_extension_strings.grd.
+type: data
+title: iOS widget kit extension strings resource definition
+summary: Grit XML file defining the translatable UI strings for the iOS widget kit extension and the per-locale pak outputs for many languages.

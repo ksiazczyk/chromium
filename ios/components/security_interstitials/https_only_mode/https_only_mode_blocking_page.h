@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTPS-Only mode blocking page interface
+// summary: Declares the interstitial page shown for HTTP URLs in HTTPS-Only mode, including string population and command handling.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_HTTPS_ONLY_MODE_BLOCKING_PAGE_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_HTTPS_ONLY_MODE_BLOCKING_PAGE_H_
 

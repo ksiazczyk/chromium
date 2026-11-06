@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_query_manager.mm.
+type: source
+title: SafeBrowsingQueryManager implementation
+summary: Implements Safe Browsing URL query handling for a WebState, running sync and async URL checkers and reporting results to observers.

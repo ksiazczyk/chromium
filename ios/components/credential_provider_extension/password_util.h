@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Keychain utility header
+// summary: Declares functions to query and store passwords in Keychain Services using an identifier.
+// ---
+
 #ifndef IOS_COMPONENTS_CREDENTIAL_PROVIDER_EXTENSION_PASSWORD_UTIL_H_
 #define IOS_COMPONENTS_CREDENTIAL_PROVIDER_EXTENSION_PASSWORD_UTIL_H_
 

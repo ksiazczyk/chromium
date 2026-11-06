@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake HTTPS upgrade service header
+// summary: Declares FakeHttpsUpgradeService, an in-memory test double of HttpsUpgradeService for allowlist decisions in tests.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_HTTPS_UPGRADE_TEST_UTIL_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_HTTPS_ONLY_MODE_HTTPS_UPGRADE_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ui_util component
+summary: Defines the ui_util source set and its unit test target, listing sources, frameworks and dependencies for the iOS dynamic type utilities.

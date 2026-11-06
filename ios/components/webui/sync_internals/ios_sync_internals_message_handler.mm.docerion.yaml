@@ -1,0 +1,4 @@
+# Docerion header of ios_sync_internals_message_handler.mm.
+type: source
+title: iOS sync internals message handler implementation
+summary: Implements the iOS message handler, forwarding page events and resolving JavaScript callbacks via the WebUI.

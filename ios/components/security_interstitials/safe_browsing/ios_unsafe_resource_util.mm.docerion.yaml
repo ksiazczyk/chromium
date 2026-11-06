@@ -1,0 +1,4 @@
+# Docerion header of ios_unsafe_resource_util.mm.
+type: source
+title: Unsafe resource utility implementation
+summary: Implements helpers deriving interstitial reasons, metric prefixes, allow lists and main frame URLs from unsafe resources.

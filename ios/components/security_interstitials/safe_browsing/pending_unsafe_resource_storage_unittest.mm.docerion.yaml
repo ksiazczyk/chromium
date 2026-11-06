@@ -1,0 +1,4 @@
+# Docerion header of pending_unsafe_resource_storage_unittest.mm.
+type: test
+title: PendingUnsafeResourceStorage unit tests
+summary: Unit tests verifying that PendingUnsafeResourceStorage returns, resets and clears unsafe resources as pending navigation decisions change.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSBlockingPageMetricsHelper header
+// summary: Declares the iOS concrete MetricsHelper that records UMA and experience sampling metrics for blocking pages.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_BLOCKING_PAGE_METRICS_HELPER_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_BLOCKING_PAGE_METRICS_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for iOS WebUI components
+summary: Defines the provider and url_constants source sets for the iOS WebUI component.

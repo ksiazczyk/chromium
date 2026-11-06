@@ -1,0 +1,4 @@
+# Docerion header of pending_unsafe_resource_storage.mm.
+type: source
+title: Pending unsafe resource storage implementation
+summary: Implements pending-resource storage with an allow list observer that clears the resource when its policy decision is committed.

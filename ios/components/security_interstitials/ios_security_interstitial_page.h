@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOS security interstitial page base class header
+// summary: Declares the base class for iOS security interstitial pages, defining HTML generation, command handling and dismissal hooks.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_SECURITY_INTERSTITIAL_PAGE_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_SECURITY_INTERSTITIAL_PAGE_H_
 

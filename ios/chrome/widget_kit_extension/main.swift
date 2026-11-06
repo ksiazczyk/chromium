@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Widget bundle entry point
+// summary: Entry point that configures crash reporting and declares the Chrome widget bundle containing all widgets.
+// ---
+
 import Foundation
 import SwiftUI
 import WidgetKit

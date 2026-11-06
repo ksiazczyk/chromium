@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lookalike URL tab allow list header
+// summary: Declares LookalikeUrlTabAllowList, a WebStateUserData that tracks per-domain allowlist decisions so users can proceed past lookalike URL warnings.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_TAB_ALLOW_LIST_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_LOOKALIKES_LOOKALIKE_URL_TAB_ALLOW_LIST_H_
 

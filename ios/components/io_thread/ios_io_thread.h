@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSIOThread class header
+// summary: Declares the IOSIOThread WebThreadDelegate that owns IO thread state, network session params, and the system URLRequestContext.
+// ---
+
 #ifndef IOS_COMPONENTS_IO_THREAD_IOS_IO_THREAD_H_
 #define IOS_COMPONENTS_IO_THREAD_IOS_IO_THREAD_H_
 

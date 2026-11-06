@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_tab_allow_list.mm.
+type: source
+title: Lookalike URL tab allow list implementation
+summary: Implements LookalikeUrlTabAllowList, storing allowed domains in a set and reporting whether a domain has been allowlisted for future navigations.

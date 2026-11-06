@@ -1,0 +1,4 @@
+# Docerion header of cookie_util_unittest.mm.
+type: test
+title: Cookie utility unit tests
+summary: Unit tests verifying ShouldClearSessionCookies behavior and that CreateCookieStore returns the expected cookie store type.

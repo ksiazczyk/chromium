@@ -1,0 +1,4 @@
+# Docerion header of ios_security_interstitial_page.mm.
+type: source
+title: IOS security interstitial page base class implementation
+summary: Implements HTML generation for iOS interstitial pages, populating load-time data, localized strings and dynamic font sizes.

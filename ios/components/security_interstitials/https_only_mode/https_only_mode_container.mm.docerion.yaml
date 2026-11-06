@@ -1,0 +1,4 @@
+# Docerion header of https_only_mode_container.mm.
+type: source
+title: HTTPS-Only mode container implementation
+summary: Implements storing and releasing blocking page parameters and the HTTP fallback URL for the HTTPS-Only mode interstitial.

@@ -1,0 +1,4 @@
+# Docerion header of Info.plist.
+type: config
+title: WidgetKit extension Info.plist
+summary: Property list with bundle metadata for the widget extension, declaring the com.apple.widgetkit-extension extension point and arm64 device capability.

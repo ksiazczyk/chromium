@@ -1,0 +1,4 @@
+# Docerion header of widget_kit_extension_localize_strings_config.plist.
+type: config
+title: Widget Kit extension localization strings config
+summary: GRIT plist configuration listing the widget extension string IDs to compile into Localizable.strings.

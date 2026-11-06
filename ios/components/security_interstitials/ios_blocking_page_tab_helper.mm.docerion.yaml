@@ -1,0 +1,4 @@
+# Docerion header of ios_blocking_page_tab_helper.mm.
+type: source
+title: IOSBlockingPageTabHelper implementation
+summary: Implements associating blocking pages with navigations, command handling, dismissal detection and visible security state updates.

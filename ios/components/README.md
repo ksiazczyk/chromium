@@ -1,3 +1,9 @@
+---
+type: readme
+title: About the iOS components directory
+summary: Describes the directory as a home for reusable features shared across ios/web embedders and explains the namespace conventions for component code.
+---
+
 This directory is for features that are intended for reuse. For example, code
 that is shared between multiple embedders of ios/web like ios/web_view and
 ios/chrome. This means that components must not depend on either ios/web_view or

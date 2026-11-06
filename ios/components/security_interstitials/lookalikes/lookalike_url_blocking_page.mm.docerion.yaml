@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_blocking_page.mm.
+type: source
+title: Lookalike URL blocking page implementation
+summary: Implements the lookalike URL interstitial, populating its strings and recording user decisions and UKM metrics for proceed and go-back actions.

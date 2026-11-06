@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Definition of the iOS bulk data entry connector feature flag
+summary: Defines the kEnableBulkDataEntryConnectorIOS base feature in the enterprise_connectors namespace, disabled by default.

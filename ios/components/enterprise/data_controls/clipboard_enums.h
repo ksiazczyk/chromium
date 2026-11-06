@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard source and action enums
+// summary: Defines ClipboardSource and ClipboardAction enums for iOS clipboard metrics, with values persisted to logs and linked to histograms metadata.
+// ---
+
 #ifndef IOS_COMPONENTS_ENTERPRISE_DATA_CONTROLS_CLIPBOARD_ENUMS_H_
 #define IOS_COMPONENTS_ENTERPRISE_DATA_CONTROLS_CLIPBOARD_ENUMS_H_
 

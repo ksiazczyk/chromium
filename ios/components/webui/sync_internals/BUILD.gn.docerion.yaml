@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for sync_internals
+summary: Defines the sync_internals source set with its source files and build dependencies on base, sync, and iOS WebUI components.

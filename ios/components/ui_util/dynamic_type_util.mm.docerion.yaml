@@ -1,0 +1,4 @@
+# Docerion header of dynamic_type_util.mm.
+type: source
+title: Dynamic type utility implementation
+summary: Maps iOS content size categories to font size multipliers, records system font metrics, and handles app extension fallbacks for the preferred content size category.

@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_controller_client.mm.
+type: source
+title: Lookalike URL controller client implementation
+summary: Implements the lookalike controller client, opening the suggested safe URL on go-back and allowing the request domain before reload on proceed.

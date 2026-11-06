@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick actions widget
+// summary: Defines the configurable medium-size quick actions widget with timeline provider, Lens support, and account selection.
+// ---
+
 import Foundation
 import SwiftUI
 import WidgetKit

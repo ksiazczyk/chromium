@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for iOS components unit tests
+summary: GN build file that groups all iOS component unit tests into the ios_components_unittests target and defines the run_all_unittests test runner source set.

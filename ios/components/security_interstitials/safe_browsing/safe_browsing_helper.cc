@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingHelper implementation
+// summary: Implements SafeBrowsingHelper by notifying the Safe Browsing service when a BrowserState is created or destroyed.
+// ---
+
 #include "ios/components/security_interstitials/safe_browsing/safe_browsing_helper.h"
 
 #include "ios/components/security_interstitials/safe_browsing/safe_browsing_service.h"

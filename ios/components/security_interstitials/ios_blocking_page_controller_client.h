@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IOSBlockingPageControllerClient header
+// summary: Declares the iOS client implementing the core ControllerClient interface with embedder-specific logic for security error pages.
+// ---
+
 #ifndef IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_BLOCKING_PAGE_CONTROLLER_CLIENT_H_
 #define IOS_COMPONENTS_SECURITY_INTERSTITIALS_IOS_BLOCKING_PAGE_CONTROLLER_CLIENT_H_
 

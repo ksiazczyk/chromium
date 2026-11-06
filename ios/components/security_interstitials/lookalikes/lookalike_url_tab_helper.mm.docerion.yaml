@@ -1,0 +1,4 @@
+# Docerion header of lookalike_url_tab_helper.mm.
+type: source
+title: Lookalike URL tab helper implementation
+summary: Implements lookalike detection for main-frame navigations, checking scheme, tab and component allowlists, safety tips config, and top domains before blocking.
