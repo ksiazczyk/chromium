@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider extension entry point header
+// summary: Declares the main ASCredentialProviderViewController subclass through which the system interacts with the extension.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_CREDENTIAL_PROVIDER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_CREDENTIAL_PROVIDER_VIEW_CONTROLLER_H_
 

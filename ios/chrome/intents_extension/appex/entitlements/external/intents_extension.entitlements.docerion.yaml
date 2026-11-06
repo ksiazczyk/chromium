@@ -1,0 +1,4 @@
+# Docerion header of intents_extension.entitlements.
+type: config
+title: Intents Extension External Entitlements
+summary: Entitlements plist defining the application-identifier entitlement for the external intents extension app.

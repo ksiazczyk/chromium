@@ -1,0 +1,4 @@
+# Docerion header of multi_profile_passkey_creation_view_controller_unittest.mm.
+type: test
+title: Multi-profile passkey creation view controller unit tests
+summary: Verifies the default banner, title, actions and content of the multi-profile passkey creation view controller.

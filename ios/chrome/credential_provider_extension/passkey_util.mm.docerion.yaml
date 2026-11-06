@@ -1,0 +1,4 @@
+# Docerion header of passkey_util.mm.
+type: source
+title: Passkey utility implementation
+summary: Implements passkey creation and assertion, PRF extension input and output handling, signature generation with trusted vault keys, and saving passkey credentials.

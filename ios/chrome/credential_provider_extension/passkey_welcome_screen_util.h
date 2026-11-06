@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey welcome screen utility declarations
+// summary: Header declaring a function that returns the localized strings needed for passkey welcome screens based on the screen purpose and user email.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_PASSKEY_WELCOME_SCREEN_UTIL_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_PASSKEY_WELCOME_SCREEN_UTIL_H_
 

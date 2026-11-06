@@ -1,0 +1,4 @@
+# Docerion header of create_navigation_item_title_view.mm.
+type: source
+title: Navigation item title view factory implementation
+summary: Creates the branded navigation title view with a multicolor credential symbol and localized title.

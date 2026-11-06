@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New password UI handler protocol
+// summary: Protocol letting the new password mediator set passwords and alert the UI about existing credentials or save failures.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_NEW_PASSWORD_UI_HANDLER_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_NEW_PASSWORD_UI_HANDLER_H_
 

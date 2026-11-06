@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty credentials view controller
+// summary: Declares the confirmation alert view controller shown when no credentials are available in the extension.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_EMPTY_CREDENTIALS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_EMPTY_CREDENTIALS_VIEW_CONTROLLER_H_
 

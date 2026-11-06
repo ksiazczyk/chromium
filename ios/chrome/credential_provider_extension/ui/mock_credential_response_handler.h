@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock credential response handler header
+// summary: Declares a mock CredentialResponseHandler for unit tests that records received password and passkey credentials plus error codes via block properties.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_MOCK_CREDENTIAL_RESPONSE_HANDLER_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_MOCK_CREDENTIAL_RESPONSE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential list coordinator interface
+// summary: Declares CredentialListCoordinator, which presents a credential list on a base view controller using a credential store, reauthentication and response handlers.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_CREDENTIAL_LIST_COORDINATOR_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_CREDENTIAL_LIST_COORDINATOR_H_
 

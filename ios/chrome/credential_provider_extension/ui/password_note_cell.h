@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password note cell header
+// summary: Declares a table view cell for editing password notes, with a label, text view and validation error icon.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_PASSWORD_NOTE_CELL_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_PASSWORD_NOTE_CELL_H_
 

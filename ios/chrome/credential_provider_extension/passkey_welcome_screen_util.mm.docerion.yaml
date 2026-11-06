@@ -1,0 +1,4 @@
+# Docerion header of passkey_welcome_screen_util.mm.
+type: source
+title: Passkey welcome screen utility implementation
+summary: Builds welcome screen titles, subtitles, buttons, footer and instructions for enrollment, recoverability and reauthentication purposes from generated localized strings.

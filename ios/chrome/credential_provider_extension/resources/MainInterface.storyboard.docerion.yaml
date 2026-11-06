@@ -1,0 +1,4 @@
+# Docerion header of MainInterface.storyboard.
+type: asset
+title: MainInterface storyboard for credential provider extension
+summary: Xcode Interface Builder storyboard defining the credential provider extension's main CredentialProviderViewController view.

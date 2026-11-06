@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics utility interface
+// summary: Declares helpers to increment app group shared metric counts for a given key and for a histogram bucket.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_METRICS_UTIL_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_METRICS_UTIL_H_
 

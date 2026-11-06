@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent coordinator interface
+// summary: Declares the ConsentCoordinator class that presents and stops the consent screen for credential configuration.
+// ---
+
 #ifndef IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_CONSENT_COORDINATOR_H_
 #define IOS_CHROME_CREDENTIAL_PROVIDER_EXTENSION_UI_CONSENT_COORDINATOR_H_
 

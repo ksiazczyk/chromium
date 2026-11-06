@@ -1,0 +1,4 @@
+# Docerion header of generic_error_view_controller.mm.
+type: source
+title: Generic error view controller implementation
+summary: Implements the generic error screen with a hierarchical exclamation mark symbol and a localized message about signing in to Chrome for passkeys.

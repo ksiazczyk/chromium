@@ -1,0 +1,4 @@
+# Docerion header of passkey_request_details_unittest.mm.
+type: test
+title: Passkey request details unit tests
+summary: Unit tests verifying PasskeyRequestDetails behavior, including matching passwords by URL and username and private registry domain boundary checks.

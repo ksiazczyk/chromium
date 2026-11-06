@@ -1,0 +1,4 @@
+# Docerion header of passkey_error_alert_view_controller.mm.
+type: source
+title: Passkey error alert view controller implementation
+summary: Implements passkey error alerts with error-specific images, titles and subtitles for enterprise, sign-out and settings cases.

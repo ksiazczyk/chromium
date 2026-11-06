@@ -1,0 +1,4 @@
+# Docerion header of tooltip_view.mm.
+type: source
+title: Tooltip view implementation
+summary: Implements tooltip rendering and positioning with a tail shape, fade-in animation and tap-outside dismissal.

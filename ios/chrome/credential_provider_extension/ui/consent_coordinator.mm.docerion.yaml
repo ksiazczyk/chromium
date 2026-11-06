@@ -1,0 +1,4 @@
+# Docerion header of consent_coordinator.mm.
+type: source
+title: Consent coordinator implementation
+summary: Implements the consent screen coordinator, handling dismiss and learn more actions via the response handler.
