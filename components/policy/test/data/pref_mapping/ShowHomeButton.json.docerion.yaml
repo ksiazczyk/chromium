@@ -1,0 +1,4 @@
+# Docerion header of ShowHomeButton.json.
+type: test
+title: ShowHomeButton policy pref mapping test data
+summary: Test data verifying that the ShowHomeButton policy maps to the browser.show_home_button preference across all supported platforms.

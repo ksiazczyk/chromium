@@ -1,0 +1,4 @@
+# Docerion header of RemoteDebuggingAllowed.json.
+type: test
+title: RemoteDebuggingAllowed
+summary: Preference mapping test data for the RemoteDebuggingAllowed policy, checking the devtools.remote_debugging.allowed local state pref across six platforms.

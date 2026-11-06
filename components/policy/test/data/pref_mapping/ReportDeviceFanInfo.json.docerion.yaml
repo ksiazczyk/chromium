@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceFanInfo.json.
+type: test
+title: ReportDeviceFanInfo pref mapping test data
+summary: Test fixture noting that the ReportDeviceFanInfo policy has no pref mapping test because it maps into CrosSettings.

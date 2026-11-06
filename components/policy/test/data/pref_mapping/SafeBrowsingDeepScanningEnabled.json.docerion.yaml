@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingDeepScanningEnabled.json.
+type: test
+title: SafeBrowsingDeepScanningEnabled policy pref mapping test data
+summary: Test data verifying the SafeBrowsingDeepScanningEnabled policy maps to the safebrowsing.deep_scanning_enabled pref on desktop platforms.

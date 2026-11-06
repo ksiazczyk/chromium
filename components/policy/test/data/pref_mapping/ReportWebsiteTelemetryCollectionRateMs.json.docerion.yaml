@@ -1,0 +1,4 @@
+# Docerion header of ReportWebsiteTelemetryCollectionRateMs.json.
+type: test
+title: ReportWebsiteTelemetryCollectionRateMs pref mapping test
+summary: ChromeOS pref mapping test verifying the ReportWebsiteTelemetryCollectionRateMs policy sets the collection rate pref, testing 300000 against the 900000 default.

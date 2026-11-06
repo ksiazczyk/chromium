@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceBootMode.json.
+type: test
+title: ReportDeviceBootMode pref mapping test data
+summary: Test fixture noting that the ReportDeviceBootMode policy has no pref mapping test because it maps into CrosSettings.

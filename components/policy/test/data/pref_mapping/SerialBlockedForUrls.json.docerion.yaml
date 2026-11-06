@@ -1,0 +1,4 @@
+# Docerion header of SerialBlockedForUrls.json.
+type: test
+title: SerialBlockedForUrls policy pref mapping test data
+summary: Test fixture checking that the SerialBlockedForUrls policy maps to the profile.managed_serial_blocked_for_urls pref with a URL pattern value on all supported platforms.

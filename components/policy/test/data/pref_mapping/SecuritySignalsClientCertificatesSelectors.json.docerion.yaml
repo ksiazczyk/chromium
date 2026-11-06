@@ -1,0 +1,4 @@
+# Docerion header of SecuritySignalsClientCertificatesSelectors.json.
+type: test
+title: SecuritySignalsClientCertificatesSelectors pref mapping test data
+summary: Test data verifying the SecuritySignalsClientCertificatesSelectors policy maps to enterprise reporting preferences at user scope and is ignored at machine scope.

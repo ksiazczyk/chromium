@@ -1,0 +1,4 @@
+# Docerion header of UpdateOnZeroWindowEnabled.json.
+type: test
+title: UpdateOnZeroWindowEnabled policy pref mapping test data
+summary: Simple mapping test checking the UpdateOnZeroWindowEnabled policy sets the policy.update_on_zero_window_enabled pref on Mac.

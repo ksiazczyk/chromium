@@ -1,0 +1,4 @@
+# Docerion header of WaitForInitialUserActivity.json.
+type: test
+title: WaitForInitialUserActivity pref mapping test data
+summary: ChromeOS pref mapping test covering both the session and power wait_for_initial_user_activity prefs, one stored in local state.

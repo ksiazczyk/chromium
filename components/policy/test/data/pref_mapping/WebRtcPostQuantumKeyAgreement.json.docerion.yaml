@@ -1,0 +1,4 @@
+# Docerion header of WebRtcPostQuantumKeyAgreement.json.
+type: test
+title: WebRtcPostQuantumKeyAgreement pref mapping test data
+summary: Test data mapping the WebRtcPostQuantumKeyAgreement policy to the webrtc.post_quantum_key_agreement preference on Windows, Linux, Mac and ChromeOS.

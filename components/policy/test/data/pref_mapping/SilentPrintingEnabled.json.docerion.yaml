@@ -1,0 +1,4 @@
+# Docerion header of SilentPrintingEnabled.json.
+type: test
+title: SilentPrintingEnabled policy pref mapping test data
+summary: Policy pref mapping test data checking that the SilentPrintingEnabled policy sets the local_state pref printing.silent_printing_enabled on Windows, Linux, Mac and ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of UnaffiliatedDeviceArcAllowed.json.
+type: test
+title: UnaffiliatedDeviceArcAllowed policy pref mapping test data
+summary: Test data verifying that the UnaffiliatedDeviceArcAllowed policy maps to the arc.unaffiliated.device.allowed pref with default true on ChromeOS.

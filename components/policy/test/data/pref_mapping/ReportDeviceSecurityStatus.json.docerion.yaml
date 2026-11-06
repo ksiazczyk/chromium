@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceSecurityStatus.json.
+type: test
+title: ReportDeviceSecurityStatus pref mapping test data
+summary: Pref mapping test data stating that the ReportDeviceSecurityStatus policy maps into CrosSettings, so no pref mapping test applies.

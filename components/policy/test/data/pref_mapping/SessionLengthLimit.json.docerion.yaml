@@ -1,0 +1,4 @@
+# Docerion header of SessionLengthLimit.json.
+type: test
+title: SessionLengthLimit policy pref mapping test data
+summary: ChromeOS-only test fixture verifying the SessionLengthLimit policy sets the local_state session.length_limit pref to a millisecond duration value.

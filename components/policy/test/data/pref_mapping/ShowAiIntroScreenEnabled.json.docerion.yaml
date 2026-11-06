@@ -1,0 +1,4 @@
+# Docerion header of ShowAiIntroScreenEnabled.json.
+type: test
+title: ShowAiIntroScreenEnabled policy pref mapping test data
+summary: Test data mapping the ShowAiIntroScreenEnabled policy to the ash.ai_intro_screen_oobe_enabled preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of ReportWebsiteTelemetry.json.
+type: test
+title: ReportWebsiteTelemetry pref mapping test
+summary: ChromeOS pref mapping test verifying the ReportWebsiteTelemetry policy sets reporting.report_website_telemetry, testing the usage value against an empty default.

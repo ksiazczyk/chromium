@@ -1,0 +1,4 @@
+# Docerion header of ScreenCaptureAllowed.json.
+type: test
+title: ScreenCaptureAllowed pref mapping test data
+summary: Policy pref mapping test data verifying ScreenCaptureAllowed controls the hardware.screen_capture_enabled pref across all supported platforms.

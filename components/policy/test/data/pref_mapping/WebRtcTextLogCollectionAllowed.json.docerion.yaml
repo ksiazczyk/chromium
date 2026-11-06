@@ -1,0 +1,4 @@
+# Docerion header of WebRtcTextLogCollectionAllowed.json.
+type: test
+title: WebRtcTextLogCollectionAllowed pref mapping test data
+summary: Test data mapping the WebRtcTextLogCollectionAllowed policy to the webrtc.text_log_collection_allowed preference across desktop platforms and ChromeOS.

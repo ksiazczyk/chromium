@@ -1,0 +1,4 @@
+# Docerion header of WebHidAllowDevicesForUrls.json.
+type: test
+title: WebHidAllowDevicesForUrls policy pref mapping test data
+summary: Test data verifying the WebHidAllowDevicesForUrls policy maps to the managed.web_hid_allow_devices_for_urls pref in local state.

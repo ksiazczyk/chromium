@@ -1,0 +1,4 @@
+# Docerion header of SmartCardConnectBlockedForUrls.json.
+type: test
+title: SmartCardConnectBlockedForUrls policy pref mapping test data
+summary: Policy pref mapping test data checking that the ChromeOS SmartCardConnectBlockedForUrls policy sets the managed_smart_card_connect_blocked_for_urls pref with URL pattern values.

@@ -1,0 +1,4 @@
+# Docerion header of URLBlocklist.json.
+type: test
+title: URLBlocklist policy pref mapping test data
+summary: Test data verifying that the URLBlocklist policy maps to the policy.url_blocklist pref, empty by default, across all supported platforms.

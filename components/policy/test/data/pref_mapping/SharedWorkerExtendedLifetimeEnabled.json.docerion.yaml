@@ -1,0 +1,4 @@
+# Docerion header of SharedWorkerExtendedLifetimeEnabled.json.
+type: test
+title: SharedWorkerExtendedLifetimeEnabled policy pref mapping test data
+summary: Test fixture verifying the SharedWorkerExtendedLifetimeEnabled policy toggles the worker.shared_worker_extended_lifetime_enabled pref between true and false.

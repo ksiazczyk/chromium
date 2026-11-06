@@ -1,0 +1,4 @@
+# Docerion header of UnaffiliatedArcAllowed.json.
+type: test
+title: UnaffiliatedArcAllowed policy pref mapping test data
+summary: Test data noting that the UnaffiliatedArcAllowed policy has no pref mapping test because it maps into CrosSettings.

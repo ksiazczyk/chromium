@@ -1,0 +1,4 @@
+# Docerion header of ShelfAutoHideBehavior.json.
+type: test
+title: ShelfAutoHideBehavior policy pref mapping test data
+summary: Test data mapping the ShelfAutoHideBehavior policy to the auto_hide_behavior_local preference on ChromeOS with the Always value to verify.

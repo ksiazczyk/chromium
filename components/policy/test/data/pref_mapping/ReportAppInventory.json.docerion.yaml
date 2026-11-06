@@ -1,0 +1,4 @@
+# Docerion header of ReportAppInventory.json.
+type: test
+title: ReportAppInventory
+summary: Preference mapping test data for the ChromeOS-only ReportAppInventory policy, checking the reporting.report_app_inventory pref with Chrome apps and extensions values.

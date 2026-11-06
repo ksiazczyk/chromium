@@ -1,0 +1,4 @@
+# Docerion header of VirtualKeyboardSmartVisibilityEnabled.json.
+type: test
+title: VirtualKeyboardSmartVisibilityEnabled policy pref mapping test data
+summary: Maps the ChromeOS VirtualKeyboardSmartVisibilityEnabled policy to the ui.virtual_keyboard_smart_visibility_enabled preference.

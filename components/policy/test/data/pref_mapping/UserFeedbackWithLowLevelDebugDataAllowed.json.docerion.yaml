@@ -1,0 +1,4 @@
+# Docerion header of UserFeedbackWithLowLevelDebugDataAllowed.json.
+type: test
+title: UserFeedbackWithLowLevelDebugDataAllowed pref mapping test
+summary: Policy pref mapping test data checking that UserFeedbackWithLowLevelDebugDataAllowed sets the ash.user_feedback_with_low_level_debug_data_allowed pref on ChromeOS with wifi and all values.

@@ -1,0 +1,4 @@
+# Docerion header of TabCaptureAllowedByOrigins.json.
+type: test
+title: TabCaptureAllowedByOrigins pref mapping test data
+summary: Test data mapping the TabCaptureAllowedByOrigins policy to the hardware.tab_capture_allowed_by_origins pref with origin list values.

@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceAudioStatus.json.
+type: test
+title: ReportDeviceAudioStatus pref mapping test data
+summary: Test data entry explaining that the ReportDeviceAudioStatus policy has no pref mapping test because it maps into CrosSettings.

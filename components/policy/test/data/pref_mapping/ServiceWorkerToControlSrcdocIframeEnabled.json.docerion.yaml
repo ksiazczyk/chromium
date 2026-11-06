@@ -1,0 +1,4 @@
+# Docerion header of ServiceWorkerToControlSrcdocIframeEnabled.json.
+type: test
+title: ServiceWorkerToControlSrcdocIframeEnabled policy pref mapping test data
+summary: Test fixture verifying the ServiceWorkerToControlSrcdocIframeEnabled policy toggles the worker.service_worker_to_control_srcdoc_iframe_enabled pref between true and false.

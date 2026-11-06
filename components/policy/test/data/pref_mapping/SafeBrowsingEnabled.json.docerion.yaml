@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingEnabled.json.
+type: test
+title: SafeBrowsingEnabled policy pref mapping test data
+summary: Test data verifying the SafeBrowsingEnabled policy maps to the safebrowsing.enabled pref and can be set as a recommended policy.

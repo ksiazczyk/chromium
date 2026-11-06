@@ -1,0 +1,4 @@
+# Docerion header of ThirdPartyStoragePartitioningBlockedForOrigins.json.
+type: test
+title: ThirdPartyStoragePartitioningBlockedForOrigins removed policy placeholder
+summary: Placeholder test data stating that no pref mapping test exists for the ThirdPartyStoragePartitioningBlockedForOrigins policy because the policy was removed.

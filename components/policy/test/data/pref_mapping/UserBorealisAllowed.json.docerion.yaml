@@ -1,0 +1,4 @@
+# Docerion header of UserBorealisAllowed.json.
+type: test
+title: UserBorealisAllowed pref mapping test
+summary: Policy pref mapping test data checking that UserBorealisAllowed sets the borealis.allowed_for_user pref on ChromeOS, with false as the default for enterprise users.

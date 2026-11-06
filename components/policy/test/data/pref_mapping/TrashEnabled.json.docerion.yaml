@@ -1,0 +1,4 @@
+# Docerion header of TrashEnabled.json.
+type: test
+title: TrashEnabled policy pref mapping test data
+summary: Test data verifying that the TrashEnabled policy maps to the ash.filesapp.trash_enabled pref with default true on ChromeOS.

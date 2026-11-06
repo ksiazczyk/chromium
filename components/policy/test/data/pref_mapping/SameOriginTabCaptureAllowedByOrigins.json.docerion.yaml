@@ -1,0 +1,4 @@
+# Docerion header of SameOriginTabCaptureAllowedByOrigins.json.
+type: test
+title: SameOriginTabCaptureAllowedByOrigins pref mapping test data
+summary: Simple policy pref mapping test checking the hardware.same_origin_tab_capture_allowed_by_origins pref with a list of allowed origins.

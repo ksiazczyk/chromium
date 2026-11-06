@@ -1,0 +1,4 @@
+# Docerion header of WebAppSettings.json.
+type: test
+title: WebAppSettings policy pref mapping test data
+summary: Test data verifying the WebAppSettings policy maps to the profile.web_app.policy_settings pref for run-on-OS-login rules.

@@ -1,0 +1,4 @@
+# Docerion header of RestrictCoreSharingOnRenderer.json.
+type: test
+title: RestrictCoreSharingOnRenderer pref mapping test data
+summary: Test data verifying that the policy maps to the restrict_core_sharing_on_renderer preference in local state with true and false values on Windows.

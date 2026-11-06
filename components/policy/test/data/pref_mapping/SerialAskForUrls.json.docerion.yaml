@@ -1,0 +1,4 @@
+# Docerion header of SerialAskForUrls.json.
+type: test
+title: SerialAskForUrls policy pref mapping test data
+summary: Test fixture checking that the SerialAskForUrls policy maps to the profile.managed_serial_ask_for_urls pref with a URL pattern value on all supported platforms.

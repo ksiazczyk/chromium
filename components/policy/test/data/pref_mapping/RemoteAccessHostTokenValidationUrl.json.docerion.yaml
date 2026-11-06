@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostTokenValidationUrl.json.
+type: test
+title: RemoteAccessHostTokenValidationUrl
+summary: Test data noting that no preference mapping test exists for the RemoteAccessHostTokenValidationUrl policy because it was deprecated in M127.

@@ -1,0 +1,4 @@
+# Docerion header of TPMFirmwareUpdateSettings.json.
+type: test
+title: TPMFirmwareUpdateSettings pref mapping placeholder
+summary: Placeholder noting that the TPMFirmwareUpdateSettings policy has no pref mapping test because it maps into CrosSettings.

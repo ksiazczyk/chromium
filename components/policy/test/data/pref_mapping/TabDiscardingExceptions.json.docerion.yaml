@@ -1,0 +1,4 @@
+# Docerion header of TabDiscardingExceptions.json.
+type: test
+title: TabDiscardingExceptions pref mapping test data
+summary: Test data mapping the TabDiscardingExceptions policy to the performance tuning tab discarding exceptions pref on desktop platforms.

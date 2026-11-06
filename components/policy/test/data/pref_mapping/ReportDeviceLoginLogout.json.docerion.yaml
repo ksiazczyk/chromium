@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceLoginLogout.json.
+type: test
+title: ReportDeviceLoginLogout pref mapping test data
+summary: Test fixture noting that the ReportDeviceLoginLogout policy has no pref mapping test because it maps into CrosSettings.

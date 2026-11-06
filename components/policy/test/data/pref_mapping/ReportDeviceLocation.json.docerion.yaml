@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceLocation.json.
+type: test
+title: ReportDeviceLocation pref mapping test data
+summary: Test fixture noting that the ReportDeviceLocation policy has no pref mapping test because the policy was removed.

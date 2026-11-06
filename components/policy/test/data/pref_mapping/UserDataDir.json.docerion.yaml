@@ -1,0 +1,4 @@
+# Docerion header of UserDataDir.json.
+type: test
+title: UserDataDir pref mapping test placeholder
+summary: Placeholder explaining that UserDataDir has no pref mapping test because the policy must be set before browser launch and PolicyPrefsTest would need refactoring to support it.

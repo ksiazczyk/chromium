@@ -1,0 +1,4 @@
+# Docerion header of StartupBrowserWindowLaunchSuppressed.json.
+type: test
+title: StartupBrowserWindowLaunchSuppressed policy pref mapping test data
+summary: Simple test data mapping the StartupBrowserWindowLaunchSuppressed policy to its matching startup preference on ChromeOS.

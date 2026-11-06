@@ -1,0 +1,4 @@
+# Docerion header of WebRtcIPHandling.json.
+type: test
+title: WebRtcIPHandling pref mapping test data
+summary: Test data verifying that the WebRtcIPHandling policy maps to the webrtc.ip_handling_policy pref with handling policy values.

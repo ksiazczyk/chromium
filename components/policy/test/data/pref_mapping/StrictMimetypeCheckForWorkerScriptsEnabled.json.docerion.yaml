@@ -1,0 +1,4 @@
+# Docerion header of StrictMimetypeCheckForWorkerScriptsEnabled.json.
+type: test
+title: StrictMimetypeCheckForWorkerScriptsEnabled policy pref mapping test data
+summary: Simple test data mapping the StrictMimetypeCheckForWorkerScriptsEnabled policy to the strict MIME type check preference for worker scripts.

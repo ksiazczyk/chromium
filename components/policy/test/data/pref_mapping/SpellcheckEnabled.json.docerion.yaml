@@ -1,0 +1,4 @@
+# Docerion header of SpellcheckEnabled.json.
+type: test
+title: SpellcheckEnabled policy pref mapping test data
+summary: Test data mapping the SpellcheckEnabled policy to the browser.enable_spellchecking preference across win, linux, mac, chromeos and fuchsia.

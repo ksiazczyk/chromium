@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceNetworkTelemetryCollectionRateMs.json.
+type: test
+title: ReportDeviceNetworkTelemetryCollectionRateMs pref mapping test data
+summary: Pref mapping test data stating that the ReportDeviceNetworkTelemetryCollectionRateMs policy maps into CrosSettings, so no pref mapping test applies.

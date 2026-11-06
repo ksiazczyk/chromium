@@ -1,0 +1,4 @@
+# Docerion header of UnsafelyTreatInsecureOriginAsSecure.json.
+type: test
+title: UnsafelyTreatInsecureOriginAsSecure policy pref mapping test data
+summary: Test data verifying the UnsafelyTreatInsecureOriginAsSecure policy sets the unsafely_treat_insecure_origin_as_secure pref on Windows, Linux, Mac and Fuchsia.

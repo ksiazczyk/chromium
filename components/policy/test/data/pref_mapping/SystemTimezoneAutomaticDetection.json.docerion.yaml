@@ -1,0 +1,4 @@
+# Docerion header of SystemTimezoneAutomaticDetection.json.
+type: test
+title: SystemTimezoneAutomaticDetection pref mapping placeholder
+summary: Placeholder noting that the SystemTimezoneAutomaticDetection policy has no pref mapping test because it maps into CrosSettings.

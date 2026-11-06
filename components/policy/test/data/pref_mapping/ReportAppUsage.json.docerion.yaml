@@ -1,0 +1,4 @@
+# Docerion header of ReportAppUsage.json.
+type: test
+title: ReportAppUsage
+summary: Preference mapping test data for the ChromeOS-only ReportAppUsage policy, checking the reporting.report_app_usage pref with Chrome apps and extensions values.

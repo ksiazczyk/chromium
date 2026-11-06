@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceActivityTimes.json.
+type: test
+title: ReportDeviceActivityTimes pref mapping test data
+summary: Test data entry explaining that the ReportDeviceActivityTimes policy has no pref mapping test because it maps into CrosSettings.

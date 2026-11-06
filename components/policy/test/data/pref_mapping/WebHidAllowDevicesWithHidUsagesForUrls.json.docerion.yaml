@@ -1,0 +1,4 @@
+# Docerion header of WebHidAllowDevicesWithHidUsagesForUrls.json.
+type: test
+title: WebHidAllowDevicesWithHidUsagesForUrls pref mapping test data
+summary: JSON test data checking that the WebHidAllowDevicesWithHidUsagesForUrls policy sets the managed web_hid_allow_devices_with_hid_usages_for_urls pref across all supported platforms.

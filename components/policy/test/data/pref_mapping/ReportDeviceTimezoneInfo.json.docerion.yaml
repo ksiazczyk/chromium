@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceTimezoneInfo.json.
+type: test
+title: ReportDeviceTimezoneInfo
+summary: Pref mapping test data for the ReportDeviceTimezoneInfo policy, noting that no test case exists because the policy maps into CrosSettings.

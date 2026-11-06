@@ -1,0 +1,4 @@
+# Docerion header of WebRtcEventLogCollectionAllowed.json.
+type: test
+title: WebRtcEventLogCollectionAllowed pref mapping test data
+summary: Test data verifying that the WebRtcEventLogCollectionAllowed policy maps to the webrtc.event_logs_collection pref with boolean values.

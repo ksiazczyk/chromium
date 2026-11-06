@@ -1,0 +1,4 @@
+# Docerion header of ShowHumanPresenceSensorScreenEnabled.json.
+type: test
+title: ShowHumanPresenceSensorScreenEnabled policy pref mapping test data
+summary: Test data verifying that the ShowHumanPresenceSensorScreenEnabled policy maps to the ash.human_presence_sensor_scren_oobe_enabled preference on ChromeOS.

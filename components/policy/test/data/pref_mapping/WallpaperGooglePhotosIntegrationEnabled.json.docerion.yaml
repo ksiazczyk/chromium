@@ -1,0 +1,4 @@
+# Docerion header of WallpaperGooglePhotosIntegrationEnabled.json.
+type: test
+title: WallpaperGooglePhotosIntegrationEnabled pref mapping test data
+summary: ChromeOS-only pref mapping test verifying the wallpaper_google_photos_integration_enabled pref with true and false values.

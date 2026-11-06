@@ -1,0 +1,4 @@
+# Docerion header of RestrictedManagedGuestSessionExtensionCleanupExemptList.json.
+type: test
+title: RestrictedManagedGuestSessionExtensionCleanupExemptList pref mapping test data
+summary: Test data verifying that the policy maps to the restricted managed guest session extension cleanup exempt list preference with sample extension IDs on ChromeOS.

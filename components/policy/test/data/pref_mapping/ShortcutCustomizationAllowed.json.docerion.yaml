@@ -1,0 +1,4 @@
+# Docerion header of ShortcutCustomizationAllowed.json.
+type: test
+title: ShortcutCustomizationAllowed policy pref mapping test data
+summary: Test data mapping the ShortcutCustomizationAllowed policy to the ash.shortcut_customization_allowed preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of SuppressDifferentOriginSubframeDialogs.json.
+type: test
+title: SuppressDifferentOriginSubframeDialogs pref mapping test
+summary: Test fixture verifying the SuppressDifferentOriginSubframeDialogs policy maps to the suppress_different_origin_subframe_js_dialogs pref across six platforms.

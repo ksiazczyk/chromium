@@ -1,0 +1,4 @@
+# Docerion header of RestrictAccountsToPatterns.json.
+type: test
+title: RestrictAccountsToPatterns policy test placeholder
+summary: Test data entry recording that no pref mapping test exists for RestrictAccountsToPatterns because the policy was removed.

@@ -1,0 +1,4 @@
+# Docerion header of SystemShortcutBehavior.json.
+type: test
+title: SystemShortcutBehavior pref mapping test data
+summary: Test data mapping the SystemShortcutBehavior policy to the ash.settings.system_shortcut_behavior pref on ChromeOS with values 0 to 4.

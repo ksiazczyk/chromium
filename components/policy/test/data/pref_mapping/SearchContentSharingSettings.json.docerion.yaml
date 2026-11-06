@@ -1,0 +1,4 @@
+# Docerion header of SearchContentSharingSettings.json.
+type: test
+title: SearchContentSharingSettings policy pref mapping test data
+summary: Simple policy pref mapping test data for the search content sharing settings pref on Android and desktop platforms.

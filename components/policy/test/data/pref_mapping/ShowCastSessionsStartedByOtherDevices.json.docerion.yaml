@@ -1,0 +1,4 @@
+# Docerion header of ShowCastSessionsStartedByOtherDevices.json.
+type: test
+title: ShowCastSessionsStartedByOtherDevices policy pref mapping test data
+summary: Test data mapping the ShowCastSessionsStartedByOtherDevices policy to the media_router.show_cast_sessions_started_by_other_devices.enabled preference.

@@ -1,0 +1,4 @@
+# Docerion header of StandardizedBrowserZoomEnabled.json.
+type: test
+title: StandardizedBrowserZoomEnabled policy pref mapping test data
+summary: Simple test data mapping the StandardizedBrowserZoomEnabled policy to the standardized browser zoom preference across six platforms.

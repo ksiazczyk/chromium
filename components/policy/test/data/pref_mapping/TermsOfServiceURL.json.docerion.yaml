@@ -1,0 +1,4 @@
+# Docerion header of TermsOfServiceURL.json.
+type: test
+title: TermsOfServiceURL policy pref mapping test data
+summary: Test data for the policy pref mapping test that maps the TermsOfServiceURL policy to the terms_of_service.url preference on ChromeOS.

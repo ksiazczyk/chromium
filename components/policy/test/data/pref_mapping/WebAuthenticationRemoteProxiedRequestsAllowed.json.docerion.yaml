@@ -1,0 +1,4 @@
+# Docerion header of WebAuthenticationRemoteProxiedRequestsAllowed.json.
+type: test
+title: WebAuthenticationRemoteProxiedRequestsAllowed policy pref mapping test data
+summary: Test data verifying the WebAuthenticationRemoteProxiedRequestsAllowed policy maps to the webauthn.remote_proxied_requests_allowed pref.

@@ -1,0 +1,4 @@
+# Docerion header of ReportUploadFrequency.json.
+type: test
+title: ReportUploadFrequency pref mapping test data
+summary: Declares that the ReportUploadFrequency policy has no pref mapping test because it maps into CrosSettings.

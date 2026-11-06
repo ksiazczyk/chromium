@@ -1,0 +1,4 @@
+# Docerion header of SensorsBlockedForUrls.json.
+type: test
+title: SensorsBlockedForUrls pref mapping test data
+summary: Test data checking that the SensorsBlockedForUrls policy maps to the managed_sensors_blocked_for_urls preference with URL patterns.

@@ -1,0 +1,4 @@
+# Docerion header of SyncTypesListDisabled.json.
+type: test
+title: SyncTypesListDisabled pref mapping test
+summary: Test fixture verifying the SyncTypesListDisabled policy disables individual sync type prefs, with additional ChromeOS cases for OS-level sync preferences.

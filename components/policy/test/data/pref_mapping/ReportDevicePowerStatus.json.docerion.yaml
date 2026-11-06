@@ -1,0 +1,4 @@
+# Docerion header of ReportDevicePowerStatus.json.
+type: test
+title: ReportDevicePowerStatus pref mapping test data
+summary: Pref mapping test data stating that the ReportDevicePowerStatus policy maps into CrosSettings, so no pref mapping test applies.

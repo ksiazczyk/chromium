@@ -1,0 +1,4 @@
+# Docerion header of UserFeedbackAllowed.json.
+type: test
+title: UserFeedbackAllowed pref mapping test
+summary: Policy pref mapping test data checking that UserFeedbackAllowed sets the feedback_allowed pref, defaulting to true, across Android, Windows, Linux, Mac, ChromeOS and Fuchsia.

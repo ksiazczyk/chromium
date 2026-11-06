@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceSignalStrengthEventDrivenTelemetry.json.
+type: test
+title: ReportDeviceSignalStrengthEventDrivenTelemetry
+summary: Pref mapping test data for the ReportDeviceSignalStrengthEventDrivenTelemetry policy, noting that no test case exists because the policy maps into CrosSettings.

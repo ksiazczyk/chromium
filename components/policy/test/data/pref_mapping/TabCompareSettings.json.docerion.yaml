@@ -1,0 +1,4 @@
+# Docerion header of TabCompareSettings.json.
+type: test
+title: TabCompareSettings pref mapping test data
+summary: Test data mapping the TabCompareSettings policy to the optimization guide tab compare settings pref, including the enterprise default.

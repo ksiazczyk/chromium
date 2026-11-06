@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceBacklightInfo.json.
+type: test
+title: ReportDeviceBacklightInfo pref mapping test data
+summary: Test data entry explaining that the ReportDeviceBacklightInfo policy has no pref mapping test because it maps into CrosSettings.

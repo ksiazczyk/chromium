@@ -1,0 +1,4 @@
+# Docerion header of ReportAppUsageCollectionRateMs.json.
+type: test
+title: ReportAppUsageCollectionRateMs
+summary: Preference mapping test data for the ChromeOS-only ReportAppUsageCollectionRateMs policy, checking the reporting.report_app_usage_collection_rate_ms pref value.

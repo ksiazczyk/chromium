@@ -1,0 +1,4 @@
+# Docerion header of SpellcheckLanguageBlocklist.json.
+type: test
+title: SpellcheckLanguageBlocklist policy pref mapping test data
+summary: Test cases for the SpellcheckLanguageBlocklist policy covering defaults plus precedence over SpellcheckEnabled and SpellcheckLanguage for blocked dictionaries.

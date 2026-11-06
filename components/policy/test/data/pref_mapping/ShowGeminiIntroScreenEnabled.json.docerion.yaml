@@ -1,0 +1,4 @@
+# Docerion header of ShowGeminiIntroScreenEnabled.json.
+type: test
+title: ShowGeminiIntroScreenEnabled policy pref mapping test data
+summary: Test data verifying that the ShowGeminiIntroScreenEnabled policy maps to the ash.gemini_intro_screen_oobe_enabled preference on ChromeOS.

@@ -1,0 +1,4 @@
+# Docerion header of ShowFullUrlsInAddressBar.json.
+type: test
+title: ShowFullUrlsInAddressBar policy pref mapping test data
+summary: Test data verifying that the ShowFullUrlsInAddressBar policy maps to the omnibox.prevent_url_elisions preference across all supported platforms.

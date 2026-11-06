@@ -1,0 +1,4 @@
+# Docerion header of TaskManagerEndProcessEnabled.json.
+type: test
+title: TaskManagerEndProcessEnabled policy pref mapping test data
+summary: Test data for the policy pref mapping test that maps the TaskManagerEndProcessEnabled policy to the task_manager.end_process_enabled local state preference.

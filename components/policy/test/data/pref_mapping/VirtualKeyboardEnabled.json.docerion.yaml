@@ -1,0 +1,4 @@
+# Docerion header of VirtualKeyboardEnabled.json.
+type: test
+title: VirtualKeyboardEnabled policy pref mapping test data
+summary: Maps the ChromeOS VirtualKeyboardEnabled policy to the settings.a11y.virtual_keyboard accessibility preference.

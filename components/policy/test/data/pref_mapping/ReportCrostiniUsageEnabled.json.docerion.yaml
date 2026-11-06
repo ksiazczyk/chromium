@@ -1,0 +1,4 @@
+# Docerion header of ReportCrostiniUsageEnabled.json.
+type: test
+title: ReportCrostiniUsageEnabled pref mapping test data
+summary: Test data mapping the ReportCrostiniUsageEnabled policy to the crostini.usage_reporting_enabled pref on ChromeOS, with true and false values to test.

@@ -1,0 +1,4 @@
+# Docerion header of WebRtcUdpPortRange.json.
+type: test
+title: WebRtcUdpPortRange pref mapping test data
+summary: Test data mapping the WebRtcUdpPortRange policy to the webrtc.udp_port_range preference, checking a sample port range value on six platforms.

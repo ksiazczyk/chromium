@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceUsers.json.
+type: test
+title: ReportDeviceUsers
+summary: Pref mapping test data for the ReportDeviceUsers policy, noting that no test case exists because the policy maps into CrosSettings.

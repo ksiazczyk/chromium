@@ -1,0 +1,4 @@
+# Docerion header of UserSecurityAuthenticatedReporting.json.
+type: test
+title: UserSecurityAuthenticatedReporting policy pref mapping test data
+summary: Maps the UserSecurityAuthenticatedReporting policy to the enterprise_reporting.user_security_signals.authenticated preference across desktop and Android platforms.

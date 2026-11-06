@@ -1,0 +1,4 @@
+# Docerion header of RestrictPdfSaveToGoogleDriveAccountsToPattern.json.
+type: test
+title: RestrictPdfSaveToGoogleDriveAccountsToPattern pref mapping test data
+summary: Test data verifying that the policy maps to the pdf.restrict_save_to_drive_accounts_to_pattern local state preference with example email patterns on desktop platforms.

@@ -1,0 +1,4 @@
+# Docerion header of ScreenLockDelays.json.
+type: test
+title: ScreenLockDelays policy pref mapping test data
+summary: Policy pref mapping test data verifying the ScreenLockDelays policy sets ChromeOS AC and battery screen lock delay prefs, including defaults and precedence over deprecated policies.

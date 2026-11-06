@@ -1,0 +1,4 @@
+# Docerion header of RoamingProfileSupportEnabled.json.
+type: test
+title: RoamingProfileSupportEnabled policy pref mapping test data
+summary: Test data checking that the RoamingProfileSupportEnabled policy controls the sync.enable_local_sync_backend pref on Windows, Linux, Mac and Fuchsia.

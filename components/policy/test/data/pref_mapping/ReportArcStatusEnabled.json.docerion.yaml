@@ -1,0 +1,4 @@
+# Docerion header of ReportArcStatusEnabled.json.
+type: test
+title: ReportArcStatusEnabled pref mapping test data
+summary: Test data mapping the ReportArcStatusEnabled policy to the arc.status_reporting_enabled pref on ChromeOS, with true and false values to test.

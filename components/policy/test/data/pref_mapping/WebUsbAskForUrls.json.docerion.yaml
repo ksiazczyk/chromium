@@ -1,0 +1,4 @@
+# Docerion header of WebUsbAskForUrls.json.
+type: test
+title: WebUsbAskForUrls pref mapping test data
+summary: Test data mapping the WebUsbAskForUrls policy to the profile.managed_web_usb_ask_for_urls preference with a URL pattern value.

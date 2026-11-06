@@ -1,0 +1,4 @@
+# Docerion header of WebXRImmersiveArEnabled.json.
+type: test
+title: WebXRImmersiveArEnabled pref mapping test data
+summary: Android test data mapping the WebXRImmersiveArEnabled policy to the webxr.immersive_ar_enabled preference, with a TODO noting the test is not yet enabled.

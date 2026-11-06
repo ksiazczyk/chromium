@@ -1,0 +1,4 @@
+# Docerion header of ReportExtensionsAndPluginsData.json.
+type: test
+title: ReportExtensionsAndPluginsData
+summary: Pref mapping test data for the ReportExtensionsAndPluginsData policy, noting that no test case exists yet per TODO crbug.com/40768762.

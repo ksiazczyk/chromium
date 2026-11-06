@@ -1,0 +1,4 @@
+# Docerion header of SubAppsWithoutPromptsAllowedForOrigins.json.
+type: test
+title: SubAppsWithoutPromptsAllowedForOrigins policy pref mapping test data
+summary: Simple test data mapping the SubAppsWithoutPromptsAllowedForOrigins policy to a list of isolated-app origins allowed without prompts.

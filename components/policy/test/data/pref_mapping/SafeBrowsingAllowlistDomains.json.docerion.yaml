@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingAllowlistDomains.json.
+type: test
+title: SafeBrowsingAllowlistDomains policy pref mapping test data
+summary: Test data verifying the SafeBrowsingAllowlistDomains policy maps to the safebrowsing.safe_browsing_whitelist_domains pref with domain list values.

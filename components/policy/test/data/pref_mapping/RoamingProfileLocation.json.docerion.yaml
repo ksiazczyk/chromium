@@ -1,0 +1,4 @@
+# Docerion header of RoamingProfileLocation.json.
+type: test
+title: RoamingProfileLocation pref mapping test data
+summary: Test data verifying that the policy maps to the sync.local_sync_backend_dir preference with platform-specific paths on Windows, Linux and Mac, including default value checks.

@@ -1,0 +1,4 @@
+# Docerion header of ThrottleNonVisibleCrossOriginIframesAllowed.json.
+type: test
+title: ThrottleNonVisibleCrossOriginIframesAllowed removed policy placeholder
+summary: Placeholder test data stating that no pref mapping test exists for the ThrottleNonVisibleCrossOriginIframesAllowed policy because the policy was removed.

@@ -1,0 +1,4 @@
+# Docerion header of SystemTerminalSshAllowed.json.
+type: test
+title: SystemTerminalSshAllowed pref mapping test data
+summary: Test data verifying that the SystemTerminalSshAllowed policy controls the crostini.terminal_ssh_allowed_by_policy pref on ChromeOS.

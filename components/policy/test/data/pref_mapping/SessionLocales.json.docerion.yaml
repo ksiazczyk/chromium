@@ -1,0 +1,4 @@
+# Docerion header of SessionLocales.json.
+type: test
+title: SessionLocales policy pref mapping test placeholder
+summary: Placeholder recording that pref mapping test cases for the SessionLocales policy are still missing, with a TODO referencing a Chromium bug.

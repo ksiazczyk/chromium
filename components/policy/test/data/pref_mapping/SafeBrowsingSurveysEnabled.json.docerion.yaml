@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingSurveysEnabled.json.
+type: test
+title: SafeBrowsingSurveysEnabled pref mapping test data
+summary: Simple policy pref mapping test checking the safebrowsing.surveys_enabled pref for true and false values on desktop platforms.

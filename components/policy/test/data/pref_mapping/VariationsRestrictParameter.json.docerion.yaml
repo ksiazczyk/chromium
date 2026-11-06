@@ -1,0 +1,4 @@
+# Docerion header of VariationsRestrictParameter.json.
+type: test
+title: VariationsRestrictParameter policy pref mapping test data
+summary: Maps the VariationsRestrictParameter policy to the local-state variations_restrict_parameter preference, with an Android test still pending per a TODO.

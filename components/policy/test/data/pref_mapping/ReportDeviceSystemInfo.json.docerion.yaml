@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceSystemInfo.json.
+type: test
+title: ReportDeviceSystemInfo
+summary: Pref mapping test data for the ReportDeviceSystemInfo policy, noting that no test case exists because the policy maps into CrosSettings.

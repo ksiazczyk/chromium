@@ -1,0 +1,4 @@
+# Docerion header of TranslateEnabled.json.
+type: test
+title: TranslateEnabled policy pref mapping test data
+summary: Test data verifying that the TranslateEnabled policy maps to the translate.enabled pref with default true on Windows, Linux, Mac, ChromeOS, Android and Fuchsia.

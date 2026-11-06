@@ -1,0 +1,4 @@
+# Docerion header of XSLTEnabled.json.
+type: test
+title: XSLTEnabled policy pref mapping test data
+summary: Test fixture checking that the XSLTEnabled policy maps to the xslt_enabled pref with true and false values across win, linux, mac, chromeos, android and fuchsia.

@@ -1,0 +1,4 @@
+# Docerion header of RendererAccessibilityEnabled.json.
+type: test
+title: RendererAccessibilityEnabled
+summary: Preference mapping test data for the RendererAccessibilityEnabled policy, checking the settings.a11y.renderer_accessibility_enabled user profile pref on five platforms.

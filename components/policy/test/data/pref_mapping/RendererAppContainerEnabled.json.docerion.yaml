@@ -1,0 +1,4 @@
+# Docerion header of RendererAppContainerEnabled.json.
+type: test
+title: RendererAppContainerEnabled
+summary: Preference mapping test data for the Windows-only RendererAppContainerEnabled policy, checking the renderer_app_container_enabled local state pref.

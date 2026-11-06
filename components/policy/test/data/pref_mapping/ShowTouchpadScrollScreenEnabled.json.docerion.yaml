@@ -1,0 +1,4 @@
+# Docerion header of ShowTouchpadScrollScreenEnabled.json.
+type: test
+title: ShowTouchpadScrollScreenEnabled policy pref mapping test data
+summary: Test data verifying that the ShowTouchpadScrollScreenEnabled policy maps to the ash.touchpad_scroll_screen_oobe_enabled preference on ChromeOS.

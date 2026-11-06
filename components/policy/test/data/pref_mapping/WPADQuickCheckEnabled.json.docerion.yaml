@@ -1,0 +1,4 @@
+# Docerion header of WPADQuickCheckEnabled.json.
+type: test
+title: WPADQuickCheckEnabled pref mapping test data
+summary: Pref mapping test for the proxy.quick_check_enabled local state pref across Windows, Linux, Mac, ChromeOS and Fuchsia.

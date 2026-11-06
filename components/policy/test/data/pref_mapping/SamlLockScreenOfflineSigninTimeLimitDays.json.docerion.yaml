@@ -1,0 +1,4 @@
+# Docerion header of SamlLockScreenOfflineSigninTimeLimitDays.json.
+type: test
+title: SamlLockScreenOfflineSigninTimeLimitDays pref mapping test data
+summary: ChromeOS policy pref mapping test verifying the saml.lock_screen_offline_signin_time_limit pref, including clamping of out-of-range values.

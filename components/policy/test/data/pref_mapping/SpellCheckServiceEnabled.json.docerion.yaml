@@ -1,0 +1,4 @@
+# Docerion header of SpellCheckServiceEnabled.json.
+type: test
+title: SpellCheckServiceEnabled policy pref mapping test data
+summary: Policy pref mapping test data checking that the SpellCheckServiceEnabled policy sets the spellcheck.use_spelling_service pref and can be recommended, across five platforms.

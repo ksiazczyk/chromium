@@ -1,0 +1,4 @@
+# Docerion header of UserDataSnapshotRetentionLimit.json.
+type: test
+title: UserDataSnapshotRetentionLimit pref mapping test
+summary: Policy pref mapping test data checking that UserDataSnapshotRetentionLimit sets the downgrade.snapshot_retention_limit local state pref, defaulting to 3, on Windows, Linux, Mac and Fuchsia.

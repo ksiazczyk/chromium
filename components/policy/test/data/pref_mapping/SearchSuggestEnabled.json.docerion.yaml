@@ -1,0 +1,4 @@
+# Docerion header of SearchSuggestEnabled.json.
+type: test
+title: SearchSuggestEnabled pref mapping test data
+summary: Test data checking that the SearchSuggestEnabled policy maps to the search.suggest_enabled preference with true and false values across all supported platforms.

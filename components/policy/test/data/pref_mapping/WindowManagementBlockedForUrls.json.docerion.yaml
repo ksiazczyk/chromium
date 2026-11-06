@@ -1,0 +1,4 @@
+# Docerion header of WindowManagementBlockedForUrls.json.
+type: test
+title: WindowManagementBlockedForUrls policy pref mapping test data
+summary: Test fixture verifying that the WindowManagementBlockedForUrls policy sets the managed window management blocked-for-URLs pref on win, linux, mac, chromeos and fuchsia.

@@ -1,0 +1,4 @@
+# Docerion header of ScreenDimDelayAC.json.
+type: test
+title: ScreenDimDelayAC pref mapping test data
+summary: Policy pref mapping test data verifying ScreenDimDelayAC sets the power.ac_screen_dim_delay_ms pref, including clamping negative values to zero.

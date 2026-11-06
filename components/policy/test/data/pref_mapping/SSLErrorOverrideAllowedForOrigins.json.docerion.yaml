@@ -1,0 +1,4 @@
+# Docerion header of SSLErrorOverrideAllowedForOrigins.json.
+type: test
+title: SSLErrorOverrideAllowedForOrigins policy pref mapping test data
+summary: Test data verifying the SSLErrorOverrideAllowedForOrigins policy maps to the ssl.error_override_allowed_for_origins pref with origin list values.

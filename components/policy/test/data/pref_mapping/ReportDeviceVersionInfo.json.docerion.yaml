@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceVersionInfo.json.
+type: test
+title: ReportDeviceVersionInfo
+summary: Pref mapping test data for the ReportDeviceVersionInfo policy, noting that no test case exists because the policy maps into CrosSettings.

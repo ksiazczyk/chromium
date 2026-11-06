@@ -1,0 +1,4 @@
+# Docerion header of ReportDeviceGraphicsStatus.json.
+type: test
+title: ReportDeviceGraphicsStatus pref mapping test data
+summary: Test fixture noting that the ReportDeviceGraphicsStatus policy has no pref mapping test because it maps into CrosSettings.

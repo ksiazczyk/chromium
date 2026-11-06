@@ -1,0 +1,4 @@
+# Docerion header of SerialAllowUsbDevicesForUrls.json.
+type: test
+title: SerialAllowUsbDevicesForUrls policy pref mapping test data
+summary: Test fixture verifying the SerialAllowUsbDevicesForUrls policy sets the managed serial_allow_usb_devices_for_urls pref with device and URL pairs across all supported platforms.

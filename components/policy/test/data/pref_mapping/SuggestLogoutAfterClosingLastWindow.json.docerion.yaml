@@ -1,0 +1,4 @@
+# Docerion header of SuggestLogoutAfterClosingLastWindow.json.
+type: test
+title: SuggestLogoutAfterClosingLastWindow pref mapping test
+summary: Test fixture verifying the SuggestLogoutAfterClosingLastWindow policy maps to the suggest_logout_after_closing_last_window pref on ChromeOS with true and false values.

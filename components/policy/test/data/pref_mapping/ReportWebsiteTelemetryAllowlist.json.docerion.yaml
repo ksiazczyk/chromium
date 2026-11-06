@@ -1,0 +1,4 @@
+# Docerion header of ReportWebsiteTelemetryAllowlist.json.
+type: test
+title: ReportWebsiteTelemetryAllowlist pref mapping test
+summary: ChromeOS pref mapping test verifying the ReportWebsiteTelemetryAllowlist policy sets reporting.report_website_telemetry_allowlist with URL pattern values.

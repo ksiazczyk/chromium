@@ -1,0 +1,4 @@
+# Docerion header of RemoteAccessHostTokenUrl.json.
+type: test
+title: RemoteAccessHostTokenUrl
+summary: Test data noting that no preference mapping test exists for the RemoteAccessHostTokenUrl policy because it was deprecated in M127.

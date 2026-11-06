@@ -1,0 +1,4 @@
+# Docerion header of ReportCRDSessions.json.
+type: test
+title: ReportCRDSessions pref mapping test data
+summary: Test data entry explaining that the ReportCRDSessions policy has no pref mapping test because it maps into CrosSettings.

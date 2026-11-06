@@ -1,0 +1,4 @@
+# Docerion header of WebAuthenticationRemoteDesktopAllowedOrigins.json.
+type: test
+title: WebAuthenticationRemoteDesktopAllowedOrigins policy pref mapping test data
+summary: Test data verifying the WebAuthenticationRemoteDesktopAllowedOrigins policy maps to the webauthn.remote_desktop_allowed_origins pref.

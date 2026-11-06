@@ -1,0 +1,4 @@
+# Docerion header of ShowLogoutButtonInTray.json.
+type: test
+title: ShowLogoutButtonInTray policy pref mapping test data
+summary: Test data verifying that the ShowLogoutButtonInTray policy maps to the show_logout_button_in_tray preference on ChromeOS.

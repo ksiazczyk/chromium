@@ -1,0 +1,4 @@
+# Docerion header of SecurityKeyPermitAttestation.json.
+type: test
+title: SecurityKeyPermitAttestation pref mapping test data
+summary: Test data checking that the SecurityKeyPermitAttestation policy maps to the securitykey.permit_attestation preference with a list of permitted URLs.

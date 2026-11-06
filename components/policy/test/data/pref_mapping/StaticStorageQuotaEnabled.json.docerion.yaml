@@ -1,0 +1,4 @@
+# Docerion header of StaticStorageQuotaEnabled.json.
+type: test
+title: StaticStorageQuotaEnabled policy pref mapping test data
+summary: Simple test data mapping the StaticStorageQuotaEnabled policy to the static_storage_quota_enabled preference on win, linux, mac, chromeos and android.

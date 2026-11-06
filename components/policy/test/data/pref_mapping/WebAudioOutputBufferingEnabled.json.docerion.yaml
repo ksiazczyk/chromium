@@ -1,0 +1,4 @@
+# Docerion header of WebAudioOutputBufferingEnabled.json.
+type: test
+title: WebAudioOutputBufferingEnabled policy pref mapping test data
+summary: Test data verifying the WebAudioOutputBufferingEnabled policy maps to the web_audio_output_buffering_enabled pref.

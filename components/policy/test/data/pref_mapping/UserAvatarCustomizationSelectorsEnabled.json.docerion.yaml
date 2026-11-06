@@ -1,0 +1,4 @@
+# Docerion header of UserAvatarCustomizationSelectorsEnabled.json.
+type: test
+title: UserAvatarCustomizationSelectorsEnabled pref mapping test
+summary: Policy pref mapping test data checking that UserAvatarCustomizationSelectorsEnabled sets the user_avatar_customization_selectors_enabled pref on ChromeOS with true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of UsbDetectorNotificationEnabled.json.
+type: test
+title: UsbDetectorNotificationEnabled policy pref mapping test data
+summary: Simple mapping test checking the UsbDetectorNotificationEnabled policy sets the ash.usb_detector_notification_enabled pref on ChromeOS.

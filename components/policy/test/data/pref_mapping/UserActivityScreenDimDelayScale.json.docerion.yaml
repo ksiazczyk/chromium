@@ -1,0 +1,4 @@
+# Docerion header of UserActivityScreenDimDelayScale.json.
+type: test
+title: UserActivityScreenDimDelayScale policy pref mapping test data
+summary: Test data verifying the UserActivityScreenDimDelayScale policy sets the power.user_activity_screen_dim_delay_factor pref on ChromeOS.

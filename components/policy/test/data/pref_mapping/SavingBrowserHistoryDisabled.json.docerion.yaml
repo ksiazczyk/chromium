@@ -1,0 +1,4 @@
+# Docerion header of SavingBrowserHistoryDisabled.json.
+type: test
+title: SavingBrowserHistoryDisabled pref mapping test data
+summary: Simple policy pref mapping test checking the history.saving_disabled pref for true and false values.

@@ -1,0 +1,4 @@
+# Docerion header of SafeBrowsingProtectionLevel.json.
+type: test
+title: SafeBrowsingProtectionLevel pref mapping test data
+summary: Test data verifying how the SafeBrowsingProtectionLevel policy maps to safebrowsing prefs, including cases where it overrules SafeBrowsingEnabled.
