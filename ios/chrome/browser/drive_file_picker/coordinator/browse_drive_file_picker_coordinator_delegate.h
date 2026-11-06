@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browse Drive file picker coordinator delegate protocol
+// summary: Declares the delegate protocol for BrowseDriveFilePickerCoordinator with callbacks for stopping, option updates, adding an account, dismissal, and item picking.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_COORDINATOR_BROWSE_DRIVE_FILE_PICKER_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_COORDINATOR_BROWSE_DRIVE_FILE_PICKER_COORDINATOR_DELEGATE_H_
 

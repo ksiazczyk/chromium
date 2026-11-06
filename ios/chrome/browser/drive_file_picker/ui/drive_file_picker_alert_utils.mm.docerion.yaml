@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_alert_utils.mm.
+type: source
+title: Drive file picker alert utilities implementation
+summary: Implements download failure and discard selection alerts with retry, cancel, keep, and discard actions.

@@ -1,0 +1,4 @@
+# Docerion header of root_drive_file_picker_coordinator.mm.
+type: source
+title: Root Drive file picker coordinator implementation
+summary: Implements the root coordinator that presents the Drive file picker, handling sign-in, profile change confirmation and forwarding picked results.

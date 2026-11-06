@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file picker navigation controller header
+// summary: Declares a UINavigationController subclass that allows navigation across the user's Drive folders in the file picker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_UI_DRIVE_FILE_PICKER_NAVIGATION_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_UI_DRIVE_FILE_PICKER_NAVIGATION_CONTROLLER_H_
 

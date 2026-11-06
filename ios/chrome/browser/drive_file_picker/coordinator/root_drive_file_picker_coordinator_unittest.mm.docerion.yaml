@@ -1,0 +1,4 @@
+# Docerion header of root_drive_file_picker_coordinator_unittest.mm.
+type: test
+title: Root Drive file picker coordinator unit tests
+summary: Unit tests for the root Drive file picker coordinator using fake identities, test profiles and a fake web state.

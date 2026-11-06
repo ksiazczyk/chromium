@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file picker constants and enums
+// summary: Declares accessibility and item identifier constants plus enums for first-level options, collection types, download status, and backgrounds.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_UI_DRIVE_FILE_PICKER_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_UI_DRIVE_FILE_PICKER_CONSTANTS_H_
 

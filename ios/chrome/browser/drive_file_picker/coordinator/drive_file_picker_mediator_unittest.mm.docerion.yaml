@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_mediator_unittest.mm.
+type: test
+title: DriveFilePickerMediator unit tests
+summary: Unit tests for the Drive file picker mediator using fake Drive services, a mock image fetcher, and test identity and sync infrastructure.

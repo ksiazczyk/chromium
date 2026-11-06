@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Drive file picker test build targets
+summary: Defines GN source sets for the Drive file picker Earl Grey tests plus their app-side and stub test support targets.

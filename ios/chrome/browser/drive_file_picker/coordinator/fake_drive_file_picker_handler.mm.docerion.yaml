@@ -1,0 +1,4 @@
+# Docerion header of fake_drive_file_picker_handler.mm.
+type: source
+title: Fake Drive file picker handler
+summary: Implements a fake Drive file picker command handler with empty no-op methods, serving as a test stub for the picker commands.

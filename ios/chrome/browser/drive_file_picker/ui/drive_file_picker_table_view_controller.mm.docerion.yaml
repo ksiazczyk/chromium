@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_table_view_controller.mm.
+type: source
+title: Drive file picker table view controller implementation
+summary: Implements the Drive file picker list UI, including the branded Google Drive title, cell configuration, sections, and interactions for browsing and selecting files.

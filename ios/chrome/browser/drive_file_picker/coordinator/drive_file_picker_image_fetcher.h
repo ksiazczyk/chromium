@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file picker image fetcher header
+// summary: Declares DriveFilePickerImageFetcher, which fetches Drive item images from cache or network and reports fetch progress and cached images.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_COORDINATOR_DRIVE_FILE_PICKER_IMAGE_FETCHER_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_COORDINATOR_DRIVE_FILE_PICKER_IMAGE_FETCHER_H_
 

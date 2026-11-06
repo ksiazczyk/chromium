@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_app_interface_stub.mm.
+type: test
+title: Drive file picker app interface stub
+summary: Provides a stub registration of the Drive file picker app interface for the Earl Grey test support target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file picker cell content configuration interface
+// summary: Declares a UIContentConfiguration for Drive file picker cells with enabled and shortcut states.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_UI_DRIVE_FILE_PICKER_CELL_CONTENT_CONFIGURATION_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_UI_DRIVE_FILE_PICKER_CELL_CONTENT_CONFIGURATION_H_
 

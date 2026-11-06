@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_mediator.mm.
+type: source
+title: DriveFilePickerMediator implementation
+summary: Implements the Drive file picker mediator, handling item fetching with retries, file downloads, search, and file selection for web file input and composebox.

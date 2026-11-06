@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Drive file picker coordinator
+summary: Lists the directories that code in the Drive file picker coordinator directory is allowed to include from.

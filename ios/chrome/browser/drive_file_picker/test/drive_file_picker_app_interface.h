@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive file picker Earl Grey app interface header
+// summary: Declares the app interface that starts Drive file selection, builds fake Drive list results, and shows or hides the picker in tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_TEST_DRIVE_FILE_PICKER_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_DRIVE_FILE_PICKER_TEST_DRIVE_FILE_PICKER_APP_INTERFACE_H_
 

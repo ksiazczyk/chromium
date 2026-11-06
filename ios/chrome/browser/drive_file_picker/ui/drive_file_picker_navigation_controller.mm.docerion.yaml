@@ -1,0 +1,4 @@
+# Docerion header of drive_file_picker_navigation_controller.mm.
+type: source
+title: Drive file picker navigation controller implementation
+summary: Implements the Drive file picker navigation controller, updating safe area insets and sheet detents in response to keyboard frame changes.

@@ -1,0 +1,4 @@
+# Docerion header of browse_drive_file_picker_coordinator.mm.
+type: source
+title: Browse Drive file picker coordinator implementation
+summary: Implements the Browse Drive file picker coordinator, wiring the mediator, table view controller, and command dispatching for Drive file selection.
