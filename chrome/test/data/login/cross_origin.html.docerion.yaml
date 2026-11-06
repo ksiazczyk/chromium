@@ -1,0 +1,4 @@
+# Docerion header of cross_origin.html.
+type: test
+title: Cross-origin redirect to auth-basic page
+summary: Test page that redirects the browser via script to a cross-origin auth-basic page on the same port.

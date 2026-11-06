@@ -1,0 +1,4 @@
+# Docerion header of requestCheck.dtd.
+type: test
+title: DTD for Mac installer update check request XML
+summary: Document type definition that validates the structure of XML request bodies sent by the Mac installer update check.

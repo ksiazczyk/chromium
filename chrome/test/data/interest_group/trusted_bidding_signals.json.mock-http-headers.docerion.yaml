@@ -1,0 +1,4 @@
+# Docerion header of trusted_bidding_signals.json.mock-http-headers.
+type: test
+title: Mock HTTP headers for trusted bidding signals
+summary: 'Defines mock HTTP response headers, including Ad-Auction-Allowed: true, served with the trusted bidding signals JSON in tests.'

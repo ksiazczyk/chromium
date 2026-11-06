@@ -1,0 +1,4 @@
+# Docerion header of hats_next_mock.html.
+type: test
+title: HaTS Next mock survey page for browser tests
+summary: Mock HaTS Next survey page that reacts to trigger_id URL parameters to simulate loading, closing, resizing, and opening new web contents during browser tests.

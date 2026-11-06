@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page script driving web worker requests
+// summary: Page-side helper that starts a web worker and relays fetch or WebTransport open and close requests to it, resolving with the worker's reply.
+// ---
+
 const params = new URLSearchParams(location.search);
 const start_worker_manually = params.has('start_worker_manually');
 

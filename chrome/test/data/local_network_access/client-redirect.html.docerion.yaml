@@ -1,0 +1,4 @@
+# Docerion header of client-redirect.html.
+type: test
+title: Client redirect test page
+summary: Test page that redirects the browser to the URL passed in the ?url= query parameter, for local network access redirect scenarios.

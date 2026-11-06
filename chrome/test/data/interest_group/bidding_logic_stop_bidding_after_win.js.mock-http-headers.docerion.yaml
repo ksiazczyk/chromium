@@ -1,0 +1,4 @@
+# Docerion header of bidding_logic_stop_bidding_after_win.js.mock-http-headers.
+type: test
+title: Mock HTTP headers for bidding_logic_stop_bidding_after_win.js
+summary: Mock HTTP response headers that serve the stop-bidding-after-win bidding logic as JavaScript with Ad-Auction-Allowed set to true.

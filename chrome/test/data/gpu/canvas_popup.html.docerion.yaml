@@ -1,0 +1,4 @@
+# Docerion header of canvas_popup.html.
+type: test
+title: Canvas popup pixel check test page
+summary: Test page that draws an orange canvas in a popup window and verifies the rendered pixel color, reporting success or failure via domAutomationController.

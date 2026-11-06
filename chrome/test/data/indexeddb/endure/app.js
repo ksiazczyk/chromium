@@ -8,6 +8,12 @@
 // state, the recorded actions are drained from the store (as if being sent
 // to the server).
 
+// ---docerion
+// type: test
+// title: IndexedDB endurance test foreground script
+// summary: Foreground script that records simulated user events into IndexedDB while offline, plays them back when online, and communicates with the worker.
+// ---
+
 var $ = function(s) {
   return document.querySelector(s);
 };

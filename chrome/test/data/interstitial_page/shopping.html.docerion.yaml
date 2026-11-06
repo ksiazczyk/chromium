@@ -1,0 +1,4 @@
+# Docerion header of shopping.html.
+type: test
+title: Google Product Search test fixture
+summary: Saved copy of a Google Product Search page used as test data for Chrome's interstitial page tests.

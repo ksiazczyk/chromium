@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image decoding benchmark script
+// summary: JavaScript benchmark that repeatedly loads droids images in a format chosen via the query string and records image loading and decoding times.
+// ---
+
 // Run benchmark for at least this many milliseconds.
 var minTotalTimeMs = 10 * 1000;
 // Run benchmark at least this many times.

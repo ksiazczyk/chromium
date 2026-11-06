@@ -1,0 +1,4 @@
+# Docerion header of subframe-a.html.
+type: test
+title: Subframe A test page
+summary: Minimal HTML page with a single paragraph, loaded as a subframe by the other innerText test pages.

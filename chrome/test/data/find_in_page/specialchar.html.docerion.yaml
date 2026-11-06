@@ -1,0 +1,4 @@
+# Docerion header of specialchar.html.
+type: test
+title: Special Characters Find Test Page
+summary: Page with Chinese and Japanese text used to test finding special and multibyte characters.

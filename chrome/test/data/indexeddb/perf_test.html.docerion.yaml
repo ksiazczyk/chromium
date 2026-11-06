@@ -1,0 +1,4 @@
+# Docerion header of perf_test.html.
+type: test
+title: IndexedDB performance test page
+summary: HTML harness page that loads the shared and test scripts and displays the performance test status and results.

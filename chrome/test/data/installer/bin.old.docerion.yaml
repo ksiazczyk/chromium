@@ -1,0 +1,4 @@
+# Docerion header of bin.old.
+type: test
+title: bin.old
+summary: Tiny binary fixture in the installer test data directory, likely a placeholder or renamed file produced by the test file generation process.

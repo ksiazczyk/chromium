@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Shared worker fetch page script
+// summary: Page-side helper that connects to a shared worker and exposes fetch_from_shared_worker() to fetch URLs through the worker.
+// ---
+
 const worker = new SharedWorker('fetch-from-shared-worker-worker.js');
 
 let resolve;

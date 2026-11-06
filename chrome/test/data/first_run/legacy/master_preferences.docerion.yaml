@@ -1,0 +1,4 @@
+# Docerion header of master_preferences.
+type: test
+title: Legacy first run master preferences
+summary: Test fixture master preferences that sets a legacy Chromium page as the first run tab.

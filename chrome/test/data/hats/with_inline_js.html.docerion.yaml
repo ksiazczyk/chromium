@@ -1,0 +1,4 @@
+# Docerion header of with_inline_js.html.
+type: test
+title: HTML test page with script placeholder
+summary: Minimal HTML fixture that loads a script from a $JS_SRC placeholder, presumably substituted at test time to test inline script handling.

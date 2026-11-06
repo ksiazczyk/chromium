@@ -1,0 +1,4 @@
+# Docerion header of image_decoding.html.
+type: test
+title: Image decoding benchmark test page
+summary: HTML test page that loads image_decoding.js and provides a status element for the image decoding benchmark.

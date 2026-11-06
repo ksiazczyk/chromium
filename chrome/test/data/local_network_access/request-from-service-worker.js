@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker script for fetch and navigate requests
+// summary: Service worker that performs fetches or client navigations on message and posts the result or error back to the requesting page.
+// ---
+
 async function handleFetch(e) {
   try {
     const response = await fetch(e.data.url);

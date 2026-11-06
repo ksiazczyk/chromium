@@ -1,0 +1,4 @@
+# Docerion header of largepage.html.
+type: test
+title: Large saved Wikipedia page on British throne succession
+summary: Saved copy of a long Wikipedia article used as a large-page fixture for find-in-page tests.

@@ -1,0 +1,4 @@
+# Docerion header of webgl_popup.html.
+type: test
+title: WebGL popup test page
+summary: Test page that opens a popup with a WebGL canvas, clears it red, reads back the pixel color, and reports success or failure via the DOM automation controller.

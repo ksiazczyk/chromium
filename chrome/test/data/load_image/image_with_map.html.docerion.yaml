@@ -1,0 +1,4 @@
+# Docerion header of image_with_map.html.
+type: test
+title: Test page with an image map
+summary: Test page showing an image with a usemap image map that defines a rectangular clickable area in its top-left corner.

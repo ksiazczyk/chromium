@@ -1,0 +1,4 @@
+# Docerion header of gpuperf.txt.
+type: test
+title: GPU performance test reference data
+summary: Dictionary of GPU performance demo URLs and per-platform reference FPS values used by GPU performance tests on Windows, Linux and Mac.

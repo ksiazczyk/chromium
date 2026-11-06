@@ -1,0 +1,4 @@
+# Docerion header of premature_end.html.
+type: test
+title: Premature end search test page
+summary: Fixture with a text input whose value ends the searchable text to test find-in-page match boundaries.

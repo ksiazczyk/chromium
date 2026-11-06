@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared helpers for image load tests
+// summary: JavaScript helpers that resolve whether an image loaded successfully and send values back to the browser test harness via domAutomationController.
+// ---
+
 function checkImage() {
   return imageLoadedPromise(document.images[0]);
 }

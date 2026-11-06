@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 
 -->
+
+<!--docerion
+type: test
+title: SVG image without intrinsic size
+summary: Test fixture SVG of a blue circle with no width or height, providing an image without intrinsic size for Glic tests.
+-->
+
 <svg xmlns='http://www.w3.org/2000/svg'>
   <circle cx='50' cy='50' r='40' fill='blue'/>
 </svg>

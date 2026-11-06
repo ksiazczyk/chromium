@@ -1,0 +1,4 @@
+# Docerion header of invalid_link_to_new_window.html.
+type: test
+title: Invalid link to new window test page
+summary: Test page with a link to an invalid URL targeting a new window, used to test handling of invalid navigations.

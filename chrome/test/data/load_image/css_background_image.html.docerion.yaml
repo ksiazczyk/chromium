@@ -1,0 +1,4 @@
+# Docerion header of css_background_image.html.
+type: test
+title: CSS background image test page
+summary: Test page that loads image.png as the CSS background image of a large div element.

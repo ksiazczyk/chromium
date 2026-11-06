@@ -1,3 +1,9 @@
+---
+type: readme
+title: Import test profiles README
+summary: Describes the browser profiles in this folder, which contain history, bookmarks, saved passwords and home page data used by the import tests in chrome/test/functional/imports.py.
+---
+
 Profiles for import settings go in this folder. They are used by the tests
 in chrome/test/functional/imports.py.
 

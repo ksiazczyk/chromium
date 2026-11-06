@@ -1,0 +1,4 @@
+# Docerion header of mock_aim_page.html.
+type: test
+title: Mock AIM page for Lens testing
+summary: Mock AIM page that embeds Lens chip and button iframes and parses postMessage protobuf data for browser tests.

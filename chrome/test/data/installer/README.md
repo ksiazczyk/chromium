@@ -1,3 +1,13 @@
+---
+type: readme
+title: How to generate installer test files
+summary: Instructions for building real mini_installers and creating fake chrome archives, setup binaries, and modified executable resources used by mini_installer and unpack_archive unit tests.
+relations:
+  - documents /chrome/test/data/installer/test_chrome.7z
+  - documents /chrome/test/data/installer/test_chrome.packed.7z
+  - documents /chrome/test/data/installer/mini_installer.exe.test
+---
+
 # How to generate installer test files
 
 This README describes how to generate:

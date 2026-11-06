@@ -1,0 +1,4 @@
+# Docerion header of anchor_to_same_site_location.html.
+type: test
+title: Same-site anchor click test page
+summary: Test page with same-site anchors using no target, _blank, and subframe targets to test shift- and ctrl-clicking links.

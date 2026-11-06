@@ -1,0 +1,4 @@
+# Docerion header of feature_canvas2d.html.
+type: test
+title: GPU feature test page for Canvas2D
+summary: Test page that draws with the Canvas2D API over several frames to trigger GPU process launch when accelerated 2D canvas is allowed.

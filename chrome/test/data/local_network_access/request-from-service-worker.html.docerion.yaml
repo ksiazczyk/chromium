@@ -1,0 +1,4 @@
+# Docerion header of request-from-service-worker.html.
+type: test
+title: Service worker request test page
+summary: HTML test page that registers a service worker and forwards fetch or navigation requests to it through a message channel based on URL parameters.

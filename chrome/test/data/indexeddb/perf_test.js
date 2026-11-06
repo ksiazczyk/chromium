@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndexedDB performance test scenarios
+// summary: Defines and runs IndexedDB performance test scenarios covering database creation and deletion, random reads and writes, cursor reads, index usage, and read caching.
+// ---
+
 var overallTestStartTime = window.performance.now();
 var kUseIndex = true;
 var kDontUseIndex = false;

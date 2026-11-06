@@ -1,0 +1,4 @@
+# Docerion header of websocket.html.
+type: test
+title: WebSocket connection test page
+summary: Test page that opens a WebSocket to a URL from the query string and signals PASS or FAIL through the document title based on the close event.

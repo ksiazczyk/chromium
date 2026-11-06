@@ -9,6 +9,12 @@
 // temporary store and combined into larger records in a permanent store.
 // When in an "offline" state, nothing else happens.
 
+// ---docerion
+// type: test
+// title: IndexedDB endurance test background worker
+// summary: Web worker simulating an offline app's background process that syncs data chunks into a temporary IndexedDB store and combines them into permanent records.
+// ---
+
 function unexpectedErrorCallback(e) {
   self.postMessage({type: 'ERROR', error: {
     name: e.target.error.name,
