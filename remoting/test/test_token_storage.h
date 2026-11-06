@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTokenStorage interface
+// summary: Declares the TestTokenStorage interface for storing and retrieving test tokens, including a factory for an on-disk implementation.
+// ---
+
 #ifndef REMOTING_TEST_TEST_TOKEN_STORAGE_H_
 #define REMOTING_TEST_TEST_TOKEN_STORAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOAuthTokenGetter interface
+// summary: Declares TestOAuthTokenGetter, an OAuthTokenGetter for testing that runs the authentication flow on the console and caches or stores tokens.
+// ---
+
 #ifndef REMOTING_TEST_TEST_OAUTH_TOKEN_GETTER_H_
 #define REMOTING_TEST_TEST_OAUTH_TOKEN_GETTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlDeviceIdProvider interface
+// summary: Declares the FtlDeviceIdProvider interface whose subclasses supply the device ID used to sign in to FTL.
+// ---
+
 #ifndef REMOTING_SIGNALING_FTL_DEVICE_ID_PROVIDER_H_
 #define REMOTING_SIGNALING_FTL_DEVICE_ID_PROVIDER_H_
 

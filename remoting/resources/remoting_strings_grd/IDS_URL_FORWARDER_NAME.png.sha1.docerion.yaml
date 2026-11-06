@@ -1,0 +1,4 @@
+# Docerion header of IDS_URL_FORWARDER_NAME.png.sha1.
+type: asset
+title: SHA-1 checksum for IDS_URL_FORWARDER_NAME.png
+summary: Stores the SHA-1 hash of the PNG screenshot of the URL forwarder name string in the remoting string resources.

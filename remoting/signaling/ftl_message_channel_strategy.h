@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlMessageChannelStrategy class declaration
+// summary: Declares FtlMessageChannelStrategy, a MessageChannelStrategy that opens FTL receive-message streams via a stream opener and reports channel activity.
+// ---
+
 #ifndef REMOTING_SIGNALING_FTL_MESSAGE_CHANNEL_STRATEGY_H_
 #define REMOTING_SIGNALING_FTL_MESSAGE_CHANNEL_STRATEGY_H_
 

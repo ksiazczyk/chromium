@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistrationManager interface
+// summary: Interface for registering a user with the signaling service, providing SignInGaia sign-in, sign-out and access to registration ID and auth token.
+// ---
+
 #ifndef REMOTING_SIGNALING_REGISTRATION_MANAGER_H_
 #define REMOTING_SIGNALING_REGISTRATION_MANAGER_H_
 

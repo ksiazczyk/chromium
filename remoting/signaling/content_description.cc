@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentDescription implementation
+// summary: Implements the ContentDescription class that carries Jingle authentication data for chromoting session content.
+// ---
+
 #include "remoting/signaling/content_description.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Corp messaging playground implementation
+// summary: Implements an interactive playground for exercising the corp messaging service, including message bursts, ping-pong exchanges, large messages, and ECDH-encrypted communication.
+// ---
+
 #include "remoting/test/corp_messaging_playground.h"
 
 #include <poll.h>

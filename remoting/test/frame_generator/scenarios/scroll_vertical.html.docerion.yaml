@@ -1,0 +1,4 @@
+# Docerion header of scroll_vertical.html.
+type: test
+title: Vertical Scrolling Benchmark Scenario
+summary: HTML scenario simulating a browser window scrolling vertically through a text-heavy page in a back-and-forth cycle at a fixed speed.

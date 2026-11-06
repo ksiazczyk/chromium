@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for remoting resources
+summary: GN build file that verifies string usage, runs GRIT to generate localized pak files, and copies locale resources for the remoting targets.

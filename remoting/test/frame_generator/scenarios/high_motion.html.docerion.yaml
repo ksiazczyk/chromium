@@ -1,0 +1,4 @@
+# Docerion header of high_motion.html.
+type: test
+title: High Motion Benchmark Scenario
+summary: HTML scenario with large, fast-moving, high-contrast blocks designed to stress motion estimation search range and inter-prediction.

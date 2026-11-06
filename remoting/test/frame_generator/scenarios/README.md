@@ -1,3 +1,13 @@
+---
+type: readme
+title: Benchmarking Scenarios
+summary: Describes the HTML scenarios in this directory that stress different video encoder aspects, grouped into standard, optimization and stress, and mixed categories.
+relations:
+  - documents /remoting/test/frame_generator/scenarios/busy_developer.html
+  - documents /remoting/test/frame_generator/scenarios/chaos_stress.html
+  - documents /remoting/test/frame_generator/scenarios/desktop_clock.html
+---
+
 # Benchmarking Scenarios
 
 This directory contains HTML-based scenarios for the frame generator. Each

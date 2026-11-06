@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageChannel header
+// summary: Declares the MessageChannel class that owns a server-side message stream, delegating use-case logic to a MessageChannelStrategy and optionally tracking signaling activity.
+// ---
+
 #ifndef REMOTING_SIGNALING_MESSAGE_CHANNEL_H_
 #define REMOTING_SIGNALING_MESSAGE_CHANNEL_H_
 

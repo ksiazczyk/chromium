@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageTracker unit tests
+// summary: Unit tests verifying MessageTracker ID tracking and expiry behavior using mock time.
+// ---
+
 #include "remoting/signaling/message_tracker.h"
 
 #include "base/test/task_environment.h"

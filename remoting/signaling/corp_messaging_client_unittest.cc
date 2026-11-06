@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Corp messaging client unit tests
+// summary: Unit tests for CorpMessagingClient covering message sending, receiving streams, and error handling with a protobuf HTTP test responder.
+// ---
+
 #include "remoting/signaling/corp_messaging_client.h"
 
 #include <memory>

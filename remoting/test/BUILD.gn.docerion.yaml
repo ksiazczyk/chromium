@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Remoting test BUILD.gn build file
+summary: Defines the remoting test support library and test-only binaries such as it2me_cli_host, capability_test_stub, session_authz_playground, and corp_messaging_playground.

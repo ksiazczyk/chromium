@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for frame generator test support
+summary: GN build file defining the frame_generator_test_support source set with its sources, dependencies and bundled data for Windows and Linux builds.

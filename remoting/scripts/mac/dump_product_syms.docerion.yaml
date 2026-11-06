@@ -1,0 +1,4 @@
+# Docerion header of dump_product_syms.
+type: script
+title: Dump product symbols to Breakpad format
+summary: Shell script that runs dump_syms on a macOS app bundle's DWARF symbols for each architecture, producing Breakpad symbol files named by bundle, version, and architecture.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: It2Me CLI host implementation
+// summary: Implements a command-line client that runs the it2me native messaging host, handles host state messages and obtains remote support access codes.
+// ---
+
 #include "remoting/test/it2me_cli_host.h"
 
 #include "base/command_line.h"

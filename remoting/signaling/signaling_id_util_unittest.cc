@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signaling ID utility unit tests
+// summary: Unit tests for signaling ID normalization, resource splitting, canonical email conversion and FTL signaling ID validation across XMPP, FTL and corp IDs.
+// ---
+
 #include "remoting/signaling/signaling_id_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

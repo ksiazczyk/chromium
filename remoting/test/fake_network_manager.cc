@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake network manager implementation for tests
+// summary: Implements FakeNetworkManager, a fake webrtc NetworkManager that reports a single fake network interface for remoting tests.
+// ---
+
 #include "remoting/test/fake_network_manager.h"
 
 #include <memory>

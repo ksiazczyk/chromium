@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTL message channel strategy unit tests
+// summary: Unit tests for FtlMessageChannelStrategy covering stream startup, closure, and message handling with fake server streams.
+// ---
+
 #include "remoting/signaling/ftl_message_channel_strategy.h"
 
 #include <algorithm>

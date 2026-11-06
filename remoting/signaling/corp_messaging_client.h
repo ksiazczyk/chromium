@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp messaging client header
+// summary: Declares CorpMessagingClient, the class for sending and receiving signaling messages via the Corp messaging API.
+// ---
+
 #ifndef REMOTING_SIGNALING_CORP_MESSAGING_CLIENT_H_
 #define REMOTING_SIGNALING_CORP_MESSAGING_CLIENT_H_
 

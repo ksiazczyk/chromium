@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessFrameGenerator implementation
+// summary: Implements a FrameGenerator that launches the Python frame_generator.py with a Chrome binary and serves the generated PNGs through FileFrameGenerator.
+// ---
+
 #include "remoting/test/frame_generator/headless_frame_generator.h"
 
 #include <vector>

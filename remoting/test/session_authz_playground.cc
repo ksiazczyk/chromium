@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session authorization playground implementation
+// summary: Implements a tool that reads a host config, fetches host tokens and verifies client session tokens against the session authorization service.
+// ---
+
 #include "remoting/test/session_authz_playground.h"
 
 #include <cstdio>

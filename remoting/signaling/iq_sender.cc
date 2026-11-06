@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IqSender implementation
+// summary: Sends Jingle IQ requests through a signal strategy and routes responses to pending requests, with timeout handling.
+// ---
+
 #include "remoting/signaling/iq_sender.h"
 
 #include <memory>

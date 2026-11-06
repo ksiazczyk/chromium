@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Signaling include rules
+summary: DEPS file listing the include dependencies allowed for code in the remoting signaling directory.

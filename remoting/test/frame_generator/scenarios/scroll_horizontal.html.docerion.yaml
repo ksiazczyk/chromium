@@ -1,0 +1,4 @@
+# Docerion header of scroll_horizontal.html.
+type: test
+title: Horizontal Scrolling Benchmark Scenario
+summary: HTML scenario simulating a browser window scrolling horizontally through a text-heavy, multi-column page at a fixed speed.

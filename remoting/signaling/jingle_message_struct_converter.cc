@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jingle message struct converter
+// summary: Implements conversion between Jingle message objects and their internal struct representations.
+// ---
+
 #include "remoting/signaling/jingle_message_struct_converter.h"
 
 #include <string>

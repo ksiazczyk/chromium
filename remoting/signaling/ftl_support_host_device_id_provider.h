@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlSupportHostDeviceIdProvider header
+// summary: Declares a FtlDeviceIdProvider subclass that supplies device IDs for remote support hosts.
+// ---
+
 #ifndef REMOTING_SIGNALING_FTL_SUPPORT_HOST_DEVICE_ID_PROVIDER_H_
 #define REMOTING_SIGNALING_FTL_SUPPORT_HOST_DEVICE_ID_PROVIDER_H_
 

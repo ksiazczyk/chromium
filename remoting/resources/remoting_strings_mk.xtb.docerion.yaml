@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_mk.xtb.
+type: data
+title: Macedonian remoting UI strings
+summary: Macedonian translation bundle with localized UI strings for the remoting application, covering connection, host, and permission messages.

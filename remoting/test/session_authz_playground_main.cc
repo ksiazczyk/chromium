@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionAuthzPlayground entry point
+// summary: Entry point that initializes base, task executor, thread pool and Mojo infrastructure and then runs the SessionAuthzPlayground tool.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/task/single_thread_task_executor.h"

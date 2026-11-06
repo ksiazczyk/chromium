@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestDeviceIdProvider interface
+// summary: Declares TestDeviceIdProvider, an FtlDeviceIdProvider that generates device IDs and stores them in the token storage for reuse across runs.
+// ---
+
 #ifndef REMOTING_TEST_TEST_DEVICE_ID_PROVIDER_H_
 #define REMOTING_TEST_TEST_DEVICE_ID_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of desktop_clock.html.
+type: test
+title: Desktop Clock Benchmark Scenario
+summary: HTML scenario showing a mostly static desktop with icons, a terminal, and a taskbar clock, useful for testing low-bitrate idle encoding states.

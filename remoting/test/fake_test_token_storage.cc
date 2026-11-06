@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake test token storage implementation
+// summary: Implements FakeTestTokenStorage, which returns a fake refresh token and records store attempts instead of touching the file system.
+// ---
+
 #include "remoting/test/fake_test_token_storage.h"
 
 #include "base/notimplemented.h"

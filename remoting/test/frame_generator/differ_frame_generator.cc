@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DifferFrameGenerator implementation
+// summary: Implements a FrameGenerator wrapper that computes each frame's updated region by block-comparing it against the previous frame.
+// ---
+
 #include "remoting/test/frame_generator/differ_frame_generator.h"
 
 #include <algorithm>

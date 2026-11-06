@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_pt-BR.xtb.
+type: data
+title: Portuguese (Brazil) translations for Chrome Remote Desktop strings
+summary: Translation bundle with Portuguese (Brazil) UI strings for the remoting host and client, covering connections, permissions, and error messages.

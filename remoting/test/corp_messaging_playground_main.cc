@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Corp messaging playground entry point
+// summary: Entry point that initializes base, Mojo, and the thread pool, then starts the corp messaging playground using a required --username switch.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/logging.h"

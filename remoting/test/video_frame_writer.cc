@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoFrameWriter implementation
+// summary: Implements helpers that encode desktop video frames to PNG files, dump them to timestamped folders and highlight rectangles by shifting pixel colors.
+// ---
+
 #include "remoting/test/video_frame_writer.h"
 
 #include <stdint.h>

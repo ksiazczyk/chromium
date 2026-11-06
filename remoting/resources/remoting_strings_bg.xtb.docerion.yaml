@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_bg.xtb.
+type: data
+title: Bulgarian remoting strings translation bundle
+summary: Xtb translation bundle providing Bulgarian translations of the remoting UI and host messages.

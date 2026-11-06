@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_bn.xtb.
+type: data
+title: Bengali remoting strings translation bundle
+summary: XML translation bundle with Bengali translations of Chrome Remote Desktop UI strings used by the remoting module.

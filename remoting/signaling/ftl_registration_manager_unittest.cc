@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTL registration manager unit tests
+// summary: Unit tests for FtlRegistrationManager covering sign-in, autorefresh, and backoff behavior with a mock client.
+// ---
+
 #include "remoting/signaling/ftl_registration_manager.h"
 
 #include "base/memory/raw_ptr.h"

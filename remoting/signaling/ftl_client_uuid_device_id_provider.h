@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FtlClientUuidDeviceIdProvider class declaration
+// summary: Declares FtlClientUuidDeviceIdProvider, a device ID provider that issues an ephemeral random client UUID for signing in to FTL.
+// ---
+
 #ifndef REMOTING_SIGNALING_FTL_CLIENT_UUID_DEVICE_ID_PROVIDER_H_
 #define REMOTING_SIGNALING_FTL_CLIENT_UUID_DEVICE_ID_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SignalStrategy implementation
+// summary: Implements shared SignalStrategy behavior, including parsing XMPP XML stanzas into Jingle messages or replies with size and DTD checks.
+// ---
+
 #include "remoting/signaling/signal_strategy.h"
 
 #include <memory>

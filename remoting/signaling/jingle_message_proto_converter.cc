@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jingle message proto converter
+// summary: Implements conversion between JingleMessage objects and their FTL proto stanza representations.
+// ---
+
 #include "remoting/signaling/jingle_message_proto_converter.h"
 
 #include <string>

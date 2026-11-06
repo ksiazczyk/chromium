@@ -1,0 +1,4 @@
+# Docerion header of IDS_BROWSER_IS_INVALID.png.sha1.
+type: asset
+title: SHA1 checksum for browser is invalid message image
+summary: Stores the SHA1 hash of the PNG rendering of the browser is invalid message string in the remoting resources.

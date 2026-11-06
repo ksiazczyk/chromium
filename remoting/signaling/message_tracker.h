@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageTracker header
+// summary: Declares MessageTracker, a helper for deduplicating FTL messages by tracking message IDs within a time window.
+// ---
+
 #ifndef REMOTING_SIGNALING_MESSAGE_TRACKER_H_
 #define REMOTING_SIGNALING_MESSAGE_TRACKER_H_
 

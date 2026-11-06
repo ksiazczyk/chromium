@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Jingle message proto converter unit tests
+// summary: Unit tests for converting Jingle messages, authentication data, and replies between objects and FTL protos.
+// ---
+
 #include "remoting/signaling/jingle_message_proto_converter.h"
 
 #include <memory>

@@ -5,6 +5,12 @@
 // Contains constants for the IQ stanzas inherited by the signaling protocol
 // from XMPP.
 
+// ---docerion
+// type: source
+// title: XMPP constants declarations
+// summary: Declares constants for IQ stanza types, XML qualified names, and the maximum stanza size inherited by the signaling protocol from XMPP.
+// ---
+
 #ifndef REMOTING_SIGNALING_XMPP_CONSTANTS_H_
 #define REMOTING_SIGNALING_XMPP_CONSTANTS_H_
 

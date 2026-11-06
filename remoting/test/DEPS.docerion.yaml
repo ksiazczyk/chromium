@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Remoting test DEPS include rules
+summary: Specifies the allowed include directories for code in the remoting test directory.

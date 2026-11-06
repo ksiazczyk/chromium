@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SignalingAddress unit tests
+// summary: Unit tests covering parsing of signaling addresses from stanzas, empty or missing IDs, and setting to and from fields for XMPP and FTL channels.
+// ---
+
 #include "remoting/signaling/signaling_address.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL messaging client implementation
+// summary: Implements sending, receiving, and acknowledging Chrome Remote Desktop signaling messages through the FTL API.
+// ---
+
 #include "remoting/signaling/ftl_messaging_client.h"
 
 #include <utility>

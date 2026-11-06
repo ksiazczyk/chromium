@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WebRTC connection implementation for tests
+// summary: Implements FakeWebrtcConnection, a test stub that wraps WebrtcTransport, logs connection state and runs a closure when the connection closes.
+// ---
+
 #include "remoting/test/fake_webrtc_connection.h"
 
 #include "components/webrtc/thread_wrapper.h"

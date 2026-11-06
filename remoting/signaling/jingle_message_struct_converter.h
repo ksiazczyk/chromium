@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jingle message struct converter header
+// summary: Declares conversion functions between Jingle message objects and internal struct types.
+// ---
+
 #ifndef REMOTING_SIGNALING_JINGLE_MESSAGE_STRUCT_CONVERTER_H_
 #define REMOTING_SIGNALING_JINGLE_MESSAGE_STRUCT_CONVERTER_H_
 

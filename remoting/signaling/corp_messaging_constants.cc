@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp messaging constants implementation
+// summary: Defines the Corp signaling domain constant used for Corp user signaling addresses.
+// ---
+
 #include "remoting/signaling/corp_messaging_constants.h"
 
 namespace remoting {

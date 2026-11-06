@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HeadlessFrameGenerator header
+// summary: Declares a FrameGenerator that wraps the Python frame generator script, launches headless Chrome and manages a temp directory of generated PNGs.
+// ---
+
 #ifndef REMOTING_TEST_FRAME_GENERATOR_HEADLESS_FRAME_GENERATOR_H_
 #define REMOTING_TEST_FRAME_GENERATOR_HEADLESS_FRAME_GENERATOR_H_
 

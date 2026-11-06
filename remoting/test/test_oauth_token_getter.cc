@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOAuthTokenGetter implementation
+// summary: Implements a console-driven OAuth token getter for test tools, handling authorization codes, refresh tokens and access token caching.
+// ---
+
 #include "remoting/test/test_oauth_token_getter.h"
 
 #include <utility>

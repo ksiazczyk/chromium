@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scrolling test frame generator implementation
+// summary: Generates desktop frames that scroll a PNG test image at a fixed pixel speed for testing the video channel.
+// ---
+
 #include "remoting/test/scroll_frame_generator.h"
 
 #include "remoting/test/frame_generator_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jingle message XML converter header
+// summary: Declares XML conversion functions for Jingle messages, replies, transport info, attachments, and authentication.
+// ---
+
 #ifndef REMOTING_SIGNALING_JINGLE_MESSAGE_XML_CONVERTER_H_
 #define REMOTING_SIGNALING_JINGLE_MESSAGE_XML_CONVERTER_H_
 

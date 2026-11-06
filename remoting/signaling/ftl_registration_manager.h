@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL registration manager
+// summary: Declares FtlRegistrationManager for registering the user with the FTL service and managing sign-in state.
+// ---
+
 #ifndef REMOTING_SIGNALING_FTL_REGISTRATION_MANAGER_H_
 #define REMOTING_SIGNALING_FTL_REGISTRATION_MANAGER_H_
 

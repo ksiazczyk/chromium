@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: It2Me CLI host interface
+// summary: Declares It2MeCliHost, a native messaging client that starts the it2me host, exchanges JSON messages and tracks connection state.
+// ---
+
 #ifndef REMOTING_TEST_IT2ME_CLI_HOST_H_
 #define REMOTING_TEST_IT2ME_CLI_HOST_H_
 

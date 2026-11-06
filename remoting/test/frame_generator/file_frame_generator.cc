@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileFrameGenerator implementation
+// summary: Implements a FrameGenerator that loads sequentially numbered PNG files from a directory and converts them into desktop frames.
+// ---
+
 #include "remoting/test/frame_generator/file_frame_generator.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IqSender header
+// summary: Declares IqSender and IqRequest, which send IQ requests over a SignalStrategy and deliver replies or timeouts to callbacks.
+// ---
+
 #ifndef REMOTING_SIGNALING_IQ_SENDER_H_
 #define REMOTING_SIGNALING_IQ_SENDER_H_
 

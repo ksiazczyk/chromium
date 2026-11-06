@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Jingle message struct converter unit tests
+// summary: Unit tests for converting signaling addresses and Jingle messages to and from struct representations.
+// ---
+
 #include "remoting/signaling/jingle_message_struct_converter.h"
 
 #include <string>

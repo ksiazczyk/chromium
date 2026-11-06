@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTL services context unit tests
+// summary: Unit tests for FtlServicesContext covering backoff policy, app identifier, ID creation, and request headers.
+// ---
+
 #include "remoting/signaling/ftl_services_context.h"
 
 #include "remoting/proto/ftl/v1/ftl_messages.pb.h"

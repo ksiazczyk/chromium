@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock signal strategy declarations
+// summary: Declares gmock-based MockSignalStrategy and MockFtlSignalStrategy test doubles for the signal strategy interfaces.
+// ---
+
 #ifndef REMOTING_SIGNALING_MOCK_SIGNAL_STRATEGY_H_
 #define REMOTING_SIGNALING_MOCK_SIGNAL_STRATEGY_H_
 

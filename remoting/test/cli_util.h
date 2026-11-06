@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CLI utility helpers header
+// summary: Declares command-line interaction helpers for remoting test tools, including the command options loop and input reading functions.
+// ---
+
 #ifndef REMOTING_TEST_CLI_UTIL_H_
 #define REMOTING_TEST_CLI_UTIL_H_
 

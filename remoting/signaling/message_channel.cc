@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageChannel implementation
+// summary: Implements the MessageChannel class that manages a server-side streaming channel for receiving messages, with reconnection backoff and stream ready/closed callbacks.
+// ---
+
 #include "remoting/signaling/message_channel.h"
 
 #include <utility>

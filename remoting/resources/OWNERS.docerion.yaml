@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for remoting resources
+summary: Per-file OWNERS entry requiring claudiomagni@chromium.org review for changes that add or remove languages in grd files.

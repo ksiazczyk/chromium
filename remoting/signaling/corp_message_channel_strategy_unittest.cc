@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CorpMessageChannelStrategy unit tests
+// summary: Unit tests for the Corp message channel strategy covering channel open, active, and peer message handling.
+// ---
+
 #include "remoting/signaling/corp_message_channel_strategy.h"
 
 #include <algorithm>

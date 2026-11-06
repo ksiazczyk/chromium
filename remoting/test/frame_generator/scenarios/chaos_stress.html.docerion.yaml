@@ -1,0 +1,4 @@
+# Docerion header of chaos_stress.html.
+type: test
+title: Chaos Stress Benchmark Scenario
+summary: HTML stress scenario rendering 150 fast-moving, rotating, semi-transparent shapes to maximize residual error and push the encoder to its limits.

@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_en-GB.xtb.
+type: data
+title: British English remoting strings translation bundle
+summary: XML translation bundle with British English translations of Chrome Remote Desktop UI strings used by the remoting module.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FtlDeviceIdProvider unit tests
+// summary: Unit tests verifying the device IDs produced by the client UUID, host, and support host FTL device ID providers, including type and crd- prefix formats.
+// ---
+
 #include "base/uuid.h"
 #include "remoting/proto/ftl/v1/ftl_messages.pb.h"
 #include "remoting/signaling/ftl_client_uuid_device_id_provider.h"

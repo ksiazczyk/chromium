@@ -1,0 +1,4 @@
+# Docerion header of remoting_strings_hi.xtb.
+type: data
+title: Hindi UI strings for Chrome Remote Desktop
+summary: Hindi translation bundle with localized Chrome Remote Desktop interface strings such as connection errors, prompts, and setup messages.

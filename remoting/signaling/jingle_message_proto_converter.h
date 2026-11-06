@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jingle message proto converter header
+// summary: Declares functions that convert Jingle messages and replies to and from FTL proto stanzas.
+// ---
+
 #ifndef REMOTING_SIGNALING_JINGLE_MESSAGE_PROTO_CONVERTER_H_
 #define REMOTING_SIGNALING_JINGLE_MESSAGE_PROTO_CONVERTER_H_
 
