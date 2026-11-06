@@ -1,0 +1,4 @@
+# Docerion header of types_have_namespace.json.
+type: test
+title: API types namespace test schema
+summary: Test fixture with an API schema namespace defining types, functions and events to verify type reference handling in extension API unittests.

@@ -1,0 +1,4 @@
+# Docerion header of api_features.json.
+type: test
+title: API features test data for extension API unittests
+summary: Test fixture defining API feature availability rules such as contexts, channels, URL matches, dependencies and session types for extension API unittests.

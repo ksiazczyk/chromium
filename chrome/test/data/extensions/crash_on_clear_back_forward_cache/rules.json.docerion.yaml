@@ -1,0 +1,4 @@
+# Docerion header of rules.json.
+type: test
+title: Declarative net request redirect rules
+summary: DeclarativeNetRequest ruleset that redirects main-frame navigations to example.com to the Wikipedia Kitten page for the test extension.

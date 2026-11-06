@@ -1,0 +1,4 @@
+# Docerion header of one_host_wildcard.json.
+type: test
+title: Test manifest with a wildcard host permission
+summary: Extension manifest fixture granting host permissions to all google.com subdomains via a wildcard pattern.

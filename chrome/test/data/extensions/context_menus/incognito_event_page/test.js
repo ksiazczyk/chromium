@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event page script for incognito context menu test
+// summary: Background script that creates a context menu item and reports clicks differently depending on whether it runs in an incognito context.
+// ---
+
 const inIncognitoContext = chrome.extension.inIncognitoContext;
 const incognitoStr = inIncognitoContext ? 'incognito' : 'regular';
 

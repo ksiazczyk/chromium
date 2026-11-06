@@ -1,0 +1,4 @@
+# Docerion header of download.dat.
+type: test
+title: Download test payload
+summary: Lorem ipsum text file serving as the payload that the test extension downloads via its helper link.

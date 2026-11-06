@@ -1,0 +1,4 @@
+# Docerion header of offscreen.html.
+type: test
+title: Offscreen document for the dictation test extension
+summary: Minimal HTML page that loads offscreen.js to provide the offscreen document used for microphone access during dictation testing.

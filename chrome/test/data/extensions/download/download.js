@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download trigger script
+// summary: On page load, simulates a mouse click on the helper-download anchor to start downloading download.dat, which is renamed to download.exe.
+// ---
+
 window.onload = function() {
   // Begin the download (Code based on IE Tab extension)
   const anchorObj = document.body.children.namedItem('helper-download');

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menus enabled test service worker
+// summary: Service worker that creates and updates a context menu item in response to test messages to verify the enabled state handling of context menus.
+// ---
+
 const onMessageReply = function(message) {
   const menuId = 'my_id';
   const enabled = (message === 'start enabled');

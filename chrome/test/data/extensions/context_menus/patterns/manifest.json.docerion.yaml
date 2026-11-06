@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the context menu URL patterns test extension
+summary: Manifest for a test extension used by browser tests to verify URL pattern restrictions on context menu items, registering test.js as its service worker.

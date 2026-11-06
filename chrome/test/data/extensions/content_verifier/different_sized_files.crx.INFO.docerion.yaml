@@ -1,0 +1,4 @@
+# Docerion header of different_sized_files.crx.INFO.
+type: test
+title: Different sized files CRX info
+summary: Describes a webstore test extension containing a jquery file larger than 1024 bytes to exercise mime-sniffing behavior in content verifier tests.

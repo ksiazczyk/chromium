@@ -1,0 +1,4 @@
+# Docerion header of dot_slash_paths.crx.INFO.
+type: test
+title: Dot slash paths CRX info
+summary: Identifies the webstore CRX ID for the dot_slash_paths test extension used in content verifier tests.

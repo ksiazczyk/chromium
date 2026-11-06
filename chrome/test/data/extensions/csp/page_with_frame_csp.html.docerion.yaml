@@ -1,0 +1,4 @@
+# Docerion header of page_with_frame_csp.html.
+type: test
+title: Test page adding a cross-origin iframe under frame CSP
+summary: Test fixture whose script dynamically adds a cross-origin iframe loading the success page, used to exercise frame CSP behavior in extension tests.

@@ -3,3 +3,9 @@
 // found in the LICENSE file.
 
 // Intentionally blank
+
+// ---docerion
+// type: test
+// title: Blank background script for DNR rule update test extension
+// summary: Intentionally blank service worker script acting as the background entry point of the declarative net request test extension.
+// ---

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest for document_idle content script
+summary: Manifest for a test extension that registers a content script running at document_idle on all URLs.

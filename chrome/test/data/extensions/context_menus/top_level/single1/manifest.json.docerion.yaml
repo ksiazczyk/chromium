@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: 'Manifest for top level context menus extension test #1'
+summary: Manifest for the test extension, declaring the contextMenus permission and a background service worker for the single context menu test.

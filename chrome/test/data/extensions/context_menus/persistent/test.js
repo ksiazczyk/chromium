@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menus persistent extension test script
+// summary: Extension test script that creates a context menu item on install and updates its title when the C++ test signals it by opening a dedicated tab.
+// ---
+
 const menuId = 'my_id';
 
 chrome.runtime.onInstalled.addListener(function(details) {

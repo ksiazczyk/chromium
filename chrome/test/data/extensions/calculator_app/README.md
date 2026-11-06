@@ -1,3 +1,9 @@
+---
+type: readme
+title: Calculator
+summary: Introduces the calculator sample app, its basic arithmetic operations, MVC-style structure, and the Chrome runtime and window APIs it uses.
+---
+
 # Calculator
 
 A sample application that provides a simple calculator. Supports basic

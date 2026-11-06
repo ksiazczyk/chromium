@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: CRX installer test page
+summary: Minimal HTML page containing only the text hello world, used as test data for CRX installer tests.

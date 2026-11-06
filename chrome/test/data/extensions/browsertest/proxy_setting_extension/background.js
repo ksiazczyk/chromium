@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy setting test extension background script
+// summary: Service worker for the browser test proxy extension that sets fixed-server proxy rules and signals readiness via chrome.test.
+// ---
+
 chrome.runtime.onInstalled.addListener(
     () => {
       const config = {

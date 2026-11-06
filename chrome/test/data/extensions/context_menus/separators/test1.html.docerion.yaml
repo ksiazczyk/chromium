@@ -1,0 +1,4 @@
+# Docerion header of test1.html.
+type: test
+title: Test page loading the first separator test
+summary: HTML page that loads the shared helpers and the first test script of the separator test extension.

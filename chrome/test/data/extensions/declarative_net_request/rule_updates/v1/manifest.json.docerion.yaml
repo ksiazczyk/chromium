@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Declarative Net Request Blocker test extension
+summary: Manifest V3 definition for the test extension, registering an enabled ruleset, a disabled forgotten ruleset, and a background service worker.

@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: README for content hash fetcher test files
+summary: Explains that the extension files with sizes around the 4096-byte hash block were taken from a signed webstore extension and packed into source.zip for content verifier tests.

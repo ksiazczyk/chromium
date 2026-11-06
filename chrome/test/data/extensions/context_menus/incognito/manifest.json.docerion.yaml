@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for incognito context menus extension test
+summary: Extension manifest for a Chromium test that verifies context menus work in incognito split mode, registering test.js as the background service worker.

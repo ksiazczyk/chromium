@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer for the manual test results
+// summary: Script that runs the calculator tests on page load and renders pass and fail counts, duration, browser info and per-test details into the manual page.
+// ---
+
 window.onload = function() {
   const classes = {true: 'success', false: 'failure'};
   const status = document.querySelector('.status');

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Action runtime error extension manifest
+summary: Manifest for a test extension that causes a JavaScript runtime error when its action is triggered, used by error console tests.

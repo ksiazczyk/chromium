@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: HTML page fixture loading page.js via ./ path
+summary: HTML page fixture that loads page.js with a ./ script path for the content verifier test extension.

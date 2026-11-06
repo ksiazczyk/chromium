@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script injecting a title change for the blocked action test
+// summary: Service worker that listens for webNavigation commits and calls chrome.scripting.executeScript to change the document title, exercising blocked extension actions.
+// ---
+
 function changeDocumentTitle() {
   document.title = 'success';
   chrome.test.sendMessage('injection succeeded');

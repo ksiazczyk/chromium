@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the redundant service worker start test extension
+summary: Manifest version 3 extension manifest declaring the background service worker, webNavigation permission, and a fixed key for the event reliability test fixture.

@@ -1,0 +1,4 @@
+# Docerion header of empty.json.
+type: test
+title: Test manifest with no host permissions
+summary: Manifest V3 extension fixture without any permissions, used as an empty case in effective host permissions tests.

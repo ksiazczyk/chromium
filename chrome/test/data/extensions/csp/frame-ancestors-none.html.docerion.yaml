@@ -1,0 +1,4 @@
+# Docerion header of frame-ancestors-none.html.
+type: test
+title: Empty frame-ancestors test page
+summary: Empty HTML fixture served with a frame-ancestors 'none' CSP header, used as a blocked-frame target in extension Content-Security-Policy tests.

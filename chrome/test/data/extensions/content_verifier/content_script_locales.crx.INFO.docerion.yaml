@@ -1,0 +1,4 @@
+# Docerion header of content_script_locales.crx.INFO.
+type: test
+title: Content script locales CRX info
+summary: Identifies the webstore CRX ID for the content_script_locales test extension used in content verifier tests.

@@ -1,0 +1,4 @@
+# Docerion header of page2.html.
+type: test
+title: Content verifier test page with dot-slash script path
+summary: HTML test fixture for the extension content verifier that loads a script through a ../ relative path to exercise dot-slash path handling.

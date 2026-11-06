@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: test
+title: Declarative net request test stylesheet resource
+summary: Gives the page body a blue background so tests can detect whether this stylesheet was applied or blocked.
+*/
+
 body {
     background-color: rgb(0, 0, 255);
 }

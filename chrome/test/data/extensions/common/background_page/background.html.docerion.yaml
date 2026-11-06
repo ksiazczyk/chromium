@@ -1,0 +1,4 @@
+# Docerion header of background.html.
+type: test
+title: Background page test fixture
+summary: Minimal HTML background page used as the fixture for a Chrome extension background page test.

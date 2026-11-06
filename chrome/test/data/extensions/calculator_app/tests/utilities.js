@@ -23,6 +23,12 @@
  *   run.test('Two Plus Two', '2 + 2 = [4]');
  */
 
+// ---docerion
+// type: test
+// title: Test utilities for the calculator app
+// summary: Provides a mock view and calculatorTestRun helpers so calculator tests can be written succinctly as button sequences instead of QUnit-style code.
+// ---
+
 'use strict';
 
 window.mockView = {

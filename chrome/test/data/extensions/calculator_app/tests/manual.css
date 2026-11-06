@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  **/
 
+/*docerion
+type: test
+title: Styles for the manual test results page
+summary: CSS that styles the manual test report, including pass and fail colours, status and summary bars, and nested test details.
+*/
+
 body {
   font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   margin: 8px;

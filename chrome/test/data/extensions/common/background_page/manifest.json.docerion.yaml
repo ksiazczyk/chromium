@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Background page test extension manifest
+summary: Manifest for a test extension that declares background.html as its background page.

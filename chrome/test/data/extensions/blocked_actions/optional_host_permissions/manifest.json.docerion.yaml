@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for optional host permissions test extension
+summary: Manifest V3 extension manifest requesting scripting, webNavigation, and tabs permissions with optional host permissions for all URLs.

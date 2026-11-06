@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: CRX installer test extension manifest
+summary: Manifest for a test extension used in CRX installer tests, requesting tabs and bookmarks permissions to exercise the more-permissions install flow.

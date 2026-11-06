@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  **/
 
+/*docerion
+type: source
+title: Calculator styles
+summary: CSS that styles the calculator layout and button sprites for low- and high-density screens.
+*/
+
 body {
   font: bold 16px
         'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;

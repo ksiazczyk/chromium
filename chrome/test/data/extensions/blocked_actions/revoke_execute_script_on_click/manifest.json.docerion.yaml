@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the revoke executeScript on click test extension
+summary: Manifest v3 extension manifest requesting scripting, webNavigation and tabs permissions with <all_urls> host access for the blocked action test.

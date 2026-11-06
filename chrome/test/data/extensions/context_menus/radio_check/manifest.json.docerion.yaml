@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Context Menus Test Extension manifest
+summary: Manifest for the radio check context menus test extension, declaring contextMenus and tabs permissions and test.js as the background service worker.

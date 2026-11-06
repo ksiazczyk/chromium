@@ -1,0 +1,4 @@
+# Docerion header of popup.html.
+type: test
+title: Empty Popup Page for Delayed Install Test
+summary: Minimal HTML page serving as the test extension's options page referenced by the delayed install test manifest.

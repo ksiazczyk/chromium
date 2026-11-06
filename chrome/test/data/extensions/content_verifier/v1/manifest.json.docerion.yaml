@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest fixture
+summary: Minimal manifest for a test extension used as fixture data in the Chrome extension content verifier tests.

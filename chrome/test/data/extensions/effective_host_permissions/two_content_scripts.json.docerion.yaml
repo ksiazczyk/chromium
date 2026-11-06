@@ -1,0 +1,4 @@
+# Docerion header of two_content_scripts.json.
+type: test
+title: Test manifest with permissions and content scripts
+summary: Extension manifest fixture combining google.com permissions with content scripts matching reddit and Hacker News.

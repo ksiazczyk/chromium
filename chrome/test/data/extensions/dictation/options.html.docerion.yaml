@@ -1,0 +1,4 @@
+# Docerion header of options.html.
+type: test
+title: Dictation test extension options page
+summary: Options page UI for setting a canned transcript response, word and finalization delays, and simulating a failure on stream initialization.

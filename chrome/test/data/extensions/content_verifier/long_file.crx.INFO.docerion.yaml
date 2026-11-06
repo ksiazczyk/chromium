@@ -1,0 +1,4 @@
+# Docerion header of long_file.crx.INFO.
+type: test
+title: Long file CRX info
+summary: Describes a webstore test extension whose page.html resource is larger than 4 KB.

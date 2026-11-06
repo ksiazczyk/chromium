@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension throttle test background service worker
+// summary: Service worker for the throttle test extension that makes repeated fetches and asserts requests succeed only until throttling returns 503.
+// ---
+
 /**
  * Returns whether the request was successfully made. Throws an error if the
  * request finishes with any status other than 503.

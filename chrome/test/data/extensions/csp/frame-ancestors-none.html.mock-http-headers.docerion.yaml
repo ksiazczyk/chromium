@@ -1,0 +1,4 @@
+# Docerion header of frame-ancestors-none.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for frame-ancestors-none page
+summary: Mock HTTP response headers that serve the frame-ancestors-none fixture with Content-Security-Policy frame-ancestors 'none'.

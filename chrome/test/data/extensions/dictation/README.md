@@ -1,3 +1,11 @@
+---
+type: readme
+title: Dictation Test Extension
+summary: Explains the dictation test extension that acts as a dictationPrivate provider for browser tests and how to run it in manual test mode or interactively.
+relations:
+  - references /chrome/browser/dictation/README.md
+---
+
 # Dictation Test Extension
 
 This extension is used for testing the dictation implementation in

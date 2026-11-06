@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for document-start content script test extension
+summary: Manifest for a test extension named Blocked Actions Doc Start that injects a content script at document_start on all URLs.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest of the mislabeled script test extension
+summary: Manifest for a test extension that mislabels background.js as an icon, part of content hash fetcher test data.

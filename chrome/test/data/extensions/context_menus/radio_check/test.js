@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menus radio check test service worker
+// summary: Service worker that creates radio and normal context menu items and sends chrome.test messages on clicks and menu updates to verify radio check behavior.
+// ---
+
 const radio1_id = 'radio1';
 const radio2_id = 'radio2';
 const item1_id = 'item1';

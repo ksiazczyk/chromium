@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculator model
+// summary: JavaScript model that tracks calculator state and performs arithmetic for each key input.
+// ---
+
 function Model(precision) {
   this.reset_({precision: precision});
 }

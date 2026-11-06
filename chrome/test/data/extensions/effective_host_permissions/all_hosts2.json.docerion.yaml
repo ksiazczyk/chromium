@@ -1,0 +1,4 @@
+# Docerion header of all_hosts2.json.
+type: test
+title: All hosts plus single host permission test manifest
+summary: Test fixture manifest combining a wildcard permission for all hosts with an extra permission for one specific host.

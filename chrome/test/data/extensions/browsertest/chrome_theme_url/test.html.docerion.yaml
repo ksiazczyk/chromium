@@ -1,0 +1,4 @@
+# Docerion header of test.html.
+type: test
+title: Theme image loading test page
+summary: Background page for the theme test extension that displays an image from the theme resource scheme and loads the test script.

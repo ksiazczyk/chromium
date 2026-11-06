@@ -1,0 +1,4 @@
+# Docerion header of xhr_target.txt.
+type: test
+title: XHR target response body for tests
+summary: Plain Hello World body served as the target of XHR requests in declarative net request tests.

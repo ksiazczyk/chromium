@@ -1,0 +1,4 @@
+# Docerion header of page.html.
+type: test
+title: CRX Installer test extension page
+summary: Minimal HTML page included as part of the CRX Installer test extension fixture.

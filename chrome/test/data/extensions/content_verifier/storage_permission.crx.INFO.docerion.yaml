@@ -1,0 +1,4 @@
+# Docerion header of storage_permission.crx.INFO.
+type: test
+title: Storage permission CRX info
+summary: Describes a fake test extension that has the storage permission and a background.js script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculator controller
+// summary: JavaScript controller that maps button and keyboard inputs to model operations and drives the view.
+// ---
+
 // Checking for "chrome" availability allows this app code to be tested in
 // non-Chrome browsers, which is useful for example to test touch support with
 // a non-Chrome touch device.

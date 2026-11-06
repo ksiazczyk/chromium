@@ -1,0 +1,4 @@
+# Docerion header of success.html.
+type: test
+title: Success marker page for CSP frame tests
+summary: Sets window.scriptExecuted so tests can confirm the frame truly loaded, since iframe onload fires even when CSP blocks the frame.

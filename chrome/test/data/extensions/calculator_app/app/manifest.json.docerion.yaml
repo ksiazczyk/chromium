@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Calculator app manifest
+summary: Chrome app manifest declaring the calculator's name, version, background scripts and icons.
