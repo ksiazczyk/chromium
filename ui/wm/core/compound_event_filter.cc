@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompoundEventFilter implementation
+// summary: Implements the compound event filter that maps window components to resize cursors, updates cursor visibility, and dispatches events to additional registered filters.
+// ---
+
 #include "ui/wm/core/compound_event_filter.h"
 
 #include <string_view>

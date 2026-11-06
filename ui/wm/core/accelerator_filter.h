@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorFilter class declaration
+// summary: Declares AcceleratorFilter, an event handler that filters key events for global keyboard accelerator handling.
+// ---
+
 #ifndef UI_WM_CORE_ACCELERATOR_FILTER_H_
 #define UI_WM_CORE_ACCELERATOR_FILTER_H_
 

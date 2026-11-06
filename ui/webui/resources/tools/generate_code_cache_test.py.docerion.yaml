@@ -1,0 +1,4 @@
+# Docerion header of generate_code_cache_test.py.
+type: test
+title: Unit tests for V8 code cache generation
+summary: Unittest suite verifying code cache creation, manifest contents, explicit snapshot handling, and that snapshot flags are mutually exclusive.

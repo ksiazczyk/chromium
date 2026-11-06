@@ -1,0 +1,4 @@
+# Docerion header of generate_grd.gni.
+type: config
+title: GN template for grit grd file generation
+summary: GN template that wraps generate_grd.py to produce grit grd or grdp resource files from manifests, input files, and resource path rewrite options.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackedElementHandler class declaration
+// summary: Declares the mojo handler that supports tracking elements in WebUIs, including identifier registration and WebView access.
+// ---
+
 #ifndef UI_WEBUI_TRACKED_ELEMENT_TRACKED_ELEMENT_HANDLER_H_
 #define UI_WEBUI_TRACKED_ELEMENT_TRACKED_ELEMENT_HANDLER_H_
 

@@ -6,6 +6,12 @@
 // declaration in a class. To be used to update remaining Polymer UIs for the
 // purposes of fixing crbug.com/389737066.
 
+// ---docerion
+// type: source
+// title: Codemod adding declare keyword to Polymer properties (crbug 389737066)
+// summary: jscodeshift transform that adds the declare keyword before every Polymer property declaration in a class as part of the crbug 389737066 migration.
+// ---
+
 export default function transformer(file, api) {
   const source = file.source;
   const j = api.jscodeshift;

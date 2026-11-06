@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackedElementHandler unit tests
+// summary: Unit tests for TrackedElementHandler covering element highlighting, clicks, focus, and tab selection interactions over the Mojo TrackedElementManager interface.
+// ---
+
 #include "ui/webui/tracked_element/tracked_element_handler.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript config listing ESLint test fixtures
+summary: TypeScript compiler configuration extending the base tsconfig and enumerating all fixture files compiled for the ESLint TypeScript tests.

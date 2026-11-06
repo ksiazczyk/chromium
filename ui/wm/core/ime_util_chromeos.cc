@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS IME window avoidance implementation
+// summary: Implements helpers that move windows out of a screen rect such as the virtual keyboard and restore their saved bounds when input focus is lost.
+// ---
+
 #include "ui/wm/core/ime_util_chromeos.h"
 
 #include "ui/aura/client/aura_constants.h"

@@ -1,0 +1,4 @@
+# Docerion header of bundle_js.py.
+type: script
+title: bundle_js.py bundling script
+summary: Python build script that generates a rollup config, bundles JS modules and writes depfiles and request lists so Ninja can track dependencies.

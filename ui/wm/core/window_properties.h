@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window property key declarations
+// summary: Declares exported window property keys and the WindowVisibilityAnimationTransition enum used by the WM core library.
+// ---
+
 #ifndef UI_WM_CORE_WINDOW_PROPERTIES_H_
 #define UI_WM_CORE_WINDOW_PROPERTIES_H_
 

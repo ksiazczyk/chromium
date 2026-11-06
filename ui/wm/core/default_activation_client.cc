@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultActivationClient implementation
+// summary: Implements the default ActivationClient that activates and deactivates aura windows, restacks them, notifies activation observers, and cleans up when the root window is destroyed.
+// ---
+
 #include "ui/wm/core/default_activation_client.h"
 
 #include "base/memory/raw_ptr.h"

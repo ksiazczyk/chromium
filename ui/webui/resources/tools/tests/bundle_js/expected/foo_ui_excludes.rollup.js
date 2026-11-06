@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected bundle with excludes foo_ui_excludes.rollup.js
+// summary: Expected bundle output for foo UI where excluded modules remain as import statements while the remaining modules are inlined.
+// ---
+
 import './foo.js';
 
 // Copyright 2023 The Chromium Authors

@@ -1,0 +1,4 @@
+# Docerion header of diff_helper.py.
+type: script
+title: Unified diff printer for two files
+summary: Command-line wrapper around difflib.unified_diff that prints the unified diff between two files to stdout.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window property key definitions
+// summary: Defines WM window property keys for visibility animation settings, screen coordinate usage, persistability and hiding animation counts.
+// ---
+
 #include "ui/wm/core/window_properties.h"
 
 #include "ui/wm/core/window_animations.h"

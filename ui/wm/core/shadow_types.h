@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow types header
+// summary: Defines shadow elevation constants and the kShadowElevationKey window property used to control the drop shadows drawn under aura windows.
+// ---
+
 #ifndef UI_WM_CORE_SHADOW_TYPES_H_
 #define UI_WM_CORE_SHADOW_TYPES_H_
 

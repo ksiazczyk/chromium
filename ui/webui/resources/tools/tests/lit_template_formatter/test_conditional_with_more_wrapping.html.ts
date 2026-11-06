@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conditional with more wrapping test fixture
+// summary: Lit html template fixture with conditionals whose subtemplate and empty fallback branches wrap across lines for formatter tests.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 export function getHtml(this: DummyTestElement) {

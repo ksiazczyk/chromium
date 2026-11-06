@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackedElementHandler implementation
+// summary: Implements the mojo handler that tracks WebUI elements, updating effective visibility, highlighting, and interaction handling.
+// ---
+
 #include "ui/webui/tracked_element/tracked_element_handler.h"
 
 #include "base/check_is_test.h"

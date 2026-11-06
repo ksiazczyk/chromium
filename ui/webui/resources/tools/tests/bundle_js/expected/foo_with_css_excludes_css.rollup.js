@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected bundle with CSS excluded foo_with_css_excludes_css.rollup.js
+// summary: Expected bundle output for foo where the CSS module is excluded from inlining, keeping the CSS import and the adoptedStyleSheets assignment.
+// ---
+
 import sheet from './foo.css' with { type: 'css' };
 
 // Copyright 2023 The Chromium Authors

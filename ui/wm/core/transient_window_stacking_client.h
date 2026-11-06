@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransientWindowStackingClient class declaration
+// summary: Declares TransientWindowStackingClient, a WindowStackingClient that adjusts stacking order for windows with transient relationships.
+// ---
+
 #ifndef UI_WM_CORE_TRANSIENT_WINDOW_STACKING_CLIENT_H_
 #define UI_WM_CORE_TRANSIENT_WINDOW_STACKING_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of expected_grdp_with_resource_path_prefix.grdp.
+type: test
+title: Expected GRDP fixture with resource path prefix
+summary: Expected grit-part file verifying that a resource path prefix is applied in generate_grd output.

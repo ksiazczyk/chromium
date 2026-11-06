@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML AST parsing and indentation
+// summary: Parses the extracted template HTML into a parse5 AST, inserting standardized newlines and indentation while recording placeholder metadata.
+// ---
+
 import assert from 'node:assert';
 
 import {parseFragment} from '../../../../../third_party/node/node_modules/parse5/lib/index.js';

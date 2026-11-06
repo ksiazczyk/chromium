@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terser minification wrapper for multiple JS files
+// summary: NodeJS wrapper around the Terser API that minifies multiple input files in one invocation and consolidates duplicate Chromium copyright headers.
+// ---
+
 /**
  * @fileoverview A wrapper around third_party/node/node_modules/terser/main.js
  * allowing minifying multiple input files and outputting them as separate files

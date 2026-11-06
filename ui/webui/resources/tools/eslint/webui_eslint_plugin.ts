@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESLint plugin registering WebUI custom lint rules
+// summary: ESLint plugin entry point that collects and exports the custom WebUI lint rules under their kebab-case rule names.
+// ---
+
 import {inlineEventHandler} from './inline_event_handler.js';
 import {litElementExpressions} from './lit_element_bindings.js';
 import {litElementInvalidInterface} from './lit_element_invalid_interface.js';

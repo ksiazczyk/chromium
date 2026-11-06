@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ternary template structure dummy element fixture
+// summary: Defines the TernaryDummyElement CrLitElement class with condition and item properties used by the ternary template structure violations fixture.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 export class TernaryDummyElement extends CrLitElement {

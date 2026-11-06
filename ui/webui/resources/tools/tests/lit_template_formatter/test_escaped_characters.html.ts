@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Escaped characters test fixture
+// summary: Lit html template fixture with escaped backslash patterns in cr-input attributes plus a conditional extra input for formatter tests.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 export function getHtml(this: DummyTestElement) {

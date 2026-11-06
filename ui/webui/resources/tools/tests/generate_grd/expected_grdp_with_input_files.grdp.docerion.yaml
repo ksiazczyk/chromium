@@ -1,0 +1,4 @@
+# Docerion header of expected_grdp_with_input_files.grdp.
+type: test
+title: Expected GRDP fixture with input files
+summary: Expected grit-part file verifying generate_grd output for input files taken from the source directory.

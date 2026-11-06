@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shadow controller unit tests
+// summary: Unit tests verifying that ShadowController creates, updates, and hides window shadows correctly across visibility, bounds, and activation changes.
+// ---
+
 #include "ui/wm/core/shadow_controller.h"
 
 #include <algorithm>

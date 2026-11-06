@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped animation disabler implementation
+// summary: Implements ScopedAnimationDisabler, a RAII helper that temporarily disables animations on an aura window while window state changes are performed.
+// ---
+
 #include "ui/wm/core/scoped_animation_disabler.h"
 
 #include "ui/aura/client/aura_constants.h"

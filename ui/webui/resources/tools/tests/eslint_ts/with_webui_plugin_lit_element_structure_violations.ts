@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lit element structure violations test fixture
+// summary: Large fixture with numbered violation cases such as missing definitions, name typos, missing super calls and naming errors for the lit-element-structure rule.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 // Test file for @webui-eslint/lit-element-structure

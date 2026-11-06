@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebUI interaction test util
+// summary: Unit tests that verify WebUI interaction simulation using a mock TrackedElementManager over mojo bindings.
+// ---
+
 #include "ui/webui/tracked_element/interaction_test_util_web_ui.h"
 
 #include <memory>

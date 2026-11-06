@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: If expression conditional test case
+// summary: Test case with <if expr> conditional blocks for ChromeOS and Windows, used to verify the formatter's handling of conditional expressions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 export function getHtml(this: DummyTestElement) {

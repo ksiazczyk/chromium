@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit expression formatting via clang-format
+// summary: Formats TypeScript expressions held in the placeholder map with clang-format, applying per-type wrapping, restoration, and adjusted column limits.
+// ---
+
 import assert from 'node:assert';
 
 import {FALSE_TEMPLATE_PREFIX, FORMAT_OFF_PREFIX, PROP_PREFIX, runClangFormat, WRAPPED_LINE_INDENT_SIZE} from './html_utils.js';

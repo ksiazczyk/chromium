@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the WM test helper
+// summary: Declares WMTestHelper, which builds a minimal shell-like environment with a window tree host and core wm clients for running wm tests.
+// ---
+
 #ifndef UI_WM_TEST_WM_TEST_HELPER_H_
 #define UI_WM_TEST_WM_TEST_HELPER_H_
 

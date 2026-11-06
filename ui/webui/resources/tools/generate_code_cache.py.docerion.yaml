@@ -1,0 +1,4 @@
+# Docerion header of generate_code_cache.py.
+type: script
+title: V8 code cache generation driver
+summary: Python script that runs the code_cache_generator utility on input JS files and writes a JSON manifest listing the produced .code_cache outputs.

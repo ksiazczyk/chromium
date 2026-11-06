@@ -1,0 +1,4 @@
+# Docerion header of optimize_webui.gni.
+type: config
+title: GN template to bundle and minify WebUI JavaScript
+summary: GN template that chains the bundle_js and minify_js rules to produce optimized WebUI JavaScript bundles with an optional output manifest.

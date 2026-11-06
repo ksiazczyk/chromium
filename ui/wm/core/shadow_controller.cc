@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow controller implementation
+// summary: Implements ShadowController, which observes window creation, activation, and property changes to create and update drop shadows for aura windows.
+// ---
+
 #include "ui/wm/core/shadow_controller.h"
 
 #include <algorithm>

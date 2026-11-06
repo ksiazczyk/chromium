@@ -1,0 +1,4 @@
+# Docerion header of lit_template_formatter_test.py.
+type: test
+title: Unit tests for the Lit template formatter
+summary: Unittest suite that runs the Lit template formatter on sample HTML template files and checks formatting results plus idempotency of repeated runs.

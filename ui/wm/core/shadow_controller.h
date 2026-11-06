@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow controller header
+// summary: Declares ShadowController, which creates and updates window drop shadows in response to activation changes and window property changes.
+// ---
+
 #ifndef UI_WM_CORE_SHADOW_CONTROLLER_H_
 #define UI_WM_CORE_SHADOW_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the WebUI ESLint TypeScript library
+summary: GN build file defining a ts_library target that compiles the WebUI ESLint plugin rules with path mappings to third-party node module typings.

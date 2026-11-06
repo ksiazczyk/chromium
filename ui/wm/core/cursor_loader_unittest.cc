@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CursorLoader unit tests
+// summary: Unit tests verifying cursor data generation for default, custom, and invisible cursors across display scales, sizes, and colors.
+// ---
+
 #include "ui/wm/core/cursor_loader.h"
 
 #include <optional>

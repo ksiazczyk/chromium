@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window modality controller implementation
+// summary: Implements an event handler that consumes input aimed at windows blocked by window-modal, system-modal and child-modal transient dialogs.
+// ---
+
 #include "ui/wm/core/window_modality_controller.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the testing cursor client observer
+// summary: Declares a CursorClientObserver test double that tracks cursor visibility and size changes, with accessors and a reset method.
+// ---
+
 #ifndef UI_WM_TEST_TESTING_CURSOR_CLIENT_OBSERVER_H_
 #define UI_WM_TEST_TESTING_CURSOR_CLIENT_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lit element expressions bindings violations fixture
+// summary: Lit HTML template fixture for the @webui-eslint/lit-element-expressions rule containing property, boolean, event and innerHTML binding violations.
+// ---
+
 // Test file for @webui-eslint/lit-element-expressions
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 

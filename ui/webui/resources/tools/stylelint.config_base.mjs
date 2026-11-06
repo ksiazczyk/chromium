@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: Base Stylelint configuration for WebUI CSS
+// summary: Shared Stylelint rule set enforcing correctness checks and Google HTML/CSS style guide conventions for WebUI CSS files.
+// ---
+
 export default {
   plugins: ['../../../../third_party/node/node_modules/@stylistic/stylelint-plugin/lib/index.js'],
 

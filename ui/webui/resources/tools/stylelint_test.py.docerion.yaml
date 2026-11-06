@@ -1,0 +1,4 @@
+# Docerion header of stylelint_test.py.
+type: test
+title: Unit tests for the Stylelint runner
+summary: Checks that the Stylelint runner succeeds on valid CSS and fails with the expected rule violation on invalid CSS.

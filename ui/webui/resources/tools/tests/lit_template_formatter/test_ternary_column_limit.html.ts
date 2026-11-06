@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ternary expression column limit test case
+// summary: Test case with a long ternary condition inside a template expression, used to verify the formatter's column limit and wrapping behavior.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 export function getHtml(this: DummyTestElement) {

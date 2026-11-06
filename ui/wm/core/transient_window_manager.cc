@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transient window manager implementation
+// summary: Implements per-window management of transient children and parents, including stacking, cycle detection, visibility, and observer notifications for transient window changes.
+// ---
+
 #include "ui/wm/core/transient_window_manager.h"
 
 #include <algorithm>

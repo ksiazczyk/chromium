@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: jscodeshift transform for Polymer to Lit migration
+// summary: jscodeshift transform that rewrites Polymer-based TypeScript sources to Lit, replacing mixins, imports, template getters, property syntax, and ready() callbacks.
+// ---
+
 import path from 'node:path';
 
 const replacements = new Map([

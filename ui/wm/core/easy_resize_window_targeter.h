@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EasyResizeWindowTargeter class declaration
+// summary: Declares an event targeter that enlarges the hit-test region of resizable child windows beyond their bounds to make window resizing easier.
+// ---
+
 #ifndef UI_WM_CORE_EASY_RESIZE_WINDOW_TARGETER_H_
 #define UI_WM_CORE_EASY_RESIZE_WINDOW_TARGETER_H_
 

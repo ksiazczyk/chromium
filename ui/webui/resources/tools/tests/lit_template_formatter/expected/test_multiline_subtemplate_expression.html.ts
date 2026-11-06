@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Expected output: multiline subtemplate expressions'
+// summary: Expected formatter output for a Lit template with multiline conditional and arrow-function subtemplate expressions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 export function getHtml(this: DummyTestElement) {

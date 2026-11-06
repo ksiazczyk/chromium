@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Main entry point for wm unit tests
+// summary: Sets up and launches the wm unit test binary, initializing GL, resource packs, aura Env, discardable memory and Mojo before running the test suite.
+// ---
+
 #include <memory>
 
 #include "base/compiler_specific.h"

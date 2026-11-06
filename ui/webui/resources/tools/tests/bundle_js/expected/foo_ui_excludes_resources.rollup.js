@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected bundle with resource excludes foo_ui_excludes_resources.rollup.js
+// summary: Expected bundle output for foo UI where chrome-untrusted and resource imports are excluded and preserved as import statements.
+// ---
+
 import 'chrome-untrusted://resources/foo_untrusted.js';
 import '//resources/bar_resource.js';
 

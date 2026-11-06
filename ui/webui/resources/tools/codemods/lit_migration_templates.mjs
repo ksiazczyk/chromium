@@ -5,6 +5,12 @@
 // A helper script that performs some Polymer->Lit migration steps. See details
 // below.
 
+// ---docerion
+// type: script
+// title: Polymer to Lit template migration helper
+// summary: Node helper script that migrates Polymer HTML templates and CSS to Lit, extracting styles into CSS files and rewriting bindings and event listeners.
+// ---
+
 import fs from 'node:fs';
 import path from 'node:path';
 import {parseArgs} from 'node:util';

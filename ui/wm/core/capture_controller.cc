@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureController implementation
+// summary: Implements CaptureController, a shared capture client that tracks the capture window and notifies root window delegates of capture changes.
+// ---
+
 #include "ui/wm/core/capture_controller.h"
 
 #include "base/memory/raw_ptr.h"

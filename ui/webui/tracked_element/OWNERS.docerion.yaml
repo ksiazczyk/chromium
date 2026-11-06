@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the tracked_element directory
+summary: Points to the OWNERS file of the WebUI tracked_element JS resources so both directories share the same owners.

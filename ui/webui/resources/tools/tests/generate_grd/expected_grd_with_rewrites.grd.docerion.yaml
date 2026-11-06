@@ -1,0 +1,4 @@
+# Docerion header of expected_grd_with_rewrites.grd.
+type: test
+title: Expected GRD fixture with resource path rewrites
+summary: Expected grit resource file verifying that resource path rewrites are applied by generate_grd.

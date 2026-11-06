@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CompoundEventFilter class declaration
+// summary: Declares the CompoundEventFilter class that sees all events first, provides click-to-activate and cursor change behavior, and allows adding extra event filters.
+// ---
+
 #ifndef UI_WM_CORE_COMPOUND_EVENT_FILTER_H_
 #define UI_WM_CORE_COMPOUND_EVENT_FILTER_H_
 

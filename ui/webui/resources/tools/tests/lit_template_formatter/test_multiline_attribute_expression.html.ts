@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiline attribute expression test fixture
+// summary: Lit html template fixture with long attribute expressions, deep nesting, class ternaries, and multiline style bindings for formatter tests.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 export function getHtml(this: DummyTestElement) {

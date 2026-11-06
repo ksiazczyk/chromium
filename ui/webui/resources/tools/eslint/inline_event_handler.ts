@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESLint rule banning inline event handlers in templates
+// summary: ESLint rule that reports inline arrow-function event handlers inside Lit and Polymer HTML template methods such as getHtml and getTemplate.
+// ---
+
 import {ESLintUtils} from '/third_party/node/node_modules/@typescript-eslint/utils/dist/index.js';
 import type {TSESTree} from '/third_party/node/node_modules/@typescript-eslint/utils/dist/index.js';
 import assert from 'node:assert';

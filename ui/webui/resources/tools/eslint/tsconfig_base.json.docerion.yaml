@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for the WebUI ESLint tools
+summary: TypeScript configuration for the ESLint tools that extends the Chromium base config and enables the node and trusted-types type packages.

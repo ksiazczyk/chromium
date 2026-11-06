@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window utility function declarations
+// summary: Declares helpers for activating windows, changing show state, finding toplevel or activatable windows, and recreating or mirroring layer trees.
+// ---
+
 #ifndef UI_WM_CORE_WINDOW_UTIL_H_
 #define UI_WM_CORE_WINDOW_UTIL_H_
 

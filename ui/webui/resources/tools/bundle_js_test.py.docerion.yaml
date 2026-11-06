@@ -1,0 +1,4 @@
+# Docerion header of bundle_js_test.py.
+type: test
+title: bundle_js_test.py unit tests
+summary: Unit tests for bundle_js.py covering bundle output, depfile contents and external path handling.

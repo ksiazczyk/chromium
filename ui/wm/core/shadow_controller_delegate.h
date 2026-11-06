@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow controller delegate interface
+// summary: Defines the ShadowControllerDelegate interface for customizing which windows are observed and how their shadows are shown, themed, and rounded.
+// ---
+
 #ifndef UI_WM_CORE_SHADOW_CONTROLLER_DELEGATE_H_
 #define UI_WM_CORE_SHADOW_CONTROLLER_DELEGATE_H_
 

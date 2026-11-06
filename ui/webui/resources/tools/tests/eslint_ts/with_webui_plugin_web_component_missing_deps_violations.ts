@@ -4,6 +4,12 @@
 
 // Test file for @webui-eslint/web-component-missing-deps
 
+// ---docerion
+// type: test
+// title: ESLint test fixture for web-component-missing-deps element
+// summary: Deliberately violating element fixture for the @webui-eslint/web-component-missing-deps rule, defining a CrLitElement that imports multiple web components.
+// ---
+
 import 'chrome://resources/cr_elements/cr_expand_button/cr_expand_button.js';
 import 'chrome://resources/cr_elements/cr_textarea/cr_textarea.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

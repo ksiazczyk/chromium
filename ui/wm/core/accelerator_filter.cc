@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorFilter implementation
+// summary: Implements AcceleratorFilter, which forwards key events to the accelerator delegate and filters keys irrelevant to accelerators.
+// ---
+
 #include "ui/wm/core/accelerator_filter.h"
 
 #include <utility>

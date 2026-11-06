@@ -1,0 +1,4 @@
+# Docerion header of lit_migration.py.
+type: script
+title: Polymer to Lit migration runner script
+summary: Command-line script that runs the lit_migration.js transform and the template migration on a given TypeScript file, optionally keeping the HTML output.

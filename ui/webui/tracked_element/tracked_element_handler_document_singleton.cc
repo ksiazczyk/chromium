@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-document singleton for TrackedElementHandler
+// summary: Manages per-document TrackedElementHandler instances using WebContents and document user data with configuration and callbacks.
+// ---
+
 #include "ui/webui/tracked_element/tracked_element_handler_document_singleton.h"
 
 #include <memory>

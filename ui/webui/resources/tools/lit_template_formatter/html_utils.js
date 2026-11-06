@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared HTML formatting utilities
+// summary: Defines shared constants, placeholder prefixes, depth and indentation helpers, and child-process and clang-format execution utilities for the formatter.
+// ---
+
 import {exec, execFile} from 'node:child_process';
 import {existsSync} from 'node:fs';
 import {join} from 'node:path';

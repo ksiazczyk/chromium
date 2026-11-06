@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackedElementWebUI class declaration
+// summary: Declares TrackedElementWebUI, a tracked element for WebUI contents, with visibility locks, highlight handles, and bounds accessors.
+// ---
+
 #ifndef UI_WEBUI_TRACKED_ELEMENT_TRACKED_ELEMENT_WEB_UI_H_
 #define UI_WEBUI_TRACKED_ELEMENT_TRACKED_ELEMENT_WEB_UI_H_
 

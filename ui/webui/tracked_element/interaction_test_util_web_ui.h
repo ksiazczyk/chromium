@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InteractionTestUtilSimulatorWebUI class declaration
+// summary: Declares the WebUI simulator for InteractionTestUtil, adding WebUI support for TrackedElementWebUI in tests.
+// ---
+
 #ifndef UI_WEBUI_TRACKED_ELEMENT_INTERACTION_TEST_UTIL_WEB_UI_H_
 #define UI_WEBUI_TRACKED_ELEMENT_INTERACTION_TEST_UTIL_WEB_UI_H_
 

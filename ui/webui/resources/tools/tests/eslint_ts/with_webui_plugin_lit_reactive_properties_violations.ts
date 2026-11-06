@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lit reactive properties violations test fixture
+// summary: CrLitElement test fixture covering reactive property cases such as an accessor property, a plain property, a readonly property and a getter.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {MyTestMixin} from './with_webui_plugin_lit_element_bindings_violations_mixin.js';

@@ -1,0 +1,4 @@
+# Docerion header of eslint_ts.gni.
+type: config
+title: eslint_ts.gni GN template
+summary: GN template that runs type-aware ESLint checks on TypeScript files via eslint_ts.py, with optional rule toggles such as no_explicit_any.

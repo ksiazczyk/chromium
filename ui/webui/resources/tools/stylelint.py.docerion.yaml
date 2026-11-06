@@ -1,0 +1,4 @@
+# Docerion header of stylelint.py.
+type: source
+title: Stylelint runner for GN builds
+summary: Python wrapper that runs Stylelint via Node on the given CSS files, splitting large file lists on Windows, and writes an OK marker.

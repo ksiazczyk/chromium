@@ -1,0 +1,4 @@
+# Docerion header of test_manifest_1.json.
+type: test
+title: Test manifest listing preprocessed files
+summary: Test input manifest listing files and a base directory used to generate an expected grit resource file.

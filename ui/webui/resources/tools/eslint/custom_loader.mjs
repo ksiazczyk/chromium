@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Node module loader for ESLint dependencies
+// summary: Node module loader that redirects allow-listed ESLint, TypeScript and esquery imports to the //third_party/node/node_modules directory.
+// ---
+
 import {join} from 'node:path';
 
 const ROOT = new URL(join('..', '..', '..', '..', '..'), import.meta.url);

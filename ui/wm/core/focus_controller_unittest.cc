@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for FocusController
+// summary: Unit tests covering FocusController focus and activation behavior, including observer notifications, modal windows, focus rules, and deleted-window handling.
+// ---
+
 #include "ui/wm/core/focus_controller.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ESLint rule requiring web component child imports
+// summary: ESLint rule that checks HTML template functions and reports custom element children missing an explicit import in the class definition or lazy-load file.
+// ---
+
 import {AST_NODE_TYPES as Node, ESLintUtils} from '/third_party/node/node_modules/@typescript-eslint/utils/dist/index.js';
 import type {TSESLint, TSESTree} from '/third_party/node/node_modules/@typescript-eslint/utils/dist/index.js';
 import type * as ts from '/third_party/node/node_modules/typescript/lib/typescript.js';

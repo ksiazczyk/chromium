@@ -1,0 +1,4 @@
+# Docerion header of generate_code_cache.gni.
+type: config
+title: GN template for V8 code cache generation
+summary: GN template that invokes generate_code_cache.py to build V8 code caches for WebUI JS files, selecting snapshot inputs and filtering templatized modules.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the tracked_element WebUI module
+summary: Defines GN source sets for the tracked element WebUI code, its test support, and unit tests, along with their dependencies.

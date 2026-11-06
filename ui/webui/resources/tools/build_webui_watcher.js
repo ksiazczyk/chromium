@@ -18,6 +18,12 @@
  *     code.
  */
 
+// ---docerion
+// type: script
+// title: WebUI build watcher for faster iteration
+// summary: Node.js helper that watches a WebUI folder and reruns preprocess and build_ts targets so saved edits are picked up after a manual WebUI reload.
+// ---
+
 import * as assert from 'node:assert';
 import {exec, spawn} from 'node:child_process';
 import fs from 'node:fs';

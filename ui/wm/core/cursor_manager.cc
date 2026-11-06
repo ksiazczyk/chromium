@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorManager implementation
+// summary: Implements the cursor manager that tracks cursor state including type, visibility, size, color, and mouse event enablement, with Windows-specific hide-while-typing support.
+// ---
+
 #include "ui/wm/core/cursor_manager.h"
 
 #include <utility>

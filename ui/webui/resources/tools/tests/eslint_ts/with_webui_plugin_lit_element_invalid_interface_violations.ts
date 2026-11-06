@@ -4,6 +4,12 @@
 
 // Test file for @webui-eslint/lit-element-incorrect-interface
 
+// ---docerion
+// type: test
+// title: Invalid interface violations test element
+// summary: Defines a test-dummy CrLitElement whose $ interface does not match its template, exercising the lit-element-incorrect-interface rule.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getHtml} from './with_webui_plugin_lit_element_incorrect_interface_violations.html.js';

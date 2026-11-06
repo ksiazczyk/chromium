@@ -1,0 +1,4 @@
+# Docerion header of package.json.
+type: config
+title: npm package config for WebUI codemods
+summary: npm package definition for the WebUI codemods tooling, declaring the jscodeshift dependency.

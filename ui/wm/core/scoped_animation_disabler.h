@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped animation disabler header
+// summary: Declares ScopedAnimationDisabler, a helper class for hiding, showing, or minimizing windows without their animations interfering with other animations.
+// ---
+
 #ifndef UI_WM_CORE_SCOPED_ANIMATION_DISABLER_H_
 #define UI_WM_CORE_SCOPED_ANIMATION_DISABLER_H_
 

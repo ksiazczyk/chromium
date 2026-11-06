@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CursorLoader implementation
+// summary: Implements cursor loading that handles display scale and rotation, cursor size, large cursor size, cursor color, and platform or Chromium asset cursors.
+// ---
+
 #include "ui/wm/core/cursor_loader.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Expected bundle output baz_ui.rollup.js
+// summary: Expected bundle output for the baz UI entry point, inlining alerts from resource, external, and src modules in a fixed order.
+// ---
+
 alert('Hello from resources/foo_resource.js');
 
 // Copyright 2023 The Chromium Authors

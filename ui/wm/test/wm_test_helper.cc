@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the WM test helper
+// summary: Implements WMTestHelper, creating a minimal window manager test environment with a window tree host plus focus, activation, capture and cursor clients.
+// ---
+
 #include "ui/wm/test/wm_test_helper.h"
 
 #include <memory>

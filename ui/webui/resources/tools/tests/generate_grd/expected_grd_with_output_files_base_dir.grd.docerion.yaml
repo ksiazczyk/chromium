@@ -1,0 +1,4 @@
+# Docerion header of expected_grd_with_output_files_base_dir.grd.
+type: test
+title: Expected GRD fixture with output files base directory
+summary: Expected grit resource file verifying output paths under a custom base directory in generate_grd tests.

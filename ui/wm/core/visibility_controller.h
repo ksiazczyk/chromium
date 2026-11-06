@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisibilityController class declaration
+// summary: Declares VisibilityController and helpers to enable or temporarily suspend animated visibility changes for windows and their children.
+// ---
+
 #ifndef UI_WM_CORE_VISIBILITY_CONTROLLER_H_
 #define UI_WM_CORE_VISIBILITY_CONTROLLER_H_
 

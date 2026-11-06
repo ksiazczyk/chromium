@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for code cache generation
+summary: Assigns per-file ownership of the generate_code_cache scripts and their tests to tluk@chromium.org.

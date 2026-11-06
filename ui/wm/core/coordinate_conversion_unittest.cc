@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coordinate conversion unit tests
+// summary: Unit test verifying that rectangles convert correctly between window and screen coordinates.
+// ---
+
 #include "ui/wm/core/coordinate_conversion.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

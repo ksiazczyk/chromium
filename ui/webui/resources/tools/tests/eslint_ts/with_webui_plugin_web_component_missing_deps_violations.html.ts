@@ -4,6 +4,12 @@
 
 // Test file for @webui-eslint/web-component-missing-deps
 
+// ---docerion
+// type: test
+// title: ESLint test fixture for web-component-missing-deps HTML template
+// summary: Deliberately violating HTML template fixture for the @webui-eslint/web-component-missing-deps rule, composing subcomponent templates and several custom elements.
+// ---
+
 import type {MyDummyElement} from './with_webui_plugin_web_component_missing_deps_violations.js';
 import {getHtml as getDummyBarHtml} from './with_webui_plugin_web_component_missing_deps_violations_subcomponent_bar.html.js';
 import {getHtml as getDummyFooHtml} from './with_webui_plugin_web_component_missing_deps_violations_subcomponent_foo.html.js';

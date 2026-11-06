@@ -1,0 +1,4 @@
+# Docerion header of eslint_ts.py.
+type: script
+title: ESLint runner for WebUI TypeScript files
+summary: Python tool that generates an ESLint flat config and runs ESLint over WebUI TypeScript sources, with optional extra rules and workarounds for Windows command-line limits.

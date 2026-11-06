@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'Expected output: line length wrapping cases'
+// summary: Expected formatter output covering nine cases of line-length wrapping for long tags, attributes, ternaries, and text expressions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 export function getHtml(this: DummyTestElement) {

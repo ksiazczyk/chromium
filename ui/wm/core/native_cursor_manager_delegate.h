@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeCursorManagerDelegate interface for cursor state
+// summary: Declares the delegate interface that CursorManager uses to access and commit current cursor state such as cursor, visibility, size, color, and mouse event enabling.
+// ---
+
 #ifndef UI_WM_CORE_NATIVE_CURSOR_MANAGER_DELEGATE_H_
 #define UI_WM_CORE_NATIVE_CURSOR_MANAGER_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window manager core command-line switches header
+// summary: Declares the exported kWindowAnimationsDisabled switch constant for the wm::switches namespace.
+// ---
+
 #ifndef UI_WM_CORE_WM_CORE_SWITCHES_H_
 #define UI_WM_CORE_WM_CORE_SWITCHES_H_
 

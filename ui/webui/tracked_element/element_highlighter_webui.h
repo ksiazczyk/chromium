@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementHighlighterWebUI class declaration
+// summary: Declares the ElementHighlighter backend used to highlight WebUI elements tracked through TrackedElementHandler.
+// ---
+
 #ifndef UI_WEBUI_TRACKED_ELEMENT_ELEMENT_HIGHLIGHTER_WEBUI_H_
 #define UI_WEBUI_TRACKED_ELEMENT_ELEMENT_HIGHLIGHTER_WEBUI_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: PRESUBMIT.py for WebUI resources tools
+# summary: Presubmit hook that runs the WebUI tools unit tests when related source or test files are changed on upload or commit.
+# ---
+
 webui_sources = set(
   [
     'bundle_js.py',

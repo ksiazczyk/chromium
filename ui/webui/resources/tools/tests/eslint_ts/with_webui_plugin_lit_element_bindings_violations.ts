@@ -4,6 +4,12 @@
 
 // Test file for @webui-eslint/lit-element-incorrect-interface
 
+// ---docerion
+// type: test
+// title: Lit element bindings violations test fixture
+// summary: TypeScript fixture with a CrLitElement class, properties and accessors used to test the @webui-eslint lit-element-incorrect-interface rule's binding checks.
+// ---
+
 import './with_webui_plugin_lit_element_bindings_violations_child.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

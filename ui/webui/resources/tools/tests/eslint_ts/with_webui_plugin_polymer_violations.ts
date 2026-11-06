@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ESLint test fixture for polymer-property-declare rule
+// summary: Deliberately violating fixture for the @webui-eslint/polymer-property-declare rule, checking Polymer properties with and without the declare keyword in two element classes.
+// ---
+
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 // Test file for @webui-eslint/polymer-property-declare

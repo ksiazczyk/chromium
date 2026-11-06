@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: Base ESLint configuration for WebUI TypeScript files
+// summary: Exports the default ESLint rule set for WebUI TS files plus optional configs for web component missing deps, chrome.send restrictions and no-explicit-any.
+// ---
+
 import typescriptEslint from '/third_party/node/node_modules/@typescript-eslint/eslint-plugin/dist/index.js';
 import tsParser from '/third_party/node/node_modules/@typescript-eslint/parser/dist/index.js';
 import eslintPluginLit from '/third_party/node/node_modules/eslint-plugin-lit/lib/index.js';

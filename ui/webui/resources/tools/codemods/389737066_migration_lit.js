@@ -6,6 +6,12 @@
 // declaration in a class. To be used to update Lit UIs for the
 // purposes of fixing crbug.com/389737066.
 
+// ---docerion
+// type: source
+// title: Codemod adding accessor keyword to Lit properties (crbug 389737066)
+// summary: jscodeshift transform that adds the accessor keyword before Lit property declarations, working around TypeScript and jscodeshift limitations via decorators and regex fixes.
+// ---
+
 module.exports = function transformer(file, api) {
   const source = file.source;
   const j = api.jscodeshift;
