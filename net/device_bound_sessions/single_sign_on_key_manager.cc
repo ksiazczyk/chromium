@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleSignOnKeyManager implementation
+// summary: Implements in-memory storage, cookie-access-checked lookup, consumption and clearing of Identity Provider pre-provisioned signing keys for DBSC single sign-on.
+// ---
+
 #include "net/device_bound_sessions/single_sign_on_key_manager.h"
 
 #include <algorithm>

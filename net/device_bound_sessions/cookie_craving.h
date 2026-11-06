@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieCraving class declaration
+// summary: Declares CookieCraving, a valueless cookie-presence requirement associated with a DBSC session that closely mirrors CanonicalCookie inclusion behavior.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_COOKIE_CRAVING_H_
 #define NET_DEVICE_BOUND_SESSIONS_COOKIE_CRAVING_H_
 

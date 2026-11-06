@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session class
+// summary: Declares the DBSC Session class representing a device bound session with inclusion rules, cookie cravings, binding keys, and persistence support.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_H_
 

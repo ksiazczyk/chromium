@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host pattern validation and matching
+// summary: Implements validation and matching of host patterns such as wildcard and subdomain patterns for device bound sessions.
+// ---
+
 #include "net/device_bound_sessions/host_patterns.h"
 
 #include "url/url_util.h"

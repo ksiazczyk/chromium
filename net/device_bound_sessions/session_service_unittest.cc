@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session service unit tests
+// summary: Tests that SessionService::Create succeeds or fails depending on the availability of an unexportable key service.
+// ---
+
 #include "net/device_bound_sessions/session_service.h"
 
 #include "base/functional/callback_helpers.h"

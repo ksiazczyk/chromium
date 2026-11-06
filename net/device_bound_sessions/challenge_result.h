@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChallengeResult enum for setting DBSC challenges
+// summary: Defines an enum of outcomes when setting a session challenge, kept in sync with the network service mojom bindings.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_CHALLENGE_RESULT_H_
 #define NET_DEVICE_BOUND_SESSIONS_CHALLENGE_RESULT_H_
 

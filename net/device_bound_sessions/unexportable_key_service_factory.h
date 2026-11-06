@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key service factory
+// summary: Declares the singleton UnexportableKeyServiceFactory returning the shared unexportable key service, or null when the platform lacks support.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_UNEXPORTABLE_KEY_SERVICE_FACTORY_H_
 #define NET_DEVICE_BOUND_SESSIONS_UNEXPORTABLE_KEY_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefreshResult enum for session refresh outcomes
+// summary: Defines the RefreshResult enum recording outcomes of Device Bound Session refresh attempts, with values persisted to logs and mirrored in metrics and mojom definitions.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_REFRESH_RESULT_H_
 #define NET_DEVICE_BOUND_SESSIONS_REFRESH_RESULT_H_
 

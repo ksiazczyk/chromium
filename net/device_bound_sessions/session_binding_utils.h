@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session binding utilities
+// summary: Declares helpers for DBSC JWT creation, JOSE algorithm parsing, Fetch-Metadata header names, and binding statement serialization.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_BINDING_UTILS_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_BINDING_UTILS_H_
 

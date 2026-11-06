@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session store performance test
+// summary: Performance test measuring session store operation durations across many sites and sessions using PerfResultReporter.
+// ---
+
 #include "net/device_bound_sessions/session_store_impl.h"
 
 #include <memory>

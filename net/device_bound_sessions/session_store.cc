@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session store factory
+// summary: Factory that creates a persistent session store from a database path and an unexportable key service, returning null when inputs are invalid.
+// ---
+
 #include "net/device_bound_sessions/session_store.h"
 
 #include <memory>

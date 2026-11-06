@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionDisplay header
+// summary: Declares the SessionDisplay struct, a display-friendly version of a DBSC session used by DevTools.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_DISPLAY_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_DISPLAY_H_
 

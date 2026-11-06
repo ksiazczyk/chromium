@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session inclusion rules display struct
+// summary: Defines a display-friendly representation of session inclusion rules for use in DevTools.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_INCLUSION_RULES_DISPLAY_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_INCLUSION_RULES_DISPLAY_H_
 

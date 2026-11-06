@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inclusion result enum
+// summary: Defines an enum indicating whether a request is eligible for deferral on behalf of a DBSC session.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_INCLUSION_RESULT_H_
 #define NET_DEVICE_BOUND_SESSIONS_INCLUSION_RESULT_H_
 

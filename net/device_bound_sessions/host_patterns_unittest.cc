@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host pattern unit tests
+// summary: Unit tests covering valid and invalid host patterns and matching of patterns against URL hosts.
+// ---
+
 #include "net/device_bound_sessions/host_patterns.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

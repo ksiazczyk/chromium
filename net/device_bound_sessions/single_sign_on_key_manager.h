@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleSignOnKeyManager class
+// summary: Declares the client-side manager storing Identity Provider pre-provisioned keys handed to relying party registrations, with per-IdP limits and lookup rules.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SINGLE_SIGN_ON_KEY_MANAGER_H_
 #define NET_DEVICE_BOUND_SESSIONS_SINGLE_SIGN_ON_KEY_MANAGER_H_
 

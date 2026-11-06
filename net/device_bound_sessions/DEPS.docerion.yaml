@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for device_bound_sessions
+summary: Chromium DEPS file allowing the directory to include headers from components/unexportable_keys, components/sqlite_proto and sql.

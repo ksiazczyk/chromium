@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SessionEvent header
+// summary: Declares SessionEvent and its variant event detail structs used to report DBSC session lifecycle events.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_EVENT_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_EVENT_H_
 

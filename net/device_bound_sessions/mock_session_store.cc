@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session store mock implementation
+// summary: Implements the constructor and destructor of the SessionStoreMock test double.
+// ---
+
 #include "net/device_bound_sessions/mock_session_store.h"
 
 namespace net::device_bound_sessions {

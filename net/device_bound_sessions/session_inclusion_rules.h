@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionInclusionRules header
+// summary: Declares SessionInclusionRules, which defines which requests may be deferred under an active DBSC session via include and exclude URL rules.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_INCLUSION_RULES_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_INCLUSION_RULES_H_
 

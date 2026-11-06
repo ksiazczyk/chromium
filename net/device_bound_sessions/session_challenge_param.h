@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session challenge parameter
+// summary: Declares a parser for the Secure-Session-Challenge header that produces challenge parameters for DBSC sessions.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_CHALLENGE_PARAM_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_CHALLENGE_PARAM_H_
 

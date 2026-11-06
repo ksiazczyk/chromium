@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBSC session storage protobuf definitions
+// summary: Protobuf messages and enums representing Device Bound Session Credentials session state, including inclusion rules, cookie cravings and session details, for saving to disk.
+// ---
+
 syntax = "proto2";
 
 package net.device_bound_sessions.proto;

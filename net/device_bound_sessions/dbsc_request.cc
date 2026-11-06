@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DbscRequest implementation
+// summary: Implements the DbscRequest wrapper around URLRequest, including WebSocket-to-HTTP scheme normalization for URLs and URL chains.
+// ---
+
 #include "net/device_bound_sessions/dbsc_request.h"
 
 #include "net/base/network_delegate.h"

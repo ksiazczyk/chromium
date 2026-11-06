@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL rule display implementation
+// summary: Implements constructors and assignment operators for the UrlRuleDisplay value type used to present session URL rules.
+// ---
+
 #include "net/device_bound_sessions/url_rule_display.h"
 
 namespace net::device_bound_sessions {

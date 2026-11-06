@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session binding utilities implementation
+// summary: Implements creation of registration and refresh JWT headers and payloads, JOSE algorithm conversion, and attestation binding statement serialization.
+// ---
+
 #include "net/device_bound_sessions/session_binding_utils.h"
 
 #include <optional>

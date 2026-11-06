@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenerateKeyParam struct declaration
+// summary: Declares the parsed Secure-Session-GenerateKey parameters, including supported signature algorithms, target origin, provider session id, and challenge.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_GENERATE_KEY_PARAM_H_
 #define NET_DEVICE_BOUND_SESSIONS_GENERATE_KEY_PARAM_H_
 

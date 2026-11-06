@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleSignOnKeyManager unit tests
+// summary: Unit tests covering adding, finding, consuming and clearing pre-provisioned keys, including cookie access checks and relying party isolation.
+// ---
+
 #include "net/device_bound_sessions/single_sign_on_key_manager.h"
 
 #include <memory>

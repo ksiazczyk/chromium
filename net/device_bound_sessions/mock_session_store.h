@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session store mock
+// summary: GMock-based mock of SessionStore providing stubbed load, save and delete methods for tests.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_MOCK_SESSION_STORE_H_
 #define NET_DEVICE_BOUND_SESSIONS_MOCK_SESSION_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionError implementation
+// summary: Implements SessionError helpers that map error types to session deletion reasons and classify server errors.
+// ---
+
 #include "net/device_bound_sessions/session_error.h"
 
 #include <optional>

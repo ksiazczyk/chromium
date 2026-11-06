@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionInclusionRulesDisplay implementation
+// summary: Implements the SessionInclusionRulesDisplay struct that provides a display-friendly view of session inclusion rules for DevTools.
+// ---
+
 #include "net/device_bound_sessions/session_inclusion_rules_display.h"
 
 namespace net::device_bound_sessions {

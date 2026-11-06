@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DBSC test support implementation
+// summary: Implements embedded test server request handlers, origin trial token generation and crypto helpers used by device bound session tests.
+// ---
+
 #include "net/device_bound_sessions/test_support.h"
 
 #include <vector>

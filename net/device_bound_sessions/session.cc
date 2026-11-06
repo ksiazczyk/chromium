@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session class implementation
+// summary: Implements the DBSC Session class, including cookie craving lifetime checks, refresh backoff policy, scope evaluation, and proto conversion.
+// ---
+
 #include "net/device_bound_sessions/session.h"
 
 #include <algorithm>

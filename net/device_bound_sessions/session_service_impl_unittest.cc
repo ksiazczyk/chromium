@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session service implementation unit tests
+// summary: Unit tests for the device bound session service implementation, covering registration, refresh, session management and unexportable key interactions.
+// ---
+
 #include "net/device_bound_sessions/session_service_impl.h"
 
 #include <memory>

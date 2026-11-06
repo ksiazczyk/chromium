@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionError header
+// summary: Declares the SessionError struct with a persisted ErrorType enum covering DBSC registration, refresh, and challenge failures.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_SESSION_ERROR_H_
 #define NET_DEVICE_BOUND_SESSIONS_SESSION_ERROR_H_
 

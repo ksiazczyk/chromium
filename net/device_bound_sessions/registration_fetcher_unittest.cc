@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RegistrationFetcher registration and refresh
+// summary: Extensive unit tests for RegistrationFetcher covering registration and refresh flows, key signing, network requests, metrics, and error handling.
+// ---
+
 #include "net/device_bound_sessions/registration_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionUsage helper functions
+// summary: Implements helpers that classify per-request session usage as in scope and compute the maximum usage across a map of session keys for use counters.
+// ---
+
 #include "net/device_bound_sessions/session_usage.h"
 
 namespace net::device_bound_sessions {

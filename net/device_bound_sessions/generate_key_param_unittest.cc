@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenerateKeyParam unit tests
+// summary: Unit tests for GenerateKeyParam::Parse, covering valid headers, unsupported algorithms, missing or empty parameters, and duplicate keys.
+// ---
+
 #include "net/device_bound_sessions/generate_key_param.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session instruction JSON parsing
+// summary: Implements parsing of DBSC session instruction and well-known JSON into session parameters and error results.
+// ---
+
 #include "net/device_bound_sessions/session_json_utils.h"
 
 #include "base/feature_list.h"

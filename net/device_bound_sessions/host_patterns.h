@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host pattern validation and matching declarations
+// summary: Declares helpers to validate device bound session host patterns and to check whether a host matches a pattern.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_HOST_PATTERNS_H_
 #define NET_DEVICE_BOUND_SESSIONS_HOST_PATTERNS_H_
 

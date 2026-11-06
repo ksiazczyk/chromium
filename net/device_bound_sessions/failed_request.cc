@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FailedRequest implementation
+// summary: Implements the default constructors and assignment operators of the FailedRequest struct.
+// ---
+
 #include "net/device_bound_sessions/failed_request.h"
 
 namespace net::device_bound_sessions {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RegistrationRequestParam class for registration and refresh requests
+// summary: Declares RegistrationRequestParam, which carries endpoint, origin, challenge, and authorization data for DBSC registration and refresh requests.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_REGISTRATION_REQUEST_PARAM_H_
 #define NET_DEVICE_BOUND_SESSIONS_REGISTRATION_REQUEST_PARAM_H_
 

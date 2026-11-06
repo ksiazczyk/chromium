@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JWK creation and thumbprint declarations
+// summary: Declares functions to build a JSON Web Key and its RFC 7638 thumbprint from a public key.
+// ---
+
 #ifndef NET_DEVICE_BOUND_SESSIONS_JWK_UTILS_H_
 #define NET_DEVICE_BOUND_SESSIONS_JWK_UTILS_H_
 

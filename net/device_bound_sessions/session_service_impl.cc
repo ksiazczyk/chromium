@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service implementation
+// summary: Implements DBSC session registration, refresh, deferral, signing quota and proactive refresh logic.
+// ---
+
 #include "net/device_bound_sessions/session_service_impl.h"
 
 #include <algorithm>

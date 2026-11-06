@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for device_bound_sessions
+summary: Lists the Chromium owners responsible for reviewing changes in this directory.
