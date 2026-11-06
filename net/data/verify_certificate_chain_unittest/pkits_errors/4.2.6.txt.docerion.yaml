@@ -1,0 +1,4 @@
+# Docerion header of 4.2.6.txt.
+type: test
+title: 'PKITS 4.2.6 expected error: time after notAfter'
+summary: Expected error output for PKITS test 4.2.6, asserting verification fails with 'Time is after notAfter' for an expired end-entity certificate.

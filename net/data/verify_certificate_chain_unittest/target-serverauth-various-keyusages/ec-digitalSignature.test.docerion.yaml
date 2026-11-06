@@ -1,0 +1,4 @@
+# Docerion header of ec-digitalSignature.test.
+type: test
+title: EC digitalSignature key usage serverAuth chain test
+summary: Test case verifying a chain whose target certificate uses an EC key with the digitalSignature key usage under the serverAuth extended key usage.

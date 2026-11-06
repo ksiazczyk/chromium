@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate chain with root lacking keyCertSign key usage
+summary: Python script that generates a certificate chain whose root certificate has a keyUsage extension that omits the keyCertSign bit.

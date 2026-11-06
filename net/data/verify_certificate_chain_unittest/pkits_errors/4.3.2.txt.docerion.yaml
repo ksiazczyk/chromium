@@ -1,0 +1,4 @@
+# Docerion header of 4.3.2.txt.
+type: test
+title: 'PKITS 4.3.2 expected error: subject does not match issuer'
+summary: Expected error output for PKITS test 4.3.2, asserting verification fails with 'subject does not match issuer' for a chain with incorrect name-chaining order.

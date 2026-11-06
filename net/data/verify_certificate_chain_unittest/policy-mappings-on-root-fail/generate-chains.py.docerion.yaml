@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Chain generator for policy mappings on root failure test
+summary: Python script that generates a certificate chain with policyMappings on the root, with intermediate and leaf using the issuerDomainPolicy, for the verify_certificate_chain unittest.

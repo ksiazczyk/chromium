@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints-require-basic-constraints.test.
+type: test
+title: Test basic constraints requirement on constrained trust anchor
+summary: Expects a basic constraints error on the root when the trust anchor is constrained and requires basic constraints.

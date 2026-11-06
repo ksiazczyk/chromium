@@ -1,0 +1,4 @@
+# Docerion header of serverauth.test.
+type: test
+title: Verify chain without EKU for server auth
+summary: Test expecting only a warning about the missing extended key usage when verifying the chain for server authentication.

@@ -1,0 +1,4 @@
+# Docerion header of 4.8.1.txt.
+type: test
+title: 'PKITS 4.8.1 expected error: no valid policy'
+summary: Expected error output for PKITS test 4.8.1, where chain verification of the Valid EE Certificate Test1 fails with a no valid policy error.

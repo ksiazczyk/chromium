@@ -1,0 +1,4 @@
+# Docerion header of unspecified-trust-root.test.
+type: test
+title: Chain verification test with unspecified root trust
+summary: Defines a verify_certificate_chain test case where the root's trust is unspecified, expecting a not-a-trust-anchor error for the root certificate.

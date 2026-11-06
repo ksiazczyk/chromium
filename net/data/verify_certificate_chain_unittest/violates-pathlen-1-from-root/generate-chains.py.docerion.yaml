@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Pathlen-1-from-root certificate chain generator
+summary: Python script that generates a certificate chain whose root trust anchor carries a pathlen:1 restriction, writing chain.pem for certificate verification tests.

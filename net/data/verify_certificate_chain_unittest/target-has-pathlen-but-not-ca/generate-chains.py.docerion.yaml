@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generator for chain with pathlen on non-CA target
+summary: Python script that generates a certificate chain whose leaf sets the optional pathlen while CA is false, for verify_certificate_chain tests.

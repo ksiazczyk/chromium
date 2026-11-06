@@ -1,0 +1,4 @@
+# Docerion header of 4.2.2.txt.
+type: test
+title: 'PKITS 4.2.2 expected error: time before notBefore'
+summary: Expected error output for PKITS test 4.2.2, asserting verification fails with 'Time is before notBefore' for an end-entity certificate not yet valid.

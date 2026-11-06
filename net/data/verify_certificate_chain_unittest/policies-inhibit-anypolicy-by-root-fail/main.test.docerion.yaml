@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for trusted anchor verification
+summary: Defines the expected successful verification of the generated chain with policy set 1.2.3.5 when the root is used as a trusted anchor.

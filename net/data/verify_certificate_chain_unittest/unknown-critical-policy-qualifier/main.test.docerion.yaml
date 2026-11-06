@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Expected errors for unknown critical policy qualifier chain
+summary: Test definition specifying the generated chain and the expected unconsumed critical extension error for the intermediate certificate

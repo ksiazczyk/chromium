@@ -1,0 +1,4 @@
+# Docerion header of 4.6.1.txt.
+type: test
+title: 'PKITS 4.6.1 expected error: missing basic constraints'
+summary: Expected error output for PKITS test 4.6.1, asserting verification fails with 'Does not have Basic Constraints' for a CA missing the basicConstraints extension.

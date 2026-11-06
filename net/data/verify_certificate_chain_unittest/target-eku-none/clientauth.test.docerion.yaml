@@ -1,0 +1,4 @@
+# Docerion header of clientauth.test.
+type: test
+title: Verify chain without EKU for client auth
+summary: Test expecting only a warning about the missing extended key usage when verifying the chain for client authentication.

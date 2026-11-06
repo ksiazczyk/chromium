@@ -1,0 +1,4 @@
+# Docerion header of 4.11.5.txt.
+type: test
+title: PKITS 4.11.5 expected errors
+summary: Expected errors for PKITS test 4.11.5, where the invalid inhibitPolicyMapping end-entity certificate chain must fail with no valid policy.

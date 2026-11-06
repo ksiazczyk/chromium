@@ -1,0 +1,4 @@
+# Docerion header of clientauth.test.
+type: test
+title: Client auth verification test for anyExtendedKeyUsage target
+summary: Test case verifying a chain whose target has anyExtendedKeyUsage for client auth, expecting only a warning that the EKU includes anyExtendedKeyUsage instead.

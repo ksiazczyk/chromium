@@ -1,0 +1,4 @@
+# Docerion header of 4.13.10.txt.
+type: test
+title: PKITS test 4.13.10 expected verification errors
+summary: Expected certificate chain verification errors for PKITS test 4.13.10, where an end-entity certificate in both excluded and permitted subtrees fails DN name constraints.

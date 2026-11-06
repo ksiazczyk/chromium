@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test case for target signed with SHA1
+summary: Test definition specifying the chain, trust, and digest policy, and expecting an unacceptable signature algorithm error for the SHA1-signed target certificate.

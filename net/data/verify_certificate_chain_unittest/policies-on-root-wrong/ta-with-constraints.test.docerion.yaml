@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Policies-on-root-wrong trusted anchor with constraints test
+summary: Test case verifying the generated chain with a trusted anchor that has constraints, expecting 'No valid policy' errors for the target certificate.

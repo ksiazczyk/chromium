@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for trusted anchor case
+summary: Defines the verification parameters and expected successful user constrained policy set 1.2.3.5 with no errors for the generated chain under a trusted anchor.

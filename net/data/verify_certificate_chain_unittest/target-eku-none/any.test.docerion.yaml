@@ -1,0 +1,4 @@
+# Docerion header of any.test.
+type: test
+title: Verify chain without EKU for ANY_EKU key purpose
+summary: Test expectations for verifying a chain whose target lacks extended key usage when the required key purpose is ANY_EKU.

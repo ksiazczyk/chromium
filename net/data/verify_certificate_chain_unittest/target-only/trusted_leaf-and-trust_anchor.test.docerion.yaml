@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf-and-trust_anchor.test.
+type: test
+title: Trusted anchor or leaf test for target-only chain
+summary: Test case expecting successful validation of the target-only chain when the last certificate is trusted as an anchor or leaf.

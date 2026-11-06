@@ -1,0 +1,4 @@
+# Docerion header of 4.1.4.txt.
+type: test
+title: 'PKITS 4.1.4 expected errors: DSA signature algorithm'
+summary: Expected error output for PKITS test 4.1.4, listing unacceptable signature algorithm and public key errors for the DSA signature test certificates.

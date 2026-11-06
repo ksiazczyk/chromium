@@ -1,0 +1,4 @@
+# Docerion header of serverauth-strict.test.
+type: test
+title: Strict server auth verification test for anyExtendedKeyUsage target
+summary: Test case verifying a chain whose target has anyExtendedKeyUsage under strict server auth, expecting errors that the EKU does not include server auth.

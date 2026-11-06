@@ -1,0 +1,4 @@
+# Docerion header of strict.test.
+type: test
+title: Strict test expectations for target with CA basic constraints
+summary: Test definition expecting an error for the CA basic constraints target when the chain is verified under strict server auth with a trusted anchor.

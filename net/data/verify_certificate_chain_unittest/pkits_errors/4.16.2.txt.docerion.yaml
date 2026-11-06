@@ -1,0 +1,4 @@
+# Docerion header of 4.16.2.txt.
+type: data
+title: PKITS 4.16.2 unknown critical extension expected error
+summary: Expected error output for PKITS test 4.16.2, where an unknown critical certificate extension must fail with 'Unconsumed critical extension' and the listed OID.

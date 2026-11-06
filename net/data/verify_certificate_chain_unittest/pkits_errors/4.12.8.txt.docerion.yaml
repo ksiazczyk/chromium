@@ -1,0 +1,4 @@
+# Docerion header of 4.12.8.txt.
+type: test
+title: PKITS test 4.12.8 expected verification errors
+summary: Expected certificate chain verification errors for PKITS test 4.12.8, listing per-certificate no-valid-policy failures for the invalid self-issued inhibitAnyPolicy end-entity chain.

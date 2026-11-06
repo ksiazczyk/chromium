@@ -1,0 +1,4 @@
+# Docerion header of serverauth.test.
+type: test
+title: Server auth test with trusted anchor
+summary: Test case running the clientAuth-only chain under server auth with a plain trusted anchor, expecting no errors.

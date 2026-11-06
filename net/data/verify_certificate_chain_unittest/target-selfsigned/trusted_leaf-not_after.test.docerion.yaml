@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf-not_after.test.
+type: test
+title: Trusted leaf notAfter expiry test case
+summary: Test case expecting a 'Time is after notAfter' error when the self-signed trusted leaf is validated at the fixed time 221102120000Z.

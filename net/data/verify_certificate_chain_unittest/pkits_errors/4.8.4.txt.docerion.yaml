@@ -1,0 +1,4 @@
+# Docerion header of 4.8.4.txt.
+type: test
+title: PKITS 4.8.4 expected errors
+summary: Expected chain verification errors for PKITS test 4.8.4, recording 'No valid policy' failures for the Different Policies EE Certificate Test4.

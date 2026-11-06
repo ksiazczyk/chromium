@@ -1,0 +1,4 @@
+# Docerion header of trusted_anchor.test.
+type: test
+title: Trusted anchor test for self-issued target chain
+summary: Expects verification to fail with 'Certificate is not a trust anchor' when the self-issued chain is verified with the last certificate trusted as an anchor.

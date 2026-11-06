@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Test with constrained trusted anchor for non-CA root
+summary: Test fixture that expects a Basic Constraints not-a-CA error on the root certificate when it is trusted as an anchor with constraints.

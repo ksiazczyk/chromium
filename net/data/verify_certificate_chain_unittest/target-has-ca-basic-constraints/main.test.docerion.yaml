@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Main test expectations for target with CA basic constraints
+summary: Test definition expecting a warning that the target has Basic Constraints indicating it is a CA when the chain is verified for server auth with a trusted anchor.

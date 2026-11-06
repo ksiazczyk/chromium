@@ -1,0 +1,4 @@
+# Docerion header of ta-with-require-basic-constraints.test.
+type: test
+title: Verify chain with trust anchor requiring basic constraints
+summary: Expects successful verification of the chain when the trust anchor requires basic constraints.

@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for policies-inhibit-mapping-by-root-fail chain
+summary: Defines the test parameters and expected user-constrained policy set (1.2.3.4) for verifying the generated chain against a trusted anchor.

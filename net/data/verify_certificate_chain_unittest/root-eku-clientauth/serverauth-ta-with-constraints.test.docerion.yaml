@@ -1,0 +1,4 @@
+# Docerion header of serverauth-ta-with-constraints.test.
+type: test
+title: Server auth test with anchor constraints
+summary: Test case expecting an extended key usage error at the root when the trusted anchor has constraints and the key purpose is server auth.

@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate chain where root lacks basic constraints
+summary: Generates a certificate chain whose self-signed root certificate lacks the basic constraints extension, for use in chain verification tests.

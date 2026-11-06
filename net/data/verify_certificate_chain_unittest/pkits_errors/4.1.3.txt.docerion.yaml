@@ -1,0 +1,4 @@
+# Docerion header of 4.1.3.txt.
+type: test
+title: 'PKITS 4.1.3 expected errors: invalid EE signature'
+summary: Expected error output for PKITS test 4.1.3, recording a VerifySignedData failure for the invalid end-entity signature certificate in the chain verifier unit test.

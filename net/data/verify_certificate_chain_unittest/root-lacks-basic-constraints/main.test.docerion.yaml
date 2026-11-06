@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Verify chain with trusted root lacking basic constraints
+summary: Expects successful verification of the generated chain when the root is trusted as a trusted anchor.

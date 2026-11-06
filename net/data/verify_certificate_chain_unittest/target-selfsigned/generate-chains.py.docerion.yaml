@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generator for self-signed serverAuth target certificate chain
+summary: Python script that generates a single self-signed end-entity certificate with the serverAuth extended key usage and writes it as chain.pem for the verify_certificate_chain unit tests.

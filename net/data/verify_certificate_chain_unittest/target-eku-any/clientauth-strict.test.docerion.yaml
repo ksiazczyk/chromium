@@ -1,0 +1,4 @@
+# Docerion header of clientauth-strict.test.
+type: test
+title: Strict client auth verification test for anyExtendedKeyUsage target
+summary: Test case verifying a chain whose target has anyExtendedKeyUsage under strict client auth, expecting errors that the EKU does not include client auth.

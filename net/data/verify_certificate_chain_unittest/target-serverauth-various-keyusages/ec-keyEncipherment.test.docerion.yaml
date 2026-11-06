@@ -1,0 +1,4 @@
+# Docerion header of ec-keyEncipherment.test.
+type: test
+title: EC keyEncipherment key usage serverAuth chain test
+summary: Test case verifying a chain whose target certificate uses an EC key with the keyEncipherment key usage under the serverAuth extended key usage.

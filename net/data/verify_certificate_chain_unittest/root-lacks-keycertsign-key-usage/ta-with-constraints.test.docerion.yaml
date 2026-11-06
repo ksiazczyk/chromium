@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Chain verification test with trusted anchor constraints
+summary: Test definition expecting a keyCertSign error on the root when it is trusted as an anchor with constraints.

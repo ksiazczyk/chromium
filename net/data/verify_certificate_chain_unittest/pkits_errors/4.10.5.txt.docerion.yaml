@@ -1,0 +1,4 @@
+# Docerion header of 4.10.5.txt.
+type: test
+title: PKITS 4.10.5 expected chain verification errors
+summary: Expected error output for PKITS test 4.10.5, where the valid policy mapping EE certificate fails with a no valid policy error.

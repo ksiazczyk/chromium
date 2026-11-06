@@ -1,0 +1,4 @@
+# Docerion header of 4.13.22.txt.
+type: test
+title: PKITS 4.13.22 expected error (RFC822 nameConstraints EE)
+summary: Expected chain verification error for PKITS test 4.13.22, an RFC822 nameConstraints end-entity certificate that fails with 'Not permitted by name constraints'.

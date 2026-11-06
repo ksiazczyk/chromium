@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Test expectations for 512-bit RSA signed target
+summary: Defines the chain, trust settings and expected errors, including RSA modulus too small, for verifying a target signed by a 512-bit RSA intermediate.

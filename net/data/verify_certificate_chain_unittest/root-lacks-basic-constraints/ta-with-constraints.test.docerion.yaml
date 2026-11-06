@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: Verify chain with trust anchor with constraints
+summary: Expects successful verification of the chain when the root is trusted as a trust anchor with constraints.

@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Chain verification test with unconstrained trusted anchor
+summary: Test case expecting no errors when the pathlen-violating chain is verified against a plain trusted anchor, since constraints on that anchor are not enforced.

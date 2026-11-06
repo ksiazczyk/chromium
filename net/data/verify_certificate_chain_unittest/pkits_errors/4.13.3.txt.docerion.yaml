@@ -1,0 +1,4 @@
+# Docerion header of 4.13.3.txt.
+type: test
+title: PKITS 4.13.3 expected error (DN nameConstraints EE)
+summary: Expected chain verification error for PKITS test 4.13.3, where the DN nameConstraints end-entity certificate Test3 fails with 'Not permitted by name constraints'.

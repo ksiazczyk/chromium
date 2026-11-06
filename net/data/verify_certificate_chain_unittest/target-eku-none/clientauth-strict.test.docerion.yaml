@@ -1,0 +1,4 @@
+# Docerion header of clientauth-strict.test.
+type: test
+title: Verify chain without EKU for strict client auth
+summary: Test expecting errors that the extended key usage does not include client auth when verifying the EKU-less chain for strict client authentication.

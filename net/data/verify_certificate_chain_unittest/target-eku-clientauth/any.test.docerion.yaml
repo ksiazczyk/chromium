@@ -1,0 +1,4 @@
+# Docerion header of any.test.
+type: test
+title: 'any.test: clientAuth EKU chain accepted for ANY_EKU key purpose'
+summary: Test parameters verifying that a chain whose target certificate has a clientAuth extended key usage validates without errors when any EKU is permitted.

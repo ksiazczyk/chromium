@@ -1,0 +1,4 @@
+# Docerion header of 4.13.31.txt.
+type: test
+title: PKITS 4.13.31 expected error (DNS nameConstraints EE)
+summary: Expected chain verification error for PKITS test 4.13.31, where the DNS nameConstraints end-entity certificate Test31 fails with 'Not permitted by name constraints'.

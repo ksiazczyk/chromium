@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf-and-trust_anchor.test.
+type: test
+title: Chain verification test with trusted leaf or anchor root
+summary: Defines a verify_certificate_chain test case where the root is trusted as either anchor or leaf and the chain is expected to verify without errors.

@@ -1,0 +1,4 @@
+# Docerion header of 4.13.38.txt.
+type: data
+title: PKITS 4.13.38 invalid DNS nameConstraints expected error
+summary: Expected error output for PKITS test 4.13.38, where the invalid DNS nameConstraints end-entity certificate must fail with 'Not permitted by name constraints'.

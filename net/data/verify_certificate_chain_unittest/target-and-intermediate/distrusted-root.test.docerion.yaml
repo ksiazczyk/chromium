@@ -1,0 +1,4 @@
+# Docerion header of distrusted-root.test.
+type: test
+title: Chain verification test with distrusted root
+summary: Defines a verify_certificate_chain test case where the chain's root is distrusted, expecting a distrusted-by-trust-store error for the root certificate.

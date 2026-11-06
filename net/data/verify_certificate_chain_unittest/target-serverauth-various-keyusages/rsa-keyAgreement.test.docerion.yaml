@@ -1,0 +1,4 @@
+# Docerion header of rsa-keyAgreement.test.
+type: test
+title: RSA keyAgreement key usage serverAuth chain test
+summary: Test case verifying a chain whose target certificate uses an RSA key with the keyAgreement key usage under the serverAuth extended key usage.

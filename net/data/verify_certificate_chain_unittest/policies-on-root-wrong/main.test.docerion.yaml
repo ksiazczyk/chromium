@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Policies-on-root-wrong main test
+summary: Test case verifying the generated chain with a trusted anchor, expecting user-constrained policy set 1.2.3.4 and no verification errors.

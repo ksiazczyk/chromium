@@ -1,0 +1,4 @@
+# Docerion header of 4.6.9.txt.
+type: test
+title: 'PKITS 4.6.9 expected error: max path length reached'
+summary: Expected error output for PKITS test 4.6.9, where the pathLenConstraint6 subsubCA00 certificate causes a max_path_length failure.

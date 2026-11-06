@@ -1,0 +1,4 @@
+# Docerion header of rsa-decipherOnly.test.
+type: test
+title: RSA decipherOnly key usage serverAuth chain test
+summary: Test case verifying a chain whose target certificate uses an RSA key with the decipherOnly key usage under the serverAuth extended key usage.

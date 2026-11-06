@@ -1,0 +1,4 @@
+# Docerion header of 4.13.9.txt.
+type: data
+title: PKITS 4.13.9 invalid DN nameConstraints expected error
+summary: Expected error output for PKITS test 4.13.9, where the invalid DN nameConstraints certificate with excludedSubtree2 must fail with 'Not permitted by name constraints'.

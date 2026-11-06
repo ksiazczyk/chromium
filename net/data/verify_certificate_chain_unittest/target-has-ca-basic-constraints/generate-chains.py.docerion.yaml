@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Chain generator for target with CA basic constraints
+summary: Python script that generates a certificate chain whose leaf carries a basicConstraints extension with CA=true, plus a target-only chain, for verify_certificate_chain tests.

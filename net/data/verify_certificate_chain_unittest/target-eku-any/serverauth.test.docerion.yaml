@@ -1,0 +1,4 @@
+# Docerion header of serverauth.test.
+type: test
+title: Server auth verification test for anyExtendedKeyUsage target
+summary: Test case verifying a chain whose target has anyExtendedKeyUsage for server auth, expecting only a warning that the EKU includes anyExtendedKeyUsage instead.

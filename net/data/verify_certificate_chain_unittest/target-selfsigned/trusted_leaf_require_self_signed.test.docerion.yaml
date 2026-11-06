@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf_require_self_signed.test.
+type: test
+title: Trusted leaf require self-signed test case
+summary: Test case expecting no errors when the self-signed serverAuth target is validated under the TRUSTED_LEAF_REQUIRE_SELF_SIGNED trust setting.

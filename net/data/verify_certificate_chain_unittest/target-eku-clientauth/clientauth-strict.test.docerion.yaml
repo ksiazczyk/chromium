@@ -1,0 +1,4 @@
+# Docerion header of clientauth-strict.test.
+type: test
+title: 'clientauth-strict.test: strict client auth rejects chain at intermediate'
+summary: Test parameters expecting strict client auth validation to fail on the intermediate certificate because its extended key usage does not include client auth.

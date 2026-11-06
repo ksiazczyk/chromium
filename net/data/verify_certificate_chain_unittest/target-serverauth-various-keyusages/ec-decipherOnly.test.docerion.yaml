@@ -1,0 +1,4 @@
+# Docerion header of ec-decipherOnly.test.
+type: test
+title: EC decipherOnly key usage serverAuth chain test
+summary: Test case verifying a chain whose target certificate uses an EC key with the decipherOnly key usage under the serverAuth extended key usage.

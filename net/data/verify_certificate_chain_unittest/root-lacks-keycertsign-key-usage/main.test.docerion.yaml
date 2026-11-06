@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Chain verification test with trusted anchor root
+summary: Test definition verifying the generated chain with the root trusted as a trusted anchor and no errors expected.

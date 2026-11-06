@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for MSApplicationPolicies without EKU
+summary: Python script that generates a test certificate chain whose target has a critical MSApplicationPolicies extension and no extendedKeyUsage extension.

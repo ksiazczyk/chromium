@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generator for certificate chain with root inhibitPolicyMapping
+summary: Python script that generates a certificate chain where the root has inhibitPolicyMapping=0 and the intermediate uses policy mappings, for verification tests.

@@ -1,0 +1,4 @@
+# Docerion header of clientauth-strict.test.
+type: test
+title: Strict client auth verification test for multi-EKU target
+summary: Test data expecting errors when the chain is verified with strict client auth, since the target EKU includes code signing, OCSP signing and time stamping.

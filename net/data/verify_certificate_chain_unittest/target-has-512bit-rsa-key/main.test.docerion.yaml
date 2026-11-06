@@ -1,0 +1,4 @@
+# Docerion header of main.test.
+type: test
+title: Expected errors for 512-bit RSA target chain
+summary: Test file specifying the expected verification errors, including too-small RSA modulus, for a chain whose target certificate has a 512-bit RSA key.

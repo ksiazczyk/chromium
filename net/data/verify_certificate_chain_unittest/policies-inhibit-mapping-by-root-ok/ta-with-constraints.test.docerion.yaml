@@ -1,0 +1,4 @@
+# Docerion header of ta-with-constraints.test.
+type: test
+title: ta-with-constraints.test trusted anchor with constraints expectations
+summary: Test parameters expecting successful verification when the root is trusted as an anchor with constraints, with policy set 1.2.3.4 and no errors.

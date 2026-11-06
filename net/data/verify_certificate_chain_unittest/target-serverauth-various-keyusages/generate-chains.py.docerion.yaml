@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Chain generator for target serverAuth various key usages
+summary: Python script that generates certificate chains whose target certificates vary in key type (RSA or EC) and key usage for serverAuth verification tests.

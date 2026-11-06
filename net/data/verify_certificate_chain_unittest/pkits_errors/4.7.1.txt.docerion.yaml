@@ -1,0 +1,4 @@
+# Docerion header of 4.7.1.txt.
+type: test
+title: 'PKITS 4.7.1 expected error: keyCertSign bit not set'
+summary: Expected error output for PKITS test 4.7.1, where a critical keyUsage extension without the keyCertSign bit invalidates the CA certificate.

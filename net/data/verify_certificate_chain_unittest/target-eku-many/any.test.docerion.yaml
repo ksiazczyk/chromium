@@ -1,0 +1,4 @@
+# Docerion header of any.test.
+type: test
+title: Any EKU verification test for multi-EKU target
+summary: Test data expecting no errors when the generated chain with a many-EKU target certificate is verified under the ANY_EKU key purpose.

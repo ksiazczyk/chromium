@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Chain generator for root with non-CA basic constraints
+summary: Generates a test certificate chain whose self-signed root has a basicConstraints extension marking it as not a CA, for use in verify_certificate_chain unittests.

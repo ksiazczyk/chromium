@@ -1,0 +1,4 @@
+# Docerion header of 4.13.28.txt.
+type: test
+title: PKITS 4.13.28 expected error (DN and RFC822 nameConstraints EE)
+summary: Expected chain verification error for PKITS test 4.13.28, where the DN and RFC822 nameConstraints end-entity certificate Test28 fails with 'Not permitted by name constraints'.

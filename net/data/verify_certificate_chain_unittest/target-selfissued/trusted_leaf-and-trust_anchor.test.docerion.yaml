@@ -1,0 +1,4 @@
+# Docerion header of trusted_leaf-and-trust_anchor.test.
+type: test
+title: Trusted leaf or anchor test for self-issued target chain
+summary: Expects successful verification of the self-issued chain when the last certificate is trusted as either an anchor or a leaf.

@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Certificate chain generator for policies-on-root-wrong
+summary: Python script that generates a certificate chain whose root carries policies that do not match the rest of the chain, used to produce chain.pem for verification tests.

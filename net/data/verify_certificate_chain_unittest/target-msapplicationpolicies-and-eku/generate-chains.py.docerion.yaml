@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Generate chain with critical MSApplicationPolicies and EKU
+summary: Python script that generates a certificate chain whose target certificate carries a critical MSApplicationPolicies extension together with an extendedKeyUsage extension.

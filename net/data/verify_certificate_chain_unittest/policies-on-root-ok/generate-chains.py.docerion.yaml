@@ -1,0 +1,4 @@
+# Docerion header of generate-chains.py.
+type: script
+title: Policies-on-root-ok certificate chain generator
+summary: Generates a certificate chain with certificate policies and requireExplicitPolicy constraints on the root, for use in certificate chain verification tests.
