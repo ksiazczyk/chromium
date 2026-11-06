@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake autocomplete provider implementation
+// summary: Implements a minimal fake autocomplete provider that notifies listeners immediately and records deleted matches for tests.
+// ---
+
 #include "components/omnibox/browser/fake_autocomplete_provider.h"
 
 FakeAutocompleteProvider::FakeAutocompleteProvider(Type type)

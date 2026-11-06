@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for omnibox browser
+summary: Lists allowed include paths for the omnibox browser component with per-file exceptions for specific unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History cluster provider header
+// summary: Declares HistoryClusterProvider, an autocomplete provider that surfaces history cluster suggestions based on search provider matches.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_HISTORY_CLUSTER_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_HISTORY_CLUSTER_PROVIDER_H_
 

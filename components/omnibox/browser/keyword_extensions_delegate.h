@@ -7,6 +7,12 @@
 // This file contains the dummy implementation of KeywordExtensionsDelegate,
 // which does nothing.
 
+// ---docerion
+// type: source
+// title: Keyword extensions delegate interface
+// summary: Declares the extensions-only logic used by KeywordProvider, including keyword mode entry and exit, with a dummy base implementation.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_KEYWORD_EXTENSIONS_DELEGATE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_KEYWORD_EXTENSIONS_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox preference name constants
+// summary: Defines the omnibox component's preference name constants, including AIM hints, IPH dismissals, and display settings.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_PREF_NAMES_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_PREF_NAMES_H_
 

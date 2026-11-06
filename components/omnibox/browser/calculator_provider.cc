@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculator provider implementation
+// summary: Implements the CalculatorProvider autocomplete provider, which caches calculator matches from the search provider and shows them while the user stays in calculator mode.
+// ---
+
 #include "calculator_provider.h"
 
 #include <algorithm>

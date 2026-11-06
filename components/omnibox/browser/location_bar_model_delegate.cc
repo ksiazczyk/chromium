@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar model delegate defaults
+// summary: Provides default no-op implementations of LocationBarModelDelegate methods such as URL display, security state, and page type checks.
+// ---
+
 #include "components/omnibox/browser/location_bar_model_delegate.h"
 
 bool LocationBarModelDelegate::ShouldPreventElision() {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteProviderDebouncer implementation
+// summary: Implements a debouncer that throttles autocomplete provider runs by delaying, cancelling and flushing pending run requests.
+// ---
+
 #include "autocomplete_provider_debouncer.h"
 
 AutocompleteProviderDebouncer::AutocompleteProviderDebouncer(bool from_last_run,

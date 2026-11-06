@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autocomplete scoring model executor
+// summary: Tests the autocomplete scoring model executor end to end by loading a test TFLite model and verifying that inference returns the expected output.
+// ---
+
 #include "components/omnibox/browser/autocomplete_scoring_model_executor.h"
 
 #include <memory>

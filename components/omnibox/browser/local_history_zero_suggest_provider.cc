@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local history zero suggest provider implementation
+// summary: Implements the autocomplete provider that supplies on-focus zero-prefix suggestions from local browser history when Google is the default search engine.
+// ---
+
 #include "components/omnibox/browser/local_history_zero_suggest_provider.h"
 
 #include <algorithm>

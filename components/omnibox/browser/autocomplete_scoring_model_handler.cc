@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete scoring model handler implementation
+// summary: Implements the Optimization Guide model handler that builds model inputs from omnibox scoring signals and keeps the autocomplete scoring model loaded for the browser session.
+// ---
+
 #include "components/omnibox/browser/autocomplete_scoring_model_handler.h"
 
 #include <cmath>

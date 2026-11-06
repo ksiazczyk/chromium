@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open tab provider header
+// summary: Declares the OpenTabProvider autocomplete provider that matches user input against open tabs and can emit a null result message match.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OPEN_TAB_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OPEN_TAB_PROVIDER_H_
 

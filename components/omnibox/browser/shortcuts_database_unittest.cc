@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcuts database unit tests
+// summary: Unit tests for the shortcuts database covering add, update and delete operations and schema migration from earlier database versions.
+// ---
+
 #include <array>
 
 

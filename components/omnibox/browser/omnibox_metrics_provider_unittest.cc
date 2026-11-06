@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox metrics provider unit tests
+// summary: Unit tests for OmniboxMetricsProvider covering omnibox event logging, histograms, UKM events, and scoring signal recording.
+// ---
+
 #include "components/omnibox/browser/omnibox_metrics_provider.h"
 
 #include <memory>

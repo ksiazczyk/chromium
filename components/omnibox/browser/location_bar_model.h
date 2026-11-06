@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar model interface
+// summary: Defines the LocationBarModel interface exposing URL formatting, security level, page classification, and icon data for the current navigation entry.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_LOCATION_BAR_MODEL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_LOCATION_BAR_MODEL_H_
 

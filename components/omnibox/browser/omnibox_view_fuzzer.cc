@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox paste sanitization fuzzer
+// summary: LibFuzzer harness that feeds random UTF-16 clipboard strings into SanitizeTextForPaste to fuzz the paste sanitization logic.
+// ---
+
 #include "components/omnibox/browser/omnibox_text_util.h"
 
 #include <stddef.h>

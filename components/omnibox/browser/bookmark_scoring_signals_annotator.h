@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark scoring signals annotator header
+// summary: Declares BookmarkScoringSignalsAnnotator, which annotates URL suggestions with bookmark-based scoring signals looked up synchronously from the in-memory bookmark model.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_BOOKMARK_SCORING_SIGNALS_ANNOTATOR_H_
 #define COMPONENTS_OMNIBOX_BROWSER_BOOKMARK_SCORING_SIGNALS_ANNOTATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: history_match.cc
+// summary: Implements HistoryMatch helpers such as URL equality, host-only checks, and memory usage estimation.
+// ---
+
 #include "components/omnibox/browser/history_match.h"
 
 #include "base/check.h"

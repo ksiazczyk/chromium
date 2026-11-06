@@ -1,0 +1,4 @@
+# Docerion header of omnibox.mojom.
+type: source
+title: Omnibox Mojom enum definitions
+summary: Defines Mojom enums for suggestion navigation events and omnibox page classifications, mainly for use in TypeScript debugging UIs.

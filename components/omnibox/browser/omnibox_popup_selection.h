@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup selection header
+// summary: Declares OmniboxPopupSelection with line, state, and action index for tracking the focused omnibox popup selection.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_POPUP_SELECTION_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_POPUP_SELECTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document suggestions service unit tests
+// summary: Unit tests for DocumentSuggestionsService verifying request creation, variation headers, and primary account state handling with test identity and URL loader factories.
+// ---
+
 #include "components/omnibox/browser/document_suggestions_service.h"
 
 #include "base/functional/bind.h"

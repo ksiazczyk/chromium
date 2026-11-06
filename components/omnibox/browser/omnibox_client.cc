@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxClient default implementations
+// summary: Provides default implementations of OmniboxClient methods, returning empty or inert values for embedder-provided services and page data.
+// ---
+
 #include "components/omnibox/browser/omnibox_client.h"
 
 #include <optional>

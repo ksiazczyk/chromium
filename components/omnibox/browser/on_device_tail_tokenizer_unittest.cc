@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device tail tokenizer unit tests
+// summary: Unit tests for the on-device tail tokenizer covering token printability, prefix tokenization for ASCII and i18n vocabularies, and previous query tokenization.
+// ---
+
 #include "components/omnibox/browser/on_device_tail_tokenizer.h"
 
 #include <string>

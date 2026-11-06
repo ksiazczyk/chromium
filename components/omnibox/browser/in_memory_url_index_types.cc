@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL index type helpers implementation
+// summary: Implements term matching helpers that find, sort, deoverlap, and rewrite substring matches of omnibox terms in URLs and page titles.
+// ---
+
 #include "components/omnibox/browser/in_memory_url_index_types.h"
 
 #include <algorithm>

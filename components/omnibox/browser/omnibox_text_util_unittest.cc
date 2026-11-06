@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox text utility unit tests
+// summary: Unit tests for the omnibox text utilities, covering JavaScript schema stripping, paste sanitization, and copy adjustment behavior.
+// ---
+
 #include "components/omnibox/browser/omnibox_text_util.h"
 
 #include <stddef.h>

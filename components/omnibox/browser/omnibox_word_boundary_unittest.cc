@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox word boundary unit tests
+// summary: Unit tests covering forward and backward word deletion boundaries for URLs, ports, paths and IPv6 literals.
+// ---
+
 #include "components/omnibox/browser/omnibox_word_boundary.h"
 
 #include <string>

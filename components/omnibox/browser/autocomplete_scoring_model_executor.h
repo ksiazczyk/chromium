@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete scoring model executor declaration
+// summary: Declares the Optimization Guide model executor that runs the omnibox URL scoring model with float vector inputs and probability outputs.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_SCORING_MODEL_EXECUTOR_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_SCORING_MODEL_EXECUTOR_H_
 

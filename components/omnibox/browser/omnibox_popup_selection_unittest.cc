@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox popup selection unit tests
+// summary: Unit tests for OmniboxPopupSelection covering selection stepping across lines, keyword mode, and focused buttons.
+// ---
+
 #include "components/omnibox/browser/omnibox_popup_selection.h"
 
 #include <stddef.h>

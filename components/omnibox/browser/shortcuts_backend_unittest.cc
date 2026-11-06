@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcuts backend unit tests
+// summary: Unit tests for the shortcuts backend covering adding, updating and deleting shortcuts and database initialization behavior.
+// ---
+
 #include "components/omnibox/browser/shortcuts_backend.h"
 
 #include <stddef.h>

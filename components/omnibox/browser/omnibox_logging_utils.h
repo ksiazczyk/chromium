@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox logging utilities header
+// summary: Declares omnibox logging utility functions for focus-to-open-time metrics, action-shown recording, and IPv4 parts count logging.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_LOGGING_UTILS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_LOGGING_UTILS_H_
 

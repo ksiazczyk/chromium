@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device head provider implementation
+// summary: Implements an asynchronous autocomplete provider that fetches head and tail suggestions from on-device models when network conditions are poor.
+// ---
+
 #include "components/omnibox/browser/on_device_head_provider.h"
 
 #include <limits>

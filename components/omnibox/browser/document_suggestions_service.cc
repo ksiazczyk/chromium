@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document suggestions network service implementation
+// summary: Implements the keyed service that builds and sends document search requests to a remote endpoint, handling OAuth2 token fetching, workspace account state, and backoff.
+// ---
+
 #include "components/omnibox/browser/document_suggestions_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Section classes for autocomplete grouping
+// summary: Declares the Section base class and ZPS, local-history, MV-tiles, and Android subclasses that implement omnibox suggestion grouping and limits.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_GROUPER_SECTIONS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_GROUPER_SECTIONS_H_
 

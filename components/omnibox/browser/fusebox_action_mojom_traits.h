@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fusebox action Mojo enum traits header
+// summary: Declares the Mojo EnumTraits specialization for converting omnibox SuggestInventory protobuf values to fusebox_action Mojo enums.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FUSEBOX_ACTION_MOJOM_TRAITS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FUSEBOX_ACTION_MOJOM_TRAITS_H_
 

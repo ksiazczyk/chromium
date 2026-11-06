@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete grouper groups implementation
+// summary: Implements the Group class that admits omnibox matches under per-group-ID and total limits and regroups matches by group ID or search-vs-URL order.
+// ---
+
 #include "components/omnibox/browser/autocomplete_grouper_groups.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AIM eligibility service implementation
+// summary: Implements a gmock mock of AimEligibilityService with default eligibility responses for use in omnibox tests.
+// ---
+
 #include "components/omnibox/browser/mock_aim_eligibility_service.h"
 
 #include "services/network/public/cpp/shared_url_loader_factory.h"

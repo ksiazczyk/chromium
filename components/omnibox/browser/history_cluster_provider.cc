@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History cluster provider implementation
+// summary: Implements an autocomplete provider that adds history cluster (Journeys) suggestions when search provider matches contain cluster keywords.
+// ---
+
 #include "components/omnibox/browser/history_cluster_provider.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search provider implementation
+// summary: Implements the Search autocomplete provider that queries Suggest servers, builds search and keyword matches, and records omnibox metrics.
+// ---
+
 #include "components/omnibox/browser/search_provider.h"
 
 #include <stddef.h>

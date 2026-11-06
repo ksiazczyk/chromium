@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock tab matcher interface
+// summary: Declares MockTabMatcher, a gmock test double of TabMatcher that allows arbitrary tab URL matching in tests.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_MOCK_TAB_MATCHER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_MOCK_TAB_MATCHER_H_
 

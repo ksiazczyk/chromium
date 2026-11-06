@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Builtin provider implementation
+// summary: Implements the omnibox autocomplete provider that suggests the browser's built-in scheme pages, handling autocompletion, match construction, and relevance scoring.
+// ---
+
 #include "components/omnibox/browser/builtin_provider.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History URL provider unit tests
+// summary: Unit tests for the history URL autocomplete provider, covering match ranking, host synthesis, and inline autocomplete behavior against a test URL database.
+// ---
+
 #include "components/omnibox/browser/history_url_provider.h"
 
 #include <stddef.h>

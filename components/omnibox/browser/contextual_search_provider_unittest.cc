@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual search provider unit tests
+// summary: Unit tests for ContextualSearchProvider that verify Lens action eligibility and takeover action conditions across different inputs, URLs, and focus types.
+// ---
+
 #include "components/omnibox/browser/contextual_search_provider.h"
 
 #include <memory>

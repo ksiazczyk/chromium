@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline autocompletion utility
+// summary: Provides FindAtWordbreak, a helper that finds an occurrence of a search string starting at a word boundary within text.
+// ---
+
 #include "inline_autocompletion_util.h"
 
 size_t FindAtWordbreak(const std::u16string& text,

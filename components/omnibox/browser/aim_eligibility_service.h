@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM eligibility service class declaration
+// summary: Declares the AimEligibilityService keyed service, its enums, configuration, and helpers for AI mode feature eligibility checks.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AIM_ELIGIBILITY_SERVICE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AIM_ELIGIBILITY_SERVICE_H_
 

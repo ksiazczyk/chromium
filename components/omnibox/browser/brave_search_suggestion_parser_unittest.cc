@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Brave Search suggestion parser unit tests
+// summary: Unit tests for the Brave Search suggestion parser that verify parsing of entity and query suggestions and that relevance is scored locally rather than taken from the server.
+// ---
+
 #include "components/omnibox/browser/brave_search_suggestion_parser.h"
 
 #include <optional>

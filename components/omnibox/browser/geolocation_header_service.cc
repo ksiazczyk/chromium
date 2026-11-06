@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation header service implementation
+// summary: Implements a KeyedService that builds the X-Geo header for eligible default search engine navigations, including location priming, permission checks, and metrics.
+// ---
+
 #include "components/omnibox/browser/geolocation_header_service.h"
 
 #include "base/base64url.h"

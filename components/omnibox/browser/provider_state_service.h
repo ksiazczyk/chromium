@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provider state service header
+// summary: Declares a keyed service that shares autocomplete provider state between browser windows, including a calculator match cache and a profile uptime timer.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_PROVIDER_STATE_SERVICE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_PROVIDER_STATE_SERVICE_H_
 

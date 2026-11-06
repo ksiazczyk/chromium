@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History URL provider header
+// summary: Declares the HistoryURLProvider class and documents its two-pass, multi-threaded history autocomplete flow between the main and history threads.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_HISTORY_URL_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_HISTORY_URL_PROVIDER_H_
 

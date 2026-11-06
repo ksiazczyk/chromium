@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup selection implementation
+// summary: Implements OmniboxPopupSelection logic for stepping through popup lines, line states, and focused buttons.
+// ---
+
 #include "components/omnibox/browser/omnibox_popup_selection.h"
 
 #include <algorithm>

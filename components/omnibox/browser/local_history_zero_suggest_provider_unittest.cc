@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local history zero suggest provider unit tests
+// summary: Unit tests for LocalHistoryZeroSuggestProvider covering input handling, match generation, and metrics using fake clients and a test history service.
+// ---
+
 #include "components/omnibox/browser/local_history_zero_suggest_provider.h"
 
 #include <limits>

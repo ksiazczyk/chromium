@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for autocomplete grouper sections
+// summary: Tests section grouping rules, including side types, limits, and expected relevance and group ordering of grouped matches.
+// ---
+
 #include "components/omnibox/browser/autocomplete_grouper_sections.h"
 
 #include <iterator>

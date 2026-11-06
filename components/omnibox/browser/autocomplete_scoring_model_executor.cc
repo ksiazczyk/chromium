@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete scoring model executor implementation
+// summary: Implements TFLite preprocessing and postprocessing for the omnibox autocomplete scoring model, converting scoring signal vectors into click probabilities.
+// ---
+
 #include "components/omnibox/browser/autocomplete_scoring_model_executor.h"
 
 #include <optional>

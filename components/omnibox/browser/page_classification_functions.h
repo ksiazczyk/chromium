@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page classification functions header
+// summary: Declares helper functions for testing omnibox page classification values, including NTP, WebUI searchbox, Lens, custom tab, and Android widget checks.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_PAGE_CLASSIFICATION_FUNCTIONS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_PAGE_CLASSIFICATION_FUNCTIONS_H_
 

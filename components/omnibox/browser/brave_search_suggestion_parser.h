@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brave Search suggestion parser header
+// summary: Declares the parser for Brave Search rich and rich_verticals suggest responses, converting per-suggestion dictionaries into autocomplete results scored locally.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_BRAVE_SEARCH_SUGGESTION_PARSER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_BRAVE_SEARCH_SUGGESTION_PARSER_H_
 

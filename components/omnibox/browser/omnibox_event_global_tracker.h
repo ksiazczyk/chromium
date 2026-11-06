@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox event global tracker header
+// summary: Declares the OmniboxEventGlobalTracker singleton that bridges per-user-context omnibox events to observers across all user contexts.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_EVENT_GLOBAL_TRACKER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_EVENT_GLOBAL_TRACKER_H_
 

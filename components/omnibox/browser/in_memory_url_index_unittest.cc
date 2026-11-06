@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory URL index unit tests
+// summary: Unit tests for the in-memory URL index, using a test history database to verify scoring and matching of history items for omnibox queries.
+// ---
+
 #include "components/omnibox/browser/in_memory_url_index.h"
 
 #include <stddef.h>

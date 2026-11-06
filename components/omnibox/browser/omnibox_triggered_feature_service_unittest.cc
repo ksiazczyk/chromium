@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox triggered feature service unit tests
+// summary: Unit tests verifying feature and rich autocompletion type tracking, log recording, and session reset behavior of the triggered feature service.
+// ---
+
 #include "omnibox_triggered_feature_service.h"
 
 #include "base/test/metrics/histogram_tester.h"

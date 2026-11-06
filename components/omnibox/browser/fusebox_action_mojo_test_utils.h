@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FuseboxAction test utils header
+// summary: Declares debug-printing PrintTo helpers for FuseboxAction Mojo types used in tests.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FUSEBOX_ACTION_MOJO_TEST_UTILS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FUSEBOX_ACTION_MOJO_TEST_UTILS_H_
 

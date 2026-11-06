@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteMatch implementation
+// summary: Implements the AutocompleteMatch class that models omnibox suggestions, including classification, deduplication, and formatting logic.
+// ---
+
 #include "components/omnibox/browser/autocomplete_match.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoring functor implementation
+// summary: Implements ScoringFunctor, accumulating a similarity score from snippet match positions and lengths for suggestion titles or URLs.
+// ---
+
 #include "scoring_functor.h"
 
 #include <stddef.h>

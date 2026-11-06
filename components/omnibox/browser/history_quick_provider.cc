@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryQuickProvider implementation
+// summary: Implements the HistoryQuickProvider autocomplete provider that synchronously returns matches from recently and frequently visited URLs in the profile's history.
+// ---
+
 #include "components/omnibox/browser/history_quick_provider.h"
 
 #include <stddef.h>

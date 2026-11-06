@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: history_match.h
+// summary: Declares the HistoryMatch struct used for intermediate history autocomplete results, with match location and component flags.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_HISTORY_MATCH_H_
 #define COMPONENTS_OMNIBOX_BROWSER_HISTORY_MATCH_H_
 

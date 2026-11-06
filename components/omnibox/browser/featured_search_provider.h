@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeaturedSearchProvider header
+// summary: Declares the FeaturedSearchProvider autocomplete provider for built-in URLs, starter pack searches, and in-product help promo matches shown in the omnibox zero state.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FEATURED_SEARCH_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FEATURED_SEARCH_PROVIDER_H_
 

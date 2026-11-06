@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete controller metrics implementation
+// summary: Implements logging of async autocompletion timing histograms for the autocomplete controller and its individual providers.
+// ---
+
 #include "autocomplete_controller_metrics.h"
 
 #include <string>

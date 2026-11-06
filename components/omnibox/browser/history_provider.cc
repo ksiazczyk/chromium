@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: history_provider.cc
+// summary: Implements shared history autocomplete provider behavior, including deleting matches from history and building match classifications.
+// ---
+
 #include "components/omnibox/browser/history_provider.h"
 
 #include <string>

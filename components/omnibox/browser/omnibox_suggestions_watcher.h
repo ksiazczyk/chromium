@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox suggestions watcher header
+// summary: Declares the OmniboxSuggestionsWatcher KeyedService and its observer interface for the Omnibox Extensions API, which notifies observers about suggestion changes.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_SUGGESTIONS_WATCHER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_SUGGESTIONS_WATCHER_H_
 

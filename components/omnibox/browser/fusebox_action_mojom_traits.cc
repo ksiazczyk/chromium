@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fusebox action Mojo enum traits implementation
+// summary: Implements Mojo enum traits that map omnibox protobuf SuggestInventory values to and from the fusebox_action Mojo enum.
+// ---
+
 #include "components/omnibox/browser/fusebox_action_mojom_traits.h"
 
 #include <optional>

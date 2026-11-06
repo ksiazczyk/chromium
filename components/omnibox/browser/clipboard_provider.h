@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard provider header
+// summary: Declares the ClipboardProvider class, an autocomplete provider that creates matches from the clipboard's URL, text, or image content.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_CLIPBOARD_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_CLIPBOARD_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device tail model service unit tests
+// summary: Unit tests verifying model update handling and prediction generation for the tail model service using a test model provider and test data files.
+// ---
+
 #include "components/omnibox/browser/on_device_tail_model_service.h"
 
 #include <optional>

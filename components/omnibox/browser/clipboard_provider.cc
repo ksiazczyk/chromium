@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard provider implementation
+// summary: Implements the ClipboardProvider autocomplete provider, which offers URL, text, and image suggestions based on clipboard content and records related usage metrics.
+// ---
+
 #include "components/omnibox/browser/clipboard_provider.h"
 
 #include <algorithm>

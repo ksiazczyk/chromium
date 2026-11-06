@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: history_fuzzy_provider.h
+// summary: Declares the HistoryFuzzyProvider and the fuzzy namespace types for edits, corrections, tolerance schedules, and trie nodes.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_HISTORY_FUZZY_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_HISTORY_FUZZY_PROVIDER_H_
 

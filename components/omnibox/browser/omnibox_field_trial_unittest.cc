@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox field trial unit tests
+// summary: Unit tests verifying omnibox field trial behavior such as disabled provider types and suggest polling strategy parameter parsing.
+// ---
+
 #include "components/omnibox/browser/omnibox_field_trial.h"
 
 #include <memory>

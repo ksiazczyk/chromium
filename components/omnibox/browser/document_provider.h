@@ -6,6 +6,12 @@
 // provider uses an experimental API with keys and endpoint provided at
 // developer build-time, so it is feature-flagged off by default.
 
+// ---docerion
+// type: source
+// title: Document autocomplete provider header
+// summary: Declares DocumentProvider, an autocomplete provider for documents owned or readable by the signed-in user, with text classification and URL deduping helpers.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_DOCUMENT_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_DOCUMENT_PROVIDER_H_
 

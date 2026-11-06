@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device head model header
+// summary: Declares OnDeviceHeadModel and documents the encoded radix-tree node format used to serve top query suggestions on device.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_ON_DEVICE_HEAD_MODEL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_ON_DEVICE_HEAD_MODEL_H_
 

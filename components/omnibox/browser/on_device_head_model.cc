@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device head model implementation
+// summary: Reads an on-device radix-tree model of top queries from disk and returns scored suggestions matching a given prefix for offline omnibox head suggest.
+// ---
+
 #include "components/omnibox/browser/on_device_head_model.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recently closed tabs provider unit tests
+// summary: Unit tests for RecentlyClosedTabsProvider covering zero-suggest and typed-input suggestions using a mocked TabRestoreService and the Android Tab Search feature flag.
+// ---
+
 #include "components/omnibox/browser/recently_closed_tabs_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search suggestion parser implementation
+// summary: Parses Suggest server responses into typed suggestion results, mapping suggest types to autocomplete match types and subtypes.
+// ---
+
 #include "components/omnibox/browser/search_suggestion_parser.h"
 
 #include <stddef.h>

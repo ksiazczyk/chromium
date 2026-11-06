@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword autocomplete provider implementation
+// summary: Implements KeywordProvider, matching keyword-prefixed input against TemplateURL keywords and building search suggestion matches.
+// ---
+
 #include "components/omnibox/browser/keyword_provider.h"
 
 #include <string>

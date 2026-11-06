@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark provider header
+// summary: Declares BookmarkProvider, an autocomplete provider that synchronously generates suggestions from bookmark titles and computes relevance scores for the matches.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_BOOKMARK_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_BOOKMARK_PROVIDER_H_
 

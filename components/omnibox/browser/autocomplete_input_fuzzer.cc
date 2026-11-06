@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for AutocompleteInput parsing
+// summary: Feeds random UTF-16 strings to AutocompleteInput to fuzz-test the Parse path against crashes and DCHECK failures.
+// ---
+
 #include "components/omnibox/browser/autocomplete_input.h"
 
 #include <stddef.h>

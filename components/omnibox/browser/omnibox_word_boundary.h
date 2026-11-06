@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox word boundary header
+// summary: Declares GetDeletionBoundary, the offset a word-granularity delete should extend to in omnibox text.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_WORD_BOUNDARY_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_WORD_BOUNDARY_H_
 

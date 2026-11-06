@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete input parsing implementation
+// summary: Implements parsing and classification of omnibox user input, including scheme detection, URL fixing, and handling of terms prefixed by http or https.
+// ---
+
 #include "components/omnibox/browser/autocomplete_input.h"
 
 #include <optional>

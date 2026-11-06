@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Builtin provider unit tests
+// summary: Unit tests for the omnibox builtin provider, checking suggestions for built-in pages and subpages with a fake autocomplete provider client.
+// ---
+
 #include "components/omnibox/browser/builtin_provider.h"
 
 #include <stddef.h>

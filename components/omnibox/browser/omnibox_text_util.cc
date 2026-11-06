@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox text utility implementation
+// summary: Implements omnibox text helpers that strip JavaScript schemas, sanitize whitespace in pasted text, and adjust copied text for clipboard and URL handling.
+// ---
+
 #include "components/omnibox/browser/omnibox_text_util.h"
 
 #include "base/strings/strcat.h"

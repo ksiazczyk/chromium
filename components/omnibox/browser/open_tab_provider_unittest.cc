@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Open tab provider unit tests
+// summary: Unit tests for OpenTabProvider verifying no results, title and URL matching, and omission of Chrome new tab pages.
+// ---
+
 #include "components/omnibox/browser/open_tab_provider.h"
 
 #include <memory>

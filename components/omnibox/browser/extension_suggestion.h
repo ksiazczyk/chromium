@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension suggestion header
+// summary: Declares the ExtensionSuggestion struct representing a suggest result from the extension omnibox API, including actions, icon URL and match classifications.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_EXTENSION_SUGGESTION_H_
 #define COMPONENTS_OMNIBOX_BROWSER_EXTENSION_SUGGESTION_H_
 

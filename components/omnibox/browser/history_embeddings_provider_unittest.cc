@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: history_embeddings_provider_unittest.cc
+// summary: Unit tests for the history embeddings provider covering match creation, answer matches, and starter pack keyword adjustment.
+// ---
+
 #include "components/omnibox/browser/history_embeddings_provider.h"
 
 #include <memory>

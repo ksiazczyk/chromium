@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake autocomplete provider for tests
+// summary: Provides a do-nothing AutocompleteProvider that lets tests create AutocompleteMatches with specific provider types.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_FAKE_AUTOCOMPLETE_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_FAKE_AUTOCOMPLETE_PROVIDER_H_
 

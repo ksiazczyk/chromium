@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: history_fuzzy_provider.cc
+// summary: Implements the fuzzy history autocomplete provider, including trie-based input correction, sub-provider match conversion, and related metrics.
+// ---
+
 #include "components/omnibox/browser/history_fuzzy_provider.h"
 
 #include <functional>

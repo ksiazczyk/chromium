@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Match comparison with type-based demotion
+// summary: Defines a comparator that demotes autocomplete match relevance by match type for page classifications such as the NTP realbox.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_MATCH_COMPARE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_MATCH_COMPARE_H_
 

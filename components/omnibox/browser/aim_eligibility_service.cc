@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM eligibility service implementation
+// summary: Implements the keyed service that checks whether a profile is eligible for AI mode features, covering server requests, OAuth, and UMA histograms.
+// ---
+
 #include "components/omnibox/browser/aim_eligibility_service.h"
 
 #include <functional>

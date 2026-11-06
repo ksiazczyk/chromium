@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device tail model service implementation
+// summary: Implements the keyed service that loads the tail suggest model via the Optimization Guide, runs the executor on a background task runner, and records latency and validation histograms.
+// ---
+
 #include "components/omnibox/browser/on_device_tail_model_service.h"
 
 #include <optional>

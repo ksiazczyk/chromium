@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar model utility implementation
+// summary: Implements helpers that select security vector icons by security level and convert Contextual Tasks URLs for display and copying.
+// ---
+
 #include "components/omnibox/browser/location_bar_model_util.h"
 
 #include "base/feature_list.h"

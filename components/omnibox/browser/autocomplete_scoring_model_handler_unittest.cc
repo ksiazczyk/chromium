@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete scoring model handler unit tests
+// summary: Unit tests for the autocomplete scoring model handler, using a test model executor and a small adder.tflite model to verify input extraction and scoring behavior.
+// ---
+
 #include "components/omnibox/browser/autocomplete_scoring_model_handler.h"
 
 #include "base/base_paths.h"

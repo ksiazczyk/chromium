@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete grouper sections implementation
+// summary: Implements Section and its subclasses that rank, cull, and distribute omnibox matches into groups for the various autocomplete grouping algorithms.
+// ---
+
 #include "components/omnibox/browser/autocomplete_grouper_sections.h"
 
 #include <algorithm>

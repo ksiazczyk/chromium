@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search suggestion parser unit tests
+// summary: Unit tests covering JSON deserialization, content-type handling, and parsing of Suggest responses into suggestion results.
+// ---
+
 #include "components/omnibox/browser/search_suggestion_parser.h"
 
 #include <optional>

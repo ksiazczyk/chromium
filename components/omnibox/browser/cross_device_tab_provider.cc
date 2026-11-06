@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device tab autocomplete provider implementation
+// summary: Implements an autocomplete provider that surfaces tabs recently active on the user's other synced devices as zero- suggest matches, with eligibility checks, histogram logging, and interaction metrics.
+// ---
+
 #include "components/omnibox/browser/cross_device_tab_provider.h"
 
 #include <algorithm>

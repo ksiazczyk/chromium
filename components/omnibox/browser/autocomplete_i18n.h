@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple case-insensitive comparison for autocomplete
+// summary: Declares a UCS-2 case-insensitive character comparator that keeps prefix lengths stable, with documented trade-offs for accents and surrogates.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_I18N_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_I18N_H_
 

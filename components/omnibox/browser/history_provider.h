@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: history_provider.h
+// summary: Declares the HistoryProvider base class offering match deletion and classification helpers for history-based omnibox providers.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_HISTORY_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_HISTORY_PROVIDER_H_
 

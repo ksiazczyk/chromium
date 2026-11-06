@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts constants header
+// summary: Declares the file name constant used for the omnibox shortcuts database.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_CONSTANTS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_SHORTCUTS_CONSTANTS_H_
 

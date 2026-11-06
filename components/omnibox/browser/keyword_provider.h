@@ -8,6 +8,12 @@
 // instance of it gets created and managed by the autocomplete controller.
 // KeywordProvider uses a TemplateURLService to find the set of keywords.
 
+// ---docerion
+// type: source
+// title: Keyword autocomplete provider header
+// summary: Declares KeywordProvider, which turns keyword queries like "imdb Godzilla" into search URLs using TemplateURLService keywords.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_KEYWORD_PROVIDER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_KEYWORD_PROVIDER_H_
 

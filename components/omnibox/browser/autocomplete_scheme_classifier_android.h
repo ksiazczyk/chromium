@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AutocompleteSchemeClassifierAndroid declaration
+// summary: Declares the Android helper class that converts a Java AutocompleteSchemeClassifier reference into the corresponding native object.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_SCHEME_CLASSIFIER_ANDROID_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_SCHEME_CLASSIFIER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake autocomplete scoring model service implementation
+// summary: Implements a fake scoring model service that returns each match's site engagement signal as its ML score for tests.
+// ---
+
 #include "components/omnibox/browser/fake_autocomplete_scoring_model_service.h"
 
 #include <vector>

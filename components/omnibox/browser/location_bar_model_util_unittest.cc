@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location bar model utility unit tests
+// summary: Unit tests verifying security vector icon selection across security levels, malicious content statuses, and HTTPS-first mode features.
+// ---
+
 #include "components/omnibox/browser/location_bar_model_util.h"
 
 #include "base/test/scoped_feature_list.h"

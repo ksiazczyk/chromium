@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox triggered feature service implementation
+// summary: Implements tracking of omnibox features triggered per input and session, recording rich autocompletion types to UMA histograms for counterfactual metrics.
+// ---
+
 #include "omnibox_triggered_feature_service.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteProviderDebouncer class header
+// summary: Declares the AutocompleteProviderDebouncer class, which delays callback invocation and cancels pending requests when new ones arrive.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_PROVIDER_DEBOUNCER_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_PROVIDER_DEBOUNCER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox prefs implementation
+// summary: Registers omnibox profile and local state preferences and manages the zero-suggest cached response preference.
+// ---
+
 #include "components/omnibox/browser/omnibox_prefs.h"
 
 #include <optional>

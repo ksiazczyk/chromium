@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteInput class declaration
+// summary: Declares the AutocompleteInput class that stores and parses user omnibox input with cursor position, desired TLD, and page classification.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_INPUT_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_INPUT_H_
 

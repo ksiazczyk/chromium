@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox metrics provider implementation
+// summary: Implements OmniboxMetricsProvider, logging omnibox events, UMA histograms, UKM events, and ML scoring signals for suggestion training.
+// ---
+
 #include "components/omnibox/browser/omnibox_metrics_provider.h"
 
 #include <string>

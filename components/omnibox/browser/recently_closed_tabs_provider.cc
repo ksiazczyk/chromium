@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed tabs provider implementation
+// summary: Implements an autocomplete provider that surfaces recently closed tabs as omnibox suggestions, with scoring based on title and URL term matches.
+// ---
+
 #include "components/omnibox/browser/recently_closed_tabs_provider.h"
 
 #include <algorithm>

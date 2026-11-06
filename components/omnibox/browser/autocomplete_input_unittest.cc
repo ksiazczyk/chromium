@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocompleteInput unit tests
+// summary: Unit tests verifying how omnibox input text is classified into types such as URL, query, and empty.
+// ---
+
 #include "components/omnibox/browser/autocomplete_input.h"
 
 #include <stddef.h>

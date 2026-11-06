@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox URL emphasizer JNI bridge for Android
+// summary: Android JNI implementation that parses URL scheme and host components for emphasis using the Android autocomplete scheme classifier.
+// ---
+
 #include "base/android/jni_array.h"
 #include "base/android/jni_string.h"
 #include "base/android/scoped_java_ref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-device tab provider unit tests
+// summary: Unit tests for CrossDeviceTabProvider covering match creation, eligibility histogram samples, and interaction metrics using mocked session sync services and fake open tabs delegates.
+// ---
+
 #include "components/omnibox/browser/cross_device_tab_provider.h"
 
 #include <memory>

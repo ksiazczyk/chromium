@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for AutocompleteSchemeClassifier
+// summary: Implements the Android JNI bridge that maps a Java scheme classifier object to its native AutocompleteSchemeClassifier pointer.
+// ---
+
 #include "components/omnibox/browser/autocomplete_scheme_classifier_android.h"
 
 #include "base/android/jni_android.h"

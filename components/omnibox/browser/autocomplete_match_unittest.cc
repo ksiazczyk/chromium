@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocompleteMatch unit tests
+// summary: Unit tests for the AutocompleteMatch class, covering default match eligibility, inline autocompletion, scoring signals and omnibox actions.
+// ---
+
 #include "components/omnibox/browser/autocomplete_match.h"
 
 #include <stddef.h>

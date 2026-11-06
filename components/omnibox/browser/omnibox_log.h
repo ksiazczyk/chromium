@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox log header
+// summary: Declares the OmniboxLog struct holding the data logged via the metrics service when the user selects an item from the omnibox popup.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_LOG_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_LOG_H_
 

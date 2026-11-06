@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM eligibility feature flag definitions
+// summary: Defines base features and field trial parameters that control AIM eligibility service behavior such as request timing and identity handling.
+// ---
+
 #include "components/omnibox/browser/aim_eligibility_service_features.h"
 
 #include "base/metrics/field_trial_params.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete scoring model service implementation
+// summary: Implements the keyed service that batch-scores autocomplete URL matches with the ML model, including an LRU score cache and model version handling.
+// ---
+
 #include "components/omnibox/browser/autocomplete_scoring_model_service.h"
 
 #include <optional>

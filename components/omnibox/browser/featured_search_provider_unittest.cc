@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeaturedSearchProvider unit tests
+// summary: Unit tests for the featured search provider, verifying starter pack keyword matching, enterprise suggestion limits, and IPH promo match behavior.
+// ---
+
 #include "components/omnibox/browser/featured_search_provider.h"
 
 #include <stddef.h>

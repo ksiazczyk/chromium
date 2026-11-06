@@ -1,0 +1,4 @@
+# Docerion header of searchbox.mojom.
+type: source
+title: Searchbox Mojo interface definitions
+summary: Defines Mojo structs and enums for the searchbox UI, including autocomplete matches, URL emphasis styling, and keyword mode models.

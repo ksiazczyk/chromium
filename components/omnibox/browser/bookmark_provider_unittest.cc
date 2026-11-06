@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark provider unit tests
+// summary: Unit tests for BookmarkProvider covering bookmark title matching, inline autocompletion, URL boosting, keyword mode, and relevance scoring against a simulated bookmark corpus.
+// ---
+
 #include "components/omnibox/browser/bookmark_provider.h"
 
 #include <stddef.h>

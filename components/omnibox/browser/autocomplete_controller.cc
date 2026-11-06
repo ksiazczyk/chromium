@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteController implementation
+// summary: Implements the AutocompleteController that starts and stops autocomplete providers, merges their matches into one result, and reports metrics and searchbox stats.
+// ---
+
 #include "components/omnibox/browser/autocomplete_controller.h"
 
 #include <inttypes.h>

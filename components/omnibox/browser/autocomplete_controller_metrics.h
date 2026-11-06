@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutocompleteControllerMetrics class declaration
+// summary: Declares a helper that tracks and logs timing metrics for provider completion, suggestion finalization, and suggestion changes during autocomplete updates.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_CONTROLLER_METRICS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_AUTOCOMPLETE_CONTROLLER_METRICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model update listener
+// summary: Singleton listener that tracks on-device head model updates and resolves the model's _index.bin filename on a background thread.
+// ---
+
 #include "components/omnibox/browser/on_device_model_update_listener.h"
 
 #include "base/files/file_enumerator.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar model delegate interface
+// summary: Declares the delegate interface used by LocationBarModel to obtain URLs, security state, certificates, and page type information from embedders.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_LOCATION_BAR_MODEL_DELEGATE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_LOCATION_BAR_MODEL_DELEGATE_H_
 

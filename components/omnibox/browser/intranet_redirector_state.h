@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intranet redirector behavior enum and API
+// summary: Defines the IntranetRedirectorBehavior enum for redirect checks and did-you-mean infobars and declares the behavior lookup function.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_INTRANET_REDIRECTOR_STATE_H_
 #define COMPONENTS_OMNIBOX_BROWSER_INTRANET_REDIRECTOR_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutocompleteMatchType accessibility label unit tests
+// summary: Unit tests for the accessibility labels built from autocomplete match types, covering history, search, AI embeddings and pedal suggestions.
+// ---
+
 #include "components/omnibox/browser/autocomplete_match_type.h"
 
 #include "base/json/json_reader.h"

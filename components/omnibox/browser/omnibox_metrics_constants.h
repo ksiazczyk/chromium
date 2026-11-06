@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox metrics constants
+// summary: Defines histogram name constants for keyword mode metrics such as entered keyword mode and accepted keyword suggestions.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_METRICS_CONSTANTS_H_
 #define COMPONENTS_OMNIBOX_BROWSER_OMNIBOX_METRICS_CONSTANTS_H_
 

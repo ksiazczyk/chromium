@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise search aggregator autocomplete provider
+// summary: Implements an autocomplete provider that fetches and scores enterprise search aggregator suggestions such as people and content, with configurable per-type match limits and text-match scoring.
+// ---
+
 #include "enterprise_search_aggregator_provider.h"
 
 #include <algorithm>

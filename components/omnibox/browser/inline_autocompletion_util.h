@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline autocompletion wordbreak search utility header
+// summary: Declares FindAtWordbreak, a helper that locates the first occurrence of a search string at a word break within text.
+// ---
+
 #ifndef COMPONENTS_OMNIBOX_BROWSER_INLINE_AUTOCOMPLETION_UTIL_H_
 #define COMPONENTS_OMNIBOX_BROWSER_INLINE_AUTOCOMPLETION_UTIL_H_
 
