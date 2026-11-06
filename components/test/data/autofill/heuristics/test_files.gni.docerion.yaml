@@ -1,0 +1,4 @@
+# Docerion header of test_files.gni.
+type: test
+title: Autofill heuristics test file list for GN build
+summary: Lists all autofill heuristics test HTML input files for inclusion in the iOS Chrome form_structure_browsertest BUILD.gn target.

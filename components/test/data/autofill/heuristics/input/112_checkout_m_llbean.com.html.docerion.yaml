@@ -1,0 +1,4 @@
+# Docerion header of 112_checkout_m_llbean.com.html.
+type: test
+title: L.L.Bean secure checkout page for autofill heuristics tests
+summary: Saved L.L.Bean secure checkout form with name, gender, and shipping address fields used as input for autofill heuristics tests.

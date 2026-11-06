@@ -1,0 +1,4 @@
+# Docerion header of 157_bug_971402_opentable_checkout.html.
+type: test
+title: OpenTable checkout credit card test input (bug 971402)
+summary: OpenTable reservation checkout credit card fields saved to reproduce Chromium bug 971402 in autofill heuristics.

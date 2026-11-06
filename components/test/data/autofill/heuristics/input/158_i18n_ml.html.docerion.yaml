@@ -1,0 +1,4 @@
+# Docerion header of 158_i18n_ml.html.
+type: test
+title: Malayalam localized form test input
+summary: Simple form with Malayalam labels for name, city, state, postal code, email and phone used in autofill i18n heuristics tests.

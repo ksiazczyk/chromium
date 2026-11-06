@@ -1,0 +1,4 @@
+# Docerion header of 138_cc_checkout_united.com.html.
+type: test
+title: 'Autofill test input: United.com billing form'
+summary: Saved United.com flight booking billing information form used as input for autofill field detection tests.

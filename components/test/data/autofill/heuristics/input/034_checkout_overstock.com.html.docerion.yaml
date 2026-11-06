@@ -1,0 +1,4 @@
+# Docerion header of 034_checkout_overstock.com.html.
+type: test
+title: Overstock.com checkout page fixture
+summary: Saved Overstock.com checkout page used as input for autofill heuristic tests.

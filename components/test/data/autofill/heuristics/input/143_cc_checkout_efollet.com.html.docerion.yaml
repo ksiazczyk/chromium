@@ -1,0 +1,4 @@
+# Docerion header of 143_cc_checkout_efollet.com.html.
+type: test
+title: eFollet credit card checkout form fixture
+summary: Saved eFollet checkout form with card type, holder name, number, expiry, and security code used as autofill heuristics test input.

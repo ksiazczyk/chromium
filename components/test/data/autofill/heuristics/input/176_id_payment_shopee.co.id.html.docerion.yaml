@@ -1,0 +1,4 @@
+# Docerion header of 176_id_payment_shopee.co.id.html.
+type: test
+title: Shopee Indonesian credit card form test input
+summary: Captured Shopee Indonesia credit card popup form with card number, expiry, CVV and billing fields, used as autofill heuristics test input.

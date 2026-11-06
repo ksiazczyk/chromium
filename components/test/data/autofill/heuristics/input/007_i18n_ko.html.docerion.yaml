@@ -1,0 +1,4 @@
+# Docerion header of 007_i18n_ko.html.
+type: test
+title: Korean autofill heuristics test form
+summary: HTML form with Korean labels covering name, address and email variants, including checks that full-name labels do not match last name.

@@ -1,0 +1,4 @@
+# Docerion header of 136_bug_497850.html.
+type: test
+title: 'Autofill test input: reservation payment page (bug 497850)'
+summary: Saved airline reservation payment confirmation page used as input for the autofill field detection test for bug 497850.

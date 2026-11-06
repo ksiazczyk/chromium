@@ -1,0 +1,4 @@
+# Docerion header of 106_checkout_m_amazon.com.html.
+type: test
+title: Amazon mobile checkout address form test input
+summary: Captured Amazon mobile checkout address entry page used as input for autofill field heuristics tests.

@@ -1,0 +1,4 @@
+# Docerion header of 040_checkout_urbanoutfitters.com.html.
+type: test
+title: Urban Outfitters checkout page test input
+summary: Saved Urban Outfitters checkout page with shipping address form fields, used as input for autofill field detection heuristics tests.

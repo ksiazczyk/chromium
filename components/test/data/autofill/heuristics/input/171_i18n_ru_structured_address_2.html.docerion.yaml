@@ -1,0 +1,4 @@
+# Docerion header of 171_i18n_ru_structured_address_2.html.
+type: test
+title: Russian i18n structured address test form 2
+summary: HTML form with Russian labels for name, company, address, contact and card fields, used as autofill heuristics test input.

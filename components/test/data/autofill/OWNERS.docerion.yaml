@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Owners file that inherits the reviewer list from the autofill component's OWNERS file.

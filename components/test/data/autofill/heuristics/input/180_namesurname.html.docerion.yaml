@@ -1,0 +1,4 @@
+# Docerion header of 180_namesurname.html.
+type: test
+title: English name and surname form test input
+summary: Minimal English form with name, surname, city, ZIP and state fields, used as autofill heuristics test input.

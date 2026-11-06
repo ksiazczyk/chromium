@@ -1,0 +1,4 @@
+# Docerion header of 132_bug_469012.html.
+type: test
+title: 'Autofill test input: card payment form (bug 469012)'
+summary: Saved credit card and billing address form used as input for the autofill field detection test for bug 469012.

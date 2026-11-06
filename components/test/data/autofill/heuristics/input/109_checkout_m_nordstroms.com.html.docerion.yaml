@@ -1,0 +1,4 @@
+# Docerion header of 109_checkout_m_nordstroms.com.html.
+type: test
+title: Nordstrom mobile checkout shipping address form test input
+summary: Captured Nordstrom mobile checkout shipping address form used as input for autofill field heuristics tests.

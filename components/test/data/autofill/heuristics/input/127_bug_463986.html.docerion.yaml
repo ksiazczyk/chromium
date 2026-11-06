@@ -1,0 +1,4 @@
+# Docerion header of 127_bug_463986.html.
+type: test
+title: Autofill test page for bug 463986 (payment form)
+summary: HTML fixture of a payment form with salutation, address, and country fields used as input for autofill heuristics tests covering bug 463986.

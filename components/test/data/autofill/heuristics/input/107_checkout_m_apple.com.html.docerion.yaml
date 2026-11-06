@@ -1,0 +1,4 @@
+# Docerion header of 107_checkout_m_apple.com.html.
+type: test
+title: Apple Store checkout payment form test input
+summary: Captured Apple Store checkout payment form with card and billing contact fields, used as autofill heuristics test input.

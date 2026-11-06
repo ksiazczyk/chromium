@@ -1,0 +1,4 @@
+# Docerion header of 080_crbug_53075.html.
+type: test
+title: UK Bathroom Creations registration form test input (crbug 53075)
+summary: Saved registration page from UK Bathroom Creations with company, personal, login and address fields, used as input for autofill heuristic testing of crbug 53075.

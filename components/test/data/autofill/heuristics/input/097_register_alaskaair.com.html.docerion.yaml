@@ -1,0 +1,4 @@
+# Docerion header of 097_register_alaskaair.com.html.
+type: test
+title: Alaska Airlines account sign-up autofill test
+summary: Saved Alaska Airlines My Account sign-up page with personal, mailing address and password fields used as autofill heuristic test input.

@@ -1,0 +1,4 @@
+# Docerion header of 144_cc_checkout_m_jcp.com.html.
+type: test
+title: JCPenney mobile credit card payment form fixture
+summary: Saved JCPenney mobile payment form with Angular-based card entry fields used as input for autofill heuristics tests.

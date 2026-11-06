@@ -1,0 +1,4 @@
+# Docerion header of 039_checkout_target.com.html.
+type: test
+title: Target.com checkout page fixture
+summary: Saved Target.com checkout page with shipping address and shipping options forms used as input for autofill heuristic tests.

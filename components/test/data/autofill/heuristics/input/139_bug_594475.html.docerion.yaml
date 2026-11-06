@@ -1,0 +1,4 @@
+# Docerion header of 139_bug_594475.html.
+type: test
+title: 'Autofill test input: textarea form (bug 594475)'
+summary: Minimal form with two textareas and a lookup input used as input for the autofill field detection test for bug 594475.

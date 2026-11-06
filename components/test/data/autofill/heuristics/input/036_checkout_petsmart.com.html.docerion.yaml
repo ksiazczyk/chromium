@@ -1,0 +1,4 @@
+# Docerion header of 036_checkout_petsmart.com.html.
+type: test
+title: Petsmart checkout page fixture
+summary: Saved Petsmart.com checkout page with billing and shipping address forms used as input for autofill heuristic tests.

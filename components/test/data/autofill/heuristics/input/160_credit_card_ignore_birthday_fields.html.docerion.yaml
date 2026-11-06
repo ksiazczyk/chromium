@@ -1,0 +1,4 @@
+# Docerion header of 160_credit_card_ignore_birthday_fields.html.
+type: test
+title: Credit card form ignoring birthday fields test input
+summary: Form mixing date-of-birth selects with credit card fields to verify birthday fields are not filled as card expiry dates.

@@ -1,0 +1,4 @@
+# Docerion header of 038_checkout_sears.com.html.
+type: test
+title: Sears checkout page fixture
+summary: Saved Sears checkout page with email, shipping, and billing address forms used as input for autofill heuristic tests.

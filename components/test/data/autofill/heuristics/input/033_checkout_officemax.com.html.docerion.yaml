@@ -1,0 +1,4 @@
+# Docerion header of 033_checkout_officemax.com.html.
+type: test
+title: OfficeMax shipping options page fixture
+summary: Saved OfficeMax shipping options checkout page used as input for autofill heuristic tests.

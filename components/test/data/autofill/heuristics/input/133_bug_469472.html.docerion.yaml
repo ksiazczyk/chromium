@@ -1,0 +1,4 @@
+# Docerion header of 133_bug_469472.html.
+type: test
+title: 'Autofill test input: PayPal card payment form (bug 469472)'
+summary: Saved PayPal-style debit or prepaid gift card payment form used as input for the autofill field detection test for bug 469472.

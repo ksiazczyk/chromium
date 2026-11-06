@@ -1,0 +1,4 @@
+# Docerion header of 029_checkout_kohls.com.html.
+type: test
+title: Kohls billing and shipping page
+summary: Saved Kohls.com billing and shipping information page used as test input for autofill heuristics.

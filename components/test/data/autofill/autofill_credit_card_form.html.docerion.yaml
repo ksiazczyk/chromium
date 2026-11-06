@@ -1,0 +1,4 @@
+# Docerion header of autofill_credit_card_form.html.
+type: test
+title: Autofill credit card form
+summary: Credit card test form with cardholder name, number, expiry month and year selects and CVC field.

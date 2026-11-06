@@ -1,0 +1,4 @@
+# Docerion header of 013_autocomplete_attribute_basic.html.
+type: test
+title: Basic autocomplete attribute test form
+summary: Form covering all WHATWG autocomplete attribute tokens in their listed order to test basic autofill type detection.

@@ -1,0 +1,4 @@
+# Docerion header of 129_bug_465053.html.
+type: test
+title: Autofill test page for bug 465053 (Google Developers Console)
+summary: HTML fixture of a Google Developers Console billing signup form with credit card fields used for autofill heuristics tests covering bug 465053.

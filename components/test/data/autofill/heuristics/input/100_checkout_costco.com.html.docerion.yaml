@@ -1,0 +1,4 @@
+# Docerion header of 100_checkout_costco.com.html.
+type: test
+title: Costco checkout address form test input
+summary: Captured Costco checkout address form with name, address and state fields, used as input for autofill field heuristics tests.

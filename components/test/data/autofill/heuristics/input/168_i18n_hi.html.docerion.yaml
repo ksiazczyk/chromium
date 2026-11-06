@@ -1,0 +1,4 @@
+# Docerion header of 168_i18n_hi.html.
+type: test
+title: Hindi autofill test form with contact fields
+summary: Hindi-language form fixture with name, city, state, pin code, email and mobile fields for autofill heuristics tests.

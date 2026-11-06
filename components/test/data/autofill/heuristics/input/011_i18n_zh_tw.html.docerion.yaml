@@ -1,0 +1,4 @@
+# Docerion header of 011_i18n_zh_tw.html.
+type: test
+title: Traditional Chinese autofill heuristic test form
+summary: HTML form with Traditional Chinese labels for personal, address, contact and credit card fields, used as input for autofill heuristic tests.

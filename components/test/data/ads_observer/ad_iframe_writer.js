@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ad iframe writer helper for ads observer tests
+// summary: JavaScript helper that creates ad iframes in various configurations (src, lazy, positioned, sticky) for the ads observer test pages.
+// ---
+
 // Creates and iframe and appends it to the body element. Make sure the caller
 // has a body element!
 function createAdIframe() {

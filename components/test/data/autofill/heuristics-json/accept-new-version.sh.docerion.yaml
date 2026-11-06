@@ -1,0 +1,4 @@
+# Docerion header of accept-new-version.sh.
+type: script
+title: Accept new autofill heuristics ground truth versions
+summary: Copies .json.new files over the corresponding .json files to release a new version of the autofill heuristics ground truth.

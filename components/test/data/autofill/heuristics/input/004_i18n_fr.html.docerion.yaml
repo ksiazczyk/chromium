@@ -1,0 +1,4 @@
+# Docerion header of 004_i18n_fr.html.
+type: test
+title: French autofill heuristics test form
+summary: HTML form with French labels for name, address and card fields, used as input for autofill heuristics tests.

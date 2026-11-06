@@ -1,0 +1,4 @@
+# Docerion header of 135_bug_471831.html.
+type: test
+title: 'Autofill test input: Stripe Checkout page (bug 471831)'
+summary: Saved Stripe Checkout page with card and Bitcoin payment options used as input for the autofill field detection test for bug 471831.

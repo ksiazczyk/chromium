@@ -1,0 +1,4 @@
+# Docerion header of 174_i18n_id.html.
+type: test
+title: Indonesian i18n autofill test form
+summary: HTML form with Indonesian labels for name, address, contact and card fields, used as autofill heuristics test input.

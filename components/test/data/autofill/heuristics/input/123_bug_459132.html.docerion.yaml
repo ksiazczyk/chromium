@@ -1,0 +1,4 @@
+# Docerion header of 123_bug_459132.html.
+type: test
+title: Autofill test page for bug 459132 (Lufthansa feedback form)
+summary: HTML fixture of a Lufthansa feedback form with personal, address, and flight details used for autofill heuristics tests covering bug 459132.

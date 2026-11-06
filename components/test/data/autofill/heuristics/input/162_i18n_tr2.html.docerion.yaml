@@ -1,0 +1,4 @@
+# Docerion header of 162_i18n_tr2.html.
+type: test
+title: Autofill heuristics test form with Turkish labels, variant 2
+summary: Second Turkish-language form fixture exercising autofill heuristics on labels for name, address, city, postal code and phone.

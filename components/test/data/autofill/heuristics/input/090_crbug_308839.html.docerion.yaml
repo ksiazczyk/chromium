@@ -1,0 +1,4 @@
+# Docerion header of 090_crbug_308839.html.
+type: test
+title: Autofill test form for crbug 308839
+summary: Registration form with name, email, mobile, address, city and pin code fields used as autofill heuristic test input for crbug 308839.

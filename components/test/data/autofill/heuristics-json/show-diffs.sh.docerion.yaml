@@ -1,0 +1,4 @@
+# Docerion header of show-diffs.sh.
+type: script
+title: Show diffs of autofill heuristics ground truth changes
+summary: Prints diffs between .json and .json.new files to review changed autofill heuristics ground truth results.

@@ -1,0 +1,4 @@
+# Docerion header of 104_checkout_m_kohls.com.html.
+type: test
+title: Kohl's mobile checkout billing form test input
+summary: Captured Kohl's mobile checkout billing form with name, address and state fields, used as autofill heuristics test input.

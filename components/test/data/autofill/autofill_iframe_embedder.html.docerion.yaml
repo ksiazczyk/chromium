@@ -1,0 +1,4 @@
+# Docerion header of autofill_iframe_embedder.html.
+type: test
+title: Autofill iframe embedder
+summary: Minimal page containing an empty iframe used to embed test forms.

@@ -1,0 +1,4 @@
+# Docerion header of 078_crbug_40687.html.
+type: test
+title: KneeDraggers cart form test page for crbug 40687
+summary: Saved KneeDraggers shopping cart page with billing and shipping fields, a regression case for crbug 40687.

@@ -1,0 +1,4 @@
+# Docerion header of autofill_address_form.html.
+type: test
+title: Autofill address form
+summary: Test form with name, address, state select, zip, country, email and phone fields for autofill tests.

@@ -1,0 +1,4 @@
+# Docerion header of 010_i18n_zh_cn.html.
+type: test
+title: Simplified Chinese autofill heuristic test form
+summary: HTML form with Simplified Chinese labels for name, address, email, phone and credit card fields, used as input for autofill heuristic tests.

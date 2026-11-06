@@ -1,0 +1,4 @@
+# Docerion header of 018_checkout_ae.com.html.
+type: test
+title: American Eagle checkout page test fixture
+summary: Saved checkout page from ae.com with shipping, billing, contact and payment forms, used as input for autofill heuristic tests.

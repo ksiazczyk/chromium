@@ -1,0 +1,4 @@
+# Docerion header of expensive_animation_frame.html.
+type: test
+title: Expensive animation frame test page
+summary: Test page that runs a requestAnimationFrame callback busy-waiting for a delay in milliseconds taken from the query parameter.

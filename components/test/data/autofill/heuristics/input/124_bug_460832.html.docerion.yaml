@@ -1,0 +1,4 @@
+# Docerion header of 124_bug_460832.html.
+type: test
+title: Autofill test page for bug 460832 (Google Calendar event)
+summary: HTML fixture of a Google Calendar event editor used as input for autofill heuristics tests covering bug 460832.

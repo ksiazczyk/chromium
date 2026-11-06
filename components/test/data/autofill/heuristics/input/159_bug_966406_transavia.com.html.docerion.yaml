@@ -1,0 +1,4 @@
+# Docerion header of 159_bug_966406_transavia.com.html.
+type: test
+title: Transavia French page test input (bug 966406)
+summary: French Transavia login and booking page saved to reproduce Chromium bug 966406 in autofill field detection.

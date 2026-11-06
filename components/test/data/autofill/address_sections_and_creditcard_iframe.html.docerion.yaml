@@ -1,0 +1,4 @@
+# Docerion header of address_sections_and_creditcard_iframe.html.
+type: test
+title: Address sections and credit card form with iframe
+summary: Test page with shipping and billing address fields plus a credit card form embedded in an iframe.
