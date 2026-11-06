@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox debugger event model header
+// summary: Defines enums for debugger elements and events plus the ComposeboxDebuggerEvent model class with its factory methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_DEBUGGER_COMPOSEBOX_DEBUGGER_EVENT_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_DEBUGGER_COMPOSEBOX_DEBUGGER_EVENT_H_
 

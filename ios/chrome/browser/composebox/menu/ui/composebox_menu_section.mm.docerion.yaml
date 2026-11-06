@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_section.mm.
+type: source
+title: Composebox menu section implementation
+summary: Implements ComposeboxMenuSection initializers that store the section title, items, identifier, and horizontal carousel flag.

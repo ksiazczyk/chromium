@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Content suggestions coordinator DEPS include rules
+summary: Restricts includes in this directory to the allowed AIM eligibility service and default browser promo feature headers.

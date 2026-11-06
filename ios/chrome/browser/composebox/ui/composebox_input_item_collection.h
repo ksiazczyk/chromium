@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox input item collection interface
+// summary: Declares an ordered container for ComposeboxInputItem objects modeling the attachments carousel, with counts, lookups, and mutation methods.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_UI_COMPOSEBOX_INPUT_ITEM_COLLECTION_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_UI_COMPOSEBOX_INPUT_ITEM_COLLECTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host content settings map factory implementation
+// summary: Builds per-profile HostContentSettingsMap instances for iOS profiles and marks the service as required for profile context initialization.
+// ---
+
 #include "ios/chrome/browser/content_settings/model/host_content_settings_map_factory.h"
 
 #include "components/content_settings/core/browser/host_content_settings_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagicStackModuleContentViewDelegate protocol
+// summary: Defines the protocol through which module content views update the container's subtitle, notifications opt-in button, separator visibility, and context menu elements.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_MODULE_CONTENT_VIEW_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_MODULE_CONTENT_VIEW_DELEGATE_H_
 

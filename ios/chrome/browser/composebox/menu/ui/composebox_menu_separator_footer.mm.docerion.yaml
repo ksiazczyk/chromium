@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_separator_footer.mm.
+type: source
+title: Composebox menu separator footer implementation
+summary: Implements the separator footer view, laying out a one-point separator line using the semantic separator color.

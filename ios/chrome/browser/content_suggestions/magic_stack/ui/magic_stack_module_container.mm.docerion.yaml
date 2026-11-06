@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_module_container.mm.
+type: source
+title: MagicStackModuleContainer implementation
+summary: Implements the Magic Stack module container, assembling title, subtitle, buttons, separator, background, and per-type content views with layout constraints and insets.

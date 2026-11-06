@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for composebox metrics
+summary: Defines GN source sets for the composebox metrics constants, recorder, and unit tests with their dependencies.

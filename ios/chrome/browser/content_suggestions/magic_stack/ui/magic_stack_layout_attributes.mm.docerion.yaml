@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_layout_attributes.mm.
+type: source
+title: Magic Stack layout attributes implementation
+summary: Implements equality and copying for MagicStackLayoutAttributes so the subview alpha value is compared and preserved.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Composebox debugger DEPS include rules
+summary: Restricts includes in the debugger directory to the AIM debugger and tab picker public headers.

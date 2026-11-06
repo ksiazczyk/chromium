@@ -1,0 +1,4 @@
+# Docerion header of composebox_picker_image_result.mm.
+type: source
+title: Composebox picker image result implementation
+summary: Implements ComposeboxPickerImageResult, initializing the image provider, asset ID and source for a picked image.

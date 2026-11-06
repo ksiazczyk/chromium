@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox debugger breadcrumbs view controller header
+// summary: Declares a table view controller that displays composebox breadcrumb debugging events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_DEBUGGER_COMPOSEBOX_DEBUGGER_BREADCRUMBS_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_DEBUGGER_COMPOSEBOX_DEBUGGER_BREADCRUMBS_VIEW_CONTROLLER_H_
 

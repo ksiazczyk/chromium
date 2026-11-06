@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox menu page view controller interface
+// summary: Declares a view controller that renders a Composebox menu page as a collection view, with full, main, and secondary page types and a content height helper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_PAGE_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_MENU_UI_COMPOSEBOX_MENU_PAGE_VIEW_CONTROLLER_H_
 

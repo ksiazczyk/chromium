@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_mediator_unittest.mm.
+type: test
+title: ContentSuggestionsMediator unit tests
+summary: Unit test fixture for the content suggestions mediator, setting up a test profile, browser, fake web states, and a mocked consumer.

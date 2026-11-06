@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox iPad presentation controller interface
+// summary: Declares the UIPresentationController subclass that manages the composebox presentation on iPad.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_UI_PRESENTATION_COMPOSEBOX_IPAD_PRESENTATION_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_UI_PRESENTATION_COMPOSEBOX_IPAD_PRESENTATION_CONTROLLER_H_
 

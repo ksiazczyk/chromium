@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_ranking_model_unittest.mm.
+type: test
+title: MagicStackRankingModel unit tests
+summary: Unit tests for MagicStackRankingModel covering ranking order, item updates, and engagement metrics with mock services.

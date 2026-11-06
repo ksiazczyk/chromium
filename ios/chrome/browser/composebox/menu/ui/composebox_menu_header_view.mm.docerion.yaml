@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_header_view.mm.
+type: source
+title: Composebox menu header view implementation
+summary: Implements a header view for the Composebox menu that shows a headline-style label with header accessibility traits, dynamic type, and primary text color.

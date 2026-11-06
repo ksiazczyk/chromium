@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_collection_view_unittest.mm.
+type: test
+title: Magic Stack collection view controller unit tests
+summary: Unit tests verifying audience callbacks for ephemeral cards and page navigation in the Magic Stack collection view.

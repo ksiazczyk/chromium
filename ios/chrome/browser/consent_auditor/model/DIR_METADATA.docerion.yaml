@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for consent auditor model
+summary: Declares directory metadata that mixes in the common metadata from components/sync for this directory.

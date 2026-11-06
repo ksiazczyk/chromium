@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_attachment_view.mm.
+type: source
+title: Composebox menu attachment view implementation
+summary: Implements the attachment view layout with a rounded image background, icon, and dynamic type aware title label.

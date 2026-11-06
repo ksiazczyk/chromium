@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_state_manager_unittest.mm.
+type: test
+title: Composebox input state manager unit tests
+summary: Unit tests for the input state manager covering mode changes, default model and tool selection, and Drive disclaimer checks.

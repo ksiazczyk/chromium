@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Impression limit service class declaration
+// summary: Declares the ImpressionLimitService keyed service that tracks per-URL impressions and engagement for magic stack cards in preferences.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_IMPRESSION_LIMITS_MODEL_IMPRESSION_LIMIT_SERVICE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_IMPRESSION_LIMITS_MODEL_IMPRESSION_LIMIT_SERVICE_H_
 

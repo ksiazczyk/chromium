@@ -1,0 +1,4 @@
+# Docerion header of composebox_favicons_accordion_view_unittest.mm.
+type: test
+title: Composebox favicons accordion view unit tests
+summary: Unit tests covering initialization, image updates, overflow badge behavior and large content viewer configuration of the accordion view.

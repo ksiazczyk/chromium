@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_shared_tab.mm.
+type: source
+title: Composebox menu shared tab implementation
+summary: Implements the initializer storing the URL, title, input item identifier, and favicon of a shared tab result.

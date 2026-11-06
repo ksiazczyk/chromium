@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaceholderConfig header
+// summary: Declares PlaceholderConfig, a MagicStackModule subclass representing a placeholder module in the Magic Stack.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_PLACEHOLDER_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_PLACEHOLDER_CONFIG_H_
 

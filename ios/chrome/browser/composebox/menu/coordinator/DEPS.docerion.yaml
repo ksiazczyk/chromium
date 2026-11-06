@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Composebox menu coordinator dependency rules
+summary: Lists the include paths allowed for code in the composebox menu coordinator directory.

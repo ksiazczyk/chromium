@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_context_menu_interaction_handler.mm.
+type: source
+title: Magic Stack context menu interaction handler implementation
+summary: Implements context menu availability, titles, and menu elements for the various Magic Stack module types.

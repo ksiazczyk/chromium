@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_mediator.mm.
+type: source
+title: ContentSuggestionsMediator implementation
+summary: Implements the mediator, forwarding Magic Stack ranking updates to the consumer and registering Discover feed refresh preferences.

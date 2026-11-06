@@ -1,0 +1,4 @@
+# Docerion header of composebox_inttest_earl_grey.mm.
+type: source
+title: Composebox inttest Earl Grey helper implementation
+summary: Implements the composebox Earl Grey helper, waiting for URL loads and asserting the loaded query matches the expected search terms.

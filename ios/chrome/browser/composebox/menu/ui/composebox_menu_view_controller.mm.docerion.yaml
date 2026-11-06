@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_view_controller.mm.
+type: source
+title: Composebox menu view controller implementation
+summary: Manages the main and secondary Composebox menu pages, handling navigation between them, input state updates, and preferred content size for the sheet.

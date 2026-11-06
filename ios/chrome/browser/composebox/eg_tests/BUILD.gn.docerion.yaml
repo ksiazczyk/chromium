@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for Composebox Earl Grey tests
+summary: Defines source sets and dependencies for the Composebox Earl Grey tests and their app interface support targets.

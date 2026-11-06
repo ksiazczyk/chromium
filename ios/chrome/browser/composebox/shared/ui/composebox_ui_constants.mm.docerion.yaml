@@ -1,0 +1,4 @@
+# Docerion header of composebox_ui_constants.mm.
+type: source
+title: Composebox UI constants values
+summary: Defines the values of composebox layout metrics and accessibility identifier strings used across the composebox UI.

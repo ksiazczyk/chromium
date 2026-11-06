@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_context_menu_builder.mm.
+type: source
+title: Composebox menu context menu builder implementation
+summary: Builds menu sections for attachments, AI tools, and model picking based on input state and feature flags.

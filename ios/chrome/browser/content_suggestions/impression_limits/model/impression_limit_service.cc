@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Impression limit service implementation
+// summary: Implements the service that records per-URL impression counts for magic stack cards and clears entries on history deletions, bookmark removals, and subscription changes.
+// ---
+
 #import "ios/chrome/browser/content_suggestions/impression_limits/model/impression_limit_service.h"
 
 #include <set>

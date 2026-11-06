@@ -1,0 +1,4 @@
+# Docerion header of composebox_picker_drive_result.mm.
+type: source
+title: Composebox picker Drive result implementation
+summary: Implements the ComposeboxPickerDriveResult class representing a picked Google Drive file result.

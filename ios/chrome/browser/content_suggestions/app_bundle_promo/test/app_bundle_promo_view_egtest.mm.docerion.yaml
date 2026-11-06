@@ -1,0 +1,4 @@
+# Docerion header of app_bundle_promo_view_egtest.mm.
+type: test
+title: App Bundle promo view Earl Grey tests
+summary: Earl Grey UI tests verifying that the App Bundle promo card appears with the correct text in the Magic Stack and disappears after being tapped.

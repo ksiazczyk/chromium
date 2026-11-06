@@ -1,0 +1,4 @@
+# Docerion header of composebox_egtest.mm.
+type: test
+title: Composebox Earl Grey UI tests
+summary: Runs Earl Grey UI tests for the Composebox, covering eligibility, tool state, tab picker interactions, and query sending.

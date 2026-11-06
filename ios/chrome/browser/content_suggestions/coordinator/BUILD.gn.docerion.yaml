@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content suggestions coordinator BUILD.gn build file
+summary: Defines the coordinator source_set and its many dependencies for building the iOS Chrome content suggestions coordinator.

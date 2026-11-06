@@ -1,0 +1,4 @@
+# Docerion header of composebox_cobrowse_omnibox_client.mm.
+type: source
+title: composebox_cobrowse_omnibox_client.mm
+summary: Implements the cobrowse omnibox client, providing page, search, bookmark, and security state information to the composebox omnibox.

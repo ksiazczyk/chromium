@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_item.mm.
+type: source
+title: Composebox input item implementation
+summary: Implements the input item model with unique identity, equality, copying and send readiness logic based on item state.

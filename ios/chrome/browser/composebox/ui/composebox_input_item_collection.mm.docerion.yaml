@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_item_collection.mm.
+type: source
+title: Composebox input item collection implementation
+summary: Implements the input item collection with sequence-checked add, remove, replace, clear, and lookup operations for attachment items.

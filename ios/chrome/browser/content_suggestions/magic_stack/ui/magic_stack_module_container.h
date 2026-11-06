@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagicStackModuleContainer header
+// summary: Declares MagicStackModuleContainer, a UIView that wraps a Magic Stack module with configuration, reset, and context menu handling plus New Tab Page color updating support.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_MODULE_CONTAINER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_MODULE_CONTAINER_H_
 

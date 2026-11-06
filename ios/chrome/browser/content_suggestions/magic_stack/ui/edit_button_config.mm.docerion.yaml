@@ -1,0 +1,4 @@
+# Docerion header of edit_button_config.mm.
+type: source
+title: Edit button config implementation
+summary: Implements EditButtonConfig, returning a placeholder module type so it conforms to the Magic Stack item type.

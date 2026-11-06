@@ -1,0 +1,4 @@
+# Docerion header of content_suggestions_coordinator.mm.
+type: source
+title: ContentSuggestionsCoordinator implementation
+summary: Implements the content suggestions coordinator, wiring Magic Stack modules, most visited tiles, promos, metrics, and new tab page presentation logic.

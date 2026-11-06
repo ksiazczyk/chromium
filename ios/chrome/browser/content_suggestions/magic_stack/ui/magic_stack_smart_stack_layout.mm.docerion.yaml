@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_smart_stack_layout.mm.
+type: source
+title: MagicStackSmartStackLayout implementation
+summary: Implements the Smart Stack layout, applying 3D transforms to card attributes based on distance from center and providing custom paging offset calculations.

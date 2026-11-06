@@ -1,0 +1,4 @@
+# Docerion header of content_notification_util.mm.
+type: source
+title: Content notification utility implementation
+summary: Implements helpers that determine content notification enrollment eligibility based on sign-in, default search engine, price tracking prefs, feed activity, and new-user status, and logs related UMA metrics.

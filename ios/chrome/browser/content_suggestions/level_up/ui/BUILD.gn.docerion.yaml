@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for Level Up UI
+summary: Defines the ui source_set listing the Level Up config and view sources together with their public and private build dependencies.

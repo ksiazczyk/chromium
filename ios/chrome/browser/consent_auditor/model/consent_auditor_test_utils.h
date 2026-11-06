@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake consent auditor test utility header
+// summary: Declares BuildFakeConsentAuditor, a helper that lets tests override the consent auditor factory with a fake.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONSENT_AUDITOR_MODEL_CONSENT_AUDITOR_TEST_UTILS_H_
 #define IOS_CHROME_BROWSER_CONSENT_AUDITOR_MODEL_CONSENT_AUDITOR_TEST_UTILS_H_
 

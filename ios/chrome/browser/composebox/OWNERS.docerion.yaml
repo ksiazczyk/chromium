@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the composebox folder
+summary: Lists the code owners for the composebox directory and delegates approvals for simple mechanical changes to the omnibox component owners.

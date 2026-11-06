@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Composebox UI include rules
+summary: DEPS file listing the include rules that control which headers and directories this composebox UI directory may include.

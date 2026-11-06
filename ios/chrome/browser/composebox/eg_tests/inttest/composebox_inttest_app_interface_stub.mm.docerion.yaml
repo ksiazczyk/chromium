@@ -1,0 +1,4 @@
+# Docerion header of composebox_inttest_app_interface_stub.mm.
+type: source
+title: Composebox inttest app interface stub
+summary: Registers a stub of the composebox inttest app interface for the Earl Grey test runner via GREY_STUB_CLASS_IN_APP_MAIN_QUEUE.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for impression limits model
+summary: Restricts includes in this directory to the iOS Chrome history model.

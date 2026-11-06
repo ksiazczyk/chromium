@@ -1,0 +1,4 @@
+# Docerion header of magic_stack_collection_view.mm.
+type: source
+title: Magic Stack collection view controller implementation
+summary: Implements the Magic Stack collection view with a diffable data source, scroll metrics, and module removal animations.

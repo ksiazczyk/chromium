@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Composebox metrics DEPS include rules
+summary: Restricts includes in the metrics folder to the contextual search metrics recorder and NTP tiles feature headers.

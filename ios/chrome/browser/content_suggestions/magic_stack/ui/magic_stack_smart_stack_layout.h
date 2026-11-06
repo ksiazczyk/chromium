@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagicStackSmartStackLayout header
+// summary: Declares a horizontal flow layout that arranges Magic Stack cards with a 3D perspective cylindrical stack effect centered on the active card.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_SMART_STACK_LAYOUT_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_SMART_STACK_LAYOUT_H_
 

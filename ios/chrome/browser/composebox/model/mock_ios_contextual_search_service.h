@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock iOS contextual search service header
+// summary: Declares MockIOSContextualSearchService, a gmock test double with helpers for tab upload behavior and inspecting the last search query text.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_MODEL_MOCK_IOS_CONTEXTUAL_SEARCH_SERVICE_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_MODEL_MOCK_IOS_CONTEXTUAL_SEARCH_SERVICE_H_
 

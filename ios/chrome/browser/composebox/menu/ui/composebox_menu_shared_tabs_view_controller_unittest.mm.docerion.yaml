@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_shared_tabs_view_controller_unittest.mm.
+type: test
+title: Composebox menu shared tabs view controller unit tests
+summary: Unit tests for the shared tabs sheet, covering live Dynamic Type scaling of the disclaimer and that its Learn more link survives content size changes.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Consent auditor model build targets (BUILD.gn)
+summary: Defines the model and test_support source sets for the consent auditor directory, listing their sources and dependencies.

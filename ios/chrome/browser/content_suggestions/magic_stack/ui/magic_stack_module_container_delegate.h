@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagicStackModuleContainerDelegate protocol
+// summary: Defines the delegate protocol for module container events such as See More taps, never-show requests, notification opt-in changes, and Magic Stack customization.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_MODULE_CONTAINER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_MODULE_CONTAINER_DELEGATE_H_
 

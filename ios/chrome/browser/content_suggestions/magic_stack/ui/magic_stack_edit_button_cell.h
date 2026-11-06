@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Stack edit button cell header
+// summary: Declares MagicStackEditButtonCell, a collection view cell hosting the Magic Stack edit button with an audience property for tap events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_EDIT_BUTTON_CELL_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_EDIT_BUTTON_CELL_H_
 

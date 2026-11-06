@@ -1,0 +1,4 @@
+# Docerion header of composebox_app_interface_stub.mm.
+type: source
+title: Composebox app interface stub
+summary: Registers ComposeboxAppInterface as a stub in the app main queue for Earl Grey test support builds.

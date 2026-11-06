@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_plate_coordinator.mm.
+type: source
+title: Composebox input plate coordinator implementation
+summary: Implements the input plate coordinator, wiring omnibox clients, contextual search, attachment pickers, metrics, and theme updates for the composebox.

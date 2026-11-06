@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Composebox model DEPS dependency rules
+summary: Specifies the allowed include dependencies for the composebox model directory, covering contextual search, Lens, signin, and variations components.

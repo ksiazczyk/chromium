@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Content suggestions dependency rules
+summary: Defines the allowed include dependencies for the iOS Chrome content suggestions directory via a list of include rules.

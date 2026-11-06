@@ -1,0 +1,4 @@
+# Docerion header of constants.mm.
+type: source
+title: Content notification pref key constants implementation
+summary: Defines the string values for the content notification preference keys declared in constants.h.

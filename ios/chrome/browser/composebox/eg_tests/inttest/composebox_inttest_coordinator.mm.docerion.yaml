@@ -1,0 +1,4 @@
+# Docerion header of composebox_inttest_coordinator.mm.
+type: source
+title: Composebox inttest coordinator implementation
+summary: Starts the composebox coordinator with test autocomplete dependencies and removes test services on stop.

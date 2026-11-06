@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox menu UI build definition
+summary: Defines the GN source_set and unit test targets with their sources and dependencies for the composebox menu UI.

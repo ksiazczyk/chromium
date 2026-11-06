@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Composebox menu coordinator build targets
+summary: Defines the shared_tab and coordinator source sets with their sources and dependencies for the composebox menu.

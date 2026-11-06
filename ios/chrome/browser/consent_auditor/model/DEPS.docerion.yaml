@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Consent auditor model dependency rules (DEPS)
+summary: Restricts includes in this directory to the consent auditor component and the iOS sync model directories.

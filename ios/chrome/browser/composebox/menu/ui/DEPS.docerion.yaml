@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Composebox menu UI include rules
+summary: Allows includes from components/contextual_tasks/public/features.h for code in this directory.

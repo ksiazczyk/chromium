@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Bundle Promo mediator header
+// summary: Declares the mediator that manages the App Bundle Promo (Magic Stack) module state, including module removal and App Store bundle page presentation.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_APP_BUNDLE_PROMO_COORDINATOR_APP_BUNDLE_PROMO_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_APP_BUNDLE_PROMO_COORDINATOR_APP_BUNDLE_PROMO_MEDIATOR_H_
 

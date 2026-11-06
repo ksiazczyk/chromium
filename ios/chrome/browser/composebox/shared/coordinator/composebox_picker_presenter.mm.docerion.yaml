@@ -1,0 +1,4 @@
+# Docerion header of composebox_picker_presenter.mm.
+type: source
+title: Composebox picker presenter implementation
+summary: Implements presentation of camera, gallery, tab, file and Drive pickers, handling permissions, ConsentKit flows and picker outcomes.

@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_page_view_controller.mm.
+type: source
+title: Composebox menu page view controller implementation
+summary: Implements the Composebox menu pages, laying out model, tools, and attachment sections in a collection view with headers, separators, and shared tab favicons.

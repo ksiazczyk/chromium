@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the app bundle promo coordinator
+summary: Defines the GN source sets for the app bundle promo coordinator and its unit tests, listing their sources, dependencies, and frameworks.

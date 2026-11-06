@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Composebox shared UI include rules
+summary: DEPS file restricting includes in the composebox shared UI directory to the tab picker public headers.

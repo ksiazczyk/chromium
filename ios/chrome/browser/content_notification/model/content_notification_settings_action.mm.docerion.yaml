@@ -1,0 +1,4 @@
+# Docerion header of content_notification_settings_action.mm.
+type: source
+title: ContentNotificationSettingsAction implementation
+summary: Implements the ContentNotificationSettingsAction class used for settings Notification Action Uploads.

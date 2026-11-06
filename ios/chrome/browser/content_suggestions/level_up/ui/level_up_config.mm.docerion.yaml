@@ -1,0 +1,4 @@
+# Docerion header of level_up_config.mm.
+type: source
+title: LevelUpConfig implementation
+summary: Implements LevelUpConfig, reporting the kLevelUp module type, comparing contents between configs, and copying all configuration properties.

@@ -1,0 +1,4 @@
+# Docerion header of composebox_input_item_cell.mm.
+type: source
+title: Composebox input item cell implementation
+summary: Implements the input item cell with loading and error scrims, a close button, and constrained layout for attachment chips.

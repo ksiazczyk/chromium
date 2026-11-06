@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the composebox coordinator
+summary: Defines the coordinator source set and unit test targets with their dependencies for the iOS composebox picker code.

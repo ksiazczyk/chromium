@@ -1,0 +1,4 @@
+# Docerion header of composebox_ipad_animator.mm.
+type: source
+title: Composebox iPad animator implementation
+summary: Implements the fade and keyframe transitions for presenting and dismissing the composebox on iPad, including AI mode activation.

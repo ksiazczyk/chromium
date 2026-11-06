@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Browser mediator header
+// summary: Declares the DefaultBrowserMediator interface, its DefaultBrowserDelegate protocol for module removal, and properties for config, delegate and presentation audience.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_DEFAULT_BROWSER_COORDINATOR_DEFAULT_BROWSER_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_DEFAULT_BROWSER_COORDINATOR_DEFAULT_BROWSER_MEDIATOR_H_
 

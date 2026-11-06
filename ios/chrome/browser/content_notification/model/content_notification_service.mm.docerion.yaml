@@ -1,0 +1,4 @@
+# Docerion header of content_notification_service.mm.
+type: source
+title: ContentNotificationService implementation
+summary: Provides the constructor and destructor definitions for the ContentNotificationService keyed service.

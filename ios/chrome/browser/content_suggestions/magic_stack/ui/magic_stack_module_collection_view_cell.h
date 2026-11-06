@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Stack module collection view cell header
+// summary: Declares MagicStackModuleCollectionViewCell, a collection view cell that displays a Magic Stack module configured from a MagicStackModule config.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_MODULE_COLLECTION_VIEW_CELL_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_MODULE_COLLECTION_VIEW_CELL_H_
 

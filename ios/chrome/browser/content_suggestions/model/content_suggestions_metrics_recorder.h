@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentSuggestionsMetricsRecorder interface
+// summary: Declares the Objective-C metrics recorder class with methods for logging Magic Stack, most visited tiles, Set Up List, and ShopCard events.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MODEL_CONTENT_SUGGESTIONS_METRICS_RECORDER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MODEL_CONTENT_SUGGESTIONS_METRICS_RECORDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelUpConfig header
+// summary: Declares the LevelUpConfig item that carries title, description, progress counts, and the Level Up command handler for the module view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_LEVEL_UP_UI_LEVEL_UP_CONFIG_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_LEVEL_UP_UI_LEVEL_UP_CONFIG_H_
 

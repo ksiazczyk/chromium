@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search service factory header
+// summary: Declares ContextualSearchServiceFactory, a keyed service factory that associates contextual search service instances with ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_MODEL_IOS_CONTEXTUAL_SEARCH_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_MODEL_IOS_CONTEXTUAL_SEARCH_SERVICE_FACTORY_H_
 

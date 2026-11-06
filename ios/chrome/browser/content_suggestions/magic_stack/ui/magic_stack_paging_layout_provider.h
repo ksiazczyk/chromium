@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagicStackPagingLayoutProvider protocol
+// summary: Declares a protocol for collection view layouts that compute their own pagination target offsets from drag velocity, trait collection, view bounds, and page index.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_PAGING_LAYOUT_PROVIDER_H_
 #define IOS_CHROME_BROWSER_CONTENT_SUGGESTIONS_MAGIC_STACK_UI_MAGIC_STACK_PAGING_LAYOUT_PROVIDER_H_
 

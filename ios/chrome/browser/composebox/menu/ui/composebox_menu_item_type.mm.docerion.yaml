@@ -1,0 +1,4 @@
+# Docerion header of composebox_menu_item_type.mm.
+type: source
+title: Composebox menu item type mappings
+summary: Maps composebox model options and tool modes to their menu item types and reports whether a given item type is a toggleable tool.

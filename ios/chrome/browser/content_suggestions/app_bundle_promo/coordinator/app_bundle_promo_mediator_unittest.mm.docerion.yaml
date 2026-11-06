@@ -1,0 +1,4 @@
+# Docerion header of app_bundle_promo_mediator_unittest.mm.
+type: test
+title: App Bundle Promo mediator unit tests
+summary: Unit tests verifying module removal on preference change, delegate-driven module removal, and promo selection handling in the mediator.

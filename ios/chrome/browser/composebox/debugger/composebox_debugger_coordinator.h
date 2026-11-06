@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox debugger coordinator header
+// summary: Declares the debugger coordinator, its delegate, and the interface for presenting breadcrumbs logs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_DEBUGGER_COMPOSEBOX_DEBUGGER_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_DEBUGGER_COMPOSEBOX_DEBUGGER_COORDINATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of default_browser_mediator.mm.
+type: source
+title: Default Browser mediator implementation
+summary: Implements the mediator, observing the tips home module preference to remove the module when disabled and forwarding promo taps to the presentation audience.

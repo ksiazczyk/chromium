@@ -1,0 +1,4 @@
+# Docerion header of composebox_view_controller_unittest.mm.
+type: test
+title: Composebox view controller unit tests
+summary: Unit tests verifying composebox layout across iPad size classes, idioms and layout directions, including window control offsets.

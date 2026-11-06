@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Impression limit service unit tests
+// summary: Unit tests covering impression logging, engagement tracking, 30-day entry expiry, and removal on history and bookmark deletions.
+// ---
+
 #include "ios/chrome/browser/content_suggestions/impression_limits/model/impression_limit_service.h"
 
 #include "base/location.h"

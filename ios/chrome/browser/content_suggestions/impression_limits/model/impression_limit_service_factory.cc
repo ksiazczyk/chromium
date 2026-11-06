@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Impression limit service factory implementation
+// summary: Builds ImpressionLimitService instances for a profile from the history, bookmark, and shopping service dependencies.
+// ---
+
 #import "ios/chrome/browser/content_suggestions/impression_limits/model/impression_limit_service_factory.h"
 
 #import "components/keyed_service/core/service_access_type.h"

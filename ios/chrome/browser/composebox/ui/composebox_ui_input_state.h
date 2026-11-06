@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox UI input state interface
+// summary: Declares the state object holding allowed and disabled tools, models and attachments, shared tabs, capacity limits and the active tool and model.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_COMPOSEBOX_UI_COMPOSEBOX_UI_INPUT_STATE_H_
 #define IOS_CHROME_BROWSER_COMPOSEBOX_UI_COMPOSEBOX_UI_INPUT_STATE_H_
 
