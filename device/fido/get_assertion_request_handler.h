@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetAssertionRequestHandler class declaration
+// summary: Declares GetAssertionRequestHandler, a FidoRequestHandlerBase that coordinates get assertion requests across authenticators, including account preselection, client data provisioning and PIN token retrieval.
+// ---
+
 #ifndef DEVICE_FIDO_GET_ASSERTION_REQUEST_HANDLER_H_
 #define DEVICE_FIDO_GET_ASSERTION_REQUEST_HANDLER_H_
 

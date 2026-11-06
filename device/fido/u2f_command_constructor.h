@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: U2F command constructor header
+// summary: Declares helpers that check whether CTAP2 requests can be converted to U2F commands and build the corresponding APDUs.
+// ---
+
 #ifndef DEVICE_FIDO_U2F_COMMAND_CONSTRUCTOR_H_
 #define DEVICE_FIDO_U2F_COMMAND_CONSTRUCTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CmtgKeyResponse implementation
+// summary: Implements constructors, move operations, and the destructor for the CmtgKeyResponse struct that carries a CMTG public key and signature.
+// ---
+
 #include "device/fido/cmtg_key_response.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualCtap2Device class declaration
+// summary: Declares VirtualCtap2Device, a simulated CTAP2 authenticator whose Config struct covers PIN, resident key, bio enrollment, large blob, PRF and other capability options for tests.
+// ---
+
 #ifndef DEVICE_FIDO_VIRTUAL_CTAP2_DEVICE_H_
 #define DEVICE_FIDO_VIRTUAL_CTAP2_DEVICE_H_
 

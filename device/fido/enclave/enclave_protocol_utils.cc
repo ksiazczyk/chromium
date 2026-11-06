@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave protocol command building and response parsing
+// summary: Implements construction of CBOR enclave commands and parsing of GetAssertion and MakeCredential responses for the cloud enclave passkey protocol.
+// ---
+
 #include "device/fido/enclave/enclave_protocol_utils.h"
 
 #include <array>

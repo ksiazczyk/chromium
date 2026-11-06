@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch ID get assertion operation declaration
+// summary: Declares GetAssertionOperation, which prompts for Touch ID consent, looks up the matching keychain key pair, and generates a WebAuthn assertion.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_GET_ASSERTION_OPERATION_H_
 #define DEVICE_FIDO_MAC_GET_ASSERTION_OPERATION_H_
 

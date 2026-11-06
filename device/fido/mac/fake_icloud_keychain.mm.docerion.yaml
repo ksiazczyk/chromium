@@ -1,0 +1,4 @@
+# Docerion header of fake_icloud_keychain.mm.
+type: source
+title: Fake iCloud Keychain test helper implementation
+summary: Implements fakes that override iCloud Keychain actions to report granted, denied, or unset permission and passkey configuration in tests.

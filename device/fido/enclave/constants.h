@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave constants declarations
+// summary: Declares enclave identity lookup with test overrides, request error codes, protocol message keys, command names, and related limits.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_CONSTANTS_H_
 #define DEVICE_FIDO_ENCLAVE_CONSTANTS_H_
 

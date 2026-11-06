@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 pairing record parsing
+// summary: Implements Pairing::Parse, which validates and decodes CBOR pairing messages from caBLEv2 authenticators, including signature verification.
+// ---
+
 #include "device/fido/cable/pairing.h"
 
 #include <algorithm>

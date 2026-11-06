@@ -1,0 +1,4 @@
+# Docerion header of fido_strings.grd.
+type: config
+title: FIDO localized strings grit resource
+summary: Grit resource definition that generates localized string bundles for the device/fido WebAuthn implementation in many languages.

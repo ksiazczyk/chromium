@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FidoHidDevice
+// summary: Unit tests for FidoHidDevice that exercise the init handshake, U2F and CTAP2 transactions, wink, keepalive, cancellation and error responses via fake HID connections.
+// ---
+
 #include "device/fido/hid/fido_hid_device.h"
 
 #include <array>

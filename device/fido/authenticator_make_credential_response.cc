@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorMakeCredentialResponse implementation
+// summary: Implements AuthenticatorMakeCredentialResponse, including conversion of U2F registration responses and CBOR encoding of the attestation object.
+// ---
+
 #include "device/fido/authenticator_make_credential_response.h"
 
 #include <utility>

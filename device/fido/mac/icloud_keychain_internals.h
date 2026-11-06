@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private AuthenticationServicesCore interface declarations
+// summary: Declares the private ASC* interfaces and an ASAuthorizationController category needed to pass clientDataHash and other browser-specific parameters to macOS.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_ICLOUD_KEYCHAIN_INTERNALS_H_
 #define DEVICE_FIDO_MAC_ICLOUD_KEYCHAIN_INTERNALS_H_
 

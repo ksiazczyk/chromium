@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attested credential data class
+// summary: Declares the AttestedCredentialData class holding AAGUID, credential ID and public key, with parsing, serialization and AAGUID zeroing helpers.
+// ---
+
 #ifndef DEVICE_FIDO_ATTESTED_CREDENTIAL_DATA_H_
 #define DEVICE_FIDO_ATTESTED_CREDENTIAL_DATA_H_
 

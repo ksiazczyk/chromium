@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 discovery class declaration
+// summary: Declares the Discovery class, a FidoDeviceDiscovery that observes Bluetooth adapters and low-energy scan sessions to build caBLEv2 devices.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_V2_DISCOVERY_H_
 #define DEVICE_FIDO_CABLE_V2_DISCOVERY_H_
 

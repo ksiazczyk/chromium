@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave WebSocket client implementation
+// summary: Implements a WebSocket connection to the cloud enclave service, including network traffic annotation, message framing and status reporting.
+// ---
+
 #include "device/fido/enclave/enclave_websocket_client.h"
 
 #include <limits>

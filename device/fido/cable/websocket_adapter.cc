@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 WebSocket tunnel adapter implementation
+// summary: Implements the WebSocket connection to the caBLEv2 tunnel server, translating Mojo WebSocket interfaces into callback-based tunnel data flow.
+// ---
+
 #include "device/fido/cable/websocket_adapter.h"
 
 #include "base/functional/callback_helpers.h"

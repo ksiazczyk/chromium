@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the enclave proto library
+summary: Defines a proto_library GN target that compiles evidence.proto for the enclave attestation code.

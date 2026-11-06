@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorGetAssertionResponse implementation
+// summary: Implements AuthenticatorGetAssertionResponse, including conversion of legacy U2F sign responses into get-assertion responses with signature validation.
+// ---
+
 #include "device/fido/authenticator_get_assertion_response.h"
 
 #include <optional>

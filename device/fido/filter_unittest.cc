@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FIDO filter unit tests
+// summary: Unit tests verifying evaluation of the Finch-configured WebAuthn filter across operations, RP IDs, devices, and credential or user IDs.
+// ---
+
 #include <string_view>
 
 #include "device/fido/filter.h"

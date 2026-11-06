@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential public key parsing implementation
+// summary: Implements parsing of credential public keys from COSE_Key CBOR maps, covering EC2 P-256, OKP Ed25519, and RSA key types.
+// ---
+
 #include "device/fido/public_key.h"
 
 #include <optional>

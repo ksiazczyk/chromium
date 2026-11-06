@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchIdCredentialStore interface
+// summary: Declares the Credential struct and TouchIdCredentialStore for creating, finding, and deleting Touch ID platform authenticator credentials in the macOS keychain.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_CREDENTIAL_STORE_H_
 #define DEVICE_FIDO_MAC_CREDENTIAL_STORE_H_
 

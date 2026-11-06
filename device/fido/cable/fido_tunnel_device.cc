@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 tunnel device implementation
+// summary: Implements FidoTunnelDevice, which establishes end-to-end encrypted WebSocket tunnels to a phone acting as a security key and records tunnel event metrics.
+// ---
+
 #include "device/fido/cable/fido_tunnel_device.h"
 
 #include <variant>

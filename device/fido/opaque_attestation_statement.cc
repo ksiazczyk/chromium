@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opaque attestation statement implementation
+// summary: Implements OpaqueAttestationStatement, wrapping a raw CBOR attestation statement and detecting none attestation, self-attestation and the leaf certificate.
+// ---
+
 #include "device/fido/opaque_attestation_statement.h"
 
 #include <utility>

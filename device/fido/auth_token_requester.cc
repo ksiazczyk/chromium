@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: pinUvAuthToken requester implementation
+// summary: Implements obtaining a pinUvAuthToken from a CTAP2 authenticator via internal user verification or PIN, handling touch prompts and new PIN setup.
+// ---
+
 #include "device/fido/auth_token_requester.h"
 
 #include <set>

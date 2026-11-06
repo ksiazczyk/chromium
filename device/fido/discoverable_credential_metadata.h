@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discoverable credential metadata declarations
+// summary: Declares DiscoverableCredentialMetadata, which describes silently available passkeys with RP ID, user, transports, and usage time.
+// ---
+
 #ifndef DEVICE_FIDO_DISCOVERABLE_CREDENTIAL_METADATA_H_
 #define DEVICE_FIDO_DISCOVERABLE_CREDENTIAL_METADATA_H_
 

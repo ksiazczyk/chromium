@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualFidoDevice class declaration
+// summary: Declares the VirtualFidoDevice base class with its PrivateKey abstraction, registration data and shared state used by simulated FIDO authenticators in tests.
+// ---
+
 #ifndef DEVICE_FIDO_VIRTUAL_FIDO_DEVICE_H_
 #define DEVICE_FIDO_VIRTUAL_FIDO_DEVICE_H_
 

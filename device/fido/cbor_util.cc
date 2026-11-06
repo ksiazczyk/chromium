@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBOR redaction utility implementation
+// summary: Implements redaction of values at specified paths within CBOR structures, replacing matched values with a redaction placeholder string.
+// ---
+
 #include "device/fido/cbor_util.h"
 
 #include "base/containers/span.h"

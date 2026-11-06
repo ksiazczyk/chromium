@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOSAuthenticator implementation
+// summary: Implements the ChromeOSAuthenticator that serves as the Chrome OS platform WebAuthn authenticator, calling the u2fd D-Bus service for algorithms, make credential, and get assertion requests.
+// ---
+
 #include "device/fido/cros/authenticator.h"
 
 #include <memory>

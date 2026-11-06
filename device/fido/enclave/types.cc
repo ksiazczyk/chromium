@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave shared type implementations
+// summary: Implements constructors, destructors, and move semantics for shared enclave types such as EnclaveIdentity, ClientSignature, ClaimedPIN, and CredentialRequest.
+// ---
+
 #include "device/fido/enclave/types.h"
 
 #include "components/sync/protocol/webauthn_credential_specifics.pb.h"

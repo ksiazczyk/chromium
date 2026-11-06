@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorGetInfoResponse CBOR encoding
+// summary: Implements AuthenticatorGetInfoResponse construction and CBOR encoding of authenticator version, option, and capability information.
+// ---
+
 #include "device/fido/authenticator_get_info_response.h"
 
 #include <algorithm>

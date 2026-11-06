@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoChromeOSDiscovery class declaration
+// summary: Declares FidoChromeOSDiscovery, which starts discovery of the Chrome OS platform authenticator and creates a ChromeOSAuthenticator when the u2fd service is available.
+// ---
+
 #ifndef DEVICE_FIDO_CROS_DISCOVERY_H_
 #define DEVICE_FIDO_CROS_DISCOVERY_H_
 

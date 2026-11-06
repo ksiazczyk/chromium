@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of fake HID connections and manager for testing
+// summary: Declares MockFidoHidConnection, FakeFidoHidConnection and FakeFidoHidManager, test doubles that emulate HID connections and devices for FIDO tests.
+// ---
+
 #ifndef DEVICE_FIDO_HID_FAKE_HID_IMPL_FOR_TESTING_H_
 #define DEVICE_FIDO_HID_FAKE_HID_IMPL_FOR_TESTING_H_
 

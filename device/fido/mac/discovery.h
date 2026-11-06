@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch ID authenticator discovery declaration
+// summary: Declares FidoTouchIdDiscovery, a FidoDiscoveryBase subclass that creates Touch ID authenticators for the internal transport on macOS.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_DISCOVERY_H_
 #define DEVICE_FIDO_MAC_DISCOVERY_H_
 

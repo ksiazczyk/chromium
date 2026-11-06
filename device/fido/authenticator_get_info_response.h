@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorGetInfoResponse class header
+// summary: Declares the struct holding authenticator GetInfo response data such as protocol versions, AAGUID, options, limits, and supported transports.
+// ---
+
 #ifndef DEVICE_FIDO_AUTHENTICATOR_GET_INFO_RESPONSE_H_
 #define DEVICE_FIDO_AUTHENTICATOR_GET_INFO_RESPONSE_H_
 

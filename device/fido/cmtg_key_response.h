@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CmtgKeyResponse header
+// summary: Defines the CmtgKeyResponse struct holding a CMTG public key and its signature over WebAuthn signed data, shared by make credential and get assertion responses.
+// ---
+
 #ifndef DEVICE_FIDO_CMTG_KEY_RESPONSE_H_
 #define DEVICE_FIDO_CMTG_KEY_RESPONSE_H_
 

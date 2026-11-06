@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP request common implementation
+// summary: Implements the HMACSecret struct shared by CTAP requests, covering parsing from CBOR and serialization of keys, encrypted salts and PIN protocol.
+// ---
+
 #include "device/fido/ctap_request_common.h"
 
 #include "base/containers/to_array.h"

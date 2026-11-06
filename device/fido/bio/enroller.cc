@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BioEnroller implementation
+// summary: Implements the BioEnroller state machine that drives fingerprint sample collection on a FIDO authenticator, reporting progress, errors and completion to its delegate.
+// ---
+
 #include "device/fido/bio/enroller.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Bluetooth adapter implementation for caBLE tests
+// summary: Implements CableMockBluetoothAdapter, a mock BLE adapter that fakes powered, powered-off, absent and undetermined-permission states and injects test Bluetooth devices with caBLE adverts.
+// ---
+
 #include "device/fido/cable/cable_mock_bluetooth_adapter.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave metrics event enum
+// summary: Declares the Event enum of enclave-related UMA events and the RecordEvent function used to report them.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_METRICS_H_
 #define DEVICE_FIDO_ENCLAVE_METRICS_H_
 

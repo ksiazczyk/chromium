@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set PIN request handler implementation
+// summary: Implements the Settings UI flow for setting or changing an authenticator PIN, handling touch selection, retry counts, and PIN provision callbacks.
+// ---
+
 #include "device/fido/set_pin_request_handler.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoDevice abstraction for CTAP devices
+// summary: Declares the FidoDevice interface for individual CTAP1/CTAP2 devices, covering transactions, cancellation tokens, winking, device identity and transport, and the internal state machine states.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_DEVICE_H_
 #define DEVICE_FIDO_FIDO_DEVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped iCloud Keychain test environment header
+// summary: Declares a scoped environment that simulates iCloud Keychain presence in tests and bridges the Obj-C++ fake system interface to C++ tests.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_SCOPED_ICLOUD_KEYCHAIN_TEST_ENVIRONMENT_H_
 #define DEVICE_FIDO_MAC_SCOPED_ICLOUD_KEYCHAIN_TEST_ENVIRONMENT_H_
 

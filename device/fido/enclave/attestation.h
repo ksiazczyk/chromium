@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation validation interface
+// summary: Declares ProcessAttestation and the AttestationResult struct that carries CPU firmware security versions from a successful enclave attestation.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_ATTESTATION_H_
 #define DEVICE_FIDO_ENCLAVE_ATTESTATION_H_
 

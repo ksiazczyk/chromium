@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: caBLEv2 discovery unit tests
+// summary: Unit tests for the caBLEv2 Discovery class using a mock Bluetooth adapter and a mock tunnel-server network context.
+// ---
+
 #include "device/fido/cable/v2_discovery.h"
 
 #include <array>

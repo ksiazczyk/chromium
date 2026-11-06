@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiple virtual FIDO device factory implementation
+// summary: Implements a test factory that creates a virtual FIDO discovery for each added device, filtered by transport protocol, and reports itself as a test override.
+// ---
+
 #include "device/fido/multiple_virtual_fido_device_factory.h"
 
 #include "device/fido/virtual_fido_device_discovery.h"

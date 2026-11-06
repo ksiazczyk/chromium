@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave constants implementation
+// summary: Defines the enclave URL, production and test public keys, protocol message keys, and command names used to communicate with the enclave service.
+// ---
+
 #include "device/fido/enclave/constants.h"
 
 #include <array>

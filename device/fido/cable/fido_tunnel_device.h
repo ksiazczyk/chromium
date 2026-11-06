@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 tunnel device class declaration
+// summary: Declares FidoTunnelDevice, a FidoDevice that connects to phone-based authenticators over caBLEv2 tunnels for QR-initiated and pairing-based connections.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_FIDO_TUNNEL_DEVICE_H_
 #define DEVICE_FIDO_CABLE_FIDO_TUNNEL_DEVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock FIDO device class declaration
+// summary: Declares MockFidoDevice, a test double for FidoDevice with helpers for expecting CTAP2 commands and canned responses.
+// ---
+
 #ifndef DEVICE_FIDO_MOCK_FIDO_DEVICE_H_
 #define DEVICE_FIDO_MOCK_FIDO_DEVICE_H_
 

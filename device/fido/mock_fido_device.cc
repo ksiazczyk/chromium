@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock FIDO device implementation
+// summary: Implements MockFidoDevice, a GMock-based fake FIDO device that stubs CTAP and U2F command responses for tests.
+// ---
+
 #include "device/fido/mock_fido_device.h"
 
 #include <utility>

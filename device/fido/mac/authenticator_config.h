@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorConfig struct for macOS Touch ID
+// summary: Defines the AuthenticatorConfig struct holding the keychain access group and the per-profile secret used to encrypt WebAuthn credential metadata.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_AUTHENTICATOR_CONFIG_H_
 #define DEVICE_FIDO_MAC_AUTHENTICATOR_CONFIG_H_
 

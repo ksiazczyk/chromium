@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BleAdapterManager unit tests
+// summary: Unit tests for BleAdapterManager covering adapter power changes, Bluetooth permission handling, and transport availability notifications using mock adapters.
+// ---
+
 #include "device/fido/ble_adapter_manager.h"
 
 #include <memory>

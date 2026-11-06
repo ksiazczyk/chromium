@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn filter interface
+// summary: Declares the Finch-driven WebAuthn filter API and documents the JSON filter format for matching operations, RP IDs, devices, and IDs.
+// ---
+
 #ifndef DEVICE_FIDO_FILTER_H_
 #define DEVICE_FIDO_FILTER_H_
 

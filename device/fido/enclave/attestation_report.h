@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AMD SEV-SNP attestation report structures
+// summary: Defines packed data structures mirroring AMD SEV-SNP attestation report layouts, including TCB versions, guest policy, and report fields.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_ATTESTATION_REPORT_H_
 #define DEVICE_FIDO_ENCLAVE_ATTESTATION_REPORT_H_
 

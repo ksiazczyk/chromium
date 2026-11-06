@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchIdAuthenticator class declaration for macOS
+// summary: Declares TouchIdAuthenticator, the macOS platform authenticator that stores Secure Enclave-backed WebAuthn credentials with metadata in the keychain per Chrome profile.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_AUTHENTICATOR_H_
 #define DEVICE_FIDO_MAC_AUTHENTICATOR_H_
 

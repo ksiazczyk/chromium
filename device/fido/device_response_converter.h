@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP device response converter declarations
+// summary: Declares functions that parse authenticator responses into MakeCredential, GetAssertion, and GetInfo response objects plus helpers.
+// ---
+
 #ifndef DEVICE_FIDO_DEVICE_RESPONSE_CONVERTER_H_
 #define DEVICE_FIDO_DEVICE_RESPONSE_CONVERTER_H_
 

@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: VirtualFidoDeviceDiscovery class declaration
+// summary: Declares VirtualFidoDeviceDiscovery, a FidoDeviceDiscovery that always vends one virtual device, plus a Trace recording discovery lifecycle for tests.
+// ---
+
 #ifndef DEVICE_FIDO_VIRTUAL_FIDO_DEVICE_DISCOVERY_H_
 #define DEVICE_FIDO_VIRTUAL_FIDO_DEVICE_DISCOVERY_H_
 

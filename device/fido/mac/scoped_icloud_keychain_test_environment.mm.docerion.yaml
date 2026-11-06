@@ -1,0 +1,4 @@
+# Docerion header of scoped_icloud_keychain_test_environment.mm.
+type: test
+title: Scoped iCloud Keychain test environment implementation
+summary: Implements the scoped test environment by installing a fake iCloud Keychain system interface with configurable credential and request callbacks.

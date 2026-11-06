@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential management request implementation
+// summary: Builds CTAP2 authenticatorCredentialManagement requests, including PIN-authenticated subcommands for enumerating, deleting, and updating resident credentials.
+// ---
+
 #include "device/fido/credential_management.h"
 
 #include "base/check_op.h"

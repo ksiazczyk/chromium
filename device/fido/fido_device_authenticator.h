@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoDeviceAuthenticator adaptor class header
+// summary: Declares FidoDeviceAuthenticator, which adapts a FidoDevice to the FidoAuthenticator interface by serializing WebAuthn requests for transport to the device.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_DEVICE_AUTHENTICATOR_H_
 #define DEVICE_FIDO_FIDO_DEVICE_AUTHENTICATOR_H_
 

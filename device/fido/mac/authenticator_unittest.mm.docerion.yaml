@@ -1,0 +1,4 @@
+# Docerion header of authenticator_unittest.mm.
+type: test
+title: TouchIdAuthenticator unit tests
+summary: Unit tests for TouchIdAuthenticator covering platform credential info lookups for resident and non-resident credentials using a fake keychain.

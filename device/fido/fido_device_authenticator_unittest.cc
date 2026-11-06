@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FidoDeviceAuthenticator
+// summary: Unit tests exercising FidoDeviceAuthenticator against a virtual CTAP2 device, covering initialization, PIN tokens, large blob storage, resident credentials, and get assertion flows.
+// ---
+
 #include "device/fido/fido_device_authenticator.h"
 
 #include <algorithm>

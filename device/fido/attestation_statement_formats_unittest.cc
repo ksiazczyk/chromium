@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for attestation statement formats
+// summary: Unit tests verifying parsing and CBOR encoding of fido-u2f and packed attestation statements using fixed test signatures and certificates.
+// ---
+
 #include "device/fido/attestation_statement_formats.h"
 
 #include <vector>

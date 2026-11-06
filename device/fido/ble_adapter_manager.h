@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BleAdapterManager header
+// summary: Manages Bluetooth adapter power and permission queries on behalf of FIDO request handlers, notifying them when adapter power changes.
+// ---
+
 #ifndef DEVICE_FIDO_BLE_ADAPTER_MANAGER_H_
 #define DEVICE_FIDO_BLE_ADAPTER_MANAGER_H_
 

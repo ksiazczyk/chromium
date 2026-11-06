@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO discovery base class header
+// summary: Declares FidoDiscoveryBase, the abstract base for authenticator discovery with an observer interface and a late-bindable EventStream helper.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_DISCOVERY_BASE_H_
 #define DEVICE_FIDO_FIDO_DISCOVERY_BASE_H_
 

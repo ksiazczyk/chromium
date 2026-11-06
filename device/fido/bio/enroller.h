@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BioEnroller class declaration
+// summary: Declares the BioEnroller class and its delegate interface for enrolling fingerprints on an authenticator, including cancellation and sample-collection callbacks.
+// ---
+
 #ifndef DEVICE_FIDO_BIO_ENROLLER_H_
 #define DEVICE_FIDO_BIO_ENROLLER_H_
 

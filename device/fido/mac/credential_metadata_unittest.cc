@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential metadata unit tests
+// summary: Unit tests for sealing and unsealing credential metadata, covering legacy credential ID versions and decode failures with wrong keys or corrupted data.
+// ---
+
 #include "device/fido/mac/credential_metadata.h"
 
 #include "components/cbor/values.h"

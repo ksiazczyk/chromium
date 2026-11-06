@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorGetAssertionResponse class header
+// summary: Declares the response structure for AuthenticatorGetAssertion requests, covering credential, signature, hmac-secret, large blob, and transport metadata.
+// ---
+
 #ifndef DEVICE_FIDO_AUTHENTICATOR_GET_ASSERTION_RESPONSE_H_
 #define DEVICE_FIDO_AUTHENTICATOR_GET_ASSERTION_RESPONSE_H_
 

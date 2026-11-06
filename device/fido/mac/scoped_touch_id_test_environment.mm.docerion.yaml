@@ -1,0 +1,4 @@
+# Docerion header of scoped_touch_id_test_environment.mm.
+type: test
+title: Scoped Touch ID test environment implementation
+summary: Implements overriding TouchIdContext creation and availability with fake contexts that simulate prompt success, failure, or no resolution.

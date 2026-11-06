@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP2 device operation header
+// summary: Declares the Ctap2DeviceOperation template that encodes a request to CBOR, sends it to a CTAP2 device and parses the response via a supplied callback.
+// ---
+
 #ifndef DEVICE_FIDO_CTAP2_DEVICE_OPERATION_H_
 #define DEVICE_FIDO_CTAP2_DEVICE_OPERATION_H_
 

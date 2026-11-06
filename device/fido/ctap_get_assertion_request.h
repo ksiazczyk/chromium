@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CTAP get assertion request header
+// summary: Declares CtapGetAssertionRequest and CtapGetAssertionOptions, the request parameters for the CTAP2 authenticatorGetAssertion command per the CTAP spec.
+// ---
+
 #ifndef DEVICE_FIDO_CTAP_GET_ASSERTION_REQUEST_H_
 #define DEVICE_FIDO_CTAP_GET_ASSERTION_REQUEST_H_
 

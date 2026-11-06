@@ -1,0 +1,4 @@
+# Docerion header of get_assertion_operation_unittest_mac.mm.
+type: test
+title: Disabled manual test for the get assertion operation
+summary: Contains a disabled test that runs make credential and get assertion against a real Touch ID prompt, requiring compatible hardware, code signing, and a keychain access group entitlement.

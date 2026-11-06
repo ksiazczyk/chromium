@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth adapter manager for FIDO requests
+// summary: Manages the Bluetooth adapter state for FIDO request handling, tracking power, permissions, and notifying handlers of status changes.
+// ---
+
 #include "device/fido/ble_adapter_manager.h"
 
 #include <utility>

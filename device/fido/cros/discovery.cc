@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoChromeOSDiscovery implementation
+// summary: Implements FidoChromeOSDiscovery, which checks u2fd service availability, power button mode, and user verification support before adding a ChromeOSAuthenticator.
+// ---
+
 #include "device/fido/cros/discovery.h"
 
 #include <string>

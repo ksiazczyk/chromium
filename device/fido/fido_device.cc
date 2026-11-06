@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoDevice base implementation
+// summary: Implements FidoDevice defaults, including protocol and device info discovery via AuthenticatorGetInfo, U2F versus CTAP2 detection, and helpers for unrecognized credential status codes.
+// ---
+
 #include "device/fido/fido_device.h"
 
 #include <utility>

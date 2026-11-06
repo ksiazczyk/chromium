@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 protocol constants
+// summary: Defines sizes and values for BLE adverts, keys, nonces, tunnel IDs, padding, and sync-info age limits used throughout the caBLEv2 protocol.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_V2_CONSTANTS_H_
 #define DEVICE_FIDO_CABLE_V2_CONSTANTS_H_
 

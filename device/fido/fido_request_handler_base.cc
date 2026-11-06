@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO request handler base implementation
+// summary: Implements FidoRequestHandlerBase, which tracks transport availability, platform credential checks, and authenticator lifecycle for a WebAuthn request.
+// ---
+
 #include "device/fido/fido_request_handler_base.h"
 
 #include <string_view>

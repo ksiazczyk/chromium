@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 discovery implementation
+// summary: Implements BLE advert scanning and pairing-based discovery that creates caBLEv2 FIDO devices from QR keys, stored pairings, or extension keys.
+// ---
+
 #include "device/fido/cable/v2_discovery.h"
 
 #include "base/containers/to_array.h"

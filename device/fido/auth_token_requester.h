@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: pinUvAuthToken requester interface
+// summary: Declares AuthTokenRequester, which obtains pinUvAuthTokens from CTAP2 devices, with result codes, options and a delegate for PIN collection and user verification.
+// ---
+
 #ifndef DEVICE_FIDO_AUTH_TOKEN_REQUESTER_H_
 #define DEVICE_FIDO_AUTH_TOKEN_REQUESTER_H_
 

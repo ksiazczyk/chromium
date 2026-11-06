@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock FIDO discovery observer for tests
+// summary: Gmock implementation of FidoDiscoveryBase::Observer that records discovery start/stop and authenticator add/remove events for use in tests.
+// ---
+
 #ifndef DEVICE_FIDO_MOCK_FIDO_DISCOVERY_OBSERVER_H_
 #define DEVICE_FIDO_MOCK_FIDO_DISCOVERY_OBSERVER_H_
 

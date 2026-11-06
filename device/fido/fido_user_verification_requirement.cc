@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User verification requirement conversion
+// summary: Implements conversion between WebAuthn user verification requirement strings and the UserVerificationRequirement enum.
+// ---
+
 #include "device/fido/fido_user_verification_requirement.h"
 
 namespace device {

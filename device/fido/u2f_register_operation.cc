@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: U2F register operation implementation
+// summary: Implements per-device U2F registration, including exclude-list probing to prevent duplicate registrations.
+// ---
+
 #include "device/fido/u2f_register_operation.h"
 
 #include <utility>

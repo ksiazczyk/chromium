@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iCloud Keychain passkey support interface
+// summary: Declares functions for iCloud Keychain availability, discovery creation, passkey enumeration permission, large blob support, and passkey configuration checks.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_ICLOUD_KEYCHAIN_H_
 #define DEVICE_FIDO_MAC_ICLOUD_KEYCHAIN_H_
 

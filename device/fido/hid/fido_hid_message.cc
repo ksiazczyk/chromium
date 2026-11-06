@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoHidMessage implementation
+// summary: Implements FidoHidMessage, which builds CTAP HID messages from init and continuation packets and reassembles messages from serialized data.
+// ---
+
 #include "device/fido/hid/fido_hid_message.h"
 
 #include <algorithm>

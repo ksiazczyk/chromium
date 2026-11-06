@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual U2F device implementation
+// summary: Implements a virtual U2F authenticator that parses APDU commands and answers register and sign requests, including error and invalid-response simulation.
+// ---
+
 #include "device/fido/virtual_u2f_device.h"
 
 #include <memory>

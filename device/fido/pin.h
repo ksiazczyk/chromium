@@ -6,6 +6,12 @@
 // one. See
 // https://fidoalliance.org/specs/fido-v2.0-rd-20180702/fido-client-to-authenticator-protocol-v2.0-rd-20180702.html#authenticatorClientPIN
 
+// ---docerion
+// type: source
+// title: CTAP2 PIN protocol declarations
+// summary: Declares structures for CTAP2 PIN protocol version one, covering PIN entry reasons and errors, permission flags, validation functions and retry requests and responses.
+// ---
+
 #ifndef DEVICE_FIDO_PIN_H_
 #define DEVICE_FIDO_PIN_H_
 

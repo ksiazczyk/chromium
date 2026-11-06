@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoDeviceDiscovery implementation
+// summary: Implements FidoDeviceDiscovery start and stop state handling, observer notifications for discovery start and authenticator addition or removal, and device add and remove bookkeeping.
+// ---
+
 #include "device/fido/fido_device_discovery.h"
 
 #include <utility>

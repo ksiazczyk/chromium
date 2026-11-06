@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave WebSocket client interface
+// summary: Declares EnclaveWebSocketClient, which connects to the enclave service over WebSocket and delivers responses through a callback.
+// ---
+
 #ifndef DEVICE_FIDO_ENCLAVE_ENCLAVE_WEBSOCKET_CLIENT_H_
 #define DEVICE_FIDO_ENCLAVE_ENCLAVE_WEBSOCKET_CLIENT_H_
 

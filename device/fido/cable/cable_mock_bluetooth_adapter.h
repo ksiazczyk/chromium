@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Bluetooth adapter for caBLE tests
+// summary: Declares CableMockBluetoothAdapter, a MockBluetoothAdapter subclass that simulates BLE discovery and adds test devices carrying caBLEv2 adverts for unit tests.
+// ---
+
 #ifndef DEVICE_FIDO_CABLE_CABLE_MOCK_BLUETOOTH_ADAPTER_H_
 #define DEVICE_FIDO_CABLE_CABLE_MOCK_BLUETOOTH_ADAPTER_H_
 

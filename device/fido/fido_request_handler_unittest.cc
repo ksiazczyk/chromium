@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FIDO request handler unit tests
+// summary: Unit tests for the FIDO request handler base, covering transport discovery, observer notifications, and dispatch of requests to authenticators.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

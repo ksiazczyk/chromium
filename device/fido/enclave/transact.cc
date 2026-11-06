@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enclave transaction implementation
+// summary: Implements enclave transactions that sign, send and parse requests over the WebSocket client while recording latency and result metrics.
+// ---
+
 #include "device/fido/enclave/transact.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VirtualCtap2Device unit tests
+// summary: Unit tests that send CTAP2 commands to the virtual device and verify makeCredential and getAssertion request parsing, responses and CBOR encoding.
+// ---
+
 #include "device/fido/virtual_ctap2_device.h"
 
 #include <cstdint>

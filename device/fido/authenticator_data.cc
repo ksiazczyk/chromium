@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator data decoding
+// summary: Implements decoding of WebAuthn authenticator data, including flags, signature counter, attested credential data and CBOR extension parsing.
+// ---
+
 #include "device/fido/authenticator_data.h"
 
 #include <utility>

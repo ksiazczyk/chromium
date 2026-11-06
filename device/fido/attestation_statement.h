@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation statement base interface
+// summary: Declares the AttestationStatement interface and the none-attestation variant describing signed statements about WebAuthn credentials and their authenticators.
+// ---
+
 #ifndef DEVICE_FIDO_ATTESTATION_STATEMENT_H_
 #define DEVICE_FIDO_ATTESTATION_STATEMENT_H_
 

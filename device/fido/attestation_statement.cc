@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attestation statement base implementation
+// summary: Implements the AttestationStatement base class and the none attestation format used when no attestation is provided.
+// ---
+
 #include "device/fido/attestation_statement.h"
 
 #include <string>

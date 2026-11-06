@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multiple virtual FIDO device factory header
+// summary: Declares MultipleVirtualFidoDeviceFactory, a FidoDiscoveryFactory test override able to supply several virtual FIDO devices with configurable transport, protocol, state and disconnect events.
+// ---
+
 #ifndef DEVICE_FIDO_MULTIPLE_VIRTUAL_FIDO_DEVICE_FACTORY_H_
 #define DEVICE_FIDO_MULTIPLE_VIRTUAL_FIDO_DEVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoDeviceAuthenticator implementation
+// summary: Implements the FidoDeviceAuthenticator adaptor, translating WebAuthn-level requests into CTAP2/U2F device commands for make credential, get assertion, PIN, bio enrollment, credential management, and large blobs.
+// ---
+
 #include "device/fido/fido_device_authenticator.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the get assertion task
+// summary: Unit tests for GetAssertionTask verifying successful assertions, allow list handling and redaction of sensitive values such as largeBlobKey and PRF data in device event logs.
+// ---
+
 #include "device/fido/get_assertion_task.h"
 
 #include <array>

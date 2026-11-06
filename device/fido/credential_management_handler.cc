@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CredentialManagementHandler implementation
+// summary: Implements the credential management request flow, handling authenticator touch, PIN retry checks, and status reporting for credential operations.
+// ---
+
 #include "device/fido/credential_management_handler.h"
 
 #include <utility>

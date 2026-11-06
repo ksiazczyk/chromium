@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake HID connection and manager implementations for testing
+// summary: Implements mock and fake device::mojom::HidConnection and HidManager classes that let unit tests simulate FIDO HID devices and scripted HID traffic.
+// ---
+
 #include "device/fido/hid/fake_hid_impl_for_testing.h"
 
 #include <utility>

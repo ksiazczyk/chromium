@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform credential store interface
+// summary: Declares the PlatformCredentialStore interface for deleting and counting WebAuthn credentials held by authenticators integrated into Chrome, such as Touch ID.
+// ---
+
 #ifndef DEVICE_FIDO_PLATFORM_CREDENTIAL_STORE_H_
 #define DEVICE_FIDO_PLATFORM_CREDENTIAL_STORE_H_
 

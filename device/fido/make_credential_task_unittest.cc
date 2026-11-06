@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Make credential task unit tests
+// summary: Unit tests for MakeCredentialTask covering successful CTAP2 registration and redaction of sensitive response values in logs.
+// ---
+
 #include "device/fido/make_credential_task.h"
 
 #include <array>

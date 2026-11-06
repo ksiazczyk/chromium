@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake iCloud Keychain system interface for tests
+// summary: Declares FakeSystemInterface, which simulates the macOS passkey system API so tests can script auth states, credentials, and assertion results.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_FAKE_ICLOUD_KEYCHAIN_SYS_H_
 #define DEVICE_FIDO_MAC_FAKE_ICLOUD_KEYCHAIN_SYS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large blob handling implementation
+// summary: Implements CTAP2 large blob support, including large blob array integrity verification, read and write request construction and PIN-authenticated large blob operations.
+// ---
+
 #include "device/fido/large_blob.h"
 
 #include <algorithm>

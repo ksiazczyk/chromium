@@ -1,0 +1,4 @@
+# Docerion header of fake_touch_id_context.mm.
+type: source
+title: Fake Touch ID context implementation
+summary: Implements FakeTouchIdContext, which runs or withholds the Touch ID prompt callback according to the configured test behavior.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential management handler unit tests
+// summary: Unit tests for CredentialManagementHandler covering credential enumeration, deletion and user information updates against a virtual CTAP2 FIDO device.
+// ---
+
 #include "device/fido/credential_management_handler.h"
 
 #include <algorithm>

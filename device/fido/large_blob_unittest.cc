@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Large blob unit tests
+// summary: Unit tests verifying integrity checks, CBOR reading, and fragment popping of FIDO large blob arrays.
+// ---
+
 #include "device/fido/large_blob.h"
 
 #include <optional>

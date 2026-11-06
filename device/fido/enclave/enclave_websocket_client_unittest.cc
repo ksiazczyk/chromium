@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the enclave WebSocket client
+// summary: Tests that WebSocket channel drops and connection failures are logged to the expected UMA histograms.
+// ---
+
 #include "device/fido/enclave/enclave_websocket_client.h"
 
 #include <optional>

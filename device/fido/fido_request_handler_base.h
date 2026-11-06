@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO request handler base header
+// summary: Declares FidoRequestHandlerBase, the per-request base class that observes discovery events and reports transport availability to the WebAuthn UX.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_REQUEST_HANDLER_BASE_H_
 #define DEVICE_FIDO_FIDO_REQUEST_HANDLER_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN/UV auth protocol one implementation
+// summary: Implements CTAP2.1 PIN/UV Auth Protocol One with P-256 key agreement, AES-CBC encryption and decryption, and HMAC-based authentication and verification.
+// ---
+
 #include "device/fido/pin_internal.h"
 
 #include <string>

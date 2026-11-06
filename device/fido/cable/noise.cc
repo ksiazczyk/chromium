@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noise protocol implementation for caBLE handshakes
+// summary: Implements a subset of the Noise Protocol Framework with HKDF, hash chaining and AES-GCM encryption used by caBLEv2 handshakes.
+// ---
+
 #include "device/fido/cable/noise.h"
 
 #include <string.h>

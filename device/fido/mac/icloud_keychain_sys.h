@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInterface abstraction for iCloud Keychain
+// summary: Defines the lowest-level abstraction for iCloud Keychain operations such as authorization, credential enumeration, make credential, and get assertion, with a testing hook.
+// ---
+
 #ifndef DEVICE_FIDO_MAC_ICLOUD_KEYCHAIN_SYS_H_
 #define DEVICE_FIDO_MAC_ICLOUD_KEYCHAIN_SYS_H_
 

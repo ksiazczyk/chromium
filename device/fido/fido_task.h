@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoTask class declaration
+// summary: Declares the FidoTask interface encapsulating per-device request logic shared between MakeCredential and GetAssertion operations.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_TASK_H_
 #define DEVICE_FIDO_FIDO_TASK_H_
 

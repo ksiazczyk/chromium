@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FidoHidDiscovery implementation
+// summary: Implements FidoHidDiscovery, which watches the HID manager for devices with the FIDO usage page, filters by report size and ignore list, and creates FidoHidDevice instances.
+// ---
+
 #include "device/fido/hid/fido_hid_discovery.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User verification requirement helpers
+// summary: Declares constants and conversion helpers for the WebAuthn user verification requirement values required, preferred, and discouraged.
+// ---
+
 #ifndef DEVICE_FIDO_FIDO_USER_VERIFICATION_REQUIREMENT_H_
 #define DEVICE_FIDO_FIDO_USER_VERIFICATION_REQUIREMENT_H_
 

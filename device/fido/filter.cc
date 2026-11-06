@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn Finch filter implementation
+// summary: Implements parsing and evaluation of the Finch-configured WebAuthenticationFilter that can allow, block, or suppress attestation for WebAuthn requests.
+// ---
+
 #include "device/fido/filter.h"
 
 #include <algorithm>

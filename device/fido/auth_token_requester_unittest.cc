@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AuthTokenRequester
+// summary: Unit tests covering pinUvAuthToken acquisition flows against a virtual CTAP2 device, including PIN entry, internal user verification retries and lock outcomes.
+// ---
+
 #include "device/fido/auth_token_requester.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of get_assertion_operation.mm.
+type: source
+title: macOS Touch ID get assertion operation
+summary: Implements the authenticatorGetAssertion operation for the Touch ID platform authenticator, fetching credentials and prompting Touch ID when user verification is required.

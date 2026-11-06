@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator reset request handler implementation
+// summary: Implements the reset request state machine that waits for an authenticator touch and then sends a CTAP2 reset command, reporting the outcome via callbacks.
+// ---
+
 #include "device/fido/reset_request_handler.h"
 
 #include <utility>

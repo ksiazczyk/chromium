@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: U2F register operation header
+// summary: Declares the U2fRegisterOperation class handling per-device U2F registration and exclude-list iteration.
+// ---
+
 #ifndef DEVICE_FIDO_U2F_REGISTER_OPERATION_H_
 #define DEVICE_FIDO_U2F_REGISTER_OPERATION_H_
 

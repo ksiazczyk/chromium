@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: caBLEv2 handshake unit tests
+// summary: Unit tests covering tunnel-server URL encoding, EID conversion and encryption, QR code parsing, and handshake behavior.
+// ---
+
 #include "device/fido/cable/v2_handshake.h"
 
 #include <algorithm>

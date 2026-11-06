@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformAuthenticatorCredentialStore implementation
+// summary: Implements PlatformAuthenticatorCredentialStore, which counts and deletes credentials held by the Chrome OS platform authenticator via u2fd D-Bus calls within a given time range.
+// ---
+
 #include "device/fido/cros/credential_store.h"
 
 #include "chromeos/dbus/u2f/u2f_client.h"

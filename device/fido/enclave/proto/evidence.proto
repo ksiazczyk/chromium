@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DICE attestation evidence protobuf definitions
+// summary: Defines proto3 messages and enums describing layered DICE attestation evidence from a TEE, including root layer reports, per-layer certificates, and application key certificates.
+// ---
+
 syntax = "proto3";
 
 package device.enclave;

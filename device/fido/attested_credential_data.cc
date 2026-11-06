@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attested credential data parsing
+// summary: Implements parsing of attested credential data from CTAP2 responses and U2F registration responses, extracting AAGUID, credential ID and COSE public key.
+// ---
+
 #include "device/fido/attested_credential_data.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppID exclude probe task declaration
+// summary: Declares AppIdExcludeProbeTask, a FidoTask that batches the exclude list and probes a device for recognized credential IDs.
+// ---
+
 #ifndef DEVICE_FIDO_APPID_EXCLUDE_PROBE_TASK_H_
 #define DEVICE_FIDO_APPID_EXCLUDE_PROBE_TASK_H_
 

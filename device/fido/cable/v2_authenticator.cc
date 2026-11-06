@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: caBLEv2 authenticator implementation
+// summary: Implements the phone-side caBLEv2 authenticator, handling CTAP makeCredential and getAssertion requests over tunnel-server WebSocket connections with BLE advertising.
+// ---
+
 #include "device/fido/cable/v2_authenticator.h"
 
 #include <algorithm>

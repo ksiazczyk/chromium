@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator reset request handler declaration
+// summary: Declares ResetRequestHandler, a state machine for the Settings UI that obtains a touch from an authenticator and issues a CTAP2 reset request.
+// ---
+
 #ifndef DEVICE_FIDO_RESET_REQUEST_HANDLER_H_
 #define DEVICE_FIDO_RESET_REQUEST_HANDLER_H_
 

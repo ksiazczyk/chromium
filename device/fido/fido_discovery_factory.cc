@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO discovery factory implementation
+// summary: Creates FidoDiscoveryBase instances per transport, with platform-specific handling for USB HID, caBLE hybrid, and Windows, macOS, and ChromeOS authenticators.
+// ---
+
 #include "device/fido/fido_discovery_factory.h"
 
 #include <algorithm>
