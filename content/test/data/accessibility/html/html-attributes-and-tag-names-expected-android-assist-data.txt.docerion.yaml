@@ -1,0 +1,4 @@
+# Docerion header of html-attributes-and-tag-names-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for html-attributes-and-tag-names
+summary: Expected accessibility tree snapshot with HTML tag and attribute metadata for the html-attributes-and-tag-names test on Android assist data.

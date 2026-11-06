@@ -1,0 +1,4 @@
+# Docerion header of input-button-expected-uia-win.txt.
+type: test
+title: Input button expected UIA Win accessibility tree
+summary: Expected UIA Windows accessibility tree snapshot for the input button test page, including a skip marker referencing a known bug.

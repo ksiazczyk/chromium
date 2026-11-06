@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-between-text-expected-mac.txt.
+type: test
+title: Ignored selection between text expected output for macOS
+summary: Expected macOS accessibility tree for the ignored-selection-between-text test, showing AXStaticText values around ignored content.

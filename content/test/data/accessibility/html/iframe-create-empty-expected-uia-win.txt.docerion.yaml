@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-empty-expected-uia-win.txt.
+type: test
+title: iframe-create-empty expected accessibility tree for UIA on Windows
+summary: Expected UIA accessibility tree for the iframe-create-empty test showing nested Document and Group elements.

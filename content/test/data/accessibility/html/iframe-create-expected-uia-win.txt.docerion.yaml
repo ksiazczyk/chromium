@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-expected-uia-win.txt.
+type: test
+title: iframe-create expected UIA Windows accessibility tree
+summary: Expected UI Automation Windows accessibility tree snapshot for the iframe-create test, showing a hyperlink named done inside a srcdoc document.

@@ -1,0 +1,4 @@
+# Docerion header of id-expected-mac.txt.
+type: test
+title: Expected Mac accessibility tree for id attribute test
+summary: Expected macOS accessibility tree for the id test page, including the AXDOMIdentifier for the paragraph with id para2.

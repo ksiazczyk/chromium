@@ -1,0 +1,4 @@
+# Docerion header of input-button-expected-fuchsia.txt.
+type: test
+title: Input button expected Fuchsia accessibility snapshot
+summary: Expected Fuchsia accessibility snapshot for the input button test with button labels and secondary labels.

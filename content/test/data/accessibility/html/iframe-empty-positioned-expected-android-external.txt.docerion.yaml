@@ -1,0 +1,4 @@
+# Docerion header of iframe-empty-positioned-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for positioned empty iframe test
+summary: Expected Android external accessibility tree dump for the positioned empty iframe test, showing WebView and iframe views with actions and chrome roles.

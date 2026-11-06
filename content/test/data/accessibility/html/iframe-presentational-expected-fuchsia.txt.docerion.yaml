@@ -1,0 +1,4 @@
+# Docerion header of iframe-presentational-expected-fuchsia.txt.
+type: test
+title: iframe-presentational expected Fuchsia tree
+summary: Expected Fuchsia accessibility tree for the iframe-presentational test, using UNKNOWN node names with focus and hidden flags.

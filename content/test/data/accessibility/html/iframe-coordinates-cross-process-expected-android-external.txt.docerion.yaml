@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-cross-process-expected-android-external.txt.
+type: test
+title: iframe-coordinates-cross-process expected Android external tree
+summary: Expected Android external accessibility tree for the iframe-coordinates-cross-process test, including buttons and iframes showing load errors.

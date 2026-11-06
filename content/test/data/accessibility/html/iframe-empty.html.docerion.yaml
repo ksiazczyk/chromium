@@ -1,0 +1,4 @@
+# Docerion header of iframe-empty.html.
+type: test
+title: iframe-empty test page
+summary: Minimal HTML test page containing a single empty iframe pointing to about:blank.

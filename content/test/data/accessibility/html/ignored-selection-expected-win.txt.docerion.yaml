@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-expected-win.txt.
+type: test
+title: Ignored selection expected Windows MSAA accessibility tree
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the ignored-selection test, including caret and selection range details.

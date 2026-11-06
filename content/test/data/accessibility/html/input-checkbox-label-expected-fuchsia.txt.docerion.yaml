@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-label-expected-fuchsia.txt.
+type: test
+title: input-checkbox-label expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree output for the labelled checkbox test, showing an unchecked CHECK_BOX labelled Checkbox Title.

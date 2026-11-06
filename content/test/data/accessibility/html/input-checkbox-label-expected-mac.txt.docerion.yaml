@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-label-expected-mac.txt.
+type: test
+title: input-checkbox-label expected Mac accessibility tree
+summary: Expected macOS accessibility tree output for the labelled checkbox test, showing an AXCheckBox titled Checkbox Title.

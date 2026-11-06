@@ -1,0 +1,4 @@
+# Docerion header of hr-expected-mac.txt.
+type: test
+title: Expected accessibility tree for hr on macOS
+summary: Expected macOS accessibility tree for the hr test page with AXSplitter nodes and static text for the paragraphs around the hr elements.

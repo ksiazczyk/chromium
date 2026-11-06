@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-expected-auralinux.txt.
+type: test
+title: Expected auralinux output for heading with headingoffset test
+summary: Expected auralinux accessibility tree snapshot for the headingoffset heading test page.

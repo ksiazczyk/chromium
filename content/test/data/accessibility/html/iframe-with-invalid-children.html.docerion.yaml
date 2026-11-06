@@ -1,0 +1,4 @@
+# Docerion header of iframe-with-invalid-children.html.
+type: test
+title: Iframe with invalid children test page
+summary: HTML test page with an iframe whose fallback paragraph content should not appear in the accessibility tree.

@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-no-unignored-expected-fuchsia.txt.
+type: test
+title: Ignored selection no unignored expected Fuchsia tree
+summary: Expected Fuchsia accessibility tree snapshot for the ignored-selection test when no content is unignored, with hidden nodes and the Done label.

@@ -1,0 +1,4 @@
+# Docerion header of iframe-empty-positioned-expected-auralinux.txt.
+type: test
+title: iframe-empty-positioned expected output for Aura Linux
+summary: Expected accessibility tree snapshot of the iframe-empty-positioned test for the Aura Linux platform.

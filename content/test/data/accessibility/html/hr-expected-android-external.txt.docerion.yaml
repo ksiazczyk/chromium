@@ -1,0 +1,4 @@
+# Docerion header of hr-expected-android-external.txt.
+type: test
+title: Expected accessibility tree for hr on Android external
+summary: Expected Android external accessibility snapshot for the hr test page, describing splitter roles and paragraph text around the labeled dividing line.

@@ -1,0 +1,4 @@
+# Docerion header of i-expected-uia-win.txt.
+type: test
+title: Expected UIA Windows accessibility tree for the i tag test
+summary: Expected UIA Windows accessibility tree snapshot for a paragraph containing text marked with the i italic tag.

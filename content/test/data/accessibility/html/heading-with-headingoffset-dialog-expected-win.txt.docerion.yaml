@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-dialog-expected-win.txt.
+type: test
+title: Expected Windows tree for the headingoffset dialog test
+summary: Expected Windows accessibility tree snapshot for the headingoffset dialog test, showing a modal dialog with two headings at levels 1 and 2.

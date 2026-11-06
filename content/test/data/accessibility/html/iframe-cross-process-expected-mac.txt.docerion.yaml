@@ -1,0 +1,4 @@
+# Docerion header of iframe-cross-process-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for cross-process iframe test
+summary: Expected macOS accessibility tree dump for the cross-process iframe test with AXWebArea, AXGroup and AXStaticText nodes.

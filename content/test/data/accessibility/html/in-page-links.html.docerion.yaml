@@ -1,0 +1,4 @@
+# Docerion header of in-page-links.html.
+type: test
+title: In-page links accessibility test page
+summary: HTML test page with anchor links to empty anchors, named anchors, spans and paragraphs for testing in-page link accessibility.

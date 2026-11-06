@@ -1,0 +1,4 @@
+# Docerion header of i-expected-android-assist-data.txt.
+type: test
+title: Expected Android Assist accessibility data for the i tag test
+summary: Expected Android Assist data snapshot describing the accessibility tree of a paragraph whose text is marked with the i italic tag.

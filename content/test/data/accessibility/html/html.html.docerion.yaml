@@ -1,0 +1,4 @@
+# Docerion header of html.html.
+type: test
+title: HTML element accessibility test page
+summary: HTML test page verifying that the labeled html element appears in the accessibility tree along with the body and a labeled button.

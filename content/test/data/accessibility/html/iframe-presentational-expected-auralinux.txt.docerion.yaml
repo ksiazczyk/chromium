@@ -1,0 +1,4 @@
+# Docerion header of iframe-presentational-expected-auralinux.txt.
+type: test
+title: iframe-presentational expected Auralinux tree
+summary: Expected Auralinux accessibility tree for the iframe-presentational test with document, section and internal frame nodes.

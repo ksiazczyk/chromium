@@ -1,0 +1,4 @@
+# Docerion header of iframe-srcdoc-changed-expected-uia-win.txt.
+type: test
+title: iframe-srcdoc-changed expected UIA tree
+summary: Expected UIA accessibility tree snapshot for the iframe srcdoc change test on Windows, showing the updated document name and srcdoc value.

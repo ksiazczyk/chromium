@@ -1,0 +1,4 @@
+# Docerion header of id.html.
+type: test
+title: HTML test page for id attribute accessibility
+summary: Test page with two paragraphs, one without an id and one with id para2, used to verify id exposure in accessibility trees.

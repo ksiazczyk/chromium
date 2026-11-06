@@ -1,0 +1,4 @@
+# Docerion header of i-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for the i tag test
+summary: Expected Blink accessibility tree snapshot for a paragraph containing text marked with the i italic tag.

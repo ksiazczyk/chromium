@@ -1,0 +1,4 @@
+# Docerion header of img-expected-win.txt.
+type: test
+title: Expected Windows accessibility tree for img test
+summary: Expected Windows MSAA/IA2 accessibility tree snapshot for the HTML image accessibility test page, listing graphic and static text roles.

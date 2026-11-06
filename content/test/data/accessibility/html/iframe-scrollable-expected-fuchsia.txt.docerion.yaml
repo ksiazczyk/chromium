@@ -1,0 +1,4 @@
+# Docerion header of iframe-scrollable-expected-fuchsia.txt.
+type: test
+title: iframe-scrollable expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the scrollable iframe test, including visible and hidden static text nodes.

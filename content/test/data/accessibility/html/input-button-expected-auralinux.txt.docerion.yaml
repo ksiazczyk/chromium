@@ -1,0 +1,4 @@
+# Docerion header of input-button-expected-auralinux.txt.
+type: test
+title: Input button expected Aura Linux accessibility snapshot
+summary: Expected Aura Linux accessibility snapshot for the input button test showing push buttons with names and descriptions.

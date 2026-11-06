@@ -1,0 +1,4 @@
+# Docerion header of iframe-aria-hidden-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for iframe aria-hidden test
+summary: Empty expected Android assist data snapshot for the iframe aria-hidden accessibility test.

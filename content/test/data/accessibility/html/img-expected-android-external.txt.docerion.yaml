@@ -1,0 +1,4 @@
+# Docerion header of img-expected-android-external.txt.
+type: test
+title: Expected Android external snapshot for img test
+summary: Expected external Android accessibility snapshot for the img test page, including actions, bundles, and target URLs for image nodes.

@@ -1,0 +1,4 @@
+# Docerion header of hidden-named-slot-no-subtree-crash-expected-blink.txt.
+type: test
+title: Expected Blink output for hidden named slot no subtree crash test
+summary: Expected Blink accessibility tree snapshot for the hidden named slot no subtree crash test, covering slot content and a defineElement continuation.

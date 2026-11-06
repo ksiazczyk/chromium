@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-expected-uia-win.txt.
+type: test
+title: Iframe coordinates expected UIA Windows tree
+summary: Expected UIA accessibility tree snapshot for the iframe coordinates test on Windows, showing buttons within the page and iframe documents.

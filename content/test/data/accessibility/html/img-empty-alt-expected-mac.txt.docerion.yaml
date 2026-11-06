@@ -1,0 +1,4 @@
+# Docerion header of img-empty-alt-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for empty alt images
+summary: Expected macOS AX tree snapshot for the img-empty-alt test page, including the context menu hint description for images without alt text.

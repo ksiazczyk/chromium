@@ -1,0 +1,4 @@
+# Docerion header of img-expected-android.txt.
+type: test
+title: Expected Android accessibility snapshot for img test
+summary: Expected Android accessibility snapshot for the img test page, listing image and text views with content descriptions and clickability.

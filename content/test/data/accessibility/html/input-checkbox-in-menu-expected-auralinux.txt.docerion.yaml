@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-in-menu-expected-auralinux.txt.
+type: test
+title: Checkbox in menu expected Aura Linux accessibility tree
+summary: Expected Aura Linux accessibility tree for the input-checkbox-in-menu test, listing check boxes with checked and indeterminate states inside menus.

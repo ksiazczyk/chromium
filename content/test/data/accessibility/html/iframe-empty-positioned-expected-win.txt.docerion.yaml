@@ -1,0 +1,4 @@
+# Docerion header of iframe-empty-positioned-expected-win.txt.
+type: test
+title: iframe-empty-positioned expected output for Windows
+summary: Expected IA2 and MSAA accessibility tree for the iframe-empty-positioned test on Windows.

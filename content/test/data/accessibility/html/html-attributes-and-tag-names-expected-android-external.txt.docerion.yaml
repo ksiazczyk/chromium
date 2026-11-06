@@ -1,0 +1,4 @@
+# Docerion header of html-attributes-and-tag-names-expected-android-external.txt.
+type: test
+title: Expected Android external tree for html-attributes-and-tag-names
+summary: Expected accessibility tree snapshot using the Android external serialization with chromeRole bundles for the html-attributes-and-tag-names test.

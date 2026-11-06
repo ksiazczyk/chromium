@@ -1,0 +1,4 @@
+# Docerion header of iframe-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for the iframe test page
+summary: Expected Android accessibility tree snapshot verifying how an empty iframe is exposed on Android.

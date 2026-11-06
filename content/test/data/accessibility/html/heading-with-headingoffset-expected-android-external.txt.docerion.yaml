@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-expected-android-external.txt.
+type: test
+title: Expected Android external output for heading with headingoffset test
+summary: Expected Android accessibility output in external format for the headingoffset heading test page.

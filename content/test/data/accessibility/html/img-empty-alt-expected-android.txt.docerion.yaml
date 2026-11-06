@@ -1,0 +1,4 @@
+# Docerion header of img-empty-alt-expected-android.txt.
+type: test
+title: Img empty alt expected Android output
+summary: Expected Android accessibility tree for the img-empty-alt test, showing images with empty and full alt text.

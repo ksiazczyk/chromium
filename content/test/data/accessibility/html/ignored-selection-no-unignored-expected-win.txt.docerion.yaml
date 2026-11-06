@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-no-unignored-expected-win.txt.
+type: test
+title: Ignored selection no unignored expected Win output
+summary: Expected Windows accessibility tree for the ignored-selection-no-unignored test, showing a read-only focusable document with no selections.

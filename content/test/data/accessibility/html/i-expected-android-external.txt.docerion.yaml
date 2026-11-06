@@ -1,0 +1,4 @@
+# Docerion header of i-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for the i tag test
+summary: Expected external Android accessibility snapshot showing a focused WebView paragraph rendered from the i italic tag test page.

@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-label-expected-android-assist-data.txt.
+type: test
+title: Checkbox label expected Android assist data
+summary: Expected Android assist data snapshot for the input-checkbox-label test, showing a checkbox with its label text.

@@ -1,0 +1,4 @@
+# Docerion header of iframe-aria-hidden-expected-android.txt.
+type: test
+title: iframe-aria-hidden expected Android accessibility tree
+summary: Expected Android accessibility tree for the iframe-aria-hidden test, showing a focused WebView with a TextView child.

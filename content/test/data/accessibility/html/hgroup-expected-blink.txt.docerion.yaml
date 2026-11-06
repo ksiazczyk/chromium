@@ -1,0 +1,4 @@
+# Docerion header of hgroup-expected-blink.txt.
+type: test
+title: Expected Blink output for hgroup test
+summary: Expected Blink accessibility tree snapshot for the hgroup test showing a group containing headings and a paragraph.

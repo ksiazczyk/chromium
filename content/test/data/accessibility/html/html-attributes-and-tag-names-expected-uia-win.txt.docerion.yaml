@@ -1,0 +1,4 @@
+# Docerion header of html-attributes-and-tag-names-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA tree for html-attributes-and-tag-names
+summary: Expected Windows UIA accessibility tree snapshot for the html-attributes-and-tag-names test page.

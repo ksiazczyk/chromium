@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-no-unignored-expected-uia-win.txt.
+type: test
+title: Ignored selection no unignored expected UIA Win output
+summary: Expected UIA Windows accessibility tree for the ignored-selection-no-unignored test, showing a document with text 'Done' and no unignored selection.

@@ -1,0 +1,4 @@
+# Docerion header of html-vs-aria-attributes-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for html-vs-aria-attributes test
+summary: Expected Blink accessibility tree snapshot for the html-vs-aria-attributes test page comparing HTML and ARIA attribute handling across form controls.

@@ -1,0 +1,4 @@
+# Docerion header of html-attributes-and-tag-names-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for html-attributes-and-tag-names
+summary: Expected macOS accessibility tree snapshot for the html-attributes-and-tag-names test page.

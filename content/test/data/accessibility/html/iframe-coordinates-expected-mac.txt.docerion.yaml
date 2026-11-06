@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-expected-mac.txt.
+type: test
+title: Iframe coordinates expected Mac accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the iframe coordinates test with local positions and sizes of buttons and iframe web areas.

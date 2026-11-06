@@ -1,0 +1,4 @@
+# Docerion header of img-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for img test
+summary: Expected Android assist data snapshot for the img accessibility test page, showing image views with their alt text and sources.

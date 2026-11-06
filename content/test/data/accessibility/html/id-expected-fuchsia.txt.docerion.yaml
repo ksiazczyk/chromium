@@ -1,0 +1,4 @@
+# Docerion header of id-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for id attribute test
+summary: Expected Fuchsia accessibility tree for the id test page with paragraph and static text nodes for 'No id' and 'Has id'.

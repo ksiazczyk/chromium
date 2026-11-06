@@ -1,0 +1,4 @@
+# Docerion header of input-button-expected-win.txt.
+type: test
+title: Input button expected Windows accessibility tree
+summary: Expected Windows IAccessible2 accessibility tree snapshot for the input button test page, covering push button roles and descriptions.

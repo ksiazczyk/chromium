@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA tree for heading with headingoffset test
+summary: Expected Windows UIA accessibility tree snapshot for the headingoffset heading test page.

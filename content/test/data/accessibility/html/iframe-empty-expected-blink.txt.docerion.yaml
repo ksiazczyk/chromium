@@ -1,0 +1,4 @@
+# Docerion header of iframe-empty-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for empty iframe test
+summary: Expected Blink accessibility tree dump for an empty iframe test page, showing nested rootWebArea and ignored containers.

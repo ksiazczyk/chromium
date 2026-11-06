@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for img link with empty alt
+summary: Expected Android assist data snapshot for a test page with links containing images with empty alt text.

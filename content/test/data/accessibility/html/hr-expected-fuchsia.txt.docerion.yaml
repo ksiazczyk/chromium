@@ -1,0 +1,4 @@
+# Docerion header of hr-expected-fuchsia.txt.
+type: test
+title: Expected accessibility tree for hr on Fuchsia
+summary: Expected Fuchsia accessibility tree for the hr test page, showing paragraphs and labeled divider nodes around the hr elements.

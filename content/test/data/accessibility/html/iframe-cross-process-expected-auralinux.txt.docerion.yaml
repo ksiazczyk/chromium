@@ -1,0 +1,4 @@
+# Docerion header of iframe-cross-process-expected-auralinux.txt.
+type: test
+title: Expected Linux accessibility tree for cross-process iframe test
+summary: Expected Linux accessibility tree dump for the cross-process iframe test, listing paragraph, section and internal frame roles with their text.

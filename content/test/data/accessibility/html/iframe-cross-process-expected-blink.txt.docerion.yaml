@@ -1,0 +1,4 @@
+# Docerion header of iframe-cross-process-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for cross-process iframe test
+summary: Expected Blink accessibility tree dump for the cross-process iframe test, showing rootWebArea, iframe and staticText nodes with inline text boxes.

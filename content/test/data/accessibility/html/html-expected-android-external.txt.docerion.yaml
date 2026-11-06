@@ -1,0 +1,4 @@
+# Docerion header of html-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for html test
+summary: Expected Android external accessibility tree snapshot for the html test page, describing roles, actions and descriptions of the rendered elements.

@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-expected-android.txt.
+type: test
+title: Ignored selection expected output for Android
+summary: Expected Android accessibility tree for the ignored-selection test, listing the non-ignored text nodes and the Done marker.

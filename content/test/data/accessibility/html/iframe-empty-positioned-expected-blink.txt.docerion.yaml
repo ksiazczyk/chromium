@@ -1,0 +1,4 @@
+# Docerion header of iframe-empty-positioned-expected-blink.txt.
+type: test
+title: iframe-empty-positioned expected output for Blink
+summary: Expected Blink accessibility tree for the iframe-empty-positioned test with two offscreen iframes.

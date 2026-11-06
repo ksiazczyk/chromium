@@ -1,0 +1,4 @@
+# Docerion header of iframe-transform-cross-process-expected-blink.txt.
+type: test
+title: iframe-transform-cross-process expected Blink tree
+summary: Expected Blink accessibility tree for the cross-process iframe transform test, showing image positions and sizes inside plain and scaled iframes.

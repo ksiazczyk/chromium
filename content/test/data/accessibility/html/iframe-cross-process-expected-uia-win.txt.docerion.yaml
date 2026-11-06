@@ -1,0 +1,4 @@
+# Docerion header of iframe-cross-process-expected-uia-win.txt.
+type: test
+title: Expected Windows UIA accessibility tree for cross-process iframe test
+summary: Expected Windows UIA accessibility tree dump for the cross-process iframe test with Document, Group and Text elements.

@@ -1,0 +1,4 @@
+# Docerion header of img-empty-alt-expected-fuchsia.txt.
+type: test
+title: Expected Fuchsia accessibility tree for empty alt images
+summary: Expected Fuchsia accessibility tree snapshot for the img-empty-alt test page, listing image and static text nodes for empty alt cases.

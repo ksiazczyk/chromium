@@ -1,0 +1,4 @@
+# Docerion header of hr-expected-win.txt.
+type: test
+title: Expected accessibility tree for hr on Windows
+summary: Expected Windows IA2 accessibility tree for the hr test page with separator roles and static text for paragraphs around the hr elements.

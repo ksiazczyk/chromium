@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-expected-android-external.txt.
+type: test
+title: Ignored selection expected output for Android external
+summary: Expected Android external-form accessibility tree for the ignored-selection test, showing extended selection offsets around ignored text.

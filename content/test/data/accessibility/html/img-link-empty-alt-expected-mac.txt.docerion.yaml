@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-expected-mac.txt.
+type: test
+title: Expected Mac tree for img-link-empty-alt
+summary: Expected macOS accessibility tree for the img-link-empty-alt test page, showing AXLink elements with descriptions and static text.

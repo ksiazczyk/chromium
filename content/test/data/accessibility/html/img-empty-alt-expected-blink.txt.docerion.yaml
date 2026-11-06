@@ -1,0 +1,4 @@
+# Docerion header of img-empty-alt-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for empty alt images
+summary: Expected Blink accessibility tree snapshot for the img-empty-alt test page, showing how images with empty alt attributes are exposed.

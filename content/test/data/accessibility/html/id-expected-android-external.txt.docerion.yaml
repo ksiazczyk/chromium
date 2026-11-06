@@ -1,0 +1,4 @@
+# Docerion header of id-expected-android-external.txt.
+type: test
+title: Expected Android external accessibility tree for id attribute test
+summary: Expected Android external accessibility snapshot for the id test page, including the viewIdResName for the paragraph with id para2.

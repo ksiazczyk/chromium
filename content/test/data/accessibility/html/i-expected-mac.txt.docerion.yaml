@@ -1,0 +1,4 @@
+# Docerion header of i-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for the i tag test
+summary: Expected macOS accessibility tree snapshot for a paragraph containing text marked with the i italic tag.

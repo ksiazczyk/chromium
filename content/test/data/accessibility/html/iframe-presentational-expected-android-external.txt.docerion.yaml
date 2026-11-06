@@ -1,0 +1,4 @@
+# Docerion header of iframe-presentational-expected-android-external.txt.
+type: test
+title: iframe-presentational expected Android external output
+summary: Expected Android external accessibility output for the iframe-presentational test, showing WebView and view roles around a presentational iframe.

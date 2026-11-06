@@ -1,0 +1,4 @@
+# Docerion header of iframe-srcdoc-changed-expected-fuchsia.txt.
+type: test
+title: iframe-srcdoc-changed expected Fuchsia accessibility tree
+summary: Expected Fuchsia accessibility tree snapshot for the iframe srcdoc change test with the updated document labeled done.

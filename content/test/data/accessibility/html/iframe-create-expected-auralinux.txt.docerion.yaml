@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-expected-auralinux.txt.
+type: test
+title: iframe-create expected AuLinux accessibility tree
+summary: Expected AuLinux accessibility tree snapshot for the iframe-create test, showing a link named done inside an internal frame.

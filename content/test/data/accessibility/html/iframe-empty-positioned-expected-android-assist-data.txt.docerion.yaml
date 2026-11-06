@@ -1,0 +1,4 @@
+# Docerion header of iframe-empty-positioned-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for positioned empty iframe test
+summary: Empty expected output file for the Android assist data of the positioned empty iframe test.

@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-set.html.
+type: test
+title: img-link-empty-alt-set test page
+summary: HTML test page that sets the alt attribute of an image inside a link after load and signals completion via the document title.

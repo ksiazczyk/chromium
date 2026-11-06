@@ -1,0 +1,4 @@
+# Docerion header of heading-with-headingoffset-expected-android-assist-data.txt.
+type: test
+title: Expected Android assist data for heading with headingoffset test
+summary: Empty expected snapshot of Android assist data for the headingoffset heading accessibility test.

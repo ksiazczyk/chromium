@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-between-text-expected-win.txt.
+type: test
+title: Ignored selection between text expected output for Windows
+summary: Expected Windows MSAA/IA2 accessibility tree for the ignored-selection-between-text test, including selection ranges and caret offsets.

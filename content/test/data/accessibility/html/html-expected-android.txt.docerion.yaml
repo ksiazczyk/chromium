@@ -1,0 +1,4 @@
+# Docerion header of html-expected-android.txt.
+type: test
+title: Expected Android accessibility tree for html test (skipped)
+summary: Placeholder marking the Android expectation for the html test page as skipped because it is not mapped.

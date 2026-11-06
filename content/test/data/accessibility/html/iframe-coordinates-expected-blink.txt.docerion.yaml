@@ -1,0 +1,4 @@
+# Docerion header of iframe-coordinates-expected-blink.txt.
+type: test
+title: Iframe coordinates expected Blink accessibility tree
+summary: Expected Blink accessibility tree snapshot for the iframe coordinates test with page locations, sizes, unclipped bounds and scroll offsets for buttons and iframes.

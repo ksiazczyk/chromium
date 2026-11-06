@@ -1,0 +1,4 @@
+# Docerion header of img-expected-mac.txt.
+type: test
+title: Expected macOS accessibility tree for img test
+summary: Expected macOS AX accessibility tree snapshot for the HTML image accessibility test page, listing AXImage and AXStaticText nodes.

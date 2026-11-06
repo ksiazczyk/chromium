@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-expected-blink.txt.
+type: test
+title: Input checkbox expected Blink accessibility tree
+summary: Expected Blink internal accessibility tree snapshot for the input checkbox test page, showing checkbox checked states including mixed.

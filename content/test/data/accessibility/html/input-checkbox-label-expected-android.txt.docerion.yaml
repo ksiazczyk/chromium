@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-label-expected-android.txt.
+type: test
+title: input-checkbox-label expected Android accessibility tree
+summary: Expected Android accessibility tree output for the labelled checkbox test, showing a CheckBox named Checkbox Title inside a WebView.

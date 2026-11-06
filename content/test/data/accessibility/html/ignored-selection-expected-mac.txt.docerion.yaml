@@ -1,0 +1,4 @@
+# Docerion header of ignored-selection-expected-mac.txt.
+type: test
+title: Ignored selection expected macOS accessibility tree
+summary: Expected macOS AX accessibility tree snapshot for the ignored-selection test with static text values and groups.

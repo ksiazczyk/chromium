@@ -1,0 +1,4 @@
+# Docerion header of iframe-cross-process-expected-win.txt.
+type: test
+title: Expected Windows IA2 accessibility tree for cross-process iframe test
+summary: Expected Windows IA2 accessibility tree dump for the cross-process iframe test, including ia2_hypertext annotations and role constants.

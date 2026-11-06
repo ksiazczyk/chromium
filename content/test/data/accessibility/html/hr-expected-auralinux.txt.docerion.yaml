@@ -1,0 +1,4 @@
+# Docerion header of hr-expected-auralinux.txt.
+type: test
+title: Expected accessibility tree for hr on Aura Linux
+summary: Expected Aura Linux accessibility tree for the hr test page, listing separators with the Dividing line label between paragraphs.

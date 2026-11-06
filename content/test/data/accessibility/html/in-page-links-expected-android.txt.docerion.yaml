@@ -1,0 +1,4 @@
+# Docerion header of in-page-links-expected-android.txt.
+type: test
+title: In-page links expected Android snapshot
+summary: Expected Android accessibility tree for the in-page-links test page with links, anchors, and paragraphs.

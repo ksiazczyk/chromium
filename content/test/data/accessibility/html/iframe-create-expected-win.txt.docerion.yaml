@@ -1,0 +1,4 @@
+# Docerion header of iframe-create-expected-win.txt.
+type: test
+title: iframe-create expected Windows IA2 accessibility tree
+summary: Expected Windows IA2 accessibility tree snapshot for the iframe-create test, showing a document with an internal frame containing a link named done.

@@ -1,0 +1,4 @@
+# Docerion header of input-checkbox-label-expected-blink.txt.
+type: test
+title: input-checkbox-label expected Blink accessibility tree
+summary: Expected Blink accessibility tree output for the labelled checkbox test, showing a checkBox named Checkbox Title with unchecked state.

@@ -1,0 +1,4 @@
+# Docerion header of img-link-empty-alt-expected-android.txt.
+type: test
+title: Expected Android tree for img link with empty alt
+summary: Expected Android accessibility tree snapshot for a test page with links containing images with empty alt text.

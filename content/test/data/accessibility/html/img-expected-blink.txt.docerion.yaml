@@ -1,0 +1,4 @@
+# Docerion header of img-expected-blink.txt.
+type: test
+title: Expected Blink accessibility tree for img test
+summary: Expected Blink accessibility tree snapshot for the HTML image accessibility test page, listing image and static text nodes.
