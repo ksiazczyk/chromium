@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings provider interface
+// summary: Declares OsSettingsProvider, a singleton API for querying OS theme settings such as preferred color scheme, contrast, accent color, and caret blink interval.
+// ---
+
 #ifndef UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_H_
 #define UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_H_
 

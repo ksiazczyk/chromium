@@ -1,0 +1,4 @@
+# Docerion header of generate_ozone_platform_list.py.
+type: script
+title: Ozone platform list code generator
+summary: Python code generator that produces platform_list.cc, .h and .txt files with platform identifiers and names, placing the default platform first.

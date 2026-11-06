@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform constructor list template declaration
+// summary: Header declaring the PlatformConstructorList template that stores static constructor function pointers for each compiled Ozone platform.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_CONSTRUCTOR_LIST_H_
 #define UI_OZONE_PLATFORM_CONSTRUCTOR_LIST_H_
 

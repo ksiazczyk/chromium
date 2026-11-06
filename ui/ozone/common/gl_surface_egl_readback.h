@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GLSurfaceEglReadback class declaration
+// summary: Declares a GL surface that renders into a pbuffer and reads pixels back into memory, letting subclasses process the pixel data.
+// ---
+
 #ifndef UI_OZONE_COMMON_GL_SURFACE_EGL_READBACK_H_
 #define UI_OZONE_COMMON_GL_SURFACE_EGL_READBACK_H_
 

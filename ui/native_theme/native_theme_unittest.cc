@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Native theme unit tests
+// summary: Unit tests for preferred color scheme, overrides, contrast, user color, and caret blink interval using a mock OS settings provider.
+// ---
+
 #include "ui/native_theme/native_theme.h"
 
 #include <optional>

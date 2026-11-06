@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the native_window_tracker component
+summary: GN build file that defines the native_window_tracker component and selects Aura, Mac, or Android sources and dependencies per platform.

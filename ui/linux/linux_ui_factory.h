@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux UI factory function declarations
+// summary: Declares factory functions for obtaining the default LinuxUi and LinuxUiTheme instances, listing all created themes, and querying the default system theme.
+// ---
+
 #ifndef UI_LINUX_LINUX_UI_FACTORY_H_
 #define UI_LINUX_LINUX_UI_FACTORY_H_
 

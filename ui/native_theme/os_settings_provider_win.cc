@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings provider for Windows implementation
+// summary: Implements the Windows OS settings provider, reading registry keys and system settings for dark mode, high contrast, accent color, and accessibility preferences.
+// ---
+
 #include "ui/native_theme/os_settings_provider_win.h"
 
 #include <windows.h>

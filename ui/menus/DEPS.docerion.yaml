@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ui/menus directory
+summary: Specifies the include rules that restrict which directories the ui/menus code may depend on.

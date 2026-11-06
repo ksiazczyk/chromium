@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of NativeWindowTracker
+// summary: Implements NativeWindowTracker for Aura by adding itself as an aura::WindowObserver and clearing its window pointer when the window is destroyed.
+// ---
+
 #include "ui/native_window_tracker/native_window_tracker_aura.h"
 
 #include <memory>

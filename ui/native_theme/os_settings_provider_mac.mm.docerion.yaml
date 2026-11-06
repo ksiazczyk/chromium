@@ -1,0 +1,4 @@
+# Docerion header of os_settings_provider_mac.mm.
+type: source
+title: OS settings provider for macOS implementation
+summary: Implements the macOS OS settings provider, observing Cocoa notifications for appearance, accessibility, scroller style, and system color changes.

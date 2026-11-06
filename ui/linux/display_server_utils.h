@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Linux display server utilities
+// summary: Declares helpers that pick the Ozone platform for the Linux desktop and report whether Wayland or X11 displays are available.
+// ---
+
 #ifndef UI_LINUX_DISPLAY_SERVER_UTILS_H_
 #define UI_LINUX_DISPLAY_SERVER_UTILS_H_
 

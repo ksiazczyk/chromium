@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native theme implementation
+// summary: Implements NativeTheme for Windows, painting themed controls with uxtheme handles and Skia and reading system caption style settings through WinRT closed-captioning interfaces.
+// ---
+
 #include "ui/native_theme/native_theme_win.h"
 
 #include <windows.h>

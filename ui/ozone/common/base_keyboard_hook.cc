@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base keyboard hook implementation
+// summary: Implements BaseKeyboardHook, deciding whether a key event should be captured based on the configured DOM codes and forwarding captured events to a callback.
+// ---
+
 #include "ui/ozone/common/base_keyboard_hook.h"
 
 #include <utility>

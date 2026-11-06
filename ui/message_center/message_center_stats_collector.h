@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageCenterStatsCollector class declaration
+// summary: Declares MessageCenterStatsCollector, a MessageCenterObserver that gathers per-notification statistics for UMA reporting.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_MESSAGE_CENTER_STATS_COLLECTOR_H_
 #define UI_MESSAGE_CENTER_MESSAGE_CENTER_STATS_COLLECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationViewBase unit tests
+// summary: Unit tests for NotificationViewBase that use a test subclass to exercise header, content, control buttons, and inline settings behavior.
+// ---
+
 #include "ui/message_center/views/notification_view_base.h"
 
 #include <memory>

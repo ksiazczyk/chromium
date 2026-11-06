@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ui/menus directory
+summary: Lists dfried@chromium.org as the owner responsible for the ui/menus directory.

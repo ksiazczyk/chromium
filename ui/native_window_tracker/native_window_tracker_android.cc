@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of NativeWindowTracker
+// summary: Implements NativeWindowTracker on Android by observing a WindowAndroid through ViewAndroidObserver and reporting when the observed view is destroyed.
+// ---
+
 #include "ui/native_window_tracker/native_window_tracker_android.h"
 
 #include <memory>

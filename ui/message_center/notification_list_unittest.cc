@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: notification_list_unittest.cc
+// summary: Unit tests for NotificationList covering adding, updating and removing notifications, priority ordering, and popup behavior with notification blockers.
+// ---
+
 #include "ui/message_center/notification_list.h"
 
 #include <stddef.h>

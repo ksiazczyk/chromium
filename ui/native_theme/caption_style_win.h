@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption style caching API for Windows
+// summary: Declares functions to enable and invalidate a process-wide cache of the Windows caption style read from system settings.
+// ---
+
 #ifndef UI_NATIVE_THEME_CAPTION_STYLE_WIN_H_
 #define UI_NATIVE_THEME_CAPTION_STYLE_WIN_H_
 

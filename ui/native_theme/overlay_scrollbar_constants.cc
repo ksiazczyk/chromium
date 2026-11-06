@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay scrollbar fade timing constants
+// summary: Provides fade delay and duration values for overlay scrollbars, varying with the fluent overlay scrollbar feature.
+// ---
+
 #include "ui/native_theme/overlay_scrollbar_constants.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageCenterObserver interface
+// summary: Defines the MessageCenterObserver interface with callbacks for notification changes, clicks, display, visibility, and quiet mode.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_MESSAGE_CENTER_OBSERVER_H_
 #define UI_MESSAGE_CENTER_MESSAGE_CENTER_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub LinuxUiDelegate class declaration
+// summary: Declares LinuxUiDelegateStub, a no-op LinuxUiDelegate used when no real X11 or Wayland platform delegate is available.
+// ---
+
 #ifndef UI_LINUX_LINUX_UI_DELEGATE_STUB_H_
 #define UI_LINUX_LINUX_UI_DELEGATE_STUB_H_
 

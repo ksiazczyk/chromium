@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuModelBridge implementation translating menu models to Java via JNI
+// summary: Implements the native side of MenuModelBridge, converting ui::MenuModel items such as commands, checks, radio buttons, separators and submenus into Java objects over JNI.
+// ---
+
 #include "ui/menus/android/menu_model_bridge.h"
 
 #include "base/android/jni_android.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ui/lottie
+summary: Maps the directory to the UI>GFX monorail component, the graphics-dev team email, and a Buganizer component.

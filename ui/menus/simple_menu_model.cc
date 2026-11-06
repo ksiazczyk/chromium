@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleMenuModel implementation
+// summary: Implements SimpleMenuModel, a MenuModel with an imperative API for adding command, check, radio, separator, and other menu items.
+// ---
+
 #include "ui/menus/simple_menu_model.h"
 
 #include <stddef.h>

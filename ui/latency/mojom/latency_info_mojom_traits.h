@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyInfo Mojom traits declarations
+// summary: Declares StructTraits, EnumTraits, and ArrayTraits for serializing ui::LatencyInfo over Mojo.
+// ---
+
 #ifndef UI_LATENCY_MOJOM_LATENCY_INFO_MOJOM_TRAITS_H_
 #define UI_LATENCY_MOJOM_LATENCY_INFO_MOJOM_TRAITS_H_
 

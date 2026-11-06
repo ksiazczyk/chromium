@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification input container implementation
+// summary: Implements the inline reply container with a textfield and send button for notifications, including styling, ink drop animation, and keyboard handling.
+// ---
+
 #include "ui/message_center/views/notification_input_container.h"
 
 #include <string>

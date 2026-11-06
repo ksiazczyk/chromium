@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptionStyle struct for caption appearance
+// summary: Declares the CaptionStyle struct holding caption colors, text size, shadow, font and window properties, with factory methods from a spec or system settings.
+// ---
+
 #ifndef UI_NATIVE_THEME_CAPTION_STYLE_H_
 #define UI_NATIVE_THEME_CAPTION_STYLE_H_
 

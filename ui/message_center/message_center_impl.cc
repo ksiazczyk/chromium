@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageCenterImpl implementation
+// summary: Implements the default MessageCenter, managing the notification list, observers, blockers, popup timers, and ChromeOS notification count limits.
+// ---
+
 #include "ui/message_center/message_center_impl.h"
 
 #include <algorithm>

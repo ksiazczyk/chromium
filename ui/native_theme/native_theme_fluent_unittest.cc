@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fluent native theme unit tests
+// summary: Unit tests verifying Fluent scrollbar arrow rect geometry, thumb painting, and metrics across arrow directions, states, and scale factors.
+// ---
+
 #include "ui/native_theme/native_theme_fluent.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of menu_controller_unittest.mm.
+type: test
+title: MenuControllerCocoa unit tests
+summary: Unit tests for MenuControllerCocoa covering menu building, item visibility, delegate callbacks, menu closing, and controller deallocation.

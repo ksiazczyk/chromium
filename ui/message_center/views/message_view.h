@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageView base class header
+// summary: Declares the MessageView base class for notification entries with observer, mode, and grouped notification interfaces.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_MESSAGE_VIEW_H_
 #define UI_MESSAGE_CENTER_VIEWS_MESSAGE_VIEW_H_
 

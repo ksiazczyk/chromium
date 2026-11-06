@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationBackgroundPainter header
+// summary: Declares a views::Painter that draws rounded-corner backgrounds for notifications in the message center.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_BACKGROUND_PAINTER_H_
 #define UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_BACKGROUND_PAINTER_H_
 

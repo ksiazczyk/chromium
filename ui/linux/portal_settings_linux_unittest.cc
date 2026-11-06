@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PortalSettingsLinux unit tests
+// summary: Unit tests for PortalSettingsLinux using mock D-Bus bus and object proxies to verify portal color scheme and accent color handling.
+// ---
+
 #include "ui/linux/portal_settings_linux.h"
 
 #include "base/memory/raw_ptr.h"

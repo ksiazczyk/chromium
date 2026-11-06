@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformObject factory for platform-specific objects
+// summary: Header for the PlatformObject template that creates platform-specific objects by calling the constructor matching the --ozone-platform flag.
+// ---
+
 #ifndef UI_OZONE_PLATFORM_OBJECT_H_
 #define UI_OZONE_PLATFORM_OBJECT_H_
 

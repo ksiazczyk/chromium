@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyInfo Mojom traits implementation
+// summary: Implements StructTraits and EnumTraits that map ui::LatencyInfo and its component types to their Mojom representations.
+// ---
+
 #include "ui/latency/mojom/latency_info_mojom_traits.h"
 
 #include "base/notreached.h"

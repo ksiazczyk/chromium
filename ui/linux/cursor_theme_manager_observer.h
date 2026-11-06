@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor theme manager observer interface
+// summary: Declares an observer interface notified when the cursor theme name or size changes.
+// ---
+
 #ifndef UI_LINUX_CURSOR_THEME_MANAGER_OBSERVER_H_
 #define UI_LINUX_CURSOR_THEME_MANAGER_OBSERVER_H_
 

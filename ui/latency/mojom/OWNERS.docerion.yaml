@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Latency Mojom file owners
+summary: Assigns ownership of the Mojom and Mojom traits files to the IPC security owners.

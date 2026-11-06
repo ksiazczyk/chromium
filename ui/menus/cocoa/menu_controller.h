@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuControllerCocoa interface header
+// summary: Declares the MenuControllerCocoa Objective-C class and delegate protocol that build an NSMenu from a cross-platform ui::MenuModel, with configurable menu icon scheme.
+// ---
+
 #ifndef UI_MENUS_COCOA_MENU_CONTROLLER_H_
 #define UI_MENUS_COCOA_MENU_CONTROLLER_H_
 

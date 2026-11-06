@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavButtonProvider interface
+// summary: Declares the NavButtonProvider interface for drawing and sizing window navigation buttons such as minimize, maximize, restore and close.
+// ---
+
 #ifndef UI_LINUX_NAV_BUTTON_PROVIDER_H_
 #define UI_LINUX_NAV_BUTTON_PROVIDER_H_
 

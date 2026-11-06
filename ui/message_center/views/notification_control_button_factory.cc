@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationControlButtonFactory implementation
+// summary: Creates notification control buttons as PaddedButton instances for use in the control buttons view.
+// ---
+
 #include "ui/message_center/views/notification_control_button_factory.h"
 
 #include "ui/message_center/views/padded_button.h"

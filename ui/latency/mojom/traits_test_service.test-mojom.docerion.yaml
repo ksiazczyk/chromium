@@ -1,0 +1,4 @@
+# Docerion header of traits_test_service.test-mojom.
+type: test
+title: Traits test service Mojom interface
+summary: Test-only Mojom interface that echoes a LatencyInfo back to the caller to verify serialization in unit tests.

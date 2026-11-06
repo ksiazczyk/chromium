@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac native theme class declaration
+// summary: Declares the NativeThemeMac class that overrides painting of menus, popup backgrounds, scrollbars, and system button colors for macOS.
+// ---
+
 #ifndef UI_NATIVE_THEME_NATIVE_THEME_MAC_H_
 #define UI_NATIVE_THEME_NATIVE_THEME_MAC_H_
 

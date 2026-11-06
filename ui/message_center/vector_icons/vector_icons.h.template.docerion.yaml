@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.h.template.
+type: source
+title: vector_icons.h.template
+summary: Template that is processed to generate vector_icons.h, declaring exported message center vector icon symbols.

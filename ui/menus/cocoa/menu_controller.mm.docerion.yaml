@@ -1,0 +1,4 @@
+# Docerion header of menu_controller.mm.
+type: source
+title: MenuControllerCocoa implementation
+summary: Implements MenuControllerCocoa, turning ui::MenuModel items into NSMenu entries with icons, empty submenus, and macOS version-specific icon handling.

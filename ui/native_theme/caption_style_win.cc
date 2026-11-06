@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows caption style from closed captioning settings
+// summary: Reads Windows closed captioning settings via WinRT and the registry, mapping caption themes and styles to CSS values for CaptionStyle.
+// ---
+
 #include "ui/native_theme/caption_style.h"
 
 #include <Windows.Media.ClosedCaptioning.h>

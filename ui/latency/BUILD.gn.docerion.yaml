@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ui/latency directory
+summary: Defines the latency and test_support source sets and the latency_unittests test target with their sources and dependencies.

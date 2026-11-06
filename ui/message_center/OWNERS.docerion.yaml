@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the message center directory
+summary: Lists the Chromium developers responsible for reviewing changes to the message center directory.

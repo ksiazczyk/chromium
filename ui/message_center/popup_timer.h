@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: popup_timer.h
+// summary: Declares PopupTimer, a class managing the timeout behavior of a single notification popup with a weakly referenced delegate callback.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_POPUP_TIMER_H_
 #define UI_MESSAGE_CENTER_POPUP_TIMER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: notification_blocker_unittest.cc
+// summary: Unit tests verifying that a NotificationBlocker registers with the message center only after Init() is called and that initializing it twice crashes the program.
+// ---
+
 #include "ui/message_center/notification_blocker.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

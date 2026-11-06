@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrollbar feature flags and overlay scrollbar logic
+// summary: Implements Chromium feature flags for scrollbar mode, animations, and mouse-enter flash, plus helpers deciding overlay and fluent scrollbar use per platform.
+// ---
+
 #include "ui/native_theme/features/native_theme_features.h"
 
 #include "base/feature_list.h"

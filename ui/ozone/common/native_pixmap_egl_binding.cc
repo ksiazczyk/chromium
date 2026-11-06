@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native pixmap to EGL image GL binding implementation
+// summary: Creates EGLImages from native pixmaps and binds them to GL textures, mapping shared image formats to DRM fourcc codes for Ozone.
+// ---
+
 #include "ui/ozone/common/native_pixmap_egl_binding.h"
 
 #include <array>

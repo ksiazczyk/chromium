@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings provider for macOS (header)
+// summary: Declares the macOS OsSettingsProvider implementation that reports preferred color scheme, contrast, transparency, and other OS appearance settings.
+// ---
+
 #ifndef UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_MAC_H_
 #define UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_MAC_H_
 

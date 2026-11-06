@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base keyboard hook class for Ozone platforms
+// summary: Declares BaseKeyboardHook, the base PlatformKeyboardHook implementation that stores DOM codes and a key event callback for browser-level key locking.
+// ---
+
 #ifndef UI_OZONE_COMMON_BASE_KEYBOARD_HOOK_H_
 #define UI_OZONE_COMMON_BASE_KEYBOARD_HOOK_H_
 

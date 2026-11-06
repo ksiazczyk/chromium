@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitmap cursor implementation
+// summary: Implements BitmapCursor, a PlatformCursor backed by SkBitmaps with a hotspot, frame delay, scale factor, and optional platform data.
+// ---
+
 #include "ui/ozone/common/bitmap_cursor.h"
 
 #include <algorithm>

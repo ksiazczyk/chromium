@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen controller interface
+// summary: Defines the abstract LockScreenController interface that decouples lock screen behavior, such as deferred callbacks after unlock, from MessageCenterImpl.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_LOCK_SCREEN_LOCK_SCREEN_CONTROLLER_H_
 #define UI_MESSAGE_CENTER_LOCK_SCREEN_LOCK_SCREEN_CONTROLLER_H_
 

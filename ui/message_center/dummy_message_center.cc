@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy MessageCenter for Android and Fuchsia
+// summary: Provides an empty MessageCenter implementation so Chrome builds on Android and Fuchsia, which lack a notification system, compile and link without scattered compile-time flags.
+// ---
+
 #include "build/build_config.h"
 #include "ui/message_center/message_center.h"
 

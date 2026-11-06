@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitmap cursor class declaration
+// summary: Declares BitmapCursor, a PlatformCursor combining SkBitmaps with a hotspot that supports single, animated, server-side, and theme cursors.
+// ---
+
 #ifndef UI_OZONE_COMMON_BITMAP_CURSOR_H_
 #define UI_OZONE_COMMON_BITMAP_CURSOR_H_
 

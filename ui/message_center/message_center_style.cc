@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center style helper implementation
+// summary: Implements GetImageSizeForContainerSize, which scales notification images to fit a container while preserving aspect ratio.
+// ---
+
 #include "ui/message_center/message_center_style.h"
 
 #include <algorithm>

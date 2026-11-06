@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the ui/menus component
+summary: Defines the menus component build targets, including platform-specific sources for Mac and Android, dependencies, and the unit test source set.

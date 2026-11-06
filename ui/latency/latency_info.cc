@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyInfo implementation
+// summary: Implements the LatencyInfo class, including component verification and Perfetto trace event output for input latency.
+// ---
+
 #include "ui/latency/latency_info.h"
 
 #include <stddef.h>

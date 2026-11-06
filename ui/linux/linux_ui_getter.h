@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LinuxUiGetter interface
+// summary: Declares the LinuxUiGetter abstract class with methods to get a LinuxUiTheme for a window or profile via a global instance.
+// ---
+
 #ifndef UI_LINUX_LINUX_UI_GETTER_H_
 #define UI_LINUX_LINUX_UI_GETTER_H_
 

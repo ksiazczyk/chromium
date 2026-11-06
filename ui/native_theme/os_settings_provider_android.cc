@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OS settings provider implementation
+// summary: Implements the Android OsSettingsProvider, bridging JNI calls for the preferred color scheme and observing accessibility state for contrast, inversion, and caret blink settings.
+// ---
+
 #include "ui/native_theme/os_settings_provider_android.h"
 
 #include <utility>

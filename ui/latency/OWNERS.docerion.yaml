@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ui/latency
+summary: Lists the code owners responsible for reviewing changes to the latency info code.

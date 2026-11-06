@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification view implementation
+// summary: Implements NotificationView, the notification rendering for platforms other than ChromeOS, with header, title, actions, inline settings, and snooze UI.
+// ---
+
 #include "ui/message_center/views/notification_view.h"
 
 #include <memory>

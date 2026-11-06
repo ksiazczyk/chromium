@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message popup collection implementation
+// summary: Implements the container that manages notification popup widgets, including fade and move animations, popup timers, and updates on notification changes.
+// ---
+
 #include "ui/message_center/views/message_popup_collection.h"
 
 #include <algorithm>

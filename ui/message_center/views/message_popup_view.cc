@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message popup view implementation
+// summary: Implements the widget delegate for a single notification popup, handling accessibility announcements, focus tracking, opacity, bounds, and content updates.
+// ---
+
 #include "ui/message_center/views/message_popup_view.h"
 
 #include "build/build_config.h"

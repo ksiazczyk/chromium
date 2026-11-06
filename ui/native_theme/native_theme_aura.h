@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura native theme header
+// summary: Declares NativeThemeAura, the Aura implementation of NativeThemeBase that overrides scrollbar, arrow, and menu popup painting behavior.
+// ---
+
 #ifndef UI_NATIVE_THEME_NATIVE_THEME_AURA_H_
 #define UI_NATIVE_THEME_NATIVE_THEME_AURA_H_
 

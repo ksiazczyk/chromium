@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification view class declaration
+// summary: Declares NotificationView, a NotificationViewBase subclass for non-ChromeOS notifications, listing overrides for header, settings, layout, and theming.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_VIEW_H_
 #define UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_VIEW_H_
 

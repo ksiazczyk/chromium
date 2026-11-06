@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: notification_blocker.cc
+// summary: Implements the NotificationBlocker base class, handling registration with the message center, observer management, and blocking state change notifications.
+// ---
+
 #include "ui/message_center/notification_blocker.h"
 
 #include "base/observer_list.h"

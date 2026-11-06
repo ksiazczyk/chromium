@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuModelBridge class declaration for Android menus
+// summary: Declares the MenuModelBridge class, which translates ui::MenuModel into a Java list of menu models for the Android UI.
+// ---
+
 #ifndef UI_MENUS_ANDROID_MENU_MODEL_BRIDGE_H_
 #define UI_MENUS_ANDROID_MENU_MODEL_BRIDGE_H_
 

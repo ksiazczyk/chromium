@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lottie Animation class declaration
+// summary: Declares the Animation wrapper around Skia skottie with playback styles, cycle boundaries, and usage examples for rendering frames.
+// ---
+
 #ifndef UI_LOTTIE_ANIMATION_H_
 #define UI_LOTTIE_ANIMATION_H_
 

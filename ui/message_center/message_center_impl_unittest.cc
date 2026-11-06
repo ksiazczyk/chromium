@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageCenterImpl unit tests
+// summary: Unit tests for MessageCenterImpl covering notification add, update, removal, observer callbacks, blockers, and popup behavior.
+// ---
+
 #include "ui/message_center/message_center_impl.h"
 
 #include <memory>

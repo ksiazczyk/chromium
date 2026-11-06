@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bitmap cursor factory implementation
+// summary: Implements BitmapCursorFactory methods that create and cache default, image, and animated bitmap cursors for platforms using bitmapped cursors.
+// ---
+
 #include "ui/ozone/common/bitmap_cursor_factory.h"
 
 #include <algorithm>

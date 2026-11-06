@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageView implementation
+// summary: Implements the base view for notification entries, covering focus rings, shadows, slide-out gestures, and accessibility.
+// ---
+
 #include "ui/message_center/views/message_view.h"
 
 #include "base/observer_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fluent scrollbar native theme implementation
+// summary: Implements the Fluent-style native theme with rounded overlay scrollbars, font-based arrow glyphs, and high-contrast track outlines for Windows-style scrollbars.
+// ---
+
 #include "ui/native_theme/native_theme_fluent.h"
 
 #include <algorithm>

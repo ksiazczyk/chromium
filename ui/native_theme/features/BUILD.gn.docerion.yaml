@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the native theme features component
+summary: Defines the features build target that compiles the native theme feature flag sources with a dependency on //base.

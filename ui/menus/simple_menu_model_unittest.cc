@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleMenuModel unit tests
+// summary: Unit tests covering SimpleMenuModel behavior such as separators, labels, accelerators, enabled state, and delegate interactions.
+// ---
+
 #include "ui/menus/simple_menu_model.h"
 
 #include "base/strings/string_util.h"

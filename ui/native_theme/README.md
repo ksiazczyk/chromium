@@ -1,3 +1,11 @@
+---
+type: readme
+title: Native Theme Rendering for UI
+summary: Explains that the directory draws UI elements natively or by emulation and introduces NativeTheme as the cross-platform API for dark mode state and drawing UI.
+relations:
+  - references /ui/native_theme/native_theme.h
+---
+
 # Native Theme Rendering for UI
 
 This directory contains source needed to draw UI elements in a native fashion,

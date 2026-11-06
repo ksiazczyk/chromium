@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty lock screen controller header
+// summary: Declares EmptyLockScreenController, a no-op LockScreenController subclass for cases where no lock screen behavior is needed.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_LOCK_SCREEN_EMPTY_LOCK_SCREEN_CONTROLLER_H_
 #define UI_MESSAGE_CENTER_LOCK_SCREEN_EMPTY_LOCK_SCREEN_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings provider for Windows (header)
+// summary: Declares the Windows OsSettingsProvider class with registry observers for themes, color filtering, and accessibility settings.
+// ---
+
 #ifndef UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_WIN_H_
 #define UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_WIN_H_
 

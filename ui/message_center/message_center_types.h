@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center shared enums
+// summary: Defines shared enums for message center visibility, notification display source, and quiet mode source type.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_MESSAGE_CENTER_TYPES_H_
 #define UI_MESSAGE_CENTER_MESSAGE_CENTER_TYPES_H_
 

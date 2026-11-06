@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android OS settings provider class declaration
+// summary: Declares OsSettingsProviderAndroid, which supplies Android OS theme preferences like color scheme, high contrast, inverted colors, and caret blink interval.
+// ---
+
 #ifndef UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_ANDROID_H_
 #define UI_NATIVE_THEME_OS_SETTINGS_PROVIDER_ANDROID_H_
 

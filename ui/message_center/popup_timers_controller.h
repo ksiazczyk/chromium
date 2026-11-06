@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupTimersController header managing notification popup timers
+// summary: Declares PopupTimersController, a MessageCenterObserver that creates, starts, pauses and cancels per-notification popup timers and configures default and high-priority timeout values.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_POPUP_TIMERS_CONTROLLER_H_
 #define UI_MESSAGE_CENTER_POPUP_TIMERS_CONTROLLER_H_
 

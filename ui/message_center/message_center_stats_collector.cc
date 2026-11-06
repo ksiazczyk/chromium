@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageCenterStatsCollector implementation
+// summary: Implements the stats collector that records notification actions and notifier types as UMA histograms and user metrics.
+// ---
+
 
 #include "ui/message_center/message_center_stats_collector.h"
 

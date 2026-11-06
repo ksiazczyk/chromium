@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub overlay manager implementation
+// summary: Implements StubOverlayManager, whose CreateOverlayCandidates always returns null, providing a no-op overlay manager for Ozone platforms.
+// ---
+
 #include "ui/ozone/common/stub_overlay_manager.h"
 
 #include <memory>

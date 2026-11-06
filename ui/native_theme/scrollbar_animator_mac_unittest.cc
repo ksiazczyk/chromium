@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS scrollbar animator unit tests
+// summary: Unit tests for the macOS overlay scrollbar animator, verifying fade out, fade in, thumb expansion, and mouse tracking behavior with mock time.
+// ---
+
 #include "ui/native_theme/scrollbar_animator_mac.h"
 
 #include "base/logging.h"

@@ -4,6 +4,12 @@
 
 // Defines all the command-line switches used by native theme
 
+// ---docerion
+// type: source
+// title: Declarations for native theme scrollbar features
+// summary: Declares the ScrollbarMode enum, scrollbar-related base features, and helper functions for overlay and fluent scrollbar state used across native theme code.
+// ---
+
 #ifndef UI_NATIVE_THEME_FEATURES_NATIVE_THEME_FEATURES_H_
 #define UI_NATIVE_THEME_FEATURES_NATIVE_THEME_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings provider core implementation
+// summary: Implements the OsSettingsProvider singleton that resolves the active platform provider by priority level and notifies registered callbacks when OS theme-related settings change.
+// ---
+
 #include "ui/native_theme/os_settings_provider.h"
 
 #include <array>

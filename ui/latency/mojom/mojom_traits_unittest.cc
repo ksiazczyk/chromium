@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LatencyInfo Mojom traits unit tests
+// summary: Unit tests that verify LatencyInfo round-trips correctly through its Mojom serialization via the traits test service.
+// ---
+
 #include <utility>
 
 #include "base/test/task_environment.h"

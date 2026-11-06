@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake MessageCenter implementation for tests
+// summary: Implements a mostly stubbed MessageCenter backed by a NotificationList so tests can exercise notification behavior without the real service.
+// ---
+
 #include "ui/message_center/fake_message_center.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center style helper header
+// summary: Declares GetImageSizeForContainerSize for scaling notification images to fit a given container size.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_MESSAGE_CENTER_STYLE_H_
 #define UI_MESSAGE_CENTER_MESSAGE_CENTER_STYLE_H_
 

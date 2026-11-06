@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Ozone common source set
+summary: GN build file that defines the Ozone common source set, its dependencies and visibility, and a unit test target for the bitmap cursor factory.

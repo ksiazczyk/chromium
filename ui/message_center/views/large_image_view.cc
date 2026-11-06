@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large image view implementation
+// summary: Implements the notification large image view that resizes, crops and optionally rounds the image so it fits within the view's maximum size constraints.
+// ---
+
 #include "ui/message_center/views/large_image_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

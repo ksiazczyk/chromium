@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub LinuxUiDelegate implementation
+// summary: Provides a stub LinuxUiDelegate that reports the stub backend and runs window handle export callbacks with an empty string.
+// ---
+
 #include "ui/linux/linux_ui_delegate_stub.h"
 
 #include "base/functional/callback.h"

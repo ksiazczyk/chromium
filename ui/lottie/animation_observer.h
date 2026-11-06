@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationObserver interface for Lottie animations
+// summary: Defines observer callbacks for animation start, cycle completion, resume, painted frames, stop, and deletion events.
+// ---
+
 #ifndef UI_LOTTIE_ANIMATION_OBSERVER_H_
 #define UI_LOTTIE_ANIMATION_OBSERVER_H_
 

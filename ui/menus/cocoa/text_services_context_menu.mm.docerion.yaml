@@ -1,0 +1,4 @@
+# Docerion header of text_services_context_menu.mm.
+type: source
+title: TextServicesContextMenu implementation
+summary: Implements the Speech and BiDi context menu commands, including macOS version workarounds for speech synthesis behavior.

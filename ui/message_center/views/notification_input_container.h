@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification input container class declaration
+// summary: Declares NotificationInputContainer and its delegate interface for a notification textfield with send button, plus layout, padding, and styling hooks.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_INPUT_CONTAINER_H_
 #define UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_INPUT_CONTAINER_H_
 

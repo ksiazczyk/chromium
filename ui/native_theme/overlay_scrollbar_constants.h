@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay scrollbar constants header
+// summary: Declares overlay scrollbar stroke width, thumb width, and thickness constants plus fade timing accessor functions.
+// ---
+
 #ifndef UI_NATIVE_THEME_OVERLAY_SCROLLBAR_CONSTANTS_H_
 #define UI_NATIVE_THEME_OVERLAY_SCROLLBAR_CONSTANTS_H_
 

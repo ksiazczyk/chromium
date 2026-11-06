@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for message center
+summary: Defines the include_rules listing which directories message center code is allowed to include headers from.

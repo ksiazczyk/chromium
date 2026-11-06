@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message center unit test entry point
+// summary: Main entry point that initializes GL, resource bundles, Mojo, and accessibility test support, then launches the message center unit test suite.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/functional/bind.h"
 #include "base/path_service.h"

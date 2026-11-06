@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for display server utilities
+// summary: Unit tests verifying Ozone platform selection from session type, display variables, Wayland sockets, and command line switches.
+// ---
+
 #include "ui/linux/display_server_utils.h"
 
 #include <optional>

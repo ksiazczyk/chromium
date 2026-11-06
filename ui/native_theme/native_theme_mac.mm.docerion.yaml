@@ -1,0 +1,4 @@
+# Docerion header of native_theme_mac.mm.
+type: source
+title: Mac native theme implementation
+summary: Implements macOS-specific scrollbar colors and painting, menu backgrounds, and caption style change notifications using CoreFoundation and Skia.

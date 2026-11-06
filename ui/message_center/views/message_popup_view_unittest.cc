@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MessagePopupView
+// summary: Tests MessagePopupView behavior, including accessible attributes, using mock popup collections and views test fixtures.
+// ---
+
 #include "ui/message_center/views/message_popup_view.h"
 
 #include <memory>

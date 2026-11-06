@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message popup collection unit tests
+// summary: Unit tests for MessagePopupCollection using mock popup views and collections to verify popup creation, timers, animation, and notification handling behavior.
+// ---
+
 #include "ui/message_center/views/message_popup_collection.h"
 
 #include <vector>

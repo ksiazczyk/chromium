@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows native theme
+// summary: Tests NativeThemeWin with a fake WinRT closed-captioning statics interface that simulates caption property change events and verifies listener registration and notifications.
+// ---
+
 #include "ui/native_theme/native_theme_win.h"
 
 #include <windows.h>

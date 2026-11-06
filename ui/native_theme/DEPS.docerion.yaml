@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies for ui/native_theme
+summary: Lists the directories that code in ui/native_theme may include from, such as cc/paint, skia, ui/base, ui/color, ui/display and ui/gfx.

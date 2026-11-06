@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub client native pixmap factory implementation
+// summary: Implements a stub gfx::ClientNativePixmapFactory whose ImportFromHandle is never reached, for platforms that do not need to share native pixmaps.
+// ---
+
 #include <memory>
 
 #include "base/notreached.h"

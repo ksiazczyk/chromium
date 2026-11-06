@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationViewBase class header
+// summary: Declares the base view that renders notification types such as web, basic, image, and list notifications, including its subview IDs and update methods.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_VIEW_BASE_H_
 #define UI_MESSAGE_CENTER_VIEWS_NOTIFICATION_VIEW_BASE_H_
 

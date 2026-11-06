@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsSettingsProviderAndroidBridge JNI bridge for Android theme state
+// summary: Java JNI bridge that propagates Android-side UI theme state, such as the preferred dark or light color scheme, to the native C++ OsSettingsProviderAndroid.
+// ---
+
 package org.chromium.ui.native_theme;
 
 import org.jni_zero.JNINamespace;

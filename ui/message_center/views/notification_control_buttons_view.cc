@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification control buttons view implementation
+// summary: Implements the view hosting close, settings, and snooze control buttons on notifications, handling visibility, icons, colors, tooltips, and accessibility.
+// ---
+
 #include "ui/message_center/views/notification_control_buttons_view.h"
 
 #include <memory>

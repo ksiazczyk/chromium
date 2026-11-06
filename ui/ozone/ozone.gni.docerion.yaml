@@ -1,0 +1,4 @@
+# Docerion header of ozone.gni.
+type: config
+title: Ozone GN import placeholder
+summary: Placeholder GN import kept so the ANGLE project can keep referencing this file; it only imports the build config ozone.gni.

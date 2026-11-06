@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: notification_blocker.h
+// summary: Declares the NotificationBlocker base class that controls notification availability based on system state such as screen lock or fullscreen, with an Init() registration pattern.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_NOTIFICATION_BLOCKER_H_
 #define UI_MESSAGE_CENTER_NOTIFICATION_BLOCKER_H_
 

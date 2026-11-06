@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake lock screen controller header
+// summary: Declares FakeLockScreenController, a test fake of LockScreenController with setters and helpers to control lock state and pending callbacks.
+// ---
+
 #ifndef UI_MESSAGE_CENTER_LOCK_SCREEN_FAKE_LOCK_SCREEN_CONTROLLER_H_
 #define UI_MESSAGE_CENTER_LOCK_SCREEN_FAKE_LOCK_SCREEN_CONTROLLER_H_
 

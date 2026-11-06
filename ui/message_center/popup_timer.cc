@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: popup_timer.cc
+// summary: Implements PopupTimer, a per-popup one-shot timer that can be started and paused so notification popups are dismissed after their timeout.
+// ---
+
 #include "ui/message_center/popup_timer.h"
 #include "base/functional/bind.h"
 
