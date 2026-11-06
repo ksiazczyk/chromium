@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard lock browser test helpers
+// summary: Declares helper functions to set window focus and install creation hooks used by the keyboard lock browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_KEYBOARD_LOCK_BROWSERTEST_H_
 #define CONTENT_BROWSER_KEYBOARD_LOCK_BROWSERTEST_H_
 

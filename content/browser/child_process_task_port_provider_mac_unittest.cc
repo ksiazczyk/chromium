@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the macOS child process task port provider
+// summary: Unit tests exercising ChildProcessTaskPortProvider with a mocked ChildProcess Mojo interface to verify task port collection, observers, and cleanup.
+// ---
+
 #include "content/browser/child_process_task_port_provider_mac.h"
 
 #include <mach/mach.h>

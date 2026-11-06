@@ -1,0 +1,4 @@
+# Docerion header of sandbox_parameters_mac.mm.
+type: source
+title: Mac sandbox parameter setup implementation
+summary: Populates Mac sandbox serializer parameters such as Darwin user directories and OS version, with a feature restricting GPU access to Metal cache directories.

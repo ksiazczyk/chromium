@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedder isolation info
+// summary: Declares EmbedderIsolationInfo, which captures embedder-specified process isolation policy for PDF viewers, unique instances, and privileged features.
+// ---
+
 #ifndef CONTENT_BROWSER_EMBEDDER_ISOLATION_INFO_H_
 #define CONTENT_BROWSER_EMBEDDER_ISOLATION_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Console message logging header
+// summary: Declares LogConsoleMessage, a helper that optionally logs console messages depending on logging levels and incognito state.
+// ---
+
 #ifndef CONTENT_BROWSER_LOG_CONSOLE_MESSAGE_H_
 #define CONTENT_BROWSER_LOG_CONSOLE_MESSAGE_H_
 

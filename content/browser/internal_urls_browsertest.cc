@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for CSP headers on internal WebUI URLs
+// summary: Parameterized browser test asserting that internal WebUI pages respond with a Content-Security-Policy header and that page load logs no CSP violation messages.
+// ---
+
 #include <stdlib.h>
 
 #include "content/public/common/url_constants.h"

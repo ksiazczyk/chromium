@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service sandbox access granting and data migration
+// summary: Implements granting sandbox access to network context data directories, including migration of unsandboxed data and checkpoint handling.
+// ---
+
 #include "content/browser/network_sandbox.h"
 
 #include "base/dcheck_is_on.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global Privacy Control DevTools override API
+// summary: Declares functions for DevTools to set, reset, and query the Global Privacy Control override that takes precedence over the embedder's profile setting.
+// ---
+
 #ifndef CONTENT_BROWSER_GLOBAL_PRIVACY_CONTROL_UTIL_H_
 #define CONTENT_BROWSER_GLOBAL_PRIVACY_CONTROL_UTIL_H_
 

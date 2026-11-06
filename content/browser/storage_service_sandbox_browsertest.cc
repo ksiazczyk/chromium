@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage Service sandbox browser tests
+// summary: Browser tests checking that the sandboxed Storage Service launches, persists local storage data across restarts, and can compact its database.
+// ---
+
 #include <tuple>
 
 #include "base/run_loop.h"

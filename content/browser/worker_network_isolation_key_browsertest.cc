@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker network isolation key browser tests
+// summary: Browser tests verifying service and shared worker requests carry network isolation keys used for cache splitting.
+// ---
+
 #include "base/feature_list.h"
 #include "base/path_service.h"
 #include "base/strings/strcat.h"

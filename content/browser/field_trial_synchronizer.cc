@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialSynchronizer implementation
+// summary: Synchronizes finalized field trial groups and variations header changes to all renderer processes and records them in the persistent system profile.
+// ---
+
 #include "content/browser/field_trial_synchronizer.h"
 
 #include "base/check_op.h"

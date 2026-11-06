@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage partition config unit tests
+// summary: Unit tests verifying that the Less comparison of StoragePartitionConfig provides a strict weak ordering so configs can uniquely key a std::map.
+// ---
+
 #include "content/public/browser/storage_partition_config.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad message handling implementation
+// summary: Handles bad IPC messages from child processes by logging the reason, recording stability metrics, setting crash keys, and shutting down the offending renderer.
+// ---
+
 #include "content/browser/bad_message.h"
 
 #include "base/debug/crash_logging.h"

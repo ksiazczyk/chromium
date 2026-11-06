@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage partition map implementation
+// summary: Implements StoragePartitionImplMap, which creates and looks up storage partitions and builds, obliterates and garbage-collects their on-disk profile directories.
+// ---
+
 #include "content/browser/storage_partition_impl_map.h"
 
 #include <unordered_set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureObserver class declaration
+// summary: Declares FeatureObserver, a blink Mojo interface that tracks feature usage per frame and notifies a FeatureObserverClient when usage starts and stops.
+// ---
+
 #ifndef CONTENT_BROWSER_FEATURE_OBSERVER_H_
 #define CONTENT_BROWSER_FEATURE_OBSERVER_H_
 

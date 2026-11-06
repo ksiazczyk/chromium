@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows sandbox support implementation
+// summary: Implements the Windows sandbox support Mojo service that resolves locales to LCIDs and first-day-of-week values using Win32 locale APIs.
+// ---
+
 #include <windows.h>
 
 #include <string>

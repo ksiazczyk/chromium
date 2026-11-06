@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX child process launcher helper declarations
+// summary: Declares CreateDefaultPosixFilesToMap and OpenFileToShare, the common POSIX functionality used by the child process launcher implementations.
+// ---
+
 #ifndef CONTENT_BROWSER_CHILD_PROCESS_LAUNCHER_HELPER_POSIX_H_
 #define CONTENT_BROWSER_CHILD_PROCESS_LAUNCHER_HELPER_POSIX_H_
 

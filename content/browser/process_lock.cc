@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessLock implementation for site isolation
+// summary: Implements the ProcessLock class that determines which sites a renderer process may host and which site data it can access.
+// ---
+
 #include "content/browser/process_lock.h"
 
 #include "base/feature_list.h"

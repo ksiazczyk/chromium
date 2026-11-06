@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection allowlist utilities
+// summary: Implements checks for Connection-Allowlist headers, including redirect and URL enforcement, violation reporting, and WebRTC permission decisions.
+// ---
+
 #include "content/browser/connection_allowlist_utils.h"
 
 #include <optional>

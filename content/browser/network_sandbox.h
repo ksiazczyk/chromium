@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network sandbox access granting declarations
+// summary: Declares functions that grant sandbox access to network context data on a thread pool and then create the network context.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_SANDBOX_H_
 #define CONTENT_BROWSER_NETWORK_SANDBOX_H_
 

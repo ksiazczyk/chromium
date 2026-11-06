@@ -4,6 +4,12 @@
 
 // This file exposes services in the browser to child processes.
 
+// ---docerion
+// type: source
+// title: Browser child process receiver bindings
+// summary: Binds Mojo interfaces exposed by the browser to child processes, including sandbox support, font services and metrics receivers per platform.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/no_destructor.h"
 #include "base/task/thread_pool.h"

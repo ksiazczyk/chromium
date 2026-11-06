@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process host implementation
+// summary: Implements ChildProcessHost, including child executable path resolution across platforms and IPC channel handling for hosted child processes.
+// ---
+
 #include "content/browser/child_process_host_impl.h"
 
 #include <limits>

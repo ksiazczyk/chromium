@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationOrDocumentHandle for navigation-to-document event attribution
+// summary: Defines a ref-counted handle that attributes events to a navigation or a committed document, supporting seamless transfer when events race against the navigation.
+// ---
+
 #ifndef CONTENT_BROWSER_NAVIGATION_OR_DOCUMENT_HANDLE_H_
 #define CONTENT_BROWSER_NAVIGATION_OR_DOCUMENT_HANDLE_H_
 

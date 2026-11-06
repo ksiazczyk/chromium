@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextImpl class header
+// summary: Declares BrowserContextImpl, the content-internal companion of BrowserContext managing storage partitions, downloads and permissions.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSER_CONTEXT_IMPL_H_
 #define CONTENT_BROWSER_BROWSER_CONTEXT_IMPL_H_
 

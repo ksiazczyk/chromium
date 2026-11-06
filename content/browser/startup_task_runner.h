@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup task runner header
+// summary: Declares the StartupTaskRunner class that queues startup tasks and runs them asynchronously to keep the UI responsive, with an optional completion callback.
+// ---
+
 #ifndef CONTENT_BROWSER_STARTUP_TASK_RUNNER_H_
 #define CONTENT_BROWSER_STARTUP_TASK_RUNNER_H_
 

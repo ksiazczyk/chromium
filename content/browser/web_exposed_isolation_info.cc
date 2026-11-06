@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebExposedIsolationInfo implementation
+// summary: Implements the isolation info value type with factory methods, compatibility checks, ordering, and tracing support.
+// ---
+
 #include "content/browser/web_exposed_isolation_info.h"
 
 #include <ostream>

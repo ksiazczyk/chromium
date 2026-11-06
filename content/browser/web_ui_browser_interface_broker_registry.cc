@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI interface broker registry implementation
+// summary: Implements trusted and untrusted registries mapping WebUI types to MojoJS interface broker initializers for interface brokers.
+// ---
+
 #include "content/public/browser/web_ui_browser_interface_broker_registry.h"
 
 #include "content/public/browser/content_browser_client.h"

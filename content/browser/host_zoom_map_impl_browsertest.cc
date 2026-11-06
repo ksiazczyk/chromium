@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostZoomMapImpl browser tests
+// summary: Browser tests for HostZoomMapImpl covering per-host zoom levels, temporary zoom levels, and zoom persistence across fragment navigations on hostless URLs.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/metrics/field_trial_params.h"
 #include "base/test/scoped_feature_list.h"

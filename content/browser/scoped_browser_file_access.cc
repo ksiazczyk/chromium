@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped browser file access implementation
+// summary: Grants upload access to given files through child process security policy for the object's lifetime and revokes it on destruction.
+// ---
+
 #include "content/browser/scoped_browser_file_access.h"
 
 #include "content/browser/security/cpsp/child_process_security_policy_impl.h"

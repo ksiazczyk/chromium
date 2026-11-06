@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profiling data dump helper for child processes
+// summary: Asks renderer, GPU and other child processes to dump their profiling data and runs a callback once all dumps complete.
+// ---
+
 #include <memory>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectToFontService declaration
+// summary: Declares ConnectToFontService, which binds a receiver to the global in-process instance of the font service.
+// ---
+
 #ifndef CONTENT_BROWSER_FONT_SERVICE_H_
 #define CONTENT_BROWSER_FONT_SERVICE_H_
 

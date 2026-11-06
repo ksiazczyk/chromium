@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for content/browser
+summary: Defines which components, services and third-party code the content/browser directory is allowed to include.

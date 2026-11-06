@@ -1,3 +1,9 @@
+---
+type: readme
+title: Browser process core code overview
+summary: Explains that the directory contains the core code needed for the browser process of a multi-process sandboxed browser.
+---
+
 This directory contains the core code needed for the browser process of a
 [multi-process sandboxed browser].
 

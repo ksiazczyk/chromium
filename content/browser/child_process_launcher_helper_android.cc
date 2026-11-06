@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android child process launcher helper
+// summary: Android implementation that maps file descriptors such as ICU data, launches child processes via Java and manages spare renderer and service group importance.
+// ---
+
 #include "content/browser/child_process_launcher_helper.h"
 
 #include <memory>

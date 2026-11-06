@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin list implementation
+// summary: Implements the PluginList singleton that registers internal plugins and matches them against URLs, MIME types and file extensions.
+// ---
+
 #include "content/browser/plugin_list.h"
 
 #include <stddef.h>

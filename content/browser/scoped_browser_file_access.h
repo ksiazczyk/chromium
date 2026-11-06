@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped browser file access header
+// summary: Declares ScopedBrowserFileAccess, an RAII helper granting the network service file upload capability for browser-initiated uploads.
+// ---
+
 #ifndef CONTENT_BROWSER_SCOPED_BROWSER_FILE_ACCESS_H_
 #define CONTENT_BROWSER_SCOPED_BROWSER_FILE_ACCESS_H_
 

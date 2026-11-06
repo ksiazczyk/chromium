@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginServiceImpl header for the browser plugin service
+// summary: Declares the PluginServiceImpl singleton that answers renderer requests for plugin lists and plugin instances on the UI thread.
+// ---
+
 #ifndef CONTENT_BROWSER_PLUGIN_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_PLUGIN_SERVICE_IMPL_H_
 

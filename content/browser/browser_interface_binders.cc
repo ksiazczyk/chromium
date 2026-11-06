@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser interface binders registration
+// summary: Registers Mojo interface binder handlers for frames, workers and service workers, exposing browser services to renderer execution contexts.
+// ---
+
 #include "content/browser/browser_interface_binders.h"
 
 #include <concepts>

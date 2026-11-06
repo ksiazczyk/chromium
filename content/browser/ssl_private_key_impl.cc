@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL private key Mojo implementation
+// summary: Implements the browser-side Mojo SSLPrivateKey interface by forwarding signing requests to the underlying net::SSLPrivateKey.
+// ---
+
 #include "content/browser/ssl_private_key_impl.h"
 
 #include "base/functional/bind.h"

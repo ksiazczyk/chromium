@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Linux child thread type switcher
+// summary: Unit tests verifying that thread type changes adjust thread nice values on the named thread without affecting other threads.
+// ---
+
 #include "content/browser/child_thread_type_switcher_linux.h"
 
 #include <errno.h>

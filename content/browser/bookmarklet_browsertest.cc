@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarklet browser tests
+// summary: 'Browser tests checking javascript: URL (bookmarklet) behavior, including redirects, voided results, synchronous evaluation, and document.write.'
+// ---
+
 #include "base/strings/string_util.h"
 #include "base/strings/stringprintf.h"
 #include "content/public/browser/web_contents.h"

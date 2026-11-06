@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingInstance implementation
+// summary: Implements BrowsingInstance, managing SiteInstances for a unit of related browsing contexts and site isolation decisions.
+// ---
+
 #include "content/browser/browsing_instance.h"
 
 #include "base/check_op.h"

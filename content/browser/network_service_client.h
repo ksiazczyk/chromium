@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service client header
+// summary: Declares NetworkServiceClient, the browser-side observer handling certificate errors, auth challenges, trust store changes and network connectivity updates.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_SERVICE_CLIENT_H_
 #define CONTENT_BROWSER_NETWORK_SERVICE_CLIENT_H_
 

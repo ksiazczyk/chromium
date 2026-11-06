@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network sandbox grant result helper
+// summary: Implements the helper that decides whether the network context should use the sandboxed data directory or fall back to the unsandboxed path after a data migration attempt.
+// ---
+
 #include "content/browser/network_sandbox_grant_result_helper.h"
 
 #include "base/dcheck_is_on.h"

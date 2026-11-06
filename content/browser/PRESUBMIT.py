@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check for BadMessage histogram consistency
+# summary: Presubmit script that verifies BadMessage enum entries in histograms.xml match the bad_message.h header.
+# ---
+
 """Chromium presubmit script to check that BadMessage enums in histograms.xml
 match the corresponding bad_message.h file.
 """

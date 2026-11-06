@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EyeDropperChooserImpl class declaration
+// summary: Declares EyeDropperChooserImpl, a DocumentService that handles eye dropper selection requests and reports chosen or canceled colors back to the renderer.
+// ---
+
 #ifndef CONTENT_BROWSER_EYE_DROPPER_CHOOSER_IMPL_H_
 #define CONTENT_BROWSER_EYE_DROPPER_CHOOSER_IMPL_H_
 

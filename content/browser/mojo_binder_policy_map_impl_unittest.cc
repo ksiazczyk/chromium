@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MojoBinderPolicyMapImpl unit tests
+// summary: Unit tests for setting and querying Mojo binder policies, including embedder registration via ContentBrowserClient.
+// ---
+
 #include "content/browser/mojo_binder_policy_map_impl.h"
 
 #include "base/test/gtest_util.h"

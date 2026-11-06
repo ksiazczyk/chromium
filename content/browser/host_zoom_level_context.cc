@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host zoom level context implementation
+// summary: Implements HostZoomLevelContext, which owns a HostZoomMapImpl and initializes an optional zoom level delegate.
+// ---
+
 #include "content/browser/host_zoom_level_context.h"
 
 #include <utility>

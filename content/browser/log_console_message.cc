@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Console message logging implementation
+// summary: Implements LogConsoleMessage, which logs renderer console messages to the native log while respecting log level, incognito state and a feature flag.
+// ---
+
 #include "content/browser/log_console_message.h"
 
 #include "base/feature_list.h"

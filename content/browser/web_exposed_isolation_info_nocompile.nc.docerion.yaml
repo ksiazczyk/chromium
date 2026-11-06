@@ -1,0 +1,4 @@
+# Docerion header of web_exposed_isolation_info_nocompile.nc.
+type: test
+title: WebExposedIsolationInfo no-compile test
+summary: Compile-time test asserting that deleted comparison operators on WebExposedIsolationInfo fail to compile with expected errors.

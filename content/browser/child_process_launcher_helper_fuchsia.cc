@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia child process launcher helper
+// summary: Fuchsia implementation that applies the Fuchsia sandbox policy, sets process name suffixes and handles termination for launched child processes.
+// ---
+
 #include "content/browser/child_process_launcher_helper.h"
 
 #include "base/command_line.h"

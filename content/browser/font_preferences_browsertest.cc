@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font preferences browser tests
+// summary: Browser tests verifying that WebPreferences font family settings are honored when rendering generic CSS font families.
+// ---
+
 #include <stdlib.h>
 
 #include "base/strings/utf_string_conversions.h"

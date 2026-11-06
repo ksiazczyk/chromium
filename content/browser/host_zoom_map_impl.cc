@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host zoom map implementation
+// summary: Implements HostZoomMapImpl, storing per-host and per-scheme zoom levels, temporary zoom levels, and subframe zoom support on the UI thread.
+// ---
+
 #include "content/browser/host_zoom_map_impl.h"
 
 #include <algorithm>

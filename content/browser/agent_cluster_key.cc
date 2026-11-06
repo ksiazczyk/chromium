@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AgentClusterKey implementation
+// summary: Implements the browser-process AgentClusterKey with site-keyed, origin-keyed and cross-origin isolation key variants and equality logic.
+// ---
+
 #include "content/browser/agent_cluster_key.h"
 
 #include <variant>

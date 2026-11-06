@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo binder policy map implementation
+// summary: Implements MojoBinderPolicyMapImpl and registers per-interface binder policies used for same-origin prerendering capability control.
+// ---
+
 #include "content/browser/mojo_binder_policy_map_impl.h"
 
 #include <string_view>

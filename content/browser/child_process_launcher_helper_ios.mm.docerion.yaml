@@ -1,0 +1,4 @@
+# Docerion header of child_process_launcher_helper_ios.mm.
+type: source
+title: iOS child process launcher helper
+summary: iOS implementation using BrowserEngineKit to launch and track web content, networking and rendering processes, including capability grants and termination.

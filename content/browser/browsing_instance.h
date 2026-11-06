@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingInstance header
+// summary: Declares BrowsingInstance, grouping tabs and frames that can script each other, subdivided into per-site SiteInstances.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSING_INSTANCE_H_
 #define CONTENT_BROWSER_BROWSING_INSTANCE_H_
 

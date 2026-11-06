@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed process launcher delegate header
+// summary: Declares the delegate interface that lets child process launchers adjust sandbox policy, zygote use, and platform-specific launch options.
+// ---
+
 #ifndef CONTENT_BROWSER_SANDBOXED_PROCESS_LAUNCHER_DELEGATE_H_
 #define CONTENT_BROWSER_SANDBOXED_PROCESS_LAUNCHER_DELEGATE_H_
 

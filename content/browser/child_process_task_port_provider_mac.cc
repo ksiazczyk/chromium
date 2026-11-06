@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process task port provider for macOS
+// summary: Implements the singleton provider that collects Mach task ports from child processes on macOS and tracks them until the processes die.
+// ---
+
 #include "content/browser/child_process_task_port_provider_mac.h"
 
 #include <map>

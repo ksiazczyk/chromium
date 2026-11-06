@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource loading browser test
+// summary: Browser test that verifies a page loads its resources without duplicate downloads, using an embedded test server and resource timing checks.
+// ---
+
 #include <stdlib.h>
 
 #include "content/public/test/browser_test.h"

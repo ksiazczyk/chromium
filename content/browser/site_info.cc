@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteInfo implementation
+// summary: Implements SiteInfo, the security principal for a SiteInstance that computes site and process lock URLs to decide which documents share a renderer process.
+// ---
+
 #include "content/browser/site_info.h"
 
 #include <algorithm>

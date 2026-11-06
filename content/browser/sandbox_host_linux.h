@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sandbox host header
+// summary: Declares the SandboxHostLinux singleton that gives sandboxed processes a socket for communicating with the browser, such as reporting renderer crashes.
+// ---
+
 #ifndef CONTENT_BROWSER_SANDBOX_HOST_LINUX_H_
 #define CONTENT_BROWSER_SANDBOX_HOST_LINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux sandbox host implementation
+// summary: Implements the SandboxHostLinux singleton that creates a socketpair and IPC thread for handling requests from sandboxed child processes on Linux.
+// ---
+
 #include "content/browser/sandbox_host_linux.h"
 
 #include <sys/socket.h>

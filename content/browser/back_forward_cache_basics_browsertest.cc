@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache basic browser tests
+// summary: Browser tests for basic back/forward cache functionality such as navigation, responses and document structures, forked from the main bfcache test file.
+// ---
+
 #include <array>
 
 #include "base/strings/string_number_conversions.h"

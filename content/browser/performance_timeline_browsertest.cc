@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance timeline browser test
+// summary: Browser tests for the Performance Timeline API covering navigation IDs, UKM entries and devtools timeline trace events.
+// ---
+
 #include <string_view>
 
 #include "base/base_paths.h"

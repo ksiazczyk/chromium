@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte stream interfaces
+// summary: Declares ByteStreamWriter, ByteStreamReader and CreateByteStream, a pipe for moving bytes between threads, with usage examples and callback lifetime rules.
+// ---
+
 #ifndef CONTENT_BROWSER_BYTE_STREAM_H_
 #define CONTENT_BROWSER_BYTE_STREAM_H_
 

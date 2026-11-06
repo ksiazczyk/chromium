@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserURLHandlerImpl unit tests
+// summary: Unit tests covering basic URL rewrite and reverse behavior, null handlers, view-source query handling, and rewrite priority.
+// ---
+
 #include "content/browser/browser_url_handler_impl.h"
 #include "content/public/test/browser_task_environment.h"
 #include "content/public/test/test_browser_context.h"

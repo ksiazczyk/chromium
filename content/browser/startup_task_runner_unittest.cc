@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup task runner unit tests
+// summary: Unit tests for StartupTaskRunner covering synchronous and asynchronous task execution, failure handling, and completion callbacks using mocked task runners.
+// ---
+
 #include "content/browser/startup_task_runner.h"
 
 #include <utility>

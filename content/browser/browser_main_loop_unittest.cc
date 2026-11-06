@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserMainLoop unit tests
+// summary: Unit tests for BrowserMainLoop startup behavior, including main parts that abort startup and task runner setup.
+// ---
+
 #include "content/browser/browser_main_loop.h"
 
 #include "base/command_line.h"

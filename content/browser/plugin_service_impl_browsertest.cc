@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Plugin service browser test
+// summary: Browser test that registers a fake internal plugin and verifies GetPluginInfoByPathForTesting returns it from the plugin service.
+// ---
+
 #include "content/browser/plugin_service_impl.h"
 
 #include <memory>

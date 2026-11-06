@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Asynchronous font list retrieval
+// summary: Runs the blocking font list lookup on a background task runner and delivers the result through a callback.
+// ---
+
 #include "content/public/browser/font_list_async.h"
 
 #include <utility>

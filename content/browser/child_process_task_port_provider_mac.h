@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the macOS child process task port provider
+// summary: Declares ChildProcessTaskPortProvider, which maps child process handles to Mach task ports so the browser can manipulate its child processes.
+// ---
+
 #ifndef CONTENT_BROWSER_CHILD_PROCESS_TASK_PORT_PROVIDER_MAC_H_
 #define CONTENT_BROWSER_CHILD_PROCESS_TASK_PORT_PROVIDER_MAC_H_
 

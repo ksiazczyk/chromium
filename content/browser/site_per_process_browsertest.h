@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process browser test base classes
+// summary: Declares base classes and helpers shared by the site-per-process browser tests, including frame tree visualization and cert error handling variants.
+// ---
+
 #ifndef CONTENT_BROWSER_SITE_PER_PROCESS_BROWSERTEST_H_
 #define CONTENT_BROWSER_SITE_PER_PROCESS_BROWSERTEST_H_
 

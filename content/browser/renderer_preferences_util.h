@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for worker renderer preferences helper
+// summary: Declares UpdateRendererPreferencesForWorkerHelper, which updates worker renderer preferences with content-specific overrides.
+// ---
+
 #ifndef CONTENT_BROWSER_RENDERER_PREFERENCES_UTIL_H_
 #define CONTENT_BROWSER_RENDERER_PREFERENCES_UTIL_H_
 

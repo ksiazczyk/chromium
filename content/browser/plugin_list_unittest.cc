@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin list unit tests
+// summary: Unit tests for PluginList covering plugin registration, plugin listing and MIME type based plugin lookup.
+// ---
+
 #include "content/browser/plugin_list.h"
 
 #include <memory>

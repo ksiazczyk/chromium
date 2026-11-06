@@ -1,0 +1,4 @@
+# Docerion header of sandbox_mac_unittest.mm.
+type: test
+title: Mac sandbox unit tests
+summary: Multiprocess unit tests that serialize and execute Mac sandbox profiles across sandbox types, including GPU and network policy scenarios.

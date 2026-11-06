@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-WebUI browser interface broker
+// summary: Implements a browser interface broker for WebUI that binds registered Mojo interfaces and shuts down the renderer when an unregistered interface is requested.
+// ---
+
 #include "content/public/browser/per_web_ui_browser_interface_broker.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Linux child thread type switcher
+// summary: Declares ChildThreadTypeSwitcher, the browser-side mojom::ThreadTypeSwitcher that lets sandboxed processes change their thread priorities.
+// ---
+
 #ifndef CONTENT_BROWSER_CHILD_THREAD_TYPE_SWITCHER_LINUX_H_
 #define CONTENT_BROWSER_CHILD_THREAD_TYPE_SWITCHER_LINUX_H_
 

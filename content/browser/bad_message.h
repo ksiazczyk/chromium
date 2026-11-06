@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad message reason enum
+// summary: Declares the BadMessageReason enum listing reasons the browser terminates renderers for bad IPC messages, with values tracked in stability histograms.
+// ---
+
 #ifndef CONTENT_BROWSER_BAD_MESSAGE_H_
 #define CONTENT_BROWSER_BAD_MESSAGE_H_
 

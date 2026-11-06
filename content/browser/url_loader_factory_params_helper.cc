@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory params helper implementation
+// summary: Builds network::mojom::URLLoaderFactoryParams for frames, isolated worlds, prefetches and service workers, applying embedder overrides and security state.
+// ---
+
 #include "content/browser/url_loader_factory_params_helper.h"
 
 #include <optional>

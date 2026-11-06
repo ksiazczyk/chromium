@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteInstanceGroup browser tests
+// summary: "Parameterized browser tests checking whether data: URL subframes get their own SiteInstance in the initiator's SiteInstanceGroup or share the initiator's instance."
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "content/browser/process_lock.h"

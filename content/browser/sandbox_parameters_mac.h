@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac sandbox parameter setup header
+// summary: Declares helpers that populate Mac sandbox parameters for a given sandbox type, plus a test hook for network certificate directories.
+// ---
+
 #ifndef CONTENT_BROWSER_SANDBOX_PARAMETERS_MAC_H_
 #define CONTENT_BROWSER_SANDBOX_PARAMETERS_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX file descriptor info implementation
+// summary: Implements PosixFileDescriptorInfoImpl, which maps, shares, and transfers POSIX file descriptors handed to child processes.
+// ---
+
 #include "content/browser/posix_file_descriptor_info_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackForwardCacheBrowserTest fixture header
+// summary: Declares the shared BackForwardCacheBrowserTest fixture with feature setup helpers, matchers and observers used by the bfcache browser test files.
+// ---
+
 #ifndef CONTENT_BROWSER_BACK_FORWARD_CACHE_BROWSERTEST_H_
 #define CONTENT_BROWSER_BACK_FORWARD_CACHE_BROWSERTEST_H_
 

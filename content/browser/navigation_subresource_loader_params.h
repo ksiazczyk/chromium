@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubresourceLoaderParams struct for navigation subresource loaders
+// summary: Declares SubresourceLoaderParams carrying navigation parameters needed to set up a frame's subresource loader, including prefetched signed exchange info.
+// ---
+
 #ifndef CONTENT_BROWSER_NAVIGATION_SUBRESOURCE_LOADER_PARAMS_H_
 #define CONTENT_BROWSER_NAVIGATION_SUBRESOURCE_LOADER_PARAMS_H_
 

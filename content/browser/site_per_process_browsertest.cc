@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process browser tests
+// summary: Large suite of browser tests verifying site-per-process behavior, including cross-process frames, navigation, input, and frame tree structure.
+// ---
+
 #include "content/browser/site_per_process_browsertest.h"
 
 #include <stddef.h>

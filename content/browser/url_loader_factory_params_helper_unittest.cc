@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL loader factory params helper unit tests
+// summary: Unit tests verifying recently accessed main frame origin tracking and LRU cache eviction in URLLoaderFactoryParamsHelper.
+// ---
+
 #include "content/browser/url_loader_factory_params_helper.h"
 
 #include "base/memory/raw_ptr.h"

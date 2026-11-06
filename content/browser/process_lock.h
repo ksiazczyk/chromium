@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessLock class declaration for site isolation
+// summary: Declares the ProcessLock API used to lock processes to a site or allow any site, based on SiteInfo and isolation information.
+// ---
+
 #ifndef CONTENT_BROWSER_PROCESS_LOCK_H_
 #define CONTENT_BROWSER_PROCESS_LOCK_H_
 

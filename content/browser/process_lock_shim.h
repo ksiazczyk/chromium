@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Rust FFI shim functions for ProcessLock
+// summary: Declares the shim functions, including CreateInvalid, Clone and SetIsUsed, that expose ProcessLock to Rust bindings.
+// ---
+
 #ifndef CONTENT_BROWSER_PROCESS_LOCK_SHIM_H_
 #define CONTENT_BROWSER_PROCESS_LOCK_SHIM_H_
 

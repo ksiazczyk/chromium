@@ -1,0 +1,4 @@
+# Docerion header of keyboard_lock_browsertest_mac.mm.
+type: test
+title: Keyboard lock browser test focus hooks for macOS
+summary: Provides macOS-specific test hooks that fake window focus state for keyboard lock browser tests by installing a test render widget host view.

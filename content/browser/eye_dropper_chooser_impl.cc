@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eye dropper chooser browser-side implementation
+// summary: Implements the browser-side EyeDropperChooser Mojo service, allowing only one active eye dropper per WebContents and requiring transient user activation before opening.
+// ---
+
 #include "content/browser/eye_dropper_chooser_impl.h"
 
 #include "base/check.h"

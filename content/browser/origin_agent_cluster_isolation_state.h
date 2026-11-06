@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Origin agent cluster isolation state
+// summary: Defines the OriginAgentClusterIsolationState class that tracks logical and process-level Origin-Agent-Cluster isolation status for an origin, with factory methods for default and header-driven states.
+// ---
+
 #ifndef CONTENT_BROWSER_ORIGIN_AGENT_CLUSTER_ISOLATION_STATE_H_
 #define CONTENT_BROWSER_ORIGIN_AGENT_CLUSTER_ISOLATION_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed process launcher delegate implementation
+// summary: Provides default sandbox delegate behavior for launching child processes, covering Windows policy, zygote, POSIX environment, and Mac options.
+// ---
+
 #include "content/browser/sandboxed_process_launcher_delegate.h"
 
 #include <optional>

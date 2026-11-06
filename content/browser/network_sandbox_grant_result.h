@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SandboxGrantResult enum for network sandbox outcomes
+// summary: Defines the SandboxGrantResult enum describing outcomes of granting sandbox access to network context data files, with values persisted to logs.
+// ---
+
 #ifndef CONTENT_BROWSER_NETWORK_SANDBOX_GRANT_RESULT_H_
 #define CONTENT_BROWSER_NETWORK_SANDBOX_GRANT_RESULT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationOrDocumentHandle implementation
+// summary: Implements NavigationOrDocumentHandle, which references either a pending navigation or a committed document and exposes frame and origin details.
+// ---
+
 #include "content/browser/navigation_or_document_handle.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of site_per_process_mac_browsertest.mm.
+type: test
+title: Site per process Mac browser tests
+summary: macOS-specific browser tests for text input range and point queries and widget behavior in out-of-process frames.

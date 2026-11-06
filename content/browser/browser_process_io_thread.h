@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser process IO thread interface
+// summary: Declares BrowserProcessIOThread, the physical thread backing the browser IO thread, with COM support on Windows.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSER_PROCESS_IO_THREAD_H_
 #define CONTENT_BROWSER_BROWSER_PROCESS_IO_THREAD_H_
 

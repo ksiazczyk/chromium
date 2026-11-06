@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery Monitor browser tests
+// summary: Browser tests that bind a mock BatteryMonitor Mojo interface via a test ContentBrowserClient and verify battery status reporting to renderer frames.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

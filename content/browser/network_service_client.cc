@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network service client
+// summary: Implements the browser-side network service client that forwards SSL certificate errors, authentication challenges and network change notifications to the network service.
+// ---
+
 #include "content/browser/network_service_client.h"
 
 #include <optional>

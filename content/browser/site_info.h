@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteInfo class header
+// summary: Declares the SiteInfo principal class with factory helpers for error pages and default SiteInstances, plus isolation and storage partition state.
+// ---
+
 #ifndef CONTENT_BROWSER_SITE_INFO_H_
 #define CONTENT_BROWSER_SITE_INFO_H_
 

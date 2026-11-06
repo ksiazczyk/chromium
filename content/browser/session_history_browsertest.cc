@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session history browser tests
+// summary: Browser tests verifying session history navigation, including simulated link clicks, form submissions, and traversal via history.go across frames.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

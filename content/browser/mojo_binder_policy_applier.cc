@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo binder policy applier implementation
+// summary: Implements MojoBinderPolicyApplier, which grants, defers or cancels non-associated Mojo interface binders according to prerendering policies.
+// ---
+
 #include "content/browser/mojo_binder_policy_applier.h"
 
 #include <string_view>

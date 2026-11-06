@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX file descriptor info header
+// summary: Declares PosixFileDescriptorInfoImpl, the content implementation of the interface for sharing POSIX file descriptors with child processes.
+// ---
+
 #ifndef CONTENT_BROWSER_POSIX_FILE_DESCRIPTOR_INFO_IMPL_H_
 #define CONTENT_BROWSER_POSIX_FILE_DESCRIPTOR_INFO_IMPL_H_
 

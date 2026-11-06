@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 snapshot file preloading declaration
+// summary: Declares GetV8SnapshotFilesToPreload, which returns a mapping of V8 snapshot files for use with child process launchers.
+// ---
+
 #ifndef CONTENT_BROWSER_V8_SNAPSHOT_FILES_H_
 #define CONTENT_BROWSER_V8_SNAPSHOT_FILES_H_
 

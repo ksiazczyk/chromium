@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser child process host implementation
+// summary: Implements BrowserChildProcessHostImpl, which launches and manages browser child processes, maintains the process list and observers, and handles metrics and tracing setup.
+// ---
+
 #include "content/browser/browser_child_process_host_impl.h"
 
 #include <memory>

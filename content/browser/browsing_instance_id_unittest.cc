@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingInstanceId FFI layout unit test
+// summary: Unit test asserting that the C++ BrowsingInstanceId type matches the i32 size, alignment and triviality required by the Rust-side FFI interface.
+// ---
+
 #include "content/public/browser/browsing_instance_id.h"
 
 #include <type_traits>

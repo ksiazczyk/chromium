@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated origin pattern and matching utilities
+// summary: Implements IsolatedOriginPattern parsing including [*.] wildcard subdomain isolation, plus IsolatedOriginUtil matching and validity checks for isolated origins.
+// ---
+
 #include "content/browser/isolated_origin_util.h"
 
 #include <string>

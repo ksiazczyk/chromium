@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolationContext implementation
+// summary: Implements IsolationContext constructors that bind a browsing instance, browser context, and default isolation state for process model decisions.
+// ---
+
 #include "content/browser/isolation_context.h"
 
 #include "base/check_deref.h"

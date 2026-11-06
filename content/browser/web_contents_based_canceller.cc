@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsBasedCanceller implementation
+// summary: Implements a canceller that gates dialog display on WebContents visibility, active state, and minimum window size conditions.
+// ---
+
 #include "content/public/browser/web_contents_based_canceller.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed opaque origin creator header
+// summary: Declares SandboxedOpaqueOriginCreator, a static-only helper for creating opaque origins with nonces for sandboxed frames.
+// ---
+
 #ifndef CONTENT_BROWSER_SANDBOXED_OPAQUE_ORIGIN_CREATOR_H_
 #define CONTENT_BROWSER_SANDBOXED_OPAQUE_ORIGIN_CREATOR_H_
 

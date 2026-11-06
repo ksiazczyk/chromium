@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolationContext class declaration
+// summary: Declares IsolationContext, which describes the browsing instance and profile context used when making process isolation decisions.
+// ---
+
 #ifndef CONTENT_BROWSER_ISOLATION_CONTEXT_H_
 #define CONTENT_BROWSER_ISOLATION_CONTEXT_H_
 

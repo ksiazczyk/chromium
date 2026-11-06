@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows sandbox support unit tests
+// summary: Unit tests verifying that the Windows sandbox support Mojo interface calls the expected Windows locale APIs for LCIDs, digits, and locale strings.
+// ---
+
 #include <windows.h>
 
 #include <string>

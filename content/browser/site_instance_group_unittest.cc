@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteInstanceGroup unit tests
+// summary: Unit tests checking that a SiteInstanceGroup's BrowsingInstance outlives the group and that observers can be deleted during notification iteration.
+// ---
+
 #include "content/browser/site_instance_group.h"
 
 #include "base/memory/scoped_refptr.h"

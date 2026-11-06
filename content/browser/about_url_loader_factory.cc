@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutURLLoaderFactory implementation
+// summary: 'Implements a self-deleting URLLoaderFactory that answers about: URL requests with an empty text/html response.'
+// ---
+
 #include "content/browser/about_url_loader_factory.h"
 
 #include "mojo/public/cpp/bindings/remote.h"

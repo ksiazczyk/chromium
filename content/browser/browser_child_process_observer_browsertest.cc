@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserChildProcessObserver browser tests
+// summary: Browser tests verifying BrowserChildProcessObserver notifications for child process launch, connection, disconnection, crash, kill and exit events.
+// ---
+
 #include "content/public/browser/browser_child_process_observer.h"
 
 #include "base/functional/bind.h"

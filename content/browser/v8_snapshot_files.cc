@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 snapshot file preloading implementation
+// summary: Determines the V8 and V8 context snapshot files to preload for child processes on Linux, ChromeOS and Android, including multilib handling.
+// ---
+
 #include "content/browser/v8_snapshot_files.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserThread unit tests
+// summary: Unit tests exercising BrowserThread setup, teardown, and task posting across UI and IO threads using test task environments.
+// ---
+
 #include "content/public/browser/browser_thread.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network context client file upload request implementation
+// summary: Implements helpers for NetworkContext file upload requests, checking child process security policy permissions and opening the requested files.
+// ---
+
 #include "content/browser/network_context_client_base_impl.h"
 
 #include "base/functional/bind.h"

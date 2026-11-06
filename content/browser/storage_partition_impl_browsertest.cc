@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage partition browser tests
+// summary: Browser tests for StoragePartitionImpl covering client certificate selection over HTTPS and URL loader behavior through the partition's network context.
+// ---
+
 #include "content/browser/storage_partition_impl.h"
 
 #include <string>

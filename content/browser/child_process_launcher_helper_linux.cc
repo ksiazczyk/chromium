@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux child process launcher helper
+// summary: Linux implementation that launches child processes directly or through the zygote, wiring sandbox file descriptors and OOM score adjustments.
+// ---
+
 #include "content/browser/child_process_launcher_helper.h"
 
 #include "base/command_line.h"

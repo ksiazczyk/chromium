@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache Cache-Control no-store browser tests
+// summary: 'Browser tests verifying how the Cache-Control: no-store header affects storing pages in the back/forward cache, including main frame, subframe, and feature-flag cases.'
+// ---
+
 #include <memory>
 
 #include "base/test/test_future.h"

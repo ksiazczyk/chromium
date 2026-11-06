@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web contents snapshot browser tests
+// summary: Browser tests that capture pixel snapshots of web contents and multiple windows rendering a canvas page via an embedded test server.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

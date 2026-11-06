@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font service connection
+// summary: Connects Mojo font service receivers to a global in-process FontServiceApp instance on a background task runner.
+// ---
+
 #include "content/browser/font_service.h"
 
 #include "base/no_destructor.h"

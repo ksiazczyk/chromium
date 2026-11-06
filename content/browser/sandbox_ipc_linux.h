@@ -4,6 +4,12 @@
 
 // https://chromium.googlesource.com/chromium/src/+/main/docs/linux/sandbox_ipc.md
 
+// ---docerion
+// type: source
+// title: Linux sandbox IPC handler header
+// summary: Declares the SandboxIPCHandler thread delegate that serves IPC requests arriving from sandboxed child processes on Linux.
+// ---
+
 #ifndef CONTENT_BROWSER_SANDBOX_IPC_LINUX_H_
 #define CONTENT_BROWSER_SANDBOX_IPC_LINUX_H_
 

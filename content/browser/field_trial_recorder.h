@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialRecorder class declaration
+// summary: Declares FieldTrialRecorder, the Mojo receiver that handles FieldTrialActivated notifications coming from renderer processes.
+// ---
+
 #ifndef CONTENT_BROWSER_FIELD_TRIAL_RECORDER_H_
 #define CONTENT_BROWSER_FIELD_TRIAL_RECORDER_H_
 

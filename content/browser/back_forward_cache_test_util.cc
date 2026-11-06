@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward cache metrics test matcher implementation
+// summary: Implements BackForwardCacheMetricsTestMatcher helpers that assert back/forward cache histogram and UKM metric outcomes in browser tests.
+// ---
+
 #include "content/browser/back_forward_cache_test_util.h"
 
 #include <algorithm>
