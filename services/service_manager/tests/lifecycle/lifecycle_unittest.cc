@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service lifecycle unit tests
+// summary: Contains gtest-based unit tests verifying service manager lifecycle behaviors such as graceful quit, crashes, and packaged service instances.
+// ---
+
 #include <memory>
 #include <vector>
 

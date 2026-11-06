@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceManager implementation
+// summary: Implements the core ServiceManager, including default delegate and process host classes that launch and connect service instances.
+// ---
+
 #include "services/service_manager/service_manager.h"
 
 #include <utility>

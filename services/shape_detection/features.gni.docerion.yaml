@@ -1,0 +1,4 @@
+# Docerion header of features.gni.
+type: config
+title: Shape detection GN feature arguments
+summary: GN build arguments that enable the internal shape detection library for branded Chrome builds on ChromeOS, Linux and Windows.

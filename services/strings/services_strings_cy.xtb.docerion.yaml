@@ -1,0 +1,4 @@
+# Docerion header of services_strings_cy.xtb.
+type: data
+title: Welsh services strings translation bundle
+summary: Welsh XTB translation bundle with localized service strings for proxy resolvers and extracted text markers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service manager shutdown unit tests
+// summary: Unit tests that exercise service manager shutdown races by wiring up test manifests and connecting a client and service to check for deadlocks.
+// ---
+
 #include <vector>
 
 #include "base/no_destructor.h"

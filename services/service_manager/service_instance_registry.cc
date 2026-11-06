@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceInstanceRegistry implementation
+// summary: Implements registration and lookup of service instances keyed by identity according to the manifest instance sharing policy.
+// ---
+
 #include "services/service_manager/service_instance_registry.h"
 
 #include <algorithm>

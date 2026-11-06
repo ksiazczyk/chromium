@@ -1,0 +1,4 @@
+# Docerion header of services_strings_zu.xtb.
+type: data
+title: Services strings translation bundle for Zulu (zu)
+summary: XML translation bundle providing Zulu translations of service strings, including proxy resolver names and extracted text boundary labels.

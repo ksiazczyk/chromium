@@ -1,0 +1,4 @@
+# Docerion header of services_strings_uk.xtb.
+type: data
+title: Ukrainian services strings translation bundle
+summary: Ukrainian translations of service strings covering proxy resolver names and extracted text start and end markers.

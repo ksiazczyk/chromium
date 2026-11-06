@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test service manifests for service manager tests
+// summary: Defines the test service name constants and builds the manifests for the services used by the service manager unit tests.
+// ---
+
 #include "services/service_manager/tests/service_manager/test_manifests.h"
 
 #include "base/no_destructor.h"

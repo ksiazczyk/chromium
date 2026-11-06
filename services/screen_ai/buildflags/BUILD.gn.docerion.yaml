@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Screen AI buildflags BUILD.gn target
+summary: Defines a buildflag_header target that generates buildflags.h with flags for Screen AI service, browser tests, and fake library usage.

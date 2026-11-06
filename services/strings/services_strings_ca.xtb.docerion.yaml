@@ -1,0 +1,4 @@
+# Docerion header of services_strings_ca.xtb.
+type: data
+title: Catalan services strings translation bundle
+summary: Catalan XTB translation bundle with localized service strings for proxy resolvers and extracted text markers.

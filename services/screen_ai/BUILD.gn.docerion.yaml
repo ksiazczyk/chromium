@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Screen AI service GN build configuration
+summary: Defines GN build targets for the Screen AI service, including the main source set, an OCR performance test, a sandbox hook, and unit tests.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: DEPS file allowing this directory to include headers from services/strings.

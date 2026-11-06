@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows face detection unit test
+// summary: Unit test that connects to the Windows face detection provider and verifies exactly one face is detected in the mona_lisa.jpg test image.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

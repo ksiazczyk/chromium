@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Screen AI sandbox include rules
+summary: Defines include rules allowing the Screen AI sandbox directory to depend on sandbox/linux and sandbox/policy/linux.

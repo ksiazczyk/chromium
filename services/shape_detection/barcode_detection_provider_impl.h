@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default barcode detection provider declaration
+// summary: Declares BarcodeDetectionProviderImpl, the default provider used on platforms without barcode detection support.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_PROVIDER_IMPL_H_
 #define SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_PROVIDER_IMPL_H_
 

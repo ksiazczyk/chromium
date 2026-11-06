@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI library wrapper interface
+// summary: Declares the abstract base class wrapping the Chrome Screen AI native library for loading, main content extraction, and OCR operations.
+// ---
+
 #ifndef SERVICES_SCREEN_AI_SCREEN_AI_LIBRARY_WRAPPER_H_
 #define SERVICES_SCREEN_AI_SCREEN_AI_LIBRARY_WRAPPER_H_
 

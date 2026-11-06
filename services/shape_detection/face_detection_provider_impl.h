@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default face detection provider header
+// summary: Declares FaceDetectionProviderImpl, a fallback provider that creates no face detector on unsupported platforms.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_FACE_DETECTION_PROVIDER_IMPL_H_
 #define SERVICES_SHAPE_DETECTION_FACE_DETECTION_PROVIDER_IMPL_H_
 

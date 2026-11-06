@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vision API interface for Mac barcode detection
+// summary: Declares VisionAPIInterface, an abstraction over the Vision framework used to query supported barcode symbologies on macOS.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_IMPL_MAC_VISION_API_H_
 #define SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_IMPL_MAC_VISION_API_H_
 

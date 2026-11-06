@@ -1,0 +1,4 @@
+# Docerion header of services_strings_mn.xtb.
+type: data
+title: Mongolian services strings translation bundle
+summary: Mongolian translations of service strings such as proxy resolver names and extracted text markers, stored as an XML translation bundle.

@@ -1,0 +1,4 @@
+# Docerion header of lifecycle.test-mojom.
+type: test
+title: LifecycleControl and Parent test Mojom interfaces
+summary: Defines the LifecycleControl and Parent Mojom interfaces used to trigger different service shutdown behaviors in the lifecycle tests.

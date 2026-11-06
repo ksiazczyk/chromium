@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome barcode detection provider implementation
+// summary: Implements the Chrome barcode detection provider that creates barhopper-based detectors and reports the supported barcode formats.
+// ---
+
 #include "services/shape_detection/barcode_detection_provider_chrome.h"
 
 #include <memory>

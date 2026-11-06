@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shape detection service class
+// summary: Declares the mojom::ShapeDetectionService implementation that binds barcode, face and text detection providers.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_SHAPE_DETECTION_SERVICE_H_
 #define SERVICES_SHAPE_DETECTION_SHAPE_DETECTION_SERVICE_H_
 

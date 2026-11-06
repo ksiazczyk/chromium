@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac barcode detection provider declaration
+// summary: Declares BarcodeDetectionProviderMac, which binds barcode detection to the Core Image or Vision framework on macOS.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_PROVIDER_MAC_H_
 #define SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_PROVIDER_MAC_H_
 

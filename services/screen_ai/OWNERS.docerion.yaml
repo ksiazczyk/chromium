@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Screen AI service owners
+summary: Names the code owners for the Screen AI service directory and defers to the accessibility owners file.

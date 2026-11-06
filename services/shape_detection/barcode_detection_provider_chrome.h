@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome barcode detection provider declaration
+// summary: Declares BarcodeDetectionProviderChrome, the provider that binds barcode detection implementations based on the barhopper library.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_PROVIDER_CHROME_H_
 #define SERVICES_SHAPE_DETECTION_BARCODE_DETECTION_PROVIDER_CHROME_H_
 

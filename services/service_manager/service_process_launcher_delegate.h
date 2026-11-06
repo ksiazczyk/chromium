@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceProcessLauncherDelegate interface header
+// summary: Declares a delegate interface for adjusting the command line used to launch a specified service target.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_SERVICE_PROCESS_LAUNCHER_DELEGATE_H_
 #define SERVICES_SERVICE_MANAGER_SERVICE_PROCESS_LAUNCHER_DELEGATE_H_
 

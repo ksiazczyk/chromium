@@ -1,0 +1,4 @@
+# Docerion header of services_strings_lo.xtb.
+type: data
+title: Lao services strings translation bundle
+summary: Lao translations of service strings such as proxy resolver names and extracted text markers, stored as an XML translation bundle.

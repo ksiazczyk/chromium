@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BarcodeDetectionImpl.java
+// summary: Implements the mojo BarcodeDetection interface on Android using the Google Play Services vision BarcodeDetector, mapping requested barcode format hints to detector formats.
+// ---
+
 package org.chromium.shape_detection;
 
 import android.graphics.Point;

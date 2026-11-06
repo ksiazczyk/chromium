@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main content extractor proto convertor header
+// summary: Declares SnapshotToViewHierarchy, which converts an AXTree snapshot into a serialized ViewHierarchy proto with tree dimensions.
+// ---
+
 #ifndef SERVICES_SCREEN_AI_PROTO_MAIN_CONTENT_EXTRACTOR_PROTO_CONVERTOR_H_
 #define SERVICES_SCREEN_AI_PROTO_MAIN_CONTENT_EXTRACTOR_PROTO_CONVERTOR_H_
 

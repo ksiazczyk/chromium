@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service manager unit tests
+// summary: Unit tests covering service instance creation, identity handling, connections, and lifecycle behavior of the service manager.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

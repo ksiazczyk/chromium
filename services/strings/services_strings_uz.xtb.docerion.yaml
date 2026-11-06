@@ -1,0 +1,4 @@
+# Docerion header of services_strings_uz.xtb.
+type: data
+title: Uzbek services strings translation bundle
+summary: Uzbek translations of service strings covering proxy resolver names and extracted text start and end markers.

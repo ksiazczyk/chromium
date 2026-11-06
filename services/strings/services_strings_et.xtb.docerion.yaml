@@ -1,0 +1,4 @@
+# Docerion header of services_strings_et.xtb.
+type: data
+title: Estonian services strings translation bundle
+summary: Estonian XTB translation bundle with localized service strings for proxy resolvers and extracted text markers.

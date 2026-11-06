@@ -1,0 +1,4 @@
+# Docerion header of service_manager.test-mojom.
+type: test
+title: Test Mojom interfaces for service manager tests
+summary: Defines the test-only Mojom interfaces CreateInstanceTest and Driver used by the service manager unit tests.

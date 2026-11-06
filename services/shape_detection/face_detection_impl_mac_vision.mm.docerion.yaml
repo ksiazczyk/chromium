@@ -1,0 +1,4 @@
+# Docerion header of face_detection_impl_mac_vision.mm.
+type: source
+title: Vision-based Mac face detection implementation
+summary: Detects faces and landmarks on macOS via the Vision framework, converting observations into mojo face detection results.

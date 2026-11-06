@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Target service executable for service manager tests
+// summary: Standalone test service that connects to the test service and reports its own identity through the CreateInstanceTest interface.
+// ---
+
 #include "base/task/single_thread_task_executor.h"
 #include "mojo/public/cpp/bindings/remote.h"
 #include "services/service_manager/public/cpp/connector.h"

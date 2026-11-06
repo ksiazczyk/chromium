@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Service manager shutdown tests build file
+summary: GN build rules for the shutdown tests, defining the unit test target, the Mojo interfaces, and the shutdown client and service test executables.

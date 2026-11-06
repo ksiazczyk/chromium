@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shape detection library holder class
+// summary: Declares a singleton holder that keeps the ChromeShapeDetectionAPI shared library loaded and exposes its API functions.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_SHAPE_DETECTION_LIBRARY_HOLDER_H_
 #define SERVICES_SHAPE_DETECTION_SHAPE_DETECTION_LIBRARY_HOLDER_H_
 

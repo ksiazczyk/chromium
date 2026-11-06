@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service manager switch declarations
+// summary: Declares service manager command-line switch constants, including kEnableTracing and kServiceRequestAttachmentName.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_SWITCHES_H_
 #define SERVICES_SERVICE_MANAGER_SWITCHES_H_
 

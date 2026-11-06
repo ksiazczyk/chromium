@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Shape Detection shared library C API header
+// summary: Defines the public C interface of the Chrome Shape Detection shared library, including barcode format constants, result structs and the API function table.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_CHROME_SHAPE_DETECTION_API_H_
 #define SERVICES_SHAPE_DETECTION_CHROME_SHAPE_DETECTION_API_H_
 

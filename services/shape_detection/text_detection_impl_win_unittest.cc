@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows text detection
+// summary: Unit test that scans a test PNG image on Windows and asserts the OCR results, including recognized text values and bounding boxes.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

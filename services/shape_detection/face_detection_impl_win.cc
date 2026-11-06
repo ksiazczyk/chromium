@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows face detection implementation
+// summary: Implements face detection on Windows via the Windows.Media.FaceAnalysis FaceDetector, running detection asynchronously and returning face bounding boxes over Mojo.
+// ---
+
 #include "services/shape_detection/face_detection_impl_win.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main content extractor proto convertor implementation
+// summary: Converts Chrome accessibility trees into serialized ViewHierarchy protos, mapping AXNode attributes and roles for the main content extractor.
+// ---
+
 #include "services/screen_ai/proto/main_content_extractor_proto_convertor.h"
 
 #include "base/check_op.h"

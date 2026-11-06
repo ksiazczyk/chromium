@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceInstanceRegistry class header
+// summary: Declares a registry of unowned ServiceInstance pointers indexed by identity and instance-sharing policy, used to resolve service filters to instances.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_SERVICE_INSTANCE_REGISTRY_H_
 #define SERVICES_SERVICE_MANAGER_SERVICE_INSTANCE_REGISTRY_H_
 

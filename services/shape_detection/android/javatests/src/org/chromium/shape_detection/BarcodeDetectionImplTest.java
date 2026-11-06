@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BarcodeDetectionImplTest
+// summary: JUnit test suite for BarcodeDetectionImpl that verifies barcode format enumeration and detection results, including bounding boxes, on Android test bitmaps.
+// ---
+
 package org.chromium.shape_detection;
 
 import org.junit.Assert;

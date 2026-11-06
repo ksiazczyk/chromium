@@ -1,0 +1,4 @@
+# Docerion header of services_strings_nl.xtb.
+type: data
+title: Services strings in Dutch
+summary: Dutch translation bundle providing localized service strings such as proxy resolver names and extracted text boundary labels.

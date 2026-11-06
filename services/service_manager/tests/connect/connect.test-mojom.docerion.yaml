@@ -1,0 +1,4 @@
+# Docerion header of connect.test-mojom.
+type: test
+title: Mojom interfaces for service manager connect tests
+summary: Defines the Mojom test interfaces such as ConnectTestService, StandaloneApp, and IdentityTest used to exercise service connection behavior.

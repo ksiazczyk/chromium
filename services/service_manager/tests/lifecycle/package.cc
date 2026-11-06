@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Packaged service test executable
+// summary: Implements the package test executable that hosts multiple PackagedApp service instances sharing a single process for lifecycle testing.
+// ---
+
 #include <algorithm>
 #include <memory>
 

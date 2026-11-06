@@ -1,0 +1,4 @@
+# Docerion header of services_strings_hi.xtb.
+type: data
+title: Hindi services translation bundle
+summary: Hindi translations of service strings, covering macOS system, WinHttp and V8 proxy resolver names and extracted text start and end markers.

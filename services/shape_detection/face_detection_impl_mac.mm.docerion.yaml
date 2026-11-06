@@ -1,0 +1,4 @@
+# Docerion header of face_detection_impl_mac.mm.
+type: source
+title: Mac face detection implementation
+summary: Detects faces on macOS using CIDetector and reports bounding boxes plus eye and mouth landmarks through the FaceDetection mojo interface.

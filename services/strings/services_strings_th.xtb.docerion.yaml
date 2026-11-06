@@ -1,0 +1,4 @@
+# Docerion header of services_strings_th.xtb.
+type: data
+title: Thai services strings translation bundle
+summary: Thai translations of service strings covering proxy resolver names and extracted text start and end markers.

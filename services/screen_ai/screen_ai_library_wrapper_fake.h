@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Screen AI library wrapper header
+// summary: Declares the fake Screen AI library wrapper class used in place of the actual library for tests.
+// ---
+
 #ifndef SERVICES_SCREEN_AI_SCREEN_AI_LIBRARY_WRAPPER_FAKE_H_
 #define SERVICES_SCREEN_AI_SCREEN_AI_LIBRARY_WRAPPER_FAKE_H_
 

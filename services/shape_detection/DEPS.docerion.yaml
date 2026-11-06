@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for shape detection dependencies
+summary: Specifies allowed include paths for the shape detection directory, with extra rules for the sandbox hook files.

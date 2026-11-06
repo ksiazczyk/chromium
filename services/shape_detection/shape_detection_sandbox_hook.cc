@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shape detection Linux sandbox hook
+// summary: Pre-sandbox hook that loads the Chrome shape detection shared library before the Linux sandbox is initialized.
+// ---
+
 #include "services/shape_detection/shape_detection_sandbox_hook.h"
 
 #include <dlfcn.h>

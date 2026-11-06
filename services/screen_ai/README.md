@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chrome Screen AI Library README
+summary: Explains the Screen AI library's on-device main content extraction and OCR features, its development, deployment, usage pointer, and bug component.
+relations:
+  - references /chrome/browser/screen_ai/README.md
+---
+
 # Chrome Screen AI Library
 
 ## Purpose

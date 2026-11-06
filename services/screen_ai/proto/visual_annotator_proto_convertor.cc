@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual annotator proto convertor implementation
+// summary: Converts ScreenAI VisualAnnotation protos into accessibility tree updates and mojo structs, including OCR line and word handling for ChromeOS.
+// ---
+
 #include "services/screen_ai/proto/visual_annotator_proto_convertor.h"
 
 #include "services/screen_ai/public/mojom/screen_ai_service.mojom.h"

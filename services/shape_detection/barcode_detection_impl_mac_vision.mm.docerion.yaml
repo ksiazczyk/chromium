@@ -1,0 +1,4 @@
+# Docerion header of barcode_detection_impl_mac_vision.mm.
+type: source
+title: Mac Vision barcode detection implementation
+summary: Implements macOS barcode detection with the Apple Vision framework, mapping Vision symbologies to Mojo barcode formats and applying format hints.

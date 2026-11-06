@@ -1,0 +1,4 @@
+# Docerion header of barcode_detection_provider_mac_unittest.mm.
+type: test
+title: Mac barcode detection provider unit tests
+summary: Unit tests for the macOS barcode detection provider, verifying supported format enumeration with real and mocked Vision APIs.

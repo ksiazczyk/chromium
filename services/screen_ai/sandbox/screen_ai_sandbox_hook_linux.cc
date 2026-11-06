@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI Linux sandbox hook implementation
+// summary: Implements the Screen AI pre-sandbox hook that loads the Screen AI library, runs its PresandboxInit, and sets up broker file permissions on Linux.
+// ---
+
 #include "services/screen_ai/sandbox/screen_ai_sandbox_hook_linux.h"
 
 #include <dlfcn.h>

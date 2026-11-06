@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Build definitions for service manager connect tests
+summary: GN build file that defines the connect test binary, its Mojom interfaces, and the test service executables the tests depend on.

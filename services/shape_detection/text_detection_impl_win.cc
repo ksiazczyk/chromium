@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text detection implementation for Windows using Windows.Media.Ocr
+// summary: Implements text detection on Windows via the Windows OCR engine, creating an English-language OCR engine and returning detected text with bounding boxes.
+// ---
+
 #include "services/shape_detection/text_detection_impl_win.h"
 
 #include <windows.foundation.collections.h>

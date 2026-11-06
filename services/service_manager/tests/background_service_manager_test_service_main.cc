@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test service executable for background service manager
+// summary: Implements a standalone test service exposing the TestService interface, launched to exercise the background service manager.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/task/single_thread_task_executor.h"
 #include "mojo/public/cpp/bindings/pending_receiver.h"

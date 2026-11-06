@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Screen AI service include rules
+summary: Lists the headers and directories that code in the Screen AI service is allowed to include.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows text detection implementation header
+// summary: Declares the Windows text detection class that uses the Windows OCR engine and software bitmap factory to implement the TextDetection Mojo interface.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_TEXT_DETECTION_IMPL_WIN_H_
 #define SERVICES_SHAPE_DETECTION_TEXT_DETECTION_IMPL_WIN_H_
 

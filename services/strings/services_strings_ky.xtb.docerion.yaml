@@ -1,0 +1,4 @@
+# Docerion header of services_strings_ky.xtb.
+type: data
+title: Kyrgyz services strings translation bundle
+summary: Kyrgyz translations of service strings such as proxy resolver names and extracted text markers, stored as an XML translation bundle.

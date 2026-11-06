@@ -1,0 +1,4 @@
+# Docerion header of services_strings_bs.xtb.
+type: data
+title: Bosnian translation bundle
+summary: XML translation bundle with Bosnian service UI strings, including proxy resolver names and text extraction start and end labels.

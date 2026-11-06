@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Services strings build configuration
+summary: GN build rules that generate grit string resources from services_strings.grd and pack test strings for the services.

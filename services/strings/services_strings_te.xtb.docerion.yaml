@@ -1,0 +1,4 @@
+# Docerion header of services_strings_te.xtb.
+type: data
+title: Telugu services strings translation bundle
+summary: Telugu translations of service strings covering proxy resolver names and extracted text start and end markers.

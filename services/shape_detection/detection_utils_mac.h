@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac shape detection utilities header
+// summary: Declares helpers for converting SkBitmaps to CIImage, coordinate conversion and the VisionAPIAsyncRequestMac class for asynchronous Vision requests.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_DETECTION_UTILS_MAC_H_
 #define SERVICES_SHAPE_DETECTION_DETECTION_UTILS_MAC_H_
 

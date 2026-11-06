@@ -1,0 +1,4 @@
+# Docerion header of test_support.test-mojom.
+type: source
+title: TestA, TestB and TestC Mojom interfaces
+summary: Defines the small service_manager.mojom interfaces TestA, TestB and TestC used to exercise service connections in tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac face detection implementation header
+// summary: Declares FaceDetectionImplMac, the macOS face detection implementation backed by Core Image's CIDetector.
+// ---
+
 #ifndef SERVICES_SHAPE_DETECTION_FACE_DETECTION_IMPL_MAC_H_
 #define SERVICES_SHAPE_DETECTION_FACE_DETECTION_IMPL_MAC_H_
 

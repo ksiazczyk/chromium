@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceDetectionImpl.java
+// summary: Android implementation of the FaceDetection mojo service using android.media.FaceDetector, including bitmap padding, RGB 565 conversion, and background-thread detection.
+// ---
+
 package org.chromium.shape_detection;
 
 import android.graphics.Bitmap;

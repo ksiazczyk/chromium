@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI service implementation
+// summary: Implements the Screen AI Mojo service that runs OCR and main content extraction to augment the accessibility tree, with metrics and idle shutdown handling.
+// ---
+
 #include "services/screen_ai/screen_ai_service_impl.h"
 
 #include <optional>

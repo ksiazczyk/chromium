@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceProcessLauncherFactory interface header
+// summary: Declares a factory interface that creates ServiceProcessLauncher instances for a given service executable path.
+// ---
+
 #ifndef SERVICES_SERVICE_MANAGER_SERVICE_PROCESS_LAUNCHER_FACTORY_H_
 #define SERVICES_SERVICE_MANAGER_SERVICE_PROCESS_LAUNCHER_FACTORY_H_
 

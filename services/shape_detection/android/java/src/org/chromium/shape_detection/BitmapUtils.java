@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapUtils.java
+// summary: Utility class converting mojo BitmapN32 pixel data into Android Bitmap objects and GMS vision YUV frames for the shape detection detectors.
+// ---
+
 package org.chromium.shape_detection;
 import org.chromium.build.annotations.NullMarked;
 

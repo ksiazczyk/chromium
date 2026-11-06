@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shape detection library holder implementation
+// summary: Loads the shape_detection_internal shared library and resolves its GetChromeShapeDetectionAPI entry point for a singleton holder.
+// ---
+
 #include "services/shape_detection/shape_detection_library_holder.h"
 
 #include <memory>

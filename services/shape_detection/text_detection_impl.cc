@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text detection stub implementation
+// summary: Default TextDetectionImpl that logs an error because text detection is unsupported on this platform.
+// ---
+
 #include "services/shape_detection/text_detection_impl.h"
 
 #include "base/logging.h"

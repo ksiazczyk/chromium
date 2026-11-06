@@ -1,0 +1,4 @@
+# Docerion header of services_strings_zh-TW.xtb.
+type: data
+title: Services strings translation bundle for Traditional Chinese (zh-TW)
+summary: XML translation bundle providing Traditional Chinese translations of service strings, including proxy resolver names and extracted text boundary labels.

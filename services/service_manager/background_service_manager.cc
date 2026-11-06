@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundServiceManager implementation
+// summary: Implements a helper that creates and drives a ServiceManager on a dedicated background thread with synchronous shutdown.
+// ---
+
 #include "services/service_manager/background_service_manager.h"
 
 #include "base/check.h"
