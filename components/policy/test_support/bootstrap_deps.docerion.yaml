@@ -1,0 +1,4 @@
+# Docerion header of bootstrap_deps.
+type: config
+title: Bootstrap dependencies for the policy test server
+summary: Lists the Chromium source URLs checked out when bootstrapping the policy test server environment.

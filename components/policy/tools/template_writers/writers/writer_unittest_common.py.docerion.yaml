@@ -1,0 +1,4 @@
+# Docerion header of writer_unittest_common.py.
+type: test
+title: Common helpers for writer unit tests
+summary: Provides a shared WriterUnittestCommon base class that runs the policy template generator and returns a writer's output for use in writer unit tests.

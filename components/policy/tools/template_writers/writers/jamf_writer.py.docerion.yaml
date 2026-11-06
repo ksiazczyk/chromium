@@ -1,0 +1,4 @@
+# Docerion header of jamf_writer.py.
+type: source
+title: Jamf writer
+summary: Writes a jamf.json manifest describing Chrome policies as JSON schema properties for Jamf management on macOS and iOS.

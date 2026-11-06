@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check user account request handler
+// summary: Implements the enterprise check request handler that returns the user account type and enrollment nudge policy for a given user email.
+// ---
+
 #include "components/policy/test_support/request_handler_for_check_user_account.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

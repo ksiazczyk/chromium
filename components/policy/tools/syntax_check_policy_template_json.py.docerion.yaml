@@ -1,0 +1,4 @@
+# Docerion header of syntax_check_policy_template_json.py.
+type: script
+title: Policy template JSON syntax checker
+summary: Command-line tool that checks policy_templates.json files for conformity to the policy template syntax specification, with legacy allowlists for older policies.

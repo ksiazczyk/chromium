@@ -1,0 +1,4 @@
+# Docerion header of xml_formatted_writer.py.
+type: source
+title: Helper class for XML-based template writers
+summary: Extends TemplateWriter with XML DOM helpers for adding elements, text, attributes and comments plus a custom pretty printer for XML policy templates.

@@ -1,6 +1,13 @@
 # Copyright 2018 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Schema validator for policy schemas
+# summary: Provides a SchemaValidator class that validates JSON schemas and checks values against them for Chrome policy definitions, including $ref link resolution.
+# ---
+
 import re
 
 # Dict with valid schema type names as keys. The values are the allowed

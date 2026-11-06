@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy storage implementation
+// summary: Implements storage of policy payloads, external policy payloads, PSM entries and initial enrollment states for the test server.
+// ---
+
 #include "components/policy/test_support/policy_storage.h"
 
 #include "base/numerics/byte_conversions.h"

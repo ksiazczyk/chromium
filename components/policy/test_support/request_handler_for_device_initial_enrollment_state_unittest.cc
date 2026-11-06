@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device initial enrollment state request handler unit tests
+// summary: Unit tests verifying the device initial enrollment state handler returns the configured zero-touch enrollment mode and management domain for a brand code and serial number.
+// ---
+
 #include "base/strings/strcat.h"
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"
 #include "components/policy/test_support/client_storage.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promotion eligibility request handler header
+// summary: Declares the RequestHandlerForDeterminePromotionEligibility class and the Chrome Enterprise OAuth token constants used by the test handler.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_DETERMINE_PROMOTION_ELIGIBILITY_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_DETERMINE_PROMOTION_ELIGIBILITY_H_
 

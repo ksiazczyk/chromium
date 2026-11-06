@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unregister request handler unit tests
+// summary: Unit tests covering unregister handling for missing or unknown device tokens and successful deletion of registered clients.
+// ---
+
 #include "components/policy/test_support/request_handler_for_unregister.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of __init__.py.
+type: source
+title: template_writers package initializer
+summary: Marks the template_writers directory as a Python package.

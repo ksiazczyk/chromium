@@ -1,0 +1,4 @@
+# Docerion header of policy_template_generator_unittest.py.
+type: test
+title: Unit tests for the policy template generator
+summary: Unit tests covering PolicyTemplateGenerator behavior, including group expansion, message handling and writer invocation order.

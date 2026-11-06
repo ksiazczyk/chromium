@@ -1,0 +1,4 @@
+# Docerion header of blob_generator.py.
+type: source
+title: Policy Blob Generator for fake_dmserver
+summary: Converts a simple JSON file of user and device policies into the serialized, encoded protobuf blob format that fake_dmserver can serve.

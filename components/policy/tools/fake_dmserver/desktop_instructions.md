@@ -1,3 +1,9 @@
+---
+type: guide
+title: Desktop Local Policy Testing Instructions
+summary: Guide for running fake_dmserver with desktop Chrome on Linux, including how to write policies.json and a reference of its configuration parameters.
+---
+
 # Local Policy Testing on the Desktop
 
 This workflow is for users who want to run `fake_dmserver` for desktop Chrome on

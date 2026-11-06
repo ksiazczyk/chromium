@@ -1,0 +1,4 @@
+# Docerion header of google_adml_writer.py.
+type: source
+title: Google ADML writer
+summary: Writes a fixed google.adml policy definition resource file containing the Google string table, independent of policy definitions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser public key upload request handler
+// summary: Implements the browser public key upload request handler for the embedded policy test server, validating uploads and generating PEM-encoded certificates when provisioning is requested.
+// ---
+
 #include "components/policy/test_support/request_handler_for_browser_public_key_upload.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

@@ -1,0 +1,4 @@
+# Docerion header of adm_writer_unittest.py.
+type: test
+title: Unit tests for the ADM writer
+summary: Verifies that the ADM writer produces the expected Windows ADM output for empty, versioned, and populated policy configurations.

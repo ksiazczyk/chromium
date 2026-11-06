@@ -1,0 +1,4 @@
+# Docerion header of google_adml_writer_unittest.py.
+type: test
+title: Unit tests for the Google ADML writer
+summary: Unit tests checking that the Google ADML writer emits the expected Google string table entry.

@@ -1,0 +1,4 @@
+# Docerion header of plist_strings_writer_unittest.py.
+type: test
+title: Plist strings writer unit tests
+summary: Unit tests verifying the generated Mac string table for empty policy sets, version comments, main policies, and string policies.

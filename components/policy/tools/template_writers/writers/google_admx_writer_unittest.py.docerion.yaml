@@ -1,0 +1,4 @@
+# Docerion header of google_admx_writer_unittest.py.
+type: test
+title: Unit tests for the Google ADMX writer
+summary: Unit tests checking that the Google ADMX writer emits the expected Google.Policies namespace.

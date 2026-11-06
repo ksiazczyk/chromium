@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check Android management request handler
+// summary: Implements the check Android management request handler, responding with managed, unmanaged, or forbidden results based on the OAuth token.
+// ---
+
 #include "components/policy/test_support/request_handler_for_check_android_management.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

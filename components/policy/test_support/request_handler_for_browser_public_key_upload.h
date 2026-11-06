@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser public key upload request handler header
+// summary: Declares the request handler class for browser public key upload requests handled by the embedded policy test server.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_BROWSER_PUBLIC_KEY_UPLOAD_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_BROWSER_PUBLIC_KEY_UPLOAD_H_
 

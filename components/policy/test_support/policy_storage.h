@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy storage header
+// summary: Declares PolicyStorage, which stores policies and related preferences to be applied to registered browsers in tests.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_POLICY_STORAGE_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_POLICY_STORAGE_H_
 

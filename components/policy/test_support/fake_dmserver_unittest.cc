@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device management server unit tests
+// summary: Unit tests covering policy serving, external policies and client state handling of the fake device management server.
+// ---
+
 #include "components/policy/test_support/fake_dmserver.h"
 
 #include <memory>

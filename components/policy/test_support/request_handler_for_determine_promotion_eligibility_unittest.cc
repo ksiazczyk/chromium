@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promotion eligibility request handler unit tests
+// summary: Parameterized unit tests checking that the handler returns the expected promotion eligibility list for unspecified, Core, and Premium OAuth tokens.
+// ---
+
 #include "components/policy/test_support/request_handler_for_determine_promotion_eligibility.h"
 
 #include "base/test/protobuf_matchers.h"

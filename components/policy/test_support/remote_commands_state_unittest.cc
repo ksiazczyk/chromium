@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteCommandsState unit tests
+// summary: Unit tests covering pending command queuing, acknowledgement checks, result retrieval and state reset for RemoteCommandsState.
+// ---
+
 #include "components/policy/test_support/remote_commands_state.h"
 
 #include "components/policy/proto/device_management_backend.pb.h"

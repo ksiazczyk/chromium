@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Check Android management request handler header
+// summary: Declares the check Android management request handler class and the managed and unmanaged auth token constants.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_CHECK_ANDROID_MANAGEMENT_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REQUEST_HANDLER_FOR_CHECK_ANDROID_MANAGEMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteCommandsState class header
+// summary: Declares the state store for pending remote commands, results and acknowledgements, including its observer interface for tests.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REMOTE_COMMANDS_STATE_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REMOTE_COMMANDS_STATE_H_
 

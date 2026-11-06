@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSM auto enrollment request handler implementation
+// summary: Implements the enterprise_psm_check request handler that responds to private set membership auto enrollment requests using private membership regression test data.
+// ---
+
 #include "components/policy/test_support/request_handler_for_psm_auto_enrollment.h"
 
 #include <vector>

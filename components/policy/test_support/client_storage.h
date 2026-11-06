@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientStorage class declaration
+// summary: Declares the ClientStorage class that stores information about clients registered with the policy test server.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_CLIENT_STORAGE_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_CLIENT_STORAGE_H_
 

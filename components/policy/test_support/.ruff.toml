@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for policy test support
+# summary: Extends the repository-wide Ruff lint configuration and sets the indent width to 2 for this directory.
+# ---
+
 extend = "../../.ruff.toml"
 indent-width = 2

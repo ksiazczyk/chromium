@@ -1,0 +1,4 @@
+# Docerion header of test_suite_all.py.
+type: test
+title: Aggregate unit test suite for template writers
+summary: Test suite that collects and runs all template writer and policy template generator unit tests, exiting with the error and failure count.

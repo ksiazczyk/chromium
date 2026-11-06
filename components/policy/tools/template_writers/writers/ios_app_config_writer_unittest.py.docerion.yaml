@@ -1,0 +1,4 @@
+# Docerion header of ios_app_config_writer_unittest.py.
+type: test
+title: Unit tests for the iOS app config writer
+summary: Unit tests verifying the generated iOS managed app configuration XML for string, int, enum and other policy types.

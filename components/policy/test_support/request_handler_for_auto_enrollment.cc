@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-enrollment request handler implementation
+// summary: Implements the auto-enrollment handler that returns matching state-key or serial hashes based on the requested modulus and remainder.
+// ---
+
 #include "components/policy/test_support/request_handler_for_auto_enrollment.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

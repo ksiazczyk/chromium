@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promotion eligibility request handler implementation
+// summary: Implements the determine_promotion_eligibility request handler, mapping OAuth tokens to Chrome Enterprise Core or Premium promotion types in test responses.
+// ---
+
 #include "components/policy/test_support/request_handler_for_determine_promotion_eligibility.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

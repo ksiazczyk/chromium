@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for policy test support
+summary: Lists the include rules that checkdeps enforces for the policy test support directory.

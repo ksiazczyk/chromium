@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteCommandsState implementation
+// summary: Implements thread-safe tracking of pending remote commands, their execution results and acknowledgements for the fake DMServer test server.
+// ---
+
 #include "components/policy/test_support/remote_commands_state.h"
 
 #include "base/logging.h"

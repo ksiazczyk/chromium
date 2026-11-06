@@ -1,0 +1,4 @@
+# Docerion header of template_writer.py.
+type: source
+title: Abstract base class for policy template writers
+summary: Defines the TemplateWriter base class that determines which policies a writer supports and provides shared helpers for generating policy templates in various formats.

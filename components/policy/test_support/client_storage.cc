@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientStorage implementation
+// summary: Implements registration, lookup, deletion, and state key hash matching for clients registered with the test server.
+// ---
+
 #include "components/policy/test_support/client_storage.h"
 
 #include <algorithm>

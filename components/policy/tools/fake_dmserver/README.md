@@ -1,3 +1,12 @@
+---
+type: readme
+title: Local Policy Testing Tools
+summary: Overview of the fake_dmserver tools and links to the ChromeOS and desktop workflows for applying local policies to a test device or local Chrome build.
+relations:
+  - documents /components/policy/tools/fake_dmserver/chromeos_instructions.md
+  - documents /components/policy/tools/fake_dmserver/desktop_instructions.md
+---
+
 # Local Policy Testing Tools
 
 The documents linked below describe the tools and workflows for applying local

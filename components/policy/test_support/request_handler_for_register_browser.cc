@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Register browser request handler implementation
+// summary: Implements the embedded policy test server handler that registers browsers and policy agents, validates enrollment tokens, and returns a fake device management token.
+// ---
+
 #include "components/policy/test_support/request_handler_for_register_browser.h"
 
 #include <iterator>

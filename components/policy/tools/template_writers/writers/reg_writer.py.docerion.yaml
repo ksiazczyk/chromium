@@ -1,0 +1,4 @@
+# Docerion header of reg_writer.py.
+type: source
+title: Windows registry policy writer
+summary: Generates Windows .reg example files that set policy values under the mandatory and recommended registry keys.

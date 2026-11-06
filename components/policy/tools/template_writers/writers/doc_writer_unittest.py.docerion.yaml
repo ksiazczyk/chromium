@@ -1,0 +1,4 @@
+# Docerion header of doc_writer_unittest.py.
+type: test
+title: Unit tests for the HTML policy template writer
+summary: Unit tests verifying that the HTML documentation writer produces the expected policy template output, messages and styles.

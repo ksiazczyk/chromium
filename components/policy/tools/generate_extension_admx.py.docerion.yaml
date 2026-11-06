@@ -1,0 +1,4 @@
+# Docerion header of generate_extension_admx.py.
+type: script
+title: ADMX group policy template generator for extensions
+summary: Command-line tool that creates ADMX and ADML group policy template files from a Chrome extension's schema.json.

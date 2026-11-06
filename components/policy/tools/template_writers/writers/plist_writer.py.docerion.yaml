@@ -1,0 +1,4 @@
+# Docerion header of plist_writer.py.
+type: source
+title: Mac plist policy manifest writer
+summary: Generates Mac Preferences Manifest plist files that describe Chrome policies for Apple Workgroup Manager, including type mappings and targets.

@@ -1,0 +1,4 @@
+# Docerion header of orchestrator.py.
+type: source
+title: Local Policy Testing Orchestrator
+summary: Automates the ChromeOS policy testing workflow by generating policy blobs, starting fake_dmserver, configuring Chrome, restarting the UI, and re-applying policy file changes.

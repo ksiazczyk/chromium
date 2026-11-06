@@ -1,0 +1,4 @@
+# Docerion header of doc_writer.py.
+type: source
+title: HTML policy template writer
+summary: Generates policy documentation templates in HTML format from policy definitions, with styled elements, paragraphs and linked URLs.

@@ -1,0 +1,4 @@
+# Docerion header of syntax_check_policy_template_json_unittest.py.
+type: test
+title: Unit tests for the policy template syntax checker
+summary: Unit tests verifying that PolicyTemplateChecker reports the expected warnings and errors for policy definitions and modified policy change lists.

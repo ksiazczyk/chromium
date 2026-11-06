@@ -1,0 +1,4 @@
+# Docerion header of policy_dump_converter.py.
+type: source
+title: Policy dump converter for fake_dmserver
+summary: Python script that converts a JSON policy export from the browser policy page into the simplified policies.json format used by the fake_dmserver local testing tools.

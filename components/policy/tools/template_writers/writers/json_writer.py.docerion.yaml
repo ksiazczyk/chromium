@@ -1,0 +1,4 @@
+# Docerion header of json_writer.py.
+type: source
+title: JSON policy template writer for Linux
+summary: Generates Linux JSON policy template files that list supported policies with commented example values.

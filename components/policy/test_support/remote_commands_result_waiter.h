@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteCommandsResultWaiter class header
+// summary: Declares a test helper that blocks until a remote command result or acknowledgement becomes available in the fake DMServer.
+// ---
+
 #ifndef COMPONENTS_POLICY_TEST_SUPPORT_REMOTE_COMMANDS_RESULT_WAITER_H_
 #define COMPONENTS_POLICY_TEST_SUPPORT_REMOTE_COMMANDS_RESULT_WAITER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of plist_strings_writer.py.
+type: source
+title: Mac plist strings writer
+summary: Writes Localizable.strings files containing localized policy titles and descriptions for the Mac policy manifest bundle.

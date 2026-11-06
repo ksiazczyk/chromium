@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser public key upload handler unit tests
+// summary: Unit tests for the browser public key upload request handler, covering browser and profile key uploads, error cases, and certificate issuance.
+// ---
+
 #include "components/policy/test_support/request_handler_for_browser_public_key_upload.h"
 
 #include <optional>

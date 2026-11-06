@@ -1,0 +1,4 @@
+# Docerion header of gpo_editor_writer.py.
+type: source
+title: GPO editor writer base class
+summary: Abstract superclass for ADM and ADMX writers that collects deprecated and removed policies into dedicated policy groups.

@@ -1,0 +1,4 @@
+# Docerion header of json_writer_unittest.py.
+type: test
+title: JSON writer unit tests
+summary: Unit tests comparing the JSON writer output with expected Linux policy templates, covering empty lists, main policies, and recommended-only policies.

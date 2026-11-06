@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device attribute update permission request handler implementation
+// summary: Implements the device_attribute_update_permission request handler, reporting whether device attribute updates are allowed based on the policy storage setting.
+// ---
+
 #include "components/policy/test_support/request_handler_for_device_attribute_update_permission.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

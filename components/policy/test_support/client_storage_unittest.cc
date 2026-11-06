@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ClientStorage
+// summary: Tests client registration, deletion, and matching of state key hashes in ClientStorage.
+// ---
+
 #include "components/policy/test_support/client_storage.h"
 
 #include <string_view>

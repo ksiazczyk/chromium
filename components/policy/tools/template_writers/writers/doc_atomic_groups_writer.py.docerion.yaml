@@ -1,0 +1,4 @@
+# Docerion header of doc_atomic_groups_writer.py.
+type: source
+title: Atomic policy groups HTML writer
+summary: Generates an HTML page listing atomic policy groups for publication on the Chromium site, using inline style attributes and a restricted set of elements.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded policy test server unit tests
+// summary: Unit tests verifying request handling of the embedded policy test server, including invalid request types and missing parameters.
+// ---
+
 #include "components/policy/test_support/embedded_policy_test_server.h"
 
 #include <string_view>

@@ -1,0 +1,4 @@
+# Docerion header of jamf_writer_unittest.py.
+type: test
+title: Jamf writer unit tests
+summary: Unit tests that check the Jamf writer's JSON manifest output for string, integer, enum, list, and dictionary policy types.
