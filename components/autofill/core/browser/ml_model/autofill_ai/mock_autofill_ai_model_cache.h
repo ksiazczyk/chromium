@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Autofill AI model cache
+// summary: GoogleMock mock of AutofillAiModelCache that stubs update, contains, erase and prediction-query methods for use in Autofill AI unit tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_AUTOFILL_AI_MOCK_AUTOFILL_AI_MODEL_CACHE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_AUTOFILL_AI_MOCK_AUTOFILL_AI_MODEL_CACHE_H_
 

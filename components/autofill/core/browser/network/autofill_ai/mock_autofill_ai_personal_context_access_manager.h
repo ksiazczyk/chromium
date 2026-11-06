@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Autofill AI personal context access manager interface
+// summary: Declares a GMock implementation of the Autofill AI personal context access manager interface for use in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_NETWORK_AUTOFILL_AI_MOCK_AUTOFILL_AI_PERSONAL_CONTEXT_ACCESS_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_NETWORK_AUTOFILL_AI_MOCK_AUTOFILL_AI_PERSONAL_CONTEXT_ACCESS_MANAGER_H_
 

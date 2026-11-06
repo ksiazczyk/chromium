@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model predictions class declaration
+// summary: Declares ModelPredictions, which holds the per-field type predictions returned by the field classification model handler.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_MODEL_PREDICTIONS_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_ML_MODEL_MODEL_PREDICTIONS_H_
 

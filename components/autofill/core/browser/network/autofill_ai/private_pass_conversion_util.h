@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivatePass conversion utility declarations
+// summary: Declares EntityInstanceToPrivatePass, which converts private pass entities such as passports and driver licenses to wallet::PrivatePass protos.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_NETWORK_AUTOFILL_AI_PRIVATE_PASS_CONVERSION_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_NETWORK_AUTOFILL_AI_PRIVATE_PASS_CONVERSION_UTIL_H_
 

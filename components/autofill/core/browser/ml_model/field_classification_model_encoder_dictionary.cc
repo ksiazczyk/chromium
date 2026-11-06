@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field classification model encoder dictionary implementation
+// summary: Implements a memory-efficient token dictionary that packs vocabulary strings into one contiguous buffer and supports binary-search token ID lookups.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_encoder_dictionary.h"
 
 #include <algorithm>

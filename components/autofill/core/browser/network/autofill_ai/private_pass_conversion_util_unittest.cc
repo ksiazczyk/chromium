@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivatePass conversion util unit tests
+// summary: Unit tests verifying conversion of passport, driver license, ID card and other entities into wallet PrivatePass protos with correct field values.
+// ---
+
 #include "components/autofill/core/browser/network/autofill_ai/private_pass_conversion_util.h"
 
 #include <stdint.h>

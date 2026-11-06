@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field classification model encoder dictionary unit tests
+// summary: Unit tests verifying dictionary initialization, token-to-ID and ID-to-token lookups, and behavior for empty and unsorted vocabularies.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_encoder_dictionary.h"
 
 #include <string>

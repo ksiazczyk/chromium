@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAiModelCache FieldPrediction definitions
+// summary: Implements the constructors, assignment operators and destructor of the AutofillAiModelCache::FieldPrediction struct.
+// ---
+
 #include "components/autofill/core/browser/ml_model/autofill_ai/autofill_ai_model_cache.h"
 
 #include <optional>

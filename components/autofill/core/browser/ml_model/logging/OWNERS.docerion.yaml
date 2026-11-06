@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the autofill ML logging directory
+summary: Inherits owners from the autofill component and requires IPC security review for changes to .mojom files.

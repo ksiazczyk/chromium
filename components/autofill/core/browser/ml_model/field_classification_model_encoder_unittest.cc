@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field classification model encoder unit tests
+// summary: Unit tests for form and field encoding that load test model metadata and verify tokenization and the resulting encoded model input.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_encoder.h"
 
 #include <string>

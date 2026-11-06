@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field classification model encoder implementation
+// summary: Implements vectorization for the on-device autofill field type prediction ML model, standardizing and tokenizing form and field attributes into token IDs.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_encoder.h"
 
 #include <stddef.h>

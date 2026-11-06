@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field classification model executor implementation
+// summary: Implements preprocessing of encoded model input into TFLite tensors and postprocessing of output tensors for the field classification model.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_executor.h"
 
 #include <stddef.h>

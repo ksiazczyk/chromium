@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field classification model executor unit tests
+// summary: Unit tests that execute the autofill field classification model on tokenized form inputs using a bundled tflite test model.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_executor.h"
 
 #include "base/base_paths.h"

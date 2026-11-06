@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personal context conversion util unit tests
+// summary: Unit tests verifying conversion of passport, driver license and other personal context entities into Autofill AI EntityInstances, including masked variants.
+// ---
+
 #include "components/autofill/core/browser/network/autofill_ai/personal_context_conversion_util.h"
 
 #include <optional>

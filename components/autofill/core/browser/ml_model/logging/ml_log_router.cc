@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ML log router
+// summary: Implements MlLogRouter, forwarding ML prediction logs to registered observers and managing the observer list.
+// ---
+
 #include "components/autofill/core/browser/ml_model/logging/ml_log_router.h"
 
 #include "components/autofill/core/browser/ml_model/logging/autofill_ml_internals.mojom.h"

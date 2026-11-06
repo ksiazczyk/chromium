@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalletPassAccessManagerImpl implementation
+// summary: Implements wallet pass save, update and unmask requests against the Wallet HTTP client, including response-to-entity conversion and unmasked entity caching.
+// ---
+
 #include "components/autofill/core/browser/network/autofill_ai/wallet_pass_access_manager_impl.h"
 
 #include <memory>

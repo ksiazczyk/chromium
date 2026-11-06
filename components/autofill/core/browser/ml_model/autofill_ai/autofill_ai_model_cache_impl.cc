@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillAiModelCacheImpl LevelDB-backed implementation
+// summary: Implements the AutofillAI model cache with LevelDB persistence, an in-memory map, trimming by size and age, and reaction to history deletions.
+// ---
+
 #include "components/autofill/core/browser/ml_model/autofill_ai/autofill_ai_model_cache_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field classification model executor performance tests
+// summary: Performance tests measuring model loading and inference time for the field classification model executor using internal and external test models.
+// ---
+
 #include "components/autofill/core/browser/ml_model/field_classification_model_executor.h"
 
 #include "base/base_paths.h"
