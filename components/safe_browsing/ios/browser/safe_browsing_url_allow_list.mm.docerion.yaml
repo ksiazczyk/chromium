@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_url_allow_list.mm.
+type: source
+title: Safe Browsing URL allow list implementation
+summary: Implements storing, updating, and notifying observers of per-domain threat policies for unsafe navigations.

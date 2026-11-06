@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for new tab page feature flags
+// summary: Declares the NTP feature constants and related enums defined in ntp_features.cc for use across the browser.
+// ---
+
 #ifndef COMPONENTS_SEARCH_NTP_FEATURES_H_
 #define COMPONENTS_SEARCH_NTP_FEATURES_H_
 

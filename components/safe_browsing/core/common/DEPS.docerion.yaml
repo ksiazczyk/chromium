@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Safe Browsing common include rules
+summary: DEPS file listing the directories and headers that code in this Safe Browsing common directory is allowed to include.

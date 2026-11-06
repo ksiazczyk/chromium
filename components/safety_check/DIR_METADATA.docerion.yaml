@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Safety check component metadata
+summary: Maps the directory to the UI>Settings>SafetyCheck component, team email and public bug tracker component.

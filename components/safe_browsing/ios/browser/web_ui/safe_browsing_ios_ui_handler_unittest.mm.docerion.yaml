@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_ios_ui_handler_unittest.mm.
+type: test
+title: iOS Safe Browsing UI handler unit tests
+summary: Verifies that CRSBLOG skips evaluation without listeners and that the handler registers and unregisters its observer with the WebUI singleton.

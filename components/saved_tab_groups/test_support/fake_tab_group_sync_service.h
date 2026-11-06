@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake tab group sync service header
+// summary: Declares the fake TabGroupSyncService test double that implements the service interface with in-memory state.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_FAKE_TAB_GROUP_SYNC_SERVICE_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_FAKE_TAB_GROUP_SYNC_SERVICE_H_
 

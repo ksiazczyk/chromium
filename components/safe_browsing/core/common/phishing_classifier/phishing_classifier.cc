@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing classifier implementation
+// summary: Implements the phishing classification flow, extracting visual features from the page image and producing a phishing verdict.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/phishing_classifier.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of chrome_ios_safe_browsing_local_state_delegate.mm.
+type: source
+title: Chrome iOS Safe Browsing local state delegate implementation
+summary: Implements GetLocalState by returning the local state PrefService from the iOS application context.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Saved tab groups GN build targets
+summary: GN build file grouping unit test targets for the internal and public saved tab groups code, Android JUnit tests, and the components_unittests gtest filter data.

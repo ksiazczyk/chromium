@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS Safe Browsing browser
+summary: Lists the directories whose headers this iOS Safe Browsing browser folder is allowed to include.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Safety check
+summary: Describes the component holding code common to desktop, Android and iOS for the safety check settings page, currently covering Safe Browsing status.
+---
+
 Safety check
 
 This component contains code common to desktop, Android, and iOS for the

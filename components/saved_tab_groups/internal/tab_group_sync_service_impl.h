@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync service implementation header
+// summary: Declares TabGroupSyncServiceImpl, the internal implementation of TabGroupSyncService that manages the model, sync bridges, observers, and identity changes.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_TAB_GROUP_SYNC_SERVICE_IMPL_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_TAB_GROUP_SYNC_SERVICE_IMPL_H_
 

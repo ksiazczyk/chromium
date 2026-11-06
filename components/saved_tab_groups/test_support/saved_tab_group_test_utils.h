@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group test utilities header
+// summary: Declares test matchers and helper functions for creating, comparing, and generating saved tab group test data.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_SAVED_TAB_GROUP_TEST_UTILS_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_SAVED_TAB_GROUP_TEST_UTILS_H_
 

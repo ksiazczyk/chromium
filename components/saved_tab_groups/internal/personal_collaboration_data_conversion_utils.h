@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal collaboration data conversion utilities header
+// summary: Declares helpers for converting saved tab groups and tabs to personal collaboration data sync specifics plus time and client tag handling.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_PERSONAL_COLLABORATION_DATA_CONVERSION_UTILS_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_PERSONAL_COLLABORATION_DATA_CONVERSION_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tab group data sync bridge implementation
+// summary: Implements the sync bridge for the SHARED_TAB_GROUP_DATA data type, including color conversions, unique positions, and collaboration metadata handling for shared tab groups.
+// ---
+
 #include "components/saved_tab_groups/internal/shared_tab_group_data_sync_bridge.h"
 
 #include <map>

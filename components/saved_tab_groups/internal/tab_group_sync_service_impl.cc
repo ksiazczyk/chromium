@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync service implementation
+// summary: Implements the internal TabGroupSyncService, coordinating sync bridges, tab title sanitization, metrics logging, and cleanup of saved and shared tab groups.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_service_impl.h"
 
 #include <algorithm>

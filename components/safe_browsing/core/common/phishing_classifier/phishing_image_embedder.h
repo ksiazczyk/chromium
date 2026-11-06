@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing image embedder class declaration
+// summary: Declares PhishingImageEmbedder, which computes image feature embeddings and visual features from page images for phishing detection.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_PHISHING_IMAGE_EMBEDDER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_PHISHING_IMAGE_EMBEDDER_H_
 

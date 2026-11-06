@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StubURLChecker test support implementation
+// summary: Builds a URLChecker backed by a SafeSearchURLCheckerClient and queues canned SafeSearch API responses or failures for tests.
+// ---
+
 #include "components/safe_search_api/stub_url_checker.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLChecker header for SafeSearch URL classification
+// summary: Declares the URLChecker class plus the Classification, ClassificationDetails and CacheAccessStatus types used for asynchronous SafeSearch URL checks with caching.
+// ---
+
 #ifndef COMPONENTS_SAFE_SEARCH_API_URL_CHECKER_H_
 #define COMPONENTS_SAFE_SEARCH_API_URL_CHECKER_H_
 

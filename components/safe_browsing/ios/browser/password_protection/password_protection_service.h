@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordProtectionService header
+// summary: Declares the iOS password protection service interface for starting protected password entry requests and logging sync password reuse events.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_PASSWORD_PROTECTION_PASSWORD_PROTECTION_SERVICE_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_PASSWORD_PROTECTION_PASSWORD_PROTECTION_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for hash real-time utils
+summary: GN build file defining the hash_realtime_utils static library and its unit test target with their dependencies.

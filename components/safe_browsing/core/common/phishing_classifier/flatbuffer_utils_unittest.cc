@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Flatbuffer verification unit tests
+// summary: Builds well-formed and malformed flatbuffer test models and checks that verification accepts or rejects them correctly.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/flatbuffer_utils.h"
 
 #include <stdint.h>

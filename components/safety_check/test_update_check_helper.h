@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test update check helper header
+// summary: Declares a test version of UpdateCheckHelper used to fake connectivity checks in tests.
+// ---
+
 #ifndef COMPONENTS_SAFETY_CHECK_TEST_UPDATE_CHECK_HELPER_H_
 #define COMPONENTS_SAFETY_CHECK_TEST_UPDATE_CHECK_HELPER_H_
 

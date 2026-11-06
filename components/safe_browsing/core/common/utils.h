@@ -4,6 +4,12 @@
 //
 // Safe Browsing utility functions.
 
+// ---docerion
+// type: source
+// title: Safe Browsing utility function declarations
+// summary: Declares Safe Browsing helpers for URL shortening, reputation checks, access tokens, retriable errors, and interstitial threat strings.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_UTILS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_UTILS_H_
 

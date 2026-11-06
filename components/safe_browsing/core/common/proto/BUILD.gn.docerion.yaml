@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing proto build definitions
+summary: GN build file defining proto_library, proto_extras and fuzzable proto targets for the Safe Browsing proto files.

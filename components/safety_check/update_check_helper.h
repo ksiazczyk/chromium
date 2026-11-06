@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update check helper header
+// summary: Declares the helper that verifies connectivity for the update check part of Safety Check.
+// ---
+
 #ifndef COMPONENTS_SAFETY_CHECK_UPDATE_CHECK_HELPER_H_
 #define COMPONENTS_SAFETY_CHECK_UPDATE_CHECK_HELPER_H_
 

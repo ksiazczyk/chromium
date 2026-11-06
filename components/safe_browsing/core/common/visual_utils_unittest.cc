@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Visual utils unit tests
+// summary: Unit tests for Safe Browsing visual utils, verifying image blurring and pixel color output.
+// ---
+
 #include "components/safe_browsing/core/common/visual_utils.h"
 
 #include <array>

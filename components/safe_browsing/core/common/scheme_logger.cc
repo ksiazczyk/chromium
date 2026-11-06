@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL scheme histogram logging implementation
+// summary: Maps URL schemes to a fixed enum and records them as enumeration histograms for Safe Browsing metrics.
+// ---
+
 #include "components/safe_browsing/core/common/scheme_logger.h"
 
 #include <string_view>

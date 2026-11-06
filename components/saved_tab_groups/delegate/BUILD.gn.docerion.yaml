@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for saved tab group delegate
+summary: GN build file defining the delegate source set with its sources and dependencies for the saved tab groups component.

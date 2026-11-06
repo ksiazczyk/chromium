@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Safe Browsing WebUI message handler header
+// summary: Declares SafeBrowsingIOSUIHandler, which adapts the shared Safe Browsing UI handler to the iOS WebUI message handler interface.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_SAFE_BROWSING_IOS_UI_HANDLER_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_SAFE_BROWSING_IOS_UI_HANDLER_H_
 

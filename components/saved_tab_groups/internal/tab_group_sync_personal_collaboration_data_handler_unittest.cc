@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync personal collaboration data handler unit tests
+// summary: Unit tests verifying that the personal collaboration data handler applies specifics updates and keeps tab group changes in sync with the collaboration data service.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_personal_collaboration_data_handler.h"
 
 #include <memory>

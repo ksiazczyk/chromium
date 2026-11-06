@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing command-line switches
+// summary: Defines command-line switches for Safe Browsing testing and debugging, covering lookup APIs, client-side detection, password protection, and cloud scanning.
+// ---
+
 #include "components/safe_browsing/core/common/safebrowsing_switches.h"
 
 namespace safe_browsing::switches {

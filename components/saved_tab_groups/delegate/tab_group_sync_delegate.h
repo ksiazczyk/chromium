@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync delegate interface
+// summary: Declares the platform-specific TabGroupSyncDelegate interface for applying remote sync updates to the local tab model and propagating local changes to sync.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_DELEGATE_TAB_GROUP_SYNC_DELEGATE_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_DELEGATE_TAB_GROUP_SYNC_DELEGATE_H_
 

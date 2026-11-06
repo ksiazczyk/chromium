@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync data type configuration implementation
+// summary: Implements the constructor and destructor of the SyncDataTypeConfiguration struct holding a change processor and data type store factory.
+// ---
+
 #include "components/saved_tab_groups/internal/sync_data_type_configuration.h"
 
 #include "components/sync/model/data_type_local_change_processor.h"

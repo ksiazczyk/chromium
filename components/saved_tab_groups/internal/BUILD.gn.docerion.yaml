@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Saved tab groups internal build targets (BUILD.gn)
+summary: GN build file defining source sets for the saved tab groups internal component, including the model, migration, and Android Java targets.

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for Safe Browsing proto changes
+# summary: Presubmit script that warns reviewers when Safe Browsing protos change without matching updates to the extension API or internal repository copies.
+# ---
+
 
 def CheckChangeOnUpload(input_api, output_api):
     results = []

@@ -4,6 +4,12 @@
 //
 // Safe Browsing preferences and some basic utility functions for using them.
 
+// ---docerion
+// type: source
+// title: Safe Browsing preferences declarations
+// summary: Declares Safe Browsing preference names and utility functions for reading and managing Safe Browsing and enhanced protection settings.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFE_BROWSING_PREFS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFE_BROWSING_PREFS_H_
 

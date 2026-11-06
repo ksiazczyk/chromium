@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatbuffer model verification header
+// summary: Declares VerifyCSDFlatBufferIndicesAndFields for validating flatbuffer client-side phishing models.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_FLATBUFFER_UTILS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_FLATBUFFER_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared tab group account data sync bridge unit tests
+// summary: Unit tests for the shared tab group account data sync bridge, covering client tags, storage keys, specifics trimming, and model observer notifications.
+// ---
+
 #include "components/saved_tab_groups/internal/shared_tab_group_account_data_sync_bridge.h"
 
 #include "base/run_loop.h"

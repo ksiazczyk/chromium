@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync service test utilities
+// summary: Provides a test factory for creating a TabGroupSyncService with a supplied model and an empty collaboration finder for use in tests.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_service_test_utils.h"
 
 #include "base/version_info/channel.h"

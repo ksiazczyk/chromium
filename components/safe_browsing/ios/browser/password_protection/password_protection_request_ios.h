@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordProtectionRequestIOS header
+// summary: Declares the iOS-specific password protection request class that tracks the WebState and logs password reuse lookup events.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_PASSWORD_PROTECTION_PASSWORD_PROTECTION_REQUEST_IOS_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_PASSWORD_PROTECTION_PASSWORD_PROTECTION_REQUEST_IOS_H_
 

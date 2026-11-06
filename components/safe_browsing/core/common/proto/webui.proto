@@ -4,6 +4,12 @@
 
 // This file includes Safe Browsing WebUI protocol buffer.
 
+// ---docerion
+// type: source
+// title: Safe Browsing WebUI protos
+// summary: Defines protocol buffers describing Safe Browsing database manager, store and full hash cache state for display in the WebUI.
+// ---
+
 syntax = "proto2";
 
 package safe_browsing;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync service JNI bridge implementation
+// summary: Java side of the JNI bridge implementing TabGroupSyncService, delegating group and tab mutation and observer calls to the native C++ service.
+// ---
+
 package org.chromium.components.tab_group_sync;
 
 import org.jni_zero.CalledByNative;

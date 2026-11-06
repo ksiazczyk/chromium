@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeSearchURLCheckerClient header
+// summary: Declares the SafeSearchURLCheckerClient class, which asynchronously checks URLs against the SafeSearch API and reports classification results via callback.
+// ---
+
 #ifndef COMPONENTS_SAFE_SEARCH_API_SAFE_SEARCH_SAFE_SEARCH_URL_CHECKER_CLIENT_H_
 #define COMPONENTS_SAFE_SEARCH_API_SAFE_SEARCH_SAFE_SEARCH_URL_CHECKER_CLIENT_H_
 

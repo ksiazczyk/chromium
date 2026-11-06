@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search helper implementations
+// summary: Implements helpers that report Instant Extended API availability and whether the default search provider is Google.
+// ---
+
 #include "components/search/search.h"
 
 #include "base/feature_list.h"

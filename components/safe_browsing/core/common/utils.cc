@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing utility function implementations
+// summary: Implements helpers for URL reporting, profile management status, pref-based delays, HTTP response metrics, and threat metric suffixes.
+// ---
+
 #include "components/safe_browsing/core/common/utils.h"
 
 #include <algorithm>

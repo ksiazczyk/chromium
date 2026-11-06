@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing status check implementation
+// summary: Implements determining the Safe Browsing status from preferences and returns the unused site permissions revocation cleanup threshold.
+// ---
+
 #include "components/safety_check/safety_check.h"
 
 #include "components/safe_browsing/core/common/safe_browsing_prefs.h"

@@ -1,0 +1,4 @@
+# Docerion header of metadata.mojom.
+type: source
+title: Schema.org metadata mojom definitions
+summary: Mojom definitions of schema.org metadata entities and properties, with values restricted to a single type for AppIndexing.

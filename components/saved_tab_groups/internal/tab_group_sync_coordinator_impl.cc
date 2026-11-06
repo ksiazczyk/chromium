@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncCoordinatorImpl implementation
+// summary: Implements the tab group sync coordinator, running startup reconciliation and forwarding service updates and open requests to the platform delegate.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_coordinator_impl.h"
 
 #include "base/uuid.h"

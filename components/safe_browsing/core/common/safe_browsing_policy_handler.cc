@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing policy handler implementation
+// summary: Implements validation and application of the SafeBrowsingEnabled and SafeBrowsingProtectionLevel policies to Safe Browsing preferences.
+// ---
+
 #include "components/safe_browsing/core/common/safe_browsing_policy_handler.h"
 
 #include <optional>

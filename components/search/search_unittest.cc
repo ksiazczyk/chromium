@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search component unit tests for TemplateURLIsGoogle
+// summary: Unit tests verifying that TemplateURLIsGoogle correctly identifies Google search and suggestion URLs, including spoofed engines, subdomains, placeholders, and non-HTTPS URLs.
+// ---
+
 #include "components/search/search.h"
 
 #include "base/test/scoped_command_line.h"

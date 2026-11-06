@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity check URL constant
+// summary: Defines the gstatic connectivity check URL used by the Safety Check update check.
+// ---
+
 #include "components/safety_check/url_constants.h"
 
 namespace safety_check {

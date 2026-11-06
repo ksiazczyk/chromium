@@ -1,0 +1,4 @@
+# Docerion header of SAFE_BROWSING_FEATURE_OWNERS.
+type: config
+title: Safe Browsing feature owners list
+summary: Lists the reviewers who own additions and removals of Safe Browsing features in features.h and features.cc.

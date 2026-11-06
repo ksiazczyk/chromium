@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety check statuses and utilities header
+// summary: Declares password, Safe Browsing and update status enums shared across platforms plus the Safe Browsing check API.
+// ---
+
 #ifndef COMPONENTS_SAFETY_CHECK_SAFETY_CHECK_H_
 #define COMPONENTS_SAFETY_CHECK_SAFETY_CHECK_H_
 

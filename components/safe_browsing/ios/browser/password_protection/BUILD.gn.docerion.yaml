@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for iOS password protection
+summary: Defines the password_protection source_set with its iOS sources and dependencies for the Chromium build.

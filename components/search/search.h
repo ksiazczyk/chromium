@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search helper declarations
+// summary: Declares search namespace functions for Instant Extended API state and checks that a template URL resolves to Google search.
+// ---
+
 #ifndef COMPONENTS_SEARCH_SEARCH_H_
 #define COMPONENTS_SEARCH_SEARCH_H_
 

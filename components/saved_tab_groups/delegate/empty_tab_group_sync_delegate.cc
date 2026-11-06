@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty tab group sync delegate implementation
+// summary: Implements a no-op TabGroupSyncDelegate whose methods return empty results or do nothing for tab group sync operations.
+// ---
+
 #include "components/saved_tab_groups/delegate/empty_tab_group_sync_delegate.h"
 
 #include "base/uuid.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing flatbuffer build targets
+summary: GN build file defining flatbuffer generation targets for the csd and client_model schemas with mutable output.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome iOS Safe Browsing local state delegate header
+// summary: Declares ChromeIOSSafeBrowsingLocalStateDelegate, the iOS implementation of the Safe Browsing local state delegate.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_CHROME_IOS_SAFE_BROWSING_LOCAL_STATE_DELEGATE_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_CHROME_IOS_SAFE_BROWSING_LOCAL_STATE_DELEGATE_H_
 

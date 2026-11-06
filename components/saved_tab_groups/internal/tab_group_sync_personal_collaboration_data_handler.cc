@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncPersonalCollaborationDataHandler implementation
+// summary: Applies personal collaboration data specifics to the saved tab group model and writes shared tab group position changes back to the collaboration service.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_personal_collaboration_data_handler.h"
 
 #include <optional>

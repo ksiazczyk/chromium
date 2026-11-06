@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupSyncCoordinatorImpl unit tests
+// summary: Unit tests for the tab group sync coordinator, using mock service and delegate to verify open, connect, add, update, and remove group handling.
+// ---
+
 #include "base/uuid.h"
 #include "components/pref_registry/pref_registry_syncable.h"
 #include "components/prefs/testing_pref_service.h"

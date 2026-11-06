@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scorer implementation
+// summary: Implements Scorer, which loads the client-side phishing model and applies TfLite visual classification and image embedding models to images.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/scorer.h"
 
 #include <math.h>

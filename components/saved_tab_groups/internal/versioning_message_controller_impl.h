@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Versioning message controller implementation header
+// summary: Declares the internal implementation of the versioning message controller, which decides when Chrome update messages for shared tab groups should be shown.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_VERSIONING_MESSAGE_CONTROLLER_IMPL_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_VERSIONING_MESSAGE_CONTROLLER_IMPL_H_
 

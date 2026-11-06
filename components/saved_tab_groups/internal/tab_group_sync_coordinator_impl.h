@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncCoordinatorImpl class declaration
+// summary: Declares the TabGroupSyncCoordinator implementation, including the ordered startup routine that reconciles local tab groups with sync state.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_TAB_GROUP_SYNC_COORDINATOR_IMPL_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_TAB_GROUP_SYNC_COORDINATOR_IMPL_H_
 

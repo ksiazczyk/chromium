@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Lists the code owners for saved_tab_groups and adds a per-file owner rule delegating sync bridge changes to the sync component owners.

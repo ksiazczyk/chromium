@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock tab group sync service header
+// summary: Declares a gmock-based mock of TabGroupSyncService stubbing all service methods for unit tests.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_MOCK_TAB_GROUP_SYNC_SERVICE_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_MOCK_TAB_GROUP_SYNC_SERVICE_H_
 

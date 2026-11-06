@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group type observer unit tests
+// summary: Unit tests verifying that TabGroupTypeObserver updates synthetic field trial state for saved and shared tab groups on initialization and when groups are added.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_type_observer.h"
 
 #include "base/functional/callback_helpers.h"

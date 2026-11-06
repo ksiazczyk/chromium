@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeURLCheckerClient implementation
+// summary: Implements a fake URL checker client that stores the checked URL and callback so tests can run the callback with a chosen classification.
+// ---
+
 #include "components/safe_search_api/fake_url_checker_client.h"
 
 #include <utility>

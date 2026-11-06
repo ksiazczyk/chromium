@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android unit tests for the Instant Extended API
+// summary: Verifies that IsInstantExtendedAPIEnabled on Android follows the kNtpEnableInstantApiAndroid feature flag.
+// ---
+
 #include "components/search/search.h"
 
 #include "base/test/scoped_feature_list.h"

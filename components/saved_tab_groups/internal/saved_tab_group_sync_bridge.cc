@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group sync bridge implementation
+// summary: Implements the sync bridge that synchronizes saved tab groups between the local model and the sync server, persisting data locally and discarding orphaned entries after 30 days.
+// ---
+
 #include "components/saved_tab_groups/internal/saved_tab_group_sync_bridge.h"
 
 #include <algorithm>

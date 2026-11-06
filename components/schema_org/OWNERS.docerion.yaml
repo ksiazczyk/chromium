@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Schema_org OWNERS
+summary: Lists steimel@chromium.org as the code owner for the schema_org component directory.

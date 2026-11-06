@@ -1,0 +1,4 @@
+# Docerion header of request_canceler_ios.mm.
+type: source
+title: RequestCancelerIOS implementation
+summary: Implements the iOS request canceler, creating cancelers and canceling requests when the observed WebState is destroyed.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tab group data proto definition
+// summary: Defines LocalSharedTabGroupData and SharedTabGroupData messages for storing shared tab group sync data together with local-only metadata.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

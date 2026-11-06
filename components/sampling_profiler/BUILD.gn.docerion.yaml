@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the sampling profiler
+summary: Defines the sampling_profiler and profile_params source sets with their public headers and dependencies for the Chromium build.

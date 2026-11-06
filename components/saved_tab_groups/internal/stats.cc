@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group metrics implementation
+// summary: Implements histogram and user metrics recording for saved tab group counts, ages, pinned and open groups, and tab count mismatches.
+// ---
+
 #include "components/saved_tab_groups/internal/stats.h"
 
 #include "base/metrics/histogram_functions.h"

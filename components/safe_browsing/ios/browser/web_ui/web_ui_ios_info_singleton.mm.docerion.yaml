@@ -1,0 +1,4 @@
+# Docerion header of web_ui_ios_info_singleton.mm.
+type: source
+title: WebUIIOSInfoSingleton implementation
+summary: Implements WebUIIOSInfoSingleton, posting log messages to the UI thread and obtaining the cookie manager from the application context.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process and thread type enums for the profiler
+// summary: Declares enums identifying which Chromium process and thread types are being profiled.
+// ---
+
 #ifndef COMPONENTS_SAMPLING_PROFILER_PROCESS_TYPE_H_
 #define COMPONENTS_SAMPLING_PROFILER_PROCESS_TYPE_H_
 

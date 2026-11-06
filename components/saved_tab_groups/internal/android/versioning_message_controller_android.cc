@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersioningMessageController Android JNI bridge implementation
+// summary: Implements the C++ side of the VersioningMessageController JNI bridge, forwarding message UI state queries and shown or dismissed events to native.
+// ---
+
 #include "components/saved_tab_groups/internal/android/versioning_message_controller_android.h"
 
 #include "base/android/callback_android.h"

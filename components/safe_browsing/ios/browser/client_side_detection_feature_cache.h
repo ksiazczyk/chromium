@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client side detection feature cache header
+// summary: Declares the WebState-attached cache for client-side phishing detection verdicts used by CSD-Phishing and PhishGuard.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_CLIENT_SIDE_DETECTION_FEATURE_CACHE_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_CLIENT_SIDE_DETECTION_FEATURE_CACHE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab group stats unit tests
+// summary: Unit tests verifying that stats functions emit the expected histogram samples for group metrics, migration results, and parse failure counts.
+// ---
+
 #include "components/saved_tab_groups/internal/stats.h"
 
 #include "base/test/metrics/histogram_tester.h"

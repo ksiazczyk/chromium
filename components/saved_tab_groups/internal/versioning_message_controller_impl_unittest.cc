@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Versioning message controller unit tests
+// summary: Unit tests covering versioning message eligibility and preference handling across data sharing feature flag combinations and shared tab group states.
+// ---
+
 #include "components/saved_tab_groups/internal/versioning_message_controller_impl.h"
 
 #include <memory>

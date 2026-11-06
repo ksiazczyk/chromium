@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page feature flag definitions
+// summary: Defines base::Feature flags and field trial parameters for NTP features such as wallpaper search, realbox theming and content modules.
+// ---
+
 #include "components/search/ntp_features.h"
 
 #include <string>

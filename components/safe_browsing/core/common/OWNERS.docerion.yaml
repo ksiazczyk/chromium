@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safe Browsing common OWNERS rules
+summary: Sets per-file ownership rules, delegating mojom and message files to IPC security owners and feature and prefs files to the Safe Browsing feature owners.

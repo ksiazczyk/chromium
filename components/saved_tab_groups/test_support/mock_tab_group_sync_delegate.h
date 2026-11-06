@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock tab group sync delegate header
+// summary: Declares a gmock-based mock of TabGroupSyncDelegate for simulating local tab group interactions in tests.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_MOCK_TAB_GROUP_SYNC_DELEGATE_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_MOCK_TAB_GROUP_SYNC_DELEGATE_H_
 

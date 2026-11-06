@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync service implementation unit tests
+// summary: Extensive unit tests covering TabGroupSyncServiceImpl behavior, including group lifecycle, shared attribution, metrics, and sync integration.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_service_impl.h"
 
 #include <algorithm>

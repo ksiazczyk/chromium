@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake tab group sync service implementation
+// summary: Implements an in-memory fake TabGroupSyncService that manages groups and tabs and notifies observers for tests.
+// ---
+
 #include "components/saved_tab_groups/test_support/fake_tab_group_sync_service.h"
 
 #include <algorithm>

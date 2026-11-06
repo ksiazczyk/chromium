@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing setting referral method enum
+// summary: Defines an enum of the ways users can be referred to the security settings page through promotions.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFEBROWSING_REFERRAL_METHODS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFEBROWSING_REFERRAL_METHODS_H_
 

@@ -7,6 +7,12 @@
 // only portion of the V5 API that Chrome currently uses. They should be kept in
 // sync with the server implementation.
 
+// ---docerion
+// type: source
+// title: Safe Browsing V5 API hash search protos
+// summary: Defines protocol buffers for the Safe Browsing V5 SearchHashes and BatchGetHashLists requests and responses that Chrome uses.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

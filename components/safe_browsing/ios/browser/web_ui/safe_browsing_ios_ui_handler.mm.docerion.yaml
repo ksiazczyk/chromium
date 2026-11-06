@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_ios_ui_handler.mm.
+type: source
+title: Safe Browsing iOS UI handler implementation
+summary: Implements the iOS Safe Browsing WebUI message handler, wiring JavaScript callbacks, user prefs, the cookie manager and event observers.

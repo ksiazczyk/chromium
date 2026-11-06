@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for URLChecker
+// summary: Unit tests for URLChecker covering classification results, caching behaviour, cache-hit metrics and classification details using a fake URLCheckerClient.
+// ---
+
 #include "components/safe_search_api/url_checker.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phishing image embedder unit tests
+// summary: Unit tests for PhishingImageEmbedder that use a mock Scorer and a flatbuffer model to verify image embedding behavior.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/phishing_image_embedder.h"
 
 #include <memory>

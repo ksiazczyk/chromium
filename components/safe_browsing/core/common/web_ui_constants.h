@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing WebUI constants header
+// summary: Declares constants for the Safe Browsing WebUI host and its threat match pages, plus the helper function that identifies those pages.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_WEB_UI_CONSTANTS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_WEB_UI_CONSTANTS_H_
 

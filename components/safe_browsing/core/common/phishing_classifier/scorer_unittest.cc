@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scorer unit tests
+// summary: Unit tests for Scorer covering model creation from flatbuffer data and phishing score computation with test TfLite models.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/scorer.h"
 
 #include <stdint.h>

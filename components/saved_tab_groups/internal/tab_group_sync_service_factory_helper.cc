@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync service factory helper
+// summary: Implements a factory that assembles the TabGroupSyncService with sync data type configurations for saved, shared, and shared account tab group data.
+// ---
+
 #include "components/saved_tab_groups/public/tab_group_sync_service_factory_helper.h"
 
 #include "base/version_info/channel.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared tab group data sync bridge unit tests
+// summary: Unit tests for the shared tab group data sync bridge, covering merges, incremental updates, unique positions, and unsupported field trimming.
+// ---
+
 #include "components/saved_tab_groups/internal/shared_tab_group_data_sync_bridge.h"
 
 #include <algorithm>

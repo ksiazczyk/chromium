@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallStackProfileParams struct for profiling metadata
+// summary: Defines the parameters passed back to the metrics provider, covering the profiled process, thread, triggering event and time offset.
+// ---
+
 #ifndef COMPONENTS_SAMPLING_PROFILER_CALL_STACK_PROFILE_PARAMS_H_
 #define COMPONENTS_SAMPLING_PROFILER_CALL_STACK_PROFILE_PARAMS_H_
 

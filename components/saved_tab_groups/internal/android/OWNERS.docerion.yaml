@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for saved tab groups Android
+summary: Delegates code ownership for the internal Android saved tab groups directory to the OWNERS file of the public Android folder.

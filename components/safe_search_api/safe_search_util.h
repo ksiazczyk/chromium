@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeSearch utility constants and API
+// summary: Declares SafeSearch parameters, YouTube Restrict header constants, the YouTubeRestrictMode enum, and the ForceGoogleSafeSearch and ForceYouTubeRestrict functions.
+// ---
+
 #ifndef COMPONENTS_SAFE_SEARCH_API_SAFE_SEARCH_UTIL_H_
 #define COMPONENTS_SAFE_SEARCH_API_SAFE_SEARCH_UTIL_H_
 

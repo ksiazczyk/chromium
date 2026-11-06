@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash real-time lookup utility implementation
+// summary: Implements eligibility checks for hash-prefix real-time Safe Browsing lookups, including URL checks, hash detail relevance, and session or location eligibility.
+// ---
+
 #include "components/safe_browsing/core/common/hashprefix_realtime/hash_realtime_utils.h"
 
 #include <algorithm>

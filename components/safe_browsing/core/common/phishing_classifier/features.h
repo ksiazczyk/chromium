@@ -22,6 +22,12 @@
 // just a thin wrapper around a map of feature name to value.  The entire set
 // of features for a URL is extracted before we do any scoring.
 
+// ---docerion
+// type: source
+// title: Phishing feature map interface
+// summary: Declares the FeatureMap container and the feature name constants used to extract and evaluate phishing detection features.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_FEATURES_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_FEATURES_H_
 

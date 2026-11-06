@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_url_checker.mojom.
+type: source
+title: SafeBrowsingUrlChecker Mojo interface
+summary: Defines the SafeBrowsingUrlChecker Mojo interface for checking URLs and redirects so the server side can track the redirect chain.

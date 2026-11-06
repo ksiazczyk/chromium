@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing policy handler interface
+// summary: Declares the policy handler class and protection level enum that map Safe Browsing policies to managed preference values.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFE_BROWSING_POLICY_HANDLER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFE_BROWSING_POLICY_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for search engine choice strings
+summary: Chromium DIR_METADATA file that inherits common directory metadata from the search engine choice component via a mixin.

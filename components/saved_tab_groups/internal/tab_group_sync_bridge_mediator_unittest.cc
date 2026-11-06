@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupSyncBridgeMediator unit tests
+// summary: Unit tests for the tab group sync bridge mediator, using in-memory sync stores and mock processors to verify model observer dispatch and bridge behavior.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_bridge_mediator.h"
 
 #include <map>

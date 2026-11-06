@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety check prefs registration
+// summary: Registers the profile preference that enables the Safety Check home module.
+// ---
+
 #include "components/safety_check/safety_check_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

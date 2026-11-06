@@ -8,6 +8,12 @@
 //
 // For more details, see scorer.h and client_model.proto.
 
+// ---docerion
+// type: source
+// title: Phishing classifier interface
+// summary: Declares the PhishingClassifier class that starts and cancels page classification and reports verdicts via callback.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_PHISHING_CLASSIFIER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_PHISHING_CLASSIFIER_H_
 

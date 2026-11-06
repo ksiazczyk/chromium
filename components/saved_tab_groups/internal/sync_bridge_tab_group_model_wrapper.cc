@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync bridge model wrapper implementation
+// summary: Implements the SavedTabGroupModel wrapper that enforces sync bridges only operate on tab groups matching their sync data type.
+// ---
+
 #include "components/saved_tab_groups/internal/sync_bridge_tab_group_model_wrapper.h"
 
 #include "components/saved_tab_groups/internal/saved_tab_group_model.h"

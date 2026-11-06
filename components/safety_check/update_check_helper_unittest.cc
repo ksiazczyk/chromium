@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update check helper unit tests
+// summary: Unit tests for UpdateCheckHelper covering successful connections, wrong HTTP codes, timeouts, retries and repeated checks.
+// ---
+
 #include "components/safety_check/update_check_helper.h"
 
 #include <memory>

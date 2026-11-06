@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual feature extraction interface
+// summary: Declares functions for computing blurred images, encoding screenshots, and extracting visual features for Safe Browsing detection.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_VISUAL_UTILS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_VISUAL_UTILS_H_
 

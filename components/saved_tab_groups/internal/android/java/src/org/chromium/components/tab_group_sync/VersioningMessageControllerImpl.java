@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Versioning message controller JNI bridge implementation
+// summary: Java side of the JNI bridge implementing VersioningMessageController, delegating message UI visibility and dismissal decisions to native C++.
+// ---
+
 package org.chromium.components.tab_group_sync;
 
 import org.jni_zero.CalledByNative;
