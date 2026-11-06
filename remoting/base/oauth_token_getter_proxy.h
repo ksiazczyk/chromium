@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth token getter proxy header
+// summary: Declares OAuthTokenGetterProxy, which shares an OAuthTokenGetter across sequences and silently drops requests once the getter is deleted.
+// ---
+
 #ifndef REMOTING_BASE_OAUTH_TOKEN_GETTER_PROXY_H_
 #define REMOTING_BASE_OAUTH_TOKEN_GETTER_PROXY_H_
 

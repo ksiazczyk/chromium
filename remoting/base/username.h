@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Username helper declarations
+// summary: Declares functions returning the current username and the Linux network, peer connection, and Crashpad process usernames.
+// ---
+
 #ifndef REMOTING_BASE_USERNAME_H_
 #define REMOTING_BASE_USERNAME_H_
 

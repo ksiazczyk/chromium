@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtobufHttpStreamParser header
+// summary: Declares the parser that decodes incoming HTTP stream data wrapped in StreamBody protobuf messages and invokes message and stream-closed callbacks.
+// ---
+
 #ifndef REMOTING_BASE_PROTOBUF_HTTP_STREAM_PARSER_H_
 #define REMOTING_BASE_PROTOBUF_HTTP_STREAM_PARSER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake OAuth token getter for tests
+// summary: Declares a fake OAuthTokenGetter that returns a preset token status and info, for use in tests.
+// ---
+
 #ifndef REMOTING_BASE_FAKE_OAUTH_TOKEN_GETTER_H_
 #define REMOTING_BASE_FAKE_OAUTH_TOKEN_GETTER_H_
 

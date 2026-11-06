@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Typed test fixture for FIFO buffer implementations
+// summary: Provides a reusable typed gtest suite covering write, read, clear and skip behavior of FIFO buffer implementations.
+// ---
+
 #ifndef REMOTING_BASE_FIFO_BUFFER_TEST_BASE_H_
 #define REMOTING_BASE_FIFO_BUFFER_TEST_BASE_H_
 

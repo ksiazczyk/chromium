@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoThreadTaskRunner implementation
+// summary: Implements the AutoThreadTaskRunner wrapper that posts a caller-supplied stop task when the last reference to the runner is dropped.
+// ---
+
 #include "remoting/base/auto_thread_task_runner.h"
 
 #include <utility>

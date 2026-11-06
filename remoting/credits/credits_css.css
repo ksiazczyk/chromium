@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Credits page stylesheet
+summary: Stylesheet for the generated credits page, defining the layout and appearance of license entries and their toggle behaviour.
+*/
+
 body {
   font-family: "Arial", "Helvetica", sans-serif;
   color: #222;

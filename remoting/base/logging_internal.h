@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal host logging declarations
+// summary: Declares InitHostLoggingCommon, the shared platform-independent initialization called by InitHostLogging.
+// ---
+
 #ifndef REMOTING_BASE_LOGGING_INTERNAL_H_
 #define REMOTING_BASE_LOGGING_INTERNAL_H_
 

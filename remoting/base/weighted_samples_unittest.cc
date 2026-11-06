@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeightedSamples unit tests
+// summary: Unit tests verifying weighted average calculations, behavior with identical values, and the zero result when no samples are recorded.
+// ---
+
 #include "remoting/base/weighted_samples.h"
 
 #include <array>

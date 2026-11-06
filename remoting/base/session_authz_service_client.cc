@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAuthz service client retry policy
+// summary: Implements the backoff retry policy used when reauthorizing a host with the SessionAuthz service.
+// ---
+
 #include "remoting/base/session_authz_service_client.h"
 
 #include "base/memory/scoped_refptr.h"

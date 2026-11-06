@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email utilities unit tests
+// summary: Tests email elision across short, long, spoofed, unicode, and non-email identities to confirm domain suffix preservation and length limits.
+// ---
+
 #include "remoting/base/email_utils.h"
 
 #include <string>

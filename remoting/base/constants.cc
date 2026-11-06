@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting shared constants definitions
+// summary: Defines shared remoting constants such as the chromoting XML namespace, channel names, and the UTF-8 text MIME type.
+// ---
+
 #include "remoting/base/constants.h"
 
 namespace remoting {

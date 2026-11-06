@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunningSamples class interface
+// summary: Declares RunningSamples, a helper that tracks the most recent N samples to compute smoothed averages and maximums for metrics such as bandwidth and frame rate.
+// ---
+
 #ifndef REMOTING_BASE_RUNNING_SAMPLES_H_
 #define REMOTING_BASE_RUNNING_SAMPLES_H_
 

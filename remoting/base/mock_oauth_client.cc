@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock OAuth client implementation
+// summary: Implements MockOAuthClient, returning preset user email and refresh token from GetCredentialsFromAuthCode.
+// ---
+
 #include "remoting/base/mock_oauth_client.h"
 
 namespace remoting {

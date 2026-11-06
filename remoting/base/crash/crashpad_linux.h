@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashpadLinux class header
+// summary: Declares the CrashpadLinux class for spawning the Crashpad handler and connecting client or worker processes via inherited handler sockets on Linux.
+// ---
+
 #ifndef REMOTING_BASE_CRASH_CRASHPAD_LINUX_H_
 #define REMOTING_BASE_CRASH_CRASHPAD_LINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf HTTP client interface
+// summary: Declares ProtobufHttpClient, a helper class for executing unary and streaming protobuf requests over HTTP with OAuth authentication and pending request management.
+// ---
+
 #ifndef REMOTING_BASE_PROTOBUF_HTTP_CLIENT_H_
 #define REMOTING_BASE_PROTOBUF_HTTP_CLIENT_H_
 

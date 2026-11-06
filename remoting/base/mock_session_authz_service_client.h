@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock session authorization service client header
+// summary: Declares a gmock mock of SessionAuthzServiceClient with stubbed GenerateHostToken, VerifySessionToken and ReauthorizeHost methods for tests.
+// ---
+
 #ifndef REMOTING_BASE_MOCK_SESSION_AUTHZ_SERVICE_CLIENT_H_
 #define REMOTING_BASE_MOCK_SESSION_AUTHZ_SERVICE_CLIENT_H_
 

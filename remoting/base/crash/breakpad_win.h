@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Breakpad handler declarations
+// summary: Declares the BreakpadWin singleton, its helper access, and the minidump type used for Windows exception handling.
+// ---
+
 #ifndef REMOTING_BASE_CRASH_BREAKPAD_WIN_H_
 #define REMOTING_BASE_CRASH_BREAKPAD_WIN_H_
 

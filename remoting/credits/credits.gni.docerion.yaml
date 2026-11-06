@@ -1,0 +1,4 @@
+# Docerion header of credits.gni.
+type: config
+title: Remoting credits GN template
+summary: Defines the remoting_credits GN template that generates a credits HTML file listing a target's third-party dependencies and copies it with its CSS and JS into the output directory.

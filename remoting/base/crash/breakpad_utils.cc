@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breakpad minidump utilities
+// summary: Implements helpers for minidump directory paths, JSON metadata files, and the Windows crash server pipe handle.
+// ---
+
 #include "remoting/base/crash/breakpad_utils.h"
 
 #include <utility>

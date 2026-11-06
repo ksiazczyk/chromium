@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp auth utility implementation
+// summary: Implements CreateCorpTokenGetter, which builds an OAuth token getter configured for authenticating requests to corp APIs.
+// ---
+
 #include "remoting/base/corp_auth_util.h"
 
 #include "base/check.h"

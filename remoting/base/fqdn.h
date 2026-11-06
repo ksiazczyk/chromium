@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FQDN helper
+// summary: Declares GetFqdn, a function that returns the fully qualified domain name of the machine.
+// ---
+
 #ifndef REMOTING_BASE_FQDN_H_
 #define REMOTING_BASE_FQDN_H_
 

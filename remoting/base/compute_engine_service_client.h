@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compute Engine service client header
+// summary: Declares a client for the Compute Engine metadata API to obtain instance identity tokens, service account access tokens, and OAuth scopes.
+// ---
+
 #ifndef REMOTING_BASE_COMPUTE_ENGINE_SERVICE_CLIENT_H_
 #define REMOTING_BASE_COMPUTE_ENGINE_SERVICE_CLIENT_H_
 

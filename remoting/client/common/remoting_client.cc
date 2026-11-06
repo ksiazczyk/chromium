@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native Chromoting client session implementation
+// summary: Implements the native Chromoting client, handling session setup, OAuth tokens, signaling, host connection, and status notifications for remote support sessions.
+// ---
+
 #include "remoting/client/common/remoting_client.h"
 
 #include <cstdint>

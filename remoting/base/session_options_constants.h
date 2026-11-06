@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session option key name constants
+// summary: Defines inline constant strings for the session option key names used when parsing client session options.
+// ---
+
 #ifndef REMOTING_BASE_SESSION_OPTIONS_CONSTANTS_H_
 #define REMOTING_BASE_SESSION_OPTIONS_CONSTANTS_H_
 

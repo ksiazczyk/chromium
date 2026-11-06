@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capability string helpers implementation
+// summary: Implements helpers to check whether a space-separated capability string contains a key and to intersect client and host capability sets.
+// ---
+
 #include "remoting/base/capabilities.h"
 
 #include <algorithm>

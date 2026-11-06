@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async file operation implementations
+// summary: Implements asynchronous file write, read, delete, and existence helpers that run on background task runners with error callbacks.
+// ---
+
 #include "remoting/base/async_file_util.h"
 
 #include <optional>

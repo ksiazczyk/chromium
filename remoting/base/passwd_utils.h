@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passwd utils header
+// summary: Declares PasswdUserInfo and GetPasswdUserInfo for retrieving user account details from the system password database.
+// ---
+
 #ifndef REMOTING_BASE_PASSWD_UTILS_H_
 #define REMOTING_BASE_PASSWD_UTILS_H_
 

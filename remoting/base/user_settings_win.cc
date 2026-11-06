@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry user settings
+// summary: Stores and retrieves remoting user settings in the Windows registry under HKCU, with separate keys for official builds.
+// ---
+
 #include "remoting/base/user_settings_win.h"
 
 #include "base/logging.h"

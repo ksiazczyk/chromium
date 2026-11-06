@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for remoting client common dependencies
+summary: Specifies allowed include directories for the remoting client common code, covering WebRTC components, protocol, signaling, and network services.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based host settings class declaration
+// summary: Declares FileHostSettings, a HostSettings implementation that reads and writes settings from a JSON file.
+// ---
+
 #ifndef REMOTING_BASE_FILE_HOST_SETTINGS_H_
 #define REMOTING_BASE_FILE_HOST_SETTINGS_H_
 

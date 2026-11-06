@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf HTTP request base implementation
+// summary: Implements ProtobufHttpRequestBase, providing shared request startup, retry handling with backoff entries, deadlines and URL loader status extraction.
+// ---
+
 #include "remoting/base/protobuf_http_request_base.h"
 
 #include <memory>

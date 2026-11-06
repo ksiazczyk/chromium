@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging audio stream consumer implementation
+// summary: Implements the AudioStub consumer that logs audio packet encoding, sampling rate, channels and bytes per sample to the console.
+// ---
+
 #include "remoting/client/cli/logging_audio_stream_consumer.h"
 
 #include <memory>

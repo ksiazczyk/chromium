@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf HTTP client implementation
+// summary: Implements ProtobufHttpClient, which executes authenticated REST/Protobuf requests over HTTP using OAuth tokens, URL loaders and an optional client certificate store.
+// ---
+
 #include "remoting/base/protobuf_http_client.h"
 
 #include "base/functional/bind.h"

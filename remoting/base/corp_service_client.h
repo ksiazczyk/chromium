@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpServiceClient header
+// summary: Declares CorpServiceClient, a helper class that communicates with Chrome Remote Desktop backend services using the Corp API for provisioning, heartbeats, and host updates.
+// ---
+
 #ifndef REMOTING_BASE_CORP_SERVICE_CLIENT_H_
 #define REMOTING_BASE_CORP_SERVICE_CLIENT_H_
 

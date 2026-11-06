@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protobuf HTTP client unit tests
+// summary: Unit tests for ProtobufHttpClient covering unary and streaming requests, authentication, retries, error codes and response parsing with a test URL loader factory.
+// ---
+
 #include "remoting/base/protobuf_http_client.h"
 
 #include <memory>

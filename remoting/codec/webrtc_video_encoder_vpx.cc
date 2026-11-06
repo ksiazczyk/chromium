@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VP8 and VP9 video encoder implementation
+// summary: Implements the WebRTC video encoder using libvpx for VP8 and VP9 with codec-specific configuration.
+// ---
+
 #include "remoting/codec/webrtc_video_encoder_vpx.h"
 
 #include <algorithm>

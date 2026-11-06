@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux host logging initialization
+// summary: Implements InitHostLogging on Linux, writing logs to the system debug log and stderr.
+// ---
+
 #include "remoting/base/logging_internal.h"
 
 #include "base/logging.h"

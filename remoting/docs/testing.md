@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chrome Remote Desktop Testing Best Practices
+summary: Sets rules for writing stable tests in //remoting, banning RunUntilIdle and flaky patterns, and references gmock callback support, TestFuture, and TaskEnvironment utilities.
+relations:
+  - references /base/test/gmock_callback_support.h
+  - references /base/test/test_future.h
+  - references /base/test/task_environment.h
+---
+
 # Chrome Remote Desktop Testing Best Practices
 
 When creating or updating tests in `//remoting`, follow these rules to ensure

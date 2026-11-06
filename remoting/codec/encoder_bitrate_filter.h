@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncoderBitrateFilter class declaration
+// summary: Declares EncoderBitrateFilter, which decides the best encoder bitrate from bandwidth estimates and frame size.
+// ---
+
 #ifndef REMOTING_CODEC_ENCODER_BITRATE_FILTER_H_
 #define REMOTING_CODEC_ENCODER_BITRATE_FILTER_H_
 

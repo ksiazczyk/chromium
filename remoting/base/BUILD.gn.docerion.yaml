@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Remoting base GN build configuration
+summary: Defines GN source sets, build flags, version header generation, and protobuf targets for the remoting base library.

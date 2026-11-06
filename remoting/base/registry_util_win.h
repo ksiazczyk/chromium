@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry utility header
+// summary: Declares Windows registry helpers for writing default string values and deleting keys, with support for 32-bit and 64-bit WOW64 views.
+// ---
+
 #ifndef REMOTING_BASE_REGISTRY_UTIL_WIN_H_
 #define REMOTING_BASE_REGISTRY_UTIL_WIN_H_
 

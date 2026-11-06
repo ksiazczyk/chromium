@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crashpad database manager implementation
+// summary: Implements Crashpad crash report database management for Chrome Remote Desktop, including platform-specific database path resolution, report logging, and retention cleanup.
+// ---
+
 #include "remoting/base/crash/crashpad_database_manager.h"
 
 #include <stdlib.h>

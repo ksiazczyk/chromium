@@ -1,3 +1,12 @@
+---
+type: guide
+title: Remoting Client Instructions
+summary: Instructions for working in //remoting/client, outlining the ChromeOS-only native client architecture, its core components, and key files to read.
+relations:
+  - documents /remoting/client/common/remoting_client.h
+  - documents /remoting/client/common/client_status_observer.h
+---
+
 # Remoting Client Instructions
 
 Instructions for working in `//remoting/client`.

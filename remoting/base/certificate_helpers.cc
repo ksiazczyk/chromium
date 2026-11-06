@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate selection helpers implementation
+// summary: Implements client certificate matching and validation for remoting, including selection of the best certificate by issuer and validity and platform-specific client cert store creation.
+// ---
+
 #include "remoting/base/certificate_helpers.h"
 
 #include <string>

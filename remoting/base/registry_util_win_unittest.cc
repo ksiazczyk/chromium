@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows registry utility unit tests
+// summary: Unit tests for the Windows registry helpers using an overridden registry to verify writes and deletions in both WOW64 views.
+// ---
+
 #include "remoting/base/registry_util_win.h"
 
 #include <windows.h>

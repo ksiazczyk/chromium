@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OAuth token getter proxy unit tests
+// summary: Unit tests for OAuthTokenGetterProxy that use a fake token getter to verify token callbacks and cache invalidation behavior.
+// ---
+
 #include "remoting/base/oauth_token_getter_proxy.h"
 
 #include "base/functional/bind.h"

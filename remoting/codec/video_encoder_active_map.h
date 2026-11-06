@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encoder active map header
+// summary: Declares the VideoEncoderActiveMap class that tracks updated macroblocks for use by the video encoders.
+// ---
+
 #ifndef REMOTING_CODEC_VIDEO_ENCODER_ACTIVE_MAP_H_
 #define REMOTING_CODEC_VIDEO_ENCODER_ACTIVE_MAP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL private key wrapper implementation
+// summary: Implements SSLPrivateKeyWrapper, which delegates signing to a net::SSLPrivateKey while limiting input size to prevent memory exhaustion.
+// ---
+
 #include "remoting/base/ssl_private_key_wrapper.h"
 
 #include <utility>

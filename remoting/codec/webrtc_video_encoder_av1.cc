@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AV1 video encoder implementation
+// summary: Implements the WebRTC video encoder using libaom, with parameters tuned for real-time AV1 screen sharing.
+// ---
+
 #include "remoting/codec/webrtc_video_encoder_av1.h"
 
 #include <algorithm>

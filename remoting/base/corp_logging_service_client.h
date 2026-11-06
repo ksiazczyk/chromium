@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp logging service client header
+// summary: Declares a LoggingServiceClient subclass that reports session events to the corp logging service for corp-managed machines.
+// ---
+
 #ifndef REMOTING_BASE_CORP_LOGGING_SERVICE_CLIENT_H_
 #define REMOTING_BASE_CORP_LOGGING_SERVICE_CLIENT_H_
 

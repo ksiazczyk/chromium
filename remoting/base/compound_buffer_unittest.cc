@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompoundBuffer unit tests
+// summary: Unit tests for the CompoundBuffer class, exercising append, prepend, copy, crop, and stream-reading behavior across varied chunk sizes.
+// ---
+
 #include "remoting/base/compound_buffer.h"
 
 #include <stddef.h>

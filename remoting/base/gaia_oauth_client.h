@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia OAuth client interface
+// summary: Declares a wrapper around gaia::GaiaOAuthClient with request queueing and callback-based credential redemption.
+// ---
+
 #ifndef REMOTING_BASE_GAIA_OAUTH_CLIENT_H_
 #define REMOTING_BASE_GAIA_OAUTH_CLIENT_H_
 

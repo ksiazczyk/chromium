@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Result class
+// summary: Unit tests covering default, tagged, implicit, copy, move, and conversion construction plus map, map-error, and chaining behavior of the Result template.
+// ---
+
 #include "remoting/base/result.h"
 
 #include <memory>

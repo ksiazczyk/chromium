@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionOptions struct header
+// summary: Declares the SessionOptions struct that carries client-sent session configuration such as capturer choices, UDP disabling, and VP9/AV1 encoder settings for the host.
+// ---
+
 #ifndef REMOTING_BASE_SESSION_OPTIONS_H_
 #define REMOTING_BASE_SESSION_OPTIONS_H_
 

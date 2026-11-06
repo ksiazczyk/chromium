@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File-based host settings implementation
+// summary: Implements HostSettings by loading and atomically saving host settings as a JSON dictionary file.
+// ---
+
 #include "remoting/base/file_host_settings.h"
 
 #include "base/files/file_util.h"

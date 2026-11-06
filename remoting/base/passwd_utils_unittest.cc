@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passwd utils unit tests
+// summary: Tests GetPasswdUserInfo against the current process user and a nonexistent username.
+// ---
+
 #include "remoting/base/passwd_utils.h"
 
 #include <unistd.h>

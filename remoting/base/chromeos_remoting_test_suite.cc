@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS remoting test suite implementation
+// summary: Implements a ChromeOS Ash test suite that loads the remoting locale resource pack so tests can exercise scenarios requiring localized resources.
+// ---
+
 #include "remoting/base/chromeos_remoting_test_suite.h"
 
 #include "base/base_paths.h"

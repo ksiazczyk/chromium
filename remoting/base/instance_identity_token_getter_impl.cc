@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the instance identity token getter
+// summary: Implements retrieval and caching of Compute Engine instance identity tokens, refreshing expired tokens and queuing caller callbacks.
+// ---
+
 #include "remoting/base/instance_identity_token_getter_impl.h"
 
 #include <optional>

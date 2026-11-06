@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SSL private key wrapper unit tests
+// summary: Unit tests verifying SSLPrivateKeyWrapper forwards sign requests and results over Mojo, covering both success and failure paths with a mock key.
+// ---
+
 #include "remoting/base/ssl_private_key_wrapper.h"
 
 #include <memory>

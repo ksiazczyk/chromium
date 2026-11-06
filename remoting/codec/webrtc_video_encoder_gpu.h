@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video encoder header
+// summary: Declares the hardware-accelerated H.264 encoder wrapper built on the VideoEncodeAccelerator framework.
+// ---
+
 #ifndef REMOTING_CODEC_WEBRTC_VIDEO_ENCODER_GPU_H_
 #define REMOTING_CODEC_WEBRTC_VIDEO_ENCODER_GPU_H_
 

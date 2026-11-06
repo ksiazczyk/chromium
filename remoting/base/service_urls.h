@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service URLs singleton interface
+// summary: Declares the ServiceUrls singleton exposing FTL, Remoting Cloud, Corp and remoting server endpoints.
+// ---
+
 #ifndef REMOTING_BASE_SERVICE_URLS_H_
 #define REMOTING_BASE_SERVICE_URLS_H_
 

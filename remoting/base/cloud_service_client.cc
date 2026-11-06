@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud service client implementation
+// summary: Implements a client for the Remoting Cloud API, covering host token generation, GCE instance provisioning, heartbeats, host updates and session authorization requests.
+// ---
+
 #include "remoting/base/cloud_service_client.h"
 
 #include <memory>

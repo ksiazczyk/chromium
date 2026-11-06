@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux host settings file path
+// summary: Supplies the Linux path of the per-host settings JSON file inside the chromoting config directory.
+// ---
+
 #include "remoting/base/file_host_settings.h"
 
 #include "remoting/base/branding.h"

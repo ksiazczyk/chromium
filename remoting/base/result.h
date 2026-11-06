@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result type for success or error values
+// summary: Defines a Result<SuccessType, ErrorType> template representing an operation's success or failure, with constructors, assignment, mapping, chaining, and conversion support.
+// ---
+
 #ifndef REMOTING_BASE_RESULT_H_
 #define REMOTING_BASE_RESULT_H_
 

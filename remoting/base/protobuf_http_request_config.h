@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtobufHttpRequestConfig header
+// summary: Defines the configuration struct for unary and streaming protobuf HTTP requests, covering retry policy, authentication, API key and traffic annotation settings.
+// ---
+
 #ifndef REMOTING_BASE_PROTOBUF_HTTP_REQUEST_CONFIG_H_
 #define REMOTING_BASE_PROTOBUF_HTTP_REQUEST_CONFIG_H_
 

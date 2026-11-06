@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encoder benchmark tool
+// summary: Benchmarks the AV1, VP8, and VP9 encoders over generated or recorded frames to compare encoding performance.
+// ---
+
 #include <deque>
 #include <iostream>
 #include <memory>

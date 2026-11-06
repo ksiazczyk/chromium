@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoThread thread with task-runner lifetime management
+// summary: Defines a thread class that runs a message loop on a new thread and manages its lifetime via references to its task runner, including Windows COM initialization support.
+// ---
+
 #ifndef REMOTING_BASE_AUTO_THREAD_H_
 #define REMOTING_BASE_AUTO_THREAD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SourceLocation unit tests
+// summary: Unit tests covering SourceLocation creation, backing store behavior, equality, move semantics, and null location handling.
+// ---
+
 #include "remoting/base/source_location.h"
 
 #include <optional>

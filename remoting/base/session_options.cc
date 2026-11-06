@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session options parsing
+// summary: Parses session option strings into boolean and integer fields such as capturer choices, UDP disabling and encoder speeds.
+// ---
+
 #include "remoting/base/session_options.h"
 
 #include <optional>

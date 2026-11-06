@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalSessionPoliciesProvider implementation
+// summary: Implements LocalSessionPoliciesProvider, which stores local session policies and notifies registered callbacks when they change.
+// ---
+
 #include "remoting/base/local_session_policies_provider.h"
 
 #include "remoting/base/session_policies.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIFO buffer writer and reader interfaces
+// summary: Defines SPSC FIFO buffer interfaces for raw bytes, with all-or-none writes, reads, skip and clear operations.
+// ---
+
 #ifndef REMOTING_BASE_FIFO_BUFFER_H_
 #define REMOTING_BASE_FIFO_BUFFER_H_
 

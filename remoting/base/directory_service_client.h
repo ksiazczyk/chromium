@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectoryServiceClient header
+// summary: Declares the service client that communicates with the Chrome Remote Desktop directory service for host management and heartbeat operations.
+// ---
+
 #ifndef REMOTING_BASE_DIRECTORY_SERVICE_CLIENT_H_
 #define REMOTING_BASE_DIRECTORY_SERVICE_CLIENT_H_
 

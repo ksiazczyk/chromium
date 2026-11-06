@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chrome Remote Desktop Architecture
+summary: Explains the Chrome Remote Desktop architecture, covering Me2Me and It2Me modes, host and client roles, WebRTC usage, and the multi-process host design on Windows, Mac, and Linux.
+relations:
+  - references /remoting/host/daemon_process.h
+  - references /remoting/host/remoting_me2me_host.cc
+  - references /remoting/host/peer_connection_process_main.cc
+---
+
 # Chrome Remote Desktop Architecture
 
 ## Overview

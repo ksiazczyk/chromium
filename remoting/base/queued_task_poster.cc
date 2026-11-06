@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueuedTaskPoster implementation
+// summary: Implements QueuedTaskPoster, which queues tasks posted from one thread and transfers them as a batch to a target task runner.
+// ---
+
 #include "remoting/base/queued_task_poster.h"
 
 #include "base/check.h"

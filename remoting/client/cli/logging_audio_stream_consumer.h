@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging audio stream consumer header
+// summary: Declares LoggingAudioStreamConsumer, a protocol::AudioStub implementation that logs audio packet information to the console.
+// ---
+
 #ifndef REMOTING_CLIENT_CLI_LOGGING_AUDIO_STREAM_CONSUMER_H_
 #define REMOTING_CLIENT_CLI_LOGGING_AUDIO_STREAM_CONSUMER_H_
 

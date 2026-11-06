@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU video encoder implementation
+// summary: Implements hardware-accelerated H.264 encoding via the VideoEncodeAccelerator framework on a dedicated thread.
+// ---
+
 #include "remoting/codec/webrtc_video_encoder_gpu.h"
 
 #include <algorithm>

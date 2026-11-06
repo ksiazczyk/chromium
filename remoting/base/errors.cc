@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error code name and proto mapping
+// summary: Maps remoting ErrorCode values to their literal names and to protobuf ErrorCode enums for parsing and conversion.
+// ---
+
 #include "remoting/base/errors.h"
 
 #include "remoting/base/name_value_map.h"

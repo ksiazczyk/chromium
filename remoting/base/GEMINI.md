@@ -1,3 +1,13 @@
+---
+type: readme
+title: Remoting base instructions for AI assistants
+summary: Documents the architecture, key components, and coding mandates for developing Chrome Remote Desktop code in remoting/base.
+relations:
+  - documents /remoting/base/internal_headers.h
+  - documents /remoting/proto/internal_stubs.h
+  - documents /remoting/base/task_util.h
+---
+
 # Remoting Base Instructions
 
 Instructions for working in `//remoting/base`.

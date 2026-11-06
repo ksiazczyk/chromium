@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance identity token class for decoded Compute Engine JWTs
+// summary: Declares InstanceIdentityToken, a decoded JWT from the Compute Engine metadata server exposing its header and payload.
+// ---
+
 #ifndef REMOTING_BASE_INSTANCE_IDENTITY_TOKEN_H_
 #define REMOTING_BASE_INSTANCE_IDENTITY_TOKEN_H_
 

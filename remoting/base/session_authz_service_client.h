@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAuthz service client interface
+// summary: Defines the client interface for generating, verifying and reauthorizing host session tokens with the SessionAuthz service.
+// ---
+
 #ifndef REMOTING_BASE_SESSION_AUTHZ_SERVICE_CLIENT_H_
 #define REMOTING_BASE_SESSION_AUTHZ_SERVICE_CLIENT_H_
 

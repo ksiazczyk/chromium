@@ -1,0 +1,4 @@
+# Docerion header of credits_entry.tmpl.
+type: asset
+title: Credits entry HTML template
+summary: HTML template for a single credits entry showing the product name, a homepage link and a toggleable license text.

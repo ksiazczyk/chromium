@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Mojo-backed IPC FIFO buffer reader and writer
+// summary: Declares IpcFifoBufferWriter and IpcFifoBufferReader plus a helper to create a Mojo-backed SPSC FIFO buffer pair.
+// ---
+
 #ifndef REMOTING_BASE_IPC_FIFO_BUFFER_H_
 #define REMOTING_BASE_IPC_FIFO_BUFFER_H_
 

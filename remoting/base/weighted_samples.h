@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeightedSamples class header
+// summary: Declares WeightedSamples, a helper that aggregates samples with age-based weights to smooth input data.
+// ---
+
 #ifndef REMOTING_BASE_WEIGHTED_SAMPLES_H_
 #define REMOTING_BASE_WEIGHTED_SAMPLES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud session authorization service client factory header
+// summary: Declares a SessionAuthzServiceClientFactory that creates session authorization service clients for Cloud remoting hosts.
+// ---
+
 #ifndef REMOTING_BASE_CLOUD_SESSION_AUTHZ_SERVICE_CLIENT_FACTORY_H_
 #define REMOTING_BASE_CLOUD_SESSION_AUTHZ_SERVICE_CLIENT_FACTORY_H_
 

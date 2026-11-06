@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RateCounter header
+// summary: Declares RateCounter, a utility for measuring average rates per second such as bandwidth or frame rates over a configurable time window.
+// ---
+
 #ifndef REMOTING_BASE_RATE_COUNTER_H_
 #define REMOTING_BASE_RATE_COUNTER_H_
 

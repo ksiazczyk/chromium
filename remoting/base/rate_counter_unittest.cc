@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RateCounter unit tests
+// summary: Unit tests for RateCounter covering one-second, two-second, and longer time windows using a fake tick clock.
+// ---
+
 #include "remoting/base/rate_counter.h"
 
 #include <stddef.h>

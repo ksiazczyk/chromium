@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting shared constants declarations
+// summary: Declares shared remoting constants including channel names, default DPI, target frame rate, and Linux clipboard MIME types.
+// ---
+
 #ifndef REMOTING_BASE_CONSTANTS_H_
 #define REMOTING_BASE_CONSTANTS_H_
 

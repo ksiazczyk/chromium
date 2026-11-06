@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loggable error type implementation
+// summary: Implements the Loggable error class that stores a message with its code location plus context entries, printable via the stream insertion operator.
+// ---
+
 #include "remoting/base/loggable.h"
 
 #include <memory>

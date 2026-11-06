@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SourceLocation class header
+// summary: Declares SourceLocation, an IPC-safe source code location wrapper similar to base::Location that can be passed across process boundaries via Mojo.
+// ---
+
 #ifndef REMOTING_BASE_SOURCE_LOCATION_H_
 #define REMOTING_BASE_SOURCE_LOCATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrashpadLinux unit tests
+// summary: Unit tests for CrashpadLinux client initialization with invalid descriptors, handler socket retrieval before initialization, and multiprocess client setup.
+// ---
+
 #include "remoting/base/crash/crashpad_linux.h"
 
 #include <sys/socket.h>

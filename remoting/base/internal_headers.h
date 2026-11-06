@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conditional include header for internal remoting APIs
+// summary: Selects internal API key and proto helper headers or their stubs depending on the REMOTING_INTERNAL build flag.
+// ---
+
 #ifndef REMOTING_BASE_INTERNAL_HEADERS_H_
 #define REMOTING_BASE_INTERNAL_HEADERS_H_
 

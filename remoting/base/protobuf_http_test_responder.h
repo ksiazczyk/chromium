@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtobufHttpTestResponder header
+// summary: Declares the test responder helper for faking protobuf HTTP responses, errors and streams in unit tests.
+// ---
+
 #ifndef REMOTING_BASE_PROTOBUF_HTTP_TEST_RESPONDER_H_
 #define REMOTING_BASE_PROTOBUF_HTTP_TEST_RESPONDER_H_
 

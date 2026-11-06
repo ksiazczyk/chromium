@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtobufHttpTestResponder implementation
+// summary: Implements a test helper that queues canned responses, errors and stream responses for protobuf HTTP client tests.
+// ---
+
 #include "remoting/base/protobuf_http_test_responder.h"
 
 #include <algorithm>

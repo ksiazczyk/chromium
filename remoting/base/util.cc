@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting utility functions
+// summary: Implements rectangle alignment and containment helpers plus LF and CRLF line-ending conversion functions.
+// ---
+
 #include "remoting/base/util.h"
 
 #include <algorithm>

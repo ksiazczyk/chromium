@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProtobufHttpStreamParser unit tests
+// summary: Unit tests for the protobuf HTTP stream parser covering one-shot and split stream parsing, noop handling and stream cancellation.
+// ---
+
 #include "remoting/base/protobuf_http_stream_parser.h"
 
 #include <memory>

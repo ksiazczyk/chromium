@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf HTTP client message definitions
+// summary: Protobuf definitions for the Status and StreamBody messages used by the remoting protobuf HTTP client to encode response statuses and stream bodies.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

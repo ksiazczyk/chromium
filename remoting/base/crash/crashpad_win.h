@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashpadWin class header
+// summary: Declares the CrashpadWin singleton class that initializes Crashpad on Windows and implements the CrashpadDatabaseManager logger interface.
+// ---
+
 #ifndef REMOTING_BASE_CRASH_CRASHPAD_WIN_H_
 #define REMOTING_BASE_CRASH_CRASHPAD_WIN_H_
 

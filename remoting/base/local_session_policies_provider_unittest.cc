@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalSessionPoliciesProvider unit tests
+// summary: Unit tests covering default empty policies, change notifications, unchanged-policy behavior, and subscription removal for LocalSessionPoliciesProvider.
+// ---
+
 #include "remoting/base/local_session_policies_provider.h"
 
 #include <memory>

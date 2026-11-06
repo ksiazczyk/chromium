@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp logging service client implementation
+// summary: Implements reporting of session disconnection events to the corp logging service via authenticated protobuf HTTP requests.
+// ---
+
 #include "remoting/base/corp_logging_service_client.h"
 
 #include <memory>

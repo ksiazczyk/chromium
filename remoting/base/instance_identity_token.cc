@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance identity token parsing
+// summary: Parses and validates Google Compute Engine instance identity JWTs, extracting header and payload claims.
+// ---
+
 #include "remoting/base/instance_identity_token.h"
 
 #include <optional>

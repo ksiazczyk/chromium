@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting branding constants and config directory lookup
+// summary: Implements chromoting branding constants and platform-specific lookup of the configuration directory for Windows, macOS and Linux-based systems.
+// ---
+
 #include "remoting/base/branding.h"
 
 #include "base/base_paths.h"

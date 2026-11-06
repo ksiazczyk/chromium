@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows host logging initialization
+// summary: Implements InitHostLogging on Windows, adding event tracing via the remoting host log provider GUID.
+// ---
+
 #include "remoting/base/logging_internal.h"
 
 #include <guiddef.h>

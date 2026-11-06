@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for the Mojo-backed IPC FIFO buffer
+// summary: Runs shared FIFO buffer tests against the Mojo implementation and verifies graceful behavior when the peer or writer closes.
+// ---
+
 #include "remoting/base/ipc_fifo_buffer.h"
 
 #include <memory>

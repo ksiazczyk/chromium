@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ECDH key exchange unit tests
+// summary: Unit tests verifying encryption and decryption with derived keys, plus failure handling for invalid, truncated, and tampered ciphertexts.
+// ---
+
 #include "remoting/base/ecdh_key_exchange.h"
 
 #include <optional>

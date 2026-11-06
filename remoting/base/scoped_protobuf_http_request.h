@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedProtobufHttpRequest helper
+// summary: Declares a helper class that cancels a pending protobuf HTTP request when the instance is deleted.
+// ---
+
 #ifndef REMOTING_BASE_SCOPED_PROTOBUF_HTTP_REQUEST_H_
 #define REMOTING_BASE_SCOPED_PROTOBUF_HTTP_REQUEST_H_
 

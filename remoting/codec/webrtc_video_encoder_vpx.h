@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebrtcVideoEncoderVpx header for VP8/VP9 encoding
+// summary: Declares the WebrtcVideoEncoderVpx class, a VP8/VP9 video encoder for Chromium remote desktop that encodes desktop frames over WebRTC with bitrate filtering and active-map optimization.
+// ---
+
 #ifndef REMOTING_CODEC_WEBRTC_VIDEO_ENCODER_VPX_H_
 #define REMOTING_CODEC_WEBRTC_VIDEO_ENCODER_VPX_H_
 

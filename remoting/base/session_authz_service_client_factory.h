@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionAuthz service client factory interface
+// summary: Declares a factory interface for creating SessionAuthz service clients and reporting the authentication method.
+// ---
+
 #ifndef REMOTING_BASE_SESSION_AUTHZ_SERVICE_CLIENT_FACTORY_H_
 #define REMOTING_BASE_SESSION_AUTHZ_SERVICE_CLIENT_FACTORY_H_
 

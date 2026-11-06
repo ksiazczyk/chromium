@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf HTTP unary request interface
+// summary: Declares ProtobufHttpRequest, a simple unary request with a configurable timeout and a typed response callback for protobuf messages.
+// ---
+
 #ifndef REMOTING_BASE_PROTOBUF_HTTP_REQUEST_H_
 #define REMOTING_BASE_PROTOBUF_HTTP_REQUEST_H_
 

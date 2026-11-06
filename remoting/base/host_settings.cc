@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host settings platform dispatch
+// summary: Selects the platform-specific host settings implementation and falls back to an empty implementation elsewhere.
+// ---
+
 #include "remoting/base/host_settings.h"
 
 #include "base/no_destructor.h"

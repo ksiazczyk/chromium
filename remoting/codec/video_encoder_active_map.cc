@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video encoder active map implementation
+// summary: Computes and maintains the macroblock active map that lets video encoders skip processing of unchanged screen regions.
+// ---
+
 #include "remoting/codec/video_encoder_active_map.h"
 
 #include <algorithm>

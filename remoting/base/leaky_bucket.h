@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LeakyBucket class header
+// summary: Declares the LeakyBucket class, a leaky-bucket rate limiter with configurable depth and rate measured in drops per second.
+// ---
+
 #ifndef REMOTING_BASE_LEAKY_BUCKET_H_
 #define REMOTING_BASE_LEAKY_BUCKET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth token getter implementation
+// summary: Implements OAuthTokenGetter using GaiaOAuthClient to exchange authorization codes and refresh tokens for cached access tokens with retries.
+// ---
+
 #include "remoting/base/oauth_token_getter_impl.h"
 
 #include <memory>

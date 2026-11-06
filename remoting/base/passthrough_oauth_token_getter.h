@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough OAuth token getter header
+// summary: Declares an OAuthTokenGetter that simply passes a preset username and access token to callers.
+// ---
+
 #ifndef REMOTING_BASE_PASSTHROUGH_OAUTH_TOKEN_GETTER_H_
 #define REMOTING_BASE_PASSTHROUGH_OAUTH_TOKEN_GETTER_H_
 

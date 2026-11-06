@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf HTTP request base interface
+// summary: Declares ProtobufHttpRequestBase, the common base class for unary and server-streaming protobuf HTTP requests, including scoped request creation and retry hooks.
+// ---
+
 #ifndef REMOTING_BASE_PROTOBUF_HTTP_REQUEST_BASE_H_
 #define REMOTING_BASE_PROTOBUF_HTTP_REQUEST_BASE_H_
 

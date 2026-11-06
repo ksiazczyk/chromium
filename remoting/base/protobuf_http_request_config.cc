@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProtobufHttpRequestConfig implementation
+// summary: Implements the ProtobufHttpRequestConfig class, including a simple exponential-backoff retry policy and field validation for protobuf HTTP requests.
+// ---
+
 #include "remoting/base/protobuf_http_request_config.h"
 
 #include "base/memory/scoped_refptr.h"

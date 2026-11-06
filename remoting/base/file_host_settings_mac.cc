@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac host settings file path
+// summary: Defines the macOS path of the chromoting host settings JSON file under PrivilegedHelperTools.
+// ---
+
 #include "remoting/base/file_host_settings.h"
 
 namespace remoting {

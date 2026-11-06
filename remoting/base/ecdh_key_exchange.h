@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ECDH key exchange for AES-GCM payload encryption
+// summary: Declares EcdhKeyExchange, which performs ECDH key exchange to derive AES-GCM crypters that encrypt and decrypt payloads between peers.
+// ---
+
 #ifndef REMOTING_BASE_ECDH_KEY_EXCHANGE_H_
 #define REMOTING_BASE_ECDH_KEY_EXCHANGE_H_
 

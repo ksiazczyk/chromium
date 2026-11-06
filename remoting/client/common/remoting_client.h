@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemotingClient class declaration
+// summary: Declares the RemotingClient class, a simple native Chromoting client that manages sessions, host events, client stub messages, and status observers.
+// ---
+
 #ifndef REMOTING_CLIENT_COMMON_REMOTING_CLIENT_H_
 #define REMOTING_CLIENT_COMMON_REMOTING_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeightedSamples implementation
+// summary: Implements recording of samples with age-based weighting and computation of the weighted average.
+// ---
+
 #include "remoting/base/weighted_samples.h"
 
 namespace remoting {

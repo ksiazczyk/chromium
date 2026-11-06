@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Corp service client implementation
+// summary: Implements corp machine provisioning and provisioning error reporting against the Chrome Remote Desktop corp endpoint.
+// ---
+
 #include "remoting/base/corp_service_client.h"
 
 #include "base/functional/bind.h"
