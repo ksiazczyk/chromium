@@ -1,0 +1,4 @@
+# Docerion header of face_pile_mediator.mm.
+type: source
+title: FacePileMediator implementation observing data sharing service
+summary: Implements the mediator that observes data sharing service changes and updates the consumer with group member and avatar data.

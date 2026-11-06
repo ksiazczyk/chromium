@@ -1,0 +1,4 @@
+# Docerion header of tailored_security_service_factory.mm.
+type: source
+title: Tailored security service factory implementation
+summary: Builds ChromeTailoredSecurityService instances for profiles, depending on the identity manager and sync services.

@@ -1,0 +1,4 @@
+# Docerion header of screen_provider.mm.
+type: source
+title: ScreenProvider implementation
+summary: Implements ScreenProvider, tracking an index into the screens array and returning kStepsCompleted once all screens have been shown.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V5 GetHash protocol manager factory header
+// summary: Declares a profile-keyed factory that owns V5 GetHash protocol manager instances, one for each active profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_V5_GET_HASH_PROTOCOL_MANAGER_FACTORY_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_V5_GET_HASH_PROTOCOL_MANAGER_FACTORY_H_
 

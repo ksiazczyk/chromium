@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group local update observer interface
+// summary: Declares an observer class that propagates local tab group updates, such as tab additions and removals, to the tab group sync service.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_MODEL_TAB_GROUP_LOCAL_UPDATE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_MODEL_TAB_GROUP_LOCAL_UPDATE_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for saved tab groups model
+summary: Defines GN source sets and dependencies for the iOS saved tab groups model code and its unit tests.

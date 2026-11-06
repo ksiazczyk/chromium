@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for scene coordinator
+summary: Lists the include rules that allow the scene coordinator directory to depend on other iOS Chrome browser directories.

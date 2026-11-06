@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckNotificationClient class declaration
+// summary: Declares a push notification client that observes Safety Check state changes and handles user registration, notification delivery and user interaction.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFETY_CHECK_NOTIFICATIONS_MODEL_SAFETY_CHECK_NOTIFICATION_CLIENT_H_
 #define IOS_CHROME_BROWSER_SAFETY_CHECK_NOTIFICATIONS_MODEL_SAFETY_CHECK_NOTIFICATION_CLIENT_H_
 

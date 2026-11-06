@@ -1,0 +1,4 @@
+# Docerion header of chrome_enterprise_url_lookup_service_factory_unittest.mm.
+type: test
+title: Chrome enterprise URL lookup service factory unit tests
+summary: Verifies the factory returns null for off-the-record profiles and a non-null service instance for regular profiles.

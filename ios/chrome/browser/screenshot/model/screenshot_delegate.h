@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotDelegate header for PDF screenshot generation
+// summary: Declares the ScreenshotDelegate class implementing UIScreenshotServiceDelegate to create PDF content of the captured window scene.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCREENSHOT_MODEL_SCREENSHOT_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SCREENSHOT_MODEL_SCREENSHOT_DELEGATE_H_
 

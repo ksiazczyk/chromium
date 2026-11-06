@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerMutator protocol header
+// summary: Declares the ScannerMutator protocol with a method for loading a query string scanned by the scanner.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_MUTATOR_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_MUTATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Client side detection OWNERS
+summary: Lists the owners responsible for reviewing changes to the client-side detection directory.

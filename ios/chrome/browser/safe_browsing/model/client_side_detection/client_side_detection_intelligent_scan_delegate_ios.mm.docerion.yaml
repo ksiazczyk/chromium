@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_intelligent_scan_delegate_ios.mm.
+type: source
+title: ClientSideDetectionIntelligentScanDelegateIOS implementation
+summary: Implements intelligent scan inquiries through the Optimization Guide remote model executor, including quota tracking and pref handling.

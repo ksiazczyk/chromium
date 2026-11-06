@@ -1,0 +1,4 @@
+# Docerion header of tab_group_service_factory.mm.
+type: source
+title: Tab group service factory implementation
+summary: Creates the tab group service per profile when shared tab groups features are enabled, depending on collaboration and sync factories.

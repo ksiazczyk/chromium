@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input event observer interface
+// summary: Defines an observer interface for key press, paste and paste-shortcut events on a WebState.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_INPUT_EVENT_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_INPUT_EVENT_OBSERVER_H_
 

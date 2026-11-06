@@ -1,0 +1,4 @@
+# Docerion header of scoped_ui_blocker.mm.
+type: source
+title: ScopedUIBlocker implementation
+summary: Implements ScopedUIBlocker, incrementing the manager's blocking UI counter on construction and decrementing it on destruction.

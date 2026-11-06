@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing blocking page header
+// summary: Declares SafeBrowsingBlockingPage, which creates the interstitial HTML shown for unsafe resources and supports the Enhanced Safe Browsing infobar promo.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_SAFE_BROWSING_BLOCKING_PAGE_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_SAFE_BROWSING_BLOCKING_PAGE_H_
 

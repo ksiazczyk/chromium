@@ -1,0 +1,4 @@
+# Docerion header of face_pile_configuration.mm.
+type: source
+title: FacePileConfiguration implementation with equality and hashing
+summary: Implements the configuration class, providing equality and hash methods based on its group and display properties.

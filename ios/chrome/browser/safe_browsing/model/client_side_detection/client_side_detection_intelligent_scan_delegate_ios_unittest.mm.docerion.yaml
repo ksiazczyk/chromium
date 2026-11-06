@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_intelligent_scan_delegate_ios_unittest.mm.
+type: test
+title: Intelligent scan delegate iOS unit tests
+summary: Unit tests for the iOS intelligent scan delegate, using a mock remote model executor to exercise scam detection scans, scan limits, and Safe Browsing protection states.

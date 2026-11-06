@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPreviewView header
+// summary: Declares a UIView subclass backed by AVCaptureVideoPreviewLayer exposing the camera preview and viewport regions of interest.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_VIDEO_PREVIEW_VIEW_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_VIDEO_PREVIEW_VIEW_H_
 

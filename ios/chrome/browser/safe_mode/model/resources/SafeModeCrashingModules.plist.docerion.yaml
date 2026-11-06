@@ -1,0 +1,4 @@
+# Docerion header of SafeModeCrashingModules.plist.
+type: data
+title: Safe Mode Crashing Modules Property List
+summary: Property list mapping known startup-crashing module paths, such as Chrome Download Manager, to friendly names for the iOS Safe Mode feature.

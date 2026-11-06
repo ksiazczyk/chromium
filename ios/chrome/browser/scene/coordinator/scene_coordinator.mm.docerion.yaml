@@ -1,0 +1,4 @@
+# Docerion header of scene_coordinator.mm.
+type: source
+title: SceneCoordinator implementation
+summary: Implements SceneCoordinator, wiring coordinators for sign-in, settings, tab grid, fullscreen, and other scene-level UI behaviors in iOS Chrome.

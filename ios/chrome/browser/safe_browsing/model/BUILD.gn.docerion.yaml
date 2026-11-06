@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Safe Browsing model
+summary: Defines GN source sets and dependencies for the Safe Browsing model targets, including user population helper, verdict cache manager factory, and the main model set.

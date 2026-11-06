@@ -1,0 +1,4 @@
+# Docerion header of save_to_drive_coordinator.mm.
+type: source
+title: Save to Drive coordinator implementation
+summary: Implements the Save to Drive coordinator, wiring the file destination picker, account picker, sign-in flow, and manage-storage alerts for saving downloads to Drive.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIBlockerManager protocol
+// summary: Declares the protocol for blocking and unblocking UI via counter methods, plus observer notifications when the current UI blocker is removed.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCOPED_UI_BLOCKER_UI_BUNDLED_UI_BLOCKER_MANAGER_H_
 #define IOS_CHROME_BROWSER_SCOPED_UI_BLOCKER_UI_BUNDLED_UI_BLOCKER_MANAGER_H_
 

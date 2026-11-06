@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Mode app interface for Earl Grey tests
+// summary: Declares the app-side helper interface that presents the Safe Mode UI and sets the failed startup attempt counter for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_MODE_UI_BUNDLED_SAFE_MODE_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SAFE_MODE_UI_BUNDLED_SAFE_MODE_APP_INTERFACE_H_
 

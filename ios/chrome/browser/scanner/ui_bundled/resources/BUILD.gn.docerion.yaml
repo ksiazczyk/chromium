@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Scanner UI resources build target
+summary: GN build file that bundles the scanner UI Assets.xcassets catalog, including torch on and off imagesets, into the iOS app resources.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the screenshot model
+summary: Restricts includes for screenshot_delegate.mm and its unit test, allowing specific data protection, reader mode, and browser dependencies.

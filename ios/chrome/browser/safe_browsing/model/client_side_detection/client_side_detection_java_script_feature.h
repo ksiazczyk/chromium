@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client-side detection JavaScript feature header
+// summary: Declares a singleton JavaScript feature that intercepts trusted text copies from web frames to use as a signal for client-side phishing detection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_CLIENT_SIDE_DETECTION_CLIENT_SIDE_DETECTION_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_CLIENT_SIDE_DETECTION_CLIENT_SIDE_DETECTION_JAVA_SCRIPT_FEATURE_H_
 

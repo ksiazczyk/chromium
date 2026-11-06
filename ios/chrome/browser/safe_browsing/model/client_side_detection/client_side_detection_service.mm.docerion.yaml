@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_service.mm.
+type: source
+title: Client-side detection service implementation
+summary: Implements the iOS phishing detection service, creating and destroying the Scorer on background threads and notifying observers on model updates.

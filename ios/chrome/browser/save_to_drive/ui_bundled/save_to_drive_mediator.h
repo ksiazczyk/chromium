@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive mediator header
+// summary: Declares SaveToDriveMediator, which handles file destination actions, sign-in state checks, and saving downloads to Drive on behalf of the account picker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_SAVE_TO_DRIVE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_SAVE_TO_DRIVE_MEDIATOR_H_
 

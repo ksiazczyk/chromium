@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacePileView interface
+// summary: Declares FacePileView, a UIView that displays a pile of user avatar faces and reports its optimal width.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FACE_PILE_VIEW_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FACE_PILE_VIEW_H_
 

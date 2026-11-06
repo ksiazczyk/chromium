@@ -1,0 +1,4 @@
+# Docerion header of face_pile_mediator_unittest.mm.
+type: test
+title: Unit tests for FacePileMediator
+summary: Tests mediator behavior using mock data sharing, sync and share kit services together with fake profiles, browsers and consumers.

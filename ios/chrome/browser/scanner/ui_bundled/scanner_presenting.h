@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerPresenting protocol header
+// summary: Declares the ScannerPresenting protocol that controls how a scanner UI is dismissed on screen.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_PRESENTING_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_PRESENTING_H_
 

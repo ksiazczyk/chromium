@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS tab group action context header
+// summary: Declares IOSTabGroupActionContext, the iOS TabGroupActionContext struct carrying the browser for opening saved tab groups.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_MODEL_IOS_TAB_GROUP_ACTION_CONTEXT_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_MODEL_IOS_TAB_GROUP_ACTION_CONTEXT_H_
 

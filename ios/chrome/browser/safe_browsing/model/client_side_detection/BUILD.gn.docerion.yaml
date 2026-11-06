@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Client side detection BUILD.gn
+summary: Defines GN build targets for the iOS client-side detection sources, its TypeScript phishing script, and unit tests.

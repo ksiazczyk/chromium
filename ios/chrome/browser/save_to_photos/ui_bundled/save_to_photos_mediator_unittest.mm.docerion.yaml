@@ -1,0 +1,4 @@
+# Docerion header of save_to_photos_mediator_unittest.mm.
+type: test
+title: Save to Photos mediator unit tests
+summary: Unit tests for SaveToPhotosMediator using fake image data, a test photos service, and fake identity managers to verify saving flows.

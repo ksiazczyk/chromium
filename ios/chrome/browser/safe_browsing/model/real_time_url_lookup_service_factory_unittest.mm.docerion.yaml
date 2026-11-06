@@ -1,0 +1,4 @@
+# Docerion header of real_time_url_lookup_service_factory_unittest.mm.
+type: test
+title: Real-time URL lookup service factory unit tests
+summary: Checks that the real-time URL lookup service factory returns null for off-the-record profiles and a non-null instance for regular profiles.

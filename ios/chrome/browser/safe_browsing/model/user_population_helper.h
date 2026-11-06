@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User population helper header
+// summary: Declares a helper that builds a ChromeUserPopulation proto for a given profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_USER_POPULATION_HELPER_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_USER_POPULATION_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_safety_check_manager.mm.
+type: source
+title: Safety Check manager implementation
+summary: Implements the Safety Check manager, including automatic runs, preference monitoring, sign-out handling and observer notifications.

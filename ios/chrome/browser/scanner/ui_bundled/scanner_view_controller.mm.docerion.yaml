@@ -1,0 +1,4 @@
+# Docerion header of scanner_view_controller.mm.
+type: source
+title: ScannerViewController implementation
+summary: Implements scanner view controller lifecycle, camera authorization handling, dismissal reasons, and user metrics recording.

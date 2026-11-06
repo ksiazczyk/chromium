@@ -1,0 +1,4 @@
+# Docerion header of screenshot_delegate.mm.
+type: source
+title: ScreenshotDelegate implementation for PDF screenshot generation
+summary: Generates a full-page PDF of the active web state, honoring screenshot protection and reader mode while preserving scroll position.

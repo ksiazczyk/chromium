@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacePileConsumer protocol
+// summary: Declares a protocol for updating the face pile view's avatars, background color, avatar size, and empty-state share button.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FACE_PILE_CONSUMER_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_UI_FACE_PILE_CONSUMER_H_
 

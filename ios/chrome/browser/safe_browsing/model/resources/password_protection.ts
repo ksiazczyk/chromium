@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Protection Event Forwarding Script
+// summary: TypeScript script injected into web pages that forwards keydown and paste events to the iOS browser to detect when a saved password is entered on a possibly unsafe site.
+// ---
+
 import {sendWebKitMessage} from '//ios/web/public/js_messaging/resources/utils.js';
 
 /*

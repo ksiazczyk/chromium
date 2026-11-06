@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Scanner UI dependency rules
+summary: Declares include rules for the scanner UI directory, allowing the composebox entry point header.

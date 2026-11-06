@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tailored security
+summary: Sets include rules allowing only the best features item and welcome back features headers in this directory.

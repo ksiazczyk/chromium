@@ -1,0 +1,4 @@
+# Docerion header of screenshot_delegate_unittest.mm.
+type: test
+title: ScreenshotDelegate unit tests
+summary: Unit tests for ScreenshotDelegate covering PDF generation with fake browser providers, data controls screenshot blocking policies, and web states.

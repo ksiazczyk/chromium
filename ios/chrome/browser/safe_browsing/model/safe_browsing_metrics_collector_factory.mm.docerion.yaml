@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_metrics_collector_factory.mm.
+type: source
+title: Safe Browsing metrics collector factory implementation
+summary: Implements the metrics collector factory, constructing SafeBrowsingMetricsCollector instances from profile preferences.

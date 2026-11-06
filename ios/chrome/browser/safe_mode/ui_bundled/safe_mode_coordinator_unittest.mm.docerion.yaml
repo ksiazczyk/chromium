@@ -1,0 +1,4 @@
+# Docerion header of safe_mode_coordinator_unittest.mm.
+type: test
+title: Unit tests for the Safe Mode coordinator
+summary: Verifies that starting the Safe Mode coordinator replaces the window's root view controller.

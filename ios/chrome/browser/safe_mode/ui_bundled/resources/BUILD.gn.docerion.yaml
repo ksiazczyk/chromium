@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe mode resources asset bundle build definition
+summary: GN build file that bundles the safe mode Assets.xcassets catalog, including fatal error images, into the iOS Chrome binary.

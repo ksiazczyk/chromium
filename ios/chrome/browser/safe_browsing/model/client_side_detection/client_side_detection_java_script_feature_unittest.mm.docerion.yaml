@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_java_script_feature_unittest.mm.
+type: test
+title: JavaScript feature unit tests
+summary: Unit tests verifying that the JavaScript feature singleton is valid and its script message handler name matches the expected configuration.

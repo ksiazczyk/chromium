@@ -1,0 +1,4 @@
+# Docerion header of preview_overlay_view.mm.
+type: source
+title: Preview overlay view implementation
+summary: Implements the transparent preview overlay and viewport border layers with device-specific border lengths and styling constants.

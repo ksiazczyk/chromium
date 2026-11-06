@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe mode model build configuration
+summary: GN build file defining the safe mode model source set, its bundled crashing-modules plist resource, and the unit test target.

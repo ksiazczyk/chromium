@@ -1,0 +1,4 @@
+# Docerion header of safety_check_notification_client.mm.
+type: source
+title: SafetyCheckNotificationClient implementation
+summary: Implements the Safety Check notification client, including provisional compromised-password notifications, pending request handling and metrics logging.

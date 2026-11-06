@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe mode util header
+// summary: Declares safe_mode_util::GetLoadedImages, returning paths of loaded images such as dynamic libraries with optional filtering.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_MODE_MODEL_SAFE_MODE_UTIL_H_
 #define IOS_CHROME_BROWSER_SAFE_MODE_MODEL_SAFE_MODE_UTIL_H_
 

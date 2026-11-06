@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe mode util implementation
+// summary: Implements GetLoadedImages, which lists currently loaded dyld image paths filtered by an optional path prefix.
+// ---
+
 #include "ios/chrome/browser/safe_mode/model/safe_mode_util.h"
 
 #include <mach-o/dyld.h>

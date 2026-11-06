@@ -1,0 +1,4 @@
+# Docerion header of v5_get_hash_protocol_manager_factory.mm.
+type: source
+title: V5 GetHash protocol manager factory implementation
+summary: Implements the V5 GetHash protocol manager factory, wiring the Safe Browsing service, search hashes cache, and WebUI info singleton.

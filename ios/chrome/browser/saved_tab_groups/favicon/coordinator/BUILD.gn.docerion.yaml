@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the saved tab groups favicon coordinator
+summary: Defines the coordinator source_set containing the favicons grid configurator sources and lists its build dependencies.

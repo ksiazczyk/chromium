@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIBlockerTarget protocol
+// summary: Declares the protocol for a UI blocking target exposing isUIBlocked and a method to bring the blocking UI window to the front.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCOPED_UI_BLOCKER_UI_BUNDLED_UI_BLOCKER_TARGET_H_
 #define IOS_CHROME_BROWSER_SCOPED_UI_BLOCKER_UI_BUNDLED_UI_BLOCKER_TARGET_H_
 

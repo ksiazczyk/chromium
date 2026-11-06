@@ -1,3 +1,9 @@
+---
+type: readme
+title: Safe Browsing password protection JavaScript feature
+summary: Explains how PasswordProtectionJavaScriptFeature detects saved password entry on iOS by injecting JavaScript into an isolated world, since WKWebView lacks input event observer APIs.
+---
+
 ## PasswordProtectionJavaScriptFeature
 
 Password Protection (also known as "PhishGuard") is a feature that warns a user

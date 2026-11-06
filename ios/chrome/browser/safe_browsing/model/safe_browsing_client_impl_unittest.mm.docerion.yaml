@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_client_impl_unittest.mm.
+type: test
+title: Safe Browsing client implementation unit tests
+summary: Unit tests for the iOS Safe Browsing client, verifying that unsafe resources are blocked only for prerendered web states.

@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_safety_check_manager_factory.mm.
+type: source
+title: Safety Check manager factory implementation
+summary: Builds Safety Check manager instances per profile, wiring prefs, password check manager and identity manager dependencies.

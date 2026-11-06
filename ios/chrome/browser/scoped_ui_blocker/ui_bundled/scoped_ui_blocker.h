@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedUIBlocker class header
+// summary: Declares a scoped helper that increments the blocking UI counter of AppState or ProfileState for its lifetime, with AppScoped and ProfileScoped factories.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCOPED_UI_BLOCKER_UI_BUNDLED_SCOPED_UI_BLOCKER_H_
 #define IOS_CHROME_BROWSER_SCOPED_UI_BLOCKER_UI_BUNDLED_SCOPED_UI_BLOCKER_H_
 

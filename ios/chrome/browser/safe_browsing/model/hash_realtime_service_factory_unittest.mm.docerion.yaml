@@ -1,0 +1,4 @@
+# Docerion header of hash_realtime_service_factory_unittest.mm.
+type: test
+title: Hash real-time service factory unit tests
+summary: Verifies that HashRealTimeServiceFactory returns null for incognito profiles and a non-null instance for regular profiles.

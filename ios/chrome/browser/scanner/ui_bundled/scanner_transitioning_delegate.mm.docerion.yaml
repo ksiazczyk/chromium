@@ -1,0 +1,4 @@
+# Docerion header of scanner_transitioning_delegate.mm.
+type: source
+title: ScannerTransitioningDelegate implementation
+summary: Implements slide-up and slide-down animations applied when the scanner view controller is presented or dismissed.

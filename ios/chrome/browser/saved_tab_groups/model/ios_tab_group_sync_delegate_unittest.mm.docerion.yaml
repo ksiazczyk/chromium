@@ -1,0 +1,4 @@
+# Docerion header of ios_tab_group_sync_delegate_unittest.mm.
+type: test
+title: iOS tab group sync delegate unit tests
+summary: Unit tests for the iOS tab group sync delegate using mock sync services, test browsers, and fake web states.

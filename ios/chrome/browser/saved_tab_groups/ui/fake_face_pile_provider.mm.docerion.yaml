@@ -1,0 +1,4 @@
+# Docerion header of fake_face_pile_provider.mm.
+type: source
+title: Fake face pile provider implementation
+summary: Stub implementation of the FacePileProviding protocol that returns a fixed-width empty view and never reports equality with other providers.

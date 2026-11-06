@@ -1,0 +1,4 @@
+# Docerion header of tab_group_sync_service_factory.mm.
+type: source
+title: Tab group sync service factory implementation
+summary: Builds the tab group sync service per profile together with its local update observer and iOS sync delegate.

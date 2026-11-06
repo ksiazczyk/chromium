@@ -1,0 +1,4 @@
+# Docerion header of v5_search_hashes_cache_factory.mm.
+type: source
+title: V5SearchHashesCacheFactory implementation
+summary: Implements the factory that builds a V5SearchHashesCache per profile, depending on the history service.

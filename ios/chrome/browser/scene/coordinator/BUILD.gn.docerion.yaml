@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for scene coordinator
+summary: Defines the coordinator source_set with its sources and dependencies for the iOS Chrome scene coordinator.

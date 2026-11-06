@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Save to Photos UI build targets
+summary: Defines the ui_bundled source set and unit_tests target for the Save to Photos feature, listing sources, dependencies, and frameworks.

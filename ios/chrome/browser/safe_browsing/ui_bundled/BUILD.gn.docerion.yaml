@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing UI build targets
+summary: Defines the ui_bundled source set and its unit_tests target for the iOS Safe Browsing coordinator, listing sources and dependencies.

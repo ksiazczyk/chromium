@@ -1,0 +1,4 @@
+# Docerion header of chrome_tailored_security_service.mm.
+type: source
+title: Chrome tailored security service implementation
+summary: Implements the iOS tailored security service, pausing queries while the app is backgrounded and resuming on foreground.

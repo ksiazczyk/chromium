@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Safe Browsing UI DEPS include rules
+summary: Declares the allowed include directories for the Safe Browsing UI bundled directory used by Chromium's dependency checker.

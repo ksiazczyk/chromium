@@ -1,0 +1,4 @@
+# Docerion header of enhanced_safe_browsing_infobar_delegate.mm.
+type: source
+title: Enhanced Safe Browsing infobar delegate implementation
+summary: Implements the Enhanced Safe Browsing infobar delegate, providing titles, messages and buttons per scenario and recording interaction UMA metrics.

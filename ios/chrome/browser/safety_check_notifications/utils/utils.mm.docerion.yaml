@@ -1,0 +1,4 @@
+# Docerion header of utils.mm.
+type: source
+title: Safety Check notification utility implementations
+summary: Implements notification content and user info creation for each Safety Check check state and logs opt-in sources to histograms.

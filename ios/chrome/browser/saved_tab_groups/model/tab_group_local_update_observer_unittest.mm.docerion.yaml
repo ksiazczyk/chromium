@@ -1,0 +1,4 @@
+# Docerion header of tab_group_local_update_observer_unittest.mm.
+type: test
+title: Tab group local update observer unit tests
+summary: Unit tests verifying local tab group update propagation using a mock sync service and fake web states.

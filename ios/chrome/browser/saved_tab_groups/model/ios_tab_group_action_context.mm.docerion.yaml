@@ -1,0 +1,4 @@
+# Docerion header of ios_tab_group_action_context.mm.
+type: source
+title: iOS tab group action context implementation
+summary: Implements the IOSTabGroupActionContext constructor that stores the browser pointer.

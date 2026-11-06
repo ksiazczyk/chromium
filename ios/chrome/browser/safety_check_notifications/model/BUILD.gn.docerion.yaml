@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for Safety Check notification client
+summary: Defines the notification_client source set and its unit_tests target, listing sources, dependencies and frameworks for the Safety Check notification client.

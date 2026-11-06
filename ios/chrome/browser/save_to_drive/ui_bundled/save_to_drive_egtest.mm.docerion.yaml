@@ -1,0 +1,4 @@
+# Docerion header of save_to_drive_egtest.mm.
+type: test
+title: Save to Drive Earl Grey tests
+summary: Earl Grey integration tests for the Save to Drive download UI, covering Files and Drive destination buttons, organization download restrictions, and account picker flows.

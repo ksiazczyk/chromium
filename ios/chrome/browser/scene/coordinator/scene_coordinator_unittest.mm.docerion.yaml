@@ -1,0 +1,4 @@
+# Docerion header of scene_coordinator_unittest.mm.
+type: test
+title: SceneCoordinator unit tests
+summary: Unit tests for SceneCoordinator covering scene commands, user feedback reporting, and browser state handling with test profiles and scene states.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn test target for tailored security mocks
+summary: Defines a test-only GN source_set bundling the mock tailored security service infobar delegate sources and their dependencies.

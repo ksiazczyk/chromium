@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_coordinator.mm.
+type: source
+title: Safe Browsing coordinator implementation
+summary: Implements SafeBrowsingCoordinator, observing Safe Browsing preference and web state changes to show enhanced protection and tailored security infobars and open settings.

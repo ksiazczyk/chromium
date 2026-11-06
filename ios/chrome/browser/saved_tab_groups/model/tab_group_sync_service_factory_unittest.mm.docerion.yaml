@@ -1,0 +1,4 @@
+# Docerion header of tab_group_sync_service_factory_unittest.mm.
+type: test
+title: Tab group sync service factory unit tests
+summary: Tests that the factory does not create a tab group sync service for test profiles.

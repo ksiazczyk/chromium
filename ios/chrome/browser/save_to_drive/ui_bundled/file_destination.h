@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileDestination enum for download destinations
+// summary: Declares the FileDestination enum listing Files and Drive as available download destinations in the picker.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_FILE_DESTINATION_H_
 #define IOS_CHROME_BROWSER_SAVE_TO_DRIVE_UI_BUNDLED_FILE_DESTINATION_H_
 

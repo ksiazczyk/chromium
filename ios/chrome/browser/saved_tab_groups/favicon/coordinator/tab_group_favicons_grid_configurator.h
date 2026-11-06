@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupFaviconsGridConfigurator class declaration
+// summary: Declares a class that configures TabGroupFaviconsGrid views with favicons from saved tab groups, tab groups, or preview items.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_FAVICON_COORDINATOR_TAB_GROUP_FAVICONS_GRID_CONFIGURATOR_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_FAVICON_COORDINATOR_TAB_GROUP_FAVICONS_GRID_CONFIGURATOR_H_
 

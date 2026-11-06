@@ -1,0 +1,4 @@
+# Docerion header of tailored_security_tab_helper_unittest.mm.
+type: test
+title: Tailored Security tab helper unit tests
+summary: Unit tests for the tailored security tab helper, using a mocked tailored security service and fake web state to verify notification and infobar behavior.

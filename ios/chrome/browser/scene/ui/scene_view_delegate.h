@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SceneViewDelegate protocol
+// summary: Defines the delegate protocol for SceneView, called when the scene view moves to a window.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCENE_UI_SCENE_VIEW_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SCENE_UI_SCENE_VIEW_DELEGATE_H_
 

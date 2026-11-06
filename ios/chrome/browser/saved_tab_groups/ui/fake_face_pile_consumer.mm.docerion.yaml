@@ -1,0 +1,4 @@
+# Docerion header of fake_face_pile_consumer.mm.
+type: test
+title: FakeFacePileConsumer implementation
+summary: Implements the fake consumer, storing the last faces, totals, colors, and call counts for test assertions.

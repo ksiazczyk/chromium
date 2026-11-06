@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_host_ios_unittest.mm.
+type: test
+title: ClientSideDetectionHostIOS unit tests
+summary: Unit tests for the iOS client-side detection host covering classification results, navigation, metrics, and interstitial behavior.

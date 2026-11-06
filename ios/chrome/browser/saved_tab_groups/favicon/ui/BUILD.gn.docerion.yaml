@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for the tab group favicons UI
+summary: Defines the GN source set for the tab group favicons grid UI and its dependencies on shared Chrome iOS color and layout utilities.

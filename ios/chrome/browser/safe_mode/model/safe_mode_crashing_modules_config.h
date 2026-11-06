@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeModeCrashingModulesConfig class header
+// summary: Declares a singleton Objective-C class that returns friendly names for known startup crash modules from a bundled plist.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_MODE_MODEL_SAFE_MODE_CRASHING_MODULES_CONFIG_H_
 #define IOS_CHROME_BROWSER_SAFE_MODE_MODEL_SAFE_MODE_CRASHING_MODULES_CONFIG_H_
 

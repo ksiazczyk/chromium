@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_java_script_feature.mm.
+type: source
+title: Client-side detection JavaScript feature implementation
+summary: Implements the JavaScript feature that receives copied-text messages from web frames, with forwarding to the detection host still pending.

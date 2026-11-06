@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppContainerView interface
+// summary: Declares a UIView subclass that passes through touches not handled by its subviews.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCENE_UI_APP_CONTAINER_VIEW_H_
 #define IOS_CHROME_BROWSER_SCENE_UI_APP_CONTAINER_VIEW_H_
 

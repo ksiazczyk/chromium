@@ -1,0 +1,4 @@
+# Docerion header of scanner_view.mm.
+type: source
+title: ScannerView implementation
+summary: Implements the scanner view layout, preview layer handling, torch button state, and the flash animation on a scanned result.

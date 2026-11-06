@@ -1,0 +1,4 @@
+# Docerion header of verdict_cache_manager_factory_unittest.mm.
+type: test
+title: VerdictCacheManagerFactory unit tests
+summary: Unit test checking that regular and off-the-record profiles get distinct VerdictCacheManager instances.

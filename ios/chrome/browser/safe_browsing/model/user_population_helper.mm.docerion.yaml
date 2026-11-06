@@ -1,0 +1,4 @@
+# Docerion header of user_population_helper.mm.
+type: source
+title: User population helper implementation
+summary: Builds the Safe Browsing ChromeUserPopulation proto from a profile's sync, sign-in, and policy state.

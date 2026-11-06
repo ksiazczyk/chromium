@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientSideDetectionIntelligentScanDelegateFactory header
+// summary: Declares a profile-keyed service factory that owns an IntelligentScanDelegate instance for each active profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_CLIENT_SIDE_DETECTION_CLIENT_SIDE_DETECTION_INTELLIGENT_SCAN_DELEGATE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_CLIENT_SIDE_DETECTION_CLIENT_SIDE_DETECTION_INTELLIGENT_SCAN_DELEGATE_FACTORY_H_
 

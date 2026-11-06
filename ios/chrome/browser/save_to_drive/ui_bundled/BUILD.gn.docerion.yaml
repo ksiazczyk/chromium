@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Save to Drive UI build configuration
+summary: Defines GN source sets and dependencies for the Save to Drive coordinator, mediator, file destination picker and utility code.

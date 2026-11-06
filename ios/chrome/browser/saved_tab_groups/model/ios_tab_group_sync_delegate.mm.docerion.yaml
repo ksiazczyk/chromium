@@ -1,0 +1,4 @@
+# Docerion header of ios_tab_group_sync_delegate.mm.
+type: source
+title: iOS tab group sync delegate implementation
+summary: Implements iOS handling of synced tab group updates, including opening, creating, closing, and updating local tab groups across browsers.

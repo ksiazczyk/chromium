@@ -1,0 +1,4 @@
+# Docerion header of save_to_drive_mediator.mm.
+type: source
+title: Save to Drive mediator implementation
+summary: Implements the Save to Drive mediator, observing download tasks and web state, fetching Drive storage quota, and uploading files with the selected identity.

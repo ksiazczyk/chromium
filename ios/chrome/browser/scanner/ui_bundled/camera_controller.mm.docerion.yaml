@@ -1,0 +1,4 @@
+# Docerion header of camera_controller.mm.
+type: source
+title: Camera controller implementation
+summary: Implements camera authorization requests, capture session loading, viewport setting, video orientation and torch handling for the scanner.

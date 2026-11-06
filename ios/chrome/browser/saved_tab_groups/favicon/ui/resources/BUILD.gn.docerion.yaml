@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for saved tab group favicon resources
+summary: GN build rule that bundles the saved tab group favicon asset catalog, including its grid background color set, into the iOS app bundle.

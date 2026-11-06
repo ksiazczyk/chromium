@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password protection JavaScript feature header
+// summary: Declares a singleton JavaScript feature that detects key presses and paste actions in web content, managing per-WebState observers and rate limiting for password protection.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_PASSWORD_PROTECTION_JAVA_SCRIPT_FEATURE_H_
 #define IOS_CHROME_BROWSER_SAFE_BROWSING_MODEL_PASSWORD_PROTECTION_JAVA_SCRIPT_FEATURE_H_
 

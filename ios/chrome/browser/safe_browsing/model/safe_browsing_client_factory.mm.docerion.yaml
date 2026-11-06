@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_client_factory.mm.
+type: source
+title: Safe Browsing client factory implementation
+summary: Builds SafeBrowsingClientImpl instances, wiring hash real-time, V5 protocol manager and consumer or enterprise URL lookup services based on features and policy.

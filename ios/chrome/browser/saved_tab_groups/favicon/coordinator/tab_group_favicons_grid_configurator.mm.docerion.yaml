@@ -1,0 +1,4 @@
+# Docerion header of tab_group_favicons_grid_configurator.mm.
+type: source
+title: TabGroupFaviconsGridConfigurator implementation
+summary: Implements loading up to four tab favicons with a fallback symbol, updating the favicons grid, and fetching a grid image with a delay cap.

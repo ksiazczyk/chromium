@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_coordinator_unittest.mm.
+type: test
+title: Safe Browsing coordinator unit tests
+summary: Unit tests for SafeBrowsingCoordinator using a mock tailored security service, fake web states and OCMock to verify infobar and settings behavior.

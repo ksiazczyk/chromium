@@ -1,0 +1,4 @@
+# Docerion header of face_pile_coordinator.mm.
+type: source
+title: FacePileCoordinator implementation
+summary: Implements coordinator lifecycle that builds the face pile view, wires the mediator to services and removes the view on stop.

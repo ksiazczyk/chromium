@@ -1,0 +1,4 @@
+# Docerion header of scene_mediator.mm.
+type: source
+title: SceneMediator implementation
+summary: Implements SceneMediator, updating fullscreen UI and triggering the new IA in-product promo when feature conditions are met.

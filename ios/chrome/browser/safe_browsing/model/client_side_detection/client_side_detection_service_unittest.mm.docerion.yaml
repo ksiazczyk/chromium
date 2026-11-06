@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_service_unittest.mm.
+type: test
+title: Client-side detection service unit tests
+summary: Unit tests for the iOS detection service, using test phishing model files and a fake model provider to exercise model updates and Scorer handling.

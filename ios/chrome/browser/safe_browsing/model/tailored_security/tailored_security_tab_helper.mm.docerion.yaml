@@ -1,0 +1,4 @@
+# Docerion header of tailored_security_tab_helper.mm.
+type: source
+title: Tailored Security tab helper implementation
+summary: Implements the iOS Chrome tab helper that observes tailored security service changes and shows infobars when Safe Browsing protection state changes.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS tailored security
+summary: Defines source sets and dependencies for the tailored security service, its infobar delegates and unit tests.

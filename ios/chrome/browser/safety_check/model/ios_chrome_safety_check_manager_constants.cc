@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Check state name conversions
+// summary: Implements conversions between Safety Check state enums and their string representations for persistence and lookup.
+// ---
+
 #include "ios/chrome/browser/safety_check/model/ios_chrome_safety_check_manager_constants.h"
 
 const std::string NameForSafetyCheckState(

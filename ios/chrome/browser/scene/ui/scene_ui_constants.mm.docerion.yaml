@@ -1,0 +1,4 @@
+# Docerion header of scene_ui_constants.mm.
+type: source
+title: Scene UI constants implementation
+summary: Defines the accessibility identifier string constant for the app content view.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for Safety Check model
+summary: GN build file defining source sets for the Safety Check manager, factory, constants, utils and unit tests with their dependencies.

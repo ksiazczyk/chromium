@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_safety_check_manager_observer_bridge.mm.
+type: source
+title: Safety Check observer bridge implementation
+summary: Forwards Safety Check manager observer callbacks to the Objective-C delegate and manages the observation lifetime.

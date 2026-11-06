@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerView interface header
+// summary: Declares the ScannerView UI with camera preview, overlay viewport, torch and close controls, plus its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_VIEW_H_
 #define IOS_CHROME_BROWSER_SCANNER_UI_BUNDLED_SCANNER_VIEW_H_
 

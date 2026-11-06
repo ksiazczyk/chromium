@@ -1,0 +1,4 @@
+# Docerion header of hash_realtime_service_factory.mm.
+type: source
+title: Hash real-time service factory implementation
+summary: Builds HashRealTimeService instances using the Safe Browsing network context, search hashes cache and OHTTP key service.

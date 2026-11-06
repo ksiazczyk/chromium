@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupFaviconsGrid view interface
+// summary: Declares TabGroupFaviconsGrid, a UIView that renders a 2×2 grid of tab group favicons with an overflow counter for groups larger than four tabs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_FAVICON_UI_TAB_GROUP_FAVICONS_GRID_H_
 #define IOS_CHROME_BROWSER_SAVED_TAB_GROUPS_FAVICON_UI_TAB_GROUP_FAVICONS_GRID_H_
 

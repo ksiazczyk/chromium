@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the screenshot model
+summary: Defines the model and unit_tests source sets with their sources and dependencies for the iOS Chrome screenshot module.

@@ -1,0 +1,4 @@
+# Docerion header of tab_group_local_update_observer.mm.
+type: source
+title: Tab group local update observer implementation
+summary: Implements observation of browsers, web state lists and web states to forward local tab group changes to the sync service.

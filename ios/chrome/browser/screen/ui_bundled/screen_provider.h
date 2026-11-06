@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenProvider public interface header
+// summary: Declares the ScreenProvider class whose nextScreenType method returns the type of the next screen until kStepsCompleted is reached.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SCREEN_UI_BUNDLED_SCREEN_PROVIDER_H_
 #define IOS_CHROME_BROWSER_SCREEN_UI_BUNDLED_SCREEN_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for saved tab groups UI
+summary: Declares the allowed include directories for code in the saved tab groups UI folder.

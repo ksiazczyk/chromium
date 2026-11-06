@@ -1,0 +1,4 @@
+# Docerion header of scanner_alerts.mm.
+type: source
+title: Scanner alerts implementation
+summary: Builds UIAlertController dialogs for camera error states, including a link to the Settings app when camera permission is denied.
