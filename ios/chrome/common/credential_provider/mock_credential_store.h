@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock credential store header
+// summary: Declares MockCredentialStore, a mock CredentialStore implementation for use in unit tests.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_MOCK_CREDENTIAL_STORE_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_MOCK_CREDENTIAL_STORE_H_
 

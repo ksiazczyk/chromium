@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the Swift features source set
+summary: Defines the GN source_set target that compiles the Swift feature flag sources and declares a public dependency on //base.

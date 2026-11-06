@@ -1,0 +1,4 @@
+# Docerion header of button_util.mm.
+type: source
+title: Button configuration helper implementation
+summary: Defines button inset constants and applies titles and fonts to buttons through UIButtonConfiguration.

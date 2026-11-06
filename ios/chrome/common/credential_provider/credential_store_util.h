@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential store utility header
+// summary: Declares a helper that asynchronously reads, merges and dedupes credentials from multiple credential stores.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_CREDENTIAL_STORE_UTIL_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_CREDENTIAL_STORE_UTIL_H_
 

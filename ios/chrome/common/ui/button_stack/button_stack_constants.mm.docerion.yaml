@@ -1,0 +1,4 @@
+# Docerion header of button_stack_constants.mm.
+type: source
+title: Button stack constant definitions
+summary: Defines the accessibility identifier strings for the button stack views and sets the default margin to 16 points.

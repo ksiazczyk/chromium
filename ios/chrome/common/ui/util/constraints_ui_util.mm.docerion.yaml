@@ -1,0 +1,4 @@
+# Docerion header of constraints_ui_util.mm.
+type: source
+title: Auto Layout constraint helper implementation
+summary: Implements constraint helpers that activate visual format constraints and add same-center and same-edge constraints between views.

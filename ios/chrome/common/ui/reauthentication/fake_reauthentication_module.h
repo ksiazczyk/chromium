@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake reauthentication module interface for tests
+// summary: Declares FakeReauthenticationModule, a test fake implementing ReauthenticationProtocol to simulate reauthentication results.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_REAUTHENTICATION_FAKE_REAUTHENTICATION_MODULE_H_
 #define IOS_CHROME_COMMON_UI_REAUTHENTICATION_FAKE_REAUTHENTICATION_MODULE_H_
 

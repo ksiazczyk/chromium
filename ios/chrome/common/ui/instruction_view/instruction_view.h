@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstructionView interface for numbered instruction lists
+// summary: Declares the InstructionView UIView subclass, its InstructionViewStyle enum and initializers for numbered or icon-based instruction steps.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_INSTRUCTION_VIEW_INSTRUCTION_VIEW_H_
 #define IOS_CHROME_COMMON_UI_INSTRUCTION_VIEW_INSTRUCTION_VIEW_H_
 

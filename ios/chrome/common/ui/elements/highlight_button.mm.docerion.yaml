@@ -1,0 +1,4 @@
+# Docerion header of highlight_button.mm.
+type: source
+title: Highlight button implementation
+summary: Implements the opacity fading animation on highlight using material timing constants.

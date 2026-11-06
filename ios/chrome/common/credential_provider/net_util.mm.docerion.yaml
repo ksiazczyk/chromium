@@ -1,0 +1,4 @@
+# Docerion header of net_util.mm.
+type: source
+title: Credential provider network utility implementation
+summary: Implements secure host matching via registry-controlled domains and host extraction from identifiers.

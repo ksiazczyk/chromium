@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ButtonStackConfiguration interface header
+// summary: Declares the ButtonStackConfiguration object holding primary, secondary and tertiary action properties plus loading, confirmed and visibility states.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_BUTTON_STACK_BUTTON_STACK_CONFIGURATION_H_
 #define IOS_CHROME_COMMON_UI_BUTTON_STACK_BUTTON_STACK_CONFIGURATION_H_
 

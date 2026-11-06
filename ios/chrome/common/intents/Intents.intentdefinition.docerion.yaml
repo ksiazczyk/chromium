@@ -1,0 +1,4 @@
+# Docerion header of Intents.intentdefinition.
+type: data
+title: Siri intents definition for Chrome iOS
+summary: Apple intent definition plist declaring Chrome iOS intents such as OpenInChrome and SearchInChrome with parameters and responses.

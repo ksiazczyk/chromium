@@ -1,3 +1,9 @@
+---
+type: readme
+title: App group targets overview
+summary: Explains the three app group targets and that an application should depend on either the client or main app target, not both.
+---
+
 App group defines 3 targets:
 - app_group_common,
 - app_group_client,

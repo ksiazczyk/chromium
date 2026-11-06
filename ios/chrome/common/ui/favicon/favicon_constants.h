@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon size constants header
+// summary: Declares constants for the minimal, small, and medium acceptable favicon sizes in points.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_FAVICON_FAVICON_CONSTANTS_H_
 #define IOS_CHROME_COMMON_UI_FAVICON_FAVICON_CONSTANTS_H_
 

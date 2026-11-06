@@ -1,0 +1,4 @@
+# Docerion header of ntp_tile.mm.
+type: source
+title: NTPTile implementation with NSSecureCoding support
+summary: Implements the NTPTile class with its initializers and NSSecureCoding encode and decode methods for most visited tile properties.

@@ -1,0 +1,4 @@
+# Docerion header of table_view_cells_constants.mm.
+type: source
+title: Table view cell constants definitions
+summary: Defines the numeric values and strings for the table view cell layout constants and accessibility identifiers declared in the header.

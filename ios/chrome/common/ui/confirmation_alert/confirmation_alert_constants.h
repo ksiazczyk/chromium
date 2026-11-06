@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirmation alert sheet action enum
+// summary: Defines the enum of button actions recorded in the IOS.ConfirmationAlertSheet.Outcome histogram.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_CONFIRMATION_ALERT_CONFIRMATION_ALERT_CONSTANTS_H_
 #define IOS_CHROME_COMMON_UI_CONFIRMATION_ALERT_CONFIRMATION_ALERT_CONSTANTS_H_
 

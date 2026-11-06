@@ -1,0 +1,4 @@
+# Docerion header of dynamic_type_util.mm.
+type: source
+title: Dynamic type utility implementation
+summary: Implements font selection limited by a maximum content size category, supporting iOS dynamic type with bounded text scaling.

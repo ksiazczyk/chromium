@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider migration notifier header
+// summary: Declares a class that notifies the browser when credentials need migrating from the extension to the browser.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_CREDENTIAL_PROVIDER_MIGRATION_NOTIFIER_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_CREDENTIAL_PROVIDER_MIGRATION_NOTIFIER_H_
 

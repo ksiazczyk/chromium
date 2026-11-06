@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider network utility declarations
+// summary: Declares helpers that securely match credential hosts by eTLD+1 and extract hosts from URL identifiers.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_NET_UTIL_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_NET_UTIL_H_
 

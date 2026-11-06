@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User defaults backed credential store declarations
+// summary: Declares a credential store persisting archivable credentials in NSUserDefaults with batched in-memory operations.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_USER_DEFAULTS_CREDENTIAL_STORE_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_USER_DEFAULTS_CREDENTIAL_STORE_H_
 

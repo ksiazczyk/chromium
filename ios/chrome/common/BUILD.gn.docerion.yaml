@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ios/chrome/common
+summary: Defines GN source sets and build flags for the shared iOS Chrome common code, including unit tests and the app bundle ID prefix buildflag header.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Promo style resources build file
+summary: GN build target bundling the promo style asset catalog, including light and dark variants of the promo background and avatar circle images, for iOS Chrome.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the radial wipe animation source set
+summary: Defines the GN source_set for the radial wipe animation, listing its sources, dependencies on timing and colors targets, and the UIKit framework.

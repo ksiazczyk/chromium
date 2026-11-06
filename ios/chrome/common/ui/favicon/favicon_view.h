@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconView class header
+// summary: Declares the FaviconView UIView subclass with configuration from FaviconAttributes, monogram font setting, and size constants.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_FAVICON_FAVICON_VIEW_H_
 #define IOS_CHROME_COMMON_UI_FAVICON_FAVICON_VIEW_H_
 

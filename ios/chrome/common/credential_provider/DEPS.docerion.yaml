@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency include rules for credential provider
+summary: Sets DEPS include rules allowing dependencies on sync protocol, webauthn components and registry controlled domains.

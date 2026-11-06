@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the reauthentication module
+summary: Defines GN source sets for the reauthentication module, test support, fake module, and unit tests with their dependencies.

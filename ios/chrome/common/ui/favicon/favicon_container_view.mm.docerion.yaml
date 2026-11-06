@@ -1,0 +1,4 @@
+# Docerion header of favicon_container_view.mm.
+type: source
+title: FaviconContainerView implementation
+summary: Implements the favicon container layout with fixed sizing, corner radius, and background color updates on trait changes such as dark mode.

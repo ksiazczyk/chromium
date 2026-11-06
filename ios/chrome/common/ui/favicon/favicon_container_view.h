@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconContainerView class header
+// summary: Declares a container view that displays a FaviconView and supports setting a custom favicon background color.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_FAVICON_FAVICON_CONTAINER_VIEW_H_
 #define IOS_CHROME_COMMON_UI_FAVICON_FAVICON_CONTAINER_VIEW_H_
 

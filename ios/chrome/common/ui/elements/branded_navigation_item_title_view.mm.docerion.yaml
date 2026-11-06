@@ -1,0 +1,4 @@
+# Docerion header of branded_navigation_item_title_view.mm.
+type: source
+title: Branded navigation item title view implementation
+summary: Implements the branded title view with a title label, logo image view and horizontal stack view layout.

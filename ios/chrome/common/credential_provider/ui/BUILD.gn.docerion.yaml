@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Passkey welcome screen UI build definition
+summary: Defines the GN source_set targets for the passkey welcome screen UI and its unit tests in the credential provider folder.

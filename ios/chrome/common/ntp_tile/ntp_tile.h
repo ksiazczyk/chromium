@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTPTile class header for NTP Most Visited tile data
+// summary: Declares the NTPTile class that stores data for an NTP Most Visited tile suggestion, including title, URL, favicon and fallback styling, with NSSecureCoding support.
+// ---
+
 #ifndef IOS_CHROME_COMMON_NTP_TILE_NTP_TILE_H_
 #define IOS_CHROME_COMMON_NTP_TILE_NTP_TILE_H_
 

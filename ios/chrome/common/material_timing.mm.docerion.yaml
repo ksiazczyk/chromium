@@ -1,0 +1,4 @@
+# Docerion header of material_timing.mm.
+type: source
+title: Material animation timing implementation
+summary: Implements Material timing curves and a UIView animation wrapper that applies them through CATransaction.

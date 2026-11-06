@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button configuration helper header
+// summary: Declares button inset and corner radius constants plus helpers to set a UIButton configuration title and font.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_UTIL_BUTTON_UTIL_H_
 #define IOS_CHROME_COMMON_UI_UTIL_BUTTON_UTIL_H_
 

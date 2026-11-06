@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for crash reporting
+summary: Grants this directory permission to include headers from components/crash/core/app.

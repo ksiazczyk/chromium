@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String parsing utilities interface
+// summary: Declares helpers that parse strings with embedded link, tag, and bold markers into attributed strings with ranges.
+// ---
+
 #ifndef IOS_CHROME_COMMON_STRING_UTIL_H_
 #define IOS_CHROME_COMMON_STRING_UTIL_H_
 

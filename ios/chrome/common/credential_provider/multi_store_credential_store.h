@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-store credential store header
+// summary: Declares MultiStoreCredentialStore, which aggregates credentials from several stores and does not save data to disk.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_MULTI_STORE_CREDENTIAL_STORE_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_MULTI_STORE_CREDENTIAL_STORE_H_
 

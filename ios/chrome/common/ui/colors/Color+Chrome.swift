@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwiftUI Color extension for the Chrome color palette
+// summary: Adds SwiftUI Color convenience properties that wrap the Chrome semantic color constants for backgrounds, text, and accents.
+// ---
+
 import SwiftUI
 
 // Adds easy SwiftUI access to the Chrome color palette.

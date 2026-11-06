@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App group build targets
+summary: Defines GN source sets for the app group common code, helper, command, main app, and unit test targets.

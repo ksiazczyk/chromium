@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppGroupCommand interface
+// summary: Declares a class that prepares app group commands in shared defaults and launches Chrome to execute them.
+// ---
+
 #ifndef IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_COMMAND_H_
 #define IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_COMMAND_H_
 

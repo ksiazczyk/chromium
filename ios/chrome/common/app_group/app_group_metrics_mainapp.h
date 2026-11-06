@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main app metrics interface
+// summary: Declares main-app functions to enable, disable, and report metrics collected from extensions via shared user defaults.
+// ---
+
 #ifndef IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_METRICS_MAINAPP_H_
 #define IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_METRICS_MAINAPP_H_
 

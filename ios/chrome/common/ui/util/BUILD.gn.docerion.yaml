@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the UI util source sets
+summary: Defines GN source sets for the UI utility code, dynamic type and image helpers, and their unit tests with dependencies.

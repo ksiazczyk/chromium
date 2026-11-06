@@ -1,0 +1,4 @@
+# Docerion header of app_group_command.mm.
+type: source
+title: AppGroupCommand implementation
+summary: Implements command preparation by writing x-callback-url style commands into the shared app group user defaults.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey model observer bridge declarations
+// summary: Declares an observer that forwards passkey model readiness, change, and shutdown events to a delegate.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_PASSKEY_MODEL_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_PASSKEY_MODEL_OBSERVER_BRIDGE_H_
 

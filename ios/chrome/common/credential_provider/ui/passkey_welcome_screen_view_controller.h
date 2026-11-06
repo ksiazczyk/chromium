@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyWelcomeScreenViewController interface
+// summary: Declares the promo-style view controller shown for passkey enrollment or re-authentication, plus its delegate protocol.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_UI_PASSKEY_WELCOME_SCREEN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_UI_PASSKEY_WELCOME_SCREEN_VIEW_CONTROLLER_H_
 

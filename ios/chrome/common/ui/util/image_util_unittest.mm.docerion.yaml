@@ -1,0 +1,4 @@
+# Docerion header of image_util_unittest.mm.
+type: test
+title: Image utility unit tests
+summary: Unit tests covering CalculateProjection results for fill and aspect fit resize modes with various original and target sizes.

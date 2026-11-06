@@ -1,0 +1,4 @@
+# Docerion header of app_group_metrics_mainapp.mm.
+type: source
+title: Main app metrics implementation
+summary: Stores client and brand data in shared defaults and logs open extension outcomes to UMA histograms with a bounded event count.

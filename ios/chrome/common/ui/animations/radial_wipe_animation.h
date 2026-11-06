@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadialWipeAnimation class interface
+// summary: Declares the RadialWipeAnimation class with animation types, configurable start point and type, and an initializer for animating target views with a wipe effect.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_ANIMATIONS_RADIAL_WIPE_ANIMATION_H_
 #define IOS_CHROME_COMMON_UI_ANIMATIONS_RADIAL_WIPE_ANIMATION_H_
 

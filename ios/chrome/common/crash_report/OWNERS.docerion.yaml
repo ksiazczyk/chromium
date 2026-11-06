@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the crash_report directory
+summary: Lists justincohen@chromium.org as the code owner for review approvals in this directory.

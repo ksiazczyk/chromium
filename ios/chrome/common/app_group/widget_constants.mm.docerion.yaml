@@ -1,0 +1,4 @@
+# Docerion header of widget_constants.mm.
+type: source
+title: Widget constants definitions
+summary: Defines the chromewidgetkit scheme, widget host name strings, and action path constants for widget extension actions.

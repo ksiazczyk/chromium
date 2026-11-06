@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for credential provider UI resources
+summary: GN build rule that bundles the Assets.xcassets catalog with passkey bootstrapping and generic banner images for the iOS credential provider UI.

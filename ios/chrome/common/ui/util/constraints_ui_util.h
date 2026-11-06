@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto Layout constraint helper header
+// summary: Declares layout guide protocols, ComposedEdgeLayoutGuide, and helpers to apply visual format constraints and matching anchors.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_UTIL_CONSTRAINTS_UI_UTIL_H_
 #define IOS_CHROME_COMMON_UI_UTIL_CONSTRAINTS_UI_UTIL_H_
 

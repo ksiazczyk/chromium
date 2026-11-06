@@ -1,0 +1,4 @@
+# Docerion header of app_group_constants.mm.
+type: source
+title: App group shared constant values
+summary: Defines values for app group commands, share item keys, and open extension outcome constants.

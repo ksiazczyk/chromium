@@ -1,0 +1,4 @@
+# Docerion header of promo_style_background_view.mm.
+type: source
+title: Promo style background view implementation
+summary: Implements the promo style background view, resizing and positioning left and right decorative images for compact and regular size classes.

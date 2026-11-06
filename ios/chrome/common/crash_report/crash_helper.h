@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash helper interface
+// summary: Declares common crash helper functions for upload consent, the Crashpad dump location, and Crashpad initialization.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CRASH_REPORT_CRASH_HELPER_H_
 #define IOS_CHROME_COMMON_CRASH_REPORT_CRASH_HELPER_H_
 

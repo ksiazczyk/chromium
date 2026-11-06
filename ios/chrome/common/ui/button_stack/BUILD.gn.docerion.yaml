@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the button_stack component
+summary: Defines the GN source sets for the button_stack component, its utils and constants, and the unit test target with their dependencies.

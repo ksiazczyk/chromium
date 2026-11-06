@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer interaction utility header
+// summary: Declares button pointer style providers for hover effects and a ViewPointerInteraction class for interactable non-button views.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_UTIL_POINTER_INTERACTION_UTIL_H_
 #define IOS_CHROME_COMMON_UI_UTIL_POINTER_INTERACTION_UTIL_H_
 

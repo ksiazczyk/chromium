@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form input accessory view text data interface
+// summary: Declares a data class supplying localized button titles and accessibility labels to the form input accessory view.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_ELEMENTS_FORM_INPUT_ACCESSORY_VIEW_TEXT_DATA_H_
 #define IOS_CHROME_COMMON_UI_ELEMENTS_FORM_INPUT_ACCESSORY_VIEW_TEXT_DATA_H_
 

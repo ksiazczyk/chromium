@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift coordinator feature flag header
+// summary: Declares the kSwiftCoordinator base feature flag and the IsSwiftCoordinatorEnabled function that reports whether Swift-written coordinators are enabled.
+// ---
+
 #ifndef IOS_CHROME_COMMON_SWIFT_FEATURES_H_
 #define IOS_CHROME_COMMON_SWIFT_FEATURES_H_
 

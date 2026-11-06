@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device authorization key store header
+// summary: Declares functions to save and retrieve device authorization keys for an account in the iOS Keychain.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_DEVICE_AUTHORIZATION_KEY_STORE_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_DEVICE_AUTHORIZATION_KEY_STORE_H_
 

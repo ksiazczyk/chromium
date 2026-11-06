@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the favicon UI components
+summary: Defines the favicon and favicon_constants source sets with their source files and dependencies for the Chromium iOS build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reauthentication protocol definition
+// summary: Defines the ReauthenticationProtocol interface and ReauthenticationResult enum for hardware reauthentication checks.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_REAUTHENTICATION_REAUTHENTICATION_PROTOCOL_H_
 #define IOS_CHROME_COMMON_UI_REAUTHENTICATION_REAUTHENTICATION_PROTOCOL_H_
 

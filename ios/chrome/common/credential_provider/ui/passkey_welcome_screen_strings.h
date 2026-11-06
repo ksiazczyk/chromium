@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasskeyWelcomeScreenStrings interface
+// summary: Declares a class holding the localized title, subtitle, footer, button and instruction strings shown on the passkey welcome screen.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_UI_PASSKEY_WELCOME_SCREEN_STRINGS_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_UI_PASSKEY_WELCOME_SCREEN_STRINGS_H_
 

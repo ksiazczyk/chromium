@@ -1,0 +1,4 @@
+# Docerion header of device_authorization_key_store.mm.
+type: source
+title: Device authorization key store implementation
+summary: Stores and fetches per-Gaia-ID device authorization keys in the iOS Keychain, requiring background-thread execution.

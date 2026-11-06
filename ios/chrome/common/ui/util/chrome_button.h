@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeButton styled UIButton interface
+// summary: Declares the ChromeButton class with style, size, and primary image enums for Chrome iOS buttons.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_UTIL_CHROME_BUTTON_H_
 #define IOS_CHROME_COMMON_UI_UTIL_CHROME_BUTTON_H_
 

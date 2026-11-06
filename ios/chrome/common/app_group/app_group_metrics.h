@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App group metrics key declarations
+// summary: Declares app group keys counting credential extension password and passkey usage, plus a helper to build histogram count keys.
+// ---
+
 #ifndef IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_METRICS_H_
 #define IOS_CHROME_COMMON_APP_GROUP_APP_GROUP_METRICS_H_
 

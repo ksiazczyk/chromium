@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential protocol for iOS AutoFill
+// summary: Defines the Credential protocol with properties for passwords and passkeys used with iOS AutoFill.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_CREDENTIAL_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_CREDENTIAL_H_
 

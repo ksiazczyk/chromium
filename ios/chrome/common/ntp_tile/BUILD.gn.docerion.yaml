@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the ntp_tile source set
+summary: Defines the ntp_tile source_set build target listing ntp_tile.h and ntp_tile.mm as its sources.

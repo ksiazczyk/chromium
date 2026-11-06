@@ -1,0 +1,4 @@
+# Docerion header of ui_util.mm.
+type: source
+title: UI utility implementation
+summary: Implements the declared helpers, aligning values, points, sizes and rects to screen pixels, checking size classes, and blending colors.

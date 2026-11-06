@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconTableViewCell interface
+// summary: Declares FaviconTableViewCell, a table view cell that shows a favicon on the leading edge with title and detail text labels.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_TABLE_VIEW_FAVICON_TABLE_VIEW_CELL_H_
 #define IOS_CHROME_COMMON_UI_TABLE_VIEW_FAVICON_TABLE_VIEW_CELL_H_
 

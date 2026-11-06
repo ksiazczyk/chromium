@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential provider constants header
+// summary: Declares shared app group user defaults keys, the archivable store URL, and UMA enums for the iOS credential provider.
+// ---
+
 #ifndef IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_CONSTANTS_H_
 #define IOS_CHROME_COMMON_CREDENTIAL_PROVIDER_CONSTANTS_H_
 

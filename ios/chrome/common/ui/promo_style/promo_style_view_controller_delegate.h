@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo style view controller delegate protocol
+// summary: Declares the delegate protocol through which promo style screens report action button taps, dismissals, and disclaimer link taps to coordinators.
+// ---
+
 #ifndef IOS_CHROME_COMMON_UI_PROMO_STYLE_PROMO_STYLE_VIEW_CONTROLLER_DELEGATE_H_
 #define IOS_CHROME_COMMON_UI_PROMO_STYLE_PROMO_STYLE_VIEW_CONTROLLER_DELEGATE_H_
 

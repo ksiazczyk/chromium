@@ -1,0 +1,4 @@
+# Docerion header of favicon_view.mm.
+type: source
+title: FaviconView implementation
+summary: Implements the favicon view that displays either a favicon image or a colored monogram fallback label with rounded corners.
