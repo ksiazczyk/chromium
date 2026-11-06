@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Convert to Java bitmap unit tests
+// summary: Unit tests covering successful conversion, missing frame status, and assumed allocation failure paths of ConvertToJavaBitmap.
+// ---
+
 #include "components/paint_preview/player/android/convert_to_java_bitmap.h"
 
 #include "base/test/bind.h"

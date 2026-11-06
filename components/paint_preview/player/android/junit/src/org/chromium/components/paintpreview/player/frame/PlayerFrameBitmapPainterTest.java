@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerFrameBitmapPainterTest
+// summary: Robolectric tests for PlayerFrameBitmapPainter that verify bitmap drawing using a fake BitmapFactory shadow and a mock Canvas recording draw operations.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static org.mockito.Mockito.times;

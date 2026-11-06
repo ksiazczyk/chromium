@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Paint Preview Player include rules
+summary: DEPS file restricting includes to the paint preview compositor Mojom and gfx geometry and Android paths.

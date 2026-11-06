@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor service utility declarations
+// summary: Declares functions to start the compositor service, create compositor collections, and bind the discardable memory manager.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_COMPOSITOR_UTILS_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_COMPOSITOR_UTILS_H_
 

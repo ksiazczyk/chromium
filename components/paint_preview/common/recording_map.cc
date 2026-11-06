@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording map construction from capture results
+// summary: Implements building a RecordingMap of frame embedding tokens to serialized recordings from a CaptureResult or PaintPreviewProto, handling both file and memory buffer persistence.
+// ---
+
 #include "components/paint_preview/common/recording_map.h"
 
 #include <string_view>

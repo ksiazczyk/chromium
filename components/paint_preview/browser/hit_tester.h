@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview link hit tester declaration
+// summary: Declares HitTester, which builds an R-tree over link data to find the links intersecting a query rect in a paint preview.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_HIT_TESTER_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_HIT_TESTER_H_
 

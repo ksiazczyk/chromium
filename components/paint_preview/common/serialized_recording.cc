@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerializedRecording implementation
+// summary: Implements SerializedRecording, serializing SkPictures to files or memory buffers and deserializing them back with their deserialization context.
+// ---
+
 
 #include "components/paint_preview/common/serialized_recording.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto file helper declarations
+// summary: Declares WriteProtoToFile and ReadProtoFromFile helpers for persisting PaintPreviewProto objects to files.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_FILE_UTILS_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_FILE_UTILS_H_
 

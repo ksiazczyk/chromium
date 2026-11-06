@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerializedRecording class declaration
+// summary: Declares SerializedRecording, which stores a frame's serialized SkPicture backed by either a file or a memory buffer, along with the persistence enum and SkpResult.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_SERIALIZED_RECORDING_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_SERIALIZED_RECORDING_H_
 

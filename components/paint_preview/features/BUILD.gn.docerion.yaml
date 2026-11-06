@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Paint preview features build definition
+summary: GN build file defining the paint_preview features source set with features.cc and features.h and a dependency on //base.

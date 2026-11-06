@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the paint preview hit tester
+// summary: Tests building the HitTester from LinkData and PaintPreviewFrameProto and checking hit test results against query rects.
+// ---
+
 #include "components/paint_preview/browser/hit_tester.h"
 
 #include <vector>

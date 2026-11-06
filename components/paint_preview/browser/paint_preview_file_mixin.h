@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview file mixin class declaration
+// summary: Declares PaintPreviewFileMixin, a keyed service mixin providing file manager access and async read and write of paint preview protos and AX tree updates.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_PAINT_PREVIEW_FILE_MIXIN_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_PAINT_PREVIEW_FILE_MIXIN_H_
 

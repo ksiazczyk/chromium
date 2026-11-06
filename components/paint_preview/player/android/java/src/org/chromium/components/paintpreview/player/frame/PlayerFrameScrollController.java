@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview player frame scroll controller
+// summary: Handles scrolling, flinging and overscroll-to-refresh behavior for a frame of the paint preview player.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.graphics.Rect;

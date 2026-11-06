@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Paint preview common metadata
+summary: Defines the Monorail and Buganizer components used for tracking issues in the paint preview code.

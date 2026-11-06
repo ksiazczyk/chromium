@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint Preview Player accessibility delegate
+// summary: Implements the Chromium AccessibilityDelegate for the Paint Preview Player, exposing the native AX tree, container view, coordinates, and accessibility-driven click and scroll actions.
+// ---
+
 package org.chromium.components.paintpreview.player.accessibility;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Player compositor delegate interface
+// summary: Interface for communicating with the Paint Preview compositor delegate to request bitmaps and forward click events.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import android.graphics.Bitmap;

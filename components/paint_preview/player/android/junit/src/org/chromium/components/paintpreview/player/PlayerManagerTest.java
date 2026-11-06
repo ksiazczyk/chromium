@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerManagerTest
+// summary: JUnit Robolectric tests verifying PlayerManager.buildFrameTreeHierarchy for frames with no sub-frames, one nested sub-frame, and multiple levels of nested sub-frames.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import android.graphics.Rect;

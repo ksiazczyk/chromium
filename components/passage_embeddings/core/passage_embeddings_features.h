@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings feature flag declarations
+// summary: Declares feature flags and parameters controlling embedder threads, cache size, idle timeouts, passage extraction limits, and scheduling behavior.
+// ---
+
 #ifndef COMPONENTS_PASSAGE_EMBEDDINGS_CORE_PASSAGE_EMBEDDINGS_FEATURES_H_
 #define COMPONENTS_PASSAGE_EMBEDDINGS_CORE_PASSAGE_EMBEDDINGS_FEATURES_H_
 

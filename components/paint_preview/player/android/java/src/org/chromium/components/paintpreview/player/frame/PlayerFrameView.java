@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview player frame view
+// summary: Android view that displays a player frame's content, detects touch gestures and hosts sub-frame views.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.content.Context;

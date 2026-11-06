@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview protobuf message definitions
+// summary: Proto2 definitions describing a paint preview capture, including frames, links, embedding tokens, scroll offsets, metadata, and Chrome version.
+// ---
+
 syntax = "proto2";
 
 package paint_preview;

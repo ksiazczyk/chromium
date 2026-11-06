@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview proto validator implementation
+// summary: Implements checks that required fields of PaintPreviewProto, its frames, links, and embedding token pairs are present.
+// ---
+
 #include "components/paint_preview/common/proto_validator.h"
 
 namespace paint_preview {

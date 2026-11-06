@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glyph usage tracking implementation
+// summary: Implements dense and sparse glyph usage trackers that record which glyph IDs are used for font subsetting.
+// ---
+
 #include "components/paint_preview/common/glyph_usage.h"
 
 #include "base/functional/callback.h"

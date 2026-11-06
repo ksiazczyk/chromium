@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor service startup utilities
+// summary: Implements helpers that launch the paint preview compositor service in a utility process and bind the discardable shared memory manager.
+// ---
+
 #include "components/paint_preview/browser/compositor_utils.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview tracker unit tests
+// summary: Unit tests for PaintPreviewTracker covering getters, remote frame placeholders, glyph tracking, and link annotation.
+// ---
+
 #include "components/paint_preview/common/paint_preview_tracker.h"
 
 #include "base/containers/flat_map.h"

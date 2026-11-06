@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerFrameScaleController
+// summary: Handles scaling of the top-level Paint Preview player frame, applying committed and uncommitted scale factors.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import android.graphics.Matrix;

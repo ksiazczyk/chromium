@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview tracker class declaration
+// summary: Declares PaintPreviewTracker, which collects metadata needed to produce a PaintPreviewFrameProto, including transforms, glyphs, links, and subframes.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_PAINT_PREVIEW_TRACKER_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_PAINT_PREVIEW_TRACKER_H_
 

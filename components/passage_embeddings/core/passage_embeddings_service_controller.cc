@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings service controller implementation
+// summary: Implements the controller that updates model info, launches the embeddings service, and computes embeddings through the scheduling embedder.
+// ---
+
 #include "components/passage_embeddings/core/passage_embeddings_service_controller.h"
 
 #include <algorithm>

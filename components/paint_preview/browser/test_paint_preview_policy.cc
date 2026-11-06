@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test paint preview policy implementation
+// summary: Implements TestPaintPreviewPolicy, a test fake whose SupportedForContents returns a configurable boolean flag.
+// ---
+
 #include "components/paint_preview/browser/test_paint_preview_policy.h"
 
 #include "base/functional/callback.h"

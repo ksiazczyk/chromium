@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form submission tracker utility
+// summary: Notifies form submission observers whether a main frame navigation may indicate a form submission, based on transition type and navigation initiator.
+// ---
+
 #include "components/password_manager/content/browser/form_submission_tracker_util.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview base service test factory implementation
+// summary: Implements a test-only keyed service factory that builds PaintPreviewBaseService instances with a test feature directory.
+// ---
+
 #include "components/paint_preview/browser/paint_preview_base_service_test_factory.h"
 
 #include <memory>

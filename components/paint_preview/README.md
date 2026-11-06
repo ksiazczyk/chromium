@@ -1,3 +1,13 @@
+---
+type: readme
+title: Paint Previews
+summary: Explains what paint previews are and covers their capture, compositing, and playback architecture, usage, and codebase layout.
+relations:
+  - documents /components/paint_preview/browser/paint_preview_base_service.h
+  - documents /components/paint_preview/browser/paint_preview_client.h
+  - documents /components/paint_preview/browser/compositor_utils.h
+---
+
 # Paint Previews
 
 _AKA Freeze Dried Tabs_

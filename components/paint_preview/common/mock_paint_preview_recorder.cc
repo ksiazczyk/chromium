@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock paint preview recorder implementation
+// summary: Implements a mock PaintPreviewRecorder mojo interface that validates capture params and returns configurable responses in tests.
+// ---
+
 #include "components/paint_preview/common/mock_paint_preview_recorder.h"
 
 #include "components/paint_preview/common/mojom/paint_preview_recorder.mojom.h"

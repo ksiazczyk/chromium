@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint Preview frame data model
+// summary: Model of a single Paint Preview frame holding its GUID, content size, initial scroll position and embedded sub-frames.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import android.graphics.Rect;

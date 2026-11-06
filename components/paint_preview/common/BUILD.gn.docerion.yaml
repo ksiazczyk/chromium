@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Paint preview common build targets
+summary: GN build file defining the common source set, test utilities and unit test targets for the paint preview component.

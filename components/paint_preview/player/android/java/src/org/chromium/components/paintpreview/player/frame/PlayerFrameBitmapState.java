@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerFrameBitmapState
+// summary: Manages the bitmap tiles shown in a player frame view at a given scale factor, including tile requests and memory cleanup.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

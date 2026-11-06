@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerCompositorDelegate unit tests
+// summary: Unit tests for the compositor delegate using a fake compositor client to exercise composite and bitmap request flows.
+// ---
+
 #include "components/paint_preview/player/player_compositor_delegate.h"
 
 #include <utility>

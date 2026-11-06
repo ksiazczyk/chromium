@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Paint preview code owners
+summary: Lists the owners of the paint preview directory and delegates HarfBuzz subsetting files to HarfBuzz owners.

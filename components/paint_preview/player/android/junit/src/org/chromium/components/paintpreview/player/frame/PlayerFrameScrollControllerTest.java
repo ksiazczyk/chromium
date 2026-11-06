@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlayerFrameScrollControllerTest
+// summary: Robolectric tests for PlayerFrameScrollController verifying scroll and fling updates, content bounds and overscroll handling with a custom shadow scroller.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static org.mockito.ArgumentMatchers.eq;

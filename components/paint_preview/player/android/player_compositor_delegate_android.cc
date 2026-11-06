@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android player compositor delegate implementation
+// summary: Implements the native JNI delegate that initializes the paint preview compositor, manages parallel bitmap requests, and forwards results to Java.
+// ---
+
 #include "components/paint_preview/player/android/player_compositor_delegate_android.h"
 
 #include <vector>

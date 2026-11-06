@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview client declaration
+// summary: Declares PaintPreviewClient, a WebContentsUserData that coordinates paint preview capture across main frame and subframes.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_PAINT_PREVIEW_CLIENT_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_PAINT_PREVIEW_CLIENT_H_
 

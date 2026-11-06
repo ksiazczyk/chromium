@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview recorder render view tests
+// summary: Parameterized render view tests that capture paint previews with and without CompositeAfterPaint and verify serialized recordings, links, and bitmap output.
+// ---
+
 #include "base/files/file.h"
 #include "base/files/file_path.h"
 #include "base/files/scoped_temp_dir.h"

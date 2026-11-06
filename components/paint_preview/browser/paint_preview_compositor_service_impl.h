@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview compositor service class declaration
+// summary: Declares PaintPreviewCompositorServiceImpl, which manages active compositor clients and provides CreateCompositor and disconnect handling.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_PAINT_PREVIEW_COMPOSITOR_SERVICE_IMPL_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_PAINT_PREVIEW_COMPOSITOR_SERVICE_IMPL_H_
 

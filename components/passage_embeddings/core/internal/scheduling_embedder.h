@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulingEmbedder class declaration
+// summary: Declares the SchedulingEmbedder, an Embedder that schedules passage embedding jobs with batching and priorities so high-priority queries are computed first.
+// ---
+
 #ifndef COMPONENTS_PASSAGE_EMBEDDINGS_CORE_INTERNAL_SCHEDULING_EMBEDDER_H_
 #define COMPONENTS_PASSAGE_EMBEDDINGS_CORE_INTERNAL_SCHEDULING_EMBEDDER_H_
 

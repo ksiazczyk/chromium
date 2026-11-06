@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for bad message prerendering checks
+// summary: Browser tests verifying that CheckFrameNotPrerendering handles active and prerendering frames and records the expected Stability.BadMessageTerminated histograms.
+// ---
+
 #include "components/password_manager/content/browser/bad_message.h"
 
 #include "base/functional/bind.h"

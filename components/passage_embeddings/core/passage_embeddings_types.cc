@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passage embeddings types implementation
+// summary: Implements the Embedding class with unit-length normalization and dot-product scoring, plus Embedder job handle lifecycle management such as cancellation.
+// ---
+
 #include "components/passage_embeddings/core/passage_embeddings_types.h"
 
 #include <algorithm>

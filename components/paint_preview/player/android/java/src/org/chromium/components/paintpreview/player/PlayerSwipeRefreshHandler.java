@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Player swipe to refresh handler
+// summary: Implements overscroll-to-refresh behavior for the player using a modified Android SwipeRefreshLayout.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import android.content.Context;

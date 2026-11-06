@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for passage embeddings core
+summary: DEPS file listing the dependencies that code in this directory may include, such as optimization guide, mojo bindings, and background download services.

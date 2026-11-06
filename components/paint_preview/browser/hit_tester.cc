@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link hit tester implementation
+// summary: Builds an R-tree over captured link rectangles and answers hit test queries with the matching URLs.
+// ---
+
 #include "components/paint_preview/browser/hit_tester.h"
 
 #include <vector>

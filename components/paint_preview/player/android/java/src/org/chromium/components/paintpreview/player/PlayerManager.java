@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint Preview player manager
+// summary: Public entry point of the Paint Preview player component that manages frames, gestures, pull-to-refresh and accessibility.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import static org.chromium.build.NullUtil.assertNonNull;

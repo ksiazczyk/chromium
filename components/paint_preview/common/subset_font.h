@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font subsetting API
+// summary: Declares SubsetFont, which reduces a typeface to only the glyphs recorded in a GlyphUsage set and returns null on failure.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_SUBSET_FONT_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_SUBSET_FONT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passage embeddings test utility declarations
+// summary: Declares TestEmbedder, TestEmbedderMetadataProvider, and TestEnvironment helpers that let tests exercise passage embeddings code without a real model.
+// ---
+
 #ifndef COMPONENTS_PASSAGE_EMBEDDINGS_CORE_PASSAGE_EMBEDDINGS_TEST_UTIL_H_
 #define COMPONENTS_PASSAGE_EMBEDDINGS_CORE_PASSAGE_EMBEDDINGS_TEST_UTIL_H_
 

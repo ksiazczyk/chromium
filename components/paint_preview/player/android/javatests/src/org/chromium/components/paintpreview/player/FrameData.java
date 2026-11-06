@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameData class for player tests
+// summary: Holds frame size, flattened link and child rectangles, links and nested child frames for use in Paint Preview player tests.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import android.graphics.Rect;

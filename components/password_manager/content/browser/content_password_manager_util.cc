@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame activity check utility implementation
+// summary: Implements CheckFrameActiveAndNotPrerendering, which verifies a render frame is active and not prerendering, terminating the renderer otherwise.
+// ---
+
 #include "components/password_manager/content/browser/content_password_manager_util.h"
 
 #include "components/password_manager/content/browser/bad_message.h"

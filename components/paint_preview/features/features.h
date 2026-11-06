@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview feature flag declaration
+// summary: Declares the kPaintPreviewDemo feature that enables an Android main menu item to capture and display a paint preview of the current page for testing.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_FEATURES_FEATURES_H_
 #define COMPONENTS_PAINT_PREVIEW_FEATURES_FEATURES_H_
 

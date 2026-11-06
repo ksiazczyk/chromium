@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview compositor service implementation
+// summary: Implements the paint preview compositor service, creating compositor clients and binding the compositor collection remote on the compositor task runner.
+// ---
+
 #include "components/paint_preview/browser/paint_preview_compositor_service_impl.h"
 
 #include "base/functional/callback.h"

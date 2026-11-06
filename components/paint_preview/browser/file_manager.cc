@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview file manager implementation
+// summary: Implements creation, lookup, compression, deletion, and proto serialization of paint preview artifacts under a root directory.
+// ---
+
 #include "components/paint_preview/browser/file_manager.h"
 
 #include <algorithm>

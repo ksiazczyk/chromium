@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Paint preview dependency include rules
+summary: Specifies the include rules that govern which dependencies the paint preview code may use.

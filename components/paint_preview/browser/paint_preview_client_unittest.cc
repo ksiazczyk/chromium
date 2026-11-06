@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the paint preview client
+// summary: Tests PaintPreviewClient capture behavior, including mojo parameter conversion, file path verification, and result protos.
+// ---
+
 #include "components/paint_preview/browser/paint_preview_client.h"
 
 #include "base/files/file_path.h"

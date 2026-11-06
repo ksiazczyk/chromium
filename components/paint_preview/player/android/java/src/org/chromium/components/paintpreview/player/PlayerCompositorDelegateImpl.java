@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Player compositor delegate JNI implementation
+// summary: Implementation of the compositor delegate that communicates with its native counterpart and the Paint Preview compositor.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import android.graphics.Bitmap;

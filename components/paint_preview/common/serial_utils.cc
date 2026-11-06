@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview picture, typeface, and image serialization utilities
+// summary: Implements Skia serial and deserialization procs that encode subframe rect data, subset and deduplicate typefaces, and enforce image memory budgets.
+// ---
+
 #include "components/paint_preview/common/serial_utils.h"
 
 #include "base/compiler_specific.h"

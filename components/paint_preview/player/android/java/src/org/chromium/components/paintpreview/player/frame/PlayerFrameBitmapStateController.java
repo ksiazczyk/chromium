@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerFrameBitmapStateController
+// summary: Manages which bitmap state is visible or loading for a player frame and swaps between the two states.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

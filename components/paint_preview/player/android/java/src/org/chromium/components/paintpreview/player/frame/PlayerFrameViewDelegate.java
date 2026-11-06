@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint preview player frame view delegate
+// summary: Interface for forwarding layout dimensions and tap or long-press events from the frame view to the mediator.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RedactionParams unit tests
+// summary: Unit tests covering the default constructor, origin allowlist, and site allowlist behavior of RedactionParams subframe redaction decisions.
+// ---
+
 #include "components/paint_preview/common/redaction_params.h"
 
 #include "net/base/schemeful_site.h"

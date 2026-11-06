@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serial utilities unit tests
+// summary: Unit tests verifying empty picture creation and round-trip serialization and deserialization of pictures, typefaces, and images via the serial procs.
+// ---
+
 #include "components/paint_preview/common/serial_utils.h"
 
 #include "base/compiler_specific.h"

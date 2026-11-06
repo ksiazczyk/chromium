@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectoryKey class definition
+// summary: Defines a key that identifies the subdirectory holding a captured paint preview.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_DIRECTORY_KEY_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_DIRECTORY_KEY_H_
 

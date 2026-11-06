@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintPreviewTestService test double
+// summary: Test implementation of the native Paint Preview service that creates and serializes frames over JNI for player tests.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import org.jni_zero.JNINamespace;

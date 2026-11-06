@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test paint preview policy class declaration
+// summary: Declares TestPaintPreviewPolicy, a simple PaintPreviewPolicy fake for tests that defaults to supporting all WebContents and can be toggled.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_BROWSER_TEST_PAINT_PREVIEW_POLICY_H_
 #define COMPONENTS_PAINT_PREVIEW_BROWSER_TEST_PAINT_PREVIEW_POLICY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Paint preview renderer dependency allowlist
+summary: Declares include rules permitting the renderer directory to depend on cc/paint, content, blink public, Skia codec, and native theme feature headers.

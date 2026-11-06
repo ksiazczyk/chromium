@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Paint preview buildflags build definition
+summary: Defines a standalone buildflag_header target that generates buildflags.h with the ENABLE_PAINT_PREVIEW flag so any target can check paint preview support without pulling in paint preview dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedactionParams class declaration
+// summary: Declares RedactionParams, which holds origin and site allowlists used to decide whether subframes are redacted from Paint Preview screenshots.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_REDACTION_PARAMS_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_REDACTION_PARAMS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Passage embeddings test utility implementations
+// summary: Implements test doubles for passage embeddings, including a fake embedder returning dummy embeddings, a metadata provider, and a test environment bundling them.
+// ---
+
 #include "components/passage_embeddings/core/passage_embeddings_test_util.h"
 
 #include "base/task/sequenced_task_runner.h"

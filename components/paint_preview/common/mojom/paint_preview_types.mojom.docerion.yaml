@@ -1,0 +1,4 @@
+# Docerion header of paint_preview_types.mojom.
+type: source
+title: Paint preview types Mojom definitions
+summary: Mojom definitions for RecordingPersistence, ClipCoordOverride and the SerializedRecording union used by paint preview capture.

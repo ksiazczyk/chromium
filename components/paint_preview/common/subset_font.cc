@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font subsetting implementation
+// summary: Implements font subsetting with HarfBuzz, retaining used glyphs plus variation and layout tables for paint preview recordings.
+// ---
+
 #include "components/paint_preview/common/subset_font.h"
 
 // clang-format off

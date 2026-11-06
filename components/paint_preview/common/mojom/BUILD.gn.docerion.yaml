@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Paint preview mojom build target definition
+summary: GN build file defining the paint preview mojom bindings target with its sources, C++ typemaps and public dependencies.

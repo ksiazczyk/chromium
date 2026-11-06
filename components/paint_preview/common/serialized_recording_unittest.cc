@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serialized recording unit tests
+// summary: Unit tests for serializing and deserializing paint preview recordings, covering subframe placeholders, images, and persistence backends.
+// ---
+
 #include "components/paint_preview/common/serialized_recording.h"
 
 #include <optional>

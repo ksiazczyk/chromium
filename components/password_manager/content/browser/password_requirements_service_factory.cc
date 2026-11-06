@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password requirements service factory implementation
+// summary: Implements the keyed-service factory that builds a PasswordRequirementsService per browser context, returning null for off-the-record profiles.
+// ---
+
 #include "components/password_manager/content/browser/password_requirements_service_factory.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture result implementation
+// summary: Implements RecordingParams constructors and Clone plus the CaptureResult lifecycle for paint preview captures.
+// ---
+
 #include "components/paint_preview/common/capture_result.h"
 
 namespace paint_preview {

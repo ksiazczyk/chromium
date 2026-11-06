@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint preview recorder utils unit tests
+// summary: Unit tests for the recorder utilities covering glyph parsing, link annotation tracking, frame clip transforms, and serialization of paint recordings.
+// ---
+
 #include "components/paint_preview/renderer/paint_preview_recorder_utils.h"
 
 #include <memory>

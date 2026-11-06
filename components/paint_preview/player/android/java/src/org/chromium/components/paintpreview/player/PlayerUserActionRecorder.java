@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Player user action recorder
+// summary: Records Paint Preview player user actions such as scrolling, zooming and link clicks as metrics with rate limiting.
+// ---
+
 package org.chromium.components.paintpreview.player;
 
 import org.chromium.base.metrics.RecordUserAction;

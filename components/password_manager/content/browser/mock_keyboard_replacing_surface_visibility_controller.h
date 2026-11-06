@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock keyboard replacing surface visibility controller header
+// summary: Declares a GMock mock of the keyboard-replacing surface visibility controller with mocked methods for use in tests.
+// ---
+
 #ifndef COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_MOCK_KEYBOARD_REPLACING_SURFACE_VISIBILITY_CONTROLLER_H_
 #define COMPONENTS_PASSWORD_MANAGER_CONTENT_BROWSER_MOCK_KEYBOARD_REPLACING_SURFACE_VISIBILITY_CONTROLLER_H_
 

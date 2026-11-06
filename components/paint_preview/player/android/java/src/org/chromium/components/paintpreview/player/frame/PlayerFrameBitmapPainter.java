@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlayerFrameBitmapPainter
+// summary: Draws bitmap tiles onto a canvas for the current viewport of a Paint Preview player frame.
+// ---
+
 package org.chromium.components.paintpreview.player.frame;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

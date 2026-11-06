@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectoryKey comparison operators
+// summary: Implements less-than and equality operators for DirectoryKey based on its ASCII directory name.
+// ---
+
 #include "components/paint_preview/browser/directory_key.h"
 
 namespace paint_preview {

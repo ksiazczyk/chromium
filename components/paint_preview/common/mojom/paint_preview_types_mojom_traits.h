@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerializedRecording Mojom traits declarations
+// summary: Declares Mojo enum and union traits mapping RecordingPersistence and SerializedRecording to their C++ counterparts.
+// ---
+
 #ifndef COMPONENTS_PAINT_PREVIEW_COMMON_MOJOM_PAINT_PREVIEW_TYPES_MOJOM_TRAITS_H_
 #define COMPONENTS_PAINT_PREVIEW_COMMON_MOJOM_PAINT_PREVIEW_TYPES_MOJOM_TRAITS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Password Manager COMMON_METADATA
+summary: Declares the issue tracker component, team mailing list and Buganizer component ID for the password_manager directory.
