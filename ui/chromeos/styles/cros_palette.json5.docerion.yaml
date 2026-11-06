@@ -1,0 +1,4 @@
+# Docerion header of cros_palette.json5.
+type: config
+title: ChromeOS color palette
+summary: Specifies the Google color palette hex values used across ChromeOS WebUIs and System Web Apps.

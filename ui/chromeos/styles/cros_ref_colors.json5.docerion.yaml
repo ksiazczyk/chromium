@@ -1,0 +1,4 @@
+# Docerion header of cros_ref_colors.json5.
+type: config
+title: ChromeOS cros.ref color tokens
+summary: Defines the base reference color token palette for ChromeOS that most colors resolve to and that updates dynamically with theme changes.

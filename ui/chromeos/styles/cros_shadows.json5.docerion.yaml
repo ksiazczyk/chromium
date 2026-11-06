@@ -1,0 +1,4 @@
+# Docerion header of cros_shadows.json5.
+type: config
+title: ChromeOS shadow definitions
+summary: Defines elevation box-shadow values composed from key and ambient shadow color CSS variables for ChromeOS UIs.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_FILE_BROWSER_TIME_REMAINING_ESTIMATE_2.png.sha1.
+type: data
+title: SHA-1 checksum for a ChromeOS Files app screenshot
+summary: Holds the checksum of an expected screenshot image for a Files app UI string, used to fetch and verify the golden image in screenshot tests.

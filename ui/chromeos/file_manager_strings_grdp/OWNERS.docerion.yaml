@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reviewers for PNG hash files
+summary: Grants per-file review ownership so any reviewer can approve changes to the .png.sha1 hash files in this directory.

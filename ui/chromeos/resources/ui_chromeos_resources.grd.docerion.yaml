@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_resources.grd.
+type: config
+title: ChromeOS UI resource list for grit
+summary: Declares grit outputs and scaled image resources, including the default login user avatar and the Kerberos key icon.

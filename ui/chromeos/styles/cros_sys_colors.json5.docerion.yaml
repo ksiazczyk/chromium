@@ -1,0 +1,4 @@
+# Docerion header of cros_sys_colors.json5.
+type: config
+title: ChromeOS system color tokens (cros.sys)
+summary: Defines the cros.sys high-level semantic color tokens for ChromeOS, including light and dark mode values and legacy CSS color mappings.

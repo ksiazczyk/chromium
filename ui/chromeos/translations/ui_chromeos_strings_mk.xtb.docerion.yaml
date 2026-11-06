@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_mk.xtb.
+type: data
+title: Macedonian ChromeOS UI translation bundle
+summary: Macedonian translations of ChromeOS UI strings in XTB format, covering file management, network, and system dialogs.

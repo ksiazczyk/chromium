@@ -1,0 +1,4 @@
+# Docerion header of IDS_FILE_BROWSER_WARNING_PROGRESS_SUMMARY.png.sha1.
+type: data
+title: Context image hash for IDS_FILE_BROWSER_WARNING_PROGRESS_SUMMARY
+summary: Stores the SHA-1 hash of the PNG context image that helps translators translate the file manager warning progress summary string.

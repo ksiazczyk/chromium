@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_hu.xtb.
+type: data
+title: 'ChromeOS UI strings: Hungarian translation bundle'
+summary: XML translation bundle with Hungarian localized strings for ChromeOS UI, covering Files app, network settings, and system dialogs.

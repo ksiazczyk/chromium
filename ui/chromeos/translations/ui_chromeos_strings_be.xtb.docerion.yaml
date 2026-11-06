@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_be.xtb.
+type: data
+title: ChromeOS UI translation bundle in Belarusian
+summary: XML translation bundle with Belarusian translations of ChromeOS UI strings, covering file operations, network status, and system dialogs.

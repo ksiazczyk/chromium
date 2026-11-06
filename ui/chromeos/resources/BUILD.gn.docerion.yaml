@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ChromeOS UI resources
+summary: Defines the grit target that compiles ui_chromeos_resources.grd into generated headers, resource map sources, and 100/200 percent pak files for ChromeOS.

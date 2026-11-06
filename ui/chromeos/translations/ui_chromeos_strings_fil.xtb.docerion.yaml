@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_fil.xtb.
+type: data
+title: 'ChromeOS UI strings: Filipino translation bundle'
+summary: XML translation bundle with Filipino localized strings for ChromeOS UI, covering Files app, network settings, and system dialogs.

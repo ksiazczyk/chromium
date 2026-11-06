@@ -1,0 +1,4 @@
+# Docerion header of presubmit_support_test.py.
+type: test
+title: Unit tests for the semantic colors presubmit check
+summary: Unit tests that verify the semantic colors presubmit check flags invalid CSS variables and ignores unknown CSS contexts and other file types.

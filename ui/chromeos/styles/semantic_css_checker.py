@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Semantic CSS color checker
+# summary: Checks changed HTML and CSS files for non-semantic color values and warns developers to use colors defined in cros_colors.json5.
+# ---
+
 import re  # noqa: F401
 
 _NON_SEMANTIC_CSS_COLOR_PATTERNS = [

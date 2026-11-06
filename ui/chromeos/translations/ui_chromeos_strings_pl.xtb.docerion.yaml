@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_pl.xtb.
+type: data
+title: Polish ChromeOS UI translation bundle
+summary: XML translation bundle providing Polish translations of ChromeOS UI strings for files, networks, keyboards, and system dialogs.

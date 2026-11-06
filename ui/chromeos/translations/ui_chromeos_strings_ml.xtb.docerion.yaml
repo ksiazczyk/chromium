@@ -1,0 +1,4 @@
+# Docerion header of ui_chromeos_strings_ml.xtb.
+type: data
+title: Malayalam ChromeOS UI translation bundle
+summary: Malayalam translations of ChromeOS UI strings in XTB format, covering file management, network, and system dialogs.

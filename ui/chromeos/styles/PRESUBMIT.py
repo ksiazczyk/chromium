@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for ChromeOS style files
+# summary: Runs semantic color checks, deleted CSS variable checks and Python unit tests when JSON5, CSS, HTML, JS or Python files in this directory are changed.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 TEST_PATTERNS = [r'.+_test.py$']

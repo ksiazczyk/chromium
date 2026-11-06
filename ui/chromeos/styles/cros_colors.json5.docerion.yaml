@@ -1,0 +1,4 @@
+# Docerion header of cros_colors.json5.
+type: config
+title: ChromeOS semantic color definitions
+summary: Defines semantic colors for core, background, text and icon roles across ChromeOS WebUIs and System Web Apps, with light and dark mode values.
