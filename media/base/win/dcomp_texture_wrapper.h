@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DCOMPTextureWrapper interface
+// summary: Interface encapsulating DirectComposition texture initialization, output size updates, surface handle setting and video frame creation for the composition output path.
+// ---
+
 #ifndef MEDIA_BASE_WIN_DCOMP_TEXTURE_WRAPPER_H_
 #define MEDIA_BASE_WIN_DCOMP_TEXTURE_WRAPPER_H_
 

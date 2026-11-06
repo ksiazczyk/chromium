@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Media Foundation helper implementations
+// summary: Implements Media Foundation helpers such as sample creation from textures, shared image read locks, codec GUID conversion and D3D11 debug utilities.
+// ---
+
 #include "media/base/win/mf_helpers.h"
 
 #include <initguid.h>

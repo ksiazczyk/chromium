@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android video capture BUILD.gn build file
+summary: GN build rules for the Android video capture source set, including JNI header generation, Java enum generation, and the capture Java library.

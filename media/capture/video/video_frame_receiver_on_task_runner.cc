@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameReceiverOnTaskRunner implementation
+// summary: Implements a VideoFrameReceiver decorator that posts all capture callbacks, such as frame and buffer events, to a given single-thread task runner.
+// ---
+
 #include "media/capture/video/video_frame_receiver_on_task_runner.h"
 
 #include <utility>

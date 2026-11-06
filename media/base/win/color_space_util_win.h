@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation color space conversion header
+// summary: Declares helpers that read the color space of an IMFMediaType and write gfx::ColorSpace components into Media Foundation media type keys.
+// ---
+
 #ifndef MEDIA_BASE_WIN_COLOR_SPACE_UTIL_WIN_H_
 #define MEDIA_BASE_WIN_COLOR_SPACE_UTIL_WIN_H_
 

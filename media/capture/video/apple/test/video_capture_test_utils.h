@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture test utilities declarations
+// summary: Declares helpers to run test cases on a CFRunLoop-enabled thread and to query capture device information in Apple video capture tests.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_TEST_VIDEO_CAPTURE_TEST_UTILS_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_TEST_VIDEO_CAPTURE_TEST_UTILS_H_
 

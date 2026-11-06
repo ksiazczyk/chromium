@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoCaptureOracle unit tests
+// summary: Unit tests covering event time monotonicity, in-order frame delivery, and capture decision behavior of the oracle.
+// ---
+
 #include "media/capture/content/video_capture_oracle.h"
 
 #include <optional>

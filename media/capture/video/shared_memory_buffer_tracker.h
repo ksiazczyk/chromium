@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedMemoryBufferTracker header
+// summary: Declares the shared-memory-backed video capture buffer tracker, including the option to restrict buffer reuse to the originally initialized pixel format.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_SHARED_MEMORY_BUFFER_TRACKER_H_
 #define MEDIA_CAPTURE_VIDEO_SHARED_MEMORY_BUFFER_TRACKER_H_
 

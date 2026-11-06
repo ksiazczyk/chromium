@@ -5,6 +5,12 @@
 // macOS implementation of generic VideoCaptureDevice, using AVFoundation as
 // native capture API.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceApple header
+// summary: Declares VideoCaptureDeviceApple, the Apple VideoCaptureDevice implementation that uses AVFoundation as the native capture API.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_VIDEO_CAPTURE_DEVICE_APPLE_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_VIDEO_CAPTURE_DEVICE_APPLE_H_
 

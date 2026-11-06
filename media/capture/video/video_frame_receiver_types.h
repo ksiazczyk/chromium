@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadyFrameInBuffer struct definition
+// summary: Defines the ReadyFrameInBuffer struct holding a buffer id, frame feedback id, buffer read permission and video frame info for capture receivers.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_FRAME_RECEIVER_TYPES_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_FRAME_RECEIVER_TYPES_H_
 

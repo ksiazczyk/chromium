@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture Mojom traits implementation
+// summary: Implements conversion traits between media C++ capture types and their Mojom counterparts.
+// ---
+
 #include "media/capture/mojom/video_capture_types_mojom_traits.h"
 
 #include <optional>

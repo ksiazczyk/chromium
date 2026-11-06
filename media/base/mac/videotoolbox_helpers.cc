@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox helpers implementation
+// summary: Implements conversion of H.264 and HEVC CMSampleBuffers to Annex B buffers, including parameter set copying and VTCompressionSession scoping.
+// ---
+
 #include "media/base/mac/videotoolbox_helpers.h"
 
 #include <array>

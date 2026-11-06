@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureFeedback header
+// summary: Declares the VideoCaptureFeedback struct and callback used by frame sinks to signal utilization and limit capturer frame rate, resolution and frame mapping.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_FEEDBACK_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_FEEDBACK_H_
 

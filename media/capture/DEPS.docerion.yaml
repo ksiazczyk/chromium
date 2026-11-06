@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for media/capture
+summary: Grants run_all_unittests.cc an include exception for the Mojo core embedder header.

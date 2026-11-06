@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for content capture
+summary: Lists the owners responsible for reviewing changes in this folder, inheriting owners from the video capture component and naming a direct owner.

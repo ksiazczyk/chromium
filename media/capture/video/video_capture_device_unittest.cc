@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture device unit tests
+// summary: Unit tests for video capture devices across platforms, including real webcam tests that are conditionally disabled where test bots lack cameras.
+// ---
+
 #include "media/capture/video/video_capture_device.h"
 
 #include <stddef.h>

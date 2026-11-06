@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation helper declarations
+// summary: Declares Media Foundation helper macros for HRESULT handling, sample and buffer utilities, and shared image support used by Windows media code.
+// ---
+
 #ifndef MEDIA_BASE_WIN_MF_HELPERS_H_
 #define MEDIA_BASE_WIN_MF_HELPERS_H_
 

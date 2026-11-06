@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video stats database LevelDB implementation declaration
+// summary: Declares WebrtcVideoStatsDBImpl, the LevelDB-backed implementation of the WebRTC video stats database with sequence-bound API calls and callbacks.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_WEBRTC_VIDEO_STATS_DB_IMPL_H_
 #define MEDIA_CAPABILITIES_WEBRTC_VIDEO_STATS_DB_IMPL_H_
 

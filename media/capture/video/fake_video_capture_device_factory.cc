@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake video capture device factory implementation
+// summary: Parses command-line options to configure fake capture devices with device counts, resolutions, frame rates and pixel formats.
+// ---
+
 #include "media/capture/video/fake_video_capture_device_factory.h"
 
 #include <array>

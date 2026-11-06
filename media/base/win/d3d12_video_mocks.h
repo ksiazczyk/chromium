@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mocks for D3D12 video interfaces
+// summary: Defines gmock mock classes for D3D12 video device, video processor and video process command list COM interfaces for use in tests.
+// ---
+
 #ifndef MEDIA_BASE_WIN_D3D12_VIDEO_MOCKS_H_
 #define MEDIA_BASE_WIN_D3D12_VIDEO_MOCKS_H_
 

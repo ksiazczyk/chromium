@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image buffer tracker interface
+// summary: Declares SharedImageBufferTracker, a non-reusable VideoCaptureBufferTracker that serves as a workaround to pass SharedImages through the video capture buffer pool.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_SHARED_IMAGE_BUFFER_TRACKER_H_
 #define MEDIA_CAPTURE_VIDEO_SHARED_IMAGE_BUFFER_TRACKER_H_
 

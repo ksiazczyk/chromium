@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmoothEventSampler implementation
+// summary: Implements a token-bucket based sampler that filters presentation events to achieve a target capture frequency.
+// ---
+
 #include "media/capture/content/smooth_event_sampler.h"
 
 #include <stdint.h>

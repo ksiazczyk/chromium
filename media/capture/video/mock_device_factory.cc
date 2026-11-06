@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock device factory implementation
+// summary: Implements a VideoCaptureDeviceFactory that serves registered mock devices and reports a single hard-coded 640x480 I420 supported format to clients.
+// ---
+
 #include "media/capture/video/mock_device_factory.h"
 
 #include <utility>

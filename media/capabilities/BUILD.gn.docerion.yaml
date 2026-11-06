@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the media capabilities targets
+summary: Defines GN targets for the media capabilities component, including proto libraries for video decode and WebRTC stats, the capabilities source set, and unit tests.

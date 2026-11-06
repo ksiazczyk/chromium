@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared image buffer tracker implementation
+// summary: Implements a buffer tracker backed by a ClientSharedImage that exports shared image handles and rejects unsupported memory-mapped or region access operations.
+// ---
+
 #include "media/capture/video/shared_image_buffer_tracker.h"
 
 #include "base/notreached.h"

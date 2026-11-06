@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation package runtime locator
+// summary: Maps codec packages to their store package family names and decoder libraries, locating them at runtime and reporting results under Media.MediaFoundationPackageDecoder UMA histograms.
+// ---
+
 #include "media/base/win/media_foundation_package_runtime_locator.h"
 
 #include <windows.h>

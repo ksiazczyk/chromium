@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_apple.mm.
+type: source
+title: VideoCaptureDeviceApple implementation
+summary: Implements VideoCaptureDeviceApple, managing AVFoundation capture device lifecycle, frame rates, buffer types, and photo capture on Apple platforms.

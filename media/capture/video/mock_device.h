@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock video capture device for tests
+// summary: Declares MockDevice, a gmock-based VideoCaptureDevice that retains its client between AllocateAndStart and StopAndDeAllocate and can send stub frames and started notifications.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_MOCK_DEVICE_H_
 #define MEDIA_CAPTURE_VIDEO_MOCK_DEVICE_H_
 

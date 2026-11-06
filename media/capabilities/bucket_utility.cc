@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bucketing of video sizes, frame rates and WebRTC pixel counts
+// summary: Implements helpers that quantize video resolutions, frame rates and WebRTC pixel sizes into fixed buckets used to aggregate media capability statistics.
+// ---
+
 #include "media/capabilities/bucket_utility.h"
 
 #include <algorithm>

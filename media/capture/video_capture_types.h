@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture type definitions header
+// summary: Defines core video capture types for Chromium's media capture layer, including resolution change policies, power line frequency, buffer types, and a persisted VideoCaptureError enum.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_CAPTURE_TYPES_H_
 #define MEDIA_CAPTURE_VIDEO_CAPTURE_TYPES_H_
 

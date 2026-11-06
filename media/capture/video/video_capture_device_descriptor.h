@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceDescriptor header
+// summary: Declares the VideoCaptureApi, transport type, control support and camera availability enums plus the VideoCaptureDeviceDescriptor struct describing capture devices returned by factories.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_DEVICE_DESCRIPTOR_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_DEVICE_DESCRIPTOR_H_
 

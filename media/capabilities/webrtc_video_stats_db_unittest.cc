@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebRTC video stats DB keys and bucketing
+// summary: Unit tests verifying WebRTC video stats key serialization, equality operators, and pixel size bucketing behavior.
+// ---
+
 #include <string>
 
 #include "media/base/video_codecs.h"

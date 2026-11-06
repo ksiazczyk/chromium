@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureGpuChannelHost implementation
+// summary: Implements a singleton holding the GPU channel and shared image interface for video capture, with thread-safe accessors and context-lost observers.
+// ---
+
 #include "media/capture/video/video_capture_gpu_channel_host.h"
 
 #include "gpu/ipc/client/gpu_channel_host.h"

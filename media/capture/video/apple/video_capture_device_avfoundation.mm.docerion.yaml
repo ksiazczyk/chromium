@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_avfoundation.mm.
+type: source
+title: VideoCaptureDeviceAVFoundation implementation
+summary: Implements the AVFoundation capture session, frame delivery, photo capture, and camera stall handling for Apple video capture devices.

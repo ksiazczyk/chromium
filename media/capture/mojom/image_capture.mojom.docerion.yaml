@@ -1,0 +1,4 @@
+# Docerion header of image_capture.mojom.
+type: source
+title: Image capture Mojom interfaces
+summary: Defines Mojom structs and enums mirroring the W3C MediaStream Image Capture photo capabilities and settings.

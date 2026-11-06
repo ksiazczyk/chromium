@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI device manager implementation
+// summary: Implements DXGIDeviceManager and DXGIDeviceScopedHandle for opening, locking and closing Media Foundation DXGI device handles and managing D3D11 devices.
+// ---
+
 #include "media/base/win/dxgi_device_manager.h"
 
 #include <mfcaptureengine.h>

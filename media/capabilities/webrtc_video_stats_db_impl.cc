@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB-backed WebRTC video stats database implementation
+// summary: Implements the WebrtcVideoStatsDB interface on top of a LevelDB proto database, handling initialization, appending, querying, and clearing of video stats.
+// ---
+
 #include "media/capabilities/webrtc_video_stats_db_impl.h"
 
 #include <memory>

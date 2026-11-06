@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureBufferHandle interface
+// summary: Declares the buffer handle abstraction giving clients access to pooled capture buffer data, plus a NullHandle used by the GPU memory buffer tracker.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_BUFFER_HANDLE_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_BUFFER_HANDLE_H_
 

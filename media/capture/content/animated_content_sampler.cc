@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated content sampler implementation
+// summary: Implements detection of constant frame rate animated content from presentation events and proposes frame sampling with rewritten frame timestamps.
+// ---
+
 #include "media/capture/content/animated_content_sampler.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for media/capture
+summary: Lists code owners for media/capture and delegates review responsibility to subdirectory OWNERS files and PIPEWIRE_OWNERS.

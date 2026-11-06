@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureFormat
+// summary: Value class describing a video capture format with width, height, framerate and an Android image format pixel type.
+// ---
+
 package org.chromium.media;
 
 import android.graphics.ImageFormat;

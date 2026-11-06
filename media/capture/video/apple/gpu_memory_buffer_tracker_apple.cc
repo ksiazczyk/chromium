@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer tracker for Apple
+// summary: Implements an IOSurface-backed video capture buffer tracker for NV12 frames, including consumer retention and GPU memory buffer handle access.
+// ---
+
 #include "media/capture/video/apple/gpu_memory_buffer_tracker_apple.h"
 
 #include "base/logging.h"

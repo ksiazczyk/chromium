@@ -1,0 +1,4 @@
+# Docerion header of video_frame_mac.mm.
+type: source
+title: Video frame CVPixelBuffer helpers implementation
+summary: Implements wrapping of VideoFrames and IOSurfaces in CVPixelBuffers, mapping pixel formats and applying color space attachments.

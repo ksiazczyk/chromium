@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AVFoundation frame receiver interface
+// summary: Declares the frame receiver interface that delivers captured video and GPU memory buffer frames, photo results, errors, configuration changes, and log messages from AVFoundation capture.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_VIDEO_CAPTURE_DEVICE_FRAME_RECEIVER_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_VIDEO_CAPTURE_DEVICE_FRAME_RECEIVER_H_
 

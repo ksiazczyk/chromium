@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture resolution chooser implementation
+// summary: Implements computation of snapped capture frame sizes from min/max constraints, source size, and a target frame area.
+// ---
+
 #include "media/capture/content/capture_resolution_chooser.h"
 
 #include <algorithm>

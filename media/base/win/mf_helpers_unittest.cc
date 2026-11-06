@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation helpers unit tests
+// summary: Unit tests verifying that CreateSampleFromTexture copies only the visible rect without uninitialized padding and fails when a keyed mutex is unavailable.
+// ---
+
 #include "media/base/win/mf_helpers.h"
 
 #include <d3d11.h>

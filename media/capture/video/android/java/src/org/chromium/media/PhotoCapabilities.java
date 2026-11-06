@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhotoCapabilities
+// summary: Holds photo capability values read from Android video capture devices, with validated accessors exposed to native code via JNI.
+// ---
+
 package org.chromium.media;
 
 import org.jni_zero.CalledByNative;

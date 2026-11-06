@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraAvailabilityObserver
+// summary: Android camera availability callback that listens for camera connect and disconnect events and forwards them to the native observer over JNI.
+// ---
+
 package org.chromium.media;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Video capture directory owners
+summary: Lists the current and legacy code owners responsible for reviewing changes in the video capture directory.

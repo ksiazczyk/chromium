@@ -1,0 +1,4 @@
+# Docerion header of sample_buffer_transformer_unittest.mm.
+type: test
+title: SampleBufferTransformer unit tests
+summary: Unit tests for SampleBufferTransformer covering pixel format conversion, scaling, and MJPEG decoding using libyuv and pixel transfer paths.

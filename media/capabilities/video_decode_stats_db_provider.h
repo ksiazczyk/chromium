@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video decode stats database provider interface
+// summary: Defines an interface for obtaining the owned video decode stats database pointer so profiles can share a single DB instance.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_VIDEO_DECODE_STATS_DB_PROVIDER_H_
 #define MEDIA_CAPABILITIES_VIDEO_DECODE_STATS_DB_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureOracle implementation
+// summary: Implements the capture decision logic that decides which frames to capture and how to auto-throttle capture size from consumer feedback.
+// ---
+
 
 #include "media/capture/content/video_capture_oracle.h"
 

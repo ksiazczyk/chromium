@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video decode stats database key and entry implementation
+// summary: Implements bucketed key creation, serialization, logging, and arithmetic for video decode stats database keys and entries.
+// ---
+
 #include "media/capabilities/video_decode_stats_db.h"
 
 #include "base/check_op.h"

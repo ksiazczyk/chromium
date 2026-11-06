@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android video capture device implementation
+// summary: Implements the Android video capture device, covering frame delivery, GPU and Vulkan support, and mapping of Android capture modes to Mojo types.
+// ---
+
 #include "media/capture/video/android/video_capture_device_android.h"
 
 #include <android/data_space.h>

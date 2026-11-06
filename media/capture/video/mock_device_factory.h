@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock device factory interface
+// summary: Declares MockDeviceFactory, a VideoCaptureDeviceFactory that lets tests add and remove mock capture devices keyed by device descriptor.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_MOCK_DEVICE_FACTORY_H_
 #define MEDIA_CAPTURE_VIDEO_MOCK_DEVICE_FACTORY_H_
 

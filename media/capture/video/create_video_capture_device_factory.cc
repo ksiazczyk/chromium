@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture device factory creation
+// summary: Creates the appropriate video capture device factory for each platform, or fake and file-based factories from command-line switches.
+// ---
+
 #include "media/capture/video/create_video_capture_device_factory.h"
 
 #include "base/command_line.h"

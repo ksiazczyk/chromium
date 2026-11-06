@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Foundation package locator unit tests
+// summary: Tests that codec package install paths resolve correctly for VP9, AV1, HEVC and Dolby packages, checking paths only when the corresponding MF decoder is present.
+// ---
+
 
 #include <mfapi.h>
 

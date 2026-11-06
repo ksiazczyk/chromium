@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation package locator helper implementation
+// summary: Locates installed Media Foundation codec package paths via Win32 AppModel APIs, handling architecture subdirectories and package-specific quirks like Dolby MFT folders.
+// ---
+
 #include "media/base/win/media_foundation_package_locator_helper.h"
 
 #include <windows.h>

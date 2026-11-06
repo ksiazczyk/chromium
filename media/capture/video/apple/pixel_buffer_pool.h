@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pixel buffer pool interface
+// summary: Declares a CVPixelBufferPool wrapper that creates recyclable pixel buffers with a given format, size, and optional maximum buffer count.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_PIXEL_BUFFER_POOL_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_PIXEL_BUFFER_POOL_H_
 

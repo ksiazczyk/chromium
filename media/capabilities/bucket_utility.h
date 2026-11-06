@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for video size, frame rate and pixel bucket helpers
+// summary: Declares media namespace functions that map raw video dimensions, frame rates and pixel counts to the nearest bucket for stats recording.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_BUCKET_UTILITY_H_
 #define MEDIA_CAPABILITIES_BUCKET_UTILITY_H_
 

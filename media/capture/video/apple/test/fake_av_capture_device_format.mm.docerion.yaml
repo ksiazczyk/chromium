@@ -1,0 +1,4 @@
+# Docerion header of fake_av_capture_device_format.mm.
+type: test
+title: Fake AVFoundation capture device format implementation
+summary: Implements fake AVFrameRateRange and AVCaptureDeviceFormat subclasses that provide custom formats and frame rate ranges for tests.

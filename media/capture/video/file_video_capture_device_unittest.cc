@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File Video Capture Device Unit Tests
+// summary: Tests the file-backed capture device using the bear.mjpeg test data, verifying frame capture, start and stop, and photo options such as pan, tilt, and zoom.
+// ---
+
 #include "media/capture/video/file_video_capture_device.h"
 
 #include <stddef.h>

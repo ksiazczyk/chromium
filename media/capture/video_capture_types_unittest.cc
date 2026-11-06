@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture types unit tests
+// summary: Unit tests verifying that VideoCaptureParams::SuggestConstraints produces correct min/max frame sizes and aspect ratio behavior across resolution change policies.
+// ---
+
 #include "media/capture/video_capture_types.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

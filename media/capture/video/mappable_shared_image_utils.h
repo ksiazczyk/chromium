@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mappable Shared Image Utilities Header
+// summary: Declares AllocateNV12SharedImage, a helper for allocating NV12 mappable shared images in the video capture pipeline.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_MAPPABLE_SHARED_IMAGE_UTILS_H_
 #define MEDIA_CAPTURE_VIDEO_MAPPABLE_SHARED_IMAGE_UTILS_H_
 

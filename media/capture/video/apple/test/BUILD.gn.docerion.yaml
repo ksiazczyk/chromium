@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for Apple video capture test support
+summary: Defines the test_support source set that bundles fake and mock helpers for Apple video capture unit tests.

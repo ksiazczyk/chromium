@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video stats database provider interface
+// summary: Declares an interface for sharing an initialized WebRTC video stats database instance, allowing reuse of its in-memory cache across profiles.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_WEBRTC_VIDEO_STATS_DB_PROVIDER_H_
 #define MEDIA_CAPABILITIES_WEBRTC_VIDEO_STATS_DB_PROVIDER_H_
 

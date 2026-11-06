@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture buffer tracker implementation
+// summary: Implements producer and consumer hold tracking for video capture buffers in the VideoCaptureBufferTracker base class, including GPU memory buffer handle retrieval.
+// ---
+
 #include "media/capture/video/video_capture_buffer_tracker.h"
 
 namespace media {

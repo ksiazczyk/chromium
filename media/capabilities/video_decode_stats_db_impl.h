@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video decode stats database implementation header
+// summary: Declares the LevelDB-backed video decode stats database implementation, its creation factory, and configurable field trial parameters.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_VIDEO_DECODE_STATS_DB_IMPL_H_
 #define MEDIA_CAPABILITIES_VIDEO_DECODE_STATS_DB_IMPL_H_
 

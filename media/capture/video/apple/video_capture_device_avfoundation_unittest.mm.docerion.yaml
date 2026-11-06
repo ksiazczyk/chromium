@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_avfoundation_unittest.mm.
+type: test
+title: VideoCaptureDeviceAVFoundation unit tests
+summary: Unit tests for VideoCaptureDeviceAVFoundation covering NV12 frame output and photo capture, currently disabled pending fixes.

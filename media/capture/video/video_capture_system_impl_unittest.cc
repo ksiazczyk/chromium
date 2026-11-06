@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoCaptureSystemImpl unit tests
+// summary: Unit tests verifying that capture format consolidation deduplicates identical and normalized formats while preserving NV12.
+// ---
+
 #include "media/capture/video/video_capture_system_impl.h"
 
 #include <vector>

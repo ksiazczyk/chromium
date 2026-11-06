@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock video capture device client interface
+// summary: Declares a gmock mock of VideoCaptureDevice::Client covering frame delivery, buffer reservation, error, and drop callbacks, plus a buffer-allocating client factory.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_MOCK_VIDEO_CAPTURE_DEVICE_CLIENT_H_
 #define MEDIA_CAPTURE_VIDEO_MOCK_VIDEO_CAPTURE_DEVICE_CLIENT_H_
 

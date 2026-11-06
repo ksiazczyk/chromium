@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: D3D11 and DXGI mock implementations
+// summary: Implements constructors and destructors for the D3D11 and DXGI mock classes used by media tests.
+// ---
+
 #include "media/base/win/d3d11_mocks.h"
 
 namespace media {

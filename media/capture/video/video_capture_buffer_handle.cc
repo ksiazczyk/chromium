@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureBufferHandle NullHandle implementation
+// summary: Implements the NullHandle stub whose data access operations are unsupported, used where CPU access to GPU memory buffers is not permitted.
+// ---
+
 #include "media/capture/video/video_capture_buffer_handle.h"
 
 #include <ostream>

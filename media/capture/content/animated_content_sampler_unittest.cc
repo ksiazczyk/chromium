@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animated content sampler unit tests
+// summary: Unit tests covering majority damage rect election, animation detection, and sampling period computation for the animated content sampler.
+// ---
+
 #include "media/capture/content/animated_content_sampler.h"
 
 #include <stddef.h>

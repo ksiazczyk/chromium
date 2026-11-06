@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedMemoryBufferTracker implementation
+// summary: Implements a video capture buffer tracker that allocates, maps and duplicates shared memory regions for capture frames, including required buffer size calculation.
+// ---
+
 #include "media/capture/video/shared_memory_buffer_tracker.h"
 
 #include "base/check.h"

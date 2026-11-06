@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test entry point for media/capture
+// summary: Main entry point for media/capture unit tests, setting up a Mojo-enabled test environment before launching the test suite.
+// ---
+
 #include <stdio.h>
 
 #include <memory>

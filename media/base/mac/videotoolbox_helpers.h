@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoToolbox helpers interface
+// summary: Declares helpers for copying CMSampleBuffers to Annex B buffers, a scoped VTCompressionSessionRef and a SessionPropertySetter for compression sessions.
+// ---
+
 #ifndef MEDIA_BASE_MAC_VIDEOTOOLBOX_HELPERS_H_
 #define MEDIA_BASE_MAC_VIDEOTOOLBOX_HELPERS_H_
 

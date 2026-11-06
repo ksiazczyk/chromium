@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WebRTC video stats database implementation
+// summary: Unit tests for WebrtcVideoStatsDBImpl using a fake LevelDB proto database to verify appending, querying, and clearing of WebRTC video stats entries.
+// ---
+
 #include <map>
 #include <memory>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameReceiver interface header
+// summary: Defines the VideoFrameReceiver callback interface for buffer and frame delivery from capture devices, plus the ScopedFrameDoneHelper adapter.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_FRAME_RECEIVER_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_FRAME_RECEIVER_H_
 

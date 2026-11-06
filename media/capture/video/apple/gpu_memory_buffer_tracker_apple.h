@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer tracker for Apple header
+// summary: Declares the GpuMemoryBufferTrackerApple class that tracks IOSurface-based capture buffers and prevents pool reuse while consumers hold them.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_GPU_MEMORY_BUFFER_TRACKER_APPLE_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_GPU_MEMORY_BUFFER_TRACKER_APPLE_H_
 

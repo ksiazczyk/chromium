@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video stats database interface
+// summary: Defines the WebrtcVideoStatsDB interface used by media capabilities services to store and retrieve WebRTC video encode and decode performance statistics.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_WEBRTC_VIDEO_STATS_DB_H_
 #define MEDIA_CAPABILITIES_WEBRTC_VIDEO_STATS_DB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture device client implementation
+// summary: Converts incoming capture data to I420 using libyuv, manages buffer pool reservations, and forwards frames to a video frame receiver.
+// ---
+
 #include "media/capture/video/video_capture_device_client.h"
 
 #include <algorithm>

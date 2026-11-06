@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureSystem interface header
+// summary: Interface for enumerating video capture device infos asynchronously and creating capture devices by ID on top of a device factory.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_SYSTEM_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_SYSTEM_H_
 

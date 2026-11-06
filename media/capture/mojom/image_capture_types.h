@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty PhotoState factory header
+// summary: Declares mojo::CreateEmptyPhotoState for constructing an empty image capture PhotoState.
+// ---
+
 #ifndef MEDIA_CAPTURE_MOJOM_IMAGE_CAPTURE_TYPES_H_
 #define MEDIA_CAPTURE_MOJOM_IMAGE_CAPTURE_TYPES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of video_capture_device_avfoundation_utils.mm.
+type: source
+title: AVFoundation capture utilities implementation
+summary: Implements helpers that extract contiguous sample buffer data, report buffer sizes, convert FourCC codes, and compute iOS device rotation angles.

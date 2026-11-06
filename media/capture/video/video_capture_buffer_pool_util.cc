@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture buffer pool size utility
+// summary: Computes the platform-specific maximum number of in-flight video capture buffers, with larger limits for macOS, ChromeOS and Windows GPU memory buffer use.
+// ---
+
 #include "media/capture/video/video_capture_buffer_pool_util.h"
 
 #include "build/build_config.h"

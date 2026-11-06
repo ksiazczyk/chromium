@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android video capture device factory implementation
+// summary: Implements the Android capture device factory that enumerates cameras, caches supported formats and zoom support, and creates capture devices.
+// ---
+
 #include "media/capture/video/android/video_capture_device_factory_android.h"
 
 #include <utility>

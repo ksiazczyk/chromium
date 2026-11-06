@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Video Capture Device
+// summary: Implements a gmock-based MockDevice that sends stub frames and delegates capture and photo calls, serving as test support for capture device tests.
+// ---
+
 #include "media/capture/video/mock_device.h"
 
 namespace media {

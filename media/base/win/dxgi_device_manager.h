@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DXGI device manager header
+// summary: Declares DXGIDeviceScopedHandle and the thread-safe DXGIDeviceManager that wraps IMFDXGIDeviceManager for D3D11 device access and registration with MF components.
+// ---
+
 #ifndef MEDIA_BASE_WIN_DXGI_DEVICE_MANAGER_H_
 #define MEDIA_BASE_WIN_DXGI_DEVICE_MANAGER_H_
 

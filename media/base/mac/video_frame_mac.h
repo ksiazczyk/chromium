@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame CVPixelBuffer helpers header
+// summary: Declares functions to map video frame formats to CVPixelFormat types and to wrap video frames and IOSurfaces in CVPixelBuffers.
+// ---
+
 #ifndef MEDIA_BASE_MAC_VIDEO_FRAME_MAC_H_
 #define MEDIA_BASE_MAC_VIDEO_FRAME_MAC_H_
 

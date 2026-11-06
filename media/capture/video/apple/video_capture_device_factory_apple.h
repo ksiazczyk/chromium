@@ -4,6 +4,12 @@
 
 // Implementation of a VideoCaptureDeviceFactory class for Mac.
 
+// ---docerion
+// type: source
+// title: Apple video capture device factory header
+// summary: Declares VideoCaptureDeviceFactoryApple, the Mac extension of VideoCaptureDeviceFactory that creates capture devices, queries device info, and gates GPU memory buffer use.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_APPLE_VIDEO_CAPTURE_DEVICE_FACTORY_APPLE_H_
 #define MEDIA_CAPTURE_VIDEO_APPLE_VIDEO_CAPTURE_DEVICE_FACTORY_APPLE_H_
 

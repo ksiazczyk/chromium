@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC video stats database key bucketing and serialization
+// summary: Implements WebrtcVideoStatsDB key construction, codec profile bucketing, serialization, and pixel parsing helpers for the WebRTC video stats database.
+// ---
+
 #include "media/capabilities/webrtc_video_stats_db.h"
 
 #include "base/check_op.h"

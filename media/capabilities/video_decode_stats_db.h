@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video decode stats database interface
+// summary: Defines the abstract interface used by media capabilities services to store and retrieve video decoding performance statistics.
+// ---
+
 #ifndef MEDIA_CAPABILITIES_VIDEO_DECODE_STATS_DB_H_
 #define MEDIA_CAPABILITIES_VIDEO_DECODE_STATS_DB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureGpuChannelHost singleton header
+// summary: Declares a thread-safe singleton that exposes the GPU SharedImageInterface and GpuChannelHost to video capture and broadcasts GPU context loss to observers.
+// ---
+
 #ifndef MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_GPU_CHANNEL_HOST_H_
 #define MEDIA_CAPTURE_VIDEO_VIDEO_CAPTURE_GPU_CHANNEL_HOST_H_
 

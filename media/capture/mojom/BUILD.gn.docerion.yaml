@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Video capture Mojom build targets
+summary: GN build file defining Mojom targets, typemaps, and traits support for the media capture interfaces.

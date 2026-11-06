@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureDeviceFactory implementation
+// summary: Implements VideoCaptureErrorOrDevice for passing device creation results or error codes and the base VideoCaptureDeviceFactory class with Windows DXGI hooks.
+// ---
+
 #include "media/capture/video/video_capture_device_factory.h"
 
 #include <utility>

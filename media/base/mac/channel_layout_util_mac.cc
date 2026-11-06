@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel layout utilities for macOS
+// summary: Maps between Chrome's Channels and Core Audio channel labels and converts channel layouts to and from Core Audio layouts.
+// ---
+
 
 #include "media/base/mac/channel_layout_util_mac.h"
 
