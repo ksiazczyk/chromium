@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for syncFileSystem service status changed browser test
+summary: Chrome extension manifest that defines the test app with syncFileSystem permission and test.js as background script for the onServiceStatusChanged browser test.

@@ -1,0 +1,4 @@
+# Docerion header of api_tests.html.
+type: test
+title: Tab Capture API test harness page
+summary: HTML page that loads the tabCapture API test script when the test extension page is opened.

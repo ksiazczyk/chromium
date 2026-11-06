@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel API test service worker
+// summary: Service worker that runs chrome.test checks for sidePanel setOptions and getOptions behavior, including manifest defaults and tab-specific options.
+// ---
+
 let tabId;
 
 chrome.test.runTests([

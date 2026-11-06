@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tab capture API test OWNERS file
+summary: OWNERS file for the tab_capture extension API test data that includes the OWNERS of the tab_capture API implementation.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: system.memory test extension manifest
+summary: Manifest for the system.memory API test extension, requesting the system.memory permission and registering the test service worker.

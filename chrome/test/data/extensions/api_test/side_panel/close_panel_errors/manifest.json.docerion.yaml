@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the side panel close errors test extension
+summary: Manifest v3 extension manifest that registers the background service worker and requests the sidePanel permission for the close panel error API tests.

@@ -1,0 +1,4 @@
+# Docerion header of default_path.html.
+type: test
+title: Side panel default path page
+summary: Empty HTML page referenced as the default side panel path in the test extension's manifest.

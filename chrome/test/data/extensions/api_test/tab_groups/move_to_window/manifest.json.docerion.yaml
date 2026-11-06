@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the move group test extension
+summary: Manifest V3 manifest for the test extension, registering background.js as a service worker and requesting the tabs and tabGroups permissions.

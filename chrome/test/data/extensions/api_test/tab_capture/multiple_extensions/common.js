@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab capture multiple extensions test helper
+// summary: Shared test script that repeatedly starts tab capture and reports readiness and success messages for the multiple-extensions tabCapture API test.
+// ---
+
 // Triggers tab capture asynchronously. If successful, sends a "success"
 // message.
 function startTabCapture() {

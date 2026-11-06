@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: onResult event browser test
+// summary: Service worker test that adds two listeners for chrome.speechRecognitionPrivate.onResult and asserts the transcript and isFinal values per client ID.
+// ---
+
 chrome.test.runTests([function testOnResult() {
   const firstClientId = 1;
   const secondClientId = 2;

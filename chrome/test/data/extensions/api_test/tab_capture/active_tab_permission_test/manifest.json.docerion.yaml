@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Tab capture test extension manifest
+summary: Manifest for the tabCapture API test extension declaring tabCapture and tabs permissions under manifest version 3.

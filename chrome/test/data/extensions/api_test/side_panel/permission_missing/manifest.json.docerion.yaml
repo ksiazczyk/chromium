@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest for the side panel permission missing API test extension, declaring a version 3 extension with a service worker background.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for syncFileSystem onFileSynced browser test
+summary: Extension manifest declaring the test app, its background script and the syncFileSystem permission for the onFileSynced browser test.

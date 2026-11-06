@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the system.storage API test extension
+summary: Chrome extension manifest for the system.storage API test app, requesting the system.storage permission and loading the test background script.

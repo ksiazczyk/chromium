@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest without side panel key
+summary: Manifest for a browser test extension that omits the side panel manifest key and registers a background service worker.

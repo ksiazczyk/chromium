@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content script checking extension API availability for stubs test
+// summary: Content script that fetches API definitions from the background page and classifies each API function and event as privileged or unprivileged for content scripts.
+// ---
+
 // Helper function to log message to both the local console and to the
 // background page, so that the latter can output the message via the
 // chrome.test.log() function.

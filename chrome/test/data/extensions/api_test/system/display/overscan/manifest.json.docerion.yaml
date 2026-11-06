@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Overscan API test extension manifest.json
+summary: Manifest for the kiosk-enabled test app used by the SystemDisplayApiTest.OverscanCalibrationApp browser test, granting the system.display permission and loading test_overscan.js.

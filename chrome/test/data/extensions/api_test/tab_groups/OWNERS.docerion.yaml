@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for tab_groups extension API tests
+summary: Includes the owner list from the tab_groups API implementation directory so the same owners cover the tab_groups extension API tests.

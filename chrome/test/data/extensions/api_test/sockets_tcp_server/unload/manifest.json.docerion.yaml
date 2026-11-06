@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the chrome.sockets.tcpServer unload test extension
+summary: Manifest v2 app fixture that loads background.js and requests the tcpServer listen permission for the unload browser test.

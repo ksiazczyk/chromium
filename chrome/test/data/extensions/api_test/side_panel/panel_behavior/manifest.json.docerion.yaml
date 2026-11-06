@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Side Panel panel_behavior test extension manifest
+summary: Manifest for the panel_behavior API test extension, declaring the sidePanel permission and a background service worker.

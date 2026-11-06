@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System Log API test cases
+// summary: Runs browser test cases that call chrome.systemLog.add and check whether the systemLog API is available or undefined.
+// ---
+
 const testCases = [
   async function SystemLogAvailable() {
     const logOptions = {message: 'Test log message'};

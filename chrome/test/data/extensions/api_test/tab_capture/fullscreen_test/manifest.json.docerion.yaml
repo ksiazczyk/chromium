@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Tab Capture API test extension manifest
+summary: Manifest for the chrome.tabCapture test extension, requesting tabCapture and tabs permissions for the fullscreen API test.

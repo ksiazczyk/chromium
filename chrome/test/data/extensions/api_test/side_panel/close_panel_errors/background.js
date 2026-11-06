@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel close API error case tests
+// summary: Extension service worker script that runs Chrome tests asserting the error cases of the sidePanel.close() API, such as invalid tab or window IDs and panels that are not active.
+// ---
+
 async function getFirstTab() {
   const tabs = await chrome.tabs.query({});
   chrome.test.assertTrue(tabs.length >= 1);

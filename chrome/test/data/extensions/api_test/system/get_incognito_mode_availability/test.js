@@ -6,6 +6,12 @@
 // Run with browser_tests \
 //     --gtest_filter=ExtensionApiTest.GetIncognitoModeAvailability
 
+// ---docerion
+// type: test
+// title: Browser test for getIncognitoModeAvailability
+// summary: Runs chrome.systemPrivate.getIncognitoModeAvailability via chrome.test.runTests and asserts the returned availability value equals 'disabled'.
+// ---
+
 chrome.test.runTests([
   function getIncognitoModeAvailabilityTest() {
     chrome.systemPrivate.getIncognitoModeAvailability(

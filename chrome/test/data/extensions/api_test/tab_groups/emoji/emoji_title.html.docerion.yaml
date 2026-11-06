@@ -1,0 +1,4 @@
+# Docerion header of emoji_title.html.
+type: test
+title: Emoji tab group test page
+summary: HTML page for the tab groups API test that loads the emoji_title.js test script.

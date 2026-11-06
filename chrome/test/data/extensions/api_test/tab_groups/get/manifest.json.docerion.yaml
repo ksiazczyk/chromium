@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the tabGroups.get extension test
+summary: Manifest version 3 extension definition granting tabGroups and tabs permissions and loading background.js as the test service worker.

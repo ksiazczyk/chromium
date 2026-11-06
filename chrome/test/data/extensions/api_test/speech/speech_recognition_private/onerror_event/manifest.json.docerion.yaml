@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the speechRecognitionPrivate onError browser test
+summary: Manifest for a test extension named OnError that uses the AccessibilityCommon allowlist key and the speechRecognitionPrivate permission to run the onError event browser test.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Panel behavior API test service worker
+// summary: Service worker running chrome.test cases that verify default getPanelBehavior values and that setPanelBehavior acts as an upsert.
+// ---
+
 chrome.test.runTests([
   // Test the default values of fields for chrome.sidePanel.getPanelBehavior().
   async function defaultPanelBehavior() {

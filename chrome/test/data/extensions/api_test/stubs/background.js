@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for content script API stubs test
+// summary: Extension background service worker that answers API definition requests from the content script and reports test pass, log, or failure messages via chrome.test.
+// ---
+
 chrome.runtime.onMessage.addListener(function(msg, sender, responseFunc) {
   if (msg === 'getApi') {
     responseFunc(chrome.test.getApiDefinitions());

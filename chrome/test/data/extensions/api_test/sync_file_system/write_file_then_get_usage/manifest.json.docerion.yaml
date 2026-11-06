@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for sync file system write-then-get-usage test app
+summary: Manifest for the chrome.syncFileSystem.writeFileThenGetUsage test app, requesting the syncFileSystem permission and running test.js as the background script.

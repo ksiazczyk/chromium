@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Tab Capture Test Extension Manifest
+summary: Manifest for the chrome.tabCapture test extension, declaring tabCapture and tabs permissions with split incognito mode.

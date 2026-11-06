@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab Groups API basic end-to-end tests
+// summary: Background script running basic chrome.tabGroups API tests for query, update, and the onCreated event to provide end-to-end coverage.
+// ---
+
 // Basic API tests for the tabGroups API. Most API behavior is tested in
 // tab_groups_api_browsertest.cc, this just provides end-to-end coverage.
 chrome.test.runTests([

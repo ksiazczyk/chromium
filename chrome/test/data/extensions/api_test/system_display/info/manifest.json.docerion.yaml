@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Display info test extension manifest
+summary: Manifest for the system.display API test extension, requesting the system.display permission and registering the test service worker.

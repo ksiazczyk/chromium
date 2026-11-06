@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UDP multicast socket tests
+// summary: Tests multicast UDP socket settings, message sending, and receiving through the chrome.socket API.
+// ---
+
 // Tests for multicast UDP socket.
 function testMulticast() {
   function randomHexString(count) {

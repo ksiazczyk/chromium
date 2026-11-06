@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background test script for system.display Android mock info
+// summary: Runs a chrome.test check that system.display.getInfo returns three deterministic mock displays matching the Android multi-display mock provider's expected data.
+// ---
+
 chrome.test.runTests([
   function getInfoDeterministicMultiDisplay() {
     chrome.system.display.getInfo(chrome.test.callbackPass(function(displays) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background script for the chrome.sockets.tcpServer API test
+// summary: Background script for the end-to-end browser test of the chrome.sockets.tcpServer API, exercising socket creation, listening, accepting client connections, and sending and receiving echo data.
+// ---
+
 // net/tools/testserver/testserver.py is picky about the format of what it
 // calls its "echo" messages. One might go so far as to mutter to oneself that
 // it isn't an echo server at all.

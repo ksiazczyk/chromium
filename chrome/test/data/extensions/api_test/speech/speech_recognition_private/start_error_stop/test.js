@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech recognition start error and stop browser test
+// summary: Browser test that starts speech recognition, then verifies the onError and onStop events of chrome.speechRecognitionPrivate are fired and handled.
+// ---
+
 (async function() {
   const errorPromise = new Promise((resolve) => {
     chrome.speechRecognitionPrivate.onError.addListener((event) => {

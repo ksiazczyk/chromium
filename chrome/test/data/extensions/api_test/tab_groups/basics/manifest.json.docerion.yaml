@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the Tab Groups API test extension
+summary: Manifest declaring the test extension's background service worker and the tabGroups and tabs permissions needed by the API tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab capture media constraints tests
+// summary: Browser tests verifying that chrome.tabCapture.capture enforces mandatory video constraints, rejects optional ones, and ignores invalid constraints.
+// ---
+
 function assertBindingsPassedWebKitErrorMessage() {
   // Note: This lastError.message is being passed from WebKit via the tabCapture
   // API custom bindings.  Thus, there is no check for a specific error message

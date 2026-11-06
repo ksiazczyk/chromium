@@ -6,6 +6,12 @@
 // browser_tests \
 //   --gtest_filter=SystemDisplayApiTest.OverscanCalibrationAppNoComplete
 
+// ---docerion
+// type: test
+// title: Overscan calibration no-complete browser test
+// summary: Browser test that starts and adjusts overscan calibration for display0 without calling complete, verifying the API handles a missing complete call.
+// ---
+
 chrome.test.runTests([
   function testOverscanNoComplete() {
     const id = 'display0';

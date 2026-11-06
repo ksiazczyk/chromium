@@ -1,0 +1,4 @@
+# Docerion header of default_path.html.
+type: test
+title: Side panel default path test page
+summary: HTML page served as the extension's default side panel during the simple_default side panel API test, loading default_path.js.

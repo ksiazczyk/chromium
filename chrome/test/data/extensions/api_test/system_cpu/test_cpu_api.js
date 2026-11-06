@@ -5,6 +5,12 @@
 // system.cpu.getInfo api test
 // browser_tests --gtest_filter=SystemCpuApiTest.*
 
+// ---docerion
+// type: test
+// title: system.cpu getInfo browser test
+// summary: Runs chrome.system.cpu.getInfo repeatedly and asserts the returned processor count, architecture, features, per-processor usage, and temperatures.
+// ---
+
 chrome.test.runTests([
   function testGet() {
     const expectedProcessors = [{

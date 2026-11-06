@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: manifest.json for the onDisplayChanged test extension
+summary: Manifest version 3 manifest for the test extension named ondisplaychangedevent, requesting the system.display permission and registering background.js as its service worker.

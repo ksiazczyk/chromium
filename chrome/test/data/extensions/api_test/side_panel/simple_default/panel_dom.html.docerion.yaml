@@ -1,0 +1,4 @@
+# Docerion header of panel_dom.html.
+type: test
+title: Side panel DOM test page
+summary: HTML page labeled SIDEPANEL DOM used to exercise DOM automation in a side panel test, loading panel_dom.js.

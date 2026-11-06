@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the syncFileSystem onFileSyncedDeleted test app
+summary: Chrome extension manifest that declares the syncFileSystem permission and loads test.js as the background script for the deleted-file event test.

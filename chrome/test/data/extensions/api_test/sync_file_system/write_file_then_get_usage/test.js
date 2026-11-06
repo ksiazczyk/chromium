@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync file system write file then get usage test
+// summary: Runs test steps that request the sync file system, create and write a file, and assert that file metadata and global usage reflect the written bytes.
+// ---
+
 let fileEntry;
 let fileSystem;
 let usageBeforeWrite;

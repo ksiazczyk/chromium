@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Shared worker test extension manifest
+summary: Manifest for the test extension, declaring background.js as the background script used by the shared worker API tests.

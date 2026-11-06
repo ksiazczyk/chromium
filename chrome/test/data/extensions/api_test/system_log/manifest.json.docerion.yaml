@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: System Log API test manifest
+summary: Manifest for the System Log extension API test, registering the test service worker and requesting the systemLog permission.

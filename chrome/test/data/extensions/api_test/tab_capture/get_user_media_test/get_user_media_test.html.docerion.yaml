@@ -1,0 +1,4 @@
+# Docerion header of get_user_media_test.html.
+type: test
+title: Get User Media Test HTML Page
+summary: HTML page that loads get_user_media_test.js to run the tabCapture extension API browser test.

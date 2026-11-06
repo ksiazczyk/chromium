@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Tab capture performance test extension manifest
+summary: Manifest for the TabCapturePerformanceTest extension, declaring tabs and tabCapture permissions, a persistent background script, and external connectivity for chromium.org pages.

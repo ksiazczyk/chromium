@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the onResult event browser test extension
+summary: Manifest for a browser test extension that uses an allowlisted AccessibilityCommon key and the speechRecognitionPrivate permission to test the onResult event.

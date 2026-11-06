@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Manifest for the system.cpu API test extension
+summary: Manifest for the system.cpu browser test extension, requesting the system.cpu permission and registering test_cpu_api.js as a service worker.

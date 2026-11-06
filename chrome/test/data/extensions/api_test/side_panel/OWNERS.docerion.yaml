@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for side panel extension API tests
+summary: Delegates review ownership for these extension API tests by referencing the OWNERS file of chrome/browser/ui/views/side_panel.

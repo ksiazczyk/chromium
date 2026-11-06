@@ -1,0 +1,4 @@
+# Docerion header of active_tab_permission_test.html.
+type: test
+title: Tab capture activeTab permission test page
+summary: HTML harness that loads the activeTab permission test script for the chrome.tabCapture API test extension.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: test
+title: Test extension manifest
+summary: Manifest V3 manifest for the side panel API test extension, declaring the sidePanel permission, default panel path, and background service worker.

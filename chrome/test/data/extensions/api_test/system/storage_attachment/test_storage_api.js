@@ -5,6 +5,12 @@
 // system.storage api test
 // browser_tests --gtest_filter=SystemStorageApiTest.Storage
 
+// ---docerion
+// type: test
+// title: system.storage attach and detach event browser test
+// summary: Browser test that listens for the system.storage onAttached and onDetached events and asserts the reported device name, type, capacity, and id.
+// ---
+
 // Testing data should be the same as |kRemovableStorageData| in
 // test_storage_info_provider.cc.
 const testData = {
