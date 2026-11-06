@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for pwg_encoder
+summary: Defines the pwg_encoder static library and its unit test source set, listing sources and dependencies on base, gfx geometry, and test support.

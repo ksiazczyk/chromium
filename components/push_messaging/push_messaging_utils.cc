@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging utility implementations
+// summary: Implements helpers for push messaging such as channel-based GCM endpoint selection, endpoint creation, VAPID key detection, sender info normalization, and push success evaluation.
+// ---
+
 #include "components/push_messaging/push_messaging_utils.h"
 
 #include "base/base64url.h"

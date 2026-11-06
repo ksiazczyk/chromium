@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref proxy config tracker implementation
+// summary: Implements tracking of proxy preferences, translating them into net::ProxyConfig and parsing proxy override rules including DNS probe conditions.
+// ---
+
 #include "components/proxy_config/pref_proxy_config_tracker_impl.h"
 
 #include <stddef.h>

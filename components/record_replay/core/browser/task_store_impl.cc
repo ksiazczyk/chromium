@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskStoreImpl implementation
+// summary: Implements TaskStore by queuing recording and task definition database operations on a background SQLite TaskDatabase.
+// ---
+
 #include "components/record_replay/core/browser/task_store_impl.h"
 
 #include <optional>

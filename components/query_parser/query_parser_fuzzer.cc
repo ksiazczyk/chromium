@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Query parser fuzzer
+// summary: libFuzzer harness that feeds random UTF-16 queries and matching algorithms into QueryParser::ParseQueryWords.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 #include <stddef.h>
 #include <stdint.h>

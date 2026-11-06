@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline URL utilities implementation
+// summary: Implements helpers that map reading list URLs to offline page directories and file paths using MD5-based identifiers.
+// ---
+
 #include "components/reading_list/core/offline_url_utils.h"
 
 #include "base/notreached.h"

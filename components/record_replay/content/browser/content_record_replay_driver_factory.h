@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content record replay driver factory header
+// summary: Declares a WebContentsObserver that manages the lifecycle of record replay drivers within a tab, one driver per live render frame.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CONTENT_BROWSER_CONTENT_RECORD_REPLAY_DRIVER_FACTORY_H_
 #define COMPONENTS_RECORD_REPLAY_CONTENT_BROWSER_CONTENT_RECORD_REPLAY_DRIVER_FACTORY_H_
 

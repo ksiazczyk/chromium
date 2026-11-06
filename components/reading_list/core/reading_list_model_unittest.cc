@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list model unit tests
+// summary: Unit tests for ReadingListModelImpl covering entry add, remove, read status and sync scenarios using a fake storage.
+// ---
+
 #include "components/reading_list/core/reading_list_model.h"
 
 #include "base/location.h"

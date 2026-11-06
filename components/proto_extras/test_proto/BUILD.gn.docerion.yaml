@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for test proto libraries
+summary: Defines GN targets that build the test proto library and generate proto_extras and proto_test_extras outputs from the test_proto protos.

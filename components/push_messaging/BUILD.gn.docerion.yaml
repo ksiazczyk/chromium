@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Push messaging component build targets
+summary: Defines the push_messaging static library plus test support and unit test source sets with their sources and dependencies.

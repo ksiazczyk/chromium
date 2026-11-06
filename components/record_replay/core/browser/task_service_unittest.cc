@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskService unit tests
+// summary: Unit tests for TaskService covering task definition lookup on URL visits and task observer registration.
+// ---
+
 #include "components/record_replay/core/browser/task_service.h"
 
 #include <memory>

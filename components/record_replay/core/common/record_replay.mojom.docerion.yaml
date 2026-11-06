@@ -1,0 +1,4 @@
+# Docerion header of record_replay.mojom.
+type: source
+title: Mojo IPC interfaces for Record Replay
+summary: Defines the RecordReplayAgent and RecordReplayDriver Mojo interfaces plus shared structs for browser-renderer recording and replay communication.

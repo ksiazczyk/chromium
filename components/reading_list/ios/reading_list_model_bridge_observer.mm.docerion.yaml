@@ -1,0 +1,4 @@
+# Docerion header of reading_list_model_bridge_observer.mm.
+type: source
+title: ReadingListModelBridge implementation
+summary: Implements the bridge that translates C++ reading list model observer callbacks into the corresponding Objective-C calls on the observer.

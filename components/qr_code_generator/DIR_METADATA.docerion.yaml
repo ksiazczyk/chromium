@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with team and issue tracker contacts
+summary: Records the Blink>WebAuthentication monorail component, the identity-dev team email, and the Buganizer component for the directory.

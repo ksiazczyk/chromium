@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list model interface
+// summary: Defines the abstract ReadingListModel KeyedService API for entries, batch updates, observers, and sync controller delegates.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_MODEL_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_MODEL_H_
 

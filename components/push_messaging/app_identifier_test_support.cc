@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App identifier test support implementation
+// summary: Implements helpers that generate, compare and modify AppIdentifier instances for use in tests.
+// ---
+
 #include "components/push_messaging/app_identifier_test_support.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

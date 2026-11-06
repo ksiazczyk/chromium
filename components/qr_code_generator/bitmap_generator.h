@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code bitmap generation API
+// summary: Declares style enums and the GenerateImage and GenerateBitmap functions for rendering QR codes with configurable styles, center images, and quiet zone handling.
+// ---
+
 #ifndef COMPONENTS_QR_CODE_GENERATOR_BITMAP_GENERATOR_H_
 #define COMPONENTS_QR_CODE_GENERATOR_BITMAP_GENERATOR_H_
 

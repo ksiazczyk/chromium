@@ -1,3 +1,12 @@
+---
+type: readme
+title: Record Replay content renderer agent overview
+summary: Describes the renderer-side Record Replay agent, its key components, and upkeep guidelines for AI agents updating the directory.
+relations:
+  - documents /components/record_replay/content/renderer/record_replay_agent_test_api.h
+  - documents /components/record_replay/content/renderer/record_replay_agent_browsertest.cc
+---
+
 # Record Replay - Content Renderer Agent
 
 This directory (`components/record_replay/content/renderer`) contains the

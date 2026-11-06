@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification client manager implementation
+// summary: Implements the push notification client manager that registers clients, routes incoming messages by client ID, and buffers messages for clients that have not registered yet.
+// ---
+
 #include "components/push_notification/push_notification_client_manager.h"
 
 #include "base/logging.h"

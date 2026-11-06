@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordReplayDriver browser-side interface
+// summary: Abstract browser-side endpoint that communicates with the renderer's RecordReplayAgent to start and stop recording and to perform clicks, paste, select, and element lookup actions.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORD_REPLAY_DRIVER_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORD_REPLAY_DRIVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordReplayManager implementation
+// summary: Implements the per-tab coordinator that moves between idle, recording, and replaying states, handling driver events, autofill observations, and recording retrieval.
+// ---
+
 #include "components/record_replay/core/browser/record_replay_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory reduce accept language service header
+// summary: Declares the non-persisted in-memory service storing reduced accept languages per origin.
+// ---
+
 #ifndef COMPONENTS_REDUCE_ACCEPT_LANGUAGE_BROWSER_IN_MEMORY_REDUCE_ACCEPT_LANGUAGE_SERVICE_H_
 #define COMPONENTS_REDUCE_ACCEPT_LANGUAGE_BROWSER_IN_MEMORY_REDUCE_ACCEPT_LANGUAGE_SERVICE_H_
 

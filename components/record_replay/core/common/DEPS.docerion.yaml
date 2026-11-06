@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Record Replay common
+summary: Specifies the allowed include dependencies for the directory, covering base, Mojo bindings and url.

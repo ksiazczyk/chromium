@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock matchers for protobuf message fields
+// summary: Header providing gmock matchers such as HasOptionalField, HasRepeatedField and HasMapField for asserting on protobuf message fields in tests.
+// ---
+
 #ifndef COMPONENTS_PROTO_EXTRAS_PROTO_MATCHERS_H_
 #define COMPONENTS_PROTO_EXTRAS_PROTO_MATCHERS_H_
 

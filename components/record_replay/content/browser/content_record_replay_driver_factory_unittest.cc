@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the record replay driver factory
+// summary: Tests driver creation, lookup by element or field ID, and frame lifecycle behavior of ContentRecordReplayDriverFactory using mock clients and test navigation.
+// ---
+
 #include "components/record_replay/content/browser/content_record_replay_driver_factory.h"
 
 #include <memory>

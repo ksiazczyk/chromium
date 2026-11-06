@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Record Replay common Mojo files
+summary: Delegates review of Mojo interface and traits files to the IPC security owners.

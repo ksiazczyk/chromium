@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task parameter values predictor unit tests
+// summary: Unit tests for TaskParameterValuesPredictor using a mock task store, covering null store or missing ID cases and prediction of parameters from the first observation.
+// ---
+
 #include "components/record_replay/core/browser/task_parameter_values_predictor.h"
 
 #include <optional>

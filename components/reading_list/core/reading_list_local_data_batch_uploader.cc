@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list local data batch uploader implementation
+// summary: Implements the syncer batch uploader that describes local reading list entries and triggers their migration for upload to the sync server.
+// ---
+
 #include "components/reading_list/core/reading_list_local_data_batch_uploader.h"
 
 #include <memory>

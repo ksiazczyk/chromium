@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the pref proxy config tracker
+// summary: Unit tests for the pref proxy config tracker, covering proxy preference handling and enterprise proxy interactions with mock services.
+// ---
+
 #include "components/proxy_config/pref_proxy_config_tracker_impl.h"
 
 #include <memory>

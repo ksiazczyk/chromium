@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for proxy config
+summary: Lists the code owners for the proxy config component, including the owners of proxy override rules.

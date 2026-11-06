@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordReplayManager state machine header
+// summary: Declares the per-tab state machine coordinating recording and replay, including start and stop methods, recorded event handlers, and recording lookup APIs.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORD_REPLAY_MANAGER_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORD_REPLAY_MANAGER_H_
 

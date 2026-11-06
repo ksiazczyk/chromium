@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for reading list core
+summary: Delegates review ownership of batch uploader and sync bridge files to the sync component owners.

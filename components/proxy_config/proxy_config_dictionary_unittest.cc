@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyConfigDictionary unit tests
+// summary: Unit tests verifying that the ProxyConfigDictionary factory methods produce the expected mode, PAC URL, proxy server and bypass list values.
+// ---
+
 #include "components/proxy_config/proxy_config_dictionary.h"
 
 #include <memory>

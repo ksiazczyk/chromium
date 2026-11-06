@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dual reading list model implementation
+// summary: Implements a merged view over local-or-syncable and account reading list models, forwarding operations and aggregating entry counts.
+// ---
+
 #include "components/reading_list/core/dual_reading_list_model.h"
 
 #include "base/auto_reset.h"

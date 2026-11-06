@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Record Replay renderer build targets
+summary: GN build file defining the renderer static library, test support source set, and browser test target with their dependencies.

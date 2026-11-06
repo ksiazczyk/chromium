@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task execution observation tracking implementation
+// summary: Implements observation of task execution, tracking URL visits toward the final step URL and filling extracted parameters into the task observation.
+// ---
+
 #include "components/record_replay/core/browser/task_observer.h"
 
 #include "base/functional/bind.h"

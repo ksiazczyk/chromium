@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWG raster encoder implementation
+// summary: Encodes bitmap pages into the PWG raster format, building CUPS and PWG header fields and packing RGB or monochrome pixels with run-length encoding.
+// ---
+
 #include "components/pwg_encoder/pwg_encoder.h"
 
 #include <limits.h>

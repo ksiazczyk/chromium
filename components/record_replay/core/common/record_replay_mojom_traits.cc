@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record Replay Mojo struct traits implementation
+// summary: Implements mojo StructTraits Read functions that deserialize DomNodeId, FieldValue and Selector data views into record replay types.
+// ---
+
 #include "components/record_replay/core/common/record_replay_mojom_traits.h"
 
 #include "components/record_replay/core/common/aliases.h"

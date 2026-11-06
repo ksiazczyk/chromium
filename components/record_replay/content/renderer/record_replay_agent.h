@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordReplayAgent class declaration
+// summary: Declares the renderer agent bridging Blink DOM events and Mojo commands between the render frame and the browser's RecordReplayDriver.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CONTENT_RENDERER_RECORD_REPLAY_AGENT_H_
 #define COMPONENTS_RECORD_REPLAY_CONTENT_RENDERER_RECORD_REPLAY_AGENT_H_
 

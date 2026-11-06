@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PwgEncoder API and header info declaration
+// summary: Declares the PwgEncoder static methods for document headers and page encoding from BGRA bitmaps, plus the PwgHeaderInfo struct with DPI, color space, and duplex settings.
+// ---
+
 #ifndef COMPONENTS_PWG_ENCODER_PWG_ENCODER_H_
 #define COMPONENTS_PWG_ENCODER_PWG_ENCODER_H_
 

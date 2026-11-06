@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record Replay base feature flag definition
+// summary: Defines the kRecordReplayBase feature flag, disabled by default, together with its task definition seed parameter.
+// ---
+
 #include "components/record_replay/core/common/record_replay_features.h"
 
 #include "base/feature_list.h"

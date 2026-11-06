@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the test_proto2 proto fixtures
+summary: Defines GN targets for the test_proto2 proto library plus proto_extras and proto_test_extras generation targets used by the component's tests.

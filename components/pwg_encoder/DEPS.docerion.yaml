@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for pwg_encoder
+summary: Restricts includes to ui/gfx/geometry and additionally allows fuzztest headers for unittest files.

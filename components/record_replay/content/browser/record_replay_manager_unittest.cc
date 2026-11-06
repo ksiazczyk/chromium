@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the record replay manager
+// summary: Tests RecordReplayManager state handling with a mock client, driver factory, and task store under the record replay base feature.
+// ---
+
 #include "components/record_replay/core/browser/record_replay_manager.h"
 
 #include <optional>

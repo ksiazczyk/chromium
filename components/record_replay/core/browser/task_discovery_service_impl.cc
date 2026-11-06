@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task discovery implementation querying task providers in order
+// summary: Implements task discovery by querying task providers in sequence until one offers an automation task for the given URL, caching the resulting metadata.
+// ---
+
 #include "components/record_replay/core/browser/task_discovery_service_impl.h"
 
 #include "components/record_replay/core/browser/task_provider.h"

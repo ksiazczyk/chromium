@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test proto definitions using edition 2024
+// summary: Defines protobuf messages for testing proto edition 2024 support, including a message with custom serialization enabled via proto_extras options.
+// ---
+
 edition = "2024";
 
 option optimize_for = LITE_RUNTIME;

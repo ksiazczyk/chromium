@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy override rules utility declarations
+// summary: Declares constants and helper functions for parsing ProxyOverrideRules policy fields and for deciding when proxy override preferences may be applied.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_PROXY_PREFS_UTILS_H_
 #define COMPONENTS_PROXY_CONFIG_PROXY_PREFS_UTILS_H_
 

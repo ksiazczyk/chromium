@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task parameters extractor unit tests
+// summary: Unit tests for TaskParametersExtractor covering selector lookup per URL, storing extracted values, filling observations, and dummy data for all expected parameter keys.
+// ---
+
 #include "components/record_replay/core/browser/task_parameters_extractor.h"
 
 #include "base/functional/callback.h"

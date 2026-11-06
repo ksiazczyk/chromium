@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconWebStateDispatcher interface
+// summary: Declares an interface for requesting and returning WebStates kept alive long enough to download favicons for reading list entries.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_IOS_FAVICON_WEB_STATE_DISPATCHER_H_
 #define COMPONENTS_READING_LIST_IOS_FAVICON_WEB_STATE_DISPATCHER_H_
 

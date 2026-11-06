@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Replayer header
+// summary: Declares the Replayer class that asynchronously executes recorded actions with delays and retries, invoking a finish callback when replay ends.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_REPLAYER_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_REPLAYER_H_
 

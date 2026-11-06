@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto2 test message definitions for proto_extras
+// summary: Proto2 schema defining test messages, enums, oneofs, nested types, and map fields used to exercise proto_extras code generation.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

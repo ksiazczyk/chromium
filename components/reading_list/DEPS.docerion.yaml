@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Reading list component dependency rules
+summary: Defines include rules listing the dependencies the reading_list component is allowed to use.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dual reading list model unit tests
+// summary: Unit tests covering the merged dual reading list model, including entry handling, counters, batch updates and sync delegation.
+// ---
+
 #include "components/reading_list/core/dual_reading_list_model.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list local data batch uploader declaration
+// summary: Declares ReadingListLocalDataBatchUploader, a DataTypeLocalDataBatchUploader backed by the dual reading list model.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_LOCAL_DATA_BATCH_UPLOADER_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_LOCAL_DATA_BATCH_UPLOADER_H_
 

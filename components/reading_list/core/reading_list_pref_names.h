@@ -4,6 +4,12 @@
 
 // Constants for the names of various reading list preferences.
 
+// ---docerion
+// type: source
+// title: Reading list preference name declarations
+// summary: Declares constants for reading list preference names, with the desktop-only constant guarded by build flags.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_PREF_NAMES_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_PREF_NAMES_H_
 

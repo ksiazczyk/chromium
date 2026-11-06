@@ -1,3 +1,13 @@
+---
+type: readme
+title: Record Replay - Core Browser Component
+summary: Overview of the browser-process coordinator code for recording and replaying user actions, covering key components, ownership, threading, and upkeep guidelines.
+relations:
+  - documents /components/record_replay/core/browser/record_replay_client.h
+  - documents /components/record_replay/core/browser/record_replay_driver.h
+  - documents /components/record_replay/core/browser/record_replay_driver_factory.h
+---
+
 # Record Replay - Core Browser Component
 
 This directory (`components/record_replay/core/browser`) contains the

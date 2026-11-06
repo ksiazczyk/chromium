@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dino pixel data constants for the QR code center image
+// summary: Supplies bitmap constants and dimensions for rendering the dino mascot overlaid on generated QR codes.
+// ---
+
 #ifndef COMPONENTS_QR_CODE_GENERATOR_DINO_IMAGE_H_
 #define COMPONENTS_QR_CODE_GENERATOR_DINO_IMAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy override rules parsing and permission utilities
+// summary: Parses ProxyOverrideRules policy host and proxy strings into URL and proxy chain types and checks whether proxy override rules are allowed for a user.
+// ---
+
 #include "components/proxy_config/proxy_prefs_utils.h"
 
 #include "components/policy/core/common/policy_map.h"

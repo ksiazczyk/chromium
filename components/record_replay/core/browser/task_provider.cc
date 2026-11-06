@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task provider factory implementation
+// summary: Creates the set of available task providers, adding a FileTaskProvider when the task definition file command line switch is present.
+// ---
+
 #include "components/record_replay/core/browser/task_provider.h"
 
 #include "base/command_line.h"

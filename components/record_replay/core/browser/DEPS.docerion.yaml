@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Record Replay browser include rules
+summary: Declares the allowed include dependencies for the record replay browser core directory, covering base, autofill, keyed service, sql, and url.

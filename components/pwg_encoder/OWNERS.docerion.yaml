@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to printing owners
+summary: Points code ownership for this directory to the owners file of the printing component.

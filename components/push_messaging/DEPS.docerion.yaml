@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Push messaging DEPS include rules
+summary: Allows the push_messaging component to include headers from third_party/blink/public.

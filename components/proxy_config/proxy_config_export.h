@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PROXY_CONFIG_EXPORT macro definitions
+// summary: Defines the PROXY_CONFIG_EXPORT symbol-visibility macro for DLL export and import in component builds.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_PROXY_CONFIG_EXPORT_H_
 #define COMPONENTS_PROXY_CONFIG_PROXY_CONFIG_EXPORT_H_
 

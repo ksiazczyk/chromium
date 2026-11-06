@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protobuf definitions for task definitions, steps, parameters and observations
+// summary: Defines protobuf messages for task definitions, steps, parameters, extraction strategies, and observations used by the record/replay automation feature.
+// ---
+
 syntax = "proto3";
 
 package record_replay;

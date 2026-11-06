@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecordReplayAgent render view tests
+// summary: Tests selector generation, event recording, and replay commands using a mock RecordReplayDriver and the RenderViewTest harness.
+// ---
+
 #include "components/record_replay/content/renderer/record_replay_agent.h"
 
 #include <memory>

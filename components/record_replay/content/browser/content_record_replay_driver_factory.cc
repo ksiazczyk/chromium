@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content record replay driver factory implementation
+// summary: Implements creation, lookup, and cleanup of record replay drivers for render frames, including automatic recording for newly created frames.
+// ---
+
 #include "components/record_replay/content/browser/content_record_replay_driver_factory.h"
 
 #include <vector>

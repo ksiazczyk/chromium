@@ -1,3 +1,13 @@
+---
+type: readme
+title: Record Replay common helpers and interfaces
+summary: Describes the shared data structures and Mojo IPC interfaces of the Record Replay feature and gives upkeep guidelines for AI agents.
+relations:
+  - documents /components/record_replay/core/common/record_replay.mojom
+  - documents /components/record_replay/core/common/element_id.h
+  - documents /components/record_replay/core/common/aliases.h
+---
+
 # Record Replay - Common Helpers and Interfaces
 
 This directory (`components/record_replay/core/common`) contains the shared

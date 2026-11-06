@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the proto_extras plugin and library
+summary: Defines GN targets for the protoc plugins, options proto, support library, matchers, and unit tests of proto_extras.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto extras support library header
+// summary: Declares template helpers for serializing unknown fields, converting numeric types, and redacting debug-sensitive values.
+// ---
+
 #ifndef COMPONENTS_PROTO_EXTRAS_PROTO_EXTRAS_LIB_H_
 #define COMPONENTS_PROTO_EXTRAS_PROTO_EXTRAS_LIB_H_
 

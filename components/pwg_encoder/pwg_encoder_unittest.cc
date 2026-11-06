@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWG encoder unit and fuzz tests
+// summary: Verifies encoded PWG output sizes and SHA1 hashes for color and monochrome modes and fuzzes page encoding across arbitrary images and header settings.
+// ---
+
 #include "components/pwg_encoder/pwg_encoder.h"
 
 #include <stdint.h>

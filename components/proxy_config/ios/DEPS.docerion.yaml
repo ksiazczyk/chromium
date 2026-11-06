@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for iOS proxy_config
+summary: Declares the allowed include directories for the iOS proxy_config component, covering iOS web providers, web public APIs, and net proxy resolution.

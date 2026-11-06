@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock reading list model observer declaration
+// summary: Declares a gmock mock of ReadingListModelObserver for verifying model notifications in unit tests.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_MOCK_READING_LIST_MODEL_OBSERVER_H_
 #define COMPONENTS_READING_LIST_CORE_MOCK_READING_LIST_MODEL_OBSERVER_H_
 

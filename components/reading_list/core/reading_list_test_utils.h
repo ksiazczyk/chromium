@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list test utilities header
+// summary: Declares ReadingListLoadObserver, a ReadingListModelObserver test helper used to wait for the reading list model loaded event.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_READING_LIST_TEST_UTILS_H_
 #define COMPONENTS_READING_LIST_CORE_READING_LIST_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Replayer implementation
+// summary: Implements asynchronous replay of a Recording, scheduling actions with timers, retrying failed actions, and reporting progress or completion to the user.
+// ---
+
 #include "components/record_replay/core/browser/replayer.h"
 
 #include <vector>

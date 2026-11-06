@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyPrefs proxy mode names and conversion helpers
+// summary: Implements the ProxyPrefs namespace with proxy mode name constants and conversions between proxy modes, strings, and debug strings for configuration states.
+// ---
+
 #include "components/proxy_config/proxy_prefs.h"
 
 #include <array>

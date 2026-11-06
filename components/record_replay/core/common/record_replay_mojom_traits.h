@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record Replay Mojo struct traits declarations
+// summary: Declares mojo StructTraits specializations mapping record replay DomNodeId, FieldValue and Selector types to their Mojom data views.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_COMMON_RECORD_REPLAY_MOJOM_TRAITS_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_COMMON_RECORD_REPLAY_MOJOM_TRAITS_H_
 

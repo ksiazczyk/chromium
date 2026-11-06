@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON list-of-dicts parsing utilities
+// summary: Implements ParseJSONListOfDicts, which parses a JSON string into a vector of dictionary values and returns an empty vector on failure.
+// ---
+
 #include "components/record_replay/core/browser/parsing_utils.h"
 
 #include "base/json/json_reader.h"

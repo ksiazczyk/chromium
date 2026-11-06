@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for reduce_accept_language
+summary: Defines shared directory metadata mapping the component to the Privacy>Fingerprinting monorail component and a public Buganizer component.

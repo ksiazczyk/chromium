@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileTaskProvider unit tests
+// summary: Unit tests covering loading of valid and invalid JSON task files, missing files, and parsing of task definition extraction strategies.
+// ---
+
 #include "components/record_replay/core/browser/file_task_provider.h"
 
 #include "base/files/file_util.h"

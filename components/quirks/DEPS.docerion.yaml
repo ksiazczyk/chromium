@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for quirks
+summary: Lists the directories whose headers the quirks component is allowed to include.

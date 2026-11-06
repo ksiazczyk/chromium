@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyOverrideRulesPolicyHandler class declaration
+// summary: Declares the schema-validating policy handler for the ProxyOverrideRules policy and its rule-checking helper methods.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_PROXY_OVERRIDE_RULES_POLICY_HANDLER_H_
 #define COMPONENTS_PROXY_CONFIG_PROXY_OVERRIDE_RULES_POLICY_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory reduce accept language service unit tests
+// summary: Unit tests covering persisting, retrieving, and clearing reduced languages in the in-memory service.
+// ---
+
 
 #include "components/reduce_accept_language/browser/in_memory_reduce_accept_language_service.h"
 

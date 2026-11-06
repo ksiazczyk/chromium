@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reduce accept language service tester header
+// summary: Declares the tester helper used to verify reduce accept language service behavior in tests.
+// ---
+
 #ifndef COMPONENTS_REDUCE_ACCEPT_LANGUAGE_BROWSER_REDUCE_ACCEPT_LANGUAGE_SERVICE_TEST_UTIL_H_
 #define COMPONENTS_REDUCE_ACCEPT_LANGUAGE_BROWSER_REDUCE_ACCEPT_LANGUAGE_SERVICE_TEST_UTIL_H_
 

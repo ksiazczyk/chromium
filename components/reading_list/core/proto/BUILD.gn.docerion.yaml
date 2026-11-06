@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reading list proto build file
+summary: GN build file that defines the proto_library target compiling reading_list.proto.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reduce accept language service implementation
+// summary: Implements the persistent reduced accept language service using host content settings and language prefs.
+// ---
+
 #include "components/reduce_accept_language/browser/reduce_accept_language_service.h"
 
 #include <string>

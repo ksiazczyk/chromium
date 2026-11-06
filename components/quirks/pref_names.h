@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quirks preference name declarations
+// summary: Declares the Quirks preference key constant shared with the client implementation.
+// ---
+
 #ifndef COMPONENTS_QUIRKS_PREF_NAMES_H_
 #define COMPONENTS_QUIRKS_PREF_NAMES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification constants
+// summary: Defines string constants for push notification message data keys such as type_id, client_id, and payload.
+// ---
+
 #ifndef COMPONENTS_PUSH_NOTIFICATION_PUSH_NOTIFICATION_CONSTANTS_H_
 #define COMPONENTS_PUSH_NOTIFICATION_PUSH_NOTIFICATION_CONSTANTS_H_
 

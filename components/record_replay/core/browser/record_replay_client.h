@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordReplayClient interface
+// summary: Declares the abstract per-tab client interface exposing the manager, driver factory, task store, main frame URL, autofill client, and task execution offers.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORD_REPLAY_CLIENT_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_RECORD_REPLAY_CLIENT_H_
 

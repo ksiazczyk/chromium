@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code generator header
+// summary: Declares the GeneratedCode result struct and the GenerateCode function that encodes input bytes into QR code pixel data, optionally enforcing a minimum QR version.
+// ---
+
 #ifndef COMPONENTS_QR_CODE_GENERATOR_QR_CODE_GENERATOR_H_
 #define COMPONENTS_QR_CODE_GENERATOR_QR_CODE_GENERATOR_H_
 

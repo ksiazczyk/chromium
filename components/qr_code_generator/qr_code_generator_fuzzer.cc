@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QR code generator fuzzer
+// summary: Fuzz harness that feeds random input bytes and a random minimum version into GenerateCode to check the QR generator handles arbitrary input safely.
+// ---
+
 #include <stdint.h>
 
 #include <tuple>

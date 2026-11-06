@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileTaskProvider class declaration
+// summary: Declares a file-backed TaskProvider that maps URLs to automation metadata loaded from a JSON file, queuing queries until the file is ready.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_FILE_TASK_PROVIDER_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_FILE_TASK_PROVIDER_H_
 

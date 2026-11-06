@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for record replay browser content
+summary: Defines the browser static library and unit test source set for the record replay content layer, listing sources and build dependencies.

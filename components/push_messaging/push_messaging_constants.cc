@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging constants definitions
+// summary: Defines GCM and WebPush endpoint URLs and the tag of the automatically shown forced notification.
+// ---
+
 #include "components/push_messaging/push_messaging_constants.h"
 
 const char kPushMessagingGcmEndpoint[] = "https://fcm.googleapis.com/fcm/send/";

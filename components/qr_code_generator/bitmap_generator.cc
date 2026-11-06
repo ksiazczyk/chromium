@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code bitmap rendering implementation
+// summary: Implements drawing QR codes into Skia bitmaps and image skias with square or round modules, locator styles, and dino, passkey, logo, or custom center images.
+// ---
+
 #include "components/qr_code_generator/bitmap_generator.h"
 
 #include <cstdint>

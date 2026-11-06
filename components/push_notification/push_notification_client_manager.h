@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PushNotificationClientManager class declaration
+// summary: Declares PushNotificationClientManager and its PushNotificationMessage struct for delegating notifications to registered clients and storing pending messages.
+// ---
+
 #ifndef COMPONENTS_PUSH_NOTIFICATION_PUSH_NOTIFICATION_CLIENT_MANAGER_H_
 #define COMPONENTS_PUSH_NOTIFICATION_PUSH_NOTIFICATION_CLIENT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON parsing utility declarations
+// summary: Declares ParseJSONListOfDicts, a helper that parses a JSON string expected to contain a list of dictionaries.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_PARSING_UTILS_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_PARSING_UTILS_H_
 

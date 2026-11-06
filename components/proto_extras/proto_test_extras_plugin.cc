@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protoc plugin generating gmock test helpers for protos
+// summary: Protoc plugin implementing a CodeGenerator that emits .test.h headers with gmock equality matchers and helpers for protobuf messages, supporting proto2 through edition 2024.
+// ---
+
 #include <set>
 #include <string>
 

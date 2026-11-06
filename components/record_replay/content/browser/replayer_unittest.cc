@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the replayer
+// summary: Tests replay behavior by driving a mocked RecordReplayAgent through the driver factory and manager within test web contents.
+// ---
+
 #include <optional>
 
 #include "base/test/gmock_callback_support.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App identifier implementation
+// summary: Implements AppIdentifier generation, Instance ID handling, expiration checks and pref value serialization for push subscriptions.
+// ---
+
 #include "components/push_messaging/app_identifier.h"
 
 #include <string.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list model storage unit tests
+// summary: Unit tests for ReadingListModelStorageImpl covering loading, saving and removing entries in an in-memory store.
+// ---
+
 #include "components/reading_list/core/reading_list_model_storage_impl.h"
 
 #include "base/memory/scoped_refptr.h"

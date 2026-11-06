@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task parameters extractor header
+// summary: Declares the TaskParametersExtractor KeyedService, which starts extraction, maps parameter keys to CSS selectors per URL, and fills cached values into task observations.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_PARAMETERS_EXTRACTOR_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_PARAMETERS_EXTRACTOR_H_
 

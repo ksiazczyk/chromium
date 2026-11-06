@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dual reading list model class declaration
+// summary: Declares a ReadingListModel that merges a local-or-syncable model and an account model into one in-memory view for UI layers.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_DUAL_READING_LIST_MODEL_H_
 #define COMPONENTS_READING_LIST_CORE_DUAL_READING_LIST_MODEL_H_
 

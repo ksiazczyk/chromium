@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the TaskObserver task execution tracker
+// summary: Declares TaskObserver, which tracks task execution, detects the final URL, and completes observations via the task parameters extractor.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_OBSERVER_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_OBSERVER_H_
 

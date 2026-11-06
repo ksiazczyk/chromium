@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline URL utilities for reading list storage paths
+// summary: Declares reading_list namespace helpers that compute offline storage directories, directory IDs, and page paths for saved reading list URLs.
+// ---
+
 #ifndef COMPONENTS_READING_LIST_CORE_OFFLINE_URL_UTILS_H_
 #define COMPONENTS_READING_LIST_CORE_OFFLINE_URL_UTILS_H_
 

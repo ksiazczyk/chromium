@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy configuration preference name constants
+// summary: Declares constants for proxy-related preference names such as kProxy, kUseSharedProxies and kProxyOverrideRules.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_PROXY_CONFIG_PREF_NAMES_H_
 #define COMPONENTS_PROXY_CONFIG_PROXY_CONFIG_PREF_NAMES_H_
 

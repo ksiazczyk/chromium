@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging feature flag declarations
+// summary: Header declaring the push messaging feature flags in the features namespace, with comments explaining what each flag controls.
+// ---
+
 #ifndef COMPONENTS_PUSH_MESSAGING_PUSH_MESSAGING_FEATURES_H_
 #define COMPONENTS_PUSH_MESSAGING_PUSH_MESSAGING_FEATURES_H_
 

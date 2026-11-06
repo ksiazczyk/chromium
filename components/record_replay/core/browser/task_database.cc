@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskDatabase implementation
+// summary: Implements the SQLite-backed storage for recordings, task definitions, steps, parameters, and observations, including schema creation, migration, wiping, and pruning.
+// ---
+
 #include "components/record_replay/core/browser/task_database.h"
 
 #include "base/command_line.h"

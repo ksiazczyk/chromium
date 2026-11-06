@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list model implementation
+// summary: Implements ReadingListModelImpl with storage loading, batch update scoping, observer notifications, and sync bridge integration.
+// ---
+
 #include "components/reading_list/core/reading_list_model_impl.h"
 
 #include "base/auto_reset.h"

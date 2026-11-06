@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecordReplayAgent test API
+// summary: Test utility header exposing the agent's internal event emission methods so tests can simulate mouse, selection, and text-edit interactions.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CONTENT_RENDERER_RECORD_REPLAY_AGENT_TEST_API_H_
 #define COMPONENTS_RECORD_REPLAY_CONTENT_RENDERER_RECORD_REPLAY_AGENT_TEST_API_H_
 

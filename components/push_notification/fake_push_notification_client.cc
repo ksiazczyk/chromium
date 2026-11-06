@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake push notification client implementation
+// summary: Implements a fake PushNotificationClient that records the most recent message data received, for use in tests.
+// ---
+
 #include "components/push_notification/fake_push_notification_client.h"
 
 #include "components/push_notification/push_notification_constants.h"

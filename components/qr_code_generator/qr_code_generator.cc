@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code generation via Rust qr_code bindings
+// summary: Implements GenerateCode by wrapping the Rust qr_code library through Crubit bindings, mapping Rust errors and honoring a minimum QR version.
+// ---
+
 #include "components/qr_code_generator/qr_code_generator.h"
 
 #include <algorithm>

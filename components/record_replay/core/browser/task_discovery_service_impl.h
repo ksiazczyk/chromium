@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the TaskDiscoveryServiceImpl provider chain
+// summary: Declares TaskDiscoveryServiceImpl, which chains task providers and caches the metadata of the first provider that offers a task.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_DISCOVERY_SERVICE_IMPL_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_DISCOVERY_SERVICE_IMPL_H_
 

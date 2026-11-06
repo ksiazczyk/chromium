@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyPolicyHandler class declaration
+// summary: Declares the configuration policy handler for proxy policies, including the legacy ProxyModeType enum values.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_PROXY_POLICY_HANDLER_H_
 #define COMPONENTS_PROXY_CONFIG_PROXY_POLICY_HANDLER_H_
 

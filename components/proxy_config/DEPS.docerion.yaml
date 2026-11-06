@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for allowed dependencies
+summary: Lists the include rules that allow dependencies on enterprise, policy, prefs and net components within this directory.

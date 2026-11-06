@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockTaskStore implementation
+// summary: Implements the MockTaskStore test double, defining only its default constructor and destructor for the record/replay test support library.
+// ---
+
 #include "components/record_replay/core/common/test_support/mock_task_store.h"
 
 namespace record_replay {

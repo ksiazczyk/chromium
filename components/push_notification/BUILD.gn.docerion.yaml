@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Push notification BUILD.gn build targets
+summary: Defines GN source sets for the push notification component, its test support fakes, and its unit tests.

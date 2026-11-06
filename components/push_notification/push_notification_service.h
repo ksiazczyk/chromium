@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification service base class declaration
+// summary: Declares the base PushNotificationService class that platform-specific push notification services inherit from, owning a client manager.
+// ---
+
 #ifndef COMPONENTS_PUSH_NOTIFICATION_PUSH_NOTIFICATION_SERVICE_H_
 #define COMPONENTS_PUSH_NOTIFICATION_PUSH_NOTIFICATION_SERVICE_H_
 

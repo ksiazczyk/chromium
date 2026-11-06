@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the reading list local data batch uploader
+// summary: Tests local data descriptions and migration triggers of the batch uploader using fake storage and a dual reading list model.
+// ---
+
 #include "components/reading_list/core/reading_list_local_data_batch_uploader.h"
 
 #include <memory>

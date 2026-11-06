@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS proxy service factory header
+// summary: Declares the ProxyServiceFactory class with static factory methods for proxy config services and preference trackers used on iOS.
+// ---
+
 #ifndef COMPONENTS_PROXY_CONFIG_IOS_PROXY_SERVICE_FACTORY_H_
 #define COMPONENTS_PROXY_CONFIG_IOS_PROXY_SERVICE_FACTORY_H_
 

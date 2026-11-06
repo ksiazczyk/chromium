@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto extras support library implementation
+// summary: Implements the Base64EncodeCord helper used by the proto_extras support library.
+// ---
+
 #include "components/proto_extras/proto_extras_lib.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record Replay base feature flag declaration
+// summary: Declares the kRecordReplayBase feature flag and its task definition seed parameter in the record_replay::features namespace.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_COMMON_RECORD_REPLAY_FEATURES_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_COMMON_RECORD_REPLAY_FEATURES_H_
 

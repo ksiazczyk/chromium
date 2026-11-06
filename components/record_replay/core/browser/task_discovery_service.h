@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskDiscoveryService interface for automation task availability
+// summary: Defines the TaskDiscoveryService interface that checks whether a URL is eligible for automation task offers and provides nudge metadata strings.
+// ---
+
 #ifndef COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_DISCOVERY_SERVICE_H_
 #define COMPONENTS_RECORD_REPLAY_CORE_BROWSER_TASK_DISCOVERY_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the TaskDatabase SQLite storage
+// summary: Verifies recording storage, task definition CRUD, and observation handling in the TaskDatabase SQLite backend using a temporary profile directory.
+// ---
+
 #include "components/record_replay/core/browser/task_database.h"
 
 #include "base/files/scoped_temp_dir.h"
