@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame pool unit tests
+// summary: Unit tests for VideoFramePool verifying frame creation, zero-initialization, memory reuse, and format changes across pixel formats.
+// ---
+
 #include "media/base/video_frame_pool.h"
 
 #include <stddef.h>

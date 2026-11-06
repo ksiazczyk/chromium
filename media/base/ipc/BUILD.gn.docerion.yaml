@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for media base IPC
+summary: Defines the ipc source_set containing the media param traits sources, with public dependencies on //ipc and //media and dependencies on //base and gfx IPC targets.

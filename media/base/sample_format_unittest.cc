@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sample format unit tests
+// summary: Verifies that planar, interleaved, and bitstream classification helpers are mutually exclusive and correctly categorized per format.
+// ---
+
 #include "media/base/sample_format.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

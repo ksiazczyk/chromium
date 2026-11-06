@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector math function declarations
+// summary: Declares aligned vector math helpers for multiply-accumulate, multiply, clamping, and exponentially-weighted moving average power.
+// ---
+
 #ifndef MEDIA_BASE_VECTOR_MATH_H_
 #define MEDIA_BASE_VECTOR_MATH_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio sample rate conversion
+// summary: Implements conversion of integer sample rates to their AudioSampleRate enum values, returning false for unsupported rates.
+// ---
+
 #include "media/base/sample_rates.h"
 
 #include "base/check.h"

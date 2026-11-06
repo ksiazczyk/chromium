@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestRandom predictable random generator for tests
+// summary: Defines TestRandom, a simplified seeded pseudorandom number generator meant only to produce predictable sequences in tests.
+// ---
+
 #ifndef MEDIA_BASE_TEST_RANDOM_H_
 #define MEDIA_BASE_TEST_RANDOM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video transformation unit tests
+// summary: Unit tests verifying conversion between rotation matrices and VideoTransformation values, matrix computation, and construction from angles.
+// ---
+
 
 #include "media/base/video_transformation.h"
 

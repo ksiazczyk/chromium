@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedAudioDecoderConfig implementation
+// summary: Implements the default and parameterized constructors and destructor of the SupportedAudioDecoderConfig struct.
+// ---
+
 #include "media/base/supported_audio_decoder_config.h"
 
 namespace media {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmBridge header
+// summary: Declares MediaDrmBridge as a ContentDecryptionModule and CdmContext, with security levels, MediaDrm system codes and creation error enums.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_DRM_BRIDGE_H_
 #define MEDIA_BASE_ANDROID_MEDIA_DRM_BRIDGE_H_
 

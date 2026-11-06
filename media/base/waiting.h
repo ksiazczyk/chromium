@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitingReason enum and callback
+// summary: Defines the WaitingReason enum and WaitingCB callback used to report why media playback stalls, such as a missing decryption key or lost decoder state.
+// ---
+
 #ifndef MEDIA_BASE_WAITING_H_
 #define MEDIA_BASE_WAITING_H_
 

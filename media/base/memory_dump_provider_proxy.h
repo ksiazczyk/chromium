@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDumpProviderProxy header
+// summary: Declares the MemoryDumpProviderProxy class and the MemoryDumpCB callback type used to forward memory dump requests to a supplied callback.
+// ---
+
 #ifndef MEDIA_BASE_MEMORY_DUMP_PROVIDER_PROXY_H_
 #define MEDIA_BASE_MEMORY_DUMP_PROVIDER_PROXY_H_
 

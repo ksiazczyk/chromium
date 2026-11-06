@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto picture-in-picture reason and info definitions
+// summary: Declares the AutoPipReason enum and AutoPipInfo struct describing why and under which conditions auto picture-in-picture is triggered.
+// ---
+
 #ifndef MEDIA_BASE_PICTURE_IN_PICTURE_EVENTS_INFO_H_
 #define MEDIA_BASE_PICTURE_IN_PICTURE_EVENTS_INFO_H_
 

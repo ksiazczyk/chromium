@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reentrancy checker for non-reentrant scopes
+// summary: Header defining REENTRANCY_CHECKER and NON_REENTRANT_SCOPE macros that assert a non-reentrant scope is not reentered, becoming a zero-sized no-op when DCHECKs are disabled.
+// ---
+
 #ifndef MEDIA_BASE_REENTRANCY_CHECKER_H_
 #define MEDIA_BASE_REENTRANCY_CHECKER_H_
 

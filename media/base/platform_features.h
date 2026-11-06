@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Per-platform media feature declarations
+// summary: Declares per-platform media feature functions and documents how to add features gated on build flags and base::Feature values.
+// ---
+
 #ifndef MEDIA_BASE_PLATFORM_FEATURES_H_
 #define MEDIA_BASE_PLATFORM_FEATURES_H_
 

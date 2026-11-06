@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoPixelFormat enum definitions
+// summary: Defines the VideoPixelFormat enum listing supported planar, semi-planar, packed YUV, and RGB pixel formats with bit depth annotations.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_TYPES_H_
 #define MEDIA_BASE_VIDEO_TYPES_H_
 

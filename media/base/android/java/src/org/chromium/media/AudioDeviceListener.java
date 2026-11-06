@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio device change listener
+// summary: Listens for Android audio device additions and removals and invokes a callback on the main thread.
+// ---
+
 package org.chromium.media;
 
 import android.content.Context;

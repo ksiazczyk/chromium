@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MimeUtil unit tests
+// summary: Unit tests for the media MIME utilities, covering codec string parsing, supported format checks and Android platform codec support variations.
+// ---
+
 
 #include "media/base/mime_util.h"
 

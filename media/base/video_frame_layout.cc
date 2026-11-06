@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame layout implementation
+// summary: Implements VideoFrameLayout factory methods and plane counting that describe physical buffer allocation with per-plane strides, offsets and sizes for video frames.
+// ---
+
 #include "media/base/video_frame_layout.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media content type helpers
+// summary: Implements AudioType and VideoType construction from decoder configs, including codec level inference, and comparison operators for these types.
+// ---
+
 #include "media/base/media_types.h"
 
 #include <tuple>

@@ -4,6 +4,12 @@
 
 // Defines all the "media" command-line switches.
 
+// ---docerion
+// type: source
+// title: Media switches header
+// summary: Declares the exported media command-line switch names and feature flags, with guidance on adding new switches alphabetically.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_SWITCHES_H_
 #define MEDIA_BASE_MEDIA_SWITCHES_H_
 

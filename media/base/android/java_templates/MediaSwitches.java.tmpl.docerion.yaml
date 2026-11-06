@@ -1,0 +1,4 @@
+# Docerion header of MediaSwitches.java.tmpl.
+type: source
+title: MediaSwitches.java.tmpl
+summary: Template for the Java MediaSwitches class that defines command line switches for Chromium's media layer, such as the no-user-gesture autoplay policy.

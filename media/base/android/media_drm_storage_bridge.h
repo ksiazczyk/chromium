@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmStorageBridge class declaration
+// summary: Declares the native MediaDrmStorageBridge used to talk to the Java side for persistent DRM session data management and origin ID handling.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_DRM_STORAGE_BRIDGE_H_
 #define MEDIA_BASE_ANDROID_MEDIA_DRM_STORAGE_BRIDGE_H_
 

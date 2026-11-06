@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock media pipeline filters header
+// summary: Declares gmock stand-ins for media pipeline interfaces such as Pipeline, Demuxer, Renderer, decoders, encoders, and CDM factories for use in media tests.
+// ---
+
 #ifndef MEDIA_BASE_MOCK_FILTERS_H_
 #define MEDIA_BASE_MOCK_FILTERS_H_
 

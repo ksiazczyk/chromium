@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Ranges class
+// summary: Unit tests covering adding, extending, coalescing, and intersecting ranges in the Ranges template.
+// ---
+
 #include "media/base/ranges.h"
 
 #include <stddef.h>

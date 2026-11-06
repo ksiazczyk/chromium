@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video utility function declarations
+// summary: Declares media video utilities for filling YUV frames, letterboxing, plane rotation, and computing letterbox and aligned rectangles.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_UTIL_H_
 #define MEDIA_BASE_VIDEO_UTIL_H_
 

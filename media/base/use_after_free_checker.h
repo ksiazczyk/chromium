@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UseAfterFreeChecker header
+// summary: Declares UseAfterFreeChecker, which guards object state and crashes with a diagnostic key on use-after-free or corruption.
+// ---
+
 #ifndef MEDIA_BASE_USE_AFTER_FREE_CHECKER_H_
 #define MEDIA_BASE_USE_AFTER_FREE_CHECKER_H_
 

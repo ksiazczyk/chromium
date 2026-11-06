@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProvisionFetcher interface for CDM provisioning
+// summary: Defines the ProvisionFetcher interface for asynchronously retrieving CDM provision information, with response and factory callback types.
+// ---
+
 #ifndef MEDIA_BASE_PROVISION_FETCHER_H_
 #define MEDIA_BASE_PROVISION_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media remoting constants
+// summary: Defines constants for media remoting, including the media-remoting URL scheme, minimum media durations, and the pixel rate calculation window.
+// ---
+
 #ifndef MEDIA_BASE_REMOTING_CONSTANTS_H_
 #define MEDIA_BASE_REMOTING_CONSTANTS_H_
 

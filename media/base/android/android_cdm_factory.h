@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android CDM factory class declaration
+// summary: Declares AndroidCdmFactory, a CdmFactory that creates Media DRM based content decryption modules and tracks pending creations.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_ANDROID_CDM_FACTORY_H_
 #define MEDIA_BASE_ANDROID_ANDROID_CDM_FACTORY_H_
 

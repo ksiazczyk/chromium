@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaFormatBuilderTest
+// summary: Robolectric tests for MediaFormatBuilder, checking creation of video and audio decoder MediaFormats with codec-specific data such as AVC SPS/PPS and Opus headers.
+// ---
+
 package org.chromium.media;
 
 import static org.junit.Assert.assertEquals;

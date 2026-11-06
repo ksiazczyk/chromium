@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video frame converter unit tests
+// summary: Unit tests verifying VideoFrameConverter conversions across many pixel formats, including scaled and odd visible rects, validated with SSIM and PSNR comparisons.
+// ---
+
 #include "media/base/video_frame_converter.h"
 
 #include <algorithm>

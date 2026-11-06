@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SVC scalability mode mapping implementation
+// summary: Implements mapping from spatial and temporal layer counts and inter-layer prediction mode to WebRTC-SVC scalability modes and their names.
+// ---
+
 #include "media/base/svc_scalability_mode.h"
 
 #include <algorithm>

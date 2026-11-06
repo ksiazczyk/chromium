@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video bitrate allocation header
+// summary: Declares VideoBitrateAllocation, which describes how video bitrate is distributed across up to five spatial and four temporal layers.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_BITRATE_ALLOCATION_H_
 #define MEDIA_BASE_VIDEO_BITRATE_ALLOCATION_H_
 

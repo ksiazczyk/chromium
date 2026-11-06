@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererClient default implementation
+// summary: Provides the default RendererClient implementation, returning true from IsVideoStreamAvailable.
+// ---
+
 #include "media/base/renderer_client.h"
 
 namespace media {

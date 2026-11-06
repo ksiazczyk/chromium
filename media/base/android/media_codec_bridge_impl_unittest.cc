@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaCodecBridgeImpl unit tests
+// summary: Unit tests for MediaCodecBridgeImpl that exercise audio and video decoding through the Java MediaCodec bridge using embedded test media data.
+// ---
+
 
 #include "media/base/android/media_codec_bridge_impl.h"
 

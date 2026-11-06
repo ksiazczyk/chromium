@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Communication device selector for Android S and above
+// summary: Implements communication device selection using the communication device APIs available on Android S and later.
+// ---
+
 package org.chromium.media;
 
 import android.Manifest;

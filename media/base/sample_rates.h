@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio sample rate enum
+// summary: Defines the AudioSampleRate enum used for UMA histogram bucketing of audio sample rates and a conversion helper declaration.
+// ---
+
 #ifndef MEDIA_BASE_SAMPLE_RATES_H_
 #define MEDIA_BASE_SAMPLE_RATES_H_
 

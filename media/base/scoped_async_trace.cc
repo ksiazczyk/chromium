@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped async trace implementation
+// summary: Implements TypedScopedAsyncTrace to emit scoped async perfetto trace events for media, media stream, and capture categories.
+// ---
+
 #include "media/base/scoped_async_trace.h"
 
 #include "base/memory/ptr_util.h"

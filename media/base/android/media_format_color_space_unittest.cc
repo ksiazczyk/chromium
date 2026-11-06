@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaFormatColorSpace unit tests
+// summary: Unit tests checking that MediaFormatColorSpace converts valid Android color values to gfx color spaces and rejects unknown standard, transfer, or range values.
+// ---
+
 #include "media/base/android/media_format_color_space.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

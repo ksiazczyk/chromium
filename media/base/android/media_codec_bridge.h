@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecBridge interface and status enums
+// summary: Declares the MediaCodecBridge interface for Android MediaCodec, along with codec types and the MediaCodecStatus enum used to report codec results.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_CODEC_BRIDGE_H_
 #define MEDIA_BASE_ANDROID_MEDIA_CODEC_BRIDGE_H_
 

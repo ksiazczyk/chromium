@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio and video type structs
+// summary: Declares AudioType and VideoType structs representing parsed audio/video content types with codec, profile, level, and color space fields.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_TYPES_H_
 #define MEDIA_BASE_MEDIA_TYPES_H_
 

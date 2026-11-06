@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipelineImpl class declaration with state diagram
+// summary: Declares PipelineImpl, a state machine coordinating asynchronous media pipeline initialization, seeking, suspension, and renderer creation.
+// ---
+
 #ifndef MEDIA_BASE_PIPELINE_IMPL_H_
 #define MEDIA_BASE_PIPELINE_IMPL_H_
 

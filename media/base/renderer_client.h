@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererClient notification interface
+// summary: Declares the interface renderers use to notify clients of errors, buffering state, statistics, config changes, waiting reasons, and video size or opacity changes.
+// ---
+
 #ifndef MEDIA_BASE_RENDERER_CLIENT_H_
 #define MEDIA_BASE_RENDERER_CLIENT_H_
 

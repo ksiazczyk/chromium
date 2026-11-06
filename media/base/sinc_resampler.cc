@@ -74,6 +74,12 @@
 // Note: we're glossing over how the sub-sample handling works with
 // |virtual_source_idx_|, etc.
 
+// ---docerion
+// type: source
+// title: SincResampler implementation
+// summary: Implements the SincResampler sample-rate converter, including its buffer layout, convolution algorithm, and SSE, AVX2, and NEON optimized paths.
+// ---
+
 #include "media/base/sinc_resampler.h"
 
 #include <limits>

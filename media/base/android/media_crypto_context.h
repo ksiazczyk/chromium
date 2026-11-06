@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCryptoContext interface
+// summary: Interface that provides MediaCrypto from MediaDrm to support decrypting and decoding of encrypted streams via MediaCodec-based decoders.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_CRYPTO_CONTEXT_H_
 #define MEDIA_BASE_ANDROID_MEDIA_CRYPTO_CONTEXT_H_
 

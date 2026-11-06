@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video types unit tests
+// summary: Unit tests for FourccToString output and IsValidVideoPixelFormat handling of valid, deprecated, and out-of-bounds format values.
+// ---
+
 #include "media/base/video_types.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

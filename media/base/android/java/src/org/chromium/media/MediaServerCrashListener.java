@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaServerCrashListener
+// summary: Uses a watchdog MediaPlayer to detect Android MediaServer crashes and notifies native code so media decoding can be throttled when needed.
+// ---
+
 package org.chromium.media;
 
 import android.media.MediaPlayer;

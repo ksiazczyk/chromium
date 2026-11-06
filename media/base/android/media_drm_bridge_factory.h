@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmBridgeFactory class declaration
+// summary: Declares MediaDrmBridgeFactory, a CdmFactory that creates a single MediaDrmBridge per key system with session callbacks and security level handling.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_DRM_BRIDGE_FACTORY_H_
 #define MEDIA_BASE_ANDROID_MEDIA_DRM_BRIDGE_FACTORY_H_
 

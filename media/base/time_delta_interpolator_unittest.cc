@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeDeltaInterpolator unit tests
+// summary: GoogleTest suite verifying TimeDeltaInterpolator behavior across playback rates, start/stop interpolation, and bounds handling.
+// ---
+
 #include "media/base/time_delta_interpolator.h"
 #include "base/test/simple_test_tick_clock.h"
 #include "base/time/time.h"

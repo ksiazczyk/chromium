@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sequence utility unit tests
+// summary: Unit tests verifying concatenation of vectors, lists, singlets, and move-only types plus iterator behavior of the sequence utilities.
+// ---
+
 #include "media/base/sequence.h"
 
 #include <list>

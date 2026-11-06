@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecoderConfig class header
+// summary: Declares the media::VideoDecoderConfig class that describes a video stream's codec, profile, color space, sizes, and encryption for decoder setup.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_DECODER_CONFIG_H_
 #define MEDIA_BASE_VIDEO_DECODER_CONFIG_H_
 

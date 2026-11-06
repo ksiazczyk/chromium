@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector math testing header
+// summary: Exposes the C, SSE, AVX2 and NEON implementations of the vector math routines for use in tests and benchmarks.
+// ---
+
 #ifndef MEDIA_BASE_VECTOR_MATH_TESTING_H_
 #define MEDIA_BASE_VECTOR_MATH_TESTING_H_
 

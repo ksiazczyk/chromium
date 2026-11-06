@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media IPC param traits implementation
+// summary: Generates IPC param traits write and read methods for media types by including the shared macros header under the param traits write and read macro headers.
+// ---
+
 #include "media/base/ipc/media_param_traits.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer factory selector
+// summary: Selects the current renderer factory from one base factory plus conditional factories, and on Android forwards remote play state change callbacks.
+// ---
+
 #include "media/base/renderer_factory_selector.h"
 
 #include "base/logging.h"

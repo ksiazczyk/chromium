@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFactory interface
+// summary: Declares the abstract factory for creating Renderer instances, specifying task runners, audio and video sinks, overlay info, and target color space.
+// ---
+
 #ifndef MEDIA_BASE_RENDERER_FACTORY_H_
 #define MEDIA_BASE_RENDERER_FACTORY_H_
 

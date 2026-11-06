@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrame class implementation
+// summary: Implements the media::VideoFrame class covering storage types, plane layout validation, frame creation, and platform-specific backing memory.
+// ---
+
 #include "media/base/video_frame.h"
 
 #include <GLES2/gl2.h>

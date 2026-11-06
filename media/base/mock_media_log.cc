@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock media log implementation
+// summary: Implements MockMediaLog, converting media log records to strings, special-casing pipeline status, and disabling console logging for tests.
+// ---
+
 #include "media/base/mock_media_log.h"
 #include "base/json/json_writer.h"
 

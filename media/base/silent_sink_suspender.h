@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Silent sink suspender for audio renderer sinks
+// summary: Declares SilentSinkSuspender, a helper that pauses a real audio renderer sink after prolonged silence and injects a fake sink to avoid hardware usage.
+// ---
+
 #ifndef MEDIA_BASE_SILENT_SINK_SUSPENDER_H_
 #define MEDIA_BASE_SILENT_SINK_SUSPENDER_H_
 

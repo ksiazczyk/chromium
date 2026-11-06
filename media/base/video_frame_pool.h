@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame pool header
+// summary: Declares VideoFramePool, which recycles VideoFrame memory for matching frame parameters via CreateFrame and returns it to the pool on destruction.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_FRAME_POOL_H_
 #define MEDIA_BASE_VIDEO_FRAME_POOL_H_
 

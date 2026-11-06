@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video utility functions implementation
+// summary: Implements helpers for filling, letterboxing, rotating, copying, and reading back video frames, including GPU raster and libyuv support.
+// ---
+
 #include "media/base/video_util.h"
 
 #include <array>

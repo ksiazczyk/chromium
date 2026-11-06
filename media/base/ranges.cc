@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranges TimeDelta specialization implementation
+// summary: Implements the base::TimeDelta specialization of the Ranges template's DCheckLT debug comparison helper.
+// ---
+
 #include "media/base/ranges.h"
 
 #include "base/time/time.h"

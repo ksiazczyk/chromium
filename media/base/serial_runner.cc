@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialRunner implementation
+// summary: Implements SerialRunner, which executes a queue of bound functions in series and reports the final pipeline status through a done callback.
+// ---
+
 #include "media/base/serial_runner.h"
 
 #include "base/functional/bind.h"

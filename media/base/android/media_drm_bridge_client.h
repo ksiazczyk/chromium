@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmBridgeClient interface
+// summary: Client interface for embedders to add key system UUID mappings and supply MediaDrmBridgeDelegate instances per DRM scheme.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_DRM_BRIDGE_CLIENT_H_
 #define MEDIA_BASE_ANDROID_MEDIA_DRM_BRIDGE_CLIENT_H_
 

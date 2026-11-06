@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay info struct for video overlays
+// summary: Declares the OverlayInfo struct with routing token, fullscreen and persistent video flags, plus callbacks for providing and requesting overlay information.
+// ---
+
 #ifndef MEDIA_BASE_OVERLAY_INFO_H_
 #define MEDIA_BASE_OVERLAY_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeekableBuffer implementation
+// summary: Implements a buffer queue supporting reads, peeks, appends, and forward or backward seeks for reading media data sources.
+// ---
+
 #include "media/base/seekable_buffer.h"
 
 #include <algorithm>

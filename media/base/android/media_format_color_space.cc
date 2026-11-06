@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFormatColorSpace implementation
+// summary: Converts Chromium video color space definitions into Android MediaFormat color standard, transfer, and range values and maps them back to gfx color spaces.
+// ---
+
 #include "media/base/android/media_format_color_space.h"
 
 #include "media/base/video_color_space.h"

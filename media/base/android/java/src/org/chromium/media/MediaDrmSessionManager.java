@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmSessionManager
+// summary: Manages mappings between EME session IDs, DRM session IDs, and key set IDs, including persistent session storage and associated session information.
+// ---
+
 package org.chromium.media;
 
 import android.media.MediaDrm;

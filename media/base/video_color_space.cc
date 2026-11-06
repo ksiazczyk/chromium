@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video color space conversions
+// summary: Implements conversions between media and gfx color space primary, transfer and matrix identifiers for video rendering.
+// ---
+
 #include "media/base/video_color_space.h"
 
 #include "base/strings/stringprintf.h"

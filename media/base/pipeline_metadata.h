@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipelineMetadata struct header
+// summary: Defines the PipelineMetadata struct describing an initialized media pipeline, including audio and video decoder configs, natural size, and timeline offset.
+// ---
+
 #ifndef MEDIA_BASE_PIPELINE_METADATA_H_
 #define MEDIA_BASE_PIPELINE_METADATA_H_
 

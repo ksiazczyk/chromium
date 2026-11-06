@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaFormatBuilder
+// summary: Builds Android MediaFormat objects for audio and video decoders, setting codec-specific data, color metadata, HDR metadata, profiles, and input size heuristics.
+// ---
+
 package org.chromium.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

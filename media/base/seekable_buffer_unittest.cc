@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SeekableBuffer unit tests
+// summary: Unit tests covering random read and write patterns, seek behavior, and buffer capacity handling of SeekableBuffer.
+// ---
+
 #include "media/base/seekable_buffer.h"
 
 #include <stddef.h>

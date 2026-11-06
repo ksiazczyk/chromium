@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaDrmBridge unit tests
+// summary: Unit tests verifying MediaDrmBridge creation, key system support checks, and security level behavior, skipping expectations when a key system is unavailable on the device.
+// ---
+
 #include "media/base/android/media_drm_bridge.h"
 
 #include <memory>

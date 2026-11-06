@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vector math SIMD implementation
+// summary: Implements vector math operations like FMAC, FMUL, and FCLAMP with SSE, AVX, and NEON intrinsics plus portable C fallbacks.
+// ---
+
 #include "media/base/vector_math.h"
 
 #include <algorithm>

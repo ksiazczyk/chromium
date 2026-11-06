@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video frame converter internals implementation
+// summary: Implements VideoFrame-based libyuv helpers for copying, scaling and converting video frames between RGB, YUV, NV and 10/12-bit pixel formats, including color space matrix selection.
+// ---
+
 #include "media/base/video_frame_converter_internals.h"
 
 #include "media/base/video_types.h"

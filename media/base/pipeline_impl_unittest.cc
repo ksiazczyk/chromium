@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PipelineImpl unit tests
+// summary: Unit tests for PipelineImpl covering start, seek, suspend, resume, and error handling using mock demuxer and renderer objects.
+// ---
+
 #include "media/base/pipeline_impl.h"
 
 #include <stddef.h>

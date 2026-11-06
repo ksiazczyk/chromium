@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SupportedAudioDecoderConfig declaration
+// summary: Declares a struct pairing an audio codec with a profile to describe supported audio decoders for cross-process communication.
+// ---
+
 #ifndef MEDIA_BASE_SUPPORTED_AUDIO_DECODER_CONFIG_H_
 #define MEDIA_BASE_SUPPORTED_AUDIO_DECODER_CONFIG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoTransformation struct and VideoRotation enum
+// summary: Declares the VideoTransformation struct and VideoRotation enum for representing video frame rotation in 90-degree steps and Y-axis mirroring.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_TRANSFORMATION_H_
 #define MEDIA_BASE_VIDEO_TRANSFORMATION_H_
 

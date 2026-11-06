@@ -6,6 +6,12 @@
 // expiry condition. The expiry condition is freeform and could be a date,
 // experiment, bug, the deletion of a file, etc.
 
+// ---docerion
+// type: source
+// title: Media switches implementation
+// summary: Defines media command-line switch names and base::Feature entries for autoplay policy, Cast streaming hardware codecs, and other media behavior in Chromium.
+// ---
+
 #include "media/base/media_switches.h"
 
 #include "base/command_line.h"

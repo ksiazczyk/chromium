@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI HDR metadata implementation
+// summary: Implements the Java HdrMetadata JNI bridge exposing HDR mastering display and content light level metadata to Android.
+// ---
+
 #include "media/base/android/jni_hdr_metadata.h"
 
 #include "ui/gfx/hdr_metadata.h"

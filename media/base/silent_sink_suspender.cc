@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SilentSinkSuspender implementation
+// summary: Implements SilentSinkSuspender, which switches between a real audio sink and a fake silent sink after prolonged silence and restores playback when audio resumes.
+// ---
+
 #include "media/base/silent_sink_suspender.h"
 
 #include "base/functional/bind.h"

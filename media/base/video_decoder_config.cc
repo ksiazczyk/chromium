@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoDecoderConfig implementation
+// summary: Implements video decoder configuration initialization, size validation and comparison of codec, color space and encryption settings.
+// ---
+
 #include "media/base/video_decoder_config.h"
 
 #include <iomanip>

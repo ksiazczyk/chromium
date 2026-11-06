@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamParser base class implementation
+// summary: Implements StreamParser defaults and merging of decode-timestamp-ordered buffer queues across tracks.
+// ---
+
 #include "media/base/stream_parser.h"
 
 #include "base/notimplemented.h"

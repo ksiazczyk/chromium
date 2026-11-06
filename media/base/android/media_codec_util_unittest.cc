@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaCodecUtil unit tests
+// summary: Unit tests for MediaCodecUtil coded size alignment lookup and video buffer size estimation across codecs and Android versions.
+// ---
+
 #include "media/base/android/media_codec_util.h"
 
 #include "base/android/android_info.h"

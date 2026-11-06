@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video codec name helpers
+// summary: Implements functions returning display and UMA names for video codecs and human-readable names for codec profiles.
+// ---
+
 #include "media/base/video_codecs.h"
 
 #include "base/logging.h"

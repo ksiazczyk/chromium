@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector math performance tests
+// summary: Benchmarks FMAC, FMUL, FCLAMP and EWMAAndMaxPower vector math routines on aligned and unaligned vectors, reporting runs/s metrics via PerfResultReporter.
+// ---
+
 
 #include "media/base/vector_math.h"
 

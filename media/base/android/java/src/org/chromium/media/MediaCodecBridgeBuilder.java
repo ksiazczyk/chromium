@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecBridgeBuilder
+// summary: Creates and configures MediaCodecBridge instances for video and audio decoders, handling secure playback, low latency, block model, and adaptive playback options.
+// ---
+
 package org.chromium.media;
 
 import android.media.MediaCodec;

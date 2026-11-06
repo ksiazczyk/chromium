@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Codec profile and level mapping
+// summary: Converts Android MediaCodec codec profiles and levels into Chromium media video codec profile values.
+// ---
+
 package org.chromium.media;
 
 import android.media.MediaCodecInfo.CodecProfileLevel;

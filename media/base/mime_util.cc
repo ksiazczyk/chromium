@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MIME utility public API implementation
+// summary: Implements the public media MIME utility functions by delegating to an internal MimeUtil singleton for codec and media format support checks.
+// ---
+
 #include "media/base/mime_util.h"
 
 #include "base/no_destructor.h"

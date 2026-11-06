@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video transformation implementation
+// summary: Implements VideoTransformation, converting between rotation matrices and 90-degree rotation plus mirroring values, including FFmpeg display matrix support.
+// ---
+
 #include "media/base/video_transformation.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiChannelResampler unit tests
+// summary: Tests multichannel resampling accuracy and Flush behavior for high and low latency buffer sizes using RMS and maximum error tolerance checks.
+// ---
+
 
 #include "media/base/multi_channel_resampler.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SincResampler header
+// summary: Declares SincResampler, a high-quality single-channel sample-rate converter with configurable kernel size, request sizes, and a read callback.
+// ---
+
 #ifndef MEDIA_BASE_SINC_RESAMPLER_H_
 #define MEDIA_BASE_SINC_RESAMPLER_H_
 

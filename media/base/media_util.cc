@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media utility functions
+// summary: Implements media utilities such as empty extra data, audio codec to bitstream format conversion, media trace checks, and OpenH264 encoder enablement.
+// ---
+
 #include "media/base/media_util.h"
 
 #include "base/trace_event/trace_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFactorySelector header
+// summary: Declares RendererFactorySelector, which centralizes choosing the RendererFactory used to create renderers in WMPI from base and conditional factories.
+// ---
+
 #ifndef MEDIA_BASE_RENDERER_FACTORY_SELECTOR_H_
 #define MEDIA_BASE_RENDERER_FACTORY_SELECTOR_H_
 

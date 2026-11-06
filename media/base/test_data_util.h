@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media test data utilities header
+// summary: Declares test data helpers for the media test data directory, such as file path resolution, mime type lookup, and reading DecoderBuffers.
+// ---
+
 #ifndef MEDIA_BASE_TEST_DATA_UTIL_H_
 #define MEDIA_BASE_TEST_DATA_UTIL_H_
 

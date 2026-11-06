@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiChannelResampler class declaration
+// summary: Declares a multi-channel wrapper around SincResampler for high quality sample rate conversion of multiple audio channels at once.
+// ---
+
 #ifndef MEDIA_BASE_MULTI_CHANNEL_RESAMPLER_H_
 #define MEDIA_BASE_MULTI_CHANNEL_RESAMPLER_H_
 

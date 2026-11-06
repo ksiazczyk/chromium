@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for media base IPC
+summary: Sets directory include rules allowing ipc headers and blocking media_export.h, with a specific rule granting the macros header access to the Blink fullscreen video status header.

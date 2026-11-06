@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OffloadingAudioEncoder unit tests
+// summary: Verifies with a mock encoder that encoder calls execute on the work task runner while output and done callbacks run on the callback runner.
+// ---
+
 #include "media/base/offloading_audio_encoder.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleWatchTimer header
+// summary: Declares SimpleWatchTimer, a helper for accumulating media watch time in seconds via a periodic tick callback during active playback.
+// ---
+
 #ifndef MEDIA_BASE_SIMPLE_WATCH_TIMER_H_
 #define MEDIA_BASE_SIMPLE_WATCH_TIMER_H_
 

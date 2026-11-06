@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeSource interface
+// summary: Defines the TimeSource interface for providing current media time, playback rate control, and media-to-wall-clock timestamp conversion.
+// ---
+
 #ifndef MEDIA_BASE_TIME_SOURCE_H_
 #define MEDIA_BASE_TIME_SOURCE_H_
 

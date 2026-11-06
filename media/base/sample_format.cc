@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample format helper implementations
+// summary: Implements string conversion and planar, interleaved, and bitstream classification for audio sample formats.
+// ---
+
 #include "media/base/sample_format.h"
 
 #include <ostream>

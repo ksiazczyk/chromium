@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported media type checks implementation
+// summary: Implements codec, profile, color space and HDR metadata support checks for audio and video decoders and encoders across platforms.
+// ---
+
 #include "media/base/supported_types.h"
 
 #include "base/command_line.h"

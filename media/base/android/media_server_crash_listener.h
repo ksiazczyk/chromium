@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaServerCrashListener class declaration
+// summary: Declares MediaServerCrashListener, which watches for MediaServer crashes via a watchdog MediaPlayer and posts crash callbacks, with a single instance per process.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MEDIA_SERVER_CRASH_LISTENER_H_
 #define MEDIA_BASE_ANDROID_MEDIA_SERVER_CRASH_LISTENER_H_
 

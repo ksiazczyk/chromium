@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaCodecLoop unit tests
+// summary: Unit tests for MediaCodecLoop using a mock MediaCodecBridge and strict mock client to verify buffer processing, state transitions, and idle behavior.
+// ---
+
 #include "media/base/android/media_codec_loop.h"
 
 #include <memory>

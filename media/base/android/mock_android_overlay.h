@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockAndroidOverlay class declaration
+// summary: Declares MockAndroidOverlay, a NiceMock AndroidOverlay with configurable config, controllable callbacks and mocked layout and surface methods for tests.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_MOCK_ANDROID_OVERLAY_H_
 #define MEDIA_BASE_ANDROID_MOCK_ANDROID_OVERLAY_H_
 

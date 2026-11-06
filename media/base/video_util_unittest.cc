@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video utility unit tests
+// summary: Unit tests covering video frame pattern filling, letterboxing, plane rotation, and copying visible regions with padding verification.
+// ---
+
 #include "media/base/video_util.h"
 
 #include <stdint.h>

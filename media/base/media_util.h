@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media utilities header
+// summary: Declares media utility helpers including NullMediaLog, empty extra data, codec-to-bitstream format conversion, and OpenH264 encoder status.
+// ---
+
 #ifndef MEDIA_BASE_MEDIA_UTIL_H_
 #define MEDIA_BASE_MEDIA_UTIL_H_
 

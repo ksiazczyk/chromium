@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SincResampler performance tests
+// summary: Benchmarks the Convolve methods of SincResampler across unoptimized and SSE, AVX2, and NEON optimized variants, reporting runs per second.
+// ---
+
 
 #include "base/cpu.h"
 #include "base/functional/bind.h"

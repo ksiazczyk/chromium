@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer interface and renderer type enum
+// summary: Declares the abstract Renderer interface for media playback and the RendererType enum whose numeric values are reported to metrics and must not be reused.
+// ---
+
 #ifndef MEDIA_BASE_RENDERER_H_
 #define MEDIA_BASE_RENDERER_H_
 

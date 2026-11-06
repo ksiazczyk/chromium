@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media test helpers implementation
+// summary: Implements media test helpers such as filling video frames with four test colors, waitable message loop events, and canned decoder configurations.
+// ---
+
 #include "media/base/test_helpers.h"
 
 #include <stdint.h>

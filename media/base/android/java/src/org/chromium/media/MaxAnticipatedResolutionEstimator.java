@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaxAnticipatedResolutionEstimator
+// summary: Estimates the maximum anticipated screen resolution to set as a hint in MediaFormat, capping non-4K codecs at 1080p and using DisplayCompat or codec capabilities.
+// ---
+
 package org.chromium.media;
 
 import android.content.Context;

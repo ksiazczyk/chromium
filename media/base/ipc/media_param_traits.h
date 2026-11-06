@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media IPC param traits header
+// summary: Declares the media IPC param traits header guard and includes the macros header that defines the traits for media base types.
+// ---
+
 #ifndef MEDIA_BASE_IPC_MEDIA_PARAM_TRAITS_H_
 #define MEDIA_BASE_IPC_MEDIA_PARAM_TRAITS_H_
 

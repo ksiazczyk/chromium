@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video aspect ratio unit tests
+// summary: Tests default construction, construction from natural size, and pixel and display aspect ratio behavior of VideoAspectRatio.
+// ---
+
 #include "media/base/video_aspect_ratio.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/gfx/geometry/rect.h"

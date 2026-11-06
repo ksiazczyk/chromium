@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WallClockTimeSource class header
+// summary: Declares a TimeSource that derives media time from the system clock, coarsening resolution to mitigate high-resolution timing attacks.
+// ---
+
 #ifndef MEDIA_BASE_WALL_CLOCK_TIME_SOURCE_H_
 #define MEDIA_BASE_WALL_CLOCK_TIME_SOURCE_H_
 

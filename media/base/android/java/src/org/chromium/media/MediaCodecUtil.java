@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecUtil
+// summary: Provides MediaCodec utility functions such as codec discovery, MIME type constants, software codec detection, and decoder creation across Android platform versions.
+// ---
+
 package org.chromium.media;
 
 import android.media.MediaCodec;

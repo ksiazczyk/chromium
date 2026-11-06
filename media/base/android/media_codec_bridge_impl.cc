@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecBridgeImpl JNI implementation
+// summary: Implements the MediaCodecBridge via JNI, building Java MediaFormat from decoder configs and driving the Java MediaCodec for audio and video.
+// ---
+
 
 #include "media/base/android/media_codec_bridge_impl.h"
 

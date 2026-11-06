@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subsample entry implementation for Common Encryption
+// summary: Implements verification that subsample entries match a buffer size and conversion of encrypted ranges into subsample entries.
+// ---
+
 #include "media/base/subsample_entry.h"
 
 #include "base/check.h"

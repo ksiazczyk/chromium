@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaCodecUtil implementation
+// summary: Implements MediaCodecUtil helpers that map codecs to Android MIME types and check device-level decoder support and codec profile levels.
+// ---
+
 #include "media/base/android/media_codec_util.h"
 
 #include <stddef.h>

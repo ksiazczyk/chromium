@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI HDR metadata class declaration
+// summary: Declares JniHdrMetadata, which wraps gfx HDR metadata for access from Java through JNI.
+// ---
+
 #ifndef MEDIA_BASE_ANDROID_JNI_HDR_METADATA_H_
 #define MEDIA_BASE_ANDROID_JNI_HDR_METADATA_H_
 

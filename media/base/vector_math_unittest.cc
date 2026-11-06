@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector math unit tests
+// summary: Verifies that all optimized FMAC, FMUL, FCLAMP and EWMAAndMaxPower implementations produce correct and consistent results, including clamping of out-of-range values.
+// ---
+
 #include "media/base/vector_math.h"
 
 #include <algorithm>

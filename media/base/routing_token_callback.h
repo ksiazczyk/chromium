@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Routing token callback types
+// summary: Defines callback types for providing and requesting media routing tokens, such as between RenderFrame and WMPI.
+// ---
+
 #ifndef MEDIA_BASE_ROUTING_TOKEN_CALLBACK_H_
 #define MEDIA_BASE_ROUTING_TOKEN_CALLBACK_H_
 

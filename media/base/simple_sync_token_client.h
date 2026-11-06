@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleSyncTokenClient header
+// summary: Declares SimpleSyncTokenClient, a VideoFrame::SyncTokenClient that hands out a preset GPU sync token without waiting.
+// ---
+
 #ifndef MEDIA_BASE_SIMPLE_SYNC_TOKEN_CLIENT_H_
 #define MEDIA_BASE_SIMPLE_SYNC_TOKEN_CLIENT_H_
 

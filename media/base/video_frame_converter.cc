@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameConverter implementation
+// summary: Implements conversion and scaling between video frame pixel formats using libyuv, including color space and HDR metadata propagation.
+// ---
+
 #include "media/base/video_frame_converter.h"
 
 #include "base/trace_event/trace_event.h"

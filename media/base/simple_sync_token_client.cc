@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleSyncTokenClient implementation
+// summary: Implements SimpleSyncTokenClient, which returns a fixed GPU sync token on generation and performs no waiting.
+// ---
+
 #include "media/base/simple_sync_token_client.h"
 
 namespace media {

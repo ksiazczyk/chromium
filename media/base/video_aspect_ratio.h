@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video aspect ratio header
+// summary: Declares the VideoAspectRatio class for pixel and display aspect ratios, including natural size computation and validity checks.
+// ---
+
 #ifndef MEDIA_BASE_VIDEO_ASPECT_RATIO_H_
 #define MEDIA_BASE_VIDEO_ASPECT_RATIO_H_
 

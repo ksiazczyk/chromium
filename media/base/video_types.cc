@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video pixel format helpers
+// summary: Implements string conversion and validity checks for VideoPixelFormat values and FOURCC code formatting used by the media pipeline.
+// ---
+
 #include "media/base/video_types.h"
 
 #include <ostream>

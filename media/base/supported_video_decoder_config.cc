@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportedVideoDecoderConfig implementation
+// summary: Implements matching video decoder configs against supported profile, coded size and encryption constraints plus validity checks.
+// ---
+
 #include "media/base/supported_video_decoder_config.h"
 
 namespace media {
