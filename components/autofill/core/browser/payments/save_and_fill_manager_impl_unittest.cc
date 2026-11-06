@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaveAndFillManagerImpl unit tests
+// summary: Unit tests covering the Save and Fill flow, dialogs, strike database behavior, and metrics using mock clients.
+// ---
+
 #include "components/autofill/core/browser/payments/save_and_fill_manager_impl.h"
 
 #include "base/check_deref.h"

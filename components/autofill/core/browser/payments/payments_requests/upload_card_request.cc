@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadCardRequest implementation
+// summary: Implements the request that uploads a credit card to the Chrome payments service for saving, including addresses, risk data, and encrypted PAN and CVC.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/upload_card_request.h"
 
 #include <stdint.h>

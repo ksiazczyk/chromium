@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AI card recommendation manager
+// summary: GMock mock of AiCardRecommendationManager that stubs MaximizeCreditCardBenefits for use in autofill payments tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_MOCK_AI_CARD_RECOMMENDATION_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_MOCK_AI_CARD_RECOMMENDATION_MANAGER_H_
 

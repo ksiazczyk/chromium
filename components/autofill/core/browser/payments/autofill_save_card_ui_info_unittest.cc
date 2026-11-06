@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillSaveCardUiInfo
+// summary: Unit tests verifying that AutofillSaveCardUiInfo factory methods set icons, labels, legal messages and branding attributes correctly for local and upload saves.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_save_card_ui_info.h"
 
 #include <string>

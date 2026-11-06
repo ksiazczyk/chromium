@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadCardRequest class header
+// summary: Declares UploadCardRequest, the PaymentsRequest for saving a credit card via the Chrome payments service with a response callback.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_UPLOAD_CARD_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_UPLOAD_CARD_REQUEST_H_
 

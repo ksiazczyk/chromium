@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill policy handler implementation
+// summary: Implements policy handlers that translate the AutoFillEnabled and AutofillSettings enterprise policies into Autofill preferences, including blocked data type rules.
+// ---
+
 #include "components/autofill/core/browser/permissions/autofill_policy_handler.h"
 
 #include "base/values.h"

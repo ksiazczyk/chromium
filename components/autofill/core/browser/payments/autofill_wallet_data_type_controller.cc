@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill wallet sync data type controller implementation
+// summary: Implements the sync data type controller for autofill wallet data types, gating sync on the credit card autofill pref and clearing metadata when sync stops.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_wallet_data_type_controller.h"
 
 #include <memory>

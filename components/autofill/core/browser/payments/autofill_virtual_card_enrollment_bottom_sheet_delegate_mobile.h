@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile virtual card enrollment bottom sheet delegate header
+// summary: Declares the mobile-only delegate that provides virtual card enrollment UI content and handles accept, dismiss and metric logging for the bottom sheet.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_VIRTUAL_CARD_ENROLLMENT_BOTTOM_SHEET_DELEGATE_MOBILE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_VIRTUAL_CARD_ENROLLMENT_BOTTOM_SHEET_DELEGATE_MOBILE_H_
 

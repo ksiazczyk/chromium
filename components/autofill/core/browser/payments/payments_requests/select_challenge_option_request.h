@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select challenge option request header
+// summary: Declares the PaymentsRequest subclass for selecting a card unmask challenge option and returning an updated context token.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_SELECT_CHALLENGE_OPTION_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_SELECT_CHALLENGE_OPTION_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask challenge option implementation
+// summary: Implements constructors for CardUnmaskChallengeOption and VCN 3DS challenge metadata used during credit card unmasking.
+// ---
+
 #include "components/autofill/core/browser/payments/card_unmask_challenge_option.h"
 
 #include <stddef.h>

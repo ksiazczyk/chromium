@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legal message line implementation
+// summary: Implements parsing of legal message templates into text lines with display text and link ranges for payments save prompts.
+// ---
+
 #include "components/autofill/core/browser/payments/legal_message_line.h"
 
 #include <stddef.h>

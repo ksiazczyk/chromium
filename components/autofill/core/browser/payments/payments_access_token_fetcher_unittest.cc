@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentsAccessTokenFetcher unit tests
+// summary: Unit tests for PaymentsAccessTokenFetcher covering pending requests, token caching and invalidation behavior across feature flag states.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_access_token_fetcher.h"
 
 #include <memory>

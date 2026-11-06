@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IBAN save manager implementation
+// summary: Implements the logic that decides when to offer saving an IBAN locally or uploading it to Google Payments and runs the save workflow.
+// ---
+
 #include "components/autofill/core/browser/payments/iban_save_manager.h"
 
 #include <algorithm>

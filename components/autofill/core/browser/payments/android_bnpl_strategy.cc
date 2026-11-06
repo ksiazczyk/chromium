@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BNPL strategy implementation
+// summary: Implements the Android-specific BnplStrategy actions for the Buy Now, Pay Later flow, including UI switching, dismissal, and server-return behavior.
+// ---
+
 #include "components/autofill/core/browser/payments/android_bnpl_strategy.h"
 
 #include "components/autofill/core/browser/payments/bnpl_strategy.h"

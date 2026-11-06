@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnmaskCardRequest unit tests
+// summary: Unit tests verifying the request content, URL path and response parsing of UnmaskCardRequest for card unmasking cases.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/unmask_card_request.h"
 
 #include <memory>

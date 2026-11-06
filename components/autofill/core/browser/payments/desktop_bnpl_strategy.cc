@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop BNPL strategy implementation
+// summary: Implements the desktop-specific buy-now-pay-later flow actions such as UI handling and suggestion updates.
+// ---
+
 #include "components/autofill/core/browser/payments/desktop_bnpl_strategy.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateBnplPaymentInstrumentRequest test API
+// summary: Test API wrapper giving unit tests access to internals of UpdateBnplPaymentInstrumentRequest.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_UPDATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_UPDATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_TEST_API_H_
 

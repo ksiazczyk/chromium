@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock MultipleRequestPaymentsNetworkInterface header
+// summary: Declares a gmock subclass of MultipleRequestPaymentsNetworkInterface with mocked methods for card creation, updates, and virtual card enrollment requests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_MOCK_MULTIPLE_REQUEST_PAYMENTS_NETWORK_INTERFACE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_MOCK_MULTIPLE_REQUEST_PAYMENTS_NETWORK_INTERFACE_H_
 

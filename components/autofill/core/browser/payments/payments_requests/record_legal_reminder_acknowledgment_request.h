@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record legal reminder acknowledgment request header
+// summary: Declares the PaymentsRequest subclass that records user acknowledgment after the Wallet reminder notice is shown.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_RECORD_LEGAL_REMINDER_ACKNOWLEDGMENT_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_RECORD_LEGAL_REMINDER_ACKNOWLEDGMENT_REQUEST_H_
 

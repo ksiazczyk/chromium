@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test internal authenticator
+// summary: Declares a test subclass of webauthn::InternalAuthenticator with stubbed methods, meant for testing purposes.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_INTERNAL_AUTHENTICATOR_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_INTERNAL_AUTHENTICATOR_H_
 

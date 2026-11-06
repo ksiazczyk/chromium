@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RiskDataLoader interface
+// summary: Interface that gathers risk data and delivers it to a callback for payments flows.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_RISK_DATA_LOADER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_RISK_DATA_LOADER_H_
 

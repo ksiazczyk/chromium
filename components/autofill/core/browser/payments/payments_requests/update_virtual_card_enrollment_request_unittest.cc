@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateVirtualCardEnrollmentRequest unit tests
+// summary: Parameterized unit tests checking enroll and unenroll request URL paths and content fields across enrollment types and sources.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/update_virtual_card_enrollment_request.h"
 
 #include <memory>

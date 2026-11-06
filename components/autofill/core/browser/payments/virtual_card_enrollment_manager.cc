@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment manager implementation
+// summary: Implements the manager that decides whether to offer virtual card enrollment and drives the enrollment and unenrollment requests.
+// ---
+
 #include "components/autofill/core/browser/payments/virtual_card_enrollment_manager.h"
 
 #include <stdint.h>

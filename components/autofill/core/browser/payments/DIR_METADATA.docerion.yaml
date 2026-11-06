@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug tracking component metadata
+summary: Maps the directory to the UI>Browser>Autofill>Payments monorail component and a public Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments utility implementations
+// summary: Implements helpers for billing customer IDs, Google Payments account detection, card BIN range checks, and filling or previewing credit cards.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_util.h"
 
 #include <stdint.h>

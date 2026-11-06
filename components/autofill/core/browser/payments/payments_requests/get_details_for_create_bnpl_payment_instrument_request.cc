@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForCreateBnplPaymentInstrumentRequest implementation
+// summary: Implements the RPC that fetches a context token and legal message needed to create a BNPL payment instrument.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_details_for_create_bnpl_payment_instrument_request.h"
 
 #include <string>

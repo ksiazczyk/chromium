@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateBnplPaymentInstrumentRequest header
+// summary: Declares UpdateBnplPaymentInstrumentRequest, a PaymentsRequest for updating BNPL payment instruments on the Payments server.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_UPDATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_UPDATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_H_
 

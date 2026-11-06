@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill payments test profile builder
+// summary: Implements BuildTestProfiles, which constructs sample autofill profiles with names, addresses and phone numbers for use in Autofill Payments tests.
+// ---
+
 #include "components/autofill/core/browser/payments/test/autofill_payments_test_util.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card risk-based authenticator unit tests
+// summary: Unit tests for the risk-based credit card authenticator covering unmask requests, FIDO options and authentication outcomes.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_risk_based_authenticator.h"
 
 #include <memory>

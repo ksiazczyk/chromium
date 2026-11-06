@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI permission utility header
+// summary: Declares the AutofillAiAction and AutofillAiOptInStatus enums and the interface for checking whether permission requirements are met for Autofill AI actions and entity types.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PERMISSIONS_AUTOFILL_AI_AUTOFILL_AI_PERMISSION_UTIL_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PERMISSIONS_AUTOFILL_AI_AUTOFILL_AI_PERMISSION_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForUpdateCardRequest implementation
+// summary: Implements the payments RPC that fetches details for updating a card, sending a preflight request with an empty card_info dictionary.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_details_for_update_card_request.h"
 
 #include <string>

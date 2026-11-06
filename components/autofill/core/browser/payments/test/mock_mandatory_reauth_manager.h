@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock mandatory reauth manager
+// summary: GMock mock of MandatoryReauthManager stubbing opt-in prompts and device authentication methods for tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_MOCK_MANDATORY_REAUTH_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_MOCK_MANDATORY_REAUTH_MANAGER_H_
 

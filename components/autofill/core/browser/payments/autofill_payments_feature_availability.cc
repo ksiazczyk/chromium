@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill payments feature availability implementation
+// summary: Implements helpers that decide whether card metadata and benefits should be shown and whether VCN 3DS authentication is available.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_payments_feature_availability.h"
 
 #include <optional>

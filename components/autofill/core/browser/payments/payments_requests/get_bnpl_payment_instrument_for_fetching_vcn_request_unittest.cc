@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetBnplPaymentInstrumentForFetchingVcnRequest unit tests
+// summary: Unit tests verifying the URL path, content type, request body, and response parsing of the BNPL VCN fetch request.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_bnpl_payment_instrument_for_fetching_vcn_request.h"
 
 #include "base/json/json_writer.h"

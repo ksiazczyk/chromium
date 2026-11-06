@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Amount extraction heuristic regexes singleton declaration
+// summary: Declares the singleton holding keyword and amount regex patterns and the ancestor search depth used for DOM amount extraction.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AMOUNT_EXTRACTION_HEURISTIC_REGEXES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AMOUNT_EXTRACTION_HEURISTIC_REGEXES_H_
 

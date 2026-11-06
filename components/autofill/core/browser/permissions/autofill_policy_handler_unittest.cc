@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill policy handler unit tests
+// summary: Unit tests verifying how the Autofill policy handlers map enterprise policies such as AutoFillEnabled and fine-grained toggles onto preference values.
+// ---
+
 #include "components/autofill/core/browser/permissions/autofill_policy_handler.h"
 
 #include <memory>

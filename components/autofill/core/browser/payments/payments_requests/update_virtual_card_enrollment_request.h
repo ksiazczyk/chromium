@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateVirtualCardEnrollmentRequest class header
+// summary: Declares UpdateVirtualCardEnrollmentRequest, a PaymentsRequest for enrolling or unenrolling a credit card in virtual card numbers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_UPDATE_VIRTUAL_CARD_ENROLLMENT_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_UPDATE_VIRTUAL_CARD_ENROLLMENT_REQUEST_H_
 

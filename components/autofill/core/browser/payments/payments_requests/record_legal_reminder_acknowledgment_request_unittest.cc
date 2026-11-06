@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for record legal reminder acknowledgment request
+// summary: Checks that the request content includes locale, billable service, customer context, legal message token and flow type.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/record_legal_reminder_acknowledgment_request.h"
 
 #include <memory>

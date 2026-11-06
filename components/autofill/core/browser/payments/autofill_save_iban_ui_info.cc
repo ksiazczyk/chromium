@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillSaveIbanUiInfo implementation for save IBAN prompts
+// summary: Implements AutofillSaveIbanUiInfo factories that assemble titles, icons and legal messages for local and server save IBAN prompts, honoring wallet branding features.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_save_iban_ui_info.h"
 
 #include "base/feature_list.h"

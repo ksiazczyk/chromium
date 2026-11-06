@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card CVC authenticator unit tests
+// summary: Unit tests for CreditCardCvcAuthenticator verifying CVC-based card unmasking, metrics logging and failure handling using a test payments network interface.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_cvc_authenticator.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill wallet sync data type controller header
+// summary: Declares a syncer DataTypeController that manages syncing of autofill wallet data and metadata, reacting to pref changes and sync service state.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_WALLET_DATA_TYPE_CONTROLLER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_WALLET_DATA_TYPE_CONTROLLER_H_
 

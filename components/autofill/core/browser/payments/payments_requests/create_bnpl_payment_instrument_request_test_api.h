@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CreateBnplPaymentInstrumentRequest test API
+// summary: Test-only accessor that exposes the private instrument ID of a CreateBnplPaymentInstrumentRequest for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_CREATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_CREATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_TEST_API_H_
 

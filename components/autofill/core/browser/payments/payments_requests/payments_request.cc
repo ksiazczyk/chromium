@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsRequest base class implementation
+// summary: Implements the PaymentsRequest base class with retryable failure handling, timeout and histogram hooks, and helpers to build risk, customer context and Chrome user context dictionaries.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/payments_request.h"
 
 #include <stdint.h>

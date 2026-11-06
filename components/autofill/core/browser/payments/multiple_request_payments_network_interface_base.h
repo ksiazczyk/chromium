@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultipleRequestPaymentsNetworkInterfaceBase header
+// summary: Declares MultipleRequestPaymentsNetworkInterfaceBase, which issues Payments RPCs and manages responses and failure conditions for several active requests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_MULTIPLE_REQUEST_PAYMENTS_NETWORK_INTERFACE_BASE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_MULTIPLE_REQUEST_PAYMENTS_NETWORK_INTERFACE_BASE_H_
 

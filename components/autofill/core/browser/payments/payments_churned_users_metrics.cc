@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users metrics logging
+// summary: Logs histograms for the result and show result of the payments churned users UI.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_churned_users_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

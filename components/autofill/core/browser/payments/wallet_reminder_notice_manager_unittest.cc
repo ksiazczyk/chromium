@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WalletReminderNoticeManager unit tests
+// summary: Unit tests for the Wallet Reminder Notice manager, mocking the payments network interface and UI delegate to verify eligibility and RPC response handling.
+// ---
+
 #include "components/autofill/core/browser/payments/wallet_reminder_notice_manager.h"
 
 #include <memory>

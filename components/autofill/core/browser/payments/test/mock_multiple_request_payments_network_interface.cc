@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock MultipleRequestPaymentsNetworkInterface implementation
+// summary: Implements the constructor and destructor of the mock payments network interface used to stub multiple Payments RPCs in autofill tests.
+// ---
+
 #include "components/autofill/core/browser/payments/test/mock_multiple_request_payments_network_interface.h"
 
 #include "components/signin/public/identity_manager/identity_manager.h"

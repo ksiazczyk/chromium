@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card OTP authenticator implementation
+// summary: Implements credit card unmasking authentication via one-time password verification, building unmask requests with client behavior signals and risk data.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_otp_authenticator.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IBAN access manager unit tests
+// summary: Unit tests for fetching full IBAN values, covering server unmask requests, latency metrics, and mandatory re-auth flows.
+// ---
+
 #include "components/autofill/core/browser/payments/iban_access_manager.h"
 
 #include "base/test/gmock_callback_support.h"

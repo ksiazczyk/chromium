@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill policy service header
+// summary: Declares AutofillPolicyService, a keyed service that evaluates whether Autofill data categories are blocked by user settings or enterprise policy for a URL.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PERMISSIONS_AUTOFILL_POLICY_SERVICE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PERMISSIONS_AUTOFILL_POLICY_SERVICE_H_
 

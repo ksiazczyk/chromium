@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock IBAN manager implementation
+// summary: Implements the constructor and destructor of the mock IBAN manager used in autofill tests.
+// ---
+
 #include "components/autofill/core/browser/payments/test/mock_iban_manager.h"
 
 namespace autofill {

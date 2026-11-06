@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDetailsForEnrollmentRequest unit tests
+// summary: Parameterized unit tests verifying request content and response parsing for the virtual card enrollment sources upstream, downstream and settings page.
+// ---
+
 #include <memory>
 
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Amount extraction heuristic regexes singleton implementation
+// summary: Implements the singleton that loads amount extraction regex patterns from a component updater binary proto, falling back to defaults.
+// ---
+
 #include "components/autofill/core/browser/payments/amount_extraction_heuristic_regexes.h"
 
 #include <stdint.h>

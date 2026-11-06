@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment metrics logger implementation
+// summary: Implements logging of virtual card enrollment metrics for bubble shown, dismissed, link clicked, and card art availability events.
+// ---
+
 #include "components/autofill/core/browser/payments/virtual_card_enroll_metrics_logger.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDataForAgentRequest implementation
+// summary: Implements the getdataforagent RPC that exchanges an opaque token for card credentials used by an agent completing a purchase.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_data_for_agent_request.h"
 
 #include <optional>

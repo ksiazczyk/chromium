@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetBnplPaymentInstrumentForFetchingUrlRequest unit tests
+// summary: Unit tests verifying the request URL, content type, JSON payload, and parsing of redirect, success, and failure URLs from the BNPL fetch response.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_bnpl_payment_instrument_for_fetching_url_request.h"
 
 #include "base/strings/string_number_conversions.h"

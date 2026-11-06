@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BnplManager unit tests
+// summary: Unit tests for BnplManager covering the buy-now-pay-later flow, including issuer selection, amount extraction, terms of service, and virtual card number fetching.
+// ---
+
 #include "components/autofill/core/browser/payments/bnpl_manager.h"
 
 #include <memory>

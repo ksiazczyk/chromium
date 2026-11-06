@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock SaveAndFillManager header
+// summary: Declares a gmock SaveAndFillManager subclass mocking suggestion handling, strike counting, and metrics logging methods for tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_MOCK_SAVE_AND_FILL_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_TEST_MOCK_SAVE_AND_FILL_MANAGER_H_
 

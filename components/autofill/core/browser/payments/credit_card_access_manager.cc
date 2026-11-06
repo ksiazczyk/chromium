@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card access manager implementation
+// summary: Implements the logic for fetching, unmasking and authenticating credit cards stored locally or with Google Payments, coordinating CVC, FIDO, OTP and risk-based flows.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_access_manager.h"
 
 #include <stddef.h>

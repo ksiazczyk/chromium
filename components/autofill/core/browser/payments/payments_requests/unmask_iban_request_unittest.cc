@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnmaskIbanRequest unit tests
+// summary: Unit tests checking the request content and IBAN response parsing, including the missing-value case, of UnmaskIbanRequest.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/unmask_iban_request.h"
 
 #include "base/functional/callback_helpers.h"

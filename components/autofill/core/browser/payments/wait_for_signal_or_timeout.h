@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitForSignalOrTimeout class header
+// summary: Declares a helper that invokes a callback once when either a signal arrives or a timeout expires, with reset support, intended for payment tasks.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_WAIT_FOR_SIGNAL_OR_TIMEOUT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_WAIT_FOR_SIGNAL_OR_TIMEOUT_H_
 

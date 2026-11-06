@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mandatory reauth manager unit tests
+// summary: Unit tests for MandatoryReauthManager covering authentication flows with mock device authenticators, availability checkers and metrics.
+// ---
+
 #include "components/autofill/core/browser/payments/mandatory_reauth_manager.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android BNPL strategy header
+// summary: Declares AndroidBnplStrategy, the Android implementation of the BnplStrategy interface defining platform-specific BNPL flow actions.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_ANDROID_BNPL_STRATEGY_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_ANDROID_BNPL_STRATEGY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wait for signal or timeout helper
+// summary: Implements a utility that invokes a callback when a signal arrives or when a timeout elapses, whichever happens first.
+// ---
+
 #include "components/autofill/core/browser/payments/wait_for_signal_or_timeout.h"
 
 #include <utility>

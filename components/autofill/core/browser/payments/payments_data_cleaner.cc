@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsDataCleaner implementation
+// summary: Implements startup cleanup that deletes disused local credit cards via the payments data manager and logs how many were removed.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_data_cleaner.h"
 
 #include <stddef.h>

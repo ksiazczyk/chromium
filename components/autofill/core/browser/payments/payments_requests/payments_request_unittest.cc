@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PaymentsRequest base class
+// summary: Verifies that the Chrome user context built by PaymentsRequest contains the client type and Chrome major version.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/payments_request.h"
 
 #include "base/functional/callback_helpers.h"

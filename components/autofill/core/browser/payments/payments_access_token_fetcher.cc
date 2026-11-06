@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsAccessTokenFetcher implementation
+// summary: Implements fetching of OAuth access tokens for Google Payments server requests via the signin IdentityManager, with caching and invalidation of old tokens.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_access_token_fetcher.h"
 
 #include <memory>

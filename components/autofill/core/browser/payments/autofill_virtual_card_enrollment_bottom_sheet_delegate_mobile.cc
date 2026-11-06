@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile virtual card enrollment bottom sheet delegate implementation
+// summary: Implements the mobile bottom sheet delegate that surfaces virtual card enrollment UI data such as card labels, icons and legal messages from the enrollment controller.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_virtual_card_enrollment_bottom_sheet_delegate_mobile.h"
 
 #include <string>

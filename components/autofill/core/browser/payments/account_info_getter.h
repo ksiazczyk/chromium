@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountInfoGetter interface for payments server account info
+// summary: Declares an interface that supplies the account info and sync-enabled status used when communicating with the Payments server.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_ACCOUNT_INFO_GETTER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_ACCOUNT_INFO_GETTER_H_
 

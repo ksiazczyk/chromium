@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BnplUtil unit tests
+// summary: Unit tests for BNPL utility helpers, covering issuer eligibility, sorting, and platform-specific issuer selection text.
+// ---
+
 #include "components/autofill/core/browser/payments/bnpl_util.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI permission utility implementation
+// summary: Implements permission checks for Autofill AI actions, covering feature flags, sign-in, sync settings, country and Wallet eligibility, with debug output of failure reasons.
+// ---
+
 #include "components/autofill/core/browser/permissions/autofill_ai/autofill_ai_permission_util.h"
 
 #include <algorithm>

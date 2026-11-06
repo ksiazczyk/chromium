@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card access manager mandatory reauth tests
+// summary: Unit tests covering mandatory reauthentication behavior when accessing credit cards, mocking the mandatory reauth manager across platforms and pref states.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/notimplemented.h"
 #include "base/strings/utf_string_conversions.h"

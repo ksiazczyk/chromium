@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full card request implementation
+// summary: Implements FullCardRequest, which retrieves full card details including PAN and CVC via unmask prompts, FIDO, and virtual card flows.
+// ---
+
 #include "components/autofill/core/browser/payments/full_card_request.h"
 
 #include <memory>

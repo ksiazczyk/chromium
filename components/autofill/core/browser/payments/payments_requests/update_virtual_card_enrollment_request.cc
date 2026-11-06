@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateVirtualCardEnrollmentRequest implementation
+// summary: Implements the payments request that enrolls or unenrolls a credit card for virtual card numbers, building JSON bodies and parsing enroll results.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/update_virtual_card_enrollment_request.h"
 
 #include <optional>

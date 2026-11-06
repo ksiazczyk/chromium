@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetWalletReminderNoticeRequest unit tests
+// summary: Unit tests verifying the wallet reminder notice request content and the parsing of the legal message, acknowledgement token and reminder flag.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_wallet_reminder_notice_request.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutofillSaveIbanUiInfo
+// summary: Unit tests checking that AutofillSaveIbanUiInfo factories set IBAN display values, titles, icons and texts for local and server saves under wallet branding features.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_save_iban_ui_info.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDataForAgentRequest class declaration
+// summary: Declares the PaymentsRequest subclass that retrieves card credentials Google Payments associated with an agent-approved opaque token.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_DATA_FOR_AGENT_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_DATA_FOR_AGENT_REQUEST_H_
 

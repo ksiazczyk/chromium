@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetCardUploadDetailsRequest implementation
+// summary: Implements the getdetailsforsavecard RPC that sends addresses and detected values to obtain details needed for uploading a card.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_card_upload_details_request.h"
 
 #include <stdint.h>

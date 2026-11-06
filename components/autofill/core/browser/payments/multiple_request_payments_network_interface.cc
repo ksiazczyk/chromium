@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiple request payments network interface implementation
+// summary: Implements issuing concurrent Payments RPCs for card creation, card updates and virtual card enrollment details.
+// ---
+
 #include "components/autofill/core/browser/payments/multiple_request_payments_network_interface.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card access manager risk-based authentication tests
+// summary: Unit tests exercising risk-based authentication flows for masked server card unmasking, including success, failure and metrics logging scenarios.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/metrics/histogram_tester.h"

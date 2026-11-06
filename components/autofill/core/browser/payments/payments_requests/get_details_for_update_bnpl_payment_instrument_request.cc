@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForUpdateBnplPaymentInstrumentRequest implementation
+// summary: Implements the payments RPC that fetches details for updating a BNPL payment instrument, building the JSON body and parsing the context token and legal message.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_details_for_update_bnpl_payment_instrument_request.h"
 
 #include <string>

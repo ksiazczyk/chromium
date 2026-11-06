@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetIbanUploadDetailsRequest unit tests
+// summary: Unit tests verifying the IBAN upload details request content and the parsing of the validation regex, context token, legal message and client behavior signals.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/get_iban_upload_details_request.h"
 
 #include "base/functional/callback_helpers.h"

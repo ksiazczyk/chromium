@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask delegate interface
+// summary: Defines the CardUnmaskDelegate interface carrying user-provided unmask details such as CVC and expiry, plus callbacks for prompt acceptance, cancellation and FIDO auth offers.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_CARD_UNMASK_DELEGATE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_CARD_UNMASK_DELEGATE_H_
 

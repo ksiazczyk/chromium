@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentsChurnedUsersManager unit tests
+// summary: Unit tests for PaymentsChurnedUsersManager covering UI show conditions, strike database blocking, preference states, and metrics logging.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_churned_users_manager.h"
 
 #include "base/functional/callback.h"

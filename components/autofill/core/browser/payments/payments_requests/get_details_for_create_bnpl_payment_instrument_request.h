@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetDetailsForCreateBnplPaymentInstrumentRequest header
+// summary: Declares the PaymentsRequest subclass that fetches details, context token and legal messages for creating a BNPL payment instrument via the Chrome Payments server.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_DETAILS_FOR_CREATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_DETAILS_FOR_CREATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_H_
 

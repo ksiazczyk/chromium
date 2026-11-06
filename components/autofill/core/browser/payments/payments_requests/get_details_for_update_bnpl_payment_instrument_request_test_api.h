@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetDetailsForUpdateBnplPaymentInstrumentRequest test API
+// summary: Test-only accessor exposing the request's context token and legal message for use in unit tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_DETAILS_FOR_UPDATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_TEST_API_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_PAYMENTS_REQUESTS_GET_DETAILS_FOR_UPDATE_BNPL_PAYMENT_INSTRUMENT_REQUEST_TEST_API_H_
 

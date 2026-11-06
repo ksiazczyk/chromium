@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BnplManager for buy-now-pay-later payment flows
+// summary: Declares BnplManager, which manages the buy-now-pay-later flow for completing a payment transaction, including issuer selection, ToS handling, and virtual card number fetching.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_BNPL_MANAGER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_BNPL_MANAGER_H_
 

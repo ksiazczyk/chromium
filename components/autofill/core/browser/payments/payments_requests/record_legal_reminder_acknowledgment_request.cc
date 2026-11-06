@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record legal reminder acknowledgment request implementation
+// summary: Implements the Payments request that reports the user's acknowledgment of the Wallet legal reminder notice.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/record_legal_reminder_acknowledgment_request.h"
 
 #include <string>

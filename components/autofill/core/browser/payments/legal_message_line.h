@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legal message line class declaration
+// summary: Declares LegalMessageLine, which parses legal message dictionaries into text lines with links for the payments UI.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_LEGAL_MESSAGE_LINE_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_LEGAL_MESSAGE_LINE_H_
 

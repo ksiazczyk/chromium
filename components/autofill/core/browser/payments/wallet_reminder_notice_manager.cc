@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice manager implementation
+// summary: Implements eligibility checks and the payments RPC flow for showing the Wallet Reminder Notice about saved payment instruments and public passes stored in Google Wallet.
+// ---
+
 #include "components/autofill/core/browser/payments/wallet_reminder_notice_manager.h"
 
 #include <algorithm>

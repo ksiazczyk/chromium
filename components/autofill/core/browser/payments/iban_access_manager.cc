@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IBAN access manager implementation
+// summary: Implements IbanAccessManager, which fetches full IBAN values for suggestions, handling server unmasking and device re-authentication.
+// ---
+
 #include "components/autofill/core/browser/payments/iban_access_manager.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop BNPL strategy unit tests
+// summary: Unit tests verifying the desktop buy-now-pay-later strategy's platform-specific actions for suggestion, unmask, and UI flows.
+// ---
+
 #include "components/autofill/core/browser/payments/desktop_bnpl_strategy.h"
 
 #include "base/test/scoped_feature_list.h"

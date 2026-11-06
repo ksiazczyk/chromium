@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill error dialog context header
+// summary: Declares the AutofillErrorDialogType enum and AutofillErrorDialogContext struct describing error dialogs for virtual cards, card retrieval, and BNPL flows.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_ERROR_DIALOG_CONTEXT_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_PAYMENTS_AUTOFILL_ERROR_DIALOG_CONTEXT_H_
 

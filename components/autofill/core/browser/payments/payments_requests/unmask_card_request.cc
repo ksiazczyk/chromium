@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unmask card request implementation
+// summary: Implements the Payments request that retrieves the real PAN, parsing challenge options and handling CVC or OTP payloads.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_requests/unmask_card_request.h"
 
 #include <stddef.h>

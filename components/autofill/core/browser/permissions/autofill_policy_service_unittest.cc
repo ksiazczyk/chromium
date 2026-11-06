@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill policy service unit tests
+// summary: Unit tests covering URL-pattern based blocking of Autofill data categories through the AutofillTypesBlocked enterprise policy and related preferences.
+// ---
+
 #include "components/autofill/core/browser/permissions/autofill_policy_service.h"
 
 #include <utility>

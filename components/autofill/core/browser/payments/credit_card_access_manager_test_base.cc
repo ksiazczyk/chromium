@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card access manager test base implementation
+// summary: Implements the shared test base class for CreditCardAccessManager unit tests, providing mock clock setup, a test accessor for fetched card data and common fixtures.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_access_manager_test_base.h"
 
 #include "base/functional/bind.h"

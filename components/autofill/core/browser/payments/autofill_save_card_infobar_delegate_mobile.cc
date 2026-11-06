@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile save card infobar delegate implementation
+// summary: Implements the mobile infobar delegate that adapts save card UI info and delegate actions to the ConfirmInfoBarDelegate interface.
+// ---
+
 #include "components/autofill/core/browser/payments/autofill_save_card_infobar_delegate_mobile.h"
 
 #include <memory>

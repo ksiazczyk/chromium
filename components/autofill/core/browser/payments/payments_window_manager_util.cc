@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments window manager utilities
+// summary: Parses redirect URLs for VCN 3DS and BNPL popup flows and builds unmask request details and authentication responses for VCN 3DS.
+// ---
+
 #include "components/autofill/core/browser/payments/payments_window_manager_util.h"
 
 #include <string>
