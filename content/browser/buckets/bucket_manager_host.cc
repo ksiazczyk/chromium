@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketManagerHost implementation
+// summary: Implements the per-origin bucket manager host, validating bucket names and policies, opening buckets, and recording durability, persistence, quota, and expiration metrics.
+// ---
+
 #include "content/browser/buckets/bucket_manager_host.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteRegistrationTask implementation
+// summary: Implements the database task that deletes Background Fetch registration entries from the service worker database and removes the associated cache.
+// ---
+
 #include "content/browser/background_fetch/storage/delete_registration_task.h"
 
 #include <utility>

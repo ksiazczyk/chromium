@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advertisement client implementation for Web Bluetooth service
+// summary: Implements the advertisement, watch-advertisements, and scanning client classes that filter and forward Bluetooth advertising events to renderers.
+// ---
+
 #include "content/browser/bluetooth/advertisement_client.h"
 
 #include <algorithm>

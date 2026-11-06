@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Blob storage directory metadata
+summary: Declares the Blink>Storage>FileAPI monorail component, the storage-dev team email and the Buganizer component for the blob_storage directory.

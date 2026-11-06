@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advertisement client classes for Web Bluetooth service
+// summary: Declares the AdvertisementClient, WatchAdvertisementsClient, and ScanningClient classes used by the Web Bluetooth service to manage scanning sessions.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_ADVERTISEMENT_CLIENT_H_
 #define CONTENT_BROWSER_BLUETOOTH_ADVERTISEMENT_CLIENT_H_
 

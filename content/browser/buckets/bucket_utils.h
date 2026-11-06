@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bucket utilities header
+// summary: Declares the exported IsValidBucketName helper used to validate storage bucket names.
+// ---
+
 #ifndef CONTENT_BROWSER_BUCKETS_BUCKET_UTILS_H_
 #define CONTENT_BROWSER_BUCKETS_BUCKET_UTILS_H_
 

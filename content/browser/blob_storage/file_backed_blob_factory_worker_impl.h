@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileBackedBlobFactoryWorkerImpl class declaration
+// summary: Declares the worker variant of the file-backed blob factory bound per browser context and child process.
+// ---
+
 #ifndef CONTENT_BROWSER_BLOB_STORAGE_FILE_BACKED_BLOB_FACTORY_WORKER_IMPL_H_
 #define CONTENT_BROWSER_BLOB_STORAGE_FILE_BACKED_BLOB_FACTORY_WORKER_IMPL_H_
 

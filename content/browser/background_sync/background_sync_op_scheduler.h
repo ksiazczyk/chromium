@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync operation scheduler header
+// summary: Declares BackgroundSyncOpScheduler, a simplified CacheStorageScheduler that queues callbacks and runs them one at a time.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_OP_SCHEDULER_H_
 #define CONTENT_BROWSER_BACKGROUND_SYNC_BACKGROUND_SYNC_OP_SCHEDULER_H_
 

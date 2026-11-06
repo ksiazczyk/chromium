@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BTM service implementation
+// summary: Implements the per-profile BTM service that records bounces, classifies redirects, emits metrics, and deletes state for eligible sites.
+// ---
+
 #include "content/browser/btm/btm_service_impl.h"
 
 #include <memory>

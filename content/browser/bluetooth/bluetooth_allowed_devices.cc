@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth allowed devices implementation
+// summary: Implements tracking of allowed Bluetooth devices, their IDs, addresses, permitted services, and manufacturer data access per origin.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_allowed_devices.h"
 
 #include <string>

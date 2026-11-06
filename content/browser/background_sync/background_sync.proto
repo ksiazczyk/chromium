@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background sync registration protobuf definitions
+// summary: Defines proto2 enums and messages for persisting background sync registrations per origin.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

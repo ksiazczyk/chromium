@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mark registration for deletion task header
+// summary: Declares MarkRegistrationForDeletionTask, which marks background fetch registrations for deletion when parts of them may still be in use.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_MARK_REGISTRATION_FOR_DELETION_TASK_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_MARK_REGISTRATION_FOR_DELETION_TASK_H_
 

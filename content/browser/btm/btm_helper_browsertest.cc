@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BTM helper browser tests
+// summary: Browser tests exercising BTM tab helper behavior such as bounce detection and cookie blocking during real navigation flows.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

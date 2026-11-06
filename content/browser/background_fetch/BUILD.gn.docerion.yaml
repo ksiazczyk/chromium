@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Background Fetch GN build file
+summary: GN build configuration defining the background_fetch_proto proto_library target built from background_fetch.proto.

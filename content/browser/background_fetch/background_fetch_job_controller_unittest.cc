@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch job controller unit tests
+// summary: Unit tests for BackgroundFetchJobController covering request progress, completion, and abort handling with fake download items and a scheduler.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_job_controller.h"
 
 #include <map>

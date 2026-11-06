@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background fetch image helpers unit tests
+// summary: Unit tests covering the icon persistence size check and the PNG serialize and deserialize round trip of the background fetch image helpers.
+// ---
+
 #include "content/browser/background_fetch/storage/image_helpers.h"
 
 #include <memory>

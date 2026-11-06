@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileBackedBlobFactoryWorkerImpl unit tests
+// summary: Unit tests for worker-based file-backed blob registration, covering unreadable files and per-URL access contexts.
+// ---
+
 #include "content/browser/blob_storage/file_backed_blob_factory_worker_impl.h"
 
 #include <memory>

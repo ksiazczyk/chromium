@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileBackedBlobFactoryBase class declaration
+// summary: Declares the abstract base for registering file-backed blobs, resolving the current URL for file access checks.
+// ---
+
 #ifndef CONTENT_BROWSER_BLOB_STORAGE_FILE_BACKED_BLOB_FACTORY_BASE_H_
 #define CONTENT_BROWSER_BLOB_STORAGE_FILE_BACKED_BLOB_FACTORY_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database task base header
+// summary: Declares DatabaseTaskHost and DatabaseTask, the base classes for asynchronous service worker database transactions in background fetch storage.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_DATABASE_TASK_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_DATABASE_TASK_H_
 

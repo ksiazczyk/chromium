@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetInitializationDataTask implementation
+// summary: Implements the database task that gathers all stored Background Fetch data via subtasks so interrupted fetches can be resumed after browser start-up.
+// ---
+
 #include "content/browser/background_fetch/storage/get_initialization_data_task.h"
 
 #include "base/barrier_closure.h"

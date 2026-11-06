@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch test browser context
+// summary: Test browser context that supplies a mock Background Fetch delegate for unit tests.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_test_browser_context.h"
 
 #include <utility>

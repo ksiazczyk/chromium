@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch data manager implementation
+// summary: Implements the data manager that wraps the Service Worker database for persistent Background Fetch registration storage, running storage tasks for cleanup, creation, and queries.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_data_manager.h"
 
 #include <utility>

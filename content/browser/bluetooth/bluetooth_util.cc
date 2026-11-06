@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth scan filter utilities
+// summary: Implements helpers that compare Web Bluetooth LE scan filters for equality and match manufacturer data against data filter masks.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_util.h"
 
 namespace content {

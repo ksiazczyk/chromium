@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the background sync proto library
+summary: Defines the background_sync_proto GN target that compiles background_sync.proto.

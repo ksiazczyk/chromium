@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Storage Buckets directory
+summary: Lists the code owners for the buckets directory by referencing the shared storage OWNERS file and naming an additional owner.

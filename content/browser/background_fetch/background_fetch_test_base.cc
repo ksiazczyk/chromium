@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch test base
+// summary: Implements the shared test fixture that registers service workers and sets up storage for Background Fetch unit tests.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_test_base.h"
 
 #include <stdint.h>

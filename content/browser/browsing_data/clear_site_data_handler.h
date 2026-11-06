@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClearSiteDataHandler class header
+// summary: Declares the handler that parses the Clear-Site-Data header and delays resource loads until the browsing data deletion completes.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSING_DATA_CLEAR_SITE_DATA_HANDLER_H_
 #define CONTENT_BROWSER_BROWSING_DATA_CLEAR_SITE_DATA_HANDLER_H_
 

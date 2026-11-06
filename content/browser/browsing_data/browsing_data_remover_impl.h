@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowsingDataRemoverImpl class header
+// summary: Declares the content-layer implementation of BrowsingDataRemover that deletes cookies, storage, caches and other browsing data for a browser context.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSING_DATA_BROWSING_DATA_REMOVER_IMPL_H_
 #define CONTENT_BROWSER_BROWSING_DATA_BROWSING_DATA_REMOVER_IMPL_H_
 

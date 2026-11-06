@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch event dispatcher unit tests
+// summary: Unit tests for BackgroundFetchEventDispatcher verifying that completion and abort events are dispatched to service workers with correct registration data and failure reasons.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_event_dispatcher.h"
 
 #include <stdint.h>

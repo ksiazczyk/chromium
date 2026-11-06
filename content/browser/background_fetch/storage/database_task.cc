@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database task base implementation
+// summary: Implements the DatabaseTask base class, including subtask scheduling, quota checks, and storage version access.
+// ---
+
 #include "content/browser/background_fetch/storage/database_task.h"
 
 #include <string>

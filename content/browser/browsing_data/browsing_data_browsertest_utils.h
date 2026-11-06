@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test helper declarations for browsing data
+// summary: Declares a service worker activation observer and utility functions used by browsing data browser tests.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSING_DATA_BROWSING_DATA_BROWSERTEST_UTILS_H_
 #define CONTENT_BROWSER_BROWSING_DATA_BROWSING_DATA_BROWSERTEST_UTILS_H_
 

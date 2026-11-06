@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BtmStorage implementation
+// summary: Implements reading, writing and removal of BTM site and popup state in the BTM database, including time- and site-filtered event deletion.
+// ---
+
 #include "content/browser/btm/btm_storage.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage bucket clear-site-data tester implementation
+// summary: Test helper that creates and lists storage buckets via the quota manager proxy to exercise clear-site-data behavior for storage buckets.
+// ---
+
 #include "content/browser/browsing_data/storage_bucket_clear_site_data_tester.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background sync launcher implementation
+// summary: Implements the browser-wide singleton that fires background sync events and computes wakeup deltas.
+// ---
+
 #include "content/browser/background_sync/background_sync_launcher.h"
 
 #include <algorithm>

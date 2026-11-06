@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch registration notifier implementation
+// summary: Implements BackgroundFetchRegistrationNotifier, dispatching progress updates, completed request events, and records-unavailable notices to observers.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_registration_notifier.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketHost class declaration
+// summary: Declares the BucketHost class that implements a Storage Bucket object in the browser process, with instances owned by BucketManagerHost and tied to open mojo connections.
+// ---
+
 #ifndef CONTENT_BROWSER_BUCKETS_BUCKET_HOST_H_
 #define CONTENT_BROWSER_BUCKETS_BUCKET_HOST_H_
 

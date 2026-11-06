@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FileBackedBlobFactoryFrameImpl unit tests
+// summary: Unit tests for frame-based file-backed blob registration, covering unreadable files and scoped file access.
+// ---
+
 #include "content/browser/blob_storage/file_backed_blob_factory_frame_impl.h"
 
 #include "base/test/task_environment.h"

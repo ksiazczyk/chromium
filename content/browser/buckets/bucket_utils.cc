@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bucket name validation implementation
+// summary: Implements IsValidBucketName, which checks bucket names against the Storage Buckets naming rules for length and allowed characters.
+// ---
+
 #include "content/browser/buckets/bucket_utils.h"
 
 #include "base/strings/string_util.h"

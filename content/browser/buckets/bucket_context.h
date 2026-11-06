@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketContext interface
+// summary: Interface representing an execution context such as a RenderFrame or worker from which a storage bucket can be created and used, exposing storage key, permissions, and bucket services.
+// ---
+
 #ifndef CONTENT_BROWSER_BUCKETS_BUCKET_CONTEXT_H_
 #define CONTENT_BROWSER_BUCKETS_BUCKET_CONTEXT_H_
 

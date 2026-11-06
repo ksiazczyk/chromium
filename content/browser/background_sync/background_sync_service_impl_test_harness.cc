@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background sync service impl test harness implementation
+// summary: Implements the test harness that sets up service worker and background sync contexts with callback helpers for testing the background sync Mojo services.
+// ---
+
 #include "content/browser/background_sync/background_sync_service_impl_test_harness.h"
 
 #include <stdint.h>

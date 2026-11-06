@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bounce detector unit tests
+// summary: Unit tests for the bounce detector verifying bounce and event recording, redirect chains, and user gesture handling.
+// ---
+
 #include "content/browser/btm/btm_bounce_detector.h"
 
 #include <string_view>

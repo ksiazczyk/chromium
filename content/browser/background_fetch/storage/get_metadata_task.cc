@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetMetadataTask implementation
+// summary: Implements the database task that loads and validates the metadata proto of an active Background Fetch registration.
+// ---
+
 #include "content/browser/background_fetch/storage/get_metadata_task.h"
 
 #include <utility>

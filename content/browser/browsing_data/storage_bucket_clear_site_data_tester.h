@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage bucket clear-site-data tester header
+// summary: Declares StorageBucketClearSiteDataTester, a test helper for creating and querying storage buckets through a StoragePartition.
+// ---
+
 #ifndef CONTENT_BROWSER_BROWSING_DATA_STORAGE_BUCKET_CLEAR_SITE_DATA_TESTER_H_
 #define CONTENT_BROWSER_BROWSING_DATA_STORAGE_BUCKET_CLEAR_SITE_DATA_TESTER_H_
 

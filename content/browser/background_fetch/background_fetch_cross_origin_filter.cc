@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch cross-origin filter implementation
+// summary: Implements the CORS filter that inspects Access-Control-Allow-Origin and credentials headers to decide whether a response body may be exposed to the service worker.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_cross_origin_filter.h"
 
 #include <set>

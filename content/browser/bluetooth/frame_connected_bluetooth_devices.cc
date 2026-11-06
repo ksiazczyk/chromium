@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame connected Bluetooth devices implementation
+// summary: Implements per-frame tracking of GATT connections, mapping device IDs to connections and addresses, and updating the WebContents connected device count.
+// ---
+
 #include "content/browser/bluetooth/frame_connected_bluetooth_devices.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage partition code cache data remover implementation
+// summary: Removes JavaScript and WebAssembly code cache entries from a StoragePartition, filtered by URL predicate and time range.
+// ---
+
 #include "content/browser/browsing_data/storage_partition_code_cache_data_remover.h"
 
 #include "base/functional/bind.h"

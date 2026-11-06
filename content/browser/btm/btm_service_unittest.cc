@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BTM service unit tests
+// summary: Unit tests for BtmServiceImpl covering service creation, bounce recording, redirect handling, and state deletion behavior.
+// ---
+
 #include "content/public/browser/btm_service.h"
 
 #include <optional>

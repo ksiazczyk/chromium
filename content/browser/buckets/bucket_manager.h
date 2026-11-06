@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketManager class declaration
+// summary: Declares the BucketManager that owns BucketManagerHost instances per origin within a StoragePartition so frames and workers can be notified when a bucket is deleted.
+// ---
+
 #ifndef CONTENT_BROWSER_BUCKETS_BUCKET_MANAGER_H_
 #define CONTENT_BROWSER_BUCKETS_BUCKET_MANAGER_H_
 

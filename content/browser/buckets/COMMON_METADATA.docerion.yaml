@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for the Storage Buckets directory
+summary: Defines tracking metadata for the buckets directory, including the Blink>Storage>Buckets monorail component, the storage-dev team email, and a Buganizer component ID.

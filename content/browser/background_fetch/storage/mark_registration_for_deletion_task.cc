@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mark registration for deletion task implementation
+// summary: Implements the task that deactivates a background fetch registration in service worker storage and optionally inspects completed requests for failures.
+// ---
+
 #include "content/browser/background_fetch/storage/mark_registration_for_deletion_task.h"
 
 #include <utility>

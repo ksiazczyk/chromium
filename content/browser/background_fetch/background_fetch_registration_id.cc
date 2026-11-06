@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch registration ID implementation
+// summary: Implements BackgroundFetchRegistrationId constructors, equality, and ordering based on the unique ID, plus a null-state check.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_registration_id.h"
 
 #include <tuple>

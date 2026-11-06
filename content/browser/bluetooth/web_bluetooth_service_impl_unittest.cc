@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Bluetooth service unit tests
+// summary: Unit tests for WebBluetoothServiceImpl covering GATT operations, notifications, and scanning behavior with mock Bluetooth objects.
+// ---
+
 #include "content/browser/bluetooth/web_bluetooth_service_impl.h"
 
 #include <optional>

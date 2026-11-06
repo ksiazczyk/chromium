@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookieAccessFilter implementation
+// summary: Implements CookieAccessFilter, which matches recorded cookie accesses to URLs in a redirect chain for bounce tracking mitigation.
+// ---
+
 #include "content/browser/btm/cookie_access_filter.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetRegistrationTask implementation
+// summary: Implements the database task that converts stored Background Fetch metadata into registration ID and registration data for callers.
+// ---
+
 #include "content/browser/background_fetch/storage/get_registration_task.h"
 
 #include "base/functional/bind.h"

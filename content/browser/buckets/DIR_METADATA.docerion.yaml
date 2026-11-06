@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Storage Buckets directory
+summary: Directory metadata file that mixes in the common bucket metadata and links to documentation for the dirmd tool and metadata schema.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieAccessFilter unit tests
+// summary: Unit tests for CookieAccessFilter covering access type combination, URL matching, coalescing, and unknown-result handling.
+// ---
+
 #include "content/browser/btm/cookie_access_filter.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

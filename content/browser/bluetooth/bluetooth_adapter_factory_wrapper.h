@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth adapter factory wrapper header
+// summary: Declares the BluetoothAdapterFactoryWrapper that manages adapter acquisition and observer registration, including test adapter overrides.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_ADAPTER_FACTORY_WRAPPER_H_
 #define CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_ADAPTER_FACTORY_WRAPPER_H_
 

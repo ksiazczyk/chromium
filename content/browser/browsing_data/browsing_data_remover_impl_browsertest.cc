@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingDataRemoverImpl browser tests
+// summary: Browser tests verifying that the browsing data remover clears cookies, HSTS, HTTP auth, GPU cache, prefetch and prerender data.
+// ---
+
 #include <memory>
 #include <optional>
 

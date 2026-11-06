@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame connected Bluetooth devices unit tests
+// summary: Unit tests exercising connection insertion, lookup, closing by ID or address, and connected device counting across frames using mock Bluetooth adapter and device objects.
+// ---
+
 #include "content/browser/bluetooth/frame_connected_bluetooth_devices.h"
 
 #include <tuple>

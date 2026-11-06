@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BtmState implementation
+// summary: Implements the per-site BTM state object that records user activation, bounce and WebAuthn assertion timestamp ranges and flushes changes to storage.
+// ---
+
 #include "content/browser/btm/btm_state.h"
 
 #include "content/browser/btm/btm_storage.h"

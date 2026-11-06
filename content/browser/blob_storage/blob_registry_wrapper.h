@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob registry wrapper class
+// summary: Declares BlobRegistryWrapper, which lets StoragePartitionImpl own the blob registry on the UI thread while the implementation lives on the IO thread.
+// ---
+
 #ifndef CONTENT_BROWSER_BLOB_STORAGE_BLOB_REGISTRY_WRAPPER_H_
 #define CONTENT_BROWSER_BLOB_STORAGE_BLOB_REGISTRY_WRAPPER_H_
 

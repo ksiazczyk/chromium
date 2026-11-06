@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bluetooth pairing manager delegate interface
+// summary: Interface exposing device lookup, pairing, and GATT operations that the embedding Web Bluetooth service provides to the pairing manager.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_WEB_BLUETOOTH_PAIRING_MANAGER_DELEGATE_H_
 #define CONTENT_BROWSER_BLUETOOTH_WEB_BLUETOOTH_PAIRING_MANAGER_DELEGATE_H_
 

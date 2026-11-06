@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get request body task implementation
+// summary: Implements the database task that retrieves a background fetch request body from cache storage and returns it as a data pipe getter.
+// ---
+
 #include "content/browser/background_fetch/storage/get_request_body_task.h"
 
 #include "base/functional/bind.h"

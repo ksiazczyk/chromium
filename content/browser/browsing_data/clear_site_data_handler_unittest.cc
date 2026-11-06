@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clear-Site-Data handler unit tests
+// summary: Unit tests for ClearSiteDataHandler covering header parsing, clearing behavior and fuzz testing of header values.
+// ---
+
 #include "content/browser/browsing_data/clear_site_data_handler.h"
 
 #include <memory>

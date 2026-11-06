@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: BTM directory DEPS include rules
+summary: Defines per-file include rules allowing the BTM bounce detector browser test to include device/fido headers.

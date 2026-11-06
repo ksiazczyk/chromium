@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device scanning prompt controller header
+// summary: Declares the BluetoothDeviceScanningPromptController class that manages the scanning prompt lifecycle, prompt events, and device updates for a render frame.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_DEVICE_SCANNING_PROMPT_CONTROLLER_H_
 #define CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_DEVICE_SCANNING_PROMPT_CONTROLLER_H_
 

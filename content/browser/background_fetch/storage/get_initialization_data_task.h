@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GetInitializationDataTask class header
+// summary: Declares BackgroundFetchInitializationData and GetInitializationDataTask, which collect the data needed to create JobControllers and resume fetches after start-up.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_GET_INITIALIZATION_DATA_TASK_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_GET_INITIALIZATION_DATA_TASK_H_
 

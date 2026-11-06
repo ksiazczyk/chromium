@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Background sync directory metadata
+summary: Points this directory to the shared background_sync component metadata mixins.

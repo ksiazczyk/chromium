@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BTM test helpers header
+// summary: Declares shared BTM test utilities, including storage access scripts, redirect helpers and cookie and navigation observers.
+// ---
+
 #ifndef CONTENT_BROWSER_BTM_BTM_TEST_UTILS_H_
 #define CONTENT_BROWSER_BTM_BTM_TEST_UTILS_H_
 

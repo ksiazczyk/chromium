@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch data manager unit tests
+// summary: Extensive unit tests covering registration creation, matching, request bodies, deletion, and other data manager storage operations.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_data_manager.h"
 
 #include <memory>

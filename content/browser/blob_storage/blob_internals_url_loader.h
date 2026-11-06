@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob internals URL loader declarations
+// summary: Declares StartBlobInternalsURLLoader, which responds to blob internals requests using the blob storage context.
+// ---
+
 #ifndef CONTENT_BROWSER_BLOB_STORAGE_BLOB_INTERNALS_URL_LOADER_H_
 #define CONTENT_BROWSER_BLOB_STORAGE_BLOB_INTERNALS_URL_LOADER_H_
 

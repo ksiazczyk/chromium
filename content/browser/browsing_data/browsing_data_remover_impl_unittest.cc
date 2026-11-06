@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingDataRemoverImpl unit tests
+// summary: Unit tests for BrowsingDataRemoverImpl covering removal masks, filter builders, storage partitions and cookie deletion behavior.
+// ---
+
 #include "content/browser/browsing_data/browsing_data_remover_impl.h"
 
 #include <stddef.h>

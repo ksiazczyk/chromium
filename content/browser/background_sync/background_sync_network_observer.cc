@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync network observer implementation
+// summary: Implements BackgroundSyncNetworkObserver, which tracks network connection changes via NetworkConnectionTracker and notifies the manager when connectivity changes.
+// ---
+
 #include "content/browser/background_sync/background_sync_network_observer.h"
 
 #include "base/location.h"

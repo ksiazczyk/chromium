@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch event dispatcher implementation
+// summary: Implements dispatching of Background Fetch completion, success, fail, abort, and click events to the appropriate Service Worker.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_event_dispatcher.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Get request body task header
+// summary: Declares GetRequestBodyTask, a database task that looks up a fetch request in cache storage and exposes its body via a data pipe getter.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_GET_REQUEST_BODY_TASK_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_STORAGE_GET_REQUEST_BODY_TASK_H_
 

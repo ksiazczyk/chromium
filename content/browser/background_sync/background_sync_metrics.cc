@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync metrics implementation
+// summary: Records UMA histograms for background sync events and registrations, including start and result patterns, batch timing, batch size, and wakeup task outcomes.
+// ---
+
 #include "content/browser/background_sync/background_sync_metrics.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Bluetooth pairing manager unit tests
+// summary: Unit tests covering pairing flows for reads, writes, notifications, and PIN or passkey prompts using mock Bluetooth devices.
+// ---
+
 #include "content/browser/bluetooth/web_bluetooth_pairing_manager_impl.h"
 
 #include <optional>

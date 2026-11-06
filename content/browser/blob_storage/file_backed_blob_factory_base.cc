@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileBackedBlobFactoryBase implementation
+// summary: Implements shared file-backed blob registration with child process security checks and file access delegation.
+// ---
+
 #include "content/browser/blob_storage/file_backed_blob_factory_base.h"
 
 #include "base/functional/bind.h"

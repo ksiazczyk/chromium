@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Periodic Background Sync service implementation unit tests
+// summary: Unit tests for PeriodicBackgroundSyncServiceImpl covering periodic sync registration, unregistration, and fetching registrations through a Mojo test harness.
+// ---
+
 #include "content/browser/background_sync/periodic_background_sync_service_impl.h"
 
 #include "base/memory/raw_ptr.h"

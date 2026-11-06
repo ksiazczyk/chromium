@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Blob storage owners file
+summary: Delegates code ownership for the blob_storage directory to the owners of storage/browser/blob.

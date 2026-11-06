@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: BTM directory metadata
+summary: Maps the BTM directory to the Privacy>NavTracking issue tracker component, Buganizer ID, and team email.

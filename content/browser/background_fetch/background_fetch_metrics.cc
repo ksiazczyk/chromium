@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch UKM metrics recording
+// summary: Implements recording of BackgroundFetch UKM events, logging title, icon, download total, request count, and permission data for active frames.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_metrics.h"
 
 #include "content/browser/renderer_host/render_frame_host_impl.h"

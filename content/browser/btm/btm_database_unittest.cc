@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BTM database unit tests
+// summary: Unit tests for BtmDatabase covering writes, reads, filtering, expiry, and error histograms for in-memory and on-disk databases.
+// ---
+
 #include "content/browser/btm/btm_database.h"
 
 #include <cstdio>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-shot background sync service header
+// summary: Declares OneShotBackgroundSyncServiceImpl, the Mojo service handling one-shot background sync registration and queries per storage key.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_SYNC_ONE_SHOT_BACKGROUND_SYNC_SERVICE_IMPL_H_
 #define CONTENT_BROWSER_BACKGROUND_SYNC_ONE_SHOT_BACKGROUND_SYNC_SERVICE_IMPL_H_
 

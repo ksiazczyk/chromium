@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Background Fetch OWNERS
+summary: Lists the code owners for the background_fetch directory, also covering chrome and content common paths, with permission context files owned by the permissions team.

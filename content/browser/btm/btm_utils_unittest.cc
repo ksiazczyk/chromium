@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BTM utils unit tests
+// summary: Unit tests for BTM utility helpers covering TimestampRange updates, containment checks, and bounce delay bucketization.
+// ---
+
 #include "content/browser/btm/btm_utils.h"
 
 #include "base/time/time.h"

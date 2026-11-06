@@ -1,3 +1,9 @@
+---
+type: readme
+title: Storage Buckets
+summary: Overview of the browser-side Storage Buckets implementation, its relationship to the renderer and quota manager, and pointers to class comments and the design doc.
+---
+
 # Storage Buckets
 
 This folder contains the browser-side implementation of [Storage Buckets](

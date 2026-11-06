@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conditional cache deletion helper browser tests
+// summary: Browser tests verifying that ConditionalCacheDeletionHelper deletes only those cache entries that match the given condition.
+// ---
+
 #include "content/browser/browsing_data/conditional_cache_deletion_helper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothBlocklist unit tests
+// summary: Unit tests for the BluetoothBlocklist singleton covering UUID exclusions, value merging, abbreviated UUIDs, and manufacturer data filters.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_blocklist.h"
 
 #include "base/memory/raw_ref.h"

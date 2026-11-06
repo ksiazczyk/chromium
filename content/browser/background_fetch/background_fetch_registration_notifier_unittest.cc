@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch Registration Notifier Unit Test
+// summary: Unit tests for the background fetch registration notifier, verifying progress updates, completed request notifications and record availability for observers.
+// ---
+
 #include "content/browser/background_fetch/background_fetch_registration_notifier.h"
 
 #include <stdint.h>

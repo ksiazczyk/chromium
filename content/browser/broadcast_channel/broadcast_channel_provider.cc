@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BroadcastChannelProvider implementation
+// summary: Implements BroadcastChannelProvider, forwarding broadcast channel connection requests for a storage key to the BroadcastChannelService.
+// ---
+
 #include "content/browser/broadcast_channel/broadcast_channel_provider.h"
 #include "content/browser/broadcast_channel/broadcast_channel_service.h"
 

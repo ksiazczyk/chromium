@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the bluetooth_metrics_hash tool
+summary: Defines the bluetooth_metrics_hash executable target and its dependencies on base and the device Bluetooth components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceChooserController implementation
+// summary: Implements the device chooser flow, validating requestDevice options, running discovery sessions, and computing RSSI signal strength levels.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_device_chooser_controller.h"
 
 #include <set>

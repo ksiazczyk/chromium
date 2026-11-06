@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear site data utilities implementation
+// summary: Implements SiteDataClearer, which drives BrowsingDataRemover to delete cookies, storage and caches for an origin in response to Clear-Site-Data.
+// ---
+
 #include "content/public/browser/clear_site_data_utils.h"
 
 #include "base/functional/bind.h"

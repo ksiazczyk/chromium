@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background sync context implementation
+// summary: Implements the per-storage-partition context that creates and manages one-shot and periodic sync services.
+// ---
+
 #include "content/browser/background_sync/background_sync_context_impl.h"
 
 #include <utility>

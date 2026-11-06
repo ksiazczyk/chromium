@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob internals URL loader
+// summary: Implements the loader that serves the blob internals debug page as HTML with a content security policy over a Mojo data pipe.
+// ---
+
 #include "content/browser/blob_storage/blob_internals_url_loader.h"
 
 #include "base/byte_size.h"

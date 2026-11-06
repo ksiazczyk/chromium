@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame connected Bluetooth devices header
+// summary: Declares FrameConnectedBluetoothDevices, which stores GATT connections per render frame and provides APIs to insert, query, and close device connections.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_FRAME_CONNECTED_BLUETOOTH_DEVICES_H_
 #define CONTENT_BROWSER_BLUETOOTH_FRAME_CONNECTED_BLUETOOTH_DEVICES_H_
 

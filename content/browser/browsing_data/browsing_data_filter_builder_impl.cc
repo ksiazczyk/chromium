@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data filter builder implementation
+// summary: Builds URL, cookie, plugin, and storage key filters that match or exclude origins and registrable domains when clearing data.
+// ---
+
 #include "content/browser/browsing_data/browsing_data_filter_builder_impl.h"
 
 #include <functional>

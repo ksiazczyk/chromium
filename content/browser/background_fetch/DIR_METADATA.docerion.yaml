@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Background Fetch DIR_METADATA
+summary: Directory metadata file that pulls in the COMMON_METADATA mixins for the background_fetch folder.

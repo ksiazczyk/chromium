@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth adapter factory wrapper implementation
+// summary: Implements a singleton wrapper that acquires, releases, and overrides the system Bluetooth adapter for Web Bluetooth services.
+// ---
+
 #include "content/browser/bluetooth/bluetooth_adapter_factory_wrapper.h"
 
 #include <stddef.h>

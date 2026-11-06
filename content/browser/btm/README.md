@@ -1,3 +1,9 @@
+---
+type: readme
+title: Bounce Tracking Mitigations (BTM)
+summary: Explains Chromium's BTM feature, how bounce tracking works, how BTM detects and mitigates it, its goals and non-goals, and links to the spec and explainer.
+---
+
 # Bounce Tracking Mitigations (BTM)
 
 This directory contains the code for Chromium's Bounce Tracking Mitigation (BTM)

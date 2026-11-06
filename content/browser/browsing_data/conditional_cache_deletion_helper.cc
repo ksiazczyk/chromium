@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conditional cache deletion helper implementation
+// summary: Implements iteration over disk cache entries and deletion of those matching a URL and time range condition, destroying itself when finished.
+// ---
+
 #include "content/browser/browsing_data/conditional_cache_deletion_helper.h"
 
 #include "base/functional/bind.h"

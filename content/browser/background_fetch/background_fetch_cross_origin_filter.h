@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Fetch cross-origin filter header
+// summary: Declares BackgroundFetchCrossOriginFilter, which applies CORS rules based on the request source origin and response headers to determine body population.
+// ---
+
 #ifndef CONTENT_BROWSER_BACKGROUND_FETCH_BACKGROUND_FETCH_CROSS_ORIGIN_FILTER_H_
 #define CONTENT_BROWSER_BACKGROUND_FETCH_BACKGROUND_FETCH_CROSS_ORIGIN_FILTER_H_
 

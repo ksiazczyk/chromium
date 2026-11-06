@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database helpers implementation
+// summary: Implements helpers that build background fetch database keys and map service worker status codes to database statuses.
+// ---
+
 #include "content/browser/background_fetch/storage/database_helpers.h"
 
 #include <string_view>

@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: BroadcastChannelService implementation
+// summary: Implements BroadcastChannelService and its Connection class, routing BroadcastChannel messages between connections sharing a storage key and channel name.
+// ---
+
 #include "content/browser/broadcast_channel/broadcast_channel_service.h"
 
 #include "base/functional/bind.h"

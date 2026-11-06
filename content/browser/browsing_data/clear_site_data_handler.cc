@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear-Site-Data header handler implementation
+// summary: Parses the Clear-Site-Data header on navigations, records usage histograms, logs console messages, and triggers clearing of the requested data types.
+// ---
+
 #include "content/browser/browsing_data/clear_site_data_handler.h"
 
 #include <algorithm>

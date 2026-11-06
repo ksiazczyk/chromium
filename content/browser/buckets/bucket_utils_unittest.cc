@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bucket name validation unit tests
+// summary: Tests IsValidBucketName with cases for empty, overly long, and invalidly formatted names plus one valid name.
+// ---
+
 #include "content/browser/buckets/bucket_utils.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

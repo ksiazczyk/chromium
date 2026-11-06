@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BucketHost implementation
+// summary: Implements the browser-side Storage Bucket mojo service, handling persistence, estimates, durability, expiry, and access to IndexedDB, lock manager, CacheStorage, and sandboxed file systems.
+// ---
+
 #include "content/browser/buckets/bucket_host.h"
 
 #include "base/functional/bind.h"

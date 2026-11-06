@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Bluetooth metrics declarations
+// summary: Declares cache query and GATT outcome enums plus recording functions for Web Bluetooth usage metrics such as requestDevice, connectGATT, and characteristic and descriptor queries.
+// ---
+
 #ifndef CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_METRICS_H_
 #define CONTENT_BROWSER_BLUETOOTH_BLUETOOTH_METRICS_H_
 
