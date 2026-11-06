@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse shape pump unit tests
+// summary: Unit tests verifying that MouseShapePump sends cursor shapes and cursor positions to the mocked client stub.
+// ---
+
 #include "remoting/host/mouse_shape_pump.h"
 
 #include <memory>

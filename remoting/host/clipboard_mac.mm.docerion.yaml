@@ -1,0 +1,4 @@
+# Docerion header of clipboard_mac.mm.
+type: source
+title: macOS clipboard implementation
+summary: Implements the Clipboard interface on macOS using Cocoa NSPasteboard with change notifications and UTF-8 text handling.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows audio capturer class declaration
+// summary: Declares AudioCapturerWin, the WASAPI-based AudioCapturer for Windows that supports up to eight audio channels.
+// ---
+
 #ifndef REMOTING_HOST_AUDIO_CAPTURER_WIN_H_
 #define REMOTING_HOST_AUDIO_CAPTURER_WIN_H_
 

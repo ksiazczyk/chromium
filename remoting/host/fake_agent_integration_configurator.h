@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake agent integration configurator header
+// summary: Declares a fake AgentIntegrationConfigurator that always responds with false, for use in tests.
+// ---
+
 #ifndef REMOTING_HOST_FAKE_AGENT_INTEGRATION_CONFIGURATOR_H_
 #define REMOTING_HOST_FAKE_AGENT_INTEGRATION_CONFIGURATOR_H_
 

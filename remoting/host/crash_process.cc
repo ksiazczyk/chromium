@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash process helper implementation
+// summary: Implements CrashProcess functions that deliberately crash the process while logging the requesting function, file and line.
+// ---
+
 #include "remoting/host/crash_process.h"
 
 #include "base/debug/alias.h"

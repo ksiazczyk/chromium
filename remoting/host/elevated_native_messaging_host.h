@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevated native messaging host class declaration
+// summary: Declares the class that manages the creation, lifetime, timeout and messaging of an elevated native messaging host process.
+// ---
+
 #ifndef REMOTING_HOST_ELEVATED_NATIVE_MESSAGING_HOST_H_
 #define REMOTING_HOST_ELEVATED_NATIVE_MESSAGING_HOST_H_
 

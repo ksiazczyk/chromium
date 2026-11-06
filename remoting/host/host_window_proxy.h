@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostWindowProxy class declaration
+// summary: Declares HostWindowProxy, which runs a HostWindow instance on the UI thread while being controlled from the caller's task runner.
+// ---
+
 #ifndef REMOTING_HOST_HOST_WINDOW_PROXY_H_
 #define REMOTING_HOST_HOST_WINDOW_PROXY_H_
 

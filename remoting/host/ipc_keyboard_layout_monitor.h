@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcKeyboardLayoutMonitor class header
+// summary: Declares IpcKeyboardLayoutMonitor, which monitors the active keyboard layout in the CRD host session and invokes a callback whenever it changes.
+// ---
+
 #ifndef REMOTING_HOST_IPC_KEYBOARD_LAYOUT_MONITOR_H_
 #define REMOTING_HOST_IPC_KEYBOARD_LAYOUT_MONITOR_H_
 

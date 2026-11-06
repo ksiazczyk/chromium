@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac audio capturer implementation
+// summary: Implements the macOS AudioCapturer using an AudioQueue loopback device to capture system audio and to enumerate available audio devices.
+// ---
+
 #include "remoting/host/audio_capturer_mac.h"
 
 #include <memory>

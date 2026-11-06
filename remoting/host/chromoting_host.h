@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host class declaration
+// summary: Declares ChromotingHost, which listens for incoming connections, manages client sessions, and coordinates screen recording and input injection.
+// ---
+
 #ifndef REMOTING_HOST_CHROMOTING_HOST_H_
 #define REMOTING_HOST_CHROMOTING_HOST_H_
 

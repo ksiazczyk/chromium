@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash process helper declarations
+// summary: Declares CrashProcess overloads for intentionally crashing the process with location details.
+// ---
+
 #ifndef REMOTING_HOST_CRASH_PROCESS_H_
 #define REMOTING_HOST_CRASH_PROCESS_H_
 

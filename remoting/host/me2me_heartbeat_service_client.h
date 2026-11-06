@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me heartbeat service client header
+// summary: Declares Me2MeHeartbeatServiceClient, the HeartbeatServiceClient implementation used by public Me2Me hosts to send heartbeats to the directory service.
+// ---
+
 #ifndef REMOTING_HOST_ME2ME_HEARTBEAT_SERVICE_CLIENT_H_
 #define REMOTING_HOST_ME2ME_HEARTBEAT_SERVICE_CLIENT_H_
 

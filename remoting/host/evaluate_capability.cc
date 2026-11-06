@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host capability evaluation
+// summary: Evaluates host capabilities locally or by launching the host binary in a separate process and returning its exit code and output.
+// ---
+
 #include "remoting/host/evaluate_capability.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffTimer implementation
+// summary: Implements BackoffTimer, which runs a user task repeatedly with delays that double from an initial value up to a maximum.
+// ---
+
 #include "remoting/host/backoff_timer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC URL forwarder configurator header
+// summary: Declares IpcUrlForwarderConfigurator, a UrlForwarderConfigurator implementation that forwards calls to a DesktopSessionProxy.
+// ---
+
 #ifndef REMOTING_HOST_IPC_URL_FORWARDER_CONFIGURATOR_H_
 #define REMOTING_HOST_IPC_URL_FORWARDER_CONFIGURATOR_H_
 

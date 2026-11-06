@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopSessionAgent implementation
+// summary: Implements the desktop-process agent providing screen and audio capture, input injection, clipboard forwarding and IPC to the network process.
+// ---
+
 #include "remoting/host/desktop_session_agent.h"
 
 #include <cstdint>

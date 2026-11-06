@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpHostStatusLogger implementation
+// summary: Reports host session disconnect events and status changes to the corp logging service for Remote Access and Remote Support hosts.
+// ---
+
 #include "remoting/host/corp_host_status_logger.h"
 
 #include <memory>

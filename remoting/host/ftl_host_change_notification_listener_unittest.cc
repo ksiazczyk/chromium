@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTL host change notification listener unit tests
+// summary: Unit tests covering valid host-deleted notifications, non-system senders, and callback behavior after the listener object is deleted.
+// ---
+
 #include "remoting/host/ftl_host_change_notification_listener.h"
 
 #include <set>

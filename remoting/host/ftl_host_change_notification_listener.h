@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL host change notification listener
+// summary: Declares a listener that watches for backend notifications about host directory changes and invokes a callback to shut the host down when it is deleted.
+// ---
+
 #ifndef REMOTING_HOST_FTL_HOST_CHANGE_NOTIFICATION_LISTENER_H_
 #define REMOTING_HOST_FTL_HOST_CHANGE_NOTIFICATION_LISTENER_H_
 

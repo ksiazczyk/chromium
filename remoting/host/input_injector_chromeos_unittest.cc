@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputInjectorChromeos unit tests
+// summary: Unit tests for InputInjectorChromeos verifying cursor moves, mouse clicks, and display mapping using a fake system input injector.
+// ---
+
 #include "remoting/host/input_injector_chromeos.h"
 
 #include "ash/shell.h"

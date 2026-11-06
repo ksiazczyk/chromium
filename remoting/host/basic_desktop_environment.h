@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BasicDesktopEnvironment header
+// summary: Declares BasicDesktopEnvironment, the DesktopEnvironment implementation that creates capturers, injectors, and monitors for the local console.
+// ---
+
 #ifndef REMOTING_HOST_BASIC_DESKTOP_ENVIRONMENT_H_
 #define REMOTING_HOST_BASIC_DESKTOP_ENVIRONMENT_H_
 

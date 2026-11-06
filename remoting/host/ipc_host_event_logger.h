@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC host event logger header
+// summary: Declares IpcHostEventLogger, which observes host status events and reports them over IPC to the daemon.
+// ---
+
 #ifndef REMOTING_HOST_IPC_HOST_EVENT_LOGGER_H_
 #define REMOTING_HOST_IPC_HOST_EVENT_LOGGER_H_
 

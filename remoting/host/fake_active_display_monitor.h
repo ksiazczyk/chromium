@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake active display monitor declaration
+// summary: Declares a fake ActiveDisplayMonitor that reports a set active display through its callback.
+// ---
+
 #ifndef REMOTING_HOST_FAKE_ACTIVE_DISPLAY_MONITOR_H_
 #define REMOTING_HOST_FAKE_ACTIVE_DISPLAY_MONITOR_H_
 

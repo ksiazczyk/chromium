@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake desktop environment implementation
+// summary: Implements fake desktop environment classes that record injected input events and provide stub capturers, screen controls and monitors for testing.
+// ---
+
 #include "remoting/host/fake_desktop_environment.h"
 
 #include <cstdint>

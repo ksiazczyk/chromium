@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heartbeat sender implementation
+// summary: Implements periodic heartbeats to the directory service, including reporting a host offline reason and applying backoff on failures.
+// ---
+
 #include "remoting/host/heartbeat_sender.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux pairing registry delegate implementation
+// summary: Implements the Linux pairing registry delegate that loads, saves and deletes paired-client JSON files, including unprivileged file handling.
+// ---
+
 #include "remoting/host/pairing_registry_delegate_linux.h"
 
 #include <unistd.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host attributes implementation
+// summary: Builds a comma-separated string of host attributes such as build type, branding, multi-process mode and platform capabilities for reporting.
+// ---
+
 #include "remoting/host/host_attributes.h"
 
 #include <string>

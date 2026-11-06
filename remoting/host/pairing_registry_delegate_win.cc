@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows pairing registry delegate implementation
+// summary: Implements the Windows pairing registry delegate that stores client pairing data, including shared secrets, in Windows registry keys.
+// ---
+
 #include "remoting/host/pairing_registry_delegate_win.h"
 
 #include <windows.h>

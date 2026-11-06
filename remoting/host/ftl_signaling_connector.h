@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL signaling connector
+// summary: Declares a connector that keeps FTL signaling connected by retrying with backoff, reacting to network changes, and reporting authentication failures.
+// ---
+
 #ifndef REMOTING_HOST_FTL_SIGNALING_CONNECTOR_H_
 #define REMOTING_HOST_FTL_SIGNALING_CONNECTOR_H_
 

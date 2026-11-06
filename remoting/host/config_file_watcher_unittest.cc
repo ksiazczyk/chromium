@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Config file watcher unit tests
+// summary: Unit tests verifying that the config file watcher delivers initial and update notifications for the host configuration file.
+// ---
+
 #include "remoting/host/config_file_watcher.h"
 
 #include <memory>

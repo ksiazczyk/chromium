@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC audio capturer declaration
+// summary: Declares IpcAudioCapturer, an AudioCapturer that receives audio packets from the desktop session agent over IPC.
+// ---
+
 #ifndef REMOTING_HOST_IPC_AUDIO_CAPTURER_H_
 #define REMOTING_HOST_IPC_AUDIO_CAPTURER_H_
 

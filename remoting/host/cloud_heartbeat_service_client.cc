@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud heartbeat service client implementation
+// summary: Sends full and lite heartbeats and host status updates to the cloud remote access service using OAuth and instance identity tokens.
+// ---
+
 #include "remoting/host/cloud_heartbeat_service_client.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for capability evaluation
+// summary: Tests that EvaluateCapability returns the expected exit codes and normalized output for test, success and crash capability types.
+// ---
+
 #include "remoting/host/evaluate_capability.h"
 
 #include "base/strings/string_util.h"

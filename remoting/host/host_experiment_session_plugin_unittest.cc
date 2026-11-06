@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host experiment session plugin unit tests
+// summary: Unit tests covering attribute attachment, configuration loading, and ignoring of repeated configuration messages.
+// ---
+
 #include "remoting/host/host_experiment_session_plugin.h"
 
 #include <memory>

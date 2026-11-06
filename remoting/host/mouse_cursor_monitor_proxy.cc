@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse cursor monitor proxy implementation
+// summary: Proxies a webrtc MouseCursorMonitor on a capture thread, forwarding cursor events to the caller's task runner.
+// ---
+
 #include "remoting/host/mouse_cursor_monitor_proxy.h"
 
 #include <memory>

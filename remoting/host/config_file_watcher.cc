@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host config file watcher
+// summary: Watches the host configuration file for changes and notifies a delegate of updates or read errors on the main thread.
+// ---
+
 #include "remoting/host/config_file_watcher.h"
 
 #include <memory>

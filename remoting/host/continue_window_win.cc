@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows continue window implementation
+// summary: Windows implementation of ContinueWindow using a Win32 dialog with continue and cancel buttons.
+// ---
+
 #include "remoting/host/continue_window.h"
 
 #include <windows.h>

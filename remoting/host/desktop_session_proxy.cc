@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopSessionProxy implementation
+// summary: Implements the network-process proxy that routes capture, input, screen control and file operations to the DesktopSessionAgent over IPC.
+// ---
+
 #include "remoting/host/desktop_session_proxy.h"
 
 #include <stddef.h>

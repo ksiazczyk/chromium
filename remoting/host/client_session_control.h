@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client session control interface
+// summary: Interface letting the desktop environment disconnect the client session and control remote input handling.
+// ---
+
 #ifndef REMOTING_HOST_CLIENT_SESSION_CONTROL_H_
 #define REMOTING_HOST_CLIENT_SESSION_CONTROL_H_
 

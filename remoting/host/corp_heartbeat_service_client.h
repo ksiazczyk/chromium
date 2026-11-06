@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpHeartbeatServiceClient header
+// summary: Declares the CorpHeartbeatServiceClient class, a HeartbeatServiceClient implementation used for Corp hosts.
+// ---
+
 #ifndef REMOTING_HOST_CORP_HEARTBEAT_SERVICE_CLIENT_H_
 #define REMOTING_HOST_CORP_HEARTBEAT_SERVICE_CLIENT_H_
 

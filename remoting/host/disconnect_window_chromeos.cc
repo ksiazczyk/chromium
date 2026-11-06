@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS disconnect window implementation
+// summary: Implements the ChromeOS disconnect window using the ash system tray notifier to start and stop remote screen sharing.
+// ---
+
 #include <memory>
 #include <string>
 

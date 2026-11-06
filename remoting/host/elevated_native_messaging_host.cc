@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevated native messaging host implementation
+// summary: Implements the class that launches an elevated native messaging host process and relays messages to it over a pipe channel.
+// ---
+
 #include "remoting/host/elevated_native_messaging_host.h"
 
 #include <memory>

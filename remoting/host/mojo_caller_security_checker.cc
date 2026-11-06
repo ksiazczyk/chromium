@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo caller security checker implementation
+// summary: Verifies that a named Mojo IPC caller is a trusted endpoint using platform-specific allowlists of program names and Windows session user SID validation.
+// ---
+
 #include "remoting/host/mojo_caller_security_checker.h"
 
 #include <memory>

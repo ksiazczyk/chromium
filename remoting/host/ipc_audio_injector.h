@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC audio injector header
+// summary: Declares the IpcAudioInjector class that forwards AudioInjector calls via IPC to the DesktopSessionAgent in the desktop integration process.
+// ---
+
 #ifndef REMOTING_HOST_IPC_AUDIO_INJECTOR_H_
 #define REMOTING_HOST_IPC_AUDIO_INJECTOR_H_
 

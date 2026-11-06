@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake mouse cursor monitor implementation
+// summary: Implements a fake mouse cursor monitor that stores the callback and ignores preferred capture intervals.
+// ---
+
 #include "remoting/host/fake_mouse_cursor_monitor.h"
 
 #include <memory>

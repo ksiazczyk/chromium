@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegating desktop display info monitor implementation
+// summary: Implements a DesktopDisplayInfoMonitor that delegates to an underlying monitor while keeping its own started state and callbacks.
+// ---
+
 #include "remoting/host/delegating_desktop_display_info_monitor.h"
 
 #include <optional>

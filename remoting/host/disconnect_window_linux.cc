@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux disconnect window implementation
+// summary: Implements the GTK-based Linux disconnect window with rounded drawing, alignment toggling, position tracking, and periodic re-raising above fullscreen apps.
+// ---
+
 #include <gtk/gtk.h>
 
 #include <algorithm>

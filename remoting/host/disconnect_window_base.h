@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disconnect window base class declaration
+// summary: Declares DisconnectWindowBase, providing alignment, cooldown, disconnect handling, and repositioning state shared by platform-specific disconnect windows.
+// ---
+
 #ifndef REMOTING_HOST_DISCONNECT_WINDOW_BASE_H_
 #define REMOTING_HOST_DISCONNECT_WINDOW_BASE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of desktop_display_info_loader_mac.mm.
+type: source
+title: Mac desktop display info loader
+summary: Implements DesktopDisplayInfoLoader for macOS using NSScreen, converting display origins from the lower-left to the upper-left coordinate convention.

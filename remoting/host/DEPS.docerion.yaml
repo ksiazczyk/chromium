@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for remoting host
+summary: Specifies allowed include dependencies for the remoting host directory, with extra rules for tests and platform-specific files.

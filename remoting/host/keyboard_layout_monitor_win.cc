@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows keyboard layout monitor implementation
+// summary: Polls the Windows keyboard layout on an input thread once per second and reports layout changes through a callback.
+// ---
+
 #include "remoting/host/keyboard_layout_monitor.h"
 
 #include <windows.h>

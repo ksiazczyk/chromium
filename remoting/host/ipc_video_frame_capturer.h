@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC video frame capturer header
+// summary: Declares IpcVideoFrameCapturer, which proxies desktop capture commands and events across the IPC channel to the desktop process.
+// ---
+
 #ifndef REMOTING_HOST_IPC_VIDEO_FRAME_CAPTURER_H_
 #define REMOTING_HOST_IPC_VIDEO_FRAME_CAPTURER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputInjector interface
+// summary: Declares the InputInjector interface for platform-specific injection of keyboard, mouse, touch, and clipboard events on the host.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_INJECTOR_H_
 #define REMOTING_HOST_INPUT_INJECTOR_H_
 

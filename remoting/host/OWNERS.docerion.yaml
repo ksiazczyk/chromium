@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for event reporter files
+summary: Delegates ownership of event reporter files to the components/reporting OWNERS file.

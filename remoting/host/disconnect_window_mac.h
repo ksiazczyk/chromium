@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac disconnect window class declaration
+// summary: Declares DisconnectWindowMac and its Cocoa controller for the macOS disconnect dialog, including auto-hide behavior driven by local input monitoring.
+// ---
+
 #ifndef REMOTING_HOST_DISCONNECT_WINDOW_MAC_H_
 #define REMOTING_HOST_DISCONNECT_WINDOW_MAC_H_
 

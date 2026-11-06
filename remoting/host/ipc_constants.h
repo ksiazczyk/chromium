@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC constants header
+// summary: Declares shared IPC constants such as binary names, message pipe IDs, and server name accessor functions for host services.
+// ---
+
 #ifndef REMOTING_HOST_IPC_CONSTANTS_H_
 #define REMOTING_HOST_IPC_CONSTANTS_H_
 

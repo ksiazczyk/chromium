@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host context interface
+// summary: Declares ChromotingHostContext, a virtual class managing threads and running context for the chromoting host process with platform specialization.
+// ---
+
 #ifndef REMOTING_HOST_CHROMOTING_HOST_CONTEXT_H_
 #define REMOTING_HOST_CHROMOTING_HOST_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopResizerProxy
+// summary: Header for a DesktopResizer wrapper that delegates resolution calls to a weakly-held DesktopResizer and no-ops once it is invalidated.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_RESIZER_PROXY_H_
 #define REMOTING_HOST_DESKTOP_RESIZER_PROXY_H_
 

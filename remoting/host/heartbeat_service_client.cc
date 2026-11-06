@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heartbeat service client base implementation
+// summary: Implements the HeartbeatServiceClient base class, providing a common error handler that reports failed heartbeat responses back to callers.
+// ---
+
 #include "remoting/host/heartbeat_service_client.h"
 
 #include <optional>

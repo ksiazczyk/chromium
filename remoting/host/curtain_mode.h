@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Curtain mode interface
+// summary: Declares the CurtainMode interface with a platform-specific Create factory to hide the session from the local console.
+// ---
+
 #ifndef REMOTING_HOST_CURTAIN_MODE_H_
 #define REMOTING_HOST_CURTAIN_MODE_H_
 

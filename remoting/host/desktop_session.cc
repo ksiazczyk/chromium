@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopSession
+// summary: Implements the DesktopSession base class that binds Mojo receivers and closes desktop sessions through the owning DaemonProcess.
+// ---
+
 #include "remoting/host/desktop_session.h"
 
 #include "base/functional/bind.h"

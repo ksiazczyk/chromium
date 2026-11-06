@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux daemon process implementation
+// summary: Linux-specific DaemonProcess implementation that launches the network process and creates Linux desktop sessions.
+// ---
+
 #include "remoting/host/daemon_process.h"
 
 #include <signal.h>

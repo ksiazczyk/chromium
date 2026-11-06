@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS curtain mode implementation
+// summary: Implements ChromeOS curtain mode using the ash security curtain controller, muting audio and disabling camera access.
+// ---
+
 #include "remoting/host/curtain_mode_chromeos.h"
 
 #include <memory>

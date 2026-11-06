@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delegating desktop display info monitor unit tests
+// summary: Unit tests verifying start state, callback notification, and delegation behavior of DelegatingDesktopDisplayInfoMonitor.
+// ---
+
 #include "remoting/host/delegating_desktop_display_info_monitor.h"
 
 #include "base/functional/bind.h"

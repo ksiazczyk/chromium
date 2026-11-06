@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio injector interface
+// summary: Defines the AudioInjector interface for pumping audio from a FIFO buffer into a virtual audio input device with consumer and format controls.
+// ---
+
 #ifndef REMOTING_HOST_AUDIO_INJECTOR_H_
 #define REMOTING_HOST_AUDIO_INJECTOR_H_
 

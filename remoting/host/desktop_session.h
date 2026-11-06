@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopSession interface
+// summary: Header declaring the DesktopSession base class representing a connected terminal's desktop session with resolution and reconnect controls.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_SESSION_H_
 #define REMOTING_HOST_DESKTOP_SESSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud heartbeat service client interface
+// summary: Declares CloudHeartbeatServiceClient, the HeartbeatServiceClient implementation used by cloud-based Chromoting hosts.
+// ---
+
 #ifndef REMOTING_HOST_CLOUD_HEARTBEAT_SERVICE_CLIENT_H_
 #define REMOTING_HOST_CLOUD_HEARTBEAT_SERVICE_CLIENT_H_
 

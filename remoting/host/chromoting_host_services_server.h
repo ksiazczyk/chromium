@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host services server class declaration
+// summary: Declares ChromotingHostServicesServer, which runs a mojo server on a named pipe for external client processes.
+// ---
+
 #ifndef REMOTING_HOST_CHROMOTING_HOST_SERVICES_SERVER_H_
 #define REMOTING_HOST_CHROMOTING_HOST_SERVICES_SERVER_H_
 

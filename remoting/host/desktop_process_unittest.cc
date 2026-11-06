@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop process unit tests
+// summary: Unit tests for DesktopProcess that use mock daemon and network IPC listeners to verify desktop agent creation, channel connection, and error handling behavior.
+// ---
+
 #include "remoting/host/desktop_process.h"
 
 #include <cstdint>

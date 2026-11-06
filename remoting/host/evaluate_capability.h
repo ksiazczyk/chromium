@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host capability evaluation declarations
+// summary: Declares functions to evaluate host capabilities in the current process or in a separate blocking subprocess.
+// ---
+
 #ifndef REMOTING_HOST_EVALUATE_CAPABILITY_H_
 #define REMOTING_HOST_EVALUATE_CAPABILITY_H_
 

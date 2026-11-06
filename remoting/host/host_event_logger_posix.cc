@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX host event logger implementation
+// summary: Logs host events such as client connections, access denials, and host startup to syslog on POSIX systems.
+// ---
+
 #include "remoting/host/host_event_logger.h"
 
 // Included order is important, since the #define for LOG_USER in syslog.h

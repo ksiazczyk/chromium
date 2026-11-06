@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioSilenceDetector header
+// summary: Declares AudioSilenceDetector, a helper for audio capturers that detects and drops silent audio packets based on a configurable threshold.
+// ---
+
 #ifndef REMOTING_HOST_AUDIO_SILENCE_DETECTOR_H_
 #define REMOTING_HOST_AUDIO_SILENCE_DETECTOR_H_
 

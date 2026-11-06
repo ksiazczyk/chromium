@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC audio injector implementation
+// summary: Implements AudioInjector by routing audio injection start and sample info calls through the desktop session proxy over IPC.
+// ---
+
 #include "remoting/host/ipc_audio_injector.h"
 
 #include <utility>

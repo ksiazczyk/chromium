@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Daemon process core implementation
+// summary: Implements the core of the daemon process, managing the lower-privileged network process and desktop sessions over IPC.
+// ---
+
 #include "remoting/host/daemon_process.h"
 
 #include <algorithm>

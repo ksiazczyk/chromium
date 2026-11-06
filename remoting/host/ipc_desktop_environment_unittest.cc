@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPC desktop environment unit tests
+// summary: Unit tests for IpcDesktopEnvironment covering capture, input, audio, and URL forwarder interactions with the desktop session.
+// ---
+
 #include "remoting/host/ipc_desktop_environment.h"
 
 #include <cstdint>

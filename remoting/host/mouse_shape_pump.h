@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse shape pump header
+// summary: Declares MouseShapePump, which captures mouse cursor shapes with a MouseCursorMonitor and sends them to a CursorShapeStub.
+// ---
+
 #ifndef REMOTING_HOST_MOUSE_SHAPE_PUMP_H_
 #define REMOTING_HOST_MOUSE_SHAPE_PUMP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS desktop display info loader
+// summary: Implements DesktopDisplayInfoLoader for ChromeOS by reading active displays through AshProxy and mapping them into DisplayGeometry entries.
+// ---
+
 #include "remoting/host/desktop_display_info_loader.h"
 
 #include "remoting/host/chromeos/ash_proxy.h"

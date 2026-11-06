@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux agent integration configurator unit tests
+// summary: Unit tests covering support detection, status queries, and enable or disable behavior of the Linux agent integration configurator using a fake binary.
+// ---
+
 #include "remoting/host/agent_integration_configurator_linux.h"
 
 #include <memory>

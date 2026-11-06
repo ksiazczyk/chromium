@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC input injector implementation
+// summary: Implements InputInjector by forwarding clipboard, key, text, mouse, and touch events to the desktop session proxy over IPC.
+// ---
+
 #include "remoting/host/ipc_input_injector.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Daemon process unit tests
+// summary: Unit tests for DaemonProcess using mock and fake desktop sessions to verify daemon process behavior.
+// ---
+
 #include "remoting/host/daemon_process.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake terminal session header
+// summary: Declares a fake TerminalSession for unit testing that mocks start, write, resize, terminate and detach behavior.
+// ---
+
 #ifndef REMOTING_HOST_FAKE_TERMINAL_SESSION_H_
 #define REMOTING_HOST_FAKE_TERMINAL_SESSION_H_
 

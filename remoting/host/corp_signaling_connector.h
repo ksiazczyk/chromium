@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpSignalingConnector header
+// summary: Declares CorpSignalingConnector, which monitors signal strategy state and network changes to maintain corp signaling connectivity.
+// ---
+
 #ifndef REMOTING_HOST_CORP_SIGNALING_CONNECTOR_H_
 #define REMOTING_HOST_CORP_SIGNALING_CONNECTOR_H_
 

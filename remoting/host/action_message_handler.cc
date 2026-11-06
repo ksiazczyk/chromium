@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action message handler implementation
+// summary: Parses incoming action requests on a named message pipe, validates them, and forwards supported actions to the executor.
+// ---
+
 #include "remoting/host/action_message_handler.h"
 
 #include <utility>

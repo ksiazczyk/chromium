@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: It2Me desktop environment header
+// summary: Declares It2MeDesktopEnvironment and its factory, extending BasicDesktopEnvironment with continue and disconnect windows.
+// ---
+
 #ifndef REMOTING_HOST_IT2ME_DESKTOP_ENVIRONMENT_H_
 #define REMOTING_HOST_IT2ME_DESKTOP_ENVIRONMENT_H_
 

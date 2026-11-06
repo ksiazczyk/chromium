@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host config JSON helpers implementation
+// summary: Implements parsing, serialization and file loading of host configuration, including migration of deprecated keys and corp host detection.
+// ---
+
 #include "remoting/host/host_config.h"
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS curtain mode implementation
+// summary: Implements macOS curtain mode that detaches the session from the local console and disconnects if it re-attaches.
+// ---
+
 #include "remoting/host/curtain_mode.h"
 
 #include <ApplicationServices/ApplicationServices.h>

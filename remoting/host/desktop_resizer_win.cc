@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows desktop resizer implementation
+// summary: Windows implementation of DesktopResizer that enumerates display modes and changes the primary display resolution using Win32 APIs.
+// ---
+
 #include "remoting/host/desktop_resizer.h"
 
 #include <windows.h>

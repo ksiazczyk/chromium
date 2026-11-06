@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL signaling connector implementation
+// summary: Implements reconnection logic for FTL signaling, using exponential backoff and network change monitoring to keep the signaling channel connected.
+// ---
+
 #include "remoting/host/ftl_signaling_connector.h"
 
 #include <utility>

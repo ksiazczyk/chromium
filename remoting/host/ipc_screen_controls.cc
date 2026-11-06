@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcScreenControls implementation
+// summary: Implements screen controls by forwarding screen resolution and video layout changes to the desktop session proxy.
+// ---
+
 #include "remoting/host/ipc_screen_controls.h"
 
 #include "base/notimplemented.h"

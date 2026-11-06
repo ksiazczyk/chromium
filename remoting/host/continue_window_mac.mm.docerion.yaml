@@ -1,0 +1,4 @@
+# Docerion header of continue_window_mac.mm.
+type: source
+title: macOS continue window implementation
+summary: macOS implementation of ContinueWindow that shades the screens and shows an NSAlert to continue or end the session.

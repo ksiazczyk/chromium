@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host experiment session plugin implementation
+// summary: Sends host attributes to the client and stores experiment settings received from the client during a session.
+// ---
+
 #include "remoting/host/host_experiment_session_plugin.h"
 
 #include "base/strings/string_util.h"

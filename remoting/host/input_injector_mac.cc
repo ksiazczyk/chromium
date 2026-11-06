@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputInjectorMac implementation
+// summary: Implements input injection on macOS by posting CGEvent keyboard and mouse events, including multi-click detection and text input.
+// ---
+
 #include "remoting/host/input_injector_mac.h"
 
 #include <ApplicationServices/ApplicationServices.h>

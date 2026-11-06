@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse cursor monitor proxy unit tests
+// summary: Unit tests verifying that MouseCursorMonitorProxy delivers cursor shapes across threads while enforcing thread checks.
+// ---
+
 #include "remoting/host/mouse_cursor_monitor_proxy.h"
 
 #include <memory>

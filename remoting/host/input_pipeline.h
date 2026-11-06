@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputPipeline class declaration
+// summary: Declares InputPipeline, the chain of input filters that process and validate remote input events before injection into the host session.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_PIPELINE_H_
 #define REMOTING_HOST_INPUT_PIPELINE_H_
 

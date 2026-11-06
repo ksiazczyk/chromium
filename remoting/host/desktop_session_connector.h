@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopSessionConnector interface
+// summary: Header declaring the interface used to connect terminals to desktop sessions, disconnect them, set resolution and require a username.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_SESSION_CONNECTOR_H_
 #define REMOTING_HOST_DESKTOP_SESSION_CONNECTOR_H_
 

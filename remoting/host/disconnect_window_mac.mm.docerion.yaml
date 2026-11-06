@@ -1,0 +1,4 @@
+# Docerion header of disconnect_window_mac.mm.
+type: source
+title: Mac disconnect window implementation
+summary: Implements the macOS disconnect window with auto-hide on local input, show and hide animations, dark mode support, and alignment toggling.

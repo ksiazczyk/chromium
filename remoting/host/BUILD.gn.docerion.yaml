@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the remoting host
+summary: Defines build targets, sources, and platform-conditional dependencies for the Chrome Remote Desktop host code.

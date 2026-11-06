@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostStatusMonitor class header
+// summary: Declares a ref-counted helper that delivers host status notifications to registered observers.
+// ---
+
 #ifndef REMOTING_HOST_HOST_STATUS_MONITOR_H_
 #define REMOTING_HOST_HOST_STATUS_MONITOR_H_
 

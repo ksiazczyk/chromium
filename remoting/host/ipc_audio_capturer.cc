@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC audio capturer implementation
+// summary: Starts capture via the desktop session proxy and delivers audio packets received over IPC to the registered callback.
+// ---
+
 #include "remoting/host/ipc_audio_capturer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows desktop display info loader
+// summary: Implements DesktopDisplayInfoLoader for Windows by enumerating active display devices and querying display configuration paths for friendly monitor names.
+// ---
+
 #include "remoting/host/desktop_display_info_loader.h"
 
 #include <windows.h>

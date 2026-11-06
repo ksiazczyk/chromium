@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue window interface
+// summary: Declares ContinueWindow, a HostWindow that periodically asks the local user whether a remote session should continue or be disconnected.
+// ---
+
 #ifndef REMOTING_HOST_CONTINUE_WINDOW_H_
 #define REMOTING_HOST_CONTINUE_WINDOW_H_
 

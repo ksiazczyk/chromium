@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Agent integration control message handler unit tests
+// summary: Unit tests verifying query state and set state message handling with a mocked configurator and a fake message pipe.
+// ---
+
 #include "remoting/host/agent_integration_control_message_handler.h"
 
 #include <memory>

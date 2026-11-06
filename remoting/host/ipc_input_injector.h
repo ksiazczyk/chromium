@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IpcInputInjector class header
+// summary: Declares IpcInputInjector, which routes input and clipboard injection calls through the IPC channel to the desktop session agent in the desktop integration process.
+// ---
+
 #ifndef REMOTING_HOST_IPC_INPUT_INJECTOR_H_
 #define REMOTING_HOST_IPC_INPUT_INJECTOR_H_
 

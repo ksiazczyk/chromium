@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC URL forwarder configurator implementation
+// summary: Implements UrlForwarderConfigurator by delegating URL forwarder setup and status queries to a DesktopSessionProxy over IPC.
+// ---
+
 #include "remoting/host/ipc_url_forwarder_configurator.h"
 
 #include "remoting/host/desktop_session_proxy.h"

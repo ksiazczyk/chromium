@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Me2Me desktop environment implementation
+// summary: Implements the Me2Me desktop environment with desktop resizing, curtain mode and platform capability reporting.
+// ---
+
 #include "remoting/host/me2me_desktop_environment.h"
 
 #include <memory>

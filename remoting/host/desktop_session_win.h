@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows desktop session class declaration
+// summary: Declares DesktopSessionWin, the Windows desktop session that attaches to physical or virtual RDP consoles and monitors session attach and detach events.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_SESSION_WIN_H_
 #define REMOTING_HOST_DESKTOP_SESSION_WIN_H_
 

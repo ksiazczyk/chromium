@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host main entry point declaration
+// summary: Declares HostMain, the common entry point exported from remoting_core that selects the process to run.
+// ---
+
 #ifndef REMOTING_HOST_HOST_MAIN_H_
 #define REMOTING_HOST_HOST_MAIN_H_
 

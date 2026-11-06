@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CorpSignalingConnector implementation
+// summary: Keeps the corp signal strategy connected by retrying with exponential backoff and reconnecting on network changes.
+// ---
+
 #include "remoting/host/corp_signaling_connector.h"
 
 #include <utility>

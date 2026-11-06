@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video capturer list header
+// summary: Declares MojoVideoCapturerList, which manages up to one Mojo video capturer per screen and cleans up disconnected capturers.
+// ---
+
 #ifndef REMOTING_HOST_MOJO_VIDEO_CAPTURER_LIST_H_
 #define REMOTING_HOST_MOJO_VIDEO_CAPTURER_LIST_H_
 

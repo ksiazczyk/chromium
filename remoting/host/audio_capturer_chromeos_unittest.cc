@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS audio capturer unit tests
+// summary: Unit tests for AudioCapturerChromeOs that use a fake audio helper and multiple task runners to mirror its cross-sequence capture behavior.
+// ---
+
 #include "remoting/host/audio_capturer_chromeos.h"
 
 #include <memory>

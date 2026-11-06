@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostPowerSaveBlocker unit tests
+// summary: Verifies that the power save blocker activates when a client connects and deactivates when the client disconnects.
+// ---
+
 #include "remoting/host/host_power_save_blocker.h"
 
 #include <memory>

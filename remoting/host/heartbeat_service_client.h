@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heartbeat service client interface
+// summary: Defines the HeartbeatServiceClient interface used by HeartbeatSender to send full and lite heartbeats to a backend API and cancel pending requests.
+// ---
+
 #ifndef REMOTING_HOST_HEARTBEAT_SERVICE_CLIENT_H_
 #define REMOTING_HOST_HEARTBEAT_SERVICE_CLIENT_H_
 

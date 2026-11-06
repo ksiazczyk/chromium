@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate broker class declaration
+// summary: Declares CertificateBrokerImpl, which implements mojom::CertificateBroker to retrieve client certificates and expose private key operations.
+// ---
+
 #ifndef REMOTING_HOST_CERTIFICATE_BROKER_IMPL_H_
 #define REMOTING_HOST_CERTIFICATE_BROKER_IMPL_H_
 

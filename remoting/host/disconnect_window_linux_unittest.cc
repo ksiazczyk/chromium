@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux disconnect window unit tests
+// summary: Unit tests for the GTK Linux disconnect window covering title, message text, alignment toggling, and window repositioning behavior.
+// ---
+
 #include <gtk/gtk.h>
 
 #include <algorithm>

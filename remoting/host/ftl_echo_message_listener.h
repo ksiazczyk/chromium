@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTL echo message listener
+// summary: Declares FtlEchoMessageListener, which listens for and responds to FTL echo messages over the signaling channel to check endpoint reachability without disrupting normal signaling.
+// ---
+
 #ifndef REMOTING_HOST_FTL_ECHO_MESSAGE_LISTENER_H_
 #define REMOTING_HOST_FTL_ECHO_MESSAGE_LISTENER_H_
 

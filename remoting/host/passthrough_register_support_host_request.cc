@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passthrough register support host request
+// summary: Registers a support host by reporting a preset support ID once the signal strategy connects or errors out.
+// ---
+
 #include "remoting/host/passthrough_register_support_host_request.h"
 
 #include "remoting/base/rsa_key_pair.h"

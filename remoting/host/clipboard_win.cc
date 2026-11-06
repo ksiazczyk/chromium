@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows clipboard implementation
+// summary: Implements the Clipboard interface on Windows via Win32 APIs, including a 1MB text size limit to prevent denial-of-service.
+// ---
+
 #include "remoting/host/clipboard_win.h"
 
 #include <windows.h>

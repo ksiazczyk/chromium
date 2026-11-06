@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTL signaling connector unit tests
+// summary: Unit tests for successful connection, authentication failure, and backoff-driven retries using a fake signal strategy and mock time.
+// ---
+
 #include "remoting/host/ftl_signaling_connector.h"
 
 #include <memory>

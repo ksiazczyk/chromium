@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS input injector class declaration
+// summary: Declares InputInjectorMac, which injects keyboard, mouse, text, touch and clipboard events on macOS via CoreGraphics calls posted to the UI thread.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_INJECTOR_MAC_H_
 #define REMOTING_HOST_INPUT_INJECTOR_MAC_H_
 

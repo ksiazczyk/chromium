@@ -5,6 +5,12 @@
 // This file implements the Windows service controlling Me2Me host processes
 // running within user sessions.
 
+// ---docerion
+// type: source
+// title: Desktop process implementation
+// summary: Implements the desktop process that hosts the desktop session agent, communicates with the daemon over IPC, and handles actions such as crashing the network process, SAS injection, and workstation locking.
+// ---
+
 #include "remoting/host/desktop_process.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTL echo message listener unit tests
+// summary: Unit tests verifying that FtlEchoMessageListener answers echo requests from the host owner and rejects messages from unknown or non-owner senders.
+// ---
+
 #include "remoting/host/ftl_echo_message_listener.h"
 
 #include "base/functional/bind.h"

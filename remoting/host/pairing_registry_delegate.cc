@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pairing registry delegate factory
+// summary: Implements CreatePairingRegistry, which builds a PairingRegistry using the platform-specific pairing registry delegate.
+// ---
+
 #include "remoting/host/pairing_registry_delegate.h"
 
 #include <utility>

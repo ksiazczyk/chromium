@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionExecutor interface
+// summary: Declares the platform-abstract interface for executing host action requests.
+// ---
+
 #ifndef REMOTING_HOST_ACTION_EXECUTOR_H_
 #define REMOTING_HOST_ACTION_EXECUTOR_H_
 

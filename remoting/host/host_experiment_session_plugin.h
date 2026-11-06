@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host experiment session plugin header
+// summary: Declares a session plugin that sends host attributes to clients and receives experiment configuration settings.
+// ---
+
 #ifndef REMOTING_HOST_HOST_EXPERIMENT_SESSION_PLUGIN_H_
 #define REMOTING_HOST_HOST_EXPERIMENT_SESSION_PLUGIN_H_
 

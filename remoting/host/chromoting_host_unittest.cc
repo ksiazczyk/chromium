@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chromoting host unit tests
+// summary: Unit tests for ChromotingHost covering session setup, authentication, and teardown with mock protocol objects.
+// ---
+
 #include "remoting/host/chromoting_host.h"
 
 #include <array>

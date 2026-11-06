@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host implementation
+// summary: Implements the ChromotingHost class that manages client sessions, login backoff, policy validation, and host lifecycle for the remoting host process.
+// ---
+
 #include "remoting/host/chromoting_host.h"
 
 #include <stddef.h>

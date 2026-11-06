@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chromoting host services client interface
+// summary: Declares ChromotingHostServicesClient, which maintains a connection to the ChromotingHostServices server and exposes session services.
+// ---
+
 #ifndef REMOTING_HOST_CHROMOTING_HOST_SERVICES_CLIENT_H_
 #define REMOTING_HOST_CHROMOTING_HOST_SERVICES_CLIENT_H_
 

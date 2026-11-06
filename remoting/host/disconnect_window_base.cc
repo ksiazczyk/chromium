@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disconnect window base implementation
+// summary: Implements shared disconnect window logic including alignment toggling with cooldown, email extraction, session disconnect, and repositioning loop prevention.
+// ---
+
 #include "remoting/host/disconnect_window_base.h"
 
 #include <utility>

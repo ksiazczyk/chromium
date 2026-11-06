@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClipboardWin unit tests
+// summary: Unit tests for the Windows clipboard using a mocked Win32Clipboard API, covering event injection, large payload rejection, and clipboard updates.
+// ---
+
 #include "remoting/host/clipboard_win.h"
 
 #include <windows.h>

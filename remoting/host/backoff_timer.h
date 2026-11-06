@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackoffTimer header
+// summary: Declares BackoffTimer, a base::Timer-like object that invokes a task at increasing intervals up to a maximum delay using net::BackoffEntry.
+// ---
+
 #ifndef REMOTING_HOST_BACKOFF_TIMER_H_
 #define REMOTING_HOST_BACKOFF_TIMER_H_
 

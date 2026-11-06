@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC video frame capturer implementation
+// summary: Routes DesktopCapturer calls through Mojo IPC to the desktop session agent and delivers captured frames and shared memory buffers.
+// ---
+
 #include "remoting/host/ipc_video_frame_capturer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo video capturer implementation
+// summary: Wraps a desktop video capturer with Mojo endpoints so the network process can control capture and receive frames over shared memory.
+// ---
+
 #include "remoting/host/mojo_video_capturer.h"
 
 #include <utility>

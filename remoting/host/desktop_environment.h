@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopEnvironment factory interface
+// summary: Declares the DesktopEnvironment factory interface that creates capturers, injectors, screen controls, and other components for a remote desktop session.
+// ---
+
 #ifndef REMOTING_HOST_DESKTOP_ENVIRONMENT_H_
 #define REMOTING_HOST_DESKTOP_ENVIRONMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake keyboard layout monitor header
+// summary: Declares a dummy KeyboardLayoutMonitor that never calls the provided callback.
+// ---
+
 #ifndef REMOTING_HOST_FAKE_KEYBOARD_LAYOUT_MONITOR_H_
 #define REMOTING_HOST_FAKE_KEYBOARD_LAYOUT_MONITOR_H_
 

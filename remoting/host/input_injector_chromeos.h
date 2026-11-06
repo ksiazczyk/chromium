@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputInjectorChromeos class declaration
+// summary: Declares InputInjectorChromeos, which translates remote input events into ui::Events for injection into ChromeOS via a delegate.
+// ---
+
 #ifndef REMOTING_HOST_INPUT_INJECTOR_CHROMEOS_H_
 #define REMOTING_HOST_INPUT_INJECTOR_CHROMEOS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop interaction strategy factory declarations
+// summary: Declares the factory function that selects a desktop interaction strategy for the host.
+// ---
+
 #ifndef REMOTING_HOST_CREATE_DESKTOP_INTERACTION_STRATEGY_FACTORY_H_
 #define REMOTING_HOST_CREATE_DESKTOP_INTERACTION_STRATEGY_FACTORY_H_
 

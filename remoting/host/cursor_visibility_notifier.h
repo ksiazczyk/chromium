@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cursor visibility notifier class
+// summary: Declares CursorVisibilityNotifier, which detects relative pointer mode changes to toggle local mouse cursor visibility.
+// ---
+
 #ifndef REMOTING_HOST_CURSOR_VISIBILITY_NOTIFIER_H_
 #define REMOTING_HOST_CURSOR_VISIBILITY_NOTIFIER_H_
 

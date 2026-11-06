@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo video capturer list unit tests
+// summary: Unit tests for MojoVideoCapturerList covering capturer creation, list emptiness, and removal of capturers when Mojo endpoints disconnect.
+// ---
+
 #include "remoting/host/mojo_video_capturer_list.h"
 
 #include "base/functional/callback_helpers.h"
