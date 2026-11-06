@@ -9,6 +9,12 @@
 // The input is the list of (skeleton, domain) pairs. The output is written
 // using the given template file.
 
+// ---docerion
+// type: source
+// title: Top domain trie generator
+// summary: Binary that builds a Huffman-encoded trie mapping domain skeletons to top domains from a skeleton list and writes the result through a template file.
+// ---
+
 #include <iostream>
 #include <map>
 #include <set>

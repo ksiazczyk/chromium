@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: strip_js_comments.py
+# summary: Command-line Python script that removes lines starting with // from a JavaScript file and writes the cleaned result to an output file.
+# ---
+
 """Strip comments from a JS file."""
 
 import argparse

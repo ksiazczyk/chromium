@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLMatcher class declarations
+// summary: Declares URLMatcherCondition with its criteria and supporting classes for matching URLs against host, path, query, and regex conditions.
+// ---
+
 #ifndef COMPONENTS_URL_MATCHER_URL_MATCHER_H_
 #define COMPONENTS_URL_MATCHER_URL_MATCHER_H_
 

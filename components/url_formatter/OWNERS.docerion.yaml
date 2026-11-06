@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the url_formatter component
+summary: Lists directory owners and requires security review for changes to FormatUrlForSecurityDisplay and FormatOriginForSecurityDisplay.

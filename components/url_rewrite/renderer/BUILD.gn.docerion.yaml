@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the url_rewrite renderer
+summary: GN build file defining the renderer source_set with its public header, sources and dependencies on base, url_rewrite common, content renderer and Mojo bindings.

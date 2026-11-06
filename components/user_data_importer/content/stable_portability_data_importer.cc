@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stable portability data importer implementation
+// summary: Implements the model-layer importer that extracts bookmarks, reading list items, and history from files in the stable portability data format, using a Rust FFI history parser.
+// ---
+
 #include "components/user_data_importer/content/stable_portability_data_importer.h"
 
 #include "base/check_deref.h"

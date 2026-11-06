@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data models for imported browser data formats
+// summary: Defines serde structs for Safari history, stable portability history, and payment card JSON entries with field documentation.
+// ---
+
 use crate::ffi;
 use serde::Deserialize;
 

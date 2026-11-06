@@ -13,6 +13,12 @@
  *
  */
 
+// ---docerion
+// type: source
+// title: Netscape bookmark format parser for iOS user data import
+// summary: TypeScript utility, run in a special WKWebView, that parses the currently loaded page in the Netscape bookmark format into bookmark and reading list entries for the iOS user data importer.
+// ---
+
 // Corresponds to C++ class of the same name.
 class ImportedBookmarkEntry {
   isFolder: boolean = false;

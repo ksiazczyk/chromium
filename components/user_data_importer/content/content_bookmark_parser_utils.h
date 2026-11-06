@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark HTML parsing utility declarations
+// summary: Declares ParseBookmarksUnsafe for sandboxed bookmark HTML parsing and CanImportURLAsSearchEngine for importing bookmarks that act as search engines.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_CONTENT_CONTENT_BOOKMARK_PARSER_UTILS_H_
 #define COMPONENTS_USER_DATA_IMPORTER_CONTENT_CONTENT_BOOKMARK_PARSER_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skeleton generator implementation
+// summary: Implements hostname skeleton generation for confusability detection, combining diacritic removal, curated confusable mappings, and ICU skeleton calculation with caps on generated hostnames.
+// ---
+
 #include "components/url_formatter/spoof_checks/skeleton_generator.h"
 
 #include <ostream>

@@ -1,3 +1,13 @@
+---
+type: readme
+title: UrlPatternIndex overview
+summary: Explains the component's design, covering URL patterns, N-gram based index building and querying, fallback rules, and individual pattern matching.
+relations:
+  - documents /components/url_pattern_index/url_pattern_index.h
+  - references /components/url_pattern_index/flat/url_pattern_index.fbs
+  - references /components/url_pattern_index/closed_hash_map.h
+---
+
 # `UrlPatternIndex` overview
 
 The UrlPatternIndex component can be used to build an index over a set of URL

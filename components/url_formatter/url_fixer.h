@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for URL fixup of user input
+// summary: Declares SegmentURL, FixupURL, and FixupRelativeFile for converting user-typed text into URLs, with warnings against untrusted input.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_URL_FIXER_H_
 #define COMPONENTS_URL_FORMATTER_URL_FIXER_H_
 

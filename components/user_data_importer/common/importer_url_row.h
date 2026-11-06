@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImporterURLRow struct declaration
+// summary: Declares the ImporterURLRow struct used to import history URLs from other browsers before conversion to history::URLRow via IPC.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_COMMON_IMPORTER_URL_ROW_H_
 #define COMPONENTS_USER_DATA_IMPORTER_COMMON_IMPORTER_URL_ROW_H_
 

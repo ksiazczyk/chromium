@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the user data importer utility
+summary: Defines GN build targets for the importer utility, including bookmark parsing, Safari import, Rust FFI glue, and test archive generation.

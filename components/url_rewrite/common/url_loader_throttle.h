@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader throttle class declaration
+// summary: Declares the URLLoaderThrottle class that applies UrlRequestRewriteRules to requests and redirects as a blink URLLoaderThrottle.
+// ---
+
 #ifndef COMPONENTS_URL_REWRITE_COMMON_URL_LOADER_THROTTLE_H_
 #define COMPONENTS_URL_REWRITE_COMMON_URL_LOADER_THROTTLE_H_
 

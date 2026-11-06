@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL matcher factory implementation
+// summary: Implements creation of URLMatcherConditionSets from declarative API UrlFilter dictionaries, mapping attribute keys to condition factory methods with error reporting.
+// ---
+
 #include "components/url_matcher/url_matcher_factory.h"
 
 #include <algorithm>

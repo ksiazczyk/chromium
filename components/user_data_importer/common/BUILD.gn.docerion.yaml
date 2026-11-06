@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the user data importer common sources
+summary: Defines the GN source_set for the common user data importer, listing its C++ sources and dependencies on //base and //url.

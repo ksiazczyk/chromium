@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common word lookup implementation
+// summary: Implements IsCommonWord by looking up words in a generated DAFSA fixed set, with hooks to swap the table for testing.
+// ---
+
 #include "components/url_formatter/spoof_checks/common_words/common_words_util.h"
 
 #include <cstdint>

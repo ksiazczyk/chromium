@@ -1,0 +1,4 @@
+# Docerion header of test_domains.skeletons.
+type: data
+title: Test top domain skeletons
+summary: Generated skeleton entries for the test top domains, mapping full skeletons and separator-free skeletons to their domains for confusability checks.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBookmarkParser class declaration
+// summary: Declares the content-layer BookmarkParser that reads untrusted bookmark HTML and launches parsing in a utility process, with a service hook for testing.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_CONTENT_CONTENT_BOOKMARK_PARSER_H_
 #define COMPONENTS_USER_DATA_IMPORTER_CONTENT_CONTENT_BOOKMARK_PARSER_H_
 

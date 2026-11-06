@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top domain state generator implementation
+// summary: Implements TopDomainStateGenerator, which renders top domain trie entries into C++ arrays using a two-pass Huffman table optimization.
+// ---
+
 #include "components/url_formatter/spoof_checks/top_domains/top_domain_state_generator.h"
 
 #include <cstdint>

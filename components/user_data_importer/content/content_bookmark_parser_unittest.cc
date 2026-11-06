@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the content bookmark parser
+// summary: Tests ContentBookmarkParser file and stream parsing, including nonexistent, empty, and invalid file cases, using a fake bookmark HTML parser service.
+// ---
+
 #include "components/user_data_importer/content/content_bookmark_parser.h"
 
 #include "base/files/file_path.h"

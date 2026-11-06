@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common word lookup header
+// summary: Declares IsCommonWord, which checks whether a word is in Chrome's common word list, plus test-only DAFSA override helpers.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_COMMON_WORDS_COMMON_WORDS_UTIL_H_
 #define COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_COMMON_WORDS_COMMON_WORDS_UTIL_H_
 

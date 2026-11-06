@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark and reading list import helpers
+// summary: Implements ImportBookmarks and ImportReadingList, adding parsed entries into the bookmark model and reading list model under an import folder.
+// ---
+
 #include "components/user_data_importer/utility/bookmark_util.h"
 
 #include "base/strings/string_util.h"

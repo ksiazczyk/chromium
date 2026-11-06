@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Component and team metadata for issue tracking
+summary: Maps the directory to the Blink>URLPattern monorail component, the worker-dev team email, and a Buganizer component.

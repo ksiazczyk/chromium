@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for url_pattern_index
+# summary: Presubmit script that warns when index format files change without a corresponding update to kUrlPatternIndexFormatVersion.
+# ---
+
 """Presubmit script for components/url_pattern_index directory.
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts

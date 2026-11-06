@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL rule utility header
+// summary: Declares FlatUrlRuleToFilterlistString, which prints a flatbuffer URL rule in filter list string form.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_URL_RULE_UTIL_H_
 #define COMPONENTS_URL_PATTERN_INDEX_URL_RULE_UTIL_H_
 

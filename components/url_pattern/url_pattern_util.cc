@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL component canonicalization and validation utilities
+// summary: Implements encode callbacks that canonicalize URL pattern components such as protocol, username, hostname, and IPv6 hostnames.
+// ---
+
 #include "components/url_pattern/url_pattern_util.h"
 
 #include <ranges>

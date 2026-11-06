@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon re-encoding header
+// summary: Declares ReencodeFavicon, which decodes raw icon data, resamples it to the correct size, and returns PNG data or nullopt on failure.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_CONTENT_FAVICON_REENCODE_H_
 #define COMPONENTS_USER_DATA_IMPORTER_CONTENT_FAVICON_REENCODE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImportedBookmarkEntry struct declaration
+// summary: Declares the ImportedBookmarkEntry struct describing an imported bookmark with toolbar and folder flags, URL, path, title, timestamps and optional UUID.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_COMMON_IMPORTED_BOOKMARK_ENTRY_H_
 #define COMPONENTS_USER_DATA_IMPORTER_COMMON_IMPORTED_BOOKMARK_ENTRY_H_
 

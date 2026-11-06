@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlRequestRulesReceiver class declaration
+// summary: Declares the per-RenderFrame class that receives URL request rewrite rules over Mojo and exposes cached rules safely to multiple renderer threads.
+// ---
+
 #ifndef COMPONENTS_URL_REWRITE_RENDERER_URL_REQUEST_RULES_RECEIVER_H_
 #define COMPONENTS_URL_REWRITE_RENDERER_URL_REQUEST_RULES_RECEIVER_H_
 

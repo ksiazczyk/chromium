@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImporterType enum declaration
+// summary: Declares the ImporterType enum identifying supported import sources such as Internet Explorer, Firefox, Safari, Edge and a bookmarks HTML file.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_COMMON_IMPORTER_TYPE_H_
 #define COMPONENTS_USER_DATA_IMPORTER_COMMON_IMPORTER_TYPE_H_
 

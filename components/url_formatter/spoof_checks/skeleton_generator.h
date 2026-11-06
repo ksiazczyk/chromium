@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkeletonGenerator class header
+// summary: Declares the SkeletonGenerator class that transforms hostnames into skeleton strings so confusable lookalike domains can be detected, following Unicode TR39.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_SKELETON_GENERATOR_H_
 #define COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_SKELETON_GENERATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL rule test helpers header
+// summary: Declares shared constants and helper functions for building URL rules, domains and origins in the url_pattern_index unit tests.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_URL_RULE_TEST_SUPPORT_H_
 #define COMPONENTS_URL_PATTERN_INDEX_URL_RULE_TEST_SUPPORT_H_
 

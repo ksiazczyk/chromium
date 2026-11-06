@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the url_pattern_index flatbuffer
+summary: GN build configuration that defines the flatbuffer target generating the url_pattern_index from url_pattern_index.fbs.

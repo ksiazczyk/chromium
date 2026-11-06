@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the URL request rewrite rules manager
+// summary: Unit tests verifying rule updates, cached rule contents, and that invalid rules fail validation without resetting existing cached rules.
+// ---
+
 #include "components/url_rewrite/browser/url_request_rewrite_rules_manager.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

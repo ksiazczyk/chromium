@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for url_rewrite common
+summary: Specifies the allowed include rules for the url_rewrite common directory, with an extra allowance for the unit test file.

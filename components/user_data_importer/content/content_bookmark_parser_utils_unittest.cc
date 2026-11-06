@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for bookmark HTML parsing utilities
+// summary: Tests CanImportURLAsSearchEngine across many URL cases and validates parsing of bookmark HTML data, including Firefox bookmark entries.
+// ---
+
 #include "components/user_data_importer/content/content_bookmark_parser_utils.h"
 
 #include <stddef.h>

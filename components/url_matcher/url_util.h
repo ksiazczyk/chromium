@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL matcher utilities
+// summary: Declares helpers to normalize URLs, split URL blocklist filters into components, and create URLMatcher condition sets with filter limits.
+// ---
+
 #ifndef COMPONENTS_URL_MATCHER_URL_UTIL_H_
 #define COMPONENTS_URL_MATCHER_URL_UTIL_H_
 

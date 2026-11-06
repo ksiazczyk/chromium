@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL matcher dictionary key constants
+// summary: Defines the dictionary key constants for URL constraint fields such as host, path, query, ports, schemes, and CIDR blocks.
+// ---
+
 #include "components/url_matcher/url_matcher_constants.h"
 
 namespace url_matcher {

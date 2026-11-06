@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL pattern index implementation
+// summary: Implements the FlatBuffers-based URL pattern index, including proto-to-flat activation and element type mappings, URL rule serialization, and index building and matching logic.
+// ---
+
 #include "components/url_pattern_index/url_pattern_index.h"
 
 #include <algorithm>

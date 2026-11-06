@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: format_url tool build definition
+summary: GN build file that defines the format_url executable with its source file and dependencies on base, url_formatter, and url.

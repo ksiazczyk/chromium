@@ -1,0 +1,4 @@
+# Docerion header of ios_bookmark_parser.mm.
+type: source
+title: ios_bookmark_parser.mm
+summary: Implements the iOS bookmark parser, running parsing in a WKWebView via a navigation delegate and converting JSON results into imported bookmark entries.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the user data importer content directory
+summary: DEPS file listing the directories that code in the user data importer content folder may include, such as search engines, net, favicon base, and content public APIs.

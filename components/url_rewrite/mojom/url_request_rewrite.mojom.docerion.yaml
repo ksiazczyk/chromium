@@ -1,0 +1,4 @@
+# Docerion header of url_request_rewrite.mojom.
+type: source
+title: URL request rewrite rules Mojom definitions
+summary: Defines the Mojo interface and structs used by the browser to push URL rewrite rules to renderers, covering header, query, URL rewrite, and allow/deny actions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safari data importer implementation
+// summary: Implements SafariDataImporter, which extracts and imports passwords, payment cards, bookmarks, history and reading list data from a Safari export ZIP file, logging import metrics.
+// ---
+
 #include "components/user_data_importer/utility/safari_data_importer.h"
 
 #include "base/barrier_closure.h"

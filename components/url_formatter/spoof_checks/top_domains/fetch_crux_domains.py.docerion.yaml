@@ -1,0 +1,4 @@
+# Docerion header of fetch_crux_domains.py.
+type: script
+title: Fetch top domains from CrUX BigQuery
+summary: Queries the monthly CrUX popularity table on BigQuery and prints the top 10K domains in the domains.list format for lookalike URL checks.

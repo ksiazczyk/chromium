@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL matcher unit tests
+// summary: Unit tests for URLMatcher conditions, scheme, port, and CIDR block filters, and URL matching behavior across many cases.
+// ---
+
 #include "components/url_matcher/url_matcher.h"
 
 #include <stddef.h>

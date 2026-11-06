@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark HTML parsing utilities
+// summary: Implements ParseBookmarksUnsafe, which recovers bookmarks, folders, favicons, and search engines from bookmark HTML, plus CanImportURLAsSearchEngine.
+// ---
+
 #include "components/user_data_importer/content/content_bookmark_parser_utils.h"
 
 #include <stddef.h>

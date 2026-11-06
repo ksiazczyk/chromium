@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the utility directory
+summary: Grants test-only include access to content public test and iOS WebKit test headers for this directory.

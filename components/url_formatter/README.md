@@ -1,3 +1,9 @@
+---
+type: readme
+title: URL Formatter component overview
+summary: Explains the component's fixup and formatting utilities for converting between URLs and human-readable strings, with warnings about security risks.
+---
+
 The URL Formatter component contains utilities to convert between URLs and
 human-entered/human-readable strings.  Broadly, consuming human-entered URLs
 happens via "fixup", which tries to make "reasonable" adjustments to strings to

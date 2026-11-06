@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for url_matcher
+summary: Declares the include rules restricting which components url_matcher may depend on, such as re2, net base, and url_formatter.

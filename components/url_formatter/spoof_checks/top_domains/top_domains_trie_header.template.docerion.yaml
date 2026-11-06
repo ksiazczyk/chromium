@@ -1,0 +1,4 @@
+# Docerion header of top_domains_trie_header.template.
+type: source
+title: Top domains trie header template
+summary: Template with placeholders for the Huffman tree and trie data, filled in by the top_domain_generator to produce the generated top domains trie header.

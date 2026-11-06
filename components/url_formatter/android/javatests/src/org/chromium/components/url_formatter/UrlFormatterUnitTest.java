@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlFormatterUnitTest
+// summary: JUnit unit tests for the Chromium UrlFormatter component, checking URL fixup and display formatting such as omitting credentials, scheme, and trivial subdomains.
+// ---
+
 package org.chromium.components.url_formatter;
 
 import static org.junit.Assert.assertEquals;

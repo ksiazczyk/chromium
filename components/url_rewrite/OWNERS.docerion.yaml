@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: URL rewrite component owners
+summary: Delegates code ownership for the url_rewrite component to the owners listed in build/fuchsia/OWNERS.

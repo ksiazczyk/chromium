@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL rule test helpers implementation
+// summary: Implements test helpers that construct proto URL rules, add initiator and request domain lists, parse origins, and determine third-party status for url_pattern_index tests.
+// ---
+
 #include "components/url_pattern_index/url_rule_test_support.h"
 
 #include <string_view>

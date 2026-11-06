@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLMatcher implementation
+// summary: Implements URLMatcher, reducing URL component pattern matching to substring searches using position markers and Aho-Corasick matching.
+// ---
+
 #include "components/url_matcher/url_matcher.h"
 
 #include <algorithm>

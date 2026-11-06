@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark import utility declarations
+// summary: Declares ImportBookmarks and ImportReadingList helpers that return the number of imported entries.
+// ---
+
 #ifndef COMPONENTS_USER_DATA_IMPORTER_UTILITY_BOOKMARK_UTIL_H_
 #define COMPONENTS_USER_DATA_IMPORTER_UTILITY_BOOKMARK_UTIL_H_
 

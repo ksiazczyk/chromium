@@ -1,0 +1,4 @@
+# Docerion header of domains.list.
+type: data
+title: Top domain list generated from CrUX
+summary: List of popular domains fetched from the Chrome UX Report, used as input for skeleton generation and lookalike URL checks.

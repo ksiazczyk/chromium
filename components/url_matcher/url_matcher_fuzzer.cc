@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL matcher fuzzer
+// summary: Fuzz target that exercises URLMatcher with fuzzed URLs and generated conditions to detect crashes or unexpected behavior.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

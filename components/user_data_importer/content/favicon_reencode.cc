@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon re-encoding implementation
+// summary: Decodes raw favicon image data with the WebKit image decoder, resamples it to the favicon target size when needed, and re-encodes it as PNG bytes.
+// ---
+
 #include "components/user_data_importer/content/favicon_reencode.h"
 
 #include "content/public/child/image_decoder_utils.h"

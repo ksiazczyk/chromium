@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ios folder
+summary: Declares include rules that allow this directory to depend on headers from ios/web/public.

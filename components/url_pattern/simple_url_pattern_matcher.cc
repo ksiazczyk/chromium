@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of SimpleUrlPatternMatcher
+// summary: Implements a partial URL Pattern spec matcher for Compression Dictionary Transport URL matching, built on liburlpattern and re2.
+// ---
+
 #include "components/url_pattern/simple_url_pattern_matcher.h"
 
 #include <algorithm>

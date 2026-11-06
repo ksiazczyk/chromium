@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlRequestRulesReceiver implementation
+// summary: Implements the renderer-side Mojo receiver that binds the URL request rules interface and caches updated rewrite rules behind a lock for thread-safe access.
+// ---
+
 #include "components/url_rewrite/renderer/url_request_rules_receiver.h"
 
 #include "content/public/renderer/render_frame.h"

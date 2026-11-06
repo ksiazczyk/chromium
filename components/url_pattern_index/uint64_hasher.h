@@ -7,6 +7,12 @@
 // https://gist.github.com/badboy/6267743
 // TODO(pkalinnikov): Consider moving the implementation into base/.
 
+// ---docerion
+// type: source
+// title: Uint64 hash functions
+// summary: Header providing Thomas Wang-style 64-bit hash mix functions and a Uint64ToUint32Hasher functor used for hashing N-grams in the URL pattern index.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_UINT64_HASHER_H_
 #define COMPONENTS_URL_PATTERN_INDEX_UINT64_HASHER_H_
 

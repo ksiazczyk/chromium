@@ -16,6 +16,12 @@
 // characters of the |text|, whereas each '^' placeholder can correspond to any
 // type of separator in |text|.
 
+// ---docerion
+// type: source
+// title: Fuzzy pattern matching helpers
+// summary: Declares fuzzy occurrence search functions and defines the separator placeholder semantics and separator classification rules.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_FUZZY_PATTERN_MATCHING_H_
 #define COMPONENTS_URL_PATTERN_INDEX_FUZZY_PATTERN_MATCHING_H_
 

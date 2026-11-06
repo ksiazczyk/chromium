@@ -1,3 +1,9 @@
+---
+type: readme
+title: Spoof checks README
+summary: Briefly describes the files related to spoof checking in internationalized domain names and reminds developers to update //docs/idn.md when modifying the IDN spoof checking logic.
+---
+
 Files related to spoof checking in internationalized domain names (IDN).
 
 Remember to update //docs/idn.md with the appropriate information if you

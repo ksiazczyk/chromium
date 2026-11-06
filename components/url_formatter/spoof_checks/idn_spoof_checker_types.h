@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IDN spoof checker shared types
+// summary: Defines the SkeletonType enum, TopDomainEntry struct, and IDNSpoofCheckerResult enum used to represent spoof check outcomes and top domain trie entries.
+// ---
+
 #ifndef COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_IDN_SPOOF_CHECKER_TYPES_H_
 #define COMPONENTS_URL_FORMATTER_SPOOF_CHECKS_IDN_SPOOF_CHECKER_TYPES_H_
 

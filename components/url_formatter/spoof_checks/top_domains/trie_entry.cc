@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top domain trie entry implementation
+// summary: Implements TopDomainTrieEntry, writing skeleton and top domain data into the Huffman trie, including a size optimization for .com domains.
+// ---
+
 #include "components/url_formatter/spoof_checks/top_domains/trie_entry.h"
 
 #include <bit>

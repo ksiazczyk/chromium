@@ -1,0 +1,4 @@
+# Docerion header of test_top_domains_trie_header.template.
+type: asset
+title: Test top domains trie header template
+summary: Template with placeholders for the Huffman tree and trie data that top_domain_generator fills in to produce the test top domains trie header.

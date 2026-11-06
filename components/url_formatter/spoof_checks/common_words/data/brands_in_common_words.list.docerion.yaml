@@ -1,0 +1,4 @@
+# Docerion header of brands_in_common_words.list.
+type: data
+title: Brands in common words list
+summary: Lists brand names that overlap with common English words, used to filter brands out of the generated common words list.

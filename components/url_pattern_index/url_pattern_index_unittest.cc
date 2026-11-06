@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlPatternIndex unit tests
+// summary: Unit tests for UrlPatternIndex that build flatbuffer indexes of URL rules and verify match results across element types, activation types, party conditions and disabled rules.
+// ---
+
 #include "components/url_pattern_index/url_pattern_index.h"
 
 #include <algorithm>

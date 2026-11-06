@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for url_rewrite common
+summary: Defines GN build targets for the URL rewrite common source set and its unit tests, with dependencies on net, url, base, and blink common.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for URL formatting
+// summary: Unit tests covering FormatUrl output, offset adjustments, IDN handling and unescaping rules for user-visible URL strings.
+// ---
+
 #include "components/url_formatter/url_formatter.h"
 
 #include <stddef.h>

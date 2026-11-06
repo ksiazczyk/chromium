@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Mojom directory
+summary: Grants the directory include access to mojo/public/cpp/base for use by the Mojom binding code.

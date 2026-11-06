@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer metrics recorder implementation
+// summary: Implements histogram logging of import outcomes, file sizes, durations, and counts for each data type and import source.
+// ---
+
 #include "components/user_data_importer/utility/importer_metrics_recorder.h"
 
 #include <cstdint>

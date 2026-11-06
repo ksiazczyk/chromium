@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IDN spoof checker unit tests
+// summary: Unit tests for IDN conversion and spoof checking, using generated IDN test cases covering many scripts and unsafe or invalid punycode domains.
+// ---
+
 #include "components/url_formatter/spoof_checks/idn_spoof_checker.h"
 
 #include <stddef.h>

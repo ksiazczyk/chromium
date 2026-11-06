@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for URL formatting
+// summary: Exposes URL fixup and display formatting functions to Java through JNI for the Android build of Chromium.
+// ---
+
 #include "components/url_formatter/url_formatter.h"
 
 #include <string>

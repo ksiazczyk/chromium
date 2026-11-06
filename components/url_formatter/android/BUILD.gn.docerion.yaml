@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Android URL formatter component
+summary: Defines the Android Java library, JNI header generation, and unit test targets for the Chromium URL formatter component.

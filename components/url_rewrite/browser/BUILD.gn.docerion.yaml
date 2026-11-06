@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the url_rewrite browser component
+summary: Defines the browser source set with its public headers and dependencies, plus a testonly unit_tests source set for the manager and validation tests.

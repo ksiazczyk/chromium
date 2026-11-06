@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlRuleUtil unit tests
+// summary: Unit tests for FlatUrlRuleToFilterlistString checking blocklist and allowlist output, anchors, domain options and element type options.
+// ---
+
 #include "components/url_pattern_index/url_rule_util.h"
 
 #include <cmath>

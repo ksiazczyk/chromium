@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: N-gram extractor for URL pattern indexing
+// summary: Header defining a template NGramExtractor that iteratively extracts N-grams from strings, with configurable N-gram size, integer encoding, case policy and separator predicate.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_INDEX_NGRAM_EXTRACTOR_H_
 #define COMPONENTS_URL_PATTERN_INDEX_NGRAM_EXTRACTOR_H_
 

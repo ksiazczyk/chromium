@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleUrlPatternMatcher class declaration
+// summary: Declares SimpleUrlPatternMatcher and PatternInit for testing URLs against URL pattern constructor strings without regexp groups.
+// ---
+
 #ifndef COMPONENTS_URL_PATTERN_SIMPLE_URL_PATTERN_MATCHER_H_
 #define COMPONENTS_URL_PATTERN_SIMPLE_URL_PATTERN_MATCHER_H_
 

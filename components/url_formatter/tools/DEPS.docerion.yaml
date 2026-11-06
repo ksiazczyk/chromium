@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: IDN tools dependency rules
+summary: DEPS file that allows this directory to include code from components/url_formatter.
