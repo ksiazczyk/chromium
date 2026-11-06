@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Structured metrics preference declarations
+// summary: Declares preference name constants for storing serialized structured metrics logs and device key data.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_PREFS_H_
 #define COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_PREFS_H_
 

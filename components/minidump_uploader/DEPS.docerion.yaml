@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for minidump uploader
+summary: Defines the directories whose headers the minidump_uploader component is allowed to include, such as crash, version_info, net and crashpad.

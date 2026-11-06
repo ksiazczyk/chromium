@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'TestHttpURLConnection: mock connection for upload tests'
+// summary: Mock HttpURLConnection that checks the crash URL and Content-Type header and returns a canned successful response for upload tests.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.junit.Assert;

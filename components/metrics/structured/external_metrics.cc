@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External metrics collection implementation
+// summary: Implements ExternalMetrics, which reads structured event protos written by ChromeOS from a directory, filters disallowed projects and passes them on for UMA upload.
+// ---
+
 #include "components/metrics/structured/external_metrics.h"
 
 #include <errno.h>

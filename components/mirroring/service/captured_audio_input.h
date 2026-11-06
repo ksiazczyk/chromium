@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CapturedAudioInput class declaration
+// summary: Declares the class handling creation, initialization and control of an audio input stream created by the Audio Service, implementing AudioInputIPC and stream client interfaces.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_CAPTURED_AUDIO_INPUT_H_
 #define COMPONENTS_MIRRORING_SERVICE_CAPTURED_AUDIO_INPUT_H_
 

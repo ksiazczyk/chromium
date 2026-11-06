@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the LOM recorder
+// summary: Verifies histogram recording, bucketing, and profile grouping with the LOM feature enabled and disabled.
+// ---
+
 #include "components/metrics/private_metrics/lom_recorder.h"
 
 #include <limits>

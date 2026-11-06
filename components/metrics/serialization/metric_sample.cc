@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricSample class implementation
+// summary: Implements the MetricSample class, including ToString serialization and Parse methods for crash, histogram, sparse histogram, linear histogram, and user action samples.
+// ---
+
 #include "components/metrics/serialization/metric_sample.h"
 
 #include <string>

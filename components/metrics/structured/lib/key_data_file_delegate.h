@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyDataFileDelegate class declaration
+// summary: Declares the file-backed KeyData::StorageDelegate that persists key data at a given path with a configurable save delay and initialization callback.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_KEY_DATA_FILE_DELEGATE_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_KEY_DATA_FILE_DELEGATE_H_
 

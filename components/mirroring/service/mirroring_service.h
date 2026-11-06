@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring service interface
+// summary: Declares the MirroringService Mojo interface implementation that hosts Open Screen mirroring sessions and handles client disconnects.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_MIRRORING_SERVICE_H_
 #define COMPONENTS_MIRRORING_SERVICE_MIRRORING_SERVICE_H_
 

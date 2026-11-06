@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key data prefs delegate header
+// summary: Declares KeyDataPrefsDelegate, which stores structured metrics key data in device preferences keyed by project name.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_KEY_DATA_PREFS_DELEGATE_H_
 #define COMPONENTS_METRICS_STRUCTURED_KEY_DATA_PREFS_DELEGATE_H_
 

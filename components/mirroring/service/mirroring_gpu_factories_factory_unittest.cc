@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirroring GPU factories factory unit tests
+// summary: Unit tests for the GPU factories factory, exercising creation, threading, and teardown using a stub viz GPU, Mojo pipes, and a Cast test environment.
+// ---
+
 #include "components/mirroring/service/mirroring_gpu_factories_factory.h"
 
 #include <atomic>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Structured metrics library build definition
+summary: GN build file defining the structured metrics library source set, its key proto target and unit tests.

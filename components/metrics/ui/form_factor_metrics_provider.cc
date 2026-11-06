@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Form factor metrics provider implementation
+// summary: Implements FormFactorMetricsProvider, reporting the device form factor, including Android foldable and ChromeOS Meet device handling, into the system profile metrics.
+// ---
+
 #include "components/metrics/ui/form_factor_metrics_provider.h"
 #include "build/config/chromebox_for_meetings/buildflags.h"  // PLATFORM_CFM
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics event storage proto
+// summary: Defines the protobuf message for on-device storage of recorded but not yet uploaded structured metrics events, kept backwards-compatible and manually synced between Chromium and platform2.
+// ---
+
 syntax = "proto2";
 
 package metrics.structured;

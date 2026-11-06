@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CapturedAudioInput unit tests
+// summary: Unit tests using mock stream and delegate objects to verify stream creation, recording, error handling and mute state changes of CapturedAudioInput.
+// ---
+
 #include "components/mirroring/service/captured_audio_input.h"
 
 #include <utility>

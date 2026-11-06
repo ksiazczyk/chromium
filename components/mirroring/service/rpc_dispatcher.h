@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RpcDispatcher interface
+// summary: Defines the RpcDispatcher interface for subscribing to inbound RPC messages and sending outbound messages to the remoting implementation on the receiver.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_RPC_DISPATCHER_H_
 #define COMPONENTS_MIRRORING_SERVICE_RPC_DISPATCHER_H_
 

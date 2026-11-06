@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network metrics provider implementation
+// summary: Tracks connection type and effective connection type changes and records them into the system profile portion of metrics reports.
+// ---
+
 #include "components/metrics/net/network_metrics_provider.h"
 
 #include <stdint.h>

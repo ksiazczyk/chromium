@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event buffer abstraction for on-device events
+// summary: Defines the EventBuffer interface for adding, serializing and flushing in-memory structured metric events to disk.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_EVENT_BUFFER_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_EVENT_BUFFER_H_
 

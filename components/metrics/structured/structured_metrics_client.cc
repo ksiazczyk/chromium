@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics client implementation
+// summary: Implements the StructuredMetricsClient singleton that forwards events to the recording delegate and sets system uptime on event sequence events.
+// ---
+
 #include "components/metrics/structured/structured_metrics_client.h"
 
 #include <utility>

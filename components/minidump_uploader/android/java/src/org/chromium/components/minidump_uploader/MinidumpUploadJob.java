@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpUploadJob
+// summary: Interface for minidump upload jobs, defining upload of all minidumps in the crash directory, cancellation of uploads, and the uploads-finished callback.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.chromium.build.annotations.NullMarked;

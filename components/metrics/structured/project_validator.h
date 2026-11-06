@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Project validator interface for structured metrics
+// summary: Declares the ProjectValidator interface implemented by codegen to validate events received by the structured metric service.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_PROJECT_VALIDATOR_H_
 #define COMPONENTS_METRICS_STRUCTURED_PROJECT_VALIDATOR_H_
 

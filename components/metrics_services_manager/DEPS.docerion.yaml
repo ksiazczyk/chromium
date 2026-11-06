@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for metrics_services_manager
+summary: Sets DEPS include rules that block other components while allowing metrics, ukm, variations, and network service dependencies for this directory.

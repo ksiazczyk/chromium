@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key management class for structured metrics
+// summary: Declares KeyData and its storage delegate for managing per-project keys, rotation and hash generation.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_KEY_DATA_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_KEY_DATA_H_
 

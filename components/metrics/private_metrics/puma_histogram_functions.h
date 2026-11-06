@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PUMA histogram functions declarations
+// summary: Declares PUMA variants of the standard UMA histogram functions plus the PumaType enum that selects the Private UMA collection system and its histogram flags.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_PUMA_HISTOGRAM_FUNCTIONS_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_PUMA_HISTOGRAM_FUNCTIONS_H_
 

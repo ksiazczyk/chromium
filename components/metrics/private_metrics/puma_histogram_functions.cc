@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PUMA histogram functions implementation
+// summary: Implements Private UMA (PUMA) histogram recording functions that route samples to the LOM recorder or to standard base histograms depending on the LOM feature flag.
+// ---
+
 #include "components/metrics/private_metrics/puma_histogram_functions.h"
 
 #include "base/feature_list.h"

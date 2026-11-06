@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Openscreen session host unit tests
+// summary: Unit tests for OpenscreenSessionHost covering session negotiation, streaming setup, and remoting behavior with fakes and mocks.
+// ---
+
 #include "components/mirroring/service/openscreen_session_host.h"
 
 #include <memory>

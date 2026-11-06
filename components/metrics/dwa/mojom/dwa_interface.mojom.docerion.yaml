@@ -1,0 +1,4 @@
+# Docerion header of dwa_interface.mojom.
+type: source
+title: Mojo interface for DWA recorder events
+summary: Defines the DwaEntry struct and DwaRecorder Mojo interfaces for sending DWA events from renderer clients to the browser process.

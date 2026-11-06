@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsNameMapper unit tests
+// summary: Tests exact-match renaming, pass-through rules, first-rule-wins precedence and malformed config handling.
+// ---
+
 #include "components/metrics/mapping/metrics_name_mapper.h"
 
 #include "base/base64.h"

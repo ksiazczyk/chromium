@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LOM recorder class declaration
+// summary: Declares the LomRecorder global recorder API for recording boolean and exact linear samples per profile and draining the recorded histogram events.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_LOM_RECORDER_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_LOM_RECORDER_H_
 

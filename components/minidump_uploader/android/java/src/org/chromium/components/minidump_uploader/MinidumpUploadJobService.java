@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MinidumpUploadJobService
+// summary: Abstract Android JobService that schedules and manages minidump upload jobs through the JobScheduler, applying exponential back-off and handling overlapping job requests.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import android.app.job.JobInfo;

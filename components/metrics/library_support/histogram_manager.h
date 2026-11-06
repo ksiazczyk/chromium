@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram manager class declaration
+// summary: Declares HistogramManager, a thread-safe snapshot manager that collects histogram deltas into a ChromeUserMetricsExtension protobuf for transmission.
+// ---
+
 #ifndef COMPONENTS_METRICS_LIBRARY_SUPPORT_HISTOGRAM_MANAGER_H_
 #define COMPONENTS_METRICS_LIBRARY_SUPPORT_HISTOGRAM_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics log metrics implementation
+// summary: Implements StructuredMetricsLogMetrics by recording UMA histograms for the structured metrics log store, covering compression ratio, dropped log size, and dropped log count.
+// ---
+
 #include "components/metrics/structured/reporting/structured_metrics_log_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring session settings implementation
+// summary: Implements MirrorSettings, building Cast audio and video sender configs with bitrates, resolutions, frame rates, and configurable playout delay defaults.
+// ---
+
 #include "components/mirroring/service/mirror_settings.h"
 
 #include <algorithm>

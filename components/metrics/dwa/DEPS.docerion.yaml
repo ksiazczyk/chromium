@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DWA directory dependency rules
+summary: Grants the directory include access to Mojo bindings, registry-controlled domains, and federated compute.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsNameMapper class interface
+// summary: Declares the mapper that allows, renames or drops metrics based on a server-provided rule configuration.
+// ---
+
 #ifndef COMPONENTS_METRICS_MAPPING_METRICS_NAME_MAPPER_H_
 #define COMPONENTS_METRICS_MAPPING_METRICS_NAME_MAPPER_H_
 

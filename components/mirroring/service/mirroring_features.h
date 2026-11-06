@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring feature flag declarations
+// summary: Declares feature flags that control Cast streaming behavior such as HiDPI streaming, 60 fps, hardware-first offers, and native NV12 encoding.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_MIRRORING_FEATURES_H_
 #define COMPONENTS_MIRRORING_SERVICE_MIRRORING_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs-backed key data delegate implementation
+// summary: Implements KeyDataPrefsDelegate, which stores, loads and purges per-project cryptographic key data for structured metrics in local state prefs.
+// ---
+
 #include "components/metrics/structured/key_data_prefs_delegate.h"
 
 #include <optional>

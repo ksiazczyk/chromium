@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for mirroring Mojom files
+summary: Delegates ownership of Mojom, traits, and typemap files in this directory to the IPC security owners for review.

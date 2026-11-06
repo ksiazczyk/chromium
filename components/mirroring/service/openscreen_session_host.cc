@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Openscreen session host implementation
+// summary: Implements OpenscreenSessionHost, managing audio and video capture, encoding, and mirroring or remoting for an Open Screen streaming session.
+// ---
+
 #include "components/mirroring/service/openscreen_session_host.h"
 
 #include <algorithm>

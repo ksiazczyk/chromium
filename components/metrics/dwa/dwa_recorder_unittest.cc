@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DWA recorder unit tests
+// summary: Unit tests verifying DwaRecorder entry recording with the DWA feature enabled or disabled, including metrics, field trials, and entries-of-interest handling.
+// ---
+
 #include "components/metrics/dwa/dwa_recorder.h"
 
 #include <unordered_map>

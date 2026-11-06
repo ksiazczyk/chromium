@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Minidump uploader build targets
+summary: GN build file defining the native static library, Java library, JNI header generation and unit test targets for the minidump uploader component.

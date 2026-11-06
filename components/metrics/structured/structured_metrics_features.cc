@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics feature flags and parameters
+// summary: Defines feature flags and field trial parameters controlling file limits, upload cadence, proto size, and memory and disk quotas for structured metrics.
+// ---
+
 #include "components/metrics/structured/structured_metrics_features.h"
 
 #include "base/feature_list.h"

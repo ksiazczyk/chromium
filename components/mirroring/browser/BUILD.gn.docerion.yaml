@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mirroring browser BUILD.gn build targets
+summary: Defines the browser source set for the single client video capture host and a testonly unittests source set, listing their public and private dependencies.

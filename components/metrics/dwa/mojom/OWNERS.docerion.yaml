@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for DWA mojom directory
+summary: Lists directory owners and routes review approval for *.mojom files to the IPC security owners.

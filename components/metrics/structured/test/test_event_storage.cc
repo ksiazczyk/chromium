@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventStorage implementation
+// summary: Implements an in-memory event storage for tests, supporting adding, taking, copying, counting and purging structured metrics events.
+// ---
+
 #include "components/metrics/structured/test/test_event_storage.h"
 
 #include "base/task/current_thread.h"

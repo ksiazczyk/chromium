@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LOM recorder implementation
+// summary: Implements the LomRecorder singleton that records boolean and exact linear samples as profile-keyed histogram events for Legal Obligation Metrics.
+// ---
+
 #include "components/metrics/private_metrics/lom_recorder.h"
 
 #include <limits>

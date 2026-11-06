@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Mirroring service include rules
+summary: DEPS file listing the directories the mirroring service may include from, with specific exceptions for the GPU factories unittest and the end-to-end test.

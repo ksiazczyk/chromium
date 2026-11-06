@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MediaRemoter
+// summary: Unit tests covering MediaRemoter remoting session start, stop, failure fallback to mirroring, and RPC message handling using mock sources and dispatchers.
+// ---
+
 #include "components/mirroring/service/media_remoter.h"
 
 #include "base/run_loop.h"

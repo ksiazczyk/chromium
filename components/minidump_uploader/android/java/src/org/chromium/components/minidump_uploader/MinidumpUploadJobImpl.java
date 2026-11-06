@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinidumpUploadJobImpl
+// summary: Implements MinidumpUploadJob by running uploads on a worker thread with retry limits, using an embedder delegate and rescheduling the job when minidumps remain unuploaded.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import androidx.annotation.VisibleForTesting;

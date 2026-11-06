@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Key data prefs delegate unit tests
+// summary: Unit tests for KeyDataPrefsDelegate covering key storage, hashing, rotation, and purging of keys in preferences.
+// ---
+
 #include "components/metrics/structured/key_data_prefs_delegate.h"
 
 #include <memory>

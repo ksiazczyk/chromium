@@ -1,0 +1,4 @@
+# Docerion header of mirroring_service.mojom.
+type: source
+title: MirroringService Mojom interface
+summary: Defines the MirroringService interface for starting and controlling Cast mirroring sessions, including platform-specific sandbox configuration.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the metrics_services_manager library
+summary: Defines the GN static_library target for metrics_services_manager, listing its source files and dependencies on base, metrics, ukm, variations, and network components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestEventStorage class declaration
+// summary: Declares TestEventStorage, a simple in-memory EventStorage implementation for unit and browser tests of structured metrics.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_TEST_TEST_EVENT_STORAGE_H_
 #define COMPONENTS_METRICS_STRUCTURED_TEST_TEST_EVENT_STORAGE_H_
 

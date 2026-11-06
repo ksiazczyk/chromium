@@ -1,3 +1,9 @@
+---
+type: readme
+title: Minidump Uploader README
+summary: Describes the Android-only component that temporarily stores crash minidumps and uploads them to Google servers for Chrome on Android and Android WebView.
+---
+
 # Minidump Uploader
 
 The minidump_uploader component provides functionality for temporarily storing,

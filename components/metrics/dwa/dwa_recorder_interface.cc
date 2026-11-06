@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA recorder Mojo interface implementation
+// summary: Implements the DwaRecorderInterface Mojo receiver that forwards AddEntry calls to the DwaRecorder, with the AddEntry logic not yet implemented.
+// ---
+
 #include "components/metrics/dwa/dwa_recorder_interface.h"
 
 #include "components/metrics/dwa/dwa_recorder.h"

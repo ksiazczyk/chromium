@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestStructuredMetricsRecorder class declaration
+// summary: Declares a test recorder that stores recorded events in a vector and provides access to them for test assertions.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_TEST_TEST_STRUCTURED_METRICS_RECORDER_H_
 #define COMPONENTS_METRICS_STRUCTURED_TEST_TEST_STRUCTURED_METRICS_RECORDER_H_
 

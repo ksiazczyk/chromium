@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test enabled state provider header
+// summary: Declares a simple concrete EnabledStateProvider with settable consent and reporting flags for use in tests.
+// ---
+
 #ifndef COMPONENTS_METRICS_TEST_TEST_ENABLED_STATE_PROVIDER_H_
 #define COMPONENTS_METRICS_TEST_TEST_ENABLED_STATE_PROVIDER_H_
 

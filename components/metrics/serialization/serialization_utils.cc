@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization utilities implementation for ChromeOS metrics
+// summary: Implements reading, parsing, and writing length-prefixed metric messages from and to files, with file locking and truncation or deletion after reading.
+// ---
+
 #include "components/metrics/serialization/serialization_utils.h"
 
 #include <errno.h>

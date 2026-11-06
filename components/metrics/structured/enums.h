@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Identifier type and scope enums
+// summary: Defines enums for the identifier type attached to events and whether identifiers are per-profile or per-device.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_ENUMS_H_
 #define COMPONENTS_METRICS_STRUCTURED_ENUMS_H_
 

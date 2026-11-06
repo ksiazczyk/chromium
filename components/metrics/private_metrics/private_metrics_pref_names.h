@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Metrics preference names
+// summary: Defines constant preference names for the persistent unsent private metrics log store and the PUMA Regional Capabilities client ID.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_PRIVATE_METRICS_PREF_NAMES_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_PRIVATE_METRICS_PREF_NAMES_H_
 

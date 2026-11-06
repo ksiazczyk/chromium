@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashFileManager
+// summary: Manages the Crash Reports directory, shepherding minidump files through a filename-based state machine covering upload attempts, skips, forced uploads, and cleanup with loss-reason metrics.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import androidx.annotation.IntDef;

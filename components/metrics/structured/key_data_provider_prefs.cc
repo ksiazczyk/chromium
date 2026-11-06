@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prefs-based key data provider implementation
+// summary: Implements KeyDataProviderPrefs, which returns project IDs using keys stored in a PrefService.
+// ---
+
 #include "components/metrics/structured/key_data_provider_prefs.h"
 
 #include <memory>

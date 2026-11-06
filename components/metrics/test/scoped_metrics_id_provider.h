@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped machine ID provider test helper header
+// summary: Declares ScopedMachineIdProvider, a test helper that sets and resets a global MachineIdProvider instance in tests.
+// ---
+
 #ifndef COMPONENTS_METRICS_TEST_SCOPED_METRICS_ID_PROVIDER_H_
 #define COMPONENTS_METRICS_TEST_SCOPED_METRICS_ID_PROVIDER_H_
 

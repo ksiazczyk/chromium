@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA preference name constants
+// summary: Defines preference name constants for the DWA persistent log store and client identifiers.
+// ---
+
 #include "components/metrics/dwa/dwa_pref_names.h"
 
 namespace metrics::dwa::prefs {

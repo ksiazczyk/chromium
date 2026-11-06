@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Metrics feature flag definitions
+// summary: Defines base::Feature flags and size parameters for Private Metrics, PUMA, PUMA Regional Capabilities, and Legal Obligation Metrics, all disabled by default.
+// ---
+
 #include "components/metrics/private_metrics/private_metrics_features.h"
 
 namespace metrics::private_metrics {

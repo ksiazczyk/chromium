@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net metrics log uploader class declaration
+// summary: Declares a MetricsLogUploader implementation that sends logs over the Chrome network stack, optionally falling back to an encrypted HTTP URL.
+// ---
+
 #ifndef COMPONENTS_METRICS_NET_NET_METRICS_LOG_UPLOADER_H_
 #define COMPONENTS_METRICS_NET_NET_METRICS_LOG_UPLOADER_H_
 

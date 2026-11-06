@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Structured metrics buildflags header target
+summary: GN build file that generates a buildflags.h header exposing STRUCTURED_METRICS_ENABLED and STRUCTURED_METRICS_DEBUG_ENABLED flags.

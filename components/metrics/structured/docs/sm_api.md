@@ -1,3 +1,11 @@
+---
+type: reference
+title: Structured Metrics and CrOS Events API
+summary: Client-side API documentation for defining and recording Structured Metrics and CrOS Events, covering project and event XML definitions, enums, and C++ and TypeScript recording APIs.
+relations:
+  - references /tools/metrics/structured/sync/structured.xml
+---
+
 # Structured Metrics and CrOS Events API
 
 This document describes the client side API for defining and recording Structured Metrics and CrOS Events. Structured Metrics is supported on ChromeOS, Windows, Mac, and Linux. ChromeOS support includes Ash Chrome, and Platform2 processes.

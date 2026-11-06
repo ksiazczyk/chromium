@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring logger interface
+// summary: Declares a logger that writes mirroring info and error messages to the console and passes them back to the SessionObserver client via IPC.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_MIRRORING_LOGGER_H_
 #define COMPONENTS_MIRRORING_SERVICE_MIRRORING_LOGGER_H_
 

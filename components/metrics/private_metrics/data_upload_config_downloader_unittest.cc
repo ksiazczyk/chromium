@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the data upload config downloader
+// summary: Tests fetching valid and invalid DataUploadConfig responses via a test URL loader factory, including retry behavior after a 5xx error.
+// ---
+
 #include "components/metrics/private_metrics/data_upload_config_downloader.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of session_parameters.mojom.
+type: source
+title: SessionParameters Mojom struct
+summary: Defines the SessionType enum and SessionParameters struct carrying the configuration needed to instantiate a mirroring session.

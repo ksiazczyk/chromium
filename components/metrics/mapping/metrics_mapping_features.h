@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webium metrics mapping feature declarations
+// summary: Declares the feature flag and config parameter that enable and configure filtering or renaming of Webium metrics.
+// ---
+
 #ifndef COMPONENTS_METRICS_MAPPING_METRICS_MAPPING_FEATURES_H_
 #define COMPONENTS_METRICS_MAPPING_METRICS_MAPPING_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MirrorSettings class for mirroring session defaults
+// summary: Declares MirrorSettings, which supplies audio/video sender configs and capture constraints such as resolution, frame rate, and playout delay for mirroring sessions.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_MIRROR_SETTINGS_H_
 #define COMPONENTS_MIRRORING_SERVICE_MIRROR_SETTINGS_H_
 

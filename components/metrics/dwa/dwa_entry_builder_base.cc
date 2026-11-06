@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA entry builder base implementation
+// summary: Implements shared entry-building logic including eTLD+1 content sanitizing and handing entries to the recorder.
+// ---
+
 #include "components/metrics/dwa/dwa_entry_builder_base.h"
 
 #include <memory>

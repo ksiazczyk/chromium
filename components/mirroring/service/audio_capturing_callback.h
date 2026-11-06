@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioCapturingCallback class declaration
+// summary: Declares the capture callback class that receives data from the audio capturer source and invokes an audio data callback when new data is available.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_AUDIO_CAPTURING_CALLBACK_H_
 #define COMPONENTS_MIRRORING_SERVICE_AUDIO_CAPTURING_CALLBACK_H_
 

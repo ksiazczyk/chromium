@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PUMA histogram encoder unit tests
+// summary: Tests that the encoder produces empty, single, and non-duplicated histogram delta events in PUMA protos.
+// ---
+
 #include "components/metrics/private_metrics/puma_histogram_encoder.h"
 
 #include "components/metrics/private_metrics/puma_histogram_functions.h"

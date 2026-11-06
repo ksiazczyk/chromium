@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test metrics provider header
+// summary: Declares a simple MetricsProvider that flags which providing functions were called, for use in tests.
+// ---
+
 #ifndef COMPONENTS_METRICS_TEST_TEST_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_TEST_TEST_METRICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key data file delegate implementation
+// summary: Implements the file-backed KeyData storage delegate, managing key lookup, upsert, purge, and read/write status error logging via PersistentProto.
+// ---
+
 #include "components/metrics/structured/lib/key_data_file_delegate.h"
 
 #include <utility>

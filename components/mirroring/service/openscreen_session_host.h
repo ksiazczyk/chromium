@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Openscreen session host header
+// summary: Declares OpenscreenSessionHost, which hosts an openscreen::cast::SenderSession and interfaces audio and video streams for mirroring and remoting.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_OPENSCREEN_SESSION_HOST_H_
 #define COMPONENTS_MIRRORING_SERVICE_OPENSCREEN_SESSION_HOST_H_
 

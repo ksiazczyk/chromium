@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA entry builder interface
+// summary: Declares DwaEntryBuilder for recording DWA entries when event and metric names are not statically known.
+// ---
+
 #ifndef COMPONENTS_METRICS_DWA_DWA_ENTRY_BUILDER_H_
 #define COMPONENTS_METRICS_DWA_DWA_ENTRY_BUILDER_H_
 

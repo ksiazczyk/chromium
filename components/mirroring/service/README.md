@@ -1,3 +1,13 @@
+---
+type: readme
+title: Mirroring Service Implementation
+summary: Developer documentation for the Cast Mirroring Service covering key invariants, OFFER/ANSWER session negotiation, core classes, network and media data flow, and testing and debugging options.
+relations:
+  - references /base/task/task_runner.h
+  - references /base/time/time.h
+  - references /components/mirroring/mojom/mirroring_service.mojom
+---
+
 # Mirroring Service Implementation (`//components/mirroring/service`)
 
 This directory contains the internal implementation of the Cast Mirroring

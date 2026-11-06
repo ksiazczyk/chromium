@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics service class declaration
+// summary: Declares StructuredMetricsService, responsible for enabling recording and reporting, flushing events to prefs, purging data, and registering metrics providers.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_SERVICE_H_
 #define COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_SERVICE_H_
 

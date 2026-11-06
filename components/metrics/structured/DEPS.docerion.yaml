@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for structured metrics
+summary: DEPS file listing the include paths allowed for code in the structured metrics directory.

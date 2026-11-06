@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flushed map disk storage implementation
+// summary: Implements FlushedMap, which flushes structured event buffers to disk files, builds and sorts flushed keys from a directory and deletes events when purging.
+// ---
+
 #include "components/metrics/structured/flushed_map.h"
 
 #include <algorithm>

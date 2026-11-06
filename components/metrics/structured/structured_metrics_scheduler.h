@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics scheduler class declaration
+// summary: Declares StructuredMetricsScheduler, a MetricsRotationScheduler subclass that schedules periodic log rotation and triggers uploads to the reporting service.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_SCHEDULER_H_
 #define COMPONENTS_METRICS_STRUCTURED_STRUCTURED_METRICS_SCHEDULER_H_
 

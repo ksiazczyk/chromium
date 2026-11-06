@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen info metrics provider implementation
+// summary: Implements ScreenInfoMetricsProvider, reporting primary screen size, scale factor, screen count, and on Windows the maximum screen DPI into the system profile metrics.
+// ---
+
 #include "components/metrics/ui/screen_info_metrics_provider.h"
 
 #include <algorithm>

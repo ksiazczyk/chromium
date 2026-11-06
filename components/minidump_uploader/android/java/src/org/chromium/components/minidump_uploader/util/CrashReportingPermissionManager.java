@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash Reporting Permission Manager Interface
+// summary: Interface defining permission checks for crash dump uploads, covering client sampling, network availability, user and policy consent, and test overrides.
+// ---
+
 package org.chromium.components.minidump_uploader.util;
 
 import org.chromium.build.annotations.NullMarked;

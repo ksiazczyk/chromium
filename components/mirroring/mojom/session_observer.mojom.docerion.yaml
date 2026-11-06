@@ -1,0 +1,4 @@
+# Docerion header of session_observer.mojom.
+type: source
+title: SessionObserver Mojom interface
+summary: Defines the SessionError enum and SessionObserver interface for reporting mirroring session lifecycle events, errors, and log messages to the browser.

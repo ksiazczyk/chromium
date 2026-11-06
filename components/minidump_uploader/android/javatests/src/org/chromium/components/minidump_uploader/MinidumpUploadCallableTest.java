@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'MinidumpUploadCallableTest: unit tests for MinidumpUploadCallable'
+// summary: Robolectric unit tests for MinidumpUploadCallable verifying successful, failed, and permission-restricted minidump uploads and the resulting upload log entries.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.junit.Assert;

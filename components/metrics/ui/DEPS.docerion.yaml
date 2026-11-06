@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the metrics ui component
+summary: Defines the include dependency rules for components/metrics/ui, allowing ui/base, ui/display, and ui/gfx.

@@ -4,6 +4,12 @@
 
 // ReportingService specialized to report private metrics.
 
+// ---docerion
+// type: source
+// title: Private Metrics reporting service implementation
+// summary: Implements the reporting service that stages and uploads private metrics logs, selecting DWA or Private Metrics prefs, task IDs, server URLs, and histograms based on compatibility mode.
+// ---
+
 #include "components/metrics/private_metrics/private_metrics_reporting_service.h"
 
 #include <memory>

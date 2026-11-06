@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'MinidumpUploaderTestConstants: shared test constants'
+// summary: Holds shared constants for minidump uploader tests, including the multipart boundary and the expected upload crash ID.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import androidx.annotation.VisibleForTesting;

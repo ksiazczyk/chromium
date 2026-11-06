@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event mojom traits header
+// summary: Declares Mojo struct and union traits so structured metrics events can be serialized without code depending directly on Mojom types.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_MOJOM_EVENT_MOJOM_TRAITS_H_
 #define COMPONENTS_METRICS_STRUCTURED_MOJOM_EVENT_MOJOM_TRAITS_H_
 

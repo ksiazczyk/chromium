@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestKeyDataProvider implementation
+// summary: Implements a test key data provider that resolves per-device and per-profile keys and IDs for structured metrics events in tests.
+// ---
+
 #include "components/metrics/structured/test/test_key_data_provider.h"
 
 #include "base/check.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the mirroring component
+summary: Delegates code ownership to the OWNERS file of //media/cast.

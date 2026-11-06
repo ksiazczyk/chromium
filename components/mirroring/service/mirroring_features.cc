@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring service feature flags
+// summary: Defines base::Feature flags for Cast mirroring, including HiDPI capture, 60 FPS streaming, hardware-first codec offers, and native NV12 frame encoding.
+// ---
+
 #include "components/mirroring/service/mirroring_features.h"
 
 namespace mirroring {

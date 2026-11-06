@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA recorder implementation
+// summary: Implements the global DwaRecorder that stores entries and builds deidentified web analytics events with field trials.
+// ---
+
 #include "components/metrics/dwa/dwa_recorder.h"
 
 #include <algorithm>

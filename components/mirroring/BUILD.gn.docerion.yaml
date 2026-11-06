@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cast Mirroring build targets
+summary: GN build file that groups browser and service unit tests into the mirroring_unittests test target.

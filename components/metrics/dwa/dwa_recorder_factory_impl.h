@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA recorder factory Mojo implementation header
+// summary: Declares DwaRecorderFactoryImpl, the Mojo DwaRecorderFactory implementation that wraps the DwaRecorder instance and binds its lifetime to the receiver.
+// ---
+
 #ifndef COMPONENTS_METRICS_DWA_DWA_RECORDER_FACTORY_IMPL_H_
 #define COMPONENTS_METRICS_DWA_DWA_RECORDER_FACTORY_IMPL_H_
 

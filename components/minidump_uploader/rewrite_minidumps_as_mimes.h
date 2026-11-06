@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minidump to MIME report rewriting interface
+// summary: Declares functions to re-encode a crash report as MIME multipart data, write HTTP bodies to files, and write ANR traces as MIME.
+// ---
+
 #ifndef COMPONENTS_MINIDUMP_UPLOADER_REWRITE_MINIDUMPS_AS_MIMES_H_
 #define COMPONENTS_MINIDUMP_UPLOADER_REWRITE_MINIDUMPS_AS_MIMES_H_
 

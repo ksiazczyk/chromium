@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DWA service header
+// summary: Declares DwaService, responsible for collecting and uploading deidentified web analytics events, with observer support and encryption public key management.
+// ---
+
 #ifndef COMPONENTS_METRICS_DWA_DWA_SERVICE_H_
 #define COMPONENTS_METRICS_DWA_DWA_SERVICE_H_
 

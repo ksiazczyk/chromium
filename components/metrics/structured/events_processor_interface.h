@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Events processor interface for structured metrics
+// summary: Declares the EventsProcessorInterface that lets different classes validate, mutate and attach metadata to structured metrics events after they are recorded by a client.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_EVENTS_PROCESSOR_INTERFACE_H_
 #define COMPONENTS_METRICS_STRUCTURED_EVENTS_PROCESSOR_INTERFACE_H_
 

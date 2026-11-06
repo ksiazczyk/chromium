@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System session analyzer unit tests
+// summary: Unit tests for the analyzer that use a stubbed event fetcher to verify clean, unclean and out-of-range session determinations, with some tests disabled due to event log reliability issues.
+// ---
+
 #include "components/metrics/system_session_analyzer/system_session_analyzer_win.h"
 
 #include <algorithm>

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Unit tests for external metrics collection
+// summary: Unit tests covering ExternalMetrics event collection, including reading and deleting event files, enabling and disabling recording and disallowed project filtering.
+// ---
+
 #include "components/metrics/structured/external_metrics.h"
 
 #include <memory>

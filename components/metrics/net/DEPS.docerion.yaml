@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the metrics net component
+summary: Defines the allowed include dependencies for components/metrics/net, covering Chrome OS network code, network service mojoms, net, and test headers.

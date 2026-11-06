@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Openscreen stats client header
+// summary: Declares OpenscreenStatsClient, which handles statistics of an Open Screen mirroring session and exposes them as a base dictionary.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_OPENSCREEN_STATS_CLIENT_H_
 #define COMPONENTS_MIRRORING_SERVICE_OPENSCREEN_STATS_CLIENT_H_
 

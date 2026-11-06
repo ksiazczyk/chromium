@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test metrics log uploader header
+// summary: Declares a stub MetricsLogUploader that tracks upload state and lets tests trigger the completion callback.
+// ---
+
 #ifndef COMPONENTS_METRICS_TEST_TEST_METRICS_LOG_UPLOADER_H_
 #define COMPONENTS_METRICS_TEST_TEST_METRICS_LOG_UPLOADER_H_
 

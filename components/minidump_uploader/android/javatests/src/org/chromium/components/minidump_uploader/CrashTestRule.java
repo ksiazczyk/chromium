@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'CrashTestRule: JUnit rule for crash upload tests'
+// summary: JUnit TestRule that creates and tears down a crash directory and offers helpers such as minidump file setup and a mock permission manager.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.junit.rules.TestRule;

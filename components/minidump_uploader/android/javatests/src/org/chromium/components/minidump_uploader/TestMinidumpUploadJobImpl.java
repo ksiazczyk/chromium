@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'TestMinidumpUploadJobImpl: test subclass of MinidumpUploadJobImpl'
+// summary: Test implementation of MinidumpUploadJobImpl that injects test delegates and skips cleaning out non-fresh minidump files.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import org.chromium.components.minidump_uploader.util.CrashReportingPermissionManager;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring GPU factories factory interface
+// summary: Declares a factory that creates and owns MojoGpuVideoAcceleratorFactories, observes viz context loss, and enables hardware video encoding with software fallback.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_MIRRORING_GPU_FACTORIES_FACTORY_H_
 #define COMPONENTS_MIRRORING_SERVICE_MIRRORING_GPU_FACTORIES_FACTORY_H_
 

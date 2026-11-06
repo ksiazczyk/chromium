@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegating events processor implementation
+// summary: Implements an events processor that forwards event recording and profile callbacks to all registered processors.
+// ---
+
 #include "components/metrics/structured/delegating_events_processor.h"
 #include "delegating_events_processor.h"
 #include "third_party/metrics_proto/chrome_user_metrics_extension.pb.h"

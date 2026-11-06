@@ -1,3 +1,11 @@
+---
+type: readme
+title: Private Metrics overview
+summary: Explains the Private Metrics system for anonymized Chrome metrics using TEEs, k-anonymity, and trusted proxy, and describes its builder, recorder, and reporting components.
+relations:
+  - references /components/metrics/dwa/dwa_entry_builder_base.h
+---
+
 # Overview
 **Private Metrics** is a comprehensive system that encompasses the **Deidentified Web Analytics (DWA)**. The purpose of Private Metrics is to offer anonymization solutions primarily for Chrome Metrics. It is designed for sensitive metrics that require privacy guarantees beyond what existing systems UMA/UKM provide. Private Metrics does this by leveraging the use of trusted execution environments (TEEs) and employing anonymization workloads like k-anonymity and trusted proxy.
 

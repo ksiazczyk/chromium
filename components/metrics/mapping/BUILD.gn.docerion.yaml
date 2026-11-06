@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Metrics mapping build targets
+summary: GN build file defining the metrics name mapping proto library, the mapping component and its unit test target.

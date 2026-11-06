@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestStructuredMetricsProvider implementation
+// summary: Implements a test metrics provider that records structured events and lets tests find, inspect and wait for recorded events.
+// ---
+
 #include "components/metrics/structured/test/test_structured_metrics_provider.h"
 
 #include "base/files/file_path.h"

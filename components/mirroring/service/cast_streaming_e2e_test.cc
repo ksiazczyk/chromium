@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast streaming end-to-end test
+// summary: End-to-end test running the mirroring service against an Open Screen receiver with fake socket and video capture factories, verifying streamed video and audio frames.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

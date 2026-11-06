@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular logic helper implementation
+// summary: Implements UMA upload interval selection, using shorter intervals on Android cellular connections and a field trial parameter for the structured metrics cadence.
+// ---
+
 #include "components/metrics/net/cellular_logic_helper.h"
 
 #include "base/metrics/field_trial_params.h"

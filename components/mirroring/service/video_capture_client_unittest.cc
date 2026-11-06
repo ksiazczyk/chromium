@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoCaptureClient unit tests
+// summary: Unit tests for VideoCaptureClient using FakeVideoCaptureHost to verify start, stop, buffer handling, and frame delivery with shared memory buffers.
+// ---
+
 #include "components/mirroring/service/video_capture_client.h"
 
 #include "base/functional/bind.h"

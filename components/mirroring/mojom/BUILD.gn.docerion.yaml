@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for mirroring Mojom bindings
+summary: Defines the GN targets that compile the mirroring Mojom files into common and service Mojo bindings, listing their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Metrics feature flag declarations
+// summary: Declares the feature flags and parameters that enable Private Metrics reporting, the Private UMA service, PUMA Regional Capabilities, and Legal Obligation Metrics.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_PRIVATE_METRICS_FEATURES_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_PRIVATE_METRICS_FEATURES_H_
 

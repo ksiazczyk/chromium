@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event validator interface
+// summary: Declares the EventValidator interface implemented by codegen to validate events received by the structured metrics service.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_EVENT_VALIDATOR_H_
 #define COMPONENTS_METRICS_STRUCTURED_EVENT_VALIDATOR_H_
 

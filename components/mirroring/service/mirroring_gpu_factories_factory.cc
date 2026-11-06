@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mirroring GPU factories factory implementation
+// summary: Implements creation of GPU video accelerator factories for hardware video encoding in mirroring sessions, establishing the GPU channel and viz command-buffer context.
+// ---
+
 #include "components/mirroring/service/mirroring_gpu_factories_factory.h"
 
 #include <utility>

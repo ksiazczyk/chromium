@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceInfo implementation
+// summary: Implements the ResourceInfo struct's HasRoom and Consume methods for tracking used space against a maximum byte limit.
+// ---
+
 #include "components/metrics/structured/lib/resource_info.h"
 
 #include <cstdint>

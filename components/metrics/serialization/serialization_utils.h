@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialization utilities header for metric samples
+// summary: Declares SerializationUtils helpers to parse samples and read, truncate, delete, or write metric samples from files, with message length and count limits.
+// ---
+
 #ifndef COMPONENTS_METRICS_SERIALIZATION_SERIALIZATION_UTILS_H_
 #define COMPONENTS_METRICS_SERIALIZATION_SERIALIZATION_UTILS_H_
 

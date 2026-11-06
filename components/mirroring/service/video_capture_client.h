@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoCaptureClient class declaration
+// summary: Declares VideoCaptureClient, a VideoCaptureObserver that manages a capture device via VideoCaptureHost and handles frame buffers, feedback, and host switching.
+// ---
+
 #ifndef COMPONENTS_MIRRORING_SERVICE_VIDEO_CAPTURE_CLIENT_H_
 #define COMPONENTS_MIRRORING_SERVICE_VIDEO_CAPTURE_CLIENT_H_
 

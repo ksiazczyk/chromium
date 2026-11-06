@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PUMA service class declaration
+// summary: Declares PumaService, the component responsible for uploading Private UMA histograms, including report building, storing, and log rotation outcome enums.
+// ---
+
 #ifndef COMPONENTS_METRICS_PRIVATE_METRICS_PUMA_SERVICE_H_
 #define COMPONENTS_METRICS_PRIVATE_METRICS_PUMA_SERVICE_H_
 

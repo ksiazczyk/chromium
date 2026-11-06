@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioCapturingCallback implementation
+// summary: Implements the audio capture callback that copies transient captured audio into an AudioBus and forwards it to the encoding callback, logging capture events and reporting errors.
+// ---
+
 #include "components/mirroring/service/audio_capturing_callback.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key utility functions declaration
+// summary: Declares the structured metrics key size constant and helpers for generating new keys and converting between KeyProto and base::Value.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_LIB_KEY_UTIL_H_
 #define COMPONENTS_METRICS_STRUCTURED_LIB_KEY_UTIL_H_
 

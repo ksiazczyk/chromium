@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegating events processor declaration
+// summary: Declares DelegatingEventsProcessor, which manages a set of events processors and forwards calls to each of them.
+// ---
+
 #ifndef COMPONENTS_METRICS_STRUCTURED_DELEGATING_EVENTS_PROCESSOR_H_
 #define COMPONENTS_METRICS_STRUCTURED_DELEGATING_EVENTS_PROCESSOR_H_
 

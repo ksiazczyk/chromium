@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'CrashFileManagerTest: unit tests for CrashFileManager'
+// summary: Robolectric unit tests for CrashFileManager covering minidump file naming, renaming, retry counters, and cleanup of crash files.
+// ---
+
 package org.chromium.components.minidump_uploader;
 
 import static org.junit.Assert.assertArrayEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojom traits unit tests
+// summary: Unit tests that serialize and deserialize structured metrics events through Mojo and verify all fields round-trip correctly.
+// ---
+
 #include <string>
 
 #include "base/values.h"

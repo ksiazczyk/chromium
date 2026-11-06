@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net metrics log uploader unit tests
+// summary: Tests log uploads to secure and insecure URLs, upload data handling, and uploader reuse using a test URL loader factory.
+// ---
+
 #include "components/metrics/net/net_metrics_log_uploader.h"
 
 #include <memory>

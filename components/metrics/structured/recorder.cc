@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics recorder implementation
+// summary: Implements the Recorder singleton that records structured metrics events, posting work to the UI thread as needed.
+// ---
+
 #include "components/metrics/structured/recorder.h"
 
 #include <utility>

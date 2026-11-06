@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minidump to MIME report rewriting implementation
+// summary: Implements converting crash reports and ANR traces into MIME multipart form data for upload, including process type metrics and JNI interaction.
+// ---
+
 #include "components/minidump_uploader/rewrite_minidumps_as_mimes.h"
 
 #include <utility>

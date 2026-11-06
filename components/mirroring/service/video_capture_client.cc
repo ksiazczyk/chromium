@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video capture client implementation
+// summary: Implements VideoCaptureClient, which starts, pauses, resumes, and stops a video capture device through the VideoCaptureHost Mojo interface and delivers captured frames.
+// ---
+
 #include "components/mirroring/service/video_capture_client.h"
 
 #include "base/feature_list.h"

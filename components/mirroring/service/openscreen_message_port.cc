@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Open Screen message port implementation
+// summary: Implements a message port that bridges the Open Screen cast MessagePort API to Mojo CastMessageChannel for sending and receiving Cast messages.
+// ---
+
 #include "components/mirroring/service/openscreen_message_port.h"
 
 #include <string_view>

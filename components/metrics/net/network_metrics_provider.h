@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network metrics provider class declaration
+// summary: Declares a metrics provider that observes network connection and quality changes to attach network details to metrics reports.
+// ---
+
 #ifndef COMPONENTS_METRICS_NET_NETWORK_METRICS_PROVIDER_H_
 #define COMPONENTS_METRICS_NET_NETWORK_METRICS_PROVIDER_H_
 

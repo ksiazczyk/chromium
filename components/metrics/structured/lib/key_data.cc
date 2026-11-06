@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key management and hashing implementation
+// summary: Implements KeyData key rotation, project ID generation and HMAC-based metric hashing.
+// ---
+
 #include "components/metrics/structured/lib/key_data.h"
 
 #include <memory>
