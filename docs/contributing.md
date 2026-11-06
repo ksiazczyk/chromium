@@ -1,3 +1,11 @@
+---
+type: guide
+title: Contributing to Chromium
+summary: Guide to contributing, covering communication, design docs, legal requirements, git setup, code review, testing, and landing changes.
+relations:
+  - references /docs/gerrit_guide.md
+---
+
 # Contributing to Chromium
 
 This page assumes a working Chromium [checkout and build][checkout-and-build].

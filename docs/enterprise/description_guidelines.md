@@ -1,3 +1,11 @@
+---
+type: guide
+title: Policy Description Guidelines
+summary: Guidelines for writing the desc field of policy YAML files, covering structure, policy states, formatting, translation, and product naming.
+relations:
+  - references /docs/enterprise/add_new_policy.md
+---
+
 # Policy Description Guidelines
 
 ## Summary

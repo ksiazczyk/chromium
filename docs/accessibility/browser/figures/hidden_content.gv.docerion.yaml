@@ -1,0 +1,4 @@
+# Docerion header of hidden_content.gv.
+type: source
+title: Graphviz source of hidden content in the accessibility tree
+summary: Graphviz diagram showing aria-hidden sidebar content omitted from the accessibility tree while still present in the DOM.

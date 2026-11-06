@@ -1,3 +1,13 @@
+---
+type: reference
+title: Accessibility documentation index
+summary: Index of Chromium accessibility documentation covering browser, Android, Windows, Chrome OS, and speech synthesis topics.
+relations:
+  - references /docs/accessibility/browser/android.md
+  - references /docs/accessibility/browser/how_a11y_works.md
+  - references /docs/accessibility/browser/ia2_to_uia.md
+---
+
 # Accessibility
 
 * [Accessibility Overview](accessibility/overview.md)

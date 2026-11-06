@@ -1,3 +1,9 @@
+---
+type: guide
+title: Cr user manual
+summary: User manual for the cr tool that wraps Chromium build and run workflows, covering installation, commands, and multi-configuration checkouts.
+---
+
 # Cr
 
 Cr is a tool that tries to hide some of the tools used for working on Chromium

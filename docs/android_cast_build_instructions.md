@@ -1,3 +1,12 @@
+---
+type: guide
+title: Checking out and building Cast for Android
+summary: Step-by-step instructions for checking out the Chromium code and building and running the Cast browser APK for Android on Linux.
+relations:
+  - references /docs/linux/build_instructions.md
+  - references /build/install-build-deps.sh
+---
+
 # Checking out and building Cast for Android
 
 **Note**: it is **not possible** to build a binary functionally equivalent to a

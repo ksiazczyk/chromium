@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Configuration: Prefs, Settings, Features, Switches & Flags'
+summary: Outlines Chromium's runtime configuration surfaces and the appropriate uses and standard patterns for each of them.
+---
+
 # Configuration: Prefs, Settings, Features, Switches & Flags
 
 This document outlines all the runtime configuration surfaces of Chromium,

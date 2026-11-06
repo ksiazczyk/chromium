@@ -1,0 +1,4 @@
+# Docerion header of single_process_system.gv.
+type: source
+title: Single-process browser system accessibility diagram source
+summary: Graphviz source showing a browser's DOM tree feeding the accessibility tree, which connects to assistive technology through platform APIs.

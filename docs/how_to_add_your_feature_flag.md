@@ -1,3 +1,13 @@
+---
+type: guide
+title: Adding a new Chrome feature flag
+summary: Step-by-step instructions for adding a base::Feature in the appropriate directory and exposing it in the Chrome flags UI, including how to remove a flag.
+relations:
+  - references /docs/configuration.md
+  - references /docs/initialize_blink_features.md
+  - references /third_party/blink/renderer/platform/RuntimeEnabledFeatures.md
+---
+
 # Adding a new feature flag in chrome://flags
 
 This document describes how to add a new Chrome feature flag visible to users

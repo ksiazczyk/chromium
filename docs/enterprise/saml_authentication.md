@@ -1,3 +1,9 @@
+---
+type: reference
+title: SAML for ChromeOS login and enrollment
+summary: Describes how SAML authentication works for ChromeOS login and enrollment, including how the user's password is obtained via the Credentials Passing API or password scraping.
+---
+
 # SAML for ChromeOS login and enrollment
 
 [TOC]

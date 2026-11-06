@@ -1,0 +1,4 @@
+# Docerion header of single_process_css_system.gv.
+type: source
+title: Single-process browser with CSS and system accessibility diagram source
+summary: Graphviz source showing how DOM, CSS and layout trees produce the accessibility tree exposed to assistive technology via platform APIs.

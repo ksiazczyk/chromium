@@ -1,3 +1,13 @@
+---
+type: guide
+title: Accessing C++ Features In Java
+summary: How to check C++ base::Feature states from Java and auto-generate feature list classes with templates and GN targets.
+relations:
+  - references /build/config/android/rules.gni
+  - references /content/browser/android/content_feature_map.cc
+  - references /content/public/android/java/src/org/chromium/content_public/browser/ContentFeatureMap.java
+---
+
 # Accessing C++ Features In Java
 
 [TOC]

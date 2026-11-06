@@ -1,3 +1,12 @@
+---
+type: reference
+title: Native Relocations
+summary: Explains what native relocations are, their effect on binary size, memory and startup time, and how to inspect or avoid them.
+relations:
+  - references /docs/android_native_libraries.md
+  - references /docs/linux/zygote.md
+---
+
 # Native Relocations
 
 [TOC]

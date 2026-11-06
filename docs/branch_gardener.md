@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chromium Branch Gardening
+summary: Outlines the branch gardener role for release branches, focused on fixing compile failures and consistent test failures.
+---
+
 # Chromium Branch Gardening
 
 The Chrome release branch gardener provides coverage for release branches

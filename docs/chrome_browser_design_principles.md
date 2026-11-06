@@ -1,3 +1,12 @@
+---
+type: reference
+title: //chrome/browser design principles
+summary: Describes the core primitives, architecture patterns, and best practices for writing and maintaining code in //chrome/browser, with production feature examples.
+relations:
+  - references /ui/base/unowned_user_data/README.md
+  - references /chrome/browser/ui/views/js_optimization/BUILD.gn
+---
+
 # `//chrome/browser` design principles
 
 These design principles make it easier to write, debug, and maintain code in

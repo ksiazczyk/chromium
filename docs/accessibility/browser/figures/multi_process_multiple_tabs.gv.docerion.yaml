@@ -1,0 +1,4 @@
+# Docerion header of multi_process_multiple_tabs.gv.
+type: source
+title: Graphviz source of multiple tabs across render processes
+summary: Graphviz diagram mapping browser tabs in two windows to web page renderers spread across three render processes.

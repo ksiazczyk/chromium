@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome OS System Hardening Features
+summary: Lists current and planned Chrome OS security hardening features with their status, rationale, and related tests.
+---
+
 # Introduction
 
 This is a list of current and planned Chrome OS security features. Each feature is listed together with its rationale and status. This should serve as a checklist and status update on Chrome OS security.

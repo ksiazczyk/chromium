@@ -1,3 +1,12 @@
+---
+type: guide
+title: The Clang Static Analyzer
+summary: Covers using the Clang static analyzer on Chromium code, recommended checkers, suppressing false positives, and filing bugs.
+relations:
+  - references /docs/clang_tidy.md
+  - references /base/logging.h
+---
+
 # The Clang Static Analyzer
 
 The Clang C/C++ compiler comes with a static analyzer which can be used to find

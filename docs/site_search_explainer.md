@@ -1,3 +1,13 @@
+---
+type: reference
+title: Site Search in Omnibox Explainer
+summary: Technical explainer of the Omnibox site search and keyword search architecture, covering keyword types, providers, data structures, and Android-specific patterns.
+relations:
+  - references /components/omnibox/browser/autocomplete_controller.h
+  - references /components/omnibox/browser/featured_search_provider.h
+  - references /components/omnibox/browser/keyword_provider.h
+---
+
 # Site Search in Omnibox Explainer
 
 This document provides a technical overview of the Omnibox Scoped Search (also referred to as "site

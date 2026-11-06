@@ -1,3 +1,13 @@
+---
+type: reference
+title: Mandatory Code-Review and Native OWNERS
+summary: Policy requiring code review and OWNERS approval for Chromium CLs, with FAQs on the Rubber Stamper bot and Owners-Override.
+relations:
+  - references /ATL_OWNERS
+  - references /docs/code_reviews.md
+  - references /docs/process/lsc/large_scale_changes.md
+---
+
 # Mandatory Code-Review and Native OWNERS
 
 Beginning on March 24, 2021, committers@ of Chromium are no longer able to

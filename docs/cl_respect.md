@@ -1,3 +1,13 @@
+---
+type: guide
+title: 'Respectful Changes: A Guide for Code Authors'
+summary: Advises code authors on respectful review practices, from pre-work and reviewer selection through addressing comments and post-review follow-up.
+relations:
+  - references /docs/cl_tips.md
+  - references /docs/contributing.md
+  - references /docs/cr_respect.md
+---
+
 # Respectful Changes
 ## A Guide for Code Authors
 

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using lldbinit.py for LLDB debugging in Chromium
+summary: Explains how to configure lldb with Chromium's lldbinit.py and attach to Chromium processes for source-level debugging.
+relations:
+  - documents /tools/lldb/lldbinit.py
+---
+
 # Usage of tools/lldb/lldbinit.py
 
 Usage of Chromium's [lldbinit.py](../tools/lldb/lldbinit.py) is recommended when

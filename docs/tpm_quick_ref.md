@@ -1,3 +1,9 @@
+---
+type: reference
+title: TPM Quick Reference
+summary: Quick reference of TPM usage across Chrome OS, linking ownership management, rollback protection, and key storage; flagged as outdated.
+---
+
 # TPM Quick ref
 
 TODO: this page looks very outdated. glossary.md does not exist,

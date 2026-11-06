@@ -1,3 +1,9 @@
+---
+type: guide
+title: ChromeVox on Desktop Linux
+summary: Guide to building and running Chrome with ChromeOS ChromeVox support on desktop Linux, including key remapping, speech, and braille setup.
+---
+
 # ChromeVox on Desktop Linux
 
 ## Starting ChromeVox

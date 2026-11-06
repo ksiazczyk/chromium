@@ -1,3 +1,11 @@
+---
+type: reference
+title: GPU Synchronization in Chrome
+summary: Explains when GPU synchronization is needed and which mechanism fits, covering GL fences, CHROMIUM sync tokens, and cross-process GpuFence transport.
+relations:
+  - references /ui/gl/gl_fence.h
+---
+
 # GPU Synchronization in Chrome
 
 Chrome supports multiple mechanisms for sequencing GPU drawing operations, this

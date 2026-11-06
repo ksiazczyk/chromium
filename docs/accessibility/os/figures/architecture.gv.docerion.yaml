@@ -1,0 +1,4 @@
+# Docerion header of architecture.gv.
+type: source
+title: Graphviz source for the OS accessibility architecture diagram
+summary: DOT definition of the OS accessibility architecture, connecting features such as ChromeVox and Select to Speak to frameworks like chrome.automation and chrome.tts and to Android and Web renderers.

@@ -1,3 +1,12 @@
+---
+type: reference
+title: D-Bus Mojo Connection Service
+summary: Describes the D-Bus Mojo Connection Service for bootstrapping CrOS services' Mojo connections, with steps for adding usages and security guidance.
+relations:
+  - references /chrome/browser/ash/dbus/mojo_connection_service_provider.h
+  - references /chrome/browser/ash/dbus/mojo_connection_service_provider.cc
+---
+
 # D-Bus Mojo Connection Service
 
 ## Overview

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Enterprise policies
+summary: Overview of enterprise policy sources per platform, device versus user policy types, extension policies, and policy ownership responsibilities.
+relations:
+  - references /docs/enterprise/kiosk_public_session.md
+---
+
 # Enterprise policies
 
 Under enterprise management, organization admins can configure the way a

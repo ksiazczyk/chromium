@@ -1,0 +1,4 @@
+# Docerion header of cover_flow.gv.
+type: source
+title: Graphviz source of the Cover Flow control trees
+summary: Graphviz diagram comparing the accessibility tree and platform UI object tree for a Cover Flow combo box control.

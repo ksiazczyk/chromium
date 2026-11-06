@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chromium Flag Guarding Guidelines
+summary: Guidelines for when Chromium features need server-configurable base::Feature flags, which rollout type to use, and when flag guarding is not required.
+relations:
+  - references /base/feature_list.h
+---
+
 # Chromium Flag Guarding Guidelines
 
 This document describes using [`base::Feature`](/base/feature_list.h) flags which

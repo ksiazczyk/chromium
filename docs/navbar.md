@@ -1,3 +1,13 @@
+---
+type: config
+title: Chromium Docs navigation links
+summary: Defines the navigation bar entries linking to the main pages of the Chromium documentation.
+relations:
+  - references /docs/README.md
+  - references /docs/contributing.md
+  - references /docs/design/README.md
+---
+
 # Chromium Docs
 
 [logo]: /docs/images/chromium_logo.png

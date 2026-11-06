@@ -1,3 +1,11 @@
+---
+type: reference
+title: Enterprise Enrollment on ChromeOS
+summary: Explains ChromeOS enterprise enrollment requirements and scenarios, including manual, re-enrollment, OEM-triggered, and offline demo-mode enrollment.
+relations:
+  - references /docs/enterprise/management.md
+---
+
 # Enterprise Enrollment on ChromeOS
 
 Enterprise Enrollment is a process that marks a device as belonging to

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Clang Tidy
+summary: Explains where clang-tidy runs in Chromium, which checks are enabled, and how to add new checks or run the linter locally.
+relations:
+  - references /.clang-tidy
+---
+
 # Clang Tidy
 
 [TOC]

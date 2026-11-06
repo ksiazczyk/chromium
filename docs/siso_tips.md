@@ -1,3 +1,13 @@
+---
+type: guide
+title: Siso Build Tool Tips
+summary: Guide with practical tips for using the Siso build system in Chromium, including single-file compilation, concurrency limits, remote execution control, and error inspection.
+relations:
+  - references /base/time/time.cc
+  - references /base/time/time_unittest.cc
+  - references /base/BUILD.gn
+---
+
 # Siso Tips
 
 When using Siso, there are a few tips that are particularly useful in

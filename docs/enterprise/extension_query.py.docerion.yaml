@@ -1,0 +1,4 @@
+# Docerion header of extension_query.py.
+type: source
+title: CBCM Takeout API extension query script (Python 3)
+summary: Python 3 sample script that fetches CBCM Takeout API data and computes a per-extension list of machines with installed, disabled, and forced states.

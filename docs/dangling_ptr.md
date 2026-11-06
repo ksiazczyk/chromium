@@ -1,3 +1,12 @@
+---
+type: reference
+title: Dangling Pointer Detector
+summary: Documents Chrome's dangling pointer detector, including build and runtime flags, modes, and pointer type selection options.
+relations:
+  - references /base/memory/raw_ptr.md
+  - references /docs/dangling_ptr_guide.md
+---
+
 # Dangling Pointer Detector
 
 A pointer is dangling when it references freed memory. Typical examples can be

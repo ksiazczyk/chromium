@@ -1,3 +1,11 @@
+---
+type: guide
+title: Network Traffic Annotations
+summary: Practical guide to annotating Chrome network requests with NetworkTrafficAnnotationTag, covering best practices, tag format, testing, review, and partial and mutable annotations.
+relations:
+  - references /agents/skills/network-traffic-annotations/SKILL.md
+---
+
 # Network Traffic Annotations
 
 [TOC]

@@ -1,0 +1,4 @@
+# Docerion header of single_process.gv.
+type: source
+title: Single-process accessibility and DOM tree diagram source
+summary: Graphviz source comparing the accessibility tree and DOM tree of a sign-in page with headings, text box and submit button.

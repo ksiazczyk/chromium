@@ -1,0 +1,4 @@
+# Docerion header of multi_process_ax.gv.
+type: source
+title: Graphviz source of the multi-process accessibility pipeline
+summary: Graphviz diagram of the accessibility pipeline from Blink objects through the render process to the browser and assistive technology.

@@ -1,3 +1,9 @@
+---
+type: plan
+title: 'Piranha Plant: MediaStreams architecture project plan'
+summary: Project plan for the Piranha Plant effort to redesign MediaStreams architecture in Chromium, listing background, goals, deliverables and an incremental task list.
+---
+
 # Piranha Plant
 
 Piranha Plant is the name of a project, started in November 2013, that aims to

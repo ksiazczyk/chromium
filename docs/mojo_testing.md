@@ -1,3 +1,11 @@
+---
+type: guide
+title: Testing With Mojo
+summary: Best practices for testing code that uses Mojo services, including fakes, async waiting and message delivery checks.
+relations:
+  - references /docs/mojo_and_services.md
+---
+
 # Testing With Mojo
 
 This document outlines some best practices and techniques for testing code which

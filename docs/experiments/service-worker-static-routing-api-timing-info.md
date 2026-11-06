@@ -1,3 +1,9 @@
+---
+type: reference
+title: Timing information for ServiceWorker Static Routing API
+summary: Describes the new resource timing fields for the ServiceWorker Static Routing API and how to join its origin trial.
+---
+
 # Timing information for ServiceWorker Static Routing API
 
 - Contact: chrome-loading@google.com

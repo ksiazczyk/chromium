@@ -1,3 +1,11 @@
+---
+type: decision
+title: No sources_assignment_filter
+summary: Records the decision to stop using GN's sources assignment filter and shows how to assign platform-specific sources explicitly in BUILD.gn files.
+relations:
+  - references /BUILD.gn
+---
+
 # No sources_assignment_filter
 
 There is a [strong][0] [consensus][1] that the set_sources_assignment_filter

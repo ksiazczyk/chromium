@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chrome Logging on Chrome OS
+summary: Lists where Chrome log messages are stored on Chrome OS and shows how to raise the log level and enable verbose logging on a test device.
+relations:
+  - references /base/logging.h
+---
+
 # Chrome Logging on Chrome OS
 
 ## Locations

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Gerrit ReAuth
+summary: Guide to Gerrit ReAuth, the security-key two-factor authentication required of committers, with prerequisites, setup, remote workflows, and troubleshooting.
+relations:
+  - references /docs/images/gerrit_reauth_2sv.png
+  - references /docs/images/gerrit_reauth_firefox_sk.png
+  - references /docs/images/gerrit_reauth_key_registration.png
+---
+
 # Gerrit ReAuth
 
 *** note

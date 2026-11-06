@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chromium Gardening
+summary: Describes the Chromium gardener role, its responsibilities for keeping the tree open and handling test failures, and how to contact the gardeners.
+relations:
+  - references /docs/code_reviews.md
+---
+
 # Chromium Gardening
 
 Gardeners have one overarching role: to ensure that the Chromium build

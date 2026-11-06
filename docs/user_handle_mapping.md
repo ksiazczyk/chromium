@@ -1,3 +1,9 @@
+---
+type: reference
+title: User handle mapping between chromium.org and google.com
+summary: Reference table mapping Chromium contributor usernames on chromium.org to their corresponding nicks on google.com.
+---
+
 For Chromium contributors that have different nicks on other domains.
 
 | **@chromium.org** | **@google.com** |

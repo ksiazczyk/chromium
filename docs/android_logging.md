@@ -1,3 +1,11 @@
+---
+type: guide
+title: Android Logging
+summary: How to use Chromium's Android logging wrapper, with best practices such as never logging PII, avoiding expensive log construction, and filtering logs.
+relations:
+  - documents /base/android/java/src/org/chromium/base/Log.java
+---
+
 # Logging
 
 [TOC]

@@ -1,3 +1,9 @@
+---
+type: guide
+title: Chromium for Arm Macs
+summary: Covers building Chromium for and on Arm Macs, including cross-builds, copying builds, and creating universal apps.
+---
+
 # Chromium for Arm Macs
 
 Arm Macs are fully supported. You can build Chromium on an Arm Mac. You

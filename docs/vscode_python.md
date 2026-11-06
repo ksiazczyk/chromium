@@ -1,3 +1,11 @@
+---
+type: guide
+title: Debugging Chromium Python with the VS Code debugger
+summary: Instructions for attaching the VS Code debugger to Chromium Python code over SSH or locally using debugpy.
+relations:
+  - references /docs/images/vscode_python_connection_dialog.png
+---
+
 # Debugging Chromium Python With The VSCode Debugger
 
 ## Before You Begin

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Cross-compiling Chrome for Windows
+summary: How to build and run Windows-targeted Chromium from Linux or Mac hosts, covering toolchain setup, GN arguments, RBE and running tests on swarming.
+relations:
+  - references /docs/windows_build_instructions.md
+---
+
 # Cross-compiling Chrome/win
 
 As many Chromium developers are on Linux/Mac, cross-compiling Chromium for

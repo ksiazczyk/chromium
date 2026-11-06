@@ -1,3 +1,13 @@
+---
+type: guide
+title: Static Initializers
+summary: Guide on static initializers (global constructors) in Chromium builds, explaining how they are checked, how to remove them, and how to list them using various tools.
+relations:
+  - references /chrome/android/static_initializers.gni
+  - references /tools/binary_size/README.md
+  - references /testing/scripts/check_static_initializers.py
+---
+
 # Static Initializers
 
 [TOC]

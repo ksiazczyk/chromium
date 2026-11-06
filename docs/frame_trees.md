@@ -1,3 +1,13 @@
+---
+type: reference
+title: Demystifying FrameTree Concepts
+summary: Explains FrameTree concepts in Chromium, including nested frame trees, outermost main frames, pages, and relationships between core classes in content/.
+relations:
+  - references /content/browser/renderer_host/frame_tree.h
+  - references /content/browser/renderer_host/frame_tree_node.h
+  - references /content/public/browser/page.h
+---
+
 # Demystifying FrameTree Concepts
 
 ## What are Frame Trees?

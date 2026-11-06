@@ -1,3 +1,13 @@
+---
+type: reference
+title: UseCounter Wiki
+summary: Describes the UseCounter feature-usage measurement system, how to add a feature to it, and how to analyze its UMA and UKM data.
+relations:
+  - references /third_party/blink/public/mojom/use_counter/metrics/webdx_feature.mojom
+  - references /third_party/blink/public/mojom/use_counter/metrics/web_feature.mojom
+  - references /tools/metrics/histograms/update_use_counter_feature_enum.py
+---
+
 # UseCounter Wiki
 
 UseCounter can measure the usage of HTML, CSS, and JavaScript (etc) features

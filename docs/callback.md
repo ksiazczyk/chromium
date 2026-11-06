@@ -1,3 +1,12 @@
+---
+type: reference
+title: OnceCallback and BindOnce, RepeatingCallback and BindRepeating
+summary: Reference for Chromium's callback classes and binding functions, covering usage, memory management, chaining and implementation notes.
+relations:
+  - documents /base/functional/bind.h
+  - documents /base/functional/callback.h
+---
+
 # OnceCallback<> and BindOnce(), RepeatingCallback<> and BindRepeating()
 
 [TOC]

@@ -1,3 +1,12 @@
+---
+type: guide
+title: CIPD and 3pp for chromium dependencies
+summary: Explains CIPD and 3pp for Chromium dependencies and walks through adding a new 3pp package, updating CIPD dependencies, and troubleshooting.
+relations:
+  - references /DEPS
+  - references /docs/adding_to_third_party.md
+---
+
 # CIPD and 3pp for chromium dependencies
 
 [TOC]

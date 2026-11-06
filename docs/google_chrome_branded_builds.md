@@ -1,3 +1,13 @@
+---
+type: guide
+title: Google Chrome branded builds
+summary: Explains how to handle Google Chrome branding and trademarked assets in builds, including internal asset repositories and code-level branding checks.
+relations:
+  - references /chrome/app/chromium_strings.grd
+  - references /chrome/app/google_chrome_strings.grd
+  - references /chrome/app/theme/default_100_percent/chromium/product_logo_32.png
+---
+
 # Google Chrome branded builds
 
 > Note: to do any of this, an `src-internal` checkout is needed. For more info,

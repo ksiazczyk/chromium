@@ -1,3 +1,9 @@
+---
+type: readme
+title: Life of Client Hint
+summary: Explains the Client Hints mechanism in Chromium, tracing how hints requested via Accept-CH response headers are stored, cached, and attached to subsequent requests, with design and implementation details.
+---
+
 # Life of Client Hint
 
 Client hints are a set of headers that a server can proactively request from a

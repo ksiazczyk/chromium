@@ -1,3 +1,9 @@
+---
+type: reference
+title: 'Permissions-Policy: Unload'
+summary: Describes the experimental Permissions-Policy unload feature in Chrome and how to enable it via flag, UI, or origin trial.
+---
+
 # Permissions-Policy: Unload
 
 Contact: bfcache-dev@chromium.org

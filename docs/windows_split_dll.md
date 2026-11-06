@@ -1,3 +1,9 @@
+---
+type: note
+title: Windows Split DLLs
+summary: Documents the retired Windows split DLL build mode that split chrome.dll into two DLLs to work around toolchain limitations, and which was removed once those limitations were fixed.
+---
+
 # Windows Split DLLs
 
 A build mode where chrome.dll is split into two separate DLLs. This was

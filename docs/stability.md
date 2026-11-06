@@ -1,3 +1,11 @@
+---
+type: reference
+title: Overview of Stability and Crash Monitoring in Chrome
+summary: Reference overview of how Chrome measures and monitors stability, covering crash types, Crashpad reporting, UMA metrics, OS-level counting, and interpretation warnings.
+relations:
+  - references /chrome/browser/background/background_contents_service.cc
+---
+
 # An Overview of All Things Stability/Crash in Chrome
 
 _current as of May 2026_

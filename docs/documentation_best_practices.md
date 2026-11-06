@@ -1,3 +1,9 @@
+---
+type: guide
+title: Documentation Best Practices
+summary: Best practices for writing and maintaining documentation, emphasizing minimal viable docs, updating docs with code, and deleting dead documentation.
+---
+
 # Documentation Best Practices
 
 "Say what you mean, simply and directly." -

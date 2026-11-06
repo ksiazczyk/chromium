@@ -1,3 +1,13 @@
+---
+type: guide
+title: Visual Studio Code development setup for Chromium
+summary: Guide to installing, configuring and using VS Code for Chromium development, including recommended extensions, workspace settings, tasks, debugging and remote setups.
+relations:
+  - references /docs/vscode_python.md
+  - references /docs/documentation_guidelines.md
+  - references /docs/contributing.md
+---
+
 # Visual Studio Code Dev
 
 **Get started [here](#setup)**.

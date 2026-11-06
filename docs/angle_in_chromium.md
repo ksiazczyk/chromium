@@ -1,3 +1,9 @@
+---
+type: guide
+title: Hacking on ANGLE in Chromium
+summary: Instructions for developing ANGLE within a Chromium checkout and for rolling ANGLE revisions into Chrome through DEPS.
+---
+
 # Hacking on ANGLE in Chromium
 
 In DEPS, comment out the part that looks like this.

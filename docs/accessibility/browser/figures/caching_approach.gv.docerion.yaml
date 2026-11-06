@@ -1,0 +1,4 @@
+# Docerion header of caching_approach.gv.
+type: source
+title: Graphviz source of the cached accessibility tree approach
+summary: Graphviz diagram of a cached accessibility tree in the browser process receiving atomic updates from the render process trees.

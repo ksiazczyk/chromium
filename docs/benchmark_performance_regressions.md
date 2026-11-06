@@ -1,3 +1,11 @@
+---
+type: decision
+title: Regressions to Competitive Benchmarks
+summary: Policy for handling benchmark performance regressions, including owner contacts, thresholds and how to run pinpoint jobs.
+relations:
+  - references /tools/perf/cb
+---
+
 # Regressions to Competitive Benchmarks
 
 Speed is one of Chrome’s core strengths. One of the tools we use to

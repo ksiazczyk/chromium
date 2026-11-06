@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for accessibility OS docs
+summary: Declares the metadata mixins for the OS accessibility documentation directory, inheriting settings from ash/accessibility COMMON_METADATA.
+relations:
+  - references /ash/accessibility/COMMON_METADATA

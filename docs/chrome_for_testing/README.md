@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chrome for Testing Differences
+summary: Summarizes the functional and behavioral differences of Chrome for Testing builds, covering configuration, startup, user data directories, enterprise policies, UI, virtual clipboard, OS integration, DevTools, and pre-built binaries.
+relations:
+  - references /docs/chrome_for_testing/chrome_for_testing_configuration.md
+  - references /docs/enterprise/policies.md
+  - references /docs/user_data_dir.md
+---
+
 # Chrome for Testing Differences
 
 This document summarizes the functional and behavioral differences introduced

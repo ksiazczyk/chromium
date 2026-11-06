@@ -1,3 +1,11 @@
+---
+type: guide
+title: Git Cookbook
+summary: A collection of git recipes for common tasks in Chromium development, covering git-cl workflows, depot_tools extensions, sharing code, and reverting commits.
+relations:
+  - references /docs/git_tips.md
+---
+
 # Git Cookbook
 
 A collection of git recipes to do common git tasks.

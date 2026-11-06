@@ -1,3 +1,9 @@
+---
+type: guide
+title: Git tips for the Chromium codebase
+summary: Practical Git tips for working with the large Chromium repository, covering configuration, committing, branching, searching, global changes, and diffs.
+---
+
 # Git Tips
 
 When using Git, there are a few tips that are particularly useful when working

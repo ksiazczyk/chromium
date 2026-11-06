@@ -1,3 +1,9 @@
+---
+type: reference
+title: Runtime two way IAccessible2 to UI Automation elements look up via unique id
+summary: Shows how assistive technologies can convert between IAccessible2 and UI Automation elements at runtime using a shared unique id.
+---
+
 # Runtime two way IAccessible2 to UI Automation elements look up via unique id
 Assistive technologies (ATs) who currently rely on IAccessible2 (IA2) that want
 to take advantage of the UI Automation (UIA) features at runtime can convert an

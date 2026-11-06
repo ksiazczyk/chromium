@@ -1,3 +1,11 @@
+---
+type: reference
+title: How cc works
+summary: Explains the architecture, data flow, layers, rasterization, animation, and scheduling of cc, the Chromium compositor library embedded in browser and renderer.
+relations:
+  - references /docs/images/how_cc_works-data_flow.png
+---
+
 # How cc Works
 
 [Original google doc](https://docs.google.com/document/d/1yjzOWrPfFGviEd1nru3yzqxSHETC-zsEBSt9C8SvV-Q/edit)

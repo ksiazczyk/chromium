@@ -1,0 +1,4 @@
+# Docerion header of extension_query_py2.py.
+type: source
+title: CBCM Takeout API extension query script (Python 2)
+summary: Python 2 version of the sample script that fetches CBCM Takeout API data and computes a per-extension list of machines with install states.

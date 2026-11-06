@@ -1,3 +1,12 @@
+---
+type: reference
+title: Chrome Shutdown
+summary: Reference describing the Chrome shutdown sequence on Windows, Mac, and Linux, from profile destruction through main loop exit, thread joining, and ChromeOS differences.
+relations:
+  - references /chrome/browser/profiles/keep_alive/profile_keep_alive_types.h
+  - references /components/keep_alive_registry/keep_alive_types.h
+---
+
 # Chrome Shutdown
 
 [TOC]

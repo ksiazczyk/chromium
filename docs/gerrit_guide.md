@@ -1,3 +1,11 @@
+---
+type: guide
+title: Gerrit Guide
+summary: Guide to getting access to the Chromium Gerrit instance, covering account setup, verification, linking accounts, common issues, and usage tips.
+relations:
+  - references /docs/gerrit_reauth.md
+---
+
 # Gerrit Guide
 
 [TOC]

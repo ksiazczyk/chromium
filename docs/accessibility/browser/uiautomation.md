@@ -1,3 +1,11 @@
+---
+type: reference
+title: UI Automation
+summary: Explains the UI Automation (UIA) accessibility API on Windows, covering clients and providers, tree views, and TextPattern, and how Chromium implements the provider APIs.
+relations:
+  - references /docs/accessibility/browser/custom_uia_properties.md
+---
+
 # UI Automation
 
 [UI Automation (UIA)](https://docs.microsoft.com/en-us/windows/win32/winauto/entry-uiauto-win32)

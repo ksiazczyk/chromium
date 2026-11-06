@@ -1,3 +1,12 @@
+---
+type: guide
+title: App Bundles and Dynamic Feature Modules (DFMs)
+summary: Explains Android app bundles and dynamic feature modules in Chromium, including GN targets, creating module code and resources, and on-demand, deferred, and conditional installs.
+relations:
+  - references /docs/android_build_instructions.md
+  - references /docs/android_isolated_splits.md
+---
+
 # App Bundles and Dynamic Feature Modules (DFMs)
 
 [TOC]

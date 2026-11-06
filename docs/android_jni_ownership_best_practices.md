@@ -1,3 +1,13 @@
+---
+type: guide
+title: Android Java <-> C++ Ownership Best Practices
+summary: Best practices for managing the ownership, lifecycle, and cardinality of paired Java and C++ objects across JNI in Chromium Android code.
+relations:
+  - references /base/android/scoped_java_ref.h
+  - references /styleguide/java/java.md
+  - references /third_party/jni_zero/README.md
+---
+
 # Android Java <-> C++ Ownership Best Practices
 
 Aims to provide best practices for maintaining the ownership and lifecycle of

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Windows native window occlusion tracking
+summary: Explains the background and implementation of native window occlusion detection on Windows, which throttles rendering of occluded Chromium windows.
+relations:
+  - documents /ui/aura/native_window_occlusion_tracker_win.cc
+---
+
 # Windows Native Window Occlusion Detection
 
 ## Background

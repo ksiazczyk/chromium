@@ -1,3 +1,12 @@
+---
+type: guide
+title: Closure Compilation
+summary: Explains JavaScript type checking with Closure Compiler in Chromium, including BUILD.gn structure, local compilation, and externs.
+relations:
+  - references /ui/BUILD.gn
+  - references /third_party/closure_compiler/compile_js.gni
+---
+
 # Closure Compilation
 
 **Important: Closure Compilation is only supported on ChromeOS Ash. On all

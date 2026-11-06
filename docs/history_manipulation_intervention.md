@@ -1,3 +1,11 @@
+---
+type: reference
+title: History manipulation intervention in Chromium
+summary: Describes the interventions that make the back button skip abusive history entries, including NavigationEntry tagging rules and intervention logic.
+relations:
+  - references /docs/ad_tagging.md
+---
+
 # History manipulation intervention in Chromium
 
 Reference: [PSA on blink-dev](https://groups.google.com/a/chromium.org/g/blink-dev/c/T8d4_BRb2xQ/m/WSdOiOFcBAAJ)

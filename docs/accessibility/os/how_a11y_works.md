@@ -1,3 +1,12 @@
+---
+type: reference
+title: How accessibility works
+summary: Technical survey of how Chrome OS accessibility works, covering renderers, frameworks, public and private APIs, libraries, and major accessibility features.
+relations:
+  - references /docs/accessibility/browser/how_a11y_works.md
+  - references /docs/accessibility/os/figures/architecture.png
+---
+
 # How accessibility works
 
 ## Overview

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Initialization of Blink runtime features in content layer
+summary: Outlines how to initialize Blink runtime features in the Chromium content layer, with steps for OS macros, base::Feature status, and command line switch control.
+relations:
+  - documents /content/child/runtime_features.cc
+  - references /third_party/blink/public/platform/web_runtime_features.h
+  - references /third_party/blink/renderer/platform/exported/web_runtime_features.cc
+---
+
 # Initialization of Blink runtime features in content layer
 This document outlines how to initialize your Blink runtime features in the
 Chromium content layer, more specifically in

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Process Model and Site Isolation
+summary: Explains how Chromium assigns web content to renderer processes and how site isolation, process locks and browser-enforced restrictions provide stability and security.
+---
+
 # Process Model and Site Isolation
 
 As the early Web matured, web sites evolved from simple documents to active

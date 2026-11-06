@@ -1,3 +1,9 @@
+---
+type: guide
+title: BRLTTY in Chrome OS
+summary: Explains how Chrome OS integrates BRLTTY for refreshable braille displays and how to update, patch, and uprev the package.
+---
+
 # BRLTTY in Chrome OS
 
 Chrome OS uses the open-source [BRLTTY](http://mielke.cc/brltty/)

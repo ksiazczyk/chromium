@@ -1,3 +1,9 @@
+---
+type: reference
+title: Automatic clicks (for developers)
+summary: Developer documentation for the Chrome OS automatic clicks feature, covering usage, bug reporting, code locations, testing, debugging, and internal operation.
+---
+
 # Automatic clicks (for developers)
 
 Automatic clicks is a Chrome OS feature to automatically generate mouse events

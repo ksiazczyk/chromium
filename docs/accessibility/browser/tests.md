@@ -1,3 +1,13 @@
+---
+type: guide
+title: Accessibility testing in Chromium
+summary: Overviews where accessibility tests live in the Chromium codebase and how to run web tests, browser tests, unittests, and ChromeVox tests.
+relations:
+  - references /content/test/data/accessibility/readme.md
+  - references /docs/testing/web_tests.md
+  - references /third_party/blink/tools/run_web_tests.py
+---
+
 # Accessibility
 
 Here's a quick overview of all of the locations in the codebase where you'll

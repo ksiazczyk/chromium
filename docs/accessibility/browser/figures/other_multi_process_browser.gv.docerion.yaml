@@ -1,0 +1,4 @@
+# Docerion header of other_multi_process_browser.gv.
+type: source
+title: Other multi-process browser diagram source
+summary: Graphviz source for a figure showing a browser process window, two tab processes and their bidirectional connections to the operating system.

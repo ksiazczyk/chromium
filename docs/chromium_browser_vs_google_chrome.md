@@ -1,3 +1,12 @@
+---
+type: reference
+title: The Difference between Google Chrome and Chromium on Linux
+summary: Compares Google Chrome and Chromium browser packages on Linux, listing differences in codecs, crash reporting, metrics, sandboxing, and profiles.
+relations:
+  - references /docs/linux/chromium_packages.md
+  - references /docs/linux/crash_dumping.md
+---
+
 # The Difference between Google Chrome and Chromium on Linux
 
 Chromium on Linux has two general flavors: You can either get

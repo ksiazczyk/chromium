@@ -1,3 +1,12 @@
+---
+type: reference
+title: User Data Directory
+summary: Documents where Chrome's user data directory lives on each platform and how to override it via command line, environment, or wrappers.
+relations:
+  - references /docs/chromium_browser_vs_google_chrome.md
+  - references /chrome/installer/linux/common/wrapper
+---
+
 # User Data Directory
 
 [TOC]

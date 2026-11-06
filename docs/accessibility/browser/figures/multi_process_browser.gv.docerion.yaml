@@ -1,0 +1,4 @@
+# Docerion header of multi_process_browser.gv.
+type: source
+title: Graphviz source of the multi-process browser split
+summary: Graphviz diagram of a sandboxed render process exchanging user input events and pixels with the browser process and operating system.

@@ -1,3 +1,12 @@
+---
+type: reference
+title: The Chrome Component Build
+summary: Explains Chromium's component build, symbol exporting with COMPONENT_EXPORT, multi-target components, and common mistakes.
+relations:
+  - references /mojo/public/tools/bindings/README.md
+  - references /base/component_export.h
+---
+
 # The Chrome Component Build
 
 ## Introduction

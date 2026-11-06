@@ -1,3 +1,11 @@
+---
+type: guide
+title: Usage of tools/gdb/gdbinit
+summary: Explains how to source Chromium's gdbinit file for gdb debugging, needed for source-level debugging and adding pretty-printing of custom Chromium types.
+relations:
+  - documents /tools/gdb/gdbinit
+---
+
 # Usage of tools/gdb/gdbinit
 
 Usage of Chromium's [gdbinit](../tools/gdb/gdbinit) is recommended when

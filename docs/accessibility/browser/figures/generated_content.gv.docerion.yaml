@@ -1,0 +1,4 @@
+# Docerion header of generated_content.gv.
+type: source
+title: Graphviz source of generated content in the accessibility tree
+summary: Graphviz diagram showing generated list markers present in the accessibility tree but absent from the DOM tree.

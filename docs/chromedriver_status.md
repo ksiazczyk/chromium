@@ -1,3 +1,9 @@
+---
+type: reference
+title: WebDriver Status
+summary: Tables all WebDriver commands from the W3C WebDriver Specification and their current implementation status in ChromeDriver.
+---
+
 # WebDriver Status
 
 Below is a list of all WebDriver commands and their current support in ChromeDriver based on what is in the [WebDriver Specification](https://w3c.github.io/webdriver/).

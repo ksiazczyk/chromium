@@ -1,3 +1,9 @@
+---
+type: reference
+title: Kiosk mode and public sessions on ChromeOS
+summary: Describes public sessions and kiosk mode for enterprise-enrolled ChromeOS devices and how admins configure them in the Admin console.
+---
+
 # Kiosk mode and public sessions (ChromeOS)
 
 When ChromeOS device is enterprise enrolled, organization admins can add two

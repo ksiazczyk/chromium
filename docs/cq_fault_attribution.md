@@ -1,3 +1,9 @@
+---
+type: reference
+title: CQ Fault Attribution
+summary: Explains how Gerrit's Failure Analysis categorizes CQ test variant failures as new or pre-existing and where fault attribution tags appear in the checks tab.
+---
+
 # CQ Fault Attribution
 
 The Failure Analysis section in Gerrit provides an easily discoverable view of

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Updating Clang-Format Binaries
+summary: Instructions for fetching, uploading, and wiring prebuilt clang-format binaries for all supported platforms into Chromium checkouts.
+relations:
+  - references /docs/clang_format.md
+  - references /docs/clang_sheriffing.md
+  - references /buildtools/DEPS
+---
+
 # Updating Clang format binaries
 
 Instructions on how to update the [clang-format binaries](clang_format.md) that

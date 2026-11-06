@@ -1,3 +1,9 @@
+---
+type: reference
+title: Pending Beacon API
+summary: Describes the deprecated Pending Beacon API in Chrome, its supported and unsupported behaviors, and how to enable it.
+---
+
 # Pending Beacon API
 
 - Status: **Deprecated** (Replaced by [FetchLater API](fetch-later.md))

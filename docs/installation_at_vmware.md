@@ -1,3 +1,9 @@
+---
+type: guide
+title: How to install Chromium OS on VMWare
+summary: Short guide to installing a Chromium OS image in VMware, covering downloading the image and mounting it as a virtual machine hard disk.
+---
+
 # How to install Chromium OS on VMWare
 
 ## Download

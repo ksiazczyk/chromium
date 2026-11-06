@@ -1,3 +1,11 @@
+---
+type: guide
+title: Git submodules in Chromium
+summary: Explains how Git submodules are managed in Chromium via gclient, how to avoid accidental submodule updates, and how to fix and resolve submodule mistakes.
+relations:
+  - references /.gitmodules
+---
+
 # Git submodules
 
 A Git submodule is a Git repository inside another Git repository. Chromium

@@ -1,3 +1,9 @@
+---
+type: note
+title: Chrome settings deprecation notice
+summary: Deprecation notice stating that the old options UI is superseded by MD Settings, where new features and bug fixes should be contributed.
+---
+
 # Deprecation
 
 This doc described the "options" UI, previously at chrome://settings-frame,

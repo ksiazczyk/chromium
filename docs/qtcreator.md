@@ -1,3 +1,9 @@
+---
+type: guide
+title: Using Qt Creator as an IDE or debugger
+summary: Instructions for using Qt Creator with Chromium, covering project setup, ClangFormat code style, build and run configuration and debugger troubleshooting.
+---
+
 # Use Qt Creator as an IDE or debugger UI
 
 [Qt Creator](https://www.qt.io/ide/)

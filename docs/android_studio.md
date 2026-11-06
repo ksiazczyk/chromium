@@ -1,3 +1,13 @@
+---
+type: guide
+title: Android Studio
+summary: How to generate and use an Android Studio project for Chromium Java development, including how generation works, tips, and current limitations.
+relations:
+  - references /docs/android_build_instructions.md
+  - references /docs/testing/android_test_instructions.md
+  - references /docs/vscode.md
+---
+
 # Android Studio
 
 [TOC]

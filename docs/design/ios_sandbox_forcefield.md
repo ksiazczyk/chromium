@@ -1,3 +1,9 @@
+---
+type: plan
+title: 'ForceField: An iOS Sandbox Primitive'
+summary: Feature request proposing an iOS primitive to run memory-unsafe code in a sandboxed, low-privilege process for safely handling untrusted data.
+---
+
 # ForceField: An iOS Sandbox Primitive
 
 _**Status:** Filed as FB9007081_ \

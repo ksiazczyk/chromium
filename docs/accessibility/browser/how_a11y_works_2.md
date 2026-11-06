@@ -1,3 +1,13 @@
+---
+type: reference
+title: How Chrome Accessibility Works, Part 2
+summary: Continues the accessibility deep dive into Chromium's multi-process architecture, Blink, and how the accessibility tree is cached and serialized.
+relations:
+  - references /docs/accessibility/browser/how_a11y_works.md
+  - references /docs/accessibility/browser/figures/multi_process_browser.png
+  - references /docs/accessibility/browser/figures/multi_process_multiple_tabs.png
+---
+
 # How Chrome Accessibility Works, Part 2
 
 This document explains the technical details behind Chrome accessibility

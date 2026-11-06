@@ -1,3 +1,13 @@
+---
+type: reference
+title: How Chrome Accessibility Works
+summary: Explains the technical details of Chrome accessibility, building from simple toolkit applications up to a multi-process browser.
+relations:
+  - references /docs/accessibility/browser/figures/ax_tree.png
+  - references /docs/accessibility/browser/images/cover_flow.jpg
+  - references /docs/accessibility/overview.md
+---
+
 # How Chrome Accessibility Works
 
 This document explains the technical details behind Chrome accessibility

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Respectful Code Reviews
+summary: Guidance for Chromium code reviewers on conducting respectful reviews, covering behaviors to adopt and avoid.
+relations:
+  - references /docs/cl_respect.md
+---
+
 # Respectful Code Reviews
 ## A Guide for Code Reviewers
 

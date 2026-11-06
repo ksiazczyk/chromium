@@ -1,3 +1,11 @@
+---
+type: guide
+title: How to Write Cross-Platform UI (Native components)
+summary: Advice for writing cross-platform native UI components, covering shared business logic, lifetime management, and bridging to Java.
+relations:
+  - references /third_party/jni_zero/README.md
+---
+
 # How to Write Cross-Platform UI (Native components)
 
 [TOC]

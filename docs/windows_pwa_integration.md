@@ -1,3 +1,13 @@
+---
+type: reference
+title: Windows Progressive Web App integration
+summary: Describes how Chrome integrates installed PWAs on Windows, including desktop shortcuts via chrome_proxy.exe and file handler registration in the registry.
+relations:
+  - references /chrome/chrome_proxy/chrome_proxy_main_win.cc
+  - references /chrome/browser/web_applications/chrome_pwa_launcher/README.md
+  - references /chrome/installer/util/shell_util.cc
+---
+
 # Windows Progressive Web App integration
 
 ## Desktop Shortcuts

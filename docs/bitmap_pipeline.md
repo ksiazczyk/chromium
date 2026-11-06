@@ -1,3 +1,9 @@
+---
+type: reference
+title: Bitmap Pipeline
+summary: Describes how bitmaps move from the renderer to the screen, including shared memory transport and per-platform backing stores.
+---
+
 # Bitmap Pipeline
 
 This pages details how bitmaps are moved from the renderer to the screen.

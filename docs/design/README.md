@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chromium Design Docs
+summary: Index of the design documents directory, linking to pages on sandboxing, startup, threading, and GPU synchronization.
+relations:
+  - references /docs/design/gpu_synchronization.md
+  - references /docs/design/sandbox.md
+  - references /docs/design/sandbox_faq.md
+---
+
 # Chromium Design Docs
 
 This directory contains chromium project documentation in

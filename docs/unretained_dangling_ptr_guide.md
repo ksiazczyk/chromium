@@ -1,3 +1,11 @@
+---
+type: guide
+title: Unretained Dangling Pointers
+summary: Guide to fixing dangling base::Unretained pointers, with safer alternatives and the UnsafeDangling annotations for opting out of runtime checks.
+relations:
+  - references /docs/dangling_ptr.md
+---
+
 # Unretained dangling pointers.
 
 *See also the main document about [dangling pointers](./dangling_ptr.md)*

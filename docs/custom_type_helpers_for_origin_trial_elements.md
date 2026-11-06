@@ -1,3 +1,9 @@
+---
+type: guide
+title: Custom Type Helpers for Origin-Trial-Controlled HTML Elements
+summary: Explains why origin-trial-gated HTML elements need custom V8 type helpers and how to add them, with examples and historical context.
+---
+
 # Custom Type Helpers for Origin-Trial-Controlled HTML Elements
 
 When adding a new HTML element gated behind a runtime-enabled feature (e.g., an

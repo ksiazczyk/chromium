@@ -1,3 +1,9 @@
+---
+type: reference
+title: Back/forward cache NotRestoredReasons API
+summary: Describes the experimental NotRestoredReasons API for back/forward cache in Chrome and how to enable and verify it.
+---
+
 # Back/forward cache NotRestoredReasons API
 
 Contact: bfcache-dev@chromium.org

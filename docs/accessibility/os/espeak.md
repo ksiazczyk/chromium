@@ -1,3 +1,13 @@
+---
+type: reference
+title: The eSpeak-NG speech synthesis engine on ChromeOS
+summary: Describes the eSpeak-NG speech synthesis engine port in ChromeOS, why it is included, and where to find build and deployment instructions.
+relations:
+  - references /docs/accessibility/browser/tts.md
+  - references /docs/accessibility/os/chromevox_on_desktop_linux.md
+  - references /docs/accessibility/os/patts.md
+---
+
 # The eSpeak-NG speech synthesis engine on ChromeOS
 
 ChromeOS comes with a port of the open-source eSpeak-NG speech synthesis

@@ -1,3 +1,11 @@
+---
+type: reference
+title: Ozone Overview
+summary: Overview of the Ozone platform abstraction layer beneath Aura, its guiding principles and interfaces, porting and build instructions, and supported platforms.
+relations:
+  - references /build/config/ozone_extra.gni
+---
+
 # Ozone Overview
 
 Ozone is a platform abstraction layer beneath the Aura window system that is

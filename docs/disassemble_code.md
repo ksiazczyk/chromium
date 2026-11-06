@@ -1,3 +1,9 @@
+---
+type: guide
+title: Dumping Compiled Code from a Chrome Binary
+summary: How-to guide for disassembling compiled code from a Chrome binary using objdump and nm to debug crashes and inspect inlined code.
+---
+
 # Dumping the compiled code from a chrome binary
 
 [Rendered](https://chromium.googlesource.com/chromium/src/+/main/docs/disassemble_code.md)

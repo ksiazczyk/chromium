@@ -1,3 +1,13 @@
+---
+type: guide
+title: Clang and Rust Gardening
+summary: Handbook for Clang and Rust gardeners covering toolchain roll infrastructure, the gardening process, and troubleshooting compiler and linker failures.
+relations:
+  - references /docs/clang.md
+  - references /docs/rust/README.md
+  - references /docs/updating_clang.md
+---
+
 # Clang and Rust Gardening
 
 Chromium is built using a pre-built version of [Clang](clang.md) and

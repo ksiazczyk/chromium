@@ -1,3 +1,13 @@
+# ---docerion
+# type: script
+# title: Makefile building the accessibility figure PNGs
+# summary: Builds all PNG figures in this folder from the Graphviz .gv sources using the dot tool.
+# relations:
+#   - references /docs/accessibility/browser/figures/ax_tree.png
+#   - references /docs/accessibility/browser/figures/generated_content.png
+#   - references /docs/accessibility/browser/figures/hidden_content.png
+# ---
+
 all: \
 	ax_tree.png \
 	generated_content.png \

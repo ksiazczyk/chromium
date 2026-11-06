@@ -1,3 +1,12 @@
+---
+type: guide
+title: Parsing Test Results
+summary: Guide to navigating the UI layers for Chromium test results, from Polygerrit build status to build result steps and how failing tests are retried without the patch.
+relations:
+  - references /docs/images/parsing_test_results_build_results_1.png
+  - references /docs/images/parsing_test_results_polygerrit.png
+---
+
 # Parsing Test Results
 
 Chromium runs over 500,000 tests for each CL. There are many layers of UI for

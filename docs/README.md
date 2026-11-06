@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chromium docs
+summary: Index of Chromium project documentation with guidelines for writing and previewing Markdown docs and a categorized document index.
+relations:
+  - references /docs/android_build_instructions.md
+  - references /docs/android_cast_build_instructions.md
+  - references /docs/android_studio.md
+---
+
 # Chromium docs
 
 This directory contains [chromium project](https://www.chromium.org/Home/)

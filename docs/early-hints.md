@@ -1,3 +1,9 @@
+---
+type: reference
+title: 103 Early Hints
+summary: Describes Chrome's support for the 103 Early Hints HTTP status, including what is and is not supported and how to verify preload behavior.
+---
+
 # 103 Early Hints
 
 Contact: net-dev@chromium.org

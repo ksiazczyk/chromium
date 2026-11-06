@@ -1,3 +1,9 @@
+---
+type: reference
+title: Accessibility Overview
+summary: Reference overview of Chromium accessibility covering the accessibility tree, events, actions, platform APIs, and how accessibility is implemented across the multi-process architecture layers.
+---
+
 # Accessibility Overview
 
 Accessibility means ensuring that all users, including users with disabilities,

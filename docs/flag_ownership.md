@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chromium Flag Ownership
+summary: Explains flag ownership in Chromium, who should be listed as an owner, when flags may be exempt from expiry, and how to choose an expiry milestone.
+relations:
+  - references /docs/flag_expiry.md
+  - references /chrome/browser/flag-metadata.json
+  - references /chrome/browser/flag-never-expire-list.json
+---
+
 # Chromium Flag Ownership
 
 ellyjones@ / avi@

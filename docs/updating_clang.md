@@ -1,3 +1,13 @@
+---
+type: guide
+title: Updating Clang and Rust
+summary: Step-by-step instructions for building, promoting, and rolling new Clang and Rust toolchain packages into Chromium.
+relations:
+  - references /docs/clang_gardening.md
+  - references /docs/writing_clang_plugins.md
+  - references /tools/clang/scripts/sync_deps.py
+---
+
 # Updating Clang and Rust
 
 We distribute prebuilt packages of LLVM binaries, including clang, rustc, and

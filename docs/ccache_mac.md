@@ -1,3 +1,9 @@
+---
+type: guide
+title: Using CCache on Mac
+summary: Explains how to install ccache on macOS and configure it with GN's cc_wrapper to speed up Chromium C/C++ rebuilds with Ninja.
+---
+
 # Using CCache on Mac
 
 [ccache](https://ccache.dev/) is a compiler cache. It speeds up

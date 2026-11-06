@@ -1,3 +1,11 @@
+---
+type: guide
+title: GCS objects for Chromium dependencies
+summary: How to add, upload, and update GCS objects as Chromium dependencies via DEPS entries, including hash and size validation and third_party gitignore updates.
+relations:
+  - references /third_party/.gitignore
+---
+
 # GCS objects for chromium dependencies
 
 [TOC]

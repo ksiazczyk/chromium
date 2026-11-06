@@ -1,3 +1,9 @@
+---
+type: reference
+title: BFCache Overview
+summary: Explains back/forward cache behavior and what web platform and browser features must do to support it.
+---
+
 # BFCache Overview
 
 ## TL;DR

@@ -1,3 +1,11 @@
+---
+type: guide
+title: How to Extend the Web Test Framework
+summary: Guide to extending the Blink web test framework to test other parts of Chrome, covering how to extend the Driver and Port classes and build a driver program that talks to the framework.
+relations:
+  - references /docs/testing/web_tests.md
+---
+
 # How to Extend the Web Test Framework
 
 The Web Test Framework that Blink uses is a regression testing tool that is
