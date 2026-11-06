@@ -1,0 +1,4 @@
+# Docerion header of passkey_creation_bottom_sheet_coordinator.mm.
+type: source
+title: Passkey creation bottom sheet coordinator implementation
+summary: Implements the coordinator that builds the mediator and view controller for the passkey creation bottom sheet and manages its lifecycle.

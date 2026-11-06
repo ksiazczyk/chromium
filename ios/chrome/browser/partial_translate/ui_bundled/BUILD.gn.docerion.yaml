@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Partial translate UI build configuration
+summary: Defines GN source sets and dependencies for the partial translate UI, its unit tests, and Earl Grey test support.

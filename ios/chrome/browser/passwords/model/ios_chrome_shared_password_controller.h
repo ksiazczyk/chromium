@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared password controller wrapper
+// summary: Declares an iOS Chrome subclass of SharedPasswordController that enables Chrome-specific modifications.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_IOS_CHROME_SHARED_PASSWORD_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_IOS_CHROME_SHARED_PASSWORD_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential suggestion bottom sheet app interface header
+// summary: Declares app-side helpers that mock reauthentication and set bottom sheet dismissal preferences for Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_TEST_CREDENTIAL_SUGGESTION_BOTTOM_SHEET_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_TEST_CREDENTIAL_SUGGESTION_BOTTOM_SHEET_APP_INTERFACE_H_
 

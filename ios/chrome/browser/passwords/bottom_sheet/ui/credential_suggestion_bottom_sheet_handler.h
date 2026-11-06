@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential suggestion bottom sheet handler protocol
+// summary: Declares the handler for bottom sheet actions such as opening the password manager, showing details and button taps.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_CREDENTIAL_SUGGESTION_BOTTOM_SHEET_HANDLER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_CREDENTIAL_SUGGESTION_BOTTOM_SHEET_HANDLER_H_
 

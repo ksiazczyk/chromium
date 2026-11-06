@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info security coordinator interface
+// summary: Declares PageInfoSecurityCoordinator, the coordinator for the page info security subpage, with a handler for page info presentation commands.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_COORDINATOR_PAGE_INFO_SECURITY_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_COORDINATOR_PAGE_INFO_SECURITY_COORDINATOR_H_
 

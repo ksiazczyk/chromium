@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the page info coordinator
+summary: Restricts the headers this directory may include, allowing page info core, history, permissions and web navigation utilities.

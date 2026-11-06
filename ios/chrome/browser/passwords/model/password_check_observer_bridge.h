@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password check observer bridge header
+// summary: Declares an Objective-C protocol and C++ bridge that forwards IOSChromePasswordCheckManager observer events to a delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_CHECK_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_CHECK_OBSERVER_BRIDGE_H_
 

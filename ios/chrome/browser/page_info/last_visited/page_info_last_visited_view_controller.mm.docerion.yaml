@@ -1,0 +1,4 @@
+# Docerion header of page_info_last_visited_view_controller.mm.
+type: source
+title: PageInfoLastVisitedViewController implementation
+summary: Implements the page info last visited screen that shows history entries matching a host name, configures navigation controls and records usage metrics.

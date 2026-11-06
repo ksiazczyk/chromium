@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS password manager surface metrics header
+// summary: Declares the PasswordManagerSurface enum, the surface visit histogram name, and the LogPasswordManagerSurfaceVisit helper.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_METRICS_IOS_PASSWORD_MANAGER_METRICS_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_METRICS_IOS_PASSWORD_MANAGER_METRICS_H_
 

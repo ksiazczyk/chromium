@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoLastVisitedViewController interface
+// summary: Declares the last visited view controller, a BaseHistoryViewController subclass with a delegate and a page info commands handler, initialized with a host name.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_LAST_VISITED_PAGE_INFO_LAST_VISITED_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_LAST_VISITED_PAGE_INFO_LAST_VISITED_VIEW_CONTROLLER_H_
 

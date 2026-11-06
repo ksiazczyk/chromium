@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager client interface
+// summary: Declares the iOS implementation of PasswordManagerClient, its bridge protocol, and Touch to Fill histogram names for password saving and filling.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_IOS_CHROME_PASSWORD_MANAGER_CLIENT_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_IOS_CHROME_PASSWORD_MANAGER_CLIENT_H_
 

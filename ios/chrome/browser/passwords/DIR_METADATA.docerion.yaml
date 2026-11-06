@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Passwords directory metadata
+summary: Declares the Monorail and Buganizer components, team email, and OS for issues in the iOS passwords browser directory.

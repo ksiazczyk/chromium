@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager sync encryption utility implementation
+// summary: Implements a helper that reports whether passwords are being saved to a Google Account with normal sync encryption.
+// ---
+
 #include "ios/chrome/browser/passwords/model/password_manager_util_ios.h"
 
 #include "base/notreached.h"

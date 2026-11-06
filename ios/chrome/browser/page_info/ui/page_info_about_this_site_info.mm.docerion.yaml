@@ -1,0 +1,4 @@
+# Docerion header of page_info_about_this_site_info.mm.
+type: source
+title: AboutThisSite info implementation
+summary: Implements the PageInfoAboutThisSiteInfo model class declared in the matching header.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey creation bottom sheet mediator delegate protocol
+// summary: Declares the delegate protocol used to end or dismiss the presentation of the passkey creation bottom sheet.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_COORDINATOR_PASSKEY_CREATION_BOTTOM_SHEET_MEDIATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_COORDINATOR_PASSKEY_CREATION_BOTTOM_SHEET_MEDIATOR_DELEGATE_H_
 

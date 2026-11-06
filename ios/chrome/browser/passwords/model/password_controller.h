@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password controller header
+// summary: Declares the per-tab PasswordController that handles password autofill, generation, saving, and reuse detection for a web state.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ODE directory
+summary: GN build file defining the ode source_set with the metrics reporter factory sources and its Chromium dependencies.

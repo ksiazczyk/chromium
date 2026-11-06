@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info history consumer protocol
+// summary: Declares the protocol used to pass the Last Visited timestamp to the page info view controller.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_HISTORY_CONSUMER_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_HISTORY_CONSUMER_H_
 

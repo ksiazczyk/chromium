@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info history mutator protocol
+// summary: Declares the protocol for requesting an update of the Last Visited timestamp from the mediator.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_HISTORY_MUTATOR_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_HISTORY_MUTATOR_H_
 

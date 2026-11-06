@@ -1,0 +1,4 @@
+# Docerion header of passkey_suggestion_bottom_sheet_mediator_unittest.mm.
+type: test
+title: Passkey suggestion bottom sheet mediator unit tests
+summary: Unit tests for the passkey suggestion bottom sheet mediator covering passkey suggestion setup and selection behavior.

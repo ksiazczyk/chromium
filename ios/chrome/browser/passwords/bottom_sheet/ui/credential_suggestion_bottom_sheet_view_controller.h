@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential suggestion bottom sheet view controller interface
+// summary: Declares the table view bottom sheet controller that shows password and passkey suggestions with action buttons.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_CREDENTIAL_SUGGESTION_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_CREDENTIAL_SUGGESTION_BOTTOM_SHEET_VIEW_CONTROLLER_H_
 

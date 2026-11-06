@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password tab helper header
+// summary: Declares a tab helper that binds a PasswordController to a WebState and exposes password manager, suggestion, and generation providers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_TAB_HELPER_H_
 

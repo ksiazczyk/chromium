@@ -1,0 +1,4 @@
+# Docerion header of page_info_security_view_controller.mm.
+type: source
+title: Page Info security view controller implementation
+summary: Implements the security subpage as a table view showing the site security description with a header row, a Learn More link, and a Done dismiss button.

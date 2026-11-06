@@ -1,0 +1,4 @@
+# Docerion header of passkey_creation_bottom_sheet_view_controller.mm.
+type: source
+title: Passkey creation bottom sheet view controller implementation
+summary: Implements the passkey creation bottom sheet UI, building the branding view, passkey banner, account info stack, and Create/Save another way buttons.

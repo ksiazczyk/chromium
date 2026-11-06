@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the password suggestion coordinator
+summary: Defines the coordinator source set, its source files, dependencies, and the UIKit framework for the password suggestion feature.

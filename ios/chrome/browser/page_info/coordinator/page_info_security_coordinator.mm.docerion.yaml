@@ -1,0 +1,4 @@
+# Docerion header of page_info_security_coordinator.mm.
+type: source
+title: Page info security coordinator implementation
+summary: Implements the security subpage coordinator, creating and pushing the security view controller and wiring page info command handlers on start and stop.

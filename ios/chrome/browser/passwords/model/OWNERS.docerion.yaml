@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for passwords model
+summary: Lists directory owners and per-file ownership rules for factories, tests and build file changes.

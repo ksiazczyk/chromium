@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the page info model
+summary: Defines the model source_set with its dependencies and the unit_tests target for the AboutThisSite tab helper.

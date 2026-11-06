@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Password breach DEPS include rules
+summary: Defines the allowed include dependencies for the password_breach directory, such as autofill, password settings, and signin model headers.

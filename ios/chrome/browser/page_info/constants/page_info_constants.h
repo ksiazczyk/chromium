@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info constants header
+// summary: Objective-C header declaring accessibility identifiers and layout constants for the iOS page info view and its security view.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_CONSTANTS_PAGE_INFO_CONSTANTS_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_CONSTANTS_PAGE_INFO_CONSTANTS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Partial translate UI dependency rules
+summary: Specifies the allowed include directories for code in the partial translate ui_bundled directory.

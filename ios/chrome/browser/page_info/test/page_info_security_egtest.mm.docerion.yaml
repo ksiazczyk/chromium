@@ -1,0 +1,4 @@
+# Docerion header of page_info_security_egtest.mm.
+type: test
+title: Page Info security subpage tests
+summary: Earl Grey tests verifying the Page Info security subpage, its connection status labels, learn more navigation, and rotation behavior.

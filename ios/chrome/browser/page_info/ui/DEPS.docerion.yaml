@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Page info UI include rules
+summary: Specifies the allowed header include rules for files in the page info UI directory.

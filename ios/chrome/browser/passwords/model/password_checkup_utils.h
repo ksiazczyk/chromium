@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password checkup utilities header
+// summary: Declares the WarningType enum, insecure password counts struct, and helpers for counting and prioritizing password warnings.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_CHECKUP_UTILS_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_CHECKUP_UTILS_H_
 

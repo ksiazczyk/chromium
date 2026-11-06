@@ -1,0 +1,4 @@
+# Docerion header of page_info_last_visited_coordinator.mm.
+type: source
+title: Page info last visited coordinator implementation
+summary: Presents the last visited view controller for a host, records user metrics, and manages the full history coordinator lifecycle.

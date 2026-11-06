@@ -1,0 +1,4 @@
+# Docerion header of page_info_permissions_mediator_unittest.mm.
+type: test
+title: Page info permissions mediator unit tests
+summary: Unit tests verifying that the permissions mediator updates web state permissions, persists Always Allow, Never Allow, and Allow Once settings, and records metrics.

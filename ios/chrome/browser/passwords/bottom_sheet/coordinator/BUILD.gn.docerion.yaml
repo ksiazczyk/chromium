@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password bottom sheet coordinator build targets
+summary: GN build file defining the coordinator source set and its unit test target together with their dependencies.

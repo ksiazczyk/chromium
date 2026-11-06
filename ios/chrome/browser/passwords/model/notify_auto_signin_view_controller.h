@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notify auto sign-in view controller header
+// summary: Declares NotifyUserAutoSigninViewController, a UIKit view controller that notifies the user about auto sign-in with a username and avatar.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_NOTIFY_AUTO_SIGNIN_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_NOTIFY_AUTO_SIGNIN_VIEW_CONTROLLER_H_
 

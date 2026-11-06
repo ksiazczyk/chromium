@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_bulk_leak_check_service_factory.mm.
+type: source
+title: Bulk leak check service factory implementation
+summary: Implements the per-profile factory that builds the bulk leak check service for compromised password detection, including test overrides.

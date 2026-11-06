@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for password infobar delegates
+summary: Defines GN source sets for the password infobar delegate sources and their unit tests, listing dependencies for the model and test targets.

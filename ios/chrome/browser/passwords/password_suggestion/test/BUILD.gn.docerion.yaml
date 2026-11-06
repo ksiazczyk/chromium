@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Password suggestion Earl Grey test build definition
+summary: GN build file defining the eg2_tests source_set that builds the password suggestion Earl Grey tests with their dependencies and frameworks.

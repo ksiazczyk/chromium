@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor login build definitions (BUILD.gn)
+summary: Defines GN source sets for the iOS actor login delegate client and its profile-keyed service factories, listing their sources and dependencies.

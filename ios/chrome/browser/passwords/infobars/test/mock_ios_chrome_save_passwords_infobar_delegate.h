@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock save password infobar delegate header
+// summary: Declares MockIOSChromeSavePasswordInfoBarDelegate, a gmock mock of the iOS save password infobar delegate with a factory for pending credentials.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_INFOBARS_TEST_MOCK_IOS_CHROME_SAVE_PASSWORDS_INFOBAR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_INFOBARS_TEST_MOCK_IOS_CHROME_SAVE_PASSWORDS_INFOBAR_DELEGATE_H_
 

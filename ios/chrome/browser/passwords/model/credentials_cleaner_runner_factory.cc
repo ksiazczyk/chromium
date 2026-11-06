@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credentials cleaner runner factory implementation
+// summary: Implements the profile-keyed factory that builds a CredentialsCleanerRunner service instance for each ProfileIOS.
+// ---
+
 #include "ios/chrome/browser/passwords/model/credentials_cleaner_runner_factory.h"
 
 #include "components/password_manager/core/browser/credentials_cleaner_runner.h"

@@ -1,0 +1,4 @@
+# Docerion header of page_info_permissions_mediator.mm.
+type: source
+title: Page info permissions mediator implementation
+summary: Implements the page info permissions mediator, translating content settings into permission states, observing web state permission changes, and persisting site permission settings.

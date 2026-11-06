@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the iOS certificate model
+summary: Defines the model and unit_tests source sets for the iOS X.509 certificate model along with their dependencies.

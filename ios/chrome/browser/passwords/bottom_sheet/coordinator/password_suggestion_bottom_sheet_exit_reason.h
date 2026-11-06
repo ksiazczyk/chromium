@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password suggestion bottom sheet exit reason enum
+// summary: Defines the enum of password suggestion bottom sheet exit reasons persisted to logs and kept in sync with the histograms enums.xml.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_COORDINATOR_PASSWORD_SUGGESTION_BOTTOM_SHEET_EXIT_REASON_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_COORDINATOR_PASSWORD_SUGGESTION_BOTTOM_SHEET_EXIT_REASON_H_
 

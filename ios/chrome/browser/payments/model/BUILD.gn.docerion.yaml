@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for web payments metrics recorder
+summary: Defines GN source sets for the web payments metrics recorder and its unit tests, listing their sources and dependencies.

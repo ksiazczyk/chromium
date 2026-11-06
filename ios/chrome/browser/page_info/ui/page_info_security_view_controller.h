@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page Info security view controller header
+// summary: Declares the view controller that displays the security subpage of the iOS Chrome page info UI, with handlers for page info and presentation commands.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_SECURITY_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_UI_PAGE_INFO_SECURITY_VIEW_CONTROLLER_H_
 

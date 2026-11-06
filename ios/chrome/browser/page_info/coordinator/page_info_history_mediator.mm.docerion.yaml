@@ -1,0 +1,4 @@
+# Docerion header of page_info_history_mediator.mm.
+type: source
+title: Page info history mediator implementation
+summary: Uses a page info history data source to query the last visited timestamp and updates the consumer on request.

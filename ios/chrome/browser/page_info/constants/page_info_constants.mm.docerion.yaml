@@ -1,0 +1,4 @@
+# Docerion header of page_info_constants.mm.
+type: source
+title: Page info constants implementation
+summary: Objective-C++ implementation defining the page info accessibility identifier strings and separator and icon size constant values.

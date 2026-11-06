@@ -1,0 +1,4 @@
+# Docerion header of passkey_creation_bottom_sheet_view_controller_unittest.mm.
+type: test
+title: Passkey creation bottom sheet view controller unit tests
+summary: Unit tests for PasskeyCreationBottomSheetViewController verifying the title, username, domain labels, and button stack configuration.

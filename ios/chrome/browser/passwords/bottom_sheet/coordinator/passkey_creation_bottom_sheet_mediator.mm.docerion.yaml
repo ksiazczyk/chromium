@@ -1,0 +1,4 @@
+# Docerion header of passkey_creation_bottom_sheet_mediator.mm.
+type: source
+title: Passkey creation bottom sheet mediator implementation
+summary: Implements the passkey creation mediator, observing the web state list and handling user verification before creating a passkey.

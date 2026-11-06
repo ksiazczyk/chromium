@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for password suggestion UI
+summary: Defines the source sets and dependencies for the password suggestion view controller and its utility targets in the GN build.

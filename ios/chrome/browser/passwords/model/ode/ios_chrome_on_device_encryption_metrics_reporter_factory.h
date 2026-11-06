@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS on-device encryption metrics reporter factory header
+// summary: Declares the singleton profile-keyed service factory that creates and owns an OnDeviceEncryptionMetricsReporter for each ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_ODE_IOS_CHROME_ON_DEVICE_ENCRYPTION_METRICS_REPORTER_FACTORY_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_ODE_IOS_CHROME_ON_DEVICE_ENCRYPTION_METRICS_REPORTER_FACTORY_H_
 

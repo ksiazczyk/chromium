@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the passwords infobars directory
+summary: Lists rgod@google.com as the code owner responsible for changes in the iOS passwords infobars directory.

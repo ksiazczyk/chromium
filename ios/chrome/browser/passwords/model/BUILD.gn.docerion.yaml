@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for iOS passwords model
+summary: Defines source_set targets and dependencies for the iOS Chrome passwords model code, including the password check manager and client sources.

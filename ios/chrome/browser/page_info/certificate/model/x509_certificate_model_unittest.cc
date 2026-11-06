@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the X.509 certificate model
+// summary: Tests certificate field and extension parsing against test certificates, including handling of malformed extensions.
+// ---
+
 #include "ios/chrome/browser/page_info/certificate/model/x509_certificate_model.h"
 
 #include <string_view>

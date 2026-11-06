@@ -1,0 +1,4 @@
+# Docerion header of about_this_site_tab_helper.mm.
+type: source
+title: AboutThisSiteTabHelper implementation
+summary: Implements navigation handling that requests AboutThisSite optimization decisions for HTTP(S) URLs and stores the returned metadata.

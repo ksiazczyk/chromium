@@ -1,0 +1,4 @@
+# Docerion header of about_this_site_service_factory.mm.
+type: source
+title: AboutThisSiteServiceFactory implementation
+summary: Builds the AboutThisSiteService per profile when the feature's language is supported, depending on the optimization guide and template URL services.

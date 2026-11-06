@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey creation bottom sheet consumer protocol
+// summary: Declares the protocol that supplies the username, email and relying party ID for a passkey creation request.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_PASSKEY_CREATION_BOTTOM_SHEET_CONSUMER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_BOTTOM_SHEET_UI_PASSKEY_CREATION_BOTTOM_SHEET_CONSUMER_H_
 

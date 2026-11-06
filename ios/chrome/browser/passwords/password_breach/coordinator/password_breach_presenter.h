@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password breach presenter protocol
+// summary: Protocol defining presenter actions to stop the feature and to open the Password Checkup homepage or the Password Manager page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_COORDINATOR_PASSWORD_BREACH_PRESENTER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_COORDINATOR_PASSWORD_BREACH_PRESENTER_H_
 

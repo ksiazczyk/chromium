@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page Info test build targets
+summary: Defines GN source sets for the Page Info Earl Grey tests and their app-side test support, listing sources and dependencies.

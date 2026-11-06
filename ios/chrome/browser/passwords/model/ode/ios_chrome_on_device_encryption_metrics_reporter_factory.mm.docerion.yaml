@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_on_device_encryption_metrics_reporter_factory.mm.
+type: source
+title: iOS on-device encryption metrics reporter factory implementation
+summary: Implements the factory, registering profile prefs and building the reporter with a password tracker and a no-op passkey tracker when the feature flag is enabled.

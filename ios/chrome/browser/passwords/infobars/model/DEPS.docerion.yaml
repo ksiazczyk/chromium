@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the password infobars model directory
+summary: Grants this directory include access to components/trusted_vault and ios/chrome/browser/infobars/model.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for last_visited
+summary: Defines the last_visited source_set target, listing its view controller sources, dependencies, public dependencies and the UIKit framework.

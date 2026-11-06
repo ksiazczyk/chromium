@@ -1,0 +1,4 @@
+# Docerion header of page_info_coordinator.mm.
+type: source
+title: Page info coordinator implementation
+summary: Builds the page info view controller, wires security, permissions, history and About This Site mediators, and handles presentation commands and metrics.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password breach consumer protocol
+// summary: Declares the PasswordBreachConsumer protocol used to set title, subtitle, and action strings on the password breach screen before its view is created.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_UI_PASSWORD_BREACH_CONSUMER_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_UI_PASSWORD_BREACH_CONSUMER_H_
 

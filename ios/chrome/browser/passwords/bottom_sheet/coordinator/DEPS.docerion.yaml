@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the coordinator directory
+summary: DEPS file listing allowed includes for the directory and extra rules for unit test files.

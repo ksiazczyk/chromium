@@ -1,0 +1,4 @@
+# Docerion header of about_this_site_tab_helper_unittest.mm.
+type: test
+title: AboutThisSiteTabHelper unit tests
+summary: Tests the tab helper by mocking Optimization Guide AboutThisSite hints and verifying metadata retrieval for test URLs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native keystroke autologin auto-submission interface
+// summary: Declares functions and state types for triggering the native Enter keystroke auto-submission flow used by password autofill on iOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_NATIVE_KEYSTROKE_AUTOLOGIN_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_MODEL_PASSWORD_NATIVE_KEYSTROKE_AUTOLOGIN_H_
 

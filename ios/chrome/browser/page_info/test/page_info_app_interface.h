@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PageInfoAppInterface header
+// summary: Declares the app interface Earl Grey tests use to add AboutThisSite hints to the Optimization Guide for a given URL.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PAGE_INFO_TEST_PAGE_INFO_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_PAGE_INFO_TEST_PAGE_INFO_APP_INTERFACE_H_
 

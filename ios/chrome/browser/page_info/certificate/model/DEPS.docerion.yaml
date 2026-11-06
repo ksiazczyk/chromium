@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the certificate model
+summary: Restricts includes in this directory to certificate model headers and BoringSSL pki sources.

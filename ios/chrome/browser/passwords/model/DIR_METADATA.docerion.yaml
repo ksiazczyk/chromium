@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for passwords model
+summary: Specifies the bug tracker component, team email, OS and Buganizer component used for issues in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password breach coordinator header
+// summary: Declares the coordinator that presents and stops the Password Breach feature, which alerts users about leaked credentials and may prompt a password checkup.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_COORDINATOR_PASSWORD_BREACH_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_PASSWORDS_PASSWORD_BREACH_COORDINATOR_PASSWORD_BREACH_COORDINATOR_H_
 

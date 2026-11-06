@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial translate mediator declaration
+// summary: Declares the mediator connecting browser container views with partial translate tab helpers, including its initializer, shutdown, and selection handlers.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_PARTIAL_TRANSLATE_UI_BUNDLED_PARTIAL_TRANSLATE_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_PARTIAL_TRANSLATE_UI_BUNDLED_PARTIAL_TRANSLATE_MEDIATOR_H_
 
