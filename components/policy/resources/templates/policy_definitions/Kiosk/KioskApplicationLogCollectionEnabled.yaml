@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Kiosk application log collection policy
+# summary: Defines the Chrome OS policy that enables collection of kiosk application logs into a separate kiosk_apps.log file when a kiosk app runs on the device.
+# ---
+
 owners:
 - macinashutosh@google.com
 - irfedorova@google.com

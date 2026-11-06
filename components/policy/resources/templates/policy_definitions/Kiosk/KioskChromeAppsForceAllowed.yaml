@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Force Allow Chrome Apps in Kiosk mode policy
+# summary: Defines the deprecated Chrome OS policy that lets Chrome Apps keep running in Kiosk sessions regardless of default enablement, honored until the expected M151 deprecation.
+# ---
+
 owners:
 - giovax@chromium.org
 - file://apps/DEPRECATION_OWNERS

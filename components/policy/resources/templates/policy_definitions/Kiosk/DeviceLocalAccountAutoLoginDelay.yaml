@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device-local account auto-login timer
+# summary: Policy definition setting the inactivity timeout in milliseconds before automatic sign-in to the device-local account specified by DeviceLocalAccountAutoLoginId.
+# ---
+
 caption: Device-local account auto-login timer
 default: 0
 desc: |-

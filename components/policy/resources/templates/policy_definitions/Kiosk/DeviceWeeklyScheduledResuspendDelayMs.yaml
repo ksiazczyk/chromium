@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Re-suspend delay for weekly scheduled suspend intervals
+# summary: Policy definition setting how many milliseconds a manually woken device waits before re-suspending during a DeviceWeeklyScheduledSuspend interval.
+# ---
+
 caption: Re-suspend delay for weekly scheduled suspend intervals in milliseconds
 desc: |-
   Setting the policy specifies the number of milliseconds of inactivity before the device re-applies the suspend action during a <ph name="DEVICE_WEEKLY_SCHEDULED_SUSPEND_POLICY_NAME">DeviceWeeklyScheduledSuspend</ph> interval.

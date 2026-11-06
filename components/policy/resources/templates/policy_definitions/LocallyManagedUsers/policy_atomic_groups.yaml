@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SupervisedUsers policy atomic group
+# summary: Defines the SupervisedUsers atomic group bundling the three supervised user policy definitions.
+# ---
+
 SupervisedUsers:
   caption: Supervised users
   policies:

@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Kerberos policy group details
+# summary: Group metadata for the Kerberos policy folder, providing the caption and a short description of the Kerberos authentication policies.
+# ---
+
 caption: Kerberos
 desc: Policies related to Kerberos authentication.

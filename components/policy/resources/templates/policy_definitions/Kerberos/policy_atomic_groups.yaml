@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Kerberos atomic policy group definitions
+# summary: Declares the KerberosPrefilledConfig atomic policy group that bundles the custom prefilled configuration policies together.
+# ---
+
 KerberosPrefilledConfig:
   caption: Kerberos prefilled configuration
   policies:

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow zero-delay kiosk app to control ChromeOS version
+# summary: Policy definition controlling whether a zero-delay autolaunched kiosk app's required_platform_version manifest key sets the ChromeOS autoupdate target version.
+# ---
+
 arc_support: If the kiosk app is an Android app, it will have no control over the
   <ph name="PRODUCT_OS_NAME">$2<ex>Google ChromeOS</ex></ph> version, even if this
   policy is set to <ph name="TRUE">True</ph>.

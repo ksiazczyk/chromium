@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SupervisedUsersEnabled policy definition
+# summary: Deprecated device-level policy definition that enabled supervised user creation and login on Chrome OS 29-70.
+# ---
+
 caption: Enable supervised users
 default_for_managed_devices_doc_only: false
 deprecated: true

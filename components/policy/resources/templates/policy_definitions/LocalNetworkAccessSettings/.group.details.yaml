@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Local Network Access settings policy group details
+# summary: Defines the caption and description for the Local Network Access group of Chrome enterprise policies.
+# ---
+
 caption: Local Network Access settings
 desc: A group of policies related to Local Network Access settings.  See https://developer.chrome.com/blog/local-network-access

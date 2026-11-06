@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Allow multiple browser windows in Web Kiosk policy
+# summary: Defines the Chrome OS policy that allows a Kiosk web app to open additional browser windows on any screen via the window.open JavaScript function.
+# ---
+
 caption: Allow Web Kiosk to open more than one browser window on any screen
 default: false
 desc: |-

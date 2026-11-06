@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LocalNetworkAccessSettings policy atomic group
+# summary: Defines the LocalNetworkAccessSettings atomic group that bundles the Local Network Access and loopback network policy definitions.
+# ---
+
 LocalNetworkAccessSettings:
   caption: Local Network Access settings
   policies:

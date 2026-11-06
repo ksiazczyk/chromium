@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: LocalNetworkAccessPermissionsPolicyDefaultEnabled policy definition
+# summary: Chrome policy controlling whether Local Network Access permissions are inherited by default into cross-origin subframes without explicit delegation.
+# ---
+
 owners:
 - cthomp@chromium.org
 - hchao@chromium.org

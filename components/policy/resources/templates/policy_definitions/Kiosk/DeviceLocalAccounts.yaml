@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device-local accounts
+# summary: Policy definition listing the device-local accounts, including Chrome app, web app and isolated web kiosk entries, shown on the sign-in screen.
+# ---
+
 caption: Device-local accounts
 desc: |-
   Setting the policy specifies the list of device-local accounts to display on the sign-in screen. Identifiers tell the different device-local accounts apart.

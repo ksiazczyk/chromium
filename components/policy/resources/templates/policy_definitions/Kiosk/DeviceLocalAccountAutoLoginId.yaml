@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Device-local account for auto-login
+# summary: Policy definition specifying which already configured device-local session is automatically signed in after the delay set by DeviceLocalAccountAutoLoginDelay.
+# ---
+
 caption: Device-local account for auto-login
 desc: |-
   Setting the policy means the specified session is automatically signed if there is no user interaction at the sign-in screen within the time specified in <ph name="DEVICE_LOCAL_ACCOUNT_AUTO_LOGIN_DELAY_POLICY_NAME">DeviceLocalAccountAutoLoginDelay</ph>. The device-local account must already be set up (see <ph name="DEVICE_LOCAL_ACCOUNTS_POLICY_NAME">DeviceLocalAccounts</ph>).

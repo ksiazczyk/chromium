@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: SupervisedUserCreationEnabled policy definition
+# summary: Deprecated policy definition controlling whether supervised users can be created and managed by a user, supported on Chrome 29-70.
+# ---
+
 caption: Enable creation of supervised users
 deprecated: true
 desc: |-
