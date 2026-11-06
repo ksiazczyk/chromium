@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPCDataSource implementation for media parsing
+// summary: Implements a media::DataSource that reads blob bytes from the browser process over Mojo for metadata parsing in the utility process.
+// ---
+
 #include "chrome/services/media_gallery_util/ipc_data_source.h"
 
 #include <algorithm>

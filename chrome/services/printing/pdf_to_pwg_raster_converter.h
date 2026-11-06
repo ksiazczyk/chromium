@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to PWG raster converter header
+// summary: Declares the PdfToPwgRasterConverter class implementing the Mojo interface that converts PDF documents to PWG raster format.
+// ---
+
 #ifndef CHROME_SERVICES_PRINTING_PDF_TO_PWG_RASTER_CONVERTER_H_
 #define CHROME_SERVICES_PRINTING_PDF_TO_PWG_RASTER_CONVERTER_H_
 

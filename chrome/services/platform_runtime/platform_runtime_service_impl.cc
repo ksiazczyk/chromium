@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform runtime service implementation
+// summary: Implements the sandboxed service that loads a native library and processes request headers through bounds-checked get and set header callbacks.
+// ---
+
 #include "chrome/services/platform_runtime/platform_runtime_service_impl.h"
 
 #include <algorithm>

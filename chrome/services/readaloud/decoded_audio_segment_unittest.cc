@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DecodedAudioSegment unit tests
+// summary: Unit tests verifying DecodedAudioSegment constructors, audio buffer access, sample rate, duration, and word timing behavior.
+// ---
+
 #include "chrome/services/readaloud/decoded_audio_segment.h"
 
 #include <memory>

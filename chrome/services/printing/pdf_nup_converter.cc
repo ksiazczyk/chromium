@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF N-up converter implementation
+// summary: Converts PDF pages or whole documents into N-up layouts via PDFium, returning results in shared memory and recording the printed URL in a crash key.
+// ---
+
 #include "chrome/services/printing/pdf_nup_converter.h"
 
 #include <string>

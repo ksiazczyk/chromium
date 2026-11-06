@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to EMF converter factory header
+// summary: Declares the PdfToEmfConverterFactory class implementing the Mojo factory interface for creating PDF-to-EMF converters.
+// ---
+
 #ifndef CHROME_SERVICES_PRINTING_PDF_TO_EMF_CONVERTER_FACTORY_H_
 #define CHROME_SERVICES_PRINTING_PDF_TO_EMF_CONVERTER_FACTORY_H_
 

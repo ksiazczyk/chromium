@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Reading mode metrics DIR_METADATA
+summary: Metadata file mapping the directory to the ReadingMode accessibility component in Monorail and Buganizer for issue tracking.

@@ -1,0 +1,4 @@
+# Docerion header of mac_notification_service_ns.mm.
+type: source
+title: MacNotificationServiceNS implementation
+summary: Implements displaying, closing and action handling of notifications via NSUserNotificationCenter, including buttons and settings.

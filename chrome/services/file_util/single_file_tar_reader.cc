@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single file tar reader
+// summary: Implements a reader for single-entry tar archives, parsing header sizes including GNU extensions and extracting chunks while dropping padding.
+// ---
+
 #include "chrome/services/file_util/single_file_tar_reader.h"
 
 #include <optional>

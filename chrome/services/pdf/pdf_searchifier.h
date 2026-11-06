@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfSearchifier class declaration
+// summary: Declares the PdfSearchifier Mojo service that converts inaccessible PDFs to searchable PDFs using a provided OCR remote.
+// ---
+
 #ifndef CHROME_SERVICES_PDF_PDF_SEARCHIFIER_H_
 #define CHROME_SERVICES_PDF_PDF_SEARCHIFIER_H_
 

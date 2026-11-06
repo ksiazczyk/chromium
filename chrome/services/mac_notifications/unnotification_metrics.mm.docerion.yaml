@@ -1,0 +1,4 @@
+# Docerion header of unnotification_metrics.mm.
+type: source
+title: UNNotification metrics logging for macOS notifications
+summary: Implements UMA histogram logging for macOS UNNotification permission requests, notification settings, and delivery results in the mac_notifications service.

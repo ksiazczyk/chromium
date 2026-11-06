@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaybackTimeline class header
+// summary: Declares the PlaybackTimeline class that manages canonical sentence chunking and maps between chunk indices, character offsets, and media timestamps.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_TIMELINE_PLAYBACK_TIMELINE_H_
 #define CHROME_SERVICES_READALOUD_TIMELINE_PLAYBACK_TIMELINE_H_
 

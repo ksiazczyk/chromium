@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfProgressiveSearchifier class declaration
+// summary: Declares the PdfProgressiveSearchifier Mojo service that builds a PDF with operations to add and delete pages and save the result.
+// ---
+
 #ifndef CHROME_SERVICES_PDF_PDF_PROGRESSIVE_SEARCHIFIER_H_
 #define CHROME_SERVICES_PDF_PDF_PROGRESSIVE_SEARCHIFIER_H_
 

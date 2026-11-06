@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchManager implementation
+// summary: Implements the Read Aloud prefetch manager that caches compressed speech synthesis segments, throttles in-flight requests, and coordinates with the playback timeline.
+// ---
+
 #include "chrome/services/readaloud/prefetch/prefetch_manager.h"
 
 #include <algorithm>

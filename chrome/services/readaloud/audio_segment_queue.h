@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio segment queue interface
+// summary: Declares a thread-safe queue of decoded audio segments safe to pop from the real-time audio thread.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_AUDIO_SEGMENT_QUEUE_H_
 #define CHROME_SERVICES_READALOUD_AUDIO_SEGMENT_QUEUE_H_
 

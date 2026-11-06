@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file referencing media galleries owners
+summary: Delegates code ownership and review for this directory to the chrome/browser/media_galleries OWNERS file.

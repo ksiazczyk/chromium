@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudDecoderSequencer class declaration
+// summary: Declares ReadAloudDecoderSequencer, which coordinates sequential decoding of TTS audio chunks and reports pump status such as flowing, starved, or drained.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_DECODER_READ_ALOUD_DECODER_SEQUENCER_H_
 #define CHROME_SERVICES_READALOUD_DECODER_READ_ALOUD_DECODER_SEQUENCER_H_
 

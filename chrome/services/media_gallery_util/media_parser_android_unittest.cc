@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaParserAndroid unit tests
+// summary: Unit tests for MediaParserAndroid that verify video frame extraction, including H26x start code checks and YUV frame validation using a test Mojo media data source.
+// ---
+
 #include "chrome/services/media_gallery_util/media_parser_android.h"
 
 #include <memory>

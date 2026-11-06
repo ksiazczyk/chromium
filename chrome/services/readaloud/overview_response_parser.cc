@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview response parser implementation
+// summary: Parses and validates serialized ReadAloudGenerateTextResponse protobufs into text segments, assigning speakers by persona role.
+// ---
+
 #include "chrome/services/readaloud/overview_response_parser.h"
 
 #include <string_view>

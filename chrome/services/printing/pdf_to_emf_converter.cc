@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF to EMF converter implementation
+// summary: Renders PDF pages to Windows EMF or PostScript metafiles using PDFium, applying print modes and page scaling for the Windows print pipeline.
+// ---
+
 #include "chrome/services/printing/pdf_to_emf_converter.h"
 
 #include <limits>

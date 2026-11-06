@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZipFileCreator service implementation
+// summary: Implements the ZipFileCreator Mojo service, zipping files from a Mojo filesystem directory into a destination zip file with progress and error logging.
+// ---
+
 #include "chrome/services/file_util/zip_file_creator.h"
 
 #include <utility>

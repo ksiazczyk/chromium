@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Text chunker unit tests
+// summary: Unit tests covering ChunkText in speed and quality modes, including whitespace trimming, multibyte text, locale tags, abbreviations and empty input.
+// ---
+
 #include "chrome/services/readaloud/chunking/text_chunker.h"
 
 #include <string>

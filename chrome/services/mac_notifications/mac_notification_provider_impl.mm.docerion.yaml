@@ -1,0 +1,4 @@
+# Docerion header of mac_notification_provider_impl.mm.
+type: source
+title: MacNotificationProviderImpl implementation
+summary: Implements the provider, creating a MacNotificationServiceNS bound to the deprecated NSUserNotificationCenter API.

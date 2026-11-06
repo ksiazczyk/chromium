@@ -1,3 +1,9 @@
+---
+type: readme
+title: FileUtilService overview
+summary: Describes the sandboxed FileUtilService operations for ZIP creation, single-file TAR and TAR.XZ extraction and Safe Browsing archive analysis, plus sandbox expectations for the code.
+---
+
 The FileUtilService is used to perform operation on archives in a sandboxed
 utility process. It currently provides the following operations
 - Creation of a ZIP archive from a collection of file handles

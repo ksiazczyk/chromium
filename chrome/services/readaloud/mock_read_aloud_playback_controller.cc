@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockReadAloudPlaybackController implementation
+// summary: Implements a mock ReadAloudPlaybackController with default playback behavior, word boundary generation, and simulated latency for tests.
+// ---
+
 #include "chrome/services/readaloud/mock_read_aloud_playback_controller.h"
 
 #include <algorithm>

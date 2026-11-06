@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudAudioRenderer header
+// summary: Declares the ReadAloudAudioRenderer render callback that plays decoded audio segments, tracks media time and reports word boundaries on the owning sequence.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_AUDIO_RENDERER_READ_ALOUD_AUDIO_RENDERER_H_
 #define CHROME_SERVICES_READALOUD_AUDIO_RENDERER_READ_ALOUD_AUDIO_RENDERER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Readaloud text chunker implementation
+// summary: Implements ChunkText, splitting text into sentence chunks using ICU sentence break iteration in speed and quality modes for the readaloud service.
+// ---
+
 #include "chrome/services/readaloud/chunking/text_chunker.h"
 
 #include <iterator>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadAloudAudioRenderer implementation
+// summary: Implements the ReadAloud audio renderer that fills output audio from decoded segment queues, advances the media clock and dispatches word boundaries as they become audible.
+// ---
+
 #include "chrome/services/readaloud/audio_renderer/read_aloud_audio_renderer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfThumbnailer implementation for rendering PDF thumbnails
+// summary: Implements GetThumbnail by validating requested size, mapping PDF bytes from shared memory, and rendering the first page into an SkBitmap via chrome_pdf.
+// ---
+
 #include "chrome/services/pdf/pdf_thumbnailer.h"
 
 #include <string.h>

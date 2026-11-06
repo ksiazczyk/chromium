@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Readaloud directory include rules
+summary: Allows includes of optimization guide protos and media mojo, base, filters, ffmpeg and audio headers in this directory.

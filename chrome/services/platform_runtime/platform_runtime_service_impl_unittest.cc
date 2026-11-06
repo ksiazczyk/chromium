@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the platform runtime service
+// summary: Exercises the service over a real Mojo message pipe with the test library, covering library unavailability, success, failure, and empty output cases.
+// ---
+
 #include "chrome/services/platform_runtime/platform_runtime_service_impl.h"
 
 #include <memory>

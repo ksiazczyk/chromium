@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockReadAloudPlaybackController class header
+// summary: Declares a gmock-based fake ReadAloudPlaybackController used to test speech playback state transitions and word boundary timers.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_MOCK_READ_ALOUD_PLAYBACK_CONTROLLER_H_
 #define CHROME_SERVICES_READALOUD_MOCK_READ_ALOUD_PLAYBACK_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake MMR session and stream implementations
+// summary: Implements fake COM objects for the Microsoft Multimedia Redirection session and stream interfaces, recording sent messages and appended frames for use in unit tests.
+// ---
+
 #include "chrome/services/redirection/fake_mmr_objects.h"
 
 #include "base/compiler_specific.h"

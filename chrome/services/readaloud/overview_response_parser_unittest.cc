@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview response parser unit tests
+// summary: Unit tests covering dialogue turn parsing, speaker role assignment, empty scripts, and malformed or oversized response payloads.
+// ---
+
 #include "chrome/services/readaloud/overview_response_parser.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecodedAudioSegment class header
+// summary: Declares the ref-counted DecodedAudioSegment class that pairs a decoded audio buffer with word timing metadata for read aloud playback.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_DECODED_AUDIO_SEGMENT_H_
 #define CHROME_SERVICES_READALOUD_DECODED_AUDIO_SEGMENT_H_
 

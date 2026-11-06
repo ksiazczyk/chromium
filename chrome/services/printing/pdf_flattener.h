@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF flattener interface
+// summary: Declares the PdfFlattener class implementing the PdfFlattener mojom interface for flattening PDFs and setting the Skia renderer policy.
+// ---
+
 #ifndef CHROME_SERVICES_PRINTING_PDF_FLATTENER_H_
 #define CHROME_SERVICES_PRINTING_PDF_FLATTENER_H_
 

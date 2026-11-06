@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaParserFactory implementation
+// summary: Implements MediaParserFactory, which initializes the media library in the sandbox and creates a MediaParser or MediaParserAndroid instance depending on the platform.
+// ---
+
 #include "chrome/services/media_gallery_util/media_parser_factory.h"
 
 #include "build/build_config.h"

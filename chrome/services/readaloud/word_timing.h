@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Word timing struct
+// summary: Defines a struct with start and end times plus character offsets for a single word, syncing text highlighting with spoken audio playback.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_WORD_TIMING_H_
 #define CHROME_SERVICES_READALOUD_WORD_TIMING_H_
 

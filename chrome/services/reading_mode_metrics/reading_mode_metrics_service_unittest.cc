@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading mode metrics service unit tests
+// summary: Unit tests for the reading mode metrics service covering structure extraction and distillation metric evaluation on mock accessibility trees.
+// ---
+
 #include "chrome/services/reading_mode_metrics/reading_mode_metrics_service.h"
 
 #include <memory>

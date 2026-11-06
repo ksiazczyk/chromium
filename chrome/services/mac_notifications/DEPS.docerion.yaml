@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for mac_notifications
+summary: Allows including third_party/ocmock from this directory for unit tests.

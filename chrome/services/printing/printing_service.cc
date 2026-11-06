@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing service implementation
+// summary: Implements the printing utility service that binds the PDF converters and sets up discardable memory needed for PDFium rendering.
+// ---
+
 #include "chrome/services/printing/printing_service.h"
 
 #include <utility>

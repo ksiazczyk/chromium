@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReadAloudAudioRenderer unit tests
+// summary: Unit tests covering the renderer's initialization, rendering, playback rate, flush, media time and word boundary dispatch behavior.
+// ---
+
 #include "chrome/services/readaloud/audio_renderer/read_aloud_audio_renderer.h"
 
 #include <memory>

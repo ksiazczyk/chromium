@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio segment queue unit tests
+// summary: Tests push and pop behavior, buffered duration, clearing and multi-threaded producer-consumer usage of the queue.
+// ---
+
 #include "chrome/services/readaloud/audio_segment_queue.h"
 
 #include <atomic>

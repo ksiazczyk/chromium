@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfThumbnailer unit tests
+// summary: Unit tests that verify thumbnail generation for valid PDFs, low-DPI unstretched rendering, and failure handling for invalid PDF input.
+// ---
+
 #include "chrome/services/pdf/pdf_thumbnailer.h"
 
 #include <stdint.h>

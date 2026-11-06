@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileUtilService implementation
+// summary: Implements the FileUtilService Mojo service, binding the ChromeOS zip file creator, safe archive analyzer and single-file tar extractors.
+// ---
+
 #include "chrome/services/file_util/file_util_service.h"
 
 #include <memory>

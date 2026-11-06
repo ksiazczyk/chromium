@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake file util service class declarations
+// summary: Declares a fake FileUtilService and a MockSafeArchiveAnalyzer with gmock methods for archive analysis, for use in tests.
+// ---
+
 #ifndef CHROME_SERVICES_FILE_UTIL_FAKE_FILE_UTIL_SERVICE_H_
 #define CHROME_SERVICES_FILE_UTIL_FAKE_FILE_UTIL_SERVICE_H_
 

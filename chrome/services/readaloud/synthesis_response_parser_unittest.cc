@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synthesis response parser unit tests
+// summary: Tests timing bound clamping, non-monotonic fallbacks and word timing offset normalization for synthesis response parsing.
+// ---
+
 #include "chrome/services/readaloud/synthesis_response_parser.h"
 
 #include <string>

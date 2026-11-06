@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PdfProgressiveSearchifier implementation
+// summary: Implements the Mojo progressive searchifier service, running OCR on page bitmaps and adding, deleting and saving pages of a searchified PDF.
+// ---
+
 #include "chrome/services/pdf/pdf_progressive_searchifier.h"
 
 #include <utility>

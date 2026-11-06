@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform runtime service class declaration
+// summary: Declares PlatformRuntimeServiceImpl and its Runner, which host the native library on a blocking-capable sequence and serve the PlatformRuntime Mojo interface.
+// ---
+
 #ifndef CHROME_SERVICES_PLATFORM_RUNTIME_PLATFORM_RUNTIME_SERVICE_IMPL_H_
 #define CHROME_SERVICES_PLATFORM_RUNTIME_PLATFORM_RUNTIME_SERVICE_IMPL_H_
 

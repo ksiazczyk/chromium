@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redirection remoting sender class declaration
+// summary: Declares RedirectionRemotingSender, a RemotingDataStreamSender that transmits media bitstream data read from a Mojo data pipe to an IMMRStream.
+// ---
+
 #ifndef CHROME_SERVICES_REDIRECTION_REDIRECTION_REMOTING_SENDER_H_
 #define CHROME_SERVICES_REDIRECTION_REDIRECTION_REMOTING_SENDER_H_
 

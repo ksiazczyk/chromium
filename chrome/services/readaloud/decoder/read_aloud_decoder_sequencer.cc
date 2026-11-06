@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read aloud decoder sequencer implementation
+// summary: Implements ReadAloudDecoderSequencer, which decodes cached speech synthesis chunks in order and feeds decoded audio segments into the audio queue.
+// ---
+
 #include "chrome/services/readaloud/decoder/read_aloud_decoder_sequencer.h"
 
 #include <utility>

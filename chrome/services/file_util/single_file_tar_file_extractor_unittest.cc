@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single file tar extractor unit tests
+// summary: Unit tests for SingleFileTarFileExtractor verifying successful tar extraction for normal and larger-than-chunk test archives.
+// ---
+
 #include "chrome/services/file_util/single_file_tar_file_extractor.h"
 
 #include <stdint.h>

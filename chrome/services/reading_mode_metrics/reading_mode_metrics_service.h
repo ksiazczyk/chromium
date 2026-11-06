@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading mode metrics service header
+// summary: Declares the ReadingModeMetricsService Mojo service implementing the DistillationEvaluator interface for reading mode metrics.
+// ---
+
 #ifndef CHROME_SERVICES_READING_MODE_METRICS_READING_MODE_METRICS_SERVICE_H_
 #define CHROME_SERVICES_READING_MODE_METRICS_READING_MODE_METRICS_SERVICE_H_
 

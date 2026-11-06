@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OpusDecoderHelper unit tests
+// summary: Unit tests verifying that OpusDecoderHelper returns empty segment lists for empty, invalid, and truncated input and slices decoded audio by word timings.
+// ---
+
 #include "chrome/services/readaloud/decoder/opus_decoder_helper.h"
 
 #include <vector>

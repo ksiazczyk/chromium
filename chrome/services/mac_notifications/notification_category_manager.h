@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification category manager
+// summary: Declares a class that manages macOS notification categories, mapping sets of action buttons to reusable category identifiers for the notification center.
+// ---
+
 #ifndef CHROME_SERVICES_MAC_NOTIFICATIONS_NOTIFICATION_CATEGORY_MANAGER_H_
 #define CHROME_SERVICES_MAC_NOTIFICATIONS_NOTIFICATION_CATEGORY_MANAGER_H_
 

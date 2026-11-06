@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF flattener implementation
+// summary: Implements the PdfFlattener mojo service that flattens a PDF from shared memory via PDFium and returns the flattened result with its page count.
+// ---
+
 #include "chrome/services/printing/pdf_flattener.h"
 
 #include <utility>

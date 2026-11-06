@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaMetadataParser class declaration
+// summary: Declares MediaMetadataParser, which parses audio, video, and image metadata via FFmpeg in the sandboxed utility process.
+// ---
+
 #ifndef CHROME_SERVICES_MEDIA_GALLERY_UTIL_MEDIA_METADATA_PARSER_H_
 #define CHROME_SERVICES_MEDIA_GALLERY_UTIL_MEDIA_METADATA_PARSER_H_
 

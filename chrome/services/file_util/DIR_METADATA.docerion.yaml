@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the file_util directory
+summary: Maps the directory to the Services>Safebrowsing Monorail component and a public Buganizer component for issue routing.

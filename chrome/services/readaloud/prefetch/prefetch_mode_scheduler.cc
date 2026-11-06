@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchModeScheduler implementation
+// summary: Implements hysteresis-based transitions between speed and quality prefetch modes according to buffered audio duration thresholds.
+// ---
+
 #include "chrome/services/readaloud/prefetch/prefetch_mode_scheduler.h"
 
 #include "chrome/common/readaloud/read_aloud_constants.h"

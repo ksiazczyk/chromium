@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Presubmit checks unit tests
+summary: Unit tests verifying the readaloud presubmit correctly delegates valid and invalid assertion order cases.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Obfuscated archive analysis delegate
+// summary: Declares an archive analysis delegate that inspects obfuscated zip and rar archives using enterprise obfuscation header data.
+// ---
+
 #ifndef CHROME_SERVICES_FILE_UTIL_OBFUSCATED_ARCHIVE_ANALYSIS_DELEGATE_H_
 #define CHROME_SERVICES_FILE_UTIL_OBFUSCATED_ARCHIVE_ANALYSIS_DELEGATE_H_
 

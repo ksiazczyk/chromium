@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the redirection service
+summary: Defines the redirection_service source set and a unit_tests target, listing the service sources and their base, media, mojo, and third-party dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading mode metrics Rust library
+// summary: Rust cxx bridge implementing a distilled HTML parser and ROUGE-based metrics that evaluate distillation quality for reading mode.
+// ---
+
 #[cxx::bridge(namespace = "reading_mode")]
 mod ffi {
     struct DistillationMetrics {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regular archive analysis delegate implementation
+// summary: Implements the regular archive analysis delegate, providing file-based zip and rar reader and writer delegates for safe browsing archive analysis.
+// ---
+
 #include "chrome/services/file_util/regular_archive_analysis_delegate.h"
 
 #include <optional>

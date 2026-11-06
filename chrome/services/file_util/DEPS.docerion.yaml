@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the file_util directory
+summary: Lists the include dependencies allowed for the file_util directory, covering safe browsing, enterprise obfuscation, fuzztest, lzma, zlib and unrar.

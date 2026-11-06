@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaParserAndroid implementation
+// summary: Implements the Android media parser's ExtractVideoFrame method, which runs VideoThumbnailParser over an IPC data source to extract a video frame.
+// ---
+
 #include "chrome/services/media_gallery_util/media_parser_android.h"
 
 #include <optional>

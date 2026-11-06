@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Readaloud service GN build definition
+summary: Defines GN source sets for the readaloud service, its unit tests and the mock playback controller with their dependencies.

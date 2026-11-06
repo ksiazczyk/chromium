@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimelinePosition struct header
+// summary: Defines structs that map a position across sentence chunk, document character offset, and normalized 1.0x media time domains.
+// ---
+
 #ifndef CHROME_SERVICES_READALOUD_TIMELINE_TIMELINE_POSITION_H_
 #define CHROME_SERVICES_READALOUD_TIMELINE_TIMELINE_POSITION_H_
 

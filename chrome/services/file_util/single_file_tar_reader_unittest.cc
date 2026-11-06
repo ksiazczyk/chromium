@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SingleFileTarReader
+// summary: Unit tests covering tar file extraction, octal header number parsing including edge cases, and empty archive handling for SingleFileTarReader.
+// ---
+
 #include "chrome/services/file_util/single_file_tar_reader.h"
 
 #include <memory>

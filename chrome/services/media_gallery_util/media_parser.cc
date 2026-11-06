@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaParser Mojo service implementation
+// summary: Implements the Mojo MediaParser service, wiring metadata parsing, media file validity checks, and CPU info queries.
+// ---
+
 #include "chrome/services/media_gallery_util/media_parser.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WordBoundaryQueue implementation
+// summary: Implements the word boundary queue that shifts segment timings into media time and extrapolates from an anchor when each word becomes audible.
+// ---
+
 #include "chrome/services/readaloud/audio_renderer/word_boundary_queue.h"
 
 #include <algorithm>

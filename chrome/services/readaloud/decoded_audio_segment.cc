@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoded audio segment implementation
+// summary: Implements constructors for decoded audio segments holding an audio buffer and word timings.
+// ---
+
 #include "chrome/services/readaloud/decoded_audio_segment.h"
 
 #include <utility>

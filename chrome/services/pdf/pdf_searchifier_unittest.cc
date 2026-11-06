@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PdfSearchifier unit tests
+// summary: Tests searchifying a test PDF containing images from the chrome test data directory with a fake OCR remote.
+// ---
+
 #include "chrome/services/pdf/pdf_searchifier.h"
 
 #include <stdint.h>

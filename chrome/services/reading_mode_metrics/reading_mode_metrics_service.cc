@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading mode metrics service implementation
+// summary: C++ implementation that walks the accessibility tree to extract headings, lists, formatting, and link density features for distillation evaluation.
+// ---
+
 #include "chrome/services/reading_mode_metrics/reading_mode_metrics_service.h"
 
 #include <ranges>

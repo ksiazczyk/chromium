@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private UNUserNotifications SPI declarations
+// summary: Declares a private UNUserNotificationCenter SPI for replacing notification content without re-showing the banner, for example for progress updates.
+// ---
+
 #ifndef CHROME_SERVICES_MAC_NOTIFICATIONS_UN_USER_NOTIFICATIONS_SPI_H_
 #define CHROME_SERVICES_MAC_NOTIFICATIONS_UN_USER_NOTIFICATIONS_SPI_H_
 

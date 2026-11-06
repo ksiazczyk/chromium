@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake file util service implementation
+// summary: Implements the fake FileUtilService and MockSafeArchiveAnalyzer used in tests, binding mock Mojo interfaces for archive analysis.
+// ---
+
 #include "chrome/services/file_util/fake_file_util_service.h"
 
 #include "build/build_config.h"

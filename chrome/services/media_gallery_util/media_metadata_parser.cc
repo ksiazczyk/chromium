@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaMetadataParser implementation using FFmpeg
+// summary: Extracts audio and video metadata such as duration, dimensions, tags, and attached images with FFmpeg on a dedicated media thread.
+// ---
+
 #include "chrome/services/media_gallery_util/media_metadata_parser.h"
 
 #include <memory>

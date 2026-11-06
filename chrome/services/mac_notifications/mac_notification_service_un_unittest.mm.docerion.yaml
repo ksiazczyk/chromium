@@ -1,0 +1,4 @@
+# Docerion header of mac_notification_service_un_unittest.mm.
+type: test
+title: Mac notification service UN unit tests
+summary: Unit tests for the macOS UNUserNotificationCenter-based notification service, covering permissions, display, actions and metrics using OCMock mocks.

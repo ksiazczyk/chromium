@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ZipFileCreator Mojo service header
+// summary: Declares the ZipFileCreator Mojo service that zips files from a source directory on a background task runner with cancellation support.
+// ---
+
 #ifndef CHROME_SERVICES_FILE_UTIL_ZIP_FILE_CREATOR_H_
 #define CHROME_SERVICES_FILE_UTIL_ZIP_FILE_CREATOR_H_
 

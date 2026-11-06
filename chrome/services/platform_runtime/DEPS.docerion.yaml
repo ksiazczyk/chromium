@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Platform runtime DEPS include rules
+summary: Allows includes of the request header integrity mojom, Mojo bindings, net/http, and network service mojom headers within this directory.

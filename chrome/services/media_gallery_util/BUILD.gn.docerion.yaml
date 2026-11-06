@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for media gallery utility service
+summary: Defines the lib source set, Android unit tests, and the media metadata parser fuzzer for the media gallery utility service.
