@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base32 unit tests
+// summary: Parameterized unit tests verifying base32 encode and decode against RFC 4648 test vectors and a SHA-256 hash, comparing the C++ and Rust implementations.
+// ---
+
 #include "components/base32/base32.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Breadcrumb persistent storage manager unit tests
+// summary: Unit tests verifying that breadcrumb events are persisted, read back, validated for contiguity and trimmed when the storage file grows too large.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_persistent_storage_manager.h"
 
 #include <memory>

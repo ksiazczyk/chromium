@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the background task scheduler directory
+summary: Specifies include dependency rules for the directory, allowing keyed_service and selected content public paths.

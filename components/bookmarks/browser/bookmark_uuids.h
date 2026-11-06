@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark UUID declarations
+// summary: Declares the constant UUIDs for permanent bookmark folders plus a banned UUID resulting from a past sync bug.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_UUIDS_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_UUIDS_H_
 

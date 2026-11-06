@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BaseBookmarkModelObserver class declaration
+// summary: Declares a base BookmarkModelObserver implementation that collapses all model change callbacks into one BookmarkModelChanged method for subclasses.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BASE_BOOKMARK_MODEL_OBSERVER_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BASE_BOOKMARK_MODEL_OBSERVER_H_
 

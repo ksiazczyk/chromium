@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb manager implementation
+// summary: Implements the BreadcrumbManager singleton that stores timestamped breadcrumb events in memory, caps the list at thirty entries, and notifies observers.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_manager.h"
 
 #include "base/containers/adapters.h"

@@ -29,6 +29,12 @@
 //               IsUrlBookmark(u"Title 2", _),
 //               IsUrlBookmark(u"Title 3", _))));
 
+// ---docerion
+// type: test
+// title: gMock matchers for bookmark nodes
+// summary: Provides gMock matchers such as IsFolder and IsUrlBookmark for asserting bookmark node titles, URLs, UUIDs, and child hierarchies in tests.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_TEST_TEST_MATCHERS_H_
 #define COMPONENTS_BOOKMARKS_TEST_TEST_MATCHERS_H_
 

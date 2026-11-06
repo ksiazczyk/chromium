@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SQLite opt-out store
+// summary: Unit tests for OptOutStoreSQL covering loading, adding entries, clearing, and recovery from a corrupted database.
+// ---
+
 #include "components/blocklist/opt_out_blocklist/sql/opt_out_store_sql.h"
 
 #include <map>

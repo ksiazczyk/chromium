@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedBookmarksTracker unit tests
+// summary: Unit tests that verify loading, updating and observing the managed bookmarks folder as the managed bookmarks pref changes.
+// ---
+
 #include "components/bookmarks/managed/managed_bookmarks_tracker.h"
 
 #include <algorithm>

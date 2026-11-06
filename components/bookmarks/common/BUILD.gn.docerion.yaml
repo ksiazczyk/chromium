@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the bookmarks common library
+summary: GN build file that compiles the bookmarks common static library and its unit tests, adding an Android-specific dependency when needed.

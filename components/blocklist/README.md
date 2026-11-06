@@ -1,3 +1,9 @@
+---
+type: readme
+title: Blocklist component README
+summary: Documents the blocklist component, covering the opt out blocklist's expected feature behavior, supported evaluation policies, and how the blocklist is cleared.
+---
+
 # Blocklist component #
 
 The goal of the blocklist component is to provide various blocklists that allow

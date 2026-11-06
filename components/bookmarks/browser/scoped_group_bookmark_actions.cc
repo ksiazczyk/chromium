@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped group bookmark actions implementation
+// summary: Begins and ends grouped bookmark model changes on construction and destruction so multiple edits count as one undoable action.
+// ---
+
 #include "components/bookmarks/browser/scoped_group_bookmark_actions.h"
 
 #include "components/bookmarks/browser/bookmark_model.h"

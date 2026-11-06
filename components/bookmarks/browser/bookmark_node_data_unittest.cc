@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkNodeData unit tests
+// summary: Unit tests covering BookmarkNodeData validity, pickle round-trips, deeply nested folder limits, clipboard and drag-and-drop behavior.
+// ---
+
 #include "components/bookmarks/browser/bookmark_node_data.h"
 
 #include <memory>

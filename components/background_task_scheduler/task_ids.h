@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task IDs enum for the background task scheduler
+// summary: Defines the TaskIds enum listing all unique background task IDs used across Chromium, with instructions for updating metrics, enums and factories when adding new IDs.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_TASK_SCHEDULER_TASK_IDS_H_
 #define COMPONENTS_BACKGROUND_TASK_SCHEDULER_TASK_IDS_H_
 

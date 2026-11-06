@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkCodec unit tests
+// summary: Unit tests covering BookmarkCodec encoding, decoding, checksums, and ID reassignment using test bookmark models and JSON data files.
+// ---
+
 #include "components/bookmarks/browser/bookmark_codec.h"
 
 #include <stddef.h>

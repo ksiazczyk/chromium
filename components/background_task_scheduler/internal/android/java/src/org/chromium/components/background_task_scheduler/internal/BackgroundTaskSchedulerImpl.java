@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskSchedulerImpl
+// summary: Production BackgroundTaskScheduler implementation that dispatches scheduling and cancellation to a delegate and reports UMA.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import android.content.Context;

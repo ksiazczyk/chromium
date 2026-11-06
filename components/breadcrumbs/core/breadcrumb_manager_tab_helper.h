@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab helper breadcrumb event constants and interface
+// summary: Declares the tab helper class and the breadcrumb event name and metadata constants used across the component.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_MANAGER_TAB_HELPER_H_
 #define COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_MANAGER_TAB_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkCodec JSON encoding implementation
+// summary: Implements encoding and decoding of the bookmark model to and from JSON for disk storage, including checksums, sync metadata, and ID collision recovery.
+// ---
+
 #include "components/bookmarks/browser/bookmark_codec.h"
 
 #include <stddef.h>

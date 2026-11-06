@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptOutBlocklist class declaration
+// summary: Declares the OptOutBlocklist class with asynchronous entry and clearing methods and virtual policy hooks for session, persistent, host, and type rules.
+// ---
+
 #ifndef COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_BLOCKLIST_H_
 #define COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_BLOCKLIST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native task scheduler JNI implementation
+// summary: Implements NativeTaskScheduler by forwarding Schedule and Cancel calls to Java through generated JNI functions.
+// ---
+
 #include "components/background_task_scheduler/internal/android/native_task_scheduler.h"
 
 #include "base/android/jni_android.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the base32 component
+summary: Defines GN build targets for the base32 component, including the C++ static library, Rust static library, features component, unit tests, and fuzzer.

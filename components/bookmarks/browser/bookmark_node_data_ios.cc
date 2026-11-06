@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS stubs for BookmarkNodeData clipboard
+// summary: Provides iOS stubs for the BookmarkNodeData clipboard functions, all marked as not reached on this platform.
+// ---
+
 #include "components/bookmarks/browser/bookmark_node_data.h"
 
 #include "base/notreached.h"

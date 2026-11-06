@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base32 round-trip fuzzer
+// summary: libFuzzer harness that encodes arbitrary input with a chosen padding policy and checks that decoding reproduces the original bytes.
+// ---
+
 #include "components/base32/base32.h"
 
 #include <stddef.h>

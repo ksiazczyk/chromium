@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter breadcrumb observer header
+// summary: Declares a singleton observer that merges breadcrumbs from BreadcrumbManager and sends them to the embedder's crash reporter.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_CRASH_REPORTER_BREADCRUMB_OBSERVER_H_
 #define COMPONENTS_BREADCRUMBS_CORE_CRASH_REPORTER_BREADCRUMB_OBSERVER_H_
 

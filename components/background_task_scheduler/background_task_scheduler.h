@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskScheduler interface for scheduling background tasks
+// summary: Declares the BackgroundTaskScheduler KeyedService interface for scheduling and cancelling background tasks by task ID.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_TASK_SCHEDULER_BACKGROUND_TASK_SCHEDULER_H_
 #define COMPONENTS_BACKGROUND_TASK_SCHEDULER_BACKGROUND_TASK_SCHEDULER_H_
 

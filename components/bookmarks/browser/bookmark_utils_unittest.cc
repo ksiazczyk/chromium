@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark utils unit tests
+// summary: Unit tests for bookmark utility functions, covering clipboard copy and paste, grouped change notifications, histograms and suggested save locations.
+// ---
+
 #include "components/bookmarks/browser/bookmark_utils.h"
 
 #include <stddef.h>

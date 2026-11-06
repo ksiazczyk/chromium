@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies
+summary: DEPS include rules listing the components and modules that code in this folder may include from.

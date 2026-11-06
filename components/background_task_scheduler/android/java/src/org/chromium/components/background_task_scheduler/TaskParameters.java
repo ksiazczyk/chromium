@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskParameters class carrying task ID and extras
+// summary: Carries the task ID and extras passed to a BackgroundTask whenever it is invoked by the scheduler.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import android.content.Context;

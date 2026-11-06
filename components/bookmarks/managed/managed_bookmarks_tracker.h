@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedBookmarksTracker class header
+// summary: Declares the ManagedBookmarksTracker class that keeps the managed bookmarks node in the BookmarkModel in sync with the policy-defined managed bookmarks pref.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_MANAGED_MANAGED_BOOKMARKS_TRACKER_H_
 #define COMPONENTS_BOOKMARKS_MANAGED_MANAGED_BOOKMARKS_TRACKER_H_
 

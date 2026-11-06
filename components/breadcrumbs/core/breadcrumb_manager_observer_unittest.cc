@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Breadcrumb manager observer unit tests
+// summary: Verifies that observers receive EventAdded callbacks with timestamped events when events are added to the manager.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_manager_observer.h"
 
 #include <string>

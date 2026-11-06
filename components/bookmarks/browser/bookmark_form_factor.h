@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkFormFactor enum
+// summary: Defines the BookmarkFormFactor enum of desktop and mobile device form factors used to determine bookmark UI behaviors such as folder visibility.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_FORM_FACTOR_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_FORM_FACTOR_H_
 

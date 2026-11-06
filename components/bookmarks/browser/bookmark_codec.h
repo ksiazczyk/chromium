@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkCodec class declaration
+// summary: Declares BookmarkCodec, which converts the BookmarkModel to and from JSON values that are written to disk via BookmarkStorage.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_CODEC_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_CODEC_H_
 

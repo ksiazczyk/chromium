@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup blocked helper header
+// summary: Declares Android helpers for showing blocked popups and checking policy-managed popup settings.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_ANDROID_POPUP_BLOCKED_HELPER_H_
 #define COMPONENTS_BLOCKED_CONTENT_ANDROID_POPUP_BLOCKED_HELPER_H_
 

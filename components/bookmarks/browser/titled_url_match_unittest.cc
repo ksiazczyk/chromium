@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TitledUrlMatch unit tests
+// summary: Tests conversion between match positions and offset lists, including removal of entries with npos offsets.
+// ---
+
 #include "components/bookmarks/browser/titled_url_match.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegate interface for native task initialization
+// summary: Delegate interface that handles native initialization and runs a NativeBackgroundTask after Chrome starts successfully, also exposing the UMA reporter.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import org.chromium.build.annotations.NullMarked;

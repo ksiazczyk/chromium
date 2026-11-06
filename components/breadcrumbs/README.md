@@ -1,3 +1,9 @@
+---
+type: readme
+title: Breadcrumbs README
+summary: Explains that breadcrumbs record a short history of user, tab, browser, memory, and startup events appended to crash reports, uploaded only with metrics consent.
+---
+
 Breadcrumbs appends a short history of events to crash reports. These help to
 diagnose the cause of the attached crash by providing context around when it
 happened.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkLoadDetails class header
+// summary: Declares BookmarkLoadDetails, the result of loading and parsing the bookmarks JSON file, with permanent nodes, indices, recovery flags and sync metadata.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_LOAD_DETAILS_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_LOAD_DETAILS_H_
 

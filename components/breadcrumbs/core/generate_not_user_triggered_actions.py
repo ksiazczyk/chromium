@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Generate not-user-triggered UMA actions list
+# summary: Python script that parses an actions.xml file and writes a C++ source file containing a sorted array of not-user-triggered UMA action names.
+# ---
+
 """Produces C++ file with sorted array of UMA User Actions strings."""
 
 import argparse

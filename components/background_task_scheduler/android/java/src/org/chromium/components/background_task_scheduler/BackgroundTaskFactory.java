@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskFactory interface for task creation
+// summary: Factory interface for creating BackgroundTask instances from task IDs, injected into the scheduler factory by embedders.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import org.chromium.build.annotations.NullMarked;

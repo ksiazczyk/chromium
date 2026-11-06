@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkModel unit tests
+// summary: Extensive unit tests for BookmarkModel covering loading, node mutation, title whitespace handling, observers, encryption and metrics.
+// ---
+
 #include "components/bookmarks/browser/bookmark_model.h"
 
 #include <stddef.h>

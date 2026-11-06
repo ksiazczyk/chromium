@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskInfo class describing scheduled task requests
+// summary: Represents a request to run a BackgroundTask, with one-off and periodic timing info, constraints, and extras supplied via builders.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import android.content.Context;

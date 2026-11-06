@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypedCountSorter header
+// summary: Declares a TitledUrlNodeSorter that orders bookmark matches by how often each URL was typed, removing duplicates.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_TYPED_COUNT_SORTER_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_TYPED_COUNT_SORTER_H_
 

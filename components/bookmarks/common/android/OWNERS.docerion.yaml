@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to Chrome Android bookmarks owners
+summary: Points to the Chrome Android bookmarks OWNERS file so this directory inherits its code review ownership.

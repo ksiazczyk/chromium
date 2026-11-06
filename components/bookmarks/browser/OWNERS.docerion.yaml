@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Mac bookmark files
+summary: Delegates review ownership of the Mac bookmark pasteboard and bookmark node data files to the ui/base/cocoa owners.

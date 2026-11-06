@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkId
+// summary: Java class representing a bookmark identifier, combining a numeric ID with a bookmark type such as normal, partner, or reading list, including parsing and equality helpers.
+// ---
+
 package org.chromium.components.bookmarks;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for BookmarkNodeData pickle reading
+// summary: A libFuzzer target that feeds arbitrary bytes into BookmarkNodeData::ReadFromPickle to find crashes in bookmark drag data parsing.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

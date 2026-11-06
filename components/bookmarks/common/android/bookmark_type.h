@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkType enum shared with Java
+// summary: Defines the BookmarkType enum for normal, partner, and reading list bookmarks, generated into a Java enum and reported via UMA.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_COMMON_ANDROID_BOOKMARK_TYPE_H_
 #define COMPONENTS_BOOKMARKS_COMMON_ANDROID_BOOKMARK_TYPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model implementation
+// summary: Implements BookmarkModel, the central bookmark model that loads, mutates, sorts and queries the bookmark tree and notifies observers.
+// ---
+
 #include "components/bookmarks/browser/bookmark_model.h"
 
 #include <algorithm>

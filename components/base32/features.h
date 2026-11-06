@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base32 feature flag header
+// summary: Declares the kComponentsBase32InRust feature that enables the Rust implementation of the base32 encoder/decoder.
+// ---
+
 #ifndef COMPONENTS_BASE32_FEATURES_H_
 #define COMPONENTS_BASE32_FEATURES_H_
 

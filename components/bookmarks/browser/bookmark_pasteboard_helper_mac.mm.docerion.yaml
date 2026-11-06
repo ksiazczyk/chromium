@@ -1,0 +1,4 @@
+# Docerion header of bookmark_pasteboard_helper_mac.mm.
+type: source
+title: macOS bookmark pasteboard helper implementation
+summary: Implements writing and reading bookmark data to and from the macOS pasteboard, including profile path metadata and a maximum nesting depth limit.

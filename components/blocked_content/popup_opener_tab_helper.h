@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup opener tab helper header
+// summary: Header for a per-tab helper that tracks WebContents to log metrics about popup openers, including foreground time and popup settings.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_POPUP_OPENER_TAB_HELPER_H_
 #define COMPONENTS_BLOCKED_CONTENT_POPUP_OPENER_TAB_HELPER_H_
 

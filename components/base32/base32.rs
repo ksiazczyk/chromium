@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base32 Rust implementation with cxx bridge
+// summary: Implements base32 encoding and decoding in Rust per RFC 4648 and exposes the functions to C++ through a cxx bridge with a shared padding policy enum.
+// ---
+
 use cxx::{CxxString, CxxVector};
 use std::pin::Pin;
 

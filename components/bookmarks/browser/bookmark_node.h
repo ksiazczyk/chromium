@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkNode class declaration
+// summary: Declares BookmarkNode, the tree node holding a starred entry's title, URL, favicon, ID, type and meta info, which is returned by BookmarkModel.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_NODE_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_NODE_H_
 

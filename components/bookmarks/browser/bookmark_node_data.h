@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkNodeData class declaration
+// summary: Declares BookmarkNodeData, which represents a single URL or a set of bookmark nodes for drag-and-drop and clipboard operations in bookmark views.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_NODE_DATA_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_NODE_DATA_H_
 

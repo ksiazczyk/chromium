@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Breadcrumbs issue tracker metadata
+summary: Maps the breadcrumbs component to the Internals>CrashReporting Monorail component and a Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundTaskSchedulerImplWithMockTest
+// summary: Robolectric tests verifying one-off and periodic task scheduling and cancellation in BackgroundTaskSchedulerImpl with a mock delegate.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import org.junit.Assert;

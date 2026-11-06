@@ -4,6 +4,12 @@
 
 // Constants for the names of various bookmarks preferences.
 
+// ---docerion
+// type: source
+// title: Bookmark preference name constants
+// summary: Defines constant names for bookmarks preferences such as editing enabled, managed bookmarks, bookmark bar visibility, and shortcut visibility.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_COMMON_BOOKMARK_PREF_NAMES_H_
 #define COMPONENTS_BOOKMARKS_COMMON_BOOKMARK_PREF_NAMES_H_
 

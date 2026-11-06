@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock bookmark model observer
+// summary: Defines a gMock mock of BookmarkModelObserver that records bookmark model change notifications for verification in tests.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_TEST_MOCK_BOOKMARK_MODEL_OBSERVER_H_
 #define COMPONENTS_BOOKMARKS_TEST_MOCK_BOOKMARK_MODEL_OBSERVER_H_
 

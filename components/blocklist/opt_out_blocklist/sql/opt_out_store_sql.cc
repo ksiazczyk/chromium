@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite-backed opt-out store implementation
+// summary: Implements OptOutStoreSQL, persisting per-host opt-out entries in SQLite with schema creation, row size limits, and corrupt database recovery.
+// ---
+
 #include "components/blocklist/opt_out_blocklist/sql/opt_out_store_sql.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of bookmark_pasteboard_helper_mac_unittest.mm.
+type: test
+title: Unit tests for the macOS bookmark pasteboard helper
+summary: Tests that writing bookmarks to the macOS pasteboard allows moderate hierarchies while reading and writing reject overly deep ones.

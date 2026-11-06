@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporter breadcrumb constants
+// summary: Defines the maximum breadcrumbs data length constant so breadcrumb strings fit within crash reporter product data limits.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_CRASH_REPORTER_BREADCRUMB_CONSTANTS_H_
 #define COMPONENTS_BREADCRUMBS_CORE_CRASH_REPORTER_BREADCRUMB_CONSTANTS_H_
 

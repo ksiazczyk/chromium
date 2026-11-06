@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for background task scheduler internal component
+summary: Defines GN build targets for the internal Android implementation of the background task scheduler, including Java libraries, a native static library, and JNI header generation.

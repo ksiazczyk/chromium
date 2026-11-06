@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for BookmarkId JNI helpers
+// summary: Declares JNI bridge functions for getting a bookmark's id and type and for creating BookmarkId Java objects.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_COMMON_ANDROID_BOOKMARK_ID_H_
 #define COMPONENTS_BOOKMARKS_COMMON_ANDROID_BOOKMARK_ID_H_
 

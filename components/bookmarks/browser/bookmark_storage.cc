@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark storage implementation
+// summary: Saves the bookmark model to disk as JSON via BookmarkCodec, supporting plaintext and encrypted files, secondary files and startup backups.
+// ---
+
 #include "components/bookmarks/browser/bookmark_storage.h"
 
 #include <stddef.h>

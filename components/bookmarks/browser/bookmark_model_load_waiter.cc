@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model load waiter implementation
+// summary: Implements a self-owning observer that runs a callback once the BookmarkModel finishes loading, handling model destruction safely.
+// ---
+
 #include "components/bookmarks/browser/bookmark_model_load_waiter.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskSchedulerFactory header providing the scheduler singleton
+// summary: Declares the factory that provides access to the singleton BackgroundTaskScheduler instance.
+// ---
+
 #ifndef COMPONENTS_BACKGROUND_TASK_SCHEDULER_BACKGROUND_TASK_SCHEDULER_FACTORY_H_
 #define COMPONENTS_BACKGROUND_TASK_SCHEDULER_BACKGROUND_TASK_SCHEDULER_FACTORY_H_
 

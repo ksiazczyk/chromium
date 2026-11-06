@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlocklistData class declaration
+// summary: Declares the BlocklistReason enum and the BlocklistData class holding the in-memory policies used to evaluate blocklisting rules.
+// ---
+
 #ifndef COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_BLOCKLIST_DATA_H_
 #define COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_OPT_OUT_BLOCKLIST_DATA_H_
 

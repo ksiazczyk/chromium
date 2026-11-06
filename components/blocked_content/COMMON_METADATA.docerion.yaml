@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Blocked content issue tracker metadata
+summary: Maps the folder to the UI>Browser>PopupBlocker monorail component and a public Buganizer component ID.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Breadcrumbs status unit tests
+// summary: Unit tests covering prefs-based enablement, expired or invalid timestamps, channel-based randomization and the scoped testing override for breadcrumbs status.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumbs_status.h"
 
 #include "base/test/task_environment.h"

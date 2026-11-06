@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed bookmarks tracker implementation
+// summary: Implements ManagedBookmarksTracker, which loads managed bookmarks from preferences into the bookmark model and reloads them when the policy changes.
+// ---
+
 #include "components/bookmarks/managed/managed_bookmarks_tracker.h"
 
 #include <memory>

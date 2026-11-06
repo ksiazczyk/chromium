@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the background task scheduler component
+summary: Defines the issue tracker component, team email and Android OS metadata shared across the background task scheduler directory.

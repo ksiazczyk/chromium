@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeTaskScheduler
+// summary: JNI entry points that invoke BackgroundTaskScheduler schedule and cancel methods for tasks scheduled from native code.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkItem
+// summary: Java class holding data about a bookmark or bookmark folder, such as title, URL, parent, editability, managed and account status, and timestamps.
+// ---
+
 package org.chromium.components.bookmarks;
 
 import org.chromium.build.annotations.NullMarked;

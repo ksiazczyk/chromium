@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bookmark bar strings DIR_METADATA
+summary: Sets the Monorail and Buganizer components used for issue tracking in this directory.

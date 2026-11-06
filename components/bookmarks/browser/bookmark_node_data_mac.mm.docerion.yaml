@@ -1,0 +1,4 @@
+# Docerion header of bookmark_node_data_mac.mm.
+type: source
+title: macOS BookmarkNodeData clipboard support
+summary: Implements macOS clipboard and drag-and-drop support for BookmarkNodeData using NSPasteboard through the Mac pasteboard helper.

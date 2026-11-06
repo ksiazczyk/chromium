@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup blocking decision logic
+// summary: Decides whether a popup should be blocked based on content settings, user gesture and the Safe Browsing abusive popup blocker.
+// ---
+
 #include "components/blocked_content/popup_blocker.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark model load waiter unit tests
+// summary: Unit tests for ScheduleCallbackOnBookmarkModelLoad covering already-loaded models, callbacks that destroy the model, and destruction before load.
+// ---
+
 #include "components/bookmarks/browser/bookmark_model_load_waiter.h"
 
 #include "base/run_loop.h"

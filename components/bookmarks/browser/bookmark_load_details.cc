@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark load details implementation
+// summary: Implements BookmarkLoadDetails, which carries loaded bookmark nodes, indices and user folder statistics from the background loader to the UI thread.
+// ---
+
 #include "components/bookmarks/browser/bookmark_load_details.h"
 
 #include "base/uuid.h"

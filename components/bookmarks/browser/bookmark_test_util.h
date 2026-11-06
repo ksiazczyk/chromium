@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for bookmark node test printer helpers
+// summary: Declares gMock PrintTo helpers used to print bookmark nodes in test output.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_TEST_UTIL_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_BOOKMARK_TEST_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for base32
+summary: Maps the base32 directory to the Monorail component Internals and Buganizer public component 1456292.

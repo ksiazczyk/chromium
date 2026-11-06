@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitledUrlMatch struct header
+// summary: Defines a search match struct holding the matched node, title and URL match positions, and an ancestor match flag.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_TITLED_URL_MATCH_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_TITLED_URL_MATCH_H_
 

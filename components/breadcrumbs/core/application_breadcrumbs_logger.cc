@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application breadcrumbs logger implementation
+// summary: Implements the application-wide logger that records user actions, memory pressure, and widget close events to the BreadcrumbManager.
+// ---
+
 #include "components/breadcrumbs/core/application_breadcrumbs_logger.h"
 
 #include <algorithm>

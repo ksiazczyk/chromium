@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Breadcrumbs DEPS include rules
+summary: Defines the include rules listing which directories and headers the breadcrumbs component may depend on.

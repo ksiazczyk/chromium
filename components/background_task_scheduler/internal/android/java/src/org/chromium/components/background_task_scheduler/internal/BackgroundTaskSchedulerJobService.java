@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskSchedulerJobService
+// summary: BackgroundTaskSchedulerDelegate implementation that schedules jobs via the Android system JobScheduler and checks task expiration.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import android.app.job.JobInfo;

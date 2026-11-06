@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundTaskSchedulerJobServiceTest
+// summary: Robolectric tests for JobInfo creation from task info and expiration handling in BackgroundTaskSchedulerJobService.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import android.app.job.JobInfo;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb manager class declaration
+// summary: Declares the BreadcrumbManager singleton API for adding, retrieving, and observing breadcrumb events in a bounded in-memory event log.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_MANAGER_H_
 #define COMPONENTS_BREADCRUMBS_CORE_BREADCRUMB_MANAGER_H_
 

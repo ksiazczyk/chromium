@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Breadcrumb manager keyed service unit tests
+// summary: Tests that breadcrumb events logged for normal and off-the-record browser states are separately identifiable.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_manager_keyed_service.h"
 
 #include "components/breadcrumbs/core/breadcrumb_manager.h"

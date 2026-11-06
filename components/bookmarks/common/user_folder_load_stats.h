@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserFolderLoadStats struct for folder counts
+// summary: Declares a struct recording counts of user-generated bookmark folders and bookmark bar items at profile load time.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_COMMON_USER_FOLDER_LOAD_STATS_H_
 #define COMPONENTS_BOOKMARKS_COMMON_USER_FOLDER_LOAD_STATS_H_
 

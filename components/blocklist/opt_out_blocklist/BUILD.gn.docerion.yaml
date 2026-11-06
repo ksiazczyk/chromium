@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for opt_out_blocklist
+summary: Defines the opt_out_blocklist static library and its unit test source set together with their build dependencies.

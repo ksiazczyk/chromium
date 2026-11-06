@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gMock printer helpers for bookmark nodes
+// summary: Provides PrintTo functions that describe bookmark nodes and their types in readable form for test failure output.
+// ---
+
 #include "components/bookmarks/browser/bookmark_test_util.h"
 
 #include <iostream>

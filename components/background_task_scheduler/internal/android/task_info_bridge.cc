@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task info JNI conversion implementation
+// summary: Converts native TaskInfo parameters, including periodic and one-off timing info, into Java objects for the scheduler.
+// ---
+
 #include "components/background_task_scheduler/internal/android/task_info_bridge.h"
 
 #include "base/android/jni_string.h"

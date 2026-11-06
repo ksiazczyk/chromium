@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark metrics declarations
+// summary: Declares UMA enums and recording functions for bookmark usage, storage state, file sizes, and bookmark model load timing metrics.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_COMMON_BOOKMARK_METRICS_H_
 #define COMPONENTS_BOOKMARKS_COMMON_BOOKMARK_METRICS_H_
 

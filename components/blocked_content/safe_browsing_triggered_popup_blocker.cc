@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing triggered popup blocker implementation
+// summary: Implements SafeBrowsingTriggeredPopupBlocker, which blocks popups on sites flagged for abusive experiences and logs blocker actions.
+// ---
+
 #include "components/blocked_content/safe_browsing_triggered_popup_blocker.h"
 
 #include <utility>

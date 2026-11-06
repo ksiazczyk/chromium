@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskInfo implementation
+// summary: Implements the constructors and destructors of the PeriodicInfo, OneOffInfo and TaskInfo scheduling request structures.
+// ---
+
 #include "components/background_task_scheduler/task_info.h"
 
 namespace background_task {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser agent breadcrumb logging implementation
+// summary: Implements BreadcrumbManagerBrowserAgent, which logs per-browser tab events such as inserts, closes, moves, replacements, and active tab changes.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_manager_browser_agent.h"
 
 #include <string>

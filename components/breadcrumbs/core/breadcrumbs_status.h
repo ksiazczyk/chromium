@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumbs status API
+// summary: Declares the breadcrumbs enablement API, including per-channel enablement rates, prefs registration and a scoped testing override.
+// ---
+
 #ifndef COMPONENTS_BREADCRUMBS_CORE_BREADCRUMBS_STATUS_H_
 #define COMPONENTS_BREADCRUMBS_CORE_BREADCRUMBS_STATUS_H_
 

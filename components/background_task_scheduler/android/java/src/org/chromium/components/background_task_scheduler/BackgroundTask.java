@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTask interface for scheduler callbacks
+// summary: Defines the interface background tasks implement to start and stop work under the BackgroundTaskScheduler, including a TaskFinishedCallback for completion and user-initiated notifications.
+// ---
+
 package org.chromium.components.background_task_scheduler;
 
 import android.app.Notification;

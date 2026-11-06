@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TitledUrlIndex header for bookmark title and URL lookup index
+// summary: Declares TitledUrlIndex, which maintains an index of title and URL pairs for quick bookmark query matching with sorted results.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_BROWSER_TITLED_URL_INDEX_H_
 #define COMPONENTS_BOOKMARKS_BROWSER_TITLED_URL_INDEX_H_
 

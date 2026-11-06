@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Model loader unit tests
+// summary: Tests ModelLoader loading from clear-text and encrypted files, covering load results, backup files, ID reassignment, user folder counts and related metrics.
+// ---
+
 #include "components/bookmarks/browser/model_loader.h"
 
 #include <memory>

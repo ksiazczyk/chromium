@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed bookmark service implementation
+// summary: Implements ManagedBookmarkService, which creates and manages the enterprise-policy-controlled managed bookmarks permanent node in the bookmark model.
+// ---
+
 #include "components/bookmarks/managed/managed_bookmark_service.h"
 
 #include <stdint.h>

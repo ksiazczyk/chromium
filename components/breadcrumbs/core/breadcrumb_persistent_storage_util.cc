@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Breadcrumb persistent storage utility implementation
+// summary: Implements helpers that resolve the breadcrumbs storage file path within a directory and delete breadcrumb files on a background thread.
+// ---
+
 #include "components/breadcrumbs/core/breadcrumb_persistent_storage_util.h"
 
 #include "base/files/file_path.h"

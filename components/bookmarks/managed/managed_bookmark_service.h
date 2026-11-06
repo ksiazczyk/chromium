@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed bookmark service header
+// summary: Declares ManagedBookmarkService, a KeyedService that manages the bookmark folder controlled by enterprise policy and exposes the managed node.
+// ---
+
 #ifndef COMPONENTS_BOOKMARKS_MANAGED_MANAGED_BOOKMARK_SERVICE_H_
 #define COMPONENTS_BOOKMARKS_MANAGED_MANAGED_BOOKMARK_SERVICE_H_
 

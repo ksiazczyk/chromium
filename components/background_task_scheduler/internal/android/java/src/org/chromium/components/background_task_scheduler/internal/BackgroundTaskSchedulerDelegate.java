@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundTaskSchedulerDelegate
+// summary: Internal interface for scheduling and cancelling background tasks through the Android system JobScheduler.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import android.content.Context;

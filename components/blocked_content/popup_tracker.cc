@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup tracker implementation
+// summary: Implements PopupTracker, recording UKM metrics such as foreground duration, interactions, redirects, and Safe Browsing status when a popup closes.
+// ---
+
 #include "components/blocked_content/popup_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UrlIndex implementation for URL-ordered bookmark lookup
+// summary: Implements UrlIndex, which maintains URL-type bookmark nodes ordered by URL under a lock, supporting add, remove, set URL or title, lookups, bookmark checks, and load statistics.
+// ---
+
 #include "components/bookmarks/browser/url_index.h"
 
 #include <iterator>

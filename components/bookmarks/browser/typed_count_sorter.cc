@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypedCountSorter implementation
+// summary: Sorts matched nodes in decreasing order of omnibox typed count using typed counts from the bookmark client.
+// ---
+
 #include "components/bookmarks/browser/typed_count_sorter.h"
 
 #include <algorithm>

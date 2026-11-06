@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Breadcrumbs core build configuration
+summary: GN build rules defining the core, status, and unit test source sets plus actions that generate the not-user-triggered breadcrumb actions list.

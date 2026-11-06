@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptOutStoreSQL class declaration
+// summary: Declares OptOutStoreSQL, an OptOutStore implementation that stores blocklist opt-out entries in a SQLite database accessed on a background task runner.
+// ---
+
 #ifndef COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_SQL_OPT_OUT_STORE_SQL_H_
 #define COMPONENTS_BLOCKLIST_OPT_OUT_BLOCKLIST_SQL_OPT_OUT_STORE_SQL_H_
 

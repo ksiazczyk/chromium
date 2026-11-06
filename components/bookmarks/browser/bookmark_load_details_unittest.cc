@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkLoadDetails unit tests
+// summary: Unit tests for BookmarkLoadDetails covering default permanent nodes, account permanent nodes and creation of UUID and titled URL indices.
+// ---
+
 #include "components/bookmarks/browser/bookmark_load_details.h"
 
 #include "base/uuid.h"

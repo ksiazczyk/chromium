@@ -1,3 +1,9 @@
+---
+type: readme
+title: Quick Start Guide to using BackgroundTaskScheduler
+summary: Explains how to schedule and implement background tasks on Android with the BackgroundTaskScheduler API, covering task types, parameters and native loading.
+---
+
 # Quick Start Guide to using BackgroundTaskScheduler
 
 ## Overview

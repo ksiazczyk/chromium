@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup blocked message delegate header
+// summary: Declares the WebContents-scoped delegate that displays popup blocked messages on Android.
+// ---
+
 #ifndef COMPONENTS_BLOCKED_CONTENT_ANDROID_POPUP_BLOCKED_MESSAGE_DELEGATE_H_
 #define COMPONENTS_BLOCKED_CONTENT_ANDROID_POPUP_BLOCKED_MESSAGE_DELEGATE_H_
 

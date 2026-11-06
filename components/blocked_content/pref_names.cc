@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abusive experience preference name constant
+// summary: Defines the boolean preference name for enforcing interventions against abusive experiences.
+// ---
+
 #include "components/blocked_content/pref_names.h"
 
 namespace blocked_content {

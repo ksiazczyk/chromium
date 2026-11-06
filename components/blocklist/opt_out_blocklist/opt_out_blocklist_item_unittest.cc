@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptOutBlocklistItem unit tests
+// summary: Unit tests verifying OptOutBlocklistItem blocklist state across thresholds, durations, and history eviction.
+// ---
+
 #include "components/blocklist/opt_out_blocklist/opt_out_blocklist_item.h"
 
 #include <memory>

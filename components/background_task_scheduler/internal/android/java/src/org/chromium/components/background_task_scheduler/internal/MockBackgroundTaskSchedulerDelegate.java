@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockBackgroundTaskSchedulerDelegate
+// summary: Mock scheduler delegate that records scheduled tasks and cancelled task IDs for use in tests.
+// ---
+
 package org.chromium.components.background_task_scheduler.internal;
 
 import android.content.Context;
