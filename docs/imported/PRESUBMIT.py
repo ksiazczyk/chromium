@@ -2,6 +2,15 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check guarding the imported docs cache
+# summary: Presubmit script that blocks direct edits to cached documents in docs/imported and directs contributors to update them via refresh_docs.py instead.
+# relations:
+#   - references /docs/imported/readme.md
+#   - references /docs/imported/refresh_docs.py
+# ---
+
 """A PRESUBMIT script to prevent direct edits to cached documentation."""
 
 PRESUBMIT_VERSION = '2.0.0'

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Video decoder test usage
+summary: Explains how to run the video decoder tests from Tast or manually, covering test videos, metadata files, frame checksum validation and command line options.
+relations:
+  - references /media/test/data/test-25fps.h264
+---
+
 # Video Decoder tests
 
 The video decoder tests are a set of tests used to validate various video

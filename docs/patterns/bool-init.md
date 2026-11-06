@@ -1,3 +1,11 @@
+---
+type: guide
+title: The Bool Init Pattern
+summary: Describes the bool Init() pattern for fallible initialization in exception-free C++ and advises preferring factories or unconditional initialization instead.
+relations:
+  - references /docs/patterns/builder-and-parameter-bundle.md
+---
+
 # The Bool Init Pattern
 
 The `bool Init()` pattern allows a class to have initialization behavior which

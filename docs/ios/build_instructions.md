@@ -1,3 +1,13 @@
+---
+type: guide
+title: Checking out and building Chromium for iOS
+summary: Step-by-step instructions for checking out and building Chromium for iOS, covering depot_tools, GN setup, device builds, code signing, and troubleshooting.
+relations:
+  - references /docs/get_the_code.md
+  - references /docs/ios/xcode_tips.md
+  - documents /ios/build/tools/setup-gn.py
+---
+
 # Checking out and building Chromium for iOS
 
 There are instructions for other platforms linked from the

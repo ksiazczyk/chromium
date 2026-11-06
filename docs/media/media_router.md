@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome Media Router
+summary: Design documentation for the Chrome Media Router, covering its objectives, architecture, Mojo interfaces, tab and desktop mirroring, the Presentation API, and security.
+---
+
 # Chrome Media Router
 
 ## Introduction

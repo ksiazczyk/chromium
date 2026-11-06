@@ -1,3 +1,13 @@
+---
+type: guide
+title: Inversion of Control
+summary: Explains inversion of control in Chromium through callbacks, observers, listeners, and delegates, including design tips and when not to use the pattern.
+relations:
+  - references /base/callback_list.h
+  - references /base/functional/bind.h
+  - references /base/functional/callback.h
+---
+
 ## Inversion of Control
 
 "Inversion of control" is a design pattern used to allow users of a framework

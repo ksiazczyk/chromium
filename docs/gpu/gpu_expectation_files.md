@@ -1,3 +1,9 @@
+---
+type: reference
+title: GPU Expectation Files
+summary: Specifies the format of GPU test expectation files, including bug identifiers, tags, expected results, and Chromium-specific extensions for suppressing flakes.
+---
+
 # GPU Expectation Files
 
 This file goes over details of the expectation files which are critical for

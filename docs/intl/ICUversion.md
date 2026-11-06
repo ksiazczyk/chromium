@@ -1,3 +1,9 @@
+---
+type: reference
+title: Version of ICU in Chromium
+summary: Reference table mapping each major ICU release to the Chromium version that adopted it, with owners, commit dates and links.
+---
+
 ## Version of ICU in chromium
 
 This document documents which version of chromium has migrated to the major revision of public ICU release.

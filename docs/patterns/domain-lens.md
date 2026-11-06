@@ -1,3 +1,12 @@
+---
+type: guide
+title: The Domain Lens Pattern
+summary: Explains the domain lens pattern of exposing a restricted, domain-specific view of a complicated class to decouple clients from its full implementation.
+relations:
+  - references /chrome/browser/profiles/profile_attributes_entry.h
+  - references /chrome/browser/ui/tabs/tab_data.h
+---
+
 # The Domain Lens Pattern
 
 The Domain Lens Pattern exposes a specific, more restricted view of a

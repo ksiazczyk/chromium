@@ -1,3 +1,13 @@
+---
+type: guide
+title: Audio Latency Tracing
+summary: Guide to recording and analysing audio.latency traces to measure Chrome's internal audio latency, including prerequisites, steps, and example test page designs.
+relations:
+  - references /docs/media/latency_tracing_codec.png
+  - references /docs/media/latency_tracing_media_internals.png
+  - references /docs/media/latency_tracing_network.png
+---
+
 # Audio Latency Tracing
 
 The `“audio.latency”` tracing category is a tool to measure internal chromium

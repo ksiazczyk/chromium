@@ -1,3 +1,11 @@
+---
+type: guide
+title: Working with files in iOS Chromium
+summary: Describes the required procedure for adding, moving, renaming and deleting files in iOS Chromium, covering git, BUILD.gn updates and Xcode project regeneration.
+relations:
+  - references /BUILD.gn
+---
+
 # Working With Files
 
 Adding, removing, and renaming files in iOS Chromium needs to follow a specific

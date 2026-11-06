@@ -1,3 +1,9 @@
+---
+type: guide
+title: Enabling Hardware Video Decode on Linux
+summary: Deprecated instructions for enabling hardware video decode codepaths on Linux using libva and VDPAU, noting this is an unsupported configuration.
+---
+
 **This document is deprecated. See
 [vaapi.md](https://source.chromium.org/chromium/chromium/src/+/main:docs/gpu/vaapi.md)
 instead.**

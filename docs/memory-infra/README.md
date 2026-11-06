@@ -1,3 +1,13 @@
+---
+type: readme
+title: MemoryInfra
+summary: README for the MemoryInfra timeline-based memory profiling system, explaining how to record and navigate memory-infra traces and what the analysis view columns measure.
+relations:
+  - references /base/allocator/partition_allocator/PartitionAlloc.md
+  - references /docs/memory-infra/probe-gpu.md
+  - references /third_party/blink/renderer/platform/heap/BlinkGCAPIReference.md
+---
+
 # MemoryInfra
 
 MemoryInfra is a timeline-based profiling system integrated in chrome://tracing.

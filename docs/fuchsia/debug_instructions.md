@@ -1,3 +1,9 @@
+---
+type: guide
+title: Debugging Fuchsia binaries with zxdb
+summary: How to debug Fuchsia test binaries using zxdb from the command line or through VS Code integration.
+---
+
 # Debugging
 
 [TOC]

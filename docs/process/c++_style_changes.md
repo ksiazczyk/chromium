@@ -1,3 +1,9 @@
+---
+type: decision
+title: C++ Style Changes
+summary: Policy on how C++ style decisions are made for Chromium, covering scope, authority of the cxx@ list, relationship to Google style, and enforcement.
+---
+
 # C++ Style Changes
 
 *The following policy was approved by Chrome ATLs.*

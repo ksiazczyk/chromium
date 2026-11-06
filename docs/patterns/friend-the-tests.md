@@ -1,3 +1,12 @@
+---
+type: guide
+title: The Friend-the-tests Pattern
+summary: Describes friending test fixture classes via FRIEND_TEST_ALL_PREFIXES and cautions that a proper testing interface is usually a better choice.
+relations:
+  - references /docs/patterns/fortesting-methods.md
+  - references /docs/patterns/testapi.md
+---
+
 # The Friend-the-tests Pattern
 
 The Friend-the-tests pattern involves friending test fixture classes from the

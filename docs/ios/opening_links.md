@@ -1,3 +1,9 @@
+---
+type: guide
+title: Opening links in Chrome for iOS
+summary: Shows how an iOS app can open links in Chrome using the OpenInChromeController class and the googlechrome URI schemes.
+---
+
 # Opening links in Chrome for iOS
 
 The easiest way to have your iOS app open links in Chrome is to use the

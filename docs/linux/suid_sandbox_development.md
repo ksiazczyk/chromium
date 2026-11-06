@@ -1,3 +1,12 @@
+---
+type: guide
+title: Linux SUID Sandbox Development
+summary: Developer instructions for installing, updating, and disabling the largely removed Linux SUID sandbox, including notes for bots and raw builds.
+relations:
+  - references /sandbox/linux/README.md
+  - references /build/update-linux-sandbox.sh
+---
+
 # Linux SUID Sandbox Development
 
 *IMPORTANT NOTE: The Linux SUID sandbox is almost but not completely removed.

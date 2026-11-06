@@ -1,3 +1,12 @@
+---
+type: readme
+title: Managing third-party dependencies
+summary: Overview of the well-lit paths for managing Chromium third-party dependencies and the steps for onboarding existing dependencies to automated update mechanisms.
+relations:
+  - references /docs/managing-third-party/crowbar-workflow.md
+  - references /docs/managing-third-party/skia-autoroller.md
+---
+
 # Managing third-party dependencies
 
 [TOC]

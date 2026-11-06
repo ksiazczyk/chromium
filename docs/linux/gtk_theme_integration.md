@@ -1,3 +1,9 @@
+---
+type: reference
+title: Linux GTK Theme Integration
+summary: Explains how Chromium determines colors from GTK themes and how theme authors can style Chromium widgets using CSS selectors.
+---
+
 # Linux GTK Theme Integration
 
 The GTK+ port of Chromium has a mode where we try to match the user's GTK theme

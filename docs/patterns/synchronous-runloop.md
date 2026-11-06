@@ -1,3 +1,11 @@
+---
+type: guide
+title: The Synchronous RunLoop Pattern
+summary: Explains the Chromium pattern of creating a base::RunLoop with a quit condition to block the current thread until an event occurs, covering when to use it (mostly in tests), alternatives, usage examples, and sharp edges.
+relations:
+  - references /base/run_loop.h
+---
+
 # The Synchronous RunLoop Pattern
 
 The synchronous RunLoop pattern involves creating a new RunLoop, setting up a

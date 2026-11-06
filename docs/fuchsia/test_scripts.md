@@ -1,3 +1,13 @@
+---
+type: guide
+title: Run Tests on Fuchsia with CFv2 Test Scripts
+summary: Documents the build/fuchsia/test scripts for running CFv2 gtest binaries, both end-to-end and step by step.
+relations:
+  - references /docs/fuchsia/build_instructions.md
+  - references /docs/fuchsia/gtests.md
+  - documents /build/fuchsia/test/run_test.py
+---
+
 # Run Tests on Fuchsia with CFv2 Test Scripts
 
 **If you are looking for information on _running_ tests, see

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Fuchsia
+summary: Overview of Chromium development for Fuchsia with contacts, bug reporting, and links to build, debug, and test documentation.
+relations:
+  - references /docs/fuchsia/build_instructions.md
+  - references /docs/fuchsia/debug_instructions.md
+  - references /docs/fuchsia/gpu_testing.md
+---
+
 # Fuchsia
 
 Documentation for developing Chromium for the [Fuchsia](https://fuchsia.dev/) platform.

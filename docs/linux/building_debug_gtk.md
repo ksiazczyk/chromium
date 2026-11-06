@@ -1,3 +1,9 @@
+---
+type: guide
+title: Building and debugging GTK on Linux
+summary: Instructions for building glib and GTK from source with debug options on 32-bit and 64-bit Linux systems so they can be used for debugging without installing.
+---
+
 # Linux — Building and Debugging GTK
 
 Sometimes installing the debug packages for gtk and glib isn't quite enough.

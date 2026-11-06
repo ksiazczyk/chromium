@@ -1,3 +1,11 @@
+---
+type: reference
+title: Rust API Design Principles
+summary: Guidelines for designing user-facing APIs of core Chromium Rust libraries, covering priorities, safety, and choices among bindgen, cxx, and Crubit for interop.
+relations:
+  - references /docs/rust/ffi.md
+---
+
 # Rust API Design Principles
 
 This policy lays out guidelines for designing the user-facing parts of core Rust

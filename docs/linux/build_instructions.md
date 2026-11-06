@@ -1,3 +1,13 @@
+---
+type: guide
+title: Checking out and building Chromium on Linux
+summary: Step-by-step instructions for checking out and building Chromium on Linux, covering system requirements, depot_tools, dependencies, build setup, faster builds, and troubleshooting.
+relations:
+  - references /docs/get_the_code.md
+  - references /docs/toolchain_support.md
+  - references /tools/nix/shell.nix
+---
+
 # Checking out and building Chromium on Linux
 
 There are instructions for other platforms linked from the

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Rust Build Errors Guide
+summary: Explains noteworthy Rust build errors in Chromium, such as disallowed unsafe code, unstable features, and missing sources, and how to fix them.
+relations:
+  - references /docs/rust/unsafe.md
+  - references /third_party/rust/chromium_crates_io/gnrt_config.toml
+  - references /tools/crates/run_gnrt.py
+---
+
 # Rust Build Errors Guide
 
 This document lists Rust-related build errors that are noteworthy in the context

@@ -1,3 +1,11 @@
+---
+type: guide
+title: Clippy in Chromium
+summary: Explains how to run Clippy on Chromium Rust code, the relaxed lint policy, known issues, CQ coverage, and how to apply suggested fixes.
+relations:
+  - references /build/rust/apply_fixes.py
+---
+
 # Clippy in Chromium
 
 ## How to run Clippy lints against Rust code in Chromium

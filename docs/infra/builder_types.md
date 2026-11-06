@@ -1,3 +1,13 @@
+---
+type: reference
+title: Builder Types
+summary: Reference on common Chromium infra builder design patterns, including all-in-one builders, parent-child splits, and orchestrator-compilator setups.
+relations:
+  - references /docs/infra/glossary.md
+  - references /docs/infra/images/all_in_one_local.png
+  - references /docs/infra/images/build.png
+---
+
 <!--
 For Googlers, sources for these diagrams can be found at
 http://shortn/_NVrAIFrMsw.

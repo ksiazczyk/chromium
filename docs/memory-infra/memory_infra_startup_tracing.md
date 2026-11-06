@@ -1,3 +1,12 @@
+---
+type: guide
+title: Startup Tracing with MemoryInfra
+summary: Shows how to capture memory-infra traces during Chrome startup with command-line flags or a custom trace config file, on desktop and Android.
+relations:
+  - references /docs/memory-infra/README.md
+  - references /build/android/adb_chrome_public_command_line
+---
+
 # Startup Tracing with MemoryInfra
 
 [MemoryInfra](README.md) supports startup tracing.

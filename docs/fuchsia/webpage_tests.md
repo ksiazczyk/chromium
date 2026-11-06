@@ -1,3 +1,12 @@
+---
+type: guide
+title: Run webpage tests on Fuchsia
+summary: Describes how to update Chrome or WebEngineShell on a Fuchsia emulator or device and navigate to a given URL using the run_test.py script.
+relations:
+  - references /docs/fuchsia/build_instructions.md
+  - references /build/fuchsia/test/run_test.py
+---
+
 # Run Webpage Tests on Fuchsia
 
 [TOC]

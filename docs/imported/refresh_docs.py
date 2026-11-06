@@ -3,6 +3,14 @@
 # found in the LICENSE file.
 #!/usr/bin/env python3
 
+# ---docerion
+# type: script
+# title: Documentation cache refresh script
+# summary: Fetches externally sourced documents listed in its manifest via shallow git clones into docs/imported and applies inclusive-language replacements to the cached files.
+# relations:
+#   - references /docs/imported/gn/style_guide.md
+# ---
+
 import argparse
 import json
 import os

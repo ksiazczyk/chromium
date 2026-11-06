@@ -1,3 +1,11 @@
+---
+type: guide
+title: Using Skia Autoroller to manage third-party dependencies
+summary: Guide to mirroring a dependency repository and setting up the Skia Autoroller so unmodified Git submodule dependencies stay automatically updated.
+relations:
+  - references /third_party/microsoft_dxheaders/include/directml.h
+---
+
 # Using Skia Autoroller to manage third-party dependencies
 
 *** note

@@ -1,3 +1,13 @@
+---
+type: guide
+title: Running GPU integration tests on Fuchsia
+summary: How to run GPU integration tests on Fuchsia via hermetic emulation, physical devices, or remote ssh-connected devices.
+relations:
+  - references /docs/gpu/gpu_testing.md
+  - references /fuchsia_web/shell/README.md
+  - references /content/test/gpu/run_gpu_integration_test_fuchsia.py
+---
+
 # Running GPU integration tests on Fuchsia
 
 [TOC]

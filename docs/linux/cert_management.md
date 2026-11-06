@@ -1,3 +1,9 @@
+---
+type: guide
+title: Linux certificate management with NSS tools
+summary: Explains how to manage certificates for Chromium on Linux using the NSS shared database and certutil command line tools, including listing, adding, and deleting certificates.
+---
+
 # Linux Cert Management
 
 The easy way to manage certificates is navigate to chrome://settings/certificates.

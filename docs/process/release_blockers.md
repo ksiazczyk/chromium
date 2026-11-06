@@ -1,3 +1,9 @@
+---
+type: guide
+title: Release Blockers
+summary: Explains when and how to apply Chromium release block labels, using severity and prevalence to assess which releases a bug blocks.
+---
+
 # Release Blockers
 
 [TOC]

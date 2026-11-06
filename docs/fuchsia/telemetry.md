@@ -1,3 +1,13 @@
+---
+type: guide
+title: Running Telemetry Benchmarks on Fuchsia
+summary: How to run Telemetry performance benchmarks on Fuchsia on a local device, ephemeral emulator, or remote device.
+relations:
+  - references /fuchsia_web/shell/README.md
+  - references /tools/perf/README.md
+  - references /tools/perf/core/bot_platforms.py
+---
+
 # Running Telemetry Benchmarks on Fuchsia
 
 [TOC]

@@ -1,3 +1,9 @@
+---
+type: guide
+title: Automatic Reference Counting
+summary: Explains Objective-C automatic reference counting and its use in Chromium, covering conventions, dangers, and code examples.
+---
+
 # Automatic Reference Counting
 
 [TOC]

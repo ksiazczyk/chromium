@@ -1,3 +1,9 @@
+---
+type: reference
+title: Memory Usage in CC
+summary: Reference overview of memory usage in the Chrome compositor, detailing the CC, GPU, discardable, malloc and Skia memory categories reported by memory-infra tracing.
+---
+
 # Memory Usage in CC
 
 This document gives an overview of memory usage in the CC component, as well as

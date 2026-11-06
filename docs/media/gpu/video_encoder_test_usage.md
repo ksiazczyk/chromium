@@ -1,3 +1,11 @@
+---
+type: guide
+title: Video encoder test usage
+summary: Explains how to run the video encoder tests and encoder performance tests from Tast or manually, including test videos, metadata files and command line options.
+relations:
+  - references /media/test/data/bear_320x192_40frames.yuv.webm
+---
+
 # Video Encoder tests
 The video encoder tests are a set of tests that validate various video encoding
 scenarios. They are accompanied by the video encoder performance tests that can

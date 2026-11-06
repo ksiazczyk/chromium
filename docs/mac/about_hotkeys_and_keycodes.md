@@ -1,3 +1,13 @@
+---
+type: reference
+title: About Mac Hotkeys and Virtual Keycodes
+summary: Explains how Mac hotkeys are defined and executed in Chromium, how virtual keycodes map to commands, and lists sample bugs.
+relations:
+  - documents /chrome/browser/ui/cocoa/accelerators_cocoa.mm
+  - documents /chrome/browser/ui/cocoa/main_menu_builder.mm
+  - documents /chrome/browser/global_keyboard_shortcuts_mac.mm
+---
+
 #  About Mac Hotkeys and Virtual Keycodes
 This doc is useful if you need to:
 * Examine the definition of hotkeys or add new ones

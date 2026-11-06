@@ -1,3 +1,12 @@
+---
+type: reference
+title: C++ to Rust Cheat Sheet
+summary: Maps common C++ concepts and APIs such as CHECK, BUILDFLAG, and logging to their Rust equivalents for Chromium engineers.
+relations:
+  - references /build/buildflag_header.gni
+  - references /build/config/BUILD.gn
+---
+
 # C++ to Rust Cheat Sheet
 
 This document provides a "translation" of

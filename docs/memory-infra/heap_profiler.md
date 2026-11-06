@@ -1,3 +1,11 @@
+---
+type: guide
+title: Heap Profiling with MemoryInfra
+summary: Step-by-step instructions for enabling heap profiling, obtaining and symbolizing heap dumps on each platform, and browsing or extracting large allocations from them.
+relations:
+  - references /docs/memory-infra/README.md
+---
+
 # Heap Profiling with MemoryInfra
 
 As of Chrome 48, MemoryInfra supports heap profiling. Chrome will track all live

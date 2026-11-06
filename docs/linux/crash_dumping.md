@@ -1,3 +1,9 @@
+---
+type: guide
+title: Linux crash dumping with Breakpad
+summary: Explains how official Chrome builds perform crash dumping and reporting on Linux using Breakpad, minidumps, and cross-process dumping, and how to test the support.
+---
+
 # Linux Crash Dumping
 
 Official builds of Chrome support crash dumping and reporting using the Google

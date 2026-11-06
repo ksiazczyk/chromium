@@ -1,3 +1,11 @@
+---
+type: guide
+title: GPU Bot Details
+summary: Details the GPU bots' hardware and Swarming setup, the files controlling their configuration, and walkthroughs for maintenance tasks such as adding bots or updating drivers.
+relations:
+  - references /docs/gpu/gpu_testing.md
+---
+
 # GPU Bot Details
 
 This page describes in detail how the GPU bots are set up, which files affect

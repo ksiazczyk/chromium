@@ -1,3 +1,11 @@
+---
+type: guide
+title: Manually updating Chromium to a new Fuchsia SDK
+summary: Steps to manually roll the Fuchsia SDK dependency in Chromium, including locating a green archive and uploading the roll CL.
+relations:
+  - references /tools/fuchsia/local-sdk.py
+---
+
 # Manually updating Chromium to a new Fuchsia SDK
 
 Normally the Fuchsia SDK dependency is automatically updated to a recent build

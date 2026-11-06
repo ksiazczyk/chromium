@@ -1,3 +1,11 @@
+---
+type: guide
+title: Merge Request Process
+summary: Describes how to request, review, and land merges to Chromium release branches, including eligibility criteria, issue tracker steps, and merge automation.
+relations:
+  - references /docs/process/release_cycle.md
+---
+
 # Merge Request Process
 
 [TOC]

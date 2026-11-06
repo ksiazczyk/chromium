@@ -1,3 +1,13 @@
+---
+type: guide
+title: Debugging Chromium on macOS
+summary: How-to guide for debugging Chromium on macOS with LLDB, Xcode, multi-process debugging, crash reports, profiling, and DTrace.
+relations:
+  - references /chrome/installer/mac/signing/README.md
+  - references /tools/mac/download_symbols.py
+  - references /tools/lldb/lldb_chrome_symbols.py
+---
+
 # Debugging Chromium on macOS
 
 [TOC]

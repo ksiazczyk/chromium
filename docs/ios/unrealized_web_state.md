@@ -1,3 +1,9 @@
+---
+type: reference
+title: Unrealized WebState
+summary: Explains the unrealized state of WebState objects used to reduce memory during session restoration, and which features remain available.
+---
+
 # Unrealized `WebState`
 
 > **Status**: launched.

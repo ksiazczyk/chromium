@@ -1,3 +1,11 @@
+---
+type: guide
+title: Running against ToT WebKit in the simulator
+summary: Walks through building and running Chromium for iOS against a locally built top-of-tree WebKit in the simulator, including .gclient changes.
+relations:
+  - references /ios/third_party/webkit/BUILD.gn
+---
+
 # Running Against ToT WebKit in the Simulator
 
 This is a simplified workflow intended to make it as easy as possible to compile

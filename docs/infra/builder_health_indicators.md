@@ -1,3 +1,9 @@
+---
+type: reference
+title: Builder Health Indicators
+summary: Explains builder health indicators shown on builder home pages, how they are configured, and the owning team's duty to fix or remove unhealthy builders.
+---
+
 # Builder Health Indicators
 Health indicators can be found on a builder's home page. They provide signal on a few different things like:
 - Is it running in a reasonable amount of time?

@@ -1,3 +1,9 @@
+---
+type: note
+title: Developing Chrome for iOS with the Xcode IDE
+summary: Presentation notes on using Xcode to develop Chrome for iOS, covering the generated project, simulators, targets and running unit and UI tests.
+---
+
 # Developing Chrome for iOS with the Xcode IDE
 
 This document contains notes used during a presentation about how to use Xcode

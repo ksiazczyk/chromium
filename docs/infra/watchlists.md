@@ -1,3 +1,11 @@
+---
+type: guide
+title: Watchlists
+summary: Describes how WATCHLISTS files define watchers who get cc-ed on changes to matching code paths, and how to create or edit watchlists.
+relations:
+  - documents /WATCHLISTS
+---
+
 ## What are watchlists?
 
 A watchlist is a mechanism that allows a developer (a "watcher") to watch over

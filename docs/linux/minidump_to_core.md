@@ -1,3 +1,9 @@
+---
+type: guide
+title: Linux Minidump to Core
+summary: Guide to converting Chromium crash minidumps to core files and debugging them in gdb, cgdb, or Qtcreator, including symbol loading and source debugging.
+---
+
 # Linux Minidump to Core
 
 On Linux, Chromium can use Breakpad to generate minidump files for crashes. It

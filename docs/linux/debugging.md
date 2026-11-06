@@ -1,3 +1,13 @@
+---
+type: guide
+title: Tips for debugging on Linux
+summary: Chromium-specific debugging tips for Linux, including GDB setup, debugging renderer and GPU subprocesses, core dumps, running tests, and logging.
+relations:
+  - references /docs/gdbinit.md
+  - references /docs/lldbinit.md
+  - references /tools/valgrind/asan/asan_symbolize.py
+---
+
 # Tips for debugging on Linux
 
 This page is for Chromium-specific debugging tips; learning how to run gdb is

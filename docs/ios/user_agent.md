@@ -1,3 +1,9 @@
+---
+type: reference
+title: User agent in Chrome for iOS
+summary: Describes the user agent string used by Chrome for iOS and how it differs from Mobile Safari, including the desktop request variant.
+---
+
 # User Agent in Chrome for iOS
 
 The User Agent (UA) in Chrome for iOS is the same as the Mobile Safari

@@ -1,3 +1,9 @@
+---
+type: reference
+title: WebGPU CTS Harness Message Protocol
+summary: Specifies the websocket message types, fields and examples exchanged between the Python and JavaScript parts of the WebGPU conformance test harness.
+---
+
 # WebGPU CTS Harness Message Protocol
 
 The WebGPU conformance test suite harness makes use of a websocket connection to

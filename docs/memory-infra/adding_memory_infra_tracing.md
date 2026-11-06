@@ -1,3 +1,9 @@
+---
+type: guide
+title: Adding MemoryInfra Tracing to a Component
+summary: Explains how to instrument a component with MemoryInfra by creating a MemoryDumpProvider and registering it with the MemoryDumpManager, including shared memory and suballocation cases.
+---
+
 # Adding MemoryInfra Tracing to a Component
 
 If you have a component that manages memory allocations, you should be

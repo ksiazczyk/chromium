@@ -1,3 +1,11 @@
+---
+type: reference
+title: CHROMIUM Sync Token Internals
+summary: Explains the internals of the sync token system used to synchronize command buffers in Chrome's GPU process, including generation, verification and scheduling.
+relations:
+  - references /docs/design/gpu_synchronization.md
+---
+
 # CHROMIUM Sync Token Internals
 
 Chrome uses a mechanism known as "sync tokens" to synchronize different command

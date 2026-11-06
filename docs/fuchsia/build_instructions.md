@@ -1,3 +1,13 @@
+---
+type: guide
+title: Checking out and building on Fuchsia
+summary: Guide to setting up and building Chromium for Fuchsia, including system requirements, KVM setup, and running test suites.
+relations:
+  - references /docs/fuchsia/README.md
+  - references /docs/fuchsia/gpu_testing.md
+  - references /docs/fuchsia/gtests.md
+---
+
 # Checking out and building on Fuchsia
 
 ***If you have followed the instructions below and are still having trouble,

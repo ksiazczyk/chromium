@@ -1,3 +1,13 @@
+---
+type: guide
+title: Rust FFI
+summary: Guidance for C++/Rust interop in Chromium, recommending cxx and bindgen, covering safety considerations and best practices for cxx bridges.
+relations:
+  - references /docs/rust/crubit/README.md
+  - references /docs/rust/unsafe.md
+  - references /mojo/public/rust/c_mojo_api/BUILD.gn
+---
+
 # Rust FFI
 
 This document provide guidance for C++/Rust interoperation using FFI (foreign

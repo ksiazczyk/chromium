@@ -1,3 +1,9 @@
+---
+type: guide
+title: Linux Instrumented Libraries
+summary: Instructions for building, uploading, and testing Chromium's instrumented libraries, including setting up an Ubuntu chroot and building MSAN-enabled dependencies.
+---
+
 # Linux Instrumented Libraries
 
 The instrumented libraries are a collection of Chromium's dependencies built

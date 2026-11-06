@@ -1,3 +1,9 @@
+---
+type: guide
+title: Memory Benchmarks
+summary: Describes the system health memory benchmarks for Chrome and WebView, the metrics and user stories they cover, how to run them, and how to debug memory regressions.
+---
+
 # Memory Benchmarks
 
 This document describes benchmarks available to track Chrome's and

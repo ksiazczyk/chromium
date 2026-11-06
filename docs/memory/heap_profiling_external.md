@@ -1,3 +1,13 @@
+---
+type: guide
+title: Heap Profiling with External Tools (on Linux)
+summary: Guide to profiling Chrome's native heap on Linux with external tools heaptrack and tcmalloc plus pprof, including the required GN build flags.
+relations:
+  - references /docs/memory-infra/heap_profiler.md
+  - references /docs/get_the_code.md
+  - references /docs/linux/zygote.md
+---
+
 # Heap Profiling with External Tools (on Linux)
 
 For finding memory leaks or generally analyzing native heap usage of Chrome,

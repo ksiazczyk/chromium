@@ -1,3 +1,13 @@
+---
+type: readme
+title: Linux Development
+summary: Overview of Linux development in Chromium with links to build instructions, bug tracking, contributing code, debugging, and related documents.
+relations:
+  - references /docs/contributing.md
+  - references /docs/linux/build_instructions.md
+  - references /docs/linux/debugging.md
+---
+
 # Linux Development
 
 *** promo

@@ -1,0 +1,4 @@
+# Docerion header of crowbar-update-steps.gv.
+type: asset
+title: Crowbar update lifecycle diagram source
+summary: Graphviz source for a diagram showing the Crowbar update lifecycle, from an up-to-date dependency through reconcile and uprev CLs to a CIPD package.

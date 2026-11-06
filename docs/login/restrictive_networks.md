@@ -1,3 +1,9 @@
+---
+type: guide
+title: Working with Restrictive Networks
+summary: Explains how to test login on restricted networks using a local proxy and the go-authproxy tool.
+---
+
 # Working with Restrictive Networks
 
 ChromeOS login supports letting the user connect to a restricted network,

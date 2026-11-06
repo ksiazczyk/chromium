@@ -1,3 +1,11 @@
+---
+type: guide
+title: GPU Testing
+summary: Documents the setup and operation of the GPU bots and try servers that verify Chrome's graphics-accelerated rendering pipeline, including local runs and adding new tests.
+relations:
+  - references /docs/gpu/gpu_testing_bot_details.md
+---
+
 # GPU Testing
 
 This set of pages documents the setup and operation of the GPU bots and try

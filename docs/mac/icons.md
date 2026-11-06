@@ -1,3 +1,11 @@
+---
+type: guide
+title: Chromium's icons
+summary: Explains how Chromium's Mac app and document icons are stored and built, including asset catalogs and .icns file construction.
+relations:
+  - references /tools/mac/icons/compile_car.py
+---
+
 # Chromium’s icons
 
 ## Asset catalogs for the app icon and document icon badge

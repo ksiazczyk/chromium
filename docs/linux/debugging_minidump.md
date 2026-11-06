@@ -1,3 +1,9 @@
+---
+type: guide
+title: Linux minidump code lab
+summary: A code lab walking through creating, inspecting, and symbolizing Chromium minidumps on Linux with Breakpad tools and GDB.
+---
+
 # Linux Minidump Code Lab
 
 [TOC]

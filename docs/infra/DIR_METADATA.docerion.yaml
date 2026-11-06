@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Infra docs DIR_METADATA
+summary: Declares the Monorail and Buganizer issue tracker components that apply to the docs/infra directory.

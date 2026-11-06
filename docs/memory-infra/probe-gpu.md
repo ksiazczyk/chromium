@@ -1,3 +1,12 @@
+---
+type: reference
+title: GPU Memory Tracing
+summary: Explains the GPU column in MemoryInfra, the allocation types involved, how GPU memory is shared and owned across processes, and how to read total GPU memory usage.
+relations:
+  - references /docs/memory-infra/README.md
+  - references /docs/memory-infra/probe-cc.md
+---
+
 # GPU Memory Tracing
 
 This is an overview of the GPU column in [MemoryInfra][memory-infra].

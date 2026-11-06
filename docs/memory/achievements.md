@@ -1,3 +1,9 @@
+---
+type: note
+title: Memory Achievements
+summary: Community-curated list of memory reduction results achieved by Chrome teams, with links to bugs, code reviews, and benchmark data.
+---
+
 # Achievements
 
 This is a non-exhaustive list of results that various chrome people and teams have achieved. It is likely that some big changes are unintentionally missing here, in which case please directly add them without asking.

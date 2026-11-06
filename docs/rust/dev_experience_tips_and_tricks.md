@@ -1,3 +1,9 @@
+---
+type: guide
+title: Tips and tricks for a nice Rust development experience
+summary: Practical tips for Rust development in Chromium, including VSCode and rust-analyzer setup, handling unused code warnings, and Gerrit settings.
+---
+
 # Tips and tricks for a nice Rust development experience
 
 ## Using VSCode

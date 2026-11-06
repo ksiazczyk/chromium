@@ -1,3 +1,11 @@
+---
+type: guide
+title: Video decoder performance test usage
+summary: Explains how to run the video decoder performance tests from Tast or manually, and describes the measured performance metrics such as FPS, dropped frames and decode times.
+relations:
+  - references /media/test/data/test-25fps.h264
+---
+
 # Video Decoder performance tests
 The video decoder performance tests are a set of tests used to measure the
 performance of various video decoder implementations. These tests run directly

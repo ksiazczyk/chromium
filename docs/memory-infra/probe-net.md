@@ -1,3 +1,13 @@
+---
+type: reference
+title: Network Stack Memory Tracing
+summary: Overview of the net column in MemoryInfra, describing how URLRequestContext and related network stack objects report memory usage and how to interpret the rows.
+relations:
+  - references /docs/memory-infra/README.md
+  - references /docs/memory-infra/heap_profiler.md
+  - references /net/docs/life-of-a-url-request.md
+---
+
 # Network Stack Memory Tracing
 
 This is an overview of the Net column in [MemoryInfra][memory-infra].

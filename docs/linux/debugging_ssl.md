@@ -1,3 +1,12 @@
+---
+type: guide
+title: Debugging SSL on Linux
+summary: Tips for debugging SSL code on Linux, covering logging options and configuring Wireshark to decode SSL traffic from Chromium test servers.
+relations:
+  - references /base/logging.cc
+  - references /net/socket/ssl_client_socket_impl.cc
+---
+
 # Debugging SSL on Linux
 
 To help anyone looking at the SSL code, here are a few tips I've found handy.

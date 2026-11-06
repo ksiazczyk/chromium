@@ -1,3 +1,11 @@
+---
+type: reference
+title: Fuchsia platform versioning
+summary: Explains how Chromium sets the Fuchsia target API level and when manual updates to it are needed.
+relations:
+  - references /.gn
+---
+
 # Fuchsia platform versioning
 
 When building for Fuchsia, the binaries are built against a target API level,

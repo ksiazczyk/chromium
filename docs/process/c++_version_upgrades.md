@@ -1,3 +1,11 @@
+---
+type: guide
+title: C++ Version Upgrades
+summary: Explains the goals, strategy, and step-by-step playbook for upgrading Chrome's C++ language version to a newer standard.
+relations:
+  - references /build/config/compiler/BUILD.gn
+---
+
 # C++ Version Upgrades
 
 This describes both "why" and "how" around updating Chrome's C++ version (e.g.

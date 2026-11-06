@@ -1,3 +1,13 @@
+---
+type: guide
+title: Linux Sysroot Images
+summary: Explains why Chromium builds against a Debian sysroot and how to install, rebuild, upload, and roll the sysroot images.
+relations:
+  - documents /build/linux/sysroot_scripts/build_and_upload.py
+  - documents /build/linux/sysroot_scripts/sysroot_creator.py
+  - references /build/linux/sysroot_scripts/sysroots.json
+---
+
 # Linux sysroot images
 
 The chromium build system for Linux will (by default) use a sysroot image

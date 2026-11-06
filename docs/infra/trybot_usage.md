@@ -1,3 +1,12 @@
+---
+type: guide
+title: Using the Trybots
+summary: Explains how to run trybots on uncommitted patches via git cl try or Gerrit, including tryjobs for pending dependency CLs.
+relations:
+  - references /docs/contributing.md
+  - references /docs/infra/cq.md
+---
+
 # Using the trybots
 
 [TOC]

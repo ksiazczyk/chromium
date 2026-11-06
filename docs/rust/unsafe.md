@@ -1,3 +1,13 @@
+---
+type: guide
+title: Using unsafe code in first-party Chromium code
+summary: Policy on unsafe Rust in first-party Chromium code, covering when it is allowed, required safety comments, and usage guidelines.
+relations:
+  - references /docs/rust/api_design.md
+  - references /docs/rust/clippy.md
+  - references /third_party/rust/README-importing-new-crates.md
+---
+
 # Using `unsafe` code in first-party Chromium code
 
 Rust is well-known as a memory-safe language, but it has an escape hatch in the

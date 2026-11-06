@@ -1,3 +1,11 @@
+---
+type: guide
+title: VA-API tracing and debugging on ChromeOS
+summary: Documents tracing, logging, power measurement and verification of Video Acceleration API installation and codec usage on ChromeOS.
+relations:
+  - references /media/gpu/vaapi/vaapi_wrapper.cc
+---
+
 # VA-API
 
 This page documents tracing and debugging the Video Acceleration API (VaAPI or

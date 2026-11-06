@@ -1,3 +1,9 @@
+---
+type: guide
+title: The Associated Data Pattern
+summary: Explains the associated data pattern for letting consumer classes store per-instance data on a central class, with Chromium examples such as SupportsUserData and KeyedService.
+---
+
 # The Associated Data Pattern
 
 The associated data pattern allows a class C that is used by multiple other

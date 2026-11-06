@@ -1,3 +1,9 @@
+---
+type: reference
+title: iOS coding style rules
+summary: Documents iOS-specific coding style rules, including Objective-C++ usage, ObjCCast, block indentation, logging macros, and TODO comments.
+---
+
 ## All files are Objective-C++
 
 Chrome back-end code is all C++ and we want to leverage many C++ features, such

@@ -1,3 +1,13 @@
+---
+type: reference
+title: Linux Sandbox IPC
+summary: Describes the low-level file-descriptor based sandbox IPC system, its request flow via the zygote socket, and its remaining localtime endpoint.
+relations:
+  - references /docs/linux/zygote.md
+  - references /components/services/font/public/cpp/font_loader.h
+  - references /content/browser/sandbox_ipc_linux.h
+---
+
 # Linux Sandbox IPC
 
 ***These days, only the out-of-process localtime implementation uses the

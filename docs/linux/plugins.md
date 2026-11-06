@@ -1,3 +1,9 @@
+---
+type: reference
+title: Linux Plugins
+summary: Gathers background reading, terminology, reference code, Flash resources, and useful tools for working with plugins on Linux.
+---
+
 # Linux Plugins
 
 ## Background reading materials

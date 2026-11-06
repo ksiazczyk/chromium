@@ -1,3 +1,11 @@
+---
+type: reference
+title: Unstable Rust usage in Chromium
+summary: Policy on unstable Rust features in Chromium, listing approved exceptions and how to opt in via BUILD.gn or gnrt_config.toml.
+relations:
+  - references /tools/crates/run_gnrt.py
+---
+
 # Unstable Rust usage in Chromium
 
 ## Policy

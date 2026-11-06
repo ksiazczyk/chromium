@@ -1,3 +1,11 @@
+---
+type: guide
+title: Moving Large Files to Google Storage
+summary: Step-by-step guide for storing large binary files in Google Storage buckets and fetching them as DEPS dependencies during gclient sync.
+relations:
+  - references /.gitignore
+---
+
 # Moving large files to Google Storage
 
 ## Problem

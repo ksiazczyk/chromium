@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Privacy directory metadata
+summary: Maps the privacy docs directory to the Privacy bug tracking components in Monorail and Buganizer.

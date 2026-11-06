@@ -1,3 +1,13 @@
+---
+type: readme
+title: Getting Started with Rust in Chromium
+summary: Entry point for using Rust in Chromium, covering team contacts, an FAQ, build system setup, and guidance on first-party and third-party Rust libraries.
+relations:
+  - references /docs/mojo_and_services.md
+  - references /docs/rust/crubit/README.md
+  - references /docs/rust/dev_experience_tips_and_tricks.md
+---
+
 # Getting Started with Rust in Chromium
 
 Welcome! If you're interested in learning more about how to use Rust as a

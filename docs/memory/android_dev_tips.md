@@ -1,3 +1,12 @@
+---
+type: guide
+title: Android Dev Tips
+summary: Internal tips for memory team developers building and running Chromium on Android, covering chrome_public_apk builds, logcat filtering, and telemetry runs.
+relations:
+  - references /docs/android_build_instructions.md
+  - references /tools/perf/run_benchmark
+---
+
 # Android Dev Tips
 
 Just an internal tips page for people working on the memory team.

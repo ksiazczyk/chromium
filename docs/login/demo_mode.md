@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chrome OS Demo Mode
+summary: Explains Chrome OS Demo Mode for retail devices, its OOBE setup steps, and offline-enrolled demo setup.
+---
+
 # Chrome OS Demo Mode
 
 Demo Mode is Chrome OS device set-up intended to run in retail environment. The

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Fingerprint Enrollment
+summary: Describes fingerprint enrollment during OOBE and in lock screen settings, including testing with FakeBiodClient.
+---
+
 # Fingerprint Enrollment
 
 Fingerprint scanners are an easy way for users to authenticate to their devices.

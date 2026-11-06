@@ -1,3 +1,11 @@
+---
+type: reference
+title: Tools for Understanding Chrome Memory Usage
+summary: Catalogs the tools available for examining Chrome memory usage, with blindspots and instructions for each, and advice on which tool to choose.
+relations:
+  - references /base/trace_event/memory_dump_provider.h
+---
+
 # Description of Tools for developers trying to understand memory usage
 
 This page provides an overview of the tools available for examining memory usage

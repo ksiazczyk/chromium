@@ -1,3 +1,11 @@
+---
+type: readme
+title: Imported documentation cache README
+summary: Explains that docs/imported caches external documentation such as GN docs for offline tools and AI assistants, and that refresh_docs.py manages all updates.
+relations:
+  - references /docs/imported/refresh_docs.py
+---
+
 	# Imported Documentation Cache
 
 ## What is this directory?

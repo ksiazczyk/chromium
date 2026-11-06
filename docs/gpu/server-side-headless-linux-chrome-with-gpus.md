@@ -1,3 +1,9 @@
+---
+type: guide
+title: Running Headless Chrome on Server-Side Linux with GPU Support
+summary: Links to public documentation and blog posts for running headless Chrome with NVIDIA GPUs on cloud Linux instances such as GCP and Colab.
+---
+
 # Running Headless Chrome on Server-Side Linux with GPU Support
 
 Many cloud environments offer hardware compute instances with GPU

@@ -1,3 +1,12 @@
+---
+type: guide
+title: Using a Chroot
+summary: Walks through setting up a 64-bit Lucid chroot to run web tests, plus tips for NFS homes, reclient builds, prompts, X apps, and viewing results.
+relations:
+  - references /docs/testing/web_tests_linux.md
+  - references /build/install-chroot.sh
+---
+
 # Using a chroot
 
 If you want to run web tests and you're not running Lucid, you'll get errors
