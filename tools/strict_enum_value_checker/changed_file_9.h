@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock enum with valid insertions
+// summary: Test fixture header holding a MockEnum variant with entries validly inserted before mBoundary, used to exercise the strict enum value checker.
+// ---
+
 #ifndef MOCK_ENUM_H_
 #define MOCK_ENUM_H_
 

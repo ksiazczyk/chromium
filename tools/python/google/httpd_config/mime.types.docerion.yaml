@@ -1,0 +1,4 @@
+# Docerion header of mime.types.
+type: data
+title: MIME types to file extension mapping
+summary: Lookup table mapping Internet media types to file extensions so the server sends the correct content type to clients.

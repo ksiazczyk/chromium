@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Browser URL iteration utility
+# summary: Python utility that launches IE, Firefox, or Chrome, connects over a local socket, and iterates through a list of URLs to measure page load times.
+# ---
+
 """Utility to use a browser to visit multiple URLs.
 
 Prerequisites:

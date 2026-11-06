@@ -1,0 +1,4 @@
+# Docerion header of css_to_wrapper_test.py.
+type: test
+title: Unit tests for css_to_wrapper
+summary: Unittest suite that runs css_to_wrapper on sample CSS files and compares generated wrappers with expected outputs, covering minify, use_js and Lit cases.

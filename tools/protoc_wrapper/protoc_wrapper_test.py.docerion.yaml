@@ -1,0 +1,4 @@
+# Docerion header of protoc_wrapper_test.py.
+type: test
+title: protoc_wrapper tests
+summary: Unit tests verifying how protoc_wrapper builds protoc commands for various output and option combinations.

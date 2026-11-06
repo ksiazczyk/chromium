@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for style_variable_generator
+summary: Lists the owners responsible for reviewing changes, with per-file owners for TypeScript generation files.

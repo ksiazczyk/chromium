@@ -1,0 +1,4 @@
+# Docerion header of __init__.py.
+type: source
+title: Scraper selector package initializer for site_compare
+summary: Selects and returns the appropriate scraper module for a given browser name and optional version within the site_compare tool.

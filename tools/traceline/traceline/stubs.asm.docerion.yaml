@@ -1,0 +1,4 @@
+# Docerion header of stubs.asm.
+type: source
+title: x86 assembly stubs for encoding experiments
+summary: Assembly file serving as a convenient place to experiment with 32-bit x86 instruction encodings such as segment loads, string ops, and jumps.

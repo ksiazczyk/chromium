@@ -1,0 +1,4 @@
+# Docerion header of generate_resource_allowlist.pydeps.
+type: data
+title: Python dependency list for allowlist generation
+summary: Generated list of Python modules required by the resource allowlist generator script.

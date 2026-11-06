@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: CSS style variable generator
+# summary: Generates CSS variables for colors, opacities, legacy mappings and typography from the style variable model.
+# ---
+
 from style_variable_generator.base_generator import BaseGenerator
 from style_variable_generator.model import Modes, VariableType
 from style_variable_generator.color import (

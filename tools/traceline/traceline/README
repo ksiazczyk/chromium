@@ -1,3 +1,9 @@
+---
+type: readme
+title: Traceline README
+summary: Explains traceline, a Windows utility that intercepts, times, and logs system calls via injected hooks, with build and usage notes.
+---
+
 Traceline is a Windows utility to intercept, time, and log system calls.  This
 is achieved by injecting code into a target process, along with dynamically
 generated assembly hook stubs.  One of the major goals was to skew performance

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging and check macros header
+// summary: Header defining CHECK and NOTREACHED macros that print failure details and abort the process.
+// ---
+
 #ifndef TRACELINE_LOGGING_H_
 #define TRACELINE_LOGGING_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of cr_icons.html.
+type: test
+title: cr_icons.html
+summary: Test fixture defining a cr-iconset with an SVG icon, used as input for the html_to_wrapper icon conversion test.

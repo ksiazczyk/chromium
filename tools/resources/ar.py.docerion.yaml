@@ -1,0 +1,4 @@
+# Docerion header of ar.py.
+type: source
+title: ar archive reader helper
+summary: Provides logic for reading .a archives and expanding thin archives into object file paths.

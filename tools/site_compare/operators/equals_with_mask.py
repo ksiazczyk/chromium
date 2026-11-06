@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Masked image equality comparison operator
+# summary: Compares two images for equality while ignoring areas covered by black regions of an optional mask from a mask directory.
+# ---
+
 """Compare two images for equality, subject to a mask."""
 
 from PIL import Image

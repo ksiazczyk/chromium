@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Base style variable generator
+# summary: Defines BaseGenerator, which loads JSON5 variable definitions into a model and renders format-specific output templates.
+# ---
+
 import os
 import sys
 import collections

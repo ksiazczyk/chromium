@@ -1,0 +1,4 @@
+# Docerion header of colors_test.json5.
+type: test
+title: Colors test fixture
+summary: Test fixture with light, dark and debug color modes, legacy mappings and opacities for generator tests.

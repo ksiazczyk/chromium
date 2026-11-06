@@ -1,0 +1,4 @@
+# Docerion header of command_line.py.
+type: source
+title: Command-line parsing module for site_compare
+summary: Parses command lines into commands with typed arguments, supporting dependent and mutually exclusive arguments as a better alternative to optparse.

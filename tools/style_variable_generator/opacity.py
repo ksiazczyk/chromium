@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Opacity value model
+# summary: Represents and parses opacity values, accepting either a numeric alpha between 0 and 1 or a named opacity variable reference.
+# ---
+
 import re
 import sys
 

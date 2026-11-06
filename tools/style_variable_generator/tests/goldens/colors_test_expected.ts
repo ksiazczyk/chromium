@@ -7,6 +7,12 @@
  *  tests/colors_test_palette.json5
  */
 
+// ---docerion
+// type: test
+// title: Colors test expected TypeScript golden
+// summary: Golden TypeScript module exporting Lit CSS variable constants for the colors test, compared against generator output.
+// ---
+
 import {css} from 'lit';
 
 export const GOOGLE_GREY_900 = css`var(--google-grey-900)`;

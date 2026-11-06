@@ -1,0 +1,4 @@
+# Docerion header of colors_test_palette.json5.
+type: test
+title: Google palette test fixture
+summary: Test fixture defining the google_grey_900 palette color for proto output without a CSS prefix.

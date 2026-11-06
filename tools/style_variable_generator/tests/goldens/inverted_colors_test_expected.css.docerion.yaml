@@ -1,0 +1,4 @@
+# Docerion header of inverted_colors_test_expected.css.
+type: test
+title: Expected CSS output for inverted colors test
+summary: Golden CSS custom properties for inverted light and dark mode colors, serving as expected output for the style variable generator test.

@@ -8,6 +8,12 @@
  * #import=./other2.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: test
+title: foo_vars_lit_only.css
+summary: CSS test fixture for the css_to_wrapper tool declaring vars-lit wrapper metadata with imports of other1.css.js and other2.css.js, plus CSS variable definitions including a dark mode override.
+*/
+
 html {
   --my-var: 9px;
 }

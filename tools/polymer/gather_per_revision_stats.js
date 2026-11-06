@@ -37,6 +37,12 @@
  *  command example.
  */
 
+// ---docerion
+// type: script
+// title: Run a stats script across multiple git revisions
+// summary: Node helper that finds commits referencing a bug, checks out each revision, runs a given stats script there, and records already processed revisions.
+// ---
+
 import assert from 'node:assert';
 import {execSync} from 'node:child_process';
 import fs from 'node:fs';

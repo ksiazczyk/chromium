@@ -1,0 +1,4 @@
+# Docerion header of split.py.
+type: script
+title: Trace JSON splitter
+summary: Reads trace JSON from stdin and splits it into split.X files of 40,000 records each to avoid memory limits.

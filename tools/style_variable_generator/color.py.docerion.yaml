@@ -1,0 +1,4 @@
+# Docerion header of color.py.
+type: source
+title: Color parsing and representation
+summary: Parses color values such as hex, rgb, rgba, blends and variable references into color objects used by the generators.

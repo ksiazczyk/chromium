@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: SiteCompare command to measure page load times
+# summary: Defines the measure command, which measures how long a series of URLs takes to load in one or more browsers and writes results to a log file.
+# ---
+
 """Command for measuring how long pages take to load in a browser.
 
 Prerequisites:

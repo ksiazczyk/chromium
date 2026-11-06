@@ -1,0 +1,4 @@
+# Docerion header of colors_tokens_test_expected.protojson.
+type: test
+title: Expected protojson output for colors tokens test
+summary: Golden protojson listing expected light and dark values for test color tokens, used to verify the style variable generator output.

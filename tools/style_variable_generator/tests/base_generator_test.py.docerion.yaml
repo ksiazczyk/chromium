@@ -1,0 +1,4 @@
+# Docerion header of base_generator_test.py.
+type: test
+title: Base generator unit tests
+summary: Unit tests for BaseGenerator covering color and opacity resolution, model validation, duplicate keys and invalid names.

@@ -1,0 +1,4 @@
+# Docerion header of protoc-gen-ts_proto.bat.
+type: script
+title: protoc-gen-ts_proto batch launcher
+summary: Windows batch file that launches the ts_proto protoc plugin via its Python wrapper.

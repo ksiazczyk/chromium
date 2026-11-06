@@ -1,0 +1,4 @@
+# Docerion header of views_generator_h.tmpl.
+type: source
+title: Jinja template for generated views color C++ header
+summary: Template that renders style variables into a C++ header declaring ColorName and OpacityName enums and color resolution function declarations.

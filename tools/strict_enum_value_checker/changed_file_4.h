@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enum fixture missing enum declaration
+// summary: Mock enum header fixture missing the enum MockEnum declaration line, leaving a malformed enum body for checker testing.
+// ---
+
 #ifndef MOCK_ENUM_H_
 #define MOCK_ENUM_H_
 

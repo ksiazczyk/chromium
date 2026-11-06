@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Logging helpers with stdout and stderr threshold handler
+# summary: Provides a logging handler that routes messages to stdout or stderr based on a level threshold and configures the root logger.
+# ---
+
 '''Utility functions and objects for logging.'''
 
 import logging

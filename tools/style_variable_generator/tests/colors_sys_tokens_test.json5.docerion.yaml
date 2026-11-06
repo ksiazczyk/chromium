@@ -1,0 +1,4 @@
+# Docerion header of colors_sys_tokens_test.json5.
+type: test
+title: System token colors test fixture
+summary: Test fixture defining cros.sys token colors with legacy mappings, blend expressions and reference opacities.

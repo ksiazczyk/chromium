@@ -1,6 +1,13 @@
 # Copyright 2006-2008 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Process utility functions for Chromium Python tooling
+# summary: Shared Python helpers to run external commands and kill processes, with Windows-specific taskkill and pskill support.
+# ---
+
 """Shared process-related utility functions."""
 
 from __future__ import print_function

@@ -1,0 +1,4 @@
+# Docerion header of css_generator.tmpl.
+type: source
+title: Jinja template for generated CSS style variables
+summary: Template that renders style variables into CSS custom properties for light and dark modes, including font faces, typefaces, opacities and legacy mappings.

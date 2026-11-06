@@ -1,0 +1,4 @@
+# Docerion header of preblend_colors_test.json5.
+type: test
+title: Preblend colors test data
+summary: JSON5 test input exercising the CSS preblend option with light and dark color values and blend expressions.

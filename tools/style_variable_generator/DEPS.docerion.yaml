@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for style_variable_generator
+summary: DEPS rules specifying allowed include dependencies, permitting imports from ash/style.

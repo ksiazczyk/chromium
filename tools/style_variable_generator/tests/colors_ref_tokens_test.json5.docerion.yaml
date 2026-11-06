@@ -1,0 +1,4 @@
+# Docerion header of colors_ref_tokens_test.json5.
+type: test
+title: Reference token colors test fixture
+summary: Test fixture defining colors in the cros.ref token namespace with a CrosRef color mapping for generator tests.

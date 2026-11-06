@@ -5,6 +5,12 @@
 // Several simple types used by the disassembler and some of the patching
 // mechanisms.
 
+// ---docerion
+// type: source
+// title: Disassembler shared type definitions
+// summary: Defines enums for instruction types, operand sizes, addressing methods and operand types shared by the mini disassembler and patching mechanisms.
+// ---
+
 #ifndef TRACELINE_SIDESTEP_MINI_DISASSEMBLER_TYPES_H_
 #define TRACELINE_SIDESTEP_MINI_DISASSEMBLER_TYPES_H_
 

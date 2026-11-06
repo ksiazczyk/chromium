@@ -1,0 +1,4 @@
+# Docerion header of find_unused_assets.py.
+type: script
+title: Unused asset finder
+summary: Scans the Chromium codebase with git grep to report PNG assets that appear to be unused.

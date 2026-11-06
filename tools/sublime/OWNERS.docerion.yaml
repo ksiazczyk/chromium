@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Sublime tools directory
+summary: Lists jkarlin@chromium.org as the owner responsible for changes in tools/sublime.

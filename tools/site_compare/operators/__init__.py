@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Operator selection module for site_compare
+# summary: Resolves a comparison operator by name and returns its Python module for use by the site comparison tool.
+# ---
+
 """Selects the appropriate operator."""
 
 

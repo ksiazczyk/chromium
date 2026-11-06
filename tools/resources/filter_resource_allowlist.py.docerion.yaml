@@ -1,0 +1,4 @@
+# Docerion header of filter_resource_allowlist.py.
+type: script
+title: Resource allowlist filter script
+summary: Removes resource IDs listed in a filter file from an allowlist, used to generate Monochrome locale paks.

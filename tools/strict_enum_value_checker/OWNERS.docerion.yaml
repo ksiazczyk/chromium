@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for strict_enum_value_checker
+summary: Lists rdevlin.cronin@chromium.org as the owner of the strict_enum_value_checker tool directory.

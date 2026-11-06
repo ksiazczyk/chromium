@@ -1,0 +1,4 @@
+# Docerion header of run_polymer_tools_tests.py.
+type: test
+title: Test runner for the Polymer tools unit tests
+summary: Collects and runs all Polymer tools unit tests in this directory via the typ test runner.

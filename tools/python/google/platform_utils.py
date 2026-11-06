@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Platform-independent interface to platform utilities
+# summary: Imports the platform-specific utilities module for Windows, macOS, or Linux based on sys.platform to expose a common interface.
+# ---
+
 """Platform-specific utilities and pseudo-constants
 
 Any functions whose implementations or values differ from one platform to

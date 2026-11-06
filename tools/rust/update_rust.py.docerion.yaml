@@ -1,0 +1,4 @@
+# Docerion header of update_rust.py.
+type: script
+title: Rust toolchain update script
+summary: Downloads and unpacks the pinned Rust toolchain package into third_party/rust-toolchain, tracking pinned rustc, crubit and bindgen revisions.

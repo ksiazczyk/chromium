@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enum fixture with insertion at invalid position
+// summary: Mock enum header fixture adding mInsertion after mData2 instead of before mBoundary, an invalid insertion position for checker testing.
+// ---
+
 #ifndef MOCK_ENUM_H_
 #define MOCK_ENUM_H_
 

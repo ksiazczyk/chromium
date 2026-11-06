@@ -1,0 +1,4 @@
+# Docerion header of foo.html.
+type: test
+title: foo.html fixture for the html_to_js test
+summary: HTML fixture with a style block and a div whose markup is inlined into the Polymer element template during the html_to_js test.

@@ -7,6 +7,12 @@
  *  tests/colors_sys_tokens_test.json5
  */
 
+// ---docerion
+// type: test
+// title: Expected TypeScript CSS variable exports for colors tokens test
+// summary: Golden TypeScript module exporting lit css constants for color tokens, used as the expected output of the style variable generator test.
+// ---
+
 import {css} from 'lit';
 
 export const CROS_REF_PRIMARY50 = css`var(--cros-ref-primary50)`;

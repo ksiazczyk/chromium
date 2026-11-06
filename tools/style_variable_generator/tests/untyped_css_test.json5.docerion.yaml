@@ -1,0 +1,4 @@
+# Docerion header of untyped_css_test.json5.
+type: test
+title: Untyped CSS test data
+summary: JSON5 test input defining untyped CSS shadow values used to test untyped CSS variable generation.

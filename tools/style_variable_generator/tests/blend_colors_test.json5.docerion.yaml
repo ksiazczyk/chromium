@@ -1,0 +1,4 @@
+# Docerion header of blend_colors_test.json5.
+type: test
+title: Blend colors test fixture
+summary: Test fixture exercising blend() color definitions across light and dark modes with a disabled opacity.

@@ -29,6 +29,12 @@
 
 // Implementation of MiniDisassembler.
 
+// ---docerion
+// type: source
+// title: MiniDisassembler implementation
+// summary: Implements the MiniDisassembler class, which decodes IA-32 prefixes, opcodes, ModR/M and SIB bytes to compute instruction lengths for patching.
+// ---
+
 #include "sidestep/mini_disassembler.h"
 
 namespace sidestep {

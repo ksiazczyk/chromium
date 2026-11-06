@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: protoc_convert
+# summary: GN helper that connects files to protoc's stdin and stdout for encoding and decoding protos.
+# ---
+
 """Helper script for use by GN to encode/decode proto files. The protoc tool
 requires using stdin/stdout for the --encode/--decode options, but that form
 of processing is not supported by GN.

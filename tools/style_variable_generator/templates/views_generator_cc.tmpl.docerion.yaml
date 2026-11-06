@@ -1,0 +1,4 @@
+# Docerion header of views_generator_cc.tmpl.
+type: source
+title: Jinja template for generated views color C++ implementation
+summary: Template that renders style variables into a C++ source resolving color names and opacities to SkColor values with dark mode and debug color support.

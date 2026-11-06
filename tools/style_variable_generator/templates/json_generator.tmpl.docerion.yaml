@@ -1,0 +1,4 @@
+# Docerion header of json_generator.tmpl.
+type: source
+title: Jinja template for generated JSON token output
+summary: Minimal template that emits the parsed style tokens as the JSON generator output.

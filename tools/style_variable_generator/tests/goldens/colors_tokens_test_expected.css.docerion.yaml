@@ -1,0 +1,4 @@
+# Docerion header of colors_tokens_test_expected.css.
+type: test
+title: Colors tokens test CSS golden output
+summary: Expected CSS output defining light and dark mode CSS variables for cros ref and sys tokens in the tokens test.

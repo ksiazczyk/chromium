@@ -1,0 +1,4 @@
+# Docerion header of filter_short.py.
+type: script
+title: Short syscall event filter
+summary: Filters trace JSON to remove syscall events shorter than 0.2ms, keeping only the most time-critical events.

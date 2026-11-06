@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Polymer tools Python unittests build group
+summary: Defines a testonly GN group bundling the data and shared dependencies needed to run the polymer tools Python unittests.

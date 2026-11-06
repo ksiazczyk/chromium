@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: SiteCompare command to compare two browsers' output
+# summary: Defines the compare2 command, which loads the same URLs in two browser executables and compares their rendered output, with options for masks, diffs, and logging.
+# ---
+
 """SiteCompare command to invoke the same page in two versions of a browser.
 
 Does the easiest compatibility test: equality comparison between two different

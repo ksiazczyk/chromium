@@ -10,6 +10,12 @@
 //    proper data collection and durations.  Right now it's just noise.
 //  - Get the returned pointer from AllocateHeap.
 
+// ---docerion
+// type: source
+// title: Traceline main program
+// summary: Main implementation that injects hooks and an in-process logging playground into a target process and emits JSON output.
+// ---
+
 #include <windows.h>
 
 #include <stdio.h>

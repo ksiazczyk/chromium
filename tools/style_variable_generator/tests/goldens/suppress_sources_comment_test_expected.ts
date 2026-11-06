@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: test
+// title: Expected TypeScript output for suppress sources comment test
+// summary: Golden TypeScript module with lit css variable exports verifying suppression of the sources comment in generated output.
+// ---
+
 import {css} from 'lit';
 
 export const GOOGLE_GREY_900 = css`var(--google-grey-900)`;

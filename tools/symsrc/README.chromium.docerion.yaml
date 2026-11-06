@@ -1,0 +1,4 @@
+# Docerion header of README.chromium.
+type: readme
+title: Symbol and source server README
+summary: Explains the symbol and source server tools and walks through testing source_index.py with a built PDB.

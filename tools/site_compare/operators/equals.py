@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Image equality comparison operator
+# summary: Compares two images for exact equality using PIL and returns an error string with a difference image when they differ.
+# ---
+
 """Compare two images for equality."""
 
 from PIL import Image

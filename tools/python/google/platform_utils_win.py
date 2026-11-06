@@ -1,6 +1,13 @@
 # Copyright 2011 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Windows platform utilities with Cygwin path conversion
+# summary: Windows implementation of PlatformUtility with cygpath-based path conversion, filesystem roots, and Apache httpd command setup.
+# ---
+
 """Platform-specific utility methods shared by several scripts."""
 
 import os

@@ -9,6 +9,12 @@
  *  tests/untyped_css_test.json5
  */
 
+// ---docerion
+// type: test
+// title: Colors test typography and untyped CSS golden TypeScript output
+// summary: Expected TypeScript output combining colors, typography and untyped CSS test inputs, exporting getColorsCSS with font, elevation shadow and legacy variables.
+// ---
+
 import {css} from 'lit';
 /* SAFETY_BOILERPLATE */
 

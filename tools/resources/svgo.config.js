@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: config
+// title: SVGO configuration
+// summary: SVGO settings that keep viewBox and styles and preserve IDs with the EXPORT_ prefix when optimizing SVG files.
+// ---
+
 export default {
   plugins: [
     {

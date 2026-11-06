@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Protobuf style variable generators
+# summary: Generates protobuf message schema and protobuf JSON representations of color tokens, mapping fields and resolving light and dark mode colors.
+# ---
+
 from style_variable_generator.base_generator import Color, BaseGenerator
 from style_variable_generator.model import Modes, VariableType
 

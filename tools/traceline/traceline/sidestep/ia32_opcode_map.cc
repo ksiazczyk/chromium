@@ -7,6 +7,12 @@
 // for how to lay out the tables in memory taken from the implementation
 // in the Bastard disassembly environment.
 
+// ---docerion
+// type: source
+// title: IA-32 opcode decoding maps for the mini disassembler
+// summary: Contains large opcode lookup tables used by the sidestep mini disassembler to decode IA-32 instructions, derived from the Intel instruction set reference.
+// ---
+
 #include "sidestep/mini_disassembler.h"
 
 namespace sidestep {

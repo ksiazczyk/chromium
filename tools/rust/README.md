@@ -1,3 +1,12 @@
+---
+type: readme
+title: '//tools/rust: building and rolling the Rust toolchain'
+summary: Explains how Chromium builds, packages, distributes, and rolls the Rust toolchain, including bindgen and Crubit, and covers local development and testing.
+relations:
+  - references /docs/updating_clang.md
+  - documents /tools/rust/update_rust.py
+---
+
 # //tools/rust
 
 This directory contains scripts for building, packaging, and distributing the

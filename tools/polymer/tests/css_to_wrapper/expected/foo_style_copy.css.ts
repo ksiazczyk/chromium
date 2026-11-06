@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Expected foo style copy wrapper
+// summary: Expected css_to_wrapper output variant of the foo style with an extra blank line, registering the foo-style-copy module.
+// ---
+
 import {html} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import './other1.css.js';
 import './other2.css.js';

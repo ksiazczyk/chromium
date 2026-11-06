@@ -1,0 +1,4 @@
+# Docerion header of foo_native.html.
+type: test
+title: foo_native.html
+summary: HTML template fixture with a styled div, used as input for native custom element wrapper generation tests.

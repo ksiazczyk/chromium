@@ -41,6 +41,12 @@
 // own.  Relocation information has been removed, and in general things were
 // made a bit simpler (and slower).  Everything is implemented inline.
 
+// ---docerion
+// type: source
+// title: C++ assembler for dynamic machine code generation
+// summary: Header implementing a simplified x86 C++ assembler for dynamically generating machine code, based on the V8 assembler.
+// ---
+
 #ifndef TRACELINE_ASSEMBLER_H_
 #define TRACELINE_ASSEMBLER_H_
 

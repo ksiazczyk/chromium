@@ -1,0 +1,4 @@
+# Docerion header of html_to_js.gni.
+type: config
+title: Deprecated GN template for html_to_js
+summary: GN template that runs html_to_js.py to inline HTML into JS files; marked as not for new code and restricted to ChromeOS builds.

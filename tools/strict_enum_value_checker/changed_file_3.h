@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enum fixture with renamed entry
+// summary: Mock enum header fixture that renames mError1 to mErrata1, an invalid change since new entries must be added before mBoundary.
+// ---
+
 #ifndef MOCK_ENUM_H_
 #define MOCK_ENUM_H_
 

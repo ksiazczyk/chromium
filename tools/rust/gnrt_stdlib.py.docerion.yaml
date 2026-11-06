@@ -1,0 +1,4 @@
+# Docerion header of gnrt_stdlib.py.
+type: source
+title: Generate GN rules for the Rust standard library
+summary: Builds the gnrt tool and runs it to generate GN build rules for the Rust standard library sources.

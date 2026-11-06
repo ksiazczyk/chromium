@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enum fixture with deleted entry
+// summary: Mock enum header fixture that removes the mError1 entry, representing a forbidden deletion for checker testing.
+// ---
+
 #ifndef MOCK_ENUM_H_
 #define MOCK_ENUM_H_
 

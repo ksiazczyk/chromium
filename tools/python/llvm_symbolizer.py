@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: LLVM symbolizer wrapper
+# summary: Runs an llvm-symbolizer subprocess to map addresses in ELF binaries to function names and line numbers.
+# ---
+
 import functools
 import logging
 import os

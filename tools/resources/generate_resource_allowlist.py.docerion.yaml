@@ -1,0 +1,4 @@
+# Docerion header of generate_resource_allowlist.py.
+type: script
+title: Resource allowlist generator
+summary: Reads debug info from unstripped binaries or PDBs to extract used resource IDs into an allowlist file.

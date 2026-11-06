@@ -1,0 +1,4 @@
+# Docerion header of alloc.py.
+type: script
+title: Virtual memory allocation trace printer
+summary: Parses traceline events and prints timing details for NtAllocateVirtualMemory syscalls per thread.

@@ -1,0 +1,4 @@
+# Docerion header of suppress_sources_comment_test_expected.css.
+type: test
+title: Expected CSS output for suppress sources comment test
+summary: Golden CSS output verifying that generated styles omit the sources comment, used by the style variable generator test.

@@ -1,0 +1,4 @@
+# Docerion header of css_to_wrapper.gni.
+type: config
+title: GN template for the css_to_wrapper build action
+summary: GN template that invokes css_to_wrapper.py to generate TS or JS wrappers around CSS files, with options for minification, iOS and JS output.

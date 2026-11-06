@@ -1,0 +1,4 @@
+# Docerion header of decisiongraph_invoker.py.
+type: source
+title: Decision graph invoker for ML-based test selection
+summary: Python script that loads a JSON config and calls the DecisionGraph API to trigger an ML model and fetch its results for selecting tests on Chromium changes

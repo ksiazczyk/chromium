@@ -6,6 +6,12 @@
 // Based on information in the IA-32 Intel Architecture
 // Software Developer's Manual Volume 2: Instruction Set Reference.
 
+// ---docerion
+// type: source
+// title: IA-32 ModR/M byte decoding tables for the mini disassembler
+// summary: Defines ModrmEntry lookup tables that let the sidestep mini disassembler decode IA-16 and IA-32 ModR/M bytes, based on the Intel architecture manual.
+// ---
+
 #include "sidestep/mini_disassembler.h"
 #include "sidestep/mini_disassembler_types.h"
 

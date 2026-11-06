@@ -1,3 +1,9 @@
+<!--docerion
+type: source
+title: Traceline viewer XHTML entry page
+summary: XHTML page that loads the traceline CSS and script and starts rendering the JSON files named in the URL hash.
+-->
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
   <title>Traceline SVG</title>

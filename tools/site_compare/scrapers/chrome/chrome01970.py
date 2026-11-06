@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome scraper for versions up to 0.1.97.0
+# summary: Implements scraping and timing for Chrome versions up to 0.1.97.0 by locating the Chrome_BrowserWindow render pane and delegating the work to chromebase.
+# ---
+
 """Does scraping for versions of Chrome up to 0.1.97.0."""
 
 from drivers import windowing

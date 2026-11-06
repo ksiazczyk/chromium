@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: ICO file optimization and conversion helpers
+# summary: Python helpers for parsing, optimizing, converting and linting Windows ICO files and their embedded PNG images, used by optimize-ico-files.py.
+# ---
+
 import logging
 import math
 import os

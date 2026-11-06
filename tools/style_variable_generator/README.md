@@ -1,3 +1,12 @@
+---
+type: readme
+title: style_variable_generator tool documentation
+summary: Documents the style variable generator tool, its TypeScript output usage, and generator options for CSS, TS and Proto formats.
+relations:
+  - documents /tools/style_variable_generator/style_variable_generator
+  - documents /tools/style_variable_generator/css_generator.py
+---
+
 # style_variable_generator
 
 This is a python tool that generates cross-platform style variables in order to

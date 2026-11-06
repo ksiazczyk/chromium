@@ -1,0 +1,4 @@
+# Docerion header of keyboard.py.
+type: source
+title: Windows keyboard input simulation
+summary: Simulates keyboard input on Windows, including modifier keys and formatted strings, via the keybd_event API.

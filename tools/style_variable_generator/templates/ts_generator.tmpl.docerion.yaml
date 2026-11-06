@@ -1,0 +1,4 @@
+# Docerion header of ts_generator.tmpl.
+type: source
+title: Jinja template for generated TypeScript CSS color module
+summary: Template that renders style variables into a TypeScript module exporting a getColorsCSS function covering light, dark, typography and legacy CSS.

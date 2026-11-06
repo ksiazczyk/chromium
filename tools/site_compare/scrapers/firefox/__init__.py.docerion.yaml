@@ -1,0 +1,4 @@
+# Docerion header of __init__.py.
+type: source
+title: Firefox scraper selector
+summary: Package initializer that returns the scraper module to use for a given Firefox version, currently always firefox2.

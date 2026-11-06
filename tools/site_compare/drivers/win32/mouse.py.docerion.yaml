@@ -1,0 +1,4 @@
+# Docerion header of mouse.py.
+type: source
+title: Windows mouse input simulation
+summary: Simulates mouse movement, button clicks, double-clicks, and dragging on Windows via the mouse_event API.

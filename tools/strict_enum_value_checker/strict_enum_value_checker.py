@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Strict enum value checker
+# summary: Presubmit checker class that flags invalid edits to protected enums, forbidding reordering or deletion and allowing additions only just before a boundary entry.
+# ---
+
 
 class StrictEnumValueChecker(object):
   """Verify that changes to enums are valid.

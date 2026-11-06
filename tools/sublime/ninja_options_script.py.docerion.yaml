@@ -1,0 +1,4 @@
+# Docerion header of ninja_options_script.py.
+type: source
+title: SublimeClang options script for Ninja compiler flags
+summary: Script for SublimeClang that prints compiler flags for a given file by reusing the Chromium YouCompleteMe extra conf, optionally adding a depot_tools path to PATH.

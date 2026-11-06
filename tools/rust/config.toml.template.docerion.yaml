@@ -1,0 +1,4 @@
+# Docerion header of config.toml.template.
+type: config
+title: Rust bootstrap config template for the toolchain build
+summary: Template for Rust's bootstrap configuration defining LLVM settings, the nightly channel, extended tools, install paths, and per-target compilers and linkers.

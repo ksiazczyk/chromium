@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Linux platform utilities for Apache httpd and paths
+# summary: Linux implementation of PlatformUtility providing filesystem and temp roots, URI conversion, and Apache start and stop commands.
+# ---
+
 """Platform-specific utility methods shared by several scripts."""
 
 import os

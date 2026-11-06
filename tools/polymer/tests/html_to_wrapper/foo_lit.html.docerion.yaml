@@ -1,0 +1,4 @@
+# Docerion header of foo_lit.html.
+type: test
+title: foo_lit.html
+summary: HTML test fixture with Lit-style property binding, used as input for Lit wrapper generation.

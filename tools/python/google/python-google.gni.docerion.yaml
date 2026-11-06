@@ -1,0 +1,4 @@
+# Docerion header of python-google.gni.
+type: config
+title: GN file list for the google Python package
+summary: GN import file defining python_google_files, the list of Python modules and httpd config files belonging to the google tooling package.

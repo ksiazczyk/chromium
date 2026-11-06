@@ -8,6 +8,12 @@
  * #import=./other2.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: test
+title: CSS variables test fixture with dark mode
+summary: Test CSS with vars wrapper metadata defining a custom property and overriding it in a dark-mode media query.
+*/
+
 html {
   --my-var: 9px;
 }

@@ -1,0 +1,4 @@
+# Docerion header of html_to_wrapper.gni.
+type: config
+title: GN template for the html_to_wrapper build action
+summary: GN template that wires html_to_wrapper.py into the build, declaring inputs, outputs and arguments for generating TS or JS wrappers from HTML files.

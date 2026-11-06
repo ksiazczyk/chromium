@@ -1,0 +1,4 @@
+# Docerion header of typography_test_expected.css.
+type: test
+title: Expected CSS output for typography test
+summary: Golden CSS with font faces and typography custom properties, used as expected output for the style variable generator test.

@@ -1,0 +1,4 @@
+# Docerion header of windowing.py.
+type: source
+title: Windows window finding and manipulation
+summary: Finds child windows by path specification, scrapes window contents as bitmaps, and manages foreground windows.

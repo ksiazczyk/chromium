@@ -1,0 +1,4 @@
+# Docerion header of svgo_presubmit_test.py.
+type: test
+title: SVGO presubmit tests
+summary: Unit tests verifying the SVG presubmit check flags unoptimized SVGs and passes already optimized ones.

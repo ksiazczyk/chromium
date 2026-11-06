@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: SiteCompare command to time page loads across browsers
+# summary: Defines the timeload command, which loads URLs across multiple browsers and versions and writes comma-delimited load times, timeouts, or crash markers to a file.
+# ---
+
 """SiteCompare command to time page loads
 
 Loads a series of URLs in a series of browsers (and browser versions)

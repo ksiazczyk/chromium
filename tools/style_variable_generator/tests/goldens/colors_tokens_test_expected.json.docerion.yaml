@@ -1,0 +1,4 @@
+# Docerion header of colors_tokens_test_expected.json.
+type: test
+title: Colors tokens test JSON golden output
+summary: Expected JSON output listing ref and sys token definitions with their CSS variables and light and dark mode values for the tokens test.

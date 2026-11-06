@@ -1,0 +1,4 @@
+# Docerion header of svgo.py.
+type: script
+title: SVGO runner wrapper
+summary: Python wrapper that runs the repository's bundled Node svgo binary with the shared svgo.config.js and given arguments.

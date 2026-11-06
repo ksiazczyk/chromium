@@ -1,0 +1,4 @@
+# Docerion header of generate_gn_v3.py.
+type: script
+title: Generate GN js_library targets from JS imports
+summary: Generates a GN file with js_library targets and dependency lists derived from the import statements of the given JavaScript files.

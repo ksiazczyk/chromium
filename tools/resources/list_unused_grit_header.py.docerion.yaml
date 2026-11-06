@@ -1,0 +1,4 @@
+# Docerion header of list_unused_grit_header.py.
+type: script
+title: Find unused grit headers
+summary: Tool that scans source paths for includes of a grit-generated header to report unneeded grit includes for a given .grd file.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: script
+# title: Makefile for building traceline and its tests
+# summary: Builds the traceline and assembler unit test executables with cl and assembles stubs.asm with nasm, plus a clean target.
+# ---
+
 all:
 	cl \
     sidestep/ia32_modrm_map.cc \

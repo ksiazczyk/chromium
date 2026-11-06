@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit check for deleted CSS variables
+# summary: Implements a presubmit check that warns when style variables are deleted but generated CSS variables are still referenced in the codebase.
+# ---
+
 import argparse
 import os
 import subprocess

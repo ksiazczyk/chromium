@@ -1,0 +1,4 @@
+# Docerion header of crit_sec.py.
+type: script
+title: Critical section trace analyzer in Python
+summary: Groups critical section events per lock and verifies entries and leaves stay balanced and on the same thread.

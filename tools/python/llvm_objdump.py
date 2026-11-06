@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: LLVM objdump wrapper for symbol lookup
+# summary: Wraps llvm-objdump to disassemble a library and resolve an address to its function name and offset.
+# ---
+
 import logging
 import os
 import re

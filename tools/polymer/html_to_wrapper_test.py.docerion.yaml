@@ -1,0 +1,4 @@
+# Docerion header of html_to_wrapper_test.py.
+type: test
+title: Tests for html_to_wrapper.py
+summary: Unit tests covering wrapper generation for Polymer, Lit, native and icon templates, including detect, minify, use_js and scheme options.

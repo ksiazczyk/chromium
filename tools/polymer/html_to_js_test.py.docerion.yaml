@@ -1,0 +1,4 @@
+# Docerion header of html_to_js_test.py.
+type: test
+title: Tests for html_to_js.py
+summary: Unit tests that run html_to_js.py on sample JS and TS inputs and compare the inlined output against expected files.

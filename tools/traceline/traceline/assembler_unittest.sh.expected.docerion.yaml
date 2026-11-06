@@ -1,0 +1,4 @@
+# Docerion header of assembler_unittest.sh.expected.
+type: test
+title: Expected assembler unit test disassembly
+summary: Holds the expected ndisasm disassembly of the assembler unit test output for comparison.
