@@ -1,0 +1,4 @@
+# Docerion header of shell_bluetooth_device_list_view_controller.mm.
+type: source
+title: Bluetooth device list view controller implementation for iOS content shell
+summary: Implements the table view of Bluetooth devices, including the DeviceInfo model, tvOS background handling and swipe gestures to dismiss the dialog.

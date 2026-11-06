@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Content shell browser owners
+summary: Lists per-file code owners for Android-specific shell files in the content shell browser directory.

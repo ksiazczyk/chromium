@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content shell Android build configuration
+summary: GN build file defining targets for the Android content shell APK, including JNI headers, shared libraries, resources, and manifest generation.

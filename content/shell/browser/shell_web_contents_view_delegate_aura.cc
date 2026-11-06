@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura shell web contents view delegate stub
+// summary: Aura stub whose shell factory function returns a null web contents view delegate.
+// ---
+
 #include <memory>
 
 namespace content {

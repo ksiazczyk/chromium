@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell crash reporter client implementation
+// summary: Implements the content shell crash reporter client, resolving the crash dump location and reporting product info and Breakpad-enabled process types.
+// ---
+
 #include "content/shell/app/shell_crash_reporter_client.h"
 
 #include <string>

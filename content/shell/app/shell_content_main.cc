@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell macOS main entry
+// summary: Implements the macOS ContentMain entry point, detecting the browser test flag and overriding bundle paths before launching content main.
+// ---
+
 #include "content/shell/app/shell_content_main.h"
 
 #include "base/compiler_specific.h"

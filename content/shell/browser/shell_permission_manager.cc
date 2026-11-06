@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell permission manager implementation
+// summary: Implements the content shell's permission manager, granting an allowlist of permissions by default and denying requests from fenced frames.
+// ---
+
 #include "content/shell/browser/shell_permission_manager.h"
 
 #include "base/command_line.h"

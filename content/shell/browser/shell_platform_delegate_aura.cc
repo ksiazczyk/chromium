@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura ShellPlatformDelegate implementation
+// summary: Implements ShellPlatformDelegate on Aura-based platforms, hosting shell web contents in a shared ShellPlatformDataAura window tree host.
+// ---
+
 #include "content/shell/browser/shell_platform_delegate.h"
 
 #include "content/public/browser/render_widget_host_view.h"

@@ -1,0 +1,4 @@
+# Docerion header of shell_main_delegate_mac.mm.
+type: source
+title: Mac main delegate helper implementation
+summary: Implements Mac helpers that rewrite Info.plist resolution settings for web tests and enforce the ShellCrApplication NSApplication subclass.

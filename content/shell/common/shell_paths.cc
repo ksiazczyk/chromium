@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell path provider implementation
+// summary: Registers a path provider that resolves the Content Shell user data directory from the command line or platform-specific defaults.
+// ---
+
 #include "content/shell/common/shell_paths.h"
 
 #include "base/base_paths.h"

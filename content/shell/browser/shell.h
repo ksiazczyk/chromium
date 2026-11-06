@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Content Shell browser window class header
+// summary: Declares the Shell class representing one Content Shell window with URL bar, navigation controls, DevTools support, and window lifecycle management.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_H_
 #define CONTENT_SHELL_BROWSER_SHELL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser domain handler implementation
+// summary: Implements the Browser DevTools domain for the content shell, returning the window id and container bounds for a given target.
+// ---
+
 #include "content/shell/browser/protocol/browser_handler.h"
 
 #include "base/functional/bind.h"

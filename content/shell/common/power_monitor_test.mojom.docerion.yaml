@@ -1,0 +1,4 @@
+# Docerion header of power_monitor_test.mojom.
+type: source
+title: Power monitor test Mojo interface
+summary: Mojo interface for browser tests to query battery power status changes observed in child processes.

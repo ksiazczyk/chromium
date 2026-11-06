@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserHandler class declaration
+// summary: Declares BrowserHandler, the Browser domain backend that wires into the shell's DevTools dispatcher and serves window queries.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_PROTOCOL_BROWSER_HANDLER_H_
 #define CONTENT_SHELL_BROWSER_PROTOCOL_BROWSER_HANDLER_H_
 

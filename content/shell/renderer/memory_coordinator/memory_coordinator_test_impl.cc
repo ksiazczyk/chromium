@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryCoordinatorTestImpl implementation
+// summary: Implements the MemoryCoordinatorTest Mojo interface in the content shell renderer, binding the registry host and managing registered test memory consumers.
+// ---
+
 #include "content/shell/renderer/memory_coordinator/memory_coordinator_test_impl.h"
 
 #include <utility>

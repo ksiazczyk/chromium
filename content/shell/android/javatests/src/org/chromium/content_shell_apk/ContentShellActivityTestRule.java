@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentShellActivityTestRule
+// summary: JUnit ActivityTestRule that launches ContentShellActivity with a URL and provides helpers for content shell instrumentation tests.
+// ---
+
 package org.chromium.content_shell_apk;
 
 import static org.chromium.build.NullUtil.assertNonNull;

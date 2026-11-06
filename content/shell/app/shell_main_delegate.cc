@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content shell main delegate implementation
+// summary: Implements ShellMainDelegate startup hooks for content shell, covering logging, crash reporting, resource bundles, and web test browser and renderer clients.
+// ---
+
 #include "content/shell/app/shell_main_delegate.h"
 
 #include <iostream>

@@ -7,6 +7,12 @@
 // Used by test_shell.rc
 //
 
+// ---docerion
+// type: source
+// title: Windows resource IDs for Content Shell
+// summary: Visual C++ generated header defining resource, menu command, and dialog control IDs used by the Content Shell Windows resource script.
+// ---
+
 
 #define IDR_MAINFRAME             128
 #define IDM_EXIT                  105

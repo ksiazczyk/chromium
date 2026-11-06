@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDevToolsSession class declaration
+// summary: Declares ShellDevToolsSession, a FrontendChannel that manages the dispatcher and registered domain handlers for shell DevTools sessions.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_PROTOCOL_SHELL_DEVTOOLS_SESSION_H_
 #define CONTENT_SHELL_BROWSER_PROTOCOL_SHELL_DEVTOOLS_SESSION_H_
 

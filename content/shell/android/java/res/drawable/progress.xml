@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Progress bar drawable resource
+summary: Android drawable XML that defines a clipped light holo blue shape used as a progress indicator in the content shell.
+-->
+
 <clip xmlns:android="http://schemas.android.com/apk/res/android">
     <shape>
         <solid android:color="@android:color/holo_blue_light" />

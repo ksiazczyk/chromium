@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the shell renderer memory coordinator
+summary: Redirects code ownership to the base memory coordinator OWNERS file so reviewers are inherited for this directory.

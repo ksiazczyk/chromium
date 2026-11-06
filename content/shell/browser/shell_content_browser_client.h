@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentBrowserClient class declaration
+// summary: Declares the content shell's ContentBrowserClient, which supplies browser main parts, URL loader throttles, DevTools, speech, certificate, and other browser-level hooks.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_CONTENT_BROWSER_CLIENT_H_
 #define CONTENT_SHELL_BROWSER_SHELL_CONTENT_BROWSER_CLIENT_H_
 

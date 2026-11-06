@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentClient class declaration
+// summary: Declares the ShellContentClient class that adapts Content Shell to the ContentClient interface for localization, resources and origin trials.
+// ---
+
 #ifndef CONTENT_SHELL_COMMON_SHELL_CONTENT_CLIENT_H_
 #define CONTENT_SHELL_COMMON_SHELL_CONTENT_CLIENT_H_
 

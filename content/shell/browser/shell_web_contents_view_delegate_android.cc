@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android shell web contents view delegate
+// summary: Android implementation of the shell web contents view delegate factory with a no-op context menu handler.
+// ---
+
 #include "content/shell/browser/shell_web_contents_view_delegate.h"
 
 #include <memory>

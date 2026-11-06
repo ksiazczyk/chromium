@@ -1,0 +1,4 @@
+# Docerion header of shell_platform_delegate_ios.mm.
+type: source
+title: iOS ShellPlatformDelegate implementation
+summary: Implements ShellPlatformDelegate for iOS with a UIKit toolbar, URL field, navigation buttons, accessibility handling and Perfetto tracing controls.

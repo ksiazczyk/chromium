@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor test class declaration
+// summary: Declares PowerMonitorTestImpl, a power state observer that serves the PowerMonitorTest Mojo interface.
+// ---
+
 #ifndef CONTENT_SHELL_COMMON_POWER_MONITOR_TEST_IMPL_H_
 #define CONTENT_SHELL_COMMON_POWER_MONITOR_TEST_IMPL_H_
 

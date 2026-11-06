@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell speech recognition manager delegate implementation
+// summary: Implements the content_shell speech recognition delegate that always authorizes recognition without prompting the user for permission.
+// ---
+
 #include "content/shell/browser/shell_speech_recognition_manager_delegate.h"
 
 #include "content/public/browser/browser_task_traits.h"

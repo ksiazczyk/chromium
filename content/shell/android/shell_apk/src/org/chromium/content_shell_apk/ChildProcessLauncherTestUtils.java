@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process launcher test utilities
+// summary: Static helper methods used by tests to launch child processes and query connections on the Android launcher thread.
+// ---
+
 package org.chromium.content_shell_apk;
 
 import org.chromium.base.process_launcher.ChildProcessConnection;

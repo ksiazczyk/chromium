@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia view presenter implementation
+// summary: Implements the FuchsiaViewPresenter that presents Flatland views through the fuchsia.element.GraphicalPresenter service.
+// ---
+
 #include "content/shell/browser/fuchsia_view_presenter.h"
 
 #include <lib/sys/cpp/component_context.h>

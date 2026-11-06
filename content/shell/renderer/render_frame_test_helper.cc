@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameTestHelper implementation
+// summary: Implements the RenderFrameTestHelper Mojo service, which returns a render frame's document token and initiator state token for testing.
+// ---
+
 #include "content/shell/renderer/render_frame_test_helper.h"
 
 #include <utility>

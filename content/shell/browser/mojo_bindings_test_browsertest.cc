@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojo JS bindings browser test
+// summary: Browser test that serves a page with Mojo JS bindings and checks SchemeHostPort constructor behavior in the renderer.
+// ---
+
 #include "base/path_service.h"
 #include "base/values.h"
 #include "build/build_config.h"

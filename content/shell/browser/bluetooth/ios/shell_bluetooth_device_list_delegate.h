@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device list delegate protocol for iOS content shell
+// summary: Defines the delegate protocol invoked when the user taps an item in the Bluetooth device list.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_DEVICE_LIST_DELEGATE_H_
 #define CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_DEVICE_LIST_DELEGATE_H_
 

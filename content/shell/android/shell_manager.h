@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell manager interface declarations
+// summary: Header declaring functions to create, remove, and destroy Android shell views for the content shell.
+// ---
+
 #ifndef CONTENT_SHELL_ANDROID_SHELL_MANAGER_H_
 #define CONTENT_SHELL_ANDROID_SHELL_MANAGER_H_
 

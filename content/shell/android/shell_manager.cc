@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native implementation of the Android shell manager
+// summary: Bridges Java ShellManager calls to native code to create, remove, and launch shell windows in the content shell browser.
+// ---
+
 #include "content/shell/android/shell_manager.h"
 
 #include "base/android/jni_android.h"

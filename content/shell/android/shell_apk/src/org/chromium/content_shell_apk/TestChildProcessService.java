@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test child process service
+// summary: Android service started by ChildProcessLauncherTest that loads the native library and reports service lifecycle events back via IChildProcessTest.
+// ---
+
 package org.chromium.content_shell_apk;
 
 import android.app.Service;

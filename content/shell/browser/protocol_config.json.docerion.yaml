@@ -1,0 +1,4 @@
+# Docerion header of protocol_config.json.
+type: config
+title: DevTools protocol codegen configuration
+summary: Configures generation of the content shell DevTools protocol bindings, including only the Browser.getWindowForTarget command.

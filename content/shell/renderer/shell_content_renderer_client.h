@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentRendererClient class declaration
+// summary: Declares ShellContentRendererClient, the content shell's ContentRendererClient with hooks for frame creation, error pages, throttles, and key systems.
+// ---
+
 #ifndef CONTENT_SHELL_RENDERER_SHELL_CONTENT_RENDERER_CLIENT_H_
 #define CONTENT_SHELL_RENDERER_SHELL_CONTENT_RENDERER_CLIENT_H_
 

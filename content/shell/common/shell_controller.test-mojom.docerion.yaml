@@ -1,0 +1,4 @@
+# Docerion header of shell_controller.test-mojom.
+type: source
+title: ShellController Mojo interface for browser tests
+summary: Defines a Mojo control interface letting test clients read command-line switches, execute JavaScript and shut down Content Shell when launched as a Mojo client.

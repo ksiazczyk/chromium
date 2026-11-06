@@ -9,6 +9,12 @@ found in the LICENSE file.
 <!-- The attributes in this XML file provide configuration information -->
 <!-- for the ContentProvider. -->
 
+<!--docerion
+type: config
+title: Browser tests APK file paths configuration
+summary: Defines ContentProvider file paths for the browser tests APK, exposing the web_bundle directory under the app cache.
+-->
+
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
     <cache-path name="web_bundle" path="web_bundle/"/>
 </paths>

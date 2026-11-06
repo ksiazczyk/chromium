@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Content shell app include rules
+summary: Defines allowed include dependencies for the content shell app directory, granting shell_main_delegate access to web test browser and renderer code.

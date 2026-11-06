@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content shell browser window implementation
+// summary: Implements the Shell class, the minimal browser window of the content shell, managing WebContents, dialogs, DevTools and platform delegates.
+// ---
+
 #include "content/shell/browser/shell.h"
 
 #include <stddef.h>

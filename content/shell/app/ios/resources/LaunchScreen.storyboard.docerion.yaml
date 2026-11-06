@@ -1,0 +1,4 @@
+# Docerion header of LaunchScreen.storyboard.
+type: asset
+title: iOS launch screen storyboard
+summary: Xcode storyboard defining the launch screen shown while the iOS content shell app starts, displaying a centered ChromeWebView label.

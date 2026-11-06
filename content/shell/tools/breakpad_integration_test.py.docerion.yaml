@@ -1,0 +1,4 @@
+# Docerion header of breakpad_integration_test.py.
+type: test
+title: Breakpad integration test for content shell
+summary: Integration test that verifies breakpad is correctly hooked up in content shell and that crash dumps can be collected and symbolized.

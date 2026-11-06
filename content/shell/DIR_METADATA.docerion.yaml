@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Content shell issue tracker metadata
+summary: Maps the directory to the Test component in Monorail and Buganizer for issue tracking.

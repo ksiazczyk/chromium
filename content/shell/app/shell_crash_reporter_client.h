@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell crash reporter client class declaration
+// summary: Declares ShellCrashReporterClient, the content shell hook into the crash reporting framework for dump locations, log filenames, and product details.
+// ---
+
 #ifndef CONTENT_SHELL_APP_SHELL_CRASH_REPORTER_CLIENT_H_
 #define CONTENT_SHELL_APP_SHELL_CRASH_REPORTER_CLIENT_H_
 

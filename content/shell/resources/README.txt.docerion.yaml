@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: Content shell resources README on missing image licenses
+summary: Documents that missingImage.gif and missingImage.png derive from WebKit's WebCore resources and reproduces the Apple license terms covering them.

@@ -1,0 +1,4 @@
+# Docerion header of main_frame_counter_test.mojom.
+type: source
+title: Main frame counter test Mojo interface
+summary: Mojo interface used by browser tests to query whether a remote child process has a local main frame.

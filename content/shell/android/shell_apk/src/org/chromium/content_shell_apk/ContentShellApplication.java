@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell application entry point
+// summary: Android Application class that initializes state shared between the main activity and child services, including the command line and library process type.
+// ---
+
 package org.chromium.content_shell_apk;
 
 import android.app.Application;

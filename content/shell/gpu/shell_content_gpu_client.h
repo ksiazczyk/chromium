@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentGpuClient class declaration
+// summary: Declares ShellContentGpuClient, a ContentGpuClient subclass that exposes interfaces to the browser via Mojo binders.
+// ---
+
 #ifndef CONTENT_SHELL_GPU_SHELL_CONTENT_GPU_CLIENT_H_
 #define CONTENT_SHELL_GPU_SHELL_CONTENT_GPU_CLIENT_H_
 

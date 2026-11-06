@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentShellNetworkTest
+// summary: Instrumentation test verifying that NetworkChangeNotifier is initialized and its auto-detector is active in ContentShell.
+// ---
+
 package org.chromium.content_shell_apk;
 
 import androidx.test.filters.SmallTest;

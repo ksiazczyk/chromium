@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views shell web contents view delegate
+// summary: Views-based implementation of the shell web contents view delegate showing a context menu with an Inspect Element DevTools command.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentIndexProvider implementation
+// summary: Implements the shell's ContentIndexProvider, tracking Content Index entries by description ID and returning service worker registration data and icon sizes.
+// ---
+
 #include "content/shell/browser/shell_content_index_provider.h"
 
 namespace content {

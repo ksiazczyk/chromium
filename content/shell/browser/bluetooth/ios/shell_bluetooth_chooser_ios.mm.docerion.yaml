@@ -1,0 +1,4 @@
+# Docerion header of shell_bluetooth_chooser_ios.mm.
+type: source
+title: iOS Bluetooth chooser implementation for content shell
+summary: Implements device updates and dialog result reporting, building the chooser title from the main frame origin and forwarding events to the handler.

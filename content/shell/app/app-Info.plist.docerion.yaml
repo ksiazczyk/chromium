@@ -1,0 +1,4 @@
+# Docerion header of app-Info.plist.
+type: config
+title: Content Shell macOS app bundle Info.plist
+summary: macOS property list defining the Content Shell app bundle metadata such as bundle identifier, icon, quarantine setting, and Bluetooth usage description.

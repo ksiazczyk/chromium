@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell web contents view delegate header
+// summary: Declares ShellWebContentsViewDelegate, the content_shell WebContentsViewDelegate that shows context menus with platform-specific support.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_WEB_CONTENTS_VIEW_DELEGATE_H_
 #define CONTENT_SHELL_BROWSER_SHELL_WEB_CONTENTS_VIEW_DELEGATE_H_
 

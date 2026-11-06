@@ -1,0 +1,4 @@
+# Docerion header of shell_app_scene_delegate_tvos.mm.
+type: source
+title: tvOS scene delegate implementation
+summary: Implements the tvOS scene delegate, updating web contents visibility and freezing or unfreezing pages on scene lifecycle changes.

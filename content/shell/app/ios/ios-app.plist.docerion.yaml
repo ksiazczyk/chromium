@@ -1,0 +1,4 @@
+# Docerion header of ios-app.plist.
+type: config
+title: Info plist for the iOS content shell app
+summary: Info plist for the iOS content shell app defining bundle metadata, supported orientations, and permission usage descriptions.

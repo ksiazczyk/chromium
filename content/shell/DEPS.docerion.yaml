@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Content shell include dependency rules
+summary: Specifies which include paths and components the content shell may depend on, with special rules for web test code.

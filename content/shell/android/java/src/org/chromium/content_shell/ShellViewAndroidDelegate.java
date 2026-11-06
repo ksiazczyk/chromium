@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ShellViewAndroidDelegate: cursor update delegate for content shell'
+// summary: ViewAndroidDelegate implementation for content shell that forwards cursor change events to a testable OnCursorUpdateHelper callback interface.
+// ---
+
 package org.chromium.content_shell;
 
 import android.graphics.Bitmap;

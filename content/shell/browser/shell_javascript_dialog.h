@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell JavaScript dialog header
+// summary: Declares ShellJavaScriptDialog, the platform-specific JavaScript alert, confirm, and prompt dialog for the content shell.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_JAVASCRIPT_DIALOG_H_
 #define CONTENT_SHELL_BROWSER_SHELL_JAVASCRIPT_DIALOG_H_
 

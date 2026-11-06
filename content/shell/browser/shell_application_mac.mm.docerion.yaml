@@ -1,0 +1,4 @@
+# Docerion header of shell_application_mac.mm.
+type: source
+title: Content Shell macOS application implementation
+summary: Implements ShellCrApplication event handling, native event processor observation, and new-window creation for Content Shell on macOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentGpuClient implementation
+// summary: Implements ShellContentGpuClient, registering the PowerMonitorTest Mojo interface so the browser can access it from the GPU process.
+// ---
+
 #include "content/shell/gpu/shell_content_gpu_client.h"
 
 #include "base/functional/bind.h"

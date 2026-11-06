@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell browser client implementation
+// summary: Implements the Content Shell browser client, wiring protocol handlers, preferences, Mojo binders, and network configuration.
+// ---
+
 #include "content/shell/browser/shell_content_browser_client.h"
 
 #include <stddef.h>

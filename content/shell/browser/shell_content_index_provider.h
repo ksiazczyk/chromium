@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentIndexProvider class declaration
+// summary: Declares the shell's ContentIndexProvider, which maps Content Index entry IDs to service worker registration IDs and origins with configurable icon sizes.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_CONTENT_INDEX_PROVIDER_H_
 #define CONTENT_SHELL_BROWSER_SHELL_CONTENT_INDEX_PROVIDER_H_
 

@@ -6,6 +6,12 @@
 //! `RustTestService` interface defined in
 //! `//content/shell/common/rust_test.test-mojom`.
 
+// ---docerion
+// type: source
+// title: Rust test service Mojo implementation
+// summary: Rust implementation of the RustTestService Mojo interface used by content shell tests, returning strings and reading feature flags and switches.
+// ---
+
 chromium::import! {
     "//mojo/public/rust/bindings";
     "//content/shell:rust_test_mojom_rust";

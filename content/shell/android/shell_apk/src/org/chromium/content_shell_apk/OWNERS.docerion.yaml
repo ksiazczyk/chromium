@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for AIDL files
+summary: Chromium OWNERS file requiring ipc/SECURITY_OWNERS review with no parent approval for AIDL files in this directory.

@@ -1,0 +1,4 @@
+# Docerion header of shell_web_contents_view_delegate_mac.mm.
+type: source
+title: Mac shell web contents view delegate
+summary: macOS implementation of the shell web contents view delegate that builds native NSMenu context menus with navigation, editing and DevTools actions.

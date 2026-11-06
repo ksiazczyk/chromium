@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellRenderFrameObserver class declaration
+// summary: Declares ShellRenderFrameObserver, a RenderFrameObserver that handles frame destruction, window object clearing, and frame interface requests.
+// ---
+
 #ifndef CONTENT_SHELL_RENDERER_SHELL_RENDER_FRAME_OBSERVER_H_
 #define CONTENT_SHELL_RENDERER_SHELL_RENDER_FRAME_OBSERVER_H_
 

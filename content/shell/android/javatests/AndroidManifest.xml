@@ -1,3 +1,9 @@
+<!--docerion
+type: config
+title: Content Shell test Android manifest
+summary: Jinja2 template extending the shell APK manifest to set the Content Shell Test application label, add the READ_CONTACTS permission, and declare JUnit4 instrumentation for content shell tests.
+-->
+
 {% extends "content/shell/android/shell_apk/AndroidManifest.xml.jinja2" %}
 
 # Copyright 2019 The Chromium Authors

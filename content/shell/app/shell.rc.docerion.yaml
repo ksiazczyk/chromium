@@ -1,0 +1,4 @@
+# Docerion header of shell.rc.
+type: source
+title: Windows resource script for Content Shell
+summary: Windows resource script defining the Content Shell menu, application icon, and alert, confirm, and prompt dialog layouts.

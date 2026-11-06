@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ShellPlatformDelegate implementation
+// summary: Implements ShellPlatformDelegate for Android, bridging shell window creation and UI updates to Java shell views through JNI.
+// ---
+
 #include "content/shell/browser/shell_platform_delegate.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentRendererClient implementation
+// summary: Implements the content shell's renderer client, setting up test services, the WebAssembly trap handler, error pages, plugins, and prescient networking.
+// ---
+
 #include "content/shell/renderer/shell_content_renderer_client.h"
 
 #include <string>

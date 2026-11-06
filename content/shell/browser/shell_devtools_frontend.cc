@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDevToolsFrontend implementation
+// summary: Implements the controller that opens a shell window hosting the DevTools frontend and wires it to the inspected WebContents through ShellDevToolsBindings.
+// ---
+
 #include "content/shell/browser/shell_devtools_frontend.h"
 
 #include "base/strings/string_number_conversions.h"

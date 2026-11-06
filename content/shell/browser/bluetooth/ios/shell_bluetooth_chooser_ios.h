@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Bluetooth chooser interface for content shell
+// summary: Declares ShellBluetoothChooserIOS, the BluetoothChooser implementation that asks the user to select a Bluetooth device from a list on iOS.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_CHOOSER_IOS_H_
 #define CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_CHOOSER_IOS_H_
 

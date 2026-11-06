@@ -4,6 +4,12 @@
 
 // Defines all the "content_shell" command-line switches.
 
+// ---docerion
+// type: source
+// title: Content Shell command-line switch definitions
+// summary: Defines all content_shell command-line switches such as user data dir, crash dumps dir, host window size and web test mode.
+// ---
+
 #ifndef CONTENT_SHELL_COMMON_SHELL_SWITCHES_H_
 #define CONTENT_SHELL_COMMON_SHELL_SWITCHES_H_
 

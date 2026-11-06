@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellOriginTrialPolicy implementation
+// summary: Implements the Content Shell origin trials policy with a test public key and trustworthiness-based origin security checks.
+// ---
+
 #include "content/shell/common/shell_origin_trial_policy.h"
 
 #include <algorithm>

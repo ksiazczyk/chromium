@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellBluetoothDelegateImplClient class declaration
+// summary: Declares the content shell Bluetooth delegate client that supplies chooser contexts, choosers, scanning prompts, and device pairing dialogs for frames.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_BLUETOOTH_SHELL_BLUETOOTH_DELEGATE_IMPL_CLIENT_H_
 #define CONTENT_SHELL_BROWSER_BLUETOOTH_SHELL_BLUETOOTH_DELEGATE_IMPL_CLIENT_H_
 

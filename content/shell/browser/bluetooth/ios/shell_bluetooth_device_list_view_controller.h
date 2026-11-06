@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device list view controller interface for iOS content shell
+// summary: Declares the table view controller that displays the Bluetooth device list and manages device IDs, device info and selection state.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_DEVICE_LIST_VIEW_CONTROLLER_H_
 #define CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_DEVICE_LIST_VIEW_CONTROLLER_H_
 

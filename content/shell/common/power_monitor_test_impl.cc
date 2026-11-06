@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor test implementation
+// summary: Implements the PowerMonitorTest Mojo interface, observing and reporting battery power status changes.
+// ---
+
 #include "content/shell/common/power_monitor_test_impl.h"
 
 #include <memory>

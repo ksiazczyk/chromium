@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth chooser coordinator interface for iOS content shell
+// summary: Declares the ShellBluetoothChooserCoordinator Objective-C class and its C++ holder that present the iOS Bluetooth device chooser dialog.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_CHOOSER_COORDINATOR_H_
 #define CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_CHOOSER_COORDINATOR_H_
 

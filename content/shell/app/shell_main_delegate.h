@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content shell main delegate class declaration
+// summary: Declares ShellMainDelegate, which creates the content, browser, GPU, renderer, and utility clients and supports web tests and content browsertests.
+// ---
+
 #ifndef CONTENT_SHELL_APP_SHELL_MAIN_DELEGATE_H_
 #define CONTENT_SHELL_APP_SHELL_MAIN_DELEGATE_H_
 

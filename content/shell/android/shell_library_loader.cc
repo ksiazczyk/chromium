@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native library loader for content shell
+// summary: Implements JNI_OnLoad and the native initialization hook that installs the shell main delegate when the shared library is loaded on Android.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/library_loader/library_loader_hooks.h"
 #include "content/public/app/content_jni_onload.h"

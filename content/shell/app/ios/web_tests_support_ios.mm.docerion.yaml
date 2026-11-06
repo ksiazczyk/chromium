@@ -1,0 +1,4 @@
+# Docerion header of web_tests_support_ios.mm.
+type: source
+title: Web test application support for iOS
+summary: Implements a test UIApplication delegate and message pump setup that launches the content shell to run web tests on iOS.

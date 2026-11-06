@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for content shell Android
+summary: Declares the monorail component, Android OS, and team email address used for triage of this directory.

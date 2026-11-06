@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellPlatformDataAura implementation
+// summary: Implements the Aura platform data for the content shell, setting up the window tree host, fill layout, focus, capture, activation and cursor clients.
+// ---
+
 #include "content/shell/browser/shell_platform_data_aura.h"
 
 #include <memory>

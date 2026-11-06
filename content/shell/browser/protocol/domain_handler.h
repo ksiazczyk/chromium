@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DomainHandler base class
+// summary: Defines the abstract DomainHandler interface with Wire and Disable methods for shell protocol domain handlers.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_PROTOCOL_DOMAIN_HANDLER_H_
 #define CONTENT_SHELL_BROWSER_PROTOCOL_DOMAIN_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of shell_browser_main_parts_mac.mm.
+type: source
+title: Content Shell macOS main menu builder
+summary: Builds the macOS application menu for Content Shell, including App, File, Edit, View, Debug, and Window menus.

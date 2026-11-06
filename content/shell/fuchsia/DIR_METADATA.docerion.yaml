@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR metadata for the Fuchsia content shell
+summary: Declares the common Fuchsia build metadata mixins that apply to the content shell directory.

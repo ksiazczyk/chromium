@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell file select helper implementation
+// summary: Implements file chooser dialogs for the content shell, mapping accept types to extensions and handling directory enumeration for uploads.
+// ---
+
 #include "content/shell/browser/shell_file_select_helper.h"
 
 #include "base/memory/scoped_refptr.h"

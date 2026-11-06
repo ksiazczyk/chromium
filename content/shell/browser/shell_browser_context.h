@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell browser context class header
+// summary: Declares ShellBrowserContext, the Content Shell BrowserContext supplying delegates for permissions, downloads, sync, and origin trials.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_BROWSER_CONTEXT_H_
 #define CONTENT_SHELL_BROWSER_SHELL_BROWSER_CONTEXT_H_
 

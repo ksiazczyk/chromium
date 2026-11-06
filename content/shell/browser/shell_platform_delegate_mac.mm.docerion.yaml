@@ -1,0 +1,4 @@
+# Docerion header of shell_platform_delegate_mac.mm.
+type: source
+title: macOS ShellPlatformDelegate implementation
+summary: Implements ShellPlatformDelegate for macOS using Cocoa, creating shell windows with toolbar buttons, a URL field and a window delegate.

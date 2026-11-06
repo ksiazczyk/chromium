@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellContentClient implementation for Content Shell
+// summary: Implements the Content Shell content client, supplying localized strings, data resources, the origin trial policy and extra URL schemes for web tests.
+// ---
+
 #include "content/shell/common/shell_content_client.h"
 
 #include <string_view>
