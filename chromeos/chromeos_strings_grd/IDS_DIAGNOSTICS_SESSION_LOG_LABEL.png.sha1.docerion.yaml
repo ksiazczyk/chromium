@@ -1,0 +1,4 @@
+# Docerion header of IDS_DIAGNOSTICS_SESSION_LOG_LABEL.png.sha1.
+type: data
+title: Diagnostics session log label hash
+summary: SHA1 hash of the rendered PNG for the Diagnostics session log label string in the ChromeOS strings resources.

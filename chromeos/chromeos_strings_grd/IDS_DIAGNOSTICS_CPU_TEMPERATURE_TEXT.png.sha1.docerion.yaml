@@ -1,0 +1,4 @@
+# Docerion header of IDS_DIAGNOSTICS_CPU_TEMPERATURE_TEXT.png.sha1.
+type: data
+title: SHA1 checksum for CPU temperature text screenshot
+summary: Holds the SHA1 hash of the PNG screenshot for the CPU temperature text string of the ChromeOS Diagnostics app.
