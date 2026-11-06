@@ -1,0 +1,4 @@
+# Docerion header of css_system_color_mixer_mac.mm.
+type: source
+title: CSS system color mixer for Mac
+summary: Maps native macOS system colors to CSS system colors in the color mixer, using fixed highlight values to avoid fingerprinting.

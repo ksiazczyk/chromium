@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollInputHandler implementation
+// summary: Implements ScrollInputHandler, converting ui::ScrollEvent data into cc::ScrollState calls that drive scrolling on a cc::InputHandler for the compositor.
+// ---
+
 #include "ui/compositor/overscroll/scroll_input_handler.h"
 
 #include "ui/compositor/layer.h"

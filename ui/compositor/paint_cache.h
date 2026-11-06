@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint cache class declaration
+// summary: Declares PaintCache, which stores a PaintRecorder's output for reuse in later frames and is device scale factor aware.
+// ---
+
 #ifndef UI_COMPOSITOR_PAINT_CACHE_H_
 #define UI_COMPOSITOR_PAINT_CACHE_H_
 

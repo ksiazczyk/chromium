@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Total animation throughput reporter unit tests
+// summary: Unit tests verifying that TotalAnimationThroughputReporter reports animation throughput metrics once animations finish and compositor frames are presented.
+// ---
+
 #include "ui/compositor/total_animation_throughput_reporter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Presentation time recorder unit tests
+// summary: Unit tests verifying that presentation time and max latency histograms are recorded only for frames requested through the recorder.
+// ---
+
 #include "ui/compositor/presentation_time_recorder.h"
 
 #include <memory>

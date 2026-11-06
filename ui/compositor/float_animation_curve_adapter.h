@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FloatAnimationCurveAdapter
+// summary: Declares an adapter implementing gfx::FloatAnimationCurve with tween-based float value interpolation.
+// ---
+
 #ifndef UI_COMPOSITOR_FLOAT_ANIMATION_CURVE_ADAPTER_H_
 #define UI_COMPOSITOR_FLOAT_ANIMATION_CURVE_ADAPTER_H_
 

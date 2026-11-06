@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BeginMainFrameWaiter implementation
+// summary: Test helper that observes a Compositor and blocks in a nested run loop until a BeginMainFrame notification arrives.
+// ---
+
 #include "ui/compositor/test/begin_main_frame_waiter.h"
 
 #include "ui/compositor/compositor.h"

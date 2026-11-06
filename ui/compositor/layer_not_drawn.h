@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-drawing container layer
+// summary: Declares LayerNotDrawn, a container layer in the layer hierarchy that has no onscreen representation of its own.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_NOT_DRAWN_H_
 #define UI_COMPOSITOR_LAYER_NOT_DRAWN_H_
 

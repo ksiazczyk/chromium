@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLayerAnimationSettings class declaration
+// summary: Declares scoped settings that temporarily alter layer animator parameters and revert them on destruction, plus optional render surface, paint, and filtering requests.
+// ---
+
 #ifndef UI_COMPOSITOR_SCOPED_LAYER_ANIMATION_SETTINGS_H_
 #define UI_COMPOSITOR_SCOPED_LAYER_ANIMATION_SETTINGS_H_
 

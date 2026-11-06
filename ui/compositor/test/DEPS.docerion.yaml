@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ui/compositor/test directory
+summary: DEPS file listing the include dependencies allowed for compositor test code, with extra rules for in_process_context_factory.h.

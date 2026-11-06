@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native color mixer declarations
+// summary: Declares per-platform native core, UI, and postprocessing color mixer functions that are implemented in platform subdirectories.
+// ---
+
 #ifndef UI_COLOR_NATIVE_COLOR_MIXERS_H_
 #define UI_COLOR_NATIVE_COLOR_MIXERS_H_
 

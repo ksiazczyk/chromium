@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerType to string conversion
+// summary: Implements LayerTypeToString, mapping each LayerType enum value to its string name for the ui compositor.
+// ---
+
 #include "ui/compositor/layer_type.h"
 
 #include <string_view>

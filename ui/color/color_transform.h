@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorTransform header
+// summary: Declares the ColorTransform class, which wraps color transformation callbacks, plus factory functions for common color transforms.
+// ---
+
 #ifndef UI_COLOR_COLOR_TRANSFORM_H_
 #define UI_COLOR_COLOR_TRANSFORM_H_
 

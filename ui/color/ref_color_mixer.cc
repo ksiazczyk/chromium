@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material 3 reference color palette mixer implementation
+// summary: Defines the Material 3 reference color token palette, including baseline primary, secondary, tertiary, and error colors for light and dark modes.
+// ---
+
 #include "ui/color/ref_color_mixer.h"
 
 #include <memory>

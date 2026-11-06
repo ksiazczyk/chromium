@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerAnimationObserverTestApi implementation
+// summary: Implements a test API that exposes internal sequence attach and detach methods of LayerAnimationObserver to tests.
+// ---
+
 #include "ui/compositor/test/layer_animation_observer_test_api.h"
 
 namespace ui {

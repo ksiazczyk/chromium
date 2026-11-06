@@ -1,3 +1,13 @@
+---
+type: readme
+title: Color Pipeline
+summary: Explains the cross-platform color pipeline machinery and guides developers to identify colors via ColorIds and ColorProviders instead of raw SkColor.
+relations:
+  - documents /ui/color/color_id.h
+  - documents /ui/color/color_provider.h
+  - documents /ui/color/color_recipe.h
+---
+
 # Color Pipeline
 
 This directory implements the cross-platform

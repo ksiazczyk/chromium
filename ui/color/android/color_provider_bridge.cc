@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderBridge JNI implementation
+// summary: Implements JNI calls into the Java ColorProviderBridgeFactory to fetch Android theme colors and convert them to optional SkColor values.
+// ---
+
 #include "ui/color/android/color_provider_bridge.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderBridge interface for resolving Material3 theme colors
+// summary: Java interface for resolving Material3 theme dynamic colors, implemented in chrome/android where R.attr values are compiled constants.
+// ---
+
 package org.chromium.ui.color;
 
 import android.content.Context;

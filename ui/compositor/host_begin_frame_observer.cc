@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostBeginFrameObserver implementation
+// summary: Implements forwarding of begin frame messages to registered observers, coalescing queued frames and adding tracing.
+// ---
+
 #include "ui/compositor/host_begin_frame_observer.h"
 
 #include <optional>

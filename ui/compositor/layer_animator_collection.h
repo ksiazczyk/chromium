@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer animator collection for compositor animation steps
+// summary: Declares LayerAnimatorCollection, which tracks active layer animators and updates them on each compositor animation step.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_ANIMATOR_COLLECTION_H_
 #define UI_COMPOSITOR_LAYER_ANIMATOR_COLLECTION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Compositor directory metadata
+summary: DIR_METADATA entry mapping the compositor directory to the Internals>Compositing component and the graphics-dev team email.

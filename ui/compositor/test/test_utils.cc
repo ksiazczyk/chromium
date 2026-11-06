@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor test utilities implementation
+// summary: Implements approximate-equality checks for gfx transforms, rects and rounded corners, plus a helper that waits for the next compositor frame to be presented during tests.
+// ---
+
 #include "ui/compositor/test/test_utils.h"
 
 #include "base/cancelable_callback.h"

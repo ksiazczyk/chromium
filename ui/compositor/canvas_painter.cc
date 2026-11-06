@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CanvasPainter implementation
+// summary: Implements CanvasPainter, which rasterizes display items recorded through a PaintContext into an output SkBitmap when the painter is destroyed.
+// ---
+
 #include "ui/compositor/canvas_painter.h"
 
 #include "cc/paint/display_item_list.h"

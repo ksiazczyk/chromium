@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor lock unit tests
+// summary: Tests compositor lock timeouts, multiple lock clients and lock manager destruction using a mock time task runner.
+// ---
+
 #include <stdint.h>
 
 #include "base/functional/bind.h"

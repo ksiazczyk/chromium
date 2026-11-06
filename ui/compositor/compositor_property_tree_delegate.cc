@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor property tree delegate implementation
+// summary: Implements the UI compositor's property tree delegate, building cc property trees and forwarding element mutations to the base cc implementation during the layer list migration.
+// ---
+
 #include "ui/compositor/compositor_property_tree_delegate.h"
 
 #include "base/check.h"

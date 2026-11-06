@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow implementation
+// summary: Implements the Shadow decoration, including shadow value creation per style and elevation adjustment for small content bounds.
+// ---
+
 #include "ui/decoration/shadow.h"
 
 #include <algorithm>

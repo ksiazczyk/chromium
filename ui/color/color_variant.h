@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorVariant header
+// summary: Declares ColorVariant, a variant type holding either an SkColor or a theme-aware ColorId with resolution via a ColorProvider.
+// ---
+
 #ifndef UI_COLOR_COLOR_VARIANT_H_
 #define UI_COLOR_COLOR_VARIANT_H_
 

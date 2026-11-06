@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ui/color/win
+summary: Defines the DEPS include rules allowing sources in ui/color/win to depend on ui/native_theme.

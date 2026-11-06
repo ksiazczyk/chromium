@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system color utilities header
+// summary: Declares helpers to detect the graphite control tint, convert colors to grayscale, and a scoped override for tests.
+// ---
+
 #ifndef UI_COLOR_MAC_SYSTEM_COLOR_UTILS_H_
 #define UI_COLOR_MAC_SYSTEM_COLOR_UTILS_H_
 

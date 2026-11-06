@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollInputHandler class declaration
+// summary: Declares the ui::ScrollInputHandler class, a cc::InputHandlerClient that feeds UI-thread scroll events to a cc::InputHandler via OnScrollEvent.
+// ---
+
 #ifndef UI_COMPOSITOR_OVERSCROLL_SCROLL_INPUT_HANDLER_H_
 #define UI_COMPOSITOR_OVERSCROLL_SCROLL_INPUT_HANDLER_H_
 

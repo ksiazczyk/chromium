@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorMixer unit tests
+// summary: Unit tests covering ColorMixer recipe access, input and result color resolution, chained mixers, input getters, and defined color IDs.
+// ---
+
 #include "ui/color/color_mixer.h"
 
 #include <set>

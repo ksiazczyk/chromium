@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerOwner unit tests
+// summary: Unit tests for LayerOwner covering layer recreation with a compositor, animation observer behavior, and related ownership scenarios.
+// ---
+
 #include "ui/compositor/layer_owner.h"
 
 #include <utility>

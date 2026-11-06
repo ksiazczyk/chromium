@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderKey header
+// summary: Defines the ColorProviderKey struct with enums for color mode, contrast, forced colors, frame type and style, and material palette settings that seed ColorProvider creation.
+// ---
+
 #ifndef UI_COLOR_COLOR_PROVIDER_KEY_H_
 #define UI_COLOR_COLOR_PROVIDER_KEY_H_
 

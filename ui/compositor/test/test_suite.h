@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor test suite header
+// summary: Declares CompositorTestSuite, a base::TestSuite subclass that initializes the environment for compositor unit tests, including COM initialization on Windows.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_TEST_SUITE_H_
 #define UI_COMPOSITOR_TEST_TEST_SUITE_H_
 

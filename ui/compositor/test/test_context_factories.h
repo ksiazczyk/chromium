@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test context factories header
+// summary: Declares TestContextFactories, a helper that sets up the compositor ContextFactory for test environments lacking a full content setup.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_TEST_CONTEXT_FACTORIES_H_
 #define UI_COMPOSITOR_TEST_TEST_CONTEXT_FACTORIES_H_
 

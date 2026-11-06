@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation throughput reporter implementation
+// summary: Implements AnimationThroughputReporter and its AnimationTracker, which observe layer animation sequences to collect throughput metrics.
+// ---
+
 #include "ui/compositor/animation_throughput_reporter.h"
 
 #include <memory>

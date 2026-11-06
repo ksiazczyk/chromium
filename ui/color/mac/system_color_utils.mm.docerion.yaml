@@ -1,0 +1,4 @@
+# Docerion header of system_color_utils.mm.
+type: source
+title: Mac system color utilities implementation
+summary: Implements graphite tint detection from the current NSColor control tint, grayscale color conversion, and the scoped test override.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipRecorder class header
+// summary: Declares a scoped recorder that applies rectangle or path clips to display items added while the recorder is alive.
+// ---
+
 #ifndef UI_COMPOSITOR_CLIP_RECORDER_H_
 #define UI_COMPOSITOR_CLIP_RECORDER_H_
 

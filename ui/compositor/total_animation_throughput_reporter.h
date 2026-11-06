@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TotalAnimationThroughputReporter class declaration
+// summary: Declares a reporter that observes all animations on a compositor and reports frame throughput and jank data via once or repeating callbacks.
+// ---
+
 #ifndef UI_COMPOSITOR_TOTAL_ANIMATION_THROUGHPUT_REPORTER_H_
 #define UI_COMPOSITOR_TOTAL_ANIMATION_THROUGHPUT_REPORTER_H_
 

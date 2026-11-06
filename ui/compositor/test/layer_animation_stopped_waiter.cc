@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerAnimationStoppedWaiter implementation
+// summary: Implements a run-loop-based waiter that observes a layer's animator and blocks until its animations have stopped.
+// ---
+
 #include "ui/compositor/test/layer_animation_stopped_waiter.h"
 
 #include "base/run_loop.h"

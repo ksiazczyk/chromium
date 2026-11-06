@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlight border class declaration
+// summary: Declares HighlightBorder, a DecorationSource that frames content with an outer border ring and an inner highlight ring.
+// ---
+
 #ifndef UI_DECORATION_HIGHLIGHT_BORDER_H_
 #define UI_DECORATION_HIGHLIGHT_BORDER_H_
 

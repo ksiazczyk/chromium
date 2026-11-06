@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DecorationSource base implementation
+// summary: Implements the DecorationSource constructor, destructor, and the NotifyDecorationChanged callback used to signal decoration detail changes.
+// ---
+
 #include "ui/decoration/decoration_source.h"
 
 namespace ui::decoration {

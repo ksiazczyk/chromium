@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation throughput reporter unit tests
+// summary: Unit tests covering throughput reporting for implicit, explicit, persisted and aborted layer animation scenarios.
+// ---
+
 #include "ui/compositor/animation_throughput_reporter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrawWaiterForTest test helper header
+// summary: Declares a test helper that blocks a run loop until the compositor starts compositing, ends compositing, or commits.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_DRAW_WAITER_FOR_TEST_H_
 #define UI_COMPOSITOR_TEST_DRAW_WAITER_FOR_TEST_H_
 

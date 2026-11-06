@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor implementation
+// summary: Implements the ui::Compositor that drives layer tree compositing, begin frame handling, and integration with viz and cc services.
+// ---
+
 #include "ui/compositor/compositor.h"
 
 #include <stddef.h>

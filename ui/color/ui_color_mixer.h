@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI color mixer header
+// summary: Declares AddUiColorMixer, which adds a color mixer to a color provider to produce all colors needed by ui/.
+// ---
+
 #ifndef UI_COLOR_UI_COLOR_MIXER_H_
 #define UI_COLOR_UI_COLOR_MIXER_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit lint checks for C++ changes
+# summary: Presubmit script that runs cpplint checks on C++ source changes affecting the directory at upload and commit time.
+# ---
+
 """Presubmit script for changes affecting //ui/views.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

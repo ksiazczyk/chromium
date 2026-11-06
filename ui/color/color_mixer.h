@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorMixer class header
+// summary: Declares the ColorMixer class that maps color IDs through recipes and chains with previous and input mixers in a color pipeline.
+// ---
+
 #ifndef UI_COLOR_COLOR_MIXER_H_
 #define UI_COLOR_COLOR_MIXER_H_
 

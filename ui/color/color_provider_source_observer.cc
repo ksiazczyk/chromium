@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderSourceObserver implementation
+// summary: Implements ColorProviderSourceObserver, managing observation of a ColorProviderSource and notifying on source changes, observation resets, and destruction.
+// ---
+
 #include "ui/color/color_provider_source_observer.h"
 
 namespace ui {

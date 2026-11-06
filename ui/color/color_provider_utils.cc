@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color provider utilities implementation
+// summary: Implements mappings between renderer and UI color IDs and conversions of color IDs and SkColors to CSS and log-friendly string forms.
+// ---
+
 #include "ui/color/color_provider_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Total animation throughput reporter implementation
+// summary: Implements reporting of compositor throughput metrics between the first animation start and the last animation end, with scoped blocking support.
+// ---
+
 #include "ui/compositor/total_animation_throughput_reporter.h"
 
 #include "base/observer_list.h"

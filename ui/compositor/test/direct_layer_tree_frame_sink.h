@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DirectLayerTreeFrameSink test header
+// summary: Declares a test frame sink that makes the client's frame the root surface of an in-process Display, with begin frame source support.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_DIRECT_LAYER_TREE_FRAME_SINK_H_
 #define UI_COMPOSITOR_TEST_DIRECT_LAYER_TREE_FRAME_SINK_H_
 

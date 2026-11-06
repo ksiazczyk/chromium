@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback layer animation observer implementation
+// summary: Implements CallbackLayerAnimationObserver, tracking started, ended and aborted sequences and firing callbacks when all complete.
+// ---
+
 #include "ui/compositor/callback_layer_animation_observer.h"
 
 #include "base/functional/bind.h"

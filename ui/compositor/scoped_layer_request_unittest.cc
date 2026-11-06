@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped layer request unit tests
+// summary: Tests that scoped locks apply and remove layer requests correctly and that layer destruction while locked does not crash.
+// ---
+
 #include "ui/compositor/scoped_layer_request.h"
 
 #include <memory>

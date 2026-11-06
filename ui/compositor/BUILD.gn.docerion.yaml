@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Compositor BUILD.gn build definition
+summary: GN build file that defines the compositor component with its sources, platform-specific files, defines and dependencies.

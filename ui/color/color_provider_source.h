@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderSource header
+// summary: Declares ColorProviderSource, an interface encapsulating the theme bits that identify a ColorProvider and notifying observers when the provider changes.
+// ---
+
 #ifndef UI_COLOR_COLOR_PROVIDER_SOURCE_H_
 #define UI_COLOR_COLOR_PROVIDER_SOURCE_H_
 

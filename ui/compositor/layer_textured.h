@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTextured class header
+// summary: Declares the LayerTextured class, a Layer backed by a cc::PictureLayer that paints via a delegate and supports deferring paint requests while damage accumulates.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_TEXTURED_H_
 #define UI_COMPOSITOR_LAYER_TEXTURED_H_
 

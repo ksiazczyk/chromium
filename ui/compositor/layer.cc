@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer implementation
+// summary: Implements the Layer class managing textures, transforms, child layers and DIP coordinates for the UI compositor.
+// ---
+
 #include "ui/compositor/layer.h"
 
 #include <algorithm>

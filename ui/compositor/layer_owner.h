@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerOwner class
+// summary: Declares LayerOwner, which owns a ui::Layer and supports acquiring, releasing, resetting and recreating it with observer notifications.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_OWNER_H_
 #define UI_COMPOSITOR_LAYER_OWNER_H_
 

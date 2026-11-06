@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorRecipe unit tests
+// summary: Unit tests verifying passthrough for empty recipes, single transform effects, and chained transforms with contrast guarantees.
+// ---
+
 #include "ui/color/color_recipe.h"
 
 #include <algorithm>

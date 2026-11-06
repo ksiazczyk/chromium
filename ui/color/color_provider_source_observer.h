@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderSourceObserver class header
+// summary: Observer interface that tracks a ColorProviderSource and is notified when its ColorProvider instance changes or the source is destroyed.
+// ---
+
 #ifndef UI_COLOR_COLOR_PROVIDER_SOURCE_OBSERVER_H_
 #define UI_COLOR_COLOR_PROVIDER_SOURCE_OBSERVER_H_
 

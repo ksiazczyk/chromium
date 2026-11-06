@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeneratePalette declaration
+// summary: Declares GeneratePalette, which creates the appropriate Palette for a given seed color and ColorProviderKey scheme variant.
+// ---
+
 #ifndef UI_COLOR_DYNAMIC_COLOR_PALETTE_FACTORY_H_
 #define UI_COLOR_DYNAMIC_COLOR_PALETTE_FACTORY_H_
 

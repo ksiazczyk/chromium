@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test layer animation observer implementation
+// summary: Implements TestLayerAnimationObserver, which records layer animation sequence events with epochs and provides assertions about their ordering.
+// ---
+
 #include "ui/compositor/test/test_layer_animation_observer.h"
 
 #include <cstddef>

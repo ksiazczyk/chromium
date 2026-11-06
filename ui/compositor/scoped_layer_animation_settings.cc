@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped layer animation settings implementation
+// summary: Implements scoped animation settings that temporarily change animator duration, tween type, and preemption strategy, with observers for render surface caching and deferred painting.
+// ---
+
 #include "ui/compositor/scoped_layer_animation_settings.h"
 
 #include <stddef.h>

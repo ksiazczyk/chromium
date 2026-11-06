@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorProviderSourceObserver unit tests
+// summary: Unit tests verifying observer cleanup and change notifications when a ColorProviderSource or its observers are destroyed.
+// ---
+
 #include "ui/color/color_provider_source_observer.h"
 
 #include <memory>

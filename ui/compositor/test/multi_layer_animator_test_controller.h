@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiLayerAnimatorTestController test API
+// summary: Test API header declaring a controller that drives multiple LayerAnimators, disabling timers, reporting active animations and completing or stepping them.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_MULTI_LAYER_ANIMATOR_TEST_CONTROLLER_H_
 #define UI_COMPOSITOR_TEST_MULTI_LAYER_ANIMATOR_TEST_CONTROLLER_H_
 

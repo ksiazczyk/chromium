@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint context implementation
+// summary: Implements PaintContext constructors, including offset and no-invalidation clones, plus helpers converting sizes and rects to layer space.
+// ---
+
 #include "ui/compositor/paint_context.h"
 
 #include "ui/gfx/canvas.h"

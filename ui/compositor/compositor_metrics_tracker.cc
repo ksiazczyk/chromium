@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor metrics tracker implementation
+// summary: Implements start, stop and cancel state handling for compositor custom metric tracking sessions.
+// ---
+
 #include "ui/compositor/compositor_metrics_tracker.h"
 
 #include <utility>

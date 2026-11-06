@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native color mixer stubs for unsupported platforms
+// summary: Provides empty default implementations of the native color mixers for platforms without native overrides.
+// ---
+
 #include "ui/color/native_color_mixers.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback layer animation observer header
+// summary: Declares CallbackLayerAnimationObserver, an observer that invokes started and ended callbacks once all attached animation sequences finish.
+// ---
+
 #ifndef UI_COMPOSITOR_CALLBACK_LAYER_ANIMATION_OBSERVER_H_
 #define UI_COMPOSITOR_CALLBACK_LAYER_ANIMATION_OBSERVER_H_
 

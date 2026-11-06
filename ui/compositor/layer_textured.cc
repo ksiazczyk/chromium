@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTextured implementation
+// summary: Implements the textured compositor layer, painting contents through a LayerDelegate into a cc::PictureLayer with support for deferred paint requests and damage tracking.
+// ---
+
 #include "ui/compositor/layer_textured.h"
 
 #include <cstdint>

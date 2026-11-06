@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sys color mixer unit tests
+// summary: Parameterized unit tests verifying that system color mixer colors meet minimum visible and readable contrast ratios across light and dark modes and various accent colors.
+// ---
+
 #include "ui/color/sys_color_mixer.h"
 
 #include <tuple>

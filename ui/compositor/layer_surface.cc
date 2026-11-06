@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerSurface implementation
+// summary: Implements LayerSurface, a layer that embeds a viz surface via cc::SurfaceLayer, including fallback colors, deadlines and reflected surfaces.
+// ---
+
 #include "ui/compositor/layer_surface.h"
 
 #include <algorithm>

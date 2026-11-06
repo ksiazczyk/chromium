@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoration class implementation
+// summary: Implements the Decoration class that manages nine-patch compositor layers framing content with shadows or highlight borders, including bounds handling, corner clamping, and animations.
+// ---
+
 #include "ui/decoration/decoration.h"
 
 #include <algorithm>

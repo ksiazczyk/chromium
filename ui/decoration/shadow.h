@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shadow class declaration
+// summary: Declares Shadow, a DecorationSource that draws drop shadows with configurable elevation, style, and elevation-to-color mapping.
+// ---
+
 #ifndef UI_DECORATION_SHADOW_H_
 #define UI_DECORATION_SHADOW_H_
 

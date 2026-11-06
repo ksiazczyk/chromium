@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DirectLayerTreeFrameSink implementation
+// summary: Implements a LayerTreeFrameSink that submits compositor frames directly to an in-process Display for compositor tests.
+// ---
+
 #include "ui/compositor/test/direct_layer_tree_frame_sink.h"
 
 #include <memory>

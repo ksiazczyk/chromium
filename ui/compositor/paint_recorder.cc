@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint recorder implementation
+// summary: Implements PaintRecorder, which records painting into the context's display item list and optionally stores the result in a PaintCache on destruction.
+// ---
+
 #include "ui/compositor/paint_recorder.h"
 
 #include "cc/paint/display_item_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core default color mixer header
+// summary: Declares AddCoreDefaultColorMixer, which adds the core default color set to a ColorProvider.
+// ---
+
 #ifndef UI_COLOR_CORE_DEFAULT_COLOR_MIXER_H_
 #define UI_COLOR_CORE_DEFAULT_COLOR_MIXER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Highlight border value type
+// summary: Defines HighlightBorderValue, a pure value type describing highlight border colors and thickness that serves as a cache key.
+// ---
+
 #ifndef UI_DECORATION_HIGHLIGHT_BORDER_VALUE_H_
 #define UI_DECORATION_HIGHLIGHT_BORDER_VALUE_H_
 

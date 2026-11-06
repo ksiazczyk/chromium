@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor test suite implementation
+// summary: Implements CompositorTestSuite, initializing GL surfaces and platform-specific settings such as Ozone, Windows DPI, and Fuchsia presenter for compositor tests.
+// ---
+
 #include "ui/compositor/test/test_suite.h"
 
 #include "base/command_line.h"

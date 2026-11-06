@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fluent UI color mixer
+// summary: Adds a color mixer defining Fluent UI web native control scrollbar colors for normal contrast mode.
+// ---
+
 #include "ui/color/fluent_ui_color_mixer.h"
 
 #include "ui/color/color_id.h"

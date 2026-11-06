@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerAnimatorCollection implementation
+// summary: Implements LayerAnimatorCollection, which registers active layer animators with the compositor and steps them on each animation tick.
+// ---
+
 #include "ui/compositor/layer_animator_collection.h"
 
 #include "base/containers/flat_set.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor metrics reporter test base header
+// summary: Declares a GoogleTest fixture that hosts a compositor and generates frames for testing compositor metrics reporting.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_COMPOSITOR_METRICS_REPORTER_TEST_BASE_H_
 #define UI_COMPOSITOR_TEST_COMPOSITOR_METRICS_REPORTER_TEST_BASE_H_
 

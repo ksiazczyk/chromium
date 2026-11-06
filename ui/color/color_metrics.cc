@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color provider metrics recording implementation
+// summary: Implements functions that record color provider cache size, provider initialization counts, and initialization and theme-update timing histograms for browser and non-browser processes.
+// ---
+
 #include "ui/color/color_metrics.h"
 
 #include "base/command_line.h"

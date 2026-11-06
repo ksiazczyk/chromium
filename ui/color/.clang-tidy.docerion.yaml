@@ -1,0 +1,4 @@
+# Docerion header of .clang-tidy.
+type: config
+title: clang-tidy configuration for ui/color
+summary: Configures clang-tidy checks and header filters for C++ sources in the ui/color directory, inheriting the parent config.

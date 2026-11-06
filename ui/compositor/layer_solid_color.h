@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerSolidColor class
+// summary: Declares LayerSolidColor, a Layer subclass that shows a uniform solid color or mirrors another layer's subtree, with color and clone APIs.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_SOLID_COLOR_H_
 #define UI_COMPOSITOR_LAYER_SOLID_COLOR_H_
 

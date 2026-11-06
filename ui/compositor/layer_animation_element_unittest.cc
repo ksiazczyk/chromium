@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerAnimationElement unit tests
+// summary: Unit tests verifying LayerAnimationElement target values and that property elements like transform, bounds, and opacity progress the delegate as expected.
+// ---
+
 #include "ui/compositor/layer_animation_element.h"
 
 #include <memory>

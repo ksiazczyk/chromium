@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test layer animation observer header
+// summary: Declares TestLayerAnimationObserver, a LayerAnimationObserver that remembers last observed animation sequences and offers epoch ordering assertions.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_TEST_LAYER_ANIMATION_OBSERVER_H_
 #define UI_COMPOSITOR_TEST_TEST_LAYER_ANIMATION_OBSERVER_H_
 

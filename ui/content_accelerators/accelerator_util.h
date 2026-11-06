@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator utility header
+// summary: Declares GetAcceleratorFromNativeWebKeyboardEvent, which converts a native web keyboard event into a ui::Accelerator.
+// ---
+
 #ifndef UI_CONTENT_ACCELERATORS_ACCELERATOR_UTIL_H_
 #define UI_CONTENT_ACCELERATORS_ACCELERATOR_UTIL_H_
 

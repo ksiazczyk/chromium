@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor command-line switches
+// summary: Defines compositor command-line switch names for pixel output in tests, RGBA4444 textures, zero-copy, paint rects, slow animations, vsync, plus a zero-copy enablement check.
+// ---
+
 #include "ui/compositor/compositor_switches.h"
 
 #include "base/command_line.h"

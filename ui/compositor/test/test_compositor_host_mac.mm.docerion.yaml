@@ -1,0 +1,4 @@
+# Docerion header of test_compositor_host_mac.mm.
+type: test
+title: macOS TestCompositorHost implementation
+summary: macOS implementation of TestCompositorHost providing an NSView-backed window surface plus AppKit and Foundation hosts for compositor unit tests.

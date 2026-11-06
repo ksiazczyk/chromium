@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ui decoration component
+summary: Defines the decoration component target with its source list, the IS_UI_DECORATION_IMPL define, and dependencies on base, cc/paint, skia, and ui libraries.

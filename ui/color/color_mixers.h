@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddColorMixers declaration
+// summary: Declares AddColorMixers, which attaches all UI-side color mixers to a color provider for a given color provider key.
+// ---
+
 #ifndef UI_COLOR_COLOR_MIXERS_H_
 #define UI_COLOR_COLOR_MIXERS_H_
 

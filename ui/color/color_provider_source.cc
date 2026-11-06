@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorProviderSource implementation
+// summary: Implements observer registration and change notification for ColorProviderSource, exposing color mode and forced colors from its ColorProviderKey.
+// ---
+
 #include "ui/color/color_provider_source.h"
 
 #include "base/observer_list.h"

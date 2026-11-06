@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerType enum header
+// summary: Declares the LayerType enum listing compositor layer kinds such as not drawn, textured, solid color, nine patch, surface, and external texture.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_TYPE_H_
 #define UI_COMPOSITOR_LAYER_TYPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DrawWaiterForTest implementation
+// summary: Implements a test waiter that blocks until compositing starts, compositing ends, or a commit occurs on a Compositor.
+// ---
+
 #include "ui/compositor/test/draw_waiter_for_test.h"
 
 #include "ui/compositor/compositor.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the decoration directory
+summary: Maps the directory to the Internals>Compositing Monorail component and Buganizer component 1456836 for issue routing.

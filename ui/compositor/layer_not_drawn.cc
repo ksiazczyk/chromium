@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-drawing container layer implementation
+// summary: Implements LayerNotDrawn, a layer with no onscreen content that acts as a container whose children are drawn.
+// ---
+
 #include "ui/compositor/layer_not_drawn.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer hierarchy debug utilities header
+// summary: Declares PrintLayerHierarchy functions that log the layer hierarchy and mark layers containing the mouse location.
+// ---
+
 #ifndef UI_COMPOSITOR_DEBUG_UTILS_H_
 #define UI_COMPOSITOR_DEBUG_UTILS_H_
 

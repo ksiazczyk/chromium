@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ColorProviderKey unit tests
+// summary: Unit tests verifying equality and inequality of ColorProviderKey instances across all key fields such as color mode, contrast, forced colors, frame settings, and scheme variant.
+// ---
+
 #include "ui/color/color_provider_key.h"
 
 #include <optional>

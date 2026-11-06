@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerDelegate default callback implementation
+// summary: Implements the default no-op layer property change callbacks of the LayerDelegate interface.
+// ---
+
 #include "ui/compositor/layer_delegate.h"
 
 namespace ui {

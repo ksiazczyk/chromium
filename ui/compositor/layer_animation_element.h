@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerAnimationElement header
+// summary: Declares LayerAnimationElement, a single keyframe-to-keyframe animation segment that updates a layer animation delegate for properties such as transform, bounds, opacity, and color.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_ANIMATION_ELEMENT_H_
 #define UI_COMPOSITOR_LAYER_ANIMATION_ELEMENT_H_
 

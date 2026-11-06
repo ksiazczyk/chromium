@@ -1,0 +1,4 @@
+# Docerion header of color_id_macros.inc.
+type: source
+title: Color ID macros for enum and stringized name declarations
+summary: Preprocessor macros that declare color ID enumerations and their stringized names for dump_colors, meant to be included around enum or string array declarations.

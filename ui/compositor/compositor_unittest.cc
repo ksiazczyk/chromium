@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor unit tests
+// summary: Unit tests for the ui Compositor covering visibility notifications, metrics tracking, and frame behavior using mocked-time and real message loop test fixtures.
+// ---
+
 #include "ui/compositor/compositor.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoration utility header
+// summary: Declares the shadow and highlight border generators, their shared details caches, and the DrawHighlightBorder helper for the ui/decoration component.
+// ---
+
 #ifndef UI_DECORATION_DECORATION_UTIL_H_
 #define UI_DECORATION_DECORATION_UTIL_H_
 

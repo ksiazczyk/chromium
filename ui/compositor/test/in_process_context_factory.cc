@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InProcessContextFactory implementation
+// summary: Implements an in-process ContextFactory that wires up frame sinks, display output, and GPU context providers for compositor tests.
+// ---
+
 #include "ui/compositor/test/in_process_context_factory.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint context class declaration
+// summary: Declares PaintContext, which carries the display item list, device scale factor, invalidation rect and paint offset used during compositor painting.
+// ---
+
 #ifndef UI_COMPOSITOR_PAINT_CONTEXT_H_
 #define UI_COMPOSITOR_PAINT_CONTEXT_H_
 

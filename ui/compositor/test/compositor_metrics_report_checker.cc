@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorMetricsReportChecker implementation
+// summary: Implements the metrics report checker, advancing test time and failing or quitting the run loop when a report arrives.
+// ---
+
 #include "ui/compositor/test/compositor_metrics_report_checker.h"
 
 #include "base/time/time.h"

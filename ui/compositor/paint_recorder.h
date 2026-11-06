@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint recorder class declaration
+// summary: Declares PaintRecorder, a short-lived helper that provides a gfx::Canvas for recording paint operations into a display item.
+// ---
+
 #ifndef UI_COMPOSITOR_PAINT_RECORDER_H_
 #define UI_COMPOSITOR_PAINT_RECORDER_H_
 

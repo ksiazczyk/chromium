@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerAnimationSequence unit tests
+// summary: Unit tests covering LayerAnimationSequence behavior for empty, single-element, threaded, and repeating animation sequences.
+// ---
+
 #include "ui/compositor/layer_animation_sequence.h"
 
 #include <memory>

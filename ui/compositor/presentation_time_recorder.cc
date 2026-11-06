@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation time recorder implementation
+// summary: Implements recording of the time between a UI update request and its presentation on screen, tracking latency and reporting metrics via compositor observation.
+// ---
+
 #include "ui/compositor/presentation_time_recorder.h"
 
 #include <optional>

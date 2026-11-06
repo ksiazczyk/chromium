@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerDelegate interface for layer painting and change notifications
+// summary: Defines the delegate interface for objects that paint layer content and receive notifications about layer property changes.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_DELEGATE_H_
 #define UI_COMPOSITOR_LAYER_DELEGATE_H_
 

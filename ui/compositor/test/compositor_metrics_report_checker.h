@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CompositorMetricsReportChecker test helper header
+// summary: Declares a helper that provides report callbacks and waits up to five seconds for compositor frame sequence metrics to be reported.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_COMPOSITOR_METRICS_REPORT_CHECKER_H_
 #define UI_COMPOSITOR_TEST_COMPOSITOR_METRICS_REPORT_CHECKER_H_
 

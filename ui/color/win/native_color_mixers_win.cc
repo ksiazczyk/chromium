@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native color mixer definitions
+// summary: Defines Windows native color mixers that map GetSysColor values and high contrast colors onto the UI color system, including current system color lookup.
+// ---
+
 #include "ui/color/win/native_color_mixers_win.h"
 
 #include <windows.h>

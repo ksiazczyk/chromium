@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BeginMainFrameWaiter test helper header
+// summary: Declares a CompositorObserver subclass that lets tests wait for and query receipt of BeginMainFrame notifications.
+// ---
+
 #ifndef UI_COMPOSITOR_TEST_BEGIN_MAIN_FRAME_WAITER_H_
 #define UI_COMPOSITOR_TEST_BEGIN_MAIN_FRAME_WAITER_H_
 

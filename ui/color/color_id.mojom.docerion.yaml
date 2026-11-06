@@ -1,0 +1,4 @@
+# Docerion header of color_id.mojom.
+type: source
+title: RendererColorId mojom enum
+summary: Defines the RendererColorId mojom enum mapping renderer-specific colors to the well-defined subset of ui::ColorIds.

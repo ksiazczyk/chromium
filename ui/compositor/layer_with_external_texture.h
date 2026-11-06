@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerWithExternalTexture class header
+// summary: Declares LayerWithExternalTexture, a Layer and cc::TextureLayerClient that shows an externally supplied GPU-backed transferable resource.
+// ---
+
 #ifndef UI_COMPOSITOR_LAYER_WITH_EXTERNAL_TEXTURE_H_
 #define UI_COMPOSITOR_LAYER_WITH_EXTERNAL_TEXTURE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Material 3 system color mixer declaration
+// summary: Declares AddSysColorMixer, which supplies the Google Material 3 system color tokens to a color provider.
+// ---
+
 #ifndef UI_COLOR_SYS_COLOR_MIXER_H_
 #define UI_COLOR_SYS_COLOR_MIXER_H_
 

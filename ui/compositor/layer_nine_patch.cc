@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nine-patch layer implementation
+// summary: Implements LayerNinePatch, which displays a resizable nine-patch bitmap backed by a cc::NinePatchLayer and handles scale factor changes.
+// ---
+
 #include "ui/compositor/layer_nine_patch.h"
 
 #include "base/notreached.h"

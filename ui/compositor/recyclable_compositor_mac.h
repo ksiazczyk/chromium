@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecyclableCompositorMac class declaration
+// summary: Declares a compositor plus accelerated widget structure that is recycled across tabs to avoid the cost of creating a new compositor per tab.
+// ---
+
 #ifndef UI_COMPOSITOR_RECYCLABLE_COMPOSITOR_MAC_H_
 #define UI_COMPOSITOR_RECYCLABLE_COMPOSITOR_MAC_H_
 

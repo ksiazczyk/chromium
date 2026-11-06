@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and per-file review rules
+summary: Lists the directory owners and sets special review requirements for mojom file changes.
