@@ -1,0 +1,4 @@
+# Docerion header of router_off_old.icon.
+type: asset
+title: Router off icon, old style
+summary: Defines the pre-refresh vector drawing commands for the router-off icon on a 20dp canvas.

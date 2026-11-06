@@ -1,0 +1,4 @@
+# Docerion header of protocol_handler.icon.
+type: asset
+title: Protocol handler vector icon
+summary: Defines the vector path data for the protocol handler icon used in Chrome's UI, drawn on a 20-unit canvas.

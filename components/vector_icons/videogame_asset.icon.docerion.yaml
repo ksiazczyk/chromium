@@ -1,0 +1,4 @@
+# Docerion header of videogame_asset.icon.
+type: asset
+title: Videogame asset icon
+summary: Defines the videogame asset vector icon as Skia path commands on a 20dp canvas for Chrome UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisibilityTimerTabHelper implementation
+// summary: Implements the tab helper that queues delayed tasks and runs them only while the WebContents stays visible, stopping and restarting the timer on visibility changes.
+// ---
+
 #include "components/visibility_timer/visibility_timer_tab_helper.h"
 
 #include <utility>

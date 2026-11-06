@@ -1,0 +1,4 @@
+# Docerion header of undo_old.icon.
+type: asset
+title: Undo icon (old)
+summary: Defines the path data for the old-style undo vector icon used in Chrome UI.

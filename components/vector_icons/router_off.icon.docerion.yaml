@@ -1,0 +1,4 @@
+# Docerion header of router_off.icon.
+type: asset
+title: Router off icon
+summary: Defines the vector drawing commands for the router-off icon on a 20dp canvas for Chrome UI.

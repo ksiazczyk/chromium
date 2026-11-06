@@ -1,0 +1,4 @@
+# Docerion header of search_old.icon.
+type: source
+title: Search old icon
+summary: Legacy 32 dp search magnifier icon path definition kept for older Chrome UI.

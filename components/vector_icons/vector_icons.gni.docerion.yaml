@@ -1,0 +1,4 @@
+# Docerion header of vector_icons.gni.
+type: config
+title: Aggregate vector icons GN template
+summary: GN import defining the aggregate_vector_icons template that runs the aggregation script to build vector_icons.cc and vector_icons.h from .icon files.

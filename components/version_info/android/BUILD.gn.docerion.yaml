@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the android version_info channel_getter target
+summary: Defines a static_library GN target for channel_getter with a public dependency on //base using Android build rules.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the version_info component
+summary: Defines GN source sets and a group that act as facades for //base/version_info, wiring up channel, version string, and user-agent sources.

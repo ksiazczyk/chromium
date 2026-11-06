@@ -1,0 +1,4 @@
+# Docerion header of vr180_create2d.icon.
+type: asset
+title: VR180 create 2D vector icon
+summary: Vector icon definition that draws the VR180 create-2D glyph on a 20dp canvas for Chrome UI.

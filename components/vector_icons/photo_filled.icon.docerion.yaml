@@ -1,0 +1,4 @@
+# Docerion header of photo_filled.icon.
+type: asset
+title: Filled photo vector icon
+summary: Defines the vector path data for the filled photo icon used in Chromium's native UI, drawn on a 24dp canvas.

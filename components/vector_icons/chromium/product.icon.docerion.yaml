@@ -1,0 +1,4 @@
+# Docerion header of product.icon.
+type: asset
+title: Chromium product vector icon
+summary: Vector icon definition drawing the Chromium product logo on a 24x24 canvas using path commands.

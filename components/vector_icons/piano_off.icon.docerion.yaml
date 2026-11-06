@@ -1,0 +1,4 @@
+# Docerion header of piano_off.icon.
+type: asset
+title: Piano off vector icon
+summary: Defines the vector path data for the piano-off icon used in Chromium's native UI, drawn on a 20dp canvas.

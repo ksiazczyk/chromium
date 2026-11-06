@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vector icons unit tests
+// summary: Unit tests that verify parsed vector icon path elements match the compiled icon representations.
+// ---
+
 #include "components/vector_icons/vector_icons_unittest.h"
 
 #include "base/compiler_specific.h"

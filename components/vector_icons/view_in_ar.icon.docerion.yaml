@@ -1,0 +1,4 @@
+# Docerion header of view_in_ar.icon.
+type: asset
+title: View in AR icon
+summary: Defines the view in AR vector icon as Skia path commands on a 20dp canvas for Chrome UI.

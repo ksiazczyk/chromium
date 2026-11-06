@@ -1,0 +1,4 @@
+# Docerion header of piano.icon.
+type: asset
+title: Piano vector icon
+summary: Defines the vector path data for the piano icon used in Chromium's native UI, drawn on a 24dp canvas.

@@ -1,0 +1,4 @@
+# Docerion header of pause_old.icon.
+type: asset
+title: Legacy pause icon
+summary: Vector path definition for the legacy pause icon, using path commands without an explicit canvas dimension declaration.

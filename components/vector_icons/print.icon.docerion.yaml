@@ -1,0 +1,4 @@
+# Docerion header of print.icon.
+type: asset
+title: Print vector icon
+summary: Defines the vector path data for the print icon used in Chrome's UI, drawn on a 24-unit canvas.

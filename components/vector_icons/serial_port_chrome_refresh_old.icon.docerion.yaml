@@ -1,0 +1,4 @@
+# Docerion header of serial_port_chrome_refresh_old.icon.
+type: asset
+title: Serial port icon (Chrome Refresh old variant)
+summary: Vector icon definition drawing a serial port glyph on a 20dp canvas for the legacy Chrome Refresh style.

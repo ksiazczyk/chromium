@@ -1,0 +1,4 @@
+# Docerion header of vector_icons_unittest.h.template.
+type: test
+title: Vector icons unittest header template
+summary: Template for generating the vector icons unit test header, stamping out a test case macro for each icon via a placeholder.

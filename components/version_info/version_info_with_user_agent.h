@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User-Agent version string declarations
+// summary: Declares version_info functions returning the product name and version for full and reduced User-Agent header values.
+// ---
+
 #ifndef COMPONENTS_VERSION_INFO_VERSION_INFO_WITH_USER_AGENT_H_
 #define COMPONENTS_VERSION_INFO_VERSION_INFO_WITH_USER_AGENT_H_
 

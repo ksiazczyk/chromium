@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for visibility_timer
+summary: Defines GN build targets for the visibility_timer component, listing its public header, sources, unit tests, and dependencies on base, content, and testing libraries.

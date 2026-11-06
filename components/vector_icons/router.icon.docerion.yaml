@@ -1,0 +1,4 @@
+# Docerion header of router.icon.
+type: asset
+title: Router icon
+summary: Defines the vector drawing commands for the router icon on a 20dp canvas for Chrome UI.

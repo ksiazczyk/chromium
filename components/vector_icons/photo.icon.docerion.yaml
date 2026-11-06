@@ -1,0 +1,4 @@
+# Docerion header of photo.icon.
+type: asset
+title: Photo vector icon
+summary: Defines the vector path data for the photo icon used in Chromium's native UI, drawn on a 20dp canvas.

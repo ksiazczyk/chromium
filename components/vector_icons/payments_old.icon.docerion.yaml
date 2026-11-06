@@ -1,0 +1,4 @@
+# Docerion header of payments_old.icon.
+type: asset
+title: Legacy payments icon
+summary: Vector path definition for the legacy payments icon, drawn with the Chromium icon DSL on a 24x24 canvas.

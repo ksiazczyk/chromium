@@ -1,0 +1,4 @@
+# Docerion header of sensors_off.icon.
+type: asset
+title: Sensors off icon
+summary: Vector icon definition drawing the sensors-off glyph with a diagonal slash on a 20dp canvas.

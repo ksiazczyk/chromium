@@ -1,3 +1,9 @@
+---
+type: readme
+title: Visibility Timer
+summary: Explains that VisibilityTimerTabHelper runs a task after a WebContents has been continuously visible for a set time, resetting the timer whenever the tab becomes hidden.
+---
+
 # Visibility Timer
 
 `VisibilityTimerTabHelper` is a `WebContentsObserver` that executes a task after

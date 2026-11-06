@@ -1,0 +1,4 @@
+# Docerion header of protected_content_custom.icon.
+type: asset
+title: Protected content custom vector icon
+summary: Defines the vector path data for a custom protected-content icon used in Chrome's UI, drawn on an 18-unit canvas.

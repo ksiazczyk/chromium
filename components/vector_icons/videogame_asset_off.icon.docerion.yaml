@@ -1,0 +1,4 @@
+# Docerion header of videogame_asset_off.icon.
+type: asset
+title: Videogame asset off icon
+summary: Defines the crossed-out videogame asset vector icon on a 20dp canvas for the off state.

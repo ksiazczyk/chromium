@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of components/version_info
+summary: Lists the two email addresses of the code owners responsible for this directory.

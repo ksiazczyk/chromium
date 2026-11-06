@@ -1,0 +1,4 @@
+# Docerion header of settings_old.icon.
+type: asset
+title: Settings icon (legacy variant)
+summary: Vector icon definitions drawing settings gear glyphs at 24dp and 16dp in the pre-refresh style.

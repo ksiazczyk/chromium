@@ -1,0 +1,4 @@
+# Docerion header of usb.icon.
+type: asset
+title: USB icon
+summary: Defines the path data for the USB vector icon drawn on a 24dp canvas.

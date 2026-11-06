@@ -1,0 +1,4 @@
+# Docerion header of skip_previous.icon.
+type: asset
+title: Skip previous vector icon
+summary: Vector icon definition for the skip-previous media control, drawn as path commands on a 24dp canvas for Chrome UI.

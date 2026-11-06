@@ -1,0 +1,4 @@
+# Docerion header of video_library.icon.
+type: asset
+title: Video library icon
+summary: Vector icon definition drawing the video library glyph on a 20dp canvas for Chrome UI.
