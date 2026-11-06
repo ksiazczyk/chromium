@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PSM identifier generation utilities header
+// summary: Declares GeneratePsmIdentifier, which creates a PSM ID from a high entropy seed, use case string and window id.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_UTILS_PSM_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_UTILS_PSM_UTILS_H_
 

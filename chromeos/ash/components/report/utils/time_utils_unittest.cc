@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for time utilities
+// summary: Unit tests covering GMT to PT conversion with daylight saving and unknown time zones, month and year boundary helpers and timestamp formatting.
+// ---
+
 #include "chromeos/ash/components/report/utils/time_utils.h"
 
 #include "base/test/simple_test_clock.h"

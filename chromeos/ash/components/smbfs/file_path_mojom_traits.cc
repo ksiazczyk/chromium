@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePath Mojo traits implementation
+// summary: Implements Mojo StructTraits that read a base::FilePath from smbfs mojom messages, rejecting invalid paths.
+// ---
+
 #include "chromeos/ash/components/smbfs/file_path_mojom_traits.h"
 
 namespace mojo {

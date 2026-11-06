@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time utilities implementation for reporting
+// summary: Implements GMT to Pacific Time conversion, previous and next month and year boundaries, activate date handling and timestamp formatting for reporting.
+// ---
+
 #include "chromeos/ash/components/report/utils/time_utils.h"
 
 #include <memory>

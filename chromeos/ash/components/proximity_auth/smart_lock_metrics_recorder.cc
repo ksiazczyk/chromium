@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock metrics recorder implementation
+// summary: Records UMA histograms for Smart Lock unlock authentication, including auth method choice, auth result success and failure, and password state.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/smart_lock_metrics_recorder.h"
 
 #include "base/metrics/histogram_macros.h"

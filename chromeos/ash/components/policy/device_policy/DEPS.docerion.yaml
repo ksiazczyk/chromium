@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for device_policy
+summary: Allows dependencies on the session manager DBus component, common policy code, and policy protobufs within this directory.

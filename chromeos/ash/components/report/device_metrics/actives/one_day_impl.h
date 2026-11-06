@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDayImpl use case class declaration
+// summary: Declares the OneDayImpl class that runs the daily device active reporting use case and its OPRF, query, and check-in steps.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_ACTIVES_ONE_DAY_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_ACTIVES_ONE_DAY_IMPL_H_
 

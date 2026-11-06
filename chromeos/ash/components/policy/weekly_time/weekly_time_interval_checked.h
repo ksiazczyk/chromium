@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeeklyTimeIntervalChecked class header
+// summary: Declares WeeklyTimeIntervalChecked, a policy-decoded weekly interval without timezone info, with overlap, duration, and containment APIs.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_WEEKLY_TIME_INTERVAL_CHECKED_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_WEEKLY_TIME_INTERVAL_CHECKED_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Scanning component BUILD.gn
+summary: GN build configuration defining the Chrome OS ash scanning component with its sources and dependencies.

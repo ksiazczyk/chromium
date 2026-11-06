@@ -1,0 +1,4 @@
+# Docerion header of REMOTE_MANAGEMENT_OWNERS.
+type: config
+title: Code owners for remote management changes
+summary: Lists the chromeos-commercial-remote-management review alias and last-resort owner suggestions for remote management code reviews.

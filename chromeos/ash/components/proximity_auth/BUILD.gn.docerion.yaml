@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Proximity_auth BUILD.gn build targets
+summary: Defines the proximity_auth static library, test support and unit test targets with their sources and dependencies for Chrome OS Smart Lock.

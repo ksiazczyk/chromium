@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportController unit tests
+// summary: Unit tests for ReportController that exercise reporting flows with fake DBus clients, a stub PSM client manager and preserved file test data.
+// ---
+
 #include "chromeos/ash/components/report/report_controller.h"
 
 #include "base/files/file_util.h"

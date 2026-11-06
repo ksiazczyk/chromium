@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserLoginPermissionTracker implementation
+// summary: Implements a singleton that checks whether a user is allowlisted to log in, with special handling for the active demo mode user.
+// ---
+
 #include "chromeos/ash/components/settings/user_login_permission_tracker.h"
 
 #include <optional>

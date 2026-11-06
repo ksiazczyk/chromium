@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start Base64Url encoding helpers implementation
+// summary: Implements Base64UrlEncode overloads for byte vectors and strings plus Base64UrlTranscode, which converts Base64 strings to unpadded Base64Url.
+// ---
+
 #include "chromeos/ash/components/quick_start/types.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimezoneSettings implementation
+// summary: Implements the TimezoneSettings singleton that reads and sets the Chrome OS system timezone and maintains the hardcoded list of known timezones.
+// ---
+
 #include "chromeos/ash/components/settings/timezone_settings.h"
 
 #include <stddef.h>

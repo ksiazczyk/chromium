@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeeklyTime class implementation
+// summary: Implements the WeeklyTime class for weekday and time-of-day values, including timezone conversion, duration calculation, and extraction from proto or dictionary values.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/weekly_time.h"
 
 #include <algorithm>

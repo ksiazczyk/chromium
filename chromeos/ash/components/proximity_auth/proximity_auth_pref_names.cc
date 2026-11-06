@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity auth preference name constants
+// summary: Defines preference name constants for Easy Unlock enabled state, promotion checks, promotion shown count and remote BLE devices.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/proximity_auth_pref_names.h"
 
 namespace proximity_auth {

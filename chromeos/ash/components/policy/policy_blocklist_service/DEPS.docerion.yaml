@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for policy_blocklist_service
+summary: Grants this directory include access to keyed service, policy browser and common, user prefs, and content public browser components.

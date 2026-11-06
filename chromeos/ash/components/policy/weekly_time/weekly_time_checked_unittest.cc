@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeeklyTimeChecked unit tests
+// summary: Unit tests covering WeeklyTimeChecked day progression, equality, dictionary parsing error cases, and conversions from exploded times and time deltas.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/weekly_time_checked.h"
 
 #include <optional>

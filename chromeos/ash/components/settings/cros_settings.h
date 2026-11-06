@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSettings class interface for per-device settings
+// summary: Declares the CrosSettings singleton managing per-device and global settings with typed getters, trusted-value handling, and user allowlist checks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_CROS_SETTINGS_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_CROS_SETTINGS_H_
 

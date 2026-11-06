@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test helper implementations for report utils
+// summary: Implements helpers to parse protobuf test data from files with a size limit and to look up preserved file test cases for regression tests.
+// ---
+
 #include "chromeos/ash/components/report/utils/test_utils.h"
 
 #include "base/files/file_util.h"

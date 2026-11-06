@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System features disable list policy utils implementation
+// summary: Implements registration of the SystemFeaturesDisableList prefs and logic that decides whether disabled app icons are hidden or blocked based on managed policy and session type.
+// ---
+
 #include "chromeos/ash/components/policy/system_features_disable_list/system_features_disable_list_policy_utils.h"
 
 #include "base/check.h"

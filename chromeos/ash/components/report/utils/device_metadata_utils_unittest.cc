@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device metadata utilities unit tests
+// summary: Unit tests verifying Chrome channel mapping, milestone retrieval, and hardware class lookup using a fake statistics provider.
+// ---
+
 #include "chromeos/ash/components/report/utils/device_metadata_utils.h"
 
 #include "chromeos/ash/components/system/fake_statistics_provider.h"

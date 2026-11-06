@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessengerImpl class declaration
+// summary: Concrete Messenger implementation that queues and relays unlock events, unlock requests and status updates over a secure channel to a remote device.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_MESSENGER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_MESSENGER_IMPL_H_
 

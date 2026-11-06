@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveStatus implementation
+// summary: Implements the ActiveStatus class that stores a 28-bit churn active status pref and calculates cohort and observation metadata from active months.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/churn/active_status.h"
 
 #include "base/check.h"

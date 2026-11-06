@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Start logging unit tests
+// summary: Unit tests verifying that QS_LOG emits standard logs for non-verbose severities and includes verbose logs when the verbose logging flag is enabled.
+// ---
+
 #include <stddef.h>
 
 #include "base/command_line.h"

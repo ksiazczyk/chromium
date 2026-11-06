@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start strong type aliases
+// summary: Declares strongly typed aliases for encoded Quick Start data such as Base64String, Base64UrlString, PEMCertChain, PinString and EmailString, along with Base64Url encoding helpers.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_QUICK_START_TYPES_H_
 #define CHROMEOS_ASH_COMPONENTS_QUICK_START_TYPES_H_
 

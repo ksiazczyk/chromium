@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checked weekly time utility declarations
+// summary: Declares helpers for extracting checked weekly time intervals from policy values, containment checks, next event lookup and DST-safe offset addition.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_CHECKED_UTIL_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_CHECKED_UTIL_H_
 

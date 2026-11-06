@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and review rules for smbfs
+summary: Lists owners for the directory and assigns mojom traits files to the IPC security owners.

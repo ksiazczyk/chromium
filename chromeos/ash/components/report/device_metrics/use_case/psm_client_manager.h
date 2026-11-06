@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PsmClientManager delegate interface header
+// summary: Declares PsmClientManager and its Delegate interface for Private Membership RLWE client operations, allowing stub delegates for testing the full membership check flow.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_USE_CASE_PSM_CLIENT_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_USE_CASE_PSM_CLIENT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimezoneSettings helper unit tests
+// summary: Unit tests for GetKnownTimezoneOrNull covering ID, canonical ID, and rule-based timezone matches as well as expected non-matches.
+// ---
+
 #include <memory>
 
 #include "base/memory/ptr_util.h"

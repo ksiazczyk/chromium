@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeeklyTimeInterval class implementation
+// summary: Implements WeeklyTimeInterval, parsing weekly intervals from proto or dictionary values and checking interval containment and overlap.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/weekly_time_interval.h"
 
 #include "base/logging.h"

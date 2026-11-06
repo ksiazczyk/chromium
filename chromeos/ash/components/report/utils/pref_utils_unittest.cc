@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fresnel preference utilities unit tests
+// summary: Unit tests covering restoration of local state from valid and invalid preserved file responses and creation of preserved file contents.
+// ---
+
 #include "chromeos/ash/components/report/utils/pref_utils.h"
 
 #include "chromeos/ash/components/dbus/private_computing/private_computing_service.pb.h"

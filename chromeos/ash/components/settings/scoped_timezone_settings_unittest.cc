@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTimezoneSettings unit tests
+// summary: Unit tests verifying that ScopedTimezoneSettings temporarily changes the system timezone and restores the original timezone on destruction.
+// ---
+
 #include "chromeos/ash/components/settings/scoped_timezone_settings.h"
 
 #include <memory>

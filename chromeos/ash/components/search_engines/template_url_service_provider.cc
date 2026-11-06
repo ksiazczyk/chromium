@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TemplateURLServiceProvider implementation
+// summary: Implements the process-wide singleton lifecycle of the ash TemplateURLServiceProvider with instance checks in the constructor, destructor, and Get accessor.
+// ---
+
 #include "chromeos/ash/components/search_engines/template_url_service_provider.h"
 
 #include "base/check.h"

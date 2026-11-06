@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device settings cache test helper
+// summary: Template helper that updates the cached device settings policy data in local state for testing purposes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_DEVICE_SETTINGS_CACHE_TEST_SUPPORT_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_DEVICE_SETTINGS_CACHE_TEST_SUPPORT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Churn cohort use case implementation
+// summary: Implements the monthly churn cohort use case, running PSM OPRF membership checks and Fresnel check-in requests and updating local state on success.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/churn/cohort_impl.h"
 
 #include "ash/constants/ash_features.h"

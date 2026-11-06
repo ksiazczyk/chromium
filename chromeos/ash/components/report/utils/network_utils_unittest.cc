@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fresnel network utilities unit tests
+// summary: Unit tests validating the Fresnel base URL, endpoint URLs, request timeouts, response size limit, and resource request header generation.
+// ---
+
 #include "chromeos/ash/components/report/utils/network_utils.h"
 
 #include "base/time/time.h"

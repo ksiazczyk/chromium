@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnlockManagerImpl class declaration
+// summary: Declares UnlockManagerImpl, which drives the lock screen UI from remote device authentication status and observes messenger, proximity monitor, power manager and Bluetooth adapter events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_UNLOCK_MANAGER_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_UNLOCK_MANAGER_IMPL_H_
 

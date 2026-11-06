@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners inherited from the policy component
+summary: Delegates code ownership review to the owners of the chromeos ash policy component.

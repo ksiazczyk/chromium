@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for ONC policy value validation
+// summary: Template base that parses ONC JSON from policy payloads, validates it with the ONC validator, and reports issues.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_VALUE_VALIDATION_ONC_POLICY_VALUE_VALIDATOR_BASE_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_VALUE_VALIDATION_ONC_POLICY_VALUE_VALIDATOR_BASE_H_
 

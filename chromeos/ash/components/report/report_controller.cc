@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportController implementation
+// summary: Implements the controller that reports device actives and churn metrics to the Fresnel service, handling clock sync, network changes and preserved file saves.
+// ---
+
 #include "chromeos/ash/components/report/report_controller.h"
 
 #include "base/memory/weak_ptr.h"

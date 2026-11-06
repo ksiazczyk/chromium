@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevicePolicyBuilder template instantiation
+// summary: Implements the TypedPolicyBuilder specialization for ChromeDeviceSettingsProto, setting the device policy type and compiling the instantiation.
+// ---
+
 #include "chromeos/ash/components/policy/device_policy/device_policy_builder.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

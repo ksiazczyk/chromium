@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the device_local_account component
+summary: Defines the GN build target for the device_local_account component, listing its sources and dependencies on base, google_apis, and ash constants.

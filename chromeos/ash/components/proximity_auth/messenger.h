@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Easy Unlock messenger interface
+// summary: Defines the Messenger interface handling the Easy Unlock protocol for parsing remote events and sending local unlock messages.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_MESSENGER_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_MESSENGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler configuration manager implementation
+// summary: Implements the manager that applies scheduler configuration changes through the debug daemon D-Bus client, honoring prefs, feature parameters, and command line defaults.
+// ---
+
 #include "chromeos/ash/components/scheduler_config/scheduler_configuration_manager.h"
 
 #include <string>

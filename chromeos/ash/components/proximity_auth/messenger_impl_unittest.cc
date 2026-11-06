@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MessengerImpl
+// summary: Unit tests verifying that MessengerImpl sends the expected unlock event and unlock request messages and notifies observers of replies.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/messenger_impl.h"
 
 #include <memory>

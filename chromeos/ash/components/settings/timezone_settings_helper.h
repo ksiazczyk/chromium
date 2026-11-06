@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timezone matching helper header
+// summary: Declares GetKnownTimezoneOrNull, a helper that finds a known timezone matching an input timezone or returns null.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_TIMEZONE_SETTINGS_HELPER_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_TIMEZONE_SETTINGS_HELPER_H_
 

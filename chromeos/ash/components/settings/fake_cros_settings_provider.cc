@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake cros settings provider implementation
+// summary: Implements an in-memory fake CrosSettingsProvider that stores values in a pref value map and supports trusted status control for tests.
+// ---
+
 #include "chromeos/ash/components/settings/fake_cros_settings_provider.h"
 
 namespace ash {

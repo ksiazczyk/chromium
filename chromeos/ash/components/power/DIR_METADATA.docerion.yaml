@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Monorail component metadata for the power directory
+summary: Maps the directory to the OS>Kernel>Power monorail component used for issue tracking.

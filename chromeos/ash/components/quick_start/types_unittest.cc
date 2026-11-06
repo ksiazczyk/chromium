@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Quick Start type helpers
+// summary: Tests Base64UrlTranscode for invalid input, substitution of slash and plus characters, padding omission and equivalence of decoded padded input.
+// ---
+
 #include "chromeos/ash/components/quick_start/types.h"
 
 #include <optional>

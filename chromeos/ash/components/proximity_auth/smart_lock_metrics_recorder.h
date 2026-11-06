@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock metrics recorder declaration
+// summary: Declares SmartLockMetricsRecorder and the UMA enums for Smart Lock auth failure reasons, auth method choices and auth event password states, kept in sync with histograms metadata.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_SMART_LOCK_METRICS_RECORDER_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_SMART_LOCK_METRICS_RECORDER_H_
 

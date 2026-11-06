@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSettings singleton implementation
+// summary: Implements the global CrosSettings singleton that routes typed getters, trusted-value checks, and allowlist lookups to registered providers.
+// ---
+
 #include "chromeos/ash/components/settings/cros_settings.h"
 
 #include <stddef.h>

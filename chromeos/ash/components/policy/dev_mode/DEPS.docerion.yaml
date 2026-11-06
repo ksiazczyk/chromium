@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the dev_mode policy component
+summary: Grants the dev_mode component include access to ash constants and policy protocol headers.

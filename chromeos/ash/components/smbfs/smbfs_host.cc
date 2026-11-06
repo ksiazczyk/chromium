@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbFsHost implementation
+// summary: Implements SmbFsHost and its Mojo delegate to mount, unmount and communicate with smbfs, including credential handling.
+// ---
+
 #include "chromeos/ash/components/smbfs/smbfs_host.h"
 
 #include <utility>

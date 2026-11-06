@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device settings cache header
+// summary: Declares functions to register, store, retrieve and finalize a transient cache of device policy data before an owner is assigned.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_DEVICE_SETTINGS_CACHE_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_DEVICE_SETTINGS_CACHE_H_
 

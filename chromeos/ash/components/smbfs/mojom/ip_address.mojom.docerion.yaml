@@ -1,0 +1,4 @@
+# Docerion header of ip_address.mojom.
+type: source
+title: Mojom definition of the IPAddress struct
+summary: Defines the smbfs.mojom IPAddress struct mirroring net::IPAddress, shared between Chrome and Chrome OS for SMB share mounting.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System features disable list policy utils unit tests
+// summary: Unit tests verifying IsDisabledAppsModeHidden behavior for regular managed users and managed guest sessions using fake user manager and pref service setup.
+// ---
+
 #include "chromeos/ash/components/policy/system_features_disable_list/system_features_disable_list_policy_utils.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ash policy component
+summary: Defines the chromeos_ash_components_policy GN component, its public dependencies, and an aggregate unit_tests source set for policy subdirectories.

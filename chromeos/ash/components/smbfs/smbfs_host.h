@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbFsHost header for the smbfs Mojo connection
+// summary: Declares the SmbFsHost class that represents a connection to a running smbfs instance over Mojo, exposing unmount, saved-credential removal and recursive delete plus a Delegate interface.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SMBFS_SMBFS_HOST_H_
 #define CHROMEOS_ASH_COMPONENTS_SMBFS_SMBFS_HOST_H_
 

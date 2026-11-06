@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity monitor interface
+// summary: Declares the interface responsible for tracking whether the remote device is close enough to the local device to permit unlocking, with start, stop and metrics hooks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_PROXIMITY_MONITOR_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_PROXIMITY_MONITOR_H_
 

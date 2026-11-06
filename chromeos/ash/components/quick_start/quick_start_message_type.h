@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStartMessageType enum declaration
+// summary: Defines the QuickStartMessageType enum listing the payload types a Quick Start message can carry, such as bootstrap options and auth payloads.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_QUICK_START_QUICK_START_MESSAGE_TYPE_H_
 #define CHROMEOS_ASH_COMPONENTS_QUICK_START_QUICK_START_MESSAGE_TYPE_H_
 

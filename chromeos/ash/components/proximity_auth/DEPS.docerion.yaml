@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Proximity_auth include dependency rules
+summary: Specifies the include rules controlling which directories the proximity_auth code may depend on, with extra allowances for unit tests.

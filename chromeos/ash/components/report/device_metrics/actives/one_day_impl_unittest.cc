@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: One-day active use case unit tests
+// summary: Unit tests for the daily active use case, simulating PSM OPRF and query responses and Fresnel check-in flows with fake prefs and loaders.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/actives/one_day_impl.h"
 
 #include <memory>

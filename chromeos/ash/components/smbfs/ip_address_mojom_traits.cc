@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPAddress Mojo traits implementation
+// summary: Implements Mojo StructTraits that read a net::IPAddress from smbfs mojom messages, validating IPv4 and IPv6 sizes.
+// ---
+
 #include "chromeos/ash/components/smbfs/ip_address_mojom_traits.h"
 
 namespace mojo {

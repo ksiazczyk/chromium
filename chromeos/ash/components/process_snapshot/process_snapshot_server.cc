@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessSnapshotServer implementation
+// summary: Implements the singleton server that periodically snapshots running processes on a background task runner and notifies observers on the UI thread.
+// ---
+
 #include "chromeos/ash/components/process_snapshot/process_snapshot_server.h"
 
 #include <algorithm>

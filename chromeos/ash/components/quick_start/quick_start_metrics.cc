@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start metrics implementation
+// summary: Implements UMA histograms and structured metrics for Quick Start flows, covering challenge fetches, attestation, Wi-Fi transfer, advertisements and message receipt.
+// ---
+
 #include "chromeos/ash/components/quick_start/quick_start_metrics.h"
 
 #include <memory>

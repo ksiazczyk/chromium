@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for system_features_disable_list
+summary: Defines the GN build targets for the system_features_disable_list component and its unit tests, listing public headers, sources, and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the scheduler_config component
+summary: GN build file defining the scheduler_config static library and its unit test target with their sources and dependencies.

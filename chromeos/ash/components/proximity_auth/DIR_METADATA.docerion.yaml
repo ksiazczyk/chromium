@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Proximity_auth directory metadata
+summary: Records the Buganizer component ID and team email address responsible for the proximity_auth directory.

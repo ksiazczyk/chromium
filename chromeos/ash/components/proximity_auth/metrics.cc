@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity auth metrics recording implementation
+// summary: Records UMA histograms for the rolling RSSI at authentication and the remote device's screen lock and trust agent settings state.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/metrics.h"
 
 #include <algorithm>

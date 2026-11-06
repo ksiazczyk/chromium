@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeeklyTimeChecked class header
+// summary: Declares WeeklyTimeChecked, a policy-decoded weekly time with a Day enum and milliseconds since midnight, validated automatically during policy decoding.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_WEEKLY_TIME_CHECKED_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_WEEKLY_TIME_CHECKED_H_
 

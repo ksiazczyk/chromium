@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TwentyEightDayImpl use case class declaration
+// summary: Declares the TwentyEightDayImpl class, including actives cache handling and the two-phase PSM membership check for 28-day actives.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_ACTIVES_TWENTY_EIGHT_DAY_IMPL_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_ACTIVES_TWENTY_EIGHT_DAY_IMPL_H_
 

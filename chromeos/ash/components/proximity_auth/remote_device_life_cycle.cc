@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceLifeCycle state logging
+// summary: Implements stream output for RemoteDeviceLifeCycle states so life cycle state transitions can be logged in a readable form.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/remote_device_life_cycle.h"
 
 namespace proximity_auth {

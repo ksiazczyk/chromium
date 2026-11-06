@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteDeviceLifeCycleImpl implementation
+// summary: Implements the remote device life cycle by finding BLE secure channel connections, authenticating, and creating the messenger used for Smart Lock.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/remote_device_life_cycle_impl.h"
 
 #include <memory>

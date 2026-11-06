@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeeklyTimeInterval class header
+// summary: Declares WeeklyTimeInterval, a half-open interval between two weekly times that can wrap across the week boundary, with overlap and containment checks.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_WEEKLY_TIME_INTERVAL_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_WEEKLY_TIME_WEEKLY_TIME_INTERVAL_H_
 

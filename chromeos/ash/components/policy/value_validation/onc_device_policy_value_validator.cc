@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device policy ONC value validator implementation
+// summary: Extracts the OpenNetworkConfiguration string from Chrome device policy payloads so it can be validated.
+// ---
+
 #include "chromeos/ash/components/policy/value_validation/onc_device_policy_value_validator.h"
 
 #include "components/policy/policy_constants.h"

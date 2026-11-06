@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracking metadata
+summary: Maps the directory to the OS>Software>Data monorail component and a Buganizer component ID for bug filing.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the policy directory
+summary: Lists the enterprise-policy-review alias and individual owners preferred for reviewing changes in this directory.

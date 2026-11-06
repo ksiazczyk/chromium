@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the restriction schedule component
+summary: Lists the directories that code in the restriction_schedule folder is allowed to include from.

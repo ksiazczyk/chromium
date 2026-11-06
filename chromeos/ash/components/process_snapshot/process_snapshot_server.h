@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessSnapshotServer class declaration
+// summary: Declares the observer-based server that shares one regularly refreshed process snapshot among clients, refreshing at the fastest requested rate.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROCESS_SNAPSHOT_PROCESS_SNAPSHOT_SERVER_H_
 #define CHROMEOS_ASH_COMPONENTS_PROCESS_SNAPSHOT_PROCESS_SNAPSHOT_SERVER_H_
 

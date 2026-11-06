@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WeeklyTime unit tests
+// summary: Parameterized gtest suite verifying WeeklyTime construction, value serialization, and extraction from policy protos and dictionaries including invalid day and time inputs.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/weekly_time.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device settings cache implementation
+// summary: Stores and retrieves enterprise policy data as a base64 string in local state prefs for transient device settings storage.
+// ---
+
 #include "chromeos/ash/components/settings/device_settings_cache.h"
 
 #include <string>

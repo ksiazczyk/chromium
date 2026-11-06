@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the identity manager provider component
+summary: GN build file defining the identity_manager_provider component and the test_support source set with their sources and dependencies.

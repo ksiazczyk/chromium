@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity monitor base class implementation
+// summary: Implements observer registration and removal for the ProximityMonitor base class and notifies observers when the proximity state changes.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/proximity_monitor.h"
 
 namespace proximity_auth {

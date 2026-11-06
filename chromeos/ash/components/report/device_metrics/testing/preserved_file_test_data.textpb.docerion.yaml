@@ -1,0 +1,4 @@
+# Docerion header of preserved_file_test_data.textpb.
+type: data
+title: Preserved file test data textproto
+summary: Text protobuf test cases for PrivateComputingClientRegressionTestData covering get/save success and failure scenarios used by report unit tests.

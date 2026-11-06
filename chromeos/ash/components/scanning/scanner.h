@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner data structures and scan protocol declarations
+// summary: Declares the ScanProtocol enum, ScannerDeviceName struct, and Scanner struct describing scanner metadata, device names, and IP addresses.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SCANNING_SCANNER_H_
 #define CHROMEOS_ASH_COMPONENTS_SCANNING_SCANNER_H_
 

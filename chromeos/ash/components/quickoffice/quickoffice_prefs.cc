@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickOffice preference registration implementation
+// summary: Registers the quickoffice.force_file_download_enabled boolean profile preference, defaulting to true, with the syncable pref registry.
+// ---
+
 #include "chromeos/ash/components/quickoffice/quickoffice_prefs.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

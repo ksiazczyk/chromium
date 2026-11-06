@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity Auth profile pref manager implementation
+// summary: Implements the profile preference manager for Smart Lock/EasyUnlock, registering prefs and exposing getters and setters for enabled state, promotion timestamps and shown counts.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/proximity_auth_profile_pref_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash policy blocklist service factory implementation
+// summary: Implements the singleton factory that builds a PolicyBlocklistService with a URLBlocklistManager for each browser context in ash.
+// ---
+
 #include "chromeos/ash/components/policy/policy_blocklist_service/ash_policy_blocklist_service_factory.h"
 
 #include "base/no_destructor.h"

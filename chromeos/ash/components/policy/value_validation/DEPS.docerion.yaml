@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for value_validation
+summary: Declares the allowed include directories for code in the value_validation folder.

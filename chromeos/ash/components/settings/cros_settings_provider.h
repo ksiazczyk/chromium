@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosSettingsProvider abstract interface
+// summary: Defines the abstract provider interface for reading setting values, checking trusted status, and notifying observers about setting changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_CROS_SETTINGS_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_CROS_SETTINGS_PROVIDER_H_
 

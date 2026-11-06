@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device restriction schedule controller unit tests
+// summary: Tests the controller with sample policy values, a mock delegate and mock observers across time zones and schedule states.
+// ---
+
 #include "chromeos/ash/components/policy/restriction_schedule/device_restriction_schedule_controller.h"
 
 #include <memory>

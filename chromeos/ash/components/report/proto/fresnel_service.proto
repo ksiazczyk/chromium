@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fresnel service protobuf definitions
+// summary: Defines protobuf messages and enums for reporting ChromeOS device actives to the Fresnel server, covering device metadata, market segments, channels, and churn cohort data.
+// ---
+
 syntax = "proto2";
 
 package ash.report;

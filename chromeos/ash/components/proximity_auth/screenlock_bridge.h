@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenlockBridge interface
+// summary: Declares the ScreenlockBridge singleton with its LockHandler interface for Smart Lock lock screen actions and an observer interface for lock, unlock and focused user events.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_SCREENLOCK_BRIDGE_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_SCREENLOCK_BRIDGE_H_
 

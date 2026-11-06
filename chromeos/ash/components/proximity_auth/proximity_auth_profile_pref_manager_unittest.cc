@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proximity Auth profile pref manager unit tests
+// summary: Unit tests for the profile pref manager covering EasyUnlock allowed state, last promotion check timestamp and promotion shown count using a fake multidevice setup client.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/proximity_auth_profile_pref_manager.h"
 
 #include <algorithm>

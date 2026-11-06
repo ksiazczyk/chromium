@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceId implementation
+// summary: Implements DeviceId construction from dictionaries, integers, hex strings and disks, with range validation.
+// ---
+
 #include "chromeos/ash/components/policy/external_storage/device_id.h"
 
 #include <limits>

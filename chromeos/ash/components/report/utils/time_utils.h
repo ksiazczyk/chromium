@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time utilities header for reporting
+// summary: Declares time helpers for reporting, including GMT to PT conversion, month and year boundaries, VPD activate date parsing and timestamp formatting.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_UTILS_TIME_UTILS_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_UTILS_TIME_UTILS_H_
 

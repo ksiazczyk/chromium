@@ -1,3 +1,9 @@
+---
+type: readme
+title: Add Proto Test Data
+summary: Explains how to update the preserved textproto test cases, regenerate the binarypb with gqui, and run the report unit tests.
+---
+
 # Add Proto Test Data
 
 If you would like to update the \*_preserved_file.binarypb

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeeklyTimeChecked class implementation
+// summary: Implements WeeklyTimeChecked, a validated weekly time type without timezone info, with constructors from dictionaries, exploded times, local time, and time deltas.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/weekly_time_checked.h"
 
 #include <algorithm>

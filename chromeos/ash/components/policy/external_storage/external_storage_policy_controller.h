@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External storage policy controller header
+// summary: Declares static helpers that reconcile external storage disable, read-only and allowlist policies.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_EXTERNAL_STORAGE_EXTERNAL_STORAGE_POLICY_CONTROLLER_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_EXTERNAL_STORAGE_EXTERNAL_STORAGE_POLICY_CONTROLLER_H_
 

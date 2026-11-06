@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Quick Start decoder implementation
+// summary: Fake mojom QuickStartDecoder implementation that queues preset messages and decoder errors so tests can simulate decode results.
+// ---
+
 #include "fake_quick_start_decoder.h"
 
 #include "chromeos/ash/services/nearby/public/mojom/quick_start_decoder_types.mojom.h"

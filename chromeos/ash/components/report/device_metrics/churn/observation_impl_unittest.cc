@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ObservationImpl unit tests
+// summary: Unit tests for the churn observation use case using fake PSM responses, a test URL loader factory, and mock time.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/churn/observation_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for checked weekly time utilities
+// summary: Unit tests covering interval extraction from lists, containment checks and next event calculations for the checked weekly time utilities.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/checked_util.h"
 
 #include <optional>

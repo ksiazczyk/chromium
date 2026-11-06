@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnlockManagerImpl implementation
+// summary: Implements Smart Lock lock screen control, handling Bluetooth state, resume from sleep, proximity monitoring, authentication attempts, timeouts and related UMA metrics.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/unlock_manager_impl.h"
 
 #include <memory>

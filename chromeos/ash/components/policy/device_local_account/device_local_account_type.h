@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device local account type declarations
+// summary: Declares the DeviceLocalAccountType enum, matching DeviceLocalAccountInfoProto.AccountType, plus functions to validate, generate, and detect device-local account users.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_DEVICE_LOCAL_ACCOUNT_DEVICE_LOCAL_ACCOUNT_TYPE_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_DEVICE_LOCAL_ACCOUNT_DEVICE_LOCAL_ACCOUNT_TYPE_H_
 

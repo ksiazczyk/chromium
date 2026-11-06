@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fresnel preference name declarations
+// summary: Header declaring the exported preference name constants for ChromeOS device active pings and churn tracking in the ash::report::prefs namespace.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_PREFS_FRESNEL_PREF_NAMES_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_PREFS_FRESNEL_PREF_NAMES_H_
 

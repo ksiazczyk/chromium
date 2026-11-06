@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fresnel network utilities implementation
+// summary: Defines Fresnel server URLs, API key access, request timeouts, response size limit, and builds protobuf resource requests for device active reporting.
+// ---
+
 #include "chromeos/ash/components/report/utils/network_utils.h"
 
 #include "base/time/time.h"

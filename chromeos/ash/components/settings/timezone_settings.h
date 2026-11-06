@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimezoneSettings interface
+// summary: Declares the TimezoneSettings interface for getting and setting the Chrome OS timezone, listing timezones, and observing timezone changes.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_TIMEZONE_SETTINGS_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_TIMEZONE_SETTINGS_H_
 

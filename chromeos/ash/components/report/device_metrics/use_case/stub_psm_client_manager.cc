@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub PSM client manager delegate implementation
+// summary: Implements a stub PsmClientManager delegate for unit tests, returning preset OPRF requests, query requests, and membership responses with configurable cipher key and seed.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/use_case/stub_psm_client_manager.h"
 
 #include <utility>

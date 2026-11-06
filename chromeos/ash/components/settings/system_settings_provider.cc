@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemSettingsProvider implementation
+// summary: Implements a CrosSettingsProvider that serves system timezone setting values and notifies observers when the timezone changes.
+// ---
+
 #include "chromeos/ash/components/settings/system_settings_provider.h"
 
 #include <memory>

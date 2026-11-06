@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CohortImpl unit tests
+// summary: Unit tests for the churn cohort use case that simulate PSM OPRF and query responses and network check-in behavior with fake factories.
+// ---
+
 #include "chromeos/ash/components/report/device_metrics/churn/cohort_impl.h"
 
 #include <memory>

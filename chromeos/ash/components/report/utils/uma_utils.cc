@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA histogram recording implementation
+// summary: Implements recording of UMA histograms for device ping requirements, PSM network error codes and check membership response cases.
+// ---
+
 #include "chromeos/ash/components/report/utils/uma_utils.h"
 #include "base/metrics/histogram_functions.h"
 #include "base/strings/strcat.h"

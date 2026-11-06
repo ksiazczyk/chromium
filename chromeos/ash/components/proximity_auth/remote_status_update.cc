@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteStatusUpdate deserialization
+// summary: Parses serialized status update messages from the remote device into user presence, secure screen lock, and trust agent states.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/remote_status_update.h"
 
 #include "chromeos/ash/components/multidevice/logging/logging.h"

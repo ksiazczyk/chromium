@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for smbfs dependencies
+summary: DEPS rules allowing includes of mojo_bootstrap, ash disks and mojo core within the smbfs directory.

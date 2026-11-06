@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Quick Start directory metadata
+summary: Directory metadata assigning the ChromeOS cross-device engineering team email and a Buganizer component to this folder.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePath Mojo traits declaration
+// summary: Declares Mojo StructTraits mapping smbfs mojom FilePath messages to base::FilePath values.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SMBFS_FILE_PATH_MOJOM_TRAITS_H_
 #define CHROMEOS_ASH_COMPONENTS_SMBFS_FILE_PATH_MOJOM_TRAITS_H_
 

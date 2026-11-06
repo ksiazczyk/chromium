@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real PSM client manager delegate header
+// summary: Declares RealPsmClientManagerDelegate, the production implementation of PsmClientManager::Delegate that owns a real Private Membership RLWE client.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_USE_CASE_REAL_PSM_CLIENT_MANAGER_H_
 #define CHROMEOS_ASH_COMPONENTS_REPORT_DEVICE_METRICS_USE_CASE_REAL_PSM_CLIENT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WeeklyTimeIntervalChecked class implementation
+// summary: Implements WeeklyTimeIntervalChecked, building validated weekly intervals from dictionaries and computing duration and containment with week wrap-around.
+// ---
+
 #include "chromeos/ash/components/policy/weekly_time/weekly_time_interval_checked.h"
 
 #include <optional>

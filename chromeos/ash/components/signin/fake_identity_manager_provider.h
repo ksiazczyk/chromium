@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeIdentityManagerProvider class declaration
+// summary: Declares a test IdentityManagerProvider that maps account IDs to IdentityManager instances and installs itself as the process-wide provider on construction.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SIGNIN_FAKE_IDENTITY_MANAGER_PROVIDER_H_
 #define CHROMEOS_ASH_COMPONENTS_SIGNIN_FAKE_IDENTITY_MANAGER_PROVIDER_H_
 

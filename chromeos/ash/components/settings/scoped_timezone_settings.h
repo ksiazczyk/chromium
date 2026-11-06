@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped timezone settings header
+// summary: Declares ScopedTimezoneSettings, a helper to temporarily change the timezone in tests and restore the original value on destruction.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_SETTINGS_SCOPED_TIMEZONE_SETTINGS_H_
 #define CHROMEOS_ASH_COMPONENTS_SETTINGS_SCOPED_TIMEZONE_SETTINGS_H_
 

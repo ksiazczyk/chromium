@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash policy blocklist service factory header
+// summary: Declares AshPolicyBlocklistServiceFactory, a browser-context keyed service factory that lets Chrome defer to ash on ChromeOS.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_POLICY_POLICY_BLOCKLIST_SERVICE_ASH_POLICY_BLOCKLIST_SERVICE_FACTORY_H_
 #define CHROMEOS_ASH_COMPONENTS_POLICY_POLICY_BLOCKLIST_SERVICE_ASH_POLICY_BLOCKLIST_SERVICE_FACTORY_H_
 

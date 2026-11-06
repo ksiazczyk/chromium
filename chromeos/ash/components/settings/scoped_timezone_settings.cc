@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped timezone settings implementation
+// summary: Implements a scoped helper that temporarily changes the system timezone and restores the original timezone on destruction.
+// ---
+
 #include "chromeos/ash/components/settings/scoped_timezone_settings.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenlockBridge implementation
+// summary: Implements the ScreenlockBridge singleton that tracks lock screen state, lock and unlock requests, and the focused user, notifying registered observers of changes.
+// ---
+
 #include "chromeos/ash/components/proximity_auth/screenlock_bridge.h"
 
 #include <string>

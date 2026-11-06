@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteStatusUpdate types
+// summary: Defines enums for user presence, secure screen lock state, and trust agent state, plus the RemoteStatusUpdate struct deserialized from remote status messages.
+// ---
+
 #ifndef CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_REMOTE_STATUS_UPDATE_H_
 #define CHROMEOS_ASH_COMPONENTS_PROXIMITY_AUTH_REMOTE_STATUS_UPDATE_H_
 
