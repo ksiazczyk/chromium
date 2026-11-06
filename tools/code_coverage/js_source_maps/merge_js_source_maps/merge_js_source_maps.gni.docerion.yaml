@@ -1,0 +1,4 @@
+# Docerion header of merge_js_source_maps.gni.
+type: config
+title: GN template for merging JavaScript source maps
+summary: Defines a GN template that runs the Python merge script as a build action, wiring up inputs, outputs, and response files for inline JS source map merging.

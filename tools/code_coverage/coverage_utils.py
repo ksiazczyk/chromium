@@ -4,6 +4,12 @@
 #
 # The script intentionally does not have a shebang, as it is Py2/Py3 compatible.
 
+# ---docerion
+# type: source
+# title: Coverage report utilities
+# summary: Shared helpers for the coverage tools, including coverage summaries and Jinja-based HTML report generation for component, directory and file views.
+# ---
+
 import argparse
 from collections import defaultdict
 import functools

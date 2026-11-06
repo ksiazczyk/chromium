@@ -4,6 +4,12 @@
 
 // Test file for the v8_handle_migrate clang tool.
 
+// ---docerion
+// type: test
+// title: Original input for the parameter test case
+// summary: Input test case for the v8_handle_migrate clang tool with functions that take raw Handle parameters.
+// ---
+
 #include "base/handles.h"
 #include "base/objects.h"
 

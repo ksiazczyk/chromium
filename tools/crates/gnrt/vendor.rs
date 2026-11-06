@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gnrt vendor command implementation
+// summary: Implements the gnrt vendor command that downloads crates from crates.io into Chromium's vendor directory, applies patches, and updates vendored metadata such as README.chromium files.
+// ---
+
 use crate::config;
 use crate::crates::{self, Epoch};
 use crate::deps;

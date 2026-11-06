@@ -1,0 +1,4 @@
+# Docerion header of test_suite_mapper.py.
+type: script
+title: Map source files to test suites
+summary: Tool that maps a source file to its test suites by parsing gn_isolate_map.pyl and resolving GN target references for the file.

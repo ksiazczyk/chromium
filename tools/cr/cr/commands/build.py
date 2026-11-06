@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr build, clean and rebuild commands
+# summary: Implements the build, clean and rebuild commands as thin wrappers over the selected builder's Build, Clean and Rebuild methods.
+# ---
+
 """A module for the build commands."""
 
 import cr

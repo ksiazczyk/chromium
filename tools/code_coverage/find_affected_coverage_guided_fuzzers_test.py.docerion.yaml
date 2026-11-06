@@ -1,0 +1,4 @@
+# Docerion header of find_affected_coverage_guided_fuzzers_test.py.
+type: test
+title: Affected fuzzer finder tests
+summary: Unit tests for the affected fuzzer finder, mocking git diff, gn refs and subprocess calls to verify fuzzer mapping logic.

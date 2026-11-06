@@ -1,0 +1,4 @@
+# Docerion header of language_coverage_map.json.
+type: data
+title: Language coverage configuration map
+summary: Maps supported languages to the required GN args and gclient variables needed for code coverage builds.

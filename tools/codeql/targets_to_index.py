@@ -6,6 +6,12 @@
 # as the "source of truth" for what targets should be indexed, delete this file
 # and update the corresponding README.md appropriately.
 
+# ---docerion
+# type: config
+# title: Targets to index for CodeQL
+# summary: Defines the list of GN targets, currently d8 and chrome, that should be indexed when building CodeQL databases.
+# ---
+
 full_targets = [
   "d8",
   "chrome",

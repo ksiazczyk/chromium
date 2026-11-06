@@ -1,0 +1,4 @@
+# Docerion header of test_metadata4.json.
+type: test
+title: Cargo metadata test fixture 4
+summary: Cargo metadata for anyhow and its dev dependencies, used as gnrt test input.

@@ -6,6 +6,12 @@
 // run using the tools/clang/scripts/run_tool.py helper as described in
 // README.md
 
+// ---docerion
+// type: source
+// title: TraceAnnotator Clang tool implementation
+// summary: Implements a Clang tool using AST matchers to insert TRACE_EVENT tracing macros into function bodies while skipping templates, lambdas and macro locations.
+// ---
+
 #include <string>
 #include <vector>
 #include "clang/ASTMatchers/ASTMatchFinder.h"

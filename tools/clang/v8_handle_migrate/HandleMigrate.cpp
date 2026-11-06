@@ -5,6 +5,12 @@
 // A clang tool for the migration of Handle<T> to DirectHandle<T>.
 // This is only useful for the V8 code base.
 
+// ---docerion
+// type: source
+// title: Clang tool for Handle to DirectHandle migration
+// summary: Clang AST-matching tool that migrates v8::internal::Handle<T> usages to DirectHandle<T> in the V8 code base, with verbosity and scoping options.
+// ---
+
 #include <clang/AST/ASTContext.h>
 #include <clang/ASTMatchers/ASTMatchFinder.h>
 #include <clang/ASTMatchers/ASTMatchers.h>

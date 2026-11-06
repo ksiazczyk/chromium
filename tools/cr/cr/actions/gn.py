@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: GN build system support for cr
+# summary: Adds GN support to cr by preparing output directories, writing args.gn from collected GN_ARGS, and running gn gen.
+# ---
+
 """A module to add gn support to cr."""
 
 from __future__ import print_function

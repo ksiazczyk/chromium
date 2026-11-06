@@ -1,0 +1,4 @@
+# Docerion header of rewrite_directory.py.
+type: script
+title: Rewrite UNSAFE_TODO regions across a directory
+summary: Orchestrates the rewrite by checking GN build args, finding files with unsafe pragmas, building them with ninja, and applying UNSAFE_TODO fixes from compiler diagnostics.

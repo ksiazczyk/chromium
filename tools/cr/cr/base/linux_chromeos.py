@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Linux Chrome OS platform for cr
+# summary: Defines the LinuxChromeOSPlatform plugin that targets chromeos via the GN target_os argument with Linux binary and sandbox defaults.
+# ---
+
 """Linux Chrome OS platform."""
 
 import os

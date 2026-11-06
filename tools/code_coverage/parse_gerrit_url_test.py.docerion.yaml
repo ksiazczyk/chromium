@@ -1,0 +1,4 @@
+# Docerion header of parse_gerrit_url_test.py.
+type: test
+title: Unit tests for the Gerrit URL parser
+summary: Unit tests verifying Gerrit URL parsing across URL variants, query strings, and invalid inputs.

@@ -1,0 +1,4 @@
+# Docerion header of range_merger.py.
+type: script
+title: Merge overlapping source ranges
+summary: Provides merge_ranges to combine adjacent or overlapping line and column ranges, with simple assertion checks when run directly.

@@ -1,0 +1,4 @@
+# Docerion header of alignup_to_dcheck.ql.
+type: source
+title: AlignUp return value in DCHECK CodeQL query
+summary: CodeQL query that flags uses of the base::bits::AlignUp return value inside DCHECK macros, where space for the aligned bytes may be lacking.

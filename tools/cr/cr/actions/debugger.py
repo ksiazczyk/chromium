@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Debugger base class
+# summary: Defines the Debugger base class for debugger plugins, with Invoke and Attach methods and default restart and kill behavior.
+# ---
+
 """A module for the Debugger base class."""
 
 import cr

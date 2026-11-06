@@ -5,6 +5,12 @@
 //! Configures gnrt behavior. Types match `gnrt_config.toml` fields. Currently
 //! only used for std bindings.
 
+// ---docerion
+// type: source
+// title: gnrt configuration types matching gnrt_config.toml
+// summary: Defines the configuration types that mirror gnrt_config.toml fields, combining global and per-crate settings to drive gnrt's build behavior.
+// ---
+
 use crate::crates::Epoch;
 use crate::group::Group;
 

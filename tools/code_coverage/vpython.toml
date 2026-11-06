@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: vpython dependency specification
+# summary: vpython configuration pinning the Python version and dependencies such as OpenTelemetry, protobuf, and pyfakefs for this directory.
+# ---
+
 requires-python = '>=3.11,<3.12'
 dependencies = [
   'parameterized==0.7.1',

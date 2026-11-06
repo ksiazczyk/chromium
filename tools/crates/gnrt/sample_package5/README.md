@@ -1,3 +1,11 @@
+---
+type: readme
+title: sample_package5 README
+summary: Explains that this sample Cargo package provides recorded cargo metadata output used as test data for gnrt's version 2 feature resolver simulation.
+relations:
+  - documents /tools/crates/gnrt/lib/test_metadata5.json
+---
+
 This is a sample Cargo package to test `gnrt`'s dependency resolution. The
 output of `cargo metadata` is recorded and used as test data.
 

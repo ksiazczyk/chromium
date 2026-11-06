@@ -4,6 +4,12 @@
 
 //! Utilities for parsing and generating Cargo.toml files.
 
+// ---docerion
+// type: source
+// title: Cargo.toml parsing and generation utilities
+// summary: Provides types for parsing and generating Cargo.toml manifests, including package metadata and dependency specifications.
+// ---
+
 use std::collections::BTreeMap;
 
 use anyhow::{Context, Result};

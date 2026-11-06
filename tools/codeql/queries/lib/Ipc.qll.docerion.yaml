@@ -1,0 +1,4 @@
+# Docerion header of Ipc.qll.
+type: source
+title: Ipc CodeQL library for Mojo interfaces
+summary: CodeQL library modeling Mojo C++ interfaces and their non-abstract implementation classes, including methods that override interface methods.

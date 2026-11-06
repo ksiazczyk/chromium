@@ -1,0 +1,4 @@
+# Docerion header of table.html.
+type: source
+title: Coverage report table template
+summary: HTML template rendering the sortable coverage table with line, function and region coverage, filtering and totals.

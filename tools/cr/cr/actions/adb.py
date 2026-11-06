@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: ADB action implementations
+# summary: Wraps the adb command line to expose Android device operations such as run, kill, install, uninstall, test, and gdb attach to the rest of cr.
+# ---
+
 """A module to hold adb specific action implementations."""
 
 from __future__ import print_function

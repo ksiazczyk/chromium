@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Stack maps CMake build configuration
+# summary: CMake configuration that builds the GC library and the RegisterGcFunctions and IdentifySafepoints LLVM passes.
+# ---
+
 cmake_minimum_required(VERSION 3.1)
 
 find_package(LLVM REQUIRED CONFIG)

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack map parser implementation
+// summary: Parses the .llvm_stackmaps section into a safepoint table mapping return addresses to garbage collection roots.
+// ---
+
 #include "stack_map_parser.h"
 
 namespace stackmap {

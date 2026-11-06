@@ -1,0 +1,4 @@
+# Docerion header of cr-bash-helpers.sh.
+type: script
+title: cr bash helpers
+summary: Bash file to source that provides the cr function, crcd, prompt integration, and tab completion by delegating to main.py.

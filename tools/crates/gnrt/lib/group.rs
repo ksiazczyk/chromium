@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crate privilege group definitions
+// summary: Defines the privilege group enum (test, sandbox, safe) that ranks crate privilege levels in line with Chromium's Rule of Two.
+// ---
+
 use serde::{Deserialize, Serialize};
 use std::fmt::{Display, Error, Formatter};
 

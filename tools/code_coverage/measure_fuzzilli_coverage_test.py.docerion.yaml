@@ -1,0 +1,4 @@
+# Docerion header of measure_fuzzilli_coverage_test.py.
+type: test
+title: Tests for the Fuzzilli coverage tool
+summary: Unit tests verifying Fuzzilli execution, process group handling, environment setup, and coverage report generation in measure_fuzzilli_coverage.py.

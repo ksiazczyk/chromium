@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build configuration for string_piece_rewriters
+# summary: Defines the LLVM/Clang executable target, linked libraries, and install rule for the string_piece_rewriters tool.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

@@ -1,0 +1,4 @@
+# Docerion header of find_affected_coverage_guided_fuzzers.py.
+type: script
+title: Affected coverage-guided fuzzers finder
+summary: Identifies libfuzzer targets affected by files changed in a revision using GN refs and the Chromium coverage API.

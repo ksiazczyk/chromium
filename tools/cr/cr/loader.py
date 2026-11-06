@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Module scan and load system
+# summary: Recursively scans and imports all packages and modules below cr so that plugins can self-register with minimal boilerplate.
+# ---
+
 """Module scan and load system.
 
 The main interface to this module is the Scan function, which triggers a

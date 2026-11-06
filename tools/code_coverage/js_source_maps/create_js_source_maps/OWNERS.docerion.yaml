@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for create_js_source_maps
+summary: Lists benreich@chromium.org and tiborg@chromium.org as the owners of the create_js_source_maps directory.

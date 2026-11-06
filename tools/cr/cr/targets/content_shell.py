@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Content shell target definitions for the cr tool
+# summary: Defines the content_shell and content_shell_test targets with Android package and activity configuration.
+# ---
+
 """Module for the content_shell targets."""
 
 import cr

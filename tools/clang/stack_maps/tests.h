@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GC entry points for tests
+// summary: Declares the InitGC, GC and TeardownGC entry points used to drive garbage collection in stack map tests.
+// ---
+
 #ifndef TOOLS_CLANG_STACK_MAPS_TESTS_H_
 #define TOOLS_CLANG_STACK_MAPS_TESTS_H_
 

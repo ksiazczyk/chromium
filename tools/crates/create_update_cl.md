@@ -1,3 +1,13 @@
+---
+type: guide
+title: Updating Rust crates used by Chromium
+summary: Guide to the weekly rotation for updating crates.io Rust crates in Chromium, covering create_update_cl.py usage, transitive dependencies, major version updates, and failure recovery.
+relations:
+  - documents /tools/crates/create_update_cl.py
+  - references /third_party/rust/OWNERS
+  - references /third_party/rust/OWNERS-review-checklist.md
+---
+
 # Updating Rust crates used by Chromium
 
 This document describes how Chromium updates crates.io Rust crates that Chromium

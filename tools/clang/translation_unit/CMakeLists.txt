@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build file for the translation_unit tool
+# summary: Defines the LLVM executable build for translation_unit and links it against the required Clang libraries for installation.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

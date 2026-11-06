@@ -1,0 +1,4 @@
+# Docerion header of package.json.
+type: config
+title: npm package manifest for create_js_source_maps
+summary: Declares the npm package name, version, entry point and ES module type for the JavaScript source map creator.

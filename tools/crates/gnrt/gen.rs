@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gnrt gen command implementation
+// summary: Implements gnrt gen, resolving crate dependencies offline and generating BUILD.gn files for the Rust std library and vendored third-party crates.
+// ---
+
 use crate::config;
 use crate::crates::{self, CrateFiles, VendoredCrate};
 use crate::deps;

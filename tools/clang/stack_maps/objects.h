@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GC objects and handles header
+// summary: Declares HeapObject and Handle types with GC address-space and statepoint annotations used by the stack maps prototype.
+// ---
+
 #ifndef TOOLS_CLANG_STACK_MAPS_OBJECTS_H_
 #define TOOLS_CLANG_STACK_MAPS_OBJECTS_H_
 

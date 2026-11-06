@@ -1,0 +1,4 @@
+# Docerion header of get_task_digest.py.
+type: script
+title: Buildbucket CAS digest extractor
+summary: Extracts CAS isolate digest hashes for a target from Buildbucket build properties via the bb CLI.

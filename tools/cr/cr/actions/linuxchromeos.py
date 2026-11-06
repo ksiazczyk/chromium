@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Linux ChromeOS runner and installer actions
+# summary: Provides Linux ChromeOS runner and installer implementations that reuse the plain Linux behavior of executing the output binary.
+# ---
+
 """Linux ChromeOS specific implementations."""
 
 import cr

@@ -1,3 +1,11 @@
+---
+type: readme
+title: sample_package2 README
+summary: Explains that this sample Cargo package exists to test gnrt dependency resolution and that its cargo metadata output is recorded as test data in test_metadata2.json.
+relations:
+  - documents /tools/crates/gnrt/lib/test_metadata2.json
+---
+
 This is a sample Cargo package to test `gnrt`'s dependency resolution. The
 output of `cargo metadata` is recorded and used as test data.
 

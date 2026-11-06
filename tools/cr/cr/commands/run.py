@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr run command implementation
+# summary: Implements the cr run command that builds, installs and invokes a target, with options to skip build or install steps.
+# ---
+
 """A module for the run command."""
 
 import cr

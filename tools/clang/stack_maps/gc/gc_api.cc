@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GC API implementation
+// summary: Implements the semi-space heap, stack walking, on-stack root relocation and safepoint table printing for the test collector.
+// ---
+
 #include "gc_api.h"
 
 SafepointTable spt = GenSafepointTable();

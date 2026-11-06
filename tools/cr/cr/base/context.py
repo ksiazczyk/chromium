@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Application context management for cr
+# summary: Provides the shared cr context holding configuration variables, environment and command line arguments, including speculative argument parsing and config dumping.
+# ---
+
 """Application context management for the cr tool.
 
 Contains all the support code to enable the shared context used by the cr tool.

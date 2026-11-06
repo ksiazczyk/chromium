@@ -4,6 +4,12 @@
 
 // Test file for the v8_handle_migrate clang tool.
 
+// ---docerion
+// type: test
+// title: Original input for the with-prototypes test case
+// summary: Input test case for the v8_handle_migrate clang tool covering a function declared with multiple prototypes.
+// ---
+
 #include "base/handles.h"
 #include "base/objects.h"
 

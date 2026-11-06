@@ -1,0 +1,4 @@
+# Docerion header of test_translation_unit.py.
+type: test
+title: Test for the translation_unit tool
+summary: Python test that runs the translation_unit tool over test files and compares the generated filepath lists against expected outputs.

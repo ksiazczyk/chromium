@@ -1,6 +1,13 @@
 # Copyright 2013 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Command plugin base class for cr sub-commands
+# summary: Defines the Command plugin base class that cr sub-commands extend for parser setup, argument handling and execution.
+# ---
+
 """Module to hold the Command plugin."""
 
 import argparse

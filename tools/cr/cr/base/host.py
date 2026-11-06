@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Build host support for cr
+# summary: Defines the Host plugin base class that detects the machine, expands commands in context and launches external programs with dry run, capture and signal handling.
+# ---
+
 """Module for build host support."""
 
 from __future__ import print_function

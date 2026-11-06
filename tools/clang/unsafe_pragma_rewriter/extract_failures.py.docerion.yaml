@@ -1,0 +1,4 @@
+# Docerion header of extract_failures.py.
+type: script
+title: Extract failed files from compile logs
+summary: Reads a compile log from stdin and prints the sorted filenames that produced compile errors or warnings.

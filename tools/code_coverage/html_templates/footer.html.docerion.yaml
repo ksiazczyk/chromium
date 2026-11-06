@@ -1,0 +1,4 @@
+# Docerion header of footer.html.
+type: source
+title: Coverage report footer template
+summary: HTML template fragment that closes the page layout of generated code coverage reports.

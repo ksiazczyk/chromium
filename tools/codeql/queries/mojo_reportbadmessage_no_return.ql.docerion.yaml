@@ -1,0 +1,4 @@
+# Docerion header of mojo_reportbadmessage_no_return.ql.
+type: source
+title: Mojo ReportBadMessage call without return CodeQL query
+summary: CodeQL query that warns when mojo::ReportBadMessage is called in Chromium code without an immediately following return statement.

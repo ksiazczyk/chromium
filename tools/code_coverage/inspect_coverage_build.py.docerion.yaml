@@ -1,0 +1,4 @@
+# Docerion header of inspect_coverage_build.py.
+type: source
+title: LUCI code coverage build inspector
+summary: Programmatically inspects LUCI coverage builds via the bb CLI, verifying gclient config, GN args, pipeline steps, HTML reports, and uncovered lines.

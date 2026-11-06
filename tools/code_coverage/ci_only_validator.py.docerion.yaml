@@ -1,0 +1,4 @@
+# Docerion header of ci_only_validator.py.
+type: script
+title: CI-only test suite validator
+summary: Checks whether a test suite is barred by ci_only configuration by inspecting trybot targets and coverage GN args.

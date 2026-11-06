@@ -1,0 +1,4 @@
+# Docerion header of compile_test.py.
+type: script
+title: Compile Test Helper Script
+summary: Tries to compile a given C++ code snippet with the compiler from the CXX environment variable and prints configurable output depending on success, similar to configure script checks.

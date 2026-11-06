@@ -9,6 +9,12 @@
  * original TypeScript or JavaScript.
  */
 
+// ---docerion
+// type: source
+// title: Source map generator for preprocessed JavaScript and TypeScript
+// summary: Scans files processed by preprocess_if_expr for grit-removed-lines comments and builds source maps that map generated TypeScript or JavaScript back to the originals.
+// ---
+
 import fs from 'fs';
 import path from 'path';
 

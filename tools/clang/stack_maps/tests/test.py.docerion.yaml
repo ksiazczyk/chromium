@@ -1,0 +1,4 @@
+# Docerion header of test.py.
+type: test
+title: Stack map test harness
+summary: Python harness that compiles the stack map C++ tests through clang, opt and llc with GC passes, links the GC runtime, and runs the resulting executables.

@@ -4,6 +4,12 @@
 
 // Test file for the v8_handle_migrate clang tool.
 
+// ---docerion
+// type: test
+// title: Expected output for the with-prototypes test case
+// summary: Expected result of the v8_handle_migrate clang tool for a function that is declared with several prototypes before its definition.
+// ---
+
 #include "base/handles.h"
 #include "base/objects.h"
 

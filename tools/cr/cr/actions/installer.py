@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Installer base class
+# summary: Defines the Installer base class for install step plugins with Uninstall, Install, and Reinstall methods plus a skip variant.
+# ---
+
 """A module for the Installer base class."""
 
 import cr

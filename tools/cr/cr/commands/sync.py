@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr sync command implementation
+# summary: Implements the cr sync command, a thin wrapper that runs gclient sync with the environment set up for the selected output directory.
+# ---
+
 """A module for the sync command."""
 
 import os.path

@@ -1,0 +1,4 @@
+# Docerion header of create_js_source_maps.py.
+type: script
+title: Python entry point running the source map generator with Node
+summary: Parses command line arguments and invokes create_js_source_maps.js through the bundled Node runtime on behalf of the GN build rule.

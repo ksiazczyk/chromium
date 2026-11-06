@@ -1,0 +1,4 @@
+# Docerion header of create_js_source_maps.gni.
+type: config
+title: GN template for the create_js_source_maps build rule
+summary: Defines a GN template that runs the source map creation script as a build action, forwarding originals, sources, outputs and an optional inline source maps flag.

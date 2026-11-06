@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Cargo.toml for the bar sample package
+# summary: Cargo manifest defining the bar package with version 0.1.0, edition 2021, and an empty dependencies section.
+# ---
+
 [package]
 name = "bar"
 version = "0.1.0"

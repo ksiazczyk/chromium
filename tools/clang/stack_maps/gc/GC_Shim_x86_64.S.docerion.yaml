@@ -1,0 +1,4 @@
+# Docerion header of GC_Shim_x86_64.S.
+type: source
+title: x86-64 assembly GC shim
+summary: Assembly routines that record the top of stack and enter the stack-walking garbage collector by passing the frame pointer.

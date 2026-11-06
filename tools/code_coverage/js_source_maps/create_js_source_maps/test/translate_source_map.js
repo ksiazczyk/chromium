@@ -10,6 +10,12 @@
  * Helper for create_js_source_maps_test.py.
  */
 
+// ---docerion
+// type: test
+// title: Source map translation test helper
+// summary: Node script that applies a JavaScript source map to a given line and column and prints the corresponding original location, used as a helper by the Python source map tests.
+// ---
+
 import {ArgumentParser} from '../../../../../third_party/js_code_coverage/node_modules/argparse/argparse.js';
 import {SourceMapConsumer} from '../../../../../third_party/js_code_coverage/node_modules/source-map/source-map.js';
 

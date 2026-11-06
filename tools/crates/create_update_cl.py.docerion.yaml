@@ -1,0 +1,4 @@
+# Docerion header of create_update_cl.py.
+type: script
+title: Automate Rust crate updates and CL creation
+summary: Script that runs gnrt update, vendor, and gen to update Rust crates and uploads the resulting CLs to Gerrit, in auto or manual mode.

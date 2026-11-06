@@ -1,0 +1,4 @@
+# Docerion header of code_coverage_installer.py.
+type: script
+title: Code coverage dependencies installer
+summary: Verifies and installs code coverage dependencies such as the Chromium checkout, LLVM tools, recipes and service code.

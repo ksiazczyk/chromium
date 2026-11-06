@@ -1,3 +1,11 @@
+---
+type: readme
+title: UNSAFE_TODO() remover
+summary: Explains the prerequisites and usage of the tool that finds and removes UNSAFE_TODO() macros that have become safe to remove.
+relations:
+  - documents /tools/clang/unsafe_todo_remover/unsafe_todo_remover.py
+---
+
 # UNSAFE_TODO() remover
 
 `UNSAFE_TODO()` is a macro that disables the `-Wunsafe-buffer-usage` compiler

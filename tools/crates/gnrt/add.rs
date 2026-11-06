@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gnrt add command implementation
+// summary: Implements the gnrt add command, running cargo add for //third_party/rust and removing checksums from Cargo.lock afterwards.
+// ---
+
 use crate::paths;
 use crate::util::{remove_checksums_from_lock, run_cargo_command};
 use crate::AddCommandArgs;

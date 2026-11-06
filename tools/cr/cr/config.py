@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Configuration variable management for the cr tool
+# summary: Provides classes for hierarchical variable management that supply the command configuration controls of the cr tool.
+# ---
+
 """Configuration variable management for the cr tool.
 
 This holds the classes that support the hierarchical variable management used

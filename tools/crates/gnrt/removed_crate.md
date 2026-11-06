@@ -1,3 +1,9 @@
+---
+type: note
+title: Placeholder crates in gnrt vendoring
+summary: Explains when and why gnrt generates placeholder crates instead of vendoring real ones, such as for unsupported platforms or removed dependencies.
+---
+
 # Placeholder crates
 
 In some circumstances `tools/crates/run_gnrt.py vendor` will *not* vendor an

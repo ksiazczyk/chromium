@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr clobber command
+# summary: Implements the cr clobber command, which deletes all generated files from the current output directory via the build clobber script.
+# ---
+
 """A module for the clobber command."""
 
 from __future__ import print_function

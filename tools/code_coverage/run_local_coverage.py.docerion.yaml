@@ -1,0 +1,4 @@
+# Docerion header of run_local_coverage.py.
+type: script
+title: Local coverage reports for test binaries
+summary: Script that compiles a local test binary, merges LLVM profraw profiles, and exports coverage reports using pinned LLVM tools.

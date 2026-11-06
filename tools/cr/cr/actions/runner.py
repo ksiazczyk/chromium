@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Runner base class for cr targets
+# summary: Defines the Runner base class with Kill, Run, Test, Invoke and Restart methods plus a SkipRunner that bypasses the run step.
+# ---
+
 """A module for the Runner base class."""
 
 import cr

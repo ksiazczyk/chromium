@@ -1,0 +1,4 @@
+# Docerion header of remove_unsafe_pragma.py.
+type: script
+title: Remove allow_unsafe_buffers pragma blocks
+summary: 'Removes #pragma allow_unsafe_buffers blocks, including their UNSAFE_BUFFERS_BUILD guards and optional TODO comments, from files given on the command line.'

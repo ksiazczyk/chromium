@@ -1,3 +1,9 @@
+// ---docerion
+// type: test
+// title: Generated pre-merge JavaScript fixture with inline source maps
+// summary: JavaScript fixture containing two inline base64 source maps, used as input to test merging into a single map referencing the original TypeScript.
+// ---
+
 'use strict';
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be

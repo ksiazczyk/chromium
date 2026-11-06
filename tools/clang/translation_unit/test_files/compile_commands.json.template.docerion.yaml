@@ -1,0 +1,4 @@
+# Docerion header of compile_commands.json.template.
+type: config
+title: compile_commands.json.template
+summary: Template compile database defining clang++ commands for the translation unit tool test cases, including a relative sysroot case.

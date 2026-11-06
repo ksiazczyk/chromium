@@ -1,0 +1,4 @@
+# Docerion header of test_metadata2.json.
+type: test
+title: Cargo metadata test fixture 2
+summary: Larger cargo metadata snapshot used as gnrt test input, covering registry crates such as autocfg and calendrical_calculations.

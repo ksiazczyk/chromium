@@ -1,0 +1,4 @@
+# Docerion header of code_coverage_installer_test.py.
+type: test
+title: Unit tests for code_coverage_installer
+summary: Unit tests for the checkout, LLVM tools, recipes and service verification in code_coverage_installer.py.

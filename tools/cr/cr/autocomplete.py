@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Bash auto completion support
+# summary: Implements the special mode that returns lists of possible command completions for the current command line.
+# ---
+
 """Bash auto completion support.
 
 Contains the special mode that returns lists of possible completions for the

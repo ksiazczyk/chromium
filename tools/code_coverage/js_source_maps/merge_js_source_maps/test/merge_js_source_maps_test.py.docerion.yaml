@@ -1,0 +1,4 @@
+# Docerion header of merge_js_source_maps_test.py.
+type: test
+title: Unit tests for the JS source map merger
+summary: Python unittest that runs the source map merger via Node and verifies merged inline source maps resolve to positions in the original file.

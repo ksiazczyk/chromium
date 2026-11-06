@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Architecture plugins for cr
+# summary: Defines the Arch plugin base class and concrete ia32, mipsel, x64, arm and arm64 architecture targets with their environment setup values.
+# ---
+
 """A module for the basic architectures supported by cr."""
 
 import cr

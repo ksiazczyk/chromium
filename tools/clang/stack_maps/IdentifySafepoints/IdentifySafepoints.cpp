@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentifySafepoints LLVM function pass
+// summary: LLVM pass that detects single-element structs holding GC address-space pointers on the stack and marks such functions with the statepoint attribute.
+// ---
+
 #include "llvm/IR/Function.h"
 #include "llvm/IR/InstIterator.h"
 #include "llvm/IR/Instructions.h"

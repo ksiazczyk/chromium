@@ -1,0 +1,4 @@
+# Docerion header of inspect_coverage_build_test.py.
+type: test
+title: Unit tests for the coverage build inspector
+summary: Unit tests covering build ID parsing, build status checks, configuration auditing, and pipeline verification in inspect_coverage_build.py.

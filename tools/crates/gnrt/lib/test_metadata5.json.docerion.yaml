@@ -1,0 +1,4 @@
+# Docerion header of test_metadata5.json.
+type: test
+title: Cargo metadata test fixture 5
+summary: Cargo metadata for sample_package5 with a shared path dependency and build script, used as gnrt test input.

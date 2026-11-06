@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr prepare command implementation
+# summary: Implements the cr prepare command and the PrepareOut plugin base class that get an output directory ready for use, such as running the build file generator.
+# ---
+
 """A module for the prepare command."""
 
 import cr

@@ -1,0 +1,4 @@
+# Docerion header of merge_all_profdata.py.
+type: source
+title: Profdata merge tool
+summary: Merges all profdata files in a directory with llvm-profdata to produce a unified coverage report.

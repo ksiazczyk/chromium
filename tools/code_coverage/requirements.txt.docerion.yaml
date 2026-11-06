@@ -1,0 +1,4 @@
+# Docerion header of requirements.txt.
+type: config
+title: Python package requirements
+summary: Pins the Jinja2 dependency used by the code coverage tooling.

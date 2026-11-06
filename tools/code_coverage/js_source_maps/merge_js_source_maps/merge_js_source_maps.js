@@ -7,6 +7,12 @@
  * file to an output directory.
  */
 
+// ---docerion
+// type: source
+// title: JavaScript tool to merge inline source maps
+// summary: Reads inline base64 source maps from input files, merges them into a single source map, and writes the merged results to the output directory.
+// ---
+
 import fs from 'fs';
 import path from 'path';
 

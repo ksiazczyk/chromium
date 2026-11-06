@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Visitor framework for config node trees
+# summary: Implements Visitor and Node classes used to search, trace and export variables across the hierarchical configuration tree.
+# ---
+
 """."""
 
 import collections

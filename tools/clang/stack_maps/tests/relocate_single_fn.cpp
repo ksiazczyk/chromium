@@ -9,6 +9,12 @@
 // deref the value after this call should yield the same object that was
 // initially allocated.
 
+// ---docerion
+// type: test
+// title: Relocation of on-stack roots in a single function
+// summary: C++ test verifying that on-stack roots inside one function are updated to point at relocated objects after a GC collection.
+// ---
+
 #include <assert.h>
 #include "objects.h"
 #include "tests.h"

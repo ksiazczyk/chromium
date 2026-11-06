@@ -1,0 +1,4 @@
+# Docerion header of get_task_digest_test.py.
+type: test
+title: CAS digest extractor tests
+summary: Unit tests for the CAS digest extractor, covering input and output properties, swarming triggers and child build fallbacks.

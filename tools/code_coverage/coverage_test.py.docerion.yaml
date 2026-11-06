@@ -1,0 +1,4 @@
+# Docerion header of coverage_test.py.
+type: test
+title: Coverage tools integration tests
+summary: Runs end-to-end tests for the coverage script by building targets and verifying generated component, directory and file coverage views.

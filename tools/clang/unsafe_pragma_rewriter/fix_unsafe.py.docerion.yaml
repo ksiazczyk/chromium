@@ -1,0 +1,4 @@
+# Docerion header of fix_unsafe.py.
+type: script
+title: Wrap unsafe code regions in UNSAFE_TODO macros
+summary: Parses clang diagnostics from stdin and edits source files in place, wrapping unsafe ranges with UNSAFE_TODO(...) after merging overlapping fixes.

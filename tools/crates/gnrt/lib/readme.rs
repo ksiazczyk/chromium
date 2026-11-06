@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: README.chromium file generation for crates
+// summary: Generates README.chromium files for vendored packages, deriving license, security-critical, and shipping metadata from config and Cargo manifests.
+// ---
+
 use crate::config::BuildConfig;
 use crate::group::Group;
 use crate::paths::{self, get_build_dir_for_package, get_vendor_dir_for_package};

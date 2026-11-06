@@ -1,0 +1,4 @@
+# Docerion header of merge_js_source_maps.py.
+type: script
+title: Python wrapper to run the source map merger
+summary: Command-line entry point that parses arguments and invokes the Node.js source map merger through the bundled node runner.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: test.h test fixture header
+// summary: Header defining a distribution-count helper that also includes binomial.h for the translation unit tool tests.
+// ---
+
 #ifndef TOOLS_CLANG_TRANSLATION_UNIT_TEST_FILES_TEST_H_
 #define TOOLS_CLANG_TRANSLATION_UNIT_TEST_FILES_TEST_H_
 

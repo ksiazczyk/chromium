@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gnrt fmt command implementation
+// summary: Implements the gnrt fmt command, formatting gnrt_config.toml and the third-party Cargo.toml with toml_edit.
+// ---
+
 use anyhow::Result;
 use gnrt_lib::paths;
 use gnrt_lib::toml_edit_utils::{self, FormatOptions, GNRT_CONFIG_FORMAT_OPTIONS};

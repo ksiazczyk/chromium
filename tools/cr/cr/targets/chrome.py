@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Chrome target definitions for the cr tool
+# summary: Defines the chrome and chrome_test targets, including run arguments and instrumentation test configuration.
+# ---
+
 """Module for the chrome targets."""
 
 import cr

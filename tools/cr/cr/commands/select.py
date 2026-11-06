@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr select command implementation
+# summary: Implements the cr select command that writes the chosen output directory into the client config as the default and prepares it.
+# ---
+
 """A module for the select command."""
 
 import cr

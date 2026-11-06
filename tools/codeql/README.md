@@ -1,3 +1,9 @@
+---
+type: readme
+title: CodeQL & Chromium
+summary: Explains how to run CodeQL queries on Chromium using VSCode or the command line, covering database downloads, setup steps, known issues, and automation.
+---
+
 # CodeQL & Chromium
 
 This directory contains:

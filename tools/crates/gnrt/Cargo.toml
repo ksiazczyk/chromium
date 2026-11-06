@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Cargo manifest for the gnrt tool
+# summary: Defines the gnrt Rust package with its gnrt_lib library and gnrt binary, plus build, runtime, and dev dependencies.
+# ---
+
 [package]
 name = "gnrt"
 version = "0.0.0"

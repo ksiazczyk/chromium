@@ -1,0 +1,4 @@
+# Docerion header of crtbegin.o.
+type: asset
+title: crtbegin.o
+summary: Empty crtbegin.o object file acting as a GCC sysroot fixture for the Clang translation unit tests.

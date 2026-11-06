@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Build type plugins for cr
+# summary: Defines the BuildType plugin base class and the Debug and Release build types that map to the BUILDTYPE variable and output directory level.
+# ---
+
 """A module for the basic build type support in cr."""
 
 import cr

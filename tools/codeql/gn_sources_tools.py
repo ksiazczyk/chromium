@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: GN transitive source helpers
+# summary: Provides helpers that collect all transitive source dependencies of a GN target, forming the minimal set of sources needed to build a CodeQL database.
+# ---
+
 import subprocess
 import multiprocessing
 import functools

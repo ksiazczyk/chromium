@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CMake build file for the trace_annotator tool
+# summary: Defines the trace_annotator executable build and links it against the required LLVM and Clang libraries for installation.
+# ---
+
 set(LLVM_LINK_COMPONENTS
   BitReader
   MCParser

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr tool main module
+# summary: Python entry point of the cr tool that loads plugins, builds the command context, validates the build directory, and runs the requested command.
+# ---
+
 """Chromium cr tool main module.
 
 Holds the main function and all it's support code.

@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: CodeQL database integrity validator
+# summary: Scans CodeQL extractor logs to detect errors affecting database integrity and reports the log files with problematic or unknown errors.
+# ---
+
 """Given a path to a directory of CodeQL logs, this script analyzes the
 contents of those logs to determine whether the CodeQL extractor encountered
 any errors that affect the integrity of the finalized database.

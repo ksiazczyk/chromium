@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: gnrt .gitignore
+# summary: Keeps Cargo build artifacts in the target directory out of version control for the gnrt tool.
+# ---
+
 target/

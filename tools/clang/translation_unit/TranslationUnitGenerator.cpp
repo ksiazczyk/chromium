@@ -8,6 +8,12 @@
 // compilation unit, a file is created containing a list of all file paths of
 // included files.
 
+// ---docerion
+// type: source
+// title: TranslationUnitGenerator Clang tool
+// summary: Clang tool that determines, for each compilation unit, all source files needed to recompile it and writes a file listing their paths.
+// ---
+
 #include <assert.h>
 #include <fstream>
 #include <iostream>

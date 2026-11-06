@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: cr init command for output directories
+# summary: Implements the cr init command, which creates or updates an output directory configuration and prepares it for use.
+# ---
+
 """A module for the init command."""
 
 from __future__ import print_function

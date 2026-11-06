@@ -1,0 +1,4 @@
+# Docerion header of fetch_coverage_metrics.py.
+type: script
+title: Per-CL coverage metrics fetcher
+summary: Fetches per-CL coverage metrics and uncovered lines from the FindIt API and Gerrit REST API.

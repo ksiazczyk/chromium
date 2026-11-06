@@ -4,6 +4,12 @@
 
 // Test file for the v8_handle_migrate clang tool.
 
+// ---docerion
+// type: test
+// title: 'v8_handle_migrate test: explicit indirect expected output'
+// summary: Expected output of the v8_handle_migrate clang tool test covering explicit Handle and IndirectHandle locals passed to DirectHandle consumers.
+// ---
+
 #include "base/handles.h"
 #include "base/objects.h"
 

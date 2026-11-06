@@ -1,0 +1,4 @@
+# Docerion header of run_local_coverage_test.py.
+type: test
+title: Unit tests for local coverage tooling
+summary: Unit tests for run_local_coverage.py covering LLVM tool resolution, profile merging, and the CLI workflow with mocked subprocesses.

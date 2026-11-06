@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Mac host and platform implementation for cr
+# summary: Defines MacHost and MacPlatform with default code paths, binary location and chrome devel sandbox settings for macOS.
+# ---
+
 """The mac specific host and platform implementation module."""
 
 import os

@@ -8,6 +8,12 @@
 # The main point of this test it checking if `icu_capi`'s dependencies will
 # be trimmed because only a small set of crate features is enabled below.
 
+# ---docerion
+# type: config
+# title: sample_package2 Cargo manifest
+# summary: Cargo manifest for sample_package2, used as test input for gnrt unit tests to check that icu_capi dependencies are trimmed when only selected features are enabled.
+# ---
+
 [package]
 name = "sample_package2"
 version = "0.1.0"

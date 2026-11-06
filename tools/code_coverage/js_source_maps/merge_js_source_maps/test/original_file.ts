@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 // clang-format off
 
+// ---docerion
+// type: test
+// title: Original TypeScript fixture for source map merge tests
+// summary: TypeScript fixture with GRiT conditional code and TS-only constructs serving as the original source for the merge test.
+// ---
+
 // <if expr="is_macosx">
 function thisIsRemoved(): boolean {
   return true;

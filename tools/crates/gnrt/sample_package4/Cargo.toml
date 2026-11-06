@@ -9,6 +9,12 @@
 # crates that are transitively used here (`prost-derive`) and conditions
 # inferred for *their* transitive depenencies (e.g. `anyhow`).
 
+# ---docerion
+# type: config
+# title: Cargo manifest for gnrt test package sample_package4
+# summary: Cargo manifest used as test input for gnrt unit tests, checking conditions inferred for proc-macro crates like prost-derive and their transitive dependencies.
+# ---
+
 [package]
 name = "sample_package4"
 version = "0.1.0"

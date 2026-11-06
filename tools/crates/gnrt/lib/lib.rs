@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: gnrt library root module
+// summary: Root module of the gnrt library, declaring modules for configuration, crates, dependencies, GN generation, and related utilities.
+// ---
+
 #![forbid(unsafe_op_in_unsafe_fn)]
 #![forbid(unsafe_code)]
 

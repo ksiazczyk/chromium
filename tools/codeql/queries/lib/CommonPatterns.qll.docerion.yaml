@@ -1,0 +1,4 @@
+# Docerion header of CommonPatterns.qll.
+type: source
+title: CommonPatterns CodeQL library for call and return checks
+summary: CodeQL library providing a predicate that detects function calls not followed by a return statement in the enclosing or subsequent block.
