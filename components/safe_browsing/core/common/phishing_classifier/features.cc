@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing feature map and feature name constants
+// summary: Implements FeatureMap with size and value limits and defines the feature name constants for the client-side phishing detection model.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/features.h"
 
 #include "base/feature_list.h"

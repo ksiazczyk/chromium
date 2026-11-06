@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab group model unit tests
+// summary: Unit tests for SavedTabGroupModel covering add, remove, update, reorder, and observer notification behavior.
+// ---
+
 #include "components/saved_tab_groups/internal/saved_tab_group_model.h"
 
 #include <map>

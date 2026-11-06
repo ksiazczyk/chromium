@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync personal collaboration data handler header
+// summary: Declares a handler that observes the saved tab group model and personal collaboration data service to keep collaboration account data in sync with tab groups.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_TAB_GROUP_SYNC_PERSONAL_COLLABORATION_DATA_HANDLER_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_TAB_GROUP_SYNC_PERSONAL_COLLABORATION_DATA_HANDLER_H_
 

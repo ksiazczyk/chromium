@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the saved tab groups proto library
+summary: Defines the proto_library build target that compiles the four tab group proto files and depends on the sync protocol.

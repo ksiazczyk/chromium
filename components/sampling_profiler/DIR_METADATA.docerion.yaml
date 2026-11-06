@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the sampling profiler
+summary: Maps the directory to the Monorail component and Buganizer component used for filing issues about the sampling profiler.

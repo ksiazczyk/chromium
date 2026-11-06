@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phishing image embedder implementation
+// summary: Implements PhishingImageEmbedder, which runs the TfLite image embedding model and extracts visual features from page screenshots.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/phishing_image_embedder.h"
 
 #include <utility>

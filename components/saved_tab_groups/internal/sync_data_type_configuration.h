@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync data type configuration declaration
+// summary: Declares a struct bundling a sync change processor and data type store factory used to configure a specific sync data type.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SYNC_DATA_TYPE_CONFIGURATION_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SYNC_DATA_TYPE_CONFIGURATION_H_
 

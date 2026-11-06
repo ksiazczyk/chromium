@@ -1,0 +1,4 @@
+# Docerion header of visual_utils_ios.mm.
+type: source
+title: iOS image resizing for visual features
+summary: Implements iOS-specific resizing of images via CoreGraphics to produce SkBitmaps for visual feature extraction without extra resampling.

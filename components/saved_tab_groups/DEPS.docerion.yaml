@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed dependency include rules
+summary: Lists the headers and directories that saved_tab_groups code may include, covering data sharing, sync, signin, prefs, and UI dependencies.

@@ -5,6 +5,13 @@
 // This file is used for testing only. It contains a subset of fields from
 // components/sync/protocol/shared_tab_group_data_specifics.proto with
 // additional fields for testing purposes.
+
+// ---docerion
+// type: source
+// title: Extended shared tab group data specifics proto for tests
+// summary: Test-only protobuf definitions mirroring shared tab group data specifics with additional fields for testing.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

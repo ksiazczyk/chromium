@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Versioning message controller implementation
+// summary: Implements the versioning message controller that computes Chrome version state from data sharing feature flags and manages update message preferences for shared tab groups.
+// ---
+
 #include "components/saved_tab_groups/internal/versioning_message_controller_impl.h"
 
 #include "base/functional/bind.h"

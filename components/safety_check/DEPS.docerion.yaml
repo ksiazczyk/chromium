@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies for safety check
+summary: Lists the directories whose headers the safety check component is allowed to include.

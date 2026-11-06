@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Safe Browsing iOS WebUI feature flag definition
+summary: Defines kSafeBrowsingTrustedURL as disabled by default.

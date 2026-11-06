@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StartupHelper unit tests
+// summary: Unit tests verifying that StartupHelper closes deleted groups and saves or closes unsaved local groups on startup using mock service and delegate.
+// ---
+
 #include "components/saved_tab_groups/internal/startup_helper.h"
 
 #include "base/uuid.h"

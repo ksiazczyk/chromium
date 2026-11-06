@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the TabGroupSyncService Android bridge
+// summary: Tests the Android JNI bridge for the tab group sync service using a mock native service, conversion utilities and a Java test observer.
+// ---
+
 #include "components/saved_tab_groups/internal/android/tab_group_sync_service_android.h"
 
 #include <memory>

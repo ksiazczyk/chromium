@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup helper implementation
+// summary: Implements startup logic that closes deleted or unsaved local tab groups and migrates local groups into the sync database on first launch.
+// ---
+
 #include "components/saved_tab_groups/internal/startup_helper.h"
 
 #include "base/uuid.h"

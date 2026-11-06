@@ -1,0 +1,4 @@
+# Docerion header of csd.fbs.
+type: source
+title: Visual features flatbuffer schema
+summary: FlatBuffers schema defining the VisualFeatures and ColorHistogramBin tables used by the Safe Browsing client model.

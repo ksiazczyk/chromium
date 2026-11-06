@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for hash real-time utils
+// summary: Tests URL eligibility, hash detail relevance, and session and location eligibility logic for hash-prefix real-time lookups.
+// ---
+
 #include "components/safe_browsing/core/common/hashprefix_realtime/hash_realtime_utils.h"
 
 #include "base/test/metrics/histogram_tester.h"

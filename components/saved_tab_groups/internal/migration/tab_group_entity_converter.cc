@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group entity converter implementation
+// summary: Implements conversion of saved tab group sync entities between the private SavedTabGroupSpecifics format and the shared SharedTabGroupData format for groups and tabs.
+// ---
+
 #include "components/saved_tab_groups/internal/migration/tab_group_entity_converter.h"
 
 #include "components/sync/protocol/entity_data.h"

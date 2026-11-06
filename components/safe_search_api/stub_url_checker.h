@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub URL checker helper for SafeSearch API tests
+// summary: Declares StubURLChecker, a test helper that stubs out a URLLoaderFactory so tests can control the SafeSearch API responses received by URLChecker.
+// ---
+
 #ifndef COMPONENTS_SAFE_SEARCH_API_STUB_URL_CHECKER_H_
 #define COMPONENTS_SAFE_SEARCH_API_STUB_URL_CHECKER_H_
 

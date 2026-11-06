@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing feature definitions
+// summary: Implements Safe Browsing base features and their field trial parameters, such as ad sampling, notification revocation, and client-side detection options.
+// ---
+
 #include "components/safe_browsing/core/common/features.h"
 
 #include <stddef.h>

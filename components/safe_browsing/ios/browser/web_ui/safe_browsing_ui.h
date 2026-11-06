@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing iOS WebUI controller header
+// summary: Declares the iOS WebUI controller class for the Safe Browsing page and the CRSBLOG logging macro used when listeners are attached.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_SAFE_BROWSING_UI_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_SAFE_BROWSING_UI_H_
 

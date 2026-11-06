@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the search component
+summary: Lists the dependencies that code in the search component is allowed to include, such as search_engines and network services.

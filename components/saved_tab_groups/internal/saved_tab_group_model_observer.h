@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group model observer interface
+// summary: Declares the SavedTabGroupModelObserver interface that notifies listeners about local and sync changes to saved tab groups.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SAVED_TAB_GROUP_MODEL_OBSERVER_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SAVED_TAB_GROUP_MODEL_OBSERVER_H_
 

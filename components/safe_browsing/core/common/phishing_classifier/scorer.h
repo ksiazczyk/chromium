@@ -9,6 +9,12 @@
 //
 // See features.h for a list of features that are currently used.
 
+// ---docerion
+// type: source
+// title: Scorer class declaration
+// summary: Declares the Scorer abstract class that loads a client-side model and computes phishing scores, including TfLite visual model support.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_SCORER_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_PHISHING_CLASSIFIER_SCORER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub feature flag and parameters
+// summary: Defines the kSafetyHub feature and parameters controlling background password check intervals and per-weekday scheduling weights.
+// ---
+
 #include "components/safety_check/features.h"
 
 #include "base/feature_list.h"

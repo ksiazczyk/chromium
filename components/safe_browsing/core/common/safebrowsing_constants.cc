@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing shared constants definitions
+// summary: Defines shared Safe Browsing constants such as file names, histogram names, interstitial report field names, and user action values.
+// ---
+
 #include "components/safe_browsing/core/common/safebrowsing_constants.h"
 
 #include "components/safe_browsing/core/common/features.h"

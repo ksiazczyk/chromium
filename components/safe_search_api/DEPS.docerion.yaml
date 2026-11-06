@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include dependencies for the directory
+summary: Declares include rules permitting dependencies on Google core common, google_apis, net, and the network service.

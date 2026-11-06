@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity check URL constant header
+// summary: Declares the gstatic connectivity check URL constant that returns HTTP 204.
+// ---
+
 #ifndef COMPONENTS_SAFETY_CHECK_URL_CONSTANTS_H_
 #define COMPONENTS_SAFETY_CHECK_URL_CONSTANTS_H_
 

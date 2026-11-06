@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing command-line switch declarations
+// summary: Declares constants for command-line switches that control Safe Browsing verdict overrides, testing flags, and feature toggles.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFEBROWSING_SWITCHES_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFEBROWSING_SWITCHES_H_
 

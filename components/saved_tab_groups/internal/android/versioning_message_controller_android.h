@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersioningMessageController Android bridge header
+// summary: Declares the VersioningMessageControllerAndroid helper class that bridges the versioning message controller between C++ and Java.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_ANDROID_VERSIONING_MESSAGE_CONTROLLER_ANDROID_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_ANDROID_VERSIONING_MESSAGE_CONTROLLER_ANDROID_H_
 

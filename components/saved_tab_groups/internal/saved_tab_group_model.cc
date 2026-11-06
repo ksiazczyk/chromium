@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group model implementation
+// summary: Implements the SavedTabGroupModel that maintains the state of saved and shared tab groups, with local and sync mutations and metrics.
+// ---
+
 #include "components/saved_tab_groups/internal/saved_tab_group_model.h"
 
 #include <algorithm>

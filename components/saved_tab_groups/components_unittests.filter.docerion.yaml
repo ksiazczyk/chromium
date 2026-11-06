@@ -1,0 +1,4 @@
+# Docerion header of components_unittests.filter.
+type: config
+title: Unit test filter patterns
+summary: Lists the test suite name patterns included when running components_unittests for the saved tab groups code.

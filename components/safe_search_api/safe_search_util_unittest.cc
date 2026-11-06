@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SafeSearch utilities
+// summary: Verifies that SafeSearch parameters are added to Google search and home page URLs and that YouTube Restrict headers are set correctly.
+// ---
+
 #include "components/safe_search_api/safe_search_util.h"
 
 #include "net/http/http_request_headers.h"

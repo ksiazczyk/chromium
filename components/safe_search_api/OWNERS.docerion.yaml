@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file delegating to supervised user owners
+summary: Delegates code ownership of the directory to the owners listed in components/supervised_user/OWNERS.

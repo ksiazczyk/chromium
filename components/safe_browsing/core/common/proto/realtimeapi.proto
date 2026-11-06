@@ -5,6 +5,12 @@
 // This proto file includes the protocol buffers for communicating with the Safe
 // Browsing Real Time API.
 
+// ---docerion
+// type: source
+// title: Safe Browsing Real Time API protos
+// summary: Defines protocol buffers for requests and responses of the Safe Browsing Real Time lookup API, including referrer chains and enterprise metadata.
+// ---
+
 syntax = "proto2";
 
 package safe_browsing;

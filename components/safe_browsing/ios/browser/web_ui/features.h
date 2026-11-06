@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing iOS WebUI feature flag header
+// summary: Declares the feature flag that enables the trusted Safe Browsing WebUI page on iOS.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_FEATURES_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_FEATURES_H_
 

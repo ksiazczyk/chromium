@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_feature_cache_unittest.mm.
+type: test
+title: Client side detection feature cache unit tests
+summary: Verifies that the detection cache is correctly attached to and retrieved from a WebState.

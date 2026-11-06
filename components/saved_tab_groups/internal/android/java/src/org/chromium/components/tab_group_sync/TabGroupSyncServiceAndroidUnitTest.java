@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync service Android unit test
+// summary: Unit test verifying JNI conversions for TabGroupSyncServiceImpl, covering tab group and tab IDs, SavedTabGroup models, and mutation and observation calls.
+// ---
+
 package org.chromium.components.tab_group_sync;
 
 import static org.mockito.ArgumentMatchers.anyString;

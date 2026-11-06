@@ -1,0 +1,4 @@
+# Docerion header of improved_metadata.mojom.
+type: source
+title: Improved schema.org metadata mojom definitions
+summary: Mojom definitions for improved schema.org metadata entities, forked from metadata.mojom to allow iterative changes without breaking clank.

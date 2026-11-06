@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing URL allow list header
+// summary: Declares a WebState-attached list that tracks allowed and pending unsafe-navigation decisions per threat type.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_SAFE_BROWSING_URL_ALLOW_LIST_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_SAFE_BROWSING_URL_ALLOW_LIST_H_
 

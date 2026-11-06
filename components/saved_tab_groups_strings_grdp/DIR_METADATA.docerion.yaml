@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for saved tab groups strings
+summary: Declares the Monorail component and public Buganizer component ID that track issues for this directory.

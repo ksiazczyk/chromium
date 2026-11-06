@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hash real-time lookup utility declarations
+// summary: Declares constants, the HashRealTimeSelection enum, and helper functions governing hash-prefix real-time lookup eligibility.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_HASHPREFIX_REALTIME_HASH_REALTIME_UTILS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_HASHPREFIX_REALTIME_HASH_REALTIME_UTILS_H_
 

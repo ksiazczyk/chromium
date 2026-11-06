@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIIOSInfoSingleton class declaration
+// summary: Declares WebUIIOSInfoSingleton, the iOS Safe Browsing WebUI singleton that posts log messages and exposes a cookie manager.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_WEB_UI_IOS_INFO_SINGLETON_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_WEB_UI_WEB_UI_IOS_INFO_SINGLETON_H_
 

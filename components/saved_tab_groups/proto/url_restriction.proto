@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL restriction proto definition
+// summary: Defines the UrlRestriction message with flags controlling whether a URL is blocked for synced or shared tab groups, downloads, and near-duplicate matches.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

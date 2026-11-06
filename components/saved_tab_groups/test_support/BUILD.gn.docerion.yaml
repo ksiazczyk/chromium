@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for saved tab groups test support
+summary: Defines GN build targets for the saved tab groups test support library and its test-only proto library.

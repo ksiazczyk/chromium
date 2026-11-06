@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLCheckerClient interface for SafeSearch server requests
+// summary: Defines the URLCheckerClient interface and ClientClassification enum for asynchronously checking whether a URL is restricted for the user in the request context.
+// ---
+
 #ifndef COMPONENTS_SAFE_SEARCH_API_URL_CHECKER_CLIENT_H_
 #define COMPONENTS_SAFE_SEARCH_API_URL_CHECKER_CLIENT_H_
 

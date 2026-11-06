@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadProfilerClient interface for embedders
+// summary: Defines the interface embedders implement to configure sampling, build profiles, supply unwinders and report process type and enablement.
+// ---
+
 #ifndef COMPONENTS_SAMPLING_PROFILER_THREAD_PROFILER_CLIENT_H_
 #define COMPONENTS_SAMPLING_PROFILER_THREAD_PROFILER_CLIENT_H_
 

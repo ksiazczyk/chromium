@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklisted CRX info protos
+// summary: Defines protobufs for requesting and receiving details such as verdicts about blocklisted CRX extension packages.
+// ---
+
 syntax = "proto2";
 option optimize_for = LITE_RUNTIME;
 

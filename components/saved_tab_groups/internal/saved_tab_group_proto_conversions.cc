@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group proto conversions implementation
+// summary: Implements conversions between saved tab group objects and sync protobufs, including color mapping, positions, and attribution metadata.
+// ---
+
 #include "components/saved_tab_groups/internal/saved_tab_group_proto_conversions.h"
 
 #include <algorithm>

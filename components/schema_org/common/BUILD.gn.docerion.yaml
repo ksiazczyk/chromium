@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Schema.org common mojom build targets
+summary: GN build file defining the mojom and improved_mojom binding targets for the schema.org common metadata definitions.

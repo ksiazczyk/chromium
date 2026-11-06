@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with co-ownership mixins
+summary: Points to policy and supervised user metadata mixins so the directory is recorded as co-owned by the Enterprise component.

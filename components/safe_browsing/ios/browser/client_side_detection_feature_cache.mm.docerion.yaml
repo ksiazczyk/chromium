@@ -1,0 +1,4 @@
+# Docerion header of client_side_detection_feature_cache.mm.
+type: source
+title: Client side detection feature cache implementation
+summary: Implements the constructor and destructor of the iOS client-side detection feature cache.

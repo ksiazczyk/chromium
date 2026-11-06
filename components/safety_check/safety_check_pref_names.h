@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety check preference name constant
+// summary: Defines the preference name that stores whether the Safety Check Home module is enabled.
+// ---
+
 #ifndef COMPONENTS_SAFETY_CHECK_SAFETY_CHECK_PREF_NAMES_H_
 #define COMPONENTS_SAFETY_CHECK_SAFETY_CHECK_PREF_NAMES_H_
 

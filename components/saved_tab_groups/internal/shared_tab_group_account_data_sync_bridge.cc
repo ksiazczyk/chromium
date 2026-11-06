@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tab group account data sync bridge implementation
+// summary: Implements the sync bridge for the SHARED_TAB_GROUP_ACCOUNT_DATA data type, handling shared tab and group account metadata specifics and their trimming.
+// ---
+
 #include "components/saved_tab_groups/internal/shared_tab_group_account_data_sync_bridge.h"
 
 #include <optional>

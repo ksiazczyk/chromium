@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Real-time URL check allowlist proto
+// summary: Defines the protobuf format for the high-confidence allowlist used during real-time URL checks on Android.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

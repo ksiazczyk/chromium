@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing preferences unit tests
+// summary: Unit tests verifying initialization and behavior of Safe Browsing preferences, including tailored security sync flow and extended reporting levels.
+// ---
+
 #include "components/safe_browsing/core/common/safe_browsing_prefs.h"
 
 #include <string>

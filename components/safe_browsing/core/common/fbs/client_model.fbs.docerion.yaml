@@ -1,0 +1,4 @@
+# Docerion header of client_model.fbs.
+type: source
+title: Client-side phishing model flatbuffer schema
+summary: FlatBuffers schema defining the ClientSideModel and related tables for the machine learning model that computes the probability a visited page is phishing.

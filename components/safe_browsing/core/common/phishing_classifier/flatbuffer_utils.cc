@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flatbuffer model verification
+// summary: Implements verification that the indices and fields of a flatbuffer client-side phishing model are valid and consistent.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/flatbuffer_utils.h"
 
 namespace safe_browsing {

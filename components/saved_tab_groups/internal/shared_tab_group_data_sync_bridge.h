@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedTabGroupDataSyncBridge class declaration
+// summary: Declares the SharedTabGroupDataSyncBridge, a DataTypeSyncBridge for the SHARED_TAB_GROUP_DATA data type with unique position and incremental update support.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SHARED_TAB_GROUP_DATA_SYNC_BRIDGE_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SHARED_TAB_GROUP_DATA_SYNC_BRIDGE_H_
 

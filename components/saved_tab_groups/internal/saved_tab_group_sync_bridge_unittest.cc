@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab group sync bridge unit tests
+// summary: Unit tests for the saved tab group sync bridge covering full merges, incremental sync changes, conflict resolution, and orphaned tab handling.
+// ---
+
 #include "components/saved_tab_groups/internal/saved_tab_group_sync_bridge.h"
 
 #include <algorithm>

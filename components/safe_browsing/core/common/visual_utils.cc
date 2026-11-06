@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual feature extraction implementation
+// summary: Implements image downsampling, blurring, and visual feature extraction used by password protection and client-side phishing detection.
+// ---
+
 #include "components/safe_browsing/core/common/visual_utils.h"
 
 #include <algorithm>

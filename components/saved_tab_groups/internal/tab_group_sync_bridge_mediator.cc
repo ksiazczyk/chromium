@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group sync bridge mediator implementation
+// summary: Implements the mediator that creates saved and shared tab group sync bridges, loads their data, and initializes the shared model.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_bridge_mediator.h"
 
 #include <iterator>

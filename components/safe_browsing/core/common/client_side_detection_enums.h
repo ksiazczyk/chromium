@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client-side detection enums
+// summary: Header defining enums for client-side detection events and allowlist match results whose values are persisted to logs.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_CLIENT_SIDE_DETECTION_ENUMS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_CLIENT_SIDE_DETECTION_ENUMS_H_
 

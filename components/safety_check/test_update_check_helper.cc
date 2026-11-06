@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test update check helper implementation
+// summary: Implements a test double of UpdateCheckHelper that returns a configurable connectivity result.
+// ---
+
 #include "components/safety_check/test_update_check_helper.h"
 
 namespace safety_check {

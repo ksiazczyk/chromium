@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestCancelerIOS header
+// summary: Declares an iOS request canceler that observes WebState destruction to cancel pending password protection requests.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_IOS_BROWSER_PASSWORD_PROTECTION_REQUEST_CANCELER_IOS_H_
 #define COMPONENTS_SAFE_BROWSING_IOS_BROWSER_PASSWORD_PROTECTION_REQUEST_CANCELER_IOS_H_
 

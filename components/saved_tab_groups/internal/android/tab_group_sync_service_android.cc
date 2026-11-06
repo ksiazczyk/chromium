@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncService Android JNI bridge implementation
+// summary: Implements the C++ side of the TabGroupSyncService JNI bridge, forwarding sync service events and group and tab mutations between native and Java on Android.
+// ---
+
 #include "components/saved_tab_groups/internal/android/tab_group_sync_service_android.h"
 
 #include <memory>

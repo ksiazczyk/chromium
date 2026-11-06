@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Phishing classifier build configuration
+summary: GN build rules defining the phishing classifier source set, unit test support and unit test targets with their dependencies.

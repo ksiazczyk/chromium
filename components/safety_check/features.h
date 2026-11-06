@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub feature declarations
+// summary: Declares the kSafetyHub feature and the password check scheduling feature parameters for the safety check component.
+// ---
+
 #ifndef COMPONENTS_SAFETY_CHECK_FEATURES_H_
 #define COMPONENTS_SAFETY_CHECK_FEATURES_H_
 

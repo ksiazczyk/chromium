@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync bridge model wrapper declaration
+// summary: Declares a wrapper around SavedTabGroupModel giving sync bridges type-checked access to groups, tabs, and remote merge operations.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SYNC_BRIDGE_TAB_GROUP_MODEL_WRAPPER_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SYNC_BRIDGE_TAB_GROUP_MODEL_WRAPPER_H_
 

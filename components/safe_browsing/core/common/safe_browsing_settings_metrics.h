@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing settings metrics enums
+// summary: Defines enums for Safe Browsing settings access points and user actions used to build settings metrics histograms.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFE_BROWSING_SETTINGS_METRICS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_SAFE_BROWSING_SETTINGS_METRICS_H_
 

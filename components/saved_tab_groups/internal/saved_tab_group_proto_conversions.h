@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group proto conversions header
+// summary: Declares functions converting saved tab groups and tabs between model objects, sync specifics, and SavedTabGroupData protos.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SAVED_TAB_GROUP_PROTO_CONVERSIONS_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SAVED_TAB_GROUP_PROTO_CONVERSIONS_H_
 

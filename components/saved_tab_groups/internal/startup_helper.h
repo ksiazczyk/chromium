@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupHelper class declaration
+// summary: Declares a helper for the startup flow that initializes tab ID mappings, closes groups deleted from sync, and handles unsaved local tab groups.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_STARTUP_HELPER_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_STARTUP_HELPER_H_
 

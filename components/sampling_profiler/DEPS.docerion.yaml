@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for the sampling profiler
+summary: Restricts includes from this component to the metrics call stack profile builder and public metrics interfaces.

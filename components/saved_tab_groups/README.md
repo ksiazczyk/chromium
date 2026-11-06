@@ -1,3 +1,11 @@
+---
+type: readme
+title: Saved Tab Groups
+summary: Explains the saved tab groups feature built on sync's storage layer for keeping tab groups across sessions and devices, and how to run the C++ unit tests with the filter file.
+relations:
+  - documents /components/saved_tab_groups/components_unittests.filter
+---
+
 ## SavedTabGroups
 
 Tab Groups are an effective way to enable users to organize their tabs, but are

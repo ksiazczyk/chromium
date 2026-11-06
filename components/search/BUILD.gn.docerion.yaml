@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the search component
+summary: Defines the search static library and its unit test target, listing sources and dependencies for the component.

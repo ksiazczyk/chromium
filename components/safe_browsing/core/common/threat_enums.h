@@ -4,6 +4,12 @@
 //
 // Enums for specifying details of Safe Browsing threat reporting.
 
+// ---docerion
+// type: source
+// title: Threat source and subtype enums
+// summary: Defines enums describing which service classified a threat and detailed subtypes for Safe Browsing threat reporting.
+// ---
+
 #ifndef COMPONENTS_SAFE_BROWSING_CORE_COMMON_THREAT_ENUMS_H_
 #define COMPONENTS_SAFE_BROWSING_CORE_COMMON_THREAT_ENUMS_H_
 

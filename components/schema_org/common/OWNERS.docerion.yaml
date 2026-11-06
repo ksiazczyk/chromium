@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners rules for schema.org common mojom files
+summary: Sets per-file owners so that changes to the mojom definitions require approval from the IPC security owners.

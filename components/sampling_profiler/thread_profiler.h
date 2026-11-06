@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadProfiler class for Chrome thread profiling
+// summary: Declares the API for creating profilers on main and child threads and for setting task runners, auxiliary unwinders and the client.
+// ---
+
 #ifndef COMPONENTS_SAMPLING_PROFILER_THREAD_PROFILER_H_
 #define COMPONENTS_SAMPLING_PROFILER_THREAD_PROFILER_H_
 

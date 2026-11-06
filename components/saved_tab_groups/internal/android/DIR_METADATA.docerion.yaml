@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for saved tab groups Android
+summary: Points the directory metadata for the internal Android saved tab groups code at the common metadata of the public Android folder.

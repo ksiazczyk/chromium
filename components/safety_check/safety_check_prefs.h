@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety check prefs header
+// summary: Declares the function that registers the profile preferences needed by Safety Check.
+// ---
+
 #ifndef COMPONENTS_SAFETY_CHECK_SAFETY_CHECK_PREFS_H_
 #define COMPONENTS_SAFETY_CHECK_SAFETY_CHECK_PREFS_H_
 

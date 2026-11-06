@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phishing classifier unit tests
+// summary: Unit tests for PhishingClassifier that verify classification using a mock Scorer and a flatbuffer client-side model.
+// ---
+
 #include "components/safe_browsing/core/common/phishing_classifier/phishing_classifier.h"
 
 #include <memory>

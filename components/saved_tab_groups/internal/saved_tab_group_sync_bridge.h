@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedTabGroupSyncBridge class declaration
+// summary: Declares the SavedTabGroupSyncBridge, a DataTypeSyncBridge that resolves conflicts between sync server data and the SavedTabGroupModel and persists it in a DataTypeStore.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SAVED_TAB_GROUP_SYNC_BRIDGE_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_SAVED_TAB_GROUP_SYNC_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group test utilities implementation
+// summary: Implements helpers that generate random tab group and tab IDs, compare saved tab groups and tabs, and create test saved tab group objects.
+// ---
+
 #include "components/saved_tab_groups/test_support/saved_tab_group_test_utils.h"
 
 #include "base/rand_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty tab group sync delegate header
+// summary: Declares EmptyTabGroupSyncDelegate, a no-op implementation of the TabGroupSyncDelegate interface in the tab_groups namespace.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_DELEGATE_EMPTY_TAB_GROUP_SYNC_DELEGATE_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_DELEGATE_EMPTY_TAB_GROUP_SYNC_DELEGATE_H_
 

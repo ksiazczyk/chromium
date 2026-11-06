@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URLChecker implementation with result caching
+// summary: Implements URLChecker, which classifies URLs via an injected URLCheckerClient and caches results with a timeout, pending-check deduplication and cache-hit metrics.
+// ---
+
 #include "components/safe_search_api/url_checker.h"
 
 #include <string>

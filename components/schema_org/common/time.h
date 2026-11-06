@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ISO8601 duration parsing header
+// summary: Declares ParseISO8601Duration, which parses ISO8601 duration strings into base::TimeDelta, exported from the schema_org component.
+// ---
+
 #ifndef COMPONENTS_SCHEMA_ORG_COMMON_TIME_H_
 #define COMPONENTS_SCHEMA_ORG_COMMON_TIME_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personal collaboration data conversion utilities implementation
+// summary: Implements conversion of shared saved tab groups and tabs into SharedTabGroupAccountDataSpecifics protos and builds client tags for sync.
+// ---
+
 #include "components/saved_tab_groups/internal/personal_collaboration_data_conversion_utils.h"
 
 #include "base/uuid.h"

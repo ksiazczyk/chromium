@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS Safe Browsing WebUI
+summary: Defines the web_ui and features source sets with their sources and dependencies for the iOS Safe Browsing WebUI.

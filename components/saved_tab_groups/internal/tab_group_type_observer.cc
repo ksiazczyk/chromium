@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group type observer implementation
+// summary: Implements an observer that reports whether saved or shared tab groups exist to the synthetic field trial helper when groups are added or migrated.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_type_observer.h"
 
 #include "base/functional/callback.h"

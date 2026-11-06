@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local tab group data proto definition
+// summary: Defines the LocalTabGroupData message holding local-only, never-synced metadata for a saved tab group, such as IDs, interaction and archival timestamps.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

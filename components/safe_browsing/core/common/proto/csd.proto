@@ -19,6 +19,12 @@
 // If you want to change this protocol definition or you have questions
 // regarding its format please contact safebrowsing@chromium.org.
 
+// ---docerion
+// type: source
+// title: Safe Browsing client detection and reporting protos
+// summary: Defines protocol buffers for client-side phishing and malware detection requests plus detailed threat reports sent from interstitial pages.
+// ---
+
 syntax = "proto2";
 
 package safe_browsing;

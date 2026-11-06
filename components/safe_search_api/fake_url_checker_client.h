@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeURLCheckerClient test helper interface
+// summary: Declares a fake URLCheckerClient that lets tests control the classification result URLChecker receives from its client.
+// ---
+
 #ifndef COMPONENTS_SAFE_SEARCH_API_FAKE_URL_CHECKER_CLIENT_H_
 #define COMPONENTS_SAFE_SEARCH_API_FAKE_URL_CHECKER_CLIENT_H_
 

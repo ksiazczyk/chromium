@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeSearch and YouTube restrict enforcement utilities
+// summary: Implements forcing SafeSearch query parameters on Google search URLs and setting YouTube Restrict headers for YouTube requests.
+// ---
+
 #include "components/safe_search_api/safe_search_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeSearchURLCheckerClient unit tests
+// summary: Unit tests for SafeSearchURLCheckerClient that use a test URL loader factory to simulate valid, restricted, and failed SafeSearch API responses.
+// ---
+
 #include "components/safe_search_api/safe_search/safe_search_url_checker_client.h"
 
 #include <array>

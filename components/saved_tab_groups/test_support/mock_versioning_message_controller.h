@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock VersioningMessageController
+// summary: Declares a GoogleMock mock of VersioningMessageController with stubbed methods for message UI behavior in saved tab group tests.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_MOCK_VERSIONING_MESSAGE_CONTROLLER_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_TEST_SUPPORT_MOCK_VERSIONING_MESSAGE_CONTROLLER_H_
 

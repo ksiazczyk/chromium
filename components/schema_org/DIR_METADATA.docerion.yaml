@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Schema_org DIR_METADATA
+summary: Metadata for the schema_org component mapping it to the Blink>DocumentMetadata monorail component, the media-dev team email, and Buganizer component 1456847.

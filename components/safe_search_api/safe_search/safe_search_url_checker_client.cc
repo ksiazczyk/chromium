@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeSearchURLCheckerClient implementation
+// summary: Implements the SafeSearch URL checker client, sending URLs to the SafeSearch classify API and parsing JSON responses to determine whether content is restricted.
+// ---
+
 #include "components/safe_search_api/safe_search/safe_search_url_checker_client.h"
 
 #include <optional>

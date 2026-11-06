@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupSyncMetricsLoggerImpl unit tests
+// summary: Unit tests for the tab group sync metrics logger, verifying histograms and UKM entries with a fake device info tracker and a test clock.
+// ---
+
 #include <memory>
 
 #include "base/test/metrics/histogram_tester.h"

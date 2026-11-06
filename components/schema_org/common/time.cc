@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ISO8601 duration parsing implementation
+// summary: Implements ParseISO8601Duration, converting ISO8601 duration strings into base::TimeDelta for hours, minutes and seconds.
+// ---
+
 #include "components/schema_org/common/time.h"
 
 #include <sstream>

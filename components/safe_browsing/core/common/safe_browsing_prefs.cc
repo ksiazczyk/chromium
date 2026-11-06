@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing preferences implementation
+// summary: Implements Safe Browsing preference helpers, including security bundle settings, protection state queries, and extended reporting UMA logging.
+// ---
+
 #include "components/safe_browsing/core/common/safe_browsing_prefs.h"
 
 #include "base/check_op.h"

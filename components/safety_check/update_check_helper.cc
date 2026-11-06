@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update check helper implementation
+// summary: Checks connectivity to a Google endpoint via SimpleURLLoader as part of the Safety Check update check.
+// ---
+
 #include "components/safety_check/update_check_helper.h"
 
 #include "base/time/time.h"

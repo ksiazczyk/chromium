@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the search component
+summary: Lists the code owners responsible for reviewing changes here, plus a dedicated owner for merges only.

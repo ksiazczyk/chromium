@@ -1,0 +1,4 @@
+# Docerion header of safe_browsing_ui.mm.
+type: source
+title: iOS Safe Browsing WebUI controller implementation
+summary: Implements the SafeBrowsingUI controller for the iOS Safe Browsing WebUI, creating its HTML data source and registering the message handler that bridges JavaScript messages to C++.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group entity converter unit tests
+// summary: Unit tests verifying that TabGroupEntityConverter correctly converts group and tab entities between the private and shared sync protobuf formats in both directions.
+// ---
+
 #include "components/saved_tab_groups/internal/migration/tab_group_entity_converter.h"
 
 #include "components/sync/protocol/entity_data.h"

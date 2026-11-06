@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncMetricsLoggerImpl implementation
+// summary: Implements histogram and UKM logging for tab group sync events such as group creation, opening, closing, visual changes, and tab navigation.
+// ---
+
 #include "components/saved_tab_groups/internal/tab_group_sync_metrics_logger_impl.h"
 
 #include "base/metrics/histogram_functions.h"

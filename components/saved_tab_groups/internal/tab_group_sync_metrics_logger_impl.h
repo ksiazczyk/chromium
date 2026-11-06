@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncMetricsLoggerImpl class declaration
+// summary: Declares the metrics logger for tab group sync events, including the DeviceType enum that attributes events to device OS and form factor.
+// ---
+
 #ifndef COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_TAB_GROUP_SYNC_METRICS_LOGGER_IMPL_H_
 #define COMPONENTS_SAVED_TAB_GROUPS_INTERNAL_TAB_GROUP_SYNC_METRICS_LOGGER_IMPL_H_
 

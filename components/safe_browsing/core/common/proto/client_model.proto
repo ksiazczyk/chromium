@@ -12,6 +12,12 @@
 // protocol definition or you have questions regarding its format please contact
 // safebrowsing@chromium.org.
 
+// ---docerion
+// type: source
+// title: Client-side phishing detection model proto
+// summary: Defines the protobuf schema for the machine learning model Chrome uses to compute the probability that a visited page is phishing.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;
