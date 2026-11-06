@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ukm
+summary: Metadata file mapping the ukm directory to its Monorail component, team email and Buganizer component ID.

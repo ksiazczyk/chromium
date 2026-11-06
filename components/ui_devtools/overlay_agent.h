@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayAgent class declaration for UI DevTools
+// summary: Declares the OverlayAgent class implementing the Overlay protocol backend, holding a pointer to the DOM agent.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_OVERLAY_AGENT_H_
 #define COMPONENTS_UI_DEVTOOLS_OVERLAY_AGENT_H_
 

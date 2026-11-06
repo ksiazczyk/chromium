@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake local domains storage file access implementation
+// summary: Implements an in-memory fake of LocalDomainsStorage file access that reads and writes local domains data without touching disk during tests.
+// ---
+
 #include "components/trusted_vault/test/fake_local_domains_storage_file_access.h"
 
 namespace trusted_vault {

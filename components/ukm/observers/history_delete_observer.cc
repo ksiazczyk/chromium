@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryDeleteObserver implementation
+// summary: Implements the UKM history deletion observer, registering with HistoryService and invoking OnHistoryDeleted for non-expiration deletions.
+// ---
+
 #include "components/ukm/observers/history_delete_observer.h"
 
 namespace ukm {

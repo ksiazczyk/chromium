@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM service interface
+// summary: Declares UkmService, responsible for gathering and uploading reports with fine-grained performance metrics including top-level navigation URLs.
+// ---
+
 #ifndef COMPONENTS_UKM_UKM_SERVICE_H_
 #define COMPONENTS_UKM_UKM_SERVICE_H_
 

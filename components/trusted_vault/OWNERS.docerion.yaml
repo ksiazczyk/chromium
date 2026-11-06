@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Trusted Vault owners list
+summary: OWNERS file that inherits owners from components/sync and adds thomasth@google.com as a code owner.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake trusted vault access token fetcher implementation
+// summary: Implements a fake TrustedVaultAccessTokenFetcher that always returns a preset access token or error for the requested account.
+// ---
+
 #include "components/trusted_vault/test/fake_trusted_vault_access_token_fetcher.h"
 
 namespace trusted_vault {

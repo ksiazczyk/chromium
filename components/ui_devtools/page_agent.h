@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageAgent class declaration for UI DevTools
+// summary: Declares the PageAgent class for the Page protocol domain, holding a pointer to the DOM agent.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_PAGE_AGENT_H_
 #define COMPONENTS_UI_DEVTOOLS_PAGE_AGENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI DevTools server class declaration
+// summary: Declares UiDevToolsServer, which creates the server for Views UI inspection, manages attached clients, and exposes hooks for tests.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_DEVTOOLS_SERVER_H_
 #define COMPONENTS_UI_DEVTOOLS_DEVTOOLS_SERVER_H_
 

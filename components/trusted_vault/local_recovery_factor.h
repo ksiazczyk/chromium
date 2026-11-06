@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local recovery factor interface
+// summary: Declares the LocalRecoveryFactor interface used by StandaloneTrustedVaultBackend to recover and register vault keys without user interaction.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_LOCAL_RECOVERY_FACTOR_H_
 #define COMPONENTS_TRUSTED_VAULT_LOCAL_RECOVERY_FACTOR_H_
 

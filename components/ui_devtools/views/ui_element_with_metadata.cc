@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIElementWithMetaData implementation
+// summary: Implements a UIElement subclass that builds property groups from layer and class metadata, supporting matched-style properties and string-based property edits.
+// ---
+
 #include "components/ui_devtools/views/ui_element_with_metadata.h"
 
 #include <algorithm>

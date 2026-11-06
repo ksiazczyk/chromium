@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Vault connection implementation unit tests
+// summary: Unit tests for TrustedVaultConnectionImpl covering registration, key download, recoverability, and key rotation flows using fake access token fetchers and a test URL loader factory.
+// ---
+
 #include "components/trusted_vault/trusted_vault_connection_impl.h"
 
 #include <memory>

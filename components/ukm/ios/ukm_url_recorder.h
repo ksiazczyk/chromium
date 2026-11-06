@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM source URL recorder for iOS WebState
+// summary: Declares a WebState observer that records UKM source URLs for main frame navigations, including initial URLs after redirects.
+// ---
+
 #ifndef COMPONENTS_UKM_IOS_UKM_URL_RECORDER_H_
 #define COMPONENTS_UKM_IOS_UKM_URL_RECORDER_H_
 

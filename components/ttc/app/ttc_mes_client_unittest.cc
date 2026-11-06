@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TtcMesClient unit tests
+// summary: Unit tests for TtcMesClient using a fake MES session and observer to verify server frame handling, audio output and error reporting without network access.
+// ---
+
 #include "components/ttc/app/ttc_mes_client.h"
 
 #include <stdint.h>

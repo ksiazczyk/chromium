@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone trusted vault server constants
+// summary: Declares constants and URL-building helpers for the standalone trusted vault server API, covering security domain endpoints, key rotation, and testing URL variants.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_STANDALONE_TRUSTED_VAULT_SERVER_CONSTANTS_H_
 #define COMPONENTS_TRUSTED_VAULT_STANDALONE_TRUSTED_VAULT_SERVER_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the DevTools key event conversion helper
+// summary: Declares ConvertToUIKeyEvent, which converts DevTools protocol key events into ui::KeyEvent objects.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_DEVTOOLS_EVENT_UTIL_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_DEVTOOLS_EVENT_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultThrottlingConnectionImpl implementation
+// summary: Implements the throttling connection, recording failed request times per account and domain and delegating vault requests to a wrapped connection.
+// ---
+
 #include "components/trusted_vault/trusted_vault_throttling_connection_impl.h"
 
 #include <cstddef>

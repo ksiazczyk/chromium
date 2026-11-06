@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault crypto helper declarations
+// summary: Declares functions to encrypt and decrypt wrapped Trusted Vault keys and to compute and verify member and rotation proofs.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_CRYPTO_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_CRYPTO_H_
 

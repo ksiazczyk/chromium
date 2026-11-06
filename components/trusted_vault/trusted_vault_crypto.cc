@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault crypto helpers
+// summary: Implements cryptographic helpers for wrapping and unwrapping Trusted Vault keys with SecureBox and for computing and verifying member and rotation proofs with HMAC-SHA-256.
+// ---
+
 #include "components/trusted_vault/trusted_vault_crypto.h"
 
 #include <array>

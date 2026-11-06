@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI DevTools command-line switch declaration
+// summary: Declares the exported enable-ui-devtools switch constant used to enable the UI DevTools server for UI surfaces.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_SWITCHES_H_
 #define COMPONENTS_UI_DEVTOOLS_SWITCHES_H_
 

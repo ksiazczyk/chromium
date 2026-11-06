@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ukm component
+summary: DEPS file listing the dependencies the ukm component may include, with extra rules for unit test files.

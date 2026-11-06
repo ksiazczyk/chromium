@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools process observer class declaration
+// summary: Declares DevtoolsProcessObserver, which tracks browser and GPU process lifecycle events to update the process id used for event tracing.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_DEVTOOLS_PROCESS_OBSERVER_H_
 #define COMPONENTS_UI_DEVTOOLS_DEVTOOLS_PROCESS_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault connection value types
+// summary: Implements value types used by the Trusted Vault connection, including key and version pairs, recovery PIN and GPM PIN metadata, vault members, and registration state results.
+// ---
+
 #include "components/trusted_vault/trusted_vault_connection.h"
 
 #include "components/trusted_vault/securebox.h"

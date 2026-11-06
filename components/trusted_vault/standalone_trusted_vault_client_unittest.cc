@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standalone trusted vault client unit tests
+// summary: Integration-style tests exercising the standalone trusted vault client subsystem end to end with faked SecurityDomainsService RPCs and real disk storage.
+// ---
+
 #include "components/trusted_vault/standalone_trusted_vault_client.h"
 
 #include <memory>

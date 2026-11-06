@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM source URL recorder implementation
+// summary: Implements a WebContents observer that records UKM source URLs for main frame navigations, including redirect chains up to a bounded length.
+// ---
+
 #include "components/ukm/content/source_url_recorder.h"
 
 #include <cstdint>

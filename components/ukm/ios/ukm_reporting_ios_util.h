@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM reporting iOS utility declarations
+// summary: Declares counter functions that record the UKM.IOSLog.OnSuccess histogram to diagnose UMA data loss on iOS.
+// ---
+
 #ifndef COMPONENTS_UKM_IOS_UKM_REPORTING_IOS_UTIL_H_
 #define COMPONENTS_UKM_IOS_UKM_REPORTING_IOS_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy trusted vault storage adapter class
+// summary: Declares an adapter implementing StandaloneTrustedVaultStorage by delegating to LegacyStandaloneTrustedVaultStorage for keys, registration, and throttling data.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_LEGACY_STANDALONE_TRUSTED_VAULT_STORAGE_ADAPTER_H_
 #define COMPONENTS_TRUSTED_VAULT_LEGACY_STANDALONE_TRUSTED_VAULT_STORAGE_ADAPTER_H_
 

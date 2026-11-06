@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Embedded recovery key store certificate test data
+// summary: Embeds a cert.xml snapshot from the recovery key service with intermediate and endpoint certificates used as test fixtures.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TEST_RECOVERY_KEY_STORE_CERTIFICATE_TEST_UTIL_H_
 #define COMPONENTS_TRUSTED_VAULT_TEST_RECOVERY_KEY_STORE_CERTIFICATE_TEST_UTIL_H_
 

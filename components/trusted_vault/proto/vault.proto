@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security domain backend proto
+// summary: Defines proto3 request and response messages for joining security domains, rotating shared member keys, and exchanging trusted vault data with the backend.
+// ---
+
 // Trusted vault protos to communicate with backend written in proto3 to avoid
 // subtle differences between enum fields.
 syntax = "proto3";

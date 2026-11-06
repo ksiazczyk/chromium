@@ -1,0 +1,4 @@
+# Docerion header of ukm_url_recorder.mm.
+type: source
+title: UKM source URL recorder implementation for iOS
+summary: Implements recording of UKM source URLs for iOS main frame navigations, skipping downloads and same-document navigations.

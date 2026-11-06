@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base agent class for UI DevTools protocol domains
+// summary: Defines a templated base agent that wires generated protocol backends to their frontends and the UberDispatcher for UI DevTools.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_DEVTOOLS_BASE_AGENT_H_
 #define COMPONENTS_UI_DEVTOOLS_DEVTOOLS_BASE_AGENT_H_
 

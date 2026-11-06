@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Legacy trusted vault storage adapter unit tests
+// summary: Unit tests verifying that the storage adapter reads vault data from disk, clears data per user, and marks or deletes data for unknown users.
+// ---
+
 #include "components/trusted_vault/legacy_standalone_trusted_vault_storage_adapter.h"
 
 #include <cstdint>

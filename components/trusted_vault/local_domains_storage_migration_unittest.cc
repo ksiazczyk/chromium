@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local domains storage migration tests
+// summary: Tests and fuzz tests verifying migration of legacy trusted vault data into local domains storage, including fuzzed user vaults and mutation sequences.
+// ---
+
 #include <cstdint>
 #include <memory>
 #include <optional>

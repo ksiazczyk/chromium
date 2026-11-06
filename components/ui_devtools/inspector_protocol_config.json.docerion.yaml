@@ -1,0 +1,4 @@
+# Docerion header of inspector_protocol_config.json.
+type: config
+title: Inspector protocol code generation configuration
+summary: Configures inspector protocol code generation for the DOM, CSS, Overlay, Page and Tracing domains, including namespaces, export macros and protocol traits.

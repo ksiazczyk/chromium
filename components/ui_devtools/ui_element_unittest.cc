@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit test for UIElement child clearing delegate notifications
+// summary: Verifies that UIElement::ClearChildren notifies the delegate of removed children, using a fake delegate that tracks added and removed elements.
+// ---
+
 #include "components/ui_devtools/ui_element.h"
 
 #include <vector>

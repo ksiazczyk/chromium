@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UkmRecorderTest
+// summary: Robolectric unit test verifying that UkmRecorder records an event with multiple metrics by mocking the native JNI interface and checking the recorded metric names and values.
+// ---
+
 package org.chromium.components.ukm;
 
 import static org.mockito.Mockito.any;

@@ -4,6 +4,12 @@
 
 // This file defines a service that sends ukm logs to a server.
 
+// ---docerion
+// type: source
+// title: UKM reporting service interface
+// summary: Declares UkmReportingService, the service that uploads UKM logs to the server and registers its related preferences.
+// ---
+
 #ifndef COMPONENTS_UKM_UKM_REPORTING_SERVICE_H_
 #define COMPONENTS_UKM_UKM_REPORTING_SERVICE_H_
 

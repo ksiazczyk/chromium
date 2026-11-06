@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security domain constants unit tests
+// summary: Unit tests verifying the mapping between security domain name strings and SecurityDomainId values, including rejection of invalid or empty names.
+// ---
+
 #include "components/trusted_vault/trusted_vault_server_constants.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIElement base class implementation
+// summary: Implements the UIElement base class that models inspected UI nodes with properties, child hierarchy, and type names for DevTools inspection.
+// ---
+
 #include "components/ui_devtools/ui_element.h"
 
 #include <algorithm>

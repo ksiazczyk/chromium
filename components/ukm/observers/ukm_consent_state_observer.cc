@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UkmConsentStateObserver implementation
+// summary: Implements UKM consent tracking from sync state and URL-keyed data collection consent, including ChromeOS kiosk and managed guest session rules.
+// ---
+
 #include "components/ukm/observers/ukm_consent_state_observer.h"
 
 #include <memory>

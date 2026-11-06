@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone trusted vault client header
+// summary: Declares StandaloneTrustedVaultClient, a file-based TrustedVaultClient implementation bound to a security domain and a shared frontend.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_STANDALONE_TRUSTED_VAULT_CLIENT_H_
 #define COMPONENTS_TRUSTED_VAULT_STANDALONE_TRUSTED_VAULT_CLIENT_H_
 

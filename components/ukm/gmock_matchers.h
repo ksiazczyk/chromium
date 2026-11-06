@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMock matchers for UKM entry metrics declarations
+// summary: Declares the HasMetric and HasMetricWithValue gmock matchers used to test UKM entries.
+// ---
+
 #ifndef COMPONENTS_UKM_GMOCK_MATCHERS_H_
 #define COMPONENTS_UKM_GMOCK_MATCHERS_H_
 

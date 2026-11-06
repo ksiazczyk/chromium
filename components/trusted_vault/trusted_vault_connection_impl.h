@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault connection implementation header
+// summary: Declares TrustedVaultConnectionImpl, which issues registration, key download, recoverability, and key rotation requests to the Trusted Vault service with bounded retries.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_CONNECTION_IMPL_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_CONNECTION_IMPL_H_
 

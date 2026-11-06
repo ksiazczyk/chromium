@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Degraded recoverability handler implementation
+// summary: Implements periodic refresh of the degraded recoverability state for a security domain, persisting results locally and notifying observers of changes.
+// ---
+
 #include "components/trusted_vault/trusted_vault_degraded_recoverability_handler.h"
 
 #include <utility>

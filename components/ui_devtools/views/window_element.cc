@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowElement implementation for aura::Window
+// summary: Implements the WindowElement node that wraps an aura::Window, tracking hierarchy, stacking, and bounds changes while exposing bounds, visibility, and attributes to DevTools.
+// ---
+
 #include "components/ui_devtools/views/window_element.h"
 
 #include <algorithm>

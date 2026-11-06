@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of the Views DOM agent
+// summary: Builds and maintains the DevTools DOM tree from Aura window tree hosts and windows, creating window and widget elements.
+// ---
+
 #include "components/ui_devtools/views/dom_agent_aura.h"
 
 #include <algorithm>

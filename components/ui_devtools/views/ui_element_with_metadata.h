@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIElementWithMetaData class declaration
+// summary: Declares an abstract UIElement subclass that exposes metadata-driven property groups, visibility, and layer access for DevTools inspection of Views elements.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_UI_ELEMENT_WITH_METADATA_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_UI_ELEMENT_WITH_METADATA_H_
 

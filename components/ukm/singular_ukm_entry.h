@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingularUkmEntry template class for last-write UKM entries
+// summary: Defines a template class for UKM entries that can be built multiple times, where only the last built entry is recorded by the UKM service when the entry is destroyed.
+// ---
+
 #ifndef COMPONENTS_UKM_SINGULAR_UKM_ENTRY_H_
 #define COMPONENTS_UKM_SINGULAR_UKM_ENTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WindowElement
+// summary: Unit tests verifying WindowElement bounds, visibility, attributes, screen bounds, and device scale factor handling for an aura::Window.
+// ---
+
 #include "components/ui_devtools/views/window_element.h"
 
 #include <memory>

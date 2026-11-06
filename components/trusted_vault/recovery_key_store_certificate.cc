@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery key store certificate parsing and verification
+// summary: Implements parsing and verification of recovery key store cert.xml and sig.xml files, including signature chain validation against a hardcoded Google Cloud Key Vault root CA.
+// ---
+
 #include "components/trusted_vault/recovery_key_store_certificate.h"
 
 #include <string>

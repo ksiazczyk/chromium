@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault histograms implementation
+// summary: Implements UMA histogram recording for the trusted vault, mapping URL fetch reasons, security domains and recovery factor registration states and outcomes to metric names.
+// ---
+
 #include "components/trusted_vault/trusted_vault_histograms.h"
 
 #include <string>

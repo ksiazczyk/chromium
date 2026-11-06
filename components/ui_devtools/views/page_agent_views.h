@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageAgentViews class declaration
+// summary: Declares the Views page agent that exposes resource tree and resource content responses over the DevTools protocol for the Views UI.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_PAGE_AGENT_VIEWS_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_PAGE_AGENT_VIEWS_H_
 

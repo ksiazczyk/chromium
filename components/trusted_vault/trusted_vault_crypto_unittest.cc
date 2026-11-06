@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Vault crypto unit tests
+// summary: Unit tests verifying wrapped key encryption and decryption plus member and rotation proof computation and verification, including failure cases.
+// ---
+
 #include "components/trusted_vault/trusted_vault_crypto.h"
 
 #include <memory>

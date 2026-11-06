@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM consent state types
+// summary: Defines the UkmConsentType enum and UkmConsentState set covering MSBB, extensions and apps consents that control what data UKM may record.
+// ---
+
 #ifndef COMPONENTS_UKM_UKM_CONSENT_STATE_H_
 #define COMPONENTS_UKM_UKM_CONSENT_STATE_H_
 

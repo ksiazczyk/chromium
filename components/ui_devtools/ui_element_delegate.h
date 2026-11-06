@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIElementDelegate interface for UI element change notifications
+// summary: Declares the UIElementDelegate abstract interface with callbacks for UI elements being added, reordered, removed, or changing bounds in the UI DevTools DOM tree.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_UI_ELEMENT_DELEGATE_H_
 #define COMPONENTS_UI_DEVTOOLS_UI_ELEMENT_DELEGATE_H_
 

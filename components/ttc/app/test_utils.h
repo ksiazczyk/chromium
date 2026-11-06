@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTtcBackend class declaration
+// summary: Declares MockTtcBackend, a gmock-based TtcBackend test double that records connection state and mocks audio, text, context and tool calls.
+// ---
+
 #ifndef COMPONENTS_TTC_APP_TEST_UTILS_H_
 #define COMPONENTS_TTC_APP_TEST_UTILS_H_
 

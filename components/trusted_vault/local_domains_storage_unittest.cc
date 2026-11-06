@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local domains storage unit tests
+// summary: Unit tests verifying per-domain key storage, physical device recovery factor data sharing, and clearing behavior of LocalDomainsStorage.
+// ---
+
 #include "components/trusted_vault/local_domains_storage.h"
 
 #include <memory>

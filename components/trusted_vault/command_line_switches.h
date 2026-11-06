@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted vault command line switch declarations
+// summary: Header declaring the trusted-vault-service-url switch constant and the function that resolves the service URL from it.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_COMMAND_LINE_SWITCHES_H_
 #define COMPONENTS_TRUSTED_VAULT_COMMAND_LINE_SWITCHES_H_
 

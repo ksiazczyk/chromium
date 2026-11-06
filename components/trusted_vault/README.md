@@ -1,3 +1,13 @@
+---
+type: readme
+title: Trusted Vault architecture overview
+summary: Explains how the component manages symmetric encryption keys for Google Security Domains, covering the platform-independent layer, desktop architecture, storage, recovery factors, and network and cryptography.
+relations:
+  - documents /components/trusted_vault/trusted_vault_server_constants.h
+  - documents /components/trusted_vault/trusted_vault_service.h
+  - documents /components/trusted_vault/trusted_vault_client.h
+---
+
 # Trusted Vault
 
 `//components/trusted_vault` manages symmetric encryption keys (domain secrets)

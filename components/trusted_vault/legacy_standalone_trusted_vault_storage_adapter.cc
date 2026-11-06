@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy trusted vault storage adapter implementation
+// summary: Implements the adapter that delegates StandaloneTrustedVaultStorage operations such as clearing user data and recovery factor registration to the legacy storage.
+// ---
+
 #include "components/trusted_vault/legacy_standalone_trusted_vault_storage_adapter.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App source URL recorder implementation
+// summary: Implements the AppSourceUrlRecorder, assigning UKM source identifiers for Chrome, ARC, PWA, Borealis and Crostini apps and registering or deleting their app URLs with the delegating UKM recorder.
+// ---
+
 #include "components/ukm/app_source_url_recorder.h"
 
 #include "base/atomic_sequence_num.h"

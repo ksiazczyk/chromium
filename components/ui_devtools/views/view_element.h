@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewElement class declaration
+// summary: Declares the ViewElement class, a views::ViewObserver-backed UIElementWithMetaData that represents a views::View in the UI DevTools element tree.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_VIEW_ELEMENT_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_VIEW_ELEMENT_H_
 

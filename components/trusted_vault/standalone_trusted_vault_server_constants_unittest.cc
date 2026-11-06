@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standalone trusted vault server constants unit tests
+// summary: Unit tests verifying that the standalone trusted vault server URL helpers produce the expected security domain member and Gaia password key endpoints.
+// ---
+
 #include "components/trusted_vault/standalone_trusted_vault_server_constants.h"
 
 #include <cstdint>

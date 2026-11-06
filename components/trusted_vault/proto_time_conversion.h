@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto time conversion declaration
+// summary: Declares functions converting base::Time to and from the trusted vault protobuf time format in milliseconds since the Unix epoch.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_PROTO_TIME_CONVERSION_H_
 #define COMPONENTS_TRUSTED_VAULT_PROTO_TIME_CONVERSION_H_
 

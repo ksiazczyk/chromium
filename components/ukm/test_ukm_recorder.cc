@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestUkmRecorder implementation for UKM test inspection
+// summary: Implements a UkmRecorderImpl subclass with accessors for inspecting recorded UKM sources, entries and metrics in tests.
+// ---
+
 #include "components/ukm/test_ukm_recorder.h"
 
 #include <algorithm>

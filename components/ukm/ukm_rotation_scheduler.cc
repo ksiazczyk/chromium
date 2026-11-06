@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM rotation scheduler implementation
+// summary: Implements the UKM log rotation scheduler and records the init sequence histogram for UKM.
+// ---
+
 #include "components/ukm/ukm_rotation_scheduler.h"
 
 #include "base/metrics/histogram_macros.h"

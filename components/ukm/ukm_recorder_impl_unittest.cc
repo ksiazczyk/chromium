@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UkmRecorderImpl unit tests
+// summary: Unit tests for UkmRecorderImpl covering entry recording, consent changes, sampling, purging and observer notifications.
+// ---
+
 #include "components/ukm/ukm_recorder_impl.h"
 
 #include <string_view>

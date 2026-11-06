@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustedVaultThrottlingConnectionImpl unit tests
+// summary: Unit tests verifying that failed requests trigger throttling per security domain and expire over time in TrustedVaultThrottlingConnectionImpl.
+// ---
+
 #include "components/trusted_vault/trusted_vault_throttling_connection_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript controller for the UKM debug page
+// summary: Implements the UKM debug page logic, fetching structured UKM data and rendering sources, events, and metrics with filtering and caching.
+// ---
+
 // <if expr="is_ios">
 import 'chrome://resources/js/ios/web_ui.js';
 

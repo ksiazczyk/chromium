@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOMAgent class declaration for UI DevTools
+// summary: Declares the DOMAgent class, which implements the DOM protocol backend and UIElementDelegate to map UI elements to DevTools nodes and notify observers of element changes.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_DOM_AGENT_H_
 #define COMPONENTS_UI_DEVTOOLS_DOM_AGENT_H_
 

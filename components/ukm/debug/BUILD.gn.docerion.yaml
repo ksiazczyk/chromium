@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the UKM debug page
+summary: Defines the util source_set and WebUI build targets for the UKM debug page, listing its C++ sources, TypeScript, and static files.

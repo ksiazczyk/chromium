@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIElement base class declaration
+// summary: Declares the UIElement base class and its property structures representing windows, widgets, views, and surfaces exposed to the DevTools frontend.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_UI_ELEMENT_H_
 #define COMPONENTS_UI_DEVTOOLS_UI_ELEMENT_H_
 

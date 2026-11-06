@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: TTC component Buganizer metadata
+summary: Maps the TTC component directory to Buganizer component 1676913 for issue tracking.

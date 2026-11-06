@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test fakes and mocks declarations for UI DevTools unit tests
+// summary: Declares fake and mock test doubles, including FakeFrontendChannel, MockUIElementDelegate, and FakeUIElement, for UI DevTools unit tests.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_UI_DEVTOOLS_UNITTEST_UTILS_H_
 #define COMPONENTS_UI_DEVTOOLS_UI_DEVTOOLS_UNITTEST_UTILS_H_
 

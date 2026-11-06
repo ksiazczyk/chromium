@@ -1,0 +1,4 @@
+# Docerion header of ukm_reporting_ios_util.mm.
+type: source
+title: UKM reporting iOS utility implementation
+summary: Implements the log size counters using NSUserDefaults and records the UKM.IOSLog.OnSuccess histogram via base metrics helpers.

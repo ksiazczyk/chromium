@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedVaultClientAndroid JNI bridge implementation
+// summary: Implements the C++ side of the Android trusted vault client, tracking ongoing key fetch, staleness, recoverability and recovery method requests and dispatching Java completion callbacks.
+// ---
+
 #include "components/trusted_vault/android/trusted_vault_client_android.h"
 
 #include <utility>

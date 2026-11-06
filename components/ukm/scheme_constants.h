@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM URL scheme constants declarations
+// summary: Declares exported URL scheme constants so UKM code can reference schemes without depending on content or extensions.
+// ---
+
 #ifndef COMPONENTS_UKM_SCHEME_CONSTANTS_H_
 #define COMPONENTS_UKM_SCHEME_CONSTANTS_H_
 

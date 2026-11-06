@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the ttc app component
+summary: GN build file defining the app, impl, test_support and unit_tests source sets for the ttc app component along with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iCloud Keychain recovery factor class
+// summary: Declares ICloudKeychainRecoveryFactor, a LocalRecoveryFactor that stores private keys in the iCloud Keychain and tracks ongoing recovery and registration requests.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_ICLOUD_KEYCHAIN_RECOVERY_FACTOR_H_
 #define COMPONENTS_TRUSTED_VAULT_ICLOUD_KEYCHAIN_RECOVERY_FACTOR_H_
 

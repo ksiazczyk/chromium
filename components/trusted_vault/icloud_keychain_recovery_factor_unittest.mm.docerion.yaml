@@ -1,0 +1,4 @@
+# Docerion header of icloud_keychain_recovery_factor_unittest.mm.
+type: test
+title: iCloud Keychain recovery factor unit tests
+summary: Unit tests for ICloudKeychainRecoveryFactor using a fake keychain and mock throttling connection to verify recovery, registration, and key handling behavior.

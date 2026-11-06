@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for the UKM debug directory
+# summary: Runs ESLint style checks and patch formatting checks on uploads and commits touching this directory.
+# ---
+
 
 def _CommonChecks(input_api, output_api):
     results = []

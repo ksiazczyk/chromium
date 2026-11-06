@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: TTC component DEPS include rules
+summary: Defines include_rules restricting which directories the TTC component may depend on, such as actor, optimization_guide, and url.

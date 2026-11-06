@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canonical URL share metrics types
+// summary: Declares the CanonicalURLResult enum and its histogram key used to report the outcome of canonical URL retrieval to UMA.
+// ---
+
 #ifndef COMPONENTS_UI_METRICS_CANONICAL_URL_SHARE_METRICS_TYPES_H_
 #define COMPONENTS_UI_METRICS_CANONICAL_URL_SHARE_METRICS_TYPES_H_
 

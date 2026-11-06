@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM debug data extractor header
+// summary: Declares the UkmDebugDataExtractor class that returns UKM data as structured values and converts uint64 values to int pairs.
+// ---
+
 #ifndef COMPONENTS_UKM_DEBUG_UKM_DEBUG_DATA_EXTRACTOR_H_
 #define COMPONENTS_UKM_DEBUG_UKM_DEBUG_DATA_EXTRACTOR_H_
 

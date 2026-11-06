@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversion of DevTools key events to ui key events
+// summary: Implements ConvertToUIKeyEvent, mapping a DevTools protocol DOM key event to a ui::KeyEvent.
+// ---
+
 #include "components/ui_devtools/views/devtools_event_util.h"
 #include "ui/events/types/event_type.h"
 

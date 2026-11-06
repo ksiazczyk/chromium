@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock trusted vault throttling connection
+// summary: Gmock mock of TrustedVaultThrottlingConnection stubbing key download, registration, rotation and throttling calls in tests.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TEST_MOCK_TRUSTED_VAULT_THROTTLING_CONNECTION_H_
 #define COMPONENTS_TRUSTED_VAULT_TEST_MOCK_TRUSTED_VAULT_THROTTLING_CONNECTION_H_
 

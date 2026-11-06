@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake trusted vault client implementation
+// summary: Implements a fake TrustedVaultClient with an in-memory fake server that stores keys and recovery methods and can defer pending requests.
+// ---
+
 #include "components/trusted_vault/test/fake_trusted_vault_client.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for layer property helpers
+// summary: Declares helpers that append layer properties for DevTools display and set layer properties from string values.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_ELEMENT_UTILITY_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_ELEMENT_UTILITY_H_
 

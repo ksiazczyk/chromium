@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone trusted vault client implementation
+// summary: Implements StandaloneTrustedVaultClient, a per-security-domain TrustedVaultClient that forwards key operations to the shared frontend and notifies observers.
+// ---
+
 #include "components/trusted_vault/standalone_trusted_vault_client.h"
 
 #include <utility>

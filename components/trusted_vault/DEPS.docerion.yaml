@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Trusted Vault include rules
+summary: DEPS file listing the directories that Trusted Vault code may include from, with a special rule allowing fuzztest in unit tests.

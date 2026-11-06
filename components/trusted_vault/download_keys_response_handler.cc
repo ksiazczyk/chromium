@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download keys response processing
+// summary: Implements decryption and validation of trusted vault keys from GetSecurityDomainMember responses, including rotation proof and key chain checks.
+// ---
+
 #include "components/trusted_vault/download_keys_response_handler.h"
 
 #include <algorithm>

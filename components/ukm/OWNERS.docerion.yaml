@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the ukm directory
+summary: OWNERS file that delegates ownership of the ukm directory to the owners of base/metrics.

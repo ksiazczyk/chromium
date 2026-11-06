@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Standalone trusted vault frontend implementation
+// summary: Implements the UI-thread frontend that owns the backend sequence, observes identity manager changes and routes key operations from clients to the backend.
+// ---
+
 #include "components/trusted_vault/standalone_trusted_vault_frontend.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Class declaration for the Mac DOM agent
+// summary: Declares DOMAgentMac, a DOMAgentViews that tracks NativeWidgetMac instances to build the DOM tree on macOS.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_DOM_AGENT_MAC_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_DOM_AGENT_MAC_H_
 

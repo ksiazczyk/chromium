@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Vault client interface
+// summary: Declares the platform-specific TrustedVaultClient interface for fetching trusted vault encryption keys, with observers and a UMA enum for user action triggers.
+// ---
+
 #ifndef COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_CLIENT_H_
 #define COMPONENTS_TRUSTED_VAULT_TRUSTED_VAULT_CLIENT_H_
 

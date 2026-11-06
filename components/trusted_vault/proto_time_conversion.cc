@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto time conversion implementation
+// summary: Implements conversion between base::Time and the milliseconds-since-Unix-epoch format used in trusted vault protobufs.
+// ---
+
 #include "components/trusted_vault/proto_time_conversion.h"
 
 #include "base/time/time.h"

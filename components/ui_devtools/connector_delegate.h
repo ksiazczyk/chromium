@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connector delegate interface for tracing
+// summary: Defines an abstract delegate interface for binding specific Mojo interfaces such as the tracing consumer host.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_CONNECTOR_DELEGATE_H_
 #define COMPONENTS_UI_DEVTOOLS_CONNECTOR_DELEGATE_H_
 

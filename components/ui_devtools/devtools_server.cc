@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI DevTools server implementation
+// summary: Implements the UI DevTools HTTP and WebSocket server, including port selection, active port file writing, and connection handling for Views inspection.
+// ---
+
 #include "components/ui_devtools/devtools_server.h"
 
 #include <memory>

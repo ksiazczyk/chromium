@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Physical device recovery factor unit tests
+// summary: Unit tests for PhysicalDeviceRecoveryFactor covering key recovery, registration, and metric reporting using mocked storage and connection.
+// ---
+
 #include "components/trusted_vault/physical_device_recovery_factor.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local domains storage implementation
+// summary: Implements the multi-domain trusted vault storage engine backed by an encrypted local_domains_data.pb file, including migration from the legacy trusted_vault.pb file.
+// ---
+
 #include "components/trusted_vault/local_domains_storage.h"
 
 #include <memory>

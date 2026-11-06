@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for trusted vault Android targets
+summary: GN build configuration defining the Android Java library, generated enums and JNI headers, and the native source set for the trusted vault component.

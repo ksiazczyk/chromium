@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing agent class declaration for UI DevTools
+// summary: Declares the TracingAgent class managing tracing sessions, buffer usage reporting, and trace data delivery for the UI DevTools performance panel.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_TRACING_AGENT_H_
 #define COMPONENTS_UI_DEVTOOLS_TRACING_AGENT_H_
 

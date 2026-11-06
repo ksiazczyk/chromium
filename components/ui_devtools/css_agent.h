@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSSAgent class declaration
+// summary: Declares the CSSAgent that serves matched styles and stylesheet text for UI elements and reacts to element bounds changes.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_CSS_AGENT_H_
 #define COMPONENTS_UI_DEVTOOLS_CSS_AGENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverlayAgentViews class declaration
+// summary: Declares the Views overlay agent with highlight configurations, pinned node handling, inspect mode, and platform-specific creation and event handler installation.
+// ---
+
 #ifndef COMPONENTS_UI_DEVTOOLS_VIEWS_OVERLAY_AGENT_VIEWS_H_
 #define COMPONENTS_UI_DEVTOOLS_VIEWS_OVERLAY_AGENT_VIEWS_H_
 

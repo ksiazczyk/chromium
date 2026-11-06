@@ -1,0 +1,4 @@
+# Docerion header of protocol.json.
+type: reference
+title: UI DevTools protocol definition
+summary: Defines the UI DevTools protocol domains and commands, such as DOM, CSS, Overlay, Page and Tracing, used to generate the protocol bindings.

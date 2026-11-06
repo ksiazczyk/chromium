@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Singular UKM entry Mojo interface
+// summary: Implements a self-owned Mojo SingularUkmInterface that stores one submitted UKM entry and records it when the connection is lost.
+// ---
+
 #include "components/ukm/singular_ukm_entry.h"
 
 #include <memory>

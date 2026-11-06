@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery key store connection implementation
+// summary: Implements RecoveryKeyStoreConnection with network requests to cryptauthvault.googleapis.com and downloads of certificate files from gstatic.
+// ---
+
 #include "components/trusted_vault/recovery_key_store_connection_impl.h"
 
 #include <memory>

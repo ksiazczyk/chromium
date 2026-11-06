@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Trusted Vault directory metadata
+summary: DIR_METADATA file that inherits the sync component's common metadata mixins for this directory.

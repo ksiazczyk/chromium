@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM rotation scheduler interface
+// summary: Declares UkmRotationScheduler, which drives UkmService log rotations via rotation and interval callbacks.
+// ---
+
 #ifndef COMPONENTS_UKM_UKM_ROTATION_SCHEDULER_H_
 #define COMPONENTS_UKM_UKM_ROTATION_SCHEDULER_H_
 

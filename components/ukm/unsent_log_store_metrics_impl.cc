@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnsentLogStoreMetricsImpl implementation recording UKM UMA histograms
+// summary: Implements UnsentLogStoreMetricsImpl, recording UMA histograms for UKM log read status, compression ratio, and dropped unsent log sizes and counts.
+// ---
+
 #include "components/ukm/unsent_log_store_metrics_impl.h"
 
 #include "base/metrics/histogram_macros.h"

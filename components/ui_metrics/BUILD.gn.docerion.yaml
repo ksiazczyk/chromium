@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ui_metrics component
+summary: Defines the ui_metrics source set and generates Java enums from the metrics headers when building for Android.

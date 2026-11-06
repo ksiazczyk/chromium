@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UkmConsentStateObserver unit tests
+// summary: Unit tests for UkmConsentStateObserver using a mock sync service and test observer to verify consent state and purge behavior across platforms.
+// ---
+
 #include "components/ukm/observers/ukm_consent_state_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

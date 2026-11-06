@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI DevTools client implementation
+// summary: Implements the UI DevTools client that dispatches JSON protocol messages to agents and sends responses and notifications over the server WebSocket.
+// ---
+
 #include "components/ui_devtools/devtools_client.h"
 
 #include <string_view>

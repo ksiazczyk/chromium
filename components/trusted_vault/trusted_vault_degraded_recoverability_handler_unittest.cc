@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Degraded recoverability handler unit tests
+// summary: Unit tests for the trusted vault degraded recoverability handler, covering state recording on start, refresh periods and observer notifications using fake local storage and a mock throttling connection.
+// ---
+
 #include "components/trusted_vault/trusted_vault_degraded_recoverability_handler.h"
 
 #include <memory>
