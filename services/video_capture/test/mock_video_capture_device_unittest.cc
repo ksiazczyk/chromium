@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock video capture device unit test
+// summary: Unit test verifying that the video capture service stops the capture device when the client discards its device client proxy.
+// ---
+
 #include "base/run_loop.h"
 
 #include "services/video_capture/test/mock_video_capture_device_test.h"

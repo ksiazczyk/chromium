@@ -1,0 +1,4 @@
+# Docerion header of hello.html.gz.mock-http-headers.
+type: test
+title: Mock HTTP headers for hello.html.gz
+summary: Mock HTTP response headers for hello.html.gz declaring a text/html content type with gzip content encoding.

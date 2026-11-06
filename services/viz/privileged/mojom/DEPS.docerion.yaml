@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for viz privileged mojom
+summary: Restricts includes in this directory to viz components and gfx color space traits, with fuzztest allowed only in unittest files.

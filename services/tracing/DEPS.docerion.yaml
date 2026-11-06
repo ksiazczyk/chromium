@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tracing service include rules
+summary: Specifies allowed include paths for the tracing service directory, with an extra rule for metadata_data_source.cc.

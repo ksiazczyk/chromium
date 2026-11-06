@@ -1,0 +1,4 @@
+# Docerion header of info_collection_gpu_service.mojom.
+type: source
+title: InfoCollectionGpuService Mojom interface
+summary: Defines the interface of the info-collection GPU process for querying DirectX feature levels and device performance info on Windows.

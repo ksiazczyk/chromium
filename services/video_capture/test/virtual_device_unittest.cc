@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual device unit tests
+// summary: Unit tests for the shared memory virtual device adapter and virtual-device-enabled device factory, covering frame buffer requests and device behavior.
+// ---
+
 #include <algorithm>
 
 #include "base/functional/bind.h"

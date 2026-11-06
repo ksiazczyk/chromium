@@ -1,0 +1,4 @@
+# Docerion header of redirect307-to-echo.mock-http-headers.
+type: test
+title: Mock HTTP headers for redirect307-to-echo
+summary: Mock HTTP response headers that return a 307 redirect to /echo for the redirect307-to-echo test resource.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing controls implementation
+// summary: Implements the TestingControls Mojo interface, providing a Crash method that intentionally crashes the service for testing purposes.
+// ---
+
 #include "services/video_capture/testing_controls_impl.h"
 
 #include "base/notreached.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker component mapping
+summary: Maps this test data directory to the Test monorail component and Buganizer component 1457429 for issue routing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU memory buffer virtual device adapter unit tests
+// summary: Unit tests verifying that the GPU memory buffer virtual device adapter shares buffer handles with receivers, including ones connecting late or after a disconnect.
+// ---
+
 #include "services/video_capture/gpu_memory_buffer_virtual_device_mojo_adapter.h"
 
 #include "base/run_loop.h"

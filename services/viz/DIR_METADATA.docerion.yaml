@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Viz directory bug tracking metadata
+summary: Sets the monorail and Buganizer components and the shared metadata mixins used for issues in the services/viz directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingService class declaration
+// summary: Declares the TracingService class that implements the mojom TracingService interface for client registration and consumer binding.
+// ---
+
 #ifndef SERVICES_TRACING_TRACING_SERVICE_H_
 #define SERVICES_TRACING_TRACING_SERVICE_H_
 

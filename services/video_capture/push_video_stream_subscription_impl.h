@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push video stream subscription header
+// summary: Declares PushVideoStreamSubscriptionImpl, which implements the mojom::PushVideoStreamSubscription interface with a status state machine and broadcaster client registration.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_PUSH_VIDEO_STREAM_SUBSCRIPTION_IMPL_H_
 #define SERVICES_VIDEO_CAPTURE_PUSH_VIDEO_STREAM_SUBSCRIPTION_IMPL_H_
 

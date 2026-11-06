@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BroadcastingReceiver implementation
+// summary: Implements a video frame receiver that distributes captured frames and buffer access to multiple connected clients.
+// ---
+
 #include "services/video_capture/broadcasting_receiver.h"
 
 #include <algorithm>

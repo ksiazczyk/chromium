@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Video capture service build definition
+summary: GN build file defining the video capture service library source set and its unit test target with their dependencies.

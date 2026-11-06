@@ -1,0 +1,4 @@
+# Docerion header of renderer_settings.mojom.
+type: source
+title: Renderer settings Mojo structs
+summary: Defines Mojo structs carrying renderer, occlusion culler, and debug renderer settings for the display compositor.

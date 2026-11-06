@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for viz privileged compositing Mojom targets
+summary: Defines GN build targets for the viz privileged compositing Mojom interfaces, including typemaps, dependencies, and platform-dependent enabled features.

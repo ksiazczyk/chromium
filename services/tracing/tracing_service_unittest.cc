@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TracingService unit tests
+// summary: Unit tests for the tracing service covering client addition, Perfetto connections, and trace packet handling.
+// ---
+
 #include "services/tracing/tracing_service.h"
 
 #include <memory>

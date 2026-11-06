@@ -1,0 +1,4 @@
+# Docerion header of frame_sinks_metrics_recorder.mojom.
+type: test
+title: FrameSinksMetricsRecorder Mojom interface
+summary: Defines the FrameSinksMetricsRecorder Mojom interface for test-only collection of per-frame-sink frame counting and overdraw metrics.

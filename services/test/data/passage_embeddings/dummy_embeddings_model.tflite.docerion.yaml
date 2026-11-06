@@ -1,0 +1,3 @@
+# Docerion header of dummy_embeddings_model.tflite.
+type: test
+title: dummy_embeddings_model.tflite

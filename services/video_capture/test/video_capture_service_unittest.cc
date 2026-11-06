@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture service unit tests
+// summary: Unit tests for the video capture service covering source info enumeration, fake and virtual device registration, and related service behavior.
+// ---
+
 #include "base/memory/ref_counted.h"
 #include "base/run_loop.h"
 #include "base/test/mock_callback.h"

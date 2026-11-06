@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Testing controls header
+// summary: Declares TestingControlsImpl, the implementation of the mojom::TestingControls interface used to trigger an intentional crash during testing.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_TESTING_CONTROLS_IMPL_H_
 #define SERVICES_VIDEO_CAPTURE_TESTING_CONTROLS_IMPL_H_
 

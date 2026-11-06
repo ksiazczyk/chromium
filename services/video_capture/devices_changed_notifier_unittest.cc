@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the devices changed notifier
+// summary: Unit test verifying that registered observers are notified for video capture device change events but not for other device types.
+// ---
+
 #include "services/video_capture/devices_changed_notifier.h"
 #include "base/test/task_environment.h"
 #include "mojo/public/cpp/bindings/receiver.h"

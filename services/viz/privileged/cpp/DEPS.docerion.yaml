@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for viz privileged cpp
+summary: Defines the allowed include dependencies for the viz privileged cpp directory, such as gpu command buffer and gfx mojom trait headers.

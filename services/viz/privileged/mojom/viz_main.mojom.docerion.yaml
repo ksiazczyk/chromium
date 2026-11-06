@@ -1,0 +1,4 @@
+# Docerion header of viz_main.mojom.
+type: source
+title: VizMain mojom interface
+summary: Defines the VizMain interface used to start viz services, create the frame sink manager and GPU service, set render params, and control the Viz Debugger.

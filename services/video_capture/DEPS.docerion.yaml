@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Video capture service include rules
+summary: DEPS file listing the directories that code in services/video_capture is allowed to include from.

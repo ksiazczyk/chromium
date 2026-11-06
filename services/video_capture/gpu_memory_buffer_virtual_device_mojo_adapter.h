@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU memory buffer virtual device adapter header
+// summary: Declares GpuMemoryBufferVirtualDeviceMojoAdapter, which implements both mojom::GpuMemoryBufferVirtualDevice and mojom::Device for GPU buffer based virtual devices.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_GPU_MEMORY_BUFFER_VIRTUAL_DEVICE_MOJO_ADAPTER_H_
 #define SERVICES_VIDEO_CAPTURE_GPU_MEMORY_BUFFER_VIRTUAL_DEVICE_MOJO_ADAPTER_H_
 

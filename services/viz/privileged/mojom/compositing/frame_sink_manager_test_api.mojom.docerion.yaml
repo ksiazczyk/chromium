@@ -1,0 +1,4 @@
+# Docerion header of frame_sink_manager_test_api.mojom.
+type: test
+title: FrameSinkManagerTestApi Mojom interface
+summary: Defines the FrameSinkManagerTestApi Mojom interface with synchronous test-only methods for ViewTransition resources, screenshot sizes, zoom state, and surface animations.

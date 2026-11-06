@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConsumerHost implementation
+// summary: Implements the Mojo consumer host that manages Perfetto tracing sessions, streams trace buffers, and exports traces to JSON.
+// ---
+
 #include "services/tracing/perfetto/consumer_host.h"
 
 #include <algorithm>

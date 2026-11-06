@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device factory implementation header
+// summary: Declares DeviceFactoryImpl, which exposes a media::VideoCaptureSystem through the mojom::DeviceFactory interface and tracks active device instances by ID.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_DEVICE_FACTORY_IMPL_H_
 #define SERVICES_VIDEO_CAPTURE_DEVICE_FACTORY_IMPL_H_
 

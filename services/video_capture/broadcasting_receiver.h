@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BroadcastingReceiver class declaration
+// summary: Declares the VideoFrameReceiver implementation that broadcasts frames to multiple clients and manages client suspension and buffer contexts.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_BROADCASTING_RECEIVER_H_
 #define SERVICES_VIDEO_CAPTURE_BROADCASTING_RECEIVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of frame_sink_manager.mojom.
+type: source
+title: FrameSinkManager Mojom interface
+summary: Defines the privileged FrameSinkManager Mojom interface through which the browser or window server creates and manages CompositorFrameSinks and Displays.

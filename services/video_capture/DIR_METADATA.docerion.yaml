@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Video capture directory metadata
+summary: Maps the directory to the camera capture bug tracker component and the media capture team email.

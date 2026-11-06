@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock video capture device test fixture implementation
+// summary: Implements reusable test setup that creates a DeviceFactoryImpl backed by a mock device and obtains the device and frame handler for testing.
+// ---
+
 #include "mock_video_capture_device_test.h"
 
 #include "base/functional/callback_helpers.h"

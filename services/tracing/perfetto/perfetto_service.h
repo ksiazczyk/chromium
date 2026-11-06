@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfettoService class declaration
+// summary: Declares PerfettoService, the Mojo interface wrapping the system-wide Perfetto tracing service and tracking active service PIDs and sessions.
+// ---
+
 #ifndef SERVICES_TRACING_PERFETTO_PERFETTO_SERVICE_H_
 #define SERVICES_TRACING_PERFETTO_PERFETTO_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Texture virtual device adapter header
+// summary: Declares TextureVirtualDeviceMojoAdapter, which implements the TextureVirtualDevice and Device interfaces for texture-based virtual capture devices.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_TEXTURE_VIRTUAL_DEVICE_MOJO_ADAPTER_H_
 #define SERVICES_VIDEO_CAPTURE_TEXTURE_VIRTUAL_DEVICE_MOJO_ADAPTER_H_
 

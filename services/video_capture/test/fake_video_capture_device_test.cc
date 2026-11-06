@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video capture device test fixture implementation
+// summary: Implements the FakeVideoCaptureDeviceTest fixture that opens video sources for the I420 and MJPEG fake devices and prepares requestable capture settings.
+// ---
+
 #include "services/video_capture/test/fake_video_capture_device_test.h"
 
 #include "base/functional/bind.h"

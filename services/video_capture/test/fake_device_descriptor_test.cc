@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake device descriptor test fixture implementation
+// summary: Implements the FakeDeviceDescriptorTest fixture that enumerates the fake device factory to obtain I420 and MJPEG fake device descriptors.
+// ---
+
 #include "services/video_capture/test/fake_device_descriptor_test.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push video stream subscription implementation
+// summary: Implements the PushVideoStreamSubscription Mojo interface, managing activation, suspension, resume, photo controls, and closing of a push subscription via a broadcasting receiver.
+// ---
+
 #include "services/video_capture/push_video_stream_subscription_impl.h"
 
 #include "base/functional/bind.h"

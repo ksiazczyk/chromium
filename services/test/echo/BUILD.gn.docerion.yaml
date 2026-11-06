@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Echo service build configuration
+summary: Defines GN build targets for the echo test service, including a source set with the service sources and a Windows-only preload library shared library.

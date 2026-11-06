@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video capture service test fixture header
+// summary: Declares the VideoCaptureServiceTest fixture that provides service setup and virtual device helpers shared by video capture service tests.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_TEST_VIDEO_CAPTURE_SERVICE_TEST_H_
 #define SERVICES_VIDEO_CAPTURE_TEST_VIDEO_CAPTURE_SERVICE_TEST_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of gpu_service.mojom.
+type: source
+title: GpuService Mojom interface
+summary: Defines the browser-facing GPU service interface for establishing GPU channels, managing disk and persistent caches, and accessing video and WebNN accelerators.

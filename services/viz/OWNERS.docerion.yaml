@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Viz directory owners
+summary: Delegates ownership reviews of services/viz to the owners listed in the components/viz OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device media to Mojo adapter implementation
+// summary: Implements the mojom::Device interface on top of a media::VideoCaptureDevice, handling start, stop, suspend, photo capture and buffer pool plumbing.
+// ---
+
 #include "services/video_capture/device_media_to_mojo_adapter.h"
 
 #include "base/check.h"

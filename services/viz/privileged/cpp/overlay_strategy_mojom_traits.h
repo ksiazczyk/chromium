@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlay strategy mojom traits
+// summary: Defines mojo EnumTraits converting overlay strategies between viz native code and viz::mojom, with a build-flag-gated cast strategy.
+// ---
+
 #ifndef SERVICES_VIZ_PRIVILEGED_CPP_OVERLAY_STRATEGY_MOJOM_TRAITS_H_
 #define SERVICES_VIZ_PRIVILEGED_CPP_OVERLAY_STRATEGY_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo service header
+// summary: Declares the EchoService class that implements the mojom EchoService interface for testing service processes.
+// ---
+
 #ifndef SERVICES_TEST_ECHO_ECHO_SERVICE_H_
 #define SERVICES_TEST_ECHO_ECHO_SERVICE_H_
 

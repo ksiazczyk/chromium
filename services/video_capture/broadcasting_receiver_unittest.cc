@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BroadcastingReceiver unit tests
+// summary: Tests that the broadcasting receiver holds buffer access permissions and delivers frames correctly across multiple clients.
+// ---
+
 #include "services/video_capture/broadcasting_receiver.h"
 
 #include "base/memory/unsafe_shared_memory_region.h"

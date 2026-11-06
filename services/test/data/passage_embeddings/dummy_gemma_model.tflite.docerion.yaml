@@ -1,0 +1,3 @@
+# Docerion header of dummy_gemma_model.tflite.
+type: test
+title: dummy_gemma_model.tflite

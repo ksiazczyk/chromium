@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device factory implementation for the video capture service
+// summary: Implements the mojom::DeviceFactory interface by wrapping a media::VideoCaptureSystem, translating device infos and creating and tracking video capture device instances.
+// ---
+
 #include "services/video_capture/device_factory_impl.h"
 
 #include <algorithm>

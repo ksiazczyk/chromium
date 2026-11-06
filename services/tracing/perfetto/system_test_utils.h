@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSystemService class interface for Perfetto tests
+// summary: Declares MockSystemService, a test helper that spins up a Perfetto tracing service with producer and consumer socket paths for integration tests.
+// ---
+
 #ifndef SERVICES_TRACING_PERFETTO_SYSTEM_TEST_UTILS_H_
 #define SERVICES_TRACING_PERFETTO_SYSTEM_TEST_UTILS_H_
 

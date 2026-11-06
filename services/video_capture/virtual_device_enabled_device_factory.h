@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual device enabled device factory header
+// summary: Declares VirtualDeviceEnabledDeviceFactory, a DeviceFactory decorator exposing registered virtual devices alongside real capture devices.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_VIRTUAL_DEVICE_ENABLED_DEVICE_FACTORY_H_
 #define SERVICES_VIDEO_CAPTURE_VIRTUAL_DEVICE_ENABLED_DEVICE_FACTORY_H_
 

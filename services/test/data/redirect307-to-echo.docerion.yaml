@@ -1,0 +1,4 @@
+# Docerion header of redirect307-to-echo.
+type: test
+title: Redirect 307 to echo test resource
+summary: Test resource body served with a 307 redirect to /echo, defined by its companion mock HTTP headers file.

@@ -1,0 +1,4 @@
+# Docerion header of display_private.mojom.
+type: source
+title: DisplayPrivate Mojom interface
+summary: Defines the DisplayPrivate Mojom interface used by privileged clients to control display visibility, resizing, color spaces, vsync parameters, and refresh rates.

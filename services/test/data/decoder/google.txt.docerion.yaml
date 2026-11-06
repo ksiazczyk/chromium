@@ -1,0 +1,4 @@
+# Docerion header of google.txt.
+type: test
+title: Google company overview decoder test text
+summary: Plain-text Google company overview used as test input for the decoder service, with compressed variants of the same text stored as sibling files.

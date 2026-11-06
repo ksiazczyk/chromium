@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Echo service implementation
+// summary: Implements the EchoService mojo service with echo, shared memory, crash, delay-load, native library loading, and encrypt/decrypt methods for testing.
+// ---
+
 #include "services/test/echo/echo_service.h"
 
 #include <optional>

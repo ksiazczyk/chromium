@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video source header
+// summary: Declares VideoSourceImpl, which tracks device status and push subscriptions and broadcasts frames for a single capture device.
+// ---
+
 #ifndef SERVICES_VIDEO_CAPTURE_VIDEO_SOURCE_IMPL_H_
 #define SERVICES_VIDEO_CAPTURE_VIDEO_SOURCE_IMPL_H_
 

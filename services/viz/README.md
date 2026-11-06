@@ -1,3 +1,9 @@
+---
+type: readme
+title: Viz Directory Structure
+summary: Describes the Viz service subservices, its privileged and unprivileged client model, and the directory layout for public, private, and privileged interfaces.
+---
+
 # Viz Directory Structure
 
 The Viz (Visuals) service is a collection of subservices: compositing, gl, hit

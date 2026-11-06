@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Devices changed notifier implementation
+// summary: Implements a notifier that forwards video capture device change events from base::SystemMonitor to registered Mojo observers.
+// ---
+
 #include "services/video_capture/devices_changed_notifier.h"
 
 #include <utility>

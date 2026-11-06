@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context lost reason mojom traits
+// summary: Defines mojo EnumTraits converting GPU context lost reasons between gpu::error and viz::mojom representations.
+// ---
+
 #ifndef SERVICES_VIZ_PRIVILEGED_CPP_CONTEXT_LOST_REASON_MOJOM_TRAITS_H_
 #define SERVICES_VIZ_PRIVILEGED_CPP_CONTEXT_LOST_REASON_MOJOM_TRAITS_H_
 

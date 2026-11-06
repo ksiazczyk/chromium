@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-generated privacy-filtered proto field tables
+// summary: Auto-generated tables of allowed TracePacket proto field IDs and sub-messages used to filter privacy-sensitive fields from traces.
+// ---
+
 #ifndef SERVICES_TRACING_PERFETTO_PRIVACY_FILTERED_FIELDS_INL_H_
 #define SERVICES_TRACING_PERFETTO_PRIVACY_FILTERED_FIELDS_INL_H_
 

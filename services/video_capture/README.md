@@ -1,3 +1,9 @@
+---
+type: readme
+title: Video capture service overview
+summary: Explains that services/video_capture provides access to native video capture devices and links to the service design document.
+---
+
 `services/video_capture` facilitates access to native video capture devices such as webcams and built-in cameras.
 
 See the [service design

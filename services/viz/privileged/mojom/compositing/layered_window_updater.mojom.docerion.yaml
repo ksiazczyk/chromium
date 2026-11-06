@@ -1,0 +1,4 @@
+# Docerion header of layered_window_updater.mojom.
+type: source
+title: LayeredWindowUpdater Mojo interface
+summary: Defines a Mojo interface letting the GPU draw layered window pixels into shared memory and ask the browser to call UpdateLayeredWindow().

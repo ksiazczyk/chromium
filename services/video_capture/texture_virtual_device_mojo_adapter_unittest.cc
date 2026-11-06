@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Texture virtual device Mojo adapter unit tests
+// summary: Unit tests for TextureVirtualDeviceMojoAdapter verifying that buffer handles are shared with receivers connecting late or after a previous receiver disconnects.
+// ---
+
 #include "services/video_capture/texture_virtual_device_mojo_adapter.h"
 
 #include "base/run_loop.h"

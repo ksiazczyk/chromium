@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProducerHost class interface for Perfetto producer integration
+// summary: Declares the ProducerHost class, the service-side half of the Perfetto producer pair that registers data sources and relays tracing control and shared memory commit messages between Perfetto and producer clients.
+// ---
+
 #ifndef SERVICES_TRACING_PERFETTO_PRODUCER_HOST_H_
 #define SERVICES_TRACING_PERFETTO_PRODUCER_HOST_H_
 

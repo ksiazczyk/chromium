@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivacyFilteringCheck unit tests
+// summary: Tests that privacy filtering keeps allowed trace fields and removes disallowed ones from Perfetto trace packets.
+// ---
+
 #include "services/tracing/perfetto/privacy_filtering_check.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

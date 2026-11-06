@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Mock producer and consumer helpers for Perfetto tracing tests
+// summary: Implements MockProducer and related test helpers that connect to the tracing service, register data sources, and write trace packets during tests.
+// ---
+
 #include "services/tracing/perfetto/test_utils.h"
 
 #include <utility>
