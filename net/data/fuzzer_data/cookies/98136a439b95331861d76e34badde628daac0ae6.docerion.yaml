@@ -1,0 +1,4 @@
+# Docerion header of 98136a439b95331861d76e34badde628daac0ae6.
+type: data
+title: 'Fuzzer cookie data: obuid'
+summary: Fuzzer input cookie string setting the obuid cookie with max-age, expiry, path and domain attributes.

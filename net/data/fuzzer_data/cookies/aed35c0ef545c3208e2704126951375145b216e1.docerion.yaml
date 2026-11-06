@@ -1,0 +1,4 @@
+# Docerion header of aed35c0ef545c3208e2704126951375145b216e1.
+type: data
+title: Fuzzer cookie input for mookie1.com syncdata_DAT cookie
+summary: Cookie string for .mookie1.com with Domain, Expires and Path attributes, stored as fuzzer input for cookie parsing.

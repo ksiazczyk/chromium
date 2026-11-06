@@ -1,0 +1,4 @@
+# Docerion header of e486dc80398ed1368e2f14543a7d262a823faa33.
+type: data
+title: 'Fuzzer cookie input: Google NID cookie'
+summary: Fuzzer data file holding a Google NID cookie string with expiry, path, domain and HttpOnly attributes.

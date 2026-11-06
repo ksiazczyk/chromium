@@ -1,0 +1,4 @@
+# Docerion header of 7d6a16550506d166e4aa837f14624dd8674f1a5c.
+type: data
+title: 'Cookie fuzzer data: rubiconproject rpx cookie'
+summary: Fuzzer input with a percent-encoded rpx cookie string for the .pixel.rubiconproject.com domain.

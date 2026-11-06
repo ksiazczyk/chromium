@@ -1,0 +1,4 @@
+# Docerion header of 562c88df1ab3e5861b2077bdb236b64307a8af49.
+type: data
+title: 'Fuzzer cookie data: CNN tosAgreed cookie'
+summary: Fuzzer input containing a tosAgreed cookie string for .cnn.com with expiry and path attributes.

@@ -1,0 +1,4 @@
+# Docerion header of 05e36c1756f2385dfd7f9b62e906163b0fd11de1.
+type: test
+title: 'Fuzzer cookie data: PUBMDCID cookie for pubmatic.com'
+summary: Cookie string setting PUBMDCID with domain, expiry date and path attributes.

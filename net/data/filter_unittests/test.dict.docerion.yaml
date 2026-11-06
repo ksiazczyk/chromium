@@ -1,0 +1,4 @@
+# Docerion header of test.dict.
+type: test
+title: Test dictionary for filter unit tests
+summary: Dictionary data containing Google overview text used by the filter unit tests.

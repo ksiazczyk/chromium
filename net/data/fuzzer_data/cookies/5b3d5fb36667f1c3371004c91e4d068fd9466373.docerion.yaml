@@ -1,0 +1,4 @@
+# Docerion header of 5b3d5fb36667f1c3371004c91e4d068fd9466373.
+type: data
+title: 'Fuzzer cookie data: cookies.js cookie with path'
+summary: Fuzzer input containing a cookies.js=1 cookie string limited to the root path.

@@ -1,0 +1,4 @@
+# Docerion header of ipv6_5.txt.
+type: data
+title: 'Fuzzer hostname input: compressed IPv6 address'
+summary: Fuzzer input data containing a bracketed compressed IPv6 address used to exercise hostname parsing.

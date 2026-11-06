@@ -1,0 +1,4 @@
+# Docerion header of db21ed57b9957be739e288f3f3df7e37469fd4c5.
+type: data
+title: 'Fuzzer cookie data: _cb_svref deletion cookie'
+summary: Cookie string setting _cb_svref to null with an expiry date and path, used as fuzzer input.

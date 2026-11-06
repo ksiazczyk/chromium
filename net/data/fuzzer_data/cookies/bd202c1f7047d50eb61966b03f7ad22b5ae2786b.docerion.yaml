@@ -1,0 +1,4 @@
+# Docerion header of bd202c1f7047d50eb61966b03f7ad22b5ae2786b.
+type: data
+title: 'Fuzzer cookie sample: NID for .google.com'
+summary: Cookie string with a long NID value plus expires, path, domain, and HttpOnly attributes for .google.com, used as fuzzer input.

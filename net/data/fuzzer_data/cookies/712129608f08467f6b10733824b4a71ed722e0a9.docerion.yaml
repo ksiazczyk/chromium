@@ -1,0 +1,4 @@
+# Docerion header of 712129608f08467f6b10733824b4a71ed722e0a9.
+type: test
+title: Fuzzer cookie data for cnn.com ajs:cookies cookie
+summary: URL-encoded ajs:cookies cookie string for .cnn.com with path, domain and expiry, stored as fuzzer input data.

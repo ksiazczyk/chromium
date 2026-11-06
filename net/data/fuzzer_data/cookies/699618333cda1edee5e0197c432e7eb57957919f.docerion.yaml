@@ -1,0 +1,4 @@
+# Docerion header of 699618333cda1edee5e0197c432e7eb57957919f.
+type: test
+title: Fuzzer cookie data for pippio.com didts cookie
+summary: Cookie string setting a didts cookie on pippio.com, stored as fuzzer input data for cookie handling tests.

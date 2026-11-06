@@ -1,0 +1,4 @@
+# Docerion header of 0eb6de4cdbcf481c51ca734011bac450a2035f9b.
+type: data
+title: 'Cookie fuzzer input: mnet_session_depth'
+summary: Fuzzer corpus entry with a URL-encoded session depth cookie and a path attribute.

@@ -1,0 +1,4 @@
+# Docerion header of 4f5029d0bed2d665cc3453e98d33557b77e57702.
+type: data
+title: Fuzzer cookie input for a uid-bp identifier
+summary: Cookie string used as fuzzer input, setting a uid-bp identifier to 1 with an expiry date and path attribute.

@@ -1,0 +1,4 @@
+# Docerion header of a967d0eff334c245ba15b2df413b191c8d6f4c06.
+type: data
+title: Fuzzer cookie input for scorecardresearch.com
+summary: Cookie string for a scorecardresearch.com UIDR cookie with expiry, path and domain attributes, kept as fuzzer test data.

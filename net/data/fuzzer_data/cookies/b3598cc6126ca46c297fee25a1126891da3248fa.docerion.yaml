@@ -1,0 +1,4 @@
+# Docerion header of b3598cc6126ca46c297fee25a1126891da3248fa.
+type: data
+title: Fuzzer cookie input for nytimes.com walley cookie
+summary: Cookie string for nytimes.com with path, expires and domain attributes, stored as fuzzer input for cookie parsing.

@@ -1,0 +1,4 @@
+# Docerion header of eb44a6fd7935b23d6c2dda809b6b7d4bbed69f65.
+type: data
+title: 'Fuzzer cookie input: NYT nyt-gdpr cookie'
+summary: Fuzzer data file with a nyt-gdpr cookie string for .nytimes.com including expiry, path and domain attributes.

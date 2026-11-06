@@ -1,0 +1,4 @@
+# Docerion header of 7a95bb483c6b50d6ab8c5311f5a232179ca6d2a4.
+type: data
+title: 'Cookie fuzzer data: doubleclick.net test_cookie'
+summary: Fuzzer input with a test_cookie=CheckForPermission string for the .doubleclick.net domain with expiry and path.

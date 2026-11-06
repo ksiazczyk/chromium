@@ -1,0 +1,4 @@
+# Docerion header of 4788a8f6103e590553694d34981c5bce2c5261a3.
+type: test
+title: 'Cookie fuzzer input: AWSELB load balancer cookie'
+summary: Fuzzer corpus entry with a Set-Cookie string for an AWSELB cookie carrying a long hex value and an uppercase PATH attribute.

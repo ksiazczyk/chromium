@@ -1,0 +1,4 @@
+# Docerion header of 2c29369ca4e15acef98ca5714ecaf51ab6cc0b95.
+type: data
+title: 'Fuzzer cookie input: MR=0 for c.bing.com'
+summary: Cookie string used as fuzzer input, setting MR=0 on domain c.bing.com with expiry and path attributes.

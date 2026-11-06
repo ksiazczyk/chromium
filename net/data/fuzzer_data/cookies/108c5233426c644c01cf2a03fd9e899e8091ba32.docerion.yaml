@@ -1,0 +1,4 @@
+# Docerion header of 108c5233426c644c01cf2a03fd9e899e8091ba32.
+type: data
+title: 'Cookie fuzzer input: anj'
+summary: Fuzzer corpus entry with a long .adnxs.com cookie value plus SameSite, Max-Age, Expires, Domain and HttpOnly attributes.

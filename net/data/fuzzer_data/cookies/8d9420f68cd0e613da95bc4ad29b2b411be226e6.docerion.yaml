@@ -1,0 +1,4 @@
+# Docerion header of 8d9420f68cd0e613da95bc4ad29b2b411be226e6.
+type: data
+title: 'Fuzzer cookie data: SERVERID cookie with Docker host'
+summary: Fuzzer input with a SERVERID cookie naming a production Docker host, scoped to the root path.

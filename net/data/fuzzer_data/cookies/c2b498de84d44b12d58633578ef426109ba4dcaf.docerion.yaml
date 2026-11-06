@@ -1,0 +1,4 @@
+# Docerion header of c2b498de84d44b12d58633578ef426109ba4dcaf.
+type: test
+title: Fuzzer cookie input with SameSite=Strict
+summary: Cookie fuzzer test input parsing a simple name-value pair with the SameSite=Strict attribute.

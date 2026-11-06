@@ -1,0 +1,4 @@
+# Docerion header of 654546257dc2678ee6c6c2e4b12606b63f22dc26.
+type: data
+title: 'Fuzzer cookie data: C6 for .serving-sys.com'
+summary: Fuzzer input containing an empty C6 cookie string for .serving-sys.com with expiry, domain and path attributes.

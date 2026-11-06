@@ -1,0 +1,4 @@
+# Docerion header of ipv4_6.txt.
+type: test
+title: 'Fuzzer input: 32-bit hexadecimal IPv4 integer'
+summary: Fuzzer input with a single 32-bit hexadecimal integer encoding an IPv4 address.

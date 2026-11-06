@@ -1,0 +1,4 @@
+# Docerion header of b4a4b331511573b1cba6212bcfcfcfce76c9a1d2.
+type: data
+title: Fuzzer cookie input for mnet_session_depth cookie
+summary: URL-encoded cookie value with a path attribute, stored as fuzzer input for cookie parsing.

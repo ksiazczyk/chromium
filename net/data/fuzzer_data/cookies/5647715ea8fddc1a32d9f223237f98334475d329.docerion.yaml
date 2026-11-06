@@ -1,0 +1,4 @@
+# Docerion header of 5647715ea8fddc1a32d9f223237f98334475d329.
+type: data
+title: 'Fuzzer cookie data: SameSite=Lax cookie'
+summary: Fuzzer input containing a minimal a=b cookie string carrying the SameSite=Lax attribute.

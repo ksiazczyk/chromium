@@ -1,0 +1,4 @@
+# Docerion header of ab45fd913c24c5b0c8777d53a5f2a5ed97d4b33a.
+type: data
+title: Fuzzer cookie input for pippio.com
+summary: Cookie string for a pippio.com nnls cookie with an empty value plus path, domain and expiry attributes, kept as fuzzer test data.

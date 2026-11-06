@@ -1,0 +1,4 @@
+# Docerion header of ee29ed6f1e292da3b39b23e5872f68ad3650eca7.
+type: data
+title: 'Fuzzer cookie input: sessionIndex cookie'
+summary: Fuzzer data file with a sessionIndex cookie string for et.nytimes.com including expiry, max-age, path and domain attributes.

@@ -1,0 +1,4 @@
+# Docerion header of d067e2ce2fb24e91781a9d2dba39789bc640ba58.
+type: data
+title: 'Fuzzer cookie input: KTPCACOOKIE for pubmatic.com'
+summary: Fuzzer data file containing a Set-Cookie string for KTPCACOOKIE on pubmatic.com with expiry, path and domain attributes, used as cookie parsing test input.

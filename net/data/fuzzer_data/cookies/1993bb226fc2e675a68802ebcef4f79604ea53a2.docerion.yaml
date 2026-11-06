@@ -1,0 +1,4 @@
+# Docerion header of 1993bb226fc2e675a68802ebcef4f79604ea53a2.
+type: data
+title: 'Fuzzer cookie sample: anj (adnxs.com)'
+summary: Fuzzer input with an adnxs.com anj cookie string containing special characters in the value plus SameSite, Max-Age, expiry, domain and HttpOnly attributes.

@@ -1,0 +1,4 @@
+# Docerion header of b9068d648a12bdd59916d36aabaa5028d428ca3a.
+type: data
+title: Fuzzer cookie input for akacd_widgets_stg cookie
+summary: Akamai-style cookie string with a tilde-separated value and path attribute, stored as fuzzer input for cookie parsing.

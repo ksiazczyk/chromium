@@ -1,0 +1,4 @@
+# Docerion header of 9daf222acc36cfe241f0e660431bb5760aab59f6.
+type: data
+title: 'Fuzzer cookie data: optimizelyDomainTestCookie'
+summary: Fuzzer input cookie string setting optimizelyDomainTestCookie with domain, path and a past expiry date.

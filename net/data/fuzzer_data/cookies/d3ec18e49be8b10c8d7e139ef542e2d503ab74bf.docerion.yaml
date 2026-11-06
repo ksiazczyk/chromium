@@ -1,0 +1,4 @@
+# Docerion header of d3ec18e49be8b10c8d7e139ef542e2d503ab74bf.
+type: data
+title: 'Fuzzer cookie input: cto_writeable for cnn.com'
+summary: Fuzzer data file with an empty cto_writeable cookie for the .cnn.com domain, exercising cookie parsing with expiry, domain and path attributes.

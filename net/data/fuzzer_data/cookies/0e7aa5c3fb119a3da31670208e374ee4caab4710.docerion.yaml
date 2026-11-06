@@ -1,0 +1,4 @@
+# Docerion header of 0e7aa5c3fb119a3da31670208e374ee4caab4710.
+type: data
+title: 'Cookie fuzzer input: PUBMDCID'
+summary: Fuzzer corpus entry with a pubmatic.com cookie including expires and path attributes.

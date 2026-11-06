@@ -1,0 +1,4 @@
+# Docerion header of c7977a8a3aefa635c80cfa8bca2d1fb3d3e26a25.
+type: test
+title: Fuzzer cookie input with multiple cookie attributes
+summary: Cookie fuzzer test input combining SameSite=None, Max-Age, Expires, Domain and HttpOnly attributes.

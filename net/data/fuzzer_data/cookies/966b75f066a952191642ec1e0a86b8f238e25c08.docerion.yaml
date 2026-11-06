@@ -1,0 +1,4 @@
+# Docerion header of 966b75f066a952191642ec1e0a86b8f238e25c08.
+type: data
+title: 'Fuzzer cookie data: pid cookie for pixel.parsely.com'
+summary: Fuzzer input with a pid visitor cookie for pixel.parsely.com including expiry, domain and path attributes.

@@ -1,0 +1,4 @@
+# Docerion header of 72c7e26ca5ddcde6c7af72f6d6809a273cb502c6.
+type: data
+title: 'Cookie fuzzer data: amazon-adsystem.com ad-id cookie'
+summary: Fuzzer input with an ad-id cookie string for .amazon-adsystem.com including HttpOnly, path and expiry attributes.

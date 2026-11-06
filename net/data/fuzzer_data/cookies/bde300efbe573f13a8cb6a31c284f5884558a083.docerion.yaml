@@ -1,0 +1,4 @@
+# Docerion header of bde300efbe573f13a8cb6a31c284f5884558a083.
+type: data
+title: 'Fuzzer cookie sample: vis15 for .rubiconproject.com'
+summary: Cookie string setting vis15 with Domain, Path, Expires, and Max-Age attributes for .rubiconproject.com, used as fuzzer input.

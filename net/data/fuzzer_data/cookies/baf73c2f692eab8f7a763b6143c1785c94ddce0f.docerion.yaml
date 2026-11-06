@@ -1,0 +1,4 @@
+# Docerion header of baf73c2f692eab8f7a763b6143c1785c94ddce0f.
+type: data
+title: 'Fuzzer cookie sample: _gat_UA1168580691 for pay.google.com'
+summary: Cookie string setting _gat_UA1168580691=1 with path, expires, and domain attributes for pay.google.com, used as fuzzer input.

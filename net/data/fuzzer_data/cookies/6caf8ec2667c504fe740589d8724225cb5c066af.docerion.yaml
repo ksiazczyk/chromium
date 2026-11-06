@@ -1,0 +1,4 @@
+# Docerion header of 6caf8ec2667c504fe740589d8724225cb5c066af.
+type: test
+title: Fuzzer cookie data for openx.net univ_id cookie
+summary: Cookie string setting a versioned univ_id cookie on .openx.net with expiry and Max-Age, used as fuzzer input data.

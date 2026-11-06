@@ -1,0 +1,4 @@
+# Docerion header of 42f3bd0fb1ece69f762f018eb58bebb9f2ac5836.
+type: test
+title: 'Cookie fuzzer input: expired rx cookie with empty domain'
+summary: Fuzzer corpus entry with a Set-Cookie string that expires the rx cookie at the Unix epoch and uses an empty Domain attribute.

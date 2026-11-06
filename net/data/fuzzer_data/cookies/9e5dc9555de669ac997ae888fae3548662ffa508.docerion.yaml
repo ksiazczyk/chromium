@@ -1,0 +1,4 @@
+# Docerion header of 9e5dc9555de669ac997ae888fae3548662ffa508.
+type: data
+title: 'Fuzzer cookie data: test'
+summary: Fuzzer input cookie string clearing a test cookie with a past expiry, path and domain attributes.

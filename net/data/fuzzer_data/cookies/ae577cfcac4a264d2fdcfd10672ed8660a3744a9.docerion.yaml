@@ -1,0 +1,4 @@
+# Docerion header of ae577cfcac4a264d2fdcfd10672ed8660a3744a9.
+type: data
+title: Fuzzer cookie input for bat.bing.com
+summary: Cookie string for a bat.bing.com MR cookie with domain, expiry and path attributes, kept as fuzzer test data.

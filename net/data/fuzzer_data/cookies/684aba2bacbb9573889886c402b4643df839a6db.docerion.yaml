@@ -1,0 +1,4 @@
+# Docerion header of 684aba2bacbb9573889886c402b4643df839a6db.
+type: data
+title: 'Fuzzer cookie data: SyncRTB2 for pubmatic.com'
+summary: Fuzzer input containing a URL-encoded SyncRTB2 cookie string for pubmatic.com with domain, path and max-age attributes.

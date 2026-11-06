@@ -1,0 +1,4 @@
+# Docerion header of 552b9175113106037c5ebb2f3415039bb16ac2d7.
+type: data
+title: 'Fuzzer cookie data: Reddit ucs cookie with secure attribute'
+summary: Fuzzer input containing a long Reddit ucs cookie string with path, expiry, domain and secure attributes.

@@ -1,0 +1,4 @@
+# Docerion header of 6cdcd6da0cb200c3990b4261dbd37c84751f6a19.
+type: test
+title: Fuzzer cookie data for acxiomapac.com ACXID cookie
+summary: Quoted ACXID cookie string for acxiomapac.com with Max-Age and expiry, stored as fuzzer input data.

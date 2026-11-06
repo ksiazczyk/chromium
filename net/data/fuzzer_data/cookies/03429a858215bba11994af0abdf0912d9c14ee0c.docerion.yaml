@@ -1,0 +1,4 @@
+# Docerion header of 03429a858215bba11994af0abdf0912d9c14ee0c.
+type: test
+title: 'Fuzzer cookie data: ONPLFTRH cookie with path attribute'
+summary: Minimal cookie string setting an ONPLFTRH name-value pair with a path attribute.

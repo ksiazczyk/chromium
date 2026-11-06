@@ -1,0 +1,4 @@
+# Docerion header of 6fba37a06b13f6dfc8d2b54ceb60adf7fab51d30.
+type: test
+title: Fuzzer cookie data for cnn.com cnprevpage_pn cookie
+summary: URL-encoded cnprevpage_pn cookie string for .cnn.com with path, expiry and domain attributes, used as fuzzer input.

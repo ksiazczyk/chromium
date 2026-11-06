@@ -1,0 +1,4 @@
+# Docerion header of 03a79f27987511c315b984d435dfc15ae78254a3.
+type: test
+title: 'Fuzzer cookie data: expired ab._gd cookie for wcvb.com'
+summary: Cookie string that deletes an ab._gd cookie by setting a 1970 expiry on .wcvb.com.

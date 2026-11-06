@@ -1,0 +1,4 @@
+# Docerion header of bee3b3eab3a566eead02de9473d3987ee418918e.
+type: data
+title: 'Fuzzer cookie sample: KCCH for ads.pubmatic.com'
+summary: Cookie string setting KCCH=YES with expires, path, and domain attributes for ads.pubmatic.com, used as fuzzer input.

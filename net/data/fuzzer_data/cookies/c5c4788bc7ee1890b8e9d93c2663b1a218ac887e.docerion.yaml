@@ -1,0 +1,4 @@
+# Docerion header of c5c4788bc7ee1890b8e9d93c2663b1a218ac887e.
+type: test
+title: Fuzzer cookie input with expiry and Secure attribute
+summary: Cookie fuzzer test input with an empty cookie value, epoch expiry date, path and Secure attribute.

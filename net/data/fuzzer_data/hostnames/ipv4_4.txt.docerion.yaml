@@ -1,0 +1,4 @@
+# Docerion header of ipv4_4.txt.
+type: test
+title: 'Fuzzer input: hexadecimal-notation IPv4 address'
+summary: Fuzzer input with an IPv4 address whose parts use hexadecimal notation forms.

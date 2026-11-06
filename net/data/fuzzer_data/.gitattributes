@@ -1,1 +1,7 @@
+# ---docerion
+# type: config
+# title: Git attributes marking fuzzer data as binary
+# summary: Marks all files in the fuzzer_data directory as binary so Git handles them as binary rather than text.
+# ---
+
 *       binary

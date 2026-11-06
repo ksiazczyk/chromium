@@ -1,0 +1,4 @@
+# Docerion header of ipv6_4.txt.
+type: data
+title: 'Fuzzer hostname input: IPv4-mapped IPv6 with hex octets'
+summary: Fuzzer input data containing a bracketed IPv4-mapped IPv6 address written with hexadecimal octets.

@@ -1,0 +1,4 @@
+# Docerion header of 0ab0209635f1475211b92f8a0918902a8020e173.
+type: data
+title: 'Fuzzer cookie input: _cb_svref cookie'
+summary: Cookie string setting the _cb_svref cookie to null with an expiry and path, stored as fuzzer input for cookie parsing.

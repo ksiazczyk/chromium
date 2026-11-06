@@ -1,0 +1,4 @@
+# Docerion header of 008f0f1b95feed1a3ad93c43c8865c58dc71db7f.
+type: data
+title: Fuzzer input for CT signed certificate timestamp decoding
+summary: Binary seed corpus entry for the ct_decode_signed_certificate_timestamp_fuzzer, used to exercise decoding of Certificate Transparency signed certificate timestamp data.

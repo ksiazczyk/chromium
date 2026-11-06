@@ -1,0 +1,4 @@
+# Docerion header of ipv6_3.txt.
+type: data
+title: 'Fuzzer hostname input: incomplete IPv4-mapped IPv6 address'
+summary: Fuzzer input data containing a bracketed, incomplete IPv4-mapped IPv6 address for hostname parsing tests.

@@ -1,0 +1,4 @@
+# Docerion header of fec9232ce26d526167f5bd254706a5249090a593.
+type: data
+title: Cookie fuzzer input data
+summary: Fuzzer input data holding a cookie header string with Version, Expires, Max-Age, Domain and Path attributes used for cookie parsing tests.

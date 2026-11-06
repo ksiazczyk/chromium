@@ -1,0 +1,4 @@
+# Docerion header of b0df406eea85a70bb1324627f2ee8c90a36da71c.
+type: data
+title: Fuzzer cookie input for pippio.com pxrc cookie
+summary: Cookie string for pippio.com with Path, Domain and Expires attributes, stored as fuzzer input for cookie parsing.

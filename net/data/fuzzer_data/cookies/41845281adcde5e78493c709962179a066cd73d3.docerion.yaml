@@ -1,0 +1,4 @@
+# Docerion header of 41845281adcde5e78493c709962179a066cd73d3.
+type: test
+title: 'Cookie fuzzer input: cto_writeable for .cnn.com'
+summary: Fuzzer corpus entry with a Set-Cookie string setting the cto_writeable cookie on .cnn.com with an expiry date and path.

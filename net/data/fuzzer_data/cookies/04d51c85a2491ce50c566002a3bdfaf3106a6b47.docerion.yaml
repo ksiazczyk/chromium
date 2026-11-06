@@ -1,0 +1,4 @@
+# Docerion header of 04d51c85a2491ce50c566002a3bdfaf3106a6b47.
+type: test
+title: 'Fuzzer cookie data: tuuid tracking cookie for bidswitch.net'
+summary: Cookie string with a tuuid UUID value plus path, expiry and .bidswitch.net domain attributes.

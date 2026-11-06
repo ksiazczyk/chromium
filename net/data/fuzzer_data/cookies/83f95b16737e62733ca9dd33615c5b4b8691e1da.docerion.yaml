@@ -1,0 +1,4 @@
+# Docerion header of 83f95b16737e62733ca9dd33615c5b4b8691e1da.
+type: data
+title: 'Cookie fuzzer data: nytimes.com __gads cookie'
+summary: Fuzzer input with a __gads advertising cookie string for the .nytimes.com domain with expiry and path.

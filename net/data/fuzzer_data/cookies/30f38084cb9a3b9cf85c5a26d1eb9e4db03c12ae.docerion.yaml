@@ -1,0 +1,4 @@
+# Docerion header of 30f38084cb9a3b9cf85c5a26d1eb9e4db03c12ae.
+type: data
+title: 'Fuzzer cookie input: KTPCACOOKIE=YES with max-age'
+summary: Cookie string used as fuzzer input, setting KTPCACOOKIE=YES on .pubmatic.com with a max-age attribute instead of an expiry date.

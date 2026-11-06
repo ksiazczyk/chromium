@@ -1,0 +1,4 @@
+# Docerion header of c9781b22777b843d2edc9c008d09a0b7ce18c63c.
+type: test
+title: Fuzzer cookie input with CNN domain attribute
+summary: Cookie fuzzer test input setting a numeric cookie value with path and CNN domain attributes.

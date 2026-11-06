@@ -1,0 +1,4 @@
+# Docerion header of 7e7bfb391ef30a6ce2e73d2fd6cbf6da2892ac0b.
+type: data
+title: 'Cookie fuzzer data: doubleclick.net IDE cookie'
+summary: Fuzzer input with a long IDE cookie string for .doubleclick.net marked HttpOnly with an expiry date and path.

@@ -1,0 +1,4 @@
+# Docerion header of 1f87d4962ece5125f8f37cb79e0ec9c56db07bff.
+type: data
+title: 'Fuzzer cookie sample: _cb'
+summary: Fuzzer input with a short _cb cookie string including an expiry date and path attribute.

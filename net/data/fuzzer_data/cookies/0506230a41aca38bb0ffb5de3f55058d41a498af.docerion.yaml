@@ -1,0 +1,4 @@
+# Docerion header of 0506230a41aca38bb0ffb5de3f55058d41a498af.
+type: test
+title: 'Fuzzer cookie data: jkidd-l session cookie for a.nytimes.com'
+summary: Long cookie string with URL-encoded session tracking values plus Path, Domain, Max-Age and HttpOnly attributes.

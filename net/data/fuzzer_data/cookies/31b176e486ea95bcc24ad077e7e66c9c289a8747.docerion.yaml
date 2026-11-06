@@ -1,0 +1,4 @@
+# Docerion header of 31b176e486ea95bcc24ad077e7e66c9c289a8747.
+type: data
+title: 'Fuzzer cookie input: AKA_A2=A for cdn.turner.com'
+summary: Cookie string used as fuzzer input, setting AKA_A2=A on cdn.turner.com with secure and HttpOnly flags.

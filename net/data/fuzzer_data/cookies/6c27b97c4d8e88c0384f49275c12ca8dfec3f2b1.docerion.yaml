@@ -1,0 +1,4 @@
+# Docerion header of 6c27b97c4d8e88c0384f49275c12ca8dfec3f2b1.
+type: test
+title: Fuzzer cookie data for mookie1.com syncdata_TAP cookie
+summary: Cookie string setting a syncdata_TAP cookie on .mookie1.com, stored as fuzzer input data for cookie handling tests.

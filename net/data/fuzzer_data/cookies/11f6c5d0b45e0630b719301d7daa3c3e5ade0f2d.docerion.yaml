@@ -1,0 +1,4 @@
+# Docerion header of 11f6c5d0b45e0630b719301d7daa3c3e5ade0f2d.
+type: data
+title: 'Cookie fuzzer input: IDE'
+summary: Fuzzer corpus entry with a .doubleclick.net IDE cookie including expiry, path, domain and HttpOnly attributes.

@@ -1,0 +1,4 @@
+# Docerion header of f13fd0f50220d38cc903dce9c8122bd59ec3f529.
+type: data
+title: __cfduid cookie fuzzer sample
+summary: Fuzzer input with an HttpOnly __cfduid cookie for the crazyegg.com domain.

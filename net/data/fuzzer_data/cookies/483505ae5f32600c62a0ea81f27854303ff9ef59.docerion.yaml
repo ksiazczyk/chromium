@@ -1,0 +1,4 @@
+# Docerion header of 483505ae5f32600c62a0ea81f27854303ff9ef59.
+type: test
+title: 'Cookie fuzzer input: uid cookie for adform.net'
+summary: Fuzzer corpus entry with a Set-Cookie string setting a uid cookie on adform.net with expiry and path attributes.

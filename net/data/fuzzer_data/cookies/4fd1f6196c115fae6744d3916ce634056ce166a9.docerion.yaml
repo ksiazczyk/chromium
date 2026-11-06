@@ -1,0 +1,4 @@
+# Docerion header of 4fd1f6196c115fae6744d3916ce634056ce166a9.
+type: data
+title: Fuzzer cookie input setting the gpt_av flag
+summary: Cookie string used as fuzzer input, setting the gpt_av flag to 1 with an expiry date and path attribute.

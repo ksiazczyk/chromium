@@ -1,0 +1,4 @@
+# Docerion header of 9baaac27c51a8e252694fcfee5de56a959f58812.
+type: data
+title: 'Fuzzer cookie data: _GFT'
+summary: Fuzzer input cookie string clearing the _GFT cookie via a zero max-age attribute.

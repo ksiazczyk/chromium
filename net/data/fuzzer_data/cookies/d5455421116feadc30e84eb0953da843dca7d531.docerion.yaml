@@ -1,0 +1,4 @@
+# Docerion header of d5455421116feadc30e84eb0953da843dca7d531.
+type: data
+title: 'Fuzzer cookie input: bounceClientVisit340 expiry cookie'
+summary: Fuzzer data file with a bounceClientVisit340 cookie set to expire in 1970, exercising parsing of already-expired cookie deletion strings.

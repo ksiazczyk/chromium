@@ -1,0 +1,4 @@
+# Docerion header of c1a11b69a334883638a59a9a4f46ea8011ca62bd.
+type: data
+title: 'Fuzzer cookie sample: AA003 for .atdmt.com'
+summary: Cookie string with an AA003 value and expires, path, domain, and HttpOnly attributes for .atdmt.com, used as fuzzer input.

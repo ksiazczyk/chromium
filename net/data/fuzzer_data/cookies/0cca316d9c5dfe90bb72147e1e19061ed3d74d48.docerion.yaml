@@ -1,0 +1,4 @@
+# Docerion header of 0cca316d9c5dfe90bb72147e1e19061ed3d74d48.
+type: data
+title: 'Fuzzer cookie input: rmuid cookie for linksynergy.com'
+summary: Cookie string setting the rmuid cookie for .linksynergy.com, stored as fuzzer input for cookie parsing.

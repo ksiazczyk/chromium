@@ -1,0 +1,4 @@
+# Docerion header of a5e269a9df8c9bd955bba6a55fee5a7389d5083a.
+type: data
+title: Fuzzer cookie input for nytimes.com
+summary: Cookie string for a nytimes.com edu_cig_opt_jk cookie with Max-Age and HttpOnly attributes, kept as fuzzer test data.

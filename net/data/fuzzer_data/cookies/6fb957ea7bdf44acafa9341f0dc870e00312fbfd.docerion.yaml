@@ -1,0 +1,4 @@
+# Docerion header of 6fb957ea7bdf44acafa9341f0dc870e00312fbfd.
+type: test
+title: Fuzzer cookie data for amazon-adsystem.com ad-id cookie
+summary: HttpOnly ad-id cookie string for .amazon-adsystem.com, stored as fuzzer input data for cookie handling tests.

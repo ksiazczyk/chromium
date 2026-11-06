@@ -1,0 +1,4 @@
+# Docerion header of df73098143170c180a39a623c462b7543f0492ad.
+type: data
+title: 'Fuzzer cookie data: _cc_cc cookie with SameSite=None'
+summary: Cookie string with a quoted _cc_cc value plus Version, Path, Domain, Expires, Max-Age and SameSite attributes.

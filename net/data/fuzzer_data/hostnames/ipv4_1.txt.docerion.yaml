@@ -1,0 +1,4 @@
+# Docerion header of ipv4_1.txt.
+type: test
+title: 'Fuzzer input: plain dotted-decimal IPv4 address'
+summary: Fuzzer input holding a standard dotted-decimal IPv4 address for hostname parsing tests.

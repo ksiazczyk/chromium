@@ -1,0 +1,4 @@
+# Docerion header of 64073c0a644c5a0c8bd726017654ee383632be99.
+type: data
+title: 'Fuzzer cookie data: loid for .reddit.com'
+summary: Fuzzer input containing a long loid cookie string for .reddit.com with path, expiry, domain and secure attributes.

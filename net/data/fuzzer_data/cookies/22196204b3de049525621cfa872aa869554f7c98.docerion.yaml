@@ -1,0 +1,4 @@
+# Docerion header of 22196204b3de049525621cfa872aa869554f7c98.
+type: data
+title: 'Fuzzer cookie sample: empty cd cookie'
+summary: Fuzzer input with an empty cd cookie string set to expire at the Unix epoch, exercising cookie deletion semantics.

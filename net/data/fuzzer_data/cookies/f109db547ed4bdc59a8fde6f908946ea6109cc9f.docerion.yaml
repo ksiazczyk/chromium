@@ -1,0 +1,4 @@
+# Docerion header of f109db547ed4bdc59a8fde6f908946ea6109cc9f.
+type: data
+title: khaos cookie fuzzer sample
+summary: Fuzzer input with a khaos cookie for rubiconproject.com using both Expires and Max-Age attributes.

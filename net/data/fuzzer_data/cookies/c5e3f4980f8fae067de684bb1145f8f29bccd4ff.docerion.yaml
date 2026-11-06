@@ -1,0 +1,4 @@
+# Docerion header of c5e3f4980f8fae067de684bb1145f8f29bccd4ff.
+type: test
+title: Fuzzer cookie input with session ID and path
+summary: Cookie fuzzer test input setting a session identifier cookie with a root path attribute.

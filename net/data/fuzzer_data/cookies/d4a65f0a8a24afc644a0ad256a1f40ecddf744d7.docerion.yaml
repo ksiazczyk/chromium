@@ -1,0 +1,4 @@
+# Docerion header of d4a65f0a8a24afc644a0ad256a1f40ecddf744d7.
+type: data
+title: 'Fuzzer cookie input: TDCPM variant for adsrvr.org'
+summary: Fuzzer data file containing a second TDCPM cookie string variant for .adsrvr.org with encoded value and expiry attributes, used as cookie parsing test input.

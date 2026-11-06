@@ -1,0 +1,4 @@
+# Docerion header of 9b613a83c35dc05b11fce08afcadde9471c7e11d.
+type: data
+title: 'Fuzzer cookie data: uid'
+summary: Fuzzer input cookie string setting a uid cookie scoped to the .turn.com domain with expiry and path.

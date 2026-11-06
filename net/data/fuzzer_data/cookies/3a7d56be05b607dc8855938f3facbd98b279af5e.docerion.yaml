@@ -1,0 +1,4 @@
+# Docerion header of 3a7d56be05b607dc8855938f3facbd98b279af5e.
+type: data
+title: 'Fuzzer cookie data: fr Facebook cookie'
+summary: Facebook fr cookie string with expiry, path, domain, HttpOnly and secure attributes, used as fuzzer input data.

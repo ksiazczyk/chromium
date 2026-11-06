@@ -1,0 +1,4 @@
+# Docerion header of 087b52f241d0f932dc3abcf6a343514f7fc24854.
+type: data
+title: 'Fuzzer cookie input: __cfduid cookie for adsymptotic.com'
+summary: Cookie string setting the HttpOnly __cfduid cookie for .adsymptotic.com, stored as fuzzer input for cookie parsing.

@@ -1,0 +1,4 @@
+# Docerion header of 930b27bcc02ceb39a7600d2d8f2ee3f549f558c6.
+type: data
+title: 'Fuzzer cookie data: uuidc cookie for .mathtag.com'
+summary: Fuzzer input with a long uuidc identifier cookie for the .mathtag.com domain with expiry and path attributes.

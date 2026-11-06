@@ -1,0 +1,4 @@
+# Docerion header of 4fad3a1bd6bcbfc62360d8a1a09c87848e1f3bed.
+type: data
+title: Fuzzer cookie input for the anj cookie on adnxs.com
+summary: Cookie string used as fuzzer input, setting a long anj value for adnxs.com with SameSite, Max-Age, expiry, domain and HttpOnly attributes.

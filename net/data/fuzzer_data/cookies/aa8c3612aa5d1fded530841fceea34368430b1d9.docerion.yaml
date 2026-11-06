@@ -1,0 +1,4 @@
+# Docerion header of aa8c3612aa5d1fded530841fceea34368430b1d9.
+type: data
+title: Fuzzer cookie input for dpm.demdex.net
+summary: Cookie string for a dpm.demdex.net dpm cookie with expiry and Max-Age attributes, kept as fuzzer test data.

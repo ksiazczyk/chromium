@@ -1,0 +1,4 @@
+# Docerion header of bab3e37371e0e1b75eebb05a72268c5ff1899c19.
+type: data
+title: 'Fuzzer cookie sample: bounceClientVisit for .cnn.com'
+summary: Cookie string with bounceClientVisit340v value and expires, path, and domain attributes for .cnn.com, stored as fuzzer input.

@@ -1,0 +1,4 @@
+# Docerion header of 4e5b007d86df496f7230527124d47f9ec15e86a8.
+type: data
+title: Fuzzer cookie input setting ajs test cookie for cnn.com
+summary: Cookie string used as fuzzer input, setting the ajs:test cookie to null for cnn.com with path, domain and expiry attributes.
