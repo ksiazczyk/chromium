@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_error.mm.
+type: source
+title: Supervised user interstitial error implementation
+summary: Defines the supervised user interstitial error domain and code and creates a policy decision that cancels navigation and displays the error page.

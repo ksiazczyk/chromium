@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context sync service factory
+// summary: Declares the profile-keyed service factory that provides the tab context sync service for iOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_TAB_CONTEXT_SYNC_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_TAB_CONTEXT_SYNC_SERVICE_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of home_surface_egtest_utils.mm.
+type: source
+title: Home Surface Earl Grey test utilities implementation
+summary: Implements the Home Surface test helpers by setting and removing the HomeSurfaceDuration user default through Chrome Earl Grey.

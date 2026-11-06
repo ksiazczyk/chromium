@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_url_filter_tab_helper_unittest.mm.
+type: test
+title: Supervised user URL filter tab helper unit tests
+summary: Unit tests verifying that the supervised user URL filter tab helper allows or blocks web requests according to the signed-in account's parental control capabilities.

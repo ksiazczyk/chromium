@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced Set Up coordinator header
+// summary: Declares the SyncedSetUpCoordinator interface that orchestrates the Synced Set Up experience and exposes its delegate.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNCED_SET_UP_COORDINATOR_SYNCED_SET_UP_COORDINATOR_H_
 #define IOS_CHROME_BROWSER_SYNCED_SET_UP_COORDINATOR_SYNCED_SET_UP_COORDINATOR_H_
 

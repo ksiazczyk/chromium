@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DistantTab and DistantTabsSet struct headers
+// summary: Declares data holders for distant tabs shown in the UI and a set of filtered tabs belonging to a distant session.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNCED_SESSIONS_MODEL_DISTANT_TAB_H_
 #define IOS_CHROME_BROWSER_SYNCED_SESSIONS_MODEL_DISTANT_TAB_H_
 

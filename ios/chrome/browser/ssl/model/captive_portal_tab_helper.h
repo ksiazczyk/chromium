@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptivePortalTabHelper interface
+// summary: Declares a WebStateUserData tab helper that associates a tab with a captive portal detector and can show the login page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SSL_MODEL_CAPTIVE_PORTAL_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_SSL_MODEL_CAPTIVE_PORTAL_TAB_HELPER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of web_state_snapshot_info.mm.
+type: source
+title: WebStateSnapshotInfo Objective-C wrapper implementation
+summary: Implements WebStateSnapshotInfo by forwarding snapshot requests, capability checks, and URL queries to the underlying WebState and SnapshotSourceTabHelper.

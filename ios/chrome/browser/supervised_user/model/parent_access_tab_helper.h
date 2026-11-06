@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access tab helper interface
+// summary: Declares a WebStateUserData policy decider that handles navigation in the parent access widget bottom sheet and processes approval results.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_PARENT_ACCESS_TAB_HELPER_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_PARENT_ACCESS_TAB_HELPER_H_
 

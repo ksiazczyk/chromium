@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access tab helper delegate protocol
+// summary: Objective-C protocol letting the ParentAccessTabHelper delegate hide the PACP bottom sheet and record metrics after processing widget messages.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_PARENT_ACCESS_TAB_HELPER_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_PARENT_ACCESS_TAB_HELPER_DELEGATE_H_
 

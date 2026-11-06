@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_sync_client.mm.
+type: source
+title: IOSChromeSyncClient implementation
+summary: Implements the iOS sync client, wiring preferences, identity, trusted vault and sync engine factory dependencies.

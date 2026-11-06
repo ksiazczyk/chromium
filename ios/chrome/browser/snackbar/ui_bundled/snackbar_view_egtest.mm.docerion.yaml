@@ -1,0 +1,4 @@
+# Docerion header of snackbar_view_egtest.mm.
+type: test
+title: Snackbar view Earl Grey tests
+summary: EG2 tests verifying that snackbar titles, subtitles, buttons and accessories appear or are absent as expected.

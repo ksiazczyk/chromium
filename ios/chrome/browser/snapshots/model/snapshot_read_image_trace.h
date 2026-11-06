@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotReadImageTrace tracing helper
+// summary: Declares a helper that encapsulates a Perfetto flow ID and wraps blocks in trace slices for snapshot image loading.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_READ_IMAGE_TRACE_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_READ_IMAGE_TRACE_H_
 

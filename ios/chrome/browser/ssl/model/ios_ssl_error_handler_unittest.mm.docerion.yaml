@@ -1,0 +1,4 @@
+# Docerion header of ios_ssl_error_handler_unittest.mm.
+type: test
+title: SSL error handler unit tests
+summary: Unit tests for IOSSSLErrorHandler covering error handling with and without tab helpers, using fake web states and test certificates.

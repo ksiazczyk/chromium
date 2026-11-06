@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync observer bridge header
+// summary: Declares a C++ SyncServiceObserver bridge that forwards sync state changes to an Objective-C delegate implementing SyncObserverModelBridge.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_SYNC_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_SYNC_OBSERVER_BRIDGE_H_
 

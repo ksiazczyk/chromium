@@ -1,0 +1,4 @@
+# Docerion header of snackbar_view.mm.
+type: source
+title: SnackbarView implementation
+summary: Implements the snackbar UI with a blur background, title and subtitle labels, accessory image views, an action button, layout constraints, and slide animations.

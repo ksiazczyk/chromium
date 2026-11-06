@@ -1,0 +1,4 @@
+# Docerion header of distant_tab.mm.
+type: source
+title: DistantTab implementation
+summary: Implements DistantTab initialization and hashing of user-visible title and URL properties, plus DistantTabsSet constructors.

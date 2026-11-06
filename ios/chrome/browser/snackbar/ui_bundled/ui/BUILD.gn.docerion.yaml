@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Snackbar UI build target
+summary: Defines the GN source_set for the snackbar UI, listing its sources, dependencies, and the UIKit framework.

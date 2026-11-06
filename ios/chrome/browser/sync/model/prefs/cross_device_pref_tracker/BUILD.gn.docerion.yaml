@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for cross_device_pref_tracker
+summary: Defines the source_set build targets and dependencies for the cross-device pref tracker factory and observer bridge.

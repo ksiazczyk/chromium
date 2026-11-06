@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS Chrome syncable prefs database header
+// summary: Declares IOSChromeSyncablePrefsDatabase, which returns metadata for syncable preferences and wraps the common cross-platform database.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_PREFS_IOS_CHROME_SYNCABLE_PREFS_DATABASE_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_PREFS_IOS_CHROME_SYNCABLE_PREFS_DATABASE_H_
 

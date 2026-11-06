@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home Surface Earl Grey test utilities header
+// summary: Declares helpers that make the Home Surface open immediately upon backgrounding and reopening the app for Earl Grey tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_HOME_SURFACE_EGTEST_UTILS_H_
 #define IOS_CHROME_BROWSER_START_SURFACE_UI_BUNDLED_HOME_SURFACE_EGTEST_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of distant_session.mm.
+type: source
+title: DistantSession implementation
+summary: Implements DistantSession, populating session and tab data from the session sync service and open tabs delegate.

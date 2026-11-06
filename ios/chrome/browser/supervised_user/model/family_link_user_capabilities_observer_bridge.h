@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link user capabilities observer bridge header
+// summary: Declares an Objective-C protocol and a C++ bridge for receiving Family Link user capability change callbacks.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_FAMILY_LINK_USER_CAPABILITIES_OBSERVER_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_FAMILY_LINK_USER_CAPABILITIES_OBSERVER_BRIDGE_H_
 

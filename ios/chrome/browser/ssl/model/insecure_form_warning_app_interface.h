@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InsecureFormWarningAppInterface header
+// summary: Declares the Earl Grey app interface for configuring insecure form ports during HTTPS upgrade tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SSL_MODEL_INSECURE_FORM_WARNING_APP_INTERFACE_H_
 #define IOS_CHROME_BROWSER_SSL_MODEL_INSECURE_FORM_WARNING_APP_INTERFACE_H_
 

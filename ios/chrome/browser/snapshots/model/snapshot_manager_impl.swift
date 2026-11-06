@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotManagerImpl snapshot handling
+// summary: Implements the SnapshotManager protocol, generating snapshots via a generator, timestamping updates and storing or retrieving images.
+// ---
+
 import UIKit
 
 // A class that takes care of creating, storing and returning snapshots of a tab's web page. This

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS syncable prefs
+summary: Defines GN source sets for the iOS syncable prefs database plus Earl Grey and unit test targets, and bundles enums.xml as test data.

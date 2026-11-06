@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_service_factory_unittest.mm.
+type: test
+title: Supervised user service factory unit tests
+summary: Unit tests verifying the supervised user service factory creates a service for regular profiles and returns null for off-the-record profiles.

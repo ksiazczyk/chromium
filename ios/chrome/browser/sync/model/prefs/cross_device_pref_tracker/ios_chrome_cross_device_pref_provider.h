@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS cross-device pref provider header
+// summary: Declares the iOS implementation of CrossDevicePrefProvider that supplies the tracked profile and local state prefs.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_PREFS_CROSS_DEVICE_PREF_TRACKER_IOS_CHROME_CROSS_DEVICE_PREF_PROVIDER_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_PREFS_CROSS_DEVICE_PREF_TRACKER_IOS_CHROME_CROSS_DEVICE_PREF_PROVIDER_H_
 

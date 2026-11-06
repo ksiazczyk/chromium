@@ -1,0 +1,4 @@
+# Docerion header of snapshot_tab_helper.mm.
+type: source
+title: SnapshotTabHelper implementation
+summary: Implements the per-tab snapshot helper that takes, updates, and retrieves color and greyscale snapshots of a web state via the Swift snapshot manager, with histogram logging.

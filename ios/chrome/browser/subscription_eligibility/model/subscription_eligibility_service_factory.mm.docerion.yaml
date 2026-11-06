@@ -1,0 +1,4 @@
+# Docerion header of subscription_eligibility_service_factory.mm.
+type: source
+title: Subscription eligibility service factory implementation
+summary: Creates SubscriptionEligibilityService instances from profile preferences and disables them in incognito profiles.

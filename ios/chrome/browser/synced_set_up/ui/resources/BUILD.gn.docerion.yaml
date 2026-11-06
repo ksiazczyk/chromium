@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn bundle data for synced set up resources
+summary: GN build file that packages synced_set_up_spin.json into the app bundle resources for the synced set up UI.

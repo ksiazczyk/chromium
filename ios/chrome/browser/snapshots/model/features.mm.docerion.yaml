@@ -1,0 +1,4 @@
+# Docerion header of features.mm.
+type: source
+title: Snapshot feature flag definitions
+summary: Defines the snapshot feature flags, all disabled by default, with functions reporting whether each is enabled.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Start Surface UI
+summary: Defines GN source sets and dependencies for the Start Surface UI bundled code, including feature flags, utilities, browser agents and test targets.

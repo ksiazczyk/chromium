@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Spotlight debugger UI build targets (BUILD.gn)
+summary: GN build file defining the Swift source set and Objective-C source set for the Spotlight debugger UI and their dependencies.

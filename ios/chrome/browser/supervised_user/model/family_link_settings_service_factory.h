@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link settings service factory header
+// summary: Declares a profile-keyed factory for FamilyLinkSettingsService that is required for profile context initialization.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_FAMILY_LINK_SETTINGS_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_FAMILY_LINK_SETTINGS_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swift and Obj-C bridging header for snapshots
+// summary: Bridging header importing pure Obj-C snapshot headers so Swift code can use them without C++ dependencies.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_SWIFT_BRIDGE_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_SNAPSHOT_SWIFT_BRIDGE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of sync_observer_bridge.mm.
+type: source
+title: Sync observer bridge implementation
+summary: Implements the bridge that notifies the Objective-C delegate on sync state changes and resets observation on sync shutdown.

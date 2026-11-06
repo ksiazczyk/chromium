@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: BUILD.gn for sync fake server Earl Grey tests
+summary: Defines the eg2_tests testonly source_set that builds the sync fake server Earl Grey tests and lists their dependencies.

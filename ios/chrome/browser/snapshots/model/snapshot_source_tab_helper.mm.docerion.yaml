@@ -1,0 +1,4 @@
+# Docerion header of snapshot_source_tab_helper.mm.
+type: source
+title: SnapshotSourceTabHelper implementation
+summary: Implements a tab helper that captures snapshots from the tab's WebState or an overriding source WebState.

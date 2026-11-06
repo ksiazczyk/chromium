@@ -1,0 +1,4 @@
+# Docerion header of ios_subscription_eligibility_metrics_provider_unittest.mm.
+type: test
+title: Subscription eligibility metrics provider unit tests
+summary: Verifies that the metrics provider logs the expected AI subscription tier status for single and multiple profile scenarios.

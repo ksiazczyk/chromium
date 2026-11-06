@@ -1,0 +1,4 @@
+# Docerion header of synced_set_up_view_controller.mm.
+type: source
+title: SyncedSetUpViewController implementation
+summary: Implements the Synced Set Up welcome screen with avatar, title and subtitle labels, entrance and fade-out animations, and a Lottie spin animation.

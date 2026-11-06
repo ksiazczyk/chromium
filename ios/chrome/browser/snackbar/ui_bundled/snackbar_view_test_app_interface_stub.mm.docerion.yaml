@@ -1,0 +1,4 @@
+# Docerion header of snackbar_view_test_app_interface_stub.mm.
+type: source
+title: Snackbar view test app interface stub
+summary: Stub app interface used in Earl Grey test support builds without the app-side snackbar helpers.

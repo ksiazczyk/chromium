@@ -1,0 +1,4 @@
+# Docerion header of snapshot_egtest.mm.
+type: test
+title: Snapshot Earl Grey integration tests
+summary: Earl Grey tests verifying that tab grid snapshots match the dominant colors of test pages served by an embedded test server.

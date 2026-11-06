@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the iOS syncable prefs database
+// summary: Checks that every syncable pref ID appears in the SyncablePref metrics enum and validates always-syncing preference behavior.
+// ---
+
 #include "ios/chrome/browser/sync/model/prefs/ios_chrome_syncable_prefs_database.h"
 
 #include <string_view>

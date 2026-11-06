@@ -1,0 +1,4 @@
+# Docerion header of child_account_service_factory.mm.
+type: source
+title: Child account service factory implementation
+summary: Implements the factory that builds ChildAccountService from profile prefs, the identity manager and the Family Link settings service.

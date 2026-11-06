@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock sync service creation utility header
+// summary: Declares CreateMockSyncService, a helper returning a basic MockSyncService keyed to a profile.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_MOCK_SYNC_SERVICE_UTILS_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_MOCK_SYNC_SERVICE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snackbar coordinator delegate protocol
+// summary: Defines the delegate protocol that supplies the bottom offset used to present snackbar UI above presented views.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_SNACKBAR_COORDINATOR_DELEGATE_H_
 #define IOS_CHROME_BROWSER_SNACKBAR_UI_BUNDLED_SNACKBAR_COORDINATOR_DELEGATE_H_
 

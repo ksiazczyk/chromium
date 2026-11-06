@@ -1,0 +1,4 @@
+# Docerion header of snapshot_browser_agent_unittest.mm.
+type: test
+title: Snapshot browser agent unit tests
+summary: Unit tests verifying snapshot capture, storage retrieval, and web state observation for SnapshotBrowserAgent using fake delegates and web states.

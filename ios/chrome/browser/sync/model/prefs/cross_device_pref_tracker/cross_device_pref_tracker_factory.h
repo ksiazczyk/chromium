@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device pref tracker factory header
+// summary: Declares a profile-keyed service factory that creates and manages one CrossDevicePrefTracker instance per ProfileIOS.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_PREFS_CROSS_DEVICE_PREF_TRACKER_CROSS_DEVICE_PREF_TRACKER_FACTORY_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_PREFS_CROSS_DEVICE_PREF_TRACKER_CROSS_DEVICE_PREF_TRACKER_FACTORY_H_
 

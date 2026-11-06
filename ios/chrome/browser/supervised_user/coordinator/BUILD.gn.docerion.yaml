@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the supervised user parent access coordinator
+summary: GN build file defining the coordinator source set and its unit tests, listing sources, dependencies, and the UIKit framework.

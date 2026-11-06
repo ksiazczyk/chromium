@@ -1,0 +1,4 @@
+# Docerion header of parent_access_mediator.mm.
+type: source
+title: Parent access mediator implementation
+summary: Implements the mediator that loads the PACP widget in a WebState, applies system text zoom, and dismisses the bottom sheet if the widget fails to load in time.

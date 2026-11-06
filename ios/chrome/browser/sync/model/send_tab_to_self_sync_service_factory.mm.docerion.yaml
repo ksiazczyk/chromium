@@ -1,0 +1,4 @@
+# Docerion header of send_tab_to_self_sync_service_factory.mm.
+type: source
+title: Send tab to self sync service factory implementation
+summary: Implements the SendTabToSelfSyncService factory, building the service from data type store, history, device info, and session sync dependencies.

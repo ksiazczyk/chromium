@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight debugger view controller header
+// summary: Objective-C header declaring the Spotlight debug table view controller, its delegate protocol and Spotlight manager properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SPOTLIGHT_DEBUGGER_UI_BUNDLED_SPOTLIGHT_DEBUGGER_VIEW_CONTROLLER_H_
 #define IOS_CHROME_BROWSER_SPOTLIGHT_DEBUGGER_UI_BUNDLED_SPOTLIGHT_DEBUGGER_VIEW_CONTROLLER_H_
 

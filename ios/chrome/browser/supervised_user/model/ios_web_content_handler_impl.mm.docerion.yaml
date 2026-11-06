@@ -1,0 +1,4 @@
+# Docerion header of ios_web_content_handler_impl.mm.
+type: source
+title: iOS web content handler implementation
+summary: Implements local web approval requests, parent access bottom sheet display, and navigation behavior for supervised users on iOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotStorage protocol
+// summary: Protocol abstracting storage and retrieval of tab snapshot images in an LRU cache and on disk.
+// ---
+
 import UIKit
 
 // A protocol providing abstraction for storing/retrieving snapshots.

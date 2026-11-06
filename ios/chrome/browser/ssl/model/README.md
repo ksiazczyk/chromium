@@ -1,3 +1,9 @@
+---
+type: readme
+title: README on captive portal metrics tab helper
+summary: Explains that the captive portal metrics tab helper was removed and links to the change that removed it.
+---
+
 ## Captive Portal Metrics Tab Helper
 
 A tab helper was in place previously to collect metrics regarding current

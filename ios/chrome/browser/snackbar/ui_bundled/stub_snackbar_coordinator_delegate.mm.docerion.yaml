@@ -1,0 +1,4 @@
+# Docerion header of stub_snackbar_coordinator_delegate.mm.
+type: source
+title: Stub Snackbar Coordinator Delegate Implementation
+summary: Implements the stub delegate, returning a zero bottom offset for the currently presented snackbar view.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List family members service factory interface
+// summary: Declares a profile-keyed factory that owns ListFamilyMembersService instances associated with ProfileIOS profiles.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_LIST_FAMILY_MEMBERS_SERVICE_FACTORY_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_MODEL_LIST_FAMILY_MEMBERS_SERVICE_FACTORY_H_
 

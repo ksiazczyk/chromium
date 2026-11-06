@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotLRUCache for snapshot images
+// summary: Implements a size-limited LRU cache that stores snapshot images keyed by snapshot ID and evicts least recently used entries.
+// ---
+
 import UIKit
 
 // A LRU (Least Recently Used) cache for snapshot images with a limited size.

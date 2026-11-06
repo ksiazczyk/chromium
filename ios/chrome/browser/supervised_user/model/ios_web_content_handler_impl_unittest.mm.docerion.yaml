@@ -1,0 +1,4 @@
+# Docerion header of ios_web_content_handler_impl_unittest.mm.
+type: test
+title: iOS web content handler unit tests
+summary: Unit tests for IOSWebContentHandlerImpl covering local approval requests and closing the parent access bottom sheet.

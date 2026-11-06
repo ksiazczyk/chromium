@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data type store service factory implementation
+// summary: Implements the profile-keyed factory that builds DataTypeStoreService instances for sync data storage.
+// ---
+
 #include "ios/chrome/browser/sync/model/data_type_store_service_factory.h"
 
 #include "components/sync/model/data_type_store_service_impl.h"

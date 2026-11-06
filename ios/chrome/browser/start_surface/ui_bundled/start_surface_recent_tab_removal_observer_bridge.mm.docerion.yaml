@@ -1,0 +1,4 @@
+# Docerion header of start_surface_recent_tab_removal_observer_bridge.mm.
+type: source
+title: Start surface recent tab observer bridge implementation
+summary: Implements the bridge that forwards most recent tab removal, favicon and title updates to the Objective-C delegate.

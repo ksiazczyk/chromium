@@ -1,0 +1,4 @@
+# Docerion header of synced_set_up_mediator_unittest.mm.
+type: test
+title: Synced Set Up mediator unit tests
+summary: Unit tests for the SyncedSetUpMediator using fake services, a test pref tracker, and OCMock to verify pref application and snackbar behavior.

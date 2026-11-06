@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebStateSnapshotInfo Objective-C wrapper header
+// summary: Declares an Objective-C wrapper exposing WebState snapshotting, web usage, and last committed URL information so it is usable from Swift code.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_WEB_STATE_SNAPSHOT_INFO_H_
 #define IOS_CHROME_BROWSER_SNAPSHOTS_MODEL_WEB_STATE_SNAPSHOT_INFO_H_
 

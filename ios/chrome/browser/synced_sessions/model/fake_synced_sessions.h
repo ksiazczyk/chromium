@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeSyncedSessions test support header
+// summary: Declares a fake SyncedSessions subclass for testing that supports adding distant sessions.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNCED_SESSIONS_MODEL_FAKE_SYNCED_SESSIONS_H_
 #define IOS_CHROME_BROWSER_SYNCED_SESSIONS_MODEL_FAKE_SYNCED_SESSIONS_H_
 

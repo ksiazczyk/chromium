@@ -1,0 +1,4 @@
+# Docerion header of sync_error_browser_agent_unittest.mm.
+type: test
+title: Sync error browser agent unit tests
+summary: Unit tests verifying that SyncErrorBrowserAgent shows infobars and invokes sync presenter commands on password sync errors.

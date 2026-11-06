@@ -1,0 +1,4 @@
+# Docerion header of snapshot_browser_agent.mm.
+type: source
+title: Snapshot browser agent implementation
+summary: Implements the browser agent that manages per-profile snapshot storage, observes web state changes, and purges unused snapshots.

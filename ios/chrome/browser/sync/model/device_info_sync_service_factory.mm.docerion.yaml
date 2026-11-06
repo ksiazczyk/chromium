@@ -1,0 +1,4 @@
+# Docerion header of device_info_sync_service_factory.mm.
+type: source
+title: Device info sync service factory implementation
+summary: Builds per-profile device info sync services, including a client that reports send-tab and sharing capabilities.

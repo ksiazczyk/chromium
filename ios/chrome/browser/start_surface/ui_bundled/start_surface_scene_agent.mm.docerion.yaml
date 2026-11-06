@@ -1,0 +1,4 @@
+# Docerion header of start_surface_scene_agent.mm.
+type: source
+title: Start surface scene agent implementation
+summary: Implements the Start Surface scene agent, handling scene activation, profile init stages, excess NTP tab removal and user metrics.

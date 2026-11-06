@@ -1,0 +1,4 @@
+# Docerion header of parent_access_bottom_sheet_view_controller.mm.
+type: source
+title: Parent access bottom sheet view controller implementation
+summary: Implements the parent access bottom sheet with a web view, close button, custom detents, key commands and accessibility escape handling.

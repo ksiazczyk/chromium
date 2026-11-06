@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight debugger all items view controller
+// summary: Swift view controller that fetches and displays all Spotlight-donated searchable items in a collection view with search filtering.
+// ---
+
 @preconcurrency import CoreSpotlight
 import UIKit
 

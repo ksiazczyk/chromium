@@ -1,0 +1,4 @@
+# Docerion header of synced_sessions_util_unittest.mm.
+type: test
+title: Synced sessions utility unit tests
+summary: Unit tests verifying how distant sessions open tabs with foreground or background load strategies using a fake URL loading browser agent.

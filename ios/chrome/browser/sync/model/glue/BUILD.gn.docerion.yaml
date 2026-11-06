@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the sync glue source set
+summary: Defines the glue source_set with sync_start_util sources and its dependencies on base, sync components, and iOS Chrome profile and web layers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captive portal blocking page header
+// summary: Declares the interstitial page shown when a certificate error is caused by the user being behind a captive portal, linking to the network login page.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SSL_MODEL_IOS_CAPTIVE_PORTAL_BLOCKING_PAGE_H_
 #define IOS_CHROME_BROWSER_SSL_MODEL_IOS_CAPTIVE_PORTAL_BLOCKING_PAGE_H_
 

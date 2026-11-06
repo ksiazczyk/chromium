@@ -1,0 +1,4 @@
+# Docerion header of parent_access_tab_helper_unittest.mm.
+type: test
+title: Parent access tab helper unit tests
+summary: Unit tests for ParentAccessTabHelper that verify parent access bottom sheet dismissal, approval results, and histogram logging using OCMock and a test delegate.

@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_interstitial_java_script_feature.mm.
+type: source
+title: Supervised user interstitial JavaScript feature implementation
+summary: Handles script messages from the interstitial error page, mapping commands such as requestUrlAccessRemote and back to blocking page actions.

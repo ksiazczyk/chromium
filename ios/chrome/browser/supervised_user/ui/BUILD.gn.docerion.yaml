@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for supervised user UI
+summary: Defines the ui and constants source sets, listing the parent access bottom sheet sources, dependencies and frameworks for the supervised user UI.

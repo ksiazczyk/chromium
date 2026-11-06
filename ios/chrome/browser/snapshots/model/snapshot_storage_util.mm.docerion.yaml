@@ -1,0 +1,4 @@
+# Docerion header of snapshot_storage_util.mm.
+type: source
+title: Snapshot storage creation utility implementation
+summary: Creates a SnapshotStorageImpl backed by the given file path for storing tab snapshots.

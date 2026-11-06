@@ -1,0 +1,4 @@
+# Docerion header of sync_service_factory_unittest.mm.
+type: test
+title: Sync service factory unit tests
+summary: Unit tests verifying that the iOS sync service factory builds the expected default sync data types for a test profile.

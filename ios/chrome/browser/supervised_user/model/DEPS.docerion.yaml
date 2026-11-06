@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for supervised user model
+summary: Restricts allowed includes for the directory, permitting first run, signin and sync model headers plus ios/chrome/common.

@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_url_filter_tab_helper.mm.
+type: source
+title: Supervised user URL filter tab helper implementation
+summary: Implements URL filtering for supervised users, consulting the filtering service per request and attaching interstitial error information when a URL is blocked.

@@ -1,0 +1,4 @@
+# Docerion header of start_surface_util.mm.
+type: source
+title: Start surface utility implementation
+summary: Implements Start Surface helpers that track background timestamps and determine whether the Start Surface or tab group grid should be shown.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync error browser agent profile state observer header
+// summary: Declares an Objective-C observer that forwards profile state transitions to the SyncErrorBrowserAgent.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_SYNC_ERROR_BROWSER_AGENT_PROFILE_STATE_OBSERVER_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_SYNC_ERROR_BROWSER_AGENT_PROFILE_STATE_OBSERVER_H_
 

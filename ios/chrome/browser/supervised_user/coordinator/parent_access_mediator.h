@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access mediator interface
+// summary: Declares the mediator for ParentAccessCoordinator that owns a WebState loading the parent access URL and exposes consumer and delegate properties.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SUPERVISED_USER_COORDINATOR_PARENT_ACCESS_MEDIATOR_H_
 #define IOS_CHROME_BROWSER_SUPERVISED_USER_COORDINATOR_PARENT_ACCESS_MEDIATOR_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_url_filtering_service_factory.mm.
+type: source
+title: Supervised user URL filtering service factory implementation
+summary: Implements the supervised user URL filtering service factory, wiring FamilyLink and device parental controls URL filters with identity and settings dependencies.

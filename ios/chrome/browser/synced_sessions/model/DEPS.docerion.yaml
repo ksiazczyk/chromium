@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for synced sessions model
+summary: Declares allowed include rules for signin, sync, and url_loading model directories in this folder.

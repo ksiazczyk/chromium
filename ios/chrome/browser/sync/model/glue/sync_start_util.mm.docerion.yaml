@@ -1,0 +1,4 @@
+# Docerion header of sync_start_util.mm.
+type: source
+title: Implementation of sync start flare utilities
+summary: Implements GetFlareForSyncableService by posting a UI-thread callback that fetches the profile's SyncService and reports a data type's request for sync startup.

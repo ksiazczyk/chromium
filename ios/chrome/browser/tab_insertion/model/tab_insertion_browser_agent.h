@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabInsertionBrowserAgent class header
+// summary: Declares the TabInsertion::Params struct and the browser agent that inserts new tabs into a browser's web state list.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_TAB_INSERTION_MODEL_TAB_INSERTION_BROWSER_AGENT_H_
 #define IOS_CHROME_BROWSER_TAB_INSERTION_MODEL_TAB_INSERTION_BROWSER_AGENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the sync model directory
+summary: Lists allowed include paths for sync model code, with specific exceptions for the sync error browser agent.

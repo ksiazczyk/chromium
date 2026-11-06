@@ -1,0 +1,4 @@
+# Docerion header of snackbar_view_test_app_interface.mm.
+type: source
+title: Snackbar view test app interface implementation
+summary: Implements test helpers that present snackbars with test properties and manage a dummy first-responder text field.

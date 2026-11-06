@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test sync service utilities header
+// summary: Declares CreateTestSyncService, a helper returning a TestSyncService keyed service for tests.
+// ---
+
 #ifndef IOS_CHROME_BROWSER_SYNC_MODEL_TEST_SYNC_SERVICE_UTILS_H_
 #define IOS_CHROME_BROWSER_SYNC_MODEL_TEST_SYNC_SERVICE_UTILS_H_
 

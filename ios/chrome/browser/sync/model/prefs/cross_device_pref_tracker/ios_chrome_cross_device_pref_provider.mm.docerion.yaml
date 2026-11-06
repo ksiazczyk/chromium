@@ -1,0 +1,4 @@
+# Docerion header of ios_chrome_cross_device_pref_provider.mm.
+type: source
+title: iOS cross-device pref provider implementation
+summary: Combines common cross-device prefs with iOS-specific prefs such as the cross-platform promos pref for tracking.

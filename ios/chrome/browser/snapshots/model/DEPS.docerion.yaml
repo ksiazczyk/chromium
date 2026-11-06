@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Snapshots model DEPS include rules
+summary: Lists the allowed header dependencies for files in the snapshots model directory.

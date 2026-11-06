@@ -1,0 +1,4 @@
+# Docerion header of insecure_form_warning_app_interface_stub.mm.
+type: test
+title: Insecure form warning app interface stub
+summary: Earl Grey stub that registers the insecure form warning app interface in the app main queue to support UI testing.

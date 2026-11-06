@@ -1,0 +1,4 @@
+# Docerion header of synced_sessions_util.mm.
+type: source
+title: Synced sessions utility implementation
+summary: Implements opening distant tabs and sessions through the URL loading browser agent, with device form factor dependent limits on simultaneously loaded tabs.

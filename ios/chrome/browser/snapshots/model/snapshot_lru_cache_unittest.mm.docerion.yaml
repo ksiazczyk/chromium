@@ -1,0 +1,4 @@
+# Docerion header of snapshot_lru_cache_unittest.mm.
+type: test
+title: SnapshotLRUCache unit tests
+summary: Unit tests verifying eviction of least recently added and used items, value overriding and cache clearing for the snapshot LRU cache.

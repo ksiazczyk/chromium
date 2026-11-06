@@ -1,0 +1,4 @@
+# Docerion header of synced_set_up_coordinator.mm.
+type: source
+title: Synced Set Up coordinator implementation
+summary: Implements the coordinator that builds the mediator and interstitial view controller, manages transitions, and auto-dismisses the flow after a delay.

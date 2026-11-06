@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_incognito_mode_egtest.mm.
+type: test
+title: Supervised user incognito mode Earl Grey tests
+summary: Earl Grey UI tests verifying that incognito mode is disabled for supervised accounts and re-enabled after sign-out.

@@ -1,0 +1,4 @@
+# Docerion header of sync_error_browser_agent.mm.
+type: source
+title: Sync error browser agent implementation
+summary: Implements the iOS browser agent that detects actionable sync errors, such as password sync issues, and triggers re-signin infobars and presenter commands.

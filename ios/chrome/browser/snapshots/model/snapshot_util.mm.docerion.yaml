@@ -1,0 +1,4 @@
+# Docerion header of snapshot_util.mm.
+type: source
+title: Snapshot timing utility implementation
+summary: Implements elapsed-time recording for snapshot operations, emitting IOS.Snapshots histograms and ensuring the wrapped callback is invoked only once.
