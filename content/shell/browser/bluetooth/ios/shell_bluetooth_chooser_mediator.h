@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth chooser mediator interface for iOS content shell
+// summary: Declares the mediator that links ShellBluetoothChooserIOS with the device list consumer and handles device list delegate actions.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_CHOOSER_MEDIATOR_H_
 #define CONTENT_SHELL_BROWSER_BLUETOOTH_IOS_SHELL_BLUETOOTH_CHOOSER_MEDIATOR_H_
 

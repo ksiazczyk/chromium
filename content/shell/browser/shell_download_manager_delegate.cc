@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDownloadManagerDelegate implementation
+// summary: Implements the shell's download manager delegate, determining download target paths, generating filenames, and assigning download IDs.
+// ---
+
 #include "content/shell/browser/shell_download_manager_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ShellManager: creator and container of shell views'
+// summary: FrameLayout that creates, shows and closes Shell instances for URLs, connecting them to the content render view and native shell via JNI.
+// ---
+
 package org.chromium.content_shell;
 
 import android.content.Context;

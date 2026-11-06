@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellPlatformDelegate interface
+// summary: Declares the virtual interface each platform implements to create shell windows and manage UI controls, address bar URL, loading state and titles.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_PLATFORM_DELEGATE_H_
 #define CONTENT_SHELL_BROWSER_SHELL_PLATFORM_DELEGATE_H_
 

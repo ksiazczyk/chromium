@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for IPC and mojom files
+summary: Requires ipc/SECURITY_OWNERS review for message, mojom and param traits files in this directory.

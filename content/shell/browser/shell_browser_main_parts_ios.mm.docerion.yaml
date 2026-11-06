@@ -1,0 +1,4 @@
+# Docerion header of shell_browser_main_parts_ios.mm.
+type: source
+title: Content Shell iOS main parts geolocation extension
+summary: iOS-specific ShellBrowserMainParts code that provides the system geolocation permission manager for Content Shell.

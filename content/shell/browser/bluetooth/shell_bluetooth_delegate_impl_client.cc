@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellBluetoothDelegateImplClient implementation
+// summary: Implements the content shell Bluetooth delegate client, returning stub chooser contexts and prompts, cancelling pairing, and launching the iOS Bluetooth chooser.
+// ---
+
 #include "content/shell/browser/bluetooth/shell_bluetooth_delegate_impl_client.h"
 
 #include "build/build_config.h"

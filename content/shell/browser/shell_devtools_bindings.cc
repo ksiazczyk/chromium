@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDevToolsBindings implementation
+// summary: Implements the DevTools agent host client that links the shell's DevTools frontend to inspected WebContents, handling protocol messages, preferences, and network resource loading.
+// ---
+
 #include "content/shell/browser/shell_devtools_bindings.h"
 
 #include <stddef.h>

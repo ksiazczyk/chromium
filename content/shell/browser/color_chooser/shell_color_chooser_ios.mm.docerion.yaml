@@ -1,0 +1,4 @@
+# Docerion header of shell_color_chooser_ios.mm.
+type: source
+title: ShellColorChooserIOS iOS implementation
+summary: Implements ShellColorChooserIOS for the content shell on iOS, with constructor, End and SetSelectedColor bodies left as TODO stubs pending native UI support.

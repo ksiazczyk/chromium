@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell content utility client implementation
+// summary: Implements the content shell's utility process client, exposing test services for shared memory region creation, sandbox checks, echo, storage test APIs, and power monitor testing.
+// ---
+
 #include "content/shell/utility/shell_content_utility_client.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of shell_web_contents_view_delegate_ios.mm.
+type: source
+title: iOS shell web contents view delegate
+summary: iOS implementation that shows context menus via a hidden UIButton, offering cut, copy, paste, delete and open-link actions on web contents.

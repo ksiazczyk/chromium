@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDevToolsBindings class declaration
+// summary: Declares the WebContentsObserver and DevToolsAgentHostClient that relay protocol messages between the DevTools frontend and the inspected contents.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_DEVTOOLS_BINDINGS_H_
 #define CONTENT_SHELL_BROWSER_SHELL_DEVTOOLS_BINDINGS_H_
 

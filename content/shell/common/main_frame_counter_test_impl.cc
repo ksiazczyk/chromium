@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main frame counter test implementation
+// summary: Implements the MainFrameCounterTest Mojo interface, binding a receiver and reporting main frame presence.
+// ---
+
 #include "content/shell/common/main_frame_counter_test_impl.h"
 #include "base/no_destructor.h"
 #include "content/common/main_frame_counter.h"

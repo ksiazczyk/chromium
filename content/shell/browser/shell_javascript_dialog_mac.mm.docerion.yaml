@@ -1,0 +1,4 @@
+# Docerion header of shell_javascript_dialog_mac.mm.
+type: source
+title: Shell JavaScript dialog macOS implementation
+summary: Implements the macOS Cocoa version of the content shell's JavaScript dialog using NSAlert sheets with alert, confirm, and prompt support.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell browser main parts implementation
+// summary: Implements browser startup and teardown stages for Content Shell, resolving the startup URL and initializing platform-specific services.
+// ---
+
 #include "content/shell/browser/shell_browser_main_parts.h"
 
 #include <utility>

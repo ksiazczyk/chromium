@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell file select helper header
+// summary: Declares ShellFileSelectHelper, which handles file-selection requests from renderer processes and manages file chooser dialogs on the UI thread.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_FILE_SELECT_HELPER_H_
 #define CONTENT_SHELL_BROWSER_SHELL_FILE_SELECT_HELPER_H_
 

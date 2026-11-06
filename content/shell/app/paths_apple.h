@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple path override declarations for Content Shell
+// summary: Header declaring functions that override bundle, child process, source root, and resource paths for Content Shell on Apple platforms.
+// ---
+
 #ifndef CONTENT_SHELL_APP_PATHS_APPLE_H_
 #define CONTENT_SHELL_APP_PATHS_APPLE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of shell_application_ios.mm.
+type: source
+title: iOS shell application delegate implementation
+summary: Implements the iOS application and scene delegates that launch the content shell main runner and manage scene visibility and crash dumps.

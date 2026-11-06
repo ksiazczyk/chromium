@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell JavaScript dialog manager implementation
+// summary: Implements the content shell's JavaScript dialog manager, showing dialogs on Mac and Windows and supporting test hooks for beforeunload behavior.
+// ---
+
 #include "content/shell/browser/shell_javascript_dialog_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac content shell launcher main
+// summary: Mac entry point that registers malloc zones, optionally sets up the seatbelt sandbox helper, loads the content shell framework dylib, and calls ContentMain.
+// ---
+
 #include <dlfcn.h>
 #include <errno.h>
 #include <libgen.h>

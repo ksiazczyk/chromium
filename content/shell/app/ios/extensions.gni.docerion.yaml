@@ -1,0 +1,4 @@
+# Docerion header of extensions.gni.
+type: config
+title: GN template for building content shell iOS app extensions
+summary: GN build template that assembles iOS app extension bundles for content shell, wiring Info plists, entitlements, and linker flags.

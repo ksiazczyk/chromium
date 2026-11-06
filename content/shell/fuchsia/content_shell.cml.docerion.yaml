@@ -1,0 +1,4 @@
+# Docerion header of content_shell.cml.
+type: config
+title: Fuchsia component manifest for content shell
+summary: Declares the content shell Fuchsia component, its binary, required system protocols, storage paths, and certificate and timezone data directories.

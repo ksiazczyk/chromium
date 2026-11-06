@@ -1,0 +1,4 @@
+# Docerion header of IChildProcessTest.aidl.
+type: source
+title: AIDL interface for child process test callbacks
+summary: Android AIDL interface that lets TestChildProcessService echo child process service delegate calls back to the test process.

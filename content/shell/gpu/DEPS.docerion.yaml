@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content shell GPU
+summary: DEPS file defining allowed include paths for the content shell GPU directory, permitting network mojom and service manager headers.

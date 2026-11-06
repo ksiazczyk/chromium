@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Renderer DEPS include rules
+summary: Defines the include rules that allow the content shell renderer to depend on the CDM, network hints, surface embed, and web cache renderer components.

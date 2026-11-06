@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellRenderFrameObserver implementation
+// summary: Implements the shell's render frame observer, injecting Blink internals for testing and binding the RenderFrameTestHelper Mojo interface.
+// ---
+
 #include "content/shell/renderer/shell_render_frame_observer.h"
 
 #include "base/command_line.h"

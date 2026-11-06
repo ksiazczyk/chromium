@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellPlatformDataAura class declaration
+// summary: Declares the ShellPlatformDataAura class that owns the Aura window tree host and associated UI clients for the content shell.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_PLATFORM_DATA_AURA_H_
 #define CONTENT_SHELL_BROWSER_SHELL_PLATFORM_DATA_AURA_H_
 

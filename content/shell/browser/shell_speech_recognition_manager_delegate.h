@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell speech recognition manager delegate header
+// summary: Declares the content_shell speech recognition manager delegate that always permits audio recording for speech recognition.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_SPEECH_RECOGNITION_MANAGER_DELEGATE_H_
 #define CONTENT_SHELL_BROWSER_SHELL_SPEECH_RECOGNITION_MANAGER_DELEGATE_H_
 

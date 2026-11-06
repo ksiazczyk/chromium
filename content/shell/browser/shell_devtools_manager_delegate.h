@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDevToolsManagerDelegate class declaration
+// summary: Declares the shell's DevToolsManagerDelegate, which starts and stops the DevTools HTTP handler and manages shell DevTools sessions.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_DEVTOOLS_MANAGER_DELEGATE_H_
 #define CONTENT_SHELL_BROWSER_SHELL_DEVTOOLS_MANAGER_DELEGATE_H_
 

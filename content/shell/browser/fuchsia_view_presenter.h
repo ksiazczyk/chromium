@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia view presenter class declaration
+// summary: Declares the FuchsiaViewPresenter class that connects to the Fuchsia GraphicalPresenter service to present Flatland views.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_FUCHSIA_VIEW_PRESENTER_H_
 #define CONTENT_SHELL_BROWSER_FUCHSIA_VIEW_PRESENTER_H_
 

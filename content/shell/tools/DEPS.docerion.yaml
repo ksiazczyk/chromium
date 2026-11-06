@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for content shell tools
+summary: Defines include rules for the content shell tools directory, allowing dependencies on content/public and components/crash.

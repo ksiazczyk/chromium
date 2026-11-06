@@ -1,0 +1,4 @@
+# Docerion header of aaudio_freezer_integration_test.py.
+type: test
+title: AAudio freezer integration test for wake lock leak
+summary: Host-driven Android integration test that reproduces the MmapPlayback wake lock leak when the renderer or browser process is frozen, using content shell.

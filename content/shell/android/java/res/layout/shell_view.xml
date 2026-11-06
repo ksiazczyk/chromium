@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Content shell Android shell view layout
+summary: Android XML layout for the Chromium content shell, defining a vertical container with a toolbar holding stop/reload, URL entry, and back/forward buttons plus a frame for the web content.
+-->
+
 <org.chromium.content_shell.Shell
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

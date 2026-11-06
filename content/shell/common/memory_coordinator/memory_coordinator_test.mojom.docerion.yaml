@@ -1,0 +1,4 @@
+# Docerion header of memory_coordinator_test.mojom.
+type: source
+title: Memory coordinator test Mojom interfaces
+summary: Defines Mojo interfaces for driving memory coordinator tests in the renderer process, registering memory consumers, and echoing memory limit and release signals to a test client.

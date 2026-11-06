@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell path key definitions
+// summary: Declares the shell path key range and the registration function for the Content Shell path provider.
+// ---
+
 #ifndef CONTENT_SHELL_COMMON_SHELL_PATHS_H_
 #define CONTENT_SHELL_COMMON_SHELL_PATHS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell JavaScript dialog manager header
+// summary: Declares ShellJavaScriptDialogManager, which runs and cancels JavaScript and beforeunload dialogs and exposes hooks for content browser tests.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_JAVASCRIPT_DIALOG_MANAGER_H_
 #define CONTENT_SHELL_BROWSER_SHELL_JAVASCRIPT_DIALOG_MANAGER_H_
 

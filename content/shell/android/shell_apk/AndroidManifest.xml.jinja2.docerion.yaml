@@ -1,0 +1,4 @@
+# Docerion header of AndroidManifest.xml.jinja2.
+type: config
+title: Content Shell APK Android manifest template
+summary: Jinja2 template that generates the AndroidManifest.xml for the Content Shell APK, declaring permissions, the launcher activity, and sandboxed and native-only process services.

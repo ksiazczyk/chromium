@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: data
+title: Content shell Android string resources
+summary: Defines Android string resources for the content shell, including the URL hint text shown in the address field.
+-->
+
 <resources>
     <string name="url_hint">Type URL Here</string>
 </resources>

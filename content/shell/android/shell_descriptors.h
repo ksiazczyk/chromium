@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell global descriptor keys
+// summary: Header defining an enum of global descriptor keys for the shell pak file and Android minidump used with base::GlobalDescriptors.
+// ---
+
 #ifndef CONTENT_SHELL_ANDROID_SHELL_DESCRIPTORS_H_
 #define CONTENT_SHELL_ANDROID_SHELL_DESCRIPTORS_H_
 

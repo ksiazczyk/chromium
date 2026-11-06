@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell browser main parts class header
+// summary: Declares ShellBrowserMainParts, which owns the browser contexts and creates the platform delegate for the Content Shell browser.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_BROWSER_MAIN_PARTS_H_
 #define CONTENT_SHELL_BROWSER_SHELL_BROWSER_MAIN_PARTS_H_
 

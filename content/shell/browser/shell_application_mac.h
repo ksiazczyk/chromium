@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell macOS application class header
+// summary: Declares ShellCrApplication, an NSApplication subclass that tracks send-event handling and opens new shell windows on macOS.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_APPLICATION_MAC_H_
 #define CONTENT_SHELL_BROWSER_SHELL_APPLICATION_MAC_H_
 

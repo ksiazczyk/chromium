@@ -1,0 +1,4 @@
+# Docerion header of shell_render_widget_host_view_mac_delegate.mm.
+type: source
+title: ShellRenderWidgetHostViewMacDelegate implementation
+summary: Implements the Mac render widget host view delegate, dropping native input events when web tests are enabled.

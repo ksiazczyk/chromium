@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellRenderWidgetHostViewMacDelegate header
+// summary: Declares the Objective-C delegate class for the content shell's Mac render widget host view.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_RENDERER_HOST_SHELL_RENDER_WIDGET_HOST_VIEW_MAC_DELEGATE_H_
 #define CONTENT_SHELL_BROWSER_RENDERER_HOST_SHELL_RENDER_WIDGET_HOST_VIEW_MAC_DELEGATE_H_
 

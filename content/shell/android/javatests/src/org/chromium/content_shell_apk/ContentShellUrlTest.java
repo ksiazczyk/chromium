@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentShellUrlTest
+// summary: Instrumentation test that starts the content shell with a URL and asserts the activity and loaded URL are as expected.
+// ---
+
 package org.chromium.content_shell_apk;
 
 import androidx.test.filters.SmallTest;

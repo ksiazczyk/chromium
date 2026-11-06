@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'Shell: Android UI container for the content shell window'
+// summary: Android LinearLayout subclass that assembles the shell window UI, holding the URL bar, navigation buttons, progress indicator and web contents rendering view.
+// ---
+
 package org.chromium.content_shell;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default ShellPlatformDelegate implementation
+// summary: Provides platform-independent default implementations of ShellPlatformDelegate methods such as dialog manager creation, pointer lock and file chooser handling.
+// ---
+
 #include "content/shell/browser/shell_platform_delegate.h"
 
 #include "content/public/browser/file_select_listener.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellPluginServiceFilter implementation
+// summary: Implements a plugin service filter that only allows the Blink and WebKit test plugins to load in the content shell.
+// ---
+
 #include "content/shell/browser/shell_plugin_service_filter.h"
 
 #include "content/public/common/webplugininfo.h"

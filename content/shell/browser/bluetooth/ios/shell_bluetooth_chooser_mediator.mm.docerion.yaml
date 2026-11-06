@@ -1,0 +1,4 @@
+# Docerion header of shell_bluetooth_chooser_mediator.mm.
+type: source
+title: Bluetooth chooser mediator implementation for iOS content shell
+summary: Implements forwarding of device updates to the consumer and reporting the user's selection or cancellation back to the iOS chooser.

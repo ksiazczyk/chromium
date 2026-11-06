@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserTestsActivity
+// summary: Android activity for running content browser tests, extending ContentShellBrowserTestActivity with DevTools remote debugging flags, private data directory, and test layout view IDs.
+// ---
+
 package org.chromium.content_browsertests_apk;
 
 import android.os.Bundle;

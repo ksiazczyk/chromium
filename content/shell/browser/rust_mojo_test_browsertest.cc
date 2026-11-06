@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust Mojo service browser test
+// summary: Browser test that exercises a Rust Mojo service from JavaScript, including feature flag and command line switch access from Rust.
+// ---
+
 #include "base/path_service.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentShellBrowserTestActivity
+// summary: Abstract Android Activity base class that initializes the browser process, sets up the shell window, and runs native browser tests against ContentShell.
+// ---
+
 package org.chromium.content_shell.browsertests;
 
 import android.content.Context;

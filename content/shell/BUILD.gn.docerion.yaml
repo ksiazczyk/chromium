@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content shell GN build configuration
+summary: Defines build targets, sources and platform-specific dependencies for the content shell and its web test support.

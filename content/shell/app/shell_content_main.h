@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell macOS main entry declaration
+// summary: Header declaring the exported ContentMain entry point used by Content Shell on macOS builds.
+// ---
+
 #ifndef CONTENT_SHELL_APP_SHELL_CONTENT_MAIN_H_
 #define CONTENT_SHELL_APP_SHELL_CONTENT_MAIN_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: iOS resources build definition
+summary: GN build file that bundles the iOS asset catalog images (back, forward, menu, reload and stop icons) into the content shell app resources.

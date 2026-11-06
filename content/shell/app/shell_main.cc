@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content shell main entry point
+// summary: Defines platform-specific main entry points that start content shell, including Windows sandbox setup and iOS app and child process mains.
+// ---
+
 #include "build/build_config.h"
 #include "content/public/app/content_main.h"
 #include "content/shell/app/shell_main_delegate.h"

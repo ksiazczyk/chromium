@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionPrompt iOS factory stub
+// summary: Stub factory method that returns a null PermissionPrompt for iOS in the content shell, with implementation still pending.
+// ---
+
 #include <memory>
 
 #include "components/permissions/permission_prompt.h"

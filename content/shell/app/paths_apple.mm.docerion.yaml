@@ -1,0 +1,4 @@
+# Docerion header of paths_apple.mm.
+type: source
+title: Apple path override implementation for Content Shell
+summary: Objective-C++ implementation resolving and overriding framework, helper, resource pak, and Info.plist paths for Content Shell on macOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell browser context implementation
+// summary: Implements ShellBrowserContext with user data paths, certificate error handling, download delegate creation, and keyed service shutdown.
+// ---
+
 #include "content/shell/browser/shell_browser_context.h"
 
 #include <memory>

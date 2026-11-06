@@ -1,0 +1,4 @@
+# Docerion header of shell_resources.grd.
+type: config
+title: Content shell GRIT resource definitions
+summary: Declares shell resources, including a broken canvas image and a DevTools discovery page, for packaging into a pak file.

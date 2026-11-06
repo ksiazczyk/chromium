@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Shell activity
+// summary: Android activity that manages the Content Shell, handling command line setup, native library loading, and shell UI startup.
+// ---
+
 package org.chromium.content_shell_apk;
 
 import android.app.Activity;

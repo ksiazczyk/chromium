@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellOriginTrialPolicy class declaration
+// summary: Declares the ShellOriginTrialPolicy class implementing Blink's origin trial policy interface for Content Shell.
+// ---
+
 #ifndef CONTENT_SHELL_COMMON_SHELL_ORIGIN_TRIAL_POLICY_H_
 #define CONTENT_SHELL_COMMON_SHELL_ORIGIN_TRIAL_POLICY_H_
 

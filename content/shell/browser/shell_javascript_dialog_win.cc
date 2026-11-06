@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell JavaScript dialog Windows implementation
+// summary: Implements the Windows dialog-procedure version of the content shell's JavaScript alert, confirm, and prompt dialogs using Win32 resources.
+// ---
+
 #include "content/shell/browser/shell_javascript_dialog.h"
 
 #include <windows.h>

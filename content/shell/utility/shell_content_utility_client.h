@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell content utility client class declaration
+// summary: Declares the ShellContentUtilityClient class, which registers network and audio service test helpers and optional sandbox status support for utility processes.
+// ---
+
 #ifndef CONTENT_SHELL_UTILITY_SHELL_CONTENT_UTILITY_CLIENT_H_
 #define CONTENT_SHELL_UTILITY_SHELL_CONTENT_UTILITY_CLIENT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of helper-Info.plist.
+type: config
+title: Content Shell helper app Info.plist
+summary: macOS property list for the Content Shell helper process bundle, marking it as a background UI element with quarantine enabled.

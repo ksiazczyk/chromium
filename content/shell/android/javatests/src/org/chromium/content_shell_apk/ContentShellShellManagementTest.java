@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentShellShellManagementTest
+// summary: Instrumentation test suite for shell management logic, verifying that launching a new shell destroys the previous one.
+// ---
+
 package org.chromium.content_shell_apk;
 
 import androidx.test.filters.SmallTest;

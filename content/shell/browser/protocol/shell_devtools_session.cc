@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell DevTools session implementation
+// summary: Implements the shell DevTools session that dispatches incoming protocol commands to domain handlers and forwards responses and notifications to the client.
+// ---
+
 #include "content/shell/browser/protocol/shell_devtools_session.h"
 
 #include "base/command_line.h"

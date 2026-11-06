@@ -7,6 +7,12 @@
 //! their Mojo handles from existing C++-Rust pipes. However, since there aren't
 //! any of those pipes yet, we have to pass the handle over FFI instead.
 
+// ---docerion
+// type: source
+// title: Rust test service FFI bridge
+// summary: Rust FFI bridge that lets C++ bind a self-owned RustTestService receiver over a Mojo message pipe handle.
+// ---
+
 chromium::import! {
     "//mojo/public/rust/bindings";
     "//mojo/public/rust/system";

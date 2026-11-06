@@ -1,0 +1,4 @@
+# Docerion header of rust_test.test-mojom.
+type: source
+title: Rust test service Mojo interface
+summary: Test Mojo interface exposing Rust-provided strings, feature flag state and command line switch queries.

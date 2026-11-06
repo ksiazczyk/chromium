@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shell plugin service filter header
+// summary: Declares ShellPluginServiceFilter, the content_shell implementation of PluginServiceFilter that reports plugin availability and load permission.
+// ---
+
 #ifndef CONTENT_SHELL_BROWSER_SHELL_PLUGIN_SERVICE_FILTER_H_
 #define CONTENT_SHELL_BROWSER_SHELL_PLUGIN_SERVICE_FILTER_H_
 

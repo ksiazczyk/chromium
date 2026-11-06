@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Content shell utility DEPS include rules
+summary: Specifies the directories that code in the content shell utility directory may include, such as storage test APIs, the service manager, and the echo test service.

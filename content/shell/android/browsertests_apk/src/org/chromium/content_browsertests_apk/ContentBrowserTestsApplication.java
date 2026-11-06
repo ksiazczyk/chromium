@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentBrowserTestsApplication
+// summary: Application class for the content browser tests APK that sets the private data directory suffix and disables locale pak resources in the browser process.
+// ---
+
 package org.chromium.content_browsertests_apk;
 
 import android.content.Context;

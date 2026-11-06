@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellDevToolsManagerDelegate implementation
+// summary: Implements the shell's DevToolsManagerDelegate, including TCP and Unix domain socket factories and the remote debugging HTTP handler.
+// ---
+
 #include "content/shell/browser/shell_devtools_manager_delegate.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for memory coordinator Mojom files
+summary: Sets per-file review ownership for Mojom files in the memory coordinator directory, delegating them to the IPC security owners.

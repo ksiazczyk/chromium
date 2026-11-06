@@ -1,0 +1,4 @@
+# Docerion header of render_frame_test_helper.mojom.
+type: source
+title: Render frame test helper Mojo interface
+summary: Mojo helper for content browser tests to fetch document and initiator state tokens of the active document.

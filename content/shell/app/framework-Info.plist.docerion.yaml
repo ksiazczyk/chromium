@@ -1,0 +1,4 @@
+# Docerion header of framework-Info.plist.
+type: config
+title: Content Shell framework bundle Info.plist
+summary: macOS property list providing bundle metadata for the Content Shell framework, including its identifier and FMWK package type.
