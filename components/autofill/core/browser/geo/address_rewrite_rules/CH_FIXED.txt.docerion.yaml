@@ -1,0 +1,4 @@
+# Docerion header of CH_FIXED.txt.
+type: data
+title: Switzerland address rewrite rules (CH_FIXED)
+summary: Variant of the Swiss rewrite rules that adds compound street-name splitting and extra replacements for buildings, roads and abbreviations.

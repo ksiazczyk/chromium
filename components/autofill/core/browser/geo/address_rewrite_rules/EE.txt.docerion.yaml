@@ -1,0 +1,4 @@
+# Docerion header of EE.txt.
+type: data
+title: Estonian address rewrite rules
+summary: Rewrite rules that abbreviate Estonian street and geographic terms such as puiestee, maantee and compass directions for autofill normalization.

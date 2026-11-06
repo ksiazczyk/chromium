@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillCountry unit tests
+// summary: Unit tests for AutofillCountry covering localized country names, locale-to-country mapping, default country code selection and address requirements.
+// ---
+
 #include "components/autofill/core/browser/geo/autofill_country.h"
 
 #include <set>

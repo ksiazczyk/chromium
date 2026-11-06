@@ -1,0 +1,4 @@
+# Docerion header of NL_FIXED.txt.
+type: data
+title: Netherlands fixed address rewrite rules
+summary: Variant of the Dutch rewrite rules that additionally splits concatenated street-type suffixes such as straat and laan into separate words.

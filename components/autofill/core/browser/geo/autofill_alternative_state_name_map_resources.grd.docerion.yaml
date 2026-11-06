@@ -1,0 +1,4 @@
+# Docerion header of autofill_alternative_state_name_map_resources.grd.
+type: config
+title: Alternative state name map GRIT resource list
+summary: GRIT resource definition bundling per-country alternative state name map data files as packaged resources for autofill.

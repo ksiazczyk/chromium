@@ -1,0 +1,4 @@
+# Docerion header of PE.txt.
+type: data
+title: Peru address rewrite rules
+summary: Tab-separated regex rules that rewrite and abbreviate Peruvian street and address terms for autofill address normalization.

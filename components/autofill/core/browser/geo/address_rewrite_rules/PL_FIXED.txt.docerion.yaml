@@ -1,0 +1,4 @@
+# Docerion header of PL_FIXED.txt.
+type: data
+title: Poland fixed address rewrite rules
+summary: Extended variant of the Poland rewrite rules with additional street, region and abbreviation patterns for autofill address normalization.

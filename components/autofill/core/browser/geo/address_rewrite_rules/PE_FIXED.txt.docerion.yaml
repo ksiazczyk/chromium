@@ -1,0 +1,4 @@
+# Docerion header of PE_FIXED.txt.
+type: data
+title: Peru fixed address rewrite rules
+summary: Extended variant of the Peru rewrite rules with additional street name and abbreviation patterns for autofill address normalization.

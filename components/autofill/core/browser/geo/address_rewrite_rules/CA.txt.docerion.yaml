@@ -1,0 +1,4 @@
+# Docerion header of CA.txt.
+type: data
+title: Canada address rewrite rules (CA)
+summary: Tab-separated regular-expression rules that rewrite Canadian address strings, mapping province names, place names and street-type words to shorter canonical forms.

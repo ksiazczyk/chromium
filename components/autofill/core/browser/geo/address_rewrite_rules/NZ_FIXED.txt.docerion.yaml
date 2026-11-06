@@ -1,0 +1,4 @@
+# Docerion header of NZ_FIXED.txt.
+type: data
+title: New Zealand fixed address rewrite rules
+summary: Extended variant of the New Zealand rewrite rules covering many more street, business and abbreviation terms than the base set.

@@ -1,0 +1,4 @@
+# Docerion header of SN.txt.
+type: data
+title: Senegalese address rewrite rules (SN)
+summary: Rewrite rules that abbreviate direction words such as north, south, east and west in Senegalese street addresses.

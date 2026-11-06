@@ -1,0 +1,4 @@
+# Docerion header of IE_FIXED.txt.
+type: data
+title: Ireland fixed address rewrite rules
+summary: Fixed variant of the Irish address rewrite rules, mirroring the base rule set for autofill address normalization.

@@ -1,0 +1,4 @@
+# Docerion header of KR_FIXED.txt.
+type: data
+title: South Korea fixed address rewrite rules
+summary: Fixed variant of the Korean rewrite rules that adds romanized road-name patterns such as -daero and -gil for autofill.

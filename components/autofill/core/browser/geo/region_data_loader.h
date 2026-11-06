@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Region data loader interface
+// summary: Defines the RegionDataLoader interface for asynchronously loading region data for a country code, so implementations can be mocked in tests.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_REGION_DATA_LOADER_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_REGION_DATA_LOADER_H_
 

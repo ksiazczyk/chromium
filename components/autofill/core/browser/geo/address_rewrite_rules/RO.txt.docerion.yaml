@@ -1,0 +1,4 @@
+# Docerion header of RO.txt.
+type: data
+title: Romania address rewrite rules
+summary: Tab-separated rewrite rules that normalize Romanian street names, road types and address terms for autofill.

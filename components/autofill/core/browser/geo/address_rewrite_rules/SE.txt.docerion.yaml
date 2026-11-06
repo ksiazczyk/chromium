@@ -1,0 +1,4 @@
+# Docerion header of SE.txt.
+type: data
+title: Sweden address rewrite rules
+summary: Tab-separated rewrite rules that normalize Swedish address terms, county names and road types for autofill.

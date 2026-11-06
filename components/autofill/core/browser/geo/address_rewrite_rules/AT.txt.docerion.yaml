@@ -1,0 +1,4 @@
+# Docerion header of AT.txt.
+type: data
+title: Austria address rewrite rules
+summary: Rewrite rules that normalize Austrian street and road terminology, including German, Hungarian and Slovenian variants, for autofill address matching.

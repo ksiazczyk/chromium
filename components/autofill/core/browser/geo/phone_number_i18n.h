@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: International phone number utilities interface
+// summary: Declares utilities to parse, normalize, construct, format and compare international phone numbers, including a maximum phone number size constant.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_PHONE_NUMBER_I18N_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_PHONE_NUMBER_I18N_H_
 

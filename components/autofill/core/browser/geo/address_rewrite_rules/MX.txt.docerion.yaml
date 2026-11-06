@@ -1,0 +1,4 @@
+# Docerion header of MX.txt.
+type: data
+title: Mexico address rewrite rules
+summary: Large rule set mapping Mexican personal names, states, highways and street terms to shorter canonical forms for autofill address normalization.

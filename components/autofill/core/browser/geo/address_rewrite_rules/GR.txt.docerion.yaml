@@ -1,0 +1,4 @@
+# Docerion header of GR.txt.
+type: data
+title: Greece address rewrite rules
+summary: Greek address rewrite rules mapping region names, month names and directions to canonical short forms for autofill.

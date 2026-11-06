@@ -1,0 +1,4 @@
+# Docerion header of RU_FIXED.txt.
+type: data
+title: Russia fixed address rewrite rules
+summary: Extended rewrite rules normalizing Russian address terms including regions, cities and postal abbreviations for autofill.

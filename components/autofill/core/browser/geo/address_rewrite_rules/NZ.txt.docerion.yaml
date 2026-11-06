@@ -1,0 +1,4 @@
+# Docerion header of NZ.txt.
+type: data
+title: New Zealand address rewrite rules
+summary: Tab-separated regex rules that abbreviate New Zealand street, direction and country terms to normalize addresses for autofill.

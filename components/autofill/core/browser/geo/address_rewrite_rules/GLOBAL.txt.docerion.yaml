@@ -1,0 +1,4 @@
+# Docerion header of GLOBAL.txt.
+type: data
+title: Global address rewrite rules
+summary: Global regex rewrite rules that normalize placeholder words such as null, none or n/a in autofill addresses.

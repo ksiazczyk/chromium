@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SubKeyRequester unit tests
+// summary: Unit tests verifying rule loading and region subkey retrieval in SubKeyRequester using libaddressinput test data.
+// ---
+
 #include "components/autofill/core/browser/geo/subkey_requester.h"
 
 #include <utility>

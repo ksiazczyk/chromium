@@ -1,0 +1,4 @@
+# Docerion header of TW.txt.
+type: data
+title: Taiwan address rewrite rules
+summary: Rewrite rules normalizing Taiwanese address terms, mapping Chinese street words and numeral characters to canonical forms.

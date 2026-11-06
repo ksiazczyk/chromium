@@ -1,0 +1,4 @@
+# Docerion header of GB.txt.
+type: data
+title: Great Britain address rewrite rules
+summary: Regex rules mapping British county, borough, and district names to ISO region codes and correcting place name spellings for autofill.

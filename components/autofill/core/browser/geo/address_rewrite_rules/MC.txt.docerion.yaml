@@ -1,0 +1,4 @@
+# Docerion header of MC.txt.
+type: data
+title: Monaco address rewrite rules
+summary: Short rule set abbreviating Monaco address terms such as quarter, bis, ter and compass directions for autofill address normalization.

@@ -1,0 +1,4 @@
+# Docerion header of NL.txt.
+type: data
+title: Netherlands address rewrite rules
+summary: Tab-separated regex rules that abbreviate Dutch province names, titles and street terms to normalize addresses for autofill.

@@ -1,0 +1,4 @@
+# Docerion header of EE_FIXED.txt.
+type: data
+title: Estonian address rewrite rules (fixed)
+summary: Tab-separated regex rules that rewrite Estonian address words and street type abbreviations to canonical forms for autofill address normalization.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address rewriter implementation with cached country rules
+// summary: Implements AddressRewriter, loading and compiling per-country regex rewrite rules from packed resources with a singleton cache.
+// ---
+
 #include "components/autofill/core/browser/geo/address_rewriter.h"
 
 #include <memory>

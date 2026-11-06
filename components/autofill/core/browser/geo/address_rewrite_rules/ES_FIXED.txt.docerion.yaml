@@ -1,0 +1,4 @@
+# Docerion header of ES_FIXED.txt.
+type: data
+title: Spanish address rewrite rules (fixed)
+summary: Alternate variant of the Spanish rewrite rules with updated abbreviations for street types and province names in autofill address normalization.

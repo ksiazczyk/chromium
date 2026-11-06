@@ -1,0 +1,4 @@
+# Docerion header of SV.txt.
+type: data
+title: El Salvador address rewrite rules (SV)
+summary: El Salvador rewrite rules that normalize Spanish street terms, month names and direction words in addresses.

@@ -1,0 +1,4 @@
+# Docerion header of BR.txt.
+type: data
+title: Brazil address rewrite rules
+summary: Brazilian address rewrite rules that abbreviate street types, state names and titles to normalize autofill addresses.

@@ -1,0 +1,4 @@
+# Docerion header of MG.txt.
+type: data
+title: Madagascar address rewrite rules
+summary: Rewrite rules that abbreviate Malagasy and French address words like boulevard, avenue and saint for autofill address normalization.

@@ -1,0 +1,4 @@
+# Docerion header of AU.txt.
+type: data
+title: Australia address rewrite rules
+summary: Rewrite rules that abbreviate Australian state and territory names, street types and directions for autofill address matching.

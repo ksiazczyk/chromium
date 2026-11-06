@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for phone number parsing
+// summary: Fuzz target that feeds arbitrary region and number input to ParsePhoneNumber to check the robustness of phone number parsing.
+// ---
+
 #include "components/autofill/core/browser/geo/phone_number_i18n.h"
 
 #include <stddef.h>

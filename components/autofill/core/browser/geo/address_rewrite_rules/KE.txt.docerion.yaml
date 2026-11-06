@@ -1,0 +1,4 @@
+# Docerion header of KE.txt.
+type: data
+title: Kenya address rewrite rules
+summary: Small rule set that abbreviates common English street and direction words for Kenyan addresses in autofill.

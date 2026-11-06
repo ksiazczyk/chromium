@@ -1,0 +1,4 @@
+# Docerion header of DE_FIXED.txt.
+type: data
+title: German address rewrite rules (fixed variant)
+summary: Extended rewrite rules that split compound German street name words and abbreviate states, districts and road terms for autofill normalization.

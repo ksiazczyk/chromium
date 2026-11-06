@@ -1,0 +1,4 @@
+# Docerion header of TT.txt.
+type: data
+title: Trinidad and Tobago address rewrite rules
+summary: Rewrite rules normalizing English street suffixes like street, avenue and lane plus directional words for Trinidad and Tobago addresses.

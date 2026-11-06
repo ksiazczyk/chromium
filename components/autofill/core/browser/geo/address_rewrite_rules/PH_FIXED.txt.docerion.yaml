@@ -1,0 +1,4 @@
+# Docerion header of PH_FIXED.txt.
+type: data
+title: Philippines fixed address rewrite rules
+summary: Extended variant of the Philippines rewrite rules with extra name and abbreviation patterns for autofill address normalization.

@@ -1,0 +1,4 @@
+# Docerion header of BG.txt.
+type: data
+title: Bulgaria address rewrite rules
+summary: Bulgarian address rewrite rules that abbreviate street types, ordinal number words and titles to normalize autofill addresses.

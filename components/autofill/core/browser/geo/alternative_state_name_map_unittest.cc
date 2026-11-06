@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alternative state name map unit tests
+// summary: Unit tests verifying that the alternative state name map stores entries per country, matches alternative state names and normalizes state text.
+// ---
+
 #include "components/autofill/core/browser/geo/alternative_state_name_map.h"
 
 #include "base/strings/utf_string_conversions.h"

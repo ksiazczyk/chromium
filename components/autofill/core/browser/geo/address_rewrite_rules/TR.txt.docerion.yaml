@@ -1,0 +1,4 @@
+# Docerion header of TR.txt.
+type: data
+title: Turkey address rewrite rules
+summary: Rewrite rules that normalize Turkish address terms such as turkiye and turkey to canonical short forms for autofill address matching.

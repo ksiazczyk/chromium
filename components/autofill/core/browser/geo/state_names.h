@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: State name and abbreviation conversion helpers
+// summary: Declares autofill helpers that convert between full state names and their two-letter abbreviations.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_STATE_NAMES_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_STATE_NAMES_H_
 

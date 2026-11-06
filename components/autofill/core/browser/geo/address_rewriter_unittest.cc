@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for address rewriter rules
+// summary: Unit tests verifying address rewrite rules for many countries, custom rules, and the updated-rules feature flag behavior.
+// ---
+
 #include "components/autofill/core/browser/geo/address_rewriter.h"
 
 #include "base/strings/utf_string_conversions.h"

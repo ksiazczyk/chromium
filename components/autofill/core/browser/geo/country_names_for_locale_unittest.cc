@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CountryNamesForLocale
+// summary: Tests country code lookups for valid, invalid and empty locales and names, plus move construction of CountryNamesForLocale.
+// ---
+
 #include "components/autofill/core/browser/geo/country_names_for_locale.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generator for country native names map
+// summary: Standalone tool that generates the country native names include file mapping native country names to country codes from ICU locale data.
+// ---
+
 #include <stdint.h>
 
 #include <map>

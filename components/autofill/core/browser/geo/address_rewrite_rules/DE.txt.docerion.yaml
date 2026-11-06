@@ -1,0 +1,4 @@
+# Docerion header of DE.txt.
+type: data
+title: German address rewrite rules
+summary: Rewrite rules that abbreviate German state names, road types such as strasse and autobahn, and common address words for autofill normalization.

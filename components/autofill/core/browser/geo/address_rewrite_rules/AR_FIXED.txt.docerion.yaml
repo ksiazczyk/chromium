@@ -1,0 +1,4 @@
+# Docerion header of AR_FIXED.txt.
+type: data
+title: Argentina fixed address rewrite rules
+summary: Extended variant of the Argentine rewrite rules that adds abbreviations for titles, neighborhoods and additional road types.

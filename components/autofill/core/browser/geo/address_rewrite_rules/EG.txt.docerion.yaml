@@ -1,0 +1,4 @@
+# Docerion header of EG.txt.
+type: data
+title: Egyptian address rewrite rules
+summary: Tab-separated regex rules rewriting Egyptian street names and Arabic street terms to short canonical forms for autofill address normalization.

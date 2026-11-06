@@ -1,0 +1,4 @@
+# Docerion header of SI.txt.
+type: data
+title: Slovenian address rewrite rules (SI)
+summary: Rewrite rules that abbreviate direction words such as north, south, east and west in Slovenian street addresses.

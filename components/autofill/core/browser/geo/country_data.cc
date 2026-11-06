@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Country data map for address import requirements
+// summary: Implements the CountryDataMap singleton that maps country codes to required address import fields and resolves aliases such as UK to GB.
+// ---
+
 #include "components/autofill/core/browser/geo/country_data.h"
 
 #include <string>

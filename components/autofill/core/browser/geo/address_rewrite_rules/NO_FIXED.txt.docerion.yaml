@@ -1,0 +1,4 @@
+# Docerion header of NO_FIXED.txt.
+type: data
+title: Norway fixed address rewrite rules
+summary: Extended variant of the Norway rewrite rules adding entries for postal boxes, squares, street suffixes and other localized terms.

@@ -1,0 +1,4 @@
+# Docerion header of GT.txt.
+type: data
+title: Guatemala address rewrite rules
+summary: Guatemalan address rewrite rules abbreviating street types and directions and stripping number signs for autofill.

@@ -1,0 +1,4 @@
+# Docerion header of CR.txt.
+type: data
+title: Costa Rica address rewrite rules (CR)
+summary: Regular-expression rules that rewrite Costa Rican addresses, abbreviating street types and direction words and normalizing number signs.

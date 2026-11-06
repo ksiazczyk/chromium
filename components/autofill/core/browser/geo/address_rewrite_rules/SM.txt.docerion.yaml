@@ -1,0 +1,4 @@
+# Docerion header of SM.txt.
+type: data
+title: San Marino address rewrite rules (SM)
+summary: San Marino rewrite rules that shorten the street name Giovanni Guiduccio and abbreviate direction words.

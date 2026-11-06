@@ -1,0 +1,4 @@
+# Docerion header of PA.txt.
+type: data
+title: Panama address rewrite rules
+summary: Tab-separated regex rules that abbreviate Panamanian street and direction words, including special cases for named roads.

@@ -1,0 +1,4 @@
+# Docerion header of PL.txt.
+type: data
+title: Poland address rewrite rules
+summary: Tab-separated regex rules that rewrite and abbreviate Polish street, region and title terms for autofill address normalization.

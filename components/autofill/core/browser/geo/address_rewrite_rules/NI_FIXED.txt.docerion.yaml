@@ -1,0 +1,4 @@
+# Docerion header of NI_FIXED.txt.
+type: data
+title: Nicaragua fixed address rewrite rules
+summary: Variant of the Nicaragua rewrite rules that omits the standalone article-removal entries present in the base rule set.

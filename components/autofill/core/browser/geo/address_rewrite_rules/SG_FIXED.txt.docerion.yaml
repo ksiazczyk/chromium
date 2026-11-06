@@ -1,0 +1,4 @@
+# Docerion header of SG_FIXED.txt.
+type: data
+title: Singapore fixed address rewrite rules (SG_FIXED)
+summary: Fixed variant of the Singapore rules that abbreviates local street types like lebuhraya, lorong and jalan plus direction words.

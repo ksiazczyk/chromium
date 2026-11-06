@@ -1,0 +1,4 @@
+# Docerion header of BO.txt.
+type: data
+title: Bolivia address rewrite rules
+summary: Bolivian address rewrite rules that abbreviate Spanish street types and directional words for autofill normalization.

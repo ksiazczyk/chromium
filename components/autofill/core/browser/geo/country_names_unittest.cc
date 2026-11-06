@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CountryNames
+// summary: Tests mapping of country names, codes, synonyms, native names and locale fallbacks to country codes through the CountryNames class.
+// ---
+
 #include "components/autofill/core/browser/geo/country_names.h"
 
 #include <string>

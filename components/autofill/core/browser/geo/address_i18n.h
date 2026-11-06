@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address i18n helper declarations
+// summary: Declares functions to convert Autofill profiles to libaddressinput address data, map field types, and check required fields per country.
+// ---
+
 #ifndef COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_ADDRESS_I18N_H_
 #define COMPONENTS_AUTOFILL_CORE_BROWSER_GEO_ADDRESS_I18N_H_
 

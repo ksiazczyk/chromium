@@ -1,0 +1,4 @@
+# Docerion header of LU_FIXED.txt.
+type: data
+title: Luxembourg fixed-address rewrite rules
+summary: Extended variant of the Luxembourg address rewrite rules with additional street-name entries such as Marie-Jeanne Birckel for autofill normalization.

@@ -1,0 +1,4 @@
+# Docerion header of BR_FIXED.txt.
+type: data
+title: Brazil fixed-address rewrite rules
+summary: Brazilian rewrite rules for fixed addresses, adding further street-type abbreviations such as estrada, vila and setor.

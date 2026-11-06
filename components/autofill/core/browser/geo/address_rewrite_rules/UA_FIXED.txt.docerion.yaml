@@ -1,0 +1,4 @@
+# Docerion header of UA_FIXED.txt.
+type: data
+title: Ukraine fixed address rewrite rules
+summary: Variant of the Ukrainian rewrite rules that additionally maps oblast to its abbreviation alongside street and directional terms.

@@ -1,0 +1,4 @@
+# Docerion header of IT.txt.
+type: data
+title: Italy address rewrite rules
+summary: Regex rules that normalize Italian addresses, mapping personal and place names, provinces, and street types to standard abbreviations for autofill.

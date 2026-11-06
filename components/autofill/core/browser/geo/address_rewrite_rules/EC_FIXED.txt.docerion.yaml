@@ -1,0 +1,4 @@
+# Docerion header of EC_FIXED.txt.
+type: data
+title: Ecuador address rewrite rules (fixed variant)
+summary: Rewrite rules that abbreviate Ecuadorian street types, directions and honorifics for autofill normalization, without the article removal entries.

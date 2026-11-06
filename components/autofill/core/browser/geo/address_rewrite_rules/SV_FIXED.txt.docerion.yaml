@@ -1,0 +1,4 @@
+# Docerion header of SV_FIXED.txt.
+type: data
+title: El Salvador fixed address rewrite rules (SV_FIXED)
+summary: Fixed variant of the El Salvador rewrite rules for normalizing Spanish street terms, month names and direction words.

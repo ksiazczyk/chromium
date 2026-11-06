@@ -1,0 +1,4 @@
+# Docerion header of IT_FIXED.txt.
+type: data
+title: Italy fixed address rewrite rules
+summary: Fixed variant of the Italian rewrite rules, correcting entries such as the Alessandria abbreviation, for autofill address normalization.

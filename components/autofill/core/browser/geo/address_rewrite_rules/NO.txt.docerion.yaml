@@ -1,0 +1,4 @@
+# Docerion header of NO.txt.
+type: data
+title: Norway address rewrite rules
+summary: Tab-separated regex rules translating English and Norwegian road, place and direction terms into short Norwegian forms for address normalization.

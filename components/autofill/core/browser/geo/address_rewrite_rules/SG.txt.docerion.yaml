@@ -1,0 +1,4 @@
+# Docerion header of SG.txt.
+type: data
+title: Singapore address rewrite rules (SG)
+summary: Rewrite rules that abbreviate direction words such as north, south, east and west in Singapore street addresses.
