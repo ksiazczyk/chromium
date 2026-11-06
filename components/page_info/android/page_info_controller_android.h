@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoControllerAndroid class declaration
+// summary: Declares PageInfoControllerAndroid, the Android PageInfoUI implementation that forwards permission, identity, and page feature info to the Java page info prompt.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_ANDROID_PAGE_INFO_CONTROLLER_ANDROID_H_
 #define COMPONENTS_PAGE_INFO_ANDROID_PAGE_INFO_CONTROLLER_ANDROID_H_
 

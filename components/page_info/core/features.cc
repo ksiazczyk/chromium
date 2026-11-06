@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info feature flags implementation
+// summary: Defines feature flags and parameters for the About this site and merchant trust sections, including locale and country based gating logic.
+// ---
+
 #include "components/page_info/core/features.h"
 
 #include <string_view>

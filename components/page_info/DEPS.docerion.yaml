@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Page Info Include Rules
+summary: Lists the directories and headers that the page_info component is allowed to include from.

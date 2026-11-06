@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About This Site metadata protobuf definitions
+// summary: Protobuf schema for site metadata shown in PageInfo, covering first-seen dates, site name and description with source attribution, and a link to learn more.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract delegate providing embedder info to page info
+// summary: Abstract delegate that supplies embedder-level information such as offline page state, cookie controls and dialog managers to PageInfoController.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.app.Activity;

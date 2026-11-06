@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main view layout for the page info popup
+// summary: FrameLayout representing the page info popup content with connection, permissions and cookies rows plus action buttons.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.content.Context;

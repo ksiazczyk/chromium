@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page Info GN Build File
+summary: Defines the page_info static library and unit test targets with their sources and platform-dependent dependencies for the Chromium build.

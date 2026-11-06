@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for the page info main controller
+// summary: Interface defining main page info actions such as launching subpages, recording user actions, refreshing permissions and dismissing the dialog.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info merchant data type implementation
+// summary: Implements the default constructors, assignment operators and destructor for the MerchantData struct in the page_info namespace.
+// ---
+
 #include "components/page_info/core/page_info_types.h"
 
 namespace page_info {

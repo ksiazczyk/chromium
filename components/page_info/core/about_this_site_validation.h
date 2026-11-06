@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About this site metadata validation declaration
+// summary: Declares the AboutThisSiteStatus enum and functions that validate About this site metadata proto messages field by field.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_CORE_ABOUT_THIS_SITE_VALIDATION_H_
 #define COMPONENTS_PAGE_INFO_CORE_ABOUT_THIS_SITE_VALIDATION_H_
 

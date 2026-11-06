@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Suspicious site dialog button styles for large screens
+summary: Defines sw600dp styles for the page info suspicious site dialog's primary and secondary buttons, mirroring the modal dialog's filled and text button styles on large form factors.
+-->
+
 <resources>
     <!-- Mirrors the Suspicious Site dialog's button bar on large form factors
          (SafeBrowsingSuspiciousSiteDialogBridge#buildStandardDialogModel),

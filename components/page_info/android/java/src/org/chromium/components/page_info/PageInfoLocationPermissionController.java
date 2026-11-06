@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller for the page info location permission subpage
+// summary: Controller that creates and manages the location permission subpage fragment for a site inside the page info dialog.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.content.res.Resources;

@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Page info Android dimension resources
+summary: Defines Android dimension resources for the page info popup and its suspicious site warning buttons, such as padding, corner radius, and favicon size.
+-->
+
 <resources>
     <dimen name="page_info_favicon_size">16dp</dimen>
 

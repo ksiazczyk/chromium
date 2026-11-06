@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info dialog container with sheet and modal modes
+// summary: Android dialog implementation that hosts the page info view as a bottom sheet or modal dialog with enter and exit animations.
+// ---
+
 package org.chromium.components.page_info;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

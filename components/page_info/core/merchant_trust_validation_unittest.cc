@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Merchant trust validation unit tests
+// summary: Unit tests for ValidateProto covering valid protos and missing or invalid rating, summary, and reviews page URL fields.
+// ---
+
 #include "components/page_info/core/merchant_trust_validation.h"
 
 #include "base/test/scoped_feature_list.h"

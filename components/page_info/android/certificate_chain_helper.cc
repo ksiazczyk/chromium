@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate chain helper JNI implementation
+// summary: Native JNI helper that returns the visible navigation entry's X.509 certificate chain to Java as an array of byte arrays.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_array.h"
 #include "base/android/jni_string.h"

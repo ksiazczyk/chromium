@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfoUI Implementation
+// summary: Implements the platform-independent PageInfoUI helpers, including permission label mappings and security description strings.
+// ---
+
 #include <variant>
 
 #include <utility>

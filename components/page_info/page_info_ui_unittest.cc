@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page Info UI unit tests
+// summary: Unit tests for PageInfoUI verifying permission state strings for keyboard and pointer lock and the security description for warnable suspicious sites.
+// ---
+
 #include "components/page_info/page_info_ui.h"
 
 #include "build/buildflag.h"

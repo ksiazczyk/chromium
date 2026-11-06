@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Page info cookie preference screen
+summary: Android preference screen XML defining the cookie controls in Chrome's page info UI, including cookie summaries, cookie-in-use entries, and a third-party cookies switch.
+-->
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 

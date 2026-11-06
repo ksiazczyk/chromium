@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AboutThisSiteService unit tests
+// summary: Unit tests for AboutThisSiteService covering metadata retrieval, validation outcomes and interaction metric recording with mocked optimization guide inputs.
+// ---
+
 #include "components/page_info/core/about_this_site_service.h"
 
 #include <memory>

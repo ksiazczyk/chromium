@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page info history data source unit tests
+// summary: Unit tests for PageInfoHistoryDataSource using a mocked history service to cover last-visit queries and formatting of today, yesterday, days-ago, and date strings.
+// ---
+
 #include "components/page_info/core/page_info_history_data_source.h"
 
 #include "base/functional/callback.h"

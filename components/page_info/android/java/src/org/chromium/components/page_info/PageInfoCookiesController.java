@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controller for the page info cookies section
+// summary: Controller managing the cookies section of the page info UI, including the cookie controls subpage, toggles and cookie clearing actions.
+// ---
+
 package org.chromium.components.page_info;
 
 import static org.chromium.components.content_settings.PrefNames.IN_CONTEXT_COOKIE_CONTROLS_OPENED;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CertificateChainHelper for obtaining site certificate chains
+// summary: Helper class that retrieves the site certificate chain from a WebContents instance through a JNI bridge to native code.
+// ---
+
 package org.chromium.components.page_info;
 
 import org.jni_zero.NativeMethods;

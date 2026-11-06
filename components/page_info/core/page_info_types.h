@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info merchant data types header
+// summary: Defines the MerchantData struct holding star rating, rating count, page URL and reviews summary, plus a MerchantDataCallback type for merchant info API results.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_CORE_PAGE_INFO_TYPES_H_
 #define COMPONENTS_PAGE_INFO_CORE_PAGE_INFO_TYPES_H_
 

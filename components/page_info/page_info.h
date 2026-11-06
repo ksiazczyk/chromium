@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageInfo Class Declaration
+// summary: Declares the PageInfo class, including enums for site connection status and site identity validation.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_PAGE_INFO_H_
 #define COMPONENTS_PAGE_INFO_PAGE_INFO_H_
 

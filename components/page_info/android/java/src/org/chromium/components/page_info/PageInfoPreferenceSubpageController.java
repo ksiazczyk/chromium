@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract base for preference fragment based page info subpages
+// summary: Abstract controller base class that adds and removes BaseSiteSettingsFragment subpages within the page info dialog.
+// ---
+
 package org.chromium.components.page_info;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

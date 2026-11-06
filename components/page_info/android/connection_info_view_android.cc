@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection info view Android implementation
+// summary: Implements the Android page info UI that shows connection and certificate details, backed by the shared PageInfo presenter.
+// ---
+
 #include "components/page_info/android/connection_info_view_android.h"
 
 #include "base/android/jni_android.h"

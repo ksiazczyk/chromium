@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust validation header
+// summary: Declares the MerchantTrustStatus enum for histogram logging and the ValidateProto function that checks merchant trust signal protos.
+// ---
+
 #ifndef COMPONENTS_PAGE_INFO_CORE_MERCHANT_TRUST_VALIDATION_H_
 #define COMPONENTS_PAGE_INFO_CORE_MERCHANT_TRUST_VALIDATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate viewer JNI string provider
+// summary: Exposes localized certificate viewer labels such as issuer, validity, fingerprints and extensions to the Java certificate viewer.
+// ---
+
 #include "base/android/jni_string.h"
 #include "components/strings/grit/components_strings.h"
 #include "ui/base/l10n/l10n_util.h"

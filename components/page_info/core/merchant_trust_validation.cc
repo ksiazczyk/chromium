@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust proto validation
+// summary: Implements ValidateProto, which checks a merchant trust signals proto for required rating, reviews page URL, and summary fields and returns a matching status.
+// ---
+
 #include "components/page_info/core/merchant_trust_validation.h"
 
 #include "base/feature_list.h"

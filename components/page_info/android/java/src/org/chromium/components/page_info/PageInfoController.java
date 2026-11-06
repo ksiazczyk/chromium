@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main Java controller of the Android page info UI
+// summary: Main controller for the Android page info dialog, handling open sources, permissions, navigation and its native counterpart.
+// ---
+
 package org.chromium.components.page_info;
 
 import static org.chromium.build.NullUtil.assertNonNull;

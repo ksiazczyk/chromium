@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page info client global accessor
+// summary: Stores and returns the global PageInfoClient instance and provides default stub implementations of its methods.
+// ---
+
 #include "components/page_info/android/page_info_client.h"
 
 #include "content/public/browser/web_contents.h"

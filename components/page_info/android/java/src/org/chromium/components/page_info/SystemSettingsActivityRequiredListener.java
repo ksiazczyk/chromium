@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemSettingsActivityRequiredListener
+// summary: Interface that is called when a system settings activity is required, extracted to allow testing of PermissionParamsListBuilder.
+// ---
+
 package org.chromium.components.page_info;
 
 import android.content.Intent;
