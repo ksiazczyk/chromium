@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: Updater WebUI test directory .gitignore
+# summary: Ignores the generated tsconfig.json in the updater WebUI test directory, which is produced by gen_tsconfig.py.
+# ---
+
 # Generated from ash/webui/personalization_app/tools/gen_tsconfig.py
 tsconfig.json

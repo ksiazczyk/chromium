@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic button tests
+// summary: WebUI tests for the Glic (Gemini) toolbar button, covering element creation, labels and tooltips, click handling, and panel open state.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

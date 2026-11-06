@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebNN internals app WebUI tests
+// summary: TypeScript mocha tests for the WebNN internals page that mock the mojo handler and verify context listing and execution provider display.
+// ---
+
 import 'chrome://webnn-internals/app.js';
 
 import type {WebnnInternalsAppElement} from 'chrome://webnn-internals/app.js';

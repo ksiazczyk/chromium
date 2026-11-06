@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Voice and language conversion tests
+// summary: WebUI tests for voice and language conversion helpers, including locale mapping for the voice pack manager and status code conversion.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {convertLangOrLocaleForVoicePackManager, convertLangOrLocaleToExactVoicePackLocale, convertLangToAnAvailableLangIfPresent, createInitialListOfEnabledLanguages, getNotification, getNotificationFor, mojoVoicePackStatusToVoicePackStatusEnum, NotificationType, VoiceClientSideStatusCode, VoicePackServerStatusErrorCode, VoicePackServerStatusSuccessCode} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

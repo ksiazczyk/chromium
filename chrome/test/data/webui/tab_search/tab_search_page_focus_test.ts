@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab search page focus tests
+// summary: WebUI tests for keyboard navigation, focus handling, and scroll visibility of tab items in the tab search page.
+// ---
+
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';
 import type {ProfileData, TabSearchPageElement} from 'chrome://tab-search.top-chrome/tab_search.js';
 import {SearchApiProxyImpl, TabSearchApiProxyImpl} from 'chrome://tab-search.top-chrome/tab_search.js';

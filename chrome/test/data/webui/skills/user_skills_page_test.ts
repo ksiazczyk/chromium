@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User skills page WebUI tests
+// summary: WebUI tests for the user skills page covering initial load, add and remove skill dialogs, skill list updates, and empty state rendering.
+// ---
+
 import 'chrome://skills/user_skills_page.js';
 
 import type {CrButtonElement} from 'chrome://resources/cr_elements/cr_button/cr_button.js';

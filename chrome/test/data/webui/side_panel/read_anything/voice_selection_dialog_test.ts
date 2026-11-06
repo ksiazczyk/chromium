@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Voice selection dialog tests
+// summary: WebUI tests for the voice selection dialog, covering voice grouping, radio selection, and per-voice preview buttons.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {CrButtonElement} from '//resources/cr_elements/cr_button/cr_button.js';

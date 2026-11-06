@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice web sign-in intercept Chrome sign-in tests
+// summary: WebUI tests for the Chrome sign-in app shown during Dice web sign-in interception, checking content, accept and cancel actions.
+// ---
+
 import 'chrome://signin-dice-web-intercept.top-chrome/chrome_signin/chrome_signin_app.js';
 
 import type {CrButtonElement} from 'chrome://resources/cr_elements/cr_button/cr_button.js';

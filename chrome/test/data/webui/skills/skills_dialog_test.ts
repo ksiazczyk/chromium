@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills dialog app tests
+// summary: WebUI tests for the skill dialog covering submission, prompt refinement, name and emoji generation and autocomplete behavior.
+// ---
+
 import 'chrome://skills/skills_dialog_app.js';
 
 import type {CrButtonElement} from 'chrome://resources/cr_elements/cr_button/cr_button.js';

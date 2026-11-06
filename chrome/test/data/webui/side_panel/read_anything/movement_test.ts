@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Highlight movement WebUI tests
+// summary: WebUI tests for speech highlight movement, covering movement granularity, previous and current highlight classes, and navigation across sentence and phrase highlights.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {NodeStore} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

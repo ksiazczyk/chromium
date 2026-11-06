@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebNN internals WebUI tests
+summary: GN build configuration that defines the WebUI test target for the WebNN internals page, wiring the TypeScript tests and C++ browser test with their dependencies.

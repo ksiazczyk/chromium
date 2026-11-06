@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills webview bridge tests
+// summary: WebUI tests for the skills webview bridge covering handshake, postMessage handling, skill invocation, toasts, URL changes, and histogram metrics.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import type {Skill} from 'chrome://skills/skill.mojom-webui.js';
 import {SkillSource} from 'chrome://skills/skill.mojom-webui.js';

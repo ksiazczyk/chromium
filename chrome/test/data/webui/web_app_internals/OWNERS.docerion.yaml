@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for web_app_internals tests
+summary: OWNERS file that delegates code ownership to the chrome/browser/web_applications OWNERS file.

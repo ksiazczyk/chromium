@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome theme snapshot tests
+// summary: WebUI tests for the theme snapshot element, verifying that custom themes, default Chrome, and uploaded backgrounds correctly update the snapshot display.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/theme_snapshot.js';
 
 import type {CustomizeChromePageRemote} from 'chrome://customize-chrome-side-panel.top-chrome/customize_chrome.mojom-webui.js';

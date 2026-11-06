@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language toast tests
+// summary: WebUI tests for the language toast element verifying voice download, error, and availability notifications on ChromeOS and other platforms.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {LanguageToastElement} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

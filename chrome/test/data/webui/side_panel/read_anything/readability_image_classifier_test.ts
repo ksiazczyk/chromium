@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Readability image classifier tests
+// summary: WebUI tests verifying ReadabilityImageClassifier assigns hero and inline classes to images based on dimensions, metadata and surrounding markup.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {ReadabilityImageClassifier} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

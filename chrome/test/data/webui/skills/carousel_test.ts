@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills carousel tests
+// summary: WebUI tests checking that carousel next and prev buttons scroll the expected card in both LTR and RTL layouts.
+// ---
+
 import 'chrome://skills/carousel.js';
 
 import type {SkillsCarouselElement} from 'chrome://skills/carousel.js';

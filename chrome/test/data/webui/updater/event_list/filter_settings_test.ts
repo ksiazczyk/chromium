@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter settings unit tests
+// summary: Tests creation of default and empty updater filter settings and the filtering of updater history events by app, event type, outcome, scope and date.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {UpdaterProcessMap} from 'chrome://updater/event_history.js';
 import type {AppCommandStartEvent, InstallStartEvent, MergedUpdateEvent, MergedUpdaterProcessEvent, Scope, UninstallStartEvent, UpdateEndEvent, UpdateStartEvent} from 'chrome://updater/event_history.js';

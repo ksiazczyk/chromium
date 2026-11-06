@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills webview handshake boot helper
+// summary: Test client helper that listens for Chrome's handshake message and replies with an acknowledgement to establish the webview bridge.
+// ---
+
 import {SKILLS_HANDSHAKE_ACK, SKILLS_HANDSHAKE_TYPE} from 'chrome://skills/v2/skills_webview_bridge_constants.js';
 
 /**

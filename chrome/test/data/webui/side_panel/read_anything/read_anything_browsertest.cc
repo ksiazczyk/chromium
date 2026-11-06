@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything browser test harness
+// summary: C++ browser test harness that opens the Read Anything side panel and runs its mocha test suites in the untrusted WebUI with feature flags configured.
+// ---
+
 #include <vector>
 
 #include "base/test/scoped_feature_list.h"

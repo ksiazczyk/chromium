@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Unexportable keys internals WebUI tests build definition
+summary: GN build file that defines the build_webui_tests target for the unexportable keys internals page, wiring up the TypeScript and C++ test sources and dependencies.

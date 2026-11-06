@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything logger WebUI tests
+// summary: WebUI tests for the Read Anything logger, verifying metrics for speech controls, new pages, highlight granularity, voice language changes, and settings actions.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {ReadAnythingLogger} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

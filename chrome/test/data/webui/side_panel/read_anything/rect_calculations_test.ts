@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rect calculation tests
+// summary: WebUI tests for rect helpers such as isRectVisible, isRectMostlyVisible, text bounds and line pitch calculations used by the Read Anything panel.
+// ---
+
 import {calculateTextBounds, ContentBrowserProxyImpl, getLineForRect, getMostCommonPitch, getRectIndexAtY, isRectMostlyVisible, isRectVisible, MOSTLY_VISIBLE_PERCENT, VisualBrowserProxyImpl} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals, assertFalse, assertNull, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 

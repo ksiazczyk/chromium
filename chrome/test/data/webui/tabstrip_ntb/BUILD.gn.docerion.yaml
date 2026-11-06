@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tabstrip NTB WebUI tests build configuration
+summary: GN build file that defines the WebUI test targets, TypeScript path mappings and dependencies for the tabstrip NTB tests.

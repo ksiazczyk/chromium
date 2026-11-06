@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab search media tabs tests
+// summary: WebUI tests verifying selection and visibility behavior for media tabs in the tab search page using mocked API proxies and metrics reporting.
+// ---
+
 import {MetricsReporterImpl} from 'chrome://resources/js/metrics_reporter/metrics_reporter.js';
 import type {ProfileData, Tab, TabSearchPageElement} from 'chrome://tab-search.top-chrome/tab_search.js';
 import {SearchApiProxyImpl, TabAlertState, TabSearchApiProxyImpl} from 'chrome://tab-search.top-chrome/tab_search.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker main view WebUI tests
+// summary: WebUI tests for the profile picker main view, covering profile list rendering, navigation, policies, reordering, and profile removal via a test browser proxy.
+// ---
+
 import 'chrome://profile-picker/profile_picker.js';
 
 import type {ProfileCardElement, ProfilePickerMainViewElement, ProfileState} from 'chrome://profile-picker/profile_picker.js';

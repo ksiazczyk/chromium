@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for unexportable keys internals tests
+summary: DIR_METADATA file that inherits directory metadata from the signin COMMON_METADATA mixins.

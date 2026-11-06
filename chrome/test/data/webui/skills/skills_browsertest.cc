@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills WebUI browser test harness
+// summary: C++ browser tests that run the skills mocha suites with skills features and the V2 webview flag enabled.
+// ---
+
 #include <optional>
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media menu WebUI tests
+// summary: WebUI tests for the Read Anything media menu, covering images and links toggles, single event firing on clicks, and disabling toggles while speech is active.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {CrToggleElement} from '//resources/cr_elements/cr_toggle/cr_toggle.js';

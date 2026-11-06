@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price tracking section tests
+// summary: WebUI tests for the price tracking section of the shopping insights side panel, using mocked shopping service and price tracking handlers to verify rendering and behavior.
+// ---
+
 import 'chrome://shopping-insights-side-panel.top-chrome/app.js';
 
 import {browserProxyFactory as priceTrackingBrowserProxyFactory, PriceTrackingHandlerRemote} from 'chrome://resources/cr_components/commerce/price_tracking.mojom-webui.js';

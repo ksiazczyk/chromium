@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Word boundaries speech tests
+// summary: WebUI test suite checking how word boundary state is tracked and updated during Read Aloud speech playback, including pause and play toggles.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {AppElement, VoiceLanguageController, WordBoundaries, WordBoundaryState} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

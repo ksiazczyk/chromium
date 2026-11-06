@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile card menu WebUI tests
+// summary: WebUI tests for the profile card action menu in the profile picker, covering menu layout, HTML-escaping of profile names, and customize and delete actions.
+// ---
+
 import 'chrome://profile-picker/profile_picker.js';
 
 import type {ProfileCardMenuElement, ProfileState, Statistics, StatisticsResult} from 'chrome://profile-picker/profile_picker.js';

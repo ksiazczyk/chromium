@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentController tests
+// summary: WebUI tests covering ContentController state changes, empty state handling, listener notifications, and metrics logging.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import {ContentType, HIGHLIGHTED_LINK_CLASS, LOG_EMPTY_DELAY_MS, MIN_MS_TO_READ, previousReadHighlightClass, ReadAloudNode} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading List side panel WebUI browser test
+// summary: Browser test that loads the read later WebUI host and runs the reading list side panel Mocha test suite.
+// ---
+
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"
 #include "content/public/test/browser_test.h"

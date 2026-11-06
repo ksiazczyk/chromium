@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location bar high-contrast focus WebUI tests
+// summary: WebUI tests verifying location bar background and outline colors under high-contrast mode while focused, blurred, or during user input.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

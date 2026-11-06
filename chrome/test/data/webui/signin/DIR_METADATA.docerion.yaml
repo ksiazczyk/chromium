@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Signin tests directory metadata
+summary: Directory metadata file that points to the signin component's common metadata mixins.

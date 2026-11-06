@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome cards element WebUI tests
+// summary: Mocha suite for the cards section, checking module card creation, visibility, checkbox states, and settings updates with mocked handlers and metrics.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/cards.js';
 
 import type {ButtonLabelElement} from 'chrome://customize-chrome-side-panel.top-chrome/button_label.js';

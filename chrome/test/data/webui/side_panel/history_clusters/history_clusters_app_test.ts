@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters side panel app WebUI tests
+// summary: TypeScript test suite for the history-clusters-app element, covering search icon switching, the embeddings disclaimer link, and the embeddings results component with mocked browser proxies.
+// ---
+
 import 'chrome://history-clusters-side-panel.top-chrome/history_clusters.js';
 
 import type {HistoryClustersAppElement} from 'chrome://history-clusters-side-panel.top-chrome/history_clusters.js';

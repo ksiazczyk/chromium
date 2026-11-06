@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tab search test metadata
+summary: Points the directory metadata mixins to the tab search browser UI common metadata for ownership and review settings.

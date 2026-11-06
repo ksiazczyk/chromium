@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPH toolbar button WebUI tests
+// summary: WebUI tests verifying that toolbar buttons hide tooltips, pulse, and recolor their icons with the feature promo highlight color during in-product help.
+// ---
+
 import {assertEquals, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';
 import {AppMenuIconType, AppMenuSeverity, IconTable, IconType} from 'chrome://webui-toolbar.top-chrome/app.js';

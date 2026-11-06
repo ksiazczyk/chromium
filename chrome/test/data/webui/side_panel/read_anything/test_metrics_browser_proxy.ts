@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake metrics browser proxy for tests
+// summary: Test double implementing the metrics browser proxy to record and verify Reading Mode metric logging calls such as speech, settings and line focus events.
+// ---
+
 import type {MetricsBrowserProxy, ReadAloudSettingsChange, ReadAnythingMathMlDistillationStatus, ReadAnythingSettingsAction, ReadAnythingSettingsChange, ReadAnythingSpeechError, ReadAnythingVoiceType} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {TestBrowserProxy} from 'chrome-untrusted://webui-test/test_browser_proxy.js';
 

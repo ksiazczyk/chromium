@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test shopping service API proxy
+// summary: Test double implementing the shopping service handler interface, returning fake product and price insights data for use in WebUI tests.
+// ---
+
 import type {ProductInfo} from 'chrome://resources/cr_components/commerce/shared.mojom-webui.js';
 import type {PriceInsightsInfo, ShoppingServiceHandlerInterface} from 'chrome://resources/cr_components/commerce/shopping_service.mojom-webui.js';
 import {PriceInsightsInfo_PriceBucket} from 'chrome://resources/cr_components/commerce/shopping_service.mojom-webui.js';

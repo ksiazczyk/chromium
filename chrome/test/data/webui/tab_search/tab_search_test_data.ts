@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab search test data
+// summary: Shared sample data and factory functions for tab search tests, including tabs, windows, media tabs, and recently closed entries.
+// ---
+
 import type {Token} from 'chrome://resources/mojo/mojo/public/mojom/base/token.mojom-webui.js';
 import type {ProfileData, RecentlyClosedTab, Tab, Window} from 'chrome://tab-search.top-chrome/tab_search.js';
 import {TabAlertState} from 'chrome://tab-search.top-chrome/tab_search.js';

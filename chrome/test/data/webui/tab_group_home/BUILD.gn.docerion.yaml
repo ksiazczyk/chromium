@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab group home WebUI tests build definition
+summary: Defines the GN build target that assembles the tab group home WebUI mocha tests, listing the C++ and TypeScript test files with path mappings and dependencies.

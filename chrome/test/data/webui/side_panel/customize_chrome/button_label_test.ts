@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome button label element WebUI tests
+// summary: Mocha suite verifying that the button label element shows its text content and displays the label description when set.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/button_label.js';
 
 import type {ButtonLabelElement} from 'chrome://customize-chrome-side-panel.top-chrome/button_label.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Date dialog filter tests
+// summary: WebUI tests for the date filter dialog covering rendering, start and end datetime inputs, initial values, filter-change on apply and focus behavior.
+// ---
+
 import {DateDialogElement} from 'chrome://updater/event_list/filter_dialog/date_dialog.js';
 import {assertEquals, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';

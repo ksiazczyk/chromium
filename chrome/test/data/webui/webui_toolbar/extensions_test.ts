@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions toolbar tests
+// summary: WebUI tests for the toolbar extensions container, covering action execution, keyboard reordering with focus retention, and visibility updates.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Icon from table tests
+// summary: WebUI tests for the icon-from-table element, verifying rendering of icon set, mask URL, and full color URL icons with sizes and colors.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import type {CrIconElement} from 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

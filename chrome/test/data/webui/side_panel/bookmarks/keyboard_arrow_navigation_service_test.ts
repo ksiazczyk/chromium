@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard arrow navigation service tests
+// summary: WebUI unit tests verifying that the arrow key navigation service moves focus through bookmark rows and folders and rebuilds its navigation elements.
+// ---
+
 import {KeyArrowNavigationService} from 'chrome://bookmarks-side-panel.top-chrome/keyboard_arrow_navigation_service.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';
 import {assertArrayEquals, assertEquals} from 'chrome://webui-test/chai_assert.js';

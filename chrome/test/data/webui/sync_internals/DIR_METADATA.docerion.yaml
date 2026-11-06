@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sync internals test directory metadata
+summary: DIR_METADATA file that links this test directory to the sync component's common metadata via a mixin.

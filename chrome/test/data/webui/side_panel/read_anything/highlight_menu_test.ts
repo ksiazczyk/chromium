@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Highlight menu tests
+// summary: WebUI tests for the highlight menu covering the phrase highlighting flag, saved options, and programmatic closing.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {HighlightMenuElement} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

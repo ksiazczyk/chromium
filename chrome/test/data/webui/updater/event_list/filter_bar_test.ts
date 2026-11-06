@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter bar element WebUI tests
+// summary: Tests the updater filter bar element, covering filter chips, opening and closing the filter menu, and adding filters through the various dialogs.
+// ---
+
 import type {CrButtonElement} from '//resources/cr_elements/cr_button/cr_button.js';
 import type {CrCheckboxElement} from '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

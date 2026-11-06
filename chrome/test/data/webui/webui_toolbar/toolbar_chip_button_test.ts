@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar chip button WebUI tests
+// summary: Mocha tests for the toolbar-chip-button element, verifying ARIA attribute and tooltip forwarding, button role handling, and slot projection of prefix, suffix, and default content.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertEquals, assertFalse} from 'chrome://webui-test/chai_assert.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmarks tree view tests
+// summary: WebUI unit tests for the tree view of the power bookmarks side panel, covering nested folders, indentation margins, sorting, and list behavior.
+// ---
+
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_list.js';
 
 import {SortOrder, ViewType} from 'chrome://bookmarks-side-panel.top-chrome/bookmarks.mojom-webui.js';

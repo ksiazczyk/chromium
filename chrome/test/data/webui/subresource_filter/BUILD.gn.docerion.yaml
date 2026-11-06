@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Subresource filter WebUI tests build definition
+summary: GN build rule that assembles the WebUI Mocha tests for the subresource filter internals page, wiring in TypeScript dependencies and path mappings.

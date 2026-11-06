@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome hover button tests
+// summary: WebUI tests for the customize-chrome hover button, covering label and description propagation, Enter and Space key clicks, icon display, and focus transfer to the inner button.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/hover_button.js';
 
 import type {HoverButtonElement} from 'chrome://customize-chrome-side-panel.top-chrome/hover_button.js';

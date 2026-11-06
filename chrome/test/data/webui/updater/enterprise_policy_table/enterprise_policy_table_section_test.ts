@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise policy table section WebUI tests
+// summary: WebUI tests verifying that the enterprise-policy-table-section element renders policy rows, conflict icons, and expansion toggling correctly.
+// ---
+
 import 'chrome://updater/enterprise_policy_table/enterprise_policy_table_section.js';
 
 import type {EnterprisePolicyTableSectionElement, RowData} from 'chrome://updater/enterprise_policy_table/enterprise_policy_table_section.js';

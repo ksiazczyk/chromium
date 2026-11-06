@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Type dialog filter tests
+// summary: WebUI tests for the filter type dialog covering rendering of the category menu items, type-selection-changed events, focus and keyboard navigation.
+// ---
+
 import {FilterCategory} from 'chrome://updater/event_list/filter_bar.js';
 import {TypeDialogElement} from 'chrome://updater/event_list/filter_dialog/type_dialog.js';
 import {assertEquals, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

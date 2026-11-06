@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter dialog footer tests
+// summary: WebUI tests for the filter dialog footer element verifying rendering and that the cancel and apply buttons fire their click events.
+// ---
+
 import {FilterDialogFooterElement} from 'chrome://updater/event_list/filter_dialog/filter_dialog_footer.js';
 import {assertEquals, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {microtasksFinished} from 'chrome://webui-test/test_util.js';

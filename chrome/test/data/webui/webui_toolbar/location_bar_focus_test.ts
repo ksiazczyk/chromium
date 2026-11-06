@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Location bar focus WebUI tests
+// summary: WebUI tests checking location bar background colors and focus outline behavior when the omnibox is focused, blurred, or has user input in progress.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';

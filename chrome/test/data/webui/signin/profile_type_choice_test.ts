@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile type choice WebUI tests
+// summary: WebUI tests for the profile type choice element, verifying that back, sign-in, and not-now buttons are visible and sign-in promo impressions are recorded.
+// ---
+
 import 'chrome://profile-picker/lazy_load.js';
 
 import type {ProfileTypeChoiceElement} from 'chrome://profile-picker/lazy_load.js';

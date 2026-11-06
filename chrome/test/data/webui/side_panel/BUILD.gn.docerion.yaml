@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Side panel WebUI tests build file
+summary: GN build file that defines the WebUI test targets and TypeScript setup for the bookmarks, commerce, history clusters, and reading list side panels.

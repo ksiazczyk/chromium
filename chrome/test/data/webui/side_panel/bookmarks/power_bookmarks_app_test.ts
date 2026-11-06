@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmarks app tests
+// summary: WebUI unit tests for the power bookmarks side panel app, covering adding tabs and folders, list rendering, sorting, views, metrics, and price tracking UI.
+// ---
+
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_list.js';
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_app.js';
 

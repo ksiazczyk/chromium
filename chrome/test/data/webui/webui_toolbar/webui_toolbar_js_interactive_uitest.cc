@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar interactive UI focus tests
+// summary: Interactive browser tests that run focus-related toolbar mocha suites for the read-only omnibox and location bar, with a high-contrast variant using a mock OS settings provider.
+// ---
+
 #include "base/check.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/ui/ui_features.h"

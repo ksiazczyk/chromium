@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmarks labels tests
+// summary: WebUI unit tests for the tracked product label chips, covering label creation, active state persistence, icons, and disabled state.
+// ---
+
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_labels.js';
 
 import type {CrIconElement} from '//resources/cr_elements/cr_icon/cr_icon.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test power bookmarks delegate
+// summary: Test double for the power bookmarks delegate that records calls and returns stub product and bookmark data for WebUI tests.
+// ---
+
 import type {BookmarkProductInfo} from '//resources/cr_components/commerce/shared.mojom-webui.js';
 import type {BookmarksTreeNode} from 'chrome://bookmarks-side-panel.top-chrome/bookmarks.mojom-webui.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';

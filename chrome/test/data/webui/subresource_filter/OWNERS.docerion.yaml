@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for subresource filter WebUI tests
+summary: Owners file that delegates code review responsibility to the subresource filter component's OWNERS list.

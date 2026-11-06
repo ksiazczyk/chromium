@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab search focus browser test
+// summary: Browser test harness that runs the tab search page focus mocha suite, disabled on Mac due to flakiness.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/common/webui_url_constants.h"
 #include "chrome/test/base/web_ui_mocha_browser_test.h"

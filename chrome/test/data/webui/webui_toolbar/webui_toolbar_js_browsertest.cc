@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar JS browser test harness
+// summary: C++ browser test fixture that enables the WebUI toolbar features and runs the toolbar's mocha JS test suites, including reduced-motion variants and a Linux-disabled permission chip case.
+// ---
+
 #include "base/check.h"
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"

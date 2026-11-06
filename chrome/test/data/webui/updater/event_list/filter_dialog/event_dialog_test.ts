@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event dialog filter tests
+// summary: WebUI tests for the event type filter dialog covering rendering, common and other event checkboxes, initial selections, apply and cancel events, focus and keyboard navigation.
+// ---
+
 import type {CrCheckboxElement} from '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import {EventDialogElement} from 'chrome://updater/event_list/filter_dialog/event_dialog.js';
 import {assertEquals, assertGE, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

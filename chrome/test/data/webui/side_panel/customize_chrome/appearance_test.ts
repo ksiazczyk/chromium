@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome appearance element WebUI tests
+// summary: Mocha suite for the appearance section, covering edit theme events, classic Chrome theme buttons, and behavior across the various new tab page types.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/appearance.js';
 
 import type {AppearanceElement} from 'chrome://customize-chrome-side-panel.top-chrome/appearance.js';

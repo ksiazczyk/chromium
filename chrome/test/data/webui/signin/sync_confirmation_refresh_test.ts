@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Refreshed sync confirmation WebUI tests
+// summary: WebUI tests for the refreshed sync confirmation dialog, covering button clicks, spinner state, and consent string recording via a test browser proxy.
+// ---
+
 import 'chrome://sync-confirmation/sync_confirmation_app_refresh.js';
 
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';

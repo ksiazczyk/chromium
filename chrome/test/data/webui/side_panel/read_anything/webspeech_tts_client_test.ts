@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebSpeech TTS client tests
+// summary: WebUI test suite verifying the WebSpeechTtsClient's play, pause, stop and getVoices behavior, including filtering out network voices when local voices exist.
+// ---
+
 import {WebSpeechTtsClient} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals} from 'chrome-untrusted://webui-test/chai_assert.js';
 

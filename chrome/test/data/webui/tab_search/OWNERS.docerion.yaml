@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tab search test owners
+summary: Delegates ownership review for the tab search WebUI tests to the tab search resources OWNERS file.

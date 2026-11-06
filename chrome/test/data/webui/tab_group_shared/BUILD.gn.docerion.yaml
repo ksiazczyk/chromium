@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for tab_group_shared WebUI tests
+summary: GN build file that defines the WebUI test target wiring the TypeScript and C++ tab group tests together.

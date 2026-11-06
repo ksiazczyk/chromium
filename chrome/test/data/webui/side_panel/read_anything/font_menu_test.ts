@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font menu tests
+// summary: WebUI tests for the font menu element covering font list updates, selection, loading state, and menu closing.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {FontMenuElement} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

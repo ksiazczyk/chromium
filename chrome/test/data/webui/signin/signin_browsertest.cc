@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in WebUI mocha browser tests
+// summary: C++ browser test harness that runs sign-in related WebUI mocha suites, including sync confirmation, dice web sign-in intercept, profile customization, and managed user profile notice.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/first_run/first_run_features.h"

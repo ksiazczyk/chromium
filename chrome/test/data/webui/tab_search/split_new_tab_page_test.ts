@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split new tab page tests
+// summary: WebUI tests for the split view new tab page covering tab listing, tab counts and URL formatting.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import {getDeepActiveElement} from 'chrome://resources/js/util.js';
 import type {SplitNewTabPageAppElement, Tab} from 'chrome://tab-search.top-chrome/tab_search.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker app WebUI tests
+// summary: WebUI tests for the profile picker app element, covering main view navigation, the profile creation flow, and sign-in promo behavior with a test browser proxy.
+// ---
+
 import 'chrome://profile-picker/profile_picker.js';
 
 import type {ProfilePickerAppElement} from 'chrome://profile-picker/profile_picker.js';

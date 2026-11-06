@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmarks list header tests
+// summary: WebUI unit tests for the bookmarks list header, verifying that the sort menu closes when focus moves outside of it.
+// ---
+
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_list_header.js';
 
 import {SortOrder} from 'chrome://bookmarks-side-panel.top-chrome/bookmarks.mojom-webui.js';

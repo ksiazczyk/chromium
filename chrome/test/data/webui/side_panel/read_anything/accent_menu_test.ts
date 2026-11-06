@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accent menu WebUI tests
+// summary: Tests the accent menu's voice radio semantics, checkmarks, language selection events, and download or error notifications.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {AccentMenuElement} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

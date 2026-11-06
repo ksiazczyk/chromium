@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Speech presentation rules tests
+// summary: WebUI tests for speech presentation helpers, covering speech rate rounding and platform caps, word highlight validity and opening punctuation detection.
+// ---
+
 import {getCurrentSpeechRate, isInvalidHighlightForWordHighlighting, textEndsWithOpeningPunctuation} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals, assertFalse, assertNull, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 

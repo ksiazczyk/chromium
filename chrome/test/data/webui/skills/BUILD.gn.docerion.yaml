@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Skills WebUI test build definitions (BUILD.gn)
+summary: Defines GN targets that build the TypeScript test client and assemble the skills WebUI mocha test suites.

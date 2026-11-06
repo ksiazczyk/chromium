@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Read Anything WebUI tests build file
+summary: GN build definition that compiles the Read Anything side panel WebUI test suites with their TypeScript definitions, path mappings, and dependencies.

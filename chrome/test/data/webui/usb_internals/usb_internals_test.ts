@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB internals WebUI TypeScript tests
+// summary: TypeScript mocha tests for the USB internals WebUI page, using fake device manager and page handler implementations to exercise device enumeration and USB operations.
+// ---
+
 import 'chrome://resources/cr_elements/cr_tree/cr_tree.js';
 
 import type {CrTreeItemElement} from 'chrome://resources/cr_elements/cr_tree/cr_tree_item.js';

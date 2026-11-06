@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test sync confirmation browser proxy
+// summary: Test double for the sync confirmation browser proxy that records confirm, undo, settings, and account info calls in tests.
+// ---
+
 import type {ScreenMode, SyncConfirmationBrowserProxy} from 'chrome://sync-confirmation/sync_confirmation_browser_proxy.js';
 import {TestBrowserProxy} from 'chrome://webui-test/test_browser_proxy.js';
 

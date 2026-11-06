@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard navigation helper tests
+// summary: WebUI tests for the handleKeyboardNavigation helper verifying arrow key movement, wrap-around, Home and End jumps and that other keys are ignored.
+// ---
+
 import {handleKeyboardNavigation} from 'chrome://updater/event_list/filter_dialog/keyboard_navigation.js';
 import {assertEquals} from 'chrome://webui-test/chai_assert.js';
 

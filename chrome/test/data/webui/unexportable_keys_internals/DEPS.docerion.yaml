@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for unexportable keys tests
+summary: Chromium DEPS file allowing this test directory to include headers from components/unexportable_keys.

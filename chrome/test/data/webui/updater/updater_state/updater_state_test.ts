@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater state element tests
+// summary: WebUI tests for the updater-state element, checking that user, system, enterprise companion and combined states render the expected cards or the no-updater message.
+// ---
+
 import 'chrome://updater/updater_state/updater_state.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

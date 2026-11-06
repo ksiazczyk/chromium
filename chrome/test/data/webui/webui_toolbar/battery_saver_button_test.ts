@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery saver button tests
+// summary: WebUI tests for the battery saver toolbar button, verifying the context menu bubble, tooltip, tab order, and ARIA attributes.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

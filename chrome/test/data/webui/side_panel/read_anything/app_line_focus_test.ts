@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App line focus WebUI tests
+// summary: Tests line focus in the app, covering mouse listeners, padding updates on new content, and visibility only over content.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {AppElement, ContentController} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

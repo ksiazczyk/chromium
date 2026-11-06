@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Outcome dialog filter tests
+// summary: WebUI tests for the update outcome filter dialog covering rendering, outcome checkboxes, initial selections, filter-change on apply, focus and keyboard navigation.
+// ---
+
 import type {CrCheckboxElement} from '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import {OutcomeDialogElement} from 'chrome://updater/event_list/filter_dialog/outcome_dialog.js';
 import {assertEquals, assertNotEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';

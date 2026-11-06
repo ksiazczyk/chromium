@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome shortcuts tests
+// summary: WebUI tests for the Customize Chrome side panel shortcuts section, covering most visited settings, custom links, top sites, and enterprise shortcut options with mocked Mojo handlers.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/shortcuts.js';
 
 import {CustomizeChromeAction} from 'chrome://customize-chrome-side-panel.top-chrome/common.js';

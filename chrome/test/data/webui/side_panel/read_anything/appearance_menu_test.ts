@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Appearance menu WebUI tests
+// summary: Tests the appearance menu's theme and presentation selection, menu closing behavior, and forced-colors handling.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {AppearanceMenuElement} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

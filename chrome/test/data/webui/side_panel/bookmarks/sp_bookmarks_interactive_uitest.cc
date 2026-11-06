@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel bookmarks WebUI mocha browser tests
+// summary: C++ browser test harness that registers and runs the bookmarks side panel mocha test suites, disabling flaky cases on specific platforms.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

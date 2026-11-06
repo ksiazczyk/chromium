@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzy search tests
+// summary: Tests the tab search fuzzy search ranking, hostname matching and highlight ranges for open tabs and tab groups.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import type {ItemData, Range, SearchOptions} from 'chrome://tab-search.top-chrome/tab_search.js';
 import {getHostname, getTitle, search, TabData, TabItemType} from 'chrome://tab-search.top-chrome/tab_search.js';

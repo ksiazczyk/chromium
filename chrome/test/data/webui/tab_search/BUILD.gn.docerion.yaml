@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab search WebUI tests build definition
+summary: GN build configuration that assembles the C++ and TypeScript tab search WebUI test targets with their TypeScript dependencies and path mappings.

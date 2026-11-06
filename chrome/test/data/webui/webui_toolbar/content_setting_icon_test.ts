@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content setting icon tests
+// summary: WebUI tests for the content setting icon, covering ARIA labels, icon rendering, label animations, and collapse timing behavior.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import type {CrIconElement} from 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

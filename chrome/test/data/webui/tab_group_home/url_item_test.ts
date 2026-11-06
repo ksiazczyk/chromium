@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL item element tests
+// summary: Mocha tests checking that the url-item element renders its title and favicon and fires a close-button-click event carrying the item id when the close button is clicked.
+// ---
+
 import 'chrome://tab-group-home/url_item_grid/url_item.js';
 
 import {getFaviconForPageURL} from 'chrome://resources/js/icon.js';

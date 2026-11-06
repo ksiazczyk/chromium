@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrLazyIconset tests
+// summary: WebUI tests for the lazy iconset, verifying icon registration, application, removal, creation, and lazy evaluation caching.
+// ---
+
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';
 import {CrLazyIconset, getTrustedHTML, IconsetMap} from 'chrome://webui-toolbar.top-chrome/app.js';
 

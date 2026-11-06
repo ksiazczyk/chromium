@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync internals WebUI Mocha test suite
+// summary: TypeScript Mocha tests for the sync-internals WebUI page, using mock sync node data to check about info, search, and node browser behavior.
+// ---
+
 import type {CrTreeElement} from 'chrome://resources/cr_elements/cr_tree/cr_tree.js';
 import {webUIListenerCallback} from 'chrome://resources/js/cr.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';

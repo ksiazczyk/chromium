@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Speech WebUI tests for Read Anything
+// summary: WebUI test suite verifying speech playback in the Read Anything side panel, including spoken text, voice selection and speech controller behavior.
+// ---
+
 import 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 
 import type {AppElement} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebUI toolbar tests build definition
+summary: GN build file that defines the WebUI toolbar test targets, listing the TypeScript test files, browser tests, and build dependencies.

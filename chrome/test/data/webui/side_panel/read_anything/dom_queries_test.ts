@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DOM query helper tests
+// summary: WebUI tests for DOM query utilities such as getTextNodeOffsets and segment rect calculation.
+// ---
+
 import {getNearestTextBoundaryPoint, getRectsForSegments, getTextNodeOffsets, ReadAloudNode} from 'chrome-untrusted://read-anything-side-panel.top-chrome/read_anything.js';
 import {assertEquals, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customize Chrome categories element WebUI tests
+// summary: Mocha suite for the categories section, testing background collection listing, broken image replacement, and collection selection events.
+// ---
+
 import 'chrome://customize-chrome-side-panel.top-chrome/categories.js';
 
 import type {CategoriesElement} from 'chrome://customize-chrome-side-panel.top-chrome/categories.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for updater WebUI tests
+summary: GN build configuration defining the build_webui_tests target that lists the updater TypeScript test files, path mappings, and build dependencies.

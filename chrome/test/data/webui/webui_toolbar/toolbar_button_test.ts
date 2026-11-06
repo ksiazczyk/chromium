@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar button WebUI tests
+// summary: WebUI tests for toolbar button helpers, checking click and context menu source type detection, highlight tracking, and press handling.
+// ---
+
 import {isMac} from 'chrome://resources/js/platform.js';
 import {MenuSourceType} from 'chrome://resources/mojo/ui/base/mojom/menu_source_type.mojom-webui.js';
 import {assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

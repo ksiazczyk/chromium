@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Side panel WebUI tests OWNERS
+summary: Delegates ownership of the side panel WebUI test data directory to the side panel OWNERS file.

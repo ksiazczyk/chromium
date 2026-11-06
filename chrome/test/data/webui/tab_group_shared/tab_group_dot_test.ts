@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupDot WebUI tests
+// summary: Mocha test suite for the tab-group-dot element covering SVG rendering, size, fill, and color behavior.
+// ---
+
 import 'chrome://tab-search.top-chrome/strings.m.js';
 import 'chrome://tab-search.top-chrome/tab_group_shared/tab_group_dot.js';
 

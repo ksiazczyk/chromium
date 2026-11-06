@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar action mixin WebUI tests
+// summary: WebUI tests for the toolbar action mixin, verifying help bubble registration and unregistration, element tracking, and state-driven updates.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {CrLitElement, html} from '//resources/lit/v3_0/lit.rollup.js';

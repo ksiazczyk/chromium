@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for tabstrip_ntb tests
+summary: Specifies the allowed include rule permitting dependencies on the tab strip browser API components.

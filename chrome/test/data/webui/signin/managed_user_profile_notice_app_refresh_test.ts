@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed user profile notice app refresh tests
+// summary: WebUI tests for the refreshed managed user profile notice, covering proceed, cancel and state change behavior.
+// ---
+
 import 'chrome://managed-user-profile-notice/managed_user_profile_notice_app_refresh.js';
 
 import type {ManagedUserProfileNoticeAppRefreshElement} from 'chrome://managed-user-profile-notice/managed_user_profile_notice_app_refresh.js';

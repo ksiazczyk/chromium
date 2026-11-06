@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app internals utility tests
+// summary: WebUI mocha tests for the page's utility functions, covering getQuery hash parsing, filterToApp behavior, and app index entry generation.
+// ---
+
 import type {DebugData} from 'chrome://web-app-internals/web_app_internals_utils.js';
 import {debugDataJsonReplacer, filterToApp, getAppIndexEntries, getQuery} from 'chrome://web-app-internals/web_app_internals_utils.js';
 import {assertDeepEquals, assertEquals, assertFalse, assertTrue} from 'chrome://webui-test/chai_assert.js';

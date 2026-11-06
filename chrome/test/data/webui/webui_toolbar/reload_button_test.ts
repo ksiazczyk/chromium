@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reload button WebUI tests
+// summary: WebUI tests for the reload button, checking reload and stop-load calls, pointer handling, and ripple suppression when Glow Up animations are enabled.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

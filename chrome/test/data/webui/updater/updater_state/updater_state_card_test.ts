@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Updater state card tests
+// summary: WebUI tests for the updater-state-card element, covering rendering of scope, version, dates, install path and inactive versions, including missing optional values and directory-opening per scope.
+// ---
+
 import 'chrome://updater/updater_state/updater_state_card.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

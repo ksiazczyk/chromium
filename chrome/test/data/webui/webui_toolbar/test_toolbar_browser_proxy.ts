@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test toolbar browser proxy for WebUI toolbar tests
+// summary: Test double implementing the toolbar UI service interface, used by WebUI toolbar tests to record handler calls and stub browser proxy responses.
+// ---
+
 import type {String16} from 'chrome://resources/mojo/mojo/public/mojom/base/string16.mojom-webui.js';
 import type {DragEventSource} from 'chrome://resources/mojo/ui/base/dragdrop/mojom/drag_drop_types.mojom-webui.js';
 import type {MenuSourceType} from 'chrome://resources/mojo/ui/base/mojom/menu_source_type.mojom-webui.js';

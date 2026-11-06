@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions section WebUI tests
+// summary: Mocha tests verifying the extensions section element's default header visibility and the expandable list of account extensions.
+// ---
+
 import 'chrome://signout-confirmation/signout_confirmation.js';
 
 import type {ExtensionsSectionElement} from 'chrome://signout-confirmation/signout_confirmation.js';

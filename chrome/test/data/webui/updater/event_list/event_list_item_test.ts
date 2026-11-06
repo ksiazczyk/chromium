@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event list item element WebUI tests
+// summary: Tests the updater event-list-item element, verifying rendering of merged install, uninstall, qualify and other updater history events.
+// ---
+
 import 'chrome://updater/event_list/event_list_item.js';
 import 'chrome://updater/enterprise_policy_table/enterprise_policy_table.js';
 

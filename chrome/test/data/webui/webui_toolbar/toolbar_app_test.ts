@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar app WebUI tests
+// summary: WebUI tests for the toolbar app element, exercising browser proxy binding, toolbar state listeners, help bubble handling, and chip interactions.
+// ---
+
 import 'chrome://webui-toolbar.top-chrome/app.js';
 
 import {browserProxyFactory} from 'chrome://resources/cr_components/help_bubble/help_bubble.mojom-webui.js';

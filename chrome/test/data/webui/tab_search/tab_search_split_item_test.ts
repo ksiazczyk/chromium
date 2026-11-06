@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab search split item tests
+// summary: WebUI tests for the tab-search-split-item element covering side-by-side and stacked layout rendering, domain extraction, and group details.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 import type {TabSearchSplitItemElement} from 'chrome://tab-search.top-chrome/tab_search.js';
 import {SplitTabLayout, SplitViewData, TabGroupColor} from 'chrome://tab-search.top-chrome/tab_search.js';

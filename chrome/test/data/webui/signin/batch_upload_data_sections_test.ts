@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Batch upload data sections tests
+// summary: WebUI tests for the batch upload data section element, covering item selection, section titles and expand behavior.
+// ---
+
 import 'chrome://batch-upload/batch_upload.js';
 
 import type {CrCheckboxElement} from '//resources/cr_elements/cr_checkbox/cr_checkbox.js';

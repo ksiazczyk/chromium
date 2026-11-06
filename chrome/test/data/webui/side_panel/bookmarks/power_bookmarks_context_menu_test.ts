@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power bookmarks context menu tests
+// summary: WebUI unit tests for the bookmarks side panel context menu, checking open-in actions, edit, move, and price tracking menu items.
+// ---
+
 import 'chrome://bookmarks-side-panel.top-chrome/power_bookmarks_context_menu.js';
 
 import type {BookmarksTreeNode} from 'chrome://bookmarks-side-panel.top-chrome/bookmarks.mojom-webui.js';
